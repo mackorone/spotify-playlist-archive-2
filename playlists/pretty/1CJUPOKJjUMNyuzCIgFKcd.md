@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,140 likes - 42 songs - 1 hr 54 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,139 likes - 42 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 20 | [Pretty \(feat\. Lil Yee\)](https://open.spotify.com/track/4kqytEv5y0VaSw6xCi7Yf8) | [1 Umbrella](https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [1 Umbrella](https://open.spotify.com/album/6D1sKLmOx3I9fJDteJaety) | 3:33 |
 | 21 | [Visions](https://open.spotify.com/track/1NkgJ5U5Rb46t34Io9OGaJ) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Visions](https://open.spotify.com/album/2FWrzqmke6PXcX2QhmRdg2) | 2:44 |
 | 22 | [Fake Jeezy](https://open.spotify.com/track/5LJ6CVeQyUve7oOrRpwO8x) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Fake Jeezy](https://open.spotify.com/album/5kTFAxmZ6wNljlyAkXvSYC) | 2:40 |
-| 23 | [MY HEALER](https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [MY HEALER](https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ) | 2:37 |
+| 23 | [MY HEALER](https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [MY HEALER](https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ) | 2:37 |
 | 24 | [Good Day to be in Harlem](https://open.spotify.com/track/4aVHW1WbbEzNoBjHSupgzk) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa) | [Summer League Series, Vol\. 1](https://open.spotify.com/album/4AyVAS1Bi5KkUCvlDPlhgD) | 2:52 |
 | 25 | [Once I Say](https://open.spotify.com/track/4nPXIVzRK8ov667r7O7Rrr) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [PASSION](https://open.spotify.com/album/4iV6PGdhtgbZqYeoxl8YBy) | 3:21 |
 | 26 | [\#DIRTY](https://open.spotify.com/track/2YFwdFWoZp0qk1p2If6yMQ) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#DIRTY](https://open.spotify.com/album/0gTrDxWnyEfu9wG0vHhsmk) | 2:04 |

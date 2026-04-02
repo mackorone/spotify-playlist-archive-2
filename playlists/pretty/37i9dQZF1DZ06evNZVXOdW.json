@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9470,
+  "num_followers": 9471,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acm9AAAAAADsByxsrFfI489W6IhuWSH+",
+  "snapshot_id": "acsOgAAAAACCnKdxxFy0LwCqFuTZvWTJ",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulture Prince (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WH2ttzuKMSlxtfA7PQw8S"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Anoushka Shankar",
-          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
-        }
-      ],
-      "duration_ms": 303361,
-      "name": "Udhero Na feat. Anoushka Shankar",
-      "url": "https://open.spotify.com/track/2hFN5GkZ1CNZNRp1tFYWqW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freedom Now",
         "url": "https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 224996,
       "name": "Freedom Now",
       "url": "https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vulture Prince (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1WH2ttzuKMSlxtfA7PQw8S"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "duration_ms": 303361,
+      "name": "Udhero Na feat. Anoushka Shankar",
+      "url": "https://open.spotify.com/track/2hFN5GkZ1CNZNRp1tFYWqW"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 245787,
-      "name": "Not Your Usual Night",
-      "url": "https://open.spotify.com/track/4GmOX4FuzC2lRAezV21V7G"
+      "duration_ms": 410467,
+      "name": "Rainy Streets",
+      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 410467,
-      "name": "Rainy Streets",
-      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
+      "duration_ms": 245787,
+      "name": "Not Your Usual Night",
+      "url": "https://open.spotify.com/track/4GmOX4FuzC2lRAezV21V7G"
     },
     {
       "added_at": null,

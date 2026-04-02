@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Isaia Huron
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,302 likes - 250 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,278 likes - 250 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 5 | [Waiting Room \(feat\. Jordan Ward\)](https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Waiting Room \(feat\. Jordan Ward\)](https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK) | 3:21 |
 | 6 | [True 2 Me](https://open.spotify.com/track/42eUx35cp7oi3fGM8WAzF1) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Soundtrack 2 Get Her Back](https://open.spotify.com/album/5XaX9juZsbuhbK3JcgKJZE) | 2:51 |
 | 7 | [PERFECT](https://open.spotify.com/track/2svxlCX3BqS2OuRWcxHhMJ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Jigi Jigi Vol\. 2](https://open.spotify.com/album/3JJdqNu2sTAZhtv4hyrqwi) | 3:06 |
-| 8 | [Shame \(feat\. BunnaB\)](https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Shame \(feat\. BunnaB\)](https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG) | 3:02 |
+| 8 | [Shame](https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Shame](https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG) | 3:02 |
 | 9 | [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 |
 | 10 | [He's Not All That](https://open.spotify.com/track/01HKbGG3qQdMsTQav30R9z) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [He's Not All That](https://open.spotify.com/album/5ox7vc3X9DRBZb8r9IiOta) | 2:08 |
 | 11 | [Love Like This \(Flip\)](https://open.spotify.com/track/7gsLXpZ0Vm2Lchjkr6uSRH) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Love Like This \(Flip\)](https://open.spotify.com/album/59tKmm4a0RBcUYErdFZJ9g) | 3:48 |

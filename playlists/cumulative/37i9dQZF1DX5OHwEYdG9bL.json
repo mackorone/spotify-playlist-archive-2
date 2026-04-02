@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/0pEgqcP3SuI4xfMciW4Wf8"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229683,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/5lHPZtFxKQUYcyj978Zr8R"
+    },
+    {
+      "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/1X1ez8izXta4OsubqpMoA8"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229683,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/6GglPDAGjgX3PzbA7VrTVN"
+    },
+    {
+      "album": {
         "name": "96ers",
         "url": "https://open.spotify.com/album/2SJPyeGSD1fJXINbkufRu9"
       },
@@ -3072,6 +3108,24 @@
       "duration_ms": 236766,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa"
+    },
+    {
+      "album": {
+        "name": "SWIM (Live at Pier 17) | Presented by Spotify",
+        "url": "https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162163,
+      "name": "SWIM (Live at Pier 17) | Presented by Spotify",
+      "url": "https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH"
     },
     {
       "album": {

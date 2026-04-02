@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Alright, Still",
+        "url": "https://open.spotify.com/album/45hzatvfEcADFQx8ENl4vs"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237746,
+      "name": "Friend of Mine",
+      "url": "https://open.spotify.com/track/18MAFxiMPPFy4PCLVsKsl7"
+    },
+    {
+      "album": {
         "name": "Alright, Still (Deluxe)",
         "url": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 44 songs - 2 hr 46 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 45 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 42 | [Dumb Girls](https://open.spotify.com/track/6nNp16Zb7uk0egfT8yKOiB) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.2](https://open.spotify.com/album/4tQHF7O8XhCyQEKGvtvCMQ) | 2:55 |
 | 43 | [Almost there](https://open.spotify.com/track/7B3KxH2EVuSkdRM97N7nqm) | [Elaisa Mancini](https://open.spotify.com/artist/54nSWwT0f9C4TYbN1SxUBr) | [Almost there](https://open.spotify.com/album/5dKD5QCVTHAqfLdt2mjunh) | 3:42 |
 | 44 | [Game On](https://open.spotify.com/track/2aWcot6GOxqs1heiljf4Ca) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Game On](https://open.spotify.com/album/3B3LMDVoV0Mf19fGqNcicH) | 2:26 |
+| 45 | [People's Game \- Riky Dainesi Remix](https://open.spotify.com/track/3cM78eVwhptGKn4fZYJzaC) | [B3NNY R](https://open.spotify.com/artist/746FzmylKASljW5r63AKkP), [Riky Dainesi](https://open.spotify.com/artist/0PaqLD8MGoPEYcdJL0sB0L) | [People's Game \(Riky Dainesi Remix\)](https://open.spotify.com/album/7eb9XnMUrBLmj4qJETUJhu) | 3:15 |
 
-Snapshot ID: `AAAkH0X9/honlOkp3psEk42EohlEAmsu`
+Snapshot ID: `AAAkIBq5cTEGyEXRKf0ZhzN0wrxadaJ9`

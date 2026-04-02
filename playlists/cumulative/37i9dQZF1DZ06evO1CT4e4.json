@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
+        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Die 12 Cellisten der Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/3YZqGxNBOlhhAETu2LrNB7"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 709666,
+      "name": "Fratres (Version for 12 Cellos) - For 12 Celli",
+      "url": "https://open.spotify.com/track/3yb6Pn8xeTANmqTPTHpwRI"
+    },
+    {
+      "album": {
         "name": "Arvo P\u00e4rt: Fratres",
         "url": "https://open.spotify.com/album/7IIbRzKOYUk5saQx3w0Jb7"
       },
@@ -1868,7 +1890,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 330357,
       "name": "Summa",
       "url": "https://open.spotify.com/track/5TeXJKyo0LtmAUoXMPJGgT"

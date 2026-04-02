@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. Cover: XXJUL\u00cdA ",
-  "num_followers": 1964,
+  "num_followers": 1961,
   "original_name": "Popronde 2025",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
+        "name": "vissenkom",
+        "url": "https://open.spotify.com/album/50qksUVit3aLwaIIHFNYFV"
+      },
+      "artists": [
+        {
+          "name": "LOE.",
+          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
+        }
+      ],
+      "duration_ms": 220452,
+      "name": "vissenkom",
+      "url": "https://open.spotify.com/track/2T73IUQJhlsn6kYqPzyev7"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
         "name": "Simpel",
         "url": "https://open.spotify.com/album/6TYk8noeUSvU8vPQTos0ky"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 285263,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/1dXuxe3An6KGPlItvzPSKw"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "vissenkom",
-        "url": "https://open.spotify.com/album/50qksUVit3aLwaIIHFNYFV"
-      },
-      "artists": [
-        {
-          "name": "LOE.",
-          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
-        }
-      ],
-      "duration_ms": 220452,
-      "name": "vissenkom",
-      "url": "https://open.spotify.com/track/2T73IUQJhlsn6kYqPzyev7"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "troubadour",
-        "url": "https://open.spotify.com/album/0BlyYPekEGbCv5RKp4Jwhi"
-      },
-      "artists": [
-        {
-          "name": "damy",
-          "url": "https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "troubadour",
-      "url": "https://open.spotify.com/track/1fL4Tv0ntJcRwLpYnJL67V"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Dans la nuit",
         "url": "https://open.spotify.com/album/1odIZMVjPJDgh0p1HhfpZI"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 190248,
       "name": "Dans la nuit",
       "url": "https://open.spotify.com/track/5qeeSzrCSooIvk7SBfLC6A"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "troubadour",
+        "url": "https://open.spotify.com/album/0BlyYPekEGbCv5RKp4Jwhi"
+      },
+      "artists": [
+        {
+          "name": "damy",
+          "url": "https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "troubadour",
+      "url": "https://open.spotify.com/track/1fL4Tv0ntJcRwLpYnJL67V"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/6gSDIkV4dlmwk05OYvbpjp"
-      },
-      "artists": [
-        {
-          "name": "Rockpool Dramas",
-          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/3jtewako7fIW5bdf3nCUGi"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "bubble",
         "url": "https://open.spotify.com/album/764nFclQjC7BFAZZjVPNK9"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 186612,
       "name": "bubble",
       "url": "https://open.spotify.com/track/1qfO88TpTtHIsY8pNidXF2"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/6gSDIkV4dlmwk05OYvbpjp"
+      },
+      "artists": [
+        {
+          "name": "Rockpool Dramas",
+          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/3jtewako7fIW5bdf3nCUGi"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "In Love Again (The ABC Way)",
-        "url": "https://open.spotify.com/album/4aDRZiu65An6Ztka8vp2EP"
-      },
-      "artists": [
-        {
-          "name": "MAYA MARIA",
-          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "In Love Again (The ABC Way)",
-      "url": "https://open.spotify.com/track/3n2xdrh8ncMunxXtYjbAsS"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "PICTURE PERFECT",
         "url": "https://open.spotify.com/album/6uwAmMJ4xRanLbu37BTkEO"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Metaphor",
-        "url": "https://open.spotify.com/album/6nkNsqeclDEQ5iHbyjL9j5"
+        "name": "In Love Again (The ABC Way)",
+        "url": "https://open.spotify.com/album/4aDRZiu65An6Ztka8vp2EP"
       },
       "artists": [
         {
-          "name": "Rockpool Dramas",
-          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
+          "name": "MAYA MARIA",
+          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Metaphor",
-      "url": "https://open.spotify.com/track/0bOLYkauum1DwqHTQKyncC"
+      "duration_ms": 219160,
+      "name": "In Love Again (The ABC Way)",
+      "url": "https://open.spotify.com/track/3n2xdrh8ncMunxXtYjbAsS"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1227,6 +1211,22 @@
       "duration_ms": 188114,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/6Gw0b1gHF7Q0868haihE6T"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Metaphor",
+        "url": "https://open.spotify.com/album/6nkNsqeclDEQ5iHbyjL9j5"
+      },
+      "artists": [
+        {
+          "name": "Rockpool Dramas",
+          "url": "https://open.spotify.com/artist/3uZMFvfckgENxqH3AzHbMq"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Metaphor",
+      "url": "https://open.spotify.com/track/0bOLYkauum1DwqHTQKyncC"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
+        "name": "Insurrecci\u200b\u00f3\u200bn de los Incontentables",
+        "url": "https://open.spotify.com/album/2R098kap4WCtwKhkr5VJiq"
+      },
+      "artists": [
+        {
+          "name": "Karnabahar",
+          "url": "https://open.spotify.com/artist/5OHL4KH5rSYYESINdMXaDt"
+        }
+      ],
+      "duration_ms": 153583,
+      "name": "\u00c7\u0131kmaz",
+      "url": "https://open.spotify.com/track/2uNKzvaqXIcSFROPVlJ3ez"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
         "name": "Best Of You",
         "url": "https://open.spotify.com/album/6m0TUbG4smeIIud4CxRROT"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "Insurrecci\u200b\u00f3\u200bn de los Incontentables",
-        "url": "https://open.spotify.com/album/2R098kap4WCtwKhkr5VJiq"
-      },
-      "artists": [
-        {
-          "name": "Karnabahar",
-          "url": "https://open.spotify.com/artist/5OHL4KH5rSYYESINdMXaDt"
-        }
-      ],
-      "duration_ms": 153583,
-      "name": "\u00c7\u0131kmaz",
-      "url": "https://open.spotify.com/track/2uNKzvaqXIcSFROPVlJ3ez"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Stampij",
         "url": "https://open.spotify.com/album/0fmZFEPTDvGEVxE1xIIQXR"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 310866,
       "name": "Stampij",
       "url": "https://open.spotify.com/track/6ds6wPSpV7XcQVxW9cR6Sk"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "Learning To Live Without You",
-        "url": "https://open.spotify.com/album/0CEhKsVuC0OHKHXopt3tSt"
-      },
-      "artists": [
-        {
-          "name": "Nora Carli",
-          "url": "https://open.spotify.com/artist/3DVenYJsjxKNnWNIlA7whD"
-        }
-      ],
-      "duration_ms": 203624,
-      "name": "Learning To Live Without You",
-      "url": "https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
+        "name": "Learning To Live Without You",
+        "url": "https://open.spotify.com/album/0CEhKsVuC0OHKHXopt3tSt"
+      },
+      "artists": [
+        {
+          "name": "Nora Carli",
+          "url": "https://open.spotify.com/artist/3DVenYJsjxKNnWNIlA7whD"
+        }
+      ],
+      "duration_ms": 203624,
+      "name": "Learning To Live Without You",
+      "url": "https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
         "name": "EIGEN RISICO 3",
         "url": "https://open.spotify.com/album/3elHSIIOjgCb8mYc3yZO65"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-11-28 18:02:04",
       "album": {
-        "name": "The Immortal Gerard",
-        "url": "https://open.spotify.com/album/7BAh6QkxTBK8vY6JepR17J"
-      },
-      "artists": [
-        {
-          "name": "Baba Pen & The Bim Bam Band",
-          "url": "https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "The Immortal Gerard",
-      "url": "https://open.spotify.com/track/0L9h6PM0vMWpHThUpiK55z"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
         "name": "Moulin Rouge",
         "url": "https://open.spotify.com/album/7cgmxqOGmwDcq3ZObG54ys"
       },
@@ -1443,22 +1427,6 @@
       "duration_ms": 191196,
       "name": "Moulin Rouge",
       "url": "https://open.spotify.com/track/0D11Vc6CZpEaPo4Fgj7BSJ"
-    },
-    {
-      "added_at": "2025-11-28 18:02:04",
-      "album": {
-        "name": "Vallen Pt. I",
-        "url": "https://open.spotify.com/album/1fZcCvaGUMYyBXYjlGFX4k"
-      },
-      "artists": [
-        {
-          "name": "Joram Feitsma",
-          "url": "https://open.spotify.com/artist/51CfbHl45dy3Q7wIBGtWeu"
-        }
-      ],
-      "duration_ms": 229570,
-      "name": "Vallen Pt. I",
-      "url": "https://open.spotify.com/track/1nK8XXd0789U15xiumSKRj"
     },
     {
       "added_at": "2025-11-28 18:02:04",
@@ -1491,6 +1459,38 @@
       "duration_ms": 278208,
       "name": "FIG. 1",
       "url": "https://open.spotify.com/track/6ICmQGDSTamENZuRIZ4mHK"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "The Immortal Gerard",
+        "url": "https://open.spotify.com/album/7BAh6QkxTBK8vY6JepR17J"
+      },
+      "artists": [
+        {
+          "name": "Baba Pen & The Bim Bam Band",
+          "url": "https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "The Immortal Gerard",
+      "url": "https://open.spotify.com/track/0L9h6PM0vMWpHThUpiK55z"
+    },
+    {
+      "added_at": "2025-11-28 18:02:04",
+      "album": {
+        "name": "Vallen Pt. I",
+        "url": "https://open.spotify.com/album/1fZcCvaGUMYyBXYjlGFX4k"
+      },
+      "artists": [
+        {
+          "name": "Joram Feitsma",
+          "url": "https://open.spotify.com/artist/51CfbHl45dy3Q7wIBGtWeu"
+        }
+      ],
+      "duration_ms": 229570,
+      "name": "Vallen Pt. I",
+      "url": "https://open.spotify.com/track/1nK8XXd0789U15xiumSKRj"
     },
     {
       "added_at": "2025-11-28 18:02:04",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,866 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,874 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mor \- From "Rabb Da Radio 3"](https://open.spotify.com/track/1NjIFIs06c32eTE2XkvGVF) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Mor \(From "Rabb Da Radio 3"\)](https://open.spotify.com/album/3sKeSGiXnHOIpRtAT5A7Lc) | 3:17 |
-| 2 | [Dilbarjaani](https://open.spotify.com/track/4JLeJGu9ffu7RuPNN50w3K) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Dilbarjaani](https://open.spotify.com/album/1TZLc2GjL9ENVGtFGzUcUQ) | 2:51 |
+| 2 | [Changa Hunda](https://open.spotify.com/track/6L3ezy8fhDzOuTckbv0W01) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Gold Boy](https://open.spotify.com/artist/6TyygtEKx5VVlq0Elbi0KV), [Samandeep Singh](https://open.spotify.com/artist/4NMW9sct0kNjRP7yIbOWoH) | [Changa Hunda](https://open.spotify.com/album/7oiUE7dp0vjyEiNF5NzSLQ) | 3:25 |
 | 3 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
 | 4 | [Izhaar](https://open.spotify.com/track/0x95xGt3EZ5ImFezGDaT98) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Izhaar](https://open.spotify.com/album/4f791PWNLy1DQhyKjNhbLZ) | 2:46 |
 | 5 | [Heer](https://open.spotify.com/track/1q6GSeRQ6HD9c3QDpMBt43) | [Sifat Dhillon](https://open.spotify.com/artist/3K7jwOEv0p7Uci0NhZXugC), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d), [Sacch](https://open.spotify.com/artist/3mMQZBDM4kDp3PGpVxbXz8), [Freak singh](https://open.spotify.com/artist/4TP5x2vBuTodGUHXr8sPUv) | [Heer](https://open.spotify.com/album/1MUKBfwl0XNLKDAkYmPTWm) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Ammiye](https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:40 |
 | 50 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 |
 
-Snapshot ID: `AAAAAI8RQrYVQT0wMF0N9AJebhc/eG/q`
+Snapshot ID: `AAAAAPfmAl0FythwBOlT4xrf8Jtda3Bq`

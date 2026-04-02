@@ -1,13 +1,45 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lamb. Artwork by Paola Saliby",
-  "num_followers": 238905,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Maya Engen. Artwork by Paola Saliby",
+  "num_followers": 239102,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGAeUm0wvJp7SpYbwLJCkqwOOWet",
+  "snapshot_id": "AAAAAIrIGYIg6zDdXCxmg08h3EiMjFLL",
   "tracks": [
+    {
+      "added_at": "2026-04-01 04:00:18",
+      "album": {
+        "name": "Jade",
+        "url": "https://open.spotify.com/album/2KIhBAxa9FMbVn9PToW2p0"
+      },
+      "artists": [
+        {
+          "name": "Maya Engen",
+          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
+        }
+      ],
+      "duration_ms": 244007,
+      "name": "Jade",
+      "url": "https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z"
+    },
+    {
+      "added_at": "2026-03-04 05:00:33",
+      "album": {
+        "name": "Aren't You Curious?",
+        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
+      },
+      "artists": [
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
+    },
     {
       "added_at": "2026-03-25 04:00:19",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 147640,
       "name": "Fort",
       "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
+    },
+    {
+      "added_at": "2026-04-01 04:00:18",
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR"
+      },
+      "artists": [
+        {
+          "name": "Sofia D'Angelo",
+          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk"
     },
     {
       "added_at": "2026-03-25 04:00:19",
@@ -41,20 +89,20 @@
       "url": "https://open.spotify.com/track/6lxqJv00CG2e30NEYRuCAC"
     },
     {
-      "added_at": "2026-03-25 04:00:19",
+      "added_at": "2026-04-01 04:00:18",
       "album": {
-        "name": "Architect",
-        "url": "https://open.spotify.com/album/07MeVjl4A0hlnZmmzffnk5"
+        "name": "Ladder",
+        "url": "https://open.spotify.com/album/4v1tuyoBHh0F60UbAo7NcZ"
       },
       "artists": [
         {
-          "name": "Ryann Barnes",
-          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
+          "name": "Sky Li",
+          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
         }
       ],
-      "duration_ms": 163198,
-      "name": "Architect",
-      "url": "https://open.spotify.com/track/2P8aktHcNf8AD9LwLFUj3g"
+      "duration_ms": 194895,
+      "name": "Ladder",
+      "url": "https://open.spotify.com/track/3vRVeGYoJGYSkbka121cx2"
     },
     {
       "added_at": "2026-03-25 04:00:19",
@@ -71,6 +119,86 @@
       "duration_ms": 160020,
       "name": "Is It Fun Or Is It Over?",
       "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
+    },
+    {
+      "added_at": "2026-04-01 04:00:18",
+      "album": {
+        "name": "Here Comes Trouble",
+        "url": "https://open.spotify.com/album/1314pzc9jjXGqxlNERn1Cf"
+      },
+      "artists": [
+        {
+          "name": "Samaera",
+          "url": "https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG"
+        }
+      ],
+      "duration_ms": 217182,
+      "name": "Here Comes Trouble",
+      "url": "https://open.spotify.com/track/09PEDl4c5eTMurEy3D8UBf"
+    },
+    {
+      "added_at": "2026-04-01 04:00:18",
+      "album": {
+        "name": "THE BEGINNING OF THE END",
+        "url": "https://open.spotify.com/album/2C8hrvBKGBPREteZi1e02q"
+      },
+      "artists": [
+        {
+          "name": "NIQI",
+          "url": "https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR"
+        }
+      ],
+      "duration_ms": 199730,
+      "name": "THE BEGINNING OF THE END",
+      "url": "https://open.spotify.com/track/1KRqSqWl2uKEgSC0PzRMBV"
+    },
+    {
+      "added_at": "2026-04-01 04:00:18",
+      "album": {
+        "name": "E2E",
+        "url": "https://open.spotify.com/album/31tmdkhoxjChUpoe6x4wsd"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 156067,
+      "name": "HANDS",
+      "url": "https://open.spotify.com/track/6LERtOJrTXTKq5J391pDLA"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0XsXNu1alb2oWNzN96sDpW"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif"
+    },
+    {
+      "added_at": "2026-03-25 04:00:19",
+      "album": {
+        "name": "Architect",
+        "url": "https://open.spotify.com/album/07MeVjl4A0hlnZmmzffnk5"
+      },
+      "artists": [
+        {
+          "name": "Ryann Barnes",
+          "url": "https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q"
+        }
+      ],
+      "duration_ms": 163198,
+      "name": "Architect",
+      "url": "https://open.spotify.com/track/2P8aktHcNf8AD9LwLFUj3g"
     },
     {
       "added_at": "2026-03-25 04:00:19",
@@ -103,22 +231,6 @@
       "duration_ms": 128445,
       "name": "BUTTERF-LIES",
       "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
-    },
-    {
-      "added_at": "2026-03-25 04:00:19",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/0XsXNu1alb2oWNzN96sDpW"
-      },
-      "artists": [
-        {
-          "name": "Talia Rae",
-          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif"
     },
     {
       "added_at": "2026-03-25 04:00:19",
@@ -555,22 +667,6 @@
     {
       "added_at": "2026-03-04 05:00:33",
       "album": {
-        "name": "Aren't You Curious?",
-        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
-      },
-      "artists": [
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 184294,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
-    },
-    {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
         "name": "First Night of My Life",
         "url": "https://open.spotify.com/album/1Tobr8qTjJ1APhKpEj90lb"
       },
@@ -583,22 +679,6 @@
       "duration_ms": 184941,
       "name": "First Night of My Life",
       "url": "https://open.spotify.com/track/1Ii1Yq2CpoRkP9elQsUpl2"
-    },
-    {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/4RLU9EBKgeFBgBEERtnU8x"
-      },
-      "artists": [
-        {
-          "name": "Maya Engen",
-          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
-        }
-      ],
-      "duration_ms": 240265,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/2YbCm17UJVAahRBYpliQr8"
     },
     {
       "added_at": "2026-03-04 05:00:33",
@@ -1017,38 +1097,6 @@
       "url": "https://open.spotify.com/track/2iTqogAQJ5Oprtkn1SxkS4"
     },
     {
-      "added_at": "2026-01-28 15:08:44",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/3UezsvZOCyGkCzZrJ4OAUb"
-      },
-      "artists": [
-        {
-          "name": "Sadie Fine",
-          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
-        }
-      ],
-      "duration_ms": 192662,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/5grvZwzUi8UUPqkNdUfCq2"
-    },
-    {
-      "added_at": "2026-01-16 05:00:46",
-      "album": {
-        "name": "Girlhood",
-        "url": "https://open.spotify.com/album/1zlKt7hDXM22NMHaQxmLR4"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Hannelius",
-          "url": "https://open.spotify.com/artist/2DRYqgmWzJJJmVl35DZgE7"
-        }
-      ],
-      "duration_ms": 223342,
-      "name": "The Woods",
-      "url": "https://open.spotify.com/track/1i9XzNxzwGVCNLlDixZYQp"
-    },
-    {
       "added_at": "2026-01-21 15:37:08",
       "album": {
         "name": "Belly Laugh",
@@ -1099,38 +1147,6 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "still be friends",
-        "url": "https://open.spotify.com/album/2ARfFTRWvTq8WzKHquyMjU"
-      },
-      "artists": [
-        {
-          "name": "Ben Ellis",
-          "url": "https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8"
-        }
-      ],
-      "duration_ms": 176987,
-      "name": "still be friends",
-      "url": "https://open.spotify.com/track/0pXfzBjkfflxV8C4yaX2x1"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Happyland",
-        "url": "https://open.spotify.com/album/58grAOX8T0QafdrapcNPSu"
-      },
-      "artists": [
-        {
-          "name": "Sky Li",
-          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Happyland",
-      "url": "https://open.spotify.com/track/09xFY1YnSB0YdjImzv9yCS"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
         "name": "Confused",
         "url": "https://open.spotify.com/album/63SKnBYxfovQ7CSMIB73Gp"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 176462,
       "name": "UFO",
       "url": "https://open.spotify.com/track/3EE5vs8Sm7xZLPnrbwZSun"
-    },
-    {
-      "added_at": "2025-11-21 05:00:30",
-      "album": {
-        "name": "Think About U Lots",
-        "url": "https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m"
-      },
-      "artists": [
-        {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
-        }
-      ],
-      "duration_ms": 214763,
-      "name": "Think About U Lots",
-      "url": "https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU"
     },
     {
       "added_at": "2026-01-14 18:31:55",

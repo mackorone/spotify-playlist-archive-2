@@ -1,12 +1,12 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Da\u00f0i Freyr, RAYE og m\u00f6rgum fleiri!",
-  "num_followers": 9606,
+  "num_followers": 9607,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADolg9lYk5JyVeStfHoCum0nhZV6",
+  "snapshot_id": "AAAAANO0QgwzeI8LzHtiHUgNrSxw2hoT",
   "tracks": [
     {
       "added_at": "2026-03-27 00:00:33",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
-        "name": "Fiji",
-        "url": "https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 158125,
-      "name": "Fiji",
-      "url": "https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 177173,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
+        "name": "Fiji",
+        "url": "https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 158125,
+      "name": "Fiji",
+      "url": "https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
+        "name": "Everything Glows",
+        "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/4jUFrsx7SUpl3loOdo14MH"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 181840,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/31D55MpvBHFSaeef0EeUDM"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
-        "name": "Everything Glows",
-        "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
+        "name": "Feel Your Rain",
+        "url": "https://open.spotify.com/album/7qTMakCD0P74bbkIPWuNGi"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "duration_ms": 216910,
+      "name": "Feel Your Rain",
+      "url": "https://open.spotify.com/track/07be0QUZ1uxxXDkarMiZe6"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
         "name": "Wheels",
         "url": "https://open.spotify.com/album/41lmDLys2EtjbHkVJxBaxn"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 176946,
       "name": "Wheels - with Babehoven & Billie Marten",
       "url": "https://open.spotify.com/track/6Tad0GdthV8sEb5bFMB613"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
-        "name": "Feel Your Rain",
-        "url": "https://open.spotify.com/album/7qTMakCD0P74bbkIPWuNGi"
-      },
-      "artists": [
-        {
-          "name": "Eli",
-          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
-        }
-      ],
-      "duration_ms": 216910,
-      "name": "Feel Your Rain",
-      "url": "https://open.spotify.com/track/07be0QUZ1uxxXDkarMiZe6"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
-        "name": "Bad Love",
-        "url": "https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
         "name": "Baby I Forgive You",
         "url": "https://open.spotify.com/album/450Pj7mRcbv4yW3wWhesAw"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 159445,
       "name": "Baby I Forgive You",
       "url": "https://open.spotify.com/track/2jWOLxiICD1MVpUBSzBKdW"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
-        "name": "wasteland",
-        "url": "https://open.spotify.com/album/1hPMGRxP6fo6NonG6HKbiN"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 185994,
-      "name": "wasteland",
-      "url": "https://open.spotify.com/track/4nU7tSVX06D8JOZ08oUecQ"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
         "name": "Bruised",
         "url": "https://open.spotify.com/album/4QlE9lRwtAhaHNDx76oXOF"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 151924,
       "name": "Bruised",
       "url": "https://open.spotify.com/track/4dckysPCQDFhNHlznmJbkE"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
+        "name": "Switcheroo",
+        "url": "https://open.spotify.com/album/6Wx8B7uw0trE9PQRXfIA78"
+      },
+      "artists": [
+        {
+          "name": "Gelli Haha",
+          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
+        }
+      ],
+      "duration_ms": 224418,
+      "name": "Klouds Will Carry Me To Sleep",
+      "url": "https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
-        "name": "Switcheroo",
-        "url": "https://open.spotify.com/album/6Wx8B7uw0trE9PQRXfIA78"
+        "name": "wasteland",
+        "url": "https://open.spotify.com/album/1hPMGRxP6fo6NonG6HKbiN"
       },
       "artists": [
         {
-          "name": "Gelli Haha",
-          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 224418,
-      "name": "Klouds Will Carry Me To Sleep",
-      "url": "https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk"
+      "duration_ms": 185994,
+      "name": "wasteland",
+      "url": "https://open.spotify.com/track/4nU7tSVX06D8JOZ08oUecQ"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
+        "name": "The Sun Comes Up Tremendous",
+        "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 213284,
+      "name": "The Sun Comes Up Tremendous",
+      "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
         "name": "Chemical Love",
         "url": "https://open.spotify.com/album/2uJvfX269T6v4hdexZMnRv"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/33wEfMAeQatCfZ77VgYj4T"
-      },
-      "artists": [
-        {
-          "name": "Sluice",
-          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
-        }
-      ],
-      "duration_ms": 212943,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/3YQ3oBkCkDeRiKhf11mCYQ"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
         "name": "safe & sound",
         "url": "https://open.spotify.com/album/6RBQXB0TaQI3JfQINmZYzs"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 271662,
       "name": "safe & sound",
       "url": "https://open.spotify.com/track/6fWZFYQ1EMQz0JaOMqG6qV"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/33wEfMAeQatCfZ77VgYj4T"
+      },
+      "artists": [
+        {
+          "name": "Sluice",
+          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
+        }
+      ],
+      "duration_ms": 212943,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/3YQ3oBkCkDeRiKhf11mCYQ"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
-        "name": "Withering Rose",
-        "url": "https://open.spotify.com/album/32snQkc8L9XFwOZNwbXejh"
-      },
-      "artists": [
-        {
-          "name": "ARY",
-          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
-        }
-      ],
-      "duration_ms": 215532,
-      "name": "Withering Rose",
-      "url": "https://open.spotify.com/track/6Jy4bpv0mDVTxmXGONgeRf"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
         "name": "Always With Me (Eden Burns Remix)",
         "url": "https://open.spotify.com/album/4BQwn1ofpBdPSf8xzkyzJC"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
-        "name": "Wind that makes the subway sound",
-        "url": "https://open.spotify.com/album/1bmeezlOvfzfgKRnkWPg0a"
+        "name": "Withering Rose",
+        "url": "https://open.spotify.com/album/32snQkc8L9XFwOZNwbXejh"
       },
       "artists": [
         {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
         }
       ],
-      "duration_ms": 172540,
-      "name": "Wind that makes the subway sound",
-      "url": "https://open.spotify.com/track/3FdJLESuBrb3B9Fh9We3Fl"
+      "duration_ms": 215532,
+      "name": "Withering Rose",
+      "url": "https://open.spotify.com/track/6Jy4bpv0mDVTxmXGONgeRf"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -1203,6 +1203,22 @@
       "duration_ms": 197560,
       "name": "Truth To Be Told",
       "url": "https://open.spotify.com/track/4032Ef1AxewCjtcW8klg29"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
+        "name": "Wind that makes the subway sound",
+        "url": "https://open.spotify.com/album/1bmeezlOvfzfgKRnkWPg0a"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "Wind that makes the subway sound",
+      "url": "https://open.spotify.com/track/3FdJLESuBrb3B9Fh9We3Fl"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/7aPh2nzGGO28rCuQaehYr0"
+        "name": "I Know It's Wrong",
+        "url": "https://open.spotify.com/album/1xvcKcI9fNsE0IBHpK5GdG"
       },
       "artists": [
         {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+          "name": "BATHSHEBA",
+          "url": "https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7"
         }
       ],
-      "duration_ms": 155500,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/41UdmMzDehvDU2gaay1szc"
+      "duration_ms": 172571,
+      "name": "I Know It's Wrong",
+      "url": "https://open.spotify.com/track/7kjmxkch7Kq6JG7MJU0kXw"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -1259,6 +1275,22 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/7aPh2nzGGO28rCuQaehYr0"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/41UdmMzDehvDU2gaay1szc"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
         "name": "Bad Omen",
         "url": "https://open.spotify.com/album/0LTHF3pPSEJN7Rp4TJ0b1R"
       },
@@ -1271,22 +1303,6 @@
       "duration_ms": 202404,
       "name": "Bad Omen",
       "url": "https://open.spotify.com/track/00cUN2prFK7nR8UZEyRc0r"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
-        "name": "I Know It's Wrong",
-        "url": "https://open.spotify.com/album/1xvcKcI9fNsE0IBHpK5GdG"
-      },
-      "artists": [
-        {
-          "name": "BATHSHEBA",
-          "url": "https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7"
-        }
-      ],
-      "duration_ms": 172571,
-      "name": "I Know It's Wrong",
-      "url": "https://open.spotify.com/track/7kjmxkch7Kq6JG7MJU0kXw"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -1307,22 +1323,6 @@
       "duration_ms": 138750,
       "name": "Lizzy",
       "url": "https://open.spotify.com/track/0TWiFeQPMWpAbRqUIXOXQR"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
-        "name": "The Sun Comes Up Tremendous",
-        "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 213284,
-      "name": "The Sun Comes Up Tremendous",
-      "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
-        "name": "Disjointed",
-        "url": "https://open.spotify.com/album/6BakDswrFxa7kPHZ8IMhAF"
-      },
-      "artists": [
-        {
-          "name": "Iben",
-          "url": "https://open.spotify.com/artist/74r4FqTey9wuD0hsGp1gdf"
-        }
-      ],
-      "duration_ms": 214718,
-      "name": "Disjointed",
-      "url": "https://open.spotify.com/track/5Yrog59IMoh9FeakjY9Fy4"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
         "name": "Everybody Needs To Be",
         "url": "https://open.spotify.com/album/75pIwBgLfpKV4UNs7Xzt3Q"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 170107,
       "name": "Everybody Needs To Be",
       "url": "https://open.spotify.com/track/57nR701tskrQisI9GZJ9oq"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
+        "name": "Disjointed",
+        "url": "https://open.spotify.com/album/6BakDswrFxa7kPHZ8IMhAF"
+      },
+      "artists": [
+        {
+          "name": "Iben",
+          "url": "https://open.spotify.com/artist/74r4FqTey9wuD0hsGp1gdf"
+        }
+      ],
+      "duration_ms": 214718,
+      "name": "Disjointed",
+      "url": "https://open.spotify.com/track/5Yrog59IMoh9FeakjY9Fy4"
     },
     {
       "added_at": "2026-03-27 00:00:33",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
-        "name": "Song In My Head",
-        "url": "https://open.spotify.com/album/4IMD9QWXBaJQGZ2KSGiRpx"
-      },
-      "artists": [
-        {
-          "name": "Marlen Tj\u00f8svoll",
-          "url": "https://open.spotify.com/artist/0lR9dVN1J2I13Pt02fTm5c"
-        }
-      ],
-      "duration_ms": 217415,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/4Epo62T6JeylYH9tjV19y1"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
         "name": "nice try!",
         "url": "https://open.spotify.com/album/5frNejcYLNOqI1DbjvEdCd"
       },
@@ -1531,6 +1515,38 @@
     {
       "added_at": "2026-03-27 00:00:33",
       "album": {
+        "name": "Song In My Head",
+        "url": "https://open.spotify.com/album/4IMD9QWXBaJQGZ2KSGiRpx"
+      },
+      "artists": [
+        {
+          "name": "Marlen Tj\u00f8svoll",
+          "url": "https://open.spotify.com/artist/0lR9dVN1J2I13Pt02fTm5c"
+        }
+      ],
+      "duration_ms": 217415,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/4Epo62T6JeylYH9tjV19y1"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/3lpsQJ1ehFFTWi6wfTyjIJ"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00efcee",
+          "url": "https://open.spotify.com/artist/7pyfZGDbwdsRidi4yjomoA"
+        }
+      ],
+      "duration_ms": 152988,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/3CxgpyhkQPnMjhMzWP4YE8"
+    },
+    {
+      "added_at": "2026-03-27 00:00:33",
+      "album": {
         "name": "The Way She Says Goodbye",
         "url": "https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 165500,
       "name": "Bye Sofia",
       "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
-    },
-    {
-      "added_at": "2026-03-27 00:00:33",
-      "album": {
-        "name": "Affected",
-        "url": "https://open.spotify.com/album/6aEYmyVYZdfPQfgk9J2slV"
-      },
-      "artists": [
-        {
-          "name": "Tue West",
-          "url": "https://open.spotify.com/artist/6aEs3NZ5zBHQHyC4bJSBPD"
-        }
-      ],
-      "duration_ms": 247009,
-      "name": "Affected",
-      "url": "https://open.spotify.com/track/76LLd6Bx3szupF8QXCnowd"
     }
   ],
   "unique_name": "New Music Friday Iceland",

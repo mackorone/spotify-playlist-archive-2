@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,201 songs - 2 day 18 hr 56 min
+1,202 songs - 2 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1130,6 +1130,7 @@
 | [Violence](https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Maëlie](https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4) | [Violence](https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB) | 2:41 | 2026-01-16 |  |
 | [Violet Sky \(A Letter For You\)](https://open.spotify.com/track/3YLwSJoYBTWBrFaGYG0jkc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Violet Sky](https://open.spotify.com/album/0DFlOSSgdDUMVCiFdgr9j0) | 3:02 | 2024-10-17 | 2025-01-25 |
 | [Vitamin R](https://open.spotify.com/track/3FmdXSMfZjqo9Lz4li7GpW) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [SQISHI](https://open.spotify.com/artist/0UIHAcihBBHr4dlN4syE1h) | [Vitamin R](https://open.spotify.com/album/4xd9LfqmvWcibXiwsk3NIn) | 3:05 | 2023-10-03 | 2024-01-16 |
+| [Volume Nation](https://open.spotify.com/track/6FXR8bDZEl1YY9ygjU0F1y) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Volume Nation](https://open.spotify.com/album/5P5wo8Auod5iYSHkAgBmnC) | 2:46 | 2026-04-01 |  |
 | [WAIT4U](https://open.spotify.com/track/7igtWMNT2mPCYARw9g0cLn) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [WAIT4U](https://open.spotify.com/album/6rjRB1yiwh2iOmyiWGmJp6) | 4:12 | 2023-10-13 | 2024-01-27 |
 | [Waiting](https://open.spotify.com/track/3CAjk7ddvkqAT5iGRYTYGy) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:40 | 2022-11-04 | 2022-11-22 |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-03-04 | 2022-05-18 |

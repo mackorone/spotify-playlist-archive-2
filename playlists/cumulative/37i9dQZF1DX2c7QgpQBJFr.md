@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹 cover: VEROSIMILE
 
-1,216 songs - 2 day 9 hr 53 min
+1,217 songs - 2 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Acqua passata](https://open.spotify.com/track/5BdoBBRMswolsuftniTJY7) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Acqua passata](https://open.spotify.com/album/2R14AMf2ubRN99XASbQgFx) | 2:59 | 2025-05-29 | 2025-07-25 |
 | [acqua santa](https://open.spotify.com/track/0Adf7j9EB2GOmjfPW71fPk) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [acqua santa](https://open.spotify.com/album/4saZ2bZ4QrNo3KRhVk0Alj) | 2:36 | 2025-09-11 | 2025-10-17 |
 | [Acquaverde](https://open.spotify.com/track/2IuIMjK1XDpI5h9LzyVf8X) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Acquaverde](https://open.spotify.com/album/5dwhzj6JmadKUoVAYQmmog) | 3:02 | 2025-01-09 | 2025-02-14 |
-| [ad ogni costo](https://open.spotify.com/track/2Mus1en9s7ppExu1S580wC) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [la ragazza che suonava il piano](https://open.spotify.com/album/3De0vZ755Y6JdnITvKqcNB) | 1:34 | 2026-03-05 |  |
+| [ad ogni costo](https://open.spotify.com/track/2Mus1en9s7ppExu1S580wC) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [la ragazza che suonava il piano](https://open.spotify.com/album/3De0vZ755Y6JdnITvKqcNB) | 1:34 | 2026-03-05 | 2026-04-02 |
 | [ADHD \(nuovo disturbo di attenzione\)](https://open.spotify.com/track/72kYfRAJAN1SXGWpvlv8tM) | [K beezy 28](https://open.spotify.com/artist/5SbWJnRRbZQU024VlOPWly) | [ADHD \(nuovo disturbo di attenzione\)](https://open.spotify.com/album/41Ynw6WC7QvYgBjoZ2uWaZ) | 2:48 | 2024-07-18 | 2024-08-23 |
 | [ADICTIVO](https://open.spotify.com/track/66qhxaaQmSyQwOnZE8XSw0) | [Ethan](https://open.spotify.com/artist/02znchIxfjnmxgcyAEr0Y2), [D4Seven](https://open.spotify.com/artist/13ELZLxemiq2XzT6v8VXTJ) | [ADICTIVO](https://open.spotify.com/album/0VVi2wRMpL0w2XbBWI5Hq8) | 2:58 | 2025-12-11 | 2026-01-23 |
 | [AH \) AH \)](https://open.spotify.com/track/7D9m1E6i0uidnxxBRZtcKg) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [AH \) AH \)](https://open.spotify.com/album/50uqyqDEauW3Efn9tNU2bt) | 2:44 | 2024-09-05 | 2024-12-13 |
@@ -172,6 +172,7 @@
 | [Buio](https://open.spotify.com/track/4cDJPaxKz8n1CHpsP481Td) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [Buio](https://open.spotify.com/album/6nQXpUEDkG6oMCP0CX8z1Q) | 2:22 | 2025-01-16 | 2025-02-28 |
 | [BUIO \(feat\. Sally Cruz\)](https://open.spotify.com/track/2d1ok1lJagwTQB22k8R6Nq) | [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [ERA](https://open.spotify.com/album/27nDdzr7C5sOAnB0iHr0Rc) | 2:43 | 2024-12-12 | 2025-02-12 |
 | [BUM!](https://open.spotify.com/track/38Q2xq0AONmMqvlWDaB37Q) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [BUM!](https://open.spotify.com/album/4oFDMkklZca0cnkgodTTas) | 3:09 | 2024-09-12 | 2024-11-22 |
+| [BUONA DOMENICA](https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BUONA DOMENICA](https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn) | 3:07 | 2026-04-01 |  |
 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 | 2025-11-06 |  |
 | [Burnout](https://open.spotify.com/track/1uGH9dQpoyeJw67ic5gVF1) | [Nahaze](https://open.spotify.com/artist/4lH0PRAS3yV8O05E5lTqwk) | [Burnout](https://open.spotify.com/album/71QGUKaL4Ldl23q2BRFmCd) | 2:21 | 2025-06-12 | 2025-07-25 |
 | [Bussola](https://open.spotify.com/track/3qIopFVs9HXdr0jNzowlKV) | [j nova](https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl) | [Bussola](https://open.spotify.com/album/2L2CobvKIAi6LVlhIiDkpw) | 3:21 | 2024-10-07 | 2024-11-22 |

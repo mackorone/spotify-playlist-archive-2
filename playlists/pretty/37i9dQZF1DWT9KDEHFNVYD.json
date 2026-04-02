@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 16913,
+  "num_followers": 16927,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Panther Rotate",
-        "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
+        "name": "Soft Machine (U.S. Version)",
+        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
       },
       "artists": [
         {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        },
-        {
-          "name": "Osees",
-          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
         }
       ],
-      "duration_ms": 309200,
-      "name": "Don't Blow Experiment",
-      "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+      "duration_ms": 223066,
+      "name": "Magic Kraut",
+      "url": "https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Soft Machine (U.S. Version)",
-        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
+        "name": "Panther Rotate",
+        "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
       },
       "artists": [
         {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        },
+        {
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Magic Kraut",
-      "url": "https://open.spotify.com/track/42npfZAXXYEQYkstf3KnWk"
+      "duration_ms": 309200,
+      "name": "Don't Blow Experiment",
+      "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
     },
     {
       "added_at": "2022-01-20 20:59:43",

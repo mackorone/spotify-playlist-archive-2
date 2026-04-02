@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "158.3 / Tell Me",
+        "url": "https://open.spotify.com/album/2KObh1HucOQtYGnaVw91UU"
+      },
+      "artists": [
+        {
+          "name": "kimaRA",
+          "url": "https://open.spotify.com/artist/0wrETSNZWzyKrdPXrRfkbD"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224232,
+      "name": "158.3 / Tell Me",
+      "url": "https://open.spotify.com/track/5dDekZJfUJE9Vy42wKHOYv"
+    },
+    {
+      "album": {
         "name": "16",
         "url": "https://open.spotify.com/album/2A7S0tgNAP15YFMd8vqrtJ"
       },
@@ -10636,6 +10654,24 @@
       "duration_ms": 214000,
       "name": "Beyond Me",
       "url": "https://open.spotify.com/track/7tLV8vkj5DhpA9E4nHNB5h"
+    },
+    {
+      "album": {
+        "name": "BHMF (Blondes Have More Fun)",
+        "url": "https://open.spotify.com/album/0TcxnaZmW0Kz9mixTrGHKs"
+      },
+      "artists": [
+        {
+          "name": "Angel Bleu",
+          "url": "https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165351,
+      "name": "BHMF (Blondes Have More Fun)",
+      "url": "https://open.spotify.com/track/2ZC8zli3RK85zCBce63xrr"
     },
     {
       "album": {
@@ -40139,6 +40175,24 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/6iXcA0CZVAko503T5fHc3P"
+      },
+      "artists": [
+        {
+          "name": "Mr Unity",
+          "url": "https://open.spotify.com/artist/5yyCTJGCqbvwcm6qzlMm5p"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296463,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3udOrp7OKsleZZq0QUohfp"
+    },
+    {
+      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -47060,6 +47114,24 @@
       "duration_ms": 181377,
       "name": "I've Done Wrong",
       "url": "https://open.spotify.com/track/08Puj5pzoYNALR4bM062vL"
+    },
+    {
+      "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/0jfdzkH0PbEGTMzjrBnyRQ"
+      },
+      "artists": [
+        {
+          "name": "Nora Mae",
+          "url": "https://open.spotify.com/artist/1lEj2mCu6IQrLEnJgDjKsS"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/5fc8oPMT517tpQr7lnrx9R"
     },
     {
       "album": {
@@ -54966,6 +55038,24 @@
     {
       "album": {
         "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/645Nyu0nBt2rpGOzKfC2ld"
+      },
+      "artists": [
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/1lzUrX1mdkzJTrv0lIjRkn"
+    },
+    {
+      "album": {
+        "name": "Lie to Me",
         "url": "https://open.spotify.com/album/0a8dAylpZcCgfhsXtNns5K"
       },
       "artists": [
@@ -56710,6 +56800,24 @@
       "duration_ms": 191724,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/2LhwyenNKYLqqEscGbGT3z"
+    },
+    {
+      "album": {
+        "name": "Lonely Soldier",
+        "url": "https://open.spotify.com/album/620aoDr4DlKfGLSddl7KMR"
+      },
+      "artists": [
+        {
+          "name": "Cass Miller",
+          "url": "https://open.spotify.com/artist/1mcpBVj2ixcdsCcby53H0g"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186075,
+      "name": "Lonely Soldier",
+      "url": "https://open.spotify.com/track/71pBN796AjYSOtlUKBr1I5"
     },
     {
       "album": {
@@ -59848,7 +59956,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 236240,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/0qHxVLpEfjoFWlwwb1jPT2"
@@ -64874,6 +64982,24 @@
       "duration_ms": 178199,
       "name": "My Country Blonde",
       "url": "https://open.spotify.com/track/0l1jDe1RfFJtI7onZlrYcV"
+    },
+    {
+      "album": {
+        "name": "My Dog Thinks I'm Cool",
+        "url": "https://open.spotify.com/album/05tg8Lrrxaf6bvGLe3Em48"
+      },
+      "artists": [
+        {
+          "name": "Dusty Sparks",
+          "url": "https://open.spotify.com/artist/7pHEza1V2q5hokk6WeBEgM"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198928,
+      "name": "My Dog Thinks I'm Cool",
+      "url": "https://open.spotify.com/track/1PK6FAztQ7sKDdyoLYISBQ"
     },
     {
       "album": {
@@ -80262,6 +80388,10 @@
         {
           "name": "Monsieur Mellow",
           "url": "https://open.spotify.com/artist/1VkZ1nRa12nZR0mqpnh5WZ"
+        },
+        {
+          "name": "Jackson James Smith",
+          "url": "https://open.spotify.com/artist/4wZrNimuRC6ba5W9eJGv8x"
         }
       ],
       "date_added": "2026-03-31",
@@ -80586,6 +80716,24 @@
       "duration_ms": 205251,
       "name": "Roughed up and Rowdy",
       "url": "https://open.spotify.com/track/6cMLCLiiSk87Kgb1Vhlb7B"
+    },
+    {
+      "album": {
+        "name": "Round Two",
+        "url": "https://open.spotify.com/album/5nlNcytQwIgXqoriqUFkFc"
+      },
+      "artists": [
+        {
+          "name": "Ley.na",
+          "url": "https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192280,
+      "name": "Round Two",
+      "url": "https://open.spotify.com/track/71LAnJjfejz0QsYt6gw5z4"
     },
     {
       "album": {
@@ -91423,6 +91571,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2kXcnxi134zzN4nmGjJ4Tj"
+      },
+      "artists": [
+        {
+          "name": "Naiyah",
+          "url": "https://open.spotify.com/artist/75EPu5pK1tSyy0d0FATDvB"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253913,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/43dTLOTFP9HRBxy9dDV7JG"
+    },
+    {
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/13EmrGPqiaUv7X47yYbIdn"
       },
@@ -100450,6 +100616,28 @@
       "duration_ms": 168082,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/2No16QmtvDPqcu4fJpHm96"
+    },
+    {
+      "album": {
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/71mc1up731HptXns52PPWK"
+      },
+      "artists": [
+        {
+          "name": "Alka 2001",
+          "url": "https://open.spotify.com/artist/0FOZl9lnMPFefh81JmZOKR"
+        },
+        {
+          "name": "Zurdeik",
+          "url": "https://open.spotify.com/artist/1ohuygiane6UcPS4fYlJXP"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142611,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/51pYTj8gQ2wcXkeGG6mdi3"
     },
     {
       "album": {

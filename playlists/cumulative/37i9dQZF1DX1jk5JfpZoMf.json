@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Heavy Rains",
+        "url": "https://open.spotify.com/album/39AsQruOQadyvzn6eaedkx"
+      },
+      "artists": [
+        {
+          "name": "Artipico",
+          "url": "https://open.spotify.com/artist/2skwHFBBbBoFXMN5Nl4hyi"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124614,
+      "name": "Coastal Road in Rain",
+      "url": "https://open.spotify.com/track/52SApx1jOUstgiDCCoZJYa"
+    },
+    {
+      "album": {
         "name": "Rain & Thunderstorms: Best Of, Vol. 3",
         "url": "https://open.spotify.com/album/6FTYA2kT7Xs2A4W2mJAYvj"
       },
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 151579,
       "name": "Dreamy Rain",
       "url": "https://open.spotify.com/track/0oSU0oQ4xp3H6sMh1In9W8"
@@ -1479,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Soft Rain",
+        "url": "https://open.spotify.com/album/5n24EJXwP5gq45z1kSYeJ4"
+      },
+      "artists": [
+        {
+          "name": "Hayden Ball",
+          "url": "https://open.spotify.com/artist/3QxIQABLndsIIpNMwllbGs"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107877,
+      "name": "Forest Path Rain",
+      "url": "https://open.spotify.com/track/71XK20gRx6drD3M2VIH1q0"
+    },
+    {
+      "album": {
         "name": "Forest Rain Bath",
         "url": "https://open.spotify.com/album/4bV38Ax7XtDSfe9wvkjVog"
       },
@@ -1602,6 +1638,46 @@
       "duration_ms": 193338,
       "name": "Gentle Garden Rain",
       "url": "https://open.spotify.com/track/43xyo8dOzS47tWP2omabv6"
+    },
+    {
+      "album": {
+        "name": "Soothing Rain Songs",
+        "url": "https://open.spotify.com/album/15CC9woREqBQPmVNOIfoQg"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Chill Palm",
+          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194900,
+      "name": "Gentle Rain of Kauai",
+      "url": "https://open.spotify.com/track/1JTJ3saQRcd4hPo4SOGwlL"
+    },
+    {
+      "album": {
+        "name": "Gentle Rain Pattern",
+        "url": "https://open.spotify.com/album/5hL4bDFztBnETWq29DEgdg"
+      },
+      "artists": [
+        {
+          "name": "Pluvial Echo",
+          "url": "https://open.spotify.com/artist/3TFc8OzzeYmHntSzculujA"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127619,
+      "name": "Gentle Rain Pattern",
+      "url": "https://open.spotify.com/track/09WHSvha0crMnlc6EwU3Wr"
     },
     {
       "album": {
@@ -2714,7 +2790,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Nederb\u00f6rd",
       "url": "https://open.spotify.com/track/02Yfdjig23PmDTu03heTJT"
@@ -3186,7 +3262,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 182626,
       "name": "Queensland Rain Rhythms",
       "url": "https://open.spotify.com/track/2eKXZLG6SdlCv3kZfv0QTv"
@@ -3553,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "Night Rain",
+        "url": "https://open.spotify.com/album/50sPzp6DMGHKpeQjy8kyoa"
+      },
+      "artists": [
+        {
+          "name": "Sound Carrie",
+          "url": "https://open.spotify.com/artist/6VSLsTLt5SnJSaiKVwHSKn"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120576,
+      "name": "Rain in the Alley",
+      "url": "https://open.spotify.com/track/1gmqqipUR2zUb1j1KQGzpa"
+    },
+    {
+      "album": {
         "name": "Rain in the Woods",
         "url": "https://open.spotify.com/album/2so81c617S19WbSLubmKh8"
       },
@@ -3838,7 +3932,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 135029,
       "name": "Rain Sounds In Los Llanos",
       "url": "https://open.spotify.com/track/2i2XQP37gZCAi0DveWyGcD"
@@ -5488,7 +5582,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 208000,
       "name": "Stormy Road",
       "url": "https://open.spotify.com/track/5LOUGQmqx2GCTUt0oaQcFc"
@@ -5906,7 +6000,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 187350,
       "name": "Victoria Thunder Beats",
       "url": "https://open.spotify.com/track/7kFIuXeScsfDtx1rUG6dZE"
@@ -5960,7 +6054,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 157250,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1q0ZGKIkPig119VNdjFYVd"

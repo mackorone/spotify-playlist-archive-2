@@ -1,13 +1,53 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Jackyboom. Curated by human Spotify editors. \n",
-  "num_followers": 211405,
+  "num_followers": 211438,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACKvSH2VrNzUk4M8V+8n76JfrwkO",
+  "snapshot_id": "AAAAAFVp1nqttDcPcueuavxiIwxFGwjI",
   "tracks": [
+    {
+      "added_at": "2026-04-01 16:59:55",
+      "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
+      },
+      "artists": [
+        {
+          "name": "Noah Baine",
+          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
+    },
+    {
+      "added_at": "2026-04-01 16:59:55",
+      "album": {
+        "name": "Grab Me Water",
+        "url": "https://open.spotify.com/album/13c41UsdcLme5PJh6L7J5G"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        },
+        {
+          "name": "Ancona",
+          "url": "https://open.spotify.com/artist/177HU6uNxKwrQIFvmmkFqR"
+        },
+        {
+          "name": "Eddie Caine",
+          "url": "https://open.spotify.com/artist/0Z2wIXTdaJbZWCzrfNREWl"
+        }
+      ],
+      "duration_ms": 205162,
+      "name": "Grab Me Water",
+      "url": "https://open.spotify.com/track/2aLzIJ1mikuw6xWuynqycG"
+    },
     {
       "added_at": "2026-03-13 04:00:43",
       "album": {
@@ -41,6 +81,22 @@
       "url": "https://open.spotify.com/track/4vlSOYbHKPSMF6MuNSUeIR"
     },
     {
+      "added_at": "2026-04-01 16:59:55",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/5Zr1RpCtSSjJSQLvFYJXSb"
+      },
+      "artists": [
+        {
+          "name": "Ontonic",
+          "url": "https://open.spotify.com/artist/2ubj9n9jrEgvG6pbegX06x"
+        }
+      ],
+      "duration_ms": 227527,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6u5uJUkN4Virf2lLxRCcve"
+    },
+    {
       "added_at": "2026-03-20 04:00:52",
       "album": {
         "name": "TAKIN PICTURES",
@@ -57,36 +113,36 @@
       "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
     },
     {
-      "added_at": "2026-03-25 16:00:36",
+      "added_at": "2026-04-01 16:59:55",
       "album": {
-        "name": "Hot 'N Heavy",
-        "url": "https://open.spotify.com/album/1mRWJ7HcS8cxSz9L7bOX60"
+        "name": "1, 2, KICK!",
+        "url": "https://open.spotify.com/album/7at6p7RvkCMbNqNugnLALE"
       },
       "artists": [
         {
-          "name": "Lenny Delicious",
-          "url": "https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh"
+          "name": "Shake Daddy",
+          "url": "https://open.spotify.com/artist/0FJHBL4Pu8l6ND4yZNSUQc"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Hot 'N Heavy",
-      "url": "https://open.spotify.com/track/14bmYLH9zFWXyR0wggKuKw"
+      "duration_ms": 263306,
+      "name": "1, 2, KICK!",
+      "url": "https://open.spotify.com/track/0hxWy4e9TmYneZBHILgrnf"
     },
     {
-      "added_at": "2026-03-18 17:43:09",
+      "added_at": "2026-04-01 16:59:55",
       "album": {
-        "name": "Front, Left",
-        "url": "https://open.spotify.com/album/4VtJjZ6t72YVSOWcS0KYBq"
+        "name": "Wicked With You",
+        "url": "https://open.spotify.com/album/0T77mYfP5wbmDDUg7rkScz"
       },
       "artists": [
         {
-          "name": "Secret Floor",
-          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+          "name": "Tom Carroll",
+          "url": "https://open.spotify.com/artist/0HhkKgvROcEteI6vfUjvbv"
         }
       ],
-      "duration_ms": 142562,
-      "name": "Front, Left",
-      "url": "https://open.spotify.com/track/7IP9P1jnYnvEBa2FcEDDSd"
+      "duration_ms": 232367,
+      "name": "Wicked With You",
+      "url": "https://open.spotify.com/track/1NUrZluiGCRucIvcjiRMCM"
     },
     {
       "added_at": "2026-03-18 17:43:09",
@@ -103,58 +159,6 @@
       "duration_ms": 230551,
       "name": "What Ya Got",
       "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
-    },
-    {
-      "added_at": "2026-03-05 04:25:05",
-      "album": {
-        "name": "House Is Gettin' Raw",
-        "url": "https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR"
-      },
-      "artists": [
-        {
-          "name": "PAULY!",
-          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "House Is Gettin' Raw",
-      "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
-    },
-    {
-      "added_at": "2026-03-20 04:00:52",
-      "album": {
-        "name": "HOLD BACK",
-        "url": "https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s"
-      },
-      "artists": [
-        {
-          "name": "Klo",
-          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "HOLD BACK",
-      "url": "https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7"
-    },
-    {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5DKIE6GWSddAFFZSflGUXH"
-      },
-      "artists": [
-        {
-          "name": "NO BILLS",
-          "url": "https://open.spotify.com/artist/0KvKQGcKAdyCa0tptYZu6Z"
-        },
-        {
-          "name": "SATICA",
-          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2cx6Kuq7DN8Cf9VjoTin5s"
     },
     {
       "added_at": "2026-03-18 17:43:09",
@@ -175,18 +179,50 @@
     {
       "added_at": "2026-03-18 17:43:09",
       "album": {
-        "name": "PUT YOUR USB IN MY CDJ",
-        "url": "https://open.spotify.com/album/2SIrZvQPHfL7dHvbrrwFH3"
+        "name": "Front, Left",
+        "url": "https://open.spotify.com/album/4VtJjZ6t72YVSOWcS0KYBq"
       },
       "artists": [
         {
-          "name": "VON DI",
-          "url": "https://open.spotify.com/artist/18DtMa3kSXz1ziUhSJrTZT"
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
         }
       ],
-      "duration_ms": 168701,
-      "name": "PUT YOUR USB IN MY CDJ",
-      "url": "https://open.spotify.com/track/3ABAbdoy3EJLKeGevwuJeK"
+      "duration_ms": 142562,
+      "name": "Front, Left",
+      "url": "https://open.spotify.com/track/7IP9P1jnYnvEBa2FcEDDSd"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Hot 'N Heavy",
+        "url": "https://open.spotify.com/album/1mRWJ7HcS8cxSz9L7bOX60"
+      },
+      "artists": [
+        {
+          "name": "Lenny Delicious",
+          "url": "https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Hot 'N Heavy",
+      "url": "https://open.spotify.com/track/14bmYLH9zFWXyR0wggKuKw"
+    },
+    {
+      "added_at": "2026-03-20 04:00:52",
+      "album": {
+        "name": "HOLD BACK",
+        "url": "https://open.spotify.com/album/3V3AwkY5W62e6e7Lfw701s"
+      },
+      "artists": [
+        {
+          "name": "Klo",
+          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "HOLD BACK",
+      "url": "https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7"
     },
     {
       "added_at": "2026-03-18 17:43:09",
@@ -255,6 +291,42 @@
       "duration_ms": 192380,
       "name": "We Don't Stop",
       "url": "https://open.spotify.com/track/6fnbDKCey6fvF65hYhnJDc"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5DKIE6GWSddAFFZSflGUXH"
+      },
+      "artists": [
+        {
+          "name": "NO BILLS",
+          "url": "https://open.spotify.com/artist/0KvKQGcKAdyCa0tptYZu6Z"
+        },
+        {
+          "name": "SATICA",
+          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2cx6Kuq7DN8Cf9VjoTin5s"
+    },
+    {
+      "added_at": "2026-03-18 17:43:09",
+      "album": {
+        "name": "PUT YOUR USB IN MY CDJ",
+        "url": "https://open.spotify.com/album/2SIrZvQPHfL7dHvbrrwFH3"
+      },
+      "artists": [
+        {
+          "name": "VON DI",
+          "url": "https://open.spotify.com/artist/18DtMa3kSXz1ziUhSJrTZT"
+        }
+      ],
+      "duration_ms": 168701,
+      "name": "PUT YOUR USB IN MY CDJ",
+      "url": "https://open.spotify.com/track/3ABAbdoy3EJLKeGevwuJeK"
     },
     {
       "added_at": "2026-03-11 17:10:27",
@@ -625,22 +697,6 @@
       "url": "https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek"
     },
     {
-      "added_at": "2026-02-11 21:59:45",
-      "album": {
-        "name": "Maneater",
-        "url": "https://open.spotify.com/album/2Wj8EGLR2CE5YO5hJU8u9J"
-      },
-      "artists": [
-        {
-          "name": "Vanny Granata",
-          "url": "https://open.spotify.com/artist/7sMVXhUHC2WPL5n05yspP5"
-        }
-      ],
-      "duration_ms": 297346,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/53uxeteSi9xQBJV89BfVER"
-    },
-    {
       "added_at": "2026-01-23 05:00:26",
       "album": {
         "name": "MONEY IN THE BANK",
@@ -777,22 +833,6 @@
       "url": "https://open.spotify.com/track/55cT6CQVoS4vsBo7sUcInf"
     },
     {
-      "added_at": "2026-02-18 20:21:45",
-      "album": {
-        "name": "In Tha Club",
-        "url": "https://open.spotify.com/album/4pjoPbZFwdGTUeVsDDFA7E"
-      },
-      "artists": [
-        {
-          "name": "Secret Floor",
-          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "In Tha Club",
-      "url": "https://open.spotify.com/track/59j5yzNkQicfTmayf80bQi"
-    },
-    {
       "added_at": "2026-02-11 21:59:45",
       "album": {
         "name": "feel better",
@@ -901,38 +941,6 @@
       "url": "https://open.spotify.com/track/3Z6iA9iNhiKQIxib5VwcXp"
     },
     {
-      "added_at": "2026-01-21 18:53:17",
-      "album": {
-        "name": "Why Don't You Love Me",
-        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
-      },
-      "artists": [
-        {
-          "name": "Kotti Affair",
-          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
-        }
-      ],
-      "duration_ms": 244850,
-      "name": "Why Don't You Love Me",
-      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "House Is The Religion",
-        "url": "https://open.spotify.com/album/22UywSxr7MOsz11il2Vw0W"
-      },
-      "artists": [
-        {
-          "name": "Deaf Toucan",
-          "url": "https://open.spotify.com/artist/3psM3KJlClPARJnfMlnD7m"
-        }
-      ],
-      "duration_ms": 280679,
-      "name": "House Is The Religion",
-      "url": "https://open.spotify.com/track/4mfKrRq2JSFHSWwsjhJMeh"
-    },
-    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "Mi Gentee EP",
@@ -1029,170 +1037,6 @@
       "url": "https://open.spotify.com/track/6C1JvC3YXcTWTLVoDWzN73"
     },
     {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "Off My Mind",
-        "url": "https://open.spotify.com/album/29X3cMjlyTSrkBN3Fu2G7E"
-      },
-      "artists": [
-        {
-          "name": "Kaila",
-          "url": "https://open.spotify.com/artist/6DlHoO5AWaPN0sLDws9Fyo"
-        },
-        {
-          "name": "laylay",
-          "url": "https://open.spotify.com/artist/03S9oCv1xRpPHS6hgYBcLW"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "Off My Mind",
-      "url": "https://open.spotify.com/track/0jIK3nWHM9unsdeqJeHtOS"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Y U DO IT LIKE DAT",
-        "url": "https://open.spotify.com/album/2HZPLODruAlFLJiz8aquem"
-      },
-      "artists": [
-        {
-          "name": "ZUKE",
-          "url": "https://open.spotify.com/artist/0EASKevzBdKdqfOEvXHnBA"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Y U DO IT LIKE DAT",
-      "url": "https://open.spotify.com/track/7B6Hg4pLKWbvHgkivAeLjU"
-    },
-    {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/19z1oEwjBsQb9DSCqGRaq5"
-      },
-      "artists": [
-        {
-          "name": "Noah Baine",
-          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "GET WHAT I WANT",
-        "url": "https://open.spotify.com/album/1KsJR6P8hrNrGgHcs0sFql"
-      },
-      "artists": [
-        {
-          "name": "MAYV",
-          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
-        }
-      ],
-      "duration_ms": 132026,
-      "name": "GET WHAT I WANT",
-      "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3Grfhhk3QdkVsjsSDmWtuo"
-      },
-      "artists": [
-        {
-          "name": "STRAAW",
-          "url": "https://open.spotify.com/artist/6FnEjhHUAZWtBdH0kZqlkS"
-        }
-      ],
-      "duration_ms": 117559,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3jt7e2DWwoIoGuY2lvfQ8r"
-    },
-    {
-      "added_at": "2026-01-28 16:55:42",
-      "album": {
-        "name": "Hibiscus",
-        "url": "https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn"
-      },
-      "artists": [
-        {
-          "name": "Carr\u00e9",
-          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
-        },
-        {
-          "name": "Bbyafricka",
-          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
-        }
-      ],
-      "duration_ms": 179808,
-      "name": "Hibiscus",
-      "url": "https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R"
-    },
-    {
-      "added_at": "2026-01-21 18:53:17",
-      "album": {
-        "name": "Brain",
-        "url": "https://open.spotify.com/album/08Q5LvgHul1FRzgAHJGInQ"
-      },
-      "artists": [
-        {
-          "name": "Hilel Lev",
-          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
-        },
-        {
-          "name": "ForgiveMeTommy!",
-          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
-        }
-      ],
-      "duration_ms": 424390,
-      "name": "Brain",
-      "url": "https://open.spotify.com/track/5Y5IeRVVXc2uUWKnzEBqsR"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "CARBONE",
-        "url": "https://open.spotify.com/album/6masld7IbVDO1ZQvIZiM0k"
-      },
-      "artists": [
-        {
-          "name": "SHAKING",
-          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
-        },
-        {
-          "name": "Liot",
-          "url": "https://open.spotify.com/artist/3QBktyHhrcGj6LonOd1tcP"
-        },
-        {
-          "name": "N\u00f6el",
-          "url": "https://open.spotify.com/artist/4j1NjllSYkvssBWTO7FXqJ"
-        }
-      ],
-      "duration_ms": 231643,
-      "name": "CARBONE",
-      "url": "https://open.spotify.com/track/7MSzSzgKJYOT5YP0QkugAB"
-    },
-    {
-      "added_at": "2026-01-28 16:55:42",
-      "album": {
-        "name": "Driving Me Crazy",
-        "url": "https://open.spotify.com/album/61uIK5lYT3NAlL9bTdouej"
-      },
-      "artists": [
-        {
-          "name": "Lewis Taylor",
-          "url": "https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR"
-        }
-      ],
-      "duration_ms": 168169,
-      "name": "Driving Me Crazy",
-      "url": "https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG"
-    },
-    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "think & dream",
@@ -1277,38 +1121,6 @@
       "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
     },
     {
-      "added_at": "2026-01-28 16:55:42",
-      "album": {
-        "name": "For The Night",
-        "url": "https://open.spotify.com/album/2QnJK2my2hW7IMmf4MoLpT"
-      },
-      "artists": [
-        {
-          "name": "Mitch Freeman",
-          "url": "https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG"
-        }
-      ],
-      "duration_ms": 261363,
-      "name": "For The Night",
-      "url": "https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng"
-    },
-    {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/78UleAbHTuuMHO2e8kgqZ3"
-      },
-      "artists": [
-        {
-          "name": "Avision",
-          "url": "https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj"
-        }
-      ],
-      "duration_ms": 228744,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/09LLEPYfP97oBHntL6k1al"
-    },
-    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "I Get This Feeling",
@@ -1323,74 +1135,6 @@
       "duration_ms": 211019,
       "name": "I Get This Feeling",
       "url": "https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz"
-    },
-    {
-      "added_at": "2026-01-21 18:53:17",
-      "album": {
-        "name": "Desire of Love",
-        "url": "https://open.spotify.com/album/7An6AagFEjVuX5lZe6CbVL"
-      },
-      "artists": [
-        {
-          "name": "Djomood",
-          "url": "https://open.spotify.com/artist/7L8n726TCOKfUKF4bVOxsO"
-        }
-      ],
-      "duration_ms": 223843,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/4iNrrIcQH94hGaan1KalLe"
-    },
-    {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Patron",
-        "url": "https://open.spotify.com/album/3XvoQuULZNPauz0ksX3IvU"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dent",
-          "url": "https://open.spotify.com/artist/3V6IeJyXSj7ApMbvv1ZqWE"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Patron",
-      "url": "https://open.spotify.com/track/5dRaIOKmvdrt6QP9yru7Qm"
-    },
-    {
-      "added_at": "2026-01-21 18:53:17",
-      "album": {
-        "name": "Club Nostalgia",
-        "url": "https://open.spotify.com/album/23jZ4KydwdjM0pprkozKAn"
-      },
-      "artists": [
-        {
-          "name": "THELMA",
-          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
-        }
-      ],
-      "duration_ms": 391836,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/4rfNBDqU7qSp0S81ci8qqb"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/4N5IWtgq34vNQ7kkifSo4H"
-      },
-      "artists": [
-        {
-          "name": "cutback!",
-          "url": "https://open.spotify.com/artist/3K9E1NNVSshkvpK6Fhjwsg"
-        },
-        {
-          "name": "COD",
-          "url": "https://open.spotify.com/artist/6zxYW5BOzUs0JSq1rlo2dw"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/52n9w0fmTgeHE65isG7UQg"
     }
   ],
   "unique_name": "Fresh Finds Dance",

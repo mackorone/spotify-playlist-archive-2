@@ -2453,6 +2453,28 @@
     },
     {
       "album": {
+        "name": "World War Joy",
+        "url": "https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226733,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/2fVHrSxsQbJUuj9MW9zG1e"
+    },
+    {
+      "album": {
         "name": "Who's Your Daddy?",
         "url": "https://open.spotify.com/album/7q4S10v6Ja96voiKGL0fUm"
       },

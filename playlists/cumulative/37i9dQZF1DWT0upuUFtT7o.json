@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Cover: Quiet Light",
+  "description": "The best new indie tracks from independent artists & labels. Cover: Rockie Rode",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -5946,7 +5946,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 240752,
       "name": "Beadie",
       "url": "https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2"
@@ -6364,7 +6364,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 203076,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto"
@@ -9942,7 +9942,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 191450,
       "name": "Cage",
       "url": "https://open.spotify.com/track/401BFKLTfBkjnUeT1UkuL6"
@@ -13352,7 +13352,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 154059,
       "name": "Cross",
       "url": "https://open.spotify.com/track/4apA0WCGptCvCWZ5iyPI5z"
@@ -14044,6 +14044,24 @@
       "duration_ms": 246626,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
+    },
+    {
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/6FrjprlGLkS4u8x6Y5uTPG"
+      },
+      "artists": [
+        {
+          "name": "Lola Blue",
+          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182624,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/1lTJTWRQtYT9bVYcD5tiHn"
     },
     {
       "album": {
@@ -15006,6 +15024,24 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ"
+    },
+    {
+      "album": {
+        "name": "Detach",
+        "url": "https://open.spotify.com/album/1iuKoseytcSoJYP1ZruahH"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "Detach",
+      "url": "https://open.spotify.com/track/7aGNMANsxb9b4x6r5AmfKt"
     },
     {
       "album": {
@@ -25226,7 +25262,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 172993,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/0bcff4ijcFCRui8XWmeKn9"
@@ -26026,6 +26062,24 @@
       "duration_ms": 177677,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/3cTLRlTsD4E5A0xNfI9UoF"
+    },
+    {
+      "album": {
+        "name": "high me raise / bullet caught in a spiders web",
+        "url": "https://open.spotify.com/album/0EYMggfIHnSwm8JjsTTLyO"
+      },
+      "artists": [
+        {
+          "name": "Rian Brazil",
+          "url": "https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134909,
+      "name": "high me raise",
+      "url": "https://open.spotify.com/track/5Twl9IMecWukJB5FPPeo28"
     },
     {
       "album": {
@@ -33013,6 +33067,24 @@
     },
     {
       "album": {
+        "name": "Switcheroo",
+        "url": "https://open.spotify.com/album/6Wx8B7uw0trE9PQRXfIA78"
+      },
+      "artists": [
+        {
+          "name": "Gelli Haha",
+          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224418,
+      "name": "Klouds Will Carry Me To Sleep",
+      "url": "https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk"
+    },
+    {
+      "album": {
         "name": "Knee Jerk",
         "url": "https://open.spotify.com/album/0Qv1aRIesBU792xX5LlT2J"
       },
@@ -39014,7 +39086,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 196861,
       "name": "Monster",
       "url": "https://open.spotify.com/track/3ioWK5a9iVHOfcOnELrdWV"
@@ -46521,6 +46593,24 @@
     },
     {
       "album": {
+        "name": "Postinternetfame / Self Tape",
+        "url": "https://open.spotify.com/album/34pUJjYymPU7jioThphtiR"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141864,
+      "name": "Postinternetfame",
+      "url": "https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh"
+    },
+    {
+      "album": {
         "name": "ppl plsr",
         "url": "https://open.spotify.com/album/5q18GUnz8tOlVni95nRbLR"
       },
@@ -49975,6 +50065,24 @@
     },
     {
       "album": {
+        "name": "Brink",
+        "url": "https://open.spotify.com/album/6YWyh2uDVJspFCq32tVPuh"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "Same Kids",
+      "url": "https://open.spotify.com/track/2oOEbRXZ4HIS4KC7iu1D5d"
+    },
+    {
+      "album": {
         "name": "Same Light",
         "url": "https://open.spotify.com/album/6yMKeDhZFq76X3NpxSnLqm"
       },
@@ -50350,6 +50458,24 @@
       "duration_ms": 152000,
       "name": "say it back",
       "url": "https://open.spotify.com/track/2P8nDGw1KiCeCh4ZS2iA7y"
+    },
+    {
+      "album": {
+        "name": "Whole World As Vigil",
+        "url": "https://open.spotify.com/album/1FijSy0VEvdrUTNCwJqgRJ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297252,
+      "name": "say nothing",
+      "url": "https://open.spotify.com/track/14kvSSMXYjRRath6EaxGlg"
     },
     {
       "album": {
@@ -52174,7 +52300,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 194200,
       "name": "Silver, Shining",
       "url": "https://open.spotify.com/track/48UPH6BgZrgDzjlLrPj6He"
@@ -58521,6 +58647,24 @@
     },
     {
       "album": {
+        "name": "Tethered",
+        "url": "https://open.spotify.com/album/3UhgtMPRpwgdjVkExAGZOo"
+      },
+      "artists": [
+        {
+          "name": "Eilish Constance",
+          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203312,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/0r3lhQvFpzXSgm86156k1w"
+    },
+    {
+      "album": {
         "name": "Texas Relation",
         "url": "https://open.spotify.com/album/7IzxJFc9anPRTHPg8NffUP"
       },
@@ -61500,7 +61644,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 288012,
       "name": "Traces Of Blue",
       "url": "https://open.spotify.com/track/50sfk0qPotJei0sFDCzbzA"

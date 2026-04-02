@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Celebrating 5 Years of EQUAL in Africa. \nCover: <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=7zteM_F1TqivzyT7mh4AaA\">Ayra Starr</a>",
+  "description": "Celebrating 5 Years of EQUAL in Africa. \nCover: <a href=\"https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4?si=dAgHMk4cSX-4-npaqAhRRg\">DEELA</a>",
   "name": "EQUAL Africa",
   "tracks": [
     {
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "You, Me & The 90's",
+        "url": "https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd"
+      },
+      "artists": [
+        {
+          "name": "lordkez",
+          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Aweh",
+      "url": "https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY"
+    },
+    {
+      "album": {
         "name": "Aweh",
         "url": "https://open.spotify.com/album/7FVDyG8RryPZC9qPzl1bzZ"
       },
@@ -730,6 +748,28 @@
       "duration_ms": 184000,
       "name": "Aweh",
       "url": "https://open.spotify.com/track/7qDjCYL4F7xvLm9LsqEw5U"
+    },
+    {
+      "album": {
+        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
     },
     {
       "album": {
@@ -922,7 +962,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 138319,
       "name": "Badman Killa",
       "url": "https://open.spotify.com/track/6NizpuU5YxTgr3HpuR3gLh"
@@ -940,7 +980,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 163265,
       "name": "Bado Nakupenda",
       "url": "https://open.spotify.com/track/6Pk0SaknPaIZSB8ZE3EWQq"
@@ -1454,6 +1494,24 @@
       "duration_ms": 165000,
       "name": "Body Go (with Tyla)",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
+    },
+    {
+      "album": {
+        "name": "Only Sad People Smile: Only Hurt People Heal",
+        "url": "https://open.spotify.com/album/7xjzOqRfqawB6xVeUn6mFj"
+      },
+      "artists": [
+        {
+          "name": "Salle",
+          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Bongolo Cigar",
+      "url": "https://open.spotify.com/track/7imLxDsO8VPbnbkt4EPOOK"
     },
     {
       "album": {
@@ -3758,7 +3816,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 200347,
       "name": "Hart Breek",
       "url": "https://open.spotify.com/track/7ExUCpJOBGTEGAPuCQVf5X"
@@ -3980,7 +4038,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 261333,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4ZeGRehi5kL2TL4Lkc30Cw"
@@ -4038,7 +4096,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
@@ -4092,7 +4150,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 182400,
       "name": "How I Want It",
       "url": "https://open.spotify.com/track/0IsysGvtKPy8kY1s94kP3p"
@@ -4197,6 +4255,24 @@
     },
     {
       "album": {
+        "name": "I Believe In Better",
+        "url": "https://open.spotify.com/album/5JEpbiNqmy1IfsdrM8SQks"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153573,
+      "name": "I Believe In Better",
+      "url": "https://open.spotify.com/track/4DQ5zn0wZytaZYM6UjLlMY"
+    },
+    {
+      "album": {
         "name": "I Choose You",
         "url": "https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB"
       },
@@ -4259,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "to what we were",
+        "url": "https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
       },
@@ -4296,6 +4390,24 @@
       "duration_ms": 179070,
       "name": "Ifineme",
       "url": "https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC"
+    },
+    {
+      "album": {
+        "name": "Imperfect Daughters",
+        "url": "https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK"
+      },
+      "artists": [
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Imperfect Daughters",
+      "url": "https://open.spotify.com/track/481OshZ1RPTStU15tZLic7"
     },
     {
       "album": {
@@ -5656,7 +5768,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 161684,
       "name": "Lukaku",
       "url": "https://open.spotify.com/track/1d1XEBuQ4NrlJIKJgYKWYt"
@@ -6426,7 +6538,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 181693,
       "name": "MR. MEDIA",
       "url": "https://open.spotify.com/track/2d3QwiqKhKGm03xr3RlnYH"
@@ -7444,7 +7556,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 152362,
       "name": "Omi",
       "url": "https://open.spotify.com/track/05IaRCMLCvwCwNlgnRFwm0"
@@ -8076,7 +8188,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 196153,
       "name": "Pomoni",
       "url": "https://open.spotify.com/track/6XKvZYp4RFUynZf6XUXrEC"
@@ -8244,7 +8356,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -9919,6 +10031,24 @@
     },
     {
       "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/5qiNP8sA873ePgXKzXuztO"
+      },
+      "artists": [
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128494,
+      "name": "Supreme Dee",
+      "url": "https://open.spotify.com/track/5Hvxbn7QfC2npYUlAGQjIG"
+    },
+    {
+      "album": {
         "name": "roses are red, tears are blue \u2014 A Fountain Baby Extended Play",
         "url": "https://open.spotify.com/album/5PG3V76DdkOmlZT7RyrvPU"
       },
@@ -10480,6 +10610,36 @@
       "duration_ms": 216842,
       "name": "Too Sweet (O Dun)",
       "url": "https://open.spotify.com/track/2mfWkv1pXb95OtgGDufSSR"
+    },
+    {
+      "album": {
+        "name": "Toss It",
+        "url": "https://open.spotify.com/album/3yQlKR9h9RrvUpfLVsLGIR"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        },
+        {
+          "name": "Lisha G",
+          "url": "https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212643,
+      "name": "Toss It",
+      "url": "https://open.spotify.com/track/6bOCT1tRZEq8c3F5JrGaWL"
     },
     {
       "album": {
@@ -11706,7 +11866,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 195078,
       "name": "Witches",
       "url": "https://open.spotify.com/track/27R1A3WZ5Zv0ywNe0Zunfr"

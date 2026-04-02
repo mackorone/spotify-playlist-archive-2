@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con RØZ hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,361 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,362 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 47 | [Ya entregamos el depa](https://open.spotify.com/track/2g9qtIpesI41FsO2uqKdt8) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Ya entregamos el depa](https://open.spotify.com/album/7nkd5A2CFzvl3nEyCkrExA) | 3:24 |
 | 48 | [Monster Truck \- GALLERY SESSION](https://open.spotify.com/track/4hAjY8ZxO6fxJOIgWD7POn) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Monster Truck \(GALLERY SESSION\)](https://open.spotify.com/album/0QOZyvLxMIbInPd6fN5ytL) | 3:52 |
 | 49 | [ROKALETA!](https://open.spotify.com/track/0lt39TTaP09rUJspqQxvQa) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [ROKALETA!](https://open.spotify.com/album/0lvjK0WwoO0eKXScQaPQlI) | 2:48 |
-| 50 | [Mirando La Luna](https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Mirando La Luna](https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm) | 3:31 |
-| 51 | [tqm <3](https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [tqm <3](https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ) | 2:36 |
+| 50 | [tqm <3](https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [tqm <3](https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ) | 2:36 |
+| 51 | [Mirando La Luna](https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Mirando La Luna](https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm) | 3:31 |
 | 52 | [incompatibles](https://open.spotify.com/track/4UuPW5pNUwY46OhmaxwrvN) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [no somos iguales](https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI) | 2:51 |
 | 53 | [superloved!](https://open.spotify.com/track/24LSHVR39KTK8Y0kQngmBv) | [iuky](https://open.spotify.com/artist/0DSyNVb6qcsOmbTTN1Yzs9) | [ai nostalgia](https://open.spotify.com/album/1lzvc6Q7bjThtfFjP4J5PE) | 2:18 |
 | 54 | [NÃO TEM FIN \(garota fav\)](https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [HOTCORE](https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB) | 2:43 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 69 | [bi333n](https://open.spotify.com/track/0DKhZC4VISPMkvP3zt8qj4) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [bi333n](https://open.spotify.com/album/2AqdCoRqdTKY6ktlALb2Pe) | 3:16 |
 | 70 | [CUANDO LLUEVA](https://open.spotify.com/track/5iLFWbFDC4UVVNRHNhIqQE) | [Blo](https://open.spotify.com/artist/0KUh8oxldeWuZ8pKAvvet4) | [CUANDO LLUEVA](https://open.spotify.com/album/4wSnDrKuZ4JShcIO6QIXRe) | 3:01 |
 | 71 | [Bit$h](https://open.spotify.com/track/3lgwYOFzntftXyYfSZAzZ1) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Bit$h](https://open.spotify.com/album/2AHWTdVpiqKu9O8DUzVNKh) | 2:42 |
-| 72 | [Quiere cochinero](https://open.spotify.com/track/38pOl8Y8hZ3Zz2SZqvtTJS) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Viglezz](https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5) | [Quiere cochinero](https://open.spotify.com/album/0d30ZwfEoue2bqplBtVM7P) | 2:11 |
-| 73 | [techno s3x!](https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [techno s3x!](https://open.spotify.com/album/2PVldRuU7VY5l29EHD4FBc) | 2:25 |
-| 74 | [otravezmepusemal](https://open.spotify.com/track/5ZFKptR2zvSWsdULKgkRSU) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [otravezmepusemal](https://open.spotify.com/album/7M9VI5fEgbOCfuPZHDjyAN) | 2:46 |
+| 72 | [techno s3x!](https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [techno s3x!](https://open.spotify.com/album/2PVldRuU7VY5l29EHD4FBc) | 2:25 |
+| 73 | [otravezmepusemal](https://open.spotify.com/track/5ZFKptR2zvSWsdULKgkRSU) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [otravezmepusemal](https://open.spotify.com/album/7M9VI5fEgbOCfuPZHDjyAN) | 2:46 |
+| 74 | [Quiere cochinero](https://open.spotify.com/track/38pOl8Y8hZ3Zz2SZqvtTJS) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Viglezz](https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5) | [Quiere cochinero](https://open.spotify.com/album/0d30ZwfEoue2bqplBtVM7P) | 2:11 |
 | 75 | [Off White](https://open.spotify.com/track/4sj7tghP47QWsae9SP6rBU) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Off White](https://open.spotify.com/album/5FKN5jNpd4K8VLE2PFIoFc) | 2:18 |
-| 76 | [sistemu](https://open.spotify.com/track/2eZ4UueTIiww52lJSUFHCE) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [sistemu](https://open.spotify.com/album/2SUfo7fFqTi6ZXITvJWrvc) | 3:04 |
-| 77 | [TAKA](https://open.spotify.com/track/7KRNnoQRleJrZ51uBtPOHo) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [TAKA](https://open.spotify.com/album/4ozvNAAJnOag9nIQl4VPlF) | 1:26 |
-| 78 | [Icono](https://open.spotify.com/track/6nEfUHrjohafrLeq884vyr) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [YNQNPQSD](https://open.spotify.com/album/69BYUcITBBHyuki8YHssg9) | 2:32 |
-| 79 | [Bachata para un feo](https://open.spotify.com/track/2hLOqY9RIZM5D0ph1PKTNs) | [Hana Fox](https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9) | [Zorritas en Bikini](https://open.spotify.com/album/7oZcKuM8XMieABtTqsNly7) | 2:40 |
-| 80 | [POV](https://open.spotify.com/track/1AUfXpLXwRWlqt6P2QmDUY) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POV](https://open.spotify.com/album/1fsYaTXO92NsgRl6idUfYS) | 2:21 |
+| 76 | [Icono](https://open.spotify.com/track/6nEfUHrjohafrLeq884vyr) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [YNQNPQSD](https://open.spotify.com/album/69BYUcITBBHyuki8YHssg9) | 2:32 |
+| 77 | [sistemu](https://open.spotify.com/track/2eZ4UueTIiww52lJSUFHCE) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [sistemu](https://open.spotify.com/album/2SUfo7fFqTi6ZXITvJWrvc) | 3:04 |
+| 78 | [POV](https://open.spotify.com/track/1AUfXpLXwRWlqt6P2QmDUY) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POV](https://open.spotify.com/album/1fsYaTXO92NsgRl6idUfYS) | 2:21 |
+| 79 | [TAKA](https://open.spotify.com/track/7KRNnoQRleJrZ51uBtPOHo) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [TAKA](https://open.spotify.com/album/4ozvNAAJnOag9nIQl4VPlF) | 1:26 |
+| 80 | [Bachata para un feo](https://open.spotify.com/track/2hLOqY9RIZM5D0ph1PKTNs) | [Hana Fox](https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9) | [Zorritas en Bikini](https://open.spotify.com/album/7oZcKuM8XMieABtTqsNly7) | 2:40 |
 
 Snapshot ID: `AAAAAEtRQ+JLRpIcjowlpc2lUdkc/7t1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover:  Arima Ederra
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,766 likes - 165 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,756 likes - 165 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 71 | [beautiful war \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7nT6RNdexQaPonsiV4pWNH) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 2:02 |
 | 72 | [Until It's Dust](https://open.spotify.com/track/616o0X9kcvy732UKKnL68j) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 2:35 |
 | 73 | [Reckless Soul \- demo](https://open.spotify.com/track/7yO88YQ8NjN7ib9x6bBq6G) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De) | 3:54 |
-| 74 | [LOML Acoustic \(feat, Joseph Solomon\)](https://open.spotify.com/track/1jEDLZN37ub6VqdynSXujr) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN), [Jace](https://open.spotify.com/artist/0vaKiuLwFJLVU664A8GTjE) | [Love's Letter \(Deluxe\)](https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2) | 2:57 |
+| 74 | [LOML Acoustic \(feat, Joseph Solomon\)](https://open.spotify.com/track/1jEDLZN37ub6VqdynSXujr) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN), [Jace](https://open.spotify.com/artist/5qEITukg3Sp5JIHwnCm3cK) | [Love's Letter \(Deluxe\)](https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2) | 2:57 |
 | 75 | [Heal U](https://open.spotify.com/track/41l95qoyybdbcWm0mvMjzX) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Heal U / Out My Hair](https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J) | 1:39 |
 | 76 | [scrabble](https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Agnus](https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF) | 2:16 |
 | 77 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 |

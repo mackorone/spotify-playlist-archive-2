@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,766 likes - 125 songs - 8 hr 15 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,767 likes - 128 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,5 +133,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 123 | [Esploratore](https://open.spotify.com/track/1WC9lEhr79UeT1rV9c0mOC) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Claudia / Esploratore](https://open.spotify.com/album/1qs6f1FbQuFIoXuH1KeF4v) | 4:50 |
 | 124 | [Barroom Brawl on a Friday Night](https://open.spotify.com/track/4Yblk5pDY4rZaWTyocDsWW) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:54 |
 | 125 | [A Candle's Night](https://open.spotify.com/track/5SOKQmZoBsA4SaLKfntmE5) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [Dreamscape Odyssey](https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD) | 4:39 |
+| 126 | [Big Dick Boogie](https://open.spotify.com/track/76x8P66beazlp4BtXaGXpn) | [Hot Molluscs](https://open.spotify.com/artist/3m3ppkQCBHSbev6IHIG8XY) | [The Smelly Sound of Hot Molluscs](https://open.spotify.com/album/0Tby9AMVwYQoUGY7LpwDaZ) | 1:24 |
+| 127 | [Trouble](https://open.spotify.com/track/4bAbgD2Tv3v1d0fuJNg1ar) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Trouble](https://open.spotify.com/album/766W9V5Bg6ZX5rm46fuVWX) | 4:32 |
+| 128 | [Janet](https://open.spotify.com/track/1JNOovQfkhp3fnB5oodVQv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p) | [Janet](https://open.spotify.com/album/0NrLESS4kSbJR6jcmzgG0Z) | 3:09 |
 
-Snapshot ID: `AAAK+IkbVxyRk/x6U+NxAlZX5c+cgPmp`
+Snapshot ID: `AAAK+7IDz6aKfYOlNA6SigQdkFtBv0V1`

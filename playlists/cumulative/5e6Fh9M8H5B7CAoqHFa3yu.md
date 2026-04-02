@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,045 songs - 5 day 1 hr 21 min
+2,047 songs - 5 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Digan lo que digan](https://open.spotify.com/track/47HWicWuQGJhs2sAVrU9gL) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 3:25 | 2026-03-15 |  |
 | [Digital Meadow](https://open.spotify.com/track/6ItfH8oY8zaLd0Hls0l8nl) | [White Latex](https://open.spotify.com/artist/5Ne2cH95chM7wgjsqPn0vM) | [Digital Meadow](https://open.spotify.com/album/4pxWl9BvQTZaK1yp9vpr5c) | 2:32 | 2025-05-06 |  |
 | [Dioses del Vudú](https://open.spotify.com/track/6mbTqEDd4nVWiFCCXfmDZA) | [José Biggs](https://open.spotify.com/artist/4Xcz7okpxQnOh6neuiauiO), [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Dioses del Vudú](https://open.spotify.com/album/0BCY4TqPnnqjTrcBzqAcpt) | 3:31 | 2025-12-18 |  |
+| [Directamente del Cielo](https://open.spotify.com/track/72a9t5mhsKriamVuPqDAJj) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Directamente del Cielo](https://open.spotify.com/album/2U6pc5ziwVV895tqWX47iz) | 3:52 | 2026-04-01 |  |
 | [Dis\-ease](https://open.spotify.com/track/0hxeouHqP3qzpTHerA7ha2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:59 | 2026-03-15 |  |
 | [Discernment Dub](https://open.spotify.com/track/5hdcmtSxNKAvOvSII0lWGG) | [R\-Juna](https://open.spotify.com/artist/0aQXmVGvxpQmQ3UbZttDBb) | [Dubs and Praises](https://open.spotify.com/album/3sY7rsSxS37DDDnAzfRFvq) | 4:11 | 2024-07-06 |  |
 | [Disco Came To Me \- Dub Siren Remix](https://open.spotify.com/track/3HrRF1Tu6wMhKLm5wvf91T) | [Dub Siren](https://open.spotify.com/artist/2938cUChrEuOWujh69t53H), [The Business](https://open.spotify.com/artist/337PhiZQ4YBA5ZiQxO6QhZ) | [Dub Down To Business](https://open.spotify.com/album/2D4LJ3tcxpUUi5lH7Sek4B) | 4:11 | 2024-04-26 |  |
@@ -1165,6 +1166,7 @@
 | [Moroccans In Formentera \- Extended Mix](https://open.spotify.com/track/5NiGS2BgpwchdyCDOTRRGl) | [Mwamba Group](https://open.spotify.com/artist/4wQTmrzVZ2pUDsr2gaUXND) | [Moroccans In Formentera](https://open.spotify.com/album/6fpm9vB4dgG4V5uU7A3TPR) | 3:22 | 2025-11-23 |  |
 | [Mostrami](https://open.spotify.com/track/23IOoGYyPnA57M595F4Nds) | [Susina](https://open.spotify.com/artist/0qiqErZ1ytHMgeBlYga3QU) | [Mostrami](https://open.spotify.com/album/20dnfUDovHhKaniP4hhg7Q) | 3:57 | 2026-01-12 |  |
 | [Mother Zion \(2024 Version\)](https://open.spotify.com/track/6nEMFrVTjUVQtFQDlBO69k) | [Don Hartley](https://open.spotify.com/artist/0SfhVh8KZdNxqRvIvQyCTb), [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA) | [Song of Creation](https://open.spotify.com/album/6kQMD2aOvWxIOQe9I3T9Ja) | 4:20 | 2024-04-01 |  |
+| [Mothman](https://open.spotify.com/track/38gi9OlVKpj6zwtNKK0dDc) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Mothman](https://open.spotify.com/album/2Ep74PqtVoHvQYwZ033Nvs) | 5:11 | 2026-04-01 |  |
 | [Motivation Progress](https://open.spotify.com/track/7MiGzH6INaZGKg0dVkHzMW) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 1:44 | 2026-02-21 |  |
 | [MOTTO](https://open.spotify.com/track/0pHrAAe6sSVDeUeNe5IesY) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 3:37 | 2025-02-15 |  |
 | [Mount Zion Dub](https://open.spotify.com/track/0HCRPPpeQTyStnEGBn2uBM) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 3:55 | 2024-03-25 |  |

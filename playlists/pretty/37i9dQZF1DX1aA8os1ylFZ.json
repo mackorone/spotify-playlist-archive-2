@@ -1,6 +1,6 @@
 {
   "description": "Nieuwe R&B releases | Cover: Neema Nekesa",
-  "num_followers": 294974,
+  "num_followers": 294971,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2026-03-26 23:00:25",
       "album": {
+        "name": "So Bad (bonus track)",
+        "url": "https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92"
+      },
+      "artists": [
+        {
+          "name": "Robyn Florence",
+          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
+        },
+        {
+          "name": "DAVIES",
+          "url": "https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y"
+        }
+      ],
+      "duration_ms": 120593,
+      "name": "So Bad - bonus track",
+      "url": "https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe"
+    },
+    {
+      "added_at": "2026-03-26 23:00:25",
+      "album": {
         "name": "125 Degrees",
         "url": "https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 159512,
       "name": "Club",
       "url": "https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE"
-    },
-    {
-      "added_at": "2026-03-26 23:00:25",
-      "album": {
-        "name": "So Bad (bonus track)",
-        "url": "https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92"
-      },
-      "artists": [
-        {
-          "name": "Robyn Florence",
-          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
-        },
-        {
-          "name": "DAVIES",
-          "url": "https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y"
-        }
-      ],
-      "duration_ms": 120593,
-      "name": "So Bad - bonus track",
-      "url": "https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe"
     },
     {
       "added_at": "2026-03-26 23:00:25",

@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 467186,
       "name": "Finished Work - Live From Chattanooga, TN",
       "url": "https://open.spotify.com/track/4k1Hnj1h4nt31KRtCufbB1"
@@ -8046,6 +8046,28 @@
       "duration_ms": 287800,
       "name": "Take, Eat, Drink - Live",
       "url": "https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE"
+    },
+    {
+      "album": {
+        "name": "Thank The Lord",
+        "url": "https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB"
+      },
+      "artists": [
+        {
+          "name": "Madison Street Worship",
+          "url": "https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53"
+        },
+        {
+          "name": "Noah Hinshaw",
+          "url": "https://open.spotify.com/artist/5G6xDPshmI9d5TObWw0VJM"
+        }
+      ],
+      "date_added": "2026-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279266,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8"
     },
     {
       "album": {

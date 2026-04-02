@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Jenevieve
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,880 likes - 160 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,903 likes - 160 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 17 | [Gemini Eyes](https://open.spotify.com/track/0iAj8Y4ZSdezYNsqDjiFpd) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Gemini Eyes](https://open.spotify.com/album/6v9iRVS2E9epoj2xr1c2tL) | 4:59 |
 | 18 | [Move \(feat\. Lucky Daye\)](https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Move](https://open.spotify.com/album/1BCPjUqJvqEOkF5b7hKULR) | 2:52 |
 | 19 | [Egyptian Musk](https://open.spotify.com/track/6pWBJcgaNcW5xEVL9RbCgd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Egyptian Musk](https://open.spotify.com/album/1ilqhT6re7DWrMLFSKj0Gy) | 3:31 |
-| 20 | [Shame \(feat\. BunnaB\)](https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Shame \(feat\. BunnaB\)](https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG) | 3:02 |
+| 20 | [Shame](https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Shame](https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG) | 3:02 |
 | 21 | [Maybe](https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Maybe](https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm) | 3:02 |
 | 22 | [Sofa Joy](https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return](https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR) | 3:44 |
 | 23 | [badman](https://open.spotify.com/track/4406h74Yzu8yH3TfsKJ41L) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [badman](https://open.spotify.com/album/7HryhBfvpRhVRzcWF2SH8W) | 2:54 |

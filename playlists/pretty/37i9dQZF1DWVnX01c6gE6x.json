@@ -1,13 +1,109 @@
 {
-  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"spotify:show:33otctvlvENqmean7uvNWH\">Cachorritas Podcast</a>",
+  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"sspotify:show:6GqaBGrJau17NofsIw9R1J\">Ideas de Altura Podcast</a>",
   "num_followers": 2978,
   "original_name": "RADAR Creadores M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD+LT2pJipcgRKznvDY3fP0IbrDr",
+  "snapshot_id": "AAAAAEFf2sTY3xNJrrWxatqOKLYC5ZPW",
   "tracks": [
+    {
+      "added_at": "2026-04-01 18:10:40",
+      "album": {
+        "name": "Ideas de Altura Podcast",
+        "url": "https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J"
+      },
+      "artists": [
+        {
+          "name": "Ideas de Altura Podcast",
+          "url": "https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J"
+        }
+      ],
+      "duration_ms": 4315083,
+      "name": "2x6 - \u201cNo hemos hablado en meses\u201d - Pir\u00e1mides de Zirahuato, Michoac\u00e1n",
+      "url": "https://open.spotify.com/episode/4nGQ06tUWTwzjaerWbCITP"
+    },
+    {
+      "added_at": "2026-03-02 16:16:51",
+      "album": {
+        "name": "Ideas de Altura Podcast",
+        "url": "https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J"
+      },
+      "artists": [
+        {
+          "name": "Ideas de Altura Podcast",
+          "url": "https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J"
+        }
+      ],
+      "duration_ms": 3319978,
+      "name": "2x3 Jama\u0301s pense\u0301 llegar a ser presidente de Me\u0301xico Vicente Fox Leo\u0301n Gto",
+      "url": "https://open.spotify.com/episode/7lsQ2JttpKzbIJc4NvgcgW"
+    },
+    {
+      "added_at": "2026-03-02 16:16:51",
+      "album": {
+        "name": "Ideas de Altura Podcast",
+        "url": "https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J"
+      },
+      "artists": [
+        {
+          "name": "Ideas de Altura Podcast",
+          "url": "https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J"
+        }
+      ],
+      "duration_ms": 4725333,
+      "name": " 2x2 - Supositorios en la vida adulta - Kayko - Puerto la Camotera.",
+      "url": "https://open.spotify.com/episode/580Yz0V1atmbENWt9ZCmEK"
+    },
+    {
+      "added_at": "2026-04-01 23:28:44",
+      "album": {
+        "name": "El Sindicato de Inexpertos",
+        "url": "https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF"
+      },
+      "artists": [
+        {
+          "name": "El Sindicato de Inexpertos",
+          "url": "https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF"
+        }
+      ],
+      "duration_ms": 7769642,
+      "name": "EP27: IA nos carg\u00f3 el payaso: El lado oscuro de la IA",
+      "url": "https://open.spotify.com/episode/5NH0f3858s4Fz2smpWFbmm"
+    },
+    {
+      "added_at": "2026-04-01 23:28:44",
+      "album": {
+        "name": "El Sindicato de Inexpertos",
+        "url": "https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF"
+      },
+      "artists": [
+        {
+          "name": "El Sindicato de Inexpertos",
+          "url": "https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF"
+        }
+      ],
+      "duration_ms": 4167701,
+      "name": "EP32: \u00bfPensamos distinto seg\u00fan nuestra cultura?",
+      "url": "https://open.spotify.com/episode/2nBSmjwj3QOpcFR6JfcbsF"
+    },
+    {
+      "added_at": "2026-02-03 13:44:25",
+      "album": {
+        "name": "El Sindicato de Inexpertos",
+        "url": "https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF"
+      },
+      "artists": [
+        {
+          "name": "El Sindicato de Inexpertos",
+          "url": "https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF"
+        }
+      ],
+      "duration_ms": 4674474,
+      "name": "EP34: Cuando Me\u0301xico bebio\u0301 leche radiactiva en los an\u0303os 80",
+      "url": "https://open.spotify.com/episode/177dzOFPIr8GduoHckHnQn"
+    },
     {
       "added_at": "2026-02-03 13:44:25",
       "album": {
@@ -55,102 +151,6 @@
       "duration_ms": 1796017,
       "name": "Noviazgos de Pueblo | Cachorritas Podcast | Ep 02",
       "url": "https://open.spotify.com/episode/6fM5cok1ukGOOWUX06KQe3"
-    },
-    {
-      "added_at": "2026-03-02 16:16:51",
-      "album": {
-        "name": "El Sindicato de Inexpertos",
-        "url": "https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF"
-      },
-      "artists": [
-        {
-          "name": "El Sindicato de Inexpertos",
-          "url": "https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF"
-        }
-      ],
-      "duration_ms": 6901547,
-      "name": "EP36: Fetiches: no eres tan inocente",
-      "url": "https://open.spotify.com/episode/255HCJ2W4R2SJsVlcRNZwx"
-    },
-    {
-      "added_at": "2026-03-02 16:16:51",
-      "album": {
-        "name": "El Sindicato de Inexpertos",
-        "url": "https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF"
-      },
-      "artists": [
-        {
-          "name": "El Sindicato de Inexpertos",
-          "url": "https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF"
-        }
-      ],
-      "duration_ms": 5364032,
-      "name": "EP39: Bob Esponja y la Guerra Fr\u00eda",
-      "url": "https://open.spotify.com/episode/1Lbub01bSmox0m9XdZL8ge"
-    },
-    {
-      "added_at": "2026-02-03 13:44:25",
-      "album": {
-        "name": "El Sindicato de Inexpertos",
-        "url": "https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF"
-      },
-      "artists": [
-        {
-          "name": "El Sindicato de Inexpertos",
-          "url": "https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF"
-        }
-      ],
-      "duration_ms": 4674474,
-      "name": "EP34: Cuando Me\u0301xico bebio\u0301 leche radiactiva en los an\u0303os 80",
-      "url": "https://open.spotify.com/episode/177dzOFPIr8GduoHckHnQn"
-    },
-    {
-      "added_at": "2026-03-02 16:16:51",
-      "album": {
-        "name": "Ideas de Altura Podcast",
-        "url": "https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J"
-      },
-      "artists": [
-        {
-          "name": "Ideas de Altura Podcast",
-          "url": "https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J"
-        }
-      ],
-      "duration_ms": 3319978,
-      "name": "2x3 Jama\u0301s pense\u0301 llegar a ser presidente de Me\u0301xico Vicente Fox Leo\u0301n Gto",
-      "url": "https://open.spotify.com/episode/7lsQ2JttpKzbIJc4NvgcgW"
-    },
-    {
-      "added_at": "2026-03-02 16:16:51",
-      "album": {
-        "name": "Ideas de Altura Podcast",
-        "url": "https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J"
-      },
-      "artists": [
-        {
-          "name": "Ideas de Altura Podcast",
-          "url": "https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J"
-        }
-      ],
-      "duration_ms": 4725333,
-      "name": " 2x2 - Supositorios en la vida adulta - Kayko - Puerto la Camotera.",
-      "url": "https://open.spotify.com/episode/580Yz0V1atmbENWt9ZCmEK"
-    },
-    {
-      "added_at": "2026-03-02 16:16:51",
-      "album": {
-        "name": "Ideas de Altura Podcast",
-        "url": "https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J"
-      },
-      "artists": [
-        {
-          "name": "Ideas de Altura Podcast",
-          "url": "https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J"
-        }
-      ],
-      "duration_ms": 4396375,
-      "name": "1x6 Roc\u00edo G\u00f3mez Turner - Sierra Madre Oriental",
-      "url": "https://open.spotify.com/episode/0maD34Qs6e0xvAVTse1Kzt"
     }
   ],
   "unique_name": "RADAR Creadores M\u00e9xico",

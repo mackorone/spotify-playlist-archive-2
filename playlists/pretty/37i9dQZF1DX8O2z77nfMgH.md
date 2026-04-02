@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: María Becerra, Jere Klein y Lucky Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,738 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,647 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,6 +59,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Off White](https://open.spotify.com/track/2srFyvXMD55ROPBAsl9s79) | [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Global Tone](https://open.spotify.com/artist/1wUYnjWdxxxUG3yDs9s9Jv) | [Off White](https://open.spotify.com/album/2g9Q2DfKpv6TZCbgkTc5YH) | 3:04 |
 | 50 | [Noche](https://open.spotify.com/track/42AStJYmglTAHAgER92gxv) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Noche](https://open.spotify.com/album/3IpjbBkyfU8jHG69ch0Y2l) | 2:35 |
 | 51 | [Santa Marta](https://open.spotify.com/track/2Wf92vt3bvPooo0iiQD5qC) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H) | [Santa Marta](https://open.spotify.com/album/1ptEGaKu0c9bgbiFYTUPnH) | 2:58 |
-| 52 | [Cumbia Triste](https://open.spotify.com/track/192u7FmFBmwrSnLSlOEPrf) | [Tefi](https://open.spotify.com/artist/7hf2PtFehOy0iRiGMy4Pte) | [Cumbia Triste](https://open.spotify.com/album/6BUMlwoqI6qkh2F89YUJCW) | 3:12 |
 
-Snapshot ID: `AAAAAKyTmIB/oBJhWsZw8q89rauXYqxm`
+Snapshot ID: `AAAAAKeqZb/U7pcLUTyozNiULivF6snW`

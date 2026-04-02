@@ -4,7 +4,7 @@
 
 > BLANCO e Elisa insieme in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,883 songs - 6 day 4 hr 46 min
+2,884 songs - 6 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Bulletproof](https://open.spotify.com/track/1ri7qgzvvkuuzrybIPv8jG) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Bulletproof](https://open.spotify.com/album/4Chq3QRyD8mU9j96S88vMJ) | 2:52 | 2025-09-04 | 2025-09-26 |
 | [Bullseye \(with Hozier\)](https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:23 | 2025-03-27 | 2025-04-25 |
 | [Buon trasloco](https://open.spotify.com/track/3QLMlVX2QydtebrLV5vK2G) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA \(SEMPRE\)](https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f) | 4:20 | 2025-09-25 | 2025-10-17 |
+| [BUONA DOMENICA](https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BUONA DOMENICA](https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn) | 3:07 | 2026-04-01 |  |
 | [Buona Fortuna](https://open.spotify.com/track/6Z9AIKOYaKFJ5nHtR2z5gw) | [Negrita](https://open.spotify.com/artist/0Tuudqq2NACRXkvTQGazY2) | [Canzoni Per Anni Spietati](https://open.spotify.com/album/2M4K5y2gGuKqjZ66MHkl9W) | 3:25 | 2025-03-27 | 2025-04-18 |
 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 | 2025-11-13 | 2025-12-12 |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-27 | 2024-07-05 |

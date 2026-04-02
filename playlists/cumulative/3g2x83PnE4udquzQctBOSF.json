@@ -2613,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "Jazzy-Hazy",
+        "url": "https://open.spotify.com/album/6EuY3dU5mtxrkyBXD4cnHw"
+      },
+      "artists": [
+        {
+          "name": "Archi K",
+          "url": "https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY"
+        },
+        {
+          "name": "\u0410\u0440\u0442\u0443\u0440 \u041a\u0435\u0442\u043e\u0432",
+          "url": "https://open.spotify.com/artist/5g68HnhWHSrMC15D0qLL16"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178048,
+      "name": "Deep In",
+      "url": "https://open.spotify.com/track/5C7RLTV7tbTjStCdn8KrEt"
+    },
+    {
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/2HJ5dqnKM6w7yFhgWkrxyu"
       },

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Haydon Wiginton, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Sheyna Gee, Artwork: Fanélie Muselier
 
-3,627 songs - 8 day 4 hr 30 min
+3,632 songs - 8 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [A Lot to Drink About](https://open.spotify.com/track/1QAoM5KCDzsfDczEukSxaT) | [Tae Lewis](https://open.spotify.com/artist/65Gdp0Q6VzkzWyT4oNZqAG) | [A Lot to Drink About](https://open.spotify.com/album/0XwkLlMBWRRgrrx2PJQYlU) | 2:49 | 2022-09-07 | 2022-10-20 |
 | [A Lot to Say](https://open.spotify.com/track/2XKi1sCyGulDK3pkSbCWxp) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [A Lot to Say](https://open.spotify.com/album/4Wt9TBybFnIe0VsIFXIeKi) | 2:29 | 2022-10-05 | 2022-12-01 |
 | [A New Set of Reasons](https://open.spotify.com/track/3IEOMpH46AzVNloo0CP1i7) | [Lost Saints](https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy) | [A New Set of Reasons](https://open.spotify.com/album/0kqku8xYoYGxO2wH2JizM5) | 3:58 | 2023-01-11 | 2023-02-09 |
+| [A Parking Lot Far Away](https://open.spotify.com/track/0T8xDz3TD4Nw3wQKdehaZL) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [A Parking Lot Far Away](https://open.spotify.com/album/3hsL6Hqc9N163vaZ9so4XM) | 2:30 | 2026-04-01 |  |
 | [A Song Will Bring You Back](https://open.spotify.com/track/5pWhoes9LoDbj2Pv2ECaSO) | [Adam Wainwright](https://open.spotify.com/artist/0pLXBL13fiGoq8No1Ub3pm) | [A Song Will Bring You Back](https://open.spotify.com/album/3cByc3X0HxgAh5RwmebM2c) | 3:38 | 2024-03-27 | 2024-07-11 |
 | [About Jill](https://open.spotify.com/track/3TNsSljwgNKvSoBsFCDyNr) | [Jordan Fletcher](https://open.spotify.com/artist/43U27Vp3DiU94H7FJx804a) | [About Jill](https://open.spotify.com/album/7aO4tYezpOhrHSWscKseN9) | 3:20 | 2024-08-28 | 2025-01-16 |
 | [about me.](https://open.spotify.com/track/4k3GSjOrsfKexMd04JgGZ9) | [PJ North](https://open.spotify.com/artist/6NWptU8WArewy8NBT9JN7B) | [about me.](https://open.spotify.com/album/0Nf7CdcN5HeDZJusJtzqTp) | 3:06 | 2022-01-12 | 2022-02-03 |
@@ -1350,6 +1351,7 @@
 | [Hearts & Horses](https://open.spotify.com/track/3svBTyV9TxdU0JJo5qLvjF) | [Dawson Anderson](https://open.spotify.com/artist/6z1wQeRT32RJucR7LoCNVW) | [Hearts & Horses](https://open.spotify.com/album/56IMjwYbdHKwbQzbpEh7CY) | 3:18 | 2024-07-03 | 2024-08-08 |
 | [Hearts Don't](https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Hearts Don't](https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz) | 3:38 | 2025-01-29 | 2025-04-03 |
 | [Hearts Like Mine](https://open.spotify.com/track/3uzXlgeVmB5zaS8mFczuIN) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Hearts Like Mine](https://open.spotify.com/album/2gQ8i7TJnxGONt9Z058IPk) | 3:37 | 2023-05-17 | 2023-06-22 |
+| [Heaven](https://open.spotify.com/track/3b6ML7IIHgzDOegifx5YFi) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Two Weeks](https://open.spotify.com/album/77Gi3JhxKjaekkSn6rGtsQ) | 2:51 | 2026-04-01 |  |
 | [Heaven Already](https://open.spotify.com/track/1zP0ingxxUkl4EWm6Hb2TY) | [Blake Henderson](https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4) | [Heaven Already](https://open.spotify.com/album/5s6dF43fepSQd6TteCLDI5) | 3:41 | 2024-10-02 | 2024-12-05 |
 | [Heaven In You](https://open.spotify.com/track/32f4VEMljTRYeXbixyFDD4) | [Matt Cooper](https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM) | [Heaven In You](https://open.spotify.com/album/0cbiiIWA5Gfg4GD3raILD5) | 3:25 | 2023-09-13 | 2023-11-30 |
 | [Heaven Knows](https://open.spotify.com/track/0XdfsJ8GKpMFOzjIlcCCg8) | [Morgan Johnston](https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC) | [Heaven Knows](https://open.spotify.com/album/36Bo4usiO7Aww7U7MIm8y3) | 3:29 | 2023-09-27 | 2023-11-30 |
@@ -1705,7 +1707,7 @@
 | [Johnny Moonshine](https://open.spotify.com/track/0ATFnX3OZPtaRgzDThhpxT) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Rhinestoned](https://open.spotify.com/album/5XEFMMgAByAZq8rYn6hE6t) | 2:58 | 2024-08-28 | 2024-12-05 |
 | [Johnny Moonshine](https://open.spotify.com/track/0stjCXW1ny6dRPtxhU6cqz) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Johnny Moonshine](https://open.spotify.com/album/2xgWJk6MgbNCnmesnaOqif) | 2:58 | 2024-05-29 | 2024-06-13 |
 | [Jump Right In](https://open.spotify.com/track/0AToIsDCEXXs2GqjGUoQsk) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Jump Right In](https://open.spotify.com/album/5CfMbOsqhphHWbbxFHrYMq) | 3:07 | 2022-03-02 | 2022-04-14 |
-| [Junior Stayed Home](https://open.spotify.com/track/0LSmvfAYa3kJoVaNX6aC0a) | [Graham St\. Clair Band](https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv) | [Junior Stayed Home](https://open.spotify.com/album/3wLJrVlhhX9HJRDsntBGHz) | 4:48 | 2026-01-14 |  |
+| [Junior Stayed Home](https://open.spotify.com/track/0LSmvfAYa3kJoVaNX6aC0a) | [Graham St\. Clair Band](https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv) | [Junior Stayed Home](https://open.spotify.com/album/3wLJrVlhhX9HJRDsntBGHz) | 4:48 | 2026-01-14 | 2026-04-02 |
 | [Just 21](https://open.spotify.com/track/68PL4PLUa1nksoJfiQxMRJ) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Just 21](https://open.spotify.com/album/1T3PKH1G49Y5dBQgB2fcfc) | 3:04 | 2024-03-13 | 2024-05-16 |
 | [Just 4 July](https://open.spotify.com/track/68pMoYD0qI20cSuakhGYSe) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [Just 4 July](https://open.spotify.com/album/3pQUs4KGJ81EkWfM57TZ1m) | 3:10 | 2022-07-06 | 2022-08-04 |
 | [Just A Broken Heart](https://open.spotify.com/track/3JYDRkB9to5AgSbmNRgLn9) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Just A Broken Heart](https://open.spotify.com/album/3V9kabuhJFGSRhD2nA69H9) | 3:00 | 2024-08-21 | 2024-10-24 |
@@ -2085,7 +2087,7 @@
 | [Meet Me in Tennessee](https://open.spotify.com/track/7hY8B5UJujnROfsh2F9IND) | [Emily Roth](https://open.spotify.com/artist/63DcWh43Brnv7VeqJxkVUu) | [Meet Me in Tennessee](https://open.spotify.com/album/5V4OoKlYHPnHWaRVXChCg2) | 3:41 | 2022-03-16 | 2022-04-27 |
 | [Memorize You](https://open.spotify.com/track/0B4wrbEkwDAyODIQibCapX) | [Laine Hardy](https://open.spotify.com/artist/2e4sMCgdXD5TkFquoTEA4j) | [Memorize You](https://open.spotify.com/album/3fejbCL8FwsjIFIy3pSr5R) | 3:15 | 2021-12-01 | 2022-01-13 |
 | [Memory Lane](https://open.spotify.com/track/5R8HWH0p2XeThCIiwAGK2v) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [Memory Lane](https://open.spotify.com/album/4HDp2y7nycyTuKYJf30XO5) | 3:13 | 2025-11-25 | 2025-12-04 |
-| [Mercy \(Pray for Me\)](https://open.spotify.com/track/6gmgWv7tCdaU8iTgOFSCKv) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Mercy \(Pray for Me\)](https://open.spotify.com/album/1SNztvheNytUoYVIrX2gbw) | 2:47 | 2026-02-25 |  |
+| [Mercy \(Pray for Me\)](https://open.spotify.com/track/6gmgWv7tCdaU8iTgOFSCKv) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Mercy \(Pray for Me\)](https://open.spotify.com/album/1SNztvheNytUoYVIrX2gbw) | 2:47 | 2026-02-25 | 2026-04-02 |
 | [Mess This Up](https://open.spotify.com/track/7FdTCgQypaNWEbaibxmylA) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [Mess This Up](https://open.spotify.com/album/2q7oVBF3JgL4dvw36C51wK) | 3:07 | 2022-01-19 | 2023-01-12 |
 | [Messed Up](https://open.spotify.com/track/6mTsUbPFWNMCcqGrK3TwAx) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [Messed Up](https://open.spotify.com/album/1cIF7pimPYCqCxZQz5XfuR) | 2:43 | 2022-04-27 | 2022-05-26 |
 | [Midnight In Milwaukee](https://open.spotify.com/track/4xRmsdxe9xyxOBoPPtcEa4) | [Nora Collins](https://open.spotify.com/artist/2VQCul6BaaFxpL6lkZUxUg) | [Midnight In Milwaukee](https://open.spotify.com/album/6JXNCuNmL2i8W0DcS1tHhT) | 3:31 | 2022-04-13 | 2022-05-26 |
@@ -3049,6 +3051,7 @@
 | [That's All Us](https://open.spotify.com/track/21xsARPMH1n8dRZ9pJqSNF) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [That's All Us](https://open.spotify.com/album/0EOtqa73iZx3TFAldIgiIJ) | 2:36 | 2023-04-26 | 2023-06-01 |
 | [That's Alright](https://open.spotify.com/track/36iGp8hSxGP2VSggL1cLhB) | [Jacynta’lee](https://open.spotify.com/artist/7aQUXfH5rCWKZafHO4bAIY) | [That's Alright](https://open.spotify.com/album/3PWfSlKNpLbu3TZVmMb9VW) | 3:14 | 2025-05-07 | 2025-08-28 |
 | [That's My Baby! \(On Main Street\)](https://open.spotify.com/track/4vrqwkV6QAO6IjyRzFCnn3) | [Sydney Quiseng](https://open.spotify.com/artist/2T2sNGSPaXdWzNh6lnv6jj) | [That's My Baby! \(On Main Street\)](https://open.spotify.com/album/1Y4IZ9dxbTqbMX2DyqSPGr) | 2:55 | 2026-02-04 | 2026-02-26 |
+| [That's Showbiz Baby](https://open.spotify.com/track/18KFWrGRZMUH9oxfcj1c9w) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [That's Showbiz Baby](https://open.spotify.com/album/65h4ifKzigvKSKQm3nfBMN) | 2:55 | 2026-04-01 |  |
 | [That's What You Get](https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [That's What You Get](https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT) | 2:39 | 2024-10-09 | 2024-12-05 |
 | [The American Odds](https://open.spotify.com/track/3QvFmj88mHhJRLzWhg204L) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [The American Odds](https://open.spotify.com/album/0IxiMZLLed22YQn4inGZQX) | 4:12 | 2025-07-16 | 2025-08-13 |
 | [The Bad Guy](https://open.spotify.com/track/2T4UTNW52I1FAZ5XEusR9G) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [The Bad Guy](https://open.spotify.com/album/6exrJmk8bJ65NJCDupokYB) | 2:43 | 2023-01-11 | 2023-02-16 |
@@ -3303,6 +3306,7 @@
 | [VILLAIN](https://open.spotify.com/track/1337TT0XPrq63zTWqe9mvX) | [Angel White](https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF) | [VILLAIN](https://open.spotify.com/album/3Wx3c5hA8RmnKEWGSK2eoR) | 3:21 | 2022-08-03 | 2022-09-15 |
 | [Vintage](https://open.spotify.com/track/2QpDhWRWnqHf235baMS6kL) | [Karissa Ella](https://open.spotify.com/artist/60SgxHhlYxHNXdA6obPu6X) | [Vintage](https://open.spotify.com/album/0VguPrxjK5PFyrHDYdGVhv) | 3:26 | 2022-07-20 | 2022-08-18 |
 | [Visiting Hours](https://open.spotify.com/track/2GzFwQmFsLDOl2XVYPCg7V) | [Charly Reynolds](https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp) | [Visiting Hours](https://open.spotify.com/album/4OshWbZlKr3bnGypYYbPvx) | 2:52 | 2024-08-21 | 2024-12-05 |
+| [Vivian](https://open.spotify.com/track/0gRJ0uDvYkMTMBLxunTbVL) | [Sicily Rose](https://open.spotify.com/artist/7xGakrFMjygqxnh8juF3xY) | [Vivian](https://open.spotify.com/album/02Et8Kf8QRGPSTm3j4BKI5) | 3:34 | 2026-04-01 |  |
 | [Waging War](https://open.spotify.com/track/2WPzVbrJIM6oOUAvF9q64Q) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Waging War](https://open.spotify.com/album/74Syb2oEmqiXOuh1u8gRcd) | 4:01 | 2024-02-21 | 2025-01-16 |
 | [Wait on You](https://open.spotify.com/track/0bkaEQFMm2pxKm1A6JIgbg) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Wait On You](https://open.spotify.com/album/5os2gq7OO3CJWwTdrczrVm) | 3:06 | 2023-08-23 | 2023-11-09 |
 | [Waiting On Forever](https://open.spotify.com/track/0vth5fuCp5cdyUifSdbQEH) | [Greg Keys](https://open.spotify.com/artist/026BdhMiLdezQFhx6zujEa), [Kat Velasco](https://open.spotify.com/artist/6mH3jjOaHOIlxlloC2FjlC) | [Waiting On Forever](https://open.spotify.com/album/2EpwLsjA70OWUFCQjRK38v) | 3:32 | 2022-02-16 | 2022-03-31 |
@@ -3353,6 +3357,7 @@
 | [Weren't The One](https://open.spotify.com/track/5Tl5Qzd6u6DA6TsXmWalsH) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Weren't The One](https://open.spotify.com/album/3HabG5PIJOBTP9LyhD3U92) | 3:15 | 2022-09-14 | 2022-10-27 |
 | [West of Fort Worth](https://open.spotify.com/track/4c6ohxv5piS34f2ClhbuMh) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [West of Fort Worth](https://open.spotify.com/album/3T4wfoU49TKscwflmnhtlD) | 3:39 | 2025-12-03 | 2026-01-15 |
 | [West of Fort Worth](https://open.spotify.com/track/7nar6k91jCeZ3CdzpFpZS9) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [West of Fort Worth](https://open.spotify.com/album/7oxZJljs3ZCFUtqEntpaMC) | 3:39 | 2025-01-15 | 2025-03-06 |
+| [West On 34](https://open.spotify.com/track/7vfPggC0WdyIBD0QQ95K6z) | [Scott Wolverton](https://open.spotify.com/artist/6oClxjKHw0mac570Gx7Tw3) | [West On 34](https://open.spotify.com/album/4YXpcWMpFJUBufMeeOZWPF) | 4:44 | 2026-04-01 |  |
 | [West Virginia Sky](https://open.spotify.com/track/4QlvFr49emJdCwkyb4dskC) | [Jett Holden](https://open.spotify.com/artist/1eO7ccT1B1GDJdWyHpeHjh) | [West Virginia Sky](https://open.spotify.com/album/4UkNTDV0vE4TYowCB5OdmA) | 3:32 | 2024-07-17 | 2024-09-19 |
 | [What About Yours](https://open.spotify.com/track/1gp3RpM5mE6BQ6lvi9mnqg) | [Ava Hall](https://open.spotify.com/artist/3jbuDS17Z5ioo8IFU1sjGt) | [What About Yours](https://open.spotify.com/album/4I95ktZzLcpU2VmOs1k5Jd) | 3:43 | 2025-08-27 | 2025-12-04 |
 | [What Am I Gonna Do?](https://open.spotify.com/track/5endOqbem32xRK4t1CxJep) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [What Am I Gonna Do?](https://open.spotify.com/album/2mMUo8sqXZvnO8gPWAvJVo) | 2:46 | 2022-04-13 | 2022-05-26 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Yuvraj",
+  "description": "Discover the future of Punjabi Pop! Cover: Romey Maan",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 180000,
       "name": "Che Che Pe Pe",
       "url": "https://open.spotify.com/track/7gCEA4wlEkrXXNhcao66cf"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 220970,
       "name": "Dilbara",
       "url": "https://open.spotify.com/track/7f1SiRIjS3g38ojjk1o9aJ"
@@ -3351,6 +3351,28 @@
     },
     {
       "album": {
+        "name": "Feem Da Boota",
+        "url": "https://open.spotify.com/album/5t1dwnvNUE4Bgigwl7ruCh"
+      },
+      "artists": [
+        {
+          "name": "Romey Maan",
+          "url": "https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg"
+        },
+        {
+          "name": "Sulfa",
+          "url": "https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Feem Da Boota",
+      "url": "https://open.spotify.com/track/0hHAOE62rhIFcf8To0npfF"
+    },
+    {
+      "album": {
         "name": "Fer Mil",
         "url": "https://open.spotify.com/album/79K9m4G235izxPsJyHjJNX"
       },
@@ -3370,7 +3392,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 261333,
       "name": "Fer Mil",
       "url": "https://open.spotify.com/track/6EK69MaSF9UBb92UVFHp7v"
@@ -3544,6 +3566,28 @@
       "duration_ms": 182686,
       "name": "G-Lock",
       "url": "https://open.spotify.com/track/6K7qGAXOJKmde7zulRw0g7"
+    },
+    {
+      "album": {
+        "name": "G.O.D (Grind Over Doubt)",
+        "url": "https://open.spotify.com/album/2jB8FWAU1mRF2UVg24rNUZ"
+      },
+      "artists": [
+        {
+          "name": "B-Deep",
+          "url": "https://open.spotify.com/artist/5IeItPO4vwq7NdOA27VR7Y"
+        },
+        {
+          "name": "KRU172",
+          "url": "https://open.spotify.com/artist/5fjpeqO0THJggLIvTJTKgc"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "G.O.D (Grind Over Doubt)",
+      "url": "https://open.spotify.com/track/48m1JiduyUwNaVd9Keh212"
     },
     {
       "album": {
@@ -6979,6 +7023,32 @@
     },
     {
       "album": {
+        "name": "Mere Kol",
+        "url": "https://open.spotify.com/album/0azhqZUj9FOk7ZAKCVV8ZM"
+      },
+      "artists": [
+        {
+          "name": "Jot Sarb",
+          "url": "https://open.spotify.com/artist/4vxa2NLMQFn3z49Z5lNR6H"
+        },
+        {
+          "name": "Akash Kohala",
+          "url": "https://open.spotify.com/artist/1cZb6UR2SpaUwGpNqTMIDG"
+        },
+        {
+          "name": "Little Boi",
+          "url": "https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144418,
+      "name": "Mere Kol",
+      "url": "https://open.spotify.com/track/7Jsk1TI1YslDpy7ppWZqew"
+    },
+    {
+      "album": {
         "name": "Steezy",
         "url": "https://open.spotify.com/album/16pO9rPQa75HIqpahVXZkE"
       },
@@ -8049,6 +8119,24 @@
     },
     {
       "album": {
+        "name": "Out of Hibernation",
+        "url": "https://open.spotify.com/album/7zqPtZGJ8wNfVpYrA0c50Q"
+      },
+      "artists": [
+        {
+          "name": "Prashant Pareek",
+          "url": "https://open.spotify.com/artist/57xkRsZVDwA8zRxrh4fQ4j"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173679,
+      "name": "Out of Hibernation",
+      "url": "https://open.spotify.com/track/2LQKR9k41NOFLdgiX8ZV1R"
+    },
+    {
+      "album": {
         "name": "Overseas",
         "url": "https://open.spotify.com/album/1KcsNHlf8gNW4kL6u1qDV1"
       },
@@ -8422,7 +8510,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 136800,
       "name": "Pind Gunia",
       "url": "https://open.spotify.com/track/5F6IiHxK28mBGcpclBLpIV"
@@ -10674,7 +10762,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 208636,
       "name": "Tere Na Jahaan",
       "url": "https://open.spotify.com/track/5uR0w4iHevFUx5NU236RpV"
@@ -11246,6 +11334,28 @@
       "duration_ms": 191999,
       "name": "Veham",
       "url": "https://open.spotify.com/track/79nSLuOmwjmoLgMdJJB43A"
+    },
+    {
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/5ISx9FprND9235jRgJUSoY"
+      },
+      "artists": [
+        {
+          "name": "Parm Gill",
+          "url": "https://open.spotify.com/artist/0OZAILLWphN1wgq0oTRtMd"
+        },
+        {
+          "name": "IJAY.",
+          "url": "https://open.spotify.com/artist/245VbVO1tSH3anoePVh83d"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176632,
+      "name": "VENI VIDI VICI",
+      "url": "https://open.spotify.com/track/6obhwdmkyzbgYMTtszd5yI"
     },
     {
       "album": {

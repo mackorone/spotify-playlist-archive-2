@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: GRAY, LOCO)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Kid Milli(\ud0a4\ub4dc\ubc00\ub9ac))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       },
       "artists": [
         {
-          "name": "Huh",
+          "name": "rosy",
           "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
         },
         {
@@ -4489,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "everybody dies",
+        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152079,
+      "name": "everybody dies",
+      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt"
       },
@@ -6432,7 +6450,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 243173,
       "name": "Hotel Lobby (Feat. Verbal Jint)",
       "url": "https://open.spotify.com/track/3yLDH4UmohTSuBmnBcqJqG"
@@ -7170,7 +7188,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 205003,
       "name": "illa illa",
       "url": "https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb"
@@ -9172,7 +9190,7 @@
       },
       "artists": [
         {
-          "name": "Huh",
+          "name": "rosy",
           "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
         }
       ],
@@ -15405,6 +15423,28 @@
     },
     {
       "album": {
+        "name": "LOVESICK",
+        "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239983,
+      "name": "TORO (feat. Crush)",
+      "url": "https://open.spotify.com/track/0ljaG5dzwQG1E8j9sURWcB"
+    },
+    {
+      "album": {
         "name": "Tourist",
         "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
       },
@@ -16093,6 +16133,36 @@
     },
     {
       "album": {
+        "name": "Phantom Pain",
+        "url": "https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS"
+      },
+      "artists": [
+        {
+          "name": "1ANDON",
+          "url": "https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf"
+        },
+        {
+          "name": "Kim Feelsun",
+          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
+        },
+        {
+          "name": "L-like",
+          "url": "https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
+    },
+    {
+      "album": {
         "name": "VISTA",
         "url": "https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG"
       },
@@ -16644,6 +16714,24 @@
       "duration_ms": 209827,
       "name": "White tag NIKE",
       "url": "https://open.spotify.com/track/4lZdZjB8nlsusHiuq0IvJ5"
+    },
+    {
+      "album": {
+        "name": "LOVESICK",
+        "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202035,
+      "name": "Who you?",
+      "url": "https://open.spotify.com/track/3IVMl7rrOX8BbQ8LNyotb0"
     },
     {
       "album": {

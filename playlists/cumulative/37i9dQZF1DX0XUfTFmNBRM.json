@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Hottest Hindi music that India is listening to. Cover - Dhurandhar The Revenge",
+  "description": "Hottest Hindi music that India is listening to. Cover - Dhurandhar:  The Revenge",
   "name": "Hot Hits Hindi",
   "tracks": [
     {
@@ -456,6 +456,32 @@
       "duration_ms": 134110,
       "name": "Abrar\u2019s Entry | Jamal Kudu (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO"
+    },
+    {
+      "album": {
+        "name": "Ae Ajnabee | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/7idAWWOCszU8zkCAffYZx8"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        },
+        {
+          "name": "Kutle Khan",
+          "url": "https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259636,
+      "name": "Ae Ajnabee | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/5pkBdzFwC3sAfOvxIvmhL1"
     },
     {
       "album": {
@@ -4448,7 +4474,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 250860,
       "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/7d5TUdbJumBuBoaH33jyfo"
@@ -5932,7 +5958,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 270080,
       "name": "Kya Bataun Tujhe (From \"Pagalpan\")",
       "url": "https://open.spotify.com/track/3lgVAqlhro4HQ6sSPc0n0t"
@@ -9360,6 +9386,40 @@
       "duration_ms": 258019,
       "name": "Ruaan (From \"Tiger 3\")",
       "url": "https://open.spotify.com/track/0Qo75eJMY72e5IQJt0Dz9z"
+    },
+    {
+      "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        },
+        {
+          "name": "Majrooh Sultanpuri",
+          "url": "https://open.spotify.com/artist/7ikcALJgPCvpL25820JNYR"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140780,
+      "name": "Run Down The City - Monica",
+      "url": "https://open.spotify.com/track/5NK3IhIeIXQmOKK5EiSRra"
     },
     {
       "album": {

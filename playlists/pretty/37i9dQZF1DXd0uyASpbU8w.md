@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from RAYE, Shakes & Les, Central Cee, Angelique Kidjo & Ayra Starr and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,543 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,573 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 55 | [Days We Left Behind](https://open.spotify.com/track/3kiOcEPP4WyssVslhHSL7A) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Days We Left Behind](https://open.spotify.com/album/2OoaCsbD9saV4x6LRh73gY) | 3:18 |
 | 56 | [Carousel](https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Everything Glows](https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr) | 3:36 |
 | 57 | [Imithandazo \(feat\. Dee\_$oul & Camlo\)](https://open.spotify.com/track/43ZGpcRyDahBe0ynUSLHeY) | [Bongza](https://open.spotify.com/artist/1U0kluMlV9VEvmeRvjilSG), [Wesley Keys](https://open.spotify.com/artist/2OGYdhAxnbigwUW9Be2b6C), [Dee\_$oul](https://open.spotify.com/artist/2EKZtmOuLA1kaD0fbs5swL), [Camlo](https://open.spotify.com/artist/5ZCFf2pr8VdAdhWsxV5fuL) | [My Story Continues](https://open.spotify.com/album/07VW93h94C9MbSMCaz1HF8) | 7:23 |
-| 58 | [Version of Me](https://open.spotify.com/track/6gOnQCdPVDWd9y4irSVJvt) | [Carla Franco](https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI) | [Version of Me](https://open.spotify.com/album/0AfFomTt9EXgCsbqttT6Fm) | 3:38 |
+| 58 | [VERSION OF ME](https://open.spotify.com/track/6gOnQCdPVDWd9y4irSVJvt) | [Carla Franco](https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI) | [VERSION OF ME](https://open.spotify.com/album/0AfFomTt9EXgCsbqttT6Fm) | 3:38 |
 | 59 | [Take It Or Leave It](https://open.spotify.com/track/72gLIIWyUjQxBveANncBVH) | [Snowing Down South](https://open.spotify.com/artist/0MRawG0uBBe1Zz7tmXfZoN) | [Take It Or Leave It](https://open.spotify.com/album/1iUacaP0QivpSjfxyvpnlo) | 2:47 |
 | 60 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
 | 61 | [Homesick](https://open.spotify.com/track/5XL06vSuRB1xJ2E1hCUBtD) | [Ava like Lava](https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk) | [Homesick](https://open.spotify.com/album/1EnnFciXgDNoyesuzkkcWT) | 2:38 |

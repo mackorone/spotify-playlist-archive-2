@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Ambient Rain",
       "url": "https://open.spotify.com/track/4HgrTAqOd1cc5VGoq6j0m7"
@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Heavy Rains",
+        "url": "https://open.spotify.com/album/39AsQruOQadyvzn6eaedkx"
+      },
+      "artists": [
+        {
+          "name": "Artipico",
+          "url": "https://open.spotify.com/artist/2skwHFBBbBoFXMN5Nl4hyi"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124614,
+      "name": "Coastal Road in Rain",
+      "url": "https://open.spotify.com/track/52SApx1jOUstgiDCCoZJYa"
+    },
+    {
+      "album": {
         "name": "Tranquil Rain Sounds",
         "url": "https://open.spotify.com/album/34eXFqczELpudpgS6M5QTS"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 151579,
       "name": "Dreamy Rain",
       "url": "https://open.spotify.com/track/0oSU0oQ4xp3H6sMh1In9W8"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Early Autumn Rain",
       "url": "https://open.spotify.com/track/5YqfEDaj1m9CVCFtLYwDbr"
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 157909,
       "name": "Light Forest Rain",
       "url": "https://open.spotify.com/track/2JaiA4dueQ8q9QuZ92PoXl"
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 180000,
       "name": "mid day rain",
       "url": "https://open.spotify.com/track/5KmbZq6mXkaY9O8ANVgKW1"
@@ -2616,6 +2634,24 @@
       "duration_ms": 185966,
       "name": "Morning Rain in Canillo",
       "url": "https://open.spotify.com/track/5oaDyK0TLiidLRcnSp4uGj"
+    },
+    {
+      "album": {
+        "name": "Morning Walk in Rain",
+        "url": "https://open.spotify.com/album/1gd4uOmihMaf4wFhvy8gLz"
+      },
+      "artists": [
+        {
+          "name": "Samplestar",
+          "url": "https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127292,
+      "name": "Morning Walk in Rain",
+      "url": "https://open.spotify.com/track/35KfAAi2VoPCtDS43Y2WSi"
     },
     {
       "album": {
@@ -2972,7 +3008,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 120500,
       "name": "Oddly Comforting Rain",
       "url": "https://open.spotify.com/track/5jqg4YlLGLuTg4yZCS9lh1"
@@ -3300,7 +3336,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 182626,
       "name": "Queensland Rain Rhythms",
       "url": "https://open.spotify.com/track/2eKXZLG6SdlCv3kZfv0QTv"
@@ -4060,7 +4096,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 135029,
       "name": "Rain Sounds In Los Llanos",
       "url": "https://open.spotify.com/track/2i2XQP37gZCAi0DveWyGcD"
@@ -4384,7 +4420,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 140192,
       "name": "Raining After Midnight",
       "url": "https://open.spotify.com/track/0ngmRlW9zdGf52YSsZfhbM"
@@ -5198,7 +5234,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 253652,
       "name": "small stream rain",
       "url": "https://open.spotify.com/track/3GiI7GQ3oTIQBmuIfSqxd2"
@@ -5274,6 +5310,28 @@
       "duration_ms": 177976,
       "name": "Softer Rain",
       "url": "https://open.spotify.com/track/7pjG0uixjZKFqsj05SJIOi"
+    },
+    {
+      "album": {
+        "name": "Soothing Rain Songs",
+        "url": "https://open.spotify.com/album/15CC9woREqBQPmVNOIfoQg"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Chill Palm",
+          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Soiernseen River Rain",
+      "url": "https://open.spotify.com/track/17GnniWKxuddhCEhA5Ksuz"
     },
     {
       "album": {
@@ -5562,7 +5620,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Steady Relaxing Rain",
       "url": "https://open.spotify.com/track/2cBynr9fD8KMsl8PmZQM73"
@@ -6016,7 +6074,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 187350,
       "name": "Victoria Thunder Beats",
       "url": "https://open.spotify.com/track/7kFIuXeScsfDtx1rUG6dZE"
@@ -6034,7 +6092,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-25",
+      "date_removed": null,
       "duration_ms": 138205,
       "name": "Viene la lluvia",
       "url": "https://open.spotify.com/track/7bvuP8nq8xxw0w8Fr9TY79"

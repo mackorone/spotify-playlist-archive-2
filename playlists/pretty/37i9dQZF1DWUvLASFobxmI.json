@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Codiciado en portada.",
-  "num_followers": 528872,
+  "num_followers": 528879,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQfamKsZNF9wehAPSjfM9Y2eNNL",
+  "snapshot_id": "AAAAAEqivKcacFQSE4xC06+/hf5oQwJI",
   "tracks": [
     {
       "added_at": "2026-03-27 06:00:17",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/4sfr7ausWUynywGdlT1C6p"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 156875,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/0rOtJU5F5103vqBYeixFNQ"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Brinco La Liebre",
         "url": "https://open.spotify.com/album/6UwrXelGzRt0ls7xR8f0fh"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 235875,
       "name": "Brinco La Liebre",
       "url": "https://open.spotify.com/track/1pI4v0fndJ6fNm9fdZXiDP"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/4sfr7ausWUynywGdlT1C6p"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 156875,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/0rOtJU5F5103vqBYeixFNQ"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -491,42 +491,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Toca Disfrutar",
-        "url": "https://open.spotify.com/album/6gYmnDCUV6WIB3JoLTxFoZ"
-      },
-      "artists": [
-        {
-          "name": "Clase Personal",
-          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
-        },
-        {
-          "name": "Nivel 5",
-          "url": "https://open.spotify.com/artist/7kRSW5oj2hodURrzO6Xp8y"
-        }
-      ],
-      "duration_ms": 193220,
-      "name": "Toca Disfrutar",
-      "url": "https://open.spotify.com/track/7HGqMeJcReCpKZlVMwqIST"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Sin Foto de Perfil",
-        "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 171833,
-      "name": "Sin Foto de Perfil",
-      "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "HOME RUN",
         "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
       },
@@ -543,22 +507,18 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "LO LOGRAMOS",
-        "url": "https://open.spotify.com/album/3b3xjKsM9yLxa4Cob0Qn22"
+        "name": "Sin Foto de Perfil",
+        "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
       },
       "artists": [
         {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 205237,
-      "name": "LO LOGRAMOS",
-      "url": "https://open.spotify.com/track/1dg9Gf4LclMVJ9HuKp0sgF"
+      "duration_ms": 171833,
+      "name": "Sin Foto de Perfil",
+      "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -583,6 +543,26 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "LO LOGRAMOS",
+        "url": "https://open.spotify.com/album/3b3xjKsM9yLxa4Cob0Qn22"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 205237,
+      "name": "LO LOGRAMOS",
+      "url": "https://open.spotify.com/track/1dg9Gf4LclMVJ9HuKp0sgF"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "Bajo El Agua",
         "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 183051,
       "name": "Bajo El Agua",
       "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Toca Disfrutar",
+        "url": "https://open.spotify.com/album/6gYmnDCUV6WIB3JoLTxFoZ"
+      },
+      "artists": [
+        {
+          "name": "Clase Personal",
+          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
+        },
+        {
+          "name": "Nivel 5",
+          "url": "https://open.spotify.com/artist/7kRSW5oj2hodURrzO6Xp8y"
+        }
+      ],
+      "duration_ms": 193220,
+      "name": "Toca Disfrutar",
+      "url": "https://open.spotify.com/track/7HGqMeJcReCpKZlVMwqIST"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "La Competencia",
-        "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "La Competencia",
-      "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 117866,
       "name": "Apenas Prend\u00ed El Motor",
       "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "La Competencia",
+        "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "La Competencia",
+      "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Amor Sin Contrato",
-        "url": "https://open.spotify.com/album/2oZipBuWHNLi1D3tECdRpx"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 183352,
-      "name": "Amor Sin Contrato",
-      "url": "https://open.spotify.com/track/093oUp7Hi7hY7bcjIjqTN6"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Selectiva",
         "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 141101,
       "name": "Selectiva",
       "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Amor Sin Contrato",
+        "url": "https://open.spotify.com/album/2oZipBuWHNLi1D3tECdRpx"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 183352,
+      "name": "Amor Sin Contrato",
+      "url": "https://open.spotify.com/track/093oUp7Hi7hY7bcjIjqTN6"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "El Gran Elemento",
+        "url": "https://open.spotify.com/album/5WNDmgAhcrpHNTD3JVaL9q"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "El Gran Elemento",
+      "url": "https://open.spotify.com/track/4USqdUtK5uFAhvLm2Oejec"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "Desde Que Est\u00e1s Conmigo",
         "url": "https://open.spotify.com/album/5Y1yifNTjH1X5UY9oCfgXx"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 163968,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3VroXeC69MnIXdA9gXvMEc"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "El Gran Elemento",
-        "url": "https://open.spotify.com/album/5WNDmgAhcrpHNTD3JVaL9q"
-      },
-      "artists": [
-        {
-          "name": "Los Austeros De Durango",
-          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "El Gran Elemento",
-      "url": "https://open.spotify.com/track/4USqdUtK5uFAhvLm2Oejec"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/67tvgLNIQRb6WsiBJaDplA"
-      },
-      "artists": [
-        {
-          "name": "D\u00c1MASO",
-          "url": "https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug"
-        }
-      ],
-      "duration_ms": 228519,
-      "name": "As\u00ed Soy Yo",
-      "url": "https://open.spotify.com/track/5vJUsAS3TsyTH2yyNMcaUU"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Quisiera Decirte",
         "url": "https://open.spotify.com/album/5O5GNBfshFtq6gbeRJFhGc"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "Cumbias Pa\u00b4bailar Vol. 2",
+        "url": "https://open.spotify.com/album/4k4oPQQtCT2FvkkcZqAUsm"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 139950,
+      "name": "Hanky Panky",
+      "url": "https://open.spotify.com/track/6au2dwJBy7nsSPZ1VfiZRs"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "Nos Acostumbramos",
         "url": "https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 179647,
       "name": "Nos Acostumbramos",
       "url": "https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Cumbias Pa\u00b4bailar Vol. 2",
-        "url": "https://open.spotify.com/album/4k4oPQQtCT2FvkkcZqAUsm"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 139950,
-      "name": "Hanky Panky",
-      "url": "https://open.spotify.com/track/6au2dwJBy7nsSPZ1VfiZRs"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "Por Debajo del Agua",
+        "url": "https://open.spotify.com/album/12hMfDfs7nnq0ML9SNjRno"
+      },
+      "artists": [
+        {
+          "name": "Punto Final",
+          "url": "https://open.spotify.com/artist/4S8SyDPk41f7rfBU9IAdkA"
+        }
+      ],
+      "duration_ms": 247479,
+      "name": "Por Debajo del Agua",
+      "url": "https://open.spotify.com/track/0A1PJPNx8tZXHuew1cT0Ym"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "Cuando Dijiste Adi\u00f3s",
         "url": "https://open.spotify.com/album/2WKQUyedp7b3torl0iE2o0"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 167000,
       "name": "Cuando Dijiste Adi\u00f3s",
       "url": "https://open.spotify.com/track/65nsPnxHZpJahXy4QfJla2"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Por Debajo del Agua",
-        "url": "https://open.spotify.com/album/12hMfDfs7nnq0ML9SNjRno"
-      },
-      "artists": [
-        {
-          "name": "Punto Final",
-          "url": "https://open.spotify.com/artist/4S8SyDPk41f7rfBU9IAdkA"
-        }
-      ],
-      "duration_ms": 247479,
-      "name": "Por Debajo del Agua",
-      "url": "https://open.spotify.com/track/0A1PJPNx8tZXHuew1cT0Ym"
     },
     {
       "added_at": "2026-03-27 06:00:17",

@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAkH0X9/honlOkp3psEk42EohlEAmsu",
+  "snapshot_id": "AAAkIBq5cTEGyEXRKf0ZhzN0wrxadaJ9",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -711,6 +711,26 @@
       "duration_ms": 146528,
       "name": "Game On",
       "url": "https://open.spotify.com/track/2aWcot6GOxqs1heiljf4Ca"
+    },
+    {
+      "added_at": "2026-04-01 07:42:45",
+      "album": {
+        "name": "People's Game (Riky Dainesi Remix)",
+        "url": "https://open.spotify.com/album/7eb9XnMUrBLmj4qJETUJhu"
+      },
+      "artists": [
+        {
+          "name": "B3NNY R",
+          "url": "https://open.spotify.com/artist/746FzmylKASljW5r63AKkP"
+        },
+        {
+          "name": "Riky Dainesi",
+          "url": "https://open.spotify.com/artist/0PaqLD8MGoPEYcdJL0sB0L"
+        }
+      ],
+      "duration_ms": 195554,
+      "name": "People's Game - Riky Dainesi Remix",
+      "url": "https://open.spotify.com/track/3cM78eVwhptGKn4fZYJzaC"
     }
   ],
   "unique_name": "Alternative Pop Archive",

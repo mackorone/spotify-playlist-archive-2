@@ -1,6 +1,6 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 26160,
+  "num_followers": 26203,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
@@ -739,8 +739,8 @@
     {
       "added_at": "2026-03-25 16:35:23",
       "album": {
-        "name": "Flow Motion",
-        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/6tMN6g7mEtMIBGeQPjYDYy"
       },
       "artists": [
         {
@@ -748,17 +748,17 @@
           "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
         },
         {
-          "name": "Jikuru",
-          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
-        },
-        {
           "name": "Lola",
           "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
         }
       ],
-      "duration_ms": 132152,
-      "name": "Flow Motion",
-      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
+      "duration_ms": 139320,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/17fdQzkqBqZq7HLYgXdmwk"
     },
     {
       "added_at": "2026-03-25 16:35:23",
@@ -839,8 +839,8 @@
     {
       "added_at": "2026-03-25 16:35:23",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/6tMN6g7mEtMIBGeQPjYDYy"
+        "name": "Flow Motion",
+        "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
       },
       "artists": [
         {
@@ -848,17 +848,17 @@
           "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
         },
         {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
         },
         {
-          "name": "Devaloop",
-          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
         }
       ],
-      "duration_ms": 139320,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/17fdQzkqBqZq7HLYgXdmwk"
+      "duration_ms": 132152,
+      "name": "Flow Motion",
+      "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
     },
     {
       "added_at": "2026-03-25 16:35:23",

@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 324312,
       "name": "Night Hammer",
       "url": "https://open.spotify.com/track/661gdtPwxBK9pYp3nulHoS"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 280654,
       "name": "Prima Luce",
       "url": "https://open.spotify.com/track/6hOMR6CFQICXK8NXpjiBh2"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 306029,
       "name": "Relaxation Mood Part 1",
       "url": "https://open.spotify.com/track/1ITXk2XtlXEEJIjPaYxeHC"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 249704,
       "name": "Renee Sleeping",
       "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
@@ -1552,6 +1552,24 @@
       "duration_ms": 315946,
       "name": "Roads",
       "url": "https://open.spotify.com/track/48PzHDQK4fEbevljF8zLsU"
+    },
+    {
+      "album": {
+        "name": "Saltwater",
+        "url": "https://open.spotify.com/album/0RTCwTUZCFTkJhQHiXsFAU"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/18CuNIwshz1KXVOlUH5CIG"
     },
     {
       "album": {
@@ -1811,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "The Glow",
+        "url": "https://open.spotify.com/album/3VuH3HBnQJiM7tPf0dzfk8"
+      },
+      "artists": [
+        {
+          "name": "Flann Elli-Ned",
+          "url": "https://open.spotify.com/artist/1g0S1IO39Evj9pUgVyGwRp"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161762,
+      "name": "The Glow",
+      "url": "https://open.spotify.com/track/5OYL9hJKupWhPwcKcwNkrk"
+    },
+    {
+      "album": {
         "name": "Nonlin",
         "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
       },
@@ -2027,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Vellum II",
+        "url": "https://open.spotify.com/album/75k1uJzcRWbflrDDJk1DLJ"
+      },
+      "artists": [
+        {
+          "name": "Lentia",
+          "url": "https://open.spotify.com/artist/0AKE83RUGa20NvsAep3UHb"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Vellum II",
+      "url": "https://open.spotify.com/track/2UZIgYlnk2iaaz6oJKRIyl"
+    },
+    {
+      "album": {
         "name": "Clara",
         "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
@@ -2222,6 +2276,24 @@
       "duration_ms": 487078,
       "name": "Willing Suspension of Disbelief",
       "url": "https://open.spotify.com/track/07JOkxdkKHffHm1YLbUhFg"
+    },
+    {
+      "album": {
+        "name": "darkness",
+        "url": "https://open.spotify.com/album/5ODPicbE6J8dEZ6QwMZp8j"
+      },
+      "artists": [
+        {
+          "name": "Delayde",
+          "url": "https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "winter disappear",
+      "url": "https://open.spotify.com/track/2qNwg88ymnNlg0sUgpFpll"
     },
     {
       "album": {

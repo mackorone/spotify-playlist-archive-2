@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving vibes\. Cover: Kaya Imani
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,736 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,726 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 66 | [VOOR DE FAMILY](https://open.spotify.com/track/4uvtQck40L034n3mvKQInH) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [VOOR DE FAMILY](https://open.spotify.com/album/2OAEEqmPyg6SvMI6kQ398p) | 2:13 |
 | 67 | [Tijd \(ft\. I am Aisha\)](https://open.spotify.com/track/7ALcOOruuz3K9Y99AZ80Bn) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il), [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf) | [Making Make Sense](https://open.spotify.com/album/1NTYXp8RvealWDw12yMFYf) | 2:44 |
 | 68 | [Si tu veux de moi](https://open.spotify.com/track/1sRF75Kys66RDpvMVKNFOo) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT), [Kayden](https://open.spotify.com/artist/2YEM3hwFWk3Cpr7rdaVsXM) | [Si tu veux de moi](https://open.spotify.com/album/4mEEDyNvSFDgYgnzeItK3f) | 3:14 |
-| 69 | [WAIST](https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [WAIST](https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd) | 2:45 |
+| 69 | [WAIST](https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [WAIST](https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd) | 2:45 |
 | 70 | [Chill & Vibe](https://open.spotify.com/track/5QBY0racMnXGKaMv5fmL1A) | [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT) | [Chill & Vibe](https://open.spotify.com/album/1FL3oUz73PtGGcrTFjSaSQ) | 2:05 |
 
 Snapshot ID: `AAAAAHmZ0sM5FnKMD95niSQ/KzbehJWW`

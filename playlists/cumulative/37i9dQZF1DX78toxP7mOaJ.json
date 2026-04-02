@@ -3819,6 +3819,24 @@
     },
     {
       "album": {
+        "name": "Bexy",
+        "url": "https://open.spotify.com/album/3UY7suuL86SR3nx5aJziXV"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110255,
+      "name": "Bexy",
+      "url": "https://open.spotify.com/track/5gtGsDTcUHFzQagjBBFiSh"
+    },
+    {
+      "album": {
         "name": "Suck It",
         "url": "https://open.spotify.com/album/2NqQ1eOFTuwZR1gEwOtqCp"
       },
@@ -4698,7 +4716,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 146214,
       "name": "Blue",
       "url": "https://open.spotify.com/track/73Jgmr6Vtjmc8o2OZ4wZIj"
@@ -7724,7 +7742,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 193500,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/07ZhZzinKGgtw8ZqgTFfKt"
@@ -11691,6 +11709,24 @@
     },
     {
       "album": {
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/2CVGVC3q3eZXtucQ6QvkQK"
+      },
+      "artists": [
+        {
+          "name": "CAN'T STOP TALKING",
+          "url": "https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Easy Tiger",
+      "url": "https://open.spotify.com/track/08crKPu4yfQI9HsRwk2m2s"
+    },
+    {
+      "album": {
         "name": "Eat My Words",
         "url": "https://open.spotify.com/album/0xsoXZ8dwPLp4lq1eXKMSm"
       },
@@ -14436,7 +14472,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 165312,
       "name": "Future Spring",
       "url": "https://open.spotify.com/track/1gtphJS6qQn3VlxGYPCD33"
@@ -14764,7 +14800,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 184438,
       "name": "Get to Choose",
       "url": "https://open.spotify.com/track/5h9FYRmddlb1x0ybleGPxY"
@@ -21460,6 +21496,28 @@
       "duration_ms": 134688,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/5ZEgTMYQ0fLe3ZMtcshlPf"
+    },
+    {
+      "album": {
+        "name": "Amiture Music",
+        "url": "https://open.spotify.com/album/0tRpvTzrRLpcvT1lcZkgBK"
+      },
+      "artists": [
+        {
+          "name": "Amiture Music",
+          "url": "https://open.spotify.com/artist/2AUo8NmR0cg5i8fgFzEA2k"
+        },
+        {
+          "name": "Amiture",
+          "url": "https://open.spotify.com/artist/6QQTD1fhcLGGHtMBHi5n3v"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226886,
+      "name": "Last Summer",
+      "url": "https://open.spotify.com/track/4d4Fdpl1ZgDrUT9gWwDGhb"
     },
     {
       "album": {
@@ -28549,6 +28607,24 @@
     },
     {
       "album": {
+        "name": "Portrait set on fire",
+        "url": "https://open.spotify.com/album/5rPL3XkFcoP7VJOGk1LJAC"
+      },
+      "artists": [
+        {
+          "name": "breakkaway",
+          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229603,
+      "name": "Portrait set on fire",
+      "url": "https://open.spotify.com/track/7bgBXGb1YTSLkDVrgiqBwm"
+    },
+    {
+      "album": {
         "name": "Portrait Show",
         "url": "https://open.spotify.com/album/2oIzeN4eCW100PqYc5qCHy"
       },
@@ -34928,7 +35004,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 207708,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2xpYx5IBYjLbApxEORAWsp"
@@ -39168,7 +39244,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 205040,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/094xXscO55YaQA8oFaQvoT"
@@ -40281,6 +40357,24 @@
     },
     {
       "album": {
+        "name": "Whore & Savior",
+        "url": "https://open.spotify.com/album/6bHsZZMr8WmCuTFguvgwJr"
+      },
+      "artists": [
+        {
+          "name": "Forest",
+          "url": "https://open.spotify.com/artist/4yhFkgZya8FbiBkJU7t5j6"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169402,
+      "name": "Whore & Savior",
+      "url": "https://open.spotify.com/track/5cTtCrGbZtFfED0xji1Gi3"
+    },
+    {
+      "album": {
         "name": "Why Can't I Be Happy?",
         "url": "https://open.spotify.com/album/31YMQjrtwbdQQHbML3R9zs"
       },
@@ -40368,6 +40462,24 @@
       "duration_ms": 152166,
       "name": "Wicked Styley",
       "url": "https://open.spotify.com/track/5bwjacSzWwVZzKHRGsOGDP"
+    },
+    {
+      "album": {
+        "name": "Blame The Clown",
+        "url": "https://open.spotify.com/album/6WVULKossUfiq6AkHBZtIp"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168818,
+      "name": "Wild Connection",
+      "url": "https://open.spotify.com/track/2bmRxQi3Jt42vE0xcFWEp5"
     },
     {
       "album": {

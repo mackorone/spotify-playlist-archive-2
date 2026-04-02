@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2026\. Hit shuffle for a mixed listening experience\. Cover: Linea Personal
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,009 likes - 78 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,025 likes - 78 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 21 | [Egoísta](https://open.spotify.com/track/1sIPOZSCYCMXTrCrTfPBbD) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Metamorfosis](https://open.spotify.com/album/05UjWgHQqCa8cYoMmDmUlg) | 4:44 |
 | 22 | [TOPSHELF](https://open.spotify.com/track/6RCX0Bbldbl9kR5cHbaQdj) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU) | 2:52 |
 | 23 | [SINNOMBRE](https://open.spotify.com/track/00tuEFEnFPiKxDJtn1Bu3K) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU) | 3:26 |
-| 24 | [VVS1](https://open.spotify.com/track/34Ud1AaXdNQZuJo0Krgs9O) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU) | 5:03 |
+| 24 | [VVS1](https://open.spotify.com/track/34Ud1AaXdNQZuJo0Krgs9O) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU) | 5:06 |
 | 25 | [¿Qué será que es?](https://open.spotify.com/track/7bIJ2FuWBAnO9IMVzGMPcy) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Rueda de Candombe](https://open.spotify.com/artist/603pfk1hiL5mfXafI4dfnH) | [¿Qué será que es?](https://open.spotify.com/album/2vHXAh1NbsF0ftGYgLBcvJ) | 3:48 |
 | 26 | [Te llevo tatuada](https://open.spotify.com/track/2i5QOIGSKHw8TP5ljZJg5w) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Taracá](https://open.spotify.com/album/3x8EqFhf17Rupeyh0k1a0H) | 3:10 |
 | 27 | [¿Cómo se ama?](https://open.spotify.com/track/0aEIAGgFPbtWe9HX4lSEPk) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Taracá](https://open.spotify.com/album/3x8EqFhf17Rupeyh0k1a0H) | 3:38 |

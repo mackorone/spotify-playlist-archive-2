@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ミーマイナー
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,809 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,828 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 51 | [ミートボール](https://open.spotify.com/track/6AehlRJux7SQ7LIcpPpdh0) | [柚凪。](https://open.spotify.com/artist/4ko7VgzAJUqs6zrTNAUGYk) | [ミートボール](https://open.spotify.com/album/13glDkacl8cagyFGAJ9mtJ) | 3:05 |
 | 52 | [冗談](https://open.spotify.com/track/1YKlDyun1ZmoJ4915zsvJt) | [mimiq](https://open.spotify.com/artist/3ZxkdXOfVx27T4Bb6sK1Ej) | [冗談](https://open.spotify.com/album/51NTHhsONlvbe7euRSLoHG) | 2:00 |
 | 53 | [大天使](https://open.spotify.com/track/4YDPSWMFReZvt329VY5QDJ) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Éclore](https://open.spotify.com/album/4so8sQXTxiEeS7wBI9SQ2C) | 3:34 |
-| 54 | [死にたくなったら会いにきて](https://open.spotify.com/track/5YYmhgUJAd16FXMS5i71dC) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [泣くな、青春](https://open.spotify.com/album/0fMOxtoOYTxqoid0tFlPr7) | 2:58 |
+| 54 | [死にたくなったら会いにきて](https://open.spotify.com/track/5YYmhgUJAd16FXMS5i71dC) | [Blue Mash](https://open.spotify.com/artist/48XJzuA3cbtDl9pjKySb5E) | [泣くな、青春](https://open.spotify.com/album/0fMOxtoOYTxqoid0tFlPr7) | 2:58 |
 | 55 | [Born to run](https://open.spotify.com/track/5gmJOGcvF0UKsqV2tgEkfU) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Born to run](https://open.spotify.com/album/3MRJfEFDiatJHDpPFr7DRN) | 3:21 |
 | 56 | [いつかまたひとりぼっちだったら](https://open.spotify.com/track/57143m2wCJ2FdTCn604E2d) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [いつかまたひとりぼっちだったら](https://open.spotify.com/album/0phSRHu4ztw5v0YM3CuNCm) | 2:30 |
 | 57 | [Romeo](https://open.spotify.com/track/5wAQo2E9nq1ywCakVFgftt) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Romeo](https://open.spotify.com/album/3Bsx6OjdZj362VILxymjhR) | 4:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring 2charm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,466 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,570 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 59 | [DUMB](https://open.spotify.com/track/0MjEo1XEsPYgvQt47omDGh) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Cortisa Star](https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG) | [DUMB](https://open.spotify.com/album/0JvzjSnr0WNFbUlhSGkK0W) | 2:22 |
 | 60 | [SMOKING SECTION](https://open.spotify.com/track/3S53THByW096a79eIXnsXz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SMOKING SECTION](https://open.spotify.com/album/714PQIsdn0zzDfSaGEWiX5) | 2:42 |
 | 61 | [Bikini](https://open.spotify.com/track/31CzWV6WdEgqsdYqO7d7Ik) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Bikini](https://open.spotify.com/album/2SgvSyaCqdi5w8pGbJOfME) | 2:39 |
-| 62 | [Icónica](https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Corazón Club vol\. 1](https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP) | 3:09 |
+| 62 | [Icónica](https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Corazon Club Vol\. 1](https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP) | 3:09 |
 | 63 | [MOVE IT](https://open.spotify.com/track/4kM0cCRw8ufrtbEdORq60P) | [Bob's Dance Shop](https://open.spotify.com/artist/2dPiYsxFbqCHiJNQxRlai0) | [MOVE IT](https://open.spotify.com/album/0Jw5vqLrsrqOBflPL2o7JA) | 2:39 |
 | 64 | [Slip & Slide](https://open.spotify.com/track/60Inxb7R2S4RyzQg31IsCq) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Slip & Slide](https://open.spotify.com/album/6JFPl54dXCJWWfuRgCfoL6) | 2:26 |
 | 65 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 |

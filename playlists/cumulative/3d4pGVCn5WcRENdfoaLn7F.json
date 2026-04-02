@@ -2517,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Light in the Darkness",
+        "url": "https://open.spotify.com/album/31cciFSZKFdJmpoYXIFFMi"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d2RALYN",
+          "url": "https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239143,
+      "name": "Light in the Darkness",
+      "url": "https://open.spotify.com/track/4469akQ3sJ0BL8LO92RNmL"
+    },
+    {
+      "album": {
         "name": "Acid Viking",
         "url": "https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz"
       },
@@ -3502,6 +3520,24 @@
       "duration_ms": 211006,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/5C4VAhll7W7LNMKB2rANkd"
+    },
+    {
+      "album": {
+        "name": "Public Memory #1",
+        "url": "https://open.spotify.com/album/7I88oAjzXkX8DqRl23Dq4l"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211851,
+      "name": "Public Memory #1",
+      "url": "https://open.spotify.com/track/3mkjcKOsD7hzLMmTiyKbyK"
     },
     {
       "album": {

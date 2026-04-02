@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Jon Onabowu\. Artwork: Joy Yamusangie.
 
-1,647 songs - 5 day 8 hr 37 min
+1,648 songs - 5 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1222,6 +1222,7 @@
 | [sister \- REBUILD](https://open.spotify.com/track/7o9J2uGpxCnofCgl6GFUp3) | [KAGERO](https://open.spotify.com/artist/6nfmovu0GI2v2BZzfspLeZ) | [sister \- REBUILD](https://open.spotify.com/album/2PfMSve88vAyF2gYiyaZc2) | 3:55 | 2022-05-11 | 2022-05-26 |
 | [Sky View](https://open.spotify.com/track/58IGukkmCJqIlTrrb4g4xO) | [Duochrome](https://open.spotify.com/artist/7oEPPw9oIE9daEBxJ4qRlB), [Brian Thomas](https://open.spotify.com/artist/5J2bWNW9crLgcvyNNjPtdz), [Jared Sims](https://open.spotify.com/artist/7vO0dxaCLvGlRAqCl47d7X) | [Sky View](https://open.spotify.com/album/3APv0egvjU4DiD1k77I4R4) | 6:25 | 2022-08-10 | 2022-09-29 |
 | [Skylight \- Radio Edit](https://open.spotify.com/track/7c6Lewi0zGECgcfb7bpVn8) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Skylight \(Radio Edit\)](https://open.spotify.com/album/5Y7VM9dNKzWoWm28KvQLRU) | 3:40 | 2022-06-29 | 2022-07-28 |
+| [Skyrim](https://open.spotify.com/track/5ASJoqze1d53dBdJXRMz2Z) | [Black Nile](https://open.spotify.com/artist/6hb590a1aY49Cv4EAew8Pb) | [Skyrim](https://open.spotify.com/album/1MjOpx8MHqS4I7beXmqw2d) | 4:31 | 2026-04-01 |  |
 | [Skyscrapers](https://open.spotify.com/track/00E0F6S41u75kegMAnTiXd) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Skyscrapers / Another World](https://open.spotify.com/album/2shCDrFWKMqzL4ZnE08Pus) | 3:59 | 2022-08-03 | 2022-09-22 |
 | [Sleepy Jove](https://open.spotify.com/track/503XfL1rEyrgUFqcWLJnyr) | [Lemonship](https://open.spotify.com/artist/0Zc8KL9ySRWMRtMZ931laj) | [When Life Gives You Lemonship](https://open.spotify.com/album/4W7JGOJ3GIFZcsP0M0cAiB) | 2:41 | 2022-01-26 | 2022-03-17 |
 | [Slope](https://open.spotify.com/track/164UZH66VfrBcjgL375gPX) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Slope](https://open.spotify.com/album/4XYleT6V5ysQr0NbADrnfh) | 4:07 | 2023-07-19 | 2024-01-11 |
@@ -1369,7 +1370,7 @@
 | [The Dance of The Messors](https://open.spotify.com/track/67Ej3tDpe1v96JVUaYqUCZ) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [The Dance of The Messors](https://open.spotify.com/album/7yyPJN6Mgv9KC6dfMDOqWY) | 6:36 | 2022-02-16 | 2022-03-24 |
 | [The Day After](https://open.spotify.com/track/7g27hI9dGpv0fpGWY8AM7O) | [Markos Chaidemenos](https://open.spotify.com/artist/14X2kmkPFpbCZXrMg9VnCj) | [The Day After](https://open.spotify.com/album/7AbFbnIcnNCTaWuxOAMppI) | 5:20 | 2024-01-10 | 2024-03-28 |
 | [the devil you know](https://open.spotify.com/track/0vezWjeVTWrL0jvXajfeJ8) | [aja monet](https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF) | [the devil you know](https://open.spotify.com/album/09PmOEXZ6eom6WMiQcuaZJ) | 9:58 | 2023-02-22 | 2023-04-20 |
-| [The Drumbledrone](https://open.spotify.com/track/563LFrcKou0FiKUaZ5nR0C) | [Emma Rawicz](https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl), [Gwilym Simcock](https://open.spotify.com/artist/6oXieOD3dHfCCmmy96W2eR) | [Big Visit](https://open.spotify.com/album/1rHjReNt80DP3nZGgsgrSn) | 6:39 | 2025-04-09 |  |
+| [The Drumbledrone](https://open.spotify.com/track/563LFrcKou0FiKUaZ5nR0C) | [Emma Rawicz](https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl), [Gwilym Simcock](https://open.spotify.com/artist/6oXieOD3dHfCCmmy96W2eR) | [Big Visit](https://open.spotify.com/album/1rHjReNt80DP3nZGgsgrSn) | 6:39 | 2025-04-09 | 2026-04-02 |
 | [The Duology of Hydrangea Blue \- Ⅱ Development](https://open.spotify.com/track/3H4prGAFkJBg5LJcCwCmgJ) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Flumina](https://open.spotify.com/album/6K9XjDguNGkxRaeh4A6dFL) | 6:13 | 2022-06-22 | 2022-06-30 |
 | [The End Is The Beginning](https://open.spotify.com/track/2hlKDpl5viEv8jBGXj1fAh) | [Pulse Trio](https://open.spotify.com/artist/06QPGxs7a4EpvnWPEnVtVK) | [The End Is The Beginning](https://open.spotify.com/album/1MODSuHRuGhtdeDMEvv7B5) | 5:16 | 2022-02-16 | 2022-03-24 |
 | [The Eternal Stillness](https://open.spotify.com/track/58GGcyZp8N6FK9oycgs5Qz) | [Marta Sánchez](https://open.spotify.com/artist/13Q96ODlHbb2ZsvGVHn2Yr) | [The Eternal Stillness](https://open.spotify.com/album/6iPCge21CpWHYsqyGeRmZS) | 6:52 | 2022-02-16 | 2022-03-24 |

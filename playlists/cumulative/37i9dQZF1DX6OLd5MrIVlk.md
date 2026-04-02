@@ -4,7 +4,7 @@
 
 > Come on board and bring along all your hopes and dreams\. Listen to the music from and inspired by ONE PIECE, now streaming on Netflix.
 
-184 songs - 8 hr 51 min
+184 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Dragon](https://open.spotify.com/track/2WM4bOuGkKf2ZKpfKLcxIt) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [One Piece: Into the Grand Line \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/66Is0eQN77grhLl9i62KXP) | 3:56 | 2026-03-10 |  |
 | [Drink](https://open.spotify.com/track/5VR6run5RetF1Vu99UZiMp) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [One Piece Big Band](https://open.spotify.com/artist/6LblTqTQrZt3nOzku8rgyy) | [Mixtape from Baratie \(from the Netflix Series "One Piece"\)](https://open.spotify.com/album/4t1c9UpLCg3Fldvo0vAb2w) | 2:03 | 2023-09-08 |  |
 | [Drum Kingdom](https://open.spotify.com/track/5mhuCLVjQ5iYoj67ePRj52) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [One Piece: Into the Grand Line \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/66Is0eQN77grhLl9i62KXP) | 3:57 | 2026-03-10 |  |
-| [Drum Kingdom Is Saved](https://open.spotify.com/track/4VKe4FefO7iKp4mdyHsYEj) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [One Piece: Into the Grand Line \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/66Is0eQN77grhLl9i62KXP) | 3:57 | 2026-03-10 |  |
+| [Drum Kingdom Is Saved](https://open.spotify.com/track/4VKe4FefO7iKp4mdyHsYEj) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [One Piece: Into the Grand Line \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/66Is0eQN77grhLl9i62KXP) | 2:16 | 2026-03-10 |  |
 | [Enjoy Your Meals](https://open.spotify.com/track/7qpH9d8oyFd0Xmj2aUb3BJ) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [One Piece Big Band](https://open.spotify.com/artist/6LblTqTQrZt3nOzku8rgyy) | [Mixtape from Baratie \(from the Netflix Series "One Piece"\)](https://open.spotify.com/album/4t1c9UpLCg3Fldvo0vAb2w) | 0:55 | 2023-09-08 |  |
 | [Every Idiot Dreams Of Finding The One Piece](https://open.spotify.com/track/5jHE33H49q2nEf3ZeEwHUi) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [One Piece \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3SpAbtsIKZ9omjpDCPUQKJ) | 1:33 | 2023-08-31 |  |
 | [Fight To The Death \- A Duel Between Giants](https://open.spotify.com/track/3aN3ilx1YIVA4Lm6tGygp3) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [One Piece: Into the Grand Line \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/66Is0eQN77grhLl9i62KXP) | 7:46 | 2026-03-10 |  |

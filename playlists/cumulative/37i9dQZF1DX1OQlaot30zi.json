@@ -22465,6 +22465,24 @@
     },
     {
       "album": {
+        "name": "BUONA DOMENICA",
+        "url": "https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187254,
+      "name": "BUONA DOMENICA",
+      "url": "https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty"
+    },
+    {
+      "album": {
         "name": "Buona Fortuna",
         "url": "https://open.spotify.com/album/2BxKaEQf3iOTmWazr0sKb6"
       },
@@ -56020,7 +56038,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 161280,
       "name": "GRI*P",
       "url": "https://open.spotify.com/track/79n87Kh4OR4CK26JuT9I59"
@@ -71172,7 +71190,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 142033,
       "name": "LASCERESTI TUTTO X ME?",
       "url": "https://open.spotify.com/track/5geiTny4134OciyLqT9WIN"
@@ -131306,7 +131324,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 141061,
       "name": "sushi con i killer - glory boys edition",
       "url": "https://open.spotify.com/track/1ju8L4DhMhLnYZAI6frSgI"

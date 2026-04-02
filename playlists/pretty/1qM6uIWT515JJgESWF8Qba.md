@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 389 likes - 67 songs - 4 hr 20 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 394 likes - 68 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 65 | [Burning Hell](https://open.spotify.com/track/0a9kz1MrbUGQlz8MqE9WTr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Burning Hell](https://open.spotify.com/album/5SuTrgKemwnr0culrcxuCS) | 4:46 |
 | 66 | [Heart Don't Beat No Fear](https://open.spotify.com/track/5pmLY4W35dyS7VvUpoBtHM) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Heart Don't Beat No Fear](https://open.spotify.com/album/3cP2lWFVTlDHhqtWQN12Zl) | 3:08 |
 | 67 | [I Have No Fear](https://open.spotify.com/track/4XccGq2EBT76YuZBltTEdr) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [Dreamscape Odyssey](https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD) | 5:06 |
+| 68 | [FLOWERS](https://open.spotify.com/track/24hBaP9gSlo2NeyQZGGvQB) | [OUR GREAT ESCAPE](https://open.spotify.com/artist/0Gtsp3mRl1OlBiudeI4DSx) | [INFINITY WARS](https://open.spotify.com/album/1GATZuf4mUVmik7eFpPK5y) | 5:44 |
 
-Snapshot ID: `AAABdMz3I/vDlZ8tVmBUMW+8CA5vo8Q7`
+Snapshot ID: `AAABdXx9E353VFdXGgsEkrhR4cPqWXLA`

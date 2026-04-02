@@ -6588,7 +6588,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 195048,
       "name": "Hayaty Msh Tamam",
       "url": "https://open.spotify.com/track/5P1lXXSESjRau7dg9l6egg"
@@ -17938,7 +17938,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 242783,
       "name": "\u0628\u062d\u0643\u064a\u0644\u0643 \u0639\u0646 \u0627\u0644\u0623\u064a\u0627\u0645",
       "url": "https://open.spotify.com/track/0LBdR8Oub0hKQSuW9KEfvt"
@@ -20324,7 +20324,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 201271,
       "name": "\u0639\u064a\u0646 \u0633\u062d\u0631\u064a\u0629",
       "url": "https://open.spotify.com/track/0pTxrkqqHSVCsuHS9NhaH5"
@@ -21357,6 +21357,24 @@
     },
     {
       "album": {
+        "name": "\u0645\u062a\u0631\u0643\u0632\u0634 \u0648\u062a\u062a\u0623\u0645\u0644 \u0648\u062a\u0628\u0635\u0628\u0635 ( \u0627\u0646\u0627 \u0645\u0634 \u0635\u0627\u062d\u0628\u0643 \u0648\u062d\u0628\u064a\u0628\u0643 )",
+        "url": "https://open.spotify.com/album/6HvbrPMyFxaCSIypo8wogw"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212819,
+      "name": "\u0645\u062a\u0631\u0643\u0632\u0634 \u0648\u062a\u062a\u0623\u0645\u0644 \u0648\u062a\u0628\u0635\u0628\u0635 ( \u0627\u0646\u0627 \u0645\u0634 \u0635\u0627\u062d\u0628\u0643 \u0648\u062d\u0628\u064a\u0628\u0643 )",
+      "url": "https://open.spotify.com/track/4ZhqzpLGnqAtmxDVmm7yfV"
+    },
+    {
+      "album": {
         "name": "\u0645\u062a\u063a\u0627\u0638 \u0639\u0627\u0631\u0641\u0643 \u064a\u0644\u0627 \u0645\u0646\u0646\u0627 \u0645\u062a\u063a\u0627\u0638",
         "url": "https://open.spotify.com/album/5SQGV3iWGYOKzxLNay9jad"
       },
@@ -22148,16 +22166,16 @@
       },
       "artists": [
         {
-          "name": "Bahaa Sultan",
-          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
-        },
-        {
           "name": "Mahmoud El Esseily",
           "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
         },
         {
-          "name": "Banque Masr",
-          "url": "https://open.spotify.com/artist/0es9FEIgdTOzAfoKFEvsUK"
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        },
+        {
+          "name": "Banque Misr",
+          "url": "https://open.spotify.com/artist/52ZYmo8Rhz3Xgxr7RUJ3ql"
         }
       ],
       "date_added": "2026-02-21",
@@ -22290,7 +22308,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 210714,
       "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
       "url": "https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn"
@@ -22636,7 +22654,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 195157,
       "name": "\u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646",
       "url": "https://open.spotify.com/track/5ew2q5hC3OwnEWVB15uB9w"

@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "alien.",
+        "url": "https://open.spotify.com/album/0ZX5IAFtcRr57vCQeOahW8"
+      },
+      "artists": [
+        {
+          "name": "ZERO SUN",
+          "url": "https://open.spotify.com/artist/0pqgsjsIkLSJ4SLJZ4nYFB"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229139,
+      "name": "alien.",
+      "url": "https://open.spotify.com/track/0MqgKaj6vvWdoCn8w75w10"
+    },
+    {
+      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/0tJEOsX7X3XfBZTWWOJTum"
       },
@@ -4904,6 +4922,24 @@
       "duration_ms": 341187,
       "name": "Dirty Road",
       "url": "https://open.spotify.com/track/1mPxBtfu7Qad4RCOWK8SNF"
+    },
+    {
+      "album": {
+        "name": "En Fin",
+        "url": "https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8"
+      },
+      "artists": [
+        {
+          "name": "Nico Tallac",
+          "url": "https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh"
     },
     {
       "album": {
@@ -17398,6 +17434,24 @@
       "duration_ms": 205986,
       "name": "Sour and Distressed",
       "url": "https://open.spotify.com/track/6FvrZLQZ4iJ2HphkJtkkiz"
+    },
+    {
+      "album": {
+        "name": "Spacecat",
+        "url": "https://open.spotify.com/album/6VKiseKucbHBXLvXLpO2w6"
+      },
+      "artists": [
+        {
+          "name": "Jeanette Summers",
+          "url": "https://open.spotify.com/artist/2xJV4YACXieIEFM5iH9VLi"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258039,
+      "name": "Spacecat",
+      "url": "https://open.spotify.com/track/6J9exNHLIQCWBFt3ImK94Z"
     },
     {
       "album": {

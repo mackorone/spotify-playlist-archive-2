@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,982 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,998 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 43 | [Laberinto interno](https://open.spotify.com/track/0e5y2pI0PGFE5XbjFwNyOd) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/0DEcwrfWlmKUbUcjjCaObx) | 3:53 |
 | 44 | [Ten paciencia](https://open.spotify.com/track/6eCBaeECJCWwVY5aceMPeD) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g) | 3:16 |
 | 45 | [La vida](https://open.spotify.com/track/3MB0RVkjGowef4HLoeNeQF) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 3:51 |
-| 46 | [Luces de la ciudad](https://open.spotify.com/track/2csEH050WHJQM6qXSxBlff) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 3:18 |
+| 46 | [MUSICA CONSCIENTE \- En Vivo](https://open.spotify.com/track/359xvA1jrNIhi5wcZz4KE2) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/36mWYEiZGTs7H7REUxFCcQ) | 2:42 |
 | 47 | [No existen fronteras](https://open.spotify.com/track/7joTq2CorwMDNeI0DZechn) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2), [Malaya](https://open.spotify.com/artist/1xHPjXBPyStKOEKfTIyoxj) | [La Búsqueda](https://open.spotify.com/album/0DEcwrfWlmKUbUcjjCaObx) | 3:00 |
-| 48 | [MUSICA CONSCIENTE \- En Vivo](https://open.spotify.com/track/359xvA1jrNIhi5wcZz4KE2) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/36mWYEiZGTs7H7REUxFCcQ) | 2:42 |
+| 48 | [Luces de la ciudad](https://open.spotify.com/track/2csEH050WHJQM6qXSxBlff) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 3:18 |
 | 49 | [Buscándote](https://open.spotify.com/track/6fNIlun66chXqiuKGiiu4j) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 2:38 |
 | 50 | [Esa luz](https://open.spotify.com/track/0KGb64YLoDy5qonAqmY69r) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 3:03 |
 
-Snapshot ID: `acm9AAAAAACgA4t5wuAUsyLT6b8LFdhx`
+Snapshot ID: `acsOgAAAAAAt1tt1E/JiRNQZB7P64zsT`

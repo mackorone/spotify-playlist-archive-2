@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Mohd Rafi Ghazals And Geet",
+        "url": "https://open.spotify.com/album/1oPsr46x4c91dYoTTUyWrb"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210933,
+      "name": "Do Ghadi Baitho - Geet",
+      "url": "https://open.spotify.com/track/13P4bNFTFzAuYUGKLspwd7"
+    },
+    {
+      "album": {
         "name": "Chillnama (Remix)",
         "url": "https://open.spotify.com/album/36ghWpDkfmfa1cWvYkNVki"
       },
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 273120,
       "name": "Is Rang Badalti Duniya Mein",
       "url": "https://open.spotify.com/track/1H0Emv03XFvyMaLY0NqnUg"
@@ -2737,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Anokhi Raat",
+        "url": "https://open.spotify.com/album/1f72vNLqLfiKWAjPgKRTti"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "Mehlon Ka Raja Mila",
+      "url": "https://open.spotify.com/track/1LgA8KReeRgdEj9PdYJRK9"
+    },
+    {
+      "album": {
         "name": "Shree 420",
         "url": "https://open.spotify.com/album/0WzbgAopzfxj49ucK5RXmE"
       },
@@ -3578,7 +3614,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 204613,
       "name": "Rajnigandha Phool Tumhare",
       "url": "https://open.spotify.com/track/3OGaepo31Q3d427kHHpdx6"
@@ -4218,7 +4254,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 225680,
       "name": "Tum Pukar Lo Tumhara Intezar Hai",
       "url": "https://open.spotify.com/track/3bKu8IK7vgUDwtJiYcBkme"
@@ -4240,6 +4276,28 @@
       "duration_ms": 210733,
       "name": "Tumsa Nahin Dekha",
       "url": "https://open.spotify.com/track/19XGh74why406tLVd0ddVt"
+    },
+    {
+      "album": {
+        "name": "Naya Daur",
+        "url": "https://open.spotify.com/album/6E3SE6BUaI0cPtOIDGZZ0R"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295926,
+      "name": "Uden Jab Jab Zulfen Teri",
+      "url": "https://open.spotify.com/track/7bwNvQj2ZYNRVTMwaajPkl"
     },
     {
       "album": {

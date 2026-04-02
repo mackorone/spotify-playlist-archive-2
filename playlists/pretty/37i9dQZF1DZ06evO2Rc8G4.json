@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 170886,
+  "num_followers": 170908,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acm9AAAAAADuziPtDLkUGavJB1xhc3mm",
+  "snapshot_id": "acsOgAAAAAAuobBQj7euZSUEcxLNdb3R",
   "tracks": [
     {
       "added_at": null,
@@ -879,22 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jack Savoretti",
-          "url": "https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x"
         }
       ],
-      "duration_ms": 249666,
-      "name": "Music's Too Sad Without You",
-      "url": "https://open.spotify.com/track/2cUU9jelvVTypTwJttFwkV"
+      "duration_ms": 200061,
+      "name": "Got to Be Certain",
+      "url": "https://open.spotify.com/track/7hsOcTJHQS6BxxPIyaNlvw"
     }
   ],
   "unique_name": "This Is Kylie Minogue",

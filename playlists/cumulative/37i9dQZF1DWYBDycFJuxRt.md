@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Mall Boyz + BIM + kZm \*👉 <a href="https://spice.eplus.jp/articles/344995">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Mall Boyz + BIM + kZm \*👉 <a href="https://spice.eplus.jp/articles/345154">連動記事</a>をSPICEでチェック!
 
-14,182 songs - 37 day 14 hr 21 min
+14,184 songs - 37 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [2026/3/18 LANA & Elle Teresaがコラボ曲をリリース！にしなのロングインタビューも配信！Adoの新曲、yamaのEPもピックアップ！！](https://open.spotify.com/episode/6rSsfysq1VWqtTXDzBvn7f) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 57:00 | 2026-03-18 | 2026-03-25 |
 | [2026/3/25 Mr.Childrenがニューアルバムをリリース！ずっと真夜中でいいのに。のニューアルバム、羊文学の新曲も！kZmの新曲、注目のニューカマーKiannaの新作も！](https://open.spotify.com/episode/00sQkW8ERGVSUYpF904ruQ) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:48 | 2026-03-25 | 2026-04-01 |
 | [2026/3/4 嵐が新曲をリリース！ Furui Rihoロングインタビュー&Mitskiからのメッセージが到着！ヨルシカのニューアルバム、Kianna、Harka、AOTO、Sieroによる『POP YOURS』オリジナル楽曲もピックアップ！](https://open.spotify.com/episode/7sXiU57lFFpFRfc0oHkWGR) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 1:08:51 | 2026-03-04 | 2026-03-11 |
+| [2026/4/1 Mall BoyzがBIM、kZmを迎えた新曲をリリース！Official髭男dismの新曲も！ Kan Sanoがluvを迎えた新曲、カネコアヤノのニューシングル、Maverick Momもピックアップ！](https://open.spotify.com/episode/2MiBEeAtRP9sqBsaputwDk) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 18:51 | 2026-04-01 |  |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-13 | 2024-11-20 |
@@ -4449,6 +4450,7 @@
 | [KUDARANAI](https://open.spotify.com/track/3DMcNmbIMPFLFhSYdKxNqm) | [Lil G Cake](https://open.spotify.com/artist/2gg8wFHePNftPWN9rUEghe), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [KUDARANAI](https://open.spotify.com/album/4mX1zost5Vw0EWldVMKpOs) | 3:09 | 2024-06-25 | 2024-07-03 |
 | [Kujira](https://open.spotify.com/track/5fac8pGg9klKEy4bIV3q06) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [touch the subconscious](https://open.spotify.com/album/6giIlydAr0RyMutAdQV5Si) | 4:59 | 2024-03-05 | 2024-03-13 |
 | [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-08 | 2023-02-15 |
+| [Kumo\-no\-ito](https://open.spotify.com/track/5rW96Atve8irVhlkFJgxe1) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [House of Holy Banana](https://open.spotify.com/album/2aAOPhApQHkhvIsIVZ8Qof) | 3:51 | 2026-03-31 |  |
 | [Kumori nochi hare](https://open.spotify.com/track/0USZ5ZtZIdlqt6c52A7yPX) | [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ) | [Kumori nochi hare](https://open.spotify.com/album/3r61XCzJZQVNHlRySvLIxD) | 4:10 | 2025-01-14 | 2025-01-22 |
 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 | 2023-10-10 | 2023-10-18 |
 | [Kurashi ni Itene](https://open.spotify.com/track/42I3N8OvPliwET2CFTpQNU) | [前髪ぱっつん少年](https://open.spotify.com/artist/7or6bDWz1u16nry2jUu7oe) | [Kurashi ni Itene](https://open.spotify.com/album/7teXQpZvlWCqmM15Sre5lS) | 3:29 | 2026-01-27 | 2026-02-04 |
@@ -8542,7 +8544,6 @@
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-06 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 |  |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 | 2026-03-11 |
-| [Track 3](https://open.spotify.com/track/5rW96Atve8irVhlkFJgxe1) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [House of Holy Banana](https://open.spotify.com/album/2aAOPhApQHkhvIsIVZ8Qof) | 0:00 | 2026-03-31 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-05-29 |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-05-07 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |
@@ -10582,6 +10583,7 @@
 | [ギフにテッド](https://open.spotify.com/track/7fBjUpZ8ZmcGxZcmNlGbjY) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ギフにテッド](https://open.spotify.com/album/4nEQtZHCwShm6PPcpjFQuy) | 3:22 | 2024-04-09 | 2024-04-17 |
 | [ギフト \(alt ver.\)](https://open.spotify.com/track/2RCZLGGtKIJl59Jy5eYd2o) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [ギフト \(alt ver.\)](https://open.spotify.com/album/6NTEA3yHbJbaHAEuFSfA8x) | 4:19 | 2023-09-19 | 2023-09-21 |
 | [ギミギミ聖域](https://open.spotify.com/track/5nS1YTg6YWKjhIbUOvAdZM) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [フライングベスト2](https://open.spotify.com/album/5AhjvzDOxG2NirhEYC4BB9) | 3:09 | 2025-08-20 | 2025-08-27 |
+| [ギューアグ](https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ギューアグ](https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ) | 3:08 | 2026-03-31 |  |
 | [ギラり](https://open.spotify.com/track/2ncTCcqglvbB4LC0qPLQFq) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [SHIBAI \(Deluxe\)](https://open.spotify.com/album/5Nld5ZThnxP6yMxMHcNCld) | 2:49 | 2026-02-03 | 2026-02-11 |
 | [ギラギラサマー](https://open.spotify.com/track/2sHxORfEwQLuFCINxl0znD) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [ギラギラサマー](https://open.spotify.com/album/02HW2ZpiMq4sURnpLKJ5Im) | 3:24 | 2025-06-03 | 2025-06-11 |
 | [ギルティ](https://open.spotify.com/track/5cL0Al86ELe3z3KukGjofq) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [ギルティ](https://open.spotify.com/album/0FDGiDBinoBjgu15ni4dVh) | 4:00 | 2024-04-09 | 2024-04-17 |

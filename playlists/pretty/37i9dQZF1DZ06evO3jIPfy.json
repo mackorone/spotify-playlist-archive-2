@@ -1,12 +1,12 @@
 {
   "description": "This is Yo-Yo Ma. The essential tracks, all in one playlist.",
-  "num_followers": 100925,
+  "num_followers": 100940,
   "original_name": "This Is Yo-Yo Ma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acm9AAAAAADNyTiB5DCmDPxiH0Y/pOzz",
+  "snapshot_id": "acsOgAAAAACl871dIix4JZGoAk4JQcio",
   "tracks": [
     {
       "added_at": null,
@@ -275,30 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beethoven for Three: Symphony No. 6 \"Pastorale\" and Op. 1, No. 3",
-        "url": "https://open.spotify.com/album/5ezojM5Z8lU0RPyS52MTlV"
+        "name": "Essential Yo-Yo Ma",
+        "url": "https://open.spotify.com/album/528CHvW7EMT21kVKwZfu5N"
       },
       "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
         {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
-          "name": "Emanuel Ax",
-          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
-        },
-        {
-          "name": "Leonidas Kavakos",
-          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
         }
       ],
-      "duration_ms": 711626,
-      "name": "Symphony No. 6 in F Major, Op. 68, \"Pastorale\": I. Allegro ma non troppo, \"Awakening of cheerful feelings on arriving in the countryside\"",
-      "url": "https://open.spotify.com/track/6Ye4niSXscwpj4smkb5ioO"
+      "duration_ms": 346853,
+      "name": "Tha\u00efs: M\u00e9ditation (Arr. for Cello & Piano)",
+      "url": "https://open.spotify.com/track/1suv0FzP6WA1rIK7tSJ1oH"
     },
     {
       "added_at": null,
@@ -327,22 +319,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Yo-Yo Ma",
-        "url": "https://open.spotify.com/album/528CHvW7EMT21kVKwZfu5N"
+        "name": "Beethoven for Three: Symphony No. 6 \"Pastorale\" and Op. 1, No. 3",
+        "url": "https://open.spotify.com/album/5ezojM5Z8lU0RPyS52MTlV"
       },
       "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
         {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
-          "name": "Kathryn Stott",
-          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
         }
       ],
-      "duration_ms": 346853,
-      "name": "Tha\u00efs: M\u00e9ditation (Arr. for Cello & Piano)",
-      "url": "https://open.spotify.com/track/1suv0FzP6WA1rIK7tSJ1oH"
+      "duration_ms": 711626,
+      "name": "Symphony No. 6 in F Major, Op. 68, \"Pastorale\": I. Allegro ma non troppo, \"Awakening of cheerful feelings on arriving in the countryside\"",
+      "url": "https://open.spotify.com/track/6Ye4niSXscwpj4smkb5ioO"
     },
     {
       "added_at": null,
@@ -407,26 +407,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sicilienne, Op. 78",
-        "url": "https://open.spotify.com/album/52UFY4THcVp1PTPLFaUYt2"
+        "name": "Essential Yo-Yo Ma",
+        "url": "https://open.spotify.com/album/528CHvW7EMT21kVKwZfu5N"
       },
       "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
         {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
-          "name": "Kathryn Stott",
-          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+          "name": "Ton Koopman",
+          "url": "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
+        },
+        {
+          "name": "Amsterdam Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/2CMg8J0WjftvFR5zFbufVA"
         }
       ],
-      "duration_ms": 219186,
-      "name": "Sicilienne, Op. 78",
-      "url": "https://open.spotify.com/track/63WAGVk3YHoFIV4WXhtiJD"
+      "duration_ms": 439200,
+      "name": "Matth\u00e4us-Passion, BWV 244: Erbarme dich mein Gott",
+      "url": "https://open.spotify.com/track/4JvNt2PROKlPspAQfADzgX"
     },
     {
       "added_at": null,
@@ -455,26 +455,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Yo-Yo Ma",
-        "url": "https://open.spotify.com/album/528CHvW7EMT21kVKwZfu5N"
+        "name": "Sicilienne, Op. 78",
+        "url": "https://open.spotify.com/album/52UFY4THcVp1PTPLFaUYt2"
       },
       "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
         {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
-          "name": "Ton Koopman",
-          "url": "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
-        },
-        {
-          "name": "Amsterdam Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/2CMg8J0WjftvFR5zFbufVA"
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
         }
       ],
-      "duration_ms": 439200,
-      "name": "Matth\u00e4us-Passion, BWV 244: Erbarme dich mein Gott",
-      "url": "https://open.spotify.com/track/4JvNt2PROKlPspAQfADzgX"
+      "duration_ms": 219186,
+      "name": "Sicilienne, Op. 78",
+      "url": "https://open.spotify.com/track/63WAGVk3YHoFIV4WXhtiJD"
     },
     {
       "added_at": null,
@@ -1027,6 +1027,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bach Trios",
+        "url": "https://open.spotify.com/album/5SbylfazVixJi7hahuuzvH"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Sonata for Viola da Gamba No. 3 in G Minor, BWV 1029: II. Adagio",
+      "url": "https://open.spotify.com/track/6bj2r3CKqXhMnvb07VY4iR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beethoven & Schumann: Piano Quartets (Remastered)",
         "url": "https://open.spotify.com/album/0IDzHPTWKzxvq4yRePVQKz"
       },
@@ -1059,30 +1087,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach Trios",
-        "url": "https://open.spotify.com/album/5SbylfazVixJi7hahuuzvH"
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
         }
       ],
-      "duration_ms": 258360,
-      "name": "Sonata for Viola da Gamba No. 3 in G Minor, BWV 1029: II. Adagio",
-      "url": "https://open.spotify.com/track/6bj2r3CKqXhMnvb07VY4iR"
+      "duration_ms": 159533,
+      "name": "The Chairman's Waltz (From \"Memoirs of a Geisha\" Soundtrack)",
+      "url": "https://open.spotify.com/track/67EOtoy4dasPCapvD0aycg"
     },
     {
       "added_at": null,
@@ -1107,30 +1131,6 @@
       "duration_ms": 174640,
       "name": "Gypsy Songs, Op. 55, B. 104: No. 4, Songs My Mother Taught Me (Arr. F. Kreisler for Cello & Piano)",
       "url": "https://open.spotify.com/track/6wK08nOPL1aZW4oL2A9PUp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 159533,
-      "name": "The Chairman's Waltz (From \"Memoirs of a Geisha\" Soundtrack)",
-      "url": "https://open.spotify.com/track/67EOtoy4dasPCapvD0aycg"
     },
     {
       "added_at": null,

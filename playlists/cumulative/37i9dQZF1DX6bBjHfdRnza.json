@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "1, 2, KICK!",
+        "url": "https://open.spotify.com/album/7at6p7RvkCMbNqNugnLALE"
+      },
+      "artists": [
+        {
+          "name": "Shake Daddy",
+          "url": "https://open.spotify.com/artist/0FJHBL4Pu8l6ND4yZNSUQc"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263306,
+      "name": "1, 2, KICK!",
+      "url": "https://open.spotify.com/track/0hxWy4e9TmYneZBHILgrnf"
+    },
+    {
+      "album": {
         "name": "1-800-HITMYLINE",
         "url": "https://open.spotify.com/album/0H3latnKNjE2Q1CWC6zy5U"
       },
@@ -3170,7 +3188,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 117559,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3jt7e2DWwoIoGuY2lvfQ8r"
@@ -7888,7 +7906,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 424390,
       "name": "Brain",
       "url": "https://open.spotify.com/track/5Y5IeRVVXc2uUWKnzEBqsR"
@@ -9888,7 +9906,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 231643,
       "name": "CARBONE",
       "url": "https://open.spotify.com/track/7MSzSzgKJYOT5YP0QkugAB"
@@ -16830,7 +16848,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 168169,
       "name": "Driving Me Crazy",
       "url": "https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG"
@@ -17918,7 +17936,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 391836,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/4rfNBDqU7qSp0S81ci8qqb"
@@ -19340,7 +19358,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 172706,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/4RWk0U7Fk6Y6TCLk0THcfN"
@@ -21234,7 +21252,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 261363,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng"
@@ -23356,7 +23374,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 132026,
       "name": "GET WHAT I WANT",
       "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
@@ -24628,6 +24646,32 @@
       "duration_ms": 179125,
       "name": "Gotta Move",
       "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
+    },
+    {
+      "album": {
+        "name": "Grab Me Water",
+        "url": "https://open.spotify.com/album/13c41UsdcLme5PJh6L7J5G"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        },
+        {
+          "name": "Ancona",
+          "url": "https://open.spotify.com/artist/177HU6uNxKwrQIFvmmkFqR"
+        },
+        {
+          "name": "Eddie Caine",
+          "url": "https://open.spotify.com/artist/0Z2wIXTdaJbZWCzrfNREWl"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205162,
+      "name": "Grab Me Water",
+      "url": "https://open.spotify.com/track/2aLzIJ1mikuw6xWuynqycG"
     },
     {
       "album": {
@@ -26234,7 +26278,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 179808,
       "name": "Hibiscus",
       "url": "https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R"
@@ -26654,7 +26698,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 209577,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/52n9w0fmTgeHE65isG7UQg"
@@ -27574,7 +27618,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 178153,
       "name": "House Is Gettin' Raw",
       "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
@@ -27592,7 +27636,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 280679,
       "name": "House Is The Religion",
       "url": "https://open.spotify.com/track/4mfKrRq2JSFHSWwsjhJMeh"
@@ -29856,7 +29900,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 150000,
       "name": "In Tha Club",
       "url": "https://open.spotify.com/track/59j5yzNkQicfTmayf80bQi"
@@ -31458,6 +31502,24 @@
       "duration_ms": 181904,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
+    },
+    {
+      "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
+      },
+      "artists": [
+        {
+          "name": "Noah Baine",
+          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
     },
     {
       "album": {
@@ -36398,7 +36460,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 297346,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/53uxeteSi9xQBJV89BfVER"
@@ -41566,7 +41628,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 207428,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/0jIK3nWHM9unsdeqJeHtOS"
@@ -43236,7 +43298,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 228744,
       "name": "Out Of Control",
       "url": "https://open.spotify.com/track/09LLEPYfP97oBHntL6k1al"
@@ -44102,7 +44164,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 180000,
       "name": "Patron",
       "url": "https://open.spotify.com/track/5dRaIOKmvdrt6QP9yru7Qm"
@@ -60195,6 +60257,24 @@
     },
     {
       "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/5Zr1RpCtSSjJSQLvFYJXSb"
+      },
+      "artists": [
+        {
+          "name": "Ontonic",
+          "url": "https://open.spotify.com/artist/2ubj9n9jrEgvG6pbegX06x"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227527,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6u5uJUkN4Virf2lLxRCcve"
+    },
+    {
+      "album": {
         "name": "Unknown Angel",
         "url": "https://open.spotify.com/album/0Uo6UEk7brlxliZ1KmzTKV"
       },
@@ -63520,7 +63600,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 244850,
       "name": "Why Don't You Love Me",
       "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
@@ -63560,6 +63640,24 @@
       "duration_ms": 219120,
       "name": "Wi Skank to They Riddim",
       "url": "https://open.spotify.com/track/07XiIXW8I7oFq1qIKEOCFO"
+    },
+    {
+      "album": {
+        "name": "Wicked With You",
+        "url": "https://open.spotify.com/album/0T77mYfP5wbmDDUg7rkScz"
+      },
+      "artists": [
+        {
+          "name": "Tom Carroll",
+          "url": "https://open.spotify.com/artist/0HhkKgvROcEteI6vfUjvbv"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232367,
+      "name": "Wicked With You",
+      "url": "https://open.spotify.com/track/1NUrZluiGCRucIvcjiRMCM"
     },
     {
       "album": {
@@ -64438,7 +64536,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 157826,
       "name": "Y U DO IT LIKE DAT",
       "url": "https://open.spotify.com/track/7B6Hg4pLKWbvHgkivAeLjU"
@@ -65404,7 +65502,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 223843,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/4iNrrIcQH94hGaan1KalLe"

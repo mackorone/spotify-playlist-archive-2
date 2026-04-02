@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,291 likes - 168 songs - 9 hr 53 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,290 likes - 169 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,5 +176,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 166 | [A Dove Divine](https://open.spotify.com/track/4q753ZqObBusNbYLHfHg8w) | [Evan Shapiro](https://open.spotify.com/artist/0UILmPMs55OVehWiVAoFTc) | [A Dove Divine](https://open.spotify.com/album/5NYVnWCaHVwLwdZIRHjQPc) | 2:57 |
 | 167 | [Semi\-Virgin](https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:12 |
 | 168 | [Alive](https://open.spotify.com/track/1gKY8KxcwNtdYRF8H0gxh1) | [MAOOSA](https://open.spotify.com/artist/6Q2Tv4sMicVl2LKTnqzdyV) | [Alive](https://open.spotify.com/album/69Zi6K575DePRoq5tWHwCZ) | 3:44 |
+| 169 | [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 |
 
-Snapshot ID: `AAASbIvpxsOSVM8yAgA0zOuPDPwoYqlF`
+Snapshot ID: `AAASbTnVqSWmeqEqzVBBHvaLTb1M6Jz1`

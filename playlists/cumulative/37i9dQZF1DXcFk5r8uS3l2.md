@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
 
-481 songs - 1 day 6 hr 9 min
+482 songs - 1 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 | 2022-03-18 | 2025-10-18 |
 | [Fresh Bones](https://open.spotify.com/track/5TDEy1qTEFWwdWTZ9K9v3p) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Fresh Bones](https://open.spotify.com/album/5YVPNyHgApTTHosueEDxEZ) | 3:14 | 2024-05-31 | 2024-07-06 |
 | [Full Throttle](https://open.spotify.com/track/3a9hjQyEt5g1L6jbK46oM3) | [Clayton Sturgeon](https://open.spotify.com/artist/48MYOaXNicyTiWBlRCkogN) | [Full Throttle](https://open.spotify.com/album/19GYEqqEXkYbCGNh65mRlu) | 3:11 | 2022-08-05 | 2023-03-11 |
+| [Gathering Forces](https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E) | [Jonah Smith](https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC), [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Gathering Forces](https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF) | 3:05 | 2026-03-27 |  |
 | [Get Real High](https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz) | 4:07 | 2022-04-22 | 2025-03-29 |
 | [Get Real High](https://open.spotify.com/track/571hnpYJoZeQoDFhagsDqq) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/7aMqrSC4M8RqB8sNODlPWF) | 4:07 | 2022-04-22 | 2024-04-19 |
 | [Go Poseidon!](https://open.spotify.com/track/2PNFIfnnavc5BbrwwtfR6l) | [Andy McCutcheon](https://open.spotify.com/artist/1HNLfaKJEfCJHYrgWN3MRQ) | [Go Poseidon!](https://open.spotify.com/album/6rZknVym4R0eJhIVApU0GB) | 7:03 | 2023-04-07 | 2023-07-08 |
@@ -166,7 +167,7 @@
 | [Heaven Knows](https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Heaven Knows](https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8) | 5:23 | 2022-04-29 |  |
 | [Help Me Now](https://open.spotify.com/track/3GBV8M2iOv6T5UD91Lok2y) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Help Me Now](https://open.spotify.com/album/2zf92DYqMqjqLeGbaMpxdl) | 3:41 | 2022-10-14 | 2022-10-22 |
 | [Her Song](https://open.spotify.com/track/0zwqiSwBs0pzOsRrwjQedc) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Mama Rosa](https://open.spotify.com/album/68lPlEz1PvticlwgS0aznV) | 5:26 | 2023-04-28 | 2026-02-14 |
-| [Hey! You Know You Wanna!](https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk) | [The Delta Bombers](https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz) | [Neon Sounds](https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL) | 4:07 | 2023-04-07 |  |
+| [Hey! You Know You Wanna!](https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk) | [The Delta Bombers](https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz) | [Neon Sounds](https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL) | 4:07 | 2023-04-07 | 2026-04-02 |
 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 | 2022-05-27 | 2023-03-11 |
 | [History Repeats](https://open.spotify.com/track/7u0FwjCZoc3uZA4OJtlUrB) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:04 | 2021-12-17 | 2022-07-27 |
 | [Hit 'Em Back](https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back](https://open.spotify.com/album/1kN8MM4zOwjHKzFw6epZuX) | 4:33 | 2022-01-28 | 2023-02-25 |

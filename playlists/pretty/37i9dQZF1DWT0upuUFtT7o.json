@@ -1,13 +1,81 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: Quiet Light",
-  "num_followers": 255403,
+  "description": "The best new indie tracks from independent artists & labels. Cover: Rockie Rode",
+  "num_followers": 255446,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAO/6hbh8Xwr1rEgQXfTLAsaRkHw",
+  "snapshot_id": "AAAAAFHnPxULIBqtvAn6ro1x5i+riQga",
   "tracks": [
+    {
+      "added_at": "2026-04-01 16:00:37",
+      "album": {
+        "name": "Switcheroo",
+        "url": "https://open.spotify.com/album/6Wx8B7uw0trE9PQRXfIA78"
+      },
+      "artists": [
+        {
+          "name": "Gelli Haha",
+          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
+        }
+      ],
+      "duration_ms": 224418,
+      "name": "Klouds Will Carry Me To Sleep",
+      "url": "https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk"
+    },
+    {
+      "added_at": "2026-04-01 16:00:37",
+      "album": {
+        "name": "Tethered",
+        "url": "https://open.spotify.com/album/3UhgtMPRpwgdjVkExAGZOo"
+      },
+      "artists": [
+        {
+          "name": "Eilish Constance",
+          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
+        }
+      ],
+      "duration_ms": 203312,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/0r3lhQvFpzXSgm86156k1w"
+    },
+    {
+      "added_at": "2026-03-18 17:42:54",
+      "album": {
+        "name": "Rockie",
+        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
+      },
+      "artists": [
+        {
+          "name": "Rockie Rode",
+          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
+        },
+        {
+          "name": "Samba Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
+    },
+    {
+      "added_at": "2026-03-11 17:52:17",
+      "album": {
+        "name": "Never change, love you always",
+        "url": "https://open.spotify.com/album/4Zdz41nIVoVftrPWRVwIWW"
+      },
+      "artists": [
+        {
+          "name": "Bedelia",
+          "url": "https://open.spotify.com/artist/2y1uY0iJhBmQ2pbJpj94Vz"
+        }
+      ],
+      "duration_ms": 204554,
+      "name": "Do you miss me at all",
+      "url": "https://open.spotify.com/track/2qNlbiYVufbqIvxBugp3Rf"
+    },
     {
       "added_at": "2026-03-25 16:00:36",
       "album": {
@@ -25,20 +93,68 @@
       "url": "https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz"
     },
     {
-      "added_at": "2026-03-11 17:52:17",
+      "added_at": "2026-04-01 16:00:37",
       "album": {
-        "name": "Never change, love you always",
-        "url": "https://open.spotify.com/album/4Zdz41nIVoVftrPWRVwIWW"
+        "name": "Postinternetfame / Self Tape",
+        "url": "https://open.spotify.com/album/34pUJjYymPU7jioThphtiR"
       },
       "artists": [
         {
-          "name": "Bedelia",
-          "url": "https://open.spotify.com/artist/2y1uY0iJhBmQ2pbJpj94Vz"
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
         }
       ],
-      "duration_ms": 204554,
-      "name": "Do you miss me at all",
-      "url": "https://open.spotify.com/track/2qNlbiYVufbqIvxBugp3Rf"
+      "duration_ms": 141864,
+      "name": "Postinternetfame",
+      "url": "https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh"
+    },
+    {
+      "added_at": "2026-04-01 16:00:37",
+      "album": {
+        "name": "Whole World As Vigil",
+        "url": "https://open.spotify.com/album/1FijSy0VEvdrUTNCwJqgRJ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "duration_ms": 297252,
+      "name": "say nothing",
+      "url": "https://open.spotify.com/track/14kvSSMXYjRRath6EaxGlg"
+    },
+    {
+      "added_at": "2026-04-01 19:00:43",
+      "album": {
+        "name": "high me raise / bullet caught in a spiders web",
+        "url": "https://open.spotify.com/album/0EYMggfIHnSwm8JjsTTLyO"
+      },
+      "artists": [
+        {
+          "name": "Rian Brazil",
+          "url": "https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH"
+        }
+      ],
+      "duration_ms": 134909,
+      "name": "high me raise",
+      "url": "https://open.spotify.com/track/5Twl9IMecWukJB5FPPeo28"
+    },
+    {
+      "added_at": "2026-04-01 16:00:37",
+      "album": {
+        "name": "Detach",
+        "url": "https://open.spotify.com/album/1iuKoseytcSoJYP1ZruahH"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Detach",
+      "url": "https://open.spotify.com/track/7aGNMANsxb9b4x6r5AmfKt"
     },
     {
       "added_at": "2026-03-25 16:00:36",
@@ -73,6 +189,22 @@
       "url": "https://open.spotify.com/track/3TQNYcQpNk68ANvFCkodeM"
     },
     {
+      "added_at": "2026-04-01 16:00:37",
+      "album": {
+        "name": "Brink",
+        "url": "https://open.spotify.com/album/6YWyh2uDVJspFCq32tVPuh"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Same Kids",
+      "url": "https://open.spotify.com/track/2oOEbRXZ4HIS4KC7iu1D5d"
+    },
+    {
       "added_at": "2026-03-25 16:00:36",
       "album": {
         "name": "Safeword",
@@ -87,22 +219,6 @@
       "duration_ms": 135277,
       "name": "Safeword",
       "url": "https://open.spotify.com/track/5AgbD4ZSxrAPkG9YqSbX9B"
-    },
-    {
-      "added_at": "2026-02-25 17:24:17",
-      "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto"
     },
     {
       "added_at": "2026-03-25 16:00:36",
@@ -167,26 +283,6 @@
       "duration_ms": 216349,
       "name": "Dissociating in New York",
       "url": "https://open.spotify.com/track/6wiesLavHvTWT23wawkVrO"
-    },
-    {
-      "added_at": "2026-03-18 17:42:54",
-      "album": {
-        "name": "Rockie",
-        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
-      },
-      "artists": [
-        {
-          "name": "Rockie Rode",
-          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
-        },
-        {
-          "name": "Samba Jean-Baptiste",
-          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
-        }
-      ],
-      "duration_ms": 130063,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
     },
     {
       "added_at": "2026-02-25 17:24:17",
@@ -273,6 +369,22 @@
       "url": "https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk"
     },
     {
+      "added_at": "2026-04-01 16:00:37",
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/6FrjprlGLkS4u8x6Y5uTPG"
+      },
+      "artists": [
+        {
+          "name": "Lola Blue",
+          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
+        }
+      ],
+      "duration_ms": 182624,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/1lTJTWRQtYT9bVYcD5tiHn"
+    },
+    {
       "added_at": "2026-03-18 17:42:54",
       "album": {
         "name": "Navigation",
@@ -319,22 +431,6 @@
       "duration_ms": 235429,
       "name": "I got god",
       "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
-    },
-    {
-      "added_at": "2026-03-04 17:27:54",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/0hcdzuLJY31Dzc7ZIz8o2o"
-      },
-      "artists": [
-        {
-          "name": "Lola Blue",
-          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
-        }
-      ],
-      "duration_ms": 172993,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/0bcff4ijcFCRui8XWmeKn9"
     },
     {
       "added_at": "2026-03-11 17:52:17",
@@ -1053,22 +1149,6 @@
       "url": "https://open.spotify.com/track/3euwmPkA6UHBKmuBjO7iXF"
     },
     {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "Beadie",
-        "url": "https://open.spotify.com/album/07OLVwgWErQyUnhavirYQy"
-      },
-      "artists": [
-        {
-          "name": "Sluice",
-          "url": "https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j"
-        }
-      ],
-      "duration_ms": 240752,
-      "name": "Beadie",
-      "url": "https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2"
-    },
-    {
       "added_at": "2026-02-04 17:00:09",
       "album": {
         "name": "Sunlight Echoes",
@@ -1087,22 +1167,6 @@
     {
       "added_at": "2026-01-28 17:00:07",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/06PUnJyQYyhVD8zxBesltR"
-      },
-      "artists": [
-        {
-          "name": "Freddie Perfect",
-          "url": "https://open.spotify.com/artist/52dKvcWBo89XwpOKcoDCJW"
-        }
-      ],
-      "duration_ms": 196861,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/3ioWK5a9iVHOfcOnELrdWV"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/26rQT8rF76BUqddeqISZ74"
       },
@@ -1115,22 +1179,6 @@
       "duration_ms": 200275,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5qmASqXmHpe3dDQPhigjC4"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "American Road In New Jersey",
-        "url": "https://open.spotify.com/album/5QJpKz8endSwMmGRS6uXc2"
-      },
-      "artists": [
-        {
-          "name": "American Road In New Jersey",
-          "url": "https://open.spotify.com/artist/3klEuYX9zLbx9N3acT774Y"
-        }
-      ],
-      "duration_ms": 288012,
-      "name": "Traces Of Blue",
-      "url": "https://open.spotify.com/track/50sfk0qPotJei0sFDCzbzA"
     },
     {
       "added_at": "2026-01-28 20:36:55",
@@ -1163,58 +1211,6 @@
       "duration_ms": 97500,
       "name": "4wheelpharmacy",
       "url": "https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "Silver, Shining",
-        "url": "https://open.spotify.com/album/6E30wOrMGhVJmu23aN6Irr"
-      },
-      "artists": [
-        {
-          "name": "Heaven Slight",
-          "url": "https://open.spotify.com/artist/32LEcsG3biRsMzdU6VVoMd"
-        },
-        {
-          "name": "Bijou Bliss",
-          "url": "https://open.spotify.com/artist/6vPirQwiBhKW0sFeAmQ0sx"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Silver, Shining",
-      "url": "https://open.spotify.com/track/48UPH6BgZrgDzjlLrPj6He"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "Cage",
-        "url": "https://open.spotify.com/album/45AJUC0xkV4zG8EKuSJpCN"
-      },
-      "artists": [
-        {
-          "name": "Ebop",
-          "url": "https://open.spotify.com/artist/2Efy3ySYJ83uBkokvfdwxn"
-        }
-      ],
-      "duration_ms": 191450,
-      "name": "Cage",
-      "url": "https://open.spotify.com/track/401BFKLTfBkjnUeT1UkuL6"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "the kids are mean to the cat",
-        "url": "https://open.spotify.com/album/5H7tIchlXCB6y5wMl04HOB"
-      },
-      "artists": [
-        {
-          "name": "Perfect 50",
-          "url": "https://open.spotify.com/artist/13KYPBw10xl1v2h4m8GHXY"
-        }
-      ],
-      "duration_ms": 154059,
-      "name": "Cross",
-      "url": "https://open.spotify.com/track/4apA0WCGptCvCWZ5iyPI5z"
     },
     {
       "added_at": "2026-01-14 17:37:13",

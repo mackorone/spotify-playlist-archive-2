@@ -4,7 +4,7 @@
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Bonnie Kemplay
 
-3,556 songs - 7 day 19 hr 31 min
+3,557 songs - 7 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1983,6 +1983,7 @@
 | [m4 windy](https://open.spotify.com/track/1CM8ftuvJ0mJgz7v4ytvwW) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [m4 windy](https://open.spotify.com/album/653FeW1wjy7vgTikh08ao6) | 4:07 | 2025-09-30 | 2025-11-12 |
 | [Made 2 Luv](https://open.spotify.com/track/7en5t6rDhWd40NcifSsZDK) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Made 2 Luv](https://open.spotify.com/album/61FAqGBl3ivf5hqjUSpXxi) | 2:26 | 2025-04-15 | 2025-05-14 |
 | [Made a Friend in Nashville \- Acoustic](https://open.spotify.com/track/6nwjSLrIAxtZk9ElqZc1LZ) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Made a Friend in Nashville \(Acoustic\)](https://open.spotify.com/album/5yFNMfXBIqFYfPHkvoXLBR) | 3:48 | 2025-02-05 | 2025-03-05 |
+| [Made Me](https://open.spotify.com/track/3N8CZd85wtAaTnhnYtj1kx) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06) | [Made Me](https://open.spotify.com/album/6SKEiX25clMT3ooDbUA7Gd) | 3:38 | 2026-04-01 |  |
 | [Made Me This Way](https://open.spotify.com/track/7bTh2RIAdaNob6tZTXxw24) | [Laura Davidson](https://open.spotify.com/artist/09HoJ8gs0b933TzQs0qvKf) | [Made Me This Way](https://open.spotify.com/album/7IqG3BT4MbGBdgoACs72Ok) | 2:34 | 2023-10-10 | 2023-11-22 |
 | [Made You Cry](https://open.spotify.com/track/4pJN6ZCX9EloKDBmVDEwJL) | [Sam Brodie](https://open.spotify.com/artist/1PxLvgPibnBo8lD4nY79yA) | [Made You Cry](https://open.spotify.com/album/1nhpughajJ20TFJXm8ZPZH) | 2:00 | 2023-11-15 | 2023-11-30 |
 | [Made You Look](https://open.spotify.com/track/4emBLCdTq9Ax0Ahsq32OIB) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [CALL ME TWICE PT\. 1](https://open.spotify.com/album/433SKA9JbP0aeE103H6mmA) | 3:40 | 2024-07-16 | 2025-01-08 |
@@ -2190,7 +2191,7 @@
 | [Never Fall In Love](https://open.spotify.com/track/4mk0TiHJNQzL1dlyP2j6DA) | [Ritho](https://open.spotify.com/artist/7vzVjHcRJej3H3HH4Jhc4N) | [Never Fall In Love](https://open.spotify.com/album/7fq7umDsB9DXN50aEGTOre) | 3:17 | 2023-07-04 | 2024-01-03 |
 | [Never Forget Me \(Get Naked\)](https://open.spotify.com/track/1ilcjfgXnAsnbcTu8ITxyv) | [Trial by Geneva](https://open.spotify.com/artist/5qCmXYkpw2sQkpaHccsmRZ) | [Never Forget Me \(Get Naked\)](https://open.spotify.com/album/1d3TXpSy41K9RHuzKmBHwT) | 4:24 | 2022-10-12 | 2022-11-03 |
 | [Never Give Up](https://open.spotify.com/track/2VvIjuD00oKmFWHKdJsZSb) | [Arielle Haynes](https://open.spotify.com/artist/2L4hahO4VTksseSNy4Suex) | [Never Give Up](https://open.spotify.com/album/7KQPi3pda0yz5moXd8ZUnu) | 4:09 | 2025-01-22 | 2025-02-12 |
-| [never had a man DEMO](https://open.spotify.com/track/0DbfJpRovomxe6LvDbEE6Z) | [WESTGIRL](https://open.spotify.com/artist/0OPkfhvOowTQLXJ87vgIdD) | [never had a man DEMO](https://open.spotify.com/album/1YISTtmumiQlwIBPf2XICB) | 2:49 | 2026-02-11 |  |
+| [never had a man DEMO](https://open.spotify.com/track/0DbfJpRovomxe6LvDbEE6Z) | [WESTGIRL](https://open.spotify.com/artist/0OPkfhvOowTQLXJ87vgIdD) | [never had a man DEMO](https://open.spotify.com/album/1YISTtmumiQlwIBPf2XICB) | 2:49 | 2026-02-11 | 2026-04-02 |
 | [Never Lies](https://open.spotify.com/track/4co5xnNVTeMrekEepPmZcG) | [Hugo Chegwin](https://open.spotify.com/artist/6DyrpiG5H2o9KBGjI4bpPc), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Never Lies](https://open.spotify.com/album/6X7EDh7ZkMhWaRjZheM8aI) | 2:05 | 2025-10-07 | 2025-11-19 |
 | [Never Like The First Time](https://open.spotify.com/track/6sQVmncu5nAraPCcgrjP7c) | [Hutch](https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB) | [Never Like The First Time](https://open.spotify.com/album/3JoKeq0pYXLf9nCZ8h8HSN) | 3:42 | 2025-11-12 | 2025-12-04 |
 | [Never That Easy](https://open.spotify.com/track/3Zj9zCiAiuyYdnIEasGRGQ) | [Niomí](https://open.spotify.com/artist/16rklq8X2KwUNb7D51VvhQ) | [Never That Easy](https://open.spotify.com/album/28Owwp9AwcZvux4A57R5hk) | 3:12 | 2022-01-05 | 2022-03-09 |

@@ -5429,6 +5429,24 @@
     },
     {
       "album": {
+        "name": "forgotten",
+        "url": "https://open.spotify.com/album/43mf4rlAw0eK8VUr0cyjHF"
+      },
+      "artists": [
+        {
+          "name": "ambeo",
+          "url": "https://open.spotify.com/artist/5dBvIgvF0GoQqJLRYhlpxJ"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135250,
+      "name": "forgotten",
+      "url": "https://open.spotify.com/track/04Obhy9oLdhz4wHyzAuwI8"
+    },
+    {
+      "album": {
         "name": "Fortune Falling",
         "url": "https://open.spotify.com/album/7bVhF67gq6w84vYkbgPVH9"
       },

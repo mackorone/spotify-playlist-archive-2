@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > 
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 488 likes - 282 songs - 16 hr 8 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 487 likes - 282 songs - 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

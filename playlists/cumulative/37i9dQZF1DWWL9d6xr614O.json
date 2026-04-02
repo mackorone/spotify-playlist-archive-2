@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Christ Will Hold Me Fast",
+        "url": "https://open.spotify.com/album/5auIWMtXdUN5hHJLNgOtJD"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250956,
+      "name": "Christ Will Hold Me Fast",
+      "url": "https://open.spotify.com/track/5vKnUyTHw5iJCihVz6ydZa"
+    },
+    {
+      "album": {
         "name": "Come Jesus Come",
         "url": "https://open.spotify.com/album/2wMZd05naUzrxv71qnYa3G"
       },
@@ -2246,6 +2264,28 @@
       "duration_ms": 244239,
       "name": "Nasaan Kaya Ako",
       "url": "https://open.spotify.com/track/2ynqCIq6D7vJKL873GFQrt"
+    },
+    {
+      "album": {
+        "name": "Never Be Alone.",
+        "url": "https://open.spotify.com/album/14RDdFHxwkBRXk2lpKqJlE"
+      },
+      "artists": [
+        {
+          "name": "Reyne L.",
+          "url": "https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe"
+        },
+        {
+          "name": "REYNE",
+          "url": "https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Never Be Alone.",
+      "url": "https://open.spotify.com/track/7IfZwCYzZUzF5bhnzpbe5o"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Bulgaria.",
-  "num_followers": 1546,
+  "num_followers": 1548,
   "original_name": "Top Songs - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MV82SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MWCDGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-03-27 14:47:59",
@@ -527,22 +527,22 @@
     {
       "added_at": "2026-03-27 14:47:59",
       "album": {
-        "name": "Da ti bada korona",
-        "url": "https://open.spotify.com/album/4Y6emNYvaVKOwU5AFL40nM"
+        "name": "\u0421 \u043c\u0435\u043d \u0434\u0430 \u0432\u044a\u0440\u0432\u0438\u0448",
+        "url": "https://open.spotify.com/album/0uMzPEOku3ih5kJyHwL9r6"
       },
       "artists": [
         {
-          "name": "Djena",
-          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
-        },
-        {
           "name": "Galin",
           "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Dzhena",
+          "url": "https://open.spotify.com/artist/6bqs6dEjDh3fkybEZeqj0k"
         }
       ],
-      "duration_ms": 252893,
-      "name": "S men da varvish",
-      "url": "https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt"
+      "duration_ms": 250884,
+      "name": "\u0421 \u043c\u0435\u043d \u0434\u0430 \u0432\u044a\u0440\u0432\u0438\u0448",
+      "url": "https://open.spotify.com/track/19nkJXLnVH1WtINrTZ2wl6"
     },
     {
       "added_at": "2026-03-27 14:47:59",
@@ -612,7 +612,7 @@
       "added_at": "2026-03-27 14:47:59",
       "album": {
         "name": "Dokato sartseto bie",
-        "url": "https://open.spotify.com/album/4WIsDXVbpQ86N4brU4jVUl"
+        "url": "https://open.spotify.com/album/0bLraMzgIu8e8Gn7oYJtm4"
       },
       "artists": [
         {
@@ -626,7 +626,7 @@
       ],
       "duration_ms": 213913,
       "name": "Ne me zasluzhavash",
-      "url": "https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O"
+      "url": "https://open.spotify.com/track/4apCbBmGlsVy3VM2EeN2t6"
     },
     {
       "added_at": "2026-03-27 14:47:59",
@@ -668,7 +668,7 @@
       "added_at": "2026-03-27 14:47:59",
       "album": {
         "name": "Bez teb",
-        "url": "https://open.spotify.com/album/6zOxZsZ7mYY2jsJRpy2QiE"
+        "url": "https://open.spotify.com/album/3oiqu7Pp11nVJM6OliVkAZ"
       },
       "artists": [
         {
@@ -678,7 +678,7 @@
       ],
       "duration_ms": 184354,
       "name": "Bez teb",
-      "url": "https://open.spotify.com/track/3zlH4fylzmEq4QX6zjn3Ny"
+      "url": "https://open.spotify.com/track/3zZ1efLexshtTkHLRBbgDh"
     },
     {
       "added_at": "2026-03-27 14:47:59",

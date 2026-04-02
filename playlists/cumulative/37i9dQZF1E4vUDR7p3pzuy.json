@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, JUST LIZZY, Ari Mason and more",
+  "description": "With Rob Harrowven, JUST LIZZY, Evil Level Live and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -530,7 +530,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Apoca-Lips",
       "url": "https://open.spotify.com/track/2oePUP3WTbfvgiwzYqdn8k"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 246688,
       "name": "Behind",
       "url": "https://open.spotify.com/track/6RjoCkeM2zjZXY4xio0nBi"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 329297,
       "name": "Broken Lines",
       "url": "https://open.spotify.com/track/6EG8WMQO5emWbbIDsstjBs"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 294545,
       "name": "Creatures of the Night - C Z A R I N A Reimagined",
       "url": "https://open.spotify.com/track/4J3Sty8zOvnswRmShuzbNX"
@@ -2186,10 +2186,28 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 218453,
       "name": "Death Is Even More Terrifying",
       "url": "https://open.spotify.com/track/2NmO9Re21YdfqIUqxKItfI"
+    },
+    {
+      "album": {
+        "name": "(Summer)",
+        "url": "https://open.spotify.com/album/5XM67PJwXpQSeS4tt4fkho"
+      },
+      "artists": [
+        {
+          "name": "Big Cat Season",
+          "url": "https://open.spotify.com/artist/3wAnCn7fodWUCpxhovBb6S"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Deathbed Memories",
+      "url": "https://open.spotify.com/track/3eHvkNsgdaulJ4fsQeuYTd"
     },
     {
       "album": {
@@ -2454,6 +2472,24 @@
       "duration_ms": 246000,
       "name": "Dunkelziffer",
       "url": "https://open.spotify.com/track/4aVNpU3Dgii5jlq0G4TBVR"
+    },
+    {
+      "album": {
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/3MwSKTbmdRGCGBwP08wtWB"
+      },
+      "artists": [
+        {
+          "name": "OVRGRWN",
+          "url": "https://open.spotify.com/artist/3MU1O9zfAq6tm6qcacKsED"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237352,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/2loB79kQnrEuDlclQAxZSI"
     },
     {
       "album": {
@@ -2890,7 +2926,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Feel",
       "url": "https://open.spotify.com/track/2paWLxW5uODgpyEiBCon4w"
@@ -3092,7 +3128,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 250285,
       "name": "Forever More",
       "url": "https://open.spotify.com/track/4AR64rZVgo6hkkB9vMbTvU"
@@ -3590,7 +3626,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -5076,7 +5112,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -5346,7 +5382,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 318634,
       "name": "Me vs You",
       "url": "https://open.spotify.com/track/7syrqaq98tcJGwSgCEOs60"
@@ -5494,7 +5530,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 310769,
       "name": "Miracles (Redeux Mix)",
       "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
@@ -5856,7 +5892,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 325360,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6mZdV5bEK8wrPPDlI6sxem"
@@ -6430,7 +6466,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -7673,6 +7709,24 @@
     },
     {
       "album": {
+        "name": "Kissing Luck Goodbye",
+        "url": "https://open.spotify.com/album/0OZyRhliTzSFvuluCuZnEo"
+      },
+      "artists": [
+        {
+          "name": "ADULT.",
+          "url": "https://open.spotify.com/artist/2jh27vMWRDaPgtwvluMomC"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "So Unpleasant",
+      "url": "https://open.spotify.com/track/05YTIq3KnZt7qBA6h6f23L"
+    },
+    {
+      "album": {
         "name": "House of Harm on Audiotree Live",
         "url": "https://open.spotify.com/album/1WkcIqOqP4ksVE1pPPNd0p"
       },
@@ -8096,7 +8150,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 225640,
       "name": "Sugar Baby",
       "url": "https://open.spotify.com/track/6ZtLXd2xnNKVmU3I9OCKJ3"
@@ -8292,7 +8346,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 250000,
       "name": "Tear The Cloth",
       "url": "https://open.spotify.com/track/2jyiFUGacxnvwlpVRIVGnV"
@@ -8386,7 +8440,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 280320,
       "name": "The Againsters - To Die In Beauty Remix",
       "url": "https://open.spotify.com/track/53KjYy69KuICpeKvQcCV7h"
@@ -9249,6 +9303,24 @@
     },
     {
       "album": {
+        "name": "torture",
+        "url": "https://open.spotify.com/album/2OnZt30GnQtaajC91LtVP1"
+      },
+      "artists": [
+        {
+          "name": "two different places",
+          "url": "https://open.spotify.com/artist/7gNuj6KM4SsAPZeiqeYsP1"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247330,
+      "name": "torture",
+      "url": "https://open.spotify.com/track/3AYZBPuQe4fDexIJyVElwj"
+    },
+    {
+      "album": {
         "name": "Purple Universe",
         "url": "https://open.spotify.com/album/4PD2nlgoABzqcLnnXNKLRo"
       },
@@ -9368,7 +9440,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 192812,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/17q4OUmTGjm740rB7ZO0x2"
@@ -9958,7 +10030,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 240250,
       "name": "What's Beyond the Light?",
       "url": "https://open.spotify.com/track/7lfysetxVne5yK7TT893Nr"

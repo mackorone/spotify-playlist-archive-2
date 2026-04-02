@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 155909,
       "name": "Am dat jos ceasul iar",
       "url": "https://open.spotify.com/track/2p45gy3fuJCsGgGn7ul1Qd"
@@ -12134,7 +12134,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 203182,
       "name": "Din Corason",
       "url": "https://open.spotify.com/track/0y2dfDgJaRckH48vI1YIVH"
@@ -15272,7 +15272,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 174375,
       "name": "FATA DIN FAVELA",
       "url": "https://open.spotify.com/track/6nj14fIUcALDS3EadVnQHC"
@@ -15790,7 +15790,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 154736,
       "name": "Filipineza",
       "url": "https://open.spotify.com/track/0VXsihzxr9XBsDycUYu9o9"
@@ -25932,7 +25932,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 209523,
       "name": "Ma Suni Noaptea",
       "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
@@ -26584,7 +26584,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 182452,
       "name": "Marae",
       "url": "https://open.spotify.com/track/0B0G4rBspOqDL7Ap9pgFm0"
@@ -29444,7 +29444,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 179477,
       "name": "NEW YORK",
       "url": "https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD"
@@ -29660,10 +29660,28 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 198720,
       "name": "Nikki beach - Live",
       "url": "https://open.spotify.com/track/3gH3LMIJc33Ti95LZgESa6"
+    },
+    {
+      "album": {
+        "name": "Nikki Beach (Live)",
+        "url": "https://open.spotify.com/album/3D6czUZSDPyu6JzV9yIOXZ"
+      },
+      "artists": [
+        {
+          "name": "Mariano",
+          "url": "https://open.spotify.com/artist/6lrgzrRBuMJQZeHMLTBpCg"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "Nikki Beach - Live",
+      "url": "https://open.spotify.com/track/66aYG7OmvJIKZswacsI3qV"
     },
     {
       "album": {
@@ -42694,10 +42712,28 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 163200,
       "name": "Te juri ca vrei",
       "url": "https://open.spotify.com/track/6HQbBPTB80WWWuGKAVTrKD"
+    },
+    {
+      "album": {
+        "name": "Te juri ca vrei",
+        "url": "https://open.spotify.com/album/4053tbO4BfcEx1t6HIHwhk"
+      },
+      "artists": [
+        {
+          "name": "Mariano",
+          "url": "https://open.spotify.com/artist/6lrgzrRBuMJQZeHMLTBpCg"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Te juri ca vrei",
+      "url": "https://open.spotify.com/track/6HyehozKV4IAOs4HCfOvKF"
     },
     {
       "album": {
@@ -47480,7 +47516,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 160731,
       "name": "Walla Eh",
       "url": "https://open.spotify.com/track/30Qx8p1Fr1qIZCY7Rp83sG"

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 854,
+  "num_followers": 856,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFlyhknxsfAliS4k0+T6KWAC3mFINW",
+  "snapshot_id": "AAAFmVs/SOu2Synz4ke1QQCRh+voQdlW",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1743,6 +1743,38 @@
       "duration_ms": 188785,
       "name": "Heart Don't Beat No Fear",
       "url": "https://open.spotify.com/track/5pmLY4W35dyS7VvUpoBtHM"
+    },
+    {
+      "added_at": "2026-04-02 00:24:03",
+      "album": {
+        "name": "Season 2",
+        "url": "https://open.spotify.com/album/3PRuwaXPbL17pqH1OnpNke"
+      },
+      "artists": [
+        {
+          "name": "Tenkila",
+          "url": "https://open.spotify.com/artist/5SnRmKiQScFAV0ScEVdRM0"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Season 2",
+      "url": "https://open.spotify.com/track/3E3HFi5uwVHOv7R37gzHuu"
+    },
+    {
+      "added_at": "2026-04-02 00:44:19",
+      "album": {
+        "name": "Hazy",
+        "url": "https://open.spotify.com/album/3t9hfg84AKwgF8KA0T4K5w"
+      },
+      "artists": [
+        {
+          "name": "Auchenflower",
+          "url": "https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg"
+        }
+      ],
+      "duration_ms": 165893,
+      "name": "Hazy",
+      "url": "https://open.spotify.com/track/2GtqGAGqCfZbgjn9jC1OqO"
     }
   ],
   "unique_name": "Unsigned Rock",

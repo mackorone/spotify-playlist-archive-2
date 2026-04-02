@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lamb. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Maya Engen. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 192662,
       "name": "3AM",
       "url": "https://open.spotify.com/track/5grvZwzUi8UUPqkNdUfCq2"
@@ -25024,7 +25024,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 240265,
       "name": "Fool",
       "url": "https://open.spotify.com/track/2YbCm17UJVAahRBYpliQr8"
@@ -29315,6 +29315,24 @@
     },
     {
       "album": {
+        "name": "E2E",
+        "url": "https://open.spotify.com/album/31tmdkhoxjChUpoe6x4wsd"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156067,
+      "name": "HANDS",
+      "url": "https://open.spotify.com/track/6LERtOJrTXTKq5J391pDLA"
+    },
+    {
+      "album": {
         "name": "Handsome (But U Ugly!)",
         "url": "https://open.spotify.com/album/4EY0rTcL2nxvGybPMkmcAc"
       },
@@ -29614,7 +29632,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 219500,
       "name": "Happyland",
       "url": "https://open.spotify.com/track/09xFY1YnSB0YdjImzv9yCS"
@@ -30892,6 +30910,24 @@
       "duration_ms": 155546,
       "name": "Her Sorry",
       "url": "https://open.spotify.com/track/4EoDVE8opFWsB6s0VdLBzn"
+    },
+    {
+      "album": {
+        "name": "Here Comes Trouble",
+        "url": "https://open.spotify.com/album/1314pzc9jjXGqxlNERn1Cf"
+      },
+      "artists": [
+        {
+          "name": "Samaera",
+          "url": "https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217182,
+      "name": "Here Comes Trouble",
+      "url": "https://open.spotify.com/track/09PEDl4c5eTMurEy3D8UBf"
     },
     {
       "album": {
@@ -38753,6 +38789,24 @@
     },
     {
       "album": {
+        "name": "Jade",
+        "url": "https://open.spotify.com/album/2KIhBAxa9FMbVn9PToW2p0"
+      },
+      "artists": [
+        {
+          "name": "Maya Engen",
+          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244007,
+      "name": "Jade",
+      "url": "https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z"
+    },
+    {
+      "album": {
         "name": "Jamie",
         "url": "https://open.spotify.com/album/7EguGrDxCjsqZN7cTwRh7i"
       },
@@ -40184,6 +40238,24 @@
       "duration_ms": 156888,
       "name": "Lack of Trying",
       "url": "https://open.spotify.com/track/0EOowKsuofc1SHV80HoC9W"
+    },
+    {
+      "album": {
+        "name": "Ladder",
+        "url": "https://open.spotify.com/album/4v1tuyoBHh0F60UbAo7NcZ"
+      },
+      "artists": [
+        {
+          "name": "Sky Li",
+          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194895,
+      "name": "Ladder",
+      "url": "https://open.spotify.com/track/3vRVeGYoJGYSkbka121cx2"
     },
     {
       "album": {
@@ -66144,7 +66216,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 176987,
       "name": "still be friends",
       "url": "https://open.spotify.com/track/0pXfzBjkfflxV8C4yaX2x1"
@@ -70391,6 +70463,24 @@
     },
     {
       "album": {
+        "name": "THE BEGINNING OF THE END",
+        "url": "https://open.spotify.com/album/2C8hrvBKGBPREteZi1e02q"
+      },
+      "artists": [
+        {
+          "name": "NIQI",
+          "url": "https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199730,
+      "name": "THE BEGINNING OF THE END",
+      "url": "https://open.spotify.com/track/1KRqSqWl2uKEgSC0PzRMBV"
+    },
+    {
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/6aaGEL4bFFCKe6CXFE8YMf"
       },
@@ -71502,7 +71592,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 223342,
       "name": "The Woods",
       "url": "https://open.spotify.com/track/1i9XzNxzwGVCNLlDixZYQp"
@@ -71708,7 +71798,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 214763,
       "name": "Think About U Lots",
       "url": "https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU"
@@ -72310,6 +72400,24 @@
       "duration_ms": 152571,
       "name": "TIM BURTON",
       "url": "https://open.spotify.com/track/5HnhgU9FS7RNnFgkBy48wS"
+    },
+    {
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR"
+      },
+      "artists": [
+        {
+          "name": "Sofia D'Angelo",
+          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk"
     },
     {
       "album": {

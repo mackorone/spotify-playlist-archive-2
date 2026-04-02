@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,434 likes - 155 songs - 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,447 likes - 155 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 25 | [Paris Nord\-Est](https://open.spotify.com/track/2rzPNSGbiMVqlfGBfpTUv9) | [De Grandi](https://open.spotify.com/artist/2qho5GsfGFbqUbcyNfxHOp) | [Paris Nord\-Est](https://open.spotify.com/album/5KJkRO5yiih5SbCg91VPT4) | 6:09 |
 | 26 | [Fires](https://open.spotify.com/track/2pdFa51EWCjhzHMKMSniUb) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Fires](https://open.spotify.com/album/1mPrBYkNTyZGXVYC1mLDAe) | 3:39 |
 | 27 | [take your vibes and go \- DJ ADHD & Chloé Robinson Remix](https://open.spotify.com/track/1P5uvuPPTtbG8gPfWuODtq) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go \(DJ ADHD & Chloé Robinson Remix\)](https://open.spotify.com/album/4rV58lqDzRYmLD1ToaqL06) | 3:04 |
-| 28 | [Icónica](https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Corazón Club vol\. 1](https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP) | 3:09 |
+| 28 | [Icónica](https://open.spotify.com/track/07nrSqKLnekzCGvIJhe8db) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Corazon Club Vol\. 1](https://open.spotify.com/album/4Xdwjql5l2lTbXPsAYSRdP) | 3:09 |
 | 29 | [Don't Stop Now](https://open.spotify.com/track/4oPgaywVn9Gldhk4ybPwXw) | [DJ Crisps](https://open.spotify.com/artist/0rgmU5SJvHMWARMPDL6b80) | [On My Way](https://open.spotify.com/album/519ArXvgavMxJ02cTA44wY) | 4:39 |
 | 30 | [UPWARDS](https://open.spotify.com/track/43jg7CNRhPRHYgpXTowd3O) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [UPWARDS](https://open.spotify.com/album/7KjHJN6O7LbV2HXlSpY6Uc) | 3:15 |
 | 31 | [Attached](https://open.spotify.com/track/5rP705FUjriYOnT3fze7RP) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Covers \(From Memory\)](https://open.spotify.com/album/43m5MvBfXZ2HSCl99JNicI) | 5:08 |

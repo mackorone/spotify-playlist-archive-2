@@ -4236,6 +4236,24 @@
     {
       "album": {
         "name": "Bez teb",
+        "url": "https://open.spotify.com/album/3oiqu7Pp11nVJM6OliVkAZ"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184354,
+      "name": "Bez teb",
+      "url": "https://open.spotify.com/track/3zZ1efLexshtTkHLRBbgDh"
+    },
+    {
+      "album": {
+        "name": "Bez teb",
         "url": "https://open.spotify.com/album/6zOxZsZ7mYY2jsJRpy2QiE"
       },
       "artists": [
@@ -4246,7 +4264,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 184354,
       "name": "Bez teb",
       "url": "https://open.spotify.com/track/3zlH4fylzmEq4QX6zjn3Ny"
@@ -5312,7 +5330,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 173023,
       "name": "Bum Lake Pare",
       "url": "https://open.spotify.com/track/3Ta7Nz7ZaaHe9wDlfOdwOe"
@@ -7990,7 +8008,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 248159,
       "name": "Danoto kopay",
       "url": "https://open.spotify.com/track/3Z0bGsiJF9ErQF1iMHsa1G"
@@ -12906,7 +12924,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 180543,
       "name": "FYA",
       "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
@@ -14436,7 +14454,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 201573,
       "name": "Halkata",
       "url": "https://open.spotify.com/track/4D9xZqswwIE1WR0d8RpuTb"
@@ -18424,7 +18442,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 199000,
       "name": "Kasay",
       "url": "https://open.spotify.com/track/7qGwlBQIbgpv8Mj54sgFIk"
@@ -23720,7 +23738,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 216874,
       "name": "Mutsuna",
       "url": "https://open.spotify.com/track/4DE0aFgEQcMzKJ5jn7oY04"
@@ -24246,6 +24264,28 @@
       "duration_ms": 224680,
       "name": "Ne e lyubov",
       "url": "https://open.spotify.com/track/1vQSEMGnWWKlz7V6jh73kf"
+    },
+    {
+      "album": {
+        "name": "Dokato sartseto bie",
+        "url": "https://open.spotify.com/album/0bLraMzgIu8e8Gn7oYJtm4"
+      },
+      "artists": [
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
+        },
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "Ne me zasluzhavash",
+      "url": "https://open.spotify.com/track/4apCbBmGlsVy3VM2EeN2t6"
     },
     {
       "album": {
@@ -28614,7 +28654,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -29822,7 +29862,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 252893,
       "name": "S men da varvish",
       "url": "https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt"
@@ -39221,6 +39261,24 @@
     },
     {
       "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
+    },
+    {
+      "album": {
         "name": "Grand Champ",
         "url": "https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd"
       },
@@ -41056,7 +41114,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 184186,
       "name": "\u0411\u0435\u0437 \u043a\u043e\u0437",
       "url": "https://open.spotify.com/track/2mFSFpS0LqeTMfuD6X8KVo"
@@ -41578,7 +41636,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 190632,
       "name": "\u0412\u0441\u0435 \u043f\u043e \u0436\u0438\u0432\u043e\u0442\u0430",
       "url": "https://open.spotify.com/track/0S708VDmTF0V7y6HIfPVNq"
@@ -42096,7 +42154,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 160529,
       "name": "\u0414\u0436\u0443\u043c\u0431\u0430\u0440\u0435",
       "url": "https://open.spotify.com/track/1qKImzYMfCmhZWYZ4hmYOq"
@@ -42150,7 +42208,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 198765,
       "name": "\u0414\u043e\u0431\u0440\u043e \u043c\u043e\u043c\u0447\u0435",
       "url": "https://open.spotify.com/track/1KpfzzQNYJ56vqhOXk0SEt"
@@ -43810,7 +43868,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "\u041b\u043e\u043a\u0443\u043c\u0438",
       "url": "https://open.spotify.com/track/4pOd7amkDbZm0xO0K6g6Z2"
@@ -43912,7 +43970,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 183571,
       "name": "\u041b\u044e\u0431\u043e\u0432 \u0437\u0430 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433",
       "url": "https://open.spotify.com/track/78fpG4dsdHW6O1WcTGoRuk"
@@ -44032,7 +44090,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 176923,
       "name": "\u041c\u0430\u0439 \u043f\u043e\u043b\u0443\u0434\u044f\u0445",
       "url": "https://open.spotify.com/track/7rpYxeb9bA0qUa4KdeIfS6"
@@ -45840,7 +45898,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 176926,
       "name": "\u041f\u0430-\u041f\u0430-\u041f\u0430",
       "url": "https://open.spotify.com/track/2ppKa7AjDeUDQp1DlArXQj"
@@ -46138,7 +46196,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 206333,
       "name": "\u041f\u043e\u043b\u0443\u0434\u0435\u0439",
       "url": "https://open.spotify.com/track/65b2wOG8iqfiZeWZ9bsLWw"
@@ -46636,7 +46694,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 230275,
       "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/6mZzxRcoXQLzYUj6Y2eSWe"
@@ -46666,6 +46724,28 @@
       "duration_ms": 178772,
       "name": "\u0420\u0443\u043f\u0435 \u0420\u0443\u043f\u0435",
       "url": "https://open.spotify.com/track/4Ei2tzVf3xATHv8lBupti6"
+    },
+    {
+      "album": {
+        "name": "\u0421 \u043c\u0435\u043d \u0434\u0430 \u0432\u044a\u0440\u0432\u0438\u0448",
+        "url": "https://open.spotify.com/album/0uMzPEOku3ih5kJyHwL9r6"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Dzhena",
+          "url": "https://open.spotify.com/artist/6bqs6dEjDh3fkybEZeqj0k"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250884,
+      "name": "\u0421 \u043c\u0435\u043d \u0434\u0430 \u0432\u044a\u0440\u0432\u0438\u0448",
+      "url": "https://open.spotify.com/track/19nkJXLnVH1WtINrTZ2wl6"
     },
     {
       "album": {
@@ -47118,7 +47198,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 213352,
       "name": "\u0422\u0430\u0437\u0438 \u0434\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
       "url": "https://open.spotify.com/track/4ZMpVZ52QE7EMJ35F5ReN2"

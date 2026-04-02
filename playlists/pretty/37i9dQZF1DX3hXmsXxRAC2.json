@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 360194,
+  "num_followers": 360213,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -515,18 +515,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO"
+        "name": "De Nueva Cuenta",
+        "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Marcos Flores",
+          "url": "https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D"
+        },
+        {
+          "name": "Banda Jerez",
+          "url": "https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn"
         }
       ],
-      "duration_ms": 211493,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/6pgaDhAVcTbvURjdZFBSPk"
+      "duration_ms": 173133,
+      "name": "Solo Se Que Fue En Marzo",
+      "url": "https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -547,22 +551,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "De Nueva Cuenta",
-        "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO"
       },
       "artists": [
         {
-          "name": "Marcos Flores",
-          "url": "https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D"
-        },
-        {
-          "name": "Banda Jerez",
-          "url": "https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 173133,
-      "name": "Solo Se Que Fue En Marzo",
-      "url": "https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1"
+      "duration_ms": 211493,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/6pgaDhAVcTbvURjdZFBSPk"
     },
     {
       "added_at": "2024-07-02 23:46:15",

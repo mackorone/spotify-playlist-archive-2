@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNqlGoNYpy6.md) - [plain]
 
 > Enjoy music from Anime "Frieren"\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,231 likes - 53 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,705 likes - 53 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

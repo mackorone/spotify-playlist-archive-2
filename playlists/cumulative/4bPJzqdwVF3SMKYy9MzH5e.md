@@ -4,7 +4,7 @@
 
 > 
 
-2,400 songs - 5 day 9 hr 3 min
+2,402 songs - 5 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [369 \(Fake I.D\)](https://open.spotify.com/track/1FZSfHFsN9QMO94PyQnA4h) | [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Soundscape 3](https://open.spotify.com/album/2pGJ8BqNvvg8L2X528UFpZ) | 6:14 | 2025-04-17 |  |
 | [3ISBÄR](https://open.spotify.com/track/3d9JNjZC5rIWLcd0knqvla) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [3ISBÄR](https://open.spotify.com/album/6K02nZ7YNOePwWQIBkFdhk) | 4:36 | 2024-10-30 |  |
 | [4 bit 9d api+e+6 \[126.26\]](https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:28 | 2022-02-18 |  |
+| [4 BY 4 BEATS \(I Don't Care\)](https://open.spotify.com/track/6Kz4YIk2NAwQbs8hCA3J3x) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [4 BY 4 BEATS \(I Don't Care\)](https://open.spotify.com/album/3X3q9Q2HRDFJ3cGFaa3ufK) | 3:04 | 2026-04-01 |  |
 | [4 Morant](https://open.spotify.com/track/57jFUz9DgJDQXL8LbPWjR3) | [Grindol](https://open.spotify.com/artist/6YgR7mphFTyEB0mZDewlxG) | [4 Morant](https://open.spotify.com/album/1DT3lkFPzSy2slR11GBuiA) | 2:52 | 2022-11-11 |  |
 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 | 2025-11-22 |  |
 | [4c1d](https://open.spotify.com/track/3TsjTZLJbnVzLY9HEq0JlS) | [drenchrome](https://open.spotify.com/artist/4CZGDoISuyPBiQ2s6dwwYM) | [4c1d](https://open.spotify.com/album/1AH5zxDjbUYmMI3YOOLa5I) | 1:00 | 2025-09-15 |  |
@@ -2083,6 +2084,7 @@
 | [The Cage](https://open.spotify.com/track/1au4OV9YwQE9rjXRY2rpqY) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:31 | 2021-11-30 |  |
 | [The Chattering Lack of Common Sense](https://open.spotify.com/track/1jFtCDktj1XTxDcu52iyeC) | [Ghost and Pals](https://open.spotify.com/artist/3Avni6DLpoxtanND8mG5t8) | [The Chattering Lack of Common Sense](https://open.spotify.com/album/4ZkEBNbrWleWPSlnw6Kxtb) | 3:34 | 2022-07-23 |  |
 | [the day she killed herself](https://open.spotify.com/track/0Bh6mAKCdCzJhY0KpdXWrC) | [Xxadist](https://open.spotify.com/artist/385qmwPEeBfstKhk1u9foZ) | [the day she killed herself](https://open.spotify.com/album/24ihpZysE6Ja3xKFA9jwbt) | 2:41 | 2023-11-30 |  |
+| [The Devil](https://open.spotify.com/track/2EkOwCBWjcFfhychOKcY7j) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [The Devil](https://open.spotify.com/album/4cKybF7cwO55ZiufvSgWMT) | 4:04 | 2026-04-01 |  |
 | [The Devil in I](https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:42 | 2021-08-05 |  |
 | [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 | 2024-05-24 |  |
 | [The Divine Zero](https://open.spotify.com/track/7trZFY6J0ZfnZYUg3NIHot) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 4:08 | 2022-04-15 |  |

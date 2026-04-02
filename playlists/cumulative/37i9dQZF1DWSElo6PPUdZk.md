@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-273 songs - 13 hr 44 min
+274 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Chakk Dan Gey](https://open.spotify.com/track/04OwlVqkEpJXiBKyPmTCOR) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Chakk Dan Gey](https://open.spotify.com/album/2L7tRROA8UKC09b0VlAYR3) | 2:24 | 2025-01-20 | 2025-09-13 |
 | [Challa](https://open.spotify.com/track/1JDGbbo7p8vTn9telazxNG) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Challa](https://open.spotify.com/album/4vrY5oQa2qYcA21IBPKNlz) | 4:46 | 2024-12-03 | 2026-01-15 |
 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 | 2023-11-17 |  |
+| [Changa Hunda](https://open.spotify.com/track/6L3ezy8fhDzOuTckbv0W01) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Gold Boy](https://open.spotify.com/artist/6TyygtEKx5VVlq0Elbi0KV), [Samandeep Singh](https://open.spotify.com/artist/4NMW9sct0kNjRP7yIbOWoH) | [Changa Hunda](https://open.spotify.com/album/7oiUE7dp0vjyEiNF5NzSLQ) | 3:25 | 2026-04-01 |  |
 | [Chann Diggeya Ve](https://open.spotify.com/track/6OnQeuKgLWYTpHve6PGkC0) | [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chann Diggeya Ve](https://open.spotify.com/album/2r7IPJkMgpCLrYyFEVCg6o) | 3:12 | 2025-09-16 | 2025-10-15 |
 | [Chitte Kurte Waleya](https://open.spotify.com/track/0RXKcVTby7pYusTm2t3rE5) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Chitte Kurte Waleya](https://open.spotify.com/album/1ZNDNUpjtB0LcDPbOUdP9U) | 3:02 | 2026-02-06 | 2026-03-06 |
 | [Chori Chori](https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chori Chori](https://open.spotify.com/album/1kBvmOFJyTfZTg4cfGHSUS) | 2:51 | 2023-03-18 | 2024-12-23 |
@@ -61,7 +62,7 @@
 | [Dil Te](https://open.spotify.com/track/2UPFPN46lpcpZCSCrPVjad) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Dil Te](https://open.spotify.com/album/7ymbaDDS8DT9ObivkZ5bco) | 2:51 | 2023-03-18 | 2024-08-28 |
 | [Dil Tutteya](https://open.spotify.com/track/48IF4LGpBuSitHqaiPua95) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Dil Tutteya](https://open.spotify.com/album/0VT9ERykGHCBKSn2eqbFAg) | 3:47 | 2023-03-18 | 2023-11-22 |
 | [Dilbar](https://open.spotify.com/track/0wuyoeqWCA0CEyGb4FprEV) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Dilbar](https://open.spotify.com/album/5Inem7yitJIVsgHDPDvny9) | 2:34 | 2025-11-10 |  |
-| [Dilbarjaani](https://open.spotify.com/track/4JLeJGu9ffu7RuPNN50w3K) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Dilbarjaani](https://open.spotify.com/album/1TZLc2GjL9ENVGtFGzUcUQ) | 2:51 | 2026-02-27 |  |
+| [Dilbarjaani](https://open.spotify.com/track/4JLeJGu9ffu7RuPNN50w3K) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Dilbarjaani](https://open.spotify.com/album/1TZLc2GjL9ENVGtFGzUcUQ) | 2:51 | 2026-02-27 | 2026-04-02 |
 | [Diwaane](https://open.spotify.com/track/63rDH882LRDY1HEGNDkW42) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Diwaane](https://open.spotify.com/album/2vvJYR6gsRnHTJMSF5oHT1) | 3:25 | 2024-11-25 | 2025-11-18 |
 | [Do Hissey](https://open.spotify.com/track/0Sln5XlPBiMxKFQklKhx4I) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Do Hissey](https://open.spotify.com/album/26lBkvxDZX1zjFpY3i68sv) | 2:48 | 2025-03-20 |  |
 | [Do Pal](https://open.spotify.com/track/1gQIsuhD8ymgVKWL68FRas) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Do Pal](https://open.spotify.com/album/2jp4wfmkT4nUEfeXvr1BVe) | 2:51 | 2025-11-21 |  |

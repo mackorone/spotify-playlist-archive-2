@@ -1,6 +1,6 @@
 {
   "description": "The most beautiful love songs of the 2000s",
-  "num_followers": 793197,
+  "num_followers": 793373,
   "original_name": "00s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 223066,
       "name": "I'm with You",
       "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"
     },
     {
       "added_at": "2026-02-25 17:44:31",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/31p2S8NRI7kVdEZAMkGONK"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/3vsNteZn6E5qBSSBO78W7b"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
         "name": "All Rise",
         "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 193240,
       "name": "Best In Me",
       "url": "https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/31p2S8NRI7kVdEZAMkGONK"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/3vsNteZn6E5qBSSBO78W7b"
     },
     {
       "added_at": "2026-02-25 17:44:31",

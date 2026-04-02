@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0647\u0627\u0621 \u0633\u0644\u0637\u0627\u0646",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0646\u063a\u0627\u0645",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "tracks": [
     {
@@ -3236,7 +3236,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 173207,
       "name": "Maleket Gamal El Kon",
       "url": "https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt"
@@ -5248,7 +5248,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 234456,
       "name": "Youm Ma Tensa",
       "url": "https://open.spotify.com/track/0Zeh4nKHG4g8qp5oEnNDhQ"
@@ -5648,7 +5648,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 249888,
       "name": "\u0627\u0644\u0639\u0648\u0636 \u0639\u0644\u0649 \u0627\u0644\u0644\u0647",
       "url": "https://open.spotify.com/track/3yeRnlbwNCyMEhnsqR6RxZ"
@@ -6469,6 +6469,24 @@
     },
     {
       "album": {
+        "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
+        "url": "https://open.spotify.com/album/1JPxZNa6cTVGY6rhRnr60p"
+      },
+      "artists": [
+        {
+          "name": "Houda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226153,
+      "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
+      "url": "https://open.spotify.com/track/6zMN8VG7CCdDI8eOamZ0Zz"
+    },
+    {
+      "album": {
         "name": "\u062f\u0644\u0639\u0646\u0627 \u0643\u062a\u064a\u0631",
         "url": "https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1"
       },
@@ -6954,6 +6972,24 @@
       "duration_ms": 255973,
       "name": "\u0639\u0645 \u0627\u0644\u0645\u062c\u0627\u0644 - \u064a\u0628\u0646\u064a \u0623\u0646\u0627 \u0641\u064a \u0627\u0644\u0634\u063a\u0644\u0647 \u062f\u064a \u0639\u0645\u0647\u0627",
       "url": "https://open.spotify.com/track/4tHdErGYkKkbHI9Svvhy4Z"
+    },
+    {
+      "album": {
+        "name": "\u0639\u064a\u0646 \u0633\u062d\u0631\u064a\u0629",
+        "url": "https://open.spotify.com/album/2imB9na6sN3WCbz49IuBY0"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201271,
+      "name": "\u0639\u064a\u0646 \u0633\u062d\u0631\u064a\u0629",
+      "url": "https://open.spotify.com/track/0pTxrkqqHSVCsuHS9NhaH5"
     },
     {
       "album": {
@@ -7951,6 +7987,32 @@
     },
     {
       "album": {
+        "name": "\u0647\u0646\u0627 \u0645\u0635\u0631 \u0647\u0641\u0636\u0644 \u0643\u0644 \u0645\u0631\u0629 \u0627\u062c\u064a\u0644\u0643",
+        "url": "https://open.spotify.com/album/02rhbXRVnloQdLz6EycG9u"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        },
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        },
+        {
+          "name": "Banque Misr",
+          "url": "https://open.spotify.com/artist/52ZYmo8Rhz3Xgxr7RUJ3ql"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "\u0647\u0646\u0627 \u0645\u0635\u0631 \u0647\u0641\u0636\u0644 \u0643\u0644 \u0645\u0631\u0629 \u0627\u062c\u064a\u0644\u0643",
+      "url": "https://open.spotify.com/track/6u5F7iulJgzOswzPix4riq"
+    },
+    {
+      "album": {
         "name": "\u062a\u064a\u062c\u064a \u0646\u0633\u064a\u0628",
         "url": "https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15"
       },
@@ -8042,7 +8104,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 184756,
       "name": "\u0648\u062a\u0642\u0627\u0628\u0644 \u062d\u0628\u064a\u0628",
       "url": "https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM"
@@ -8118,6 +8180,24 @@
       "duration_ms": 232454,
       "name": "\u0648\u0644\u0639\u0627\u0646\u0647",
       "url": "https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y"
+    },
+    {
+      "album": {
+        "name": "\u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646",
+        "url": "https://open.spotify.com/album/3tgmfcErtbKUtCtKH99pnJ"
+      },
+      "artists": [
+        {
+          "name": "Pousi",
+          "url": "https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "\u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646",
+      "url": "https://open.spotify.com/track/5ew2q5hC3OwnEWVB15uB9w"
     },
     {
       "album": {

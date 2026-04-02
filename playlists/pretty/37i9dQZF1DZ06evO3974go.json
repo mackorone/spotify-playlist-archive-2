@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20968,
+  "num_followers": 20971,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acm9AAAAAAAWmwHqV1iZb6Ur7ZDoguzN",
+  "snapshot_id": "acsOgAAAAABRbTMNcHzSndcJYVpl2KAD",
   "tracks": [
     {
       "added_at": null,
@@ -803,26 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
-        "url": "https://open.spotify.com/album/7stv82Fq3iVD7tZ1JTmWXs"
+        "name": "Rich As In Spirit",
+        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
       },
       "artists": [
         {
-          "name": "Propain",
-          "url": "https://open.spotify.com/artist/2hJIsGyAMyrircVHcLEj4y"
-        },
-        {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         }
       ],
-      "duration_ms": 247384,
-      "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
-      "url": "https://open.spotify.com/track/3vk2vqP66qXKYoC5NU4qtO"
+      "duration_ms": 214947,
+      "name": "Perfect Flower",
+      "url": "https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a"
     },
     {
       "added_at": null,
@@ -843,18 +835,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich As In Spirit",
-        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
+        "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
+        "url": "https://open.spotify.com/album/7stv82Fq3iVD7tZ1JTmWXs"
       },
       "artists": [
         {
+          "name": "Propain",
+          "url": "https://open.spotify.com/artist/2hJIsGyAMyrircVHcLEj4y"
+        },
+        {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
         }
       ],
-      "duration_ms": 214947,
-      "name": "Perfect Flower",
-      "url": "https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a"
+      "duration_ms": 247384,
+      "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
+      "url": "https://open.spotify.com/track/3vk2vqP66qXKYoC5NU4qtO"
     },
     {
       "added_at": null,

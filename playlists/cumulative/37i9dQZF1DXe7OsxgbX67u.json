@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Suburban Nature",
+        "url": "https://open.spotify.com/album/0RAHfGJIlvTKsenIKEagJ3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jaffe",
+          "url": "https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288946,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/6uaWRTGqadohCbGwo9EVSD"
+    },
+    {
+      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -230,6 +248,24 @@
       "duration_ms": 165360,
       "name": "Comin' Home Baby",
       "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "album": {
+        "name": "Pleasure Beast",
+        "url": "https://open.spotify.com/album/66IEmux2d5OFfbdVbG8zp3"
+      },
+      "artists": [
+        {
+          "name": "Haiku Hands",
+          "url": "https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198475,
+      "name": "Cool for You",
+      "url": "https://open.spotify.com/track/63z7Boga8IJYzsxIWWS6vh"
     },
     {
       "album": {
@@ -302,6 +338,24 @@
       "duration_ms": 427040,
       "name": "Dream Team",
       "url": "https://open.spotify.com/track/5Wcnoht44bKMUXjwyDT3nx"
+    },
+    {
+      "album": {
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263173,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/5HJPzymsDsmCTvUp5yGGyJ"
     },
     {
       "album": {

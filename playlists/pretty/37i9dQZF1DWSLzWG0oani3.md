@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá\. Foto: L\-Gante
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,266 likes - 72 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,267 likes - 72 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 66 | [TRUCHO](https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [TRUCHO](https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK) | 2:24 |
 | 67 | [Fiesta Panky](https://open.spotify.com/track/6H2dh3gbmmdtn4dBQmPkJV) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Basty Corvalan](https://open.spotify.com/artist/6p9BBRwixGcXxZ1gdcqmpd), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Fiesta Panky](https://open.spotify.com/album/0ksje3J45uzOOAoKcEyLaA) | 4:27 |
 | 68 | [Tamo Chelo](https://open.spotify.com/track/2Y7v7XjZV1FcQprRV6VLpt) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Tamo Chelo](https://open.spotify.com/album/2alcg2C46hoRfhO9hcFEV0) | 1:52 |
-| 69 | [RAFA PABÖN \| DJ TAO Turreo Session \#11](https://open.spotify.com/track/6AXdAALVzq9mV8RJWX20zo) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [RAFA PABÖN \| DJ TAO Turreo Session \#11](https://open.spotify.com/album/7FsIed2h3dO48TFBUZEzkT) | 3:30 |
+| 69 | [RAFA PABÖN \| DJ TAO Turreo Session \#11](https://open.spotify.com/track/6AXdAALVzq9mV8RJWX20zo) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Rafa Pabón](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [RAFA PABÖN \| DJ TAO Turreo Session \#11](https://open.spotify.com/album/7FsIed2h3dO48TFBUZEzkT) | 3:30 |
 | 70 | [Chiquitita](https://open.spotify.com/track/3qbIr79hziQsnh95N8ml8w) | [Miyah](https://open.spotify.com/artist/5rE2HaYrmTza8MPBzzujzw), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Juan FLP](https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW) | [Chiquitita](https://open.spotify.com/album/2eUnSC4FXddBi7L2ThGN4A) | 2:01 |
 | 71 | [COLALESS](https://open.spotify.com/track/1dFLJAcfWbmi6StNxbINYC) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [COLALESS](https://open.spotify.com/album/6ce7xozbRAShrQTAyLVlQV) | 1:48 |
 | 72 | [Bandera](https://open.spotify.com/track/3eFsHyp8k4jkfdTIoIj3BN) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X) | [Bandera](https://open.spotify.com/album/0f3uhIYi9PccAtszSB6AcM) | 2:19 |

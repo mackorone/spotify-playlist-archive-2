@@ -165,6 +165,56 @@
     },
     {
       "album": {
+        "name": "Bye and Bye (Remastered 2026 in Super Stereo)",
+        "url": "https://open.spotify.com/album/7oluY4jXkHNSZkH84SFZ1T"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Fletcher Henderson",
+          "url": "https://open.spotify.com/artist/2ovJLSejirvJybNers2YG6"
+        },
+        {
+          "name": "Charlie Green",
+          "url": "https://open.spotify.com/artist/1BG89coRGrEMUpZjCUILZX"
+        },
+        {
+          "name": "Buster Bailey",
+          "url": "https://open.spotify.com/artist/597vgsOYFNBv1asQGVjjEz"
+        },
+        {
+          "name": "Don Redman",
+          "url": "https://open.spotify.com/artist/0fLVqVx9f8aUDtFIn2lGjy"
+        },
+        {
+          "name": "Charlie Dicks",
+          "url": "https://open.spotify.com/artist/3ohWEhMUmqeRGBIpsXjU8C"
+        },
+        {
+          "name": "Ralph Escava",
+          "url": "https://open.spotify.com/artist/1mjpwu9Ca6QWMbaCu8VTXM"
+        },
+        {
+          "name": "Kaiser Marshall",
+          "url": "https://open.spotify.com/artist/243z7ElQBQjEVq6NvcrdBF"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182098,
+      "name": "Bye and Bye - Remastered 2026 in Super Stereo",
+      "url": "https://open.spotify.com/track/0MaUBdI0G7xuA6AWHGXGA7"
+    },
+    {
+      "album": {
         "name": "Satchmo Serenades",
         "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
@@ -442,7 +492,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 119026,
       "name": "Give Me Your Kisses",
       "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Mellow D
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,068 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,108 likes - 74 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 66 | [Peace Of Mind](https://open.spotify.com/track/0XZRXkPzjRet1f32SmY7ro) | [Deazy](https://open.spotify.com/artist/5hcb87REpXppNOImRI2Em6), [Young K](https://open.spotify.com/artist/02wscfdrVgPfE6LhjTKfCn) | [Peace Of Mind](https://open.spotify.com/album/49oJqHzODZDAlR6JwJ4uKw) | 1:53 |
 | 67 | [Move On](https://open.spotify.com/track/1Q2lbPDiH7ScJdNOAjwwQB) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Move On](https://open.spotify.com/album/2MH8AvJIlRGTMAj6gOtBIm) | 2:19 |
 | 68 | [Entertainment Chahiye?](https://open.spotify.com/track/3W585wra8LYuDnfY0FmDqt) | [Albela](https://open.spotify.com/artist/5LAqES7mtiAF86N0aBLqPO), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Main Manoranjan Hoon](https://open.spotify.com/album/3DrWgVqQnGW64bxHY4bM56) | 2:35 |
-| 69 | [MangaBoy](https://open.spotify.com/track/03qeDNGajkaCdGz7oYMxMN) | [Defaulter Don](https://open.spotify.com/artist/0p3vEGnpM4EaGz2vPZ6tp5), [DJ Vabhav](https://open.spotify.com/artist/732S9lrallJ6xNwEZZU7xQ) | [MangaBoy](https://open.spotify.com/album/75lw36p7rmLZ8QPZZdIYP3) | 2:43 |
-| 70 | [Baddie](https://open.spotify.com/track/6pO9muKMr4ZjJaqHIA5HCE) | [AK Music](https://open.spotify.com/artist/6JpMKFmGigJfKK9FxLEu1J), [Ether Makes Banger](https://open.spotify.com/artist/33xDeepbcx2zGO1n7DOP2d) | [Baddie \- The EP](https://open.spotify.com/album/1BfiJwt2lKQoyOkYbG2Urf) | 2:36 |
-| 71 | [YKI](https://open.spotify.com/track/0CufIqgh6tNJBTN8pZolAG) | [SOS](https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc), [30KEY!](https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y) | [YKI](https://open.spotify.com/album/6TNMOVFWn3EdpTs85gr0fT) | 4:20 |
-| 72 | [MF GOAT](https://open.spotify.com/track/3unFjbW6WslBftZmQ7jmo6) | [Vats](https://open.spotify.com/artist/08bSH5z6g3enrvT3NHYIFX), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [MF GOAT](https://open.spotify.com/album/2aZjh6URNVzQqURhpyTHxd) | 2:38 |
-| 73 | [Hustle \(From "Hello Bachhon"\)](https://open.spotify.com/track/65zfxA6RWDcnOZ1HhdUH1t) | [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS) | [Hello Bachhon \(Music From The Netflix Series\)](https://open.spotify.com/album/6Ot0KMyTsztYFU6Ex86N5J) | 2:42 |
-| 74 | [RATAN TATA](https://open.spotify.com/track/16OgsrtEflpJoTIk1S8CVk) | [Flyboy S](https://open.spotify.com/artist/0d8VcvN60mWSNVsbeQEEry), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [RATAN TATA](https://open.spotify.com/album/7pSGeL92X0CEfO0NUy3BEV) | 2:12 |
-| 75 | [Vada Pav Recipe](https://open.spotify.com/track/7IqLdEGCIBgdtTi6ARXBQX) | [Fat Krrent](https://open.spotify.com/artist/4E98XpRcPeJB8ICcqoyj3N), [forgotmykeys](https://open.spotify.com/artist/4ZGuccG5a9kNOTIvm7Uibv) | [Vada Pav Recipe](https://open.spotify.com/album/58HuQYLa3RZZ8vwoeqERGo) | 1:12 |
+| 69 | [Baddie](https://open.spotify.com/track/6pO9muKMr4ZjJaqHIA5HCE) | [AK Music](https://open.spotify.com/artist/6JpMKFmGigJfKK9FxLEu1J), [Ether Makes Banger](https://open.spotify.com/artist/33xDeepbcx2zGO1n7DOP2d) | [Baddie \- The EP](https://open.spotify.com/album/1BfiJwt2lKQoyOkYbG2Urf) | 2:36 |
+| 70 | [YKI](https://open.spotify.com/track/0CufIqgh6tNJBTN8pZolAG) | [SOS](https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc), [30KEY!](https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y) | [YKI](https://open.spotify.com/album/6TNMOVFWn3EdpTs85gr0fT) | 4:20 |
+| 71 | [MF GOAT](https://open.spotify.com/track/3unFjbW6WslBftZmQ7jmo6) | [Vats](https://open.spotify.com/artist/08bSH5z6g3enrvT3NHYIFX), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [MF GOAT](https://open.spotify.com/album/2aZjh6URNVzQqURhpyTHxd) | 2:38 |
+| 72 | [Hustle \(From "Hello Bachhon"\)](https://open.spotify.com/track/65zfxA6RWDcnOZ1HhdUH1t) | [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS) | [Hello Bachhon \(Music From The Netflix Series\)](https://open.spotify.com/album/6Ot0KMyTsztYFU6Ex86N5J) | 2:42 |
+| 73 | [RATAN TATA](https://open.spotify.com/track/16OgsrtEflpJoTIk1S8CVk) | [Flyboy S](https://open.spotify.com/artist/0d8VcvN60mWSNVsbeQEEry), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [RATAN TATA](https://open.spotify.com/album/7pSGeL92X0CEfO0NUy3BEV) | 2:12 |
+| 74 | [Vada Pav Recipe](https://open.spotify.com/track/7IqLdEGCIBgdtTi6ARXBQX) | [Fat Krrent](https://open.spotify.com/artist/4E98XpRcPeJB8ICcqoyj3N), [forgotmykeys](https://open.spotify.com/artist/4ZGuccG5a9kNOTIvm7Uibv) | [Vada Pav Recipe](https://open.spotify.com/album/58HuQYLa3RZZ8vwoeqERGo) | 1:12 |
 
-Snapshot ID: `AAAAABSLo7TN2M/zruA4oUxD953UvqmK`
+Snapshot ID: `AAAAADCTx5z5hGpiK8S59EPdCOF2xdwY`

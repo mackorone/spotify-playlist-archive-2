@@ -4,7 +4,7 @@
 
 > Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.
 
-540 songs - 1 day 20 hr 48 min
+541 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Faithfulness \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:31 | 2021-04-04 | 2022-07-29 |
 | [Fear No More](https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More](https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ) | 3:12 | 2021-04-04 |  |
 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 | 2021-04-04 |  |
-| [Finished Work \- Live From Chattanooga, TN](https://open.spotify.com/track/4k1Hnj1h4nt31KRtCufbB1) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Daniel Johnson](https://open.spotify.com/artist/3QC3Sl9g1tArEtqPnctjCN) | [The Cry: A Live Worship Experience \(Live From Chattanooga, TN\)](https://open.spotify.com/album/6atcqlJMI3v8UrHzNStcB0) | 7:47 | 2025-04-17 |  |
+| [Finished Work \- Live From Chattanooga, TN](https://open.spotify.com/track/4k1Hnj1h4nt31KRtCufbB1) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Daniel Johnson](https://open.spotify.com/artist/3QC3Sl9g1tArEtqPnctjCN) | [The Cry: A Live Worship Experience \(Live From Chattanooga, TN\)](https://open.spotify.com/album/6atcqlJMI3v8UrHzNStcB0) | 7:47 | 2025-04-17 | 2026-04-02 |
 | [For God Is With Us](https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [For God Is With Us](https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn) | 3:16 | 2023-04-09 |  |
 | [For the Beauty of the Earth](https://open.spotify.com/track/4v9XGXfQL8iB9C0qjZDp8P) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [For the Beauty of the Earth](https://open.spotify.com/album/3zFVqqj3rngtfLw7tN70Wl) | 4:22 | 2026-03-29 |  |
 | [For the Cross](https://open.spotify.com/track/5gCzPyKpxpGsRI7Gq7NE0r) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Tides Live](https://open.spotify.com/album/5UoZvSgWgMxUd3eLzwIkF6) | 5:47 | 2022-04-02 | 2022-04-20 |
@@ -420,6 +420,7 @@
 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 5:00 | 2021-04-04 |  |
 | [Sweet Victory](https://open.spotify.com/track/3RpcCr8ZlIiYEctUYBAGQm) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Dimitri McDowell](https://open.spotify.com/artist/0z5SAvLBgXdLs33L3tLbfo), [Leah Smith](https://open.spotify.com/artist/29b38fzTLn3i4vvRNCED2E) | [Rise](https://open.spotify.com/album/2QPKh4LqUxtwXGwbriYzqZ) | 5:08 | 2022-04-02 |  |
 | [Take, Eat, Drink \- Live](https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Take, Eat, Drink \(Live\)](https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF) | 4:47 | 2023-04-10 | 2023-06-04 |
+| [Thank The Lord](https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8) | [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Noah Hinshaw](https://open.spotify.com/artist/5G6xDPshmI9d5TObWw0VJM) | [Thank The Lord](https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB) | 4:39 | 2026-03-29 |  |
 | [Thank You \- Live](https://open.spotify.com/track/3XSnUum4vTgF0AgPY0ZXri) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [A Beautiful Exchange](https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci) | 5:25 | 2022-04-02 | 2022-04-19 |
 | [Thank You For Loving Me](https://open.spotify.com/track/7fUzibmxSf5rHbFGOwDctg) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt) | [Set Me Free](https://open.spotify.com/album/0wKIMNkC2YMrKtBRfD7sNA) | 4:10 | 2022-04-02 | 2022-04-21 |
 | [Thank You For The Cross](https://open.spotify.com/track/3rIXSYO1kDQNABqKPMx1Mf) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Thank You For The Cross](https://open.spotify.com/album/4Shebl4exeuH6RqnAefgA4) | 4:30 | 2026-03-29 |  |

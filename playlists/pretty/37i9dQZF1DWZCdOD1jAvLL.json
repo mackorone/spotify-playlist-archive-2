@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Nostalgix",
-  "num_followers": 270305,
+  "num_followers": 270344,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -779,34 +779,6 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Amira Eldine",
-          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
-        }
-      ],
-      "duration_ms": 125625,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
       },
@@ -843,6 +815,34 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Amira Eldine",
+          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
+        }
+      ],
+      "duration_ms": 125625,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
-        "name": "Skepta .. Fred",
-        "url": "https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 225897,
-      "name": "Last 1s Left",
-      "url": "https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
         "name": "Make It Work",
         "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 171380,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
+        "name": "Skepta .. Fred",
+        "url": "https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 225897,
+      "name": "Last 1s Left",
+      "url": "https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5"
     },
     {
       "added_at": "2026-03-27 04:00:19",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
+        "name": "Bad & U Know It",
+        "url": "https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 191669,
+      "name": "Bad & U Know It",
+      "url": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
         "name": "Faded (Blacklizt Version)(HNTR Remix)",
         "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 173777,
       "name": "Campe\u00f3n",
       "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
-        "name": "Bad & U Know It",
-        "url": "https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 191669,
-      "name": "Bad & U Know It",
-      "url": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
     },
     {
       "added_at": "2026-03-27 04:00:19",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
-        "name": "Circuit",
-        "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Limbo Slice",
-          "url": "https://open.spotify.com/artist/5flDeddXEgK6WWsI6PZk3d"
-        }
-      ],
-      "duration_ms": 205517,
-      "name": "Circuit",
-      "url": "https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
         "name": "Let It Go (feat. Nevve)",
         "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 238285,
       "name": "Let It Go (feat. Nevve)",
       "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
+        "name": "Circuit",
+        "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Limbo Slice",
+          "url": "https://open.spotify.com/artist/5flDeddXEgK6WWsI6PZk3d"
+        }
+      ],
+      "duration_ms": 205517,
+      "name": "Circuit",
+      "url": "https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg"
     },
     {
       "added_at": "2026-03-27 04:00:19",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
-        "name": "Dominator",
-        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Deadcrow",
-          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
-        }
-      ],
-      "duration_ms": 173616,
-      "name": "Dominator",
-      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
         "name": "Stay With The Tempo",
         "url": "https://open.spotify.com/album/6ioWntlf8RGLq4lhALY9J8"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 214218,
       "name": "Stay With The Tempo",
       "url": "https://open.spotify.com/track/3RE3izHxUijcckK3JDLLq5"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
+        "name": "Dominator",
+        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Deadcrow",
+          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
+        }
+      ],
+      "duration_ms": 173616,
+      "name": "Dominator",
+      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
     },
     {
       "added_at": "2026-03-27 04:00:19",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2026-03-27 04:00:19",
       "album": {
+        "name": "Trilla",
+        "url": "https://open.spotify.com/album/72l0bkVVA0rAYC4As7HgOT"
+      },
+      "artists": [
+        {
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Trilla",
+      "url": "https://open.spotify.com/track/7IMOvDjKZVfzYkkoZNUhGO"
+    },
+    {
+      "added_at": "2026-03-27 04:00:19",
+      "album": {
         "name": "Peak",
         "url": "https://open.spotify.com/album/76xqKLejdd53fWG64HzXhh"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 179104,
       "name": "Peak",
       "url": "https://open.spotify.com/track/5rOMKmbCYaPgsyo5dpAHxT"
-    },
-    {
-      "added_at": "2026-03-27 04:00:19",
-      "album": {
-        "name": "Trilla",
-        "url": "https://open.spotify.com/album/72l0bkVVA0rAYC4As7HgOT"
-      },
-      "artists": [
-        {
-          "name": "Mike Renza",
-          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Trilla",
-      "url": "https://open.spotify.com/track/7IMOvDjKZVfzYkkoZNUhGO"
     },
     {
       "added_at": "2026-03-27 04:00:19",

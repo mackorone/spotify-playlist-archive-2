@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "4 BY 4 BEATS (I Don't Care)",
+        "url": "https://open.spotify.com/album/3X3q9Q2HRDFJ3cGFaa3ufK"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "4 BY 4 BEATS (I Don't Care)",
+      "url": "https://open.spotify.com/track/6Kz4YIk2NAwQbs8hCA3J3x"
+    },
+    {
+      "album": {
         "name": "4 Morant",
         "url": "https://open.spotify.com/album/1DT3lkFPzSy2slR11GBuiA"
       },
@@ -39476,6 +39494,24 @@
       "duration_ms": 161370,
       "name": "the day she killed herself",
       "url": "https://open.spotify.com/track/0Bh6mAKCdCzJhY0KpdXWrC"
+    },
+    {
+      "album": {
+        "name": "The Devil",
+        "url": "https://open.spotify.com/album/4cKybF7cwO55ZiufvSgWMT"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244165,
+      "name": "The Devil",
+      "url": "https://open.spotify.com/track/2EkOwCBWjcFfhychOKcY7j"
     },
     {
       "album": {

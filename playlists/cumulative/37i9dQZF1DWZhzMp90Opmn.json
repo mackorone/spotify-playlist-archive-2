@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Blushed Air",
+        "url": "https://open.spotify.com/album/7DYNNvys6FGGHg0ioTB8e9"
+      },
+      "artists": [
+        {
+          "name": "The Pink Ocean",
+          "url": "https://open.spotify.com/artist/5ChZxDayujZqURtygUt3f9"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Blushed Air",
+      "url": "https://open.spotify.com/track/7AawA7Rh5etWbWXJPr8uM1"
+    },
+    {
+      "album": {
         "name": "Blushing Pink Blanket",
         "url": "https://open.spotify.com/album/6xlnk6dAF56cUbCXHlmLKZ"
       },
@@ -1806,6 +1824,24 @@
       "duration_ms": 176000,
       "name": "Dozy Pink Noise",
       "url": "https://open.spotify.com/track/6MTEmM8XZilzWaXvUAgKmo"
+    },
+    {
+      "album": {
+        "name": "Dream Filter Pink Noise",
+        "url": "https://open.spotify.com/album/6C5r01Yj7idDZ1gm0Jet0o"
+      },
+      "artists": [
+        {
+          "name": "Aequencies",
+          "url": "https://open.spotify.com/artist/6vlpT66mbWkGiI3qy2dCdu"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Dream Filter Pink Noise",
+      "url": "https://open.spotify.com/track/75QxestoyuZJfjb6hoaxo9"
     },
     {
       "album": {
@@ -5762,7 +5798,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 156000,
       "name": "Pink Noise Cotton",
       "url": "https://open.spotify.com/track/2RGCXxyC7t51YEB5ppQtdL"
@@ -9690,7 +9726,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 182709,
       "name": "Sleep Cycle Pink Noise",
       "url": "https://open.spotify.com/track/5nL75uhNIw5gHJoyHPlEJc"

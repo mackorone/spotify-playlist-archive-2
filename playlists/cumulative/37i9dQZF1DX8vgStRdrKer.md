@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-758 songs - 2 day 16 hr 47 min
+759 songs - 2 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Celebration](https://open.spotify.com/track/7qcZTkaE3dXKI1pSKvAGfv) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Celebration](https://open.spotify.com/album/6Ol3vEyWQcgUkV28aWGBcB) | 2:54 | 2025-04-25 | 2025-06-27 |
 | [Chale](https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Chale](https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17) | 2:26 | 2024-03-01 | 2025-05-30 |
 | [Chante](https://open.spotify.com/track/5IR1HN5u67s98hxOf9w8ci) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Chante](https://open.spotify.com/album/4p7agkJ4UNNfmA9AGpx7y9) | 3:43 | 2025-06-13 | 2025-10-08 |
-| [CHERUBIM & SERAPHIM](https://open.spotify.com/track/4amQVTKzJH9dHwPhxiiG9a) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [CHERUBIM & SERAPHIM](https://open.spotify.com/album/40nb190vayLnW6la0nkfHx) | 6:52 | 2026-03-13 |  |
+| [CHERUBIM & SERAPHIM](https://open.spotify.com/track/4amQVTKzJH9dHwPhxiiG9a) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [CHERUBIM & SERAPHIM](https://open.spotify.com/album/40nb190vayLnW6la0nkfHx) | 6:52 | 2026-03-13 | 2026-04-02 |
 | [CHILD OF GRACE \- Remix](https://open.spotify.com/track/0liuWPWjMVgX1CuR5z8GyC) | [Neken Chuwang](https://open.spotify.com/artist/6oeGlZWUfeCsScmxOZUxcA), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [CHILD OF GRACE \(Remix\)](https://open.spotify.com/album/5kOWLzTlq5RzGpYpxWqYhK) | 3:19 | 2025-05-30 | 2025-06-27 |
 | [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [SEVEN](https://open.spotify.com/album/7jW1qIiGHtGxxtkhANbe62) | 3:20 | 2025-10-17 | 2026-01-22 |
 | [Cho Cho Cho](https://open.spotify.com/track/27047xlXrFZFRwXz8Z572d) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Cho Cho Cho](https://open.spotify.com/album/575OoNcUW4gB2tMoJYJj08) | 2:53 | 2025-08-29 | 2026-01-15 |
@@ -752,6 +752,7 @@
 | [You Are Big](https://open.spotify.com/track/67b6GI1kkVALLH5O5IWQb7) | [Joshua Adedeji](https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh) | [You Are Big](https://open.spotify.com/album/7IuHbchUxKM8jXuwV9D3sX) | 6:20 | 2024-10-25 | 2024-12-11 |
 | [You Are God \(feat\. Chigozie Achugo\)](https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chigozie Achugo](https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 4:31 | 2023-09-15 | 2024-03-16 |
 | [YOU ARE GOOD](https://open.spotify.com/track/6iXQadQ6uFvE4ylvl2975l) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [YOU ARE GOOD](https://open.spotify.com/album/1wzXjBVRF9zwhipLOvyViN) | 4:06 | 2024-05-10 | 2024-05-24 |
+| [You Are Good](https://open.spotify.com/track/4yl9nPWqJnGC2CjFjguCok) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [You Are Good](https://open.spotify.com/album/0aBb8Xrz2ESrNGYoXmvruV) | 9:09 | 2026-03-27 |  |
 | [You Are Good \(Ulungile\)](https://open.spotify.com/track/0xZUjAyA70MKOGSfmvpFJV) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [You Are Good \(Ulungile\)](https://open.spotify.com/album/4coB6IecMPaHUaVGfkNp2E) | 15:12 | 2025-05-30 | 2025-06-13 |
 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 | 2024-01-26 | 2025-06-27 |
 | [You Are Holy](https://open.spotify.com/track/3aModrqpU2p6Vrmfzbb48L) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [You Are Holy](https://open.spotify.com/album/0Kq8ivq7zUkYdbE8TB37fD) | 4:51 | 2026-03-13 |  |

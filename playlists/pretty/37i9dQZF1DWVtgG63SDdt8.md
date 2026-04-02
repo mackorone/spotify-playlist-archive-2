@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,790 likes - 98 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,806 likes - 98 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 36 | [Questions](https://open.spotify.com/track/3ncYFpndnPoTdoV8NUNBJz) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Questions](https://open.spotify.com/album/5pnwdDVdh7EABESXfKdZoQ) | 2:54 |
 | 37 | [Silence](https://open.spotify.com/track/1shkGViIKA1j6afZNF6jwN) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Silence](https://open.spotify.com/album/4Pr78CKZWWqGq6GAEo83QX) | 3:53 |
 | 38 | [KNOWN](https://open.spotify.com/track/1h58D20BA2O5WIXmpRGGvH) | [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [KNOWN](https://open.spotify.com/album/1rhLqLdT3MO4dQGRgmaqiS) | 3:48 |
-| 39 | [SOS](https://open.spotify.com/track/2plxZbunq262aPivPjURsw) | [DAWN PATROL](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SOS](https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ) | 2:49 |
+| 39 | [SOS](https://open.spotify.com/track/2plxZbunq262aPivPjURsw) | [PARTY WAVE](https://open.spotify.com/artist/5MOUpRLvK6boZ3J5av1YK9), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SOS](https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ) | 2:49 |
 | 40 | [Whispers](https://open.spotify.com/track/1nnB4VJrgmQINmPxkeUJaU) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Whispers](https://open.spotify.com/album/1vXTJVrOhoSS1jafmseOaJ) | 2:59 |
 | 41 | [Raised By Wolves](https://open.spotify.com/track/4XGnVuu6qADqak2OVPtngQ) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Raised By Wolves](https://open.spotify.com/album/4tXrzArgCgPwCBACOh4ttq) | 3:06 |
 | 42 | [ICU](https://open.spotify.com/track/5MgTtwRKD6Mm7eRJbMh4N1) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [ICU](https://open.spotify.com/album/5orbBYRUUgZsZSDuN9z8j3) | 2:53 |

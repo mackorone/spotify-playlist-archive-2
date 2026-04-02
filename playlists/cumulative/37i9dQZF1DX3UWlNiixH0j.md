@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: カネコアヤノ Kaneko Ayano
 
-3,205 songs - 8 day 10 hr 3 min
+3,206 songs - 8 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,6 +931,7 @@
 | [Koyoi](https://open.spotify.com/track/6bMl0O4b15tS5wGSAOlelH) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ちぃさな世界](https://open.spotify.com/album/2pMsbFoUCWtbMadTxhZtNe) | 3:47 | 2024-02-01 | 2024-02-07 |
 | [kqbe](https://open.spotify.com/track/2DzVdeYzF412SAUvVRsLWZ) | [yhojin](https://open.spotify.com/artist/3PwWLwnob8iSQCXvUlbTbF) | [kqbe](https://open.spotify.com/album/6Y2aX34TREPVuV4p3fu0s9) | 2:45 | 2026-02-11 | 2026-03-18 |
 | [Kujira](https://open.spotify.com/track/5fac8pGg9klKEy4bIV3q06) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [touch the subconscious](https://open.spotify.com/album/6giIlydAr0RyMutAdQV5Si) | 4:59 | 2024-03-07 | 2024-03-13 |
+| [Kumo\-no\-ito](https://open.spotify.com/track/5rW96Atve8irVhlkFJgxe1) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [House of Holy Banana](https://open.spotify.com/album/2aAOPhApQHkhvIsIVZ8Qof) | 3:51 | 2026-03-31 |  |
 | [Kumori nochi hare](https://open.spotify.com/track/0USZ5ZtZIdlqt6c52A7yPX) | [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ) | [Kumori nochi hare](https://open.spotify.com/album/3r61XCzJZQVNHlRySvLIxD) | 4:10 | 2025-01-14 | 2025-01-22 |
 | [kurayamisaka yori ai wo komete](https://open.spotify.com/track/15hpvTLNSvSMOHby6SSBGt) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/1dcM74wiEAmeUhlSJVJJrO) | 3:13 | 2025-08-26 | 2025-10-15 |
 | [KYŌFUNOHOSHI](https://open.spotify.com/track/3jHAnBxDncqobzs442mnQU) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [KYŌFUNOHOSHI](https://open.spotify.com/album/7KR60jE8QXSItGSLUJJu0M) | 3:44 | 2024-07-16 | 2024-08-13 |
@@ -1889,7 +1890,6 @@
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-02-04 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
 | [TOY](https://open.spotify.com/track/2NcL3BcH9PwVJsYD1s5n9c) | [カブトムシ](https://open.spotify.com/artist/3ceBUhYjqv2J3TbIBXdZSa) | [Panorama Pig](https://open.spotify.com/album/47QCclBzhV8FRhcsEfFRZ4) | 4:18 | 2026-03-24 | 2026-04-01 |
-| [Track 3](https://open.spotify.com/track/5rW96Atve8irVhlkFJgxe1) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [House of Holy Banana](https://open.spotify.com/album/2aAOPhApQHkhvIsIVZ8Qof) | 0:00 | 2026-03-31 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |
@@ -2071,6 +2071,7 @@
 | [You're Young](https://open.spotify.com/track/3g18LxsivreftG2yU39qCg) | [YOUR SONG IS GOOD](https://open.spotify.com/artist/4Yt6N4u5vIpjRhT2O7zsLk), [Joelene](https://open.spotify.com/artist/7mKMhWh1Ujzds93YSodcnE) | [You're Young](https://open.spotify.com/album/6z6MALYTU7My2psRJwgUZf) | 4:14 | 2023-10-22 | 2023-11-16 |
 | [YOU/ME/ME](https://open.spotify.com/track/3YGRswSTsRYE3ylbGARJVH) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [YOU/ME/ME](https://open.spotify.com/album/4hPeHDnLXk0TWwPCJCgxvX) | 2:56 | 2025-05-01 | 2025-05-07 |
 | [Your Favorite Things](https://open.spotify.com/track/1BChLfdJmv6rPKnZyTNOQ2) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:20 | 2024-02-29 | 2024-04-24 |
+| [Your Journey](https://open.spotify.com/track/3Zgv6vGafreY2M3RVPqIgO) | [Fuyuni wakarete](https://open.spotify.com/artist/46ZmKgBKBAlVL5jP8P3Wqi) | [Your Journey](https://open.spotify.com/album/6XfPYiVmT92d2AmOQ4I0mL) | 6:20 | 2026-04-01 |  |
 | [Your Song On The Radio](https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Your Song On The Radio](https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3) | 3:01 | 2023-04-20 | 2023-05-31 |
 | [Youth](https://open.spotify.com/track/2G4l5sBOXBYY4EmnBBoG0H) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [・archive:EIEN19](https://open.spotify.com/album/4byUZtHuvqbeemGJEhKkuW) | 3:53 | 2023-07-11 | 2023-08-16 |
 | [Youth \(feat\. Skaai\)](https://open.spotify.com/track/5f7Yii4MaG1ksyHHsb0KCP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Youth \(feat\. Skaai\)](https://open.spotify.com/album/48b1YVvyE3HpukwhEZR2Y9) | 2:52 | 2025-02-18 | 2025-06-22 |
@@ -2138,7 +2139,7 @@
 | [いろどりのうた](https://open.spotify.com/track/2459bwFobqlziZ0zo5EtmO) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [いろどりのうた](https://open.spotify.com/album/6yps06S6fkYR6LhljQ10GF) | 2:51 | 2024-04-30 | 2024-06-24 |
 | [うそつき](https://open.spotify.com/track/7A0KpZn8WPwl9pGFyHuiE1) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [うそつき](https://open.spotify.com/album/6V9Mk9GEIdPutRlpSLbSUV) | 2:41 | 2024-08-06 | 2024-09-18 |
 | [うつつの在り処](https://open.spotify.com/track/5HkN90H6tnBaNLLN8AUgSV) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [うつつの在り処](https://open.spotify.com/album/6Z8H4xZkf36EwUt62Y8N3d) | 4:35 | 2023-07-18 | 2023-08-26 |
-| [うろこ](https://open.spotify.com/track/7AxT4ywuAr4eKj2vevsCpI) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [うろこ](https://open.spotify.com/album/56sCAoEURZlDI0D4GKApba) | 4:09 | 2026-03-24 |  |
+| [うろこ](https://open.spotify.com/track/7AxT4ywuAr4eKj2vevsCpI) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [うろこ](https://open.spotify.com/album/56sCAoEURZlDI0D4GKApba) | 4:09 | 2026-03-24 | 2026-04-02 |
 | [うわついた気持ち](https://open.spotify.com/track/1nGmT1izZX9bIHfUQ7mkYA) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN), [鎮座DOPENESS](https://open.spotify.com/artist/2yV4op1t2gPNi8AxB3tQWu) | [うわついた気持ち](https://open.spotify.com/album/2Yf2pfS9eksNJkyO1CLU8o) | 4:26 | 2023-08-08 | 2023-08-10 |
 | [えめろおど](https://open.spotify.com/track/4FwzF50xesZGKoZu5JKWFB) | [theトラウツ](https://open.spotify.com/artist/0g0lGMqH3XIKVC0lAonmAv) | [EME\-ROAD](https://open.spotify.com/album/0lBJ2jkufTwDu6FM8I4xsR) | 2:31 | 2024-10-08 | 2024-10-16 |
 | [おかしなやつばかり](https://open.spotify.com/track/5VfkYtVseqjlPDUTxqEzs1) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [おかしなやつばかり](https://open.spotify.com/album/1XYq98fmVyPRCcmVbiqtdg) | 4:52 | 2026-02-03 | 2026-04-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Ultraligera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,956 likes - 120 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,983 likes - 120 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 5 | [Aquellos días](https://open.spotify.com/track/3iwXI2QZT5NeArBAblveFP) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Aquellos días](https://open.spotify.com/album/6jW1yMFl0ZjtLBefCnTRBA) | 5:18 |
 | 6 | [A contraluz](https://open.spotify.com/track/2AWqAyzKpKS83r4kpJxDmt) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [A contraluz](https://open.spotify.com/album/7dK9XfqrJOck4mnhzv9Q11) | 4:21 |
 | 7 | [El lado oscuro](https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:48 |
-| 8 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 |
+| 8 | [Como un burro amarrado en la puerta del baile](https://open.spotify.com/track/5cjEWYDWMXlTZr8Rehu2bl) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Astronomía Razonable](https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS) | 3:37 |
 | 9 | [Si te vas...](https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Material defectuoso](https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua) | 8:36 |
 | 10 | [Aquellas Cosas Que Solíamos Hacer](https://open.spotify.com/track/1CrN92KYQTOePdubueHipL) | [Benito Kamelas](https://open.spotify.com/artist/6pds73TcYgdgd1UOBWHRqn) | [Sin Trampa Ni Cartón](https://open.spotify.com/album/26gSAMOb4jxhoDqYOYgvGR) | 4:49 |
 | 11 | [Lo mejor de mí](https://open.spotify.com/track/0jvZb9YCtPrAk4AsKouvGm) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Lo mejor de mí](https://open.spotify.com/album/05QC4Jnu9NwhesWYlvtamJ) | 4:30 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 19 | [Matanza En El Hotel](https://open.spotify.com/track/1HoQJxHaWa8USxYXjuJpTK) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Pelo De Foca](https://open.spotify.com/album/7IaN8e5ag5SEFaHLBmKBss) | 3:10 |
 | 20 | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Caída Libre \(feat\. Robe\)](https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs) | 3:31 |
 | 21 | [La casa por el tejado](https://open.spotify.com/track/428cFrawSqeLoyooQjAW9d) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:27 |
-| 22 | [Como un burro amarrado en la puerta del baile](https://open.spotify.com/track/5cjEWYDWMXlTZr8Rehu2bl) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Astronomía Razonable](https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS) | 3:37 |
+| 22 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 |
 | 23 | [Cadillac solitario \(feat\. Bunbury\)](https://open.spotify.com/track/6Bw1tgFEB8dVbtsa5F2kBt) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Cadillac solitario \(feat\. Bunbury\)](https://open.spotify.com/album/6ZN5a9Q0t6FXKS97oe0qe0) | 5:01 |
 | 24 | [Lapsus](https://open.spotify.com/track/5gaHUShVDYB2kn5s0xzIAi) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Lapsus](https://open.spotify.com/album/50MmSo6jaCpsBd585e4oOP) | 4:20 |
 | 25 | [Salir](https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Canciones Prohibidas](https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG) | 5:18 |

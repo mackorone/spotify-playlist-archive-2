@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-204 songs - 15 hr 40 min
+206 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Change My Heart, Oh God](https://open.spotify.com/track/2m8XWYMBTB1cXAxpgCQtOr) | [Lyle Lopez](https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M) | [Burst into Songs Ministries](https://open.spotify.com/album/4ReU3oj9zCbpLm42d70cRY) | 5:24 | 2023-05-05 | 2024-04-19 |
 | [Change My Heart, Oh God](https://open.spotify.com/track/4cauwv2JwSGHEOehKhwZSC) | [Lyle Lopez](https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M) | [Burst into Songs Ministries](https://open.spotify.com/album/5yZl6gJHmBQ5gJ73gqbzUj) | 5:24 | 2022-04-15 |  |
 | [Chase Down](https://open.spotify.com/track/4rsoGVQYmhJZaZORJltIeJ) | [Every Nation Southside Music](https://open.spotify.com/artist/4bpX9eZzbpNTH9cOlHPTuT) | [Chase Down](https://open.spotify.com/album/6CMYqkG2dZVgepLvtl3gGI) | 3:40 | 2024-03-19 |  |
+| [Christ Will Hold Me Fast](https://open.spotify.com/track/5vKnUyTHw5iJCihVz6ydZa) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Christ Will Hold Me Fast](https://open.spotify.com/album/5auIWMtXdUN5hHJLNgOtJD) | 4:10 | 2026-04-01 |  |
 | [Come Jesus Come](https://open.spotify.com/track/0HQBjmtfGFzhXHo8UUys1c) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come](https://open.spotify.com/album/2wMZd05naUzrxv71qnYa3G) | 4:58 | 2024-03-19 |  |
 | [Come Jesus Come](https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come](https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB) | 4:58 | 2024-03-19 | 2024-04-19 |
 | [Confession](https://open.spotify.com/track/21ECSoDa2Z8NjzNs9133x0) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Confession](https://open.spotify.com/album/7aO5bOCwrYCx33fUzuaKVO) | 3:10 | 2022-04-15 |  |
@@ -122,6 +123,7 @@
 | [Mountains Move \(feat\. Caleb Garrard\)](https://open.spotify.com/track/4IOngFt4l4g9popoFAmzNx) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Caleb Garrard](https://open.spotify.com/artist/61brekFO6Ba9eFHExpnbmv) | [Mountains Move \(feat\. Caleb Garrard\)](https://open.spotify.com/album/59rRx2VhMQBsM0JFfGeNyQ) | 4:42 | 2024-03-19 |  |
 | [Nasaan Kaya Ako](https://open.spotify.com/track/1ylLUQy3WwGEUJ5p5PAyuJ) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Nasaan Kaya Ako](https://open.spotify.com/album/0rVyPpwmXgnvk7Z7bKYs7B) | 4:04 | 2022-04-15 |  |
 | [Nasaan Kaya Ako](https://open.spotify.com/track/2ynqCIq6D7vJKL873GFQrt) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Nasaan Kaya Ako](https://open.spotify.com/album/0smW8euaOWK2X8o8j5Y3gy) | 4:04 | 2023-02-23 | 2024-04-19 |
+| [Never Be Alone.](https://open.spotify.com/track/7IfZwCYzZUzF5bhnzpbe5o) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Never Be Alone.](https://open.spotify.com/album/14RDdFHxwkBRXk2lpKqJlE) | 3:04 | 2026-04-01 |  |
 | [Never Wanna Go Back](https://open.spotify.com/track/6CUop28tecrP4AEsnKNpZ3) | [May Angeles](https://open.spotify.com/artist/3QnnsnDjUGYX8cYQuub0eh), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Never Wanna Go Back](https://open.spotify.com/album/5ZuLfsc8PRhiJj84sC2idX) | 3:35 | 2022-04-15 |  |
 | [New Generation](https://open.spotify.com/track/2yFze3Tul0hCB0eBOkz324) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Jeng Belen](https://open.spotify.com/artist/0l1E52m5uF5Ah2wQr8HAlw) | [New Generation](https://open.spotify.com/album/7ehgv9ZB0HgxtcxBmCeQsG) | 3:29 | 2022-04-15 |  |
 | [Nothing Is Impossible \(Tagalog Version\)](https://open.spotify.com/track/5bIfEy5ND1XLIozSI6nY1x) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Nothing Is Impossible \(Tagalog Version\)](https://open.spotify.com/album/3w0EPoqOH21BOPYfZORYwq) | 4:05 | 2023-03-31 |  |

@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Georgia</a>",
-  "num_followers": 61218,
+  "num_followers": 61217,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAARtZhQZdG30tQuXv904tG5khPKDCHw",
+  "snapshot_id": "AAARtofTmaoyOSyVbeHH4D5MlqnwsMFH",
   "tracks": [
+    {
+      "added_at": "2026-04-01 14:23:53",
+      "album": {
+        "name": "Seeing The Elephant",
+        "url": "https://open.spotify.com/album/7Hr0H1UxPsNZVnDOUAjCCJ"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 175096,
+      "name": "Seeing The Elephant",
+      "url": "https://open.spotify.com/track/4B9R7qjinEJU4R54zZdx9T"
+    },
     {
       "added_at": "2026-03-25 13:55:20",
       "album": {

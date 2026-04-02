@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: \ub518\ub518 (DINDIN) & \uc870\ud604\uc601(\ub808\uc778\ubcf4\uc6b0))",
-  "num_followers": 396134,
+  "num_followers": 396138,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,30 @@
     {
       "added_at": "2026-03-31 04:01:12",
       "album": {
+        "name": "Waves (feat. Simon Dominic & Jamie)",
+        "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Waves (feat. Simon Dominic & Jamie)",
+      "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
+    },
+    {
+      "added_at": "2026-03-31 04:01:12",
+      "album": {
         "name": "Even for a moment",
         "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 211000,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
-    },
-    {
-      "added_at": "2026-03-31 04:01:12",
-      "album": {
-        "name": "Waves (feat. Simon Dominic & Jamie)",
-        "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Waves (feat. Simon Dominic & Jamie)",
-      "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
     },
     {
       "added_at": "2026-03-31 04:01:12",

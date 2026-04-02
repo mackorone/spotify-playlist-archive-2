@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: YUNG SAINT PAUL
 
-465 songs - 19 hr 39 min
+466 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Amo aller Amos](https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Amo aller Amos](https://open.spotify.com/album/2tlaiOi78UcXOTtsD3k48j) | 1:49 | 2024-06-28 | 2025-02-28 |
 | [Ana Arabiya](https://open.spotify.com/track/33q5s0rwEJChcuIPN5s7RM) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [CLICK FÜR CLICK](https://open.spotify.com/album/3bYSQQAOuX8I4e3ldSqJcc) | 2:53 | 2026-03-19 |  |
 | [Anders](https://open.spotify.com/track/6SfK9quduDlFWTYgbJ3gkv) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Edin](https://open.spotify.com/artist/7jkdo74SDT1PYu6Ksbusxa) | [Anders](https://open.spotify.com/album/0HcMkzOeigNRkImyrVDBgj) | 3:24 | 2025-07-24 | 2026-01-17 |
-| [ANNABELLE](https://open.spotify.com/track/7dPNIrG8ThsUmwpGEawD2h) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [ANNABELLE](https://open.spotify.com/album/52lWG2YSAnNP5i0TQqYYnC) | 2:18 | 2026-02-12 |  |
+| [ANNABELLE](https://open.spotify.com/track/7dPNIrG8ThsUmwpGEawD2h) | [Atay](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [ANNABELLE](https://open.spotify.com/album/52lWG2YSAnNP5i0TQqYYnC) | 2:18 | 2026-02-12 |  |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-06-28 | 2025-01-17 |
 | [Antalya](https://open.spotify.com/track/0auzdD4Kii0Yt0qVbBX6Bg) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT) | [Antalya](https://open.spotify.com/album/5O8n71paupWwPEPVJvaAiz) | 2:36 | 2025-07-24 |  |
 | [APARTMENT \(feat\. Monet192\)](https://open.spotify.com/track/0atxjWna6ikysmEzrqGXLW) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [DARDYNEXTDOOR](https://open.spotify.com/album/04n8ykZiVoU3Q06FNu4SD9) | 2:46 | 2024-06-28 | 2025-06-20 |
@@ -235,6 +235,7 @@
 | [LAYLA WA LAYLA](https://open.spotify.com/track/595QVoNpJUaQhVYjU4ZgxF) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i) | [LAYLA WA LAYLA](https://open.spotify.com/album/47RLicUlCL8h4lpiIK4OhT) | 2:40 | 2025-09-18 | 2025-12-21 |
 | [Leben lang](https://open.spotify.com/track/1u59aqUTvk0X1TxchtyyNZ) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Leben lang](https://open.spotify.com/album/1q0bHzvyiDY0cEH6ymaWs5) | 2:12 | 2024-06-28 | 2024-09-10 |
 | [Lebenlang](https://open.spotify.com/track/3twwhIkTw6W3pZORgIYuPq) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Lebenlang](https://open.spotify.com/album/0L8DLLCkieXVvbDIJSN0mA) | 2:23 | 2025-07-17 | 2025-08-23 |
+| [Lets Go](https://open.spotify.com/track/4MSTLAs5wtW6tNeKRZEJEY) | [Zymba](https://open.spotify.com/artist/1ozEI1HiloddRy01cuXQNo) | [Lets Go](https://open.spotify.com/album/6xguilXdfJoElnaXI69ems) | 2:03 | 2026-03-30 |  |
 | [Liebestext](https://open.spotify.com/track/6ZBLTqqXM0l8YEw9Rj1JX9) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Liebestext](https://open.spotify.com/album/2S0IxG8lyHUPPBB3xeaD1N) | 3:07 | 2025-04-28 | 2025-06-20 |
 | [Like That](https://open.spotify.com/track/2rEJhTfHaRsUWwoIvRWA2m) | [Afshin Momadi](https://open.spotify.com/artist/3MhC8h0ocHe2fbl66I1pho), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Like That](https://open.spotify.com/album/22RP1h38s3HzXr9T8c7nJ8) | 3:00 | 2025-10-02 | 2026-03-22 |
 | [LIKE THAT](https://open.spotify.com/track/4DisCfHDMsNQcNvIhz1eGT) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [KILL BILLS](https://open.spotify.com/album/7mZBSZP0SsGUwMtyRRZUQy) | 2:10 | 2026-02-09 |  |
@@ -366,7 +367,7 @@
 | [Slumdog Millionär](https://open.spotify.com/track/1BDbJHMlLpLvuCXXFqMzCl) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Aymo](https://open.spotify.com/album/56Mh0Il6skOooJcxoHsVim) | 3:04 | 2025-12-19 | 2026-02-03 |
 | [SMS](https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [SMS](https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx) | 2:38 | 2024-06-28 | 2024-10-11 |
 | [so einfach](https://open.spotify.com/track/251CNLucRbRn7EjAYuXCgd) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [so einfach](https://open.spotify.com/album/79YJNmJTtvOclU8oCkTg7M) | 2:07 | 2026-03-30 |  |
-| [SO FRESH SO CLEAN](https://open.spotify.com/track/3l4Z4P6YWerBZ4uBammxdW) | [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [G\-CODE](https://open.spotify.com/album/4fvreqshfSDXNw4EYmSBhw) | 2:30 | 2025-03-24 |  |
+| [SO FRESH SO CLEAN](https://open.spotify.com/track/3l4Z4P6YWerBZ4uBammxdW) | [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [G\-CODE](https://open.spotify.com/album/4fvreqshfSDXNw4EYmSBhw) | 2:30 | 2025-03-24 | 2026-04-02 |
 | [So So Def \(feat\. Summer Cem & Nimo\)](https://open.spotify.com/track/5g6kQitL4OSo9tWkWDGkNT) | [Celo & Abdi](https://open.spotify.com/artist/48Fq6GV3S6on56TxSBu5NO), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [So So Def \(feat\. Summer Cem & Nimo\)](https://open.spotify.com/album/4CPkcm6whVsY6f48SHjxpB) | 2:49 | 2024-06-28 | 2024-08-22 |
 | [So Wunderschön](https://open.spotify.com/track/56GwaChk9RMz5cLgErxr2f) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [So Wunderschön](https://open.spotify.com/album/3pskKADoAvTSBhOnJAi9E0) | 2:39 | 2025-02-06 | 2025-04-25 |
 | [SOBER](https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [SOBER](https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df) | 2:29 | 2025-11-03 | 2026-03-22 |

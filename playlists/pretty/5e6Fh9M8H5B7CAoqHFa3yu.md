@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 300 likes - 2,118 songs - 5 day 5 hr 40 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 300 likes - 2,120 songs - 5 day 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2126,5 +2126,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2116 | [El Que Nunca Se Fue](https://open.spotify.com/track/3kG23PaOrePhCnp80mPPEi) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [El Que Nunca Se Fue](https://open.spotify.com/album/1b1sZkyLXjfm1FtIYdJTUU) | 2:24 |
 | 2117 | [Дороги снегом замело](https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:59 |
 | 2118 | [Psychedelic \- Band Version](https://open.spotify.com/track/2IKjfnfs0Bji4vr6NnQ9Rb) | [Kayleigh Walker](https://open.spotify.com/artist/5GKQQUenHbZ5qmohHqMBCd) | [Who is she ? \(Band Version\)](https://open.spotify.com/album/16b7kK0q5bR4Olemf8x4NG) | 3:37 |
+| 2119 | [Directamente del Cielo](https://open.spotify.com/track/72a9t5mhsKriamVuPqDAJj) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Directamente del Cielo](https://open.spotify.com/album/2U6pc5ziwVV895tqWX47iz) | 3:52 |
+| 2120 | [Mothman](https://open.spotify.com/track/38gi9OlVKpj6zwtNKK0dDc) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Mothman](https://open.spotify.com/album/2Ep74PqtVoHvQYwZ033Nvs) | 5:11 |
 
-Snapshot ID: `AAAI6Ef+4OhAEOnimH6OubCGrE89I7ly`
+Snapshot ID: `AAAI6mvIs4Sdv0Dwa0xL8xoV1UyaZsKQ`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:5IyinZYJjqYfHlgtdyUYnm\">Pradabagshawty</a> ",
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:3ag9Q03DMBdEd0IExnBmE4\">Jbeezy.Lfg</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 137274,
       "name": "#FKITWEBALL",
       "url": "https://open.spotify.com/track/00I26iPJ4tXNvzPsw0qcs4"
+    },
+    {
+      "album": {
+        "name": "#ggs/#headahh",
+        "url": "https://open.spotify.com/album/4HFEGYxoDBHUXK1TMONtnR"
+      },
+      "artists": [
+        {
+          "name": "Kaicrewsade",
+          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136331,
+      "name": "#ggs",
+      "url": "https://open.spotify.com/track/0FCkcqj7SKHeHGgX3AOYRu"
     },
     {
       "album": {
@@ -1044,16 +1062,16 @@
           "url": "https://open.spotify.com/artist/6xHMGVSnuJYwWKJY6M7Vp1"
         },
         {
-          "name": "Yung 5th",
-          "url": "https://open.spotify.com/artist/5vRhS1Ss9aW9X4gkrenJWI"
+          "name": "HXG",
+          "url": "https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb"
         },
         {
           "name": "ApolloRed1",
           "url": "https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP"
         },
         {
-          "name": "HXG",
-          "url": "https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb"
+          "name": "Yung 5th",
+          "url": "https://open.spotify.com/artist/5vRhS1Ss9aW9X4gkrenJWI"
         }
       ],
       "date_added": "2026-02-25",
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 128955,
       "name": "Again",
       "url": "https://open.spotify.com/track/0XRo3dHo3J2Yu5gX2qczk1"
@@ -4212,7 +4230,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 126868,
       "name": "Bandzway",
       "url": "https://open.spotify.com/track/6G9l0ssk5eh7rlSBq2Bono"
@@ -5996,7 +6014,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 156149,
       "name": "BOAT REMIX (feat. Pooh Shiesty) SLIMEY EDITION",
       "url": "https://open.spotify.com/track/2H6gkx5JlvwWER9CwELggP"
@@ -6134,7 +6152,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 138657,
       "name": "BOO",
       "url": "https://open.spotify.com/track/7z0fmhOBmjifu0BqMP5vuG"
@@ -8162,7 +8180,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 111315,
       "name": "Clippers",
       "url": "https://open.spotify.com/track/5VmXCrsHd2iFGeyGkbNHyi"
@@ -8346,7 +8364,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 152112,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/0OUJusExWi6PM06g3cpwbV"
@@ -8698,7 +8716,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 159914,
       "name": "Crack (Remix)",
       "url": "https://open.spotify.com/track/2G4cGw6VQMeOxhAthZBxaj"
@@ -9526,7 +9544,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 209047,
       "name": "Dead Faces",
       "url": "https://open.spotify.com/track/5Vl2l0khSWWAp3vVogikXj"
@@ -10480,7 +10498,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 150208,
       "name": "Do It For A Dub",
       "url": "https://open.spotify.com/track/1S0LFIgIcGskXJYzwfOQFh"
@@ -11150,7 +11168,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 156567,
       "name": "DOUGLAS",
       "url": "https://open.spotify.com/track/6Jmv5KWMDzRsafU4PabPDm"
@@ -11538,7 +11556,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 111709,
       "name": "dui II",
       "url": "https://open.spotify.com/track/5F0HJmKGP9wf4XysHtFPT3"
@@ -12033,6 +12051,24 @@
     },
     {
       "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/2kK6RThDAK9VO8Bnov9vpd"
+      },
+      "artists": [
+        {
+          "name": "Jay Montana",
+          "url": "https://open.spotify.com/artist/0VZ8xEb6CWeTe3swY7qcxw"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/0yYDa9Zuu7qM9MZO2cbK4Y"
+    },
+    {
+      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/3BFaejIX1VmaHwRlPC5cgC"
       },
@@ -12052,6 +12088,24 @@
       "duration_ms": 136470,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/3ZGWzPGl4FurSdn18kiqJP"
+    },
+    {
+      "album": {
+        "name": "EOTD",
+        "url": "https://open.spotify.com/album/2Loj1ovS818yGxEcVwKuuq"
+      },
+      "artists": [
+        {
+          "name": "Paris Price",
+          "url": "https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135920,
+      "name": "EOTD",
+      "url": "https://open.spotify.com/track/7tjyrCQXM5F3zbptkdIxha"
     },
     {
       "album": {
@@ -14904,7 +14958,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 114147,
       "name": "Get dressed",
       "url": "https://open.spotify.com/track/3TOLAb9pdYMG6iIZMTlcQO"
@@ -16474,7 +16528,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 107635,
       "name": "Handle It",
       "url": "https://open.spotify.com/track/0rDUsFBFDAw46MiEM0SbYg"
@@ -16492,7 +16546,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 92260,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/70HZbu3y0Bfn7lL2hH2Jj6"
@@ -16622,7 +16676,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 150857,
       "name": "Hate It or Love It",
       "url": "https://open.spotify.com/track/5xV42iPZ7R9pws1NNR7LRR"
@@ -16640,7 +16694,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 128914,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/5vNZzaJnWSl6GL60PQKPNs"
@@ -17024,7 +17078,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 140979,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/7jXIpGIVk3M80zg1oj0sXT"
@@ -18388,7 +18442,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 132412,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5lTqCImHbc7CyDYfMkyyVd"
@@ -18410,7 +18464,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 193920,
       "name": "I Know How It Be",
       "url": "https://open.spotify.com/track/4inDQG51m8y8PYiQSKyXg9"
@@ -20141,6 +20195,24 @@
     },
     {
       "album": {
+        "name": "Juggin Like Scooter",
+        "url": "https://open.spotify.com/album/1S6Edbu8F3i7nzlYjdOiGW"
+      },
+      "artists": [
+        {
+          "name": "AMG Twinz",
+          "url": "https://open.spotify.com/artist/0WqwQD6AmzGUvPpCy9FxCj"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180998,
+      "name": "Juggin Like Scooter",
+      "url": "https://open.spotify.com/track/6OWY07LZ6e0NVk2PaPvGu2"
+    },
+    {
+      "album": {
         "name": "Juicy Crab",
         "url": "https://open.spotify.com/album/3zJ24pnswoe8qUKLQMndJ8"
       },
@@ -20156,7 +20228,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 162909,
       "name": "Juicy Crab",
       "url": "https://open.spotify.com/track/3mARt8iLVoVF1POcalLtO1"
@@ -20430,7 +20502,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 154714,
       "name": "Justswagup",
       "url": "https://open.spotify.com/track/0y0j1lRlV6OKLCsIgkEAbQ"
@@ -21400,7 +21472,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 142943,
       "name": "Lay Law",
       "url": "https://open.spotify.com/track/529sERHXAof0sRwfpPVzNq"
@@ -21658,7 +21730,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 117551,
       "name": "let 'em know",
       "url": "https://open.spotify.com/track/619HqL1aPW1uZbUbBmtVfz"
@@ -23328,7 +23400,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 158823,
       "name": "ma belle",
       "url": "https://open.spotify.com/track/1CM0QhgHt71YzImTCVzKhC"
@@ -25570,7 +25642,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 179306,
       "name": "MOTIVATE THE CITY",
       "url": "https://open.spotify.com/track/6GNJP7L0HiGMRqLmRTIlyH"
@@ -26324,7 +26396,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 220887,
       "name": "My nigga bought a krib in hyde park!!!!",
       "url": "https://open.spotify.com/track/5vKgPUn9fmrdhrvdPD8Pir"
@@ -27372,7 +27444,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 150345,
       "name": "no fillins\u00b2",
       "url": "https://open.spotify.com/track/3OcsBOijFn9eCzZJ9AEIpR"
@@ -28798,7 +28870,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 84000,
       "name": "On Stream",
       "url": "https://open.spotify.com/track/1TTEzu7mpa9WvrKelj5Wiy"
@@ -30388,7 +30460,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 139341,
       "name": "Pierce My Lungs",
       "url": "https://open.spotify.com/track/5TZi4qOFPbDjmquj7RKfqj"
@@ -32142,7 +32214,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 107715,
       "name": "Real or Fake",
       "url": "https://open.spotify.com/track/5EJkOmdwNHKqRc7wL8CAxd"
@@ -32178,7 +32250,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 121260,
       "name": "REAL PAPE",
       "url": "https://open.spotify.com/track/3KcDu53nStKvZzRNL0Nois"
@@ -33196,7 +33268,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 143576,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/5yLFp0sf15VqZjjQPaI3W4"
@@ -33500,7 +33572,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 196906,
       "name": "Ruth Chris",
       "url": "https://open.spotify.com/track/0X6OUAObe3Sz3NqCy2DbXe"
@@ -36860,7 +36932,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 173714,
       "name": "Strut",
       "url": "https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc"
@@ -38459,6 +38531,24 @@
     },
     {
       "album": {
+        "name": "The Spokesman",
+        "url": "https://open.spotify.com/album/2bHtxcCLXxjc7ChsbWaP7h"
+      },
+      "artists": [
+        {
+          "name": "HeadHuncho Amir",
+          "url": "https://open.spotify.com/artist/1DRED2ii095cFu6EY1YkNm"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "The Spokesman",
+      "url": "https://open.spotify.com/track/4gKr3DugzfrLMQRXeVnVRD"
+    },
+    {
+      "album": {
         "name": "The Viper",
         "url": "https://open.spotify.com/album/3cQR7hyzZEbwAESuPEu8qR"
       },
@@ -38814,7 +38904,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 149487,
       "name": "THUGGIN NOT CLUBBIN",
       "url": "https://open.spotify.com/track/5XKykbx4PClLewzOvlb2JX"
@@ -40166,6 +40256,24 @@
       "duration_ms": 133333,
       "name": "trymemr",
       "url": "https://open.spotify.com/track/0vLCG8bUpjKrXkZcsHW2rO"
+    },
+    {
+      "album": {
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/269GcNc1AZ9c82bRAJVJ1W"
+      },
+      "artists": [
+        {
+          "name": "Lisha G",
+          "url": "https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Tryna Get Sum Mo",
+      "url": "https://open.spotify.com/track/4o0HJaSUWgyLVP4EBfk3CR"
     },
     {
       "album": {

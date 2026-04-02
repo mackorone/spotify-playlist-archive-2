@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,817 likes - 55 songs - 3 hr 1 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,818 likes - 56 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 53 | [Home Ground](https://open.spotify.com/track/5Nf5Cce8DePSYvu2IuEvcg) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Home Ground](https://open.spotify.com/album/5jq1y0ryj6SZcEnGYlhSXS) | 3:10 |
 | 54 | [Looking Backwards](https://open.spotify.com/track/4xoQLzcgFkUY2wWSgVNhQx) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Looking Backwards](https://open.spotify.com/album/5kDrYvG2IiBESCZ8KcA1QA) | 4:08 |
 | 55 | [Wrong Things](https://open.spotify.com/track/1wB6r8nXiBz0EETAAT2Ysn) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Wrong Things](https://open.spotify.com/album/3FVMLm8MQt729AkPGPIikI) | 2:49 |
+| 56 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 |
 
-Snapshot ID: `AAARRPYMkJEUV6mEh4lTTGJCFUZLrwFy`
+Snapshot ID: `AAARRa2LhyomHVHF0/V3sXkH/Y3K9aj0`

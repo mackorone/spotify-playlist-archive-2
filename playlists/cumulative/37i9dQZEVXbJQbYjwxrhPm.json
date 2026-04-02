@@ -1046,6 +1046,24 @@
     {
       "album": {
         "name": "Bez teb",
+        "url": "https://open.spotify.com/album/3oiqu7Pp11nVJM6OliVkAZ"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184354,
+      "name": "Bez teb",
+      "url": "https://open.spotify.com/track/3zZ1efLexshtTkHLRBbgDh"
+    },
+    {
+      "album": {
+        "name": "Bez teb",
         "url": "https://open.spotify.com/album/6zOxZsZ7mYY2jsJRpy2QiE"
       },
       "artists": [
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 184354,
       "name": "Bez teb",
       "url": "https://open.spotify.com/track/3zlH4fylzmEq4QX6zjn3Ny"
@@ -5642,6 +5660,28 @@
     {
       "album": {
         "name": "Dokato sartseto bie",
+        "url": "https://open.spotify.com/album/0bLraMzgIu8e8Gn7oYJtm4"
+      },
+      "artists": [
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
+        },
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "Ne me zasluzhavash",
+      "url": "https://open.spotify.com/track/4apCbBmGlsVy3VM2EeN2t6"
+    },
+    {
+      "album": {
+        "name": "Dokato sartseto bie",
         "url": "https://open.spotify.com/album/4WIsDXVbpQ86N4brU4jVUl"
       },
       "artists": [
@@ -5656,7 +5696,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 213913,
       "name": "Ne me zasluzhavash",
       "url": "https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O"
@@ -7166,7 +7206,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 252893,
       "name": "S men da varvish",
       "url": "https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt"
@@ -12022,6 +12062,28 @@
       "duration_ms": 178772,
       "name": "\u0420\u0443\u043f\u0435 \u0420\u0443\u043f\u0435",
       "url": "https://open.spotify.com/track/4Ei2tzVf3xATHv8lBupti6"
+    },
+    {
+      "album": {
+        "name": "\u0421 \u043c\u0435\u043d \u0434\u0430 \u0432\u044a\u0440\u0432\u0438\u0448",
+        "url": "https://open.spotify.com/album/0uMzPEOku3ih5kJyHwL9r6"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Dzhena",
+          "url": "https://open.spotify.com/artist/6bqs6dEjDh3fkybEZeqj0k"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250884,
+      "name": "\u0421 \u043c\u0435\u043d \u0434\u0430 \u0432\u044a\u0440\u0432\u0438\u0448",
+      "url": "https://open.spotify.com/track/19nkJXLnVH1WtINrTZ2wl6"
     },
     {
       "album": {

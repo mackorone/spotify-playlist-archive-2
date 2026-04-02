@@ -2431,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "seriuos eepy",
+        "url": "https://open.spotify.com/album/0KYLMTi4r39uNgMMC8NiaP"
+      },
+      "artists": [
+        {
+          "name": "Kookie",
+          "url": "https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "EAT SHIT AND DIE",
+      "url": "https://open.spotify.com/track/3HdBABZV9a6A5B2xgpEVKj"
+    },
+    {
+      "album": {
         "name": "RAVEPOP",
         "url": "https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig"
       },
@@ -9120,8 +9138,8 @@
       },
       "artists": [
         {
-          "name": "Catasham",
-          "url": "https://open.spotify.com/artist/5x6DpBYRtpgfgRw2VqxSri"
+          "name": "mp3kitty",
+          "url": "https://open.spotify.com/artist/7donvrLTm3BHSLo9QTDoDa"
         },
         {
           "name": "Muffin Fox",

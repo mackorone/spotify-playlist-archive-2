@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹 cover: VEROSIMILE
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,347 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,353 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,20 +18,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 8 | [Ricordi \(con Elisa\)](https://open.spotify.com/track/3ocAmS2NnUlIrtwYdg89lU) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ricordi \(con Elisa\)](https://open.spotify.com/album/5UN3WOoPVsl8nesjf0xowl) | 4:37 |
 | 9 | [uomo che cade](https://open.spotify.com/track/3vwObRd71oUa145riRt42O) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [uomo che cade](https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj) | 3:37 |
 | 10 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 |
-| 11 | [Colpo di stato](https://open.spotify.com/track/6HL5aWVABB5ViuM1VMvtOk) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Colpo di stato](https://open.spotify.com/album/370JybRNO88fVzO7M5y337) | 2:52 |
-| 12 | [\(siamo tutti\) animali notturni](https://open.spotify.com/track/4rXfzp0P7yZCH3JEz2eXzy) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5), [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [\(siamo tutti\) animali notturni](https://open.spotify.com/album/11ZU7S4OWEM1TsRrY7wjvY) | 3:07 |
-| 13 | [Introvabile](https://open.spotify.com/track/1qzPNHULYNqlTDxZoOIytn) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Introvabile](https://open.spotify.com/album/1afcyvrWTSivDef7JDO0ot) | 2:55 |
-| 14 | [Mattone](https://open.spotify.com/track/5kAqhOUfi3ku5jZREYRFti) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 3:22 |
-| 15 | [Maledetto me](https://open.spotify.com/track/0RkFzXmEJzSv4Bu6YwZJx6) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 2:59 |
-| 16 | [Vuelve](https://open.spotify.com/track/2f0xOtq4RcnelcBQRpcfBp) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf) | [Vuelve](https://open.spotify.com/album/2jEKKZyMdQalQoNG0cI4eX) | 2:22 |
-| 17 | [DIMMI CHE MI VUOI](https://open.spotify.com/track/2K8c3Q6BCsW7xx1j4um4kz) | [Gard](https://open.spotify.com/artist/25p6aXpMXAHmFj2jkukiVo) | [DIMMI CHE MI VUOI](https://open.spotify.com/album/72fqsHsIMKDS586Fk56Oo3) | 3:27 |
-| 18 | [La felicità e basta](https://open.spotify.com/track/2NmvOrVquVRNNKUPOGx3xe) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [La felicità e basta](https://open.spotify.com/album/0QjAdM88ez6yukjfd22Xnv) | 3:28 |
-| 19 | [Anche a vent’anni si muore](https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Anche a vent’anni si muore](https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM) | 3:40 |
-| 20 | [tu non vuoi nessuno](https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [tu non vuoi nessuno](https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z) | 3:22 |
-| 21 | [Limbo](https://open.spotify.com/track/20p0SmBBE4NrXLhfrj9TkU) | [Roshelle](https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt) | [Mangiami pure](https://open.spotify.com/album/5ZOaNaQEE4vNuWTcbyT1Cr) | 3:01 |
-| 22 | [Sirene sulla Luna](https://open.spotify.com/track/1b6a73kDPEKLZxw5YfMerN) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Sirene sulla Luna](https://open.spotify.com/album/6Z9H1XZzTIq9HPFVBo6rBV) | 3:03 |
-| 23 | [Piove Metallo](https://open.spotify.com/track/5VIuELxegdSs0nwVfjuJos) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Doppia Mozzarella](https://open.spotify.com/album/0MZ4ObEaKYLX2YtA9Q3gyK) | 2:31 |
-| 24 | [ad ogni costo](https://open.spotify.com/track/2Mus1en9s7ppExu1S580wC) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [la ragazza che suonava il piano](https://open.spotify.com/album/3De0vZ755Y6JdnITvKqcNB) | 1:34 |
+| 11 | [BUONA DOMENICA](https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BUONA DOMENICA](https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn) | 3:07 |
+| 12 | [Colpo di stato](https://open.spotify.com/track/6HL5aWVABB5ViuM1VMvtOk) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Colpo di stato](https://open.spotify.com/album/370JybRNO88fVzO7M5y337) | 2:52 |
+| 13 | [\(siamo tutti\) animali notturni](https://open.spotify.com/track/4rXfzp0P7yZCH3JEz2eXzy) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5), [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [\(siamo tutti\) animali notturni](https://open.spotify.com/album/11ZU7S4OWEM1TsRrY7wjvY) | 3:07 |
+| 14 | [Introvabile](https://open.spotify.com/track/1qzPNHULYNqlTDxZoOIytn) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Introvabile](https://open.spotify.com/album/1afcyvrWTSivDef7JDO0ot) | 2:55 |
+| 15 | [Mattone](https://open.spotify.com/track/5kAqhOUfi3ku5jZREYRFti) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 3:22 |
+| 16 | [Maledetto me](https://open.spotify.com/track/0RkFzXmEJzSv4Bu6YwZJx6) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 2:59 |
+| 17 | [Vuelve](https://open.spotify.com/track/2f0xOtq4RcnelcBQRpcfBp) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf) | [Vuelve](https://open.spotify.com/album/2jEKKZyMdQalQoNG0cI4eX) | 2:22 |
+| 18 | [DIMMI CHE MI VUOI](https://open.spotify.com/track/2K8c3Q6BCsW7xx1j4um4kz) | [Gard](https://open.spotify.com/artist/25p6aXpMXAHmFj2jkukiVo) | [DIMMI CHE MI VUOI](https://open.spotify.com/album/72fqsHsIMKDS586Fk56Oo3) | 3:27 |
+| 19 | [La felicità e basta](https://open.spotify.com/track/2NmvOrVquVRNNKUPOGx3xe) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [La felicità e basta](https://open.spotify.com/album/0QjAdM88ez6yukjfd22Xnv) | 3:28 |
+| 20 | [Anche a vent’anni si muore](https://open.spotify.com/track/59Awynpg4oFhSwb5F8lQQ1) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Anche a vent’anni si muore](https://open.spotify.com/album/5ia2NfmJrcmFBZcX5GVloM) | 3:40 |
+| 21 | [tu non vuoi nessuno](https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [tu non vuoi nessuno](https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z) | 3:22 |
+| 22 | [Limbo](https://open.spotify.com/track/20p0SmBBE4NrXLhfrj9TkU) | [Roshelle](https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt) | [Mangiami pure](https://open.spotify.com/album/5ZOaNaQEE4vNuWTcbyT1Cr) | 3:01 |
+| 23 | [Sirene sulla Luna](https://open.spotify.com/track/1b6a73kDPEKLZxw5YfMerN) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Sirene sulla Luna](https://open.spotify.com/album/6Z9H1XZzTIq9HPFVBo6rBV) | 3:03 |
+| 24 | [Piove Metallo](https://open.spotify.com/track/5VIuELxegdSs0nwVfjuJos) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Doppia Mozzarella](https://open.spotify.com/album/0MZ4ObEaKYLX2YtA9Q3gyK) | 2:31 |
 | 25 | [sei solo tu](https://open.spotify.com/track/2OJ4w8QBNNIeqyfQH9aRES) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [sei solo tu](https://open.spotify.com/album/1wznGiADjF8ERLSC05hq9f) | 3:05 |
 | 26 | [x love <3](https://open.spotify.com/track/5Ty4RD1GItfQX1Lvd4bZ8E) | [Flamen](https://open.spotify.com/artist/0v8ujlLqWIfCTv9aK3nGMe) | [x love <3](https://open.spotify.com/album/1BqDAFw5qdiON8NjYqblRc) | 2:41 |
 | 27 | [Potevamo fare schifo insieme](https://open.spotify.com/track/7FLt6SkjRi9pQM0HrtJ9KH) | [SARAFINE](https://open.spotify.com/artist/6uejEU9tKd16IvCqvf2n5E) | [Potevamo fare schifo insieme](https://open.spotify.com/album/6UGIlKxUZ8B4Kywp2BrB0E) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 99 | [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/track/0I3XSj50a53Jm4bgCLKsan) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/album/20zDgmPugLaGTgXCMgU9oM) | 3:15 |
 | 100 | [LIBERTÀ](https://open.spotify.com/track/5FYBw3MoIwlTlsMKDO9Rve) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Re lucertola tiranna](https://open.spotify.com/album/6jr88gNttvHXfJdHpTDqfr) | 3:31 |
 
-Snapshot ID: `AAAAAChz9uiy7f9h/3UpqA8d5ByedGPM`
+Snapshot ID: `AAAAAFZbCxcg+3/XMb0GVqzq6wyK/9zU`

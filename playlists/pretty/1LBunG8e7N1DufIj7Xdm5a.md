@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,254 songs - 9 day 10 hr 27 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,257 songs - 9 day 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4262,5 +4262,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4252 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 |
 | 4253 | [Paper Crown](https://open.spotify.com/track/01LrJl6lx46YyYuCOru9hu) | [Woytinek AI Music](https://open.spotify.com/artist/6klSDm3TJW4K2iJgXhOShO) | [Paper Crown](https://open.spotify.com/album/3s25WkNElrzbzhIzNVZeYa) | 3:47 |
 | 4254 | [Дороги снегом замело](https://open.spotify.com/track/74xgU9bqvu9nbvzhkLmZkU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 2:59 |
+| 4255 | [Long Time Dead](https://open.spotify.com/track/0vWzjxded9A9cL1yuocuyR) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Death of the Party](https://open.spotify.com/album/5dBxgjLQ6wWiqyhSgChjDy) | 3:30 |
+| 4256 | [Just Breathe](https://open.spotify.com/track/4ZFyVxZB4l8NMeKZ6tUYEc) | [Filthy Deal](https://open.spotify.com/artist/4VKZGj2RRrPO9PoQ2YzeWn) | [Just Breathe](https://open.spotify.com/album/7uwplBXjgdX7lDVcnUkwjv) | 4:18 |
+| 4257 | [Nebulosas Grises](https://open.spotify.com/track/19PaaxUieiyfH1afIQm4FG) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 4:03 |
 
-Snapshot ID: `AAAIHaD0wM4LpK0DijH7r5gBGQQLfBzf`
+Snapshot ID: `AAAIIO9qGu1Ak6lxh6nZl+jcIMRW2f2s`

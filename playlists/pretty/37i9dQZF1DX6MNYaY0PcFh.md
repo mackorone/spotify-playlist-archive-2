@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Ghoulish
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,495 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,503 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 39 | [Jump Higher](https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [Jump Higher](https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw) | 2:56 |
 | 40 | [Swings](https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Swings](https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk) | 2:21 |
 | 41 | [Picking Up The Pace](https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Picking Up The Pace](https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547) | 2:58 |
-| 42 | [Sober](https://open.spotify.com/track/4rlEqGtM0PXoYjQKL2vPLB) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Sober](https://open.spotify.com/album/3tymonwB9JiWJPxypF6LAb) | 3:35 |
-| 43 | [Power](https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Power](https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm) | 3:14 |
+| 42 | [Power](https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Power](https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm) | 3:14 |
+| 43 | [Sober](https://open.spotify.com/track/4rlEqGtM0PXoYjQKL2vPLB) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Sober](https://open.spotify.com/album/3tymonwB9JiWJPxypF6LAb) | 3:35 |
 | 44 | [PM to AM](https://open.spotify.com/track/6xWjM20FtXnoc3cL3st4kC) | [Fish56Octagon](https://open.spotify.com/artist/46Ro78dkP2X0XUKmiovwL3), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [PM to AM](https://open.spotify.com/album/41T8EwgAIcKBF5a5TQBsh4) | 3:07 |
 | 45 | [Motion Sickness](https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Motion Sickness](https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8) | 3:20 |
 | 46 | [Blessings](https://open.spotify.com/track/4qhPIPQYiVBTac3t0LvnRs) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Sam Deeley](https://open.spotify.com/artist/39ua9laH0TKglA12ltoJrX) | [Blessings](https://open.spotify.com/album/4hqW4hFvE5noV2fOm1hwRy) | 3:58 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 66 | [Pied Piper 2025](https://open.spotify.com/track/3bXiZRRB49MxBlDBXrJtiX) | [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Ruff Sqwad](https://open.spotify.com/artist/67POQUr9E4V8GpQxqQ5d8I), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Pied Piper 2025](https://open.spotify.com/album/0suNaacL8fdCVMk5fYr3V6) | 2:16 |
 | 67 | [Welcome 2 LDN \(feat\. Flowdan\)](https://open.spotify.com/track/74yRHYEYFueRYYDriUFNIH) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Welcome 2 LDN \(feat\. Flowdan\)](https://open.spotify.com/album/08s53yPAoXtWg29VLYK8Ju) | 2:52 |
 | 68 | [All I Wanna Do](https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [All I Wanna Do](https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH) | 3:04 |
-| 69 | [Feels Like](https://open.spotify.com/track/0cpImIxbkCcaVJUiXzuYBU) | [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w), [Bebi](https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg) | [Feels Like](https://open.spotify.com/album/5khLbSpvHbBlBV4LBk29v3) | 3:23 |
+| 69 | [Better Me](https://open.spotify.com/track/4bojZve0xCpsRJNEzHf6Bv) | [Lug](https://open.spotify.com/artist/69gtMRCV4FBL9yKEHQyDhB) | [Better Me](https://open.spotify.com/album/6YWeyPk6ZiOHsBdAi0FuCK) | 2:24 |
 | 70 | [Dis Badman](https://open.spotify.com/track/67OlGJITLmRSqrFmI90Uc2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Dis Badman](https://open.spotify.com/album/7rWOE4qznyqy2eggc1jR91) | 2:49 |
 
 Snapshot ID: `AAAAAFQkLl2bj+mJ6Fyvt8AsInpIf+eq`

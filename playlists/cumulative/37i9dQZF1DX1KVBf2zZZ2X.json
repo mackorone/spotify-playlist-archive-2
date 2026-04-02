@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Aeolian",
+        "url": "https://open.spotify.com/album/5UfZsuUAgakVV1gRBUNxDX"
+      },
+      "artists": [
+        {
+          "name": "Qualeis",
+          "url": "https://open.spotify.com/artist/6HaHca1Dcrxamb4r1b0eig"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159422,
+      "name": "Aeolian",
+      "url": "https://open.spotify.com/track/5x2OsAflQhIXyAQ1zeTFII"
+    },
+    {
+      "album": {
         "name": "Aether",
         "url": "https://open.spotify.com/album/7qOQMolxJjgGrTavuA974Y"
       },
@@ -650,6 +668,24 @@
       "duration_ms": 171072,
       "name": "Before I Wake Up",
       "url": "https://open.spotify.com/track/1xGlmw5v4POLlk4NbifkWC"
+    },
+    {
+      "album": {
+        "name": "Benevolent",
+        "url": "https://open.spotify.com/album/41Mu0iwQolq2DhBo2VdAEP"
+      },
+      "artists": [
+        {
+          "name": "Waking Up Inside",
+          "url": "https://open.spotify.com/artist/2nFUQ65Yx9UWldBxOmBKlG"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144227,
+      "name": "Benevolent",
+      "url": "https://open.spotify.com/track/3Eq3PQV5GeqlmzqmcH1lJa"
     },
     {
       "album": {
@@ -1860,7 +1896,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 156000,
       "name": "Final Step",
       "url": "https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t"
@@ -4560,10 +4596,28 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 160000,
       "name": "Sailing Home",
       "url": "https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb"
+    },
+    {
+      "album": {
+        "name": "Saliva",
+        "url": "https://open.spotify.com/album/6q5WdUSmzP4MWsXnlXI4gE"
+      },
+      "artists": [
+        {
+          "name": "Quiet Tones",
+          "url": "https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130134,
+      "name": "Saliva",
+      "url": "https://open.spotify.com/track/5FzvjheRfr4uThMkG60JK6"
     },
     {
       "album": {
@@ -5316,7 +5370,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 161700,
       "name": "The God",
       "url": "https://open.spotify.com/track/0gLVe2ggbV7j5epUeTNo7Q"

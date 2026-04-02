@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 95222,
+  "num_followers": 95263,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acm9AAAAAAAIAvtWGukCUbKNfn9ZlD4B",
+  "snapshot_id": "acsOgAAAAAAD29qjWylLz0NmGpKo5z0w",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La 701",
+        "url": "https://open.spotify.com/album/00lwONC16IRZSXe2CBNDFr"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180101,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/5o6QIe2OCatBibTsNCZNoq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Cabez\u00f3n (El Papas Fritas)",
         "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 198321,
       "name": "Sorry Pa\u2019 Los Gabachos",
       "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La 701",
-        "url": "https://open.spotify.com/album/00lwONC16IRZSXe2CBNDFr"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180101,
-      "name": "La 701",
-      "url": "https://open.spotify.com/track/5o6QIe2OCatBibTsNCZNoq"
     },
     {
       "added_at": null,
@@ -819,6 +819,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Tostada CH",
+        "url": "https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        }
+      ],
+      "duration_ms": 243562,
+      "name": "La Tostada CH",
+      "url": "https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por El Bien De Los Dos",
         "url": "https://open.spotify.com/album/716TfM8cw7aevXpbBzHiWF"
       },
@@ -855,30 +879,6 @@
       "duration_ms": 240292,
       "name": "El Se\u00f1or De La Monta\u00f1a - Live",
       "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Tostada CH",
-        "url": "https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        }
-      ],
-      "duration_ms": 243562,
-      "name": "La Tostada CH",
-      "url": "https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7"
     },
     {
       "added_at": null,

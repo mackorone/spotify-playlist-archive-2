@@ -1,12 +1,12 @@
 {
   "description": "De beste tracks in WS\u2757\ufe0fCover: JayKoppig",
-  "num_followers": 708249,
+  "num_followers": 708244,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPvSOTeFSKem+IdIJaJzM+H7b7LD",
+  "snapshot_id": "AAAAAKmqPZXfYW2FQqvU2f2cZTkA1RUU",
   "tracks": [
     {
       "added_at": "2026-03-30 09:00:10",
@@ -63,6 +63,26 @@
     {
       "added_at": "2026-03-30 09:00:10",
       "album": {
+        "name": "Alleen Is Maar Alleen",
+        "url": "https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy"
+      },
+      "artists": [
+        {
+          "name": "Lusho",
+          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        }
+      ],
+      "duration_ms": 142073,
+      "name": "Alleen Is Maar Alleen",
+      "url": "https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz"
+    },
+    {
+      "added_at": "2026-03-30 09:00:10",
+      "album": {
         "name": "Ereronde",
         "url": "https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG"
       },
@@ -103,43 +123,7 @@
     {
       "added_at": "2026-03-30 09:00:10",
       "album": {
-        "name": "AMBIANCE",
-        "url": "https://open.spotify.com/album/0O24lyA2ujee85xnSXWHMk"
-      },
-      "artists": [
-        {
-          "name": "Bartofso",
-          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
-        }
-      ],
-      "duration_ms": 149825,
-      "name": "AMBIANCE",
-      "url": "https://open.spotify.com/track/7twLk6frSaHq0184G0nwi1"
-    },
-    {
-      "added_at": "2026-03-30 09:00:10",
-      "album": {
-        "name": "Alleen Is Maar Alleen",
-        "url": "https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy"
-      },
-      "artists": [
-        {
-          "name": "Lusho",
-          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
-        },
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        }
-      ],
-      "duration_ms": 142073,
-      "name": "Alleen Is Maar Alleen",
-      "url": "https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz"
-    },
-    {
-      "added_at": "2026-03-30 09:00:10",
-      "album": {
-        "name": "No Lie",
+        "name": "NO LIE",
         "url": "https://open.spotify.com/album/0Ew81HoM7PhRfftFXf7Qer"
       },
       "artists": [
@@ -157,8 +141,24 @@
         }
       ],
       "duration_ms": 174246,
-      "name": "No Lie",
+      "name": "NO LIE",
       "url": "https://open.spotify.com/track/4dCK5jjjWgEODJrdo0Joh1"
+    },
+    {
+      "added_at": "2026-03-30 09:00:10",
+      "album": {
+        "name": "AMBIANCE",
+        "url": "https://open.spotify.com/album/0O24lyA2ujee85xnSXWHMk"
+      },
+      "artists": [
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        }
+      ],
+      "duration_ms": 149825,
+      "name": "AMBIANCE",
+      "url": "https://open.spotify.com/track/7twLk6frSaHq0184G0nwi1"
     },
     {
       "added_at": "2026-03-30 09:00:10",

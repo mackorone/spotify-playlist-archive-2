@@ -4,7 +4,7 @@
 
 > I brani italiani di cui siamo ossessionati 😌 Fred De Palma, Anitta, Emis Killa in cover
 
-558 songs - 1 day 4 hr 49 min
+559 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Buio \(feat\. Giorgia\)](https://open.spotify.com/track/6NtsVuYgkSMDVuvA16IB5n) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Antologia Della Vita e Della Morte](https://open.spotify.com/album/7uHhBNrQ4PR4121dBMddIm) | 3:05 | 2025-10-20 | 2026-02-28 |
 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 | 2024-09-19 | 2025-06-20 |
 | [Buon trasloco](https://open.spotify.com/track/3QLMlVX2QydtebrLV5vK2G) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA \(SEMPRE\)](https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f) | 4:20 | 2025-09-29 | 2025-11-21 |
+| [BUONA DOMENICA](https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BUONA DOMENICA](https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn) | 3:07 | 2026-04-01 |  |
 | [CABARET](https://open.spotify.com/track/3gY37Od3abC7qOZoWHbsur) | [Orietta Berti](https://open.spotify.com/artist/6W7O7oseXcbYLoiarQrpOw), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E), [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [CABARET](https://open.spotify.com/album/7ysUidKVotdITc3h65MTAa) | 2:57 | 2025-06-26 | 2025-08-15 |
 | [CAMMINARE SULLA LUNA](https://open.spotify.com/track/4Jb9NiMfsPe7NYFDoxng1f) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CAMMINARE SULLA LUNA](https://open.spotify.com/album/5I9j5PL0wEYpQLHNkjFmU5) | 3:11 | 2024-07-01 | 2024-09-24 |
 | [CANI RANDAGI](https://open.spotify.com/track/2m3Xb1dRie5ub8L2x1A6BL) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CANI RANDAGI](https://open.spotify.com/album/6nbm2pPp2oO6G5TB8rGewU) | 2:54 | 2025-04-10 | 2025-05-09 |
@@ -470,7 +471,7 @@
 | [So solo che la vita \- BROOKLYN STUDIO, JOVA SESSION 25](https://open.spotify.com/track/3AVEw03BGM4BNkZw3NF4b5) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Felipe Hostins](https://open.spotify.com/artist/1vlfzNlLn3rXrjJSRgePaZ), [Gil Oliveira](https://open.spotify.com/artist/4WzM6Gecf7v0KIleqGSOFf), [Ronaldo Andrade](https://open.spotify.com/artist/6oflQtm7jm8KVSaMuikjPT) | [NIUIORCHERUBINI \(BROOKLYN STUDIO, JOVA SESSION 25\)](https://open.spotify.com/album/71ydkx8VLeUKNxwcwImstY) | 5:00 | 2025-12-11 |  |
 | [So What](https://open.spotify.com/track/2SBKzqeS4JBGoUwGWdlIEj) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [So What](https://open.spotify.com/album/1wyODxvIhnI7vxS8BPksbC) | 2:32 | 2025-06-19 | 2025-08-15 |
 | [SOLA \(TI AMO\)](https://open.spotify.com/track/5tQtxkxCwLsJAhWZ3K8JQ5) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [SOLA \(TI AMO\)](https://open.spotify.com/album/1Xizf3rtH6J1aLvfleJTm8) | 2:56 | 2025-09-11 | 2025-11-14 |
-| [Sola tra le nuvole](https://open.spotify.com/track/1ymFUjTSxfAyPGlx1YrfSv) | [Roshelle](https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt) | [Sola tra le nuvole](https://open.spotify.com/album/51J9ti5vtDQtbo5Bg01KN7) | 2:49 | 2026-03-12 |  |
+| [Sola tra le nuvole](https://open.spotify.com/track/1ymFUjTSxfAyPGlx1YrfSv) | [Roshelle](https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt) | [Sola tra le nuvole](https://open.spotify.com/album/51J9ti5vtDQtbo5Bg01KN7) | 2:49 | 2026-03-12 | 2026-04-02 |
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-07-01 | 2024-09-27 |
 | [Solo se sbagli \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/2ihva8k3wxg1gg1kKFTq92) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [FREE LOVE](https://open.spotify.com/album/0Cq38Zz480QZY50o7XwSJS) | 3:54 | 2024-11-21 | 2025-01-17 |
 | [SONO BLU](https://open.spotify.com/track/4caBLRi9o5CexrsVuCbWmD) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [SONO BLU](https://open.spotify.com/album/3vS9GJ4WL21L3lnY5LHdSm) | 4:06 | 2025-12-18 | 2025-12-30 |

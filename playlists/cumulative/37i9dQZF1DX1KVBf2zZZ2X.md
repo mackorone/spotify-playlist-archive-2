@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-340 songs - 15 hr 51 min
+343 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Above all](https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L) | [Henrietta Patrick](https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0) | [Above all](https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP) | 2:24 | 2023-03-03 | 2025-06-12 |
 | [Above The Sea](https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY) | [Hans Westerström](https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe) | [Above The Sea](https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh) | 2:14 | 2023-04-13 | 2024-08-24 |
 | [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 | 2023-03-03 | 2025-06-17 |
+| [Aeolian](https://open.spotify.com/track/5x2OsAflQhIXyAQ1zeTFII) | [Qualeis](https://open.spotify.com/artist/6HaHca1Dcrxamb4r1b0eig) | [Aeolian](https://open.spotify.com/album/5UfZsuUAgakVV1gRBUNxDX) | 2:39 | 2026-03-20 |  |
 | [Aether](https://open.spotify.com/track/5XHnc4P6NEETRROlkGBwPK) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Aether](https://open.spotify.com/album/7qOQMolxJjgGrTavuA974Y) | 3:08 | 2026-03-20 |  |
 | [Agua Tranquila](https://open.spotify.com/track/3r2R9yM9lvWgZic3lnRBnn) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Agua Tranquila](https://open.spotify.com/album/24ExySexC5pNcLuEiGMnVp) | 2:57 | 2026-03-20 |  |
 | [Alba Interior](https://open.spotify.com/track/6CucfbV9cRorFGJsxvawjW) | [Ambientis](https://open.spotify.com/artist/1d6rZsRCqd4bX8i1mpC5Eg) | [Alba Interior](https://open.spotify.com/album/3kKKSiPrL6WReIc6UfZITH) | 2:35 | 2025-12-03 | 2026-03-21 |
@@ -44,6 +45,7 @@
 | [Bayou](https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:39 | 2023-03-03 | 2025-04-19 |
 | [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 | 2023-10-26 | 2026-03-25 |
 | [Before I Wake Up](https://open.spotify.com/track/1xGlmw5v4POLlk4NbifkWC) | [Oline Kleist](https://open.spotify.com/artist/2HpjQO0r6XkIRCC6UE9AgS) | [Before I Wake Up](https://open.spotify.com/album/6Om4dd5U9FDfdaqPWbfpzU) | 2:51 | 2023-03-03 | 2024-03-21 |
+| [Benevolent](https://open.spotify.com/track/3Eq3PQV5GeqlmzqmcH1lJa) | [Waking Up Inside](https://open.spotify.com/artist/2nFUQ65Yx9UWldBxOmBKlG) | [Benevolent](https://open.spotify.com/album/41Mu0iwQolq2DhBo2VdAEP) | 2:24 | 2026-03-20 |  |
 | [Berolige](https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Berolige](https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF) | 2:36 | 2024-04-01 | 2025-06-12 |
 | [Beyond the Trees](https://open.spotify.com/track/14fQdcdoIkXx0Xdga2hFOZ) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Beyond the Trees](https://open.spotify.com/album/5k8Ca0yBwHEoHlyqGRHPkN) | 2:25 | 2026-03-20 |  |
 | [Birds of Lydia](https://open.spotify.com/track/0zBQMEzF6difdESPGXREV4) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Birds of Lydia](https://open.spotify.com/album/4x9TbSI7FAwZlBLJ8NU1PC) | 3:16 | 2025-06-11 |  |
@@ -110,7 +112,7 @@
 | [Evening meditation](https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Evening meditation](https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u) | 2:09 | 2023-07-21 | 2025-10-19 |
 | [Far Away](https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Far Away](https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK) | 2:49 | 2025-05-16 |  |
 | [Fethgar](https://open.spotify.com/track/3yZmhuvcDfAE1jHKYe3aov) | [Næturkall](https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb) | [Fethgar](https://open.spotify.com/album/69XqY6lqmzx9K1lOTkHhez) | 2:15 | 2026-03-20 |  |
-| [Final Step](https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Final Step](https://open.spotify.com/album/2WHUbVbpqZEs7MvZi5Xa8r) | 2:36 | 2024-08-23 |  |
+| [Final Step](https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Final Step](https://open.spotify.com/album/2WHUbVbpqZEs7MvZi5Xa8r) | 2:36 | 2024-08-23 | 2026-04-02 |
 | [First And Foremost](https://open.spotify.com/track/7gZ40dl8LTUpm3cW8pjpZ2) | [Amaury Arceneaux](https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp) | [First And Foremost](https://open.spotify.com/album/1CCpDBjJQFPzi2DmfoZpGZ) | 3:01 | 2024-06-03 | 2025-06-12 |
 | [Flod](https://open.spotify.com/track/2WniKdcdwp2nsEz22BpsgM) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Flod](https://open.spotify.com/album/3X1AMeGSmFecsjCrPQasc5) | 2:42 | 2025-02-21 |  |
 | [Floe](https://open.spotify.com/track/2mdsmyXRZGdzogMfDmTnf4) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Floe](https://open.spotify.com/album/7KeNkCZ64bAfBaRXgUa0IU) | 2:40 | 2026-03-20 |  |
@@ -260,7 +262,8 @@
 | [Sacred](https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Sacred](https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3) | 2:29 | 2023-09-12 | 2025-06-12 |
 | [Sacred Stream](https://open.spotify.com/track/1ryiF2CZT5mY4rVWht2TE8) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Sacred Stream](https://open.spotify.com/album/1C3Fzh0jihB8N5gHfofEHm) | 2:38 | 2026-03-20 |  |
 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 | 2023-03-03 | 2024-06-04 |
-| [Sailing Home](https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Sailing Home](https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F) | 2:40 | 2024-10-01 |  |
+| [Sailing Home](https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Sailing Home](https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F) | 2:40 | 2024-10-01 | 2026-04-02 |
+| [Saliva](https://open.spotify.com/track/5FzvjheRfr4uThMkG60JK6) | [Quiet Tones](https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z) | [Saliva](https://open.spotify.com/album/6q5WdUSmzP4MWsXnlXI4gE) | 2:10 | 2026-03-20 |  |
 | [Sanctuary](https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Sanctuary](https://open.spotify.com/album/1Mm91Huwj8XSwn2Z6IqarA) | 3:03 | 2025-06-11 |  |
 | [Scots Pine](https://open.spotify.com/track/2Ch4DARTYZSOHgK8yq9e7h) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Scots Pine](https://open.spotify.com/album/30XzQtgzdmpr23G81JvMFJ) | 2:51 | 2025-02-21 | 2025-06-12 |
 | [Searching](https://open.spotify.com/track/3XXlcpXxipgbGjHgL0lVIc) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Searching](https://open.spotify.com/album/4hRsLzpykyNTN2HhzpjSqZ) | 2:32 | 2026-03-20 |  |
@@ -302,7 +305,7 @@
 | [The Breathing Woods](https://open.spotify.com/track/72xNutGVljPsyIjn0GiODR) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Live from Nature](https://open.spotify.com/album/7LZsm151E7Nj3W74AIsw9p) | 2:13 | 2025-09-24 |  |
 | [The Darker Hours](https://open.spotify.com/track/0OF3sk5xugBzmJnE20Pm3U) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [The Darker Hours](https://open.spotify.com/album/2tgnfOPTnXWqRgwiTxwgtT) | 2:59 | 2023-03-03 | 2024-09-05 |
 | [The Garden](https://open.spotify.com/track/3nJvNFOPUn4lIO7BO0XNKp) | [Juno Yang](https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP) | [The Garden](https://open.spotify.com/album/5LWRyizaBPnEsDo3etMFQF) | 2:30 | 2024-02-06 | 2025-01-16 |
-| [The God](https://open.spotify.com/track/0gLVe2ggbV7j5epUeTNo7Q) | [Liam Callahan](https://open.spotify.com/artist/0S7H10WFzeRISS2m79iSCs) | [The God](https://open.spotify.com/album/6MvwsVG013BwEyygjQXcmZ) | 2:41 | 2025-09-24 |  |
+| [The God](https://open.spotify.com/track/0gLVe2ggbV7j5epUeTNo7Q) | [Liam Callahan](https://open.spotify.com/artist/0S7H10WFzeRISS2m79iSCs) | [The God](https://open.spotify.com/album/6MvwsVG013BwEyygjQXcmZ) | 2:41 | 2025-09-24 | 2026-04-02 |
 | [The Golden Path](https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn) | [Salome Azul](https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j) | [The Golden Path](https://open.spotify.com/album/2gFNaNjUKztfUjenabaluq) | 2:14 | 2025-05-16 | 2026-03-23 |
 | [The Golden Willow](https://open.spotify.com/track/7H4vDTB3gLpuSZAmDdMFbA) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [The Golden Willow](https://open.spotify.com/album/7f6XwQ54is0lkfZkLpeyT0) | 2:38 | 2025-09-24 |  |
 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 | 2023-03-03 | 2024-03-21 |

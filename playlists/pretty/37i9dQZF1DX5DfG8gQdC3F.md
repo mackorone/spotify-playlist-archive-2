@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from RAYE, Miley Cyrus, Jessie Reyez, Cameron Whitcomb, Yeat and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,401 likes - 99 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,376 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 46 | [not my day](https://open.spotify.com/track/2za2pSt3gmetP4PJnT66ZX) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [not my day](https://open.spotify.com/album/6BoM7AhD4zh4zqpWcI2etW) | 2:32 |
 | 47 | [Czar](https://open.spotify.com/track/3x9BOAuKmbUe4USO94ylkR) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Event Beat](https://open.spotify.com/album/19KaA3UhzARh3LJRfNh8Ru) | 3:36 |
 | 48 | [House of Mirrors](https://open.spotify.com/track/1OztfHjlH6Li4OgmRSEnFq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [House of Mirrors](https://open.spotify.com/album/2TvD2HKK2vXZjAD67KDQkU) | 3:21 |
-| 49 | [SOS](https://open.spotify.com/track/2plxZbunq262aPivPjURsw) | [DAWN PATROL](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SOS](https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ) | 2:49 |
+| 49 | [SOS](https://open.spotify.com/track/2plxZbunq262aPivPjURsw) | [PARTY WAVE](https://open.spotify.com/artist/5MOUpRLvK6boZ3J5av1YK9), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SOS](https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ) | 2:49 |
 | 50 | [You Mad](https://open.spotify.com/track/5R7XiF3Wgn2nE2zhYSvdig) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Boiling Point](https://open.spotify.com/album/749xM3zGRzzipjewrRzTfW) | 2:13 |
 | 51 | [Deep Blue](https://open.spotify.com/track/19z7vqa3x0LOGPCFRIv6QF) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Deep Blue](https://open.spotify.com/album/6yjMAa5hW9tTXxwKZTBfa6) | 3:17 |
 | 52 | [Abyss](https://open.spotify.com/track/1HDl1oOVvhqf5VU6qwVGaI) | [Wintersleep](https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE) | [Wishing Moon](https://open.spotify.com/album/2AdUlZJGxNEI6HJpsspGVl) | 4:29 |

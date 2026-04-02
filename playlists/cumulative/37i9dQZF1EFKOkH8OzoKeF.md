@@ -84,7 +84,7 @@
 | [Truth Be Told](https://open.spotify.com/track/7mpW9yeKKvqpPiiY8ULkHC) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Demental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1pmeZveXB2zkonPzgnEc5w) | 3:22 | 2024-09-05 |  |
 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 | 2024-09-05 |  |
 | [Umbra](https://open.spotify.com/track/5vDGcHnXRCvpqM4mj3kOUA) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [En Mis Manos](https://open.spotify.com/album/6Rp5gFJUjiic83ISWLGVse) | 3:31 | 2024-09-05 |  |
-| [Valientes](https://open.spotify.com/track/7Fyobg4Z7w4IWA36f8Sx0G) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:14 | 2024-09-05 |  |
+| [Valientes](https://open.spotify.com/track/7Fyobg4Z7w4IWA36f8Sx0G) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:14 | 2024-09-05 |  |
 | [Volta](https://open.spotify.com/track/042ocJck7MXW1HInHadbHn) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Volta](https://open.spotify.com/album/3aYfW5iW2dAxlwi3nln1ts) | 2:32 | 2024-09-05 |  |
 | [You're Not Alone](https://open.spotify.com/track/3RgHmFnsPI985XixiYTQLU) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Demental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1pmeZveXB2zkonPzgnEc5w) | 1:00 | 2024-09-05 |  |
 

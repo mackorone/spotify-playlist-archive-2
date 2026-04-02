@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > más es más\. Orestes Gomez lo sabe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,862 likes - 38 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,866 likes - 38 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 32 | [Musas en Mi](https://open.spotify.com/track/1Wy9BgkHPhXWRTqvaQYew2) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ) | 5:34 |
 | 33 | [Soledad \- feat\. Damon Albarn, Luisa Almaguer, Nick Zinner, Seye Adelekan, Joan as Police Woman & Mexican Institute of Sound](https://open.spotify.com/track/1buZTsPr3b9ybj2nfky7w2) | [Africa Express](https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Nick Zinner](https://open.spotify.com/artist/2skDtpQeOI6zjRWIT3iFkO), [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj), [Seye Adelekan](https://open.spotify.com/artist/3Xr80iKgYbhiiA5XuJPeK5) | [Soledad \(feat\. Damon Albarn, Luisa Almaguer, Nick Zinner, Seye Adelekan, Joan as Police Woman & Mexican Institute of Sound\)](https://open.spotify.com/album/162Jm4lxbhUIBoaWLkrYFl) | 3:22 |
 | 34 | [Tomás](https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Tomás](https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c) | 3:02 |
-| 35 | [KHE CALOR](https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [KHE CALOR](https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M) | 2:06 |
+| 35 | [KHE CALOR](https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [KHE CALOR](https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M) | 2:06 |
 | 36 | [Sasuke](https://open.spotify.com/track/0cZ2zKa5snN1jkZQl23KpG) | [Alanis Yuki](https://open.spotify.com/artist/78wDefnHex943QL32ggbx6) | [Veintidos](https://open.spotify.com/album/4SnrFpk9IbaFNIJTm2BM4r) | 2:31 |
 | 37 | [\#TULTEPEK](https://open.spotify.com/track/74J5MNoWwQ2MqmxQmBYdaI) | [Freddy Moreno](https://open.spotify.com/artist/2kLRl0AbP8D7Fqyohb0Shf), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c), [fafabian](https://open.spotify.com/artist/2vIFPryJv3KupiT13m7Q0n) | [\#TULTEPEK](https://open.spotify.com/album/5ihrpu57F6zJyLUDsl42Zj) | 2:56 |
 | 38 | [DELE ALLI](https://open.spotify.com/track/55A46qxhcumJ9I6MXU1YWC) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH) | [LOS CHICOS DEL NORTE](https://open.spotify.com/album/6qbPsvUX9w5CYvNT55hi8m) | 2:19 |

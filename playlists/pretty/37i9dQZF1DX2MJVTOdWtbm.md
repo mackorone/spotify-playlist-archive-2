@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: Rubí & BASSYY
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,228 likes - 155 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,241 likes - 155 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 13 | [LSD](https://open.spotify.com/track/6AylrcxYqf27t4oBoebe1n) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [LSD](https://open.spotify.com/album/2Y4Vf5qdz1G5LYi6Xk9oum) | 3:27 |
 | 14 | [QUIZÁS MAÑANA](https://open.spotify.com/track/0crP3v17JrpVymbFiHTsdN) | [Lil Yuppi](https://open.spotify.com/artist/5p1u87P75yZtf02j7yWWPj), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [QUIZÁS MAÑANA](https://open.spotify.com/album/6Wx3bangIG31JCxMH6pVZw) | 3:00 |
 | 15 | [Desvelado](https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Desvelado](https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr) | 2:54 |
-| 16 | [Rico](https://open.spotify.com/track/43xojBCuvMdcCFA0puNGWC) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Rico](https://open.spotify.com/album/1HYYqRPtdWQ3kZ8PjUnSM5) | 3:14 |
+| 16 | [Rico](https://open.spotify.com/track/43xojBCuvMdcCFA0puNGWC) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Rafa Pabón](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Rico](https://open.spotify.com/album/1HYYqRPtdWQ3kZ8PjUnSM5) | 3:14 |
 | 17 | [SiNKRONiZAMOS](https://open.spotify.com/track/606P7BzQuVQ2C0rnG7u66E) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 3:19 |
 | 18 | [El Pleito](https://open.spotify.com/track/0XeXxOnOcrvXaiCC3HP47v) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [El Pleito](https://open.spotify.com/album/0mdUsF3JtX2KFRfb0dnNPE) | 2:34 |
 | 19 | [5 Pa Las 12](https://open.spotify.com/track/7L0pCzg4LmOxcPyk554aTa) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Sr\. Santos II Sueños de Grandeza](https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9) | 3:55 |

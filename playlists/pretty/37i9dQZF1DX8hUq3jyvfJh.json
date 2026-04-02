@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 192233,
+  "num_followers": 192246,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
+        "name": "Afim De Ver\u00e3o",
+        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 300567,
+      "name": "Afim De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
         "name": "Xote Destino",
         "url": "https://open.spotify.com/album/48k0NmZpRSAlrqgcMeFHbn"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 262466,
       "name": "Tatuagem",
       "url": "https://open.spotify.com/track/2vmXFXcr44JSrZ1MpgWLRa"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
-        "name": "Afim De Ver\u00e3o",
-        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 300567,
-      "name": "Afim De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "BEM VINDOS DE VOLTA",
-        "url": "https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "MAPA MUNDI",
-      "url": "https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Sambas de Noel Rosa",
         "url": "https://open.spotify.com/album/4GBnrfMHbLji4DcNelwuFR"
       },
@@ -607,22 +591,18 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "L\u00e1 Vem Voc\u00ea",
-        "url": "https://open.spotify.com/album/0dSPkm4Rd4YwrMt8f75yiv"
+        "name": "BEM VINDOS DE VOLTA",
+        "url": "https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr"
       },
       "artists": [
         {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        },
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 145130,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/3zzcfYi62uc81Vkoc89kbD"
+      "duration_ms": 268000,
+      "name": "MAPA MUNDI",
+      "url": "https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -639,6 +619,26 @@
       "duration_ms": 259953,
       "name": "Ter Filhos Fortes",
       "url": "https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "L\u00e1 Vem Voc\u00ea",
+        "url": "https://open.spotify.com/album/0dSPkm4Rd4YwrMt8f75yiv"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        },
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 145130,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/3zzcfYi62uc81Vkoc89kbD"
     },
     {
       "added_at": "2026-04-01 03:00:06",

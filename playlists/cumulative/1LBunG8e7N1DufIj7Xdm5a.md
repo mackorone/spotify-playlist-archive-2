@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,194 songs - 9 day 7 hr 25 min
+4,197 songs - 9 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1924,6 +1924,7 @@
 | [Jungle](https://open.spotify.com/track/5c9XxAxM8GEdHzla1YnldA) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:49 | 2025-08-20 |  |
 | [Jungle \(another\)](https://open.spotify.com/track/2kSFzWf68su901AxIveduc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 2:31 | 2025-08-20 |  |
 | [Junto a mis dedos](https://open.spotify.com/track/2qWrXyAixAEfyvFDa3b3NG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:50 | 2026-03-15 |  |
+| [Just Breathe](https://open.spotify.com/track/4ZFyVxZB4l8NMeKZ6tUYEc) | [Filthy Deal](https://open.spotify.com/artist/4VKZGj2RRrPO9PoQ2YzeWn) | [Just Breathe](https://open.spotify.com/album/7uwplBXjgdX7lDVcnUkwjv) | 4:18 | 2026-04-01 |  |
 | [Just for Andria](https://open.spotify.com/track/5DzCJJOZBxoWswf65wxr7s) | [Dark King](https://open.spotify.com/artist/5dzP6McjdagUikp6JCsq0t) | [Just for Andria](https://open.spotify.com/album/6uoQdMzgrfTFEvOyVnNrt4) | 2:48 | 2025-06-29 |  |
 | [just hit a jugg](https://open.spotify.com/track/59rUAYNrN9PUVhs3YTRctV) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [just hit a jugg](https://open.spotify.com/album/7l4KjCqSzWOItEDJF5FKXT) | 1:36 | 2025-10-14 |  |
 | [Just Human](https://open.spotify.com/track/7mZ4brZqkAI08vy4N2up7S) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Just Human](https://open.spotify.com/album/7gCOnjUhcrGZotRhbydePn) | 3:46 | 2025-02-13 |  |
@@ -2144,6 +2145,7 @@
 | [Lonely Road Blues \(another\)](https://open.spotify.com/track/4XMwC3JGTiSvRw2R7B2WvV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop Blues](https://open.spotify.com/album/1jO4P3dNnDAqdLsZrs1XWM) | 2:57 | 2025-09-19 |  |
 | [Lonely Streets](https://open.spotify.com/track/0FMInxSMPhiQxeX3un9lYK) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 3:03 | 2025-09-18 |  |
 | [Lonely Streets \(another\)](https://open.spotify.com/track/1ziRelYdSJDOIb6K63otGw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 3:24 | 2025-05-27 |  |
+| [Long Time Dead](https://open.spotify.com/track/0vWzjxded9A9cL1yuocuyR) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Death of the Party](https://open.spotify.com/album/5dBxgjLQ6wWiqyhSgChjDy) | 3:30 | 2026-04-01 |  |
 | [Looking Beyond the Surface](https://open.spotify.com/track/5LROmnDhneSItYePVZgSJG) | [Glasess](https://open.spotify.com/artist/04jFeoskw4vFWX6asrVMn4) | [Looking Beyond the Surface](https://open.spotify.com/album/4ZpWvOWEbE24mLc3nTrE4C) | 3:06 | 2025-06-04 |  |
 | [Looking for a Home](https://open.spotify.com/track/3kkgfzAg1Mgmo8VD2E1GdM) | [Raging Depths](https://open.spotify.com/artist/4Lkiay1vShJkvVFAWHQbQX) | [Looking for a Home](https://open.spotify.com/album/4u4dXS2eniKX6Djd5dAvgW) | 3:47 | 2025-12-15 |  |
 | [Looking Forward](https://open.spotify.com/track/55MotGDpdt4EIhFJHeC2My) | [Wingfish](https://open.spotify.com/artist/3DjzJDs4wgf6jxZEYaeRBd) | [Looking Forward](https://open.spotify.com/album/4n2R4oGRw4cctmM8GbdgYg) | 3:44 | 2025-08-23 |  |
@@ -2441,6 +2443,7 @@
 | [Ne on night](https://open.spotify.com/track/63yd1EqhJFk8gR9lHYiYLs) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 2:54 | 2025-09-17 |  |
 | [Ne on night \(another\)](https://open.spotify.com/track/5PvQKIAmYlF2fsd8c0u4YD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 2:29 | 2025-09-17 |  |
 | [Nearly](https://open.spotify.com/track/6WHHgoAd10bw5IbFnN8qlh) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Nearly](https://open.spotify.com/album/1dIiqllQ1DmyJ6nb7xSzXu) | 4:30 | 2023-09-12 |  |
+| [Nebulosas Grises](https://open.spotify.com/track/19PaaxUieiyfH1afIQm4FG) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 4:03 | 2026-04-01 |  |
 | [Need to Feed](https://open.spotify.com/track/0cwXbFCjC4frtFtFPT3Tn9) | [Die Tired](https://open.spotify.com/artist/3u85MmjA5iOpAtvZPWyus2) | [Need to Feed](https://open.spotify.com/album/0vK8rnqE191FvPVPWVm80U) | 4:08 | 2025-06-24 |  |
 | [Nei pensieri miei](https://open.spotify.com/track/382zVgLYBbrxUkkaLLpN8h) | [SAL](https://open.spotify.com/artist/5ZyXPigN7RUixWEPeXAFFh) | [Nei pensieri miei](https://open.spotify.com/album/4Ni5p7Ju2msU6nTAnjyXrn) | 3:22 | 2025-06-27 |  |
 | [Nel circo dell'illusione](https://open.spotify.com/track/3Yt8fQukCYFRg3CHcxV1eu) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [Nel circo dell'illusione](https://open.spotify.com/album/4sLpR1wBxNukWPLWvRY6U5) | 3:36 | 2025-08-20 |  |

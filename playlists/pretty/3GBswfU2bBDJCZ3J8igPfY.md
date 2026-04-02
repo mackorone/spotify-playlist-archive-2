@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3GBswfU2bBDJCZ3J8igPfY.md) - [plain]
 
 > Music for getting ready to go to the beach and having the most fun in the sun.​
 
-[good2grow](https://open.spotify.com/user/31iatkxgk4p5yowgkilqnbiykjde) - 42 likes - 54 songs - 3 hr 10 min
+[good2grow](https://open.spotify.com/user/31iatkxgk4p5yowgkilqnbiykjde) - 43 likes - 54 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

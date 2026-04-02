@@ -4,7 +4,7 @@
 
 > This is Christina Vantzou\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 47 min
+58 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Adversary](https://open.spotify.com/track/5vpIknqvBAu3UUmZtImOOx) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 1](https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD) | 7:35 | 2026-03-27 |  |
 | [And Instantly Take Effect](https://open.spotify.com/track/3jCxGUOiUPbTIo6dVekl1H) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 1](https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD) | 7:04 | 2026-03-30 | 2026-03-31 |
 | [Anna Mae](https://open.spotify.com/track/23khR4I3r7OUNfWOpBnzzR) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 2](https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby) | 2:21 | 2026-03-27 |  |
-| [Arp](https://open.spotify.com/track/0lE0PBMsq6PpUItdQJIrBC) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 2](https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby) | 1:50 | 2026-03-27 |  |
+| [Arp](https://open.spotify.com/track/0lE0PBMsq6PpUItdQJIrBC) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 2](https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby) | 1:50 | 2026-03-27 | 2026-04-02 |
 | [At Dawn](https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 2:50 | 2026-03-27 |  |
 | [Brain Fog](https://open.spotify.com/track/4LIkDeZ5VvHtoYbTtfnYHu) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 2](https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby) | 3:33 | 2026-03-31 |  |
 | [CV](https://open.spotify.com/track/0PoBZcWm6tmJbKvvRGQMOh) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 3](https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia) | 6:06 | 2026-03-27 | 2026-03-29 |
@@ -61,6 +61,7 @@
 | [Tilang](https://open.spotify.com/track/0jkFjV9oAF5rnw85SQNakB) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Michael Harrison](https://open.spotify.com/artist/09b9oXw3X9LhhKA8GJsMDT), [John Also Bennett](https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk) | [Christina Vantzou, Michael Harrison and John Also Bennett](https://open.spotify.com/album/1gGeFnXsboBj17KDg0Iqfi) | 8:41 | 2026-03-27 |  |
 | [Tongue Shaped Rock](https://open.spotify.com/track/4Sb6iUxcBR9rvcCRmozowE) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Holland Andrews](https://open.spotify.com/artist/1J6SJabt5gQLn1mpQ0zp4g), [Lieselot de Wilde](https://open.spotify.com/artist/1Kl1WpZOpVYsySdBdH9TDR), [John Also Bennett](https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk), [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [No\. 5](https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk) | 3:22 | 2026-03-27 |  |
 | [Valley Drone](https://open.spotify.com/track/7Cfj1CFahs2boKhte7NeFT) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 3](https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia) | 5:30 | 2026-03-27 |  |
+| [Vancouver Island Quartet](https://open.spotify.com/track/4S8IPAhjIxeYdJl6mDmGIp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 2](https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby) | 3:31 | 2026-04-02 |  |
 | [Vostok](https://open.spotify.com/track/3iaMERxETB328X4iiCYMJj) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 2](https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby) | 1:58 | 2026-03-27 | 2026-03-31 |
 | [Wild Beast Research](https://open.spotify.com/track/2K9DjzPT0XgqMtX7jaywge) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Multi Natural](https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh) | 1:39 | 2026-03-27 |  |
 | [Your Changes Have Been Submitted](https://open.spotify.com/track/14ZvL9Wc06Rw6MMyZxJnIu) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 1](https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD) | 1:43 | 2026-03-27 |  |

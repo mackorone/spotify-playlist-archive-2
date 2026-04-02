@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,298 songs - 3 day 7 hr 31 min
+1,299 songs - 3 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,6 +827,7 @@
 | [Parking Lots](https://open.spotify.com/track/3MGkU9iwnb6ziAcPul5dSv) | [Plums](https://open.spotify.com/artist/0sPK0NZQ44Z8KhGxCOvEG9) | [Jen](https://open.spotify.com/album/0MFwZxIEntjxluL5ImudMf) | 3:26 | 2020-05-12 |  |
 | [Past Life](https://open.spotify.com/track/4a9fW33mYR8LhXBOLUhbfF) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:48 | 2022-04-19 |  |
 | [Past Won't Leave My Bed](https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/3WVLl7wbF8oNra7oMZ62Ta) | 2:46 | 2025-12-02 |  |
+| [Pattern](https://open.spotify.com/track/0kA5wK89nsYHQ22UKzcFGv) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 4:15 | 2026-04-02 |  |
 | [Peach Pit](https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Sweet FA](https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP) | 4:47 | 2022-05-23 |  |
 | [People Pleaser \(feat\. Guapdad 4000\)](https://open.spotify.com/track/6BXM0vDgpfYzPe02lJ5Kfu) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 3:22 | 2021-05-31 |  |
 | [Pepsi on the House](https://open.spotify.com/track/2zFfWkjDH9WPvClmhqdCea) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 3:01 | 2022-03-04 |  |

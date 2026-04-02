@@ -4,7 +4,7 @@
 
 > This is X\-Ray Spex\. The essential tracks, all in one playlist.
 
-16 songs - 43 min 58 sec
+17 songs - 47 min 2 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [I'm a Cliche \- Live](https://open.spotify.com/track/3tKMHQ3AvkLKLctt82h0ga) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Rotten to the Core: The Early Punk Years \(Live\)](https://open.spotify.com/album/52Z36PbeiwRBII7ZT59nD0) | 1:45 | 2026-03-07 |  |
 | [Identity](https://open.spotify.com/track/7oMsD1x3pV1nLm26p8Q914) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 2:25 | 2026-03-07 |  |
 | [Junk Food Junkie](https://open.spotify.com/track/11ciu5NrdW7DMp4dezYlkF) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 3:22 | 2026-03-07 |  |
-| [Oh Bondage, Up Yours!](https://open.spotify.com/track/18WswjCcjs3vmz4qWNOrSC) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Never Trust A Hippy \(Punk & New Wave '76 \- '79\)](https://open.spotify.com/album/3jnQzZuyVOAgtlHWlTST1W) | 2:49 | 2026-03-07 |  |
+| [Oh Bondage Up Yours! \- Live](https://open.spotify.com/track/4HUqWnn2pbzmGfvDSdZI9y) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Live @ The Roundhouse London 2008](https://open.spotify.com/album/03w7mZ3poTfSzDw70vcbtV) | 3:04 | 2026-04-02 |  |
+| [Oh Bondage, Up Yours!](https://open.spotify.com/track/18WswjCcjs3vmz4qWNOrSC) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Never Trust A Hippy \(Punk & New Wave '76 \- '79\)](https://open.spotify.com/album/3jnQzZuyVOAgtlHWlTST1W) | 2:49 | 2026-03-07 | 2026-04-02 |
 | [Party](https://open.spotify.com/track/3AekeEt7Fn2erIUo1YoOQa) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:48 | 2026-03-07 |  |
 | [Peace Meal](https://open.spotify.com/track/1yVF4IbeaoBWg3YgBLd4N9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:31 | 2026-03-07 |  |
 | [The Day the World Turned Day\-Glo](https://open.spotify.com/track/0rccdaligaDK8URad52GZG) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 2:52 | 2026-03-07 |  |

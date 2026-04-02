@@ -35069,6 +35069,24 @@
     },
     {
       "album": {
+        "name": "Just Breathe",
+        "url": "https://open.spotify.com/album/7uwplBXjgdX7lDVcnUkwjv"
+      },
+      "artists": [
+        {
+          "name": "Filthy Deal",
+          "url": "https://open.spotify.com/artist/4VKZGj2RRrPO9PoQ2YzeWn"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Just Breathe",
+      "url": "https://open.spotify.com/track/4ZFyVxZB4l8NMeKZ6tUYEc"
+    },
+    {
+      "album": {
         "name": "Just for Andria",
         "url": "https://open.spotify.com/album/6uoQdMzgrfTFEvOyVnNrt4"
       },
@@ -39186,6 +39204,24 @@
       "duration_ms": 204080,
       "name": "Lonely Streets (another)",
       "url": "https://open.spotify.com/track/1ziRelYdSJDOIb6K63otGw"
+    },
+    {
+      "album": {
+        "name": "Death of the Party",
+        "url": "https://open.spotify.com/album/5dBxgjLQ6wWiqyhSgChjDy"
+      },
+      "artists": [
+        {
+          "name": "Digsby",
+          "url": "https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "Long Time Dead",
+      "url": "https://open.spotify.com/track/0vWzjxded9A9cL1yuocuyR"
     },
     {
       "album": {
@@ -44624,6 +44660,24 @@
       "duration_ms": 270406,
       "name": "Nearly",
       "url": "https://open.spotify.com/track/6WHHgoAd10bw5IbFnN8qlh"
+    },
+    {
+      "album": {
+        "name": "Miscellaneous",
+        "url": "https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s"
+      },
+      "artists": [
+        {
+          "name": "Miscellaneous",
+          "url": "https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243468,
+      "name": "Nebulosas Grises",
+      "url": "https://open.spotify.com/track/19PaaxUieiyfH1afIQm4FG"
     },
     {
       "album": {

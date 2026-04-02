@@ -4,7 +4,7 @@
 
 > Vaundyの楽曲を1つのプレイリストで。All the essentials from Vaundy.
 
-88 songs - 7 hr 31 min
+89 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Somebody help us](https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/0hOBqS9AHeJXGqoDQ6gBy6) | 4:08 | 2025-02-15 |  |
 | [soramimi](https://open.spotify.com/track/2aiz5P2yx5zOc5YBN2h3MM) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:33 | 2023-11-14 | 2024-04-19 |
 | [soramimi](https://open.spotify.com/track/2qdgi1w7eMpWg6Vm5RtL4a) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 3:33 | 2024-02-27 |  |
+| [The SILENCE](https://open.spotify.com/track/0FZxNGBKHZkI4YIovEY4me) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [The SILENCE](https://open.spotify.com/album/3ecpjDJVGNMIns4YMRtUxa) | 4:58 | 2026-04-01 |  |
 | [Tokimeki](https://open.spotify.com/track/3e0Td8QexmD5l3DJzXbbcC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:32 | 2023-11-14 |  |
 | [Tokyo Flash](https://open.spotify.com/track/1Sem1dIkjX7tA8Nf5hEy8R) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 4:18 | 2023-11-14 | 2024-04-19 |
 | [Tokyo Flash \- TEMPLIME Remix](https://open.spotify.com/track/0xA1ywCFITFpv9IO4YKodn) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6) | [Tokyo Flash \- TEMPLIME Remix](https://open.spotify.com/album/02vyZyNsLBrUNo7xlS93LT) | 4:18 | 2024-02-27 |  |

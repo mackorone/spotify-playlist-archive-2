@@ -64392,6 +64392,24 @@
     {
       "album": {
         "name": "Money",
+        "url": "https://open.spotify.com/album/5tL0Es1QypmSnTCRzx0SPJ"
+      },
+      "artists": [
+        {
+          "name": "Charmaine 'L A",
+          "url": "https://open.spotify.com/artist/0XbOSZeNvIJbqZrgdKypsP"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1jEFxzaf8WWPcNrmU96gVN"
+    },
+    {
+      "album": {
+        "name": "Money",
         "url": "https://open.spotify.com/album/2C4QoW24le0o3jGrOCCiS8"
       },
       "artists": [
@@ -105733,7 +105751,7 @@
     },
     {
       "album": {
-        "name": "Version of Me",
+        "name": "VERSION OF ME",
         "url": "https://open.spotify.com/album/0AfFomTt9EXgCsbqttT6Fm"
       },
       "artists": [
@@ -105746,7 +105764,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218500,
-      "name": "Version of Me",
+      "name": "VERSION OF ME",
       "url": "https://open.spotify.com/track/6gOnQCdPVDWd9y4irSVJvt"
     },
     {

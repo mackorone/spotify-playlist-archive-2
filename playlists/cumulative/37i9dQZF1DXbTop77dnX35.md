@@ -4,7 +4,7 @@
 
 > New Music from Ayra Starr & Angelique Kidjo, Darkoo & Ruger, Black Sherif, Yarden, T.I BLaze,  Apex Village,   and more
 
-5,405 songs - 11 day 9 hr 15 min
+5,406 songs - 11 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3063,6 +3063,7 @@
 | [Mon Chérie](https://open.spotify.com/track/7xgXExDMS8npvcmye92xbf) | [MisterKay](https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN) | [Mon Chérie](https://open.spotify.com/album/1nbwLeM1MSOSZfCbDIpFOO) | 2:40 | 2024-09-27 | 2024-10-04 |
 | [Monalisa](https://open.spotify.com/track/7GBBvzLz6I7owxrEqhMtVG) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Monalisa](https://open.spotify.com/album/0EM6YUOt0Lz5CcFXYQLU7L) | 2:33 | 2024-12-13 | 2024-12-20 |
 | [Monalisa](https://open.spotify.com/track/2mZhEgnRL49Jh0xVIP5y5S) | [Itchy & Buco Sounds](https://open.spotify.com/artist/4KiWwlk4Uf1vcWi3txXLgy), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Lagos / Monalisa](https://open.spotify.com/album/4PMILwSLE3YLwZOqI9d6qX) | 3:19 | 2025-11-21 | 2025-11-28 |
+| [Money](https://open.spotify.com/track/1jEFxzaf8WWPcNrmU96gVN) | [Charmaine 'L A](https://open.spotify.com/artist/0XbOSZeNvIJbqZrgdKypsP) | [Money](https://open.spotify.com/album/5tL0Es1QypmSnTCRzx0SPJ) | 2:58 | 2026-03-27 |  |
 | [Money](https://open.spotify.com/track/45hspkQjQw4HC5U1LQedKW) | [Don Paapi](https://open.spotify.com/artist/5oeShBwFaZWwZhWRktv3aX), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Money](https://open.spotify.com/album/2C4QoW24le0o3jGrOCCiS8) | 3:12 | 2025-02-28 | 2025-03-07 |
 | [Money](https://open.spotify.com/track/2hDS2oAk8SO3nsR49TsShH) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Never Fold](https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq) | 2:40 | 2025-11-07 | 2025-11-14 |
 | [MONEY](https://open.spotify.com/track/0TfIUn5NqD0cJUVtynM2RP) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [MONEY](https://open.spotify.com/album/1B7p5jOJpHqdEBg0n7s8us) | 3:01 | 2024-06-21 | 2024-06-28 |
@@ -5042,7 +5043,7 @@
 | [Vanity](https://open.spotify.com/track/7A6Qn2kVZqDkXsjuqhpfmP) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [BIG VYBZ](https://open.spotify.com/artist/43mhT86yUu3iSmTWL4TYAS) | [Vanity](https://open.spotify.com/album/0iZn15amn9I5vXGbf8V30V) | 2:41 | 2025-05-02 | 2025-05-09 |
 | [Velvet](https://open.spotify.com/track/1DTVhkf9ATO3hoPrCrh0iX) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Onorato](https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle) | 2:43 | 2025-02-21 | 2025-02-28 |
 | [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 | 2025-02-21 | 2025-02-28 |
-| [Version of Me](https://open.spotify.com/track/6gOnQCdPVDWd9y4irSVJvt) | [Carla Franco](https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI) | [Version of Me](https://open.spotify.com/album/0AfFomTt9EXgCsbqttT6Fm) | 3:38 | 2026-03-27 |  |
+| [VERSION OF ME](https://open.spotify.com/track/6gOnQCdPVDWd9y4irSVJvt) | [Carla Franco](https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI) | [VERSION OF ME](https://open.spotify.com/album/0AfFomTt9EXgCsbqttT6Fm) | 3:38 | 2026-03-27 |  |
 | [Very Soon](https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Very Soon](https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc) | 2:17 | 2025-06-06 | 2025-06-13 |
 | [Very Soon](https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Very Soon](https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2) | 3:09 | 2024-09-13 | 2024-09-20 |
 | [Vex](https://open.spotify.com/track/2WU5ngAPSnKVFmHDZ7h785) | [PHAEMOUS](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Vex](https://open.spotify.com/album/5sJXDiI9Gjs5vx5JqEkH6S) | 3:06 | 2025-10-31 | 2025-11-07 |

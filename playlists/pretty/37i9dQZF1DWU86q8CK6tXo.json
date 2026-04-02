@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: ivri",
-  "num_followers": 65087,
+  "num_followers": 65096,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,18 @@
     {
       "added_at": "2026-03-31 15:09:21",
       "album": {
-        "name": "BOAT REMIX",
-        "url": "https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC"
+        "name": "Flo Jackson",
+        "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
       },
       "artists": [
         {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
-        },
-        {
-          "name": "YKNIECE",
-          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
-        },
-        {
-          "name": "BunnaB",
-          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 163636,
-      "name": "BOAT REMIX",
-      "url": "https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra"
+      "duration_ms": 143444,
+      "name": "Flo Jackson",
+      "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
     },
     {
       "added_at": "2026-03-31 15:09:21",
@@ -267,18 +259,26 @@
     {
       "added_at": "2026-03-31 15:09:21",
       "album": {
-        "name": "Flo Jackson",
-        "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
+        "name": "BOAT REMIX",
+        "url": "https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "YKNIECE",
+          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
+        },
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
         }
       ],
-      "duration_ms": 143444,
-      "name": "Flo Jackson",
-      "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
+      "duration_ms": 163636,
+      "name": "BOAT REMIX",
+      "url": "https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra"
     },
     {
       "added_at": "2026-03-31 15:09:21",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-03-31 15:09:21",
       "album": {
+        "name": "Woman Of Me",
+        "url": "https://open.spotify.com/album/5JV3aHNpmimwsh3Woml32k"
+      },
+      "artists": [
+        {
+          "name": "Kyndal",
+          "url": "https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx"
+        }
+      ],
+      "duration_ms": 172076,
+      "name": "Woman Of Me",
+      "url": "https://open.spotify.com/track/28FXH19Z9ihzOJKiFYyK6e"
+    },
+    {
+      "added_at": "2026-03-31 15:09:21",
+      "album": {
         "name": "Change The Man",
         "url": "https://open.spotify.com/album/5rlZ8t1zTFpFPQPOiVUEbO"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 211419,
       "name": "Change The Man",
       "url": "https://open.spotify.com/track/10BWPBIJFx3RPgJfTKS15N"
-    },
-    {
-      "added_at": "2026-03-31 15:09:21",
-      "album": {
-        "name": "Manicure",
-        "url": "https://open.spotify.com/album/0E09rOqWHosiaaK0hFNBoT"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 121429,
-      "name": "Manicure",
-      "url": "https://open.spotify.com/track/3mxV6itnOB6PSCLtIrYFY3"
     },
     {
       "added_at": "2026-03-31 15:09:21",
@@ -759,34 +759,18 @@
     {
       "added_at": "2026-03-31 15:09:21",
       "album": {
-        "name": "Woman Of Me",
-        "url": "https://open.spotify.com/album/5JV3aHNpmimwsh3Woml32k"
+        "name": "Manicure",
+        "url": "https://open.spotify.com/album/0E09rOqWHosiaaK0hFNBoT"
       },
       "artists": [
         {
-          "name": "Kyndal",
-          "url": "https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx"
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
         }
       ],
-      "duration_ms": 172076,
-      "name": "Woman Of Me",
-      "url": "https://open.spotify.com/track/28FXH19Z9ihzOJKiFYyK6e"
-    },
-    {
-      "added_at": "2026-03-31 15:09:21",
-      "album": {
-        "name": "NOT TODAY",
-        "url": "https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 215286,
-      "name": "NOT TODAY",
-      "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
+      "duration_ms": 121429,
+      "name": "Manicure",
+      "url": "https://open.spotify.com/track/3mxV6itnOB6PSCLtIrYFY3"
     },
     {
       "added_at": "2026-03-31 15:09:21",
@@ -803,6 +787,22 @@
       "duration_ms": 206366,
       "name": "miau",
       "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "added_at": "2026-03-31 15:09:21",
+      "album": {
+        "name": "NOT TODAY",
+        "url": "https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 215286,
+      "name": "NOT TODAY",
+      "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
     },
     {
       "added_at": "2026-03-31 15:09:21",

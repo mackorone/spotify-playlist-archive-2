@@ -702,7 +702,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 94657,
       "name": "ad ogni costo",
       "url": "https://open.spotify.com/track/2Mus1en9s7ppExu1S580wC"
@@ -3214,6 +3214,24 @@
       "duration_ms": 189098,
       "name": "BUM!",
       "url": "https://open.spotify.com/track/38Q2xq0AONmMqvlWDaB37Q"
+    },
+    {
+      "album": {
+        "name": "BUONA DOMENICA",
+        "url": "https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187254,
+      "name": "BUONA DOMENICA",
+      "url": "https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty"
     },
     {
       "album": {

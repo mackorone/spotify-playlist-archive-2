@@ -28855,7 +28855,7 @@
       "artists": [
         {
           "name": "NANA",
-          "url": "https://open.spotify.com/artist/0y7Ayco2wqh26ps6bYsor8"
+          "url": "https://open.spotify.com/artist/1SCTePCP2mFKMOCs07h7R8"
         }
       ],
       "date_added": "2026-03-31",
@@ -38638,7 +38638,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 155322,
       "name": "Came Back to Seoul",
       "url": "https://open.spotify.com/track/0jk5JK382O7qYfXDhh2qrf"
@@ -41356,7 +41356,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 223904,
       "name": "Chance ~ switch on ~",
       "url": "https://open.spotify.com/track/0QqW5kG5GgHiu6E62k55rt"
@@ -41476,6 +41476,24 @@
       "duration_ms": 160000,
       "name": "Changeless",
       "url": "https://open.spotify.com/track/2w8E30VM43lbhoNPYulJRK"
+    },
+    {
+      "album": {
+        "name": "CHU\u2661",
+        "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99324,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/13RXWCKAcrnvYgAFATCZf8"
     },
     {
       "album": {
@@ -48057,6 +48075,24 @@
     },
     {
       "album": {
+        "name": "Concrete Ghost",
+        "url": "https://open.spotify.com/album/1PsO6TAPusc4P5c4RbLa05"
+      },
+      "artists": [
+        {
+          "name": "xei",
+          "url": "https://open.spotify.com/artist/3xezAfwb6SWcRTGYYWdDyF"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "Concrete Ghost",
+      "url": "https://open.spotify.com/track/5gfsCbyBB5NopOZq2CpOkc"
+    },
+    {
+      "album": {
         "name": "Concrete Valley 0.5",
         "url": "https://open.spotify.com/album/53Y4VuYwteJcwIlB3PlVvW"
       },
@@ -54358,7 +54394,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 218048,
       "name": "Dear Friend",
       "url": "https://open.spotify.com/track/4YOWwta3eCxa33chRePaUn"
@@ -90146,7 +90182,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 227024,
       "name": "GOM",
       "url": "https://open.spotify.com/track/6vwYtXrVDgYHsAfqbpqt44"
@@ -168658,7 +168694,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 217216,
       "name": "Nevertheless",
       "url": "https://open.spotify.com/track/3OcZ0MlUU5dtP7wj4qGPjp"
@@ -196840,7 +196876,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 264000,
       "name": "Rekindling Memories",
       "url": "https://open.spotify.com/track/7HPtra6fwCtCD0EaTQPTI0"
@@ -197914,7 +197950,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 148588,
       "name": "Reptilian (feat. ch1tkey)",
       "url": "https://open.spotify.com/track/34JzLyCDVSMQAdmna90HLG"
@@ -202859,6 +202895,28 @@
     },
     {
       "album": {
+        "name": "SIDE-B",
+        "url": "https://open.spotify.com/album/6arMYB5hRasikh74EC1viA"
+      },
+      "artists": [
+        {
+          "name": "ZIN CHOI",
+          "url": "https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b"
+        },
+        {
+          "name": "SATURNKO",
+          "url": "https://open.spotify.com/artist/37oovmMfq9L87zOe9yAuPH"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226806,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2cxjjsv52lwwVUeit00ZrW"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/7lSC1a1jgAD2O5PE8EByAy"
       },
@@ -204932,6 +204990,32 @@
       "duration_ms": 138706,
       "name": "savage",
       "url": "https://open.spotify.com/track/14XHyR5B6XdSC80chxBajM"
+    },
+    {
+      "album": {
+        "name": "LOVE$ICK",
+        "url": "https://open.spotify.com/album/7GheZ9llBQXiu54QvpyivN"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        },
+        {
+          "name": "Jvcki Wai",
+          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "SAVAGE (feat. Bryan Chase, Jvcki Wai)",
+      "url": "https://open.spotify.com/track/79rF91Pre92Ls0MnxmrLfU"
     },
     {
       "album": {
@@ -225522,8 +225606,8 @@
       },
       "artists": [
         {
-          "name": "SEEYA",
-          "url": "https://open.spotify.com/artist/4FTNfLt89vROIPOad8i6S6"
+          "name": "SeeYa",
+          "url": "https://open.spotify.com/artist/3Mbxr8TL0Sny7dUNicKWm2"
         }
       ],
       "date_added": "2026-03-30",
@@ -235423,6 +235507,24 @@
     },
     {
       "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/4HLMLhG414r5rfBHQ5BODg"
+      },
+      "artists": [
+        {
+          "name": "KINO",
+          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "TAXI",
+      "url": "https://open.spotify.com/track/6yK638f5HpCkb7OyHmSfLH"
+    },
+    {
+      "album": {
         "name": "HOME SICK",
         "url": "https://open.spotify.com/album/4J06khnzLxl7TN8psi1GF4"
       },
@@ -240006,6 +240108,24 @@
       "duration_ms": 262500,
       "name": "The Last Winter Of Us",
       "url": "https://open.spotify.com/track/3HFrLKFpekFSIL49SPRe2m"
+    },
+    {
+      "album": {
+        "name": "The Late Regret",
+        "url": "https://open.spotify.com/album/4bg3sxfiifWXZSMgusyybb"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "The Late Regret",
+      "url": "https://open.spotify.com/track/7012G3S3ScPXTsVPpEcEFj"
     },
     {
       "album": {
@@ -255201,6 +255321,24 @@
     },
     {
       "album": {
+        "name": "Under the Same Night",
+        "url": "https://open.spotify.com/album/2j07KWfMPCqz448pSxiaMi"
+      },
+      "artists": [
+        {
+          "name": "Im Ga Young",
+          "url": "https://open.spotify.com/artist/6BgU40lKJzHwS6AzWzjEue"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Under the Same Night",
+      "url": "https://open.spotify.com/track/6UIPaM6s2NZ8TfubsghGWL"
+    },
+    {
+      "album": {
         "name": "Under the Sea",
         "url": "https://open.spotify.com/album/4InYjC8pfuvMnE0Qih3Fs6"
       },
@@ -258288,6 +258426,36 @@
       "duration_ms": 215035,
       "name": "Victory",
       "url": "https://open.spotify.com/track/1N4m5I7HVLcL7Jr6jTyHuK"
+    },
+    {
+      "album": {
+        "name": "Phantom Pain",
+        "url": "https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS"
+      },
+      "artists": [
+        {
+          "name": "1ANDON",
+          "url": "https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf"
+        },
+        {
+          "name": "Kim Feelsun",
+          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
+        },
+        {
+          "name": "L-like",
+          "url": "https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
     },
     {
       "album": {
@@ -270063,6 +270231,24 @@
     },
     {
       "album": {
+        "name": "who is this woman?",
+        "url": "https://open.spotify.com/album/5IhSTNLKlu1hgPKSBSyg4B"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "who is this woman?",
+      "url": "https://open.spotify.com/track/6tirHqOUs1n3C9gCIhS28f"
+    },
+    {
+      "album": {
         "name": "Who knows? : \ub204\uac00 \uc54c\uc558\uaca0\uc5b4?",
         "url": "https://open.spotify.com/album/4aGMdC728SMydnIgC2VSUR"
       },
@@ -273468,7 +273654,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 199640,
       "name": "With Me",
       "url": "https://open.spotify.com/track/3tA9tKdxZzq7N6P1lIPCOX"
@@ -290606,7 +290792,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 257078,
       "name": "\uc0ac\ub791\ud55c \ud6c4\uc5d0 (2026)",
       "url": "https://open.spotify.com/track/3N2F4uuVts18aa9n6VTPIp"

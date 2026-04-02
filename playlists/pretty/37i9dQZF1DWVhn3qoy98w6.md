@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Izah.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,890 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,892 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 43 | [Campos De Castilla](https://open.spotify.com/track/2zMfVm6i8QnrSEH8fHFZvx) | [borja pacheco](https://open.spotify.com/artist/1zjnpCZ8pj8SaVDmtZKhtF), [GOGUI](https://open.spotify.com/artist/1wdFQfOZU673MgWWklOnsA) | [Campos De Castilla](https://open.spotify.com/album/6uPhwhdfSyxK8igoM3tr23) | 2:18 |
 | 44 | [Los Vieja Escuela](https://open.spotify.com/track/42nFn1Fpv7wZOzQG6sDKKI) | [Estrogenuinas](https://open.spotify.com/artist/1BLJdXtcMhQJRxKWGfhvTM) | [Un Negocio Redondo](https://open.spotify.com/album/4F7vqUsUmAsnLQ1hwn1IDR) | 2:10 |
 | 45 | [Maratón Nocturno](https://open.spotify.com/track/7qxPOYY3uVqYMfFr3dDKI0) | [Roger BG](https://open.spotify.com/artist/2Fkxq4GIDdtGOj2sQqBiXP), [Bendito Diego](https://open.spotify.com/artist/1F4aU4wbsHKzlNb9B4lovU) | [Maratón Nocturno](https://open.spotify.com/album/0k0yEw20sSkf53dVuHPMrh) | 2:35 |
-| 46 | [Mi Piel](https://open.spotify.com/track/6sNHuaEGbMopq2sIB9hUi9) | [Atk Epop](https://open.spotify.com/artist/5EnaIjHfUCUkpOcFbzQwx6), [Andreas](https://open.spotify.com/artist/4EV0bStgw28rEOYCKtMgQW), [Amaia Pop](https://open.spotify.com/artist/1CPQd6lrNyFsKrCld8xLvt), [Davi Sanz](https://open.spotify.com/artist/035IZUzXK8iKqkbalv2UPK) | [Mi Piel](https://open.spotify.com/album/1jRfaK19K4NKEjHcwouAce) | 4:33 |
-| 47 | [Fin de semana](https://open.spotify.com/track/48xkQse30ty9E1PywDtXlb) | [very magenta](https://open.spotify.com/artist/6XXXKQtXtkH9yrjAKYF9z6) | [Fin de semana](https://open.spotify.com/album/4Udwp9Hl6rAU2EAdaFvV65) | 2:50 |
-| 48 | [Mejor](https://open.spotify.com/track/1twgxuU0pfIj7rg8ZOguGV) | [Claudia Zuazo](https://open.spotify.com/artist/38PTakSfrLtihwgUbgnKZV) | [Mejor](https://open.spotify.com/album/5MXdFsThAILyBkS812jJSE) | 4:32 |
-| 49 | [Fuiste tú](https://open.spotify.com/track/6UaikbWc6FBuAvPRV5m8Cl) | [KINKY LOVER](https://open.spotify.com/artist/6atnQAeriB4Ql9r9MuVlIm), [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP) | [Fuiste tú](https://open.spotify.com/album/5YBswv2bL8hGp0P7RY7LMn) | 2:37 |
-| 50 | [Nana per l'inquiet](https://open.spotify.com/track/6rI8EeRcI1ijCiGirVHrcM) | [GAL·LA](https://open.spotify.com/artist/3Ii7Qg1JKTqaxyb9uo7wK3) | [DIL·LEMA](https://open.spotify.com/album/0dDXSmplX3LuaX3nJkeHOQ) | 2:48 |
+| 46 | [Fin de semana](https://open.spotify.com/track/48xkQse30ty9E1PywDtXlb) | [very magenta](https://open.spotify.com/artist/6XXXKQtXtkH9yrjAKYF9z6) | [Fin de semana](https://open.spotify.com/album/4Udwp9Hl6rAU2EAdaFvV65) | 2:50 |
+| 47 | [Mejor](https://open.spotify.com/track/1twgxuU0pfIj7rg8ZOguGV) | [Claudia Zuazo](https://open.spotify.com/artist/38PTakSfrLtihwgUbgnKZV) | [Mejor](https://open.spotify.com/album/5MXdFsThAILyBkS812jJSE) | 4:32 |
+| 48 | [Fuiste tú](https://open.spotify.com/track/6UaikbWc6FBuAvPRV5m8Cl) | [KINKY LOVER](https://open.spotify.com/artist/6atnQAeriB4Ql9r9MuVlIm), [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP) | [Fuiste tú](https://open.spotify.com/album/5YBswv2bL8hGp0P7RY7LMn) | 2:37 |
+| 49 | [Nana per l'inquiet](https://open.spotify.com/track/6rI8EeRcI1ijCiGirVHrcM) | [GAL·LA](https://open.spotify.com/artist/3Ii7Qg1JKTqaxyb9uo7wK3) | [DIL·LEMA](https://open.spotify.com/album/0dDXSmplX3LuaX3nJkeHOQ) | 2:48 |
 
-Snapshot ID: `AAAAAF1Jdk0y8an89rR2xayGTj/r1xJA`
+Snapshot ID: `AAAAALPJcsyBhpMCyiM9aopIYALByjrC`

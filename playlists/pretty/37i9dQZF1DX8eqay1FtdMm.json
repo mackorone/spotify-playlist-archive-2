@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \uc528\uc57c (SEEYA) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 416591,
+  "num_followers": 416587,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -32,8 +32,8 @@
       },
       "artists": [
         {
-          "name": "SEEYA",
-          "url": "https://open.spotify.com/artist/4FTNfLt89vROIPOad8i6S6"
+          "name": "SeeYa",
+          "url": "https://open.spotify.com/artist/3Mbxr8TL0Sny7dUNicKWm2"
         }
       ],
       "duration_ms": 213000,
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "\uc911\ub3c5",
-        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
-      },
-      "artists": [
-        {
-          "name": "Na Yoon Kwon",
-          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
-        }
-      ],
-      "duration_ms": 262562,
-      "name": "\ub098\uc600\uc73c\uba74",
-      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
-    },
-    {
-      "added_at": "2026-03-31 03:54:31",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2026-03-31 03:54:31",
+      "album": {
+        "name": "\uc911\ub3c5",
+        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
+      },
+      "artists": [
+        {
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+        }
+      ],
+      "duration_ms": 262562,
+      "name": "\ub098\uc600\uc73c\uba74",
+      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
     },
     {
       "added_at": "2026-03-31 03:54:31",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
+        "name": "\ucc98\uc74c\ucc98\ub7fc",
+        "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
+      "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
+    },
+    {
+      "added_at": "2026-03-31 03:54:31",
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
-    },
-    {
-      "added_at": "2026-03-31 03:54:31",
-      "album": {
-        "name": "\ucc98\uc74c\ucc98\ub7fc",
-        "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
-      "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
     },
     {
       "added_at": "2026-03-31 03:54:31",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "Jay Park Season 1",
-        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219742,
-      "name": "Your/My",
-      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
-    },
-    {
-      "added_at": "2026-03-31 03:54:31",
-      "album": {
         "name": "Back In Time (The Moon during the Day X K.will)",
         "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2026-03-31 03:54:31",
+      "album": {
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
       "added_at": "2026-03-31 03:54:31",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "YOUNHA Studio Live Album 'MINDSET'",
-        "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 331600,
-      "name": "Kaze",
-      "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
-    },
-    {
-      "added_at": "2026-03-31 03:54:31",
-      "album": {
         "name": "\uc815\uc778 Jung In from Andromeda",
         "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 202946,
       "name": "\ubbf8\uc6cc\uc694 I Hate You",
       "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
+    },
+    {
+      "added_at": "2026-03-31 03:54:31",
+      "album": {
+        "name": "YOUNHA Studio Live Album 'MINDSET'",
+        "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 331600,
+      "name": "Kaze",
+      "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
     },
     {
       "added_at": "2026-03-31 03:54:31",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "Crazy Love Song",
-        "url": "https://open.spotify.com/album/6IwHj5oL5ZwHiCcYiVP2Fn"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Crazy Love Song",
-      "url": "https://open.spotify.com/track/5WaEGsWNjzDc50VYN8NkjA"
-    },
-    {
-      "added_at": "2026-03-31 03:54:31",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
+        "name": "Crazy Love Song",
+        "url": "https://open.spotify.com/album/6IwHj5oL5ZwHiCcYiVP2Fn"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Crazy Love Song",
+      "url": "https://open.spotify.com/track/5WaEGsWNjzDc50VYN8NkjA"
+    },
+    {
+      "added_at": "2026-03-31 03:54:31",
+      "album": {
         "name": "Trip: Tape #01",
         "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
       },
@@ -1587,22 +1587,6 @@
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
-    },
-    {
-      "added_at": "2026-03-31 03:54:31",
-      "album": {
-        "name": "Tell The World",
-        "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tell The World",
-      "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
     },
     {
       "added_at": "2026-03-31 03:54:31",
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
+        "name": "Tell The World",
+        "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tell The World",
+      "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
+    },
+    {
+      "added_at": "2026-03-31 03:54:31",
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD"
       },
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju"
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
       "artists": [
         {
-          "name": "Urban Zakapa",
-          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE"
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
     }
   ],
   "unique_name": "v o K a l",

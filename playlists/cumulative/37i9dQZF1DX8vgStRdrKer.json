@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 412451,
       "name": "CHERUBIM & SERAPHIM",
       "url": "https://open.spotify.com/track/4amQVTKzJH9dHwPhxiiG9a"
@@ -15350,6 +15350,24 @@
       "duration_ms": 246000,
       "name": "YOU ARE GOOD",
       "url": "https://open.spotify.com/track/6iXQadQ6uFvE4ylvl2975l"
+    },
+    {
+      "album": {
+        "name": "You Are Good",
+        "url": "https://open.spotify.com/album/0aBb8Xrz2ESrNGYoXmvruV"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549660,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/4yl9nPWqJnGC2CjFjguCok"
     },
     {
       "album": {

@@ -23421,6 +23421,24 @@
     },
     {
       "album": {
+        "name": "Volume Nation",
+        "url": "https://open.spotify.com/album/5P5wo8Auod5iYSHkAgBmnC"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166955,
+      "name": "Volume Nation",
+      "url": "https://open.spotify.com/track/6FXR8bDZEl1YY9ygjU0F1y"
+    },
+    {
+      "album": {
         "name": "WAIT4U",
         "url": "https://open.spotify.com/album/6rjRB1yiwh2iOmyiWGmJp6"
       },

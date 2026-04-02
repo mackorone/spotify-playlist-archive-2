@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,233 songs - 2 day 21 hr 18 min
+1,236 songs - 2 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Akt](https://open.spotify.com/track/29uDYYVTlXglRSqq7eI2Vx) | [Escape The Box](https://open.spotify.com/artist/3YRmk4apUTYrEM7AYtKPsE) | [Akt](https://open.spotify.com/album/3wkZUjtUsBW4JWikH9pTWe) | 2:51 | 2026-02-05 | 2026-02-27 |
 | [Al Bundy \(and a Semester of Fraud\)](https://open.spotify.com/track/6mL5hOMXv00Ta93K2oLihA) | [High Wasted Genes](https://open.spotify.com/artist/2wEqBI8GfibxbVN6XRgMBC) | [Al Bundy \(and a Semester of Fraud\)](https://open.spotify.com/album/7ve1UcLQUTep9pAZOROZm3) | 2:44 | 2026-01-16 | 2026-02-05 |
 | [Alessa Moore](https://open.spotify.com/track/1QqoAYaNueBN8wRe0w7l5i) | [MAYA](https://open.spotify.com/artist/23I9OKP7cbHuK44IV6hMUz) | [Alessa Moore](https://open.spotify.com/album/00NykSPCDv7MZ5mJrzUPBE) | 2:27 | 2026-01-12 | 2026-02-13 |
+| [alien.](https://open.spotify.com/track/0MqgKaj6vvWdoCn8w75w10) | [ZERO SUN](https://open.spotify.com/artist/0pqgsjsIkLSJ4SLJZ4nYFB) | [alien.](https://open.spotify.com/album/0ZX5IAFtcRr57vCQeOahW8) | 3:49 | 2026-04-01 |  |
 | [Alive Again](https://open.spotify.com/track/1odf4aOW5eUj5ZlOs1JIzv) | [Liquid Monk](https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ) | [Alive Again](https://open.spotify.com/album/0tJEOsX7X3XfBZTWWOJTum) | 2:58 | 2026-03-26 |  |
 | [Alive On Arrival](https://open.spotify.com/track/217vExrl85KAIJH12Cj0Kf) | [Rebelmatic](https://open.spotify.com/artist/6CUYmBUaJokq3auKhAzHXR) | [Alive On Arrival](https://open.spotify.com/album/3ysx7tS96uHjOAzUjam9wI) | 1:59 | 2026-03-05 | 2026-03-31 |
 | [All Alone](https://open.spotify.com/track/100rGMTMahy3hgUqtSMVW8) | [Summer Stained](https://open.spotify.com/artist/2sEdrlfz7BldSC7bpMhpj3) | [Moving Forward](https://open.spotify.com/album/3XTle8a2FA5STIURdj5rS8) | 2:55 | 2026-01-15 | 2026-02-03 |
@@ -277,6 +278,7 @@
 | [Diktator](https://open.spotify.com/track/6EASzuC279qg73D3lYzLsF) | [Lysne](https://open.spotify.com/artist/4RsfxkBO6jZw4qHNEJp5xm) | [Under Cover](https://open.spotify.com/album/2Zz2ZGzuUxQoO74uHXQNQD) | 1:57 | 2026-01-14 | 2026-02-03 |
 | [DINKY](https://open.spotify.com/track/4PcYojEeQPi8Mz9gvCes1d) | [Obsolescence](https://open.spotify.com/artist/6IxEerSy0GrEJo2At5NIKd) | [DINKY](https://open.spotify.com/album/0eZV4Vs34YQ8MJ88pPWiEz) | 3:25 | 2026-02-19 | 2026-03-23 |
 | [Dirty Road](https://open.spotify.com/track/1mPxBtfu7Qad4RCOWK8SNF) | [JACK FLINT](https://open.spotify.com/artist/3C9CMQQDcbCQ9uUkg2ribC) | [Dirty Road](https://open.spotify.com/album/3NlyK2erdevSrtUhHEBIkD) | 5:41 | 2025-12-03 | 2025-12-24 |
+| [Diré](https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 3:31 | 2026-04-01 |  |
 | [Disclaimer\*](https://open.spotify.com/track/1WNXukif2Uo84QFKkYe1or) | [FLAWERS](https://open.spotify.com/artist/5VnP0wjcPHZEburwioHNCv) | [Disclaimer\*](https://open.spotify.com/album/6Edik332rPxEVmkk0GPNEl) | 1:06 | 2026-02-16 | 2026-03-09 |
 | [Discípulo \- Hierofante Mix](https://open.spotify.com/track/1kWZaubUIbzZb2q1n8lIhQ) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [MUTANTE](https://open.spotify.com/album/6ViLWsyal9h7WSiYMCBhhj) | 3:05 | 2026-03-28 |  |
 | [Disgrace](https://open.spotify.com/track/5x8SJh0vyRhPbwJaghlv7M) | [Neurasthenic](https://open.spotify.com/artist/0ybvYZgxRQWGifh9Fi3Ogr), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [North Pope](https://open.spotify.com/artist/2KRTFJ3tkGjQLYl5eS8obs) | [Disgrace](https://open.spotify.com/album/2qSaKUub8VjDdw69fyfgSu) | 2:19 | 2026-02-24 | 2026-03-17 |
@@ -960,6 +962,7 @@
 | [SORRY NOT SORRY](https://open.spotify.com/track/0ynUNnv7dhPa4tv8TQReX2) | [Ellen and the Boyz](https://open.spotify.com/artist/1OHPJaybtKXTppv7gTwvmY) | [SORRY NOT SORRY](https://open.spotify.com/album/6RceDfzryPdZwtKLDnbN5r) | 3:18 | 2026-02-10 | 2026-03-14 |
 | [Soul of a Man](https://open.spotify.com/track/64BN6ps0tZus2YxzrgKMXX) | [Apo\-Calypto](https://open.spotify.com/artist/7byyZ7HJDAp9iR1IhdDaW4) | [Soul of a Man](https://open.spotify.com/album/5jNfUds4IMskgR1WILhthK) | 6:25 | 2025-12-04 | 2025-12-24 |
 | [Sour and Distressed](https://open.spotify.com/track/6FvrZLQZ4iJ2HphkJtkkiz) | [TripNote](https://open.spotify.com/artist/3A19PqhQphULECk8eJLsHv) | [Distance](https://open.spotify.com/album/0gezHk5vXTEHRXAmlvBgYT) | 3:25 | 2025-12-04 | 2025-12-24 |
+| [Spacecat](https://open.spotify.com/track/6J9exNHLIQCWBFt3ImK94Z) | [Jeanette Summers](https://open.spotify.com/artist/2xJV4YACXieIEFM5iH9VLi) | [Spacecat](https://open.spotify.com/album/6VKiseKucbHBXLvXLpO2w6) | 4:18 | 2026-04-01 |  |
 | [Spank Me \- 2023 Remastered Version](https://open.spotify.com/track/3V4noM5bfPWgzncxoCqLuy) | [House Of Baden](https://open.spotify.com/artist/3NPFR8IMXX7S89e6TXdHIN) | [Spank Me \(2023 Remastered Version\)](https://open.spotify.com/album/3Kdqy2c10XfujJpWluIu1C) | 2:29 | 2026-01-24 | 2026-02-12 |
 | [Spare Window](https://open.spotify.com/track/3LhGupBPjqbMc9BozMjKRg) | [Credible Witness](https://open.spotify.com/artist/4KE3myC1CYkK7mMX1XmOk7) | [Spare Window](https://open.spotify.com/album/7h2BoblH6So1zolwHtYFdN) | 3:07 | 2025-12-30 | 2026-01-31 |
 | [Speedracer](https://open.spotify.com/track/4SsjA0L5zY8onUnJH9F7hd) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 4:07 | 2025-08-03 |  |

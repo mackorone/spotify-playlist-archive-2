@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,876 songs - 5 day 7 hr 26 min
+1,877 songs - 5 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,6 +575,7 @@
 | [Fondness](https://open.spotify.com/track/6imvrMl7lgBPWsl4P7gkdC) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Fondness](https://open.spotify.com/album/2wcnjCjXyIGM7huGhwNGfg) | 2:22 | 2020-03-16 | 2021-12-20 |
 | [Fool](https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP) | [Palisade](https://open.spotify.com/artist/51knFsooF002cLj6fRUJny), [Ophanim](https://open.spotify.com/artist/2YwyA5Urid8g7xLN5Gf52b), [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Fool](https://open.spotify.com/album/4NX1hljajlgXtjhMWFbNJb) | 3:54 | 2025-12-19 |  |
 | [Fooling Myself](https://open.spotify.com/track/46cuPz9v6oKpDlCrg4QaAw) | [Lakehouse](https://open.spotify.com/artist/3yF5PXUJ5XFfLIB0ByFLBK) | [Lakehouse](https://open.spotify.com/album/6cc1rvaVhvDMRnmG4GGog0) | 4:07 | 2020-03-16 | 2022-04-24 |
+| [For A Day](https://open.spotify.com/track/2LW1mCijFx9NqEF7nwiw1y) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Koppo](https://open.spotify.com/artist/7LfTKHf1ByHkl02oIeNRef), [Extra Special](https://open.spotify.com/artist/1ANEORYDjMsHrF42Du60CW) | [For A Day](https://open.spotify.com/album/0LfJvFH95Xhm0KH5u9nj5m) | 6:27 | 2026-03-20 |  |
 | [For The Weak \(with Freddii\)](https://open.spotify.com/track/6IVOIIsAZzJzZVMzPvngMl) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Freddii](https://open.spotify.com/artist/5FIydByYlH4IGhHWZP7E1m) | [For The Weak \(with Freddii\)](https://open.spotify.com/album/1KhCbHdbsF9XaYskU5HtM6) | 3:13 | 2021-12-17 | 2021-12-24 |
 | [Forever](https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Forever](https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2) | 4:13 | 2024-04-19 | 2024-09-07 |
 | [Forever \(feat\. Ben Stevenson\)](https://open.spotify.com/track/0f3VCprEO3u4j93FtHxTbj) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 3:49 | 2020-05-18 | 2020-07-03 |
@@ -879,7 +880,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/54lEP2AiBdnVrqh49PoUqN) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Sea Monster](https://open.spotify.com/album/13N9WZkBPSuQYXKKkSN9Ud) | 3:46 | 2020-08-06 | 2020-10-09 |
 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 | 2022-10-24 | 2023-04-29 |
 | [Kaleidoscope Colours \- Fejká Remix](https://open.spotify.com/track/5rWRtUt00uxitABP3ZYDC4) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Kaleidoscope Colours \(Fejká Remix\)](https://open.spotify.com/album/1xdRo1G11xXRjIzGjLQCTu) | 5:22 | 2023-10-20 | 2023-11-11 |
-| [Kamakura](https://open.spotify.com/track/6oMnfqRJiv3T0vTrrFD3ux) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D) | [Kamakura](https://open.spotify.com/album/3NbroNNSDmYESLq8IHlgEV) | 5:16 | 2026-01-16 |  |
+| [Kamakura](https://open.spotify.com/track/6oMnfqRJiv3T0vTrrFD3ux) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D) | [Kamakura](https://open.spotify.com/album/3NbroNNSDmYESLq8IHlgEV) | 5:16 | 2026-01-16 | 2026-04-02 |
 | [Kami](https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 5:15 | 2022-07-08 | 2022-08-22 |
 | [Karabali](https://open.spotify.com/track/1hSjdeo8nyWJZO5nBO7rVC) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/4BpBqfC0qi6MaB3l96QBo4) | 7:05 | 2020-05-22 | 2020-10-09 |
 | [Kasoto \(feat\. Jo Jo Mendy\)](https://open.spotify.com/track/5Utktu0IFcGXXtIlky7ObZ) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Jo Jo Mendy](https://open.spotify.com/artist/23GwAF5aZwBDyis1Hnh6mg) | [Into Daylight](https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l) | 4:30 | 2020-08-20 | 2020-10-09 |

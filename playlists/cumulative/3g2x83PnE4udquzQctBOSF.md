@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-600 songs - 1 day 13 hr 13 min
+601 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-21 | 2023-06-12 |
 | [Dawn of moonlight \- Radio Zen Version](https://open.spotify.com/track/5bXvWTr7fhafN6dWGIZCGK) | [Corona Ilario](https://open.spotify.com/artist/6GMuZDYRjI8G9HKr3j7mYU) | [Dawn of moonlight \(Zen Version\)](https://open.spotify.com/album/3HwBSGnH7bUmRzCXDglJfW) | 3:20 | 2026-02-11 | 2026-02-23 |
 | [Deep Down Low](https://open.spotify.com/track/3Ue9vGsg5XVnEo7P2EdLxX) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [Deep Down Low](https://open.spotify.com/album/4IwNXHXcjHJsLLEE3mwESP) | 4:55 | 2024-07-07 |  |
+| [Deep In](https://open.spotify.com/track/5C7RLTV7tbTjStCdn8KrEt) | [Archi K](https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY), [Артур Кетов](https://open.spotify.com/artist/5g68HnhWHSrMC15D0qLL16) | [Jazzy\-Hazy](https://open.spotify.com/album/6EuY3dU5mtxrkyBXD4cnHw) | 2:58 | 2026-04-01 |  |
 | [Deeper](https://open.spotify.com/track/7D6SEmF2v2xlFUct2atTfe) | [OTK](https://open.spotify.com/artist/1RfUpnBiwRzA6LCl4qaJwG) | [Deeper](https://open.spotify.com/album/2HJ5dqnKM6w7yFhgWkrxyu) | 3:17 | 2025-11-28 | 2026-01-03 |
 | [Dentro a due vite](https://open.spotify.com/track/3yZHjRPsC7c8CT5ylbN07E) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Dentro a due vite](https://open.spotify.com/album/7KVJtGXPA1cEyZomd6bB83) | 3:08 | 2026-01-01 | 2026-01-03 |
 | [DESIRE96](https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DESIRE96](https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb) | 4:13 | 2023-04-16 | 2023-05-01 |

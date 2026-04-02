@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Tedeschi Trucks Band",
-  "num_followers": 1067959,
+  "num_followers": 1067978,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Ain't Half Bad",
-        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Ain't Half Bad",
-      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Act I",
         "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 242174,
       "name": "Southern Man",
       "url": "https://open.spotify.com/track/2kcnL45FePWWwqSifGzxMm"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Ain't Half Bad",
+        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Ain't Half Bad",
+      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
       },
@@ -303,18 +319,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
         }
       ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+      "duration_ms": 201240,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
     },
     {
       "added_at": "2026-03-04 15:51:29",
@@ -335,22 +351,6 @@
       "duration_ms": 221239,
       "name": "Revelations",
       "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -419,30 +419,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Roll Mega",
-        "url": "https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l"
-      },
-      "artists": [
-        {
-          "name": "Roll Mega",
-          "url": "https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1"
-        },
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        },
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 282857,
-      "name": "Twist Your Arm",
-      "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "In The Pines",
         "url": "https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 261773,
       "name": "I'm Leaving",
       "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Roll Mega",
+        "url": "https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l"
+      },
+      "artists": [
+        {
+          "name": "Roll Mega",
+          "url": "https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1"
+        },
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        },
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "Twist Your Arm",
+      "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
     },
     {
       "added_at": "2026-03-06 05:00:04",
@@ -737,6 +737,26 @@
       "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
     },
     {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "Six Shades of Grey",
+        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Troy",
+          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
+        },
+        {
+          "name": "Deap Vally",
+          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
+        }
+      ],
+      "duration_ms": 203757,
+      "name": "Six Shades of Grey",
+      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
+    },
+    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "Bloodline Maintenance",
@@ -853,26 +873,6 @@
       "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
     },
     {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
-        "name": "Six Shades of Grey",
-        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Troy",
-          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
-        },
-        {
-          "name": "Deap Vally",
-          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
-        }
-      ],
-      "duration_ms": 203757,
-      "name": "Six Shades of Grey",
-      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
-    },
-    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "Blues Worse Than I Ever Had",
@@ -903,22 +903,6 @@
       "duration_ms": 275712,
       "name": "The Love Endeavour",
       "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Mileage",
-        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 250765,
-      "name": "Mileage",
-      "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -959,22 +943,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Million Voices Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
-      },
-      "artists": [
-        {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        }
-      ],
-      "duration_ms": 261760,
-      "name": "Back Where I Started",
-      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "What I Wouldn't Do",
         "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
       },
@@ -987,6 +955,38 @@
       "duration_ms": 189739,
       "name": "What I Wouldn't Do",
       "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Mileage",
+        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 250765,
+      "name": "Mileage",
+      "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Million Voices Whisper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "Back Where I Started",
+      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
     },
     {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "Coast of Light",
+        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 217581,
+      "name": "Teacher's Desk",
+      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
+    },
+    {
       "added_at": "2026-03-06 05:00:04",
       "album": {
         "name": "Cruisin'",
@@ -1087,38 +1103,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Antique Hearts: Revisited",
-        "url": "https://open.spotify.com/album/7tvR8LMz9Rkf4bCdGbbnfs"
-      },
-      "artists": [
-        {
-          "name": "American Aquarium",
-          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
-        }
-      ],
-      "duration_ms": 219380,
-      "name": "Antique Hearts",
-      "url": "https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
-        "name": "Coast of Light",
-        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 217581,
-      "name": "Teacher's Desk",
-      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Days of Mellow",
         "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 154980,
       "name": "Days of Mellow",
       "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Antique Hearts: Revisited",
+        "url": "https://open.spotify.com/album/7tvR8LMz9Rkf4bCdGbbnfs"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "duration_ms": 219380,
+      "name": "Antique Hearts",
+      "url": "https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2"
     },
     {
       "added_at": "2026-03-06 05:00:04",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Companions",
-        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
-      },
-      "artists": [
-        {
-          "name": "Adam Douglas",
-          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "My Own Disguise",
-      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/3jxanQOwCwfBi8lSY8ep26"
+        "name": "Companions",
+        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
       },
       "artists": [
         {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
         }
       ],
-      "duration_ms": 170399,
-      "name": "Liberation",
-      "url": "https://open.spotify.com/track/7edtRdOTDQuJudfReugLJw"
+      "duration_ms": 225106,
+      "name": "My Own Disguise",
+      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/3jxanQOwCwfBi8lSY8ep26"
       },
       "artists": [
         {
-          "name": "Jovin Webb",
-          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
         }
       ],
-      "duration_ms": 278457,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
+      "duration_ms": 170399,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/7edtRdOTDQuJudfReugLJw"
     },
     {
       "added_at": "2026-03-27 04:00:05",
@@ -1371,22 +1355,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "What's Not To Love?",
-        "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
       },
       "artists": [
         {
-          "name": "John C. Reilly",
-          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
-        },
-        {
-          "name": "Mister Romantic",
-          "url": "https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0"
+          "name": "Jovin Webb",
+          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
         }
       ],
-      "duration_ms": 199174,
-      "name": "I Guess I\u2019ll Get The Papers And Go Home",
-      "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
+      "duration_ms": 278457,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1403,6 +1383,26 @@
       "duration_ms": 288256,
       "name": "Muddy Water",
       "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "What's Not To Love?",
+        "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
+      },
+      "artists": [
+        {
+          "name": "John C. Reilly",
+          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
+        },
+        {
+          "name": "Mister Romantic",
+          "url": "https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0"
+        }
+      ],
+      "duration_ms": 199174,
+      "name": "I Guess I\u2019ll Get The Papers And Go Home",
+      "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Leaning On The Altar",
+        "url": "https://open.spotify.com/album/7m4eR6wscTSsBwHuUvvBmI"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 199185,
+      "name": "Leaning On The Altar",
+      "url": "https://open.spotify.com/track/7MoKznrE12IEinL9CtE8V3"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Fat Cat Silhouette",
         "url": "https://open.spotify.com/album/1yfKoTH7qutAxGbjpZGHJs"
       },
@@ -1665,20 +1681,24 @@
       "url": "https://open.spotify.com/track/0KyEGhg4AcfSuMrgPjMdEc"
     },
     {
-      "added_at": "2026-02-13 05:00:37",
+      "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "Leaning On The Altar",
-        "url": "https://open.spotify.com/album/7m4eR6wscTSsBwHuUvvBmI"
+        "name": "Gathering Forces",
+        "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
       },
       "artists": [
         {
-          "name": "Phillip-Michael Scales",
-          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+          "name": "Jonah Smith",
+          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
+        },
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
         }
       ],
-      "duration_ms": 199185,
-      "name": "Leaning On The Altar",
-      "url": "https://open.spotify.com/track/7MoKznrE12IEinL9CtE8V3"
+      "duration_ms": 185399,
+      "name": "Gathering Forces",
+      "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1699,22 +1719,6 @@
       "duration_ms": 263277,
       "name": "Monsoon Lightning",
       "url": "https://open.spotify.com/track/2amxmJp83GsKX3tS3GkBFo"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Neon Sounds",
-        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
-      },
-      "artists": [
-        {
-          "name": "The Delta Bombers",
-          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Hey! You Know You Wanna!",
-      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
     }
   ],
   "unique_name": "Blues Roots",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uace0\uace0\ud559 (Gogohawk)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \ud55c\ub85c\ub85c(HANRORO)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "0+0",
       "url": "https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 288682,
       "name": "BABEL",
       "url": "https://open.spotify.com/track/5uzR8Dr8tGWWasQbHKBOoC"
@@ -4356,7 +4356,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 173240,
       "name": "Defense Mechanism",
       "url": "https://open.spotify.com/track/0TX0PqzoSN5OSCeX0odaH7"
@@ -5886,6 +5886,24 @@
       "duration_ms": 194999,
       "name": "EX (Feat. Zenn)",
       "url": "https://open.spotify.com/track/3TD3K5nHSV3BIJJfwZO9KY"
+    },
+    {
+      "album": {
+        "name": "Exaggerated Love",
+        "url": "https://open.spotify.com/album/7hAp6CEdZRm3Zw4akAKIAA"
+      },
+      "artists": [
+        {
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255946,
+      "name": "Exaggerated Love",
+      "url": "https://open.spotify.com/track/2ouP8hcQFleLd3y8HKB52C"
     },
     {
       "album": {
@@ -8077,6 +8095,24 @@
     },
     {
       "album": {
+        "name": "HANRORO: Indie Korea Takeover",
+        "url": "https://open.spotify.com/album/5eZwzHktMlMtn8xrwr2hxS"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3000,
+      "name": "HANRORO Indie Korea Takeover",
+      "url": "https://open.spotify.com/track/3rb7PFB21Qw7oZ5MOVxDyM"
+    },
+    {
+      "album": {
         "name": "Happy Ending",
         "url": "https://open.spotify.com/album/0SgKOEUQhYZXOkiRDRnmCZ"
       },
@@ -8236,7 +8272,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-20",
+      "date_removed": null,
       "duration_ms": 252229,
       "name": "Hazard Course (feat. mei ehara)",
       "url": "https://open.spotify.com/track/74UQERYjLFUVVkIIj7pwqP"
@@ -14489,6 +14525,24 @@
     },
     {
       "album": {
+        "name": "The Human Condition",
+        "url": "https://open.spotify.com/album/3HBvQMuv6pS21E2Tz6R6by"
+      },
+      "artists": [
+        {
+          "name": "kimminseong",
+          "url": "https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239720,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/1AnnFOJdf5zFPup7VoXRbn"
+    },
+    {
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/6PklPzH8lEZIRvRsP8xg3H"
       },
@@ -15034,6 +15088,24 @@
       "duration_ms": 262743,
       "name": "Paindrops",
       "url": "https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ"
+    },
+    {
+      "album": {
+        "name": "Sky Hundred",
+        "url": "https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd"
+      },
+      "artists": [
+        {
+          "name": "Parannoul",
+          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314893,
+      "name": "Painless",
+      "url": "https://open.spotify.com/track/04Ktlj5fakDQhjqYSNYTEL"
     },
     {
       "album": {
@@ -16816,6 +16888,24 @@
     {
       "album": {
         "name": "Sandcastle",
+        "url": "https://open.spotify.com/album/2IvblfdbLpvnADMfAXmXeH"
+      },
+      "artists": [
+        {
+          "name": "Sagong",
+          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Sandcastle",
+      "url": "https://open.spotify.com/track/70nNvkcduhuRWHcNzW5B6b"
+    },
+    {
+      "album": {
+        "name": "Sandcastle",
         "url": "https://open.spotify.com/album/44d9XeTjrRTxeXIT7gpRLA"
       },
       "artists": [
@@ -17546,6 +17636,24 @@
       "duration_ms": 206091,
       "name": "Sins",
       "url": "https://open.spotify.com/track/5nStARhedIpOobuno0xhGW"
+    },
+    {
+      "album": {
+        "name": "Pure sun",
+        "url": "https://open.spotify.com/album/23axlUKhZOKUFVMaEHeZbL"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288226,
+      "name": "sister",
+      "url": "https://open.spotify.com/track/3pTN2if2WXz5jA2gjRhxPQ"
     },
     {
       "album": {
@@ -19470,6 +19578,24 @@
       "duration_ms": 202400,
       "name": "System Error",
       "url": "https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm"
+    },
+    {
+      "album": {
+        "name": "hidden plant",
+        "url": "https://open.spotify.com/album/0mzOIu5My8tCcJavSkLkt9"
+      },
+      "artists": [
+        {
+          "name": "ryojinnjane",
+          "url": "https://open.spotify.com/artist/51Qp62oiX5RBuzytLDRYF8"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176216,
+      "name": "tail of a tail",
+      "url": "https://open.spotify.com/track/4Iow0s7GA6I18JQHCnS4Yx"
     },
     {
       "album": {

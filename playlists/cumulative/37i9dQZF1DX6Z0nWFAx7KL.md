@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-365 songs - 18 hr 2 min
+366 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Sensing You](https://open.spotify.com/track/0B3DmjQeC1JNkZDNqawmsD) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Nicholas Gunn](https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S) | [Sensing You](https://open.spotify.com/album/520oC74vS6oyPN6NclXKO1) | 2:57 | 2024-03-19 | 2024-08-31 |
 | [Shatterproof \- Sebastian Davidson Remix](https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu), [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Shatterproof \(Sebastian Davidson Remix\)](https://open.spotify.com/album/74weVpLq86UNh1LlZjrcmu) | 2:46 | 2023-07-20 | 2024-07-27 |
 | [Silent](https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE) | [Watching Colours](https://open.spotify.com/artist/2bxio5pnpNinV2qIl0vkeX) | [Silent](https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2) | 2:04 | 2023-06-22 | 2024-08-02 |
-| [Sleeping Satellite](https://open.spotify.com/track/6CWPaj0n9mCcYtuSY8mHcT) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Sleeping Satellite](https://open.spotify.com/album/3Vbxs6cu8QJus0XeXFAmfY) | 2:55 | 2024-11-28 |  |
+| [Sleeping Satellite](https://open.spotify.com/track/6CWPaj0n9mCcYtuSY8mHcT) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Sleeping Satellite](https://open.spotify.com/album/3Vbxs6cu8QJus0XeXFAmfY) | 2:55 | 2024-11-28 | 2026-04-02 |
 | [Slowmotion](https://open.spotify.com/track/11v4G7wg4Kql7CgKwpqfe0) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Slowmotion](https://open.spotify.com/album/6AJGsWEyP8tnC4ZB6jSr9K) | 2:08 | 2025-12-04 | 2026-03-31 |
 | [Solis Occasum](https://open.spotify.com/track/7jWUSD8WyNSbjoYHHo2XbJ) | [Tommy Loude](https://open.spotify.com/artist/1Tw4EeFgfssOA3CHXCSkvF) | [Chill Executive Officer \(CEO\), Vol\. 11 \[Selected by Maykel Piron\]](https://open.spotify.com/album/6qfsHKnJVaxuUqEN5CzTDh) | 2:58 | 2024-07-26 | 2024-08-31 |
 | [Some Kind Of Love](https://open.spotify.com/track/4v8owgx9HzilDAf4oCyV8z) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Some Kind Of Love](https://open.spotify.com/album/37iL6vHATQrHkE1Ku5Ucus) | 2:46 | 2022-09-15 | 2024-10-25 |
@@ -358,6 +358,7 @@
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-05-24 | 2024-08-02 |
 | [Where Do We Go](https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Where Do We Go](https://open.spotify.com/album/3lUAZ0WPyJAFf3MWMx0UL7) | 2:42 | 2024-10-24 | 2025-12-05 |
 | [Where You Are](https://open.spotify.com/track/1E1ZsFKUzgfOfGsIpkbpSo) | [Jochem Hamerling](https://open.spotify.com/artist/0NmoVS5ceviB7ewXjElO2p) | [Where You Are](https://open.spotify.com/album/4N5E0IH90NAZbxKVc1n5Sb) | 2:28 | 2025-12-04 | 2026-02-23 |
+| [Who I Am](https://open.spotify.com/track/68xhZFDatrsgFByOoYY7GO) | [Alber\-K](https://open.spotify.com/artist/2BtgaIaWWqtnaK4AIGphVH), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Who I Am](https://open.spotify.com/album/5YWV2NWTHemfJwn25QEteH) | 2:49 | 2026-03-30 |  |
 | [Who You](https://open.spotify.com/track/3xPD3JXD8Uni1xcDKo5KJb) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Who You](https://open.spotify.com/album/4vwgBge6JFZbVCT6Y9OXbn) | 3:25 | 2023-07-27 | 2024-12-13 |
 | [Who's Holding You](https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Who's Holding You](https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96) | 2:41 | 2022-09-15 | 2023-02-15 |
 | [Why Don't We](https://open.spotify.com/track/6NVi9Z6a2po7wDjwIJoWO7) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392) | [Why Don't We](https://open.spotify.com/album/6VfyQEz774EH7EPKL2g8Je) | 2:17 | 2025-01-23 | 2025-02-28 |

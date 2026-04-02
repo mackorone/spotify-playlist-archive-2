@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 279206,
+  "num_followers": 279280,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-03-20 08:41:04",
       "album": {
+        "name": "See Thru",
+        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
+      },
+      "artists": [
+        {
+          "name": "Megan Wroe",
+          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "See Thru",
+      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
+    },
+    {
+      "added_at": "2026-03-20 08:41:04",
+      "album": {
         "name": "No Lie (BL3SS Remix)",
         "url": "https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 134166,
       "name": "No Lie - BL3SS Remix",
       "url": "https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u"
-    },
-    {
-      "added_at": "2026-03-20 08:41:04",
-      "album": {
-        "name": "See Thru",
-        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
-      },
-      "artists": [
-        {
-          "name": "Megan Wroe",
-          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See Thru",
-      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
     },
     {
       "added_at": "2026-03-20 08:41:04",
@@ -1067,30 +1067,6 @@
     {
       "added_at": "2026-03-20 08:41:04",
       "album": {
-        "name": "Hot In Herre",
-        "url": "https://open.spotify.com/album/0dWhoOS6NPadGXYK12ZHp1"
-      },
-      "artists": [
-        {
-          "name": "Cepaque",
-          "url": "https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc"
-        },
-        {
-          "name": "WHYCARE",
-          "url": "https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF"
-        },
-        {
-          "name": "freeroll.",
-          "url": "https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M"
-        }
-      ],
-      "duration_ms": 126956,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/1vkARldHL4suLzugyV9Nuj"
-    },
-    {
-      "added_at": "2026-03-20 08:41:04",
-      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/3zDD4cySzEQjL8L8Z85Tw6"
       },
@@ -1103,6 +1079,26 @@
       "duration_ms": 237772,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0QbrC79RH2z5DAramKLDrE"
+    },
+    {
+      "added_at": "2026-03-20 08:41:04",
+      "album": {
+        "name": "somebody else (Denon Reed Remix)",
+        "url": "https://open.spotify.com/album/5wz4qBXL0AvKwn6DP7nWxF"
+      },
+      "artists": [
+        {
+          "name": "e.motion",
+          "url": "https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ"
+        },
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        }
+      ],
+      "duration_ms": 140704,
+      "name": "somebody else - Denon Reed Remix",
+      "url": "https://open.spotify.com/track/3vfKENQeEa4zGtyWXub7fc"
     },
     {
       "added_at": "2026-03-20 08:41:04",
@@ -1127,22 +1123,26 @@
     {
       "added_at": "2026-03-20 08:41:04",
       "album": {
-        "name": "somebody else (Denon Reed Remix)",
-        "url": "https://open.spotify.com/album/5wz4qBXL0AvKwn6DP7nWxF"
+        "name": "Hot In Herre",
+        "url": "https://open.spotify.com/album/0dWhoOS6NPadGXYK12ZHp1"
       },
       "artists": [
         {
-          "name": "e.motion",
-          "url": "https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ"
+          "name": "Cepaque",
+          "url": "https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc"
         },
         {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+          "name": "WHYCARE",
+          "url": "https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF"
+        },
+        {
+          "name": "freeroll.",
+          "url": "https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M"
         }
       ],
-      "duration_ms": 140704,
-      "name": "somebody else - Denon Reed Remix",
-      "url": "https://open.spotify.com/track/3vfKENQeEa4zGtyWXub7fc"
+      "duration_ms": 126956,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/1vkARldHL4suLzugyV9Nuj"
     },
     {
       "added_at": "2026-03-20 08:41:04",

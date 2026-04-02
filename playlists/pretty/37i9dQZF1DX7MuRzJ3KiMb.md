@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > aquí están las joyas escondidas del 2025, elegidas por tus editores 🙂‍↕️
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,859 likes - 115 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,861 likes - 115 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 91 | [Alma de Diamante](https://open.spotify.com/track/7K3cxHHs1s3n2cq9xenNCk) | [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [EN VIVO VOLUMEN I](https://open.spotify.com/album/5JsejNz8xfUgabk9A83moM) | 6:33 |
 | 92 | [Entre Sombras](https://open.spotify.com/track/5PxpdL4bx14onNU1BVlSrA) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [La Cruz De Mi Conciencia](https://open.spotify.com/album/6vBoHwzDVVsXX0kTKxEJI8) | 3:36 |
 | 93 | [Ácido!](https://open.spotify.com/track/3prWKUEpsSgS8EkK6SmXkN) | [Biowaverave](https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK) | [Antes de Ti](https://open.spotify.com/album/47R3I7GRYUM6Zuum51wl6m) | 2:03 |
-| 94 | [GRANADA](https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GRANADA](https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81) | 2:19 |
-| 95 | [contraste](https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO](https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e) | 3:11 |
+| 94 | [contraste](https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO](https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e) | 3:11 |
+| 95 | [GRANADA](https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GRANADA](https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81) | 2:19 |
 | 96 | [Espiral](https://open.spotify.com/track/1XjB5CC1i2lN9eGupMQSWy) | [Edgar bajo el agua](https://open.spotify.com/artist/5Gq1FVsVF0emJgUH0GqqDv) | [III](https://open.spotify.com/album/06pFNFPnFGxswcfLUbwbO8) | 4:04 |
 | 97 | [Fan](https://open.spotify.com/track/2GnlfajRt88U69nyS2WMVN) | [Homogénica](https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt) | [POST POP](https://open.spotify.com/album/70IzpQpAhKr7QaGEPA1Fvp) | 4:00 |
-| 98 | [Óxido \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/3j1abdTMpaSKiVOYykJLL4) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Óxido \(Nick Warren & Nicolas Rada Remix\)](https://open.spotify.com/album/10q7J2PEljNlw5o2kBCItF) | 6:54 |
-| 99 | [Mil Partes](https://open.spotify.com/track/06q0EVWp3loq550nBzhIeQ) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Único y Nuestro](https://open.spotify.com/album/1pWO58Hg05C5nhlgKEcxdH) | 4:51 |
+| 98 | [Mil Partes](https://open.spotify.com/track/06q0EVWp3loq550nBzhIeQ) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Único y Nuestro](https://open.spotify.com/album/1pWO58Hg05C5nhlgKEcxdH) | 4:51 |
+| 99 | [Óxido \- Nick Warren & Nicolas Rada Remix](https://open.spotify.com/track/3j1abdTMpaSKiVOYykJLL4) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Óxido \(Nick Warren & Nicolas Rada Remix\)](https://open.spotify.com/album/10q7J2PEljNlw5o2kBCItF) | 6:54 |
 | 100 | [Visita guiada](https://open.spotify.com/track/6GclajlxxpiIXjVEnHTbLx) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Invierno en la playa](https://open.spotify.com/album/2MVDwWtKOqZlrXnS5d5liU) | 4:37 |
 | 101 | [Lo Tiguerone Tambien Lloran](https://open.spotify.com/track/6ZRdZcMAfc9ruSBOIdY7gM) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [Chicho Severino](https://open.spotify.com/artist/1wTD4g0RwsDBhGj16YQJeu) | [Lo Tiguerone Tambien Lloran](https://open.spotify.com/album/0gLjcmGeWgbwdhmByUXdxH) | 2:27 |
 | 102 | [pijama.](https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 2:38 |

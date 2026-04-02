@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,249 songs - 2 day 5 hr 58 min
+1,250 songs - 2 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -899,6 +899,7 @@
 | [Rule The World](https://open.spotify.com/track/30lGvPbo5wFU65ZCd62UGV) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Donna Senders](https://open.spotify.com/artist/6an7nK86PPq4I4yTlBd48P), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs) | [Rule The World](https://open.spotify.com/album/5k722C0FunB4YlNtz1m8c3) | 3:15 | 2024-03-01 | 2024-05-13 |
 | [Run Away](https://open.spotify.com/track/70yvajJ19TJWJH3g50TveP) | [Blevo](https://open.spotify.com/artist/5Uu0ppV7jzY7ZR9xVCInHO), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Run Away](https://open.spotify.com/album/7g0sfTMWmu3mHqpfFh6bH5) | 2:09 | 2024-05-16 | 2025-01-26 |
 | [Run Run Run Away](https://open.spotify.com/track/4NlATmGr57Vmk6NCZ0Omlb) | [Saimöö](https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [Bjerke](https://open.spotify.com/artist/3I2Ac6BV9dfdOAVjFmWIGX) | [Run Run Run Away](https://open.spotify.com/album/6loZEkkTEDX56uYQe3fQdt) | 2:17 | 2025-02-23 | 2025-05-19 |
+| [Run To You](https://open.spotify.com/track/238afnxbWyFu1kct3GMufx) | [ElSchacko](https://open.spotify.com/artist/1JWreSMob6umLV7tASOkDD), [Gabriel Summer](https://open.spotify.com/artist/5RvQBdIhGuwlH4Xl7bfHSt), [RÆ](https://open.spotify.com/artist/4Tyf5eR5dtPiPFM2WaME4h) | [Run To You](https://open.spotify.com/album/3PZ6yupy1KwN5PqKkZsRkE) | 2:50 | 2026-04-01 |  |
 | [Runaway](https://open.spotify.com/track/2fsmmxnl2AHQEoEW3pheQJ) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Runaway](https://open.spotify.com/album/5KrlLxEmWLob6U7Vnf90zH) | 2:22 | 2024-12-20 | 2025-06-10 |
 | [Runaway](https://open.spotify.com/track/1K0hfTvzjtTBzx0amj0VBS) | [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz) | [Runaway](https://open.spotify.com/album/023QUfqcxyMQFLMflTti6E) | 2:08 | 2026-01-18 |  |
 | [Runaway](https://open.spotify.com/track/2N0L3jEwhhD1vLwtk1baTJ) | [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt), [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk) | [Runaway](https://open.spotify.com/album/1hbTypNlDTJdXMK677REtZ) | 2:52 | 2026-02-01 | 2026-03-02 |

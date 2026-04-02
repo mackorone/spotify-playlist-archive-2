@@ -4256,6 +4256,28 @@
     {
       "album": {
         "name": "Aura",
+        "url": "https://open.spotify.com/album/7AKzmC4VXzzgghZCQjgLwC"
+      },
+      "artists": [
+        {
+          "name": "Leni Woess",
+          "url": "https://open.spotify.com/artist/0fSBueYy55sehA6UosEenX"
+        },
+        {
+          "name": "Toby Woess",
+          "url": "https://open.spotify.com/artist/3faX3WRF06b0oDpf1OsOBw"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/35UdyWuFoZEQ1nxDHxt95Z"
+    },
+    {
+      "album": {
+        "name": "Aura",
         "url": "https://open.spotify.com/album/2WdZI1uRBQA4Li3tLrzufe"
       },
       "artists": [
@@ -4270,7 +4292,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 132244,
       "name": "Aura",
       "url": "https://open.spotify.com/track/48Uq5TPdfMYi0yiwATCD8u"
@@ -15409,6 +15431,24 @@
     },
     {
       "album": {
+        "name": "Eller \u00dczer",
+        "url": "https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4"
+      },
+      "artists": [
+        {
+          "name": "Serkan Ni\u015fanc\u0131",
+          "url": "https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198910,
+      "name": "Eller \u00dczer",
+      "url": "https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA"
+    },
+    {
+      "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
       },
@@ -19392,7 +19432,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 152048,
       "name": "Gef\u00e4hrlich",
       "url": "https://open.spotify.com/track/5AOMAHYhBm92nyPBDHNsrv"
@@ -43236,7 +43276,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 170500,
       "name": "Rennen",
       "url": "https://open.spotify.com/track/6uMA4BZKZ4B6VSVZ7GsqiQ"
@@ -43972,7 +44012,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"

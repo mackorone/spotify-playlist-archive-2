@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7MdlXmq2HViAJWo9cf30sR">Cloonee</a>'s favorite tracks\. Curated by Cloonee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-69 songs - 5 hr 6 min
+70 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Fat Gash](https://open.spotify.com/track/4O26nonjyrJsKJT5GrHA0t) | [wAFF](https://open.spotify.com/artist/4OHSon9N7JAfxkjlH8nKDb) | [Fat Gash EP](https://open.spotify.com/album/667weWTwkLEAvk2q5zK53T) | 6:10 | 2026-03-26 |  |
 | [Fly 4 Life](https://open.spotify.com/track/6OyZbcSXaA9vY7rNP2X4wb) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Fly 4 Life EP](https://open.spotify.com/album/5xFm6nI7bWRcZR1JktaPbC) | 7:15 | 2026-03-26 |  |
 | [Frank De La Finca](https://open.spotify.com/track/4tPs2mr9UDFoago0bZxl7d) | [Sunday Noise](https://open.spotify.com/artist/7GIGyQw9goHVF0MRV4bGRY), [Kevin York](https://open.spotify.com/artist/33K1fLuJUrv7etyuaEGj6Q) | [Frank De La Finca](https://open.spotify.com/album/3xMqXHAdm2sgCTPv8itHpd) | 4:25 | 2026-03-26 |  |
+| [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 | 2026-04-01 |  |
 | [Grey](https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Speicher 93](https://open.spotify.com/album/3ynaPdzABzDYa71e6RSagL) | 4:53 | 2026-03-26 |  |
 | [Groove De Dia](https://open.spotify.com/track/0KMfLyVFY7TrQ9NQIYQ14N) | [Alonso Bierg](https://open.spotify.com/artist/32Apq7bkLTi0XnADTMj4qt) | [Primera Dosis](https://open.spotify.com/album/6vfoffiWygHYD4vfoUScFV) | 6:18 | 2026-03-26 |  |
 | [Has It Come to This?](https://open.spotify.com/track/35zEswqAFI1D41cmoBXOFK) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/0hkZGxfsFypXbjq15hM6U9) | 4:05 | 2026-03-26 |  |

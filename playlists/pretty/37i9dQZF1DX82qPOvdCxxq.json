@@ -1,15 +1,127 @@
 {
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: CRYS",
-  "num_followers": 57473,
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Kaelob Mecum",
+  "num_followers": 57498,
   "original_name": "Fresh Finds Faith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHnT/mmKcwX7CLW9SNNNzUv0kCMT",
+  "snapshot_id": "AAAAADdl1lKLeQbB7gBblYY3H4lThBKB",
   "tracks": [
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
+      "album": {
+        "name": "The Lion",
+        "url": "https://open.spotify.com/album/4DoERFot0mneUyrLYl5OQf"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "Needs Reminding",
+      "url": "https://open.spotify.com/track/2uVs6YttPRfHiESD3sDBlz"
+    },
+    {
+      "added_at": "2026-04-01 04:00:15",
+      "album": {
+        "name": "Faithful (To The End)",
+        "url": "https://open.spotify.com/album/0C7WzdyLTAtRyJ7ZNS3Bqp"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Faithful (To The End)",
+      "url": "https://open.spotify.com/track/6bp5xcAS8GhJA3ndU1L4xE"
+    },
+    {
+      "added_at": "2026-04-01 04:00:15",
+      "album": {
+        "name": "taking my time",
+        "url": "https://open.spotify.com/album/7pO51aCa2ipEwMlCSxyIAl"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "duration_ms": 244109,
+      "name": "taking my time",
+      "url": "https://open.spotify.com/track/72e5glwqOjwtCoqQqnHzlu"
+    },
+    {
+      "added_at": "2026-04-01 04:00:15",
+      "album": {
+        "name": "GUI\u00c1NDOME",
+        "url": "https://open.spotify.com/album/74ZME2LkK4eTMOyP7KNJx5"
+      },
+      "artists": [
+        {
+          "name": "Obyone",
+          "url": "https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "GUI\u00c1NDOME",
+      "url": "https://open.spotify.com/track/7Ls0aT898TTeJcGoLiE2Kt"
+    },
+    {
+      "added_at": "2026-04-01 04:00:15",
+      "album": {
+        "name": "ONE MORE TIME",
+        "url": "https://open.spotify.com/album/3c1GrykenGz0TzQWOd4jFL"
+      },
+      "artists": [
+        {
+          "name": "Kodoku",
+          "url": "https://open.spotify.com/artist/2mDygmvuNzsZhLvMfEUfmu"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/76Dbm4dC1stIWgfwN0pgFE"
+    },
+    {
+      "added_at": "2026-04-01 04:00:15",
+      "album": {
+        "name": "satisfy",
+        "url": "https://open.spotify.com/album/6ICJtST9bSLGneiW2mHQGJ"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "satisfy",
+      "url": "https://open.spotify.com/track/0RrHaxsOxMTwRnH4X38Tvh"
+    },
+    {
+      "added_at": "2026-04-01 04:00:15",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/4WDZZagdweYpKTinj0aa0c"
+      },
+      "artists": [
+        {
+          "name": "Meeks Carter",
+          "url": "https://open.spotify.com/artist/1cuL1Q6C4uzrqXFOsnR4p7"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5TNEZzKJS6wgN4709yHzE0"
+    },
+    {
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Momento",
         "url": "https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI"
@@ -25,7 +137,7 @@
       "url": "https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3"
@@ -45,7 +157,7 @@
       "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "herts on fire",
         "url": "https://open.spotify.com/album/04G4D5LWqd7hmTIiAUHxEs"
@@ -61,7 +173,7 @@
       "url": "https://open.spotify.com/track/3TQNYcQpNk68ANvFCkodeM"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "BE LIKE YOU",
         "url": "https://open.spotify.com/album/3GSoVFUdlFJhCSwtRCili8"
@@ -77,7 +189,7 @@
       "url": "https://open.spotify.com/track/5yBd7UAaQXHyDjfrPcjHoq"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/7GmFDY0cqT4vqdf2kAGbbh"
@@ -93,7 +205,7 @@
       "url": "https://open.spotify.com/track/6FNIph6EcdmpEHp33oiN0d"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Find My Way Back",
         "url": "https://open.spotify.com/album/7D4pULZd24AwY40F8DJaLo"
@@ -109,7 +221,7 @@
       "url": "https://open.spotify.com/track/7iDH7KhxWHGSUmOZHvM0Dr"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/6UdqObEaMcSQtAyfMy9BN1"
@@ -125,7 +237,7 @@
       "url": "https://open.spotify.com/track/7o9Dg9YZxg3ZWLVYiK5UIu"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Light of the World (John 8)",
         "url": "https://open.spotify.com/album/4rd7wAjNFrH9WdeH5kJsl3"
@@ -145,7 +257,7 @@
       "url": "https://open.spotify.com/track/6p7qWnVcx1lOXXX1U3ehCp"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/4KY5t6jZ9BRCxL1ZHGW6rO"
@@ -161,7 +273,7 @@
       "url": "https://open.spotify.com/track/57D4aDWr9L8QnLkH1NIyIS"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "New Thing",
         "url": "https://open.spotify.com/album/4dEU1LrAxGX4Vq1bis0mCn"
@@ -177,7 +289,7 @@
       "url": "https://open.spotify.com/track/4KJj2EuGyL7q47lH3vGciN"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Far Be It From Me",
         "url": "https://open.spotify.com/album/218mUDi1Kv8R8thsp9WUrb"
@@ -193,7 +305,7 @@
       "url": "https://open.spotify.com/track/5ZjprV2bUZKA4WW5HKa2jq"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "God of My Seasons",
         "url": "https://open.spotify.com/album/3eFnsqYlwxYIyOjGZiEOFY"
@@ -209,23 +321,7 @@
       "url": "https://open.spotify.com/track/7fEF9XFVbNsmLJhg100rSq"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
-      "album": {
-        "name": "On Fire Still",
-        "url": "https://open.spotify.com/album/6oyBJE1wMizpgPyg2D6Pnw"
-      },
-      "artists": [
-        {
-          "name": "Kaelob Mecum",
-          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "On Fire Still",
-      "url": "https://open.spotify.com/track/7dypv6j24ELNfafCknr66W"
-    },
-    {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "You Loved Me First",
         "url": "https://open.spotify.com/album/2igiPSrGLGeuFElYgNPF0V"
@@ -241,7 +337,7 @@
       "url": "https://open.spotify.com/track/4KRGSKS702BHApwZBiCtZR"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Something Greater",
         "url": "https://open.spotify.com/album/7qUfmnn51RAzZhCCHSoH1V"
@@ -257,23 +353,7 @@
       "url": "https://open.spotify.com/track/1BB08C42ZCxoMa97OgYLi7"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
-      "album": {
-        "name": "best thing",
-        "url": "https://open.spotify.com/album/3cReeK55hE5LnvhpLA8kh9"
-      },
-      "artists": [
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
-        }
-      ],
-      "duration_ms": 233583,
-      "name": "best thing",
-      "url": "https://open.spotify.com/track/5GFxzXTom2S4ZhC7JSOBEh"
-    },
-    {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Bitter Cup",
         "url": "https://open.spotify.com/album/1MYvXf2utnr7N7ZzEwPsqH"
@@ -293,7 +373,7 @@
       "url": "https://open.spotify.com/track/1aC2XHu88jjgv3k6Eumd8C"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "tried & true",
         "url": "https://open.spotify.com/album/7LQTfoTrSsfNX50zvi4QfH"
@@ -313,7 +393,7 @@
       "url": "https://open.spotify.com/track/3KaDZgcxR2JwFVPNj0MMva"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "oceans",
         "url": "https://open.spotify.com/album/6p7d9K2cEavpYmbl8Rpivz"
@@ -333,7 +413,7 @@
       "url": "https://open.spotify.com/track/0WJ8b61eOE5AjuHTEeVIte"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "From Profit to Purpose",
         "url": "https://open.spotify.com/album/6uh7SgAq63sEi2SOb7wxFk"
@@ -361,7 +441,7 @@
       "url": "https://open.spotify.com/track/1Z2PaVTRj70DlxD6qqcCHg"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "WEATHER",
         "url": "https://open.spotify.com/album/1m2Wphag7im8RefkQHSNAM"
@@ -381,7 +461,7 @@
       "url": "https://open.spotify.com/track/5F2K7DYwQzJJR7kHagQbtu"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/0S4NeVyFfDlqIZ75Y3qTqL"
@@ -405,7 +485,7 @@
       "url": "https://open.spotify.com/track/2pAdH7u6RWSiyFsBLDo9QF"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "KEEP MOVING",
         "url": "https://open.spotify.com/album/1KJHczPnIT7ZE5gxhFBj0j"
@@ -421,7 +501,7 @@
       "url": "https://open.spotify.com/track/45O7UAhY9CqEHyLwvWRwMS"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Stay Close",
         "url": "https://open.spotify.com/album/0m3ED6ovwyXBhFLDw44JHH"
@@ -437,7 +517,7 @@
       "url": "https://open.spotify.com/track/2rulvx7ge8pyeDa9y4wpAu"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/21XaFlDNEWcXZA4fSZ2L3Q"
@@ -453,23 +533,7 @@
       "url": "https://open.spotify.com/track/73QszGGT4LFAs13Meka1TK"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
-      "album": {
-        "name": "The Table",
-        "url": "https://open.spotify.com/album/1PEf5sXES0sPMFxiUNypEX"
-      },
-      "artists": [
-        {
-          "name": "Anna Childs",
-          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
-        }
-      ],
-      "duration_ms": 252540,
-      "name": "The Table",
-      "url": "https://open.spotify.com/track/2wWzEDufN9Mj6aot6IUYR3"
-    },
-    {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Fortress",
         "url": "https://open.spotify.com/album/6sBffTAx1wTAk10j8oNZiX"
@@ -485,7 +549,7 @@
       "url": "https://open.spotify.com/track/6UVu48178Ean6ymEL1nWBi"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "For The Heavy Hearts III",
         "url": "https://open.spotify.com/album/6ucJpVubEVjSZPmaLcDnl9"
@@ -501,7 +565,7 @@
       "url": "https://open.spotify.com/track/44XQspIvEGJY2jAzT5qfH3"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Can\u2019t Keep A Secret",
         "url": "https://open.spotify.com/album/1aKlGxC90P7YDKJfYAat5Y"
@@ -517,7 +581,7 @@
       "url": "https://open.spotify.com/track/6YiUHNjJDJaAJCBaBG0lBZ"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "ALWAYS YOU",
         "url": "https://open.spotify.com/album/7acQiz9Unb5q1jRYPNrTHu"
@@ -533,7 +597,7 @@
       "url": "https://open.spotify.com/track/7e2uBwmyDMiCkfqoeyxHy6"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Looking At You",
         "url": "https://open.spotify.com/album/7igjXC4yOBiagGa0co0esw"
@@ -549,7 +613,7 @@
       "url": "https://open.spotify.com/track/3UwNV6c7gAGRyIFWfdZPlV"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/1KTeCVxJeIYvc7O5huX2I5"
@@ -565,7 +629,7 @@
       "url": "https://open.spotify.com/track/4jg4CfzBBZL3qAqtFayoPQ"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Confidence (Acoustic)",
         "url": "https://open.spotify.com/album/6mg5de85VewjDIlCKAhTYO"
@@ -581,7 +645,7 @@
       "url": "https://open.spotify.com/track/2UcewXrUzcUquALTwO1bTQ"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Long Way to Fall",
         "url": "https://open.spotify.com/album/72NpmZY4juZ0WqxFSH0CVB"
@@ -597,7 +661,7 @@
       "url": "https://open.spotify.com/track/6UhuVdq7v4GzV2DKtbesCn"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Easel",
         "url": "https://open.spotify.com/album/1DBnQ2Wl9s5TF6n2beqpC3"
@@ -613,7 +677,7 @@
       "url": "https://open.spotify.com/track/2B0aTNe9W9k4cH9tGGsCvd"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "beauty & love",
         "url": "https://open.spotify.com/album/1akBMQl5vGrNas29IEG4wj"
@@ -629,7 +693,7 @@
       "url": "https://open.spotify.com/track/4XGkBfD397mVlrFwC7W9yY"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/1GmC2CMP8rd6U9c2Su6Db3"
@@ -645,7 +709,7 @@
       "url": "https://open.spotify.com/track/4aT3R0Z3sXt3EPRpcNvOdQ"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "FEELS SO GOOD TO BE FREE",
         "url": "https://open.spotify.com/album/0WgZQnXChCDOiyql7AKP0b"
@@ -661,7 +725,7 @@
       "url": "https://open.spotify.com/track/2OWodsuRDYoWIQwa5BWKVV"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "i can see ur progress from here",
         "url": "https://open.spotify.com/album/19uxmnBsktsHPlLCooMyLn"
@@ -681,7 +745,7 @@
       "url": "https://open.spotify.com/track/69uOKhqJ6y1kkayZILeJaa"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "That's Enough",
         "url": "https://open.spotify.com/album/7jc9vRlPv0D3AS6OKgPOo2"
@@ -697,7 +761,7 @@
       "url": "https://open.spotify.com/track/5AAvli2zLxc0aGXLwNTU4o"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/3S3BaqK9qT7ldytSxEbWRk"
@@ -713,7 +777,7 @@
       "url": "https://open.spotify.com/track/5sCAYbVqMzoo92kln5zfdq"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Paradox",
         "url": "https://open.spotify.com/album/4Prk1kR5doz0RtzdHyhptB"
@@ -729,7 +793,7 @@
       "url": "https://open.spotify.com/track/1Og4ZSncc4wkmA5uBpr2Ov"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "sharing Jesus with an ex",
         "url": "https://open.spotify.com/album/6um401jXC8mKsa5j9ZEbIc"
@@ -745,7 +809,7 @@
       "url": "https://open.spotify.com/track/4UMyvWKB7ggyig9rixl6K3"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Made it Through",
         "url": "https://open.spotify.com/album/3cylRxbKzlBm26I18axPwM"
@@ -761,23 +825,7 @@
       "url": "https://open.spotify.com/track/3sAys0jX45bH4JJv017HV2"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
-      "album": {
-        "name": "aLgO simPLE (UnPLuGGed)",
-        "url": "https://open.spotify.com/album/6EKvhwRmYtC8LHCGt2l6Ai"
-      },
-      "artists": [
-        {
-          "name": "Obyone",
-          "url": "https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa"
-        }
-      ],
-      "duration_ms": 184593,
-      "name": "dAr\u00c9 Lo mEjOr dE Mi (UnPLuGGed)",
-      "url": "https://open.spotify.com/track/14Lrfru5BIOdFSFJ379t2v"
-    },
-    {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Have Your Way",
         "url": "https://open.spotify.com/album/3BvJZikw1KASDbMO22Gcjq"
@@ -793,7 +841,7 @@
       "url": "https://open.spotify.com/track/1i6Ns9XggdvEQwVHOW7hOd"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/3XzoRMHTxWgefpNqGnWzM9"
@@ -813,7 +861,7 @@
       "url": "https://open.spotify.com/track/2P0TvLxCynuPGquWInTmQc"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "YES BE YES",
         "url": "https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj"
@@ -829,7 +877,7 @@
       "url": "https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "PEACE OF MIND",
         "url": "https://open.spotify.com/album/3cCbpRCZjcEiHTT9WOz2JL"
@@ -849,7 +897,7 @@
       "url": "https://open.spotify.com/track/2G3fpPjR6eThehljDfcc74"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "jealous",
         "url": "https://open.spotify.com/album/2TP4ZLZtq4ITxY9NLeSHxh"
@@ -865,7 +913,7 @@
       "url": "https://open.spotify.com/track/03FP4prFvPGqLUbeECGgju"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Waiting For You (feat. Reggie Dartey)",
         "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
@@ -885,7 +933,7 @@
       "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/61pP34hYNU1rpXQEc8vKTW"
@@ -901,7 +949,7 @@
       "url": "https://open.spotify.com/track/3o0ASteEuzlvOEENMtCZO1"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "WHO BIGGER",
         "url": "https://open.spotify.com/album/2MtJgdYiYtezJYn2IE60NJ"
@@ -921,7 +969,7 @@
       "url": "https://open.spotify.com/track/7vOanjJViklqgEMFmCWoWU"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/05CzZhKjVMbnQ2htI4Kgdp"
@@ -937,7 +985,7 @@
       "url": "https://open.spotify.com/track/4KV9gLtYKaRshRS7wjrazJ"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "luv in motion",
         "url": "https://open.spotify.com/album/2vjmcTGz7tIhyZAfBzi1Gb"
@@ -957,7 +1005,7 @@
       "url": "https://open.spotify.com/track/7EkXI95V6LBbmrzFH7PwVD"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "GOD'S HANDS",
         "url": "https://open.spotify.com/album/3cVyk2yqxSYm9eofvXVnqn"
@@ -973,23 +1021,7 @@
       "url": "https://open.spotify.com/track/42nAjWvLw5ENbpWIKzP16z"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
-      "album": {
-        "name": "Never Will",
-        "url": "https://open.spotify.com/album/2lCWWtQOw1Q2yuJbvvUZEH"
-      },
-      "artists": [
-        {
-          "name": "MUCH MORE",
-          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
-        }
-      ],
-      "duration_ms": 105333,
-      "name": "Never Will",
-      "url": "https://open.spotify.com/track/0frThc9Apz7Y1EZRDYF3Co"
-    },
-    {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Centered",
         "url": "https://open.spotify.com/album/1cX1VwG8TdWoveZscyf8nk"
@@ -1005,7 +1037,7 @@
       "url": "https://open.spotify.com/track/57Y7OO1fpZithfITz4H5kp"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "So Much Better",
         "url": "https://open.spotify.com/album/1YCA346hKtzVMVuQrDH2fr"
@@ -1025,23 +1057,7 @@
       "url": "https://open.spotify.com/track/7GfigsBzSyuDsrnbsoE301"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
-      "album": {
-        "name": "Unraveled",
-        "url": "https://open.spotify.com/album/1t8D2jmaMU9ny9lBJkCr1I"
-      },
-      "artists": [
-        {
-          "name": "Baily Hager",
-          "url": "https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb"
-        }
-      ],
-      "duration_ms": 154038,
-      "name": "Unraveled",
-      "url": "https://open.spotify.com/track/3gmMSv0H6mBXqZLalNY7ve"
-    },
-    {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "When I'm Doubting",
         "url": "https://open.spotify.com/album/1E8uklv28eJjPMvWPp3Tl2"
@@ -1061,7 +1077,7 @@
       "url": "https://open.spotify.com/track/50fLEAac2KLWKoOVRoXoQx"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/7FIbCysRbo6MPmz6CDYA3M"
@@ -1077,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6aT8gmUi81MVcp3UbwCISr"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "With Me",
         "url": "https://open.spotify.com/album/7Gol6584A2LlwcAMGzH0Fh"
@@ -1093,7 +1109,7 @@
       "url": "https://open.spotify.com/track/0a8pyKkJDooOWv4nj1tn5C"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "The Table",
         "url": "https://open.spotify.com/album/3l2DQSE8cbstir7K0QKZ6d"
@@ -1109,7 +1125,7 @@
       "url": "https://open.spotify.com/track/5E1KI7bfDS0dwEBlszVjEa"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "What A Friend",
         "url": "https://open.spotify.com/album/7lTpMxZbbv6CI1MRVeafoS"
@@ -1125,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2Ce5mlADVbZ89PjyTbA4Vd"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Paths",
         "url": "https://open.spotify.com/album/5QYE1t8NMJwWaAJyWY8ylB"
@@ -1145,7 +1161,7 @@
       "url": "https://open.spotify.com/track/1fR3dT23kscB6N9Y2xmcYB"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/1q2AEE6U8SJKsQD0r9HHSX"
@@ -1161,23 +1177,7 @@
       "url": "https://open.spotify.com/track/2BRlXNm7lgzK0eBrMfinnm"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
-      "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
-      },
-      "artists": [
-        {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
-        }
-      ],
-      "duration_ms": 186558,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
-    },
-    {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb"
@@ -1193,7 +1193,7 @@
       "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Barter",
         "url": "https://open.spotify.com/album/3Ygj0OorA80jw0W4EbViwK"
@@ -1209,7 +1209,7 @@
       "url": "https://open.spotify.com/track/7MFbesTdcv5KiSFORxThgQ"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Waterfall (Edit)",
         "url": "https://open.spotify.com/album/34C74dScR7DTLjgp36oXCT"
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/0Ex4LayPEy56W7a0ym069O"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Woman Of Me",
         "url": "https://open.spotify.com/album/5JV3aHNpmimwsh3Woml32k"
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/28FXH19Z9ihzOJKiFYyK6e"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Red Rocks and Roses",
         "url": "https://open.spotify.com/album/7df5LYcHEKEVpGUyRXfiaM"
@@ -1261,7 +1261,7 @@
       "url": "https://open.spotify.com/track/55FGAVwbRH3o5PPc0UC7ai"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "Speak To Me",
         "url": "https://open.spotify.com/album/7uw9hDiRSE9c3y136abO2r"
@@ -1277,7 +1277,7 @@
       "url": "https://open.spotify.com/track/7kyseZ7IHFT5R8hfw9Uvra"
     },
     {
-      "added_at": "2026-03-26 06:24:26",
+      "added_at": "2026-04-01 04:00:15",
       "album": {
         "name": "I'm Not Okay",
         "url": "https://open.spotify.com/album/0e367oG5ZQ05JyRQtH4hou"

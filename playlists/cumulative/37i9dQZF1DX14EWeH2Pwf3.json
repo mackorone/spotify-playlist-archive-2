@@ -3789,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "BUONA DOMENICA",
+        "url": "https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187254,
+      "name": "BUONA DOMENICA",
+      "url": "https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty"
+    },
+    {
+      "album": {
         "name": "Bussola",
         "url": "https://open.spotify.com/album/7AzZyWqZpsUP8HwwvL9CTZ"
       },
@@ -5982,7 +6000,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 236000,
       "name": "Dedicated (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/4iIGP2u4BftHmMenXYWOyt"

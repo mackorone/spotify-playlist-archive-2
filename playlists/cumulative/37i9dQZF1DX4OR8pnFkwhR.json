@@ -1705,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Another me / close your eyes",
+        "url": "https://open.spotify.com/album/4WlL74F0elMQ9eE6DQUgDg"
+      },
+      "artists": [
+        {
+          "name": "\u9752\u6d77\u9f8d",
+          "url": "https://open.spotify.com/artist/1sYVt0SAjwcXQpoSXV4vkm"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224929,
+      "name": "Another me",
+      "url": "https://open.spotify.com/track/4UwVCD6XeS63iNGhyev5uB"
+    },
+    {
+      "album": {
         "name": "Another World (Alt. ver.)",
         "url": "https://open.spotify.com/album/57dmGLpMBQyVWOVlvFOcnV"
       },
@@ -28135,6 +28153,24 @@
     },
     {
       "album": {
+        "name": "\u30ae\u30e5\u30fc\u30a2\u30b0",
+        "url": "https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188588,
+      "name": "\u30ae\u30e5\u30fc\u30a2\u30b0",
+      "url": "https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV"
+    },
+    {
+      "album": {
         "name": "\u30af\u30a8\u30b9\u30c1\u30e7\u30f3",
         "url": "https://open.spotify.com/album/7iUsgV2Sr93tmNaWKzzfwx"
       },
@@ -32312,7 +32348,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 224480,
       "name": "\u4e09\u65e5\u6708",
       "url": "https://open.spotify.com/track/2OySFMcSp7sQme28OZrm0B"

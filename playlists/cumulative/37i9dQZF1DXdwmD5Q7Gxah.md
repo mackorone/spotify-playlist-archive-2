@@ -4,7 +4,7 @@
 
 > Fcukers debut album bby <3 <a href="https://loremandfriends.substack.com/p/everything\-comes\-back\-around\-and">read our substack 🫧  </a>
 
-3,747 songs - 8 day 13 hr 9 min
+3,749 songs - 8 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [Clay Pigeon](https://open.spotify.com/track/1yZyPhdJF5L60qDUeuwojc) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Clay Pigeon](https://open.spotify.com/album/1ACZGErPeFAM92avUZMvZZ) | 2:29 | 2021-05-22 | 2021-07-29 |
 | [Clayboy](https://open.spotify.com/track/1V6MFi1F5PeiYe4NnADO6o) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Clayboy](https://open.spotify.com/album/6b4mSAa3dcAa2MREOBopYI) | 2:35 | 2025-03-21 | 2025-04-05 |
 | [Clean Me Up](https://open.spotify.com/track/6zUw4QJytKkTBhwbRC6OiM) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Clean Me Up](https://open.spotify.com/album/3EzxxqIyKOmLlP5agpW0Tm) | 2:45 | 2020-01-28 | 2020-05-14 |
+| [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:01 | 2026-04-01 |  |
 | [clone](https://open.spotify.com/track/0kks3I4UdlWXWuuLghwuTd) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [clone](https://open.spotify.com/album/1a1D1dzfVa4y57TldQBoJb) | 3:34 | 2020-11-20 | 2021-03-09 |
 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 | 2021-12-01 | 2022-04-09 |
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2021-02-03 | 2021-08-14 |
@@ -1450,6 +1451,7 @@
 | [High](https://open.spotify.com/track/0slFxroneqRA0nxBEfEtuZ) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [High](https://open.spotify.com/album/4RW4vzbBJ6s5qtP6Ade503) | 2:45 | 2020-08-14 | 2020-09-04 |
 | [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 | 2025-02-14 | 2025-05-14 |
 | [High Hopes \(feat\. Omar Apollo\)](https://open.spotify.com/track/5dl8x4xLEzZC0f927WBTUG) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:02 | 2023-07-31 | 2023-08-12 |
+| [high me raise](https://open.spotify.com/track/5Twl9IMecWukJB5FPPeo28) | [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [high me raise / bullet caught in a spiders web](https://open.spotify.com/album/0EYMggfIHnSwm8JjsTTLyO) | 2:14 | 2026-04-01 |  |
 | [High School](https://open.spotify.com/track/0xdYu0o6OjgMPPOoLptru1) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [High School](https://open.spotify.com/album/353XEqU2rwbH11JjyFHp5v) | 3:08 | 2019-09-06 | 2019-09-27 |
 | [High School](https://open.spotify.com/track/6lMSPe1s87AMLpulkYXQZv) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [High School](https://open.spotify.com/album/5vLQPxkoNqwtVQTvZQMPwe) | 3:24 | 2019-11-07 | 2020-07-29 |
 | [High School](https://open.spotify.com/track/2Q5l817bEwCulz8WjTqyvL) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [High School](https://open.spotify.com/album/2FkkDh6CLRFiKwFWE8CJDt) | 2:13 | 2020-05-14 | 2020-05-30 |

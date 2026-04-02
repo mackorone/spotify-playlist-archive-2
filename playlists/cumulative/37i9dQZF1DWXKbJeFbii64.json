@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Coastal Storm Rain",
+        "url": "https://open.spotify.com/album/3jaaXBjkXWUJOB68U6DVdr"
+      },
+      "artists": [
+        {
+          "name": "Brontology",
+          "url": "https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122501,
+      "name": "Backyard Trees in Storm",
+      "url": "https://open.spotify.com/track/6LYLYWCFOPO4EnxfV1bBXE"
+    },
+    {
+      "album": {
         "name": "Heavy Rain and Thunder for Sleeping",
         "url": "https://open.spotify.com/album/4nlCJPktVI9R3VTezTOR8K"
       },
@@ -146,7 +164,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 158040,
       "name": "Baltic Rain and Thunder Sounds",
       "url": "https://open.spotify.com/track/6vL1FJCoBHYqlXrO6sqD3c"
@@ -726,7 +744,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 276935,
       "name": "Glorious Thunder Meditation",
       "url": "https://open.spotify.com/track/1VYEY2HoOync2F8N5CE8ab"
@@ -802,6 +820,42 @@
       "duration_ms": 176400,
       "name": "Hail Rain And Thunder in London",
       "url": "https://open.spotify.com/track/3Xdaw3S3286xOUvGwNWtp9"
+    },
+    {
+      "album": {
+        "name": "Thunderstorms",
+        "url": "https://open.spotify.com/album/7ph5HmdtBgK32R4KdpseAj"
+      },
+      "artists": [
+        {
+          "name": "Moon Geel",
+          "url": "https://open.spotify.com/artist/233dPasuKQ0Iy9txhTLRHa"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142782,
+      "name": "Harbor Lights in Storm",
+      "url": "https://open.spotify.com/track/3Z1XeubmrgIREAzxMXblpf"
+    },
+    {
+      "album": {
+        "name": "Harmonious Thunder",
+        "url": "https://open.spotify.com/album/1ShcAqIJfvbkLfzZQggxNC"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Embrace",
+          "url": "https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Harmonious Thunder",
+      "url": "https://open.spotify.com/track/7qt6wADnCvEwxVvCae6HSi"
     },
     {
       "album": {
@@ -1774,7 +1828,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 162208,
       "name": "Rainy Day Revival",
       "url": "https://open.spotify.com/track/6wwP1kr9MdkRNZLbs1vNGc"
@@ -1961,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "Tropic Thunders",
+        "url": "https://open.spotify.com/album/28RqLfbY07yZdUiJ3acTmT"
+      },
+      "artists": [
+        {
+          "name": "Las Vientas",
+          "url": "https://open.spotify.com/artist/3HzI9Zvsqx2AMuLlikzXTT"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142217,
+      "name": "Sleepless Night Thunder",
+      "url": "https://open.spotify.com/track/7ca0jkTcSKAYEYhFKBepi4"
+    },
+    {
+      "album": {
         "name": "Lit up Sky",
         "url": "https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS"
       },
@@ -2080,7 +2152,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 191625,
       "name": "Stay Inside",
       "url": "https://open.spotify.com/track/3hdJ1hzaVj0qm1DTVX1WNi"
@@ -2138,6 +2210,24 @@
       "duration_ms": 164000,
       "name": "Storm From The North",
       "url": "https://open.spotify.com/track/6suFVz8lztiEwk7WFcM1TN"
+    },
+    {
+      "album": {
+        "name": "Thunder and Rain",
+        "url": "https://open.spotify.com/album/5WIZWLsr0q7u5HGeHtlAmW"
+      },
+      "artists": [
+        {
+          "name": "XY Clouds",
+          "url": "https://open.spotify.com/artist/7egIbqY4RQf9O8JDHHSzI6"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139955,
+      "name": "Storm Over Old Town",
+      "url": "https://open.spotify.com/track/7oeGNolDZMxKsX8gl45k99"
     },
     {
       "album": {
@@ -2314,7 +2404,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 207148,
       "name": "Summer Thunderstorm",
       "url": "https://open.spotify.com/track/6c2vveoFDpdo2VqxcclXkk"
@@ -2390,6 +2480,28 @@
       "duration_ms": 126382,
       "name": "The Mighty Storm",
       "url": "https://open.spotify.com/track/5aBkKR82MfLvIBmJYL5vsz"
+    },
+    {
+      "album": {
+        "name": "Sacred Storms",
+        "url": "https://open.spotify.com/album/0nlcnyGM4UgtHZN8GY5XH4"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183799,
+      "name": "The Palmetto Trembles, Florida",
+      "url": "https://open.spotify.com/track/00115Ox0k9VNyBFCWKqmwq"
     },
     {
       "album": {
@@ -2584,7 +2696,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 142889,
       "name": "Thunder and Roses",
       "url": "https://open.spotify.com/track/5lWm9HCGQFmPA0kgCPfYAY"
@@ -2606,6 +2718,24 @@
       "duration_ms": 140000,
       "name": "Thunder Around The Clock",
       "url": "https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48"
+    },
+    {
+      "album": {
+        "name": "Thunder Bloom",
+        "url": "https://open.spotify.com/album/3jVtRRrHawnoAXyAkcs2jn"
+      },
+      "artists": [
+        {
+          "name": "Lunacy",
+          "url": "https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142561,
+      "name": "Thunder Bloom",
+      "url": "https://open.spotify.com/track/3fXFYWhqRLFEnKFnJQtqwe"
     },
     {
       "album": {
@@ -2879,6 +3009,24 @@
     },
     {
       "album": {
+        "name": "Thunder Rainfall",
+        "url": "https://open.spotify.com/album/1zVVHDMvcFmhf0rSai1RPD"
+      },
+      "artists": [
+        {
+          "name": "Nature Advisor",
+          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209285,
+      "name": "Thunder Rainfall",
+      "url": "https://open.spotify.com/track/40Zf8PY526CdfE3V2Va8fI"
+    },
+    {
+      "album": {
         "name": "Rainy Day Dreams",
         "url": "https://open.spotify.com/album/4rieSIpQMD5QmQBewE9IvE"
       },
@@ -3074,7 +3222,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 174805,
       "name": "Thunderstorm in Cerros Orientales",
       "url": "https://open.spotify.com/track/5lKhA1cvpY9NQpblq5aFVY"
@@ -3266,7 +3414,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 205415,
       "name": "Tropical Queensland Storm",
       "url": "https://open.spotify.com/track/0x6PMqz9jSDPDPqKwRhUjj"

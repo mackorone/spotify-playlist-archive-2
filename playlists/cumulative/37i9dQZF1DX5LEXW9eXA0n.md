@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Ra.D\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,714 songs - 4 day 15 hr 24 min
+1,715 songs - 4 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1272,7 +1272,7 @@
 | [Still](https://open.spotify.com/track/2FPVLNcMPKysmV1TpozETD) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [Still](https://open.spotify.com/album/0dS3PtdYqB4uboBYWRln6H) | 3:43 | 2024-07-22 | 2024-11-29 |
 | [Still Here](https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [EXchange4, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ) | 3:32 | 2025-11-12 |  |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-07 | 2023-01-11 |
-| [Still Here, Still Us](https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot) | [SEEYA](https://open.spotify.com/artist/4FTNfLt89vROIPOad8i6S6) | [Still Here, Still Us](https://open.spotify.com/album/7gI1pzZRjxCgWHMwRb8ouv) | 3:33 | 2026-03-31 |  |
+| [Still Here, Still Us](https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot) | [SeeYa](https://open.spotify.com/artist/3Mbxr8TL0Sny7dUNicKWm2) | [Still Here, Still Us](https://open.spotify.com/album/7gI1pzZRjxCgWHMwRb8ouv) | 3:33 | 2026-03-31 |  |
 | [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 | 2023-07-08 |
 | [Still In The Dream](https://open.spotify.com/track/3bGqReIYmdiHYoUfMDQAKX) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Illustration Music Collaboration with Keykney](https://open.spotify.com/album/7r1FskUKyAYGVfw1u3b4MD) | 4:01 | 2026-01-29 |  |
 | [Still Missing You](https://open.spotify.com/track/7e2H1iYMW6j5bnBEBjRIWH) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Still Missing You](https://open.spotify.com/album/28fEzVIrsZ8MH7OeCpFzG4) | 3:28 | 2026-03-26 |  |
@@ -1355,6 +1355,7 @@
 | [The garden of adverbs \(feat\. Lee Hi\)](https://open.spotify.com/track/6wP9dxp1ZYIe9qrcpJhzko) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 3:52 | 2024-04-26 | 2024-08-11 |
 | [The Homework of Goodbye](https://open.spotify.com/track/04btnsdOITgvLcdOIHOcGr) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [The Homework of Goodbye](https://open.spotify.com/album/4kTO5C4sjdAa9BRoej39hY) | 3:33 | 2025-06-02 | 2025-10-17 |
 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 | 2022-08-01 | 2022-11-02 |
+| [The Late Regret](https://open.spotify.com/track/7012G3S3ScPXTsVPpEcEFj) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The Late Regret](https://open.spotify.com/album/4bg3sxfiifWXZSMgusyybb) | 4:40 | 2026-04-01 |  |
 | [The Look In Your Eyes](https://open.spotify.com/track/0Cg4pZkNpOYNUXxmEYzuAd) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Spring of Youth \(Original Soundtrack\) Part.7](https://open.spotify.com/album/5mAsdROsHGDlu1FK9sdOkM) | 3:45 | 2025-06-11 | 2025-08-12 |
 | [The Man](https://open.spotify.com/track/6lDWYtXTFgHUjMybqYc88U) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Man](https://open.spotify.com/album/4i2vNNCgU467jng2k7EGi2) | 5:04 | 2023-09-18 | 2023-11-14 |
 | [The Memory of Star](https://open.spotify.com/track/29XPPKL4f4X9BqyiKyKyvY) | [You Chae Hoon](https://open.spotify.com/artist/5wkkqpuCF4BTuTJ3TKQl1n) | [Podium](https://open.spotify.com/album/5rS51gsMjupGnMSe4mYSOv) | 4:12 | 2022-07-07 | 2022-10-15 |
@@ -1363,7 +1364,7 @@
 | [The Miracle of Us \(Feat\. Jeon Sang Keun\)](https://open.spotify.com/track/1yDW6SxPAcvdtEO1GVgM6g) | [Song I Han](https://open.spotify.com/artist/4whjJjlywO81WrDptpdttm), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Asterism](https://open.spotify.com/album/3yVBWbnnr7EnjaJiPWdbAK) | 4:23 | 2026-02-09 |  |
 | [The Moment Break up](https://open.spotify.com/track/54IdGS2nVjSTFVKjfKhdjx) | [함의림](https://open.spotify.com/artist/2wIZHiOcTZEOoRsLJ7S5Ju) | [The Moment Break up](https://open.spotify.com/album/3dFfGzSay2HDaTh81MZsUG) | 4:06 | 2023-02-23 | 2023-04-27 |
 | [The moment I saw you](https://open.spotify.com/track/0Nltox4UQt4rXyr2IuXcW4) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/3RfSnDer8OTxMsnzCRD5Fb) | 3:42 | 2023-01-20 | 2023-02-15 |
-| [The Moment My Heart](https://open.spotify.com/track/2RFal9mGAaI0unOTxL2TVN) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [The Moment My Heart](https://open.spotify.com/album/47DIB2hz2EuXrzkpQaGhuw) | 3:49 | 2026-01-02 |  |
+| [The Moment My Heart](https://open.spotify.com/track/2RFal9mGAaI0unOTxL2TVN) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [The Moment My Heart](https://open.spotify.com/album/47DIB2hz2EuXrzkpQaGhuw) | 3:49 | 2026-01-02 | 2026-04-02 |
 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 | 2021-12-20 | 2022-04-17 |
 | [The Moment You Arrive](https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Tell Me That You Love Me, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq) | 4:10 | 2024-01-08 | 2024-06-05 |
 | [The name of the song we never knew](https://open.spotify.com/track/58xLgrmrBJIkttaf67KjgH) | [DK](https://open.spotify.com/artist/0NgvbdprOZ9AdTczmfnGsv), [Soul People](https://open.spotify.com/artist/4osIclpwZM5DUwI2JgBJp3), [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [The name of the song we never knew](https://open.spotify.com/album/1mmmivV8EpfKW7RcQtsKDA) | 3:37 | 2022-07-07 | 2022-07-12 |

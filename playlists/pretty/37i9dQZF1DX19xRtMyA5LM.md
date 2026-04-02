@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: JayKoppig
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,249 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,244 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [VERVELEND DOEN](https://open.spotify.com/track/4yiauUsO4FXLibHQ9UAQv0) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Oomto](https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip) | [SU EFFECT](https://open.spotify.com/album/7p4slYCD1i2UkEJcCi5b8C) | 2:05 |
 | 2 | [Niks Persoonlijks](https://open.spotify.com/track/6tQAp8c1u2UZdTY21xInfF) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Niks Persoonlijks](https://open.spotify.com/album/43lgqe1CDhc1uCCyPitltY) | 2:38 |
 | 3 | [Heavy Heart](https://open.spotify.com/track/7vm1CJUVILsMk5fN7oIRGh) | [Geechi](https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W) | [Heavy Heart](https://open.spotify.com/album/4PKTUSv1RnXJ3WAkf8fYxW) | 1:56 |
-| 4 | [Eerste Klus](https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:19 |
-| 5 | [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 |
-| 6 | [AMBIANCE](https://open.spotify.com/track/7twLk6frSaHq0184G0nwi1) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [AMBIANCE](https://open.spotify.com/album/0O24lyA2ujee85xnSXWHMk) | 2:29 |
-| 7 | [Alleen Is Maar Alleen](https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Alleen Is Maar Alleen](https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy) | 2:22 |
-| 8 | [No Lie](https://open.spotify.com/track/4dCK5jjjWgEODJrdo0Joh1) | [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [vendro](https://open.spotify.com/artist/7udaepa4ooqit76XwlGe4F) | [No Lie](https://open.spotify.com/album/0Ew81HoM7PhRfftFXf7Qer) | 2:54 |
+| 4 | [Alleen Is Maar Alleen](https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Alleen Is Maar Alleen](https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy) | 2:22 |
+| 5 | [Eerste Klus](https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:19 |
+| 6 | [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 |
+| 7 | [NO LIE](https://open.spotify.com/track/4dCK5jjjWgEODJrdo0Joh1) | [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [vendro](https://open.spotify.com/artist/7udaepa4ooqit76XwlGe4F) | [NO LIE](https://open.spotify.com/album/0Ew81HoM7PhRfftFXf7Qer) | 2:54 |
+| 8 | [AMBIANCE](https://open.spotify.com/track/7twLk6frSaHq0184G0nwi1) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [AMBIANCE](https://open.spotify.com/album/0O24lyA2ujee85xnSXWHMk) | 2:29 |
 | 9 | [Hans Kazan](https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hans Kazan](https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV) | 2:40 |
 | 10 | [VISION](https://open.spotify.com/track/39zPho7cnFZQK2SZa1Rb80) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [VISION](https://open.spotify.com/album/6chaqpkGyhU1lo7onzuhac) | 3:06 |
 | 11 | [120 Seconden](https://open.spotify.com/track/2BBxToCpjsCfL6ywZh55S9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Alcantara](https://open.spotify.com/track/6PBgiQ0JVfHBBidyIBQHMe) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Alcantara](https://open.spotify.com/album/4w79VeLMd0PpNWE4Q66zfR) | 3:47 |
 | 60 | [Was Machst Du](https://open.spotify.com/track/3fJOhEiy7FNUpxUrHMtFmE) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Was Machst Du](https://open.spotify.com/album/2O6ObeXY5q7me8jpCQjhu3) | 3:10 |
 
-Snapshot ID: `AAAAAPvSOTeFSKem+IdIJaJzM+H7b7LD`
+Snapshot ID: `AAAAAKmqPZXfYW2FQqvU2f2cZTkA1RUU`

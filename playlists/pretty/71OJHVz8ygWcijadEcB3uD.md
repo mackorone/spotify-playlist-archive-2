@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71OJHVz8ygWcijadEcB3uD.md) - [plain]
 
 > Listen to the best Rock musics🔥.
 
-[BLX RECORDS](https://open.spotify.com/user/31kk7jt42cb2wl27pkokzrwdsl7q) - 817 likes - 517 songs - 1 day 7 hr 18 min
+[BLX RECORDS](https://open.spotify.com/user/31kk7jt42cb2wl27pkokzrwdsl7q) - 817 likes - 518 songs - 1 day 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -525,5 +525,6 @@ pretty - [cumulative](/playlists/cumulative/71OJHVz8ygWcijadEcB3uD.md) - [plain]
 | 515 | [Shine Your Shoes](https://open.spotify.com/track/6Ro4y2BWJt4KlUZfXxfokk) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Donatello Soul](https://open.spotify.com/album/2sdIfhH5l2fGNsX2fHHqe8) | 3:20 |
 | 516 | [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 |
 | 517 | [Stoneward Bound](https://open.spotify.com/track/0pqdMbZ1Mp1pcMeSLfq422) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Stoneward Bound](https://open.spotify.com/album/0P78NFFiWeIKkKpAqVzEwl) | 3:04 |
+| 518 | [On A Roll](https://open.spotify.com/track/7E9HCL0ZI61UI6ndHLPTx7) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [On A Roll](https://open.spotify.com/album/2zIQdy96c3oWTLsf7d6J6B) | 3:52 |
 
-Snapshot ID: `AAAExem2YzEbAuD8cNjIT70Y68jiJg5M`
+Snapshot ID: `AAAExhqKIM0F7Ew4Uax8ZReM0QO3vlK7`

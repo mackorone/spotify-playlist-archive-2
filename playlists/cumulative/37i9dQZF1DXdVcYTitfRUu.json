@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 194000,
       "name": "Every moment",
       "url": "https://open.spotify.com/track/4ncdVjGLTiZ6bu8FsBzApB"
@@ -3517,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/1ldrGIZYGIeFvf0gU15fgm"
+      },
+      "artists": [
+        {
+          "name": "LEEWOO",
+          "url": "https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220838,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/2z2lzx9VaFePE319fcwSAj"
+    },
+    {
+      "album": {
         "name": "Woody.zip",
         "url": "https://open.spotify.com/album/0HtAugtHRJt3DHVMsBf2kp"
       },
@@ -3618,7 +3636,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 240000,
       "name": "Please Love Her(Please Love Him)",
       "url": "https://open.spotify.com/track/7ozjdE531dnazYTQaI6DNd"
@@ -4207,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Still Here, Still Us",
+        "url": "https://open.spotify.com/album/7gI1pzZRjxCgWHMwRb8ouv"
+      },
+      "artists": [
+        {
+          "name": "SeeYa",
+          "url": "https://open.spotify.com/artist/3Mbxr8TL0Sny7dUNicKWm2"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Still Here, Still Us",
+      "url": "https://open.spotify.com/track/2OE45UXXsoaYkWNNaMLmot"
+    },
+    {
+      "album": {
         "name": "Still Thinking of You",
         "url": "https://open.spotify.com/album/14b8fmAs21v5wumPzoQbga"
       },
@@ -4218,7 +4254,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 280000,
       "name": "Still Thinking of You",
       "url": "https://open.spotify.com/track/4erPuFgudlE4jrUdjZepcy"
@@ -4474,6 +4510,24 @@
       "duration_ms": 231759,
       "name": "That's You",
       "url": "https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI"
+    },
+    {
+      "album": {
+        "name": "The Late Regret",
+        "url": "https://open.spotify.com/album/4bg3sxfiifWXZSMgusyybb"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "The Late Regret",
+      "url": "https://open.spotify.com/track/7012G3S3ScPXTsVPpEcEFj"
     },
     {
       "album": {

@@ -1313,6 +1313,28 @@
     },
     {
       "album": {
+        "name": "People's Game (Riky Dainesi Remix)",
+        "url": "https://open.spotify.com/album/7eb9XnMUrBLmj4qJETUJhu"
+      },
+      "artists": [
+        {
+          "name": "B3NNY R",
+          "url": "https://open.spotify.com/artist/746FzmylKASljW5r63AKkP"
+        },
+        {
+          "name": "Riky Dainesi",
+          "url": "https://open.spotify.com/artist/0PaqLD8MGoPEYcdJL0sB0L"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195554,
+      "name": "People's Game - Riky Dainesi Remix",
+      "url": "https://open.spotify.com/track/3cM78eVwhptGKn4fZYJzaC"
+    },
+    {
+      "album": {
         "name": "Permanent Record",
         "url": "https://open.spotify.com/album/0c2SFBNduNDGXeEd99nT1U"
       },

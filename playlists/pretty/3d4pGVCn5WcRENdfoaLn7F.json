@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 598,
+  "num_followers": 599,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADLUZvhIvA4f8pxnEpMA9W8dpfvtUv",
+  "snapshot_id": "AAADL1LuEhdxAtpF0kA526rmRdoWmc45",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1283,6 +1283,38 @@
       "duration_ms": 248924,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/35WJrQEZY5tEzHjiGzCL62"
+    },
+    {
+      "added_at": "2026-04-02 00:24:48",
+      "album": {
+        "name": "Public Memory #1",
+        "url": "https://open.spotify.com/album/7I88oAjzXkX8DqRl23Dq4l"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "duration_ms": 211851,
+      "name": "Public Memory #1",
+      "url": "https://open.spotify.com/track/3mkjcKOsD7hzLMmTiyKbyK"
+    },
+    {
+      "added_at": "2026-04-02 01:46:48",
+      "album": {
+        "name": "Light in the Darkness",
+        "url": "https://open.spotify.com/album/31cciFSZKFdJmpoYXIFFMi"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d2RALYN",
+          "url": "https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy"
+        }
+      ],
+      "duration_ms": 239143,
+      "name": "Light in the Darkness",
+      "url": "https://open.spotify.com/track/4469akQ3sJ0BL8LO92RNmL"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

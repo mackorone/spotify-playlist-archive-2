@@ -4,7 +4,7 @@
 
 > Listen to the best Rock musics🔥.
 
-513 songs - 1 day 7 hr 5 min
+514 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Off to Sea](https://open.spotify.com/track/20nGT65NMzQryr7CEFaite) | [The Roving Rovers](https://open.spotify.com/artist/0nIYcmWxKNMOy3BQYvDFQ4) | [Off to Sea](https://open.spotify.com/album/2C05jqJvhl53sG09pYYzl5) | 2:14 | 2025-04-06 |  |
 | [Offline](https://open.spotify.com/track/1dTBJQJAi5nR7QCTJoOGCx) | [Karmierre](https://open.spotify.com/artist/7DA65v5lc5MWR4CsjNTCvV) | [Offline](https://open.spotify.com/album/3G3VUsSvDnZl0tqh8HLhyH) | 3:45 | 2025-07-19 |  |
 | [Offshore](https://open.spotify.com/track/0WYjD7qAkWzIdddrJh1pQj) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [IO VOID](https://open.spotify.com/album/4R9jaZTFU3elwqxK3jhXB3) | 3:48 | 2025-06-17 |  |
+| [On A Roll](https://open.spotify.com/track/7E9HCL0ZI61UI6ndHLPTx7) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [On A Roll](https://open.spotify.com/album/2zIQdy96c3oWTLsf7d6J6B) | 3:52 | 2026-04-01 |  |
 | [One Way World](https://open.spotify.com/track/53nPQLPBRI9Hzey4z5G4Ue) | [Sammy Vulcano](https://open.spotify.com/artist/1L3MIDDjLX2WaGGEv1bWCW) | [One Way World](https://open.spotify.com/album/5W8SKeVAgCChGwpjvmCerR) | 2:46 | 2025-03-02 |  |
 | [Opener \- The 2021 Remix](https://open.spotify.com/track/1o6ILuU2z8wC4sDX9lG0pm) | [Danny Mortimer](https://open.spotify.com/artist/6l9w9nqxBSB2ZXyLcpbWkJ) | [Songs From The Cutting Room Floor](https://open.spotify.com/album/2x4aoQQsWLengzDjCOMifL) | 3:56 | 2025-06-17 |  |
 | [Osmose \- Live](https://open.spotify.com/track/7F14TBHsCTcSXC19PD3aQ2) | [Bertier](https://open.spotify.com/artist/6b4wj5meS7Z78cPKyBv8kF), [Jean\-François Assy](https://open.spotify.com/artist/3WFgWnUsP6CW9itKt3zX7Y), [Lara Herbinia](https://open.spotify.com/artist/1OOUBIRdLFtblH9FWOAyKg), [Geoffrey Hautvas](https://open.spotify.com/artist/6RIxPuJ83vYEN5V6RAcvBu), [Yvan Rother](https://open.spotify.com/artist/2lDA5YzvN7vJtDoLG2GchL) | [Machine \(Live\)](https://open.spotify.com/album/2JyWvVAZQlE1wKwWLPYXIB) | 5:09 | 2025-04-06 |  |

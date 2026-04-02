@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Marlon Hoffstadt",
-  "num_followers": 379326,
+  "num_followers": 379444,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2026-03-27 12:26:22",
       "album": {
+        "name": "44024",
+        "url": "https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf"
+      },
+      "artists": [
+        {
+          "name": "Ueberrest",
+          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
+        }
+      ],
+      "duration_ms": 230427,
+      "name": "Disturbing Paradise",
+      "url": "https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY"
+    },
+    {
+      "added_at": "2026-03-27 12:26:22",
+      "album": {
         "name": "SISTEM ERROR",
         "url": "https://open.spotify.com/album/7h0LRiVOmVQGLOTc9xntF1"
       },
@@ -1731,18 +1747,18 @@
     {
       "added_at": "2026-03-27 12:26:22",
       "album": {
-        "name": "44024",
-        "url": "https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf"
+        "name": "How I Fell in Love",
+        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
       },
       "artists": [
         {
-          "name": "Ueberrest",
-          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
         }
       ],
-      "duration_ms": 230427,
-      "name": "Disturbing Paradise",
-      "url": "https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY"
+      "duration_ms": 112551,
+      "name": "How I Fell in Love",
+      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
     },
     {
       "added_at": "2026-03-27 12:26:22",
@@ -1759,22 +1775,6 @@
       "duration_ms": 178064,
       "name": "Take A Step Back",
       "url": "https://open.spotify.com/track/3MDgnjyoPGEFYBxpM6v1ay"
-    },
-    {
-      "added_at": "2026-03-27 12:26:22",
-      "album": {
-        "name": "How I Fell in Love",
-        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
-      },
-      "artists": [
-        {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
-        }
-      ],
-      "duration_ms": 112551,
-      "name": "How I Fell in Love",
-      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
     },
     {
       "added_at": "2026-03-27 12:26:22",
@@ -1859,22 +1859,18 @@
     {
       "added_at": "2026-03-27 12:26:22",
       "album": {
-        "name": "Get Get Down",
-        "url": "https://open.spotify.com/album/0qoUP2macMRqlJX8814yYs"
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s"
       },
       "artists": [
         {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        },
-        {
-          "name": "Paul Johnson",
-          "url": "https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 257843,
-      "name": "Get Get Down",
-      "url": "https://open.spotify.com/track/69A01pYY2LORH0xJkYWL2d"
+      "duration_ms": 227091,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
     }
   ],
   "unique_name": "rave",

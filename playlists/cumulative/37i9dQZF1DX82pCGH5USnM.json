@@ -2461,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/29fC6qBmPstoZxj5ipmkoS"
+      },
+      "artists": [
+        {
+          "name": "UY Scuti",
+          "url": "https://open.spotify.com/artist/0QwgThmICNJVENaqBpDqPC"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124828,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/1xgoxlQIQ4F3dFCEiCgXTN"
+    },
+    {
+      "album": {
         "name": "Chaconne",
         "url": "https://open.spotify.com/album/2L8TQzEkwGUpaL8ePHShjf"
       },
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 129557,
       "name": "Comrate",
       "url": "https://open.spotify.com/track/3Rd69TLNlUD1LRlq5rx2th"
@@ -3960,6 +3978,24 @@
       "duration_ms": 343540,
       "name": "Differentia",
       "url": "https://open.spotify.com/track/7vPDIGMLri3GgfhHERDMMz"
+    },
+    {
+      "album": {
+        "name": "Digestivo",
+        "url": "https://open.spotify.com/album/54VPqHzsNXUXGFUziJQRNT"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142363,
+      "name": "Digestivo",
+      "url": "https://open.spotify.com/track/3dt6uuYGkPIuGWUTUzmEMv"
     },
     {
       "album": {
@@ -6503,6 +6539,24 @@
     },
     {
       "album": {
+        "name": "Helosis",
+        "url": "https://open.spotify.com/album/4hhWXBVnzJvXIthw3DZfgP"
+      },
+      "artists": [
+        {
+          "name": "Peqasus",
+          "url": "https://open.spotify.com/artist/6zwjU6yj8bnYp4w6QblQYD"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149433,
+      "name": "Helosis",
+      "url": "https://open.spotify.com/track/7nKJ5KmYUeijDtAwWHOvhE"
+    },
+    {
+      "album": {
         "name": "Hesitation",
         "url": "https://open.spotify.com/album/367ScQbcM05aW1JFzVKa6q"
       },
@@ -7984,7 +8038,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 151794,
       "name": "Lagoon State",
       "url": "https://open.spotify.com/track/4zSBjXY6OygRlX4LQ8BsmB"
@@ -8470,7 +8524,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 156606,
       "name": "Lifelike",
       "url": "https://open.spotify.com/track/4LmgY8iN3SqkDOPCNxmaGX"
@@ -8686,7 +8740,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 227428,
       "name": "Lonely Sky",
       "url": "https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2"
@@ -8780,6 +8834,24 @@
       "duration_ms": 154434,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu"
+    },
+    {
+      "album": {
+        "name": "Louche",
+        "url": "https://open.spotify.com/album/34yHku8rOIrEYwoWmDhSd5"
+      },
+      "artists": [
+        {
+          "name": "nick rush",
+          "url": "https://open.spotify.com/artist/2vwrWCNovHSx3BElXZoOBK"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127454,
+      "name": "Louche",
+      "url": "https://open.spotify.com/track/539yfBjIWrWJEGjM7nr5qC"
     },
     {
       "album": {
@@ -9536,7 +9608,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 112695,
       "name": "Mindful",
       "url": "https://open.spotify.com/track/00hyqEkKB4N7jEH6mPjOrU"
@@ -11334,7 +11406,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 144130,
       "name": "Parisian Nights",
       "url": "https://open.spotify.com/track/0W1MltFXt44jVQpBt4fvYo"
@@ -13564,6 +13636,24 @@
       "duration_ms": 279862,
       "name": "Sepal",
       "url": "https://open.spotify.com/track/6kCjJBSJJEhekXIK8vjhUZ"
+    },
+    {
+      "album": {
+        "name": "sepia",
+        "url": "https://open.spotify.com/album/5YHVnqEEMWJXhX9RLQ3JZv"
+      },
+      "artists": [
+        {
+          "name": "under.tone",
+          "url": "https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124258,
+      "name": "sepia",
+      "url": "https://open.spotify.com/track/6n5BSkQmCJdd1KNJ3zSvWJ"
     },
     {
       "album": {
@@ -15891,6 +15981,24 @@
     },
     {
       "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/221QFiXWytGmoBWdEMTQR6"
+      },
+      "artists": [
+        {
+          "name": "Lynn Valley Forest Club",
+          "url": "https://open.spotify.com/artist/7H45BHV17knhQ0wkIWf42V"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129391,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/7N2owRWLVbvf6bUbjmhqMj"
+    },
+    {
+      "album": {
         "name": "tanlines",
         "url": "https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm"
       },
@@ -15906,6 +16014,24 @@
       "duration_ms": 180668,
       "name": "tanlines",
       "url": "https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo"
+    },
+    {
+      "album": {
+        "name": "Teal Bloom",
+        "url": "https://open.spotify.com/album/7BfDNCeWMPGKmIwSrDuks3"
+      },
+      "artists": [
+        {
+          "name": "Maison Lune",
+          "url": "https://open.spotify.com/artist/6QxpDDnrrYLloULqIeJAOw"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128935,
+      "name": "Teal Bloom",
+      "url": "https://open.spotify.com/track/09cLxbib7JJm5iSAoWr92Q"
     },
     {
       "album": {
@@ -17084,7 +17210,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 165720,
       "name": "Uptown Stroll",
       "url": "https://open.spotify.com/track/4BPv8odp94pGOEV1zZsBbM"
@@ -17217,6 +17343,24 @@
     },
     {
       "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/2SxDZMw7rQYIatc09ge82C"
+      },
+      "artists": [
+        {
+          "name": "Golden After",
+          "url": "https://open.spotify.com/artist/4oWkikhjgTiZX98eSAWT9R"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/4fVDlwhZo5SkGOIBILWDsL"
+    },
+    {
+      "album": {
         "name": "Velvet Booth",
         "url": "https://open.spotify.com/album/3VInFJGz32nL7s5aCWRxIa"
       },
@@ -17250,6 +17394,24 @@
       "duration_ms": 172500,
       "name": "Velvet Breath",
       "url": "https://open.spotify.com/track/4D82UJAMKwMdv7uhWjo05j"
+    },
+    {
+      "album": {
+        "name": "Velvet Currents",
+        "url": "https://open.spotify.com/album/2bpn8Gkc7rOatzJ5Cj5QTQ"
+      },
+      "artists": [
+        {
+          "name": "Gaspar LeMarc",
+          "url": "https://open.spotify.com/artist/0nkYC9uUfQuNB7xQ7N0e0j"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169107,
+      "name": "Velvet Currents",
+      "url": "https://open.spotify.com/track/2EsKOSHmBf8olWIWxgnD6o"
     },
     {
       "album": {
@@ -17470,6 +17632,24 @@
       "duration_ms": 397000,
       "name": "Walking Over Me",
       "url": "https://open.spotify.com/track/7uYmG1Vxxr2FXcm78VwTBT"
+    },
+    {
+      "album": {
+        "name": "Warm Current",
+        "url": "https://open.spotify.com/album/4SDxEJhWfLdaFKlZ3mWwol"
+      },
+      "artists": [
+        {
+          "name": "Dune Studio",
+          "url": "https://open.spotify.com/artist/4YtDkagJkzBzlSRxRa7bau"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125242,
+      "name": "Warm Current",
+      "url": "https://open.spotify.com/track/0nOIUZp9TmChLgNsf4D9pK"
     },
     {
       "album": {

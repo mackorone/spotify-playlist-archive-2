@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 212413,
       "name": "Hole",
       "url": "https://open.spotify.com/track/0AEIeS5gS15ET3iy8jW6QY"
@@ -7744,6 +7744,28 @@
       "duration_ms": 224827,
       "name": "We're On Fire",
       "url": "https://open.spotify.com/track/2643nlSG50p5R1Gvdciwms"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6QLWCEeaRgsQ7SZIX46Si8"
+      },
+      "artists": [
+        {
+          "name": "Matrix & Futurebound",
+          "url": "https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7"
+        },
+        {
+          "name": "Glacier Baby",
+          "url": "https://open.spotify.com/artist/3UcsmXGGJfwT7F8VgWF7ES"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/2R1k6BUpiZzDTm4pROQNGz"
     },
     {
       "album": {

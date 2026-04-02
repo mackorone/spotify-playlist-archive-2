@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 208000,
       "name": "Joe",
       "url": "https://open.spotify.com/track/2S6pQwV5E9W0RLp6oNbyiK"
@@ -1982,6 +1982,24 @@
       "duration_ms": 167454,
       "name": "Medicate Me",
       "url": "https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE"
+    },
+    {
+      "album": {
+        "name": "Until the beauty lasts forever",
+        "url": "https://open.spotify.com/album/19k6hQQTT4wPPBouCQ10fl"
+      },
+      "artists": [
+        {
+          "name": "2danji",
+          "url": "https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253478,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/3fXb1WjwZNVlzziH0BUAmW"
     },
     {
       "album": {
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
@@ -3052,6 +3070,24 @@
       "duration_ms": 192514,
       "name": "Starfish on your head",
       "url": "https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh"
+    },
+    {
+      "album": {
+        "name": "Stay forever",
+        "url": "https://open.spotify.com/album/4diqiKXAStdNyjU1ibC199"
+      },
+      "artists": [
+        {
+          "name": "SUNGHWI",
+          "url": "https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "Stay forever",
+      "url": "https://open.spotify.com/track/1MjqDMOT5dk9Yt3o8Al83C"
     },
     {
       "album": {
@@ -3361,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "We Get, The Same",
+        "url": "https://open.spotify.com/album/5dwLGbi8PW1E75PqZFoVwE"
+      },
+      "artists": [
+        {
+          "name": "The Poles",
+          "url": "https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180858,
+      "name": "The Setting Sun",
+      "url": "https://open.spotify.com/track/0RQ5avz3D3Ejhz9HsIaoFw"
+    },
+    {
+      "album": {
         "name": "orientation",
         "url": "https://open.spotify.com/album/31AH4renaU1sIAQXijUY4Z"
       },
@@ -3412,7 +3466,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 187586,
       "name": "This song is about you",
       "url": "https://open.spotify.com/track/33RENj1uecpLxh3p25aTj0"

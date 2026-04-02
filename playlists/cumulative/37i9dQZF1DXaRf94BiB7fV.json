@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Pratiksha Vashishtha",
+  "description": "The best new music by independent artists and labels in India. Cover - Deeksha Toor",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1955,6 +1955,32 @@
     },
     {
       "album": {
+        "name": "alvida",
+        "url": "https://open.spotify.com/album/76dgMixpVYWtb9zxmh8xLg"
+      },
+      "artists": [
+        {
+          "name": "Raghav & Arjun",
+          "url": "https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot"
+        },
+        {
+          "name": "Anubha Kaul",
+          "url": "https://open.spotify.com/artist/6Uc6gvNu6F0FOnnwU8M0pS"
+        },
+        {
+          "name": "Kamakshi Khanna",
+          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "alvida",
+      "url": "https://open.spotify.com/track/70n9Zs89z8eSSLtRM7F20d"
+    },
+    {
+      "album": {
         "name": "Alvida Alvida",
         "url": "https://open.spotify.com/album/3BdeB6VHYsIOV8id33cUkS"
       },
@@ -2934,7 +2960,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 239624,
       "name": "Baatein Ankahi",
       "url": "https://open.spotify.com/track/5B29CnWTRJOlG3wICjAbsF"
@@ -3134,6 +3160,24 @@
       "duration_ms": 147441,
       "name": "Bag Of Stuff For You",
       "url": "https://open.spotify.com/track/2gIisNoejyUgYXEEfpAdLS"
+    },
+    {
+      "album": {
+        "name": "Bahaana",
+        "url": "https://open.spotify.com/album/7oaSd6yudP6pIAxkuyNKPE"
+      },
+      "artists": [
+        {
+          "name": "Outsky",
+          "url": "https://open.spotify.com/artist/6RXWOzECN3KD4QSr4V7dmg"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160490,
+      "name": "Bahaana",
+      "url": "https://open.spotify.com/track/5KwmStmeBIwOq5mFXzF8AN"
     },
     {
       "album": {
@@ -3685,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "behe chale?",
+        "url": "https://open.spotify.com/album/58BUMC6yv9asxlHjKE4tLB"
+      },
+      "artists": [
+        {
+          "name": "Sashaar",
+          "url": "https://open.spotify.com/artist/4O8ct7ONbGjj9BAWnnK3Vr"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "behe chale?",
+      "url": "https://open.spotify.com/track/6UOzlwlogfDtjvqfaEt3gs"
+    },
+    {
+      "album": {
         "name": "Behind the Sky",
         "url": "https://open.spotify.com/album/5jAvvmdCXajrWHLvIrTVSN"
       },
@@ -3794,7 +3856,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 162474,
       "name": "Behta Mann",
       "url": "https://open.spotify.com/track/4B2Qb4KWcfnt8Byj6zLw0R"
@@ -7324,7 +7386,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 194042,
       "name": "Dil K Raaz",
       "url": "https://open.spotify.com/track/5VxZYTWajRxHpdueJupzAp"
@@ -12231,6 +12293,24 @@
     },
     {
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/3ScGwEpXDBPN7xcowjge5O"
+      },
+      "artists": [
+        {
+          "name": "Run it's the Kid",
+          "url": "https://open.spotify.com/artist/36057fby7tY856T2vg7jQj"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176869,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/5cTYkfhZWoyXs7j4WD0j1J"
+    },
+    {
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/2hvqcnLBBQSfxiDCNIEjCA"
       },
@@ -14271,6 +14351,24 @@
     },
     {
       "album": {
+        "name": "Jaaniya",
+        "url": "https://open.spotify.com/album/7HPZ2WrPdrkazDg80hgQ90"
+      },
+      "artists": [
+        {
+          "name": "Deeksha Toor",
+          "url": "https://open.spotify.com/artist/1vtqfNWgqE0nTEGXHr8dph"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176575,
+      "name": "Jaaniya",
+      "url": "https://open.spotify.com/track/66Q5kgobCnwLd4i43fjWIW"
+    },
+    {
+      "album": {
         "name": "Jaanu Na Main",
         "url": "https://open.spotify.com/album/1QBGbCd74jZFsxOAb8EI2o"
       },
@@ -14868,7 +14966,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 287732,
       "name": "Jhini Jhini",
       "url": "https://open.spotify.com/track/1RI74apWIQoWdtK4qOmZUn"
@@ -16066,7 +16164,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 265666,
       "name": "Kaha",
       "url": "https://open.spotify.com/track/5qKdKIwF8XhO6M2gB3NQzl"
@@ -19034,6 +19132,24 @@
       "duration_ms": 171375,
       "name": "Kyun",
       "url": "https://open.spotify.com/track/54wbl3YYOlQvHn59nR5Ts9"
+    },
+    {
+      "album": {
+        "name": "Kyun",
+        "url": "https://open.spotify.com/album/2qY0EKgYbTRjKRY58gZMJt"
+      },
+      "artists": [
+        {
+          "name": "Arunima Wali",
+          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Kyun",
+      "url": "https://open.spotify.com/track/0N7oQjTaY8TEnHwa7ktljA"
     },
     {
       "album": {
@@ -23732,7 +23848,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 190684,
       "name": "naraaz",
       "url": "https://open.spotify.com/track/7nzBgjIP9pyiFg90sguIxz"
@@ -25490,7 +25606,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 192000,
       "name": "Parindon Sa",
       "url": "https://open.spotify.com/track/3FkIN7Ww7bBErJH1rhwMyF"
@@ -29676,7 +29792,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 169756,
       "name": "Sari Ratiyaan",
       "url": "https://open.spotify.com/track/2ti1af9ctwk1sWK7P2GXrF"
@@ -36584,6 +36700,28 @@
     {
       "album": {
         "name": "With You",
+        "url": "https://open.spotify.com/album/0RtLoBM86fjN0t3hQOea9f"
+      },
+      "artists": [
+        {
+          "name": "Takar Nabam",
+          "url": "https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H"
+        },
+        {
+          "name": "Meera",
+          "url": "https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212488,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2G2L3n7g28xtMriZS10QPu"
+    },
+    {
+      "album": {
+        "name": "With You",
         "url": "https://open.spotify.com/album/4Qb5j906P1S8gU6g5XBQfs"
       },
       "artists": [
@@ -37866,6 +38004,24 @@
       "duration_ms": 185750,
       "name": "Zidd Hai",
       "url": "https://open.spotify.com/track/5N29K38qMglTnRjQ8rlXpF"
+    },
+    {
+      "album": {
+        "name": "Zikr Tera",
+        "url": "https://open.spotify.com/album/0H2bmRxFpDPv4QVJ7fC7qo"
+      },
+      "artists": [
+        {
+          "name": "Ummeed",
+          "url": "https://open.spotify.com/artist/2xEft5R8UkOaKA2fgsT9Kq"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "Zikr Tera",
+      "url": "https://open.spotify.com/track/1M9u5kPU8aio16038y4qPX"
     },
     {
       "album": {

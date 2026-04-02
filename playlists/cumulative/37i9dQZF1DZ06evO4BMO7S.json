@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 95843,
       "name": "Chum Lair",
       "url": "https://open.spotify.com/track/2QzlKD3VVnx0dpuyRJT8lb"
@@ -716,6 +716,24 @@
       "duration_ms": 168800,
       "name": "Men in Bars",
       "url": "https://open.spotify.com/track/5qY578IOm0ljHdXdtgMHE4"
+    },
+    {
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58363,
+      "name": "Mischievous Children",
+      "url": "https://open.spotify.com/track/2dzC7q2BVX7vPsxaRyjJTK"
     },
     {
       "album": {

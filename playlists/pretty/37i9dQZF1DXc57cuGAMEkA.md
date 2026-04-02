@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。RAYE, Charlie Puth, HANA, Miley Cyrus and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,267 likes - 88 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,273 likes - 87 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,20 +81,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 71 | [Lazy Sunday](https://open.spotify.com/track/2OC8KXha1kqhrLQipELsvs) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [\_moh\_](https://open.spotify.com/artist/1WYmlchgMpPbCxJBv6WYOS) | [Lazy Sunday](https://open.spotify.com/album/6Yp8prIuyQtpn2GDDCBosw) | 3:52 |
 | 72 | [AKIRAMERU](https://open.spotify.com/track/6HfR86mbrD5LO8SPO1x6Ys) | [BRIAN SHINSEKAI](https://open.spotify.com/artist/1PVcbOXDaNvUmNjjb9iNEq) | [AKIRAMERU](https://open.spotify.com/album/5x9KxYYZzKn6FWWOZ5AVq6) | 3:23 |
 | 73 | [Long Way Home](https://open.spotify.com/track/6BsHcAWmzajPsuvGlzOWCB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Long Way Home](https://open.spotify.com/album/7tYLXNTWLT9ZhpKLTHGQgn) | 3:05 |
-| 74 | [Sweetest Tea](https://open.spotify.com/track/5ZYfXRgSGwLU6J0t5z85lp) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv), [Pindxng](https://open.spotify.com/artist/2Bx7M5BCzUMFGtZoqi9AVg) | [Sweetest Tea](https://open.spotify.com/album/7dXiLr9XRzj1FD8d0xY3hj) | 1:40 |
-| 75 | [My Man & Me](https://open.spotify.com/track/6sYsSMFQWpzzztDgzTGjqf) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [My Man & Me](https://open.spotify.com/album/0W4ZCtk5uH1KaJx3BPWXDe) | 3:02 |
-| 76 | [Was It Love](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 4:10 |
-| 77 | [Flutter](https://open.spotify.com/track/1h7BredQJxe70R90k69FoS) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Daisy](https://open.spotify.com/album/5FFE0Lmz20phfvrju1VK7m) | 3:14 |
-| 78 | [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 |
-| 79 | [Delicately](https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Delicately](https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD) | 3:20 |
-| 80 | [What Am I Missing?](https://open.spotify.com/track/1SgHJN6WSyHaXMt62P6hyh) | [Heidi Curtis](https://open.spotify.com/artist/4Jc9s2qAwAsnS72FGbCrwZ) | [What Am I Missing?](https://open.spotify.com/album/5WLErSynOR3zxGOeInLxNe) | 3:04 |
-| 81 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
-| 82 | [TRNS](https://open.spotify.com/track/7qAHnqzfocGSbUdfoObkBR) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Silent Way](https://open.spotify.com/album/0VNrAhVsTuL1RLopapcQFE) | 8:56 |
-| 83 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
-| 84 | [Body](https://open.spotify.com/track/1RgWXkfJJ5fYbNx4ENnFQx) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Body](https://open.spotify.com/album/01S9vuZSu35loQTJTSS6tS) | 2:30 |
-| 85 | [El Aplauso](https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [HIJO DEL PAÍS](https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1) | 3:20 |
-| 86 | [Play Along](https://open.spotify.com/track/7nTODWLf2h5D5Wrr5rJCv9) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [letters left unread](https://open.spotify.com/album/5APidBkhSd02U3KZZcV66j) | 2:36 |
-| 87 | [The Rock \(feat\. 3DDY\)](https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [PSALM FUNK](https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk) | 3:49 |
-| 88 | [Cola](https://open.spotify.com/track/3B93NLC96iNgCwIW0Z4n7J) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Cola](https://open.spotify.com/album/209FIuRImmUnuLvTQ7PQAS) | 4:01 |
+| 74 | [My Man & Me](https://open.spotify.com/track/6sYsSMFQWpzzztDgzTGjqf) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [My Man & Me](https://open.spotify.com/album/0W4ZCtk5uH1KaJx3BPWXDe) | 3:02 |
+| 75 | [Was It Love](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 4:10 |
+| 76 | [Flutter](https://open.spotify.com/track/1h7BredQJxe70R90k69FoS) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Daisy](https://open.spotify.com/album/5FFE0Lmz20phfvrju1VK7m) | 3:14 |
+| 77 | [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 |
+| 78 | [Delicately](https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Delicately](https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD) | 3:20 |
+| 79 | [What Am I Missing?](https://open.spotify.com/track/1SgHJN6WSyHaXMt62P6hyh) | [Heidi Curtis](https://open.spotify.com/artist/4Jc9s2qAwAsnS72FGbCrwZ) | [What Am I Missing?](https://open.spotify.com/album/5WLErSynOR3zxGOeInLxNe) | 3:04 |
+| 80 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
+| 81 | [TRNS](https://open.spotify.com/track/7qAHnqzfocGSbUdfoObkBR) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Silent Way](https://open.spotify.com/album/0VNrAhVsTuL1RLopapcQFE) | 8:56 |
+| 82 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
+| 83 | [Body](https://open.spotify.com/track/1RgWXkfJJ5fYbNx4ENnFQx) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Body](https://open.spotify.com/album/01S9vuZSu35loQTJTSS6tS) | 2:30 |
+| 84 | [El Aplauso](https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [HIJO DEL PAÍS](https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1) | 3:20 |
+| 85 | [Play Along](https://open.spotify.com/track/7nTODWLf2h5D5Wrr5rJCv9) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [letters left unread](https://open.spotify.com/album/5APidBkhSd02U3KZZcV66j) | 2:36 |
+| 86 | [The Rock \(feat\. 3DDY\)](https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [PSALM FUNK](https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk) | 3:49 |
+| 87 | [Cola](https://open.spotify.com/track/3B93NLC96iNgCwIW0Z4n7J) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Cola](https://open.spotify.com/album/209FIuRImmUnuLvTQ7PQAS) | 4:01 |
 
-Snapshot ID: `AAAAADNSKjmduZGqvXNWF/wD6f5y6YGF`
+Snapshot ID: `AAAAAD8N5rF1UGMzmg+4O9wYDj9kQSXE`

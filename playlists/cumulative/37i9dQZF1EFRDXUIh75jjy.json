@@ -3254,10 +3254,32 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 192680,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/2azuks8nAnGfe3K9H0dKaJ"
+    },
+    {
+      "album": {
+        "name": "Let Me Down Easy",
+        "url": "https://open.spotify.com/album/5fez5xFRTHKBNGCowTKIIE"
+      },
+      "artists": [
+        {
+          "name": "Jane X\u00d8",
+          "url": "https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK"
+        },
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192680,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/2hBCop6S72TOQyeinY53Mh"
     },
     {
       "album": {

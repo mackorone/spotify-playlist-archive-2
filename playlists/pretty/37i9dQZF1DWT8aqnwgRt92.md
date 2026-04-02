@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545,174 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545,150 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 97 | [ステキッ！！](https://open.spotify.com/track/3LjmO7wYa1pjgbnpC58Ibe) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [ステキッ！！](https://open.spotify.com/album/5uws2TezX8oeBoNfxJWJTN) | 4:13 |
 | 98 | [Travelogue](https://open.spotify.com/track/00RhnGzNPM2UakwdizVb3E) | [HoYoFair](https://open.spotify.com/artist/1PMdsoejY7SYqAuTysCeHM), [Gakkun](https://open.spotify.com/artist/3s40PFDTqIxP2wG4VpfS3b) | [Travelogue](https://open.spotify.com/album/71br6qM7i01s5bVIUYPnWQ) | 3:03 |
 | 99 | [もっとグッデイ！ぶらいたーデイ](https://open.spotify.com/track/2pW2GpEHF0UCHfdX3Fy3Pq) | [赤城ユイナ \(CV.春日さくら\)](https://open.spotify.com/artist/5q1aMRmEVbOhmhPhsDwwIX), [前橋ウィッチーズ](https://open.spotify.com/artist/5tQLD8Ak85HJXxXy6Pp5D9) | [もっとグッデイ！ぶらいたーデイ](https://open.spotify.com/album/20CjCPITrx1VIK6baPlBBz) | 4:27 |
-| 100 | [ARCANA](https://open.spotify.com/track/6qdwhN60WZuzwEsFuUFPpr) | [I.ADORE](https://open.spotify.com/artist/4oubAjl8GhDm4G8vLqmzXx), [R01](https://open.spotify.com/artist/1MPomO2r21x5Adhn9TGfH5), [詠野メクル](https://open.spotify.com/artist/0pQxe99MfSxaQ9q4mSJ5Of), [生月学斗](https://open.spotify.com/artist/1SPgj5xYN6GQIiErfLtBfp), [干二支合九](https://open.spotify.com/artist/30FthdU1FJGqaMBzT0osE2) | [ARCANA](https://open.spotify.com/album/67nq2ZlhrHCC4EbYbyeRAi) | 3:15 |
+| 100 | [ARCANA](https://open.spotify.com/track/6qdwhN60WZuzwEsFuUFPpr) | [I.ADORE](https://open.spotify.com/artist/4oubAjl8GhDm4G8vLqmzXx), [R01](https://open.spotify.com/artist/1MPomO2r21x5Adhn9TGfH5), [詠見野メクル](https://open.spotify.com/artist/6dsqsVXzM4hMDSXd6aNuso), [生月学斗](https://open.spotify.com/artist/1SPgj5xYN6GQIiErfLtBfp), [干二支合九](https://open.spotify.com/artist/30FthdU1FJGqaMBzT0osE2) | [ARCANA](https://open.spotify.com/album/67nq2ZlhrHCC4EbYbyeRAi) | 3:15 |
 
 Snapshot ID: `AAAAAFypATXLFzFMspgx8/7mHQV8yQjl`

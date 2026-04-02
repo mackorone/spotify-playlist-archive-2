@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden ke\u015fifler! Kapak: Yak\u0131n \u00c7izim: Isu Kim",
+  "description": "Ba\u011f\u0131ms\u0131z yerli sahneden ke\u015fifler! Kapak: Ven\u00fcs \u00c7izim: Isu Kim",
   "name": "Fresh Finds T\u00fcrkiye",
   "tracks": [
     {
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 241421,
       "name": "Beni Al\u0131p G\u00f6t\u00fcrm\u00fc\u015fler",
       "url": "https://open.spotify.com/track/33cFNf5A2VxX8pHjeC3Xam"
@@ -4190,7 +4190,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 225280,
       "name": "Bu Yollar - Canl\u0131",
       "url": "https://open.spotify.com/track/30COn3XM1BhbDFkRS2HviK"
@@ -4446,6 +4446,24 @@
       "duration_ms": 236034,
       "name": "Burda m\u0131s\u0131n?",
       "url": "https://open.spotify.com/track/3I5UyyIBk34NgQ4e8GVfAj"
+    },
+    {
+      "album": {
+        "name": "Yarat Kendini",
+        "url": "https://open.spotify.com/album/0puTkYacefYMF6xb17eKM2"
+      },
+      "artists": [
+        {
+          "name": "Efe K\u00fc\u00e7\u00fck\u00e7\u0131nar",
+          "url": "https://open.spotify.com/artist/7tpkTXSLdIrAiLvLfqRsPS"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170790,
+      "name": "B\u00f6cek",
+      "url": "https://open.spotify.com/track/6Kkkx7L3uW0i9FqXrG9lVn"
     },
     {
       "album": {
@@ -5846,6 +5864,24 @@
       "duration_ms": 208000,
       "name": "Duramam",
       "url": "https://open.spotify.com/track/4kQeWTRC4mkdkzbztIyjSr"
+    },
+    {
+      "album": {
+        "name": "Durduramazlar Beni",
+        "url": "https://open.spotify.com/album/5MOwy3ehZmpdwSRIBsaL36"
+      },
+      "artists": [
+        {
+          "name": "Kafamda Kurduklar\u0131m",
+          "url": "https://open.spotify.com/artist/7HQGBCT4R0yguqLR6IZvQj"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152156,
+      "name": "Durduramazlar Beni",
+      "url": "https://open.spotify.com/track/2oYiPBraeMp804JzYkTjoG"
     },
     {
       "album": {
@@ -7731,6 +7767,28 @@
     },
     {
       "album": {
+        "name": "Ge\u00e7miyor G\u00fcnler",
+        "url": "https://open.spotify.com/album/28Wpwd3CjxVpkOe45ARGpC"
+      },
+      "artists": [
+        {
+          "name": "Yassassin",
+          "url": "https://open.spotify.com/artist/3XqPSzk4oGTWd0tA00PdsT"
+        },
+        {
+          "name": "GEM",
+          "url": "https://open.spotify.com/artist/2Gzx4TLJjzJIIhjC20z9GE"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168033,
+      "name": "Ge\u00e7miyor G\u00fcnler",
+      "url": "https://open.spotify.com/track/0JuuNkrzI6BoI0DvoYuFQU"
+    },
+    {
+      "album": {
         "name": "Ge\u00e7mi\u015f G\u00fcl\u00fc\u015fler",
         "url": "https://open.spotify.com/album/6dyVmnYsICdmj0doNwh56v"
       },
@@ -9177,6 +9235,24 @@
     },
     {
       "album": {
+        "name": "Hesap",
+        "url": "https://open.spotify.com/album/0gmRwLu79UMkh9rG7PWq9J"
+      },
+      "artists": [
+        {
+          "name": "Dalgak\u0131ran",
+          "url": "https://open.spotify.com/artist/7vBbFZP3e28NENy44RxRlq"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214614,
+      "name": "Hesap",
+      "url": "https://open.spotify.com/track/5Yv64Xy1yC1oWH8vqJnvWu"
+    },
+    {
+      "album": {
         "name": "Hevesini Ka\u00e7\u0131rd\u0131m",
         "url": "https://open.spotify.com/album/4uJXqtlpqfGjUNKyvObkdP"
       },
@@ -9300,6 +9376,24 @@
       "duration_ms": 203815,
       "name": "Hipnotize",
       "url": "https://open.spotify.com/track/7baHcxIywll0SnQ58Yun6N"
+    },
+    {
+      "album": {
+        "name": "Hipnoz",
+        "url": "https://open.spotify.com/album/3JL6gRAjP3ilmg9kov59Ja"
+      },
+      "artists": [
+        {
+          "name": "Lavta",
+          "url": "https://open.spotify.com/artist/0j81DyR8CkOy6rGQzorqGa"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141891,
+      "name": "Hipnoz",
+      "url": "https://open.spotify.com/track/6ZcEo22gIz7CzVCm4UJvqH"
     },
     {
       "album": {
@@ -11322,7 +11416,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 176528,
       "name": "Kayg\u0131 Canavar\u0131",
       "url": "https://open.spotify.com/track/28iuEkT2zggwBYnizqvPKQ"
@@ -13096,7 +13190,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 156052,
       "name": "Med Cezir",
       "url": "https://open.spotify.com/track/2QqrMSgnJ7PfZKNATFK9vZ"
@@ -16970,7 +17064,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 171440,
       "name": "Serseri",
       "url": "https://open.spotify.com/track/5xK9mlrihNnRkrYcktA3rO"
@@ -18496,6 +18590,24 @@
       "duration_ms": 127000,
       "name": "t\u0131p\u00e7\u0131 flow",
       "url": "https://open.spotify.com/track/5gBvKIf0tgw9g5YqnRM3jt"
+    },
+    {
+      "album": {
+        "name": "Ufalan\u0131r",
+        "url": "https://open.spotify.com/album/2tIJuMG1d5UcYf2eKTYklj"
+      },
+      "artists": [
+        {
+          "name": "2bin7",
+          "url": "https://open.spotify.com/artist/2M3UxH9J4IsFHtY9OUNSlk"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198092,
+      "name": "Ufalan\u0131r",
+      "url": "https://open.spotify.com/track/7o5WZz0oIFtcils7Dco05E"
     },
     {
       "album": {
@@ -22634,7 +22746,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 198272,
       "name": "\u00dcZG\u00dcN\u00dcM",
       "url": "https://open.spotify.com/track/0JoRTAEmdR6AwwGKtSDrdb"

@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Devon Gilfillian",
-  "num_followers": 425439,
+  "num_followers": 425441,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/0OanktBjwWfJ6rdNICU5ET"
+      },
+      "artists": [
+        {
+          "name": "The Jaws of Brooklyn",
+          "url": "https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP"
+        }
+      ],
+      "duration_ms": 172014,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/29VmWHsaU3HhRn88PSLg0M"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
         "name": "Good Together",
         "url": "https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk"
       },
@@ -523,26 +539,6 @@
       "duration_ms": 201045,
       "name": "Good Together",
       "url": "https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
-        "name": "For the Time Being",
-        "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
-      },
-      "artists": [
-        {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
-        },
-        {
-          "name": "Will Leet",
-          "url": "https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "For the Time Being",
-      "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -563,18 +559,22 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/0OanktBjwWfJ6rdNICU5ET"
+        "name": "For the Time Being",
+        "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
       },
       "artists": [
         {
-          "name": "The Jaws of Brooklyn",
-          "url": "https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP"
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        },
+        {
+          "name": "Will Leet",
+          "url": "https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi"
         }
       ],
-      "duration_ms": 172014,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/29VmWHsaU3HhRn88PSLg0M"
+      "duration_ms": 245333,
+      "name": "For the Time Being",
+      "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
+        "name": "Every Night",
+        "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
+      },
+      "artists": [
+        {
+          "name": "Walker Lukens",
+          "url": "https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
         "name": "She Don't Love Me Now",
         "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 207160,
       "name": "She Don't Love Me Now",
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
-        "name": "Every Night",
-        "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
-      },
-      "artists": [
-        {
-          "name": "Walker Lukens",
-          "url": "https://open.spotify.com/artist/1PN1wQSUA0IxfjX6CZy0q4"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "The Criminal Record",
-        "url": "https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV"
-      },
-      "artists": [
-        {
-          "name": "Bandits on the Run",
-          "url": "https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Funky Ghost",
-      "url": "https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "Hard Working Americans",
         "url": "https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 288693,
       "name": "Stomp and Holler",
       "url": "https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "The Criminal Record",
+        "url": "https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV"
+      },
+      "artists": [
+        {
+          "name": "Bandits on the Run",
+          "url": "https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Funky Ghost",
+      "url": "https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "Wait Til I Get Over",
-        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 204024,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "Cold Times",
         "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 213720,
       "name": "Cold Times",
       "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 204024,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "Test Your Love",
-        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Clover",
-          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "The Ruse",
-      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 215986,
       "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "Test Your Love",
+        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Clover",
+          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "The Ruse",
+      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
+        "name": "King of Bohemia",
+        "url": "https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0"
+      },
+      "artists": [
+        {
+          "name": "Betty & Oswald",
+          "url": "https://open.spotify.com/artist/3Z8uzX8UEtNGYskkZJ9Acp"
+        }
+      ],
+      "duration_ms": 218749,
+      "name": "King of Bohemia",
+      "url": "https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
         "name": "It Must Change",
         "url": "https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "King of Bohemia",
-        "url": "https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0"
-      },
-      "artists": [
-        {
-          "name": "Betty & Oswald",
-          "url": "https://open.spotify.com/artist/3Z8uzX8UEtNGYskkZJ9Acp"
-        }
-      ],
-      "duration_ms": 218749,
-      "name": "King of Bohemia",
-      "url": "https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "Sister Andre",
         "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/58m6x0iCKILGzU5jNlN2C0"
-      },
-      "artists": [
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "Hands on the Radio",
         "url": "https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 212333,
       "name": "Hands on the Radio",
       "url": "https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/58m6x0iCKILGzU5jNlN2C0"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "Too Big World",
-        "url": "https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2"
-      },
-      "artists": [
-        {
-          "name": "The Bumper Jacksons",
-          "url": "https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN"
-        }
-      ],
-      "duration_ms": 277013,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 237587,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "Too Big World",
+        "url": "https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2"
+      },
+      "artists": [
+        {
+          "name": "The Bumper Jacksons",
+          "url": "https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN"
+        }
+      ],
+      "duration_ms": 277013,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Got Soul",
-      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "Theosophy",
         "url": "https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 225098,
       "name": "Hang My Head in Shame",
       "url": "https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Got Soul",
+      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav"
+        "name": "Who's Gonna Love You When I'm Gone",
+        "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
       },
       "artists": [
         {
-          "name": "MICKY",
-          "url": "https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH"
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
         }
       ],
-      "duration_ms": 209248,
-      "name": "Candid",
-      "url": "https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3"
+      "duration_ms": 219920,
+      "name": "Who's Gonna Love You When I'm Gone",
+      "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
     }
   ],
   "unique_name": "the new retro",

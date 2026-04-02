@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-895 songs - 1 day 13 hr 4 min
+896 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Forgive Me](https://open.spotify.com/track/7Lu7UAHWXnXPKDdWOpJqBH) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Levi Meyer](https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Forgive Me](https://open.spotify.com/album/3aSzuvibL22DnQBF8jjD4f) | 1:41 | 2023-10-29 | 2023-11-20 |
 | [Forgiven](https://open.spotify.com/track/0tHgdEVAMtLdWqzFwgBh3i) | [Yanson](https://open.spotify.com/artist/3T4foO5qUmQtPlgcgRUBn0) | [Forgiven](https://open.spotify.com/album/6RLEqXcda9pVc46M7beI92) | 2:16 | 2026-01-12 |  |
 | [Forgiveness – Solo Piano](https://open.spotify.com/track/00jx306y0LjySIaEdEppWG) | [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d) | [Forgiveness – Solo Piano](https://open.spotify.com/album/5bndiiuozXUH1lMUDYTGYc) | 3:53 | 2024-10-23 |  |
+| [forgotten](https://open.spotify.com/track/04Obhy9oLdhz4wHyzAuwI8) | [ambeo](https://open.spotify.com/artist/5dBvIgvF0GoQqJLRYhlpxJ) | [forgotten](https://open.spotify.com/album/43mf4rlAw0eK8VUr0cyjHF) | 2:15 | 2026-04-01 |  |
 | [Fortune Falling](https://open.spotify.com/track/582of1VW6iu7WQ96Hcgrod) | [Cascadilla](https://open.spotify.com/artist/6fa5P1SFsexpT4141tAn7F), [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Fortune Falling](https://open.spotify.com/album/7bVhF67gq6w84vYkbgPVH9) | 2:20 | 2025-03-31 |  |
 | [Fountains](https://open.spotify.com/track/0oNWI69uwVhklsZUtmXANF) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Levi Meyer](https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Fountains](https://open.spotify.com/album/3xyyXyaIBUaaeKAYEExZCK) | 1:37 | 2023-10-29 | 2024-04-14 |
 | [Fragile](https://open.spotify.com/track/6JWk5YNYvUFtXfcwfxNN5N) | [Alex Varmatt](https://open.spotify.com/artist/0SjJkGka0ZbdOvQu5FDXSx) | [Fragile](https://open.spotify.com/album/74aUcGy0nfdYVS1AZ5DZA7) | 2:32 | 2025-01-31 |  |

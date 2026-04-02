@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Somewhere in the Distance, Somewhere Toward the Mountains",
+        "url": "https://open.spotify.com/album/1l3zXzMw6Dvcme4fqWHj5l"
+      },
+      "artists": [
+        {
+          "name": "Flatsound",
+          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170375,
+      "name": "A Dream",
+      "url": "https://open.spotify.com/track/3AYF9Sza9xsI7Zr3WXsAWA"
+    },
+    {
+      "album": {
         "name": "A Quick One Before the Eternal Worm Devours Appalachia",
         "url": "https://open.spotify.com/album/7ltP2cl9QG9QMiHqYxmwDi"
       },
@@ -416,10 +434,28 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 189120,
       "name": "Ballad to a Mexican Desert",
       "url": "https://open.spotify.com/track/7LRb64oDLYYDPEoeuLAIVJ"
+    },
+    {
+      "album": {
+        "name": "Preludes, Book 1 - Streams",
+        "url": "https://open.spotify.com/album/1oMUAeEeA32eaJOhrlbM1a"
+      },
+      "artists": [
+        {
+          "name": "Yehezkel Raz",
+          "url": "https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71581,
+      "name": "Ballerina",
+      "url": "https://open.spotify.com/track/5lm18pjbwdth6ENVllxjfl"
     },
     {
       "album": {
@@ -720,7 +756,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 159960,
       "name": "Cycle Syncing Frequency",
       "url": "https://open.spotify.com/track/1Le8wnEzmy0AWci8LrGYOH"
@@ -1417,6 +1453,28 @@
     },
     {
       "album": {
+        "name": "Entremont Plays Satie",
+        "url": "https://open.spotify.com/album/2Kye14Lc1A3aBrf4GxfwAf"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205866,
+      "name": "Gymnop\u00e9die No. 1",
+      "url": "https://open.spotify.com/track/5OPT7l9b5SMwfTQgLPoNl7"
+    },
+    {
+      "album": {
         "name": "Atlas: II",
         "url": "https://open.spotify.com/album/4mVqE0sAXMG9DpfWxxLhsh"
       },
@@ -1464,7 +1522,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 236186,
       "name": "Hero (Prod. by Primary) - Instrumental",
       "url": "https://open.spotify.com/track/6Wo2et5D6vR5GO0lh9Z6uY"
@@ -2060,7 +2118,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 104050,
       "name": "Letter Home (Instrumental)",
       "url": "https://open.spotify.com/track/46mx8m8ZRAXutRQgcnbWZS"
@@ -2733,6 +2791,28 @@
     },
     {
       "album": {
+        "name": "Just Bring Peace",
+        "url": "https://open.spotify.com/album/3og3lQcoHsScfDkM7i2pmQ"
+      },
+      "artists": [
+        {
+          "name": "dunsky",
+          "url": "https://open.spotify.com/artist/3f92iiHCuHJqZBcfjZ8Vx5"
+        },
+        {
+          "name": "DKSH",
+          "url": "https://open.spotify.com/artist/0xWpVjh83x30yOzohkmadI"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188239,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0y5ImtIPv24ZKtmuQ8D2Cc"
+    },
+    {
+      "album": {
         "name": "Positive Mind",
         "url": "https://open.spotify.com/album/1SI7vh19iVInSjEiPHlsWh"
       },
@@ -2842,6 +2922,24 @@
       "duration_ms": 117073,
       "name": "Rainydays",
       "url": "https://open.spotify.com/track/28Euq53LrqzH0iTD7VxXm2"
+    },
+    {
+      "album": {
+        "name": "realization",
+        "url": "https://open.spotify.com/album/2eBLdxZ1gqIeEKaTvYLVEY"
+      },
+      "artists": [
+        {
+          "name": "FutureVille",
+          "url": "https://open.spotify.com/artist/5YYDG8J9TC7S9FHyy9qgSE"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101298,
+      "name": "realization",
+      "url": "https://open.spotify.com/track/6Yljajw6qVxucQqi1hBobm"
     },
     {
       "album": {
@@ -3134,7 +3232,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 201428,
       "name": "show me // something",
       "url": "https://open.spotify.com/track/1cdQIHMVCeGxupiraGwMzH"
@@ -3388,7 +3486,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 102460,
       "name": "Stray.wav",
       "url": "https://open.spotify.com/track/1KoWiQGR2ry2N1NvAN5r0M"
@@ -4006,6 +4104,24 @@
       "duration_ms": 182800,
       "name": "Via",
       "url": "https://open.spotify.com/track/7AuGtMJzVwTfVXI2c0GxRA"
+    },
+    {
+      "album": {
+        "name": "voices",
+        "url": "https://open.spotify.com/album/5qmJgWB6S4zNAWwVooqyq3"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106516,
+      "name": "voices",
+      "url": "https://open.spotify.com/track/71qrXKkHljj9i8QbsE9M6J"
     },
     {
       "album": {

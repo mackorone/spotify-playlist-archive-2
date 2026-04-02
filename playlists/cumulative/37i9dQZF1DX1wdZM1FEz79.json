@@ -2327,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "End of the Month, Jang Beom June (March 2026) - Dot Dot",
+        "url": "https://open.spotify.com/album/6fjfTNc0MNYatZJbTOZ1d1"
+      },
+      "artists": [
+        {
+          "name": "Jang Beom June",
+          "url": "https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218648,
+      "name": "Dot Dot",
+      "url": "https://open.spotify.com/track/7etmWD7UbQ8j1PARyKRpRE"
+    },
+    {
+      "album": {
         "name": "RESTORE : A",
         "url": "https://open.spotify.com/album/6DFNZmHSfrwN8vdaJWPnaB"
       },
@@ -3784,7 +3802,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 224267,
       "name": "Hide and Seek (feat. kimminseong)",
       "url": "https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP"
@@ -7469,6 +7487,24 @@
     },
     {
       "album": {
+        "name": "Peas and carrots",
+        "url": "https://open.spotify.com/album/7kikOAyMLmVxDUA6hXlDra"
+      },
+      "artists": [
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/2EmcKC5wA38PKb4ue4ZzbE"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Peas and carrots",
+      "url": "https://open.spotify.com/track/4n42HTO7zNVpTViUILfsLY"
+    },
+    {
+      "album": {
         "name": "Perhaps",
         "url": "https://open.spotify.com/album/6q3yMOtkLEpTGkEmFsJxbT"
       },
@@ -10278,7 +10314,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 252514,
       "name": "Traveler",
       "url": "https://open.spotify.com/track/1chEJRDNKoN7w4vpKeaEp4"

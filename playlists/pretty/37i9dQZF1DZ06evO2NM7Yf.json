@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acm9AAAAAAChUmvk1CObg+qixkGUh2HU",
+  "snapshot_id": "acsOgAAAAABMF6tOfAI3TzgoDKGY/hup",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cautiously Optimistic",
-        "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 145674,
-      "name": "Cautiously Optimistic",
-      "url": "https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American in Paris",
         "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 164933,
       "name": "American in Paris",
       "url": "https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cautiously Optimistic",
+        "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 145674,
+      "name": "Cautiously Optimistic",
+      "url": "https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > World music from the continent, to the islands with Dave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,471 likes - 65 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,545 likes - 65 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 21 | [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 |
 | 22 | [Bad](https://open.spotify.com/track/2mYTrNPWiFAritdBxPTMD6) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [NPT](https://open.spotify.com/album/1k6YrBd7JHIBxpfeDpQ40Z) | 2:56 |
 | 23 | [ALL MY LIFE](https://open.spotify.com/track/77OJdtx1NDBybpWWlc4p7c) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ECLESIA](https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH) | 2:32 |
-| 24 | [DON'T LOVE ME](https://open.spotify.com/track/3JTKIKcLjpteIOQ1M5d5nm) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/7wOSqpCqcAd6CEns2C9onZ) | 3:01 |
+| 24 | [DON'T LOVE ME](https://open.spotify.com/track/3JTKIKcLjpteIOQ1M5d5nm) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/7wOSqpCqcAd6CEns2C9onZ) | 3:01 |
 | 25 | [1Up](https://open.spotify.com/track/6ufaFmolT7QW3F7RCkm1yL) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Whodat Jordii](https://open.spotify.com/artist/7wtn2LCcrZ6ooPD3ftj7U9) | [1Up](https://open.spotify.com/album/67KW3kDOCPhq8ApHSpCjZR) | 2:46 |
 | 26 | [Who’s Better](https://open.spotify.com/track/5FglEiOylocEJQVAS7IAGx) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Who's Better](https://open.spotify.com/album/2PDJMT4zMjb9moVkEa2OM1) | 2:54 |
 | 27 | [Big Bum Bum](https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Big Bum Bum](https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S) | 2:39 |

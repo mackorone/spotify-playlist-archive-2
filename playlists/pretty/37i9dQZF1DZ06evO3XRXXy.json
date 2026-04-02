@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 152230,
+  "num_followers": 152252,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acm9AAAAAADI+n6UamOOIdnEkp5f9AqT",
+  "snapshot_id": "acsOgAAAAABk8Wrq/TUDh+mRB6iI5s6L",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Mother's Lullaby",
+        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 197125,
+      "name": "A Mother\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You're The Inspiration: The Music Of David Foster And Friends (Int'l DMD)",
         "url": "https://open.spotify.com/album/7zXao5a6CPcsA8mbmdKpVs"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 176626,
       "name": "Love Theme from St. Elmo's Fire (feat. Kenny G) - Live",
       "url": "https://open.spotify.com/track/7AcZoTDqYtqYyYYt3CBPSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mother's Lullaby",
-        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 197125,
-      "name": "A Mother\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
     },
     {
       "added_at": null,

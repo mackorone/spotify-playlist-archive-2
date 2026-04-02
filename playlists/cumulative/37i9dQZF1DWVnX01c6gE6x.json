@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"spotify:show:33otctvlvENqmean7uvNWH\">Cachorritas Podcast</a>",
+  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"sspotify:show:6GqaBGrJau17NofsIw9R1J\">Ideas de Altura Podcast</a>",
   "name": "RADAR Creadores M\u00e9xico",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 4396375,
       "name": "1x6 Roc\u00edo G\u00f3mez Turner - Sierra Madre Oriental",
       "url": "https://open.spotify.com/episode/0maD34Qs6e0xvAVTse1Kzt"
@@ -200,6 +200,24 @@
       "duration_ms": 3319978,
       "name": "2x3 Jama\u0301s pense\u0301 llegar a ser presidente de Me\u0301xico Vicente Fox Leo\u0301n Gto",
       "url": "https://open.spotify.com/episode/7lsQ2JttpKzbIJc4NvgcgW"
+    },
+    {
+      "album": {
+        "name": "Ideas de Altura Podcast",
+        "url": "https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J"
+      },
+      "artists": [
+        {
+          "name": "Ideas de Altura Podcast",
+          "url": "https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4315083,
+      "name": "2x6 - \u201cNo hemos hablado en meses\u201d - Pir\u00e1mides de Zirahuato, Michoac\u00e1n",
+      "url": "https://open.spotify.com/episode/4nGQ06tUWTwzjaerWbCITP"
     },
     {
       "album": {
@@ -754,7 +772,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 7769642,
       "name": "EP27: IA nos carg\u00f3 el payaso: El lado oscuro de la IA",
       "url": "https://open.spotify.com/episode/5NH0f3858s4Fz2smpWFbmm"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 4167701,
       "name": "EP32: \u00bfPensamos distinto seg\u00fan nuestra cultura?",
       "url": "https://open.spotify.com/episode/2nBSmjwj3QOpcFR6JfcbsF"
@@ -808,7 +826,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 6901547,
       "name": "EP36: Fetiches: no eres tan inocente",
       "url": "https://open.spotify.com/episode/255HCJ2W4R2SJsVlcRNZwx"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 5364032,
       "name": "EP39: Bob Esponja y la Guerra Fr\u00eda",
       "url": "https://open.spotify.com/episode/1Lbub01bSmox0m9XdZL8ge"

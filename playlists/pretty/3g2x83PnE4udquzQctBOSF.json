@@ -6,8 +6,28 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAAR0rCqQj0DQKMJXd9euwjF6NwJOk30",
+  "snapshot_id": "AAAR04/L1fn6sQuxgtDCobdQzolD5mir",
   "tracks": [
+    {
+      "added_at": "2026-04-01 20:25:44",
+      "album": {
+        "name": "Jazzy-Hazy",
+        "url": "https://open.spotify.com/album/6EuY3dU5mtxrkyBXD4cnHw"
+      },
+      "artists": [
+        {
+          "name": "Archi K",
+          "url": "https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY"
+        },
+        {
+          "name": "\u0410\u0440\u0442\u0443\u0440 \u041a\u0435\u0442\u043e\u0432",
+          "url": "https://open.spotify.com/artist/5g68HnhWHSrMC15D0qLL16"
+        }
+      ],
+      "duration_ms": 178048,
+      "name": "Deep In",
+      "url": "https://open.spotify.com/track/5C7RLTV7tbTjStCdn8KrEt"
+    },
     {
       "added_at": "2026-03-30 06:25:24",
       "album": {

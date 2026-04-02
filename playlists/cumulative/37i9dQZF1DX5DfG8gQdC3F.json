@@ -339161,28 +339161,6 @@
     },
     {
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ"
-      },
-      "artists": [
-        {
-          "name": "DAWN PATROL",
-          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "date_added": "2026-03-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169167,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/2plxZbunq262aPivPjURsw"
-    },
-    {
-      "album": {
         "name": "Love Tune",
         "url": "https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r"
       },
@@ -339234,6 +339212,28 @@
       "duration_ms": 236759,
       "name": "SOS",
       "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ"
+      },
+      "artists": [
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/5MOUpRLvK6boZ3J5av1YK9"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169167,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/2plxZbunq262aPivPjURsw"
     },
     {
       "album": {

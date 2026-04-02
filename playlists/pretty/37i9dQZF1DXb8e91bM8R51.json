@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 53047,
+  "num_followers": 53045,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,6 @@
     {
       "added_at": "2026-03-27 19:14:55",
       "album": {
-        "name": "KIARI",
-        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Different Species (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
-    },
-    {
-      "added_at": "2026-03-27 19:14:55",
-      "album": {
         "name": "float 2.0",
         "url": "https://open.spotify.com/album/1r4QvO5mB5VncnRaIKcBQA"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 110464,
       "name": "float 2.0",
       "url": "https://open.spotify.com/track/1nPuPXBojDHIsoY0DCXDxm"
+    },
+    {
+      "added_at": "2026-03-27 19:14:55",
+      "album": {
+        "name": "KIARI",
+        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Different Species (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
     },
     {
       "added_at": "2026-03-27 19:14:55",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-03-27 19:14:55",
       "album": {
+        "name": "MR.",
+        "url": "https://open.spotify.com/album/5VOHcEH6D1DMngkxky552g"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 174944,
+      "name": "Day Ones",
+      "url": "https://open.spotify.com/track/62pdElk3kkVED8psyBQptz"
+    },
+    {
+      "added_at": "2026-03-27 19:14:55",
+      "album": {
         "name": "Walkin (Key Glock remix)",
         "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 330408,
       "name": "Stakes Is High",
       "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
-    },
-    {
-      "added_at": "2026-03-27 19:14:55",
-      "album": {
-        "name": "MR.",
-        "url": "https://open.spotify.com/album/5VOHcEH6D1DMngkxky552g"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 174944,
-      "name": "Day Ones",
-      "url": "https://open.spotify.com/track/62pdElk3kkVED8psyBQptz"
     },
     {
       "added_at": "2026-03-27 19:14:55",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-03-27 19:14:55",
       "album": {
+        "name": "Gravity Glidin",
+        "url": "https://open.spotify.com/album/6d9ugzpUFY3DP5FGsPHPsJ"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Gravity Glidin",
+      "url": "https://open.spotify.com/track/6jOZZsNqqrPN1B4QZ8n9si"
+    },
+    {
+      "added_at": "2026-03-27 19:14:55",
+      "album": {
         "name": "Beautiful Scars (feat. OBanga)",
         "url": "https://open.spotify.com/album/5kiXUgl20k8SI5a95XLXzp"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 226031,
       "name": "Beautiful Scars (feat. OBanga)",
       "url": "https://open.spotify.com/track/6aYUqmT0QPnF8XizA1XhL9"
-    },
-    {
-      "added_at": "2026-03-27 19:14:55",
-      "album": {
-        "name": "Gravity Glidin",
-        "url": "https://open.spotify.com/album/6d9ugzpUFY3DP5FGsPHPsJ"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Gravity Glidin",
-      "url": "https://open.spotify.com/track/6jOZZsNqqrPN1B4QZ8n9si"
     },
     {
       "added_at": "2026-03-27 19:14:55",

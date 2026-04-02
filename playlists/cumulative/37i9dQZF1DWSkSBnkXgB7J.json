@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-05",
-  "description": "The exciting new music on our radar in the Middle East and North Africa.  Cover: \u0632\u0627\u062f",
+  "description": "The exciting new music on our radar in the Middle East and North Africa.  Cover: Bandar Abdulaziz",
   "name": "RADAR ARABIA",
   "tracks": [
     {
@@ -946,7 +946,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 177600,
       "name": "Ghanili",
       "url": "https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0"
@@ -3042,6 +3042,24 @@
       "duration_ms": 187501,
       "name": "\u0639\u0634\u0627\u0646\u0643",
       "url": "https://open.spotify.com/track/7M6I8pnU95G2iImrR0PjIR"
+    },
+    {
+      "album": {
+        "name": "\u0639\u064a\u0648\u0646 \u0637\u0628\u0639\u0647",
+        "url": "https://open.spotify.com/album/5A5WIQitjOs9zw0OT9N7N7"
+      },
+      "artists": [
+        {
+          "name": "Bandar Abdulaziz",
+          "url": "https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207597,
+      "name": "\u0639\u064a\u0648\u0646 \u0637\u0628\u0639\u0647",
+      "url": "https://open.spotify.com/track/5Pwo31TU96rueCTItC9f7v"
     },
     {
       "album": {

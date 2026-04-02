@@ -400,10 +400,6 @@
           "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
         },
         {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ"
-        },
-        {
           "name": "Paras Chhabra",
           "url": "https://open.spotify.com/artist/0nXpSLjOlS1x3tkceC07Xr"
         },
@@ -3464,6 +3460,32 @@
       "duration_ms": 173000,
       "name": "Kaahe Mora",
       "url": "https://open.spotify.com/track/08kAskvvh6HiUxmeiN9CnL"
+    },
+    {
+      "album": {
+        "name": "Kaahe Mose",
+        "url": "https://open.spotify.com/album/5A8RUsECb6rmFAFeMwZXVT"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219097,
+      "name": "Kaahe Mose",
+      "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz"
     },
     {
       "album": {
@@ -7018,7 +7040,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 2112156,
       "name": "Raga Shuddh Kalyan",
       "url": "https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT"

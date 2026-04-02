@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 220533,
       "name": "Contraversy",
       "url": "https://open.spotify.com/track/4KlaPKiDI4zyU0OvuPYAeH"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 182131,
       "name": "Fire In My Soul",
       "url": "https://open.spotify.com/track/6g8tMYVLdRG08vbDpNfxeP"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 206533,
       "name": "Gangsta Party Part 2",
       "url": "https://open.spotify.com/track/5lY3aitB3zWQUktH2LEczJ"
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 208421,
       "name": "God's Time(Save Me)",
       "url": "https://open.spotify.com/track/69J3wrETOi2YZA7JMF3rCb"
@@ -1939,6 +1939,32 @@
     },
     {
       "album": {
+        "name": "Dark Clouds",
+        "url": "https://open.spotify.com/album/3PEuvkV8tCvO3x3lgIuHzZ"
+      },
+      "artists": [
+        {
+          "name": "LaMar Trenton",
+          "url": "https://open.spotify.com/artist/1DeR8mWzIvvwOQmQwcTMyz"
+        },
+        {
+          "name": "Aktual",
+          "url": "https://open.spotify.com/artist/3w7mWtRkKH3dCzX4JuJfDD"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Indiana",
+      "url": "https://open.spotify.com/track/1iFJkthQgIVKJ4X4mPGm5q"
+    },
+    {
+      "album": {
         "name": "O.G., Vol. 2: Classics in Session",
         "url": "https://open.spotify.com/album/2vuxdhy0Xaux99zGyIAYnC"
       },
@@ -1958,7 +1984,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 210831,
       "name": "IRemember",
       "url": "https://open.spotify.com/track/6aux4EaPFpdpH5f7IpmkK8"
@@ -3959,6 +3985,28 @@
     },
     {
       "album": {
+        "name": "Thug Brothers 3",
+        "url": "https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i"
+      },
+      "artists": [
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40176,
+      "name": "Thuggish",
+      "url": "https://open.spotify.com/track/1wpqqsHmb9jk9RPLuVl2zM"
+    },
+    {
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/3N7Og743HnTDJ9qWk0E5u2"
       },
@@ -4176,7 +4224,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 174979,
       "name": "Want It",
       "url": "https://open.spotify.com/track/5hBQcL2Zoo21tjkq8yMZfr"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acm9AAAAAADw33rer4UHL96C1I3Kxf3v",
+  "snapshot_id": "acsOgAAAAACoxU75rqcn0A1kQjQbhqjK",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "duration_ms": 168389,
+      "name": "Cole Palmer",
+      "url": "https://open.spotify.com/track/1Ow7vaOAp5ZXx6lMF6JBGI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WAY",
         "url": "https://open.spotify.com/album/7iniNexQoq6rV7VSnWyACK"
       },
@@ -331,6 +355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 187548,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/289OMZkpqscCFYOsnVYwzF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/3F6vpAXVJVrQwQGL6pDFdi"
       },
@@ -343,26 +387,6 @@
       "duration_ms": 170123,
       "name": "Pray",
       "url": "https://open.spotify.com/track/4GPwZy4FAsSNLQygwXyCh2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afrobeats Rap and Jesus",
-        "url": "https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
-        }
-      ],
-      "duration_ms": 224208,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/4rEp8rVONwpPNdFyYzRw0H"
     },
     {
       "added_at": null,
@@ -387,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afrobeats Rap and Jesus",
+        "url": "https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        }
+      ],
+      "duration_ms": 224208,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4rEp8rVONwpPNdFyYzRw0H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solid Ground",
         "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
       },
@@ -396,17 +440,13 @@
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        },
-        {
-          "name": "DC3",
-          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
         }
       ],
-      "duration_ms": 168389,
-      "name": "Cole Palmer",
-      "url": "https://open.spotify.com/track/1Ow7vaOAp5ZXx6lMF6JBGI"
+      "duration_ms": 179795,
+      "name": "Tinbake",
+      "url": "https://open.spotify.com/track/0wzAX5LWL1qKj8wFJPTwHs"
     },
     {
       "added_at": null,
@@ -463,26 +503,6 @@
       "duration_ms": 180288,
       "name": "Calling (Bless Me)",
       "url": "https://open.spotify.com/track/70phX1Md7Hertk651Q06Z2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 179795,
-      "name": "Tinbake",
-      "url": "https://open.spotify.com/track/0wzAX5LWL1qKj8wFJPTwHs"
     },
     {
       "added_at": null,
@@ -547,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 187548,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/289OMZkpqscCFYOsnVYwzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Did It",
         "url": "https://open.spotify.com/album/6dRajCOUZ0LMTdmAlRRTbJ"
       },
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunshine & Laughter",
-        "url": "https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Krisirie",
-          "url": "https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m"
-        }
-      ],
-      "duration_ms": 176239,
-      "name": "Sunshine & Laughter",
-      "url": "https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9"
       },
@@ -683,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunshine & Laughter",
+        "url": "https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Krisirie",
+          "url": "https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m"
+        }
+      ],
+      "duration_ms": 176239,
+      "name": "Sunshine & Laughter",
+      "url": "https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Young & Chosen",
         "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 162997,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/0khMxEkp975pdbm1Xw0cJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 154865,
+      "name": "Super Power",
+      "url": "https://open.spotify.com/track/15Y7IdbhvkDvulOS5HS8zl"
     },
     {
       "added_at": null,
@@ -719,26 +735,6 @@
       "duration_ms": 503571,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/7HJ8vm2bMY49p8B9fOJbPU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God's Favourite Baby",
-        "url": "https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/0oBjCx63OwKT7anxNGO48A"
     },
     {
       "added_at": null,
@@ -790,11 +786,39 @@
         {
           "name": "Limoblaze",
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        },
+        {
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
         }
       ],
-      "duration_ms": 154865,
-      "name": "Super Power",
-      "url": "https://open.spotify.com/track/15Y7IdbhvkDvulOS5HS8zl"
+      "duration_ms": 138333,
+      "name": "Solid Ground (Princeton\u2019s Interlude)",
+      "url": "https://open.spotify.com/track/4x5Mak6vUYa8Zg0bGx18Ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God's Favourite Baby",
+        "url": "https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/0oBjCx63OwKT7anxNGO48A"
     },
     {
       "added_at": null,
@@ -871,34 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go Let God: The EP",
-        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "Alex Jean",
-          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
-        },
-        {
-          "name": "Anike",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 226669,
-      "name": "Let Go Let God (Afro)",
-      "url": "https://open.spotify.com/track/5MURc2ky9l3SPIXbTf13Oo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/3xDrVck1imDVwTBANPjfBU"
       },
@@ -915,22 +911,6 @@
       "duration_ms": 224634,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4vuaE0qbFTLPFvujV1EqaZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Young & Chosen",
-        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 165543,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/62rvlAVBzy4AiMBWTSpgOL"
     },
     {
       "added_at": null,
@@ -955,26 +935,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
       },
       "artists": [
         {
           "name": "Limoblaze",
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
-        },
-        {
-          "name": "Ibquake",
-          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
         }
       ],
-      "duration_ms": 138333,
-      "name": "Solid Ground (Princeton\u2019s Interlude)",
-      "url": "https://open.spotify.com/track/4x5Mak6vUYa8Zg0bGx18Ap"
+      "duration_ms": 165543,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/62rvlAVBzy4AiMBWTSpgOL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Go Let God: The EP",
+        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        },
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 226669,
+      "name": "Let Go Let God (Afro)",
+      "url": "https://open.spotify.com/track/5MURc2ky9l3SPIXbTf13Oo"
     },
     {
       "added_at": null,

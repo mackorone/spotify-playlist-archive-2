@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62683,
+  "num_followers": 62690,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -99,26 +99,6 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "\u30ec\u30b9Q\u30d9\u30a2\u30ba\u300c\u30af\u30de\u30af\u30de\u30ec\u30b9\uff31\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/1jfPW5TL3amGFgPtZh32ks"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30b9Q\u30d9\u30a2\u30ba",
-          "url": "https://open.spotify.com/artist/3wm6z8B5byBD7dXHjgFwRX"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 195214,
-      "name": "\u30af\u30de\u30af\u30de\u30ec\u30b9\uff31",
-      "url": "https://open.spotify.com/track/1Uq7Co1sV5yblMJqYlna2j"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
         "name": "Knights\u300cHeart Collector\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/0p8CPcwHeKmdbstXtGJkUK"
       },
@@ -139,8 +119,28 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "Eden\u300c\u5927\u3044\u306a\u308b\u611b\u306e\u524d\u306b\u5168\u3066\u306f\u5de1\u308a\u6765\u308b\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
-        "url": "https://open.spotify.com/album/1esU5S8qiu4yMTwZQGn81C"
+        "name": "\u30ec\u30b9Q\u30d9\u30a2\u30ba\u300c\u30af\u30de\u30af\u30de\u30ec\u30b9\uff31\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/1jfPW5TL3amGFgPtZh32ks"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30b9Q\u30d9\u30a2\u30ba",
+          "url": "https://open.spotify.com/artist/3wm6z8B5byBD7dXHjgFwRX"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 195214,
+      "name": "\u30af\u30de\u30af\u30de\u30ec\u30b9\uff31",
+      "url": "https://open.spotify.com/track/1Uq7Co1sV5yblMJqYlna2j"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "Eden\u300c\u5186\u74b0\u306eRefraction\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/3ZDRolHjBoVnkN8v0Wiw1F"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
-      "duration_ms": 209257,
-      "name": "\u5927\u3044\u306a\u308b\u611b\u306e\u524d\u306b\u5168\u3066\u306f\u5de1\u308a\u6765\u308b",
-      "url": "https://open.spotify.com/track/05FwtB4rNLak1Ie0z0AVmd"
+      "duration_ms": 206997,
+      "name": "\u5186\u74b0\u306eRefraction",
+      "url": "https://open.spotify.com/track/48f8tr0Mi0Fkqn4pnd46Uc"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -235,8 +235,8 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "Eden\u300c\u5186\u74b0\u306eRefraction\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/3ZDRolHjBoVnkN8v0Wiw1F"
+        "name": "Eden\u300c\u5927\u3044\u306a\u308b\u611b\u306e\u524d\u306b\u5168\u3066\u306f\u5de1\u308a\u6765\u308b\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
+        "url": "https://open.spotify.com/album/1esU5S8qiu4yMTwZQGn81C"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
-      "duration_ms": 206997,
-      "name": "\u5186\u74b0\u306eRefraction",
-      "url": "https://open.spotify.com/track/48f8tr0Mi0Fkqn4pnd46Uc"
+      "duration_ms": 209257,
+      "name": "\u5927\u3044\u306a\u308b\u611b\u306e\u524d\u306b\u5168\u3066\u306f\u5de1\u308a\u6765\u308b",
+      "url": "https://open.spotify.com/track/05FwtB4rNLak1Ie0z0AVmd"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
+        "name": "\u30d9\u30ea\u30a4\u30fb\u30d9\u30ea\u30a4\u30fb\u30b9\u30a4\u30fc\u30c8\u30fb\u30db\u30ef\u30a4\u30c8\u2661",
+        "url": "https://open.spotify.com/album/1lQL9w0VSAmShsqm18AjsF"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 183833,
+      "name": "\u30d9\u30ea\u30a4\u30fb\u30d9\u30ea\u30a4\u30fb\u30b9\u30a4\u30fc\u30c8\u30fb\u30db\u30ef\u30a4\u30c8\u2661",
+      "url": "https://open.spotify.com/track/7BvTk4mj3sjBcshBHFRk7I"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
         "name": "Ra*bits \u300cJUMPIN' LUCK BEAT\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/2oTxRxLNZ9prO8Sd8tAPZz"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 227734,
       "name": "JUMPIN' LUCK BEAT",
       "url": "https://open.spotify.com/track/6xooenMiEU8fcuuawnubXh"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
-        "name": "\u30d9\u30ea\u30a4\u30fb\u30d9\u30ea\u30a4\u30fb\u30b9\u30a4\u30fc\u30c8\u30fb\u30db\u30ef\u30a4\u30c8\u2661",
-        "url": "https://open.spotify.com/album/1lQL9w0VSAmShsqm18AjsF"
-      },
-      "artists": [
-        {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
-        }
-      ],
-      "duration_ms": 183833,
-      "name": "\u30d9\u30ea\u30a4\u30fb\u30d9\u30ea\u30a4\u30fb\u30b9\u30a4\u30fc\u30c8\u30fb\u30db\u30ef\u30a4\u30c8\u2661",
-      "url": "https://open.spotify.com/track/7BvTk4mj3sjBcshBHFRk7I"
     },
     {
       "added_at": "2026-01-13 16:06:44",

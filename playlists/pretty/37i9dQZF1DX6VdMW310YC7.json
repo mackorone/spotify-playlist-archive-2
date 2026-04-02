@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3918539,
+  "num_followers": 3918405,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,26 @@
     {
       "added_at": "2026-03-20 04:10:20",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 200637,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
+    },
+    {
+      "added_at": "2026-03-20 04:10:20",
+      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 196500,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF"
-    },
-    {
-      "added_at": "2026-03-20 04:10:20",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        },
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 200637,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
     },
     {
       "added_at": "2026-03-20 04:10:20",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-03-20 04:10:20",
       "album": {
-        "name": "The Thought of You",
-        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "imallryt",
-          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
-        }
-      ],
-      "duration_ms": 262008,
-      "name": "The Thought of You",
-      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
-    },
-    {
-      "added_at": "2026-03-20 04:10:20",
-      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
+    },
+    {
+      "added_at": "2026-03-20 04:10:20",
+      "album": {
+        "name": "The Thought of You",
+        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
+      },
+      "artists": [
+        {
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "duration_ms": 262008,
+      "name": "The Thought of You",
+      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
     },
     {
       "added_at": "2026-03-20 04:10:20",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-03-20 04:10:20",
       "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/3pkakTNCfg5k54UgUCDZG4"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        },
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi"
-    },
-    {
-      "added_at": "2026-03-20 04:10:20",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 258644,
       "name": "Control",
       "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
+    },
+    {
+      "added_at": "2026-03-20 04:10:20",
+      "album": {
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/3pkakTNCfg5k54UgUCDZG4"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi"
     },
     {
       "added_at": "2026-03-20 04:10:20",
@@ -1603,6 +1603,30 @@
     {
       "added_at": "2026-03-20 04:10:20",
       "album": {
+        "name": "Screen",
+        "url": "https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu"
+      },
+      "artists": [
+        {
+          "name": "Calcou",
+          "url": "https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc"
+        },
+        {
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        },
+        {
+          "name": "James Grant",
+          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+        }
+      ],
+      "duration_ms": 246147,
+      "name": "Screen",
+      "url": "https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M"
+    },
+    {
+      "added_at": "2026-03-20 04:10:20",
+      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/4NX1hljajlgXtjhMWFbNJb"
       },
@@ -1643,30 +1667,6 @@
     {
       "added_at": "2026-03-20 04:10:20",
       "album": {
-        "name": "Screen",
-        "url": "https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu"
-      },
-      "artists": [
-        {
-          "name": "Calcou",
-          "url": "https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc"
-        },
-        {
-          "name": "Jody Wisternoff",
-          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
-        },
-        {
-          "name": "James Grant",
-          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
-        }
-      ],
-      "duration_ms": 246147,
-      "name": "Screen",
-      "url": "https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M"
-    },
-    {
-      "added_at": "2026-03-20 04:10:20",
-      "album": {
         "name": "Upstate Miracle",
         "url": "https://open.spotify.com/album/4ErAAcOFAGAXogZCTB2fX2"
       },
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2026-03-20 04:10:20",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/0dGe34n6w8qQAFLcjgypKr"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        },
-        {
-          "name": "Thaylo",
-          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
-        }
-      ],
-      "duration_ms": 329084,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/13BcrP8f9jpxbI2vCD7dg7"
-    },
-    {
-      "added_at": "2026-03-20 04:10:20",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/3bKS1jrPEjD4Bp6BCtbYRc"
       },
@@ -1743,22 +1723,22 @@
     {
       "added_at": "2026-03-20 04:10:20",
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/139N7ZPYhh5SGXCoe4ladv"
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/0dGe34n6w8qQAFLcjgypKr"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
         },
         {
-          "name": "Ravid",
-          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+          "name": "Thaylo",
+          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Future Hearts",
-      "url": "https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs"
+      "duration_ms": 329084,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/13BcrP8f9jpxbI2vCD7dg7"
     },
     {
       "added_at": "2026-03-20 04:10:20",
@@ -1775,6 +1755,26 @@
       "duration_ms": 266880,
       "name": "Promise Me",
       "url": "https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB"
+    },
+    {
+      "added_at": "2026-03-20 04:10:20",
+      "album": {
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/139N7ZPYhh5SGXCoe4ladv"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Future Hearts",
+      "url": "https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs"
     },
     {
       "added_at": "2026-03-20 04:10:20",
@@ -1923,18 +1923,26 @@
     {
       "added_at": "2026-03-20 04:10:20",
       "album": {
-        "name": "Kamakura",
-        "url": "https://open.spotify.com/album/3NbroNNSDmYESLq8IHlgEV"
+        "name": "For A Day",
+        "url": "https://open.spotify.com/album/0LfJvFH95Xhm0KH5u9nj5m"
       },
       "artists": [
         {
-          "name": "Youth Novels",
-          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        },
+        {
+          "name": "Koppo",
+          "url": "https://open.spotify.com/artist/7LfTKHf1ByHkl02oIeNRef"
+        },
+        {
+          "name": "Extra Special",
+          "url": "https://open.spotify.com/artist/1ANEORYDjMsHrF42Du60CW"
         }
       ],
-      "duration_ms": 316883,
-      "name": "Kamakura",
-      "url": "https://open.spotify.com/track/6oMnfqRJiv3T0vTrrFD3ux"
+      "duration_ms": 387535,
+      "name": "For A Day",
+      "url": "https://open.spotify.com/track/2LW1mCijFx9NqEF7nwiw1y"
     }
   ],
   "unique_name": "Chill Tracks",

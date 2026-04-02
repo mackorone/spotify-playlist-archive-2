@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 854 likes - 108 songs - 6 hr 38 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 856 likes - 110 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 106 | [Unbreakable Love](https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [Unbreakable Love](https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs) | 3:22 |
 | 107 | [Mr\. Ribley](https://open.spotify.com/track/0CU3vcom9Miiz1qEUAdEkF) | [The Magenta](https://open.spotify.com/artist/7LSEWrAltP8MRqpYwjrc4s) | [May Cause Addiction](https://open.spotify.com/album/0PqmnazU9h1RqTNiNcUnUo) | 3:22 |
 | 108 | [Heart Don't Beat No Fear](https://open.spotify.com/track/5pmLY4W35dyS7VvUpoBtHM) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Heart Don't Beat No Fear](https://open.spotify.com/album/3cP2lWFVTlDHhqtWQN12Zl) | 3:08 |
+| 109 | [Season 2](https://open.spotify.com/track/3E3HFi5uwVHOv7R37gzHuu) | [Tenkila](https://open.spotify.com/artist/5SnRmKiQScFAV0ScEVdRM0) | [Season 2](https://open.spotify.com/album/3PRuwaXPbL17pqH1OnpNke) | 3:44 |
+| 110 | [Hazy](https://open.spotify.com/track/2GtqGAGqCfZbgjn9jC1OqO) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Hazy](https://open.spotify.com/album/3t9hfg84AKwgF8KA0T4K5w) | 2:45 |
 
-Snapshot ID: `AAAFlyhknxsfAliS4k0+T6KWAC3mFINW`
+Snapshot ID: `AAAFmVs/SOu2Synz4ke1QQCRh+voQdlW`

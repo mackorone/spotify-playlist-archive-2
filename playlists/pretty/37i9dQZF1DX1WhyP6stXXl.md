@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: panicbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,905 likes - 90 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,842 likes - 90 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 41 | [like home](https://open.spotify.com/track/3i7W9o2isj3qOgy093fixn) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [like home](https://open.spotify.com/album/7H19Sj4ofTzO0CYA0ag9Pq) | 3:02 |
 | 42 | [Die Living](https://open.spotify.com/track/2oKsaWKGDnYD5V0Q8SiSVK) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Die Living](https://open.spotify.com/album/77gWAhX5gNNkBCOCrPtJTl) | 2:50 |
 | 43 | [Lovers](https://open.spotify.com/track/3RyPjY4LSckFzV0VstzTQD) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Lovers](https://open.spotify.com/album/570kqavY51UzlC6nYTOKo4) | 2:56 |
-| 44 | [Somebody](https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [George Henry Tizzard](https://open.spotify.com/artist/6RZqAZ8MHHYZ2jlW91naq6) | [Somebody](https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG) | 3:44 |
+| 44 | [Somebody](https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [George Henry Tizzard](https://open.spotify.com/artist/6RZqAZ8MHHYZ2jlW91naq6), [Richard James Parkhouse](https://open.spotify.com/artist/626SnFAnViZWjj61ehLN0j) | [Somebody](https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG) | 3:44 |
 | 45 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
 | 46 | [Driftwood](https://open.spotify.com/track/481cyatp9kM5pUha4kw1qY) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Driftwood](https://open.spotify.com/album/5cimXUSd1VSZCwYEph003V) | 3:21 |
 | 47 | [sabotage](https://open.spotify.com/track/0tlJq6Yy3060Ypcod0Oqo7) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [sabotage](https://open.spotify.com/album/1DemTqyzxthecdjnR5qmRi) | 2:58 |

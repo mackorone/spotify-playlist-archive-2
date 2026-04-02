@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 158235,
       "name": "BDBD",
       "url": "https://open.spotify.com/track/5AwvsmuS2LmC3uWQtoqtcD"
@@ -706,6 +706,32 @@
       "duration_ms": 179925,
       "name": "Fake Flower (feat. Nucksal)",
       "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
+    },
+    {
+      "album": {
+        "name": "favorite things",
+        "url": "https://open.spotify.com/album/47LNVoOXsgKbKlq3EGIKSF"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "favorite things",
+      "url": "https://open.spotify.com/track/2dCEOB0ETs7xydmxUVL7lg"
     },
     {
       "album": {
@@ -1619,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Color",
+        "url": "https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192799,
+      "name": "OFF",
+      "url": "https://open.spotify.com/track/3crqR7MQ7OZF3PUTsM8tyj"
+    },
+    {
+      "album": {
         "name": "OMG, It's pointless",
         "url": "https://open.spotify.com/album/4Zi4DXDNL4LydfWS5vxPeN"
       },
@@ -1956,7 +2000,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 200026,
       "name": "Something Casual",
       "url": "https://open.spotify.com/track/1eqzWjF4C3upoquBmoLnwh"
@@ -2134,6 +2178,24 @@
       "duration_ms": 236703,
       "name": "Tictoc Tictoc Tictoc (with Beenzino)",
       "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
+    },
+    {
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/0H24UcLRQFp2iihdvpQQ20"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/7LcgHOeLcMbAMu48Abqtqt"
     },
     {
       "album": {
@@ -2448,7 +2510,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 78698,
       "name": "\ub0b4\uac00 \ub4e4\uc5c8\ub294\ub370",
       "url": "https://open.spotify.com/track/5aZ1058WKY8rvEK9Bcrftg"

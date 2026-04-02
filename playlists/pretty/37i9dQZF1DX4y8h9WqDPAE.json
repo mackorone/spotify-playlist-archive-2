@@ -1,6 +1,6 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Wale",
-  "num_followers": 2184,
+  "num_followers": 2202,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1805,6 +1805,26 @@
       "url": "https://open.spotify.com/track/2kkRW9QXMQ6shaneQWqCgB"
     },
     {
+      "added_at": "2025-11-14 11:13:06",
+      "album": {
+        "name": "Can't Explain It (with Girlfriend)",
+        "url": "https://open.spotify.com/album/1rAGncOnfUWIcU8RUCKxMZ"
+      },
+      "artists": [
+        {
+          "name": "Jermain Reese Jr.",
+          "url": "https://open.spotify.com/artist/3qcuLIoSn9oRiqljDxvx2T"
+        },
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Can't Explain It (with Girlfriend)",
+      "url": "https://open.spotify.com/track/6Cb7FCGm6Gatt4vhpJsynC"
+    },
+    {
       "added_at": "2026-02-01 02:45:05",
       "album": {
         "name": "I Did This To Myself",
@@ -1827,26 +1847,6 @@
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
-    },
-    {
-      "added_at": "2025-11-14 11:13:06",
-      "album": {
-        "name": "Can't Explain It (with Girlfriend)",
-        "url": "https://open.spotify.com/album/1rAGncOnfUWIcU8RUCKxMZ"
-      },
-      "artists": [
-        {
-          "name": "Jermain Reese Jr.",
-          "url": "https://open.spotify.com/artist/3qcuLIoSn9oRiqljDxvx2T"
-        },
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Can't Explain It (with Girlfriend)",
-      "url": "https://open.spotify.com/track/6Cb7FCGm6Gatt4vhpJsynC"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2621,6 +2621,22 @@
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
     },
     {
+      "added_at": "2026-03-27 06:15:19",
+      "album": {
+        "name": "this girl wants everything",
+        "url": "https://open.spotify.com/album/621lV9XJCaTYbnZKQtkCYb"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 213510,
+      "name": "this girl wants everything",
+      "url": "https://open.spotify.com/track/1HTT4w6QtSmIw1Xkeieqe9"
+    },
+    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "the boy is mine (Remix)",
@@ -2719,22 +2735,6 @@
       "duration_ms": 215604,
       "name": "Easier Done Than Said",
       "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
-    },
-    {
-      "added_at": "2026-03-27 06:15:19",
-      "album": {
-        "name": "this girl wants everything",
-        "url": "https://open.spotify.com/album/621lV9XJCaTYbnZKQtkCYb"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 213510,
-      "name": "this girl wants everything",
-      "url": "https://open.spotify.com/track/1HTT4w6QtSmIw1Xkeieqe9"
     }
   ],
   "unique_name": "Channel-X",

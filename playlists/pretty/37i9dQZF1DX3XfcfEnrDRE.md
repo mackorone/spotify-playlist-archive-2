@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Tommee Profitt & Crowder
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,769 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,785 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 69 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 |
 | 70 | [Like A Branch](https://open.spotify.com/track/4y8Wk5PoOBDzwV28dzbWDW) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Like A Branch](https://open.spotify.com/album/49SOAzWIFEzXKTbyudAraE) | 4:42 |
 
-Snapshot ID: `AAAAANN3ht3x5U4dXXccCFTsMsbQECLt`
+Snapshot ID: `AAAAAJ9hURkwrD8VbK8z0bRRb50+AmIW`

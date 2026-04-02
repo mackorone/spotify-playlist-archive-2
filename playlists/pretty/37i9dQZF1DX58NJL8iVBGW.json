@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 808280,
+  "num_followers": 808411,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "John Came Home",
-        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 191182,
-      "name": "John Came Home",
-      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 156106,
       "name": "Hades Pleads",
       "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "John Came Home",
+        "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/1sRCpE1qY3Vlb63907pl82"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Heavy Load",
-        "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
-      },
-      "artists": [
-        {
-          "name": "Ben Miller Band",
-          "url": "https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "Get Right Church",
-      "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Parker Millsap",
         "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 234000,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Heavy Load",
+        "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller Band",
+          "url": "https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "Get Right Church",
+      "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Devil Don't You Fool Me",
         "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
       },
@@ -679,18 +695,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
+        "name": "Six Shades of Grey",
+        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
       },
       "artists": [
         {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+          "name": "Lindsey Troy",
+          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
+        },
+        {
+          "name": "Deap Vally",
+          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
+      "duration_ms": 203757,
+      "name": "Six Shades of Grey",
+      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -759,26 +779,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Six Shades of Grey",
-        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Troy",
-          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
-        },
-        {
-          "name": "Deap Vally",
-          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
-        }
-      ],
-      "duration_ms": 203757,
-      "name": "Six Shades of Grey",
-      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Nothing But The Water",
         "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Bastard Children",
-        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
-      },
-      "artists": [
-        {
-          "name": "Vudu Sister",
-          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Psalms",
-      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Bastard Children",
+        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
+      },
+      "artists": [
+        {
+          "name": "Vudu Sister",
+          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Psalms",
+      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Tin Type",
-        "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
-      },
-      "artists": [
-        {
-          "name": "Elliott BROOD",
-          "url": "https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Cadillac Dust",
-      "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Lay This Body Down",
         "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 287773,
       "name": "Lay This Body Down",
       "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Tin Type",
+        "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
+      },
+      "artists": [
+        {
+          "name": "Elliott BROOD",
+          "url": "https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Cadillac Dust",
+      "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Blossom Talk",
-        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
-      },
-      "artists": [
-        {
-          "name": "Hestina",
-          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
-        }
-      ],
-      "duration_ms": 213590,
-      "name": "You Don't Fool Me",
-      "url": "https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "What Does It Matter Now?",
         "url": "https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 275720,
       "name": "What Does It Matter Now?",
       "url": "https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Blossom Talk",
+        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
+      },
+      "artists": [
+        {
+          "name": "Hestina",
+          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
+        }
+      ],
+      "duration_ms": 213590,
+      "name": "You Don't Fool Me",
+      "url": "https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Blossom Talk",
-        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
-      },
-      "artists": [
-        {
-          "name": "Hestina",
-          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Skunks",
         "url": "https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 207161,
       "name": "Skunks",
       "url": "https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Blossom Talk",
+        "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
+      },
+      "artists": [
+        {
+          "name": "Hestina",
+          "url": "https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Barton Hollow",
-      "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Raise Hell",
         "url": "https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 181868,
       "name": "Raise Hell",
       "url": "https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Barton Hollow",
+      "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Filthy Dirty South",
+        "url": "https://open.spotify.com/album/0jDnfywtNBh634OQD7EOJf"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Filthy Dirty South",
+      "url": "https://open.spotify.com/track/74Fd1uz6wiTaqDXyWK7AXl"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Ashkelon",
         "url": "https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 250240,
       "name": "The Railroad",
       "url": "https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Nobody knows.",
-        "url": "https://open.spotify.com/album/0MHRNWUvq6JT8hjoL4ilvi"
-      },
-      "artists": [
-        {
-          "name": "Willis Earl Beal",
-          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
-        }
-      ],
-      "duration_ms": 279733,
-      "name": "Too Dry to Cry",
-      "url": "https://open.spotify.com/track/2mHzmh7saA4O2ZbHFxFp27"
     }
   ],
   "unique_name": "Southern Gothic",

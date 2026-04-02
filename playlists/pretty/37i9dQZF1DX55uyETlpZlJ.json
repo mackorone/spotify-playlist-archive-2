@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde",
-  "num_followers": 26640,
+  "num_followers": 26656,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF7B4NMSDCM3M6l1sQDsNIFYnbgX",
+  "snapshot_id": "AAAAAPwGRDUiMOTRyNbAm3/ScEWGVxcl",
   "tracks": [
     {
       "added_at": "2026-03-26 09:52:14",
@@ -39,6 +39,26 @@
       "duration_ms": 158398,
       "name": "Let's go back (The 90's song)",
       "url": "https://open.spotify.com/track/3MfcZGo0CUwkbhF4dFWKVr"
+    },
+    {
+      "added_at": "2026-04-01 12:49:24",
+      "album": {
+        "name": "Heartinalli",
+        "url": "https://open.spotify.com/album/7d3AUemw6wKoRpO75Bjx5m"
+      },
+      "artists": [
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        },
+        {
+          "name": "Ramachandran",
+          "url": "https://open.spotify.com/artist/5fS0OA36uHvRKbLpHzPP61"
+        }
+      ],
+      "duration_ms": 198941,
+      "name": "Heartinalli",
+      "url": "https://open.spotify.com/track/6RBOUvGyjz2Kzm4XmHf605"
     },
     {
       "added_at": "2026-03-19 09:49:24",
@@ -211,22 +231,6 @@
       "duration_ms": 163516,
       "name": "Janani",
       "url": "https://open.spotify.com/track/3zQ0AwRwPEnGQ3Vha2CuCE"
-    },
-    {
-      "added_at": "2026-03-10 10:40:28",
-      "album": {
-        "name": "Andada Gombe",
-        "url": "https://open.spotify.com/album/5hp0crxPK8b6mveYwJlNdX"
-      },
-      "artists": [
-        {
-          "name": "Ravi K",
-          "url": "https://open.spotify.com/artist/3y8nrKofZtzjWJ3DOdueVs"
-        }
-      ],
-      "duration_ms": 203820,
-      "name": "Andada Gombe",
-      "url": "https://open.spotify.com/track/2o4IRqT61medCrMnOPOs6L"
     },
     {
       "added_at": "2026-03-02 07:59:40",
@@ -1291,34 +1295,6 @@
       "duration_ms": 154170,
       "name": "Ninnale Kaledodenaa",
       "url": "https://open.spotify.com/track/76qkjYTaUP0Y2OmzKmAT1h"
-    },
-    {
-      "added_at": "2025-11-03 08:28:45",
-      "album": {
-        "name": "Namma Hassana",
-        "url": "https://open.spotify.com/album/5VbPSfoXrDaOuw3ojhjXES"
-      },
-      "artists": [
-        {
-          "name": "Suhas",
-          "url": "https://open.spotify.com/artist/0Km2Gl9HgiZZA1DTdpHB1t"
-        },
-        {
-          "name": "Prasanna Bhojashettar",
-          "url": "https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ"
-        },
-        {
-          "name": "P.k",
-          "url": "https://open.spotify.com/artist/3V6dr8PX1CFhghT3yrAP1T"
-        },
-        {
-          "name": "siddushri",
-          "url": "https://open.spotify.com/artist/7pCWnC0VxHIHLOGY88qB3o"
-        }
-      ],
-      "duration_ms": 204232,
-      "name": "Namma Hassana",
-      "url": "https://open.spotify.com/track/1GAuK632hL4482HO29gebI"
     },
     {
       "added_at": "2025-10-22 09:46:29",

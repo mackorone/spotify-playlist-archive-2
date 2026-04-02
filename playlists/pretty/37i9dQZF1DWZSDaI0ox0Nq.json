@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 22076,
+  "num_followers": 22077,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/0GqkkGEdfWT7ah9pWWpygr"
+      },
+      "artists": [
+        {
+          "name": "Agustina Cirulnik",
+          "url": "https://open.spotify.com/artist/2osnonnqTrIhJQVWRZ4J7u"
+        }
+      ],
+      "duration_ms": 176879,
+      "name": "Baldosa floja",
+      "url": "https://open.spotify.com/track/3clM50Tz1GwVDXY3zqLaGl"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Pobre Flor (Primera Ilusi\u00f3n)",
         "url": "https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 126460,
       "name": "Pobre Flor (Primera Ilusi\u00f3n)",
       "url": "https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/0GqkkGEdfWT7ah9pWWpygr"
-      },
-      "artists": [
-        {
-          "name": "Agustina Cirulnik",
-          "url": "https://open.spotify.com/artist/2osnonnqTrIhJQVWRZ4J7u"
-        }
-      ],
-      "duration_ms": 176879,
-      "name": "Baldosa floja",
-      "url": "https://open.spotify.com/track/3clM50Tz1GwVDXY3zqLaGl"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -995,18 +995,26 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Minella",
-        "url": "https://open.spotify.com/album/0tIbCXDeIBoSdxXvLrpsR9"
+        "name": "Despu\u00e9s",
+        "url": "https://open.spotify.com/album/55Mgv7ouRbXJuZFXrO8csC"
       },
       "artists": [
         {
-          "name": "Carolina Minella",
-          "url": "https://open.spotify.com/artist/3wolSCsYEX81LmPrZvOVbp"
+          "name": "Carolina Winograd",
+          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
+        },
+        {
+          "name": "Alejandro Drago",
+          "url": "https://open.spotify.com/artist/2F3eT48CikD09vr9y5H1cM"
+        },
+        {
+          "name": "Federico Biraben",
+          "url": "https://open.spotify.com/artist/7sS1IsanBa9WPvHCcjYkJU"
         }
       ],
-      "duration_ms": 235186,
-      "name": "Rebeldia",
-      "url": "https://open.spotify.com/track/78pUM9nKri3rx2XGaRHNxX"
+      "duration_ms": 185693,
+      "name": "Sue\u00f1o de Barrilete",
+      "url": "https://open.spotify.com/track/2kJB9Hvpn3bqx2Mac8lMVP"
     }
   ],
   "unique_name": "Mujeres del Tango",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Lance Savali
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,163 likes - 158 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,173 likes - 158 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

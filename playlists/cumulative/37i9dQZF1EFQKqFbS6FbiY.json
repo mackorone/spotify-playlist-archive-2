@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "No Sentimento, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZK0m5xCu8No3nRXsTKJBX"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132491,
+      "name": "Chave De Perna (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0FxIrjvRminwd9sRz1pkP1"
+    },
+    {
+      "album": {
         "name": "No Sentimento (Ao Vivo / Vol. 1)",
         "url": "https://open.spotify.com/album/77G9P2pvY20Ro8BwvDtLEB"
       },
@@ -2758,7 +2776,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 132491,
       "name": "Chave De Perna - Ao Vivo",
       "url": "https://open.spotify.com/track/2W0JFGmyZu8O9u0cgrKaR6"

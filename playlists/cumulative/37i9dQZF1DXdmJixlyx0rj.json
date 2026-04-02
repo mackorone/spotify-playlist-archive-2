@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: \ud6a8\uc5f0 (HYO))",
+  "description": "New & best K-Electronic music is here. (Cover: Kimmy gone)",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "CHU\u2661",
+        "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99324,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/13RXWCKAcrnvYgAFATCZf8"
+    },
+    {
+      "album": {
         "name": "THE RMXS: VOL. 1",
         "url": "https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW"
       },
@@ -1937,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "everybody dies",
+        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152079,
+      "name": "everybody dies",
+      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
+    },
+    {
+      "album": {
         "name": "iScreaM Vol.30 : To. X Remixes",
         "url": "https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x"
       },
@@ -2200,7 +2236,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 213273,
       "name": "FOREVER 1 - Matisse & Sadko Remix",
       "url": "https://open.spotify.com/track/5dJ6HlXlZw4MvIkH9293M5"
@@ -2936,7 +2972,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 164000,
       "name": "KETCHUP (with DAUL)",
       "url": "https://open.spotify.com/track/7vRbgGeSOrVw4BLHJWsiuH"

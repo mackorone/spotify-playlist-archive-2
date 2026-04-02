@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 50392,
+  "num_followers": 50399,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acm9AAAAAACRsoESgX8bHj/4OrYnCQ1p",
+  "snapshot_id": "acsOgAAAAAAao9SguivbVS3XElm3aeHN",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 302266,
-      "name": "Hall Of Mirrors",
-      "url": "https://open.spotify.com/track/5LISRpPG4mWNNQA4XXMDtO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kiss In The Dreamhouse",
         "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 219906,
       "name": "She's A Carnival",
       "url": "https://open.spotify.com/track/4LZsBU2b1qVAJGpX7kXkkL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 302266,
+      "name": "Hall Of Mirrors",
+      "url": "https://open.spotify.com/track/5LISRpPG4mWNNQA4XXMDtO"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Scream",
-        "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 278853,
-      "name": "Jigsaw Feeling",
-      "url": "https://open.spotify.com/track/6Mg9BV9tuZyBwKzxx2rHVS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kiss In The Dreamhouse",
         "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 255800,
       "name": "Painted Bird",
       "url": "https://open.spotify.com/track/7HilLn7wds2U0jUJGBBVXw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Scream",
+        "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 278853,
+      "name": "Jigsaw Feeling",
+      "url": "https://open.spotify.com/track/6Mg9BV9tuZyBwKzxx2rHVS"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Scream",
-        "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 170973,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+        "name": "The Scream",
+        "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
       },
       "artists": [
         {
@@ -660,25 +644,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Swimming Horses",
-      "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peepshow (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 270946,
-      "name": "The Last Beat Of My Heart",
-      "url": "https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF"
+      "duration_ms": 170973,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI"
     },
     {
       "added_at": null,
@@ -699,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peepshow (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 270946,
+      "name": "The Last Beat Of My Heart",
+      "url": "https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 188866,
       "name": "This Town Ain't Big Enough For Both Of Us",
       "url": "https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Swimming Horses",
+      "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
     },
     {
       "added_at": null,

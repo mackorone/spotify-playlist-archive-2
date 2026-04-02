@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-742 songs - 1 day 12 hr 8 min
+743 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Cerveja Salgada \- Ao Vivo](https://open.spotify.com/track/4keRjwsjQNgx0pqQqI3KTy) | [Israel Novaes](https://open.spotify.com/artist/3hWuWrOOgSCDkP5iqEHxMy) | [Luau do Israel \(Ao Vivo\)](https://open.spotify.com/album/4jVBOCHVKA40lTYKYYSAgJ) | 2:34 | 2023-12-30 |  |
 | [Cha na Na \- Ao Vivo](https://open.spotify.com/track/5ZYJcTYsVLMaIbOJRss06Q) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Tayrone: Ao Vivo 2019](https://open.spotify.com/album/5e0QpR9TQYiTzH2cIFKwUX) | 3:10 | 2023-12-30 |  |
 | [Chave de Choro](https://open.spotify.com/track/7EMxCYKxcJ0tk8t8fBTzCw) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Pablo](https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK) | [Até o Último Gole](https://open.spotify.com/album/3xwZXcQBm8IniR48ZXDhy1) | 2:59 | 2023-12-30 |  |
-| [Chave De Perna \- Ao Vivo](https://open.spotify.com/track/2W0JFGmyZu8O9u0cgrKaR6) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [No Sentimento \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/77G9P2pvY20Ro8BwvDtLEB) | 2:12 | 2023-12-30 |  |
+| [Chave De Perna \(Ao Vivo\)](https://open.spotify.com/track/0FxIrjvRminwd9sRz1pkP1) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [No Sentimento, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3ZK0m5xCu8No3nRXsTKJBX) | 2:12 | 2026-04-01 |  |
+| [Chave De Perna \- Ao Vivo](https://open.spotify.com/track/2W0JFGmyZu8O9u0cgrKaR6) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [No Sentimento \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/77G9P2pvY20Ro8BwvDtLEB) | 2:12 | 2023-12-30 | 2026-04-02 |
 | [Chega](https://open.spotify.com/track/72ryYvXOVZakc4xMLEEUwM) | [Rapha Dantas](https://open.spotify.com/artist/3xbElrRXlbpvRPMWSK7LTR) | [Chega](https://open.spotify.com/album/6czN3DyT4qxMQlq7nzqdSX) | 2:50 | 2025-01-09 | 2025-04-12 |
 | [Chegou na Pressão](https://open.spotify.com/track/1zrIahxc13R7IflckiBso0) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Elementos: FOGO](https://open.spotify.com/album/5lkPXzR90r46RldaKDDL3B) | 2:30 | 2025-05-31 |  |
 | [Chei das Poses](https://open.spotify.com/track/2ps4eyXbQSkusH7wX5drBT) | [Enzo Rabelo](https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm) | [De Volta do Futuro \(Ao Vivo\)](https://open.spotify.com/album/32tTYptSYlvLKayDcxNC0V) | 2:31 | 2023-12-30 |  |

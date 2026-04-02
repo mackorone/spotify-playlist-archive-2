@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOTEEDNE926.md) - [plain]
 
 > las mujeres ya no lloran ✨ Becky G en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,170 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,191 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOTEEDNE926.md) - [plain]
 | 23 | [Kitty Kitty](https://open.spotify.com/track/7lQR98kNeiwsOq9gPxSJi8) | [ABIGELIC](https://open.spotify.com/artist/23kLbuuPBzkCOq9vkpV2MZ) | [Kitty Kitty](https://open.spotify.com/album/0JjELrf9dFMvHv1zVEeklG) | 1:30 |
 | 24 | [Jenni Rivera](https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Fhany Santin](https://open.spotify.com/artist/7pymJP5fuOGdIIJ4RbtG9h) | [Jenni Rivera](https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm) | 2:36 |
 | 25 | [ALAS](https://open.spotify.com/track/6d1MKTyx319M55vMK2VlD0) | [Monny Cardona](https://open.spotify.com/artist/1wji0qwVMjtdiDsYUdrrvu), [apolo morfeo](https://open.spotify.com/artist/3nN02vph3GlcrhmhoKc6x0) | [ALAS](https://open.spotify.com/album/58j0LGzCD9n2xgXiC50LvA) | 2:32 |
-| 26 | [KHE CALOR](https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [KHE CALOR](https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M) | 2:06 |
+| 26 | [KHE CALOR](https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [KHE CALOR](https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M) | 2:06 |
 | 27 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
 | 28 | [Heterocromía](https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:45 |
 | 29 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |

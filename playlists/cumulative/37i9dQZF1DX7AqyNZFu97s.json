@@ -36639,6 +36639,24 @@
     },
     {
       "album": {
+        "name": "Made Me",
+        "url": "https://open.spotify.com/album/6SKEiX25clMT3ooDbUA7Gd"
+      },
+      "artists": [
+        {
+          "name": "Flaurese",
+          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218940,
+      "name": "Made Me",
+      "url": "https://open.spotify.com/track/3N8CZd85wtAaTnhnYtj1kx"
+    },
+    {
+      "album": {
         "name": "Made Me This Way",
         "url": "https://open.spotify.com/album/7IqG3BT4MbGBdgoACs72Ok"
       },
@@ -40484,7 +40502,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 169500,
       "name": "never had a man DEMO",
       "url": "https://open.spotify.com/track/0DbfJpRovomxe6LvDbEE6Z"

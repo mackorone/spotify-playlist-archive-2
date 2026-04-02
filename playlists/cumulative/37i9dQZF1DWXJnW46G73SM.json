@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0645\u064a \u062c\u0645\u0627\u0644",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u0645\u064a\u0646 \u062e\u0637\u0627\u0628",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
+    {
+      "album": {
+        "name": "(\u064a\u0627 \u062d\u0628\u064a\u0628\u062a\u064a ) \u0642\u0644\u0628\u064a \u0645\u062d\u0627\u0631\u0628 [\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 | \u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646]",
+        "url": "https://open.spotify.com/album/11HjxEynMj9YN8A8vdduaz"
+      },
+      "artists": [
+        {
+          "name": "Ameen Khattab",
+          "url": "https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253098,
+      "name": "(\u064a\u0627 \u062d\u0628\u064a\u0628\u062a\u064a ) \u0642\u0644\u0628\u064a \u0645\u062d\u0627\u0631\u0628 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 | \u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646",
+      "url": "https://open.spotify.com/track/7jZWRnAEAS4hioUh7mlbbH"
+    },
     {
       "album": {
         "name": "100 Haga Wa 50",
@@ -74,6 +92,28 @@
       "duration_ms": 306792,
       "name": "2Olt Nb3d",
       "url": "https://open.spotify.com/track/7BbcBlivN2AXVMsc713Lui"
+    },
+    {
+      "album": {
+        "name": "2X1 (From EgyBest Movie: The Soundtrack)",
+        "url": "https://open.spotify.com/album/6WjbI2F6HOtWWhYpQ5usXc"
+      },
+      "artists": [
+        {
+          "name": "Tarek El Sheikh",
+          "url": "https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN"
+        },
+        {
+          "name": "HADY MOAMER",
+          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "2X1 - From EgyBest Movie: The Soundtrack",
+      "url": "https://open.spotify.com/track/6l6QI2lb4nvClUuDH4iBgh"
     },
     {
       "album": {
@@ -328,7 +368,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 180618,
       "name": "3alam Kadaba - From The TV Series Ma Trah Lays Kama Ybdo",
       "url": "https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW"
@@ -1676,6 +1716,24 @@
       "duration_ms": 180769,
       "name": "Alaa Bali",
       "url": "https://open.spotify.com/track/12lEpOzMG73XtAxeNSOZfl"
+    },
+    {
+      "album": {
+        "name": "Syrr",
+        "url": "https://open.spotify.com/album/1Gp08QGitGOM6w72NjBKPb"
+      },
+      "artists": [
+        {
+          "name": "Maryam Saleh",
+          "url": "https://open.spotify.com/artist/3M3dqhDqNK2DsZPIbopgUA"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258671,
+      "name": "Alb",
+      "url": "https://open.spotify.com/track/1Z3ikGTFaKxHOjIcDx0hlE"
     },
     {
       "album": {
@@ -5227,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "El 3ks",
+        "url": "https://open.spotify.com/album/7AfAzjjLeyR9UmbZHI4peJ"
+      },
+      "artists": [
+        {
+          "name": "Shadi Oskar",
+          "url": "https://open.spotify.com/artist/4o7krFiVVz5QONfNTS28wX"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "El 3ks",
+      "url": "https://open.spotify.com/track/65R0EmcHSnr2dCLdEaol9C"
+    },
+    {
+      "album": {
         "name": "El 3o2d El Loli",
         "url": "https://open.spotify.com/album/755j2XJ5r33urwvHzkGkNc"
       },
@@ -5242,6 +5318,24 @@
       "duration_ms": 168979,
       "name": "El 3o2d El Loli",
       "url": "https://open.spotify.com/track/2Thmx3L6ucjH97QzDJfXiu"
+    },
+    {
+      "album": {
+        "name": "El 7arb",
+        "url": "https://open.spotify.com/album/4ixJOa1puGgyxLJFY6q02g"
+      },
+      "artists": [
+        {
+          "name": "SHODZOO",
+          "url": "https://open.spotify.com/artist/2wWH8cYdEaH509ff9Jnbxp"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "El 7arb",
+      "url": "https://open.spotify.com/track/6Ut7RlAdZU8YBSHfdRf94E"
     },
     {
       "album": {
@@ -5336,7 +5430,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 154124,
       "name": "El Ayam",
       "url": "https://open.spotify.com/track/51kGELPBM8tjGrNyiINolN"
@@ -5765,6 +5859,28 @@
     },
     {
       "album": {
+        "name": "El Moled",
+        "url": "https://open.spotify.com/album/0eWkhnNiAe4BNU0ruxIakw"
+      },
+      "artists": [
+        {
+          "name": "Shobra El General",
+          "url": "https://open.spotify.com/artist/3Ed6A8OJkO5nQqFJfhDHRN"
+        },
+        {
+          "name": "Katy",
+          "url": "https://open.spotify.com/artist/5kdiyTKJxPCHb9nW7bMN8M"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217262,
+      "name": "El Moled",
+      "url": "https://open.spotify.com/track/4x7wwv2Z9IHr2JK7WMC7Di"
+    },
+    {
+      "album": {
         "name": "El Mostashfa",
         "url": "https://open.spotify.com/album/00BMdpEfg2Jsmuh4u3lotY"
       },
@@ -5974,7 +6090,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 139200,
       "name": "El Segn Law Kan Genena",
       "url": "https://open.spotify.com/track/0TZNS87SGYRescCC4U8kAT"
@@ -10377,6 +10493,24 @@
     },
     {
       "album": {
+        "name": "Kolo Bey2aldek",
+        "url": "https://open.spotify.com/album/3AImj3dKw6oQ7zQGeDXSSI"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Bahaa",
+          "url": "https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Kolo Bey2aldek",
+      "url": "https://open.spotify.com/track/7rtCasLpJ0ClR173OzVyjH"
+    },
+    {
+      "album": {
         "name": "Kolo Falso",
         "url": "https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF"
       },
@@ -14629,6 +14763,28 @@
     },
     {
       "album": {
+        "name": "Nesety Nafsek - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3CPfldan1zUNakUnuqNIpG"
+      },
+      "artists": [
+        {
+          "name": "nour",
+          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205793,
+      "name": "Nesety Nafsek - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3Q7Hci7JsOAgRL0yTc7wW6"
+    },
+    {
+      "album": {
         "name": "Nesrah Fi Zaman (Men Film Feha Eih Yaany)",
         "url": "https://open.spotify.com/album/6anwD47dNWW5K889jejmNj"
       },
@@ -14644,7 +14800,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 180645,
       "name": "Nesrah Fi Zaman (Men Film Feha Eih Yaany)",
       "url": "https://open.spotify.com/track/0Bhkw43EronQr9Rb4W6lIn"
@@ -18046,7 +18202,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 192972,
       "name": "WALA MEEN",
       "url": "https://open.spotify.com/track/7dlcdKBhZfmK7GrMRIQJid"
@@ -20878,6 +21034,24 @@
       "duration_ms": 234543,
       "name": "\u0627\u0644\u0634\u064a\u0644\u0629 \u0643\u0627\u0645\u0644\u0629",
       "url": "https://open.spotify.com/track/2zcj3khSBeJMnSv50SFwHs"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0634\u064a\u0644\u0647 \u0648\u0642\u0639\u062a \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0644\u0649 \u0643\u0644\u0627\u0649",
+        "url": "https://open.spotify.com/album/1aBBCdL7IiSu6bpBCUZH2h"
+      },
+      "artists": [
+        {
+          "name": "Rahma Mohsen",
+          "url": "https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195998,
+      "name": "\u0627\u0644\u0634\u064a\u0644\u0647 \u0648\u0642\u0639\u062a \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0644\u0649 \u0643\u0644\u0627\u0649",
+      "url": "https://open.spotify.com/track/616hWRC1yQfaAQAwSqsqpz"
     },
     {
       "album": {
@@ -24212,7 +24386,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 226153,
       "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
       "url": "https://open.spotify.com/track/6zMN8VG7CCdDI8eOamZ0Zz"
@@ -25090,7 +25264,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 170001,
       "name": "\u0633\u0648\u0627 (\u0645\u0646 \u0641\u064a\u0644\u0645 \u062e\u0631\u064a\u0637\u0629 \u0631\u0623\u0633 \u0627\u0644\u0633\u0646\u0629)",
       "url": "https://open.spotify.com/track/7kk3GexWjqoygsnEtfcevS"
@@ -25528,7 +25702,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 196877,
       "name": "\u0636\u064a\u0651 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u0633\u064a\u0631\u0629 \u0623\u0647\u0644 \u0627\u0644\u0636\u064a\u0651",
       "url": "https://open.spotify.com/track/57SkIuSdgMFHGNOtdBN8xO"
@@ -26038,6 +26212,24 @@
       "duration_ms": 172288,
       "name": "\u0639\u064a\u0634\u0644\u0643 \u064a\u0648\u0645\u064a\u0646",
       "url": "https://open.spotify.com/track/6R8PQXyw78JTVKy8tqkeVI"
+    },
+    {
+      "album": {
+        "name": "\u0639\u064a\u0646 \u0633\u062d\u0631\u064a\u0629",
+        "url": "https://open.spotify.com/album/2imB9na6sN3WCbz49IuBY0"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201271,
+      "name": "\u0639\u064a\u0646 \u0633\u062d\u0631\u064a\u0629",
+      "url": "https://open.spotify.com/track/0pTxrkqqHSVCsuHS9NhaH5"
     },
     {
       "album": {
@@ -27454,7 +27646,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 174528,
       "name": "\u0643\u0644\u0647 \u0642\u0627\u0644\u064a \u0627\u0634\u0645\u0639\u0646\u0627 \u0647\u0648",
       "url": "https://open.spotify.com/track/1kiMxcAT57ZEzdth98RR5T"
@@ -30292,7 +30484,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 160776,
       "name": "\u064a\u0627 \u0627\u0635\u0641\u0631 \u064a\u0627 \u0627\u0635\u0641\u0631",
       "url": "https://open.spotify.com/track/5aluoMb85l883RbhRChDdI"

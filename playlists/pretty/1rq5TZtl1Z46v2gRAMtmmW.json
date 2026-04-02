@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31817,
+  "num_followers": 31818,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARRPYMkJEUV6mEh4lTTGJCFUZLrwFy",
+  "snapshot_id": "AAARRa2LhyomHVHF0/V3sXkH/Y3K9aj0",
   "tracks": [
     {
       "added_at": "2026-02-17 22:35:07",
@@ -999,6 +999,26 @@
       "duration_ms": 169098,
       "name": "Wrong Things",
       "url": "https://open.spotify.com/track/1wB6r8nXiBz0EETAAT2Ysn"
+    },
+    {
+      "added_at": "2026-04-01 14:15:01",
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA"
+      },
+      "artists": [
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 228387,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

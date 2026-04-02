@@ -1,36 +1,128 @@
 {
-  "description": "Discover the future of Punjabi Pop! Cover: Yuvraj",
-  "num_followers": 9546,
+  "description": "Discover the future of Punjabi Pop! Cover: Romey Maan",
+  "num_followers": 9567,
   "original_name": "Fresh Finds Punjabi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANNX+7JCkhCEyaB555Fnifm4i/yx",
+  "snapshot_id": "AAAAAJ25UmFbx2BssW+vLOvwrAtITyET",
   "tracks": [
     {
-      "added_at": "2026-03-25 07:28:39",
+      "added_at": "2026-04-01 07:30:01",
       "album": {
-        "name": "HER GAZE",
-        "url": "https://open.spotify.com/album/4QYkarttOqXi6VzZBsNVNn"
+        "name": "Feem Da Boota",
+        "url": "https://open.spotify.com/album/5t1dwnvNUE4Bgigwl7ruCh"
       },
       "artists": [
         {
-          "name": "Yuvraj",
-          "url": "https://open.spotify.com/artist/0OsAgjLycxTWDMK25Avcvw"
+          "name": "Romey Maan",
+          "url": "https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg"
         },
         {
-          "name": "Yaari Ghuman",
-          "url": "https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N"
-        },
-        {
-          "name": "Karan Thabal",
-          "url": "https://open.spotify.com/artist/62qB87ja0UIqQH2sG8PyT8"
+          "name": "Sulfa",
+          "url": "https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0"
         }
       ],
-      "duration_ms": 148800,
-      "name": "HER GAZE",
-      "url": "https://open.spotify.com/track/2i6kxtci4aYIYgGc4MGVdo"
+      "duration_ms": 196875,
+      "name": "Feem Da Boota",
+      "url": "https://open.spotify.com/track/0hHAOE62rhIFcf8To0npfF"
+    },
+    {
+      "added_at": "2026-04-01 07:30:01",
+      "album": {
+        "name": "G.O.D (Grind Over Doubt)",
+        "url": "https://open.spotify.com/album/2jB8FWAU1mRF2UVg24rNUZ"
+      },
+      "artists": [
+        {
+          "name": "B-Deep",
+          "url": "https://open.spotify.com/artist/5IeItPO4vwq7NdOA27VR7Y"
+        },
+        {
+          "name": "KRU172",
+          "url": "https://open.spotify.com/artist/5fjpeqO0THJggLIvTJTKgc"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "G.O.D (Grind Over Doubt)",
+      "url": "https://open.spotify.com/track/48m1JiduyUwNaVd9Keh212"
+    },
+    {
+      "added_at": "2026-04-01 07:30:01",
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/5ISx9FprND9235jRgJUSoY"
+      },
+      "artists": [
+        {
+          "name": "Parm Gill",
+          "url": "https://open.spotify.com/artist/0OZAILLWphN1wgq0oTRtMd"
+        },
+        {
+          "name": "IJAY.",
+          "url": "https://open.spotify.com/artist/245VbVO1tSH3anoePVh83d"
+        }
+      ],
+      "duration_ms": 176632,
+      "name": "VENI VIDI VICI",
+      "url": "https://open.spotify.com/track/6obhwdmkyzbgYMTtszd5yI"
+    },
+    {
+      "added_at": "2026-04-01 07:30:01",
+      "album": {
+        "name": "Mere Kol",
+        "url": "https://open.spotify.com/album/0azhqZUj9FOk7ZAKCVV8ZM"
+      },
+      "artists": [
+        {
+          "name": "Jot Sarb",
+          "url": "https://open.spotify.com/artist/4vxa2NLMQFn3z49Z5lNR6H"
+        },
+        {
+          "name": "Akash Kohala",
+          "url": "https://open.spotify.com/artist/1cZb6UR2SpaUwGpNqTMIDG"
+        },
+        {
+          "name": "Little Boi",
+          "url": "https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh"
+        }
+      ],
+      "duration_ms": 144418,
+      "name": "Mere Kol",
+      "url": "https://open.spotify.com/track/7Jsk1TI1YslDpy7ppWZqew"
+    },
+    {
+      "added_at": "2026-04-01 07:30:01",
+      "album": {
+        "name": "Out of Hibernation",
+        "url": "https://open.spotify.com/album/7zqPtZGJ8wNfVpYrA0c50Q"
+      },
+      "artists": [
+        {
+          "name": "Prashant Pareek",
+          "url": "https://open.spotify.com/artist/57xkRsZVDwA8zRxrh4fQ4j"
+        }
+      ],
+      "duration_ms": 173679,
+      "name": "Out of Hibernation",
+      "url": "https://open.spotify.com/track/2LQKR9k41NOFLdgiX8ZV1R"
+    },
+    {
+      "added_at": "2026-03-25 07:28:39",
+      "album": {
+        "name": "Pind Code",
+        "url": "https://open.spotify.com/album/5e4daQc95tNckB4d9eQW4e"
+      },
+      "artists": [
+        {
+          "name": "Rubab",
+          "url": "https://open.spotify.com/artist/0Uo0QyoBfjO2N3IzhpMXIO"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Pind Code",
+      "url": "https://open.spotify.com/track/2UsTPPfAXrayHLvCsfL4Yq"
     },
     {
       "added_at": "2026-03-25 07:28:39",
@@ -51,22 +143,6 @@
       "duration_ms": 195200,
       "name": "Inner Voice",
       "url": "https://open.spotify.com/track/20UtN1CWRt0Ob4EhYfvIk7"
-    },
-    {
-      "added_at": "2026-03-25 07:28:39",
-      "album": {
-        "name": "Pind Code",
-        "url": "https://open.spotify.com/album/5e4daQc95tNckB4d9eQW4e"
-      },
-      "artists": [
-        {
-          "name": "Rubab",
-          "url": "https://open.spotify.com/artist/0Uo0QyoBfjO2N3IzhpMXIO"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Pind Code",
-      "url": "https://open.spotify.com/track/2UsTPPfAXrayHLvCsfL4Yq"
     },
     {
       "added_at": "2026-03-25 07:28:39",
@@ -519,6 +595,30 @@
     {
       "added_at": "2026-03-25 07:28:39",
       "album": {
+        "name": "HER GAZE",
+        "url": "https://open.spotify.com/album/4QYkarttOqXi6VzZBsNVNn"
+      },
+      "artists": [
+        {
+          "name": "Yuvraj",
+          "url": "https://open.spotify.com/artist/0OsAgjLycxTWDMK25Avcvw"
+        },
+        {
+          "name": "Yaari Ghuman",
+          "url": "https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N"
+        },
+        {
+          "name": "Karan Thabal",
+          "url": "https://open.spotify.com/artist/62qB87ja0UIqQH2sG8PyT8"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "HER GAZE",
+      "url": "https://open.spotify.com/track/2i6kxtci4aYIYgGc4MGVdo"
+    },
+    {
+      "added_at": "2026-03-25 07:28:39",
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/3RgXQySqZ4yKrBkDk5hSLG"
       },
@@ -827,26 +927,6 @@
     {
       "added_at": "2026-03-25 07:28:39",
       "album": {
-        "name": "LVL 1",
-        "url": "https://open.spotify.com/album/6e4QBoHbitliDRhjp3DRCh"
-      },
-      "artists": [
-        {
-          "name": "Jot Singh",
-          "url": "https://open.spotify.com/artist/3ODBfUrrMJ754gojNtrACT"
-        },
-        {
-          "name": "AVee",
-          "url": "https://open.spotify.com/artist/5xO38JLWW0qdP4KvWYix3i"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Pind Gunia",
-      "url": "https://open.spotify.com/track/5F6IiHxK28mBGcpclBLpIV"
-    },
-    {
-      "added_at": "2026-03-25 07:28:39",
-      "album": {
         "name": "Sohni Lagdi",
         "url": "https://open.spotify.com/album/0EVDMHjAWwSGpXpcdsTc30"
       },
@@ -923,22 +1003,6 @@
     {
       "added_at": "2026-03-25 07:28:39",
       "album": {
-        "name": "Dilbara",
-        "url": "https://open.spotify.com/album/54FOMv0vh7b4szU5o5ydYa"
-      },
-      "artists": [
-        {
-          "name": "Harmanjot",
-          "url": "https://open.spotify.com/artist/5czxaFW43xkJnuA0CBbzYM"
-        }
-      ],
-      "duration_ms": 220970,
-      "name": "Dilbara",
-      "url": "https://open.spotify.com/track/7f1SiRIjS3g38ojjk1o9aJ"
-    },
-    {
-      "added_at": "2026-03-25 07:28:39",
-      "album": {
         "name": "All of you",
         "url": "https://open.spotify.com/album/397DCPDRNbN0VGUghczWNh"
       },
@@ -963,78 +1027,6 @@
       "duration_ms": 151928,
       "name": "All of you",
       "url": "https://open.spotify.com/track/0MDkYGtnbx7o8TEM1xsRJ1"
-    },
-    {
-      "added_at": "2026-03-25 07:28:39",
-      "album": {
-        "name": "Tere Na Jahaan",
-        "url": "https://open.spotify.com/album/1q3GTEh3Mwknrb1wAZMF7O"
-      },
-      "artists": [
-        {
-          "name": "Tanya",
-          "url": "https://open.spotify.com/artist/1qWw0cSg9XvtAPTh8b6PuO"
-        },
-        {
-          "name": "Manna Singh",
-          "url": "https://open.spotify.com/artist/0CX5hMhHINo4YbvFEZmp5L"
-        },
-        {
-          "name": "Davinder Salala",
-          "url": "https://open.spotify.com/artist/5wO4cAUZPywX5KYz1imsbm"
-        }
-      ],
-      "duration_ms": 208636,
-      "name": "Tere Na Jahaan",
-      "url": "https://open.spotify.com/track/5uR0w4iHevFUx5NU236RpV"
-    },
-    {
-      "added_at": "2026-03-25 07:28:39",
-      "album": {
-        "name": "Fer Mil",
-        "url": "https://open.spotify.com/album/79K9m4G235izxPsJyHjJNX"
-      },
-      "artists": [
-        {
-          "name": "Grand Singh",
-          "url": "https://open.spotify.com/artist/6dDxK3fbhbkgL5iQzLeUwV"
-        },
-        {
-          "name": "Dilwala",
-          "url": "https://open.spotify.com/artist/1tGVUrBbuCEZTlFyXoLCZl"
-        },
-        {
-          "name": "Sunny Vik",
-          "url": "https://open.spotify.com/artist/0w7vYjdZtzd1zSmPfY0mKe"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Fer Mil",
-      "url": "https://open.spotify.com/track/6EK69MaSF9UBb92UVFHp7v"
-    },
-    {
-      "added_at": "2026-03-25 07:28:39",
-      "album": {
-        "name": "Che Che Pe Pe",
-        "url": "https://open.spotify.com/album/7j3nyKA5uYdc2YnRNUKU1q"
-      },
-      "artists": [
-        {
-          "name": "Jorawar",
-          "url": "https://open.spotify.com/artist/4aJTcbCaACoNMJDGh93rmO"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        },
-        {
-          "name": "Seji Dhillon",
-          "url": "https://open.spotify.com/artist/0tCBqgwUjIFqRNYpDJZoPG"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Che Che Pe Pe",
-      "url": "https://open.spotify.com/track/7gCEA4wlEkrXXNhcao66cf"
     }
   ],
   "unique_name": "Fresh Finds Punjabi",

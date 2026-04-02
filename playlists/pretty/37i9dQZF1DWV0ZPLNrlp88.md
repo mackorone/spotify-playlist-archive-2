@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,625 likes - 40 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,628 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 7 | [ツンデレ](https://open.spotify.com/track/4ZV0sDpdtIScjt8oeBNEHV) | [なえなの](https://open.spotify.com/artist/4AkYIS5laEOXhlRNBEPaiM), [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [ツンデレ](https://open.spotify.com/album/1Q5qwdHsxSh4MwRQusVLpd) | 3:05 |
 | 8 | [寄り道](https://open.spotify.com/track/7aJ4nj8jNZPDy819XX1FK8) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [寄り道](https://open.spotify.com/album/7xJRthLvDJ2Kiu3N8P1X4a) | 3:38 |
 | 9 | [あげない](https://open.spotify.com/track/5cUEQzV5AYoNAyCYTGQr84) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Sebone \-脊髄盤\-](https://open.spotify.com/album/3drqlhAffp49jBt30eHLPe) | 3:29 |
-| 10 | [海岸線](https://open.spotify.com/track/0X7KuSf8z1DhLNr9FYhJiL) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [泣くな、青春](https://open.spotify.com/album/0fMOxtoOYTxqoid0tFlPr7) | 3:18 |
+| 10 | [海岸線](https://open.spotify.com/track/0X7KuSf8z1DhLNr9FYhJiL) | [Blue Mash](https://open.spotify.com/artist/48XJzuA3cbtDl9pjKySb5E) | [泣くな、青春](https://open.spotify.com/album/0fMOxtoOYTxqoid0tFlPr7) | 3:18 |
 | 11 | [ごめんね](https://open.spotify.com/track/5ugRVHDtx3uBxmpT2VNGYL) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [ごめんね](https://open.spotify.com/album/0oQ8GoeWuiiOx3PPg0ZLyZ) | 4:20 |
 | 12 | [春飛行](https://open.spotify.com/track/5je4gGE5C1zEreSbJEheJL) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [春飛行](https://open.spotify.com/album/0535KPbB6Wbw1RW4R0CxAd) | 3:02 |
 | 13 | [夜にテーマソング](https://open.spotify.com/track/7z7FODHRp6SyCO3K43rVtN) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [夜にテーマソング](https://open.spotify.com/album/3JpFK8eS5EqxZDTj21QXnI) | 4:27 |

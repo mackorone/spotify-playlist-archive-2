@@ -3424,7 +3424,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
@@ -6862,10 +6862,28 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 143280,
       "name": "Ayer Hable Con Dios",
       "url": "https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu"
+    },
+    {
+      "album": {
+        "name": "Ayer Hable Con Dios",
+        "url": "https://open.spotify.com/album/3kzwAO9Ra7CGc0Hn7Eu7TV"
+      },
+      "artists": [
+        {
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143300,
+      "name": "Ayer Hable Con Dios",
+      "url": "https://open.spotify.com/track/59JHSgCS2nbh0GqusOLQjS"
     },
     {
       "album": {
@@ -21699,6 +21717,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame Solo Pablo Chil",
+        "url": "https://open.spotify.com/album/27rfVw3aIEmwSDYnSPnxLl"
+      },
+      "artists": [
+        {
+          "name": "pongansinaka",
+          "url": "https://open.spotify.com/artist/3TjG1mvgFIyEDBkvgbbm99"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197578,
+      "name": "D\u00e9jame Solo Pablo Chil",
+      "url": "https://open.spotify.com/track/4OxQDrueOwh0wN4oOkUUFm"
+    },
+    {
+      "album": {
         "name": "D\u00f3nde Est\u00e1s Ma?",
         "url": "https://open.spotify.com/album/5LRP0n2xem3w3c2Jd72yXP"
       },
@@ -26234,7 +26270,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 225786,
       "name": "Fashion Girl pt.2",
       "url": "https://open.spotify.com/track/6EKUSdzaD9zRaaR5Yg0SoC"
@@ -41842,7 +41878,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 150812,
       "name": "Machista",
       "url": "https://open.spotify.com/track/2jJ5gHhgrCiKlZJamIB9mY"
@@ -44226,7 +44262,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 169765,
       "name": "Me Toc\u00f3 Perderte",
       "url": "https://open.spotify.com/track/30wXzEewK9TB99PPnMPdZ1"
@@ -44526,7 +44562,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 203991,
       "name": "Mendigo",
       "url": "https://open.spotify.com/track/51xoDusXlP06dbvaFBcsCz"
@@ -46048,7 +46084,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 140307,
       "name": "Millonarioso",
       "url": "https://open.spotify.com/track/0PhN9r724zlLrC3UF2co8l"
@@ -62090,7 +62126,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -62108,7 +62144,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -68432,6 +68468,24 @@
       "duration_ms": 177336,
       "name": "suficiente.",
       "url": "https://open.spotify.com/track/0jJwHCq4QHtZX20OvkYBSq"
+    },
+    {
+      "album": {
+        "name": "INTERNUM",
+        "url": "https://open.spotify.com/album/0ZpAGQxAuTHuzm0CdgYHsc"
+      },
+      "artists": [
+        {
+          "name": "JOAKO",
+          "url": "https://open.spotify.com/artist/5kErqJMmN35SkXsrmLyPdc"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177336,
+      "name": "suficiente.",
+      "url": "https://open.spotify.com/track/4Q1jDNoMRYdF9JLhRvuRUZ"
     },
     {
       "album": {

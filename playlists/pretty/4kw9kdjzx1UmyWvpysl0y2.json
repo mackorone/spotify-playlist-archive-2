@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124126,
+  "num_followers": 124121,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVROEIFRsUnLY986UiR8AhJ5RTqYxF",
+  "snapshot_id": "AAAVReQPfP6EVSmFVPjGynlO5/lVby3w",
   "tracks": [
+    {
+      "added_at": "2026-04-01 15:38:09",
+      "album": {
+        "name": "Volume Nation",
+        "url": "https://open.spotify.com/album/5P5wo8Auod5iYSHkAgBmnC"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        }
+      ],
+      "duration_ms": 166955,
+      "name": "Volume Nation",
+      "url": "https://open.spotify.com/track/6FXR8bDZEl1YY9ygjU0F1y"
+    },
     {
       "added_at": "2026-03-30 15:08:36",
       "album": {

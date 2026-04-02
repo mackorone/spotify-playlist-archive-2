@@ -254,10 +254,28 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 171000,
       "name": "Back Alley Rainstorm",
       "url": "https://open.spotify.com/track/6E9ACxbryalj3PnCDhZxtO"
+    },
+    {
+      "album": {
+        "name": "Coastal Storm Rain",
+        "url": "https://open.spotify.com/album/3jaaXBjkXWUJOB68U6DVdr"
+      },
+      "artists": [
+        {
+          "name": "Brontology",
+          "url": "https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122501,
+      "name": "Backyard Trees in Storm",
+      "url": "https://open.spotify.com/track/6LYLYWCFOPO4EnxfV1bBXE"
     },
     {
       "album": {
@@ -272,7 +290,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 123333,
       "name": "Bad Weather - Storm",
       "url": "https://open.spotify.com/track/0cyCwaLbb1MV1Fc45e9Cwk"
@@ -290,7 +308,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 139000,
       "name": "Bajo Refugio Tormenta",
       "url": "https://open.spotify.com/track/5cZTwGEeGbZhObrDxCWL4y"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 120000,
       "name": "Black Bolt",
       "url": "https://open.spotify.com/track/0T4xlWzMyjoMW3GmiVzG07"
@@ -585,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Midnight Thunder",
+        "url": "https://open.spotify.com/album/7Gl8BL86YWRVIFspHfyOzg"
+      },
+      "artists": [
+        {
+          "name": "Biologique",
+          "url": "https://open.spotify.com/artist/0DudONxjyhGIoLDd0o17f1"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132462,
+      "name": "City Stormy Night",
+      "url": "https://open.spotify.com/track/4MIWH7F44rmKGfMMnNWUHI"
+    },
+    {
+      "album": {
         "name": "Bad Weather",
         "url": "https://open.spotify.com/album/3j478bPDiacEeOFexch1lY"
       },
@@ -596,7 +632,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 154000,
       "name": "City Thunderstorm",
       "url": "https://open.spotify.com/track/7fTAkwHYIRSZmjOBi2hZnr"
@@ -672,6 +708,24 @@
       "duration_ms": 208000,
       "name": "Countryside Storm",
       "url": "https://open.spotify.com/track/3DcBNBQXztYsrGgAqUGSJj"
+    },
+    {
+      "album": {
+        "name": "Countryside Thunder",
+        "url": "https://open.spotify.com/album/2kBOSAlmdWSG87QlZvxZcI"
+      },
+      "artists": [
+        {
+          "name": "Varuna Recordings",
+          "url": "https://open.spotify.com/artist/14PnfeDCdj2PHrVMzTTddV"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126214,
+      "name": "Countryside Thunder",
+      "url": "https://open.spotify.com/track/29MBqn7AVef6QZVYYSH4bR"
     },
     {
       "album": {
@@ -1370,7 +1424,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 159058,
       "name": "Evening Thunderstorm",
       "url": "https://open.spotify.com/track/1SHBqaEqPX6BRyYnHqT3Zi"
@@ -1845,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Thunderstorms",
+        "url": "https://open.spotify.com/album/7ph5HmdtBgK32R4KdpseAj"
+      },
+      "artists": [
+        {
+          "name": "Moon Geel",
+          "url": "https://open.spotify.com/artist/233dPasuKQ0Iy9txhTLRHa"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142782,
+      "name": "Harbor Lights in Storm",
+      "url": "https://open.spotify.com/track/3Z1XeubmrgIREAzxMXblpf"
+    },
+    {
+      "album": {
         "name": "Thunderproof",
         "url": "https://open.spotify.com/album/5n0u3iGGXVg300k3WJnztS"
       },
@@ -1860,6 +1932,24 @@
       "duration_ms": 150000,
       "name": "Hard Nature Rain With Thunder",
       "url": "https://open.spotify.com/track/0j8BAcT3HQ8DfrTXqEIlZV"
+    },
+    {
+      "album": {
+        "name": "Harmonious Thunder",
+        "url": "https://open.spotify.com/album/1ShcAqIJfvbkLfzZQggxNC"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Embrace",
+          "url": "https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Harmonious Thunder",
+      "url": "https://open.spotify.com/track/7qt6wADnCvEwxVvCae6HSi"
     },
     {
       "album": {
@@ -2133,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Thunder Sounds & Storm",
+        "url": "https://open.spotify.com/album/1ybSRivCHJ7XXcCIdwREeV"
+      },
+      "artists": [
+        {
+          "name": "Fabrique Noise",
+          "url": "https://open.spotify.com/artist/2ldc1mlbRMXPMUiyyttiZG"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124762,
+      "name": "Lake Shore Thunderstorm",
+      "url": "https://open.spotify.com/track/03fzyXatcgRbR6LKz7I1LH"
+    },
+    {
+      "album": {
         "name": "Le Tonnerre Claquant",
         "url": "https://open.spotify.com/album/7iW8QcSoivasuL51LbO4Ri"
       },
@@ -2198,7 +2306,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 182000,
       "name": "Light Outdoors Rain With Thunder",
       "url": "https://open.spotify.com/track/2UV2qxZcBoinEC0Ko6C93X"
@@ -2256,6 +2364,24 @@
       "duration_ms": 193785,
       "name": "Light Rain Passing Thunder",
       "url": "https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7"
+    },
+    {
+      "album": {
+        "name": "Light Rain, Distant Thunder",
+        "url": "https://open.spotify.com/album/4esVhcHC79nvFH0EuJByrw"
+      },
+      "artists": [
+        {
+          "name": "Cloudside",
+          "url": "https://open.spotify.com/artist/4GE1zB3rkqszl1JOenyAOj"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130892,
+      "name": "Light Rain, Distant Thunder",
+      "url": "https://open.spotify.com/track/2Y6IUM9tZQC1S4mdCcLd1u"
     },
     {
       "album": {
@@ -2432,7 +2558,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 149666,
       "name": "Lluvia, trueno, viento",
       "url": "https://open.spotify.com/track/1ebeEq5lUHhIPwvFeNr6gi"
@@ -2454,6 +2580,24 @@
       "duration_ms": 147534,
       "name": "Longing for rain",
       "url": "https://open.spotify.com/track/3UGkG7AQidJX6tZs61sO15"
+    },
+    {
+      "album": {
+        "name": "Low Rumble",
+        "url": "https://open.spotify.com/album/2SEPUlqUkyWxgkeB3z2pEc"
+      },
+      "artists": [
+        {
+          "name": "Lumo",
+          "url": "https://open.spotify.com/artist/2T0jucohOQ58uTtQR66BhK"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144097,
+      "name": "Low Rumble",
+      "url": "https://open.spotify.com/track/5EjrSMKqigSble8fnFpOBH"
     },
     {
       "album": {
@@ -2504,7 +2648,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 132124,
       "name": "Luscious Rain",
       "url": "https://open.spotify.com/track/767C8s4KVShgz4r8hqJAd0"
@@ -2540,7 +2684,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 136719,
       "name": "May Storm",
       "url": "https://open.spotify.com/track/1DNAhPyIw2BYonJ8BCmHQP"
@@ -2990,7 +3134,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 121115,
       "name": "Perfect Rain",
       "url": "https://open.spotify.com/track/7MhZHbrf3xvUdUBO0NCWYJ"
@@ -3321,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "Rain and Close Thunder Cracks",
+        "url": "https://open.spotify.com/album/5rJAx8c3CKF8c1kcrF9NSM"
+      },
+      "artists": [
+        {
+          "name": "Rain Harbor",
+          "url": "https://open.spotify.com/artist/3uGbg4fPT9hEfsUDVIPn2r"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133379,
+      "name": "Rain and Close Thunder Cracks",
+      "url": "https://open.spotify.com/track/4JQaKla5xL4DEVF5tPXLvo"
+    },
+    {
+      "album": {
         "name": "Exclusive Nature",
         "url": "https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow"
       },
@@ -3390,6 +3552,24 @@
       "duration_ms": 182000,
       "name": "Rain Downpour",
       "url": "https://open.spotify.com/track/56PGNYfo42PMGLxkHEDnzE"
+    },
+    {
+      "album": {
+        "name": "Rain During Storm",
+        "url": "https://open.spotify.com/album/4bXmCGxNUnI2g9sFuGAYKs"
+      },
+      "artists": [
+        {
+          "name": "Winding Down",
+          "url": "https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Rain During Storm",
+      "url": "https://open.spotify.com/track/5oyT8aVyN5tznyB1ssfxK3"
     },
     {
       "album": {
@@ -3548,7 +3728,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 138948,
       "name": "Raindrops for Sleep",
       "url": "https://open.spotify.com/track/4H2UoVHDlQe6t14ulSYW6y"
@@ -3620,7 +3800,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 143666,
       "name": "Rainstorm",
       "url": "https://open.spotify.com/track/5Z5fhku3u9oxVV6KTPRsPZ"
@@ -3656,7 +3836,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 180176,
       "name": "Rainy Alley",
       "url": "https://open.spotify.com/track/3OlS3gkeNvoynH6sZ03fl1"
@@ -3674,7 +3854,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 156359,
       "name": "Rainy Misty Skies",
       "url": "https://open.spotify.com/track/2l1jBfsyUWsD0NmHMEWtyd"
@@ -3746,7 +3926,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 129761,
       "name": "Relaxing Thunderstorm",
       "url": "https://open.spotify.com/track/3VcUGM9IYstqpptFCokPI4"
@@ -3980,7 +4160,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 138457,
       "name": "Skyfall And Thunder",
       "url": "https://open.spotify.com/track/78Oreervde9fgGSIbr6ZOq"
@@ -4023,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Tropic Thunders",
+        "url": "https://open.spotify.com/album/28RqLfbY07yZdUiJ3acTmT"
+      },
+      "artists": [
+        {
+          "name": "Las Vientas",
+          "url": "https://open.spotify.com/artist/3HzI9Zvsqx2AMuLlikzXTT"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142217,
+      "name": "Sleepless Night Thunder",
+      "url": "https://open.spotify.com/track/7ca0jkTcSKAYEYhFKBepi4"
+    },
+    {
+      "album": {
         "name": "Lit up Sky",
         "url": "https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS"
       },
@@ -4038,6 +4236,24 @@
       "duration_ms": 208000,
       "name": "Sleepy Storm",
       "url": "https://open.spotify.com/track/0gXGs4OoIwCEEDdKCwsOJE"
+    },
+    {
+      "album": {
+        "name": "Slumber Night Rains",
+        "url": "https://open.spotify.com/album/5iLDsc7sxuvHGhkEmTzOuj"
+      },
+      "artists": [
+        {
+          "name": "Nature Advisor",
+          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147769,
+      "name": "Slumber Night Rains",
+      "url": "https://open.spotify.com/track/5D3Qv60Pfpt01xIxizpT6l"
     },
     {
       "album": {
@@ -4142,7 +4358,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 181398,
       "name": "Soft Thunder",
       "url": "https://open.spotify.com/track/4cRYFKTQaFg95xiMF0izlG"
@@ -4218,6 +4434,24 @@
       "duration_ms": 102539,
       "name": "Sonido Dormido",
       "url": "https://open.spotify.com/track/1gWCfhUtzEtOkWS5lM6zca"
+    },
+    {
+      "album": {
+        "name": "Steady Rain, Low Thunder Rolls",
+        "url": "https://open.spotify.com/album/45tcEOlU1Sr10fmEweM1T2"
+      },
+      "artists": [
+        {
+          "name": "Overcast Atlas",
+          "url": "https://open.spotify.com/artist/4s0NYrClZsLeKYdT5OV8wM"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124900,
+      "name": "Steady Rain, Low Thunder Rolls",
+      "url": "https://open.spotify.com/track/75BlxLXQnEQMH2SyGtQzSA"
     },
     {
       "album": {
@@ -4344,6 +4578,24 @@
       "duration_ms": 156007,
       "name": "Storm Is Building Up",
       "url": "https://open.spotify.com/track/13yZWnQQjc3VrHXh16ujky"
+    },
+    {
+      "album": {
+        "name": "Thunder and Rain",
+        "url": "https://open.spotify.com/album/5WIZWLsr0q7u5HGeHtlAmW"
+      },
+      "artists": [
+        {
+          "name": "XY Clouds",
+          "url": "https://open.spotify.com/artist/7egIbqY4RQf9O8JDHHSzI6"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139955,
+      "name": "Storm Over Old Town",
+      "url": "https://open.spotify.com/track/7oeGNolDZMxKsX8gl45k99"
     },
     {
       "album": {
@@ -4934,7 +5186,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 184000,
       "name": "Thunder Afternoon (Rain)",
       "url": "https://open.spotify.com/track/3EEerX6cdmRrNq1jTzSWah"
@@ -5010,6 +5262,24 @@
       "duration_ms": 140000,
       "name": "Thunder Around The Clock",
       "url": "https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48"
+    },
+    {
+      "album": {
+        "name": "Thunder Bloom",
+        "url": "https://open.spotify.com/album/3jVtRRrHawnoAXyAkcs2jn"
+      },
+      "artists": [
+        {
+          "name": "Lunacy",
+          "url": "https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142561,
+      "name": "Thunder Bloom",
+      "url": "https://open.spotify.com/track/3fXFYWhqRLFEnKFnJQtqwe"
     },
     {
       "album": {
@@ -5226,6 +5496,24 @@
       "duration_ms": 208000,
       "name": "Thunder Rain",
       "url": "https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx"
+    },
+    {
+      "album": {
+        "name": "Thunder Rainfall",
+        "url": "https://open.spotify.com/album/1zVVHDMvcFmhf0rSai1RPD"
+      },
+      "artists": [
+        {
+          "name": "Nature Advisor",
+          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209285,
+      "name": "Thunder Rainfall",
+      "url": "https://open.spotify.com/track/40Zf8PY526CdfE3V2Va8fI"
     },
     {
       "album": {
@@ -5636,7 +5924,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 146707,
       "name": "Tormenta de lluvia de la selva",
       "url": "https://open.spotify.com/track/0SUfn82ZIm9n0CEkWzBXH0"
@@ -5726,7 +6014,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 138000,
       "name": "Truenos y rel\u00e1mpagos",
       "url": "https://open.spotify.com/track/3BMKIPPQOYUFEBEkbv6mVN"
@@ -5762,7 +6050,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 195729,
       "name": "Under Shelter Rainstorm",
       "url": "https://open.spotify.com/track/6H8uyA5LdEyEEHqOkCslYI"
@@ -5942,7 +6230,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 185294,
       "name": "Wide Rain - Thunder",
       "url": "https://open.spotify.com/track/0dVn2OqVdmrCoRUN3cGjOj"

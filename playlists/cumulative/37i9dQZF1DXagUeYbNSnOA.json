@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Nezzah. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring ABRL. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -6489,6 +6489,24 @@
     },
     {
       "album": {
+        "name": "Blurry",
+        "url": "https://open.spotify.com/album/07KIXKcQyic0AJ9heN0gSH"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154821,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/6lMXfRy0JXxAFe3XqNZdSW"
+    },
+    {
+      "album": {
         "name": "Boca a Boca",
         "url": "https://open.spotify.com/album/66cnlRnSTxKP5MYPFvAoSm"
       },
@@ -11811,6 +11829,24 @@
     },
     {
       "album": {
+        "name": "de mi parte",
+        "url": "https://open.spotify.com/album/1r2nOVxSeheJ4My4BLcGVz"
+      },
+      "artists": [
+        {
+          "name": "ABRL",
+          "url": "https://open.spotify.com/artist/34gZHRoHXDq8RR9p0koUbk"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247894,
+      "name": "de mi parte",
+      "url": "https://open.spotify.com/track/74as3buIqHDQ70lpOHvB99"
+    },
+    {
+      "album": {
         "name": "DE M\u00c1S",
         "url": "https://open.spotify.com/album/5sX4lZZqsJUWhU16PP0DgM"
       },
@@ -15154,7 +15190,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 221275,
       "name": "El cuento m\u00e1s lindo de la historia",
       "url": "https://open.spotify.com/track/1580kUT9pnLRSAytUvQncn"
@@ -33489,6 +33525,24 @@
     },
     {
       "album": {
+        "name": "No Te Ama Igual",
+        "url": "https://open.spotify.com/album/0GJSwRpy0VDd93xdcWb7jr"
+      },
+      "artists": [
+        {
+          "name": "Marbo",
+          "url": "https://open.spotify.com/artist/2WywVBP6iJXKjisMuQtKJe"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139498,
+      "name": "No Te Ama Igual",
+      "url": "https://open.spotify.com/track/1vWLG9q0HSI9wxaSodyfhu"
+    },
+    {
+      "album": {
         "name": "No Te Conozco, Pero Te Extra\u00f1o",
         "url": "https://open.spotify.com/album/7mErNgL0ywcgSDKsHDnZoT"
       },
@@ -36482,7 +36536,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 197618,
       "name": "Pel\u00edcula",
       "url": "https://open.spotify.com/track/3T0sR45JxRj7jJSl2JOsHR"
@@ -36536,7 +36590,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 173415,
       "name": "PEQUE\u00d1O HURAC\u00c1N",
       "url": "https://open.spotify.com/track/04VY6HxLwi4gXxm1ZL0eR0"
@@ -51000,6 +51054,24 @@
       "duration_ms": 195000,
       "name": "Whisky",
       "url": "https://open.spotify.com/track/3YNtQ1j13MNwbOY1KxtTcS"
+    },
+    {
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/05RbhpEbN4TnIpd03CIBTT"
+      },
+      "artists": [
+        {
+          "name": "YUNVA",
+          "url": "https://open.spotify.com/artist/2WgZmDYxZkGsFwRkhCg4OP"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/5KTSHn68KZ4PQUsppaxBZ8"
     },
     {
       "album": {

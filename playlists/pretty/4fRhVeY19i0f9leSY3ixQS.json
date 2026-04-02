@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAANPeVPmj68MAw1HGgTT7S1/3z1WBsH",
+  "snapshot_id": "AAANQBwDKh9+9leC3nRJRZJhwZWvrpLW",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -39,6 +39,22 @@
       "duration_ms": 188000,
       "name": "Still Breathing",
       "url": "https://open.spotify.com/track/6fFkH5gfwg57znzRCZST7w"
+    },
+    {
+      "added_at": "2026-04-01 15:25:36",
+      "album": {
+        "name": "alien.",
+        "url": "https://open.spotify.com/album/0ZX5IAFtcRr57vCQeOahW8"
+      },
+      "artists": [
+        {
+          "name": "ZERO SUN",
+          "url": "https://open.spotify.com/artist/0pqgsjsIkLSJ4SLJZ4nYFB"
+        }
+      ],
+      "duration_ms": 229139,
+      "name": "alien.",
+      "url": "https://open.spotify.com/track/0MqgKaj6vvWdoCn8w75w10"
     },
     {
       "added_at": "2026-03-31 12:30:53",
@@ -4811,6 +4827,38 @@
       "duration_ms": 155706,
       "name": "Intermassa",
       "url": "https://open.spotify.com/track/6BRVOobJ8KsfolaQJnnqRB"
+    },
+    {
+      "added_at": "2026-04-01 15:29:13",
+      "album": {
+        "name": "Spacecat",
+        "url": "https://open.spotify.com/album/6VKiseKucbHBXLvXLpO2w6"
+      },
+      "artists": [
+        {
+          "name": "Jeanette Summers",
+          "url": "https://open.spotify.com/artist/2xJV4YACXieIEFM5iH9VLi"
+        }
+      ],
+      "duration_ms": 258039,
+      "name": "Spacecat",
+      "url": "https://open.spotify.com/track/6J9exNHLIQCWBFt3ImK94Z"
+    },
+    {
+      "added_at": "2026-04-01 15:29:33",
+      "album": {
+        "name": "En Fin",
+        "url": "https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8"
+      },
+      "artists": [
+        {
+          "name": "Nico Tallac",
+          "url": "https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh"
     }
   ],
   "unique_name": "Shuffle Roulette",

@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "INFINITY WARS",
+        "url": "https://open.spotify.com/album/1GATZuf4mUVmik7eFpPK5y"
+      },
+      "artists": [
+        {
+          "name": "OUR GREAT ESCAPE",
+          "url": "https://open.spotify.com/artist/0Gtsp3mRl1OlBiudeI4DSx"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344571,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/24hBaP9gSlo2NeyQZGGvQB"
+    },
+    {
+      "album": {
         "name": "Scattered Memories",
         "url": "https://open.spotify.com/album/3LdurMICJIuXrQkipmVRw1"
       },

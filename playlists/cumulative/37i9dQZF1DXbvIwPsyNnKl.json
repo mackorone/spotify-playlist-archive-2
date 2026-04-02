@@ -108,7 +108,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 217161,
       "name": "1990",
       "url": "https://open.spotify.com/track/6fsp5faemLnDNnAA0H6gzJ"
@@ -134,6 +134,24 @@
       "duration_ms": 183414,
       "name": "213",
       "url": "https://open.spotify.com/track/1CHjcdykq6x7xWbR1OUg9R"
+    },
+    {
+      "album": {
+        "name": "26Freestyle",
+        "url": "https://open.spotify.com/album/6BbGMxU7qiW3YJMJrnktmt"
+      },
+      "artists": [
+        {
+          "name": "riv",
+          "url": "https://open.spotify.com/artist/3wn0W7LBB2D2t8ZKScTeJ6"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141950,
+      "name": "26Freestyle",
+      "url": "https://open.spotify.com/track/6nAyGcD9YYExwECvqeTtOL"
     },
     {
       "album": {
@@ -1028,6 +1046,28 @@
       "duration_ms": 187317,
       "name": "Bad Type",
       "url": "https://open.spotify.com/track/1Nf8lo7CKSJLGHi4uT8EvL"
+    },
+    {
+      "album": {
+        "name": "BAG",
+        "url": "https://open.spotify.com/album/4B936mwlhW0VCu1dt5GZO6"
+      },
+      "artists": [
+        {
+          "name": "2ICEY",
+          "url": "https://open.spotify.com/artist/7emlGVjzcaBw6ndzROgua5"
+        },
+        {
+          "name": "GEE EXCLSV",
+          "url": "https://open.spotify.com/artist/6rjqsmPAKDp4RbgpsoLjGB"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "BAG",
+      "url": "https://open.spotify.com/track/5IASWxkcRGVOqkeYp4bnOL"
     },
     {
       "album": {
@@ -2486,7 +2526,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 104840,
       "name": "FURR - prod. Fern.",
       "url": "https://open.spotify.com/track/4ckPBJHbmsaeSYv02ShzfQ"
@@ -3176,7 +3216,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 182189,
       "name": "I BE LIKE (DIFG)",
       "url": "https://open.spotify.com/track/6cnUJQnTrPAivbMYAgnxIr"
@@ -4951,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/7imUJeV2jMDVzt3zu7iVgV"
+      },
+      "artists": [
+        {
+          "name": "Guddhist Gunatita",
+          "url": "https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250212,
+      "name": "Mundo",
+      "url": "https://open.spotify.com/track/2qI7TMmGy8EtPuU66bPVzM"
+    },
+    {
+      "album": {
         "name": "Musika",
         "url": "https://open.spotify.com/album/2Mc1QZJkPoqOzI2E15Nv17"
       },
@@ -6204,7 +6262,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 218480,
       "name": "Relax Ka Lang",
       "url": "https://open.spotify.com/track/1SW8l3oCHHk1ou8FScyMXY"
@@ -7482,6 +7540,44 @@
       "duration_ms": 190000,
       "name": "That's My Type",
       "url": "https://open.spotify.com/track/492GiJVNa4nrriNWTwz876"
+    },
+    {
+      "album": {
+        "name": "The Helly What",
+        "url": "https://open.spotify.com/album/7qCw3yKpSmKLx5C2uKIEEn"
+      },
+      "artists": [
+        {
+          "name": "Kartell'em",
+          "url": "https://open.spotify.com/artist/4e4flHlMWdF3KOADVBTMXo"
+        },
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        },
+        {
+          "name": "Waiian",
+          "url": "https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29"
+        },
+        {
+          "name": "Wavyier",
+          "url": "https://open.spotify.com/artist/5BiH3cDOIyyAQixJ0JcyNw"
+        },
+        {
+          "name": "Ne7in",
+          "url": "https://open.spotify.com/artist/7xLdWx1ZNY9LnvPZo7BbS3"
+        },
+        {
+          "name": "Nickname",
+          "url": "https://open.spotify.com/artist/7oPgFmJIfapueMliwOjBiH"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161624,
+      "name": "The Helly What",
+      "url": "https://open.spotify.com/track/1a4wNQKai7Z9zpybqmpcU8"
     },
     {
       "album": {

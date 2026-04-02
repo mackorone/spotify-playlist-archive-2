@@ -6,7 +6,7 @@
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA5GAhLGMazVNRtBhTgl3SxX5dSXN16",
+  "snapshot_id": "AAA5K/tq9qTTeqdMf/euiIHqkEhlgUC1",
   "tracks": [
     {
       "added_at": "2025-12-18 22:42:53",
@@ -102,6 +102,10 @@
         {
           "name": "Monsieur Mellow",
           "url": "https://open.spotify.com/artist/1VkZ1nRa12nZR0mqpnh5WZ"
+        },
+        {
+          "name": "Jackson James Smith",
+          "url": "https://open.spotify.com/artist/4wZrNimuRC6ba5W9eJGv8x"
         }
       ],
       "duration_ms": 212000,
@@ -217,6 +221,22 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
+      "added_at": "2026-04-01 17:07:35",
+      "album": {
+        "name": "BHMF (Blondes Have More Fun)",
+        "url": "https://open.spotify.com/album/0TcxnaZmW0Kz9mixTrGHKs"
+      },
+      "artists": [
+        {
+          "name": "Angel Bleu",
+          "url": "https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO"
+        }
+      ],
+      "duration_ms": 165351,
+      "name": "BHMF (Blondes Have More Fun)",
+      "url": "https://open.spotify.com/track/2ZC8zli3RK85zCBce63xrr"
+    },
+    {
       "added_at": "2026-03-21 13:51:36",
       "album": {
         "name": "SOME OTHER TIME",
@@ -231,6 +251,22 @@
       "duration_ms": 194920,
       "name": "SOME OTHER TIME",
       "url": "https://open.spotify.com/track/77rVr4DnWSFOJO29UGKonV"
+    },
+    {
+      "added_at": "2026-04-01 17:17:24",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2kXcnxi134zzN4nmGjJ4Tj"
+      },
+      "artists": [
+        {
+          "name": "Naiyah",
+          "url": "https://open.spotify.com/artist/75EPu5pK1tSyy0d0FATDvB"
+        }
+      ],
+      "duration_ms": 253913,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/43dTLOTFP9HRBxy9dDV7JG"
     },
     {
       "added_at": "2026-03-09 23:44:14",
@@ -2835,6 +2871,154 @@
       "duration_ms": 427093,
       "name": "Love & Hate",
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+    },
+    {
+      "added_at": "2026-04-01 23:36:54",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/6iXcA0CZVAko503T5fHc3P"
+      },
+      "artists": [
+        {
+          "name": "Mr Unity",
+          "url": "https://open.spotify.com/artist/5yyCTJGCqbvwcm6qzlMm5p"
+        }
+      ],
+      "duration_ms": 296463,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3udOrp7OKsleZZq0QUohfp"
+    },
+    {
+      "added_at": "2026-04-01 23:33:52",
+      "album": {
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/71mc1up731HptXns52PPWK"
+      },
+      "artists": [
+        {
+          "name": "Alka 2001",
+          "url": "https://open.spotify.com/artist/0FOZl9lnMPFefh81JmZOKR"
+        },
+        {
+          "name": "Zurdeik",
+          "url": "https://open.spotify.com/artist/1ohuygiane6UcPS4fYlJXP"
+        }
+      ],
+      "duration_ms": 142611,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/51pYTj8gQ2wcXkeGG6mdi3"
+    },
+    {
+      "added_at": "2026-04-01 23:32:31",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/6GM16JmN7ixpHYzoMOZ0XU"
+      },
+      "artists": [
+        {
+          "name": "Penelope",
+          "url": "https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN"
+        }
+      ],
+      "duration_ms": 236240,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/0qHxVLpEfjoFWlwwb1jPT2"
+    },
+    {
+      "added_at": "2026-04-01 23:00:48",
+      "album": {
+        "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/645Nyu0nBt2rpGOzKfC2ld"
+      },
+      "artists": [
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/1lzUrX1mdkzJTrv0lIjRkn"
+    },
+    {
+      "added_at": "2026-04-01 23:00:54",
+      "album": {
+        "name": "Lonely Soldier",
+        "url": "https://open.spotify.com/album/620aoDr4DlKfGLSddl7KMR"
+      },
+      "artists": [
+        {
+          "name": "Cass Miller",
+          "url": "https://open.spotify.com/artist/1mcpBVj2ixcdsCcby53H0g"
+        }
+      ],
+      "duration_ms": 186075,
+      "name": "Lonely Soldier",
+      "url": "https://open.spotify.com/track/71pBN796AjYSOtlUKBr1I5"
+    },
+    {
+      "added_at": "2026-04-01 23:01:10",
+      "album": {
+        "name": "Round Two",
+        "url": "https://open.spotify.com/album/5nlNcytQwIgXqoriqUFkFc"
+      },
+      "artists": [
+        {
+          "name": "Ley.na",
+          "url": "https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV"
+        }
+      ],
+      "duration_ms": 192280,
+      "name": "Round Two",
+      "url": "https://open.spotify.com/track/71LAnJjfejz0QsYt6gw5z4"
+    },
+    {
+      "added_at": "2026-04-01 23:00:51",
+      "album": {
+        "name": "158.3 / Tell Me",
+        "url": "https://open.spotify.com/album/2KObh1HucOQtYGnaVw91UU"
+      },
+      "artists": [
+        {
+          "name": "kimaRA",
+          "url": "https://open.spotify.com/artist/0wrETSNZWzyKrdPXrRfkbD"
+        }
+      ],
+      "duration_ms": 224232,
+      "name": "158.3 / Tell Me",
+      "url": "https://open.spotify.com/track/5dDekZJfUJE9Vy42wKHOYv"
+    },
+    {
+      "added_at": "2026-04-01 23:33:03",
+      "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/0jfdzkH0PbEGTMzjrBnyRQ"
+      },
+      "artists": [
+        {
+          "name": "Nora Mae",
+          "url": "https://open.spotify.com/artist/1lEj2mCu6IQrLEnJgDjKsS"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/5fc8oPMT517tpQr7lnrx9R"
+    },
+    {
+      "added_at": "2026-04-01 13:23:15",
+      "album": {
+        "name": "My Dog Thinks I'm Cool",
+        "url": "https://open.spotify.com/album/05tg8Lrrxaf6bvGLe3Em48"
+      },
+      "artists": [
+        {
+          "name": "Dusty Sparks",
+          "url": "https://open.spotify.com/artist/7pHEza1V2q5hokk6WeBEgM"
+        }
+      ],
+      "duration_ms": 198928,
+      "name": "My Dog Thinks I'm Cool",
+      "url": "https://open.spotify.com/track/1PK6FAztQ7sKDdyoLYISBQ"
     },
     {
       "added_at": "2026-03-31 23:22:55",

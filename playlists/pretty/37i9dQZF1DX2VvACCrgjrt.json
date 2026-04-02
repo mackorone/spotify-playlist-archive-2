@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313298,
+  "num_followers": 1313265,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,38 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Gimme That Money",
+        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Gimme That Money",
+      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "At The Disco",
+        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "At The Disco",
+      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Night In Detroit (feat. Fedde Le Grand)",
         "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
       },
@@ -1295,38 +1327,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "At The Disco",
-        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "At The Disco",
-      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Gimme That Money",
-        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Gimme That Money",
-      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "You Love It",
         "url": "https://open.spotify.com/album/4i0ATZ8vK7NOfeX7WXYJlg"
       },
@@ -1339,6 +1339,26 @@
       "duration_ms": 164653,
       "name": "You Love It",
       "url": "https://open.spotify.com/track/77VuGG7OFBluUr4rbsXNWa"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Grove St. Party",
+        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Grove St. Party",
+      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
       "added_at": "2026-02-06 05:00:42",
@@ -1363,26 +1383,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Grove St. Party",
-        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
-      },
-      "artists": [
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Grove St. Party",
-      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "BPM",
         "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
       },
@@ -1395,26 +1395,6 @@
       "duration_ms": 146610,
       "name": "BPM",
       "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Big Bad Sound",
-        "url": "https://open.spotify.com/album/5kbNQthGaDLvSlczyJnSDM"
-      },
-      "artists": [
-        {
-          "name": "SQWAD",
-          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
-        },
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Big Bad Sound",
-      "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1443,26 +1423,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
-        "url": "https://open.spotify.com/album/09lXuOKN6H7VoiYY6BgTYN"
+        "name": "Big Bad Sound",
+        "url": "https://open.spotify.com/album/5kbNQthGaDLvSlczyJnSDM"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
         },
         {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        },
-        {
-          "name": "RYA",
-          "url": "https://open.spotify.com/artist/64TQUhovZNp3Vt3N49yGTZ"
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 181384,
-      "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
-      "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
+      "duration_ms": 151384,
+      "name": "Big Bad Sound",
+      "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1487,6 +1463,30 @@
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
+        "url": "https://open.spotify.com/album/09lXuOKN6H7VoiYY6BgTYN"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "RYA",
+          "url": "https://open.spotify.com/artist/64TQUhovZNp3Vt3N49yGTZ"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
+      "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Count On You",
         "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
       },
@@ -1621,24 +1605,40 @@
       "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
     },
     {
-      "added_at": "2026-02-27 05:00:47",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "T.A.S.T.E.",
-        "url": "https://open.spotify.com/album/1SaizbBT3fIldGeMq2FaYj"
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
       },
       "artists": [
         {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        },
-        {
-          "name": "DEV",
-          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
         }
       ],
-      "duration_ms": 135692,
-      "name": "T.A.S.T.E.",
-      "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
+      "added_at": "2026-03-13 04:00:35",
+      "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/3CGsC1pjKhfKWjaj0gUuXs"
+      },
+      "artists": [
+        {
+          "name": "Azooland",
+          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
+        },
+        {
+          "name": "SUBURBIA",
+          "url": "https://open.spotify.com/artist/4KiFbHlhP4RKwD39RQ323q"
+        }
+      ],
+      "duration_ms": 164326,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/0ylfzmCazlXW4cAekIgDbP"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1661,24 +1661,24 @@
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
-      "added_at": "2026-03-13 04:00:35",
+      "added_at": "2026-02-27 05:00:47",
       "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/3CGsC1pjKhfKWjaj0gUuXs"
+        "name": "T.A.S.T.E.",
+        "url": "https://open.spotify.com/album/1SaizbBT3fIldGeMq2FaYj"
       },
       "artists": [
         {
-          "name": "Azooland",
-          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
         },
         {
-          "name": "SUBURBIA",
-          "url": "https://open.spotify.com/artist/4KiFbHlhP4RKwD39RQ323q"
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
         }
       ],
-      "duration_ms": 164326,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/0ylfzmCazlXW4cAekIgDbP"
+      "duration_ms": 135692,
+      "name": "T.A.S.T.E.",
+      "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1997,6 +1997,22 @@
       "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
     },
     {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "Hyper",
+        "url": "https://open.spotify.com/album/52fURmrWyVSulmBbmdmwEO"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/2uU2Yz2R2ygmhy29cUeYD9"
+    },
+    {
       "added_at": "2026-03-06 05:00:10",
       "album": {
         "name": "Dancing Through It All",
@@ -2015,22 +2031,6 @@
       "duration_ms": 165217,
       "name": "Dancing Through It All",
       "url": "https://open.spotify.com/track/1CispG7CncTdTDdbYTOASy"
-    },
-    {
-      "added_at": "2026-02-27 05:00:47",
-      "album": {
-        "name": "Hyper",
-        "url": "https://open.spotify.com/album/52fURmrWyVSulmBbmdmwEO"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 213107,
-      "name": "Hyper",
-      "url": "https://open.spotify.com/track/2uU2Yz2R2ygmhy29cUeYD9"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -2073,6 +2073,22 @@
       "url": "https://open.spotify.com/track/4FaRs5JRhBCMsTLmmqcGGQ"
     },
     {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
+        "name": "Hit The Ground",
+        "url": "https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 196521,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Deeper Underground",
@@ -2093,22 +2109,6 @@
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
-        "name": "Hit The Ground",
-        "url": "https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 196521,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Warehouse",
@@ -2123,26 +2123,6 @@
       "duration_ms": 139852,
       "name": "Warehouse",
       "url": "https://open.spotify.com/track/0TH77vpxcIxMIND1gnne68"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
-        }
-      ],
-      "duration_ms": 184222,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2179,6 +2159,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Aha",
+        "url": "https://open.spotify.com/album/5dg5Ze2A0Qi0BhJEiAS2cs"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "RELOVA",
+          "url": "https://open.spotify.com/artist/2Q5CZXc158WHwKp1rYOfSn"
+        }
+      ],
+      "duration_ms": 215538,
+      "name": "Aha",
+      "url": "https://open.spotify.com/track/7ylQkGefddsF4zTriGgv2A"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Back to the Roots",
         "url": "https://open.spotify.com/album/65yj8V45NuI9oc22oCdUOn"
       },
@@ -2199,22 +2199,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Aha",
-        "url": "https://open.spotify.com/album/5dg5Ze2A0Qi0BhJEiAS2cs"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         },
         {
-          "name": "RELOVA",
-          "url": "https://open.spotify.com/artist/2Q5CZXc158WHwKp1rYOfSn"
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
         }
       ],
-      "duration_ms": 215538,
-      "name": "Aha",
-      "url": "https://open.spotify.com/track/7ylQkGefddsF4zTriGgv2A"
+      "duration_ms": 184222,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Sweating",
         "url": "https://open.spotify.com/album/4lUxgBpLj0JI2idSM1dz3F"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 207425,
       "name": "Sweating",
       "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     }
   ],
   "unique_name": "Nasty Bits",

@@ -702,10 +702,28 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 301574,
       "name": "Eni Nbinu Wa",
       "url": "https://open.spotify.com/track/4KxSCY1WYg9sXvZbeXFmx7"
+    },
+    {
+      "album": {
+        "name": "Sunny Ade, Vol. 1 (Re-Mastered)",
+        "url": "https://open.spotify.com/album/451tu4BZrkyaK68jhITSWW"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301574,
+      "name": "Eni Nbinu Wa - Re-Mastered",
+      "url": "https://open.spotify.com/track/6TfJRvvkHBCRGizvticbBG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-1,006 songs - 2 day 15 hr 53 min
+1,007 songs - 2 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [GET NAKED](https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ) | [DC THE DON](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [GET NAKED](https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh) | 2:06 | 2025-12-18 |  |
 | [get well soon](https://open.spotify.com/track/7u6DMPznGbpziuEgCE0JGQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 5:22 | 2024-01-29 |  |
 | [Ghetto Children](https://open.spotify.com/track/52XCA6ZanL2yEHBmJogIUk) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Marc Dorsey](https://open.spotify.com/artist/7A9mIAVm7NGceBFJkbb612) | [Kaleidoscope](https://open.spotify.com/album/2QFua4q4idl0jgRavneYZ9) | 4:48 | 2024-01-29 |  |
+| [GHOST\. \(feat\. Samara Cyn\)](https://open.spotify.com/track/5QgUwbV83zixo7pkJpB4iV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [THERE’S A GHOST IN MY HOUSE.](https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah) | 2:10 | 2026-04-01 |  |
 | [Girlfriend](https://open.spotify.com/track/6u5flhVFxKZrl9AApvf2SL) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:13 | 2024-01-29 |  |
 | [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 | 2025-01-28 | 2025-06-28 |
 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 | 2024-01-30 |  |
@@ -458,7 +459,7 @@
 | [If](https://open.spotify.com/track/68deyvfivX8kzvFfxJ0BdL) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Da Derrty Versions: The Re\-invention](https://open.spotify.com/album/3cSUd7H22DtZzvSUJkBIlM) | 3:38 | 2024-01-29 |  |
 | [If He Wanna](https://open.spotify.com/track/7DlwUU22KEX5MfVG3ysGM9) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Serani](https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo) | [Persona](https://open.spotify.com/album/0Rjo4NtlrmWNNoW9hX05N6) | 4:49 | 2024-06-20 | 2024-06-22 |
 | [If I Were President \(Skit\)](https://open.spotify.com/track/3zrqcFaZI10iKuiFwKBNlD) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 1:01 | 2024-06-20 |  |
-| [If You Want To](https://open.spotify.com/track/103aMgvw7rTqqoJSQ10uul) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Give The Drummer Some \(Explicit Version\)](https://open.spotify.com/album/1g64L7FYpGPjkrDrZXsr7r) | 3:53 | 2024-09-12 |  |
+| [If You Want To](https://open.spotify.com/track/103aMgvw7rTqqoJSQ10uul) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Give The Drummer Some \(Explicit Version\)](https://open.spotify.com/album/1g64L7FYpGPjkrDrZXsr7r) | 3:53 | 2024-09-12 | 2026-04-02 |
 | [if...](https://open.spotify.com/track/78LQTUp1f8APWgFNZNOD5y) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [if...](https://open.spotify.com/album/1KwFfjS6VzlollGPr84mAm) | 3:38 | 2025-01-28 | 2025-06-28 |
 | [IFHY \(feat\. Pharrell\)](https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Wolf](https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB) | 5:19 | 2024-01-29 |  |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2024-01-29 | 2025-06-28 |

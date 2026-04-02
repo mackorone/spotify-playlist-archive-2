@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Biggest Fan - The 1st Album",
+        "url": "https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9"
+      },
+      "artists": [
+        {
+          "name": "IRENE",
+          "url": "https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Biggest Fan",
+      "url": "https://open.spotify.com/track/63razyPQswXocUXL3cGJgo"
+    },
+    {
+      "album": {
         "name": "bomb",
         "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
       },
@@ -5821,6 +5839,24 @@
     },
     {
       "album": {
+        "name": "Free Falling",
+        "url": "https://open.spotify.com/album/0G2AFxDKATGvqzJocmA75H"
+      },
+      "artists": [
+        {
+          "name": "KANGMIN",
+          "url": "https://open.spotify.com/artist/7uJ4GsUkf4bFDKK2PVwOZP"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/2CZnvlQO93I54pvFsu9Ky8"
+    },
+    {
+      "album": {
         "name": "Kick Out, Flip Now!",
         "url": "https://open.spotify.com/album/27PLYKscFH6cHY3KfVzcwy"
       },
@@ -7114,6 +7150,24 @@
       "duration_ms": 195000,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD"
+    },
+    {
+      "album": {
+        "name": "REV",
+        "url": "https://open.spotify.com/album/7skbbJ5CI0jApB3Eg0eHbM"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Hertz",
+      "url": "https://open.spotify.com/track/5p0aJa6Kr7l23VTbA9egQt"
     },
     {
       "album": {

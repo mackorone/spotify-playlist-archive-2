@@ -986,7 +986,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 234068,
       "name": "Me Siento Perdido",
       "url": "https://open.spotify.com/track/1MWEsvmtNneecpUrSgSnz8"
@@ -1494,6 +1494,24 @@
       "duration_ms": 195348,
       "name": "Termine Sufriendo",
       "url": "https://open.spotify.com/track/79A1VwJknwHTh2105djsQm"
+    },
+    {
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236416,
+      "name": "Tome y Fume",
+      "url": "https://open.spotify.com/track/5nvXRwd42haErzniRvcR2x"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-80 songs - 5 hr 3 min
+83 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,11 +19,14 @@
 | [Broken Boy](https://open.spotify.com/track/0RbcDELsGTciLeMGsSdJAc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 2:43 | 2025-02-06 |  |
 | [Chapter 6 Many Mistakes](https://open.spotify.com/track/34hGO0paF4XgeZU7N3g4Ox) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [Jaye Prime](https://open.spotify.com/artist/3GNWyrS8nqvk8UfmOdFycE) | [THIS IS A COPING MECHANISM FOR A BROKEN HEART](https://open.spotify.com/album/6j5wP4VoQ3NZytkO1bEcHZ) | 3:27 | 2025-02-06 |  |
 | [Chase Me \(feat\. Run The Jewels & Big Boi\) \- Single Version \- Music From The Motion Picture Baby Driver](https://open.spotify.com/track/2ouMVpv6OJglrFHg2GQPwd) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) | [Chase Me \(feat\. Run The Jewels & Big Boi\)](https://open.spotify.com/album/4gWX3HriDmej4AS8vE4Bh0) | 3:26 | 2025-02-06 |  |
+| [Clementine](https://open.spotify.com/track/6uaWRTGqadohCbGwo9EVSD) | [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Suburban Nature](https://open.spotify.com/album/0RAHfGJIlvTKsenIKEagJ3) | 4:48 | 2026-04-01 |  |
 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 | 2026-03-18 |  |
+| [Cool for You](https://open.spotify.com/track/63z7Boga8IJYzsxIWWS6vh) | [Haiku Hands](https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye) | [Pleasure Beast](https://open.spotify.com/album/66IEmux2d5OFfbdVbG8zp3) | 3:18 | 2026-04-01 |  |
 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 | 2025-02-06 |  |
 | [Do Betta](https://open.spotify.com/track/3ArX3tk2z53Kw0YLchwlyk) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 2:52 | 2025-02-06 |  |
 | [Don't Get Captured](https://open.spotify.com/track/3PxxBt3BnzhtyPSqDcgQQ9) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Run the Jewels 3](https://open.spotify.com/album/3v2GjFB9V5kHgrOCXn3sI9) | 3:12 | 2025-02-06 |  |
 | [Dream Team](https://open.spotify.com/track/5Wcnoht44bKMUXjwyDT3nx) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Small Reveal](https://open.spotify.com/album/1vIW86LIYKvRwcfguVJvVn) | 7:07 | 2025-02-06 |  |
+| [Drifting](https://open.spotify.com/track/5HJPzymsDsmCTvUp5yGGyJ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 4:23 | 2026-04-01 |  |
 | [Every Day Is Exactly The Same](https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 4:54 | 2025-03-13 |  |
 | [Fall in Love \(feat\. Ciscero\)](https://open.spotify.com/track/2RISD4aJrioDB54exm5WWM) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL) | [Fall in Love \(feat\. Ciscero\)](https://open.spotify.com/album/5ryBqWw69xLn1nLaPCGOev) | 3:04 | 2025-02-06 |  |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-02-06 |  |

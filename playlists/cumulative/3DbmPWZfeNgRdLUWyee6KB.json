@@ -9851,6 +9851,24 @@
     },
     {
       "album": {
+        "name": "Northwest Cold Front",
+        "url": "https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c"
+      },
+      "artists": [
+        {
+          "name": "Bones In The Museum",
+          "url": "https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Northwest Cold Front",
+      "url": "https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V"
+    },
+    {
+      "album": {
         "name": "Sicilia Araba: Arabic Poets of Sicily 827-1091 (Remastered)",
         "url": "https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA"
       },

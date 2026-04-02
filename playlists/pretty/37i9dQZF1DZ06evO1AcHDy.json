@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37460,
+  "num_followers": 37461,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acm9AAAAAADaN/Wq6q0lApMz9qjq0J4/",
+  "snapshot_id": "acsOgAAAAAAchF2JWvuNb2hd8+VhdhtH",
   "tracks": [
     {
       "added_at": null,
@@ -295,30 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawn Of Chromatica",
-        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "Clarence Clarity",
-          "url": "https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62"
-        }
-      ],
-      "duration_ms": 233901,
-      "name": "Free Woman - Rina Sawayama & Clarence Clarity Remix",
-      "url": "https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
         "url": "https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq"
       },
@@ -343,6 +319,30 @@
       "duration_ms": 249280,
       "name": "Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix",
       "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dawn Of Chromatica",
+        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Clarence Clarity",
+          "url": "https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62"
+        }
+      ],
+      "duration_ms": 233901,
+      "name": "Free Woman - Rina Sawayama & Clarence Clarity Remix",
+      "url": "https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH"
     },
     {
       "added_at": null,

@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Dazzling Drops (Rain)",
+        "url": "https://open.spotify.com/album/5602jyXSjK91R2zhAiZTvi"
+      },
+      "artists": [
+        {
+          "name": "Earth Alliance",
+          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Dazzling Drops (Rain)",
+      "url": "https://open.spotify.com/track/7i2PkX3jg207FL6wkvfBNL"
+    },
+    {
+      "album": {
         "name": "Rain for Soothing Souls",
         "url": "https://open.spotify.com/album/23kglUYmApubc91wqBaE58"
       },
@@ -1975,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Hushed Rain Path",
+        "url": "https://open.spotify.com/album/1XuDNGymjUrcTBf1zl419s"
+      },
+      "artists": [
+        {
+          "name": "Cloudside",
+          "url": "https://open.spotify.com/artist/4GE1zB3rkqszl1JOenyAOj"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Hushed Rain Path",
+      "url": "https://open.spotify.com/track/4uMumVGmoqNzCehwx9xFGN"
+    },
+    {
+      "album": {
         "name": "Enjoy The Sky",
         "url": "https://open.spotify.com/album/534t88l34yw4XIjPgO45Wf"
       },
@@ -2022,7 +2058,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 162725,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/3cH75G5f24Bc7koyOlBtDg"
@@ -2209,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Calming Cloud Rain",
+        "url": "https://open.spotify.com/album/3xKdMlCL3NiWtdeEP6ITqa"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Jungle Pitter Patter",
+      "url": "https://open.spotify.com/track/19a7gf1CPt9Oyx2yFwfqgC"
+    },
+    {
+      "album": {
         "name": "Dragonflies",
         "url": "https://open.spotify.com/album/3idhIrh3mt0jFMq4aegMIS"
       },
@@ -2260,6 +2314,24 @@
       "duration_ms": 180000,
       "name": "Kulangana (Rain)",
       "url": "https://open.spotify.com/track/23y6GPrgh0T8pibNl6E4FL"
+    },
+    {
+      "album": {
+        "name": "Cabin in the Rain",
+        "url": "https://open.spotify.com/album/1aWIqyHWEPnxlAezuUxonR"
+      },
+      "artists": [
+        {
+          "name": "Rocket FX",
+          "url": "https://open.spotify.com/artist/3dFUAutVe4CdBO7DMDtIN5"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127086,
+      "name": "Lake Cabin in Rain",
+      "url": "https://open.spotify.com/track/5x4sT7xRfaKgonNHenKDAN"
     },
     {
       "album": {
@@ -2332,6 +2404,24 @@
       "duration_ms": 130548,
       "name": "Light Crispy Rain",
       "url": "https://open.spotify.com/track/1F4kF3E6bFPJAuXjzWk9rl"
+    },
+    {
+      "album": {
+        "name": "Light Rain",
+        "url": "https://open.spotify.com/album/1atiqpByNSetO0RvzeDLMb"
+      },
+      "artists": [
+        {
+          "name": "Memorable",
+          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220131,
+      "name": "Light Rain",
+      "url": "https://open.spotify.com/track/6VIBjLEWVJenrrN1eXf8fb"
     },
     {
       "album": {
@@ -2494,6 +2584,24 @@
       "duration_ms": 192000,
       "name": "Lovely Rain",
       "url": "https://open.spotify.com/track/1cl4y7PrtL61Y4Q6pjeTKS"
+    },
+    {
+      "album": {
+        "name": "Low Rain Environment",
+        "url": "https://open.spotify.com/album/4oXBip5qKWf9xnpb9xtSic"
+      },
+      "artists": [
+        {
+          "name": "Pluvial Echo",
+          "url": "https://open.spotify.com/artist/3TFc8OzzeYmHntSzculujA"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122810,
+      "name": "Low Rain Environment",
+      "url": "https://open.spotify.com/track/0KVR7j8hleyMeKrnGL1E4M"
     },
     {
       "album": {
@@ -2857,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Morning Walk in Rain",
+        "url": "https://open.spotify.com/album/1gd4uOmihMaf4wFhvy8gLz"
+      },
+      "artists": [
+        {
+          "name": "Samplestar",
+          "url": "https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127292,
+      "name": "Morning Walk in Rain",
+      "url": "https://open.spotify.com/track/35KfAAi2VoPCtDS43Y2WSi"
+    },
+    {
+      "album": {
         "name": "The Sky Makes",
         "url": "https://open.spotify.com/album/0LgA5aHfIe43tAmJ3Fl0Eh"
       },
@@ -2962,6 +3088,24 @@
       "duration_ms": 192029,
       "name": "Never-ending Rain",
       "url": "https://open.spotify.com/track/5u2kuI9KQ6xGQcPxvToNJ5"
+    },
+    {
+      "album": {
+        "name": "New Year's Rain",
+        "url": "https://open.spotify.com/album/1C3sxMNfK9Xq7NpeOM7US8"
+      },
+      "artists": [
+        {
+          "name": "Delayed Dreams",
+          "url": "https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "New Year's Rain",
+      "url": "https://open.spotify.com/track/2ppLO354RF87VjsoiQfOEy"
     },
     {
       "album": {
@@ -3354,7 +3498,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 136000,
       "name": "Quality Rain",
       "url": "https://open.spotify.com/track/6wylgOavjiq5DxfwrBWDJp"
@@ -4377,6 +4521,24 @@
     },
     {
       "album": {
+        "name": "raining for days",
+        "url": "https://open.spotify.com/album/2cniRPdOVnRgADQNrxvEQx"
+      },
+      "artists": [
+        {
+          "name": "ame",
+          "url": "https://open.spotify.com/artist/7htQnykNfk2Bu39bSw7owz"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126214,
+      "name": "raining for days",
+      "url": "https://open.spotify.com/track/5CR2i1ZhoCBxBkbvn6B8MC"
+    },
+    {
+      "album": {
         "name": "Raining For Hours",
         "url": "https://open.spotify.com/album/6j07pWZ67sAkRUIOxwICYT"
       },
@@ -4500,6 +4662,42 @@
       "duration_ms": 162458,
       "name": "Rainy Evening",
       "url": "https://open.spotify.com/track/1mMFZ7uNzc4GHTZ4yQLcXZ"
+    },
+    {
+      "album": {
+        "name": "Rainy Garden",
+        "url": "https://open.spotify.com/album/6sFOtBr1FN4kwAwNdXN5Ie"
+      },
+      "artists": [
+        {
+          "name": "Bien Dorm",
+          "url": "https://open.spotify.com/artist/0g6EfUCgC19RgPQHGYlbhH"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131898,
+      "name": "Rainy Garden Chairs",
+      "url": "https://open.spotify.com/track/33NVNnZ9l1n63gJdcZNjdM"
+    },
+    {
+      "album": {
+        "name": "Morning Rain",
+        "url": "https://open.spotify.com/album/7h6uZIrZXz6GwW2dGbVQPn"
+      },
+      "artists": [
+        {
+          "name": "Ampinomene",
+          "url": "https://open.spotify.com/artist/2gJIRzMe4S1gOOpV5G6pc4"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125274,
+      "name": "Rainy Harbor Promenade",
+      "url": "https://open.spotify.com/track/0JJdt3BdRuUVjVndHgWVCu"
     },
     {
       "album": {
@@ -5094,6 +5292,24 @@
       "duration_ms": 181000,
       "name": "Slumber Rain",
       "url": "https://open.spotify.com/track/2vak5zHVWQ5cmKX7Msm3Bi"
+    },
+    {
+      "album": {
+        "name": "Soft Evening Rain",
+        "url": "https://open.spotify.com/album/6j1FUevVgFXo70h7a4SqH6"
+      },
+      "artists": [
+        {
+          "name": "BCCF",
+          "url": "https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Soft Evening Rain",
+      "url": "https://open.spotify.com/track/1okGLDjpL04V0dQ2YFOH4h"
     },
     {
       "album": {
@@ -6012,7 +6228,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 158987,
       "name": "Under the Rain Clouds",
       "url": "https://open.spotify.com/track/1MyeT7GjwylrPvcLsBSjds"
@@ -6326,7 +6542,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 133003,
       "name": "\u0e1d\u0e19\u0e44\u0e17\u0e22",
       "url": "https://open.spotify.com/track/6RahdCve2k4j9uMktGnvzN"

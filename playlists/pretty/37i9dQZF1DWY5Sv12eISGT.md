@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,597 likes - 58 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,620 likes - 58 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 | 13 | [Born Again \- Acoustic](https://open.spotify.com/track/1fQhMICbWZaN2yAwY4rPWE) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [To Be Honest \(TBH\) \(Acoustic\)](https://open.spotify.com/album/0gKuo74azjIiPGFgyNSRaR) | 2:26 |
 | 14 | [Show You Off \- Acoustic](https://open.spotify.com/track/0dRYihVN7B0XcXZ7qEK72V) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Show You Off \(Acoustic\)](https://open.spotify.com/album/5n1L7IbusiLnDxDXr6Z6SJ) | 2:50 |
 | 15 | [LOVE OR LAMBA \- Acoustic](https://open.spotify.com/track/0aNCTwjWBTmfwToKQOtFIW) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [LOVE OR LAMBA \(Acoustic\)](https://open.spotify.com/album/2JEVnINzsISkaeOS050tUv) | 3:17 |
-| 16 | [i'm a mess \(stripped version\)](https://open.spotify.com/track/6YddVDwlm4iVb3XZfmxZXc) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [i'm a mess \(stripped version\)](https://open.spotify.com/album/3SMofVKK1uWJZ5fkv1EIpK) | 2:33 |
+| 16 | [i'm a mess \(stripped version\)](https://open.spotify.com/track/6YddVDwlm4iVb3XZfmxZXc) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [i'm a mess \(stripped version\)](https://open.spotify.com/album/3SMofVKK1uWJZ5fkv1EIpK) | 2:33 |
 | 17 | [Than All](https://open.spotify.com/track/3dVbXpZv240KvfDINOz5Mt) | [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [MODERN WIHEGOU](https://open.spotify.com/album/5a0wQoPLNdl15l0MlWtBPx) | 1:47 |
 | 18 | [Contour \(Acoustic\)](https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour \(Acoustic\)](https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF) | 2:36 |
 | 19 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |

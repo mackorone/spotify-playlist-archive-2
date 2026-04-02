@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-505 songs - 1 day 2 hr 46 min
+506 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Drivin' To The Moonlight](https://open.spotify.com/track/49y72iLboKC9BOz3Jxnebd) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Drivin' To The Moonlight](https://open.spotify.com/album/3i5lBpOaIAeqQpg06UDKCz) | 2:24 | 2024-04-08 | 2026-03-01 |
 | [drunk](https://open.spotify.com/track/6eV31VaY2FYeCwU0w4eAfu) | [lambcatz](https://open.spotify.com/artist/1kZhT2J3MLjIr1VhgsFG8t) | [drunk](https://open.spotify.com/album/05F3IttDmLYr93iaz5ihqI) | 2:23 | 2024-02-09 | 2026-03-01 |
 | [Dystopia](https://open.spotify.com/track/1CVk5ezWggeE24hJMIBcZF) | [Pony Boy](https://open.spotify.com/artist/6RFWaB4szIPFWnJKchk8tX), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Age of Discovery](https://open.spotify.com/album/10s4l3Jffskegx8mmqeXYJ) | 6:37 | 2024-05-20 | 2026-03-01 |
+| [EAT SHIT AND DIE](https://open.spotify.com/track/3HdBABZV9a6A5B2xgpEVKj) | [Kookie](https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW) | [seriuos eepy](https://open.spotify.com/album/0KYLMTi4r39uNgMMC8NiaP) | 2:51 | 2026-04-01 |  |
 | [EAT YOU UP](https://open.spotify.com/track/0MKnQvS2nCL3AC6Acd4NLY) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:00 | 2024-09-09 |  |
 | [EAT YOU UP](https://open.spotify.com/track/0MeybRC4lyCjjYRAWDd2Ht) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:00 | 2024-03-24 | 2026-03-01 |
 | [EAT YOU UP \- Single Version](https://open.spotify.com/track/0PYguVkr2AQZBqWoCUgDLd) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:41 | 2024-02-20 |  |
@@ -473,7 +474,7 @@
 | [Toons Can't Die](https://open.spotify.com/track/2O7QfAOtjmuwovNP2BHoEa) | [Furry Loser](https://open.spotify.com/artist/5ZJuxb6oluPvuK2okvCAKk) | [Painting Clouds and Mountaintops](https://open.spotify.com/album/43d8wYLX8bTRf00ikYPGSE) | 4:51 | 2026-01-06 |  |
 | [Toxic](https://open.spotify.com/track/2B7qk6mt9mSFVrdumESMyO) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Toxic](https://open.spotify.com/album/3GBL08IpIhu6V20iFOa9jF) | 2:48 | 2024-10-31 |  |
 | [trail](https://open.spotify.com/track/6P3FopPSVuqeuKxtkHQzFQ) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [trail](https://open.spotify.com/album/78oCCp2iWSo3zxfllN4JBE) | 2:20 | 2024-04-15 | 2026-03-01 |
-| [Trainhopper](https://open.spotify.com/track/5sVaS2vFYCf6tEmqk6pe2B) | [Catasham](https://open.spotify.com/artist/5x6DpBYRtpgfgRw2VqxSri), [Muffin Fox](https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q) | [Trainhopper](https://open.spotify.com/album/5NQGBfRXHwZQ4IQRYzbxBu) | 1:52 | 2025-09-15 |  |
+| [Trainhopper](https://open.spotify.com/track/5sVaS2vFYCf6tEmqk6pe2B) | [mp3kitty](https://open.spotify.com/artist/7donvrLTm3BHSLo9QTDoDa), [Muffin Fox](https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q) | [Trainhopper](https://open.spotify.com/album/5NQGBfRXHwZQ4IQRYzbxBu) | 1:52 | 2025-09-15 |  |
 | [Transition](https://open.spotify.com/track/5MlzFcBuzxc5crLmzjICHn) | [FC5](https://open.spotify.com/artist/47hsVCed460MN0dlFs1BOq) | [Transition](https://open.spotify.com/album/0yLVOZENiBCvvMwQgFgkpz) | 3:03 | 2025-10-21 |  |
 | [Trash Talkin'](https://open.spotify.com/track/3kBzzYNNR5T6QRQD7FN6ST) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Trash Talkin'](https://open.spotify.com/album/2eW2mOSWttJQ6of9FhEd26) | 3:43 | 2023-06-14 |  |
 | [Tryna Be](https://open.spotify.com/track/2xPq5i3aCHq65THwUTeCJh) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [See\-Through](https://open.spotify.com/album/0ZkkL7C35NV9vevX3oSm7m) | 2:23 | 2025-09-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 598426,
+  "num_followers": 598482,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acm9AAAAAADrVTPE3gbp4xmoQHePlZ1M",
+  "snapshot_id": "acsOgAAAAABXZYgIcjRZw1OIK0lD5/Sg",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boys Don\u2019t Cry (86 Mix)",
         "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 158264,
       "name": "Boys Don't Cry - 86 Mix / 2026 Remaster",
       "url": "https://open.spotify.com/track/3nvGvWWUb5onTp6KjtGXvA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Head On The Door",
-        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm"
     },
     {
       "added_at": null,

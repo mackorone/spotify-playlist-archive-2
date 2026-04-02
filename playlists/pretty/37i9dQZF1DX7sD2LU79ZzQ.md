@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Naufal Syachreza
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,448 likes - 114 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,594 likes - 114 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

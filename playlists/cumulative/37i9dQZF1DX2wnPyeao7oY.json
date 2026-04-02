@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Maphra",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Mallavora",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -3734,7 +3734,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 275102,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j"
@@ -4579,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "Eyes seeing eyes",
+        "url": "https://open.spotify.com/album/6LzsZ4cvkuBSUSc5dVd6hp"
+      },
+      "artists": [
+        {
+          "name": "Karmanjakah",
+          "url": "https://open.spotify.com/artist/0FwKUhicEd5QdZMl5NIXF3"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356386,
+      "name": "Eyes seeing eyes",
+      "url": "https://open.spotify.com/track/5nXvE7eKXduCSSEYrbW9RI"
+    },
+    {
+      "album": {
         "name": "Eyes Up",
         "url": "https://open.spotify.com/album/5gAbtLXtsTZYanWBlTnikm"
       },
@@ -4590,7 +4608,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 191647,
       "name": "Eyes Up",
       "url": "https://open.spotify.com/track/3MtNA6UHoxfJAJAsqeQhPO"
@@ -5505,6 +5523,24 @@
     },
     {
       "album": {
+        "name": "Glare",
+        "url": "https://open.spotify.com/album/10XeoG5Mkj2r0eESEwFwGn"
+      },
+      "artists": [
+        {
+          "name": "Melting",
+          "url": "https://open.spotify.com/artist/278giTAVjr5a29IC3LOwRF"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226380,
+      "name": "Glare",
+      "url": "https://open.spotify.com/track/0QgCjOPLRaCPMDbpwNAV4U"
+    },
+    {
+      "album": {
         "name": "Glass Cathedral",
         "url": "https://open.spotify.com/album/2yPbSRQYx73krm0GWIsLZz"
       },
@@ -6354,6 +6390,24 @@
       "duration_ms": 180840,
       "name": "Horror Domain",
       "url": "https://open.spotify.com/track/2Kg3mbefgrNLys9uJ9yfSs"
+    },
+    {
+      "album": {
+        "name": "What If Better Never Comes?",
+        "url": "https://open.spotify.com/album/2PTYhnTJN1NoApOdJ7MdI6"
+      },
+      "artists": [
+        {
+          "name": "Mallavora",
+          "url": "https://open.spotify.com/artist/3dHajUmnQ27McFMpZF6IcY"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216151,
+      "name": "Host",
+      "url": "https://open.spotify.com/track/6MP0zsi25mgQafDXkLCUOD"
     },
     {
       "album": {
@@ -7558,7 +7612,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 124648,
       "name": "Leglock",
       "url": "https://open.spotify.com/track/0e025R7ZIG6QEQYq3aDWZ5"
@@ -7706,7 +7760,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 192714,
       "name": "Lilith & Esther",
       "url": "https://open.spotify.com/track/47AOYMwSZIIn3CTKbHvMYf"
@@ -9096,7 +9150,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 189000,
       "name": "Nope (Hollow Point Elysium)",
       "url": "https://open.spotify.com/track/5bDQPoauwc55xLZaiefEFJ"
@@ -9836,7 +9890,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 184807,
       "name": "PETTY FUCK",
       "url": "https://open.spotify.com/track/7iWKbcLo4oZ3StHDIdEWxx"
@@ -10370,7 +10424,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 249639,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/4Lu81P0JUGMVrLMKK6kWPO"
@@ -10662,6 +10716,24 @@
       "duration_ms": 147705,
       "name": "Sacrilegious",
       "url": "https://open.spotify.com/track/2i4SPvmQG8yxsWStyGTQpO"
+    },
+    {
+      "album": {
+        "name": "Safety On",
+        "url": "https://open.spotify.com/album/0520M5LPyG3nTMa6OwYqr3"
+      },
+      "artists": [
+        {
+          "name": "Dry Socket",
+          "url": "https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115598,
+      "name": "Safety On",
+      "url": "https://open.spotify.com/track/6fOYgQP1teXtqPk9JdSFva"
     },
     {
       "album": {
@@ -10976,6 +11048,24 @@
       "duration_ms": 203424,
       "name": "Sentinel Hill",
       "url": "https://open.spotify.com/track/2SwolGypB0DLbUX3HuWxxz"
+    },
+    {
+      "album": {
+        "name": "Seraphim",
+        "url": "https://open.spotify.com/album/7fHuqMRthq6pARynhnwMmq"
+      },
+      "artists": [
+        {
+          "name": "Dream on Dreamer",
+          "url": "https://open.spotify.com/artist/1dgKyJ17rujJe8wpFaX67v"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Seraphim",
+      "url": "https://open.spotify.com/track/3MTwuLHJb492JIQ2KUrQxK"
     },
     {
       "album": {
@@ -11796,6 +11886,24 @@
       "duration_ms": 174324,
       "name": "STELLA F.C",
       "url": "https://open.spotify.com/track/0OBD9mEBTmXBraF7ScW32E"
+    },
+    {
+      "album": {
+        "name": "death fetish",
+        "url": "https://open.spotify.com/album/2LQrLVV5y9YFji7Z2fYdg9"
+      },
+      "artists": [
+        {
+          "name": "Moodring",
+          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219380,
+      "name": "STFA",
+      "url": "https://open.spotify.com/track/22PxFCtgAQgAOG1xBwXKBz"
     },
     {
       "album": {
@@ -12632,7 +12740,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-02",
       "duration_ms": 173785,
       "name": "THE FIRE IN MY NAME",
       "url": "https://open.spotify.com/track/2mhf3Gou2ifwxXwG3VIHYp"
@@ -12932,6 +13040,24 @@
       "duration_ms": 246405,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/3fIScFBYJM75Yxt9Msl39i"
+    },
+    {
+      "album": {
+        "name": "The Way Things Should End",
+        "url": "https://open.spotify.com/album/0SrBH11qxiYYQWMFfJqlmY"
+      },
+      "artists": [
+        {
+          "name": "Torn Open",
+          "url": "https://open.spotify.com/artist/1XLYwoarb8vwv77W7UxGgX"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198685,
+      "name": "The Way Things Should End",
+      "url": "https://open.spotify.com/track/6mp7GUe0MvvtctUYkJCgN1"
     },
     {
       "album": {
@@ -14510,6 +14636,24 @@
       "duration_ms": 273696,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
+    },
+    {
+      "album": {
+        "name": "BITE THIS!",
+        "url": "https://open.spotify.com/album/569CdzjfXOZS5ny6zrZqkh"
+      },
+      "artists": [
+        {
+          "name": "Resistor",
+          "url": "https://open.spotify.com/artist/52lTghPxufssfXy3Z9rBtA"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152683,
+      "name": "XXXL",
+      "url": "https://open.spotify.com/track/7jrplzFgXDcm5u1tYTTggc"
     },
     {
       "album": {
