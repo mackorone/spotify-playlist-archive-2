@@ -2,9 +2,9 @@
 
 ### [Math Rock](https://open.spotify.com/playlist/37i9dQZF1DWSsObZRzO8Xw)
 
-> Complex rhythms and mesmerizing loops\. Cover: eleventwelfth
+> Complex rhythms and mesmerizing loops\. Cover: Angine de Poitrine
 
-180 songs - 12 hr 35 min
+181 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Rivers](https://open.spotify.com/track/6m87ByFdRmhSKLvFS1jfGQ) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/4oopTeOoJJNiUkc6AVjmAA) | 7:31 | 2021-10-15 | 2022-05-21 |
 | [Ruth Leslie \(Cigregrets Pt\. 1\)](https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE) | [Narrow / Arrow](https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE) | [Asbestos Weak Hood](https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1) | 3:02 | 2021-10-15 |  |
 | [Saint Loser](https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF) | [Forests](https://open.spotify.com/artist/2ew0XBmcP0n50UWzVVQygC) | [Get In Losers, We’re Going to Eternal Damnation](https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc) | 3:03 | 2022-05-20 |  |
+| [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 | 2026-04-02 |  |
 | [Scilla](https://open.spotify.com/track/0aNi1cBUNwl8Cmn8Erwu8R) | [Valerian Swing](https://open.spotify.com/artist/5tj8t2rXNyMRpER4EbFU93) | [Aurora](https://open.spotify.com/album/0cqqM2zJd407HJklMjwhjZ) | 3:58 | 2022-05-20 | 2024-04-19 |
 | [Scilla](https://open.spotify.com/track/5IH8NCoWzNIw9GjUHit9ym) | [Valerian Swing](https://open.spotify.com/artist/5tj8t2rXNyMRpER4EbFU93) | [Aurora](https://open.spotify.com/album/55VynzQVKgmPV8QpBulCYH) | 3:58 | 2021-10-15 |  |
 | [Sea Song](https://open.spotify.com/track/6JkcZN9wUGOz1rGNYgEQxb) | [Faraquet](https://open.spotify.com/artist/5OBJZtgvHxSJZYyQ8T9AoS) | [The View from This Tower](https://open.spotify.com/album/5aAKGuszGuSTeMNtbUsTq1) | 4:10 | 2021-10-15 |  |
@@ -187,6 +188,6 @@
 | [Your Hand In Mine \- Remastered](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place \(Anniversary Edition\)](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:17 | 2022-05-20 | 2024-04-19 |
 | […But the Pants Stay On](https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1) | [A Minor Forest](https://open.spotify.com/artist/4ABTeyDAbK3iv09CHSsoW0) | [Flemish Altruism \(Constituent Parts 1993\-1996\) \[Remaster\]](https://open.spotify.com/album/0V8uE11hFKvBpRkWockq70) | 6:42 | 2021-10-15 |  |
 | [春雨 Spring Rain](https://open.spotify.com/track/5G1wOifWhpTlEhxbaQxQe5) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [工作 Work](https://open.spotify.com/album/0Qy0Srk2am6EZHHbPqCgBB) | 4:26 | 2022-05-20 | 2024-04-19 |
-| [春雨\(Sampling：陰天\)](https://open.spotify.com/track/05HEYoJAC1qGEtEqWmXUg2) | [大象體操 Elephant Gym](https://open.spotify.com/artist/7p50JxGTkfqPpDj3r3DdRK) | [工作](https://open.spotify.com/album/5eijheCyOXVoRJWJey0Kdq) | 4:26 | 2021-10-15 |  |
+| [春雨\(Sampling：陰天\)](https://open.spotify.com/track/05HEYoJAC1qGEtEqWmXUg2) | [大象體操 Elephant Gym](https://open.spotify.com/artist/7p50JxGTkfqPpDj3r3DdRK) | [工作](https://open.spotify.com/album/5eijheCyOXVoRJWJey0Kdq) | 4:26 | 2021-10-15 | 2026-04-03 |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

@@ -5892,6 +5892,18 @@
         {
           "name": "Sonnee",
           "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        },
+        {
+          "name": "Joseph Obaidi",
+          "url": "https://open.spotify.com/artist/3B7v0zb1J46lSGeqdCXrue"
+        },
+        {
+          "name": "Alex Condliffe",
+          "url": "https://open.spotify.com/artist/3dFqyBhsezU3bAXdcZZbtP"
+        },
+        {
+          "name": "Noah Booth",
+          "url": "https://open.spotify.com/artist/5bmlm898bu8tqbAAlt3TCh"
         }
       ],
       "date_added": "2026-03-16",
@@ -6094,7 +6106,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 189330,
       "name": "Running",
       "url": "https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ"
@@ -6362,7 +6374,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 202893,
       "name": "Shallow Water",
       "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Nerissima in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Sadturs e KIID in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 153600,
       "name": "ALDIL\u00c0",
       "url": "https://open.spotify.com/track/0JYnkcNqffg2QEJ8ioSOkN"
@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 166254,
       "name": "Ancora Tra (feat. Baby Gang, Shiva)",
       "url": "https://open.spotify.com/track/6poqCgwxy9FV1GZ0SVi0rN"
@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 125944,
       "name": "BANCONOTE EURO",
       "url": "https://open.spotify.com/track/5LXsM21cG5NGNDMReMQOyd"
@@ -6385,6 +6385,36 @@
     },
     {
       "album": {
+        "name": "NO REGULAR MUSIC 2.5",
+        "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "Lubi",
+          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
+        },
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141369,
+      "name": "devo cambiare i vestiti (feat. Lubi, Astro)",
+      "url": "https://open.spotify.com/track/33tSYUrYTXKdxh3jqHCpo7"
+    },
+    {
+      "album": {
         "name": "Tutti i Nomi del Diavolo",
         "url": "https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ"
       },
@@ -8547,6 +8577,32 @@
     },
     {
       "album": {
+        "name": "NO REGULAR MUSIC 2.5",
+        "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "gas (feat. LILCR)",
+      "url": "https://open.spotify.com/track/4bcxHru29eWzkbaGTufRD0"
+    },
+    {
+      "album": {
         "name": "GDE WOW (feat. Shiva)",
         "url": "https://open.spotify.com/album/0aN9q9vlaoVcuGaA3VirkC"
       },
@@ -9776,7 +9832,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 178000,
       "name": "Ice",
       "url": "https://open.spotify.com/track/2DmEhmRILOSuIwpH22aZZE"
@@ -10382,6 +10438,32 @@
       "duration_ms": 144000,
       "name": "ItalGarage",
       "url": "https://open.spotify.com/track/43CigdSvQSNuQs1ccxS7V1"
+    },
+    {
+      "album": {
+        "name": "LA VIA \u00c8 BELLA",
+        "url": "https://open.spotify.com/album/0qHgHJaxzf1ObKlXJtbk6j"
+      },
+      "artists": [
+        {
+          "name": "Philip",
+          "url": "https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ"
+        },
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Davyx",
+          "url": "https://open.spotify.com/artist/2UYkGWFsNTlRvQ3pEwofn9"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167647,
+      "name": "ITALIANO",
+      "url": "https://open.spotify.com/track/6JRL4XT2snARPOmXygIbrH"
     },
     {
       "album": {
@@ -11336,6 +11418,32 @@
       "duration_ms": 158000,
       "name": "LAMBORGHINI (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/5Tsa3ifiL3M1m0BQkMNndb"
+    },
+    {
+      "album": {
+        "name": "OPERA D'ARTE",
+        "url": "https://open.spotify.com/album/3K7fwg7S0UjKffOPdTUVC8"
+      },
+      "artists": [
+        {
+          "name": "Rame",
+          "url": "https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7"
+        },
+        {
+          "name": "YD Frost",
+          "url": "https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L"
+        },
+        {
+          "name": "YD Teddy",
+          "url": "https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "LAMBORGHINI PARANOIA (feat. YD Frost)",
+      "url": "https://open.spotify.com/track/74L1kP33RAeLpW2Md7NXBz"
     },
     {
       "album": {
@@ -16142,7 +16250,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 168000,
       "name": "Piet\u00e0",
       "url": "https://open.spotify.com/track/6yqTqqm7aRavtja52I39GS"
@@ -19408,7 +19516,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 162400,
       "name": "Spendin (feat. Marracash)",
       "url": "https://open.spotify.com/track/0ek2jtO8Ru1YrVImYFLSuW"
@@ -21767,6 +21875,40 @@
     },
     {
       "album": {
+        "name": "NO REGULAR MUSIC 2.5",
+        "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "YD Frost",
+          "url": "https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L"
+        },
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "velocista inarrestabile (feat. G.Mineiro, YD Frost, Flaco G)",
+      "url": "https://open.spotify.com/track/6aEn4vhSKGXtCG8CxqHHKr"
+    },
+    {
+      "album": {
         "name": "VERO HUSTLA",
         "url": "https://open.spotify.com/album/6Iq7NCFolLT6HzXTEl81Wy"
       },
@@ -21822,6 +21964,28 @@
       "duration_ms": 164705,
       "name": "Vestiti da Rapper (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/4JZ0yTdBeWP4RGQKv0JDCN"
+    },
+    {
+      "album": {
+        "name": "Via dei Mille",
+        "url": "https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw"
+      },
+      "artists": [
+        {
+          "name": "Dipinto",
+          "url": "https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9"
+        },
+        {
+          "name": "Fresh Beatz",
+          "url": "https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130615,
+      "name": "Via dei Mille",
+      "url": "https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn"
     },
     {
       "album": {

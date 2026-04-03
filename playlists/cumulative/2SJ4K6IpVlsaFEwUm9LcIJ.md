@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-948 songs - 2 day 9 hr 22 min
+950 songs - 2 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Fallen Leaves](https://open.spotify.com/track/4u5mES4rljkyCtLOPLCDj1) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Man\-Made](https://open.spotify.com/album/1B0lXu8AkBqJ1Sq02Howa1) | 3:31 | 2024-12-27 | 2025-01-12 |
 | [Falling Backwards](https://open.spotify.com/track/3DYTT6HXBesNRtfFYAYVTY) | [Brittle Stars](https://open.spotify.com/artist/6uZBMEZeMcDuBoamJ7wLf5) | [Garage Sale EP + Remixes](https://open.spotify.com/album/1pcaVlKBjlBWSUqfcELSzO) | 1:40 | 2024-01-31 | 2024-03-10 |
 | [Falling Down a Dam of Mashed Potatoes](https://open.spotify.com/track/5y69U1bw1dBixUL1nViDXr) | [Lawrence](https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI) | [Childish Music](https://open.spotify.com/album/6LABtUVPmwMWuRoQ8vg1Gp) | 3:43 | 2025-06-03 | 2025-07-04 |
+| [Falling In Love \(Uh\-Oh\)](https://open.spotify.com/track/5jwoygernfGvAuIxFSqxHp) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 3:53 | 2026-04-02 |  |
 | [family and friends](https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [family and friends](https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR) | 2:56 | 2024-09-18 | 2024-11-14 |
 | [Far Away Chant](https://open.spotify.com/track/4CjW0aU1a6Q8SrnGfLJWGx) | [African Head Charge](https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ) | [My Life In A Hole In The Ground](https://open.spotify.com/album/39ritWVnJCxRNhyj8mRSI8) | 4:04 | 2025-02-26 | 2025-03-03 |
 | [Father Lucifer \- 2016 Remaster](https://open.spotify.com/track/22lGkc95LBywIGwK0s7duD) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Boys for Pele \(Deluxe Edition\)](https://open.spotify.com/album/7vuSTl6tuWg0CQdmfphkFQ) | 3:42 | 2025-10-24 | 2025-11-15 |
@@ -779,6 +780,7 @@
 | [Surfboard](https://open.spotify.com/track/61APOtq25SCMuK0V5w2Kgp) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [The Genius of Esquivel](https://open.spotify.com/album/2cBovPqZGZkNfcsOfyajTj) | 2:56 | 2025-06-15 | 2025-07-04 |
 | [Swallow Flight](https://open.spotify.com/track/4CfbteEAn22sKkQzO26eVj) | [Jeanette](https://open.spotify.com/artist/2bJsPbaZmSrRcC01HHTHnW) | [Prefab in the Sun](https://open.spotify.com/album/5XblF8JPyv9aSmQx5qOcJ8) | 3:38 | 2026-03-12 |  |
 | [Swallows Wings](https://open.spotify.com/track/5mHHXclA1wfLKDDokBP6dH) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 3:10 | 2024-11-21 | 2025-01-12 |
+| [Sweepstakes Prize](https://open.spotify.com/track/7s3548yd3bletCda8v5zQs) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [You Think It's Like This But Really It's Like This](https://open.spotify.com/album/2TBjVIWGpjU5J0VkKNq0Ff) | 4:49 | 2026-04-02 |  |
 | [Swimming](https://open.spotify.com/track/0sTjyzgd2K5htQpU8ienNe) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Swimming](https://open.spotify.com/album/7dGLag4xmWGKjyokzYJP8q) | 3:08 | 2025-12-25 | 2026-01-15 |
 | [tailspin](https://open.spotify.com/track/2HCAD5bvGGJ658BWAIHJ78) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs), [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Want](https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW) | 3:38 | 2025-08-02 | 2025-09-11 |
 | [take it](https://open.spotify.com/track/4YPOplh4glirQhau0shF5u) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [take it](https://open.spotify.com/album/4SYyFlB9YiIcjYxAQMCfBg) | 3:24 | 2025-09-30 | 2025-11-15 |

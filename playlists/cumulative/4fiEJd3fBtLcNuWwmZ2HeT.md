@@ -4,12 +4,13 @@
 
 > Lmao \-.\-
 
-477 songs - 1 day 3 hr 50 min
+483 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [''''''](https://open.spotify.com/track/2IdCKcMOO5FuAGvYqsZ6p3) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [''''''](https://open.spotify.com/album/5uhEQY2SM46YFVt0KTBqTu) | 2:32 | 2025-06-01 |  |
 | [\-\-\-\-\-\-](https://open.spotify.com/track/517pv3Ps8IdYdzFoH08jBY) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [\-\-\-\-\-\-](https://open.spotify.com/album/5K8d4ggXg7yFcBwVn4VtGa) | 3:53 | 2026-02-23 |  |
+| [..](https://open.spotify.com/track/6T0uBvi0KwEVjFeUjWfHI2) | [subeteanatanoseidesu](https://open.spotify.com/artist/4Jgqs4jg9z7AkUduc66GEc) | [\. .\. ...](https://open.spotify.com/album/1b285BnzfH2WwwZ2zyLQkf) | 4:12 | 2026-04-02 |  |
 | [......](https://open.spotify.com/track/0hZcG4Uw0sieOgwi4E0WbM) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [......](https://open.spotify.com/album/4PjasvlU6CzI86k1yQlSON) | 2:26 | 2023-10-23 |  |
 | [.....\. \- MARETU Remix](https://open.spotify.com/track/37TZpH55FF8LxIDShZuLLp) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz), [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [人形](https://open.spotify.com/album/6OiLP3mN9ntclPFqqyIS0c) | 2:40 | 2026-01-26 |  |
 | [/ / // / /](https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [/ / // / /](https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz) | 2:13 | 2023-10-30 |  |
@@ -113,6 +114,7 @@
 | [Good Night](https://open.spotify.com/track/2Aeq6X8PmiZrzdC5WptzIL) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Play the world](https://open.spotify.com/album/4mnu3y4nJjpnT24fRUPlMD) | 3:57 | 2024-02-06 |  |
 | [Gradually Turning into a Dog](https://open.spotify.com/track/7Cx0EGkPdNi0sY9gea0Oez) | [mass](https://open.spotify.com/artist/79t8MOA8gkCjzy3iRrxwRt) | [Gradually Turning into a Dog](https://open.spotify.com/album/1f3pssAleoIFRuMFNVL5D7) | 2:29 | 2025-10-22 |  |
 | [GYARU](https://open.spotify.com/track/1rIegF191fU9LDCiozDyRH) | [Nene](https://open.spotify.com/artist/07pMzPVvAsMS1tgLfGtdIh) | [GYARU](https://open.spotify.com/album/2JghQxtUgwV6zCPcPI8JW7) | 3:05 | 2025-05-27 |  |
+| [hakuchuumu \(feat\. araki\)](https://open.spotify.com/track/44YFygtN4uwbBVcn1g2CEs) | [不眠症](https://open.spotify.com/artist/2VqEtJ2rBrI0mkFhxLYc0Q), [Araki](https://open.spotify.com/artist/09ONFXQOVjyy3AhFlBsZx8) | [Stray into a museum](https://open.spotify.com/album/2XffSggAZcbc1VVHdpffBh) | 3:30 | 2026-04-02 |  |
 | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/22GIffkfqo45pTLyGXrRHX) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/2DtL6aukVKA4gPalst5JtC) | 2:49 | 2023-11-17 |  |
 | [HAREBARE](https://open.spotify.com/track/6qRXiDBpqYSNziFaHLl8tV) | [CULUA](https://open.spotify.com/artist/3sQqFA3jHUjGGUoUvwX7B2) | [HAREBARE](https://open.spotify.com/album/65MUZrDqQenpzqBgcaJPNk) | 3:08 | 2025-04-03 |  |
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2022-11-25 |  |
@@ -215,12 +217,14 @@
 | [Paradisus\-Paradoxum](https://open.spotify.com/track/3CrYQaVrFUppSElxRwNHJK) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 3:51 | 2023-11-08 |  |
 | [Perverted Martyr](https://open.spotify.com/track/1Xb86IudDAjgxvkejaaQ1O) | [Femme Fatale](https://open.spotify.com/artist/1Xx67XOeAxqfb5CUbaugg5) | [ARCANA](https://open.spotify.com/album/4AevWRFRi6OOeck4wDOL80) | 3:52 | 2026-03-13 |  |
 | [Petrichor \(feat\. 9Lana\)](https://open.spotify.com/track/6MESRIHFSpI37ox8qSKX06) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [404 NOT FOUND](https://open.spotify.com/album/3yMOVTrwwXgi7ozbX51uMg) | 2:04 | 2024-11-20 |  |
+| [Phantom Scratch](https://open.spotify.com/track/4U1rOllUWENIs7l2UjImfj) | [えもん](https://open.spotify.com/artist/45BgQUm7IMy2qR0H7MLayR), [歌愛ユキ](https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r) | [Phantom Scratch](https://open.spotify.com/album/2Wm6k33gLAGXXOFNMWXizF) | 2:10 | 2026-04-02 |  |
 | [Phony](https://open.spotify.com/track/0easKsHTKz3x4OayMKoZET) | [Xiulan Long](https://open.spotify.com/artist/4rUM4AisHJilVENH56wqCY) | [Phony](https://open.spotify.com/album/1ndZLzQ1XDrFz2Lq4S2TCV) | 3:09 | 2024-03-25 |  |
 | [Pink](https://open.spotify.com/track/5KI8zXj9lxLr1goQoGYaIA) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Pink](https://open.spotify.com/album/51KEnPmInGx4cXyBIISzgj) | 3:42 | 2022-11-11 |  |
 | [PINK](https://open.spotify.com/track/3KhODlXNFUONL8CdqEmd1d) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [BIPOLAR](https://open.spotify.com/album/4vnB6AiGOaZWl6u7xIsyG9) | 2:56 | 2023-10-23 |  |
 | [Por Que](https://open.spotify.com/track/7hNdWx6prYB4xmpG25eTAT) | [Amilcar Boscan](https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L) | [Realidades](https://open.spotify.com/album/5grCaFumwBjBTbEgxKwqLm) | 4:48 | 2024-11-30 | 2024-12-03 |
 | [prayer](https://open.spotify.com/track/03MAoBUO3pCOc9uCgZalQ9) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:20 | 2025-05-20 |  |
 | [Premier Amour](https://open.spotify.com/track/7re5aEfGdP4ksYlvh7XqmY) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Voyage Sans Retour](https://open.spotify.com/album/3pjezGBR5XKjQH8RvDAt4W) | 4:55 | 2025-09-25 | 2026-02-13 |
+| [Propose](https://open.spotify.com/track/1z5RmEcGUG6oIx93ix9HK4) | [Naisho no Pierced Earrings](https://open.spotify.com/artist/7zP4cCtyL5Gb51kZNKii7D) | [Propose](https://open.spotify.com/album/4oZjyutSVH3lYOU2CxK0dm) | 3:52 | 2026-04-02 |  |
 | [Que Sera Sera](https://open.spotify.com/track/4IZg9U48i5a3gv3NBJdXeq) | [glamscure](https://open.spotify.com/artist/7oQX1jVN0EsaRmdFKBkzdT) | [Succubus≒incubuS](https://open.spotify.com/album/2CMCQdf27MEYtVxyzSFYX7) | 4:49 | 2025-09-08 |  |
 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 | 2025-10-08 |  |
 | [QUEEN OF THE NIGHT](https://open.spotify.com/track/1gO9SZTzqUOdCpGaU6eRlS) | [The Vanished People](https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ) | [QUEEN OF THE NIGHT](https://open.spotify.com/album/6kKMUex64mP35JZpbRp3Ma) | 2:44 | 2024-04-06 |  |
@@ -346,6 +350,7 @@
 | [カンタレラ](https://open.spotify.com/track/5nvcwCiRhUMHPSSUZCUqbz) | [KuroUsa\(WhiteFlame\)](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [カンタレラ](https://open.spotify.com/album/3EqhWMBLgBl30dhOvLvn2K) | 2:59 | 2025-09-30 | 2025-12-11 |
 | [キスミィ・ショット](https://open.spotify.com/track/0kK60FcUhtR2WGuR3I7k9g) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [キスミィ・ショット](https://open.spotify.com/album/18vOGU3v1TTFwJ3wb8hGpA) | 2:44 | 2024-11-18 |  |
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 | 2023-05-06 |  |
+| [ギフト](https://open.spotify.com/track/39kz6zKYEDz4UAT3B1U5HN) | [内緒のピアス](https://open.spotify.com/artist/7qBT0UgBDfLt3ZpKLUzFBL) | [ギフト](https://open.spotify.com/album/0BtPWvguBmKExfERM49iIa) | 3:13 | 2026-04-02 |  |
 | [ゲシュタルト後悔](https://open.spotify.com/track/2V4nd8UC7PrhKpZAWcxHpB) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [ゲシュタルト後悔](https://open.spotify.com/album/7tJhkSSOzBgYiOduOLIx6o) | 3:09 | 2025-09-12 |  |
 | [ゴチャゴチャうるせー！](https://open.spotify.com/track/3ZOjNTwS1sOLyA4qkocF3c) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス＼\(^o^\)／](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:40 | 2022-09-02 |  |
 | [ゴー・トゥ・大都会 \(feat\. GUMI\)](https://open.spotify.com/track/12epYxzmLOXyd3bMMM7ELE) | [月裏, ニャントンロン](https://open.spotify.com/artist/2PuJ8LNdrbEHA5yaLhlVR6) | [ゴー・トゥ・大都会](https://open.spotify.com/album/7ercjw6rfspX0S7uJvdjfV) | 2:50 | 2022-12-12 |  |
@@ -385,6 +390,7 @@
 | [モニタリング](https://open.spotify.com/track/03xt11xuwiqUQBMYKwEWKz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [TRANSFORM](https://open.spotify.com/album/0hOIEdxWNyYEUrAjDNsphA) | 2:56 | 2025-08-25 |  |
 | [ラグトレイン](https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ウェザーステーション](https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd) | 4:12 | 2022-11-25 |  |
 | [ラストリゾート](https://open.spotify.com/track/5HcOVExZgUjPubONiRs7JB) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [幽霊東京 \(digital edition\)](https://open.spotify.com/album/6nYldEYDHm0Qjd5Cxhv321) | 3:08 | 2024-09-16 |  |
+| [ラピスのお人形](https://open.spotify.com/track/3CVjKPOfnLpfmotTk8b50x) | [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U) | [色彩](https://open.spotify.com/album/49ELlmc6ykxao1ovjxl57b) | 3:09 | 2026-04-02 |  |
 | [ラブカ？ \(feat\. Ado\)](https://open.spotify.com/track/5R3XD7aR25OcI6qimQU91Z) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ラブカ？ \(feat\. Ado\)](https://open.spotify.com/album/54t8GGGwqraTv779NBRZas) | 3:05 | 2023-12-04 |  |
 | [ラブコール](https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ラブコール](https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2) | 3:00 | 2024-03-10 |  |
 | [ラプラスショコラ](https://open.spotify.com/track/1peOsJELHn8Clf4kjX9g71) | [Kai](https://open.spotify.com/artist/3pstnSha9lNrdYVfFTUucR) | [ラプラスショコラ](https://open.spotify.com/album/7fRf7AoKjsuAMstix32dwX) | 2:17 | 2024-12-24 |  |

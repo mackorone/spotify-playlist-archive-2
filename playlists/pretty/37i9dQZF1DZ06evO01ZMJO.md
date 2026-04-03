@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,658 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,671 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 38 | [Thunderbolt \(Outsiders Remix\)](https://open.spotify.com/track/6tgLeIVLBgYuV1WnN7yJdB) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Thunderbolt \(Outsiders Remix\)](https://open.spotify.com/album/2VIle6GvNBwToC8zX2aDZL) | 2:27 |
 | 39 | [Pullover \(feat\. J.D.A.\)](https://open.spotify.com/track/0lhpUzuy55cSFC44B143I2) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [J.D.A.](https://open.spotify.com/artist/2JDi9za9u6zXMmUwSZGPZs) | [Pullover \(feat\. J.D.A.\)](https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak) | 3:02 |
 | 40 | [Magnifico \- Jump Remix](https://open.spotify.com/track/3sFZe3Y4rvMmIdxpektQfV) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Magnifico \(Jump Remix\)](https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh) | 2:39 |
-| 41 | [Zimmer Frei](https://open.spotify.com/track/2sEJ7YtIK2qpEu7aGQMzia) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Immer Hansi](https://open.spotify.com/artist/5pUX4FpriGXvWLiOdcugUH), [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa) | [Zimmer Frei](https://open.spotify.com/album/32scrhlBaSowEpVQBkO1e5) | 2:53 |
-| 42 | [One More Night](https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [One More Night](https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID) | 3:17 |
-| 43 | [Never Die](https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Never Die](https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu) | 3:20 |
+| 41 | [One More Night](https://open.spotify.com/track/0A6H7CLOfNV01YVDDuCQs1) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [One More Night](https://open.spotify.com/album/3Y6VZtjdLOo0PmcqtHPsID) | 3:17 |
+| 42 | [Never Die](https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Never Die](https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu) | 3:20 |
+| 43 | [Zimmer Frei](https://open.spotify.com/track/2sEJ7YtIK2qpEu7aGQMzia) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Immer Hansi](https://open.spotify.com/artist/5pUX4FpriGXvWLiOdcugUH), [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa) | [Zimmer Frei](https://open.spotify.com/album/32scrhlBaSowEpVQBkO1e5) | 2:53 |
 | 44 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
 | 45 | [KUTMUZIEK](https://open.spotify.com/track/12hnvrted7ORllAafrUiao) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [NZGÛL](https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH) | [KUTMUZIEK](https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o) | 2:30 |
 | 46 | [Break The Rules](https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Break The Rules](https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Rebel Baby](https://open.spotify.com/track/2M5mu6nJEFbq6Z6shY3WSZ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebel Baby](https://open.spotify.com/album/7hk0hPdYtMeqT1rdANRbne) | 4:12 |
 | 50 | [Rebls 4 Life](https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebls 4 Life](https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP) | 3:31 |
 
-Snapshot ID: `acsOgAAAAAD5SYNORqINe2LlYNMEJnlg`
+Snapshot ID: `acxgAAAAAABMoQ6pdOXJbY7LEVEYyM2z`

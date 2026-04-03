@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: The Paradise
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,778 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,510 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 6 | [Chikiri Chikiri \(From "Peddi"\) \[TELUGU\]](https://open.spotify.com/track/41GTIflnHCWqHgYq7israx) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Balaji](https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH) | [Chikiri Chikiri \(From "Peddi"\) \[TELUGU\]](https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO) | 4:33 |
 | 7 | [Adhento Gaani Vunnapaatuga\(Jersey\)](https://open.spotify.com/track/67SwuqIlgYKKRy8OKisce6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Adhento Gaani Vunnapaatuga\(Jersey\)](https://open.spotify.com/album/0hDzmVsozLyKkKyy7gZ1nR) | 3:57 |
 | 8 | [Baitikochi Chuste](https://open.spotify.com/track/2obOMYEyuBydAa7NURdsPL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/1GPSU6YXmNZbc94zLIkC8w) | 3:26 |
-| 9 | [Manasu Maree](https://open.spotify.com/track/3s3qs1nUuyvcGaaSLjlJxc) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [YAZIN](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [V](https://open.spotify.com/album/6AzTkLgXifE8QAohSyeRWv) | 4:27 |
+| 9 | [Manasu Maree](https://open.spotify.com/track/3s3qs1nUuyvcGaaSLjlJxc) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [V](https://open.spotify.com/album/6AzTkLgXifE8QAohSyeRWv) | 4:27 |
 | 10 | [Panchadaara](https://open.spotify.com/track/17NZP2r1BmqfrZdAq0tSCQ) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Anuj Gurwara](https://open.spotify.com/artist/0scEW6ZihUHK7KtWbtXkjq), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Magadheera](https://open.spotify.com/album/02EzlG0spzVbWOkicSlyY8) | 4:47 |
 | 11 | [Oh Priya Priya](https://open.spotify.com/track/5OASaE4FRMNKdX0IHIg5Ri) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Nithya Menen](https://open.spotify.com/artist/5ATG28qJzT3dATBV1UPxcN) | [Ishq](https://open.spotify.com/album/4Qo2GygetQ72mekmB7D7Hg) | 4:20 |
 | 12 | [Rubaroo \(From "Dacoit \(Telugu\)"\)](https://open.spotify.com/track/3M3bCnAOydcZJ0pCUi04Qc) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Rubaroo \[From "Dacoit \(Telugu\)"\]](https://open.spotify.com/album/6TTQVaiOWeUZIdnF1voJRJ) | 3:15 |

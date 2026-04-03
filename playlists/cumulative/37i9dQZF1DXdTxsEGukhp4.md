@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 宝鐘マリン & 星街すいせい
 
-577 songs - 1 day 8 hr 48 min
+578 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [First Christmas](https://open.spotify.com/track/45jLrzxVvQgoMqVYNB2yPy) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [First Christmas](https://open.spotify.com/album/0vecA8H0SLCwM437ysSH5l) | 3:43 | 2023-12-07 | 2024-01-05 |
 | [First Love](https://open.spotify.com/track/66qxgF2M6rfGGMWjUMUmVZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [First Love](https://open.spotify.com/album/4fI3dDhZh8PAfbH6GdH5dx) | 3:13 | 2023-03-17 | 2023-05-26 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-26 | 2023-02-24 |
+| [Fly\-day Chinatown](https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn) | [Yasuha](https://open.spotify.com/artist/0W2BSNBblzlWTk4bD2A9uR) | [Fly\-day Chinatown](https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP) | 3:28 | 2026-04-02 |  |
 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 | 2024-03-21 | 2024-06-07 |
 | [Forever](https://open.spotify.com/track/644LP8xaFEYxCIfjwHcGBL) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [Forever](https://open.spotify.com/album/4ZYt1oNWB3i4b7Gveym7VL) | 3:00 | 2024-06-03 | 2024-07-01 |
 | [Forget about you](https://open.spotify.com/track/0xnxrUxBgLVUFgnjrJ7RhL) | [手がクリームパン](https://open.spotify.com/artist/6geY1qz5UkWhIMQxp3oHCr) | [Forget about you](https://open.spotify.com/album/1tSO0QRB14Cb1anUiUJEUK) | 4:15 | 2023-01-26 | 2023-02-24 |
@@ -470,7 +471,7 @@
 | [モエチャッカファイア](https://open.spotify.com/track/43CMcyGeImlZjy1oN0NVNG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [モエチャッカファイア](https://open.spotify.com/album/1AzkXE2hgeuHGPKAqcGgHD) | 2:35 | 2024-09-26 | 2025-03-07 |
 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 | 2024-04-25 | 2024-08-01 |
 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 | 2024-07-04 | 2025-03-14 |
-| [ラッキーカラー](https://open.spotify.com/track/2iNLH2YkRdplxPA09jndW6) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:38 | 2025-03-13 |  |
+| [ラッキーカラー](https://open.spotify.com/track/2iNLH2YkRdplxPA09jndW6) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 3:38 | 2025-03-13 | 2026-04-03 |
 | [ラブソング](https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラブソング](https://open.spotify.com/album/5tSuCB8yf6cvvf6SrtyQnv) | 4:16 | 2024-04-18 | 2025-01-17 |
 | [ラブミー](https://open.spotify.com/track/0sScba9En0QRlgnf7yqeVu) | [Uscool](https://open.spotify.com/artist/24WBlW3dHJvp1CYokPgSWA), [手がクリームパン](https://open.spotify.com/artist/6geY1qz5UkWhIMQxp3oHCr), [tabehiro](https://open.spotify.com/artist/74LzKWRK1RXCRSw4O1PHeb) | [ラブミー](https://open.spotify.com/album/4pfFtML4C7bM6nbiDXYwm3) | 3:32 | 2025-01-16 | 2025-10-01 |
 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 | 2024-04-18 | 2024-05-24 |

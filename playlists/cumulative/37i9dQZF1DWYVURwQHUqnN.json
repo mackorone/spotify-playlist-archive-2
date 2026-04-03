@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Jul",
+  "description": "Photo : Gambi",
   "name": "Best Life",
   "tracks": [
     {
@@ -2832,6 +2832,28 @@
       "duration_ms": 179554,
       "name": "Doser",
       "url": "https://open.spotify.com/track/1Jfm129mci3FMizdlXeMOs"
+    },
+    {
+      "album": {
+        "name": "DOUCEMENT",
+        "url": "https://open.spotify.com/album/6R0dOwLtxYDVaaovcpQNDB"
+      },
+      "artists": [
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172913,
+      "name": "DOUCEMENT",
+      "url": "https://open.spotify.com/track/5btmfx5sNRsrcoIes2gmHu"
     },
     {
       "album": {
@@ -7208,7 +7230,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 144466,
       "name": "Quasimodo",
       "url": "https://open.spotify.com/track/3Xtx4I7Lu5O6UOK5cCezPT"
@@ -7394,7 +7416,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 160000,
       "name": "Red flag",
       "url": "https://open.spotify.com/track/5nscdqclMch8bJcofelBXl"
@@ -7424,6 +7446,24 @@
       "duration_ms": 163636,
       "name": "Remontada (feat. Leto)",
       "url": "https://open.spotify.com/track/1uLESz9GPo9f3kKyf9Us8M"
+    },
+    {
+      "album": {
+        "name": "REN\u00c9 CAOVILLA",
+        "url": "https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137973,
+      "name": "REN\u00c9 CAOVILLA",
+      "url": "https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT"
     },
     {
       "album": {

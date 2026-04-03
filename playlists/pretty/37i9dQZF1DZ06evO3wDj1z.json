@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 119143,
+  "num_followers": 119256,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAACGm7ma6W0dxm4YD43zKnAU",
+  "snapshot_id": "acxgAAAAAACbgdGwCz3KpPKU/riMT8H2",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 138466,
       "name": "Me Gusta Estar Contigo",
       "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 180080,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Cuando Te Lavas la Cara",
-      "url": "https://open.spotify.com/track/6UpXhrZeMtzIo8rHwKCUck"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -235,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesito Due\u00f1a",
-        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
       "artists": [
         {
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 209333,
-      "name": "Te Quiero Enamorar - Balada Version",
-      "url": "https://open.spotify.com/track/0tlYDlWKenqL5u78jZKh0z"
+      "duration_ms": 199746,
+      "name": "Cuando Te Lavas la Cara",
+      "url": "https://open.spotify.com/track/6UpXhrZeMtzIo8rHwKCUck"
     },
     {
       "added_at": null,
@@ -263,6 +247,22 @@
       "duration_ms": 182946,
       "name": "El Bitachero",
       "url": "https://open.spotify.com/track/3uGo2w4vTh6iktL20sEYb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Te Quiero Enamorar - Balada Version",
+      "url": "https://open.spotify.com/track/0tlYDlWKenqL5u78jZKh0z"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 181706,
-      "name": "Zapatos Nuevos",
-      "url": "https://open.spotify.com/track/7BcdzFXBXCaHVmOmoUXCmo"
+      "duration_ms": 118746,
+      "name": "No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7AfzFp2S1yIDHjTjXnMXJs"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Andamos Borrachos Todos",
+      "url": "https://open.spotify.com/track/5P3vPSqSfmGf3ZKYBlY5DX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recordando A El Shaka",
         "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 207573,
       "name": "Luto En El Cielo",
       "url": "https://open.spotify.com/track/693F8g19ECSFfMiejm00bo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Andamos Borrachos Todos",
-      "url": "https://open.spotify.com/track/5P3vPSqSfmGf3ZKYBlY5DX"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sus Primeros Exitos Con Los Hermanos",
-        "url": "https://open.spotify.com/album/2NmDamXzG1rTrvTCWmRX3G"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Te So\u00f1ar\u00e9",
-      "url": "https://open.spotify.com/track/078OlTYi0bydRM1r8Wuglb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Jefe De Las Plazas",
         "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 144986,
       "name": "La Pasadita",
       "url": "https://open.spotify.com/track/0vqWT1Bg2piIGWdwpvWwJY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sus Primeros Exitos Con Los Hermanos",
+        "url": "https://open.spotify.com/album/2NmDamXzG1rTrvTCWmRX3G"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Te So\u00f1ar\u00e9",
+      "url": "https://open.spotify.com/track/078OlTYi0bydRM1r8Wuglb"
     },
     {
       "added_at": null,

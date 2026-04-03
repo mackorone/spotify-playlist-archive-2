@@ -4,7 +4,7 @@
 
 > New music from Ye, Central Cee and Yeat.
 
-2,712 songs - 5 day 20 hr 41 min
+2,713 songs - 5 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Bittersweet](https://open.spotify.com/track/7yfRb4seXT7w8zVMW0dXNa) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bittersweet](https://open.spotify.com/album/4rqR6LyYV1AHn1DUi6UwjY) | 3:11 | 2024-02-16 | 2024-03-30 |
 | [Bla Bla \(feat\. Fivio Foreign\)](https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:26 | 2023-07-14 | 2023-08-19 |
 | [Black](https://open.spotify.com/track/45k6Qexq0mavylcq1hNl4G) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:08 | 2023-01-13 | 2023-01-28 |
+| [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 | 2026-04-02 |  |
 | [Black Ball](https://open.spotify.com/track/1tmsPlyvzDETLv08Wp5cuY) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [From The Bayou](https://open.spotify.com/album/2oyN9nzl627l8ZeovPo46F) | 3:09 | 2022-01-07 | 2022-03-05 |
 | [Black Hearted](https://open.spotify.com/track/25qk9xa71F1POdI4vj7rbi) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 3:10 | 2021-06-12 | 2021-06-16 |
 | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI) | 3:49 | 2021-11-20 | 2021-11-27 |

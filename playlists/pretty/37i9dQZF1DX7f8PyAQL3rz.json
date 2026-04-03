@@ -1,6 +1,6 @@
 {
   "description": "\u00e9 cabelo preto \u00e9 cabelo loiro os cara n tem nem a\u00ed pra NADA",
-  "num_followers": 1451844,
+  "num_followers": 1451810,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,34 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
+        "name": "Bolad\u00e3o Escutando Orochi",
+        "url": "https://open.spotify.com/album/1IjTcH5c6ZHsl3xGszTE6S"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 206017,
+      "name": "Bolad\u00e3o Escutando Orochi",
+      "url": "https://open.spotify.com/track/7DqwvFJzN2I3LpRnvU24td"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
         "name": "PARA: TODAS QUE FINGI AMAR",
         "url": "https://open.spotify.com/album/0GFb1J3CPd9yxDwyD5d6iC"
       },
@@ -539,34 +567,6 @@
       "duration_ms": 151396,
       "name": "ROBERTA",
       "url": "https://open.spotify.com/track/0fgYo8yGtG6yoYRIvnA7jb"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
-        "name": "Bolad\u00e3o Escutando Orochi",
-        "url": "https://open.spotify.com/album/1IjTcH5c6ZHsl3xGszTE6S"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 206017,
-      "name": "Bolad\u00e3o Escutando Orochi",
-      "url": "https://open.spotify.com/track/7DqwvFJzN2I3LpRnvU24td"
     },
     {
       "added_at": "2026-03-27 03:01:06",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2026-03-27 03:01:06",
       "album": {
-        "name": "\u00c1rea de Risco",
-        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
-      },
-      "artists": [
-        {
-          "name": "Tchelo",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "retroboy",
-          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
-        }
-      ],
-      "duration_ms": 158965,
-      "name": "\u00c1rea de Risco",
-      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
-    },
-    {
-      "added_at": "2026-03-27 03:01:06",
-      "album": {
         "name": "gelo no stanley",
         "url": "https://open.spotify.com/album/1GFDa6HJINq4vyNWfU6ws3"
       },
@@ -1511,6 +1487,30 @@
       "duration_ms": 160000,
       "name": "gelo no stanley",
       "url": "https://open.spotify.com/track/6jTPmHRjqA8VrVEJAgYkfp"
+    },
+    {
+      "added_at": "2026-03-27 03:01:06",
+      "album": {
+        "name": "\u00c1rea de Risco",
+        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "duration_ms": 158965,
+      "name": "\u00c1rea de Risco",
+      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
     },
     {
       "added_at": "2026-03-27 03:01:06",

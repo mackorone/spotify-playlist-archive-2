@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: RINNI
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Zoe Levana
 
-599 songs - 1 day 10 hr 58 min
+605 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [blink](https://open.spotify.com/track/6o3T8kFESS80zxTKDdyiGd) | [Alex Teh](https://open.spotify.com/artist/0RO08FqySaEmUQMwVC5N36) | [blink](https://open.spotify.com/album/6pNW8tHqgSdymA56BVKtwr) | 4:05 | 2025-05-29 | 2025-07-11 |
 | [Bloodshot](https://open.spotify.com/track/0tD8mZqjq3pCwbSzcfxoOE) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk) | [Bloodshot](https://open.spotify.com/album/5hHf1FSFJjS1d3fN9lByKO) | 2:17 | 2025-11-06 |  |
 | [Bloom](https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Bloom](https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5) | 3:53 | 2024-06-27 | 2024-10-11 |
+| [Bloom](https://open.spotify.com/track/31wZxPeJt5orIVYQGwqrWS) | [KLAV](https://open.spotify.com/artist/2Rzj6pwJrpcPvILalPsGjU) | [Bloom](https://open.spotify.com/album/1gGfU3AD1WJJMu3nG1x0SV) | 5:30 | 2026-04-02 |  |
 | [Blue](https://open.spotify.com/track/3pNVzVuPU8dW1DRMV1l6PZ) | [Azhr](https://open.spotify.com/artist/1XoQClD6pvwGhLXBLHQ5x3) | [Blue](https://open.spotify.com/album/6TTrHO3gQaxzf0coMgJRwj) | 2:48 | 2025-06-26 | 2025-08-22 |
 | [Blue](https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Blue](https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y) | 3:40 | 2025-05-08 | 2025-08-08 |
 | [Blue Lotus](https://open.spotify.com/track/0XuXhobUbtK3i96TouI4m7) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Patterns](https://open.spotify.com/album/03hsJO3aPFCbKhjTNUAlE0) | 5:06 | 2025-02-20 | 2025-05-09 |
@@ -308,6 +309,7 @@
 | [Just You](https://open.spotify.com/track/4T96Q59QUuTiRrzoRdZWqE) | [El merry](https://open.spotify.com/artist/3KbgXfkhIm2fGHjpE0HZCh) | [Just You](https://open.spotify.com/album/6bKQ9baanwliyMi9K2xG5H) | 3:06 | 2025-07-18 | 2025-10-17 |
 | [KIDDIN'](https://open.spotify.com/track/0BQEXEBuN6i872rhcnDQXX) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2) | [KIDDIN'](https://open.spotify.com/album/3ErAhv46wywsXuQvQzN8cH) | 3:00 | 2024-12-12 | 2025-04-25 |
 | [Knights of Jahannam](https://open.spotify.com/track/5hFOWZO8xzX0sQayxyUHR0) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Knights of Jahannam / Soma Gospel](https://open.spotify.com/album/718mLwYhZMgjweBEFycTqz) | 3:29 | 2025-07-10 | 2025-10-04 |
+| [Knowing I Can Kill Myself Tonight](https://open.spotify.com/track/1W3YgUBLAmijNnmGfEgh3U) | [The Saudade Tapes](https://open.spotify.com/artist/45aRCSjyC9GFeBcXqSd518) | [This Is My Suicide Note](https://open.spotify.com/album/0U52OugzpIQdgSbS159X1Y) | 2:13 | 2026-04-02 |  |
 | [kYuUt](https://open.spotify.com/track/4FoUJVHvGqapfo1Tl7DUHQ) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [kYuUt](https://open.spotify.com/album/2a7QJ46tBN20XEaRqpd7NU) | 2:30 | 2026-02-26 |  |
 | [L.A.T.E](https://open.spotify.com/track/7khGfl0yp52y7RMlFmp1OA) | [Tamima](https://open.spotify.com/artist/5tOzsSVDNJLfTOCKz1rptf), [Ari Pramundito](https://open.spotify.com/artist/5yOnMxwH74WVk8dP5dlQjz) | [L.A.T.E](https://open.spotify.com/album/6dJQbouCzW1lw3tY2CWb1D) | 3:53 | 2025-02-28 | 2025-04-25 |
 | [LA DA DI](https://open.spotify.com/track/3rGqFXA11MnvgrypxlvHbL) | [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [LA DA DI](https://open.spotify.com/album/3KKGdhGCpBoVBW1VXXvEp5) | 2:34 | 2025-01-17 | 2025-05-09 |
@@ -398,6 +400,7 @@
 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 | 2024-08-09 | 2025-01-24 |
 | [No Turning Back](https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [No Turning Back](https://open.spotify.com/album/4lCdkCWOmYNJWdfiRU4Bof) | 4:07 | 2024-10-03 | 2024-11-16 |
 | [NO!](https://open.spotify.com/track/32UQufujepBZNvoRFRzmz9) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [NO!](https://open.spotify.com/album/2zlrD0QwyKJq63bYvRLbHl) | 3:22 | 2025-05-15 | 2025-06-13 |
+| [Nobody Knows](https://open.spotify.com/track/567bsnN1XBNwSsDanWlN3l) | [Zoe Levana](https://open.spotify.com/artist/1aLaLpiiViPxD3Ztbar9WH) | [Nobody Knows](https://open.spotify.com/album/2nfxdK7RFbfeoPHpf78mdD) | 3:12 | 2026-04-02 |  |
 | [Not Today](https://open.spotify.com/track/3IYwakVAhSakQgwaMN6cUK) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Not Today](https://open.spotify.com/album/6rZYBpiOHy9ngNmV6idtmc) | 3:16 | 2024-12-12 | 2025-09-30 |
 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 | 2024-07-25 | 2024-11-29 |
 | [Nothing Left For You](https://open.spotify.com/track/3ITlOAXoVqK3X8dPXEFlGc) | [Ei](https://open.spotify.com/artist/3bcAVVQaEz0ruGunLrjvw0) | [Nothing Left For You](https://open.spotify.com/album/2ul9lPYCbO7UFLhrEhHQ5N) | 3:39 | 2025-07-10 | 2025-08-29 |
@@ -430,12 +433,14 @@
 | [Playing Hearts](https://open.spotify.com/track/6nCLcGjrmepTFd8WUiBscg) | [Murry Monolite](https://open.spotify.com/artist/4J4ZBGKe41WRtpjggHKKn1) | [WAY BACK \- EP](https://open.spotify.com/album/6FpsoYpFB0SyiSX52hKpQo) | 2:52 | 2025-08-21 |  |
 | [Pon It](https://open.spotify.com/track/0xlnJ2dcvIeTPprHRvuPhP) | [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [Pon It](https://open.spotify.com/album/2ZtN4k88qToFwIflalaCfg) | 2:52 | 2024-06-27 | 2024-08-30 |
 | [Precious Time](https://open.spotify.com/track/6QCf3ZUBc5oIUjtxR4NPmm) | [Showbiz](https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC) | [Precious Time](https://open.spotify.com/album/4snPevQGPMdd0nsSX6q45M) | 3:23 | 2025-01-30 | 2025-10-17 |
+| [Pressing The Wound](https://open.spotify.com/track/7zILT5vPVUSiFhv6tc1Af8) | [Christabelle Marbun](https://open.spotify.com/artist/6A4Sbpi0Ow0FqXLqsVD3RB) | [Pressing The Wound](https://open.spotify.com/album/6nObXUraZEnxqSxw6HRiMg) | 2:57 | 2026-04-02 |  |
 | [Promises](https://open.spotify.com/track/7FHqot8Yy6EPODzynaaB1g) | [Summerlane](https://open.spotify.com/artist/5qNRmCwvoxDRNP12wW3s0H) | [Promises](https://open.spotify.com/album/0rG5WxvivoCBRiKoWmgeoj) | 3:53 | 2025-06-26 | 2025-08-22 |
 | [Pura Pura Bahagia \- Japanese Version](https://open.spotify.com/track/76r78vQ7H7SQkrNpRAL6ma) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Morning in Osaka](https://open.spotify.com/album/54ms2CNMhAc2Ssio38mxOC) | 3:42 | 2024-10-24 | 2025-01-24 |
 | [Purple Smoke](https://open.spotify.com/track/6g5plYKrCl7EgH0FOOuZvJ) | [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Purple Smoke](https://open.spotify.com/album/0d3rr9GiYnMtomwKUwIxEA) | 3:13 | 2024-12-12 | 2025-04-25 |
 | [Push & Pull](https://open.spotify.com/track/75aI6dB3LZFvEkEJqH9RdW) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Push & Pull](https://open.spotify.com/album/6gZVzSGWj4bJoADLPGKzs4) | 3:33 | 2025-08-08 | 2025-10-17 |
 | [Queen Of Hearts](https://open.spotify.com/track/0DXUR5DC7DEXGPCCEu1dPW) | [Rick Karnadi](https://open.spotify.com/artist/4CVPQRzMqpa4OuSg2Vmg2d) | [Queen Of Hearts](https://open.spotify.com/album/0EABOXowLsvLrc5dzcO2rP) | 2:39 | 2025-08-08 | 2025-09-30 |
 | [ragebait!](https://open.spotify.com/track/1agtREeSQBAZWgZqMJN7me) | [Father Koi](https://open.spotify.com/artist/3TiCUxDWDi4qSDLITpkziT), [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [ragebait!](https://open.spotify.com/album/1XAqhHKsw7tlS1ZnOes3Sr) | 2:20 | 2025-09-11 |  |
+| [RATHER BE / IN HELL](https://open.spotify.com/track/0lVgwDVMGiCUa9tSWo56Oq) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [PISSED ME OFF / BORED ME TO DEATH](https://open.spotify.com/album/1ZVS7kg3oUYwmdnETa3ujT) | 4:06 | 2026-04-02 |  |
 | [Ready](https://open.spotify.com/track/2pCns6U2LU4gmRROcWQJiJ) | [Kenaga](https://open.spotify.com/artist/32X9bL2iCmwTbblt1NEKbR) | [Ready](https://open.spotify.com/album/60wk0LODQ3wy8v82CLoR3d) | 2:26 | 2025-08-21 | 2025-12-06 |
 | [real love](https://open.spotify.com/track/0WuMGn0d7SRWBJi7CQ6HIO) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [real love](https://open.spotify.com/album/3TZyFrXEWXtyrNPGprdBMB) | 3:49 | 2025-08-01 |  |
 | [RECKLESS](https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti), [Rai Anvio](https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u) | [RECKLESS](https://open.spotify.com/album/4zGdm3XwogvJ62gxsSeM77) | 3:56 | 2024-10-03 | 2025-01-24 |
@@ -562,6 +567,7 @@
 | [Twisted Neurons](https://open.spotify.com/track/5BZT0JzMP5Otk3tw6jFYcB) | [KYNYA](https://open.spotify.com/artist/4zy1Zb5mi7hSWc7MOFevU8) | [Twisted Neurons](https://open.spotify.com/album/6Moma0qD8i4QElK4qubH3C) | 3:45 | 2024-08-09 | 2024-09-27 |
 | [Two Shades of Blue \(again\)](https://open.spotify.com/track/4KQW4RNux6n948tQ75tykF) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Two Shades of Blue \(again\)](https://open.spotify.com/album/1t3ZowILVpZ96x89sKGENN) | 4:31 | 2025-02-13 | 2025-08-08 |
 | [Two Tickets](https://open.spotify.com/track/5mdJe6dpdNL43AjhnRkJKn) | [The People of the Sun](https://open.spotify.com/artist/66nHTHCYPKmWPT2n8sDTpP), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Two Tickets](https://open.spotify.com/album/4V2TbsEDNsh73mDl9h9apd) | 4:56 | 2025-03-13 | 2025-06-13 |
+| [U](https://open.spotify.com/track/4LYWl6AYZYagSRVx9gLwrc) | [Gerald Liu](https://open.spotify.com/artist/5RbFRImP5QQkMWpVfYXaT6), [Dyolow](https://open.spotify.com/artist/1lVN3ysg7IblYuk27iDPre) | [U](https://open.spotify.com/album/00r3Et7b8ZlX05BVQY8Ckq) | 3:42 | 2026-04-02 |  |
 | [u only u \(girl\)](https://open.spotify.com/track/0N6NQBzSPztx1cmvLoTZZU) | [Davidbeatt](https://open.spotify.com/artist/5U85zLLOevENJVI3tqXbO6), [Manutized](https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS) | [u only u \(girl\)](https://open.spotify.com/album/41XgthUOVhWgKzFOL660Jq) | 2:28 | 2024-12-05 | 2025-09-30 |
 | [Unfinished](https://open.spotify.com/track/7jjiNv6lqv9l7GNnqrjtFL) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Unfinished](https://open.spotify.com/album/0Fw8otiXWyj2kBGymjqywY) | 3:38 | 2024-12-12 | 2025-08-08 |
 | [Untitled \- 20th Anniversary Tribute](https://open.spotify.com/track/7LrShfibFq494DGZtMw7dX) | [Manutized](https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS) | [Untitled \(20th Anniversary Tribute\)](https://open.spotify.com/album/1eTFrocdyafKmO9frFj6vE) | 4:27 | 2025-08-21 | 2025-11-07 |

@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,203 songs - 2 day 22 hr 58 min
+1,204 songs - 2 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/7CwI62aIqpf44HgTqzzr9x) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/album/0ySA1EiQEKpdS7zNLSXCsH) | 3:51 | 2023-12-12 | 2023-12-14 |
 | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/1NsYaNxkwwKC18anLoxVZk) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [The Roller Skating Tour](https://open.spotify.com/album/4iyqMZ78D9rMdbSJl6jhtO) | 3:52 | 2023-12-19 | 2024-02-21 |
 | [Distortion](https://open.spotify.com/track/2pDLCU9xw1refGRMZBnlDP) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Distortion](https://open.spotify.com/album/2B2yMRkbG3gDWsYtScd1E4) | 3:34 | 2025-05-27 | 2025-06-04 |
+| [DMC](https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc), [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [DMC](https://open.spotify.com/album/5ykRvEogjoPLmSupwE1QJR) | 3:36 | 2026-04-01 |  |
 | [Do What You Do](https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Do What You Do](https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S) | 2:59 | 2025-03-04 | 2025-07-01 |
 | [Do What You Do Ably](https://open.spotify.com/track/4MJjFBcxDn2pbrhPeeFazZ) | [SOMETIME'S](https://open.spotify.com/artist/4E3XFAjeq08H7QdEaOtWoc) | [Do What You Do Ably](https://open.spotify.com/album/61ec3jHFueT9kiHbxe6fWA) | 4:14 | 2023-04-18 | 2023-05-10 |
 | [Do what you do ably](https://open.spotify.com/track/6FCVnPSxthhbvRIThSSMc8) | [SOMETIME'S](https://open.spotify.com/artist/4E3XFAjeq08H7QdEaOtWoc) | [Do what you do ably](https://open.spotify.com/album/3eoySVHvXdD8Hrj69dZjyI) | 4:14 | 2023-04-18 | 2023-04-20 |
@@ -754,7 +755,7 @@
 | [Private](https://open.spotify.com/track/7cHHIwZfGVue2yLk1QKljw) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Private](https://open.spotify.com/album/6HoymW6UA6u77eJcmDPYkQ) | 2:58 | 2025-02-05 | 2025-02-21 |
 | [Private \- Remix](https://open.spotify.com/track/0mau1gwrttKfQT2Se0l7gf) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [Private \(feat\. Ryohu\) \[Remix\]](https://open.spotify.com/album/4uDUP8r65ZnXWkbvSYoKg3) | 2:58 | 2025-03-26 | 2025-04-03 |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-09-12 | 2023-10-18 |
-| [PS118 \- feat\. Rapsody](https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz) | [JURIN ASAYA](https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [PS118 \(feat\. Rapsody\)](https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG) | 2:40 | 2025-11-19 |  |
+| [PS118 \- feat\. Rapsody](https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz) | [JURIN ASAYA](https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [PS118 \(feat\. Rapsody\)](https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG) | 2:40 | 2025-11-19 | 2026-04-03 |
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-10-20 | 2022-12-17 |
 | [Pull Together](https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Pull Together](https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun) | 4:13 | 2025-04-02 | 2025-05-07 |
 | [Pulse](https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Magnet](https://open.spotify.com/album/2mZuf80aYdleohrQAcdoqJ) | 3:41 | 2023-03-28 | 2023-04-19 |

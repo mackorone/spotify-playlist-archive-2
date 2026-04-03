@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Johan Manjarrés & Sofía Mancipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,465 likes - 99 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,497 likes - 99 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

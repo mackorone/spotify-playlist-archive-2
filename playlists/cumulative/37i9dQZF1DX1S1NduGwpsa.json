@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Tom Misch",
+  "description": "The best jazz new releases. Cover: RAYE",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 190949,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/7HcR5MZXpCSmjymdVyvtXs"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 493093,
       "name": "Anjo de mim",
       "url": "https://open.spotify.com/track/2uT7Dgq3BL5oId4d64f0bl"
@@ -6382,7 +6382,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 206066,
       "name": "Goody Goody",
       "url": "https://open.spotify.com/track/0n19Dlz4j8ITUavvAXmkXs"
@@ -7474,6 +7474,24 @@
       "duration_ms": 112586,
       "name": "I Got Rhythm (Arr. Firth for 2 Pianos) - From \"Girl Crazy\"",
       "url": "https://open.spotify.com/track/4Hc8SPt8CFJnbNjprrIzHH"
+    },
+    {
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208543,
+      "name": "I Hate The Way I Look Today.",
+      "url": "https://open.spotify.com/track/0siNev9lCrz3vs8ep4Gh94"
     },
     {
       "album": {
@@ -10078,7 +10096,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 222891,
       "name": "Lost Pieces",
       "url": "https://open.spotify.com/track/4ytgWs2KdZzOKgVkZcIRls"
@@ -11870,6 +11888,36 @@
       "duration_ms": 250399,
       "name": "Never Doubt",
       "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
+    },
+    {
+      "album": {
+        "name": "Elegant People",
+        "url": "https://open.spotify.com/album/40QTmaCuYt1qXgrrGY4WwZ"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        },
+        {
+          "name": "Raphael Pannier",
+          "url": "https://open.spotify.com/artist/7yrHz9SmURRYmWNkaZecl4"
+        },
+        {
+          "name": "Jean-Yves Jung",
+          "url": "https://open.spotify.com/artist/00kgpmXSQTGbYsgMbzQfqP"
+        },
+        {
+          "name": "William Brunard",
+          "url": "https://open.spotify.com/artist/2CKHnbBFpiHF2Uw9Wu2rCy"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251520,
+      "name": "New Blues",
+      "url": "https://open.spotify.com/track/3QOaxOWCkhmkBFbUW2kKrK"
     },
     {
       "album": {
@@ -17821,6 +17869,24 @@
     },
     {
       "album": {
+        "name": "A Time For Love",
+        "url": "https://open.spotify.com/album/3I6j3dwMH8rMlsydFzu6cv"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/6jHtoIPI83lU0pZg4vPq3c"
+    },
+    {
+      "album": {
         "name": "Transe",
         "url": "https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL"
       },
@@ -18942,6 +19008,24 @@
       "duration_ms": 261176,
       "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
       "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
+    },
+    {
+      "album": {
+        "name": "i-330",
+        "url": "https://open.spotify.com/album/4SgAcpXTi7WhIygmuUDax9"
+      },
+      "artists": [
+        {
+          "name": "Flore Benguigui & The Sensible Notes",
+          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145040,
+      "name": "What A Little Moonlight Can Do",
+      "url": "https://open.spotify.com/track/2fDSBG62IifJLnw7Ox3fIp"
     },
     {
       "album": {

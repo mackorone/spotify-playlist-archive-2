@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Russo & Emma Heesters",
+  "description": "Frisse Nederlandse pop. Cover: Antoon",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 170453,
       "name": "CD van mij",
       "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
@@ -10697,6 +10697,32 @@
     },
     {
       "album": {
+        "name": "In Je Bed",
+        "url": "https://open.spotify.com/album/0zjj2c9hvjajVWRQZpSYyZ"
+      },
+      "artists": [
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        },
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170084,
+      "name": "In Je Bed",
+      "url": "https://open.spotify.com/track/5v78Fw0egMGlffUGn1pnb7"
+    },
+    {
+      "album": {
         "name": "In Je Hoek",
         "url": "https://open.spotify.com/album/4R4UjiDPSy31mPFDMukybB"
       },
@@ -11636,6 +11662,28 @@
       "duration_ms": 146353,
       "name": "Keuzestress",
       "url": "https://open.spotify.com/track/6MQOcrAfVujJ4EzHCrkbZk"
+    },
+    {
+      "album": {
+        "name": "Kijk niet in de Zon",
+        "url": "https://open.spotify.com/album/5w8ysOEpEvtuWQxK9bQoiw"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        },
+        {
+          "name": "Luis Moka",
+          "url": "https://open.spotify.com/artist/7A44q1pS4CF0mZrM1ozdoD"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204115,
+      "name": "Kijk niet in de Zon",
+      "url": "https://open.spotify.com/track/29a5iDpWcJNMupxLzh3Vtx"
     },
     {
       "album": {
@@ -18710,7 +18758,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 137213,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/0mkykewBRHWJHUGfStQ5Xn"
@@ -20372,7 +20420,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 181600,
       "name": "Van God Los",
       "url": "https://open.spotify.com/track/1JA5D5dsSgVn9cSr7ogzfC"
@@ -23960,6 +24008,24 @@
       "duration_ms": 164275,
       "name": "\u2060Tot Het Eind Van Mij",
       "url": "https://open.spotify.com/track/5MSrJGjtJy0eu2Z0oRXYlP"
+    },
+    {
+      "album": {
+        "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
+        "url": "https://open.spotify.com/album/5kgoAHKiaOk2YsJe6HATxX"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150475,
+      "name": "\u2060Tot Het Eind Van Mij - Akoestisch",
+      "url": "https://open.spotify.com/track/2uA8dEMA61IBCXGz4lA3GD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557"

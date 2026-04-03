@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-379 songs - 1 day 10 hr 57 min
+380 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Nahar](https://open.spotify.com/track/6Mr9RKIgliPnqBUDGeLUOg) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Nahar](https://open.spotify.com/album/49UofVTgrdjTpAW931oCix) | 3:28 | 2022-09-30 | 2023-01-21 |
 | [Never Forget](https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Never Forget](https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR) | 3:03 | 2023-04-06 | 2023-09-02 |
 | [Never Stop](https://open.spotify.com/track/7tM5oIOzdcgxCS7mY4wqBh) | [Rose Ringed](https://open.spotify.com/artist/1KML3dPprByep3tRnYSJDj) | [Never Stop](https://open.spotify.com/album/7q7ywDcSsx8TtcUJ56Irw5) | 7:23 | 2022-12-02 | 2023-03-04 |
+| [no cash](https://open.spotify.com/track/4uiNlx5Bcs11EFfm25Gg1h) | [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [no cash](https://open.spotify.com/album/1c5Rfb4ZXGxQ687ogtmcCG) | 3:20 | 2026-04-03 |  |
 | [No Fate, No Dreams \- Torsten Stenzel Mellow Mix](https://open.spotify.com/track/48U8ySPTmVN0nx2zRFZ3Xe) | [Loft 15 A](https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG), [Torsten Stenzel](https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2) | [No Fate, No Dreams \- Remixes](https://open.spotify.com/album/7uXiso5USZOpFaR7jinMns) | 8:06 | 2025-04-11 | 2025-06-28 |
 | [No Mercy](https://open.spotify.com/track/4ur8HXSMHlUhTZLRjL1akF) | [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3) | [No Mercy](https://open.spotify.com/album/3QUoT1UOqQiUk2ZoPxWehG) | 6:20 | 2023-10-06 | 2023-10-28 |
 | [no one going home](https://open.spotify.com/track/4AYmfKH2kIfZQybd97Qyde) | [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [no one going home](https://open.spotify.com/album/4STO8uNkTiKjm6qkbizEVJ) | 5:47 | 2024-05-24 | 2024-10-29 |

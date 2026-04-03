@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,197 songs - 9 day 7 hr 37 min
+4,198 songs - 9 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1006,6 +1006,7 @@
 | [Doubling Down](https://open.spotify.com/track/7gXtVsi4nxUp6r6adDaQO8) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Started](https://open.spotify.com/album/46sgVlfE4GLSGJlzob6k8x) | 3:58 | 2025-12-20 |  |
 | [Dove potremmo volare](https://open.spotify.com/track/6E5inIWTfbmyqz9JM2CpHo) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:07 | 2021-11-13 |  |
 | [dove vai](https://open.spotify.com/track/6V9d6QWqTAMGEgRuk854zU) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [scompigliato](https://open.spotify.com/album/7GkWaSB7g9aG4hAV0gsGe4) | 3:30 | 2025-06-05 |  |
+| [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 | 2026-04-02 |  |
 | [Down Bad](https://open.spotify.com/track/28Jr5KVmMrBKLSlkpSwQnK) | [YKI\-Vlad](https://open.spotify.com/artist/1RPdZryHy0yaoNZIGgwC5L) | [Down Bad](https://open.spotify.com/album/73KhN8ozSFPOV4bOmxCJV3) | 2:45 | 2025-10-08 |  |
 | [DownSouth \- Radio Edit](https://open.spotify.com/track/3mR310MLQAyIYsy3xVfM11) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [DownSouth](https://open.spotify.com/album/08ksPacqHEzF3Zu2hjF6Ml) | 4:59 | 2025-10-06 |  |
 | [draco](https://open.spotify.com/track/6GvgM9sRR3iXaZc8JOqwGn) | [jssr](https://open.spotify.com/artist/1KCy9bQ4eoGnND4HJpZySg) | [manners](https://open.spotify.com/album/45Cg03mBFHR3YMHBVfTubs) | 2:03 | 2025-05-16 |  |

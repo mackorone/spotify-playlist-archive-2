@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,268 likes - 22 songs - 1 hr 33 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,273 likes - 24 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,5 +30,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 20 | [Push Ups](https://open.spotify.com/track/0TYAYDR79QLLNWW95fPXSh) | [Natasha Sandworms](https://open.spotify.com/artist/4CCbEgPF1jwGjIyTGNP2ba) | [No Magic](https://open.spotify.com/album/1AUJCbAlbRugB3hAo5fzHt) | 5:12 |
 | 21 | [Pick up the Phone](https://open.spotify.com/track/02tTCoiY00i7DolLoSbWAD) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha) | [Neon Golden](https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu) | 3:55 |
 | 22 | [Off the Rail](https://open.spotify.com/track/1pLQ2Wwyd9DlyFWkki5HHX) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha) | [Neon Golden](https://open.spotify.com/album/7hg6JDyhz3Lj041cQXe3hu) | 3:27 |
+| 23 | [Sweepstakes Prize](https://open.spotify.com/track/7s3548yd3bletCda8v5zQs) | [Mirah](https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj) | [You Think It's Like This But Really It's Like This](https://open.spotify.com/album/2TBjVIWGpjU5J0VkKNq0Ff) | 4:49 |
+| 24 | [Falling In Love \(Uh\-Oh\)](https://open.spotify.com/track/5jwoygernfGvAuIxFSqxHp) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 3:53 |
 
-Snapshot ID: `AAAODuLpMM3q2CoUKuN2HprOYh/EVoG8`
+Snapshot ID: `AAAOENXLoY7qwQ8x5JFYOheFcEZvAUbw`

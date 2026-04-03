@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166272,
+  "num_followers": 166277,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 182069,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/06eJJV9q1HieNW8dm9htJt"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Midnight Control (feat. Emily Makis)",
         "url": "https://open.spotify.com/album/6AsIVNHLfL69rCv0WtUX0Y"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 232000,
       "name": "Midnight Control (feat. Emily Makis)",
       "url": "https://open.spotify.com/track/6nSTAGsQTciuqHFNwZ9INM"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 182069,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/06eJJV9q1HieNW8dm9htJt"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1055,6 +1055,42 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "The Speaker",
+        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "The Speaker",
+      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Anti/Thesis: Vol. 2",
+        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "duration_ms": 233083,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Ring Doorbell",
         "url": "https://open.spotify.com/album/0FRunFsZtqZ4TPely2oAWI"
       },
@@ -1111,42 +1147,6 @@
       "duration_ms": 163448,
       "name": "Hibernate",
       "url": "https://open.spotify.com/track/7bUoddlCfcg0BCKVLQB3Pp"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Anti/Thesis: Vol. 2",
-        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
-      },
-      "artists": [
-        {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
-        }
-      ],
-      "duration_ms": 233083,
-      "name": "Grindhouse",
-      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "The Speaker",
-        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "The Speaker",
-      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Disguise",
-        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 193273,
-      "name": "Disguise",
-      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/6c2lgEoa6569HdwpGghy5C"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 210500,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/6ElhC5DxYjhCzhjtrn3GUU"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 193273,
+      "name": "Disguise",
+      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Shrine",
+        "url": "https://open.spotify.com/album/2BMToCcKq1d8NfujdRTKD5"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        },
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Shrine",
+      "url": "https://open.spotify.com/track/4KrJzVt3twq5VFkMFhEr0e"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Scream My Name",
         "url": "https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187"
       },
@@ -1475,22 +1495,6 @@
       "duration_ms": 206774,
       "name": "Scream My Name",
       "url": "https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1515,46 +1519,18 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Shrine",
-        "url": "https://open.spotify.com/album/2BMToCcKq1d8NfujdRTKD5"
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
       },
       "artists": [
         {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        },
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
         }
       ],
-      "duration_ms": 171034,
-      "name": "Shrine",
-      "url": "https://open.spotify.com/track/4KrJzVt3twq5VFkMFhEr0e"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Ravers Anonymous",
-        "url": "https://open.spotify.com/album/7DFEGdQWhJOCLBO5SvvuNd"
-      },
-      "artists": [
-        {
-          "name": "Mandidextrous",
-          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
-        },
-        {
-          "name": "Samurai Breaks",
-          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
-        },
-        {
-          "name": "Leanne Louise",
-          "url": "https://open.spotify.com/artist/7HhwoWGx2DxP9TM33G1Ca8"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Ravers Anonymous",
-      "url": "https://open.spotify.com/track/2KnvHihZGiVbtEqjJzpdR0"
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1599,6 +1575,30 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Ravers Anonymous",
+        "url": "https://open.spotify.com/album/7DFEGdQWhJOCLBO5SvvuNd"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        },
+        {
+          "name": "Samurai Breaks",
+          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
+        },
+        {
+          "name": "Leanne Louise",
+          "url": "https://open.spotify.com/artist/7HhwoWGx2DxP9TM33G1Ca8"
+        }
+      ],
+      "duration_ms": 231529,
+      "name": "Ravers Anonymous",
+      "url": "https://open.spotify.com/track/2KnvHihZGiVbtEqjJzpdR0"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Yard Shop",
         "url": "https://open.spotify.com/album/36O3fPVMKVkIYiKHqIKUws"
       },
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/42jOtzX5KZm8wHNhFT0URx"
+        "name": "Voicenote Violence",
+        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
       },
       "artists": [
         {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
         }
       ],
-      "duration_ms": 193138,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3kRJjCKhIMh72bpoz6PZKr"
+      "duration_ms": 166714,
+      "name": "Voicenote Violence",
+      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "3AM EP",
+        "url": "https://open.spotify.com/album/547NePDWh0BlRwjwR1rbqx"
+      },
+      "artists": [
+        {
+          "name": "Koherent",
+          "url": "https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/1dDJuthIcbYQMkybQFjH5U"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/54JOZGnbDW4l1P1i2UlMju"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 209142,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Voicenote Violence",
-        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 166714,
-      "name": "Voicenote Violence",
-      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1731,38 +1731,18 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "3AM EP",
-        "url": "https://open.spotify.com/album/547NePDWh0BlRwjwR1rbqx"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/42jOtzX5KZm8wHNhFT0URx"
       },
       "artists": [
         {
-          "name": "Koherent",
-          "url": "https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD"
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
         }
       ],
-      "duration_ms": 226000,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/1dDJuthIcbYQMkybQFjH5U"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Losing Control (VIP)",
-        "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Nersha",
-          "url": "https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Losing Control - VIP",
-      "url": "https://open.spotify.com/track/2OR9mJmSrgyJSmkEo9RWFW"
+      "duration_ms": 193138,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3kRJjCKhIMh72bpoz6PZKr"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1799,6 +1779,26 @@
       "duration_ms": 180689,
       "name": "RUN",
       "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Losing Control (VIP)",
+        "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Nersha",
+          "url": "https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Losing Control - VIP",
+      "url": "https://open.spotify.com/track/2OR9mJmSrgyJSmkEo9RWFW"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Bigger Amount",
         "url": "https://open.spotify.com/album/7mv0hUdMKkBMdCdZkIohcL"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 180214,
       "name": "Bigger Amount",
       "url": "https://open.spotify.com/track/748OwMC54EEWkhRDOc3svl"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1919,22 +1919,18 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "247",
-        "url": "https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll"
+        "name": "Posra",
+        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
       },
       "artists": [
         {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
         }
       ],
-      "duration_ms": 182500,
-      "name": "247",
-      "url": "https://open.spotify.com/track/5TbilnxKohBOt8yfwv02Qf"
+      "duration_ms": 205714,
+      "name": "Posra",
+      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1955,18 +1951,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Posra",
-        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
+        "name": "247",
+        "url": "https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll"
       },
       "artists": [
         {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Posra",
-      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
+      "duration_ms": 182500,
+      "name": "247",
+      "url": "https://open.spotify.com/track/5TbilnxKohBOt8yfwv02Qf"
     },
     {
       "added_at": "2026-03-13 00:00:07",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: UZI x Arem Ozguc x Arman Aydin",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: G\u00fcne\u015f ",
   "name": "NKVT",
   "tracks": [
     {
@@ -852,6 +852,24 @@
       "duration_ms": 181923,
       "name": "AKTIV II",
       "url": "https://open.spotify.com/track/0wtiwUuHTOonphD15w39an"
+    },
+    {
+      "album": {
+        "name": "Al Ya Da B\u0131rak",
+        "url": "https://open.spotify.com/album/1FnKISwfJnwyoStARmU4gw"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Al Ya Da B\u0131rak",
+      "url": "https://open.spotify.com/track/0Wjp1U9wiHwJFZLFzUmMLc"
     },
     {
       "album": {
@@ -2361,6 +2379,28 @@
     },
     {
       "album": {
+        "name": "BBS 2.0 (Remix)",
+        "url": "https://open.spotify.com/album/4qIi012XI9LXk0X0p5VtEd"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107317,
+      "name": "BBS 2.0 - Remix",
+      "url": "https://open.spotify.com/track/6011fuKw2cHFX2up320Ppi"
+    },
+    {
+      "album": {
         "name": "Beat Bar #2",
         "url": "https://open.spotify.com/album/5n1dfhumSwNepQaOXm08Ls"
       },
@@ -3485,6 +3525,36 @@
     },
     {
       "album": {
+        "name": "Burda Geceler",
+        "url": "https://open.spotify.com/album/75h898b5efjvyLZIHQ645o"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011frul Bekta\u015f",
+          "url": "https://open.spotify.com/artist/3QQWKCc48eBmxfw5wOrmgN"
+        },
+        {
+          "name": "Kaisa Natron",
+          "url": "https://open.spotify.com/artist/10TZt85jPH91lNe5xGl94e"
+        },
+        {
+          "name": "Cash Flow",
+          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
+        },
+        {
+          "name": "Ortaq",
+          "url": "https://open.spotify.com/artist/43AETbWcdhJJOa9HGTLFkX"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248550,
+      "name": "Burda Geceler",
+      "url": "https://open.spotify.com/track/3D0s0yGRjT72jIk94NRUcQ"
+    },
+    {
+      "album": {
         "name": "B\u00f6l\u00fcm Sonu",
         "url": "https://open.spotify.com/album/4FmJuyC3gwgYdbrcOU4ar0"
       },
@@ -4322,6 +4392,24 @@
       "duration_ms": 207567,
       "name": "Delikans\u0131z",
       "url": "https://open.spotify.com/track/18WYAs0AdHunxZ9Tl37Swp"
+    },
+    {
+      "album": {
+        "name": "Delirsinler",
+        "url": "https://open.spotify.com/album/76J3qk73wSfOtqfO2Ld7sP"
+      },
+      "artists": [
+        {
+          "name": "Burry Soprano",
+          "url": "https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181312,
+      "name": "Delirsinler",
+      "url": "https://open.spotify.com/track/0emwoGQgK2VZfNYNYv1nhS"
     },
     {
       "album": {
@@ -6928,7 +7016,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 116028,
       "name": "Han\u00e7er Keskin",
       "url": "https://open.spotify.com/track/2AWHLkcg7cpAwtFsxadC5B"
@@ -7854,7 +7942,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 92406,
       "name": "IMMIGRANT",
       "url": "https://open.spotify.com/track/7v0EMKurDGtFIaPHbGwYj4"
@@ -8750,7 +8838,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 146000,
       "name": "KAFAMDA TAARUZLAR",
       "url": "https://open.spotify.com/track/2qNvy6faKCVR3mytQsuvDH"
@@ -9646,7 +9734,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 163907,
       "name": "Kimse Kalmayana Kadar",
       "url": "https://open.spotify.com/track/3XiAlMOYsCEf4fkysNpBMX"
@@ -11760,10 +11848,32 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 192666,
       "name": "Miras",
       "url": "https://open.spotify.com/track/2BKA9BSf63A2xqdupnZyoP"
+    },
+    {
+      "album": {
+        "name": "money talks",
+        "url": "https://open.spotify.com/album/70I37Wf6pACQnjjJ3DYKjk"
+      },
+      "artists": [
+        {
+          "name": "Lotusx",
+          "url": "https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD"
+        },
+        {
+          "name": "Yung Ouzo",
+          "url": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131162,
+      "name": "money talks",
+      "url": "https://open.spotify.com/track/6F2Cu6ABAvyrDm4iWd8RHO"
     },
     {
       "album": {
@@ -15476,7 +15586,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 226105,
       "name": "Sirtaki",
       "url": "https://open.spotify.com/track/4NLbzDNhum8ikBME3pXb9e"

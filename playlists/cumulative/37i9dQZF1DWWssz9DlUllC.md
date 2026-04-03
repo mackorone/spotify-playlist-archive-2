@@ -2,9 +2,9 @@
 
 ### [afro\-piano](https://open.spotify.com/playlist/37i9dQZF1DWWssz9DlUllC)
 
-> Where afrobeats meets amapiano.<br/>Cover:  Famous Pluto, Mavo
+> Where afrobeats meets amapiano.<br/>Cover:  Didi B
 
-153 songs - 7 hr 31 min
+154 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Give U](https://open.spotify.com/track/5wjTaDHumqCrhhZVK1ign5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [King Carsley](https://open.spotify.com/artist/7fj63M0dam8Ydp9TUrXrkZ) | [Give U](https://open.spotify.com/album/2mxQrdagZVtcd1RDWJF0fb) | 2:32 | 2025-12-12 | 2026-01-15 |
 | [Gobe](https://open.spotify.com/track/3FOkzNjrTsMePdCdqoxytk) | [Nyarko](https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM), [Toluwa](https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM) | [Gobe](https://open.spotify.com/album/0cjsk6TPjHPGeoJTWxAywU) | 2:54 | 2025-12-19 | 2026-01-15 |
 | [God is working](https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [God is working](https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT) | 2:14 | 2026-02-20 |  |
-| [Gold Digger](https://open.spotify.com/track/02D1c5p1YaBcGHmei9aX3s) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [Introvert Disco](https://open.spotify.com/album/3pHGMyIporBBRCpCU9tAs9) | 3:10 | 2026-03-27 |  |
+| [Gold Digger](https://open.spotify.com/track/02D1c5p1YaBcGHmei9aX3s) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [Introvert Disco](https://open.spotify.com/album/3pHGMyIporBBRCpCU9tAs9) | 3:10 | 2026-03-27 | 2026-04-03 |
 | [Guide](https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Guide](https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q) | 2:07 | 2026-03-16 |  |
 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 | 2025-10-24 |  |
 | [Happy Day](https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Happy Day](https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz) | 2:45 | 2025-10-24 |  |
@@ -78,6 +78,7 @@
 | [If You Leave](https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Love Is Not Enough, Vol\. 2](https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG) | 2:29 | 2025-10-24 |  |
 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 | 2025-10-24 | 2026-01-15 |
 | [In A Mustang ​\(​feat\. Qing Madi​\)](https://open.spotify.com/track/0i7alEmjtOHLQLWmRXbjiH) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 3:15 | 2025-10-24 | 2025-12-05 |
+| [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 | 2026-04-03 |  |
 | [Jembe](https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Jembe / 14DRoad](https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew) | 2:18 | 2026-03-13 |  |
 | [Joy Is Coming](https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Joy Is Coming](https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT) | 3:08 | 2026-03-16 | 2026-03-27 |
 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 | 2025-10-24 |  |

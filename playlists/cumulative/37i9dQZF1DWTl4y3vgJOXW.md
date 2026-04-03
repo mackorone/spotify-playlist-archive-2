@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Victor Wembanyama
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jayson Tatum and Jaylen Brown
 
-896 songs - 1 day 21 hr 39 min
+897 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Hello](https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:35 | 2025-10-17 | 2025-11-08 |
 | [Hello \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:10 | 2021-09-02 | 2023-06-10 |
 | [Hello Baby feat\. Fivio Foreign](https://open.spotify.com/track/3tHm0NnzLiQsaMUkJNcAij) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hello Baby feat\. Fivio Foreign](https://open.spotify.com/album/18JkYWC5jB0R8GuaROnv0R) | 2:58 | 2021-09-02 | 2022-06-25 |
+| [Him](https://open.spotify.com/track/76GaSF8c4ZJG0OSKU015ET) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Him](https://open.spotify.com/album/1vIUKYiqrwHJoyuVnlCRwy) | 2:07 | 2026-03-28 |  |
 | [Hold On](https://open.spotify.com/track/03i4lR6ZZo0214WhmrE8t9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Hold On](https://open.spotify.com/album/6oFeA7Pda0jOC7jVNIAp9k) | 3:09 | 2021-09-02 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/5qDsijQM75KTdv3RtSPx91) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:09 | 2022-06-24 | 2023-03-03 |
 | [HOLLON](https://open.spotify.com/track/6XVkJ1fM7NkjODPYI7QbAM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hollon](https://open.spotify.com/album/1HCjvCCMusvjNzYWW0p60D) | 2:08 | 2024-09-20 | 2025-02-08 |

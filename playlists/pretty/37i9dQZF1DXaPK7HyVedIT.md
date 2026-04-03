@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok, Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,072 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,965 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 55 | [FELL INTO CHAOS](https://open.spotify.com/track/0LQLgIcKx1lv9Wm0EJRMI2) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [TENTH](https://open.spotify.com/album/3PD7Q0S3Dj3M0FqK3eUTFl) | 3:45 |
 | 56 | [Raiz Brasileira](https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Amazone Project](https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64) | 3:50 |
 | 57 | [Club Bizarre](https://open.spotify.com/track/2hhDb4rGCJTigdadpRL30x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq) | [Club Bizarre](https://open.spotify.com/album/5GsgYaGtwa2rvmA7knroD4) | 2:47 |
-| 58 | [Vai Tomando](https://open.spotify.com/track/4MHoo309LAtMRfbWRsagOy) | [Dj Brenno Paixão](https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM), [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1), [Evoxx](https://open.spotify.com/artist/4ARaZW5s4DFmr6kalIPHI6) | [Vai Tomando](https://open.spotify.com/album/06vZ4bNOeoTxFl1y44Quqs) | 2:45 |
+| 58 | [Vai Tomando](https://open.spotify.com/track/4MHoo309LAtMRfbWRsagOy) | [Dj Brenno Paixão](https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM), [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1), [Evoxx](https://open.spotify.com/artist/4ARaZW5s4DFmr6kalIPHI6), [SAM SAM](https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU) | [Vai Tomando](https://open.spotify.com/album/06vZ4bNOeoTxFl1y44Quqs) | 2:45 |
 | 59 | [RITZ](https://open.spotify.com/track/3VMI6UnnxERt2vnRW6SY3U) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [RITZ](https://open.spotify.com/album/4eai8F4RLUMtak4NwX3WzP) | 3:02 |
 | 60 | [All Night Long](https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder Part 1](https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1) | 3:01 |
 | 61 | [Pérola](https://open.spotify.com/track/2Dy6CuCIzRzdoauS7Jvmkx) | [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8), [Falquiat](https://open.spotify.com/artist/03k3Q1KPTCpyj5ehwJoILz), [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Pérola](https://open.spotify.com/album/0nX2PMoHOe2lqwFgxiOFrl) | 4:04 |

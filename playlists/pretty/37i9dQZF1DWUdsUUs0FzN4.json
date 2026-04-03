@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con R\u00d8Z hasta el amanecer ",
-  "num_followers": 24362,
+  "num_followers": 24361,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,26 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
+        "name": "epistolares",
+        "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "www.hotxulito.com",
+      "url": "https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
         "name": "Loco Contigo",
         "url": "https://open.spotify.com/album/6K1zeBOnzT2Yl20rY0vVvp"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 168687,
       "name": "Loco Contigo",
       "url": "https://open.spotify.com/track/1jStUvWUJi2tSbWzZ2IjcS"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
-        "name": "epistolares",
-        "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "www.hotxulito.com",
-      "url": "https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "Confesiones de las que me voy a arrepentir",
-        "url": "https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 160496,
-      "name": "bellaka",
-      "url": "https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 108137,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
+        "name": "Confesiones de las que me voy a arrepentir",
+        "url": "https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 160496,
+      "name": "bellaka",
+      "url": "https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "Shippeo",
-        "url": "https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp"
-      },
-      "artists": [
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Shippeo",
-      "url": "https://open.spotify.com/track/0Fpf1FiEbWfr8rPWmibpLE"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/1R9bScq7ygXuJDEbBvBaBv"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 147453,
       "name": "Sola",
       "url": "https://open.spotify.com/track/185XLbN4M3fs4FrKSXCqHV"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
+        "name": "Shippeo",
+        "url": "https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Shippeo",
+      "url": "https://open.spotify.com/track/0Fpf1FiEbWfr8rPWmibpLE"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "HOTCORE",
-        "url": "https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "N\u00c3O TEM FIN (garota fav)",
-      "url": "https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
         "name": "LLORAR!",
         "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 107200,
       "name": "LLORAR!",
       "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
+        "name": "HOTCORE",
+        "url": "https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "N\u00c3O TEM FIN (garota fav)",
+      "url": "https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
-        "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "matt",
-          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
-      "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
         "name": "Canciones de Don",
         "url": "https://open.spotify.com/album/0S6czlAGW5ByZaUEKCKVzz"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 164000,
       "name": "Canciones de Don",
       "url": "https://open.spotify.com/track/578E0MbbgdwDuUTqpWbeOD"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
+        "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+        "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+      "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
     },
     {
       "added_at": "2026-03-14 00:00:10",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-03-14 00:00:10",
       "album": {
-        "name": "GRANADA",
-        "url": "https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        }
-      ],
-      "duration_ms": 139136,
-      "name": "GRANADA",
-      "url": "https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP"
-    },
-    {
-      "added_at": "2026-03-14 00:00:10",
-      "album": {
         "name": "bi333n",
         "url": "https://open.spotify.com/album/2AqdCoRqdTKY6ktlALb2Pe"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 196000,
       "name": "bi333n",
       "url": "https://open.spotify.com/track/0DKhZC4VISPMkvP3zt8qj4"
+    },
+    {
+      "added_at": "2026-03-14 00:00:10",
+      "album": {
+        "name": "GRANADA",
+        "url": "https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "duration_ms": 139136,
+      "name": "GRANADA",
+      "url": "https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP"
     },
     {
       "added_at": "2026-03-14 00:00:10",

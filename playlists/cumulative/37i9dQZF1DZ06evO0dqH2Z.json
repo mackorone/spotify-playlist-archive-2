@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/7cK2pTXJcIC0j12IqTSip2"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210053,
+      "name": "BREEZER",
+      "url": "https://open.spotify.com/track/3TyqHPSgVkKw5xgJZeMYGP"
+    },
+    {
+      "album": {
         "name": "BREEZER",
         "url": "https://open.spotify.com/album/2k2psBhAe8axMkYqTF2Zqe"
       },
@@ -110,7 +128,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 210053,
       "name": "BREEZER",
       "url": "https://open.spotify.com/track/6j1YdYhhKDfFrqWigpZ3Rk"
@@ -546,10 +564,28 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 149558,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/3rNePDz5uV8FGnpuuq63RO"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/7cK2pTXJcIC0j12IqTSip2"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149558,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4GqHGnx1MqL8z1KyTIIwW4"
     },
     {
       "album": {
@@ -589,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/7cK2pTXJcIC0j12IqTSip2"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181917,
+      "name": "Head is Like a Sinking Stone",
+      "url": "https://open.spotify.com/track/30Pxw2FRtrgqxJLb5wEKmR"
+    },
+    {
+      "album": {
         "name": "Head is Like a Sinking Stone",
         "url": "https://open.spotify.com/album/4lAubtmnVN8iSY5NNpitkb"
       },
@@ -600,7 +654,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 181917,
       "name": "Head is Like a Sinking Stone",
       "url": "https://open.spotify.com/track/6pqJsAWUp2QkZxefJebpiU"
@@ -928,7 +982,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 238737,
       "name": "Light Leaks Through",
       "url": "https://open.spotify.com/track/1HWnj7CPEHceos4lobq6eL"
@@ -964,7 +1018,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 211534,
       "name": "Lost on You",
       "url": "https://open.spotify.com/track/0ksbPqk2TDaiGmFfICxxNk"
@@ -1198,7 +1252,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 217371,
       "name": "Primary Colors",
       "url": "https://open.spotify.com/track/77xbIliiMGEoAOSFaREtnr"

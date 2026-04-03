@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: RnBoi",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: TRIANGLE DES BERMUDES",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1712,6 +1712,40 @@
       "duration_ms": 193401,
       "name": "Balade",
       "url": "https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5"
+    },
+    {
+      "album": {
+        "name": "404",
+        "url": "https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "MC YOSHI",
+          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Balek",
+      "url": "https://open.spotify.com/track/6FyIByL10DzsD0xMKsa4hL"
     },
     {
       "album": {
@@ -11258,7 +11292,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 142012,
       "name": "Mode Avion",
       "url": "https://open.spotify.com/track/49CGlc4laVFyI6VTcHioal"
@@ -14278,7 +14312,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 155973,
       "name": "Pression",
       "url": "https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS"
@@ -18912,6 +18946,28 @@
       "duration_ms": 175506,
       "name": "\u00c0 distance - Chokololo",
       "url": "https://open.spotify.com/track/3UFIY9Jv7OdPvqRkzwEfOJ"
+    },
+    {
+      "album": {
+        "name": "\u00c0 la base",
+        "url": "https://open.spotify.com/album/5OPIWUXLwNq1rhYv9129qe"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131578,
+      "name": "\u00c0 la base",
+      "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"
     },
     {
       "album": {

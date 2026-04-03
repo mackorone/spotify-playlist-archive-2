@@ -978,10 +978,36 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 196472,
       "name": "I Can't Lose (feat. Keyone Starr)",
       "url": "https://open.spotify.com/track/2VNSUMHI1R3B6wVV8P7ZlG"
+    },
+    {
+      "album": {
+        "name": "I Can't Lose (Remixes) - EP (feat. Keyone Starr)",
+        "url": "https://open.spotify.com/album/10phTZBGPXX4z9RPOoeXNM"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Keyone Starr",
+          "url": "https://open.spotify.com/artist/5aNSfdgygtKXXyFAwqyASY"
+        },
+        {
+          "name": "Pomo",
+          "url": "https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "I Can't Lose (feat. Keyone Starr) - Pomo Remix",
+      "url": "https://open.spotify.com/track/52yAJNEvLjD5wRMnSDa3na"
     },
     {
       "album": {

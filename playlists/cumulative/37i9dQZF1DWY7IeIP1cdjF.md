@@ -4,7 +4,7 @@
 
 > Reggaeton hits from Feid, Omar Courtz , Bad Gyal, Ozuna, Bad Bunny and more\. 🔥🍑
 
-727 songs - 1 day 15 hr 42 min
+728 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Bugatti](https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Bugatti](https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j) | 2:50 | 2025-05-09 | 2025-06-07 |
 | [BYAK](https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [BYAK](https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5) | 3:36 | 2024-03-29 | 2024-06-29 |
 | [BYONCE](https://open.spotify.com/track/4Uf3qct71nYsNivPLFK3pZ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [BYONCE](https://open.spotify.com/album/0ksDLflW5ukV4g2kruaktp) | 2:19 | 2025-08-22 | 2025-11-21 |
+| [Caducaste](https://open.spotify.com/track/3k0au8hNwghIrLsfpP2W4z) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Caducaste](https://open.spotify.com/album/5um6GIoA0TejDR97zILaDG) | 3:34 | 2026-03-28 |  |
 | [Cafe Malibú](https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Cafe Malibú](https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n) | 4:20 | 2023-07-21 | 2023-09-16 |
 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2022-08-19 | 2023-01-28 |
 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 | 2022-11-13 | 2023-04-29 |

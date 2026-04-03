@@ -4,7 +4,7 @@
 
 > summer isn't over yet  ☀️🐬✨
 
-1,671 songs - 3 day 16 hr 4 min
+1,672 songs - 3 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2022-08-23 | 2025-01-08 |
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2022-10-10 | 2025-01-08 |
 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 | 2022-11-01 | 2025-01-08 |
+| [Ibbe's Song \(From the Netflix Series 'Love is Blind Sweden'\)](https://open.spotify.com/track/57NM4YDUlt4DzAONf7WbNM) | [ANIELA](https://open.spotify.com/artist/7jL4XNfIkjSR92sLxWizVs) | [Ibbe's Song \(From the Netflix Series 'Love is Blind Sweden'\)](https://open.spotify.com/album/6ZYuyWCci1h3jbG3BoxyWB) | 2:40 | 2026-04-02 |  |
 | [IBTC](https://open.spotify.com/track/4HAonty9m9FAvorRkSAiof) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [IBTC](https://open.spotify.com/album/7JG6V3mLxuQX0mPJlI6Kie) | 2:23 | 2022-09-29 | 2023-01-06 |
 | [Icee Pop](https://open.spotify.com/track/1QNdG7tfPqNuFEwWMeKmHo) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/73iRICGVlJyyYbXcUBC3eI) | 2:27 | 2023-10-19 | 2024-04-05 |
 | [Icee Pop](https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7) | 2:27 | 2022-05-19 | 2025-01-08 |

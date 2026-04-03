@@ -1810,6 +1810,24 @@
     {
       "album": {
         "name": "Bouquet",
+        "url": "https://open.spotify.com/album/0zS093L9kzNadSjy9fjTHL"
+      },
+      "artists": [
+        {
+          "name": "NELKE",
+          "url": "https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/05ye2p3KzCb5U3yO0pm2Df"
+    },
+    {
+      "album": {
+        "name": "Bouquet",
         "url": "https://open.spotify.com/album/6U8sNsAGPjgAJnBlupCq7P"
       },
       "artists": [
@@ -14378,7 +14396,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 235635,
       "name": "\u304d\u3089\u3081\u304d\u3060\u3063\u305f",
       "url": "https://open.spotify.com/track/2Y3n8cbfyRJoRiNT0Jcgcp"
@@ -26073,6 +26091,24 @@
     },
     {
       "album": {
+        "name": "\u652f\u5ea6",
+        "url": "https://open.spotify.com/album/5A2uG8Hgx77f1BgnWrcYIn"
+      },
+      "artists": [
+        {
+          "name": "\u7d42\u65e5\u67c4",
+          "url": "https://open.spotify.com/artist/6GB4djlOOFXCLvTgVeBIG9"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "\u652f\u5ea6",
+      "url": "https://open.spotify.com/track/6kmV4Vs6XA03gHC8U9Pfpi"
+    },
+    {
+      "album": {
         "name": "\u6551\u3063\u3066\u304f\u308c\u306a\u3044",
         "url": "https://open.spotify.com/album/2ElJgyNxdoel8LgOfyJALQ"
       },
@@ -30326,7 +30362,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 249000,
       "name": "\u9752\u304f\u3001\u6625",
       "url": "https://open.spotify.com/track/6OjaQTLVAIgr5mTEQaDDj9"

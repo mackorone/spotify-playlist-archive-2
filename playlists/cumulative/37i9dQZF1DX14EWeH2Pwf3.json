@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Madame in cover della playlist urban pi\u00f9 grande d'Italia \ud83e\udd1d\ud83c\udffb",
+  "description": "Nerissima in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udc0d",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 176838,
       "name": "1 MOMENTO (feat. ANNA)",
       "url": "https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG"
@@ -1868,6 +1868,24 @@
       "duration_ms": 158624,
       "name": "Apparecchiato (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
+    },
+    {
+      "album": {
+        "name": "AQVA SANTA",
+        "url": "https://open.spotify.com/album/3hnGh0VDt0GSZTyGVN8EoV"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165816,
+      "name": "AQVA SANTA",
+      "url": "https://open.spotify.com/track/4P85wbwevCNm0F481nhTh3"
     },
     {
       "album": {
@@ -5487,6 +5505,40 @@
     },
     {
       "album": {
+        "name": "NO REGULAR MUSIC 2.5",
+        "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Latrelle",
+          "url": "https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "con te (feat. prima stanza a destra, Massimo Pericolo, Latrelle)",
+      "url": "https://open.spotify.com/track/1Hfie3sTj3PmHVvErUzq0V"
+    },
+    {
+      "album": {
         "name": "Confidenziale",
         "url": "https://open.spotify.com/album/6GnvWjFLtGlBw11OWAXQZ1"
       },
@@ -7467,6 +7519,28 @@
     },
     {
       "album": {
+        "name": "Femmina",
+        "url": "https://open.spotify.com/album/5iIq1lkDoEn2PauUyY6gf6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170816,
+      "name": "Femmina",
+      "url": "https://open.spotify.com/track/1zWyRMaIb2NqfCJMJBsfpf"
+    },
+    {
+      "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
       },
@@ -8618,6 +8692,24 @@
       "duration_ms": 152306,
       "name": "giovani e svegli #147 (feat. LILCR)",
       "url": "https://open.spotify.com/track/33KFWLWKqxLzWVIyFzoAG7"
+    },
+    {
+      "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168342,
+      "name": "Giovani Re",
+      "url": "https://open.spotify.com/track/1YxG9XcjtJgxTN6OenRh1V"
     },
     {
       "album": {
@@ -13048,7 +13140,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 121904,
       "name": "MODALIT\u00c0 DARK",
       "url": "https://open.spotify.com/track/2HnE0Q1fnanFPgM5NvQuS2"
@@ -20450,7 +20542,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 164598,
       "name": "Take 6",
       "url": "https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF"
@@ -22752,7 +22844,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 168000,
       "name": "ZAINO GUCCI",
       "url": "https://open.spotify.com/track/2prQiacFHWgk5TCigkAyv4"

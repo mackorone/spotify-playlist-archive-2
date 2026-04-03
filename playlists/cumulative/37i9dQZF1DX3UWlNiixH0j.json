@@ -48885,6 +48885,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u900f\u660e\u900f\u660e\u4eba\u9593",
+        "url": "https://open.spotify.com/album/2lT98bl11Is4NqzR886npC"
+      },
+      "artists": [
+        {
+          "name": "yeti let you notice",
+          "url": "https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187858,
+      "name": "\u4e0d\u900f\u660e\u900f\u660e\u4eba\u9593",
+      "url": "https://open.spotify.com/track/2hsswGHPb82IR8ZMC8ZM1G"
+    },
+    {
+      "album": {
         "name": "WATASHIBOSHI",
         "url": "https://open.spotify.com/album/3umtn8uo1dxKM7hQPsDQyx"
       },
@@ -58540,24 +58558,6 @@
       "duration_ms": 197909,
       "name": "\u900f\u660e\u306a\u306c\u304f\u3082\u308a",
       "url": "https://open.spotify.com/track/2U1dmHyEEcdjPoLXg06tAV"
-    },
-    {
-      "album": {
-        "name": "\u900f\u660e\u4e0d\u900f\u660e\u4eba\u9593",
-        "url": "https://open.spotify.com/album/2lT98bl11Is4NqzR886npC"
-      },
-      "artists": [
-        {
-          "name": "yeti let you notice",
-          "url": "https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA"
-        }
-      ],
-      "date_added": "2026-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187858,
-      "name": "\u900f\u660e\u4e0d\u900f\u660e\u4eba\u9593",
-      "url": "https://open.spotify.com/track/2hsswGHPb82IR8ZMC8ZM1G"
     },
     {
       "album": {

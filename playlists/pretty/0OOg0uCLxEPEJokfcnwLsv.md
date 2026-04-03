@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 856 likes - 110 songs - 6 hr 44 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 853 likes - 114 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,5 +118,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 108 | [Heart Don't Beat No Fear](https://open.spotify.com/track/5pmLY4W35dyS7VvUpoBtHM) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Heart Don't Beat No Fear](https://open.spotify.com/album/3cP2lWFVTlDHhqtWQN12Zl) | 3:08 |
 | 109 | [Season 2](https://open.spotify.com/track/3E3HFi5uwVHOv7R37gzHuu) | [Tenkila](https://open.spotify.com/artist/5SnRmKiQScFAV0ScEVdRM0) | [Season 2](https://open.spotify.com/album/3PRuwaXPbL17pqH1OnpNke) | 3:44 |
 | 110 | [Hazy](https://open.spotify.com/track/2GtqGAGqCfZbgjn9jC1OqO) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Hazy](https://open.spotify.com/album/3t9hfg84AKwgF8KA0T4K5w) | 2:45 |
+| 111 | [Light in the Darkness](https://open.spotify.com/track/4469akQ3sJ0BL8LO92RNmL) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Light in the Darkness](https://open.spotify.com/album/31cciFSZKFdJmpoYXIFFMi) | 3:59 |
+| 112 | [Wings to go back](https://open.spotify.com/track/6Xn61zWFMyCP6U8977UTXM) | [SOAVE](https://open.spotify.com/artist/67OEL9vCpXIheb7L9WpPCG) | [Wings to go back](https://open.spotify.com/album/59zHfQ01fPeXk15jkFSG4G) | 3:53 |
+| 113 | [Something About You](https://open.spotify.com/track/1W2eU1ISQAJkjiIgb9e9va) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Love Hotel](https://open.spotify.com/album/62Bxt91D7ef7SJKnHZ0BxM) | 3:19 |
+| 114 | [Happiness and Being Smart](https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:09 |
 
-Snapshot ID: `AAAFmVs/SOu2Synz4ke1QQCRh+voQdlW`
+Snapshot ID: `AAAFnRvwQqXOXiBBQFn7xxbsqQ/WA/4N`

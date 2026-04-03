@@ -7232,7 +7232,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 327863,
       "name": "there is beauty when you allow yourself to see",
       "url": "https://open.spotify.com/track/73BtAeBHPCA1IMGoVPXEHN"
@@ -7420,6 +7420,24 @@
       "duration_ms": 201547,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/5957QAtuz2zqkvRHowniT8"
+    },
+    {
+      "album": {
+        "name": "Flugmodus / Traumtaenzer",
+        "url": "https://open.spotify.com/album/5lbJnjRuSUOZeBx9E4SCwv"
+      },
+      "artists": [
+        {
+          "name": "Matthias Vogt",
+          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284109,
+      "name": "Traumtaenzer",
+      "url": "https://open.spotify.com/track/2RfdewuGu5FSfAZAWBugax"
     },
     {
       "album": {

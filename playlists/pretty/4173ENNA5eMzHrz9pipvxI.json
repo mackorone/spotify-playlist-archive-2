@@ -1,13 +1,37 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Valentino Khan &amp; No/Me",
-  "num_followers": 118478,
+  "num_followers": 118474,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAg6j1etZidao4v8QOnQiQuNT8NUBZb",
+  "snapshot_id": "AAAg76DBAPnPmqJsG2R2lxBjoaV5K18q",
   "tracks": [
+    {
+      "added_at": "2026-04-02 22:00:01",
+      "album": {
+        "name": "This Ain't Love",
+        "url": "https://open.spotify.com/album/12V6TWwLZOGaUWnHn8sLzG"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        },
+        {
+          "name": "George Reid",
+          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "This Ain't Love",
+      "url": "https://open.spotify.com/track/7aNnRM4mWrBdauDAwkEf5j"
+    },
     {
       "added_at": "2026-03-26 23:00:14",
       "album": {
@@ -27,6 +51,74 @@
       "duration_ms": 160601,
       "name": "Not A Place (feat. Oaks)",
       "url": "https://open.spotify.com/track/0M4PMD5RpCgtCt7sWffJbh"
+    },
+    {
+      "added_at": "2026-04-02 16:18:23",
+      "album": {
+        "name": "Garage Do Brasil",
+        "url": "https://open.spotify.com/album/4CywzsvDHrlPfXzFG2mTfW"
+      },
+      "artists": [
+        {
+          "name": "Damian Clarke",
+          "url": "https://open.spotify.com/artist/76vfiinPOoRvOVOJOVQThQ"
+        },
+        {
+          "name": "Nick Selter",
+          "url": "https://open.spotify.com/artist/117oVt9fhuJ4M0IlJwin2U"
+        }
+      ],
+      "duration_ms": 171857,
+      "name": "Garage Do Brasil",
+      "url": "https://open.spotify.com/track/16WvSVD1h7LZ7ogJw9UWTb"
+    },
+    {
+      "added_at": "2026-04-02 16:18:24",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/5ZEtRGpaiwtL5QnqN3Je98"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/2ovZAk5eRSGmG6Bxx0cDN7"
+    },
+    {
+      "added_at": "2026-04-02 16:18:25",
+      "album": {
+        "name": "Desert Eagle - Oud and Roll",
+        "url": "https://open.spotify.com/album/7BwW4L29b1T0ECxxA1DwBm"
+      },
+      "artists": [
+        {
+          "name": "OTIOT",
+          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
+        }
+      ],
+      "duration_ms": 265833,
+      "name": "Desert Eagle",
+      "url": "https://open.spotify.com/track/6yO0dfklsvVLs729HyYEg8"
+    },
+    {
+      "added_at": "2026-04-02 16:18:27",
+      "album": {
+        "name": "Desert Eagle - Oud and Roll",
+        "url": "https://open.spotify.com/album/7BwW4L29b1T0ECxxA1DwBm"
+      },
+      "artists": [
+        {
+          "name": "OTIOT",
+          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
+        }
+      ],
+      "duration_ms": 300595,
+      "name": "Oud and Roll",
+      "url": "https://open.spotify.com/track/4B4OK2yW6Hwv35xgrvEyH6"
     },
     {
       "added_at": "2026-03-19 23:00:14",

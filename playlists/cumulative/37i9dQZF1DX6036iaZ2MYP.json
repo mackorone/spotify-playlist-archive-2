@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  Fally Ipupa",
+  "description": "Tracks popping off in the Afro scene. Cover:  OMAH LAY",
   "name": "Afro Station",
   "tracks": [
     {
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 133743,
       "name": "Baby (feat. Minz)",
       "url": "https://open.spotify.com/track/6YQgFBhoO8y1GZUX8imNgL"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 160800,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
@@ -2444,6 +2444,24 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "album": {
+        "name": "Bandit chef",
+        "url": "https://open.spotify.com/album/42L6uuqhDyV6LVNsm42rWi"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "Bandit chef",
+      "url": "https://open.spotify.com/track/44A6TlpNKN3uuXfi2tdjnd"
     },
     {
       "album": {
@@ -6625,6 +6643,28 @@
     },
     {
       "album": {
+        "name": "DOUCEMENT",
+        "url": "https://open.spotify.com/album/6R0dOwLtxYDVaaovcpQNDB"
+      },
+      "artists": [
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172913,
+      "name": "DOUCEMENT",
+      "url": "https://open.spotify.com/track/5btmfx5sNRsrcoIes2gmHu"
+    },
+    {
+      "album": {
         "name": "Down Flat",
         "url": "https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV"
       },
@@ -9312,7 +9352,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 165415,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
@@ -9625,6 +9665,24 @@
     },
     {
       "album": {
+        "name": "High Me",
+        "url": "https://open.spotify.com/album/0DSCm5nfKpvciXozrAtMe2"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "High Me",
+      "url": "https://open.spotify.com/track/4IYmtaYuTItLD9a1CHgy8C"
+    },
+    {
+      "album": {
         "name": "HIGH STAR",
         "url": "https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95"
       },
@@ -9894,6 +9952,24 @@
       "duration_ms": 125142,
       "name": "H\u00e9lico",
       "url": "https://open.spotify.com/track/2BxIJsyjud3N1lC0JqP2lS"
+    },
+    {
+      "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192419,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
     },
     {
       "album": {
@@ -10804,6 +10880,32 @@
       "duration_ms": 172800,
       "name": "Jay Jay",
       "url": "https://open.spotify.com/track/1QkUnVCGx3ghx0WG8XO4J7"
+    },
+    {
+      "album": {
+        "name": "Je m'appelle",
+        "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243253,
+      "name": "Je m'appelle",
+      "url": "https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV"
     },
     {
       "album": {
@@ -15838,7 +15940,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 149613,
       "name": "N\u00c9ON ROUGE",
       "url": "https://open.spotify.com/track/0z7mcN9vpUG9CWLY7QnWIK"
@@ -16200,7 +16302,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 156428,
       "name": "Omo",
       "url": "https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq"
@@ -16646,7 +16748,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 140689,
       "name": "OPPS",
       "url": "https://open.spotify.com/track/4F4uhw5w3awax9gr6oiw37"
@@ -17040,7 +17142,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 141688,
       "name": "Paro",
       "url": "https://open.spotify.com/track/38CL4JpgSr6wRCzEUPC9PQ"
@@ -17414,6 +17516,24 @@
       "duration_ms": 202861,
       "name": "Phenomena",
       "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
+    },
+    {
+      "album": {
+        "name": "Phony",
+        "url": "https://open.spotify.com/album/5rYGaTEsuw5HzbvhgguHLx"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Phony",
+      "url": "https://open.spotify.com/track/7nrJHvsmJqtN6Ue41GJX88"
     },
     {
       "album": {
@@ -21621,6 +21741,42 @@
     },
     {
       "album": {
+        "name": "For All The Right Reasons Vol. 1",
+        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"
+    },
+    {
+      "album": {
+        "name": "Bye bye delali",
+        "url": "https://open.spotify.com/album/4KLbbqc9VlbeteFLw9bFKp"
+      },
+      "artists": [
+        {
+          "name": "Nassi",
+          "url": "https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/7cKWe1vy5xWWQv8v68ZUE5"
+    },
+    {
+      "album": {
         "name": "Love Deeply...",
         "url": "https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS"
       },
@@ -21924,7 +22080,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 169299,
       "name": "Tumo Weto",
       "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
@@ -22621,6 +22777,28 @@
     },
     {
       "album": {
+        "name": "WEATHER FOR 2",
+        "url": "https://open.spotify.com/album/6NxHxVF09p78d9qBXFvJyX"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "WEATHER FOR 2",
+      "url": "https://open.spotify.com/track/56qLZovBjCLJUBlGv1gER8"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/0SF9gASNP6MBckLTkqkP8T"
       },
@@ -23084,7 +23262,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 181176,
       "name": "YANGO (feat. Emma'a)",
       "url": "https://open.spotify.com/track/48EniEZSy7BSUdMvWMDWAI"

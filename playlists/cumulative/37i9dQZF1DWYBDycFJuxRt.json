@@ -70853,6 +70853,28 @@
     },
     {
       "album": {
+        "name": "HOME BASS",
+        "url": "https://open.spotify.com/album/0v7ZJMI1L20sJPJi988bDB"
+      },
+      "artists": [
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189609,
+      "name": "HOME BASS",
+      "url": "https://open.spotify.com/track/5XZTBOeIjHKfTTvgWJPadX"
+    },
+    {
+      "album": {
         "name": "Home Is Where The Hurt Is",
         "url": "https://open.spotify.com/album/2ibB2OyjmvKTmOOo2GgORh"
       },
@@ -226949,6 +226971,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u900f\u660e\u900f\u660e\u4eba\u9593",
+        "url": "https://open.spotify.com/album/2lT98bl11Is4NqzR886npC"
+      },
+      "artists": [
+        {
+          "name": "yeti let you notice",
+          "url": "https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187858,
+      "name": "\u4e0d\u900f\u660e\u900f\u660e\u4eba\u9593",
+      "url": "https://open.spotify.com/track/2hsswGHPb82IR8ZMC8ZM1G"
+    },
+    {
+      "album": {
         "name": "WATASHIBOSHI",
         "url": "https://open.spotify.com/album/3umtn8uo1dxKM7hQPsDQyx"
       },
@@ -266654,24 +266694,6 @@
       "duration_ms": 237205,
       "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a) - Kan Sano Remix",
       "url": "https://open.spotify.com/track/1siasGbYxYkN9PXZvNGTWS"
-    },
-    {
-      "album": {
-        "name": "\u900f\u660e\u4e0d\u900f\u660e\u4eba\u9593",
-        "url": "https://open.spotify.com/album/2lT98bl11Is4NqzR886npC"
-      },
-      "artists": [
-        {
-          "name": "yeti let you notice",
-          "url": "https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA"
-        }
-      ],
-      "date_added": "2026-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187858,
-      "name": "\u900f\u660e\u4e0d\u900f\u660e\u4eba\u9593",
-      "url": "https://open.spotify.com/track/2hsswGHPb82IR8ZMC8ZM1G"
     },
     {
       "album": {

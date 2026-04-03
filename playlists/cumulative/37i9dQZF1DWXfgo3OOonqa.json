@@ -550,7 +550,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 115620,
       "name": "2 GUNS UPP SOM JUL",
       "url": "https://open.spotify.com/track/0TwQ0wgj8AdeaEdwDq3h30"
@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 110322,
       "name": "BANDS (S.O.S)",
       "url": "https://open.spotify.com/track/1qn84bFcVsrolDQUS0SkiA"
@@ -7511,6 +7511,24 @@
     },
     {
       "album": {
+        "name": "Caia",
+        "url": "https://open.spotify.com/album/13glpS7RVrARLCaOIuWT7X"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Caia",
+      "url": "https://open.spotify.com/track/6Ln0WtKw0wD4i1R5i8YPCB"
+    },
+    {
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R"
       },
@@ -7772,6 +7790,24 @@
       "duration_ms": 160658,
       "name": "Caramella",
       "url": "https://open.spotify.com/track/1xiDfu6qVAfkDQkVV1LxOM"
+    },
+    {
+      "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/3KcFigCkWoZJ7UOkOyYIdo"
+      },
+      "artists": [
+        {
+          "name": "Seedy",
+          "url": "https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142819,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/2o1uHXcKPrUgzWMCCwrb44"
     },
     {
       "album": {
@@ -13282,7 +13318,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 160384,
       "name": "Fartblind",
       "url": "https://open.spotify.com/track/73lRWTNMfe0cZ8txMwI9ze"
@@ -20203,6 +20239,32 @@
     },
     {
       "album": {
+        "name": "Jag & Du",
+        "url": "https://open.spotify.com/album/2fYj014bCxVfVQmSf6nPUE"
+      },
+      "artists": [
+        {
+          "name": "ROMANOS",
+          "url": "https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV"
+        },
+        {
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
+        },
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129230,
+      "name": "Jag & Du",
+      "url": "https://open.spotify.com/track/5TWaVJ43j0saiCIrlYJdPe"
+    },
+    {
+      "album": {
         "name": "Jag Antar",
         "url": "https://open.spotify.com/album/6qqwuJu7WmMUvfW0tzVgdi"
       },
@@ -22438,6 +22500,28 @@
       "duration_ms": 148800,
       "name": "K\u00e4nneru Love",
       "url": "https://open.spotify.com/track/7iiEkSC0LYK8Jn6coDpHal"
+    },
+    {
+      "album": {
+        "name": "K\u00c4NSLAN",
+        "url": "https://open.spotify.com/album/2dRx6VJ0xtVIIhXY8rmRZz"
+      },
+      "artists": [
+        {
+          "name": "Juniior",
+          "url": "https://open.spotify.com/artist/2iB4oRsEnWjBqolEm67uPR"
+        },
+        {
+          "name": "BeatsBySindri",
+          "url": "https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "K\u00c4NSLAN",
+      "url": "https://open.spotify.com/track/2sbu0gEoYmN8EzFl6JAyZo"
     },
     {
       "album": {
@@ -24742,7 +24826,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 138852,
       "name": "l\u00e5ga",
       "url": "https://open.spotify.com/track/7es9iv9YMsxztdD7aja93s"
@@ -28173,6 +28257,28 @@
     },
     {
       "album": {
+        "name": "Moulaga",
+        "url": "https://open.spotify.com/album/1m8umBEFi2R3Xy9P8BxeuA"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        },
+        {
+          "name": "adreyndabeat",
+          "url": "https://open.spotify.com/artist/6aBcwZ6WcoxAhWPVD9Nzsi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Moulaga",
+      "url": "https://open.spotify.com/track/4VnV1BUo4fU3QEa3gP7oU4"
+    },
+    {
+      "album": {
         "name": "MOVE",
         "url": "https://open.spotify.com/album/0YLCKDvhncR4BeXNM1YAXz"
       },
@@ -28682,7 +28788,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 147871,
       "name": "NEED 4 SPEED",
       "url": "https://open.spotify.com/track/0DhMaTtLqIsytd6JnA3RTn"
@@ -31627,6 +31733,24 @@
     },
     {
       "album": {
+        "name": "Poem",
+        "url": "https://open.spotify.com/album/6USr5l4NmWZB3uINXSIZcS"
+      },
+      "artists": [
+        {
+          "name": "2M",
+          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120022,
+      "name": "Poem",
+      "url": "https://open.spotify.com/track/6loQe7ninRFMrp4DCyiuup"
+    },
+    {
+      "album": {
         "name": "Poezin E Djup",
         "url": "https://open.spotify.com/album/2ZeXdUIK2GtxHkM2mLpU1a"
       },
@@ -34324,7 +34448,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 150638,
       "name": "Se Mig",
       "url": "https://open.spotify.com/track/6dPxsq7Pd9dEBtYq4QaznU"
@@ -36210,7 +36334,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 145727,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2nit19fwNrXnK5yM63c8oN"
@@ -37838,6 +37962,28 @@
       "duration_ms": 195223,
       "name": "Swervin",
       "url": "https://open.spotify.com/track/52DaVto2mC1WRYvqzv1XUQ"
+    },
+    {
+      "album": {
+        "name": "SWG",
+        "url": "https://open.spotify.com/album/2qfo3J2LAqsRmLsDoq51uI"
+      },
+      "artists": [
+        {
+          "name": "Saikz",
+          "url": "https://open.spotify.com/artist/3YAxYI6L8lRRh1eYqDMd4A"
+        },
+        {
+          "name": "Lacco",
+          "url": "https://open.spotify.com/artist/6oQlEufFbktdsqLKtANveL"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "SWG",
+      "url": "https://open.spotify.com/track/0yxuY8iBQJ1F5FUdgdHiYP"
     },
     {
       "album": {
@@ -41226,7 +41372,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 143228,
       "name": "Uppoffringar",
       "url": "https://open.spotify.com/track/6IrDsxJQb7VyYkEooUWrm9"
@@ -43221,6 +43367,24 @@
     },
     {
       "album": {
+        "name": "Welcome To The Party",
+        "url": "https://open.spotify.com/album/40nWQD3iNnPNf8KOd1snMi"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Welcome To The Party",
+      "url": "https://open.spotify.com/track/34wyy1ClzFYhce4rgKnNcd"
+    },
+    {
+      "album": {
         "name": "Bland Sagor & Vapen",
         "url": "https://open.spotify.com/album/6VoZyWhn7NUEFm9nn3qtFu"
       },
@@ -44788,6 +44952,24 @@
       "duration_ms": 199213,
       "name": "\u00d6ppet Hav (feat. Sandra Isabel)",
       "url": "https://open.spotify.com/track/5UJmZgbI0jAEbNj6TzEiPk"
+    },
+    {
+      "album": {
+        "name": "\u00d6STRA",
+        "url": "https://open.spotify.com/album/7dYuqwWYifxXEWrvm3ik1s"
+      },
+      "artists": [
+        {
+          "name": "SH1",
+          "url": "https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "\u00d6STRA",
+      "url": "https://open.spotify.com/track/6ZbdSjbu0IZ8kodkwrD2ct"
     },
     {
       "album": {

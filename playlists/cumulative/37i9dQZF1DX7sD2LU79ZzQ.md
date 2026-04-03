@@ -2,9 +2,9 @@
 
 ### [Naik Daun](https://open.spotify.com/playlist/37i9dQZF1DX7sD2LU79ZzQ)
 
-> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Naufal Syachreza
+> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Noni
 
-1,434 songs - 3 day 19 hr 34 min
+1,439 songs - 3 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Bernafaslah Sejenak](https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Bernafaslah Sejenak](https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS) | 4:28 | 2024-01-18 | 2024-02-16 |
 | [Bernaung \- From "Setetes Embun Cinta Niyala"](https://open.spotify.com/track/16Q9MOCDYgrgjEHx6Hx2rv) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Bernaung \(From "Setetes Embun Cinta Niyala"\)](https://open.spotify.com/album/753bObZFRMHb4cDlHtpzwz) | 3:18 | 2025-03-20 | 2025-04-25 |
 | [Bersabarlah](https://open.spotify.com/track/4eczUTGfhSCIkBPt1Cuk7I) | [Indra Sinaga](https://open.spotify.com/artist/2abJPNlO0AZ5rxcKas2hOw) | [Bersabarlah](https://open.spotify.com/album/7AVJEfkv1oyajgJQkwhqwJ) | 4:30 | 2024-06-27 | 2024-07-19 |
+| [Bersaing Dengan Masa Lalu](https://open.spotify.com/track/0njcft5RtJNo69lkDOzOFr) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [Bersaing Dengan Masa Lalu](https://open.spotify.com/album/3gR28fJIozTDlTdl55n5zs) | 3:26 | 2026-04-02 |  |
 | [Bersalah](https://open.spotify.com/track/6WV2LkAwhDMH0znwXXYq5R) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Bersalah](https://open.spotify.com/album/77yBhiIJHtsczrZV8M7wCq) | 4:27 | 2024-05-16 | 2024-06-07 |
 | [Bersamaku Akan Sedikit Susah](https://open.spotify.com/track/2yMuG8byOPFzZRNG4SaDT9) | [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u) | [Bersamaku Akan Sedikit Susah](https://open.spotify.com/album/2JJDZRInXPi0gqROa9gaf8) | 4:11 | 2024-06-13 | 2024-06-28 |
 | [Bersamamu](https://open.spotify.com/track/68Z2rw1ffXVmJleB8lzmfU) | [Amanda Citra](https://open.spotify.com/artist/4Jrl3wADhbdxxuYvYAjT6t) | [Bersamamu](https://open.spotify.com/album/3Oy3oc04FmaJGjMbVnnPEa) | 5:17 | 2025-02-13 | 2025-03-14 |
@@ -408,6 +409,7 @@
 | [Game For Two](https://open.spotify.com/track/1F5Oci0fJkRxcIFNMuHoJn) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Game For Two](https://open.spotify.com/album/5KYHeW8EoSYqFXji9DuV4c) | 3:38 | 2025-03-20 | 2025-04-18 |
 | [Gantung](https://open.spotify.com/track/2R1Eks7GwZb8F8JIfyZEBo) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Gantung](https://open.spotify.com/album/45xtIbXUuprdcTEUqvRpCB) | 3:37 | 2025-04-17 | 2025-10-24 |
 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 | 2025-01-09 | 2025-05-30 |
+| [GayA idup](https://open.spotify.com/track/5rQCvrRGZJgAQwFG7WSps9) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [GayA idup](https://open.spotify.com/album/3sO5r43XRgmABUrDUEf8aC) | 1:50 | 2026-04-02 |  |
 | [Gelora Asmara](https://open.spotify.com/track/4zPZ7Uy5MLeIfeq4G46UIu) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM) | [Apakah Kita?](https://open.spotify.com/album/1TgyHkafKmeUG3vvJzrSof) | 3:09 | 2025-08-21 | 2025-11-28 |
 | [Gemercik Asmara](https://open.spotify.com/track/3wA8KBsBcCkAAF9ZDZLkKQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Gemercik Asmara](https://open.spotify.com/album/2ORVC4aitj1kM2XqkDXnH8) | 3:51 | 2024-08-29 | 2024-11-15 |
 | [Gemilang](https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Dalam Dinamika](https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv) | 5:00 | 2025-08-21 | 2025-10-17 |
@@ -736,6 +738,7 @@
 | [Lullaby](https://open.spotify.com/track/5KWBdIVtqRTFvGzdUHS1NE) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Lullaby](https://open.spotify.com/album/3Zx6ahNR0dHc3mlWuErmky) | 2:39 | 2025-02-06 | 2025-03-28 |
 | [Lumba\-Lumba \(uang kertas\)](https://open.spotify.com/track/21xO9JjF0ti7hS97cSJWv6) | [Toton Caribo](https://open.spotify.com/artist/0v1axjG0KwIz3aciZffFMu), [Hendri tallane](https://open.spotify.com/artist/4AAkXBc4CxvluoS9gOGL4X), [Rise One](https://open.spotify.com/artist/3ML1TfNzWGxVobQJa4uQZU) | [Lumba\-Lumba \(uang kertas\)](https://open.spotify.com/album/1Tzy7ofsH2yrjN0JClVzjV) | 3:30 | 2026-01-15 | 2026-03-06 |
 | [lupa](https://open.spotify.com/track/7B2T9lm0FeFnWRzUK20On9) | [Mark Natama](https://open.spotify.com/artist/6M3LQdDjNTANaCzV7wGqMi) | [Bachelor of Romance](https://open.spotify.com/album/7vPFcG0IZ4tMKdB3lHQpCJ) | 3:50 | 2025-06-26 | 2025-08-22 |
+| [LUPA!](https://open.spotify.com/track/3QZPgu1RopGKEzTn45KbXV) | [Neona](https://open.spotify.com/artist/1VOUbr2qeHgk36EXMkWaZH) | [LUPA!](https://open.spotify.com/album/60ZEtvnxL8KpYaTCZsLAro) | 2:36 | 2026-04-02 |  |
 | [Maaf](https://open.spotify.com/track/7DkH7hvGk7QcizlFogieHc) | [Kiesha Alvaro](https://open.spotify.com/artist/3PoQLTNsUVrcMn7uDudLDJ) | [Maaf](https://open.spotify.com/album/1HbNW2qE36DgSnlommqa1h) | 4:18 | 2025-07-31 | 2025-08-30 |
 | [Maaf](https://open.spotify.com/track/7CYaLYAOr0qANvWPvahmDg) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [Maaf](https://open.spotify.com/album/0jA57bBxJYweSY5Ci25bLn) | 4:30 | 2025-11-13 | 2026-01-15 |
 | [MADE 4 U](https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [MADE 4 U](https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ) | 4:09 | 2024-01-18 | 2024-02-09 |
@@ -878,6 +881,7 @@
 | [No No No](https://open.spotify.com/track/5YhykvC5DZYGqxxq9OBdIA) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE), [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor), [Adam Zeins](https://open.spotify.com/artist/5jG35LMoM4xAQLz2RBg4XQ) | [No No No](https://open.spotify.com/album/7J0Mq5b6iiHQQaAzNcpPVx) | 2:58 | 2025-04-10 | 2025-05-09 |
 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 | 2024-08-08 | 2024-08-30 |
 | [No Turning Back](https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [No Turning Back](https://open.spotify.com/album/4lCdkCWOmYNJWdfiRU4Bof) | 4:07 | 2024-10-03 | 2024-11-29 |
+| [Nobody Knows](https://open.spotify.com/track/567bsnN1XBNwSsDanWlN3l) | [Zoe Levana](https://open.spotify.com/artist/1aLaLpiiViPxD3Ztbar9WH) | [Nobody Knows](https://open.spotify.com/album/2nfxdK7RFbfeoPHpf78mdD) | 3:12 | 2026-04-02 |  |
 | [Nona Manis](https://open.spotify.com/track/2m0xGLVBFG3FUxkWzZyqqq) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Nona Manis](https://open.spotify.com/album/7z9aeQ5zZKoc3DQlQOgdnA) | 3:32 | 2024-05-30 | 2024-06-21 |
 | [Nostalgila](https://open.spotify.com/track/4ZiIiMCWRE9XXZtzvuqL6k) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Nostalgila](https://open.spotify.com/album/6bAENKavySVT6IMovd9dv9) | 2:58 | 2025-08-21 | 2025-10-17 |
 | [Not Today](https://open.spotify.com/track/3IYwakVAhSakQgwaMN6cUK) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Not Today](https://open.spotify.com/album/6rZYBpiOHy9ngNmV6idtmc) | 3:16 | 2024-12-12 | 2025-02-07 |
@@ -999,6 +1003,7 @@
 | [Rapuh](https://open.spotify.com/track/2zUSSJiMHe0nE3xMX1yDjO) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Rapuh](https://open.spotify.com/album/31K5Y7sAJQYs3IednXlD11) | 3:35 | 2024-09-12 | 2024-10-11 |
 | [Rapuh \- From "Kawin Tangan"](https://open.spotify.com/track/4z6f9z75aV6rcFwjlzbgVF) | [Adrian Sant](https://open.spotify.com/artist/7LnKv7Mz67Fnpo9AyKXbyB) | [Rapuh \(From "Kawin Tangan"\)](https://open.spotify.com/album/5HPpfn3f5jf52NSOe6hP0I) | 4:33 | 2024-06-06 | 2024-06-28 |
 | [Rasa Tak Tersampaikan](https://open.spotify.com/track/2pV9LFMGCynjoulNVq8dad) | [Hedi Yunus](https://open.spotify.com/artist/7Chevtnmm3oUuJmkQaCjfA) | [Rasa Tak Tersampaikan](https://open.spotify.com/album/63djq5lBIEJgxoSoeKBVOT) | 4:09 | 2025-10-09 | 2025-12-19 |
+| [RATHER BE / IN HELL](https://open.spotify.com/track/0lVgwDVMGiCUa9tSWo56Oq) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [PISSED ME OFF / BORED ME TO DEATH](https://open.spotify.com/album/1ZVS7kg3oUYwmdnETa3ujT) | 4:06 | 2026-04-02 |  |
 | [real love](https://open.spotify.com/track/0WuMGn0d7SRWBJi7CQ6HIO) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [real love](https://open.spotify.com/album/3TZyFrXEWXtyrNPGprdBMB) | 3:49 | 2025-07-31 | 2025-08-30 |
 | [RECKLESS](https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti), [Rai Anvio](https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u) | [RECKLESS](https://open.spotify.com/album/4zGdm3XwogvJ62gxsSeM77) | 3:56 | 2024-10-03 | 2024-11-29 |
 | [Red Flag](https://open.spotify.com/track/6CWFEuL0tr2cAEXKFF9cZZ) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Cerita Kita](https://open.spotify.com/album/1t5QgJytF9KWu4VVFgw23d) | 2:46 | 2025-10-16 | 2025-11-28 |

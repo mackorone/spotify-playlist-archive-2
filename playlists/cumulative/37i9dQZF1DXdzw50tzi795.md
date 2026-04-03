@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Sexski
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: SEA.
 
-229 songs - 14 hr 49 min
+230 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,10 +81,11 @@
 | [ขาด \(Without me\)](https://open.spotify.com/track/0gfaovbqUD9axcb1O2eNha) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ขาด \(Without me\)](https://open.spotify.com/album/4iIfTRJHHBOj0oUkRA62Rs) | 3:38 | 2024-01-31 | 2024-02-16 |
 | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/album/3XviYeEx5FuG7m6LodIFgU) | 3:41 | 2024-05-30 | 2024-07-19 |
 | [ข้อความรูปยิ้ม :\)](https://open.spotify.com/track/3ZajpwGfKsToCEAuLTtoxF) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ข้อความรูปยิ้ม :\)](https://open.spotify.com/album/3LenjO4Dj5si5mCrFVWaen) | 3:47 | 2024-09-07 | 2025-03-21 |
+| [ครั้งหนึ่ง](https://open.spotify.com/track/3ImxRQnfrCXFrBFxJIvJuR) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ครั้งหนึ่ง](https://open.spotify.com/album/06qIplvukzO5NyH9UwJG45) | 3:51 | 2026-04-02 |  |
 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 | 2024-11-08 | 2025-04-17 |
 | [ความคาดหวัง](https://open.spotify.com/track/4n8TKmRLfD82RWnhb6HMNw) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [ตูน BODYSLAM](https://open.spotify.com/artist/4fJPoRaV3IZGDVFIMQ3EWw), [ปั๊บ Potato](https://open.spotify.com/artist/2tm6jmamokqIxFSaOEEyRz) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:23 | 2024-11-22 | 2025-04-25 |
 | [ความรู้สึกของตัวฉัน](https://open.spotify.com/track/13fTUwOsAtNtZtxAcBOtWy) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [ความรู้สึกของตัวฉัน](https://open.spotify.com/album/7fEgczgGKUhPrL0see7eiH) | 4:13 | 2024-01-26 | 2024-10-11 |
-| [คำเดียวง่าย ๆ](https://open.spotify.com/track/2ORyDq8ksO5Aj1A90tqQ4I) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [1ST](https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ) | [คำเดียวง่าย ๆ](https://open.spotify.com/album/5jj8gk8zVlhVudMbJFRwuk) | 5:36 | 2026-02-19 |  |
+| [คำเดียวง่าย ๆ](https://open.spotify.com/track/2ORyDq8ksO5Aj1A90tqQ4I) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [1ST](https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ) | [คำเดียวง่าย ๆ](https://open.spotify.com/album/5jj8gk8zVlhVudMbJFRwuk) | 5:36 | 2026-02-19 | 2026-04-03 |
 | [คิดคิด \(Let me know\)](https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [คิดคิด \(Let me know\)](https://open.spotify.com/album/0Vaea3qMOaclumAYzoHBCF) | 3:45 | 2024-08-15 | 2024-11-09 |
 | [คุณนายตื่นสาย \(Wake Up Please\)](https://open.spotify.com/track/1OTRdsfrVZRUCktBiEBYmb) | [TEMI](https://open.spotify.com/artist/0VDH8FrhpCC1DwVqiGPTGn), [KiRANA](https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC) | [คุณนายตื่นสาย \(Wake Up Please\)](https://open.spotify.com/album/1QHlh4K6dLYQPfc84N1hpv) | 4:11 | 2025-12-04 | 2026-03-06 |
 | [ค้าง \(STILL\)](https://open.spotify.com/track/43Cjq1AFlF93a4wh8yWYoJ) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ค้าง \(STILL\) \- Single](https://open.spotify.com/album/7IX2i9DpXH6GO3VcD9PFTC) | 4:09 | 2024-12-16 | 2025-01-27 |

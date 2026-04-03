@@ -1577,6 +1577,28 @@
     },
     {
       "album": {
+        "name": "Falling Trees",
+        "url": "https://open.spotify.com/album/2L20vjCwbC8xnP9wVnHS7D"
+      },
+      "artists": [
+        {
+          "name": "Friend of Honor",
+          "url": "https://open.spotify.com/artist/0CJ7GINCDoDAN3pvV8qwtf"
+        },
+        {
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269508,
+      "name": "Falling Trees",
+      "url": "https://open.spotify.com/track/7qxQJALzKMC1PTcgl5NaHy"
+    },
+    {
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/6BhHiGdMkVuoxki0s8MAha"
       },
@@ -4750,6 +4772,24 @@
       "duration_ms": 184766,
       "name": "Subterranean - Chill Mix",
       "url": "https://open.spotify.com/track/6T4v5vAdSRMJs3NsHbf1WE"
+    },
+    {
+      "album": {
+        "name": "Sun Above",
+        "url": "https://open.spotify.com/album/162nDxmkiLd4v8V64lf4Sf"
+      },
+      "artists": [
+        {
+          "name": "CEAUS",
+          "url": "https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217061,
+      "name": "Sun Above",
+      "url": "https://open.spotify.com/track/6liwDOC1aJsxqqvIiJnDNK"
     },
     {
       "album": {

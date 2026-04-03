@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 
 > <a href="spotify:artist:7sAqpkrQBaOkddsv1Tz1XK">Mosimann</a>'s favourite tracks\. Updated regularly\. Curated by Mosimann\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,741 likes - 88 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,767 likes - 88 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 | 40 | [Substance](https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Substance](https://open.spotify.com/album/2fJ1PQyoQEA7QiWkGjjpaA) | 2:40 |
 | 41 | [Hell Yeah \(Feat\. Waxmaster\)](https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Parris Mitchell](https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p), [Waxmaster](https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7) | [Hell Yeah \(Feat\. Waxmaster\)](https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR) | 3:32 |
 | 42 | [2009](https://open.spotify.com/track/7hI6lsC3yvxExoVG3w8euT) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [2009](https://open.spotify.com/album/5dGWRvO997qN20ROrBN1NX) | 2:49 |
-| 43 | [Bump](https://open.spotify.com/track/5IrJjxImRVQxV3CL42XcuP) | [The Brothers Macklovitch](https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Bump](https://open.spotify.com/album/0m4YXqw3dUzURH5KRCAehr) | 3:24 |
+| 43 | [Bump](https://open.spotify.com/track/5IrJjxImRVQxV3CL42XcuP) | [Brothers Macklovitch](https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Bump](https://open.spotify.com/album/0m4YXqw3dUzURH5KRCAehr) | 3:24 |
 | 44 | [I Cannot](https://open.spotify.com/track/7rgnKPJ51NBGP5k20yaSHn) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [I Cannot](https://open.spotify.com/album/4jAmLhda79FRXBRTLNj9nL) | 3:09 |
 | 45 | [Dance Naked](https://open.spotify.com/track/02004T36dT91vxe7vfdRa1) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance Naked](https://open.spotify.com/album/6lnZ0X8y7Krw0fBqkx2Qcz) | 3:30 |
 | 46 | [Breathe](https://open.spotify.com/track/3cfjEkn8J26kUy2RsCQvDI) | [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw) | [Breathe](https://open.spotify.com/album/3m3kxtsysSRoDxbJM8U3Q0) | 3:42 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover: Fameye",
+  "description": "The hottest and recent Ghana party starters. Cover: Camidoh ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 183750,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/2Nhk8yilokkaKKgWX1FtTL"
@@ -9153,6 +9153,24 @@
     },
     {
       "album": {
+        "name": "Phony",
+        "url": "https://open.spotify.com/album/5rYGaTEsuw5HzbvhgguHLx"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Phony",
+      "url": "https://open.spotify.com/track/7nrJHvsmJqtN6Ue41GJX88"
+    },
+    {
+      "album": {
         "name": "Feelings Of Raevin",
         "url": "https://open.spotify.com/album/57HOVCdbIcATmV3TwUwGic"
       },
@@ -9560,7 +9578,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 183298,
       "name": "Questions",
       "url": "https://open.spotify.com/track/3MZroQuOzlxZpVYWvWGHHz"
@@ -9826,6 +9844,28 @@
       "duration_ms": 154000,
       "name": "Roma",
       "url": "https://open.spotify.com/track/5HTcQgNskY36EEtdB4zMfr"
+    },
+    {
+      "album": {
+        "name": "Roomie",
+        "url": "https://open.spotify.com/album/35jKOwCukxtlhNMKTBRr6w"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150280,
+      "name": "Roomie",
+      "url": "https://open.spotify.com/track/5ahvQM3tvVNgCfAYvZcgJk"
     },
     {
       "album": {
@@ -11648,7 +11688,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 162162,
       "name": "Toma Song II",
       "url": "https://open.spotify.com/track/6Rd6QPDtl2MW6eO4dkv7Bo"
@@ -12158,6 +12198,28 @@
       "duration_ms": 163110,
       "name": "Wash",
       "url": "https://open.spotify.com/track/68oHERGzh4T91Po4WYjz2k"
+    },
+    {
+      "album": {
+        "name": "WEATHER FOR 2",
+        "url": "https://open.spotify.com/album/6NxHxVF09p78d9qBXFvJyX"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "WEATHER FOR 2",
+      "url": "https://open.spotify.com/track/56qLZovBjCLJUBlGv1gER8"
     },
     {
       "album": {

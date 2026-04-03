@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 454 songs - 1 day 2 hr 5 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 460 songs - 1 day 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -462,5 +462,11 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 452 | [Cure \(VIVINOS \- ALNST 2nd Anniversary Remix Part.2\)](https://open.spotify.com/track/78eXwJtw4uwqTH8RBYU0Yw) | [Rubyeye](https://open.spotify.com/artist/5mFBPisqWsuM2DaNRRKMNo), [C!naH](https://open.spotify.com/artist/0vA45SriohIjcLXbwPhF2p) | [Cure \(VIVINOS \- ALNST 2nd Anniversary Remix Part.2\)](https://open.spotify.com/album/03x0EPG93xHTlbpMLB4NsG) | 4:08 |
 | 453 | [Why I hate you](https://open.spotify.com/track/4AigtKmfzJzNCrKaBmTv3W) | [ゐろは苹果](https://open.spotify.com/artist/1X0DrV6PmfG5ZoVNCszNNh) | [Why I hate you](https://open.spotify.com/album/6VCQYmfIufXBhxFHMiuK9L) | 1:58 |
 | 454 | [浴槽とネオンテトラ](https://open.spotify.com/track/38PB5u8pEPKefAtLqbCDtK) | [LOLUET](https://open.spotify.com/artist/5JoNnbXEGcykxL6fHRNola) | [stream](https://open.spotify.com/album/3iaN1P4JHrgcrQCn10htLd) | 4:23 |
+| 455 | [Propose](https://open.spotify.com/track/1z5RmEcGUG6oIx93ix9HK4) | [Naisho no Pierced Earrings](https://open.spotify.com/artist/7zP4cCtyL5Gb51kZNKii7D) | [Propose](https://open.spotify.com/album/4oZjyutSVH3lYOU2CxK0dm) | 3:52 |
+| 456 | [ラピスのお人形](https://open.spotify.com/track/3CVjKPOfnLpfmotTk8b50x) | [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U) | [色彩](https://open.spotify.com/album/49ELlmc6ykxao1ovjxl57b) | 3:09 |
+| 457 | [hakuchuumu \(feat\. araki\)](https://open.spotify.com/track/44YFygtN4uwbBVcn1g2CEs) | [不眠症](https://open.spotify.com/artist/2VqEtJ2rBrI0mkFhxLYc0Q), [Araki](https://open.spotify.com/artist/09ONFXQOVjyy3AhFlBsZx8) | [Stray into a museum](https://open.spotify.com/album/2XffSggAZcbc1VVHdpffBh) | 3:30 |
+| 458 | [ギフト](https://open.spotify.com/track/39kz6zKYEDz4UAT3B1U5HN) | [内緒のピアス](https://open.spotify.com/artist/7qBT0UgBDfLt3ZpKLUzFBL) | [ギフト](https://open.spotify.com/album/0BtPWvguBmKExfERM49iIa) | 3:13 |
+| 459 | [Phantom Scratch](https://open.spotify.com/track/4U1rOllUWENIs7l2UjImfj) | [えもん](https://open.spotify.com/artist/45BgQUm7IMy2qR0H7MLayR), [歌愛ユキ](https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r) | [Phantom Scratch](https://open.spotify.com/album/2Wm6k33gLAGXXOFNMWXizF) | 2:10 |
+| 460 | [..](https://open.spotify.com/track/6T0uBvi0KwEVjFeUjWfHI2) | [subeteanatanoseidesu](https://open.spotify.com/artist/4Jgqs4jg9z7AkUduc66GEc) | [\. .\. ...](https://open.spotify.com/album/1b285BnzfH2WwwZ2zyLQkf) | 4:12 |
 
-Snapshot ID: `AAAKCEGQVmk4IBbVAEzsbE/4hlxvJeMf`
+Snapshot ID: `AAAKDreUXkxMrPzvuJxxj0Wd+iqbyKw2`

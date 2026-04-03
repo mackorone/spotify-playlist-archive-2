@@ -4,7 +4,7 @@
 
 > Journey through the sounds of South African Jazz\. Cover: Vimbs Mavimbs
 
-332 songs - 1 day 8 hr 59 min
+333 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,8 +158,9 @@
 | [Kumi Lach](https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Kumi Lach](https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8) | 4:04 | 2025-11-07 |  |
 | [Kunzima Madoda](https://open.spotify.com/track/0hLqS3gWMiVvANb5HvndhP) | [Linda Tshabalala](https://open.spotify.com/artist/2owcGskTifdgn9Tw7sK9p7) | [Convergence Bekezela Siyeza](https://open.spotify.com/album/3tmmJjesjQuWYgA2qvafpe) | 6:02 | 2023-11-23 | 2025-05-30 |
 | [Kuthecwaka qha kuthetha uMora](https://open.spotify.com/track/1a5I9yuZ8e14jxUuYlOA6t) | [Umle](https://open.spotify.com/artist/52gGyNulbDsDNrstL0h70a) | [Abantwana Belanga](https://open.spotify.com/album/2Vua0maeOfC7D90LANLUmP) | 7:23 | 2025-06-13 | 2025-06-20 |
+| [Kuzodlula](https://open.spotify.com/track/5IQxjTOCA6tCotxbK6793O) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [Kuzodlula](https://open.spotify.com/album/23WZlq38PdSCUu5QS2XA2A) | 4:42 | 2026-04-02 |  |
 | [Kwa Thula](https://open.spotify.com/track/08Gj2NwZwtrhbwqiCEVSUb) | [Dudu Pukwana](https://open.spotify.com/artist/6bW73aNRCae7jPJF1Dxy9F) | [Dudu Phukwana and the "Spears"](https://open.spotify.com/album/60DdSYk9ZM6YdHQL4NiZVF) | 3:41 | 2023-11-01 | 2023-11-17 |
-| [Kwandebele \(Live\)](https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [ISIGQI \(live at the bird's eye\)](https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM) | 7:20 | 2025-11-07 |  |
+| [Kwandebele \(Live\)](https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [ISIGQI \(live at the bird's eye\)](https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM) | 7:20 | 2025-11-07 | 2026-04-03 |
 | [KwaZulu \(Live\)](https://open.spotify.com/track/67Tzj44OUju41V3LCMegSY) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [ISIGQI \(live at the bird's eye\)](https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM) | 10:02 | 2025-10-24 |  |
 | [Kwetu](https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/2hNj1dmL0kfOlMUtOpcFcJ) | 5:26 | 2022-04-28 | 2024-05-17 |
 | [Kwetu](https://open.spotify.com/track/6ydtxqMaxXbLlBUVvlDuRU) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/1cfKpuS4Nb9aGIa99MxRf0) | 5:26 | 2024-03-15 | 2024-04-19 |

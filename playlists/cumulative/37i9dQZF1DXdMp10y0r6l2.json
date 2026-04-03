@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH. Escape The Fate en portada",
+  "description": "AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH. Deftones en portada",
   "name": "Dark and Furious",
   "tracks": [
     {
@@ -3364,7 +3364,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 340466,
       "name": "Fucking Your Ghost In Chains of Ice",
       "url": "https://open.spotify.com/track/5maiXlxUmXjlKqqqpJbctD"
@@ -5518,6 +5518,24 @@
       "duration_ms": 212307,
       "name": "Mi Momento",
       "url": "https://open.spotify.com/track/298Vh8757USnVOB8j8LEnL"
+    },
+    {
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248840,
+      "name": "milk of the madonna",
+      "url": "https://open.spotify.com/track/2463q6UN8BIDfeVI379qFz"
     },
     {
       "album": {

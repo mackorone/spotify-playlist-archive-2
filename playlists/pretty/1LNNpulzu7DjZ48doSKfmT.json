@@ -1,12 +1,12 @@
 {
   "description": "beautiful music that you can put on repeat",
-  "num_followers": 461,
+  "num_followers": 462,
   "original_name": "TOP TIER TUNES \ud83c\udfde",
   "owner": {
     "name": "Exquisite Playlists",
     "url": "https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi"
   },
-  "snapshot_id": "AAAcN8BX5VWAK6MXPnywGzGQPB9QGRoi",
+  "snapshot_id": "AAAcPPX5sE2EmTl1HQpvw1m4OP5i8MOE",
   "tracks": [
     {
       "added_at": "2026-02-14 10:26:48",
@@ -7071,6 +7071,90 @@
       "duration_ms": 186880,
       "name": "Marry Her",
       "url": "https://open.spotify.com/track/6E4qQ2uPxy8GKduJqzpU1O"
+    },
+    {
+      "added_at": "2026-04-02 16:45:36",
+      "album": {
+        "name": "One Day I Turned Green",
+        "url": "https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H"
+      },
+      "artists": [
+        {
+          "name": "Ralph Escava",
+          "url": "https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "One Day I Turned Green",
+      "url": "https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy"
+    },
+    {
+      "added_at": "2026-04-02 16:45:44",
+      "album": {
+        "name": "Unmatched Energy",
+        "url": "https://open.spotify.com/album/1lKhWYO9aE2dKmq1clRXiG"
+      },
+      "artists": [
+        {
+          "name": "The Disciple",
+          "url": "https://open.spotify.com/artist/4rFx1sd3c9LDKaKJt1qcEm"
+        }
+      ],
+      "duration_ms": 234609,
+      "name": "Unmatched Energy",
+      "url": "https://open.spotify.com/track/7y3UqtDdSLrtieDS30ebRK"
+    },
+    {
+      "added_at": "2026-04-02 16:45:56",
+      "album": {
+        "name": "The Apple",
+        "url": "https://open.spotify.com/album/26OzWwi9hNcp0N3KRiMUyW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Aotani",
+          "url": "https://open.spotify.com/artist/62zTP7Hd5XwMVQwEuQ8ttB"
+        }
+      ],
+      "duration_ms": 177864,
+      "name": "The Apple",
+      "url": "https://open.spotify.com/track/6E0KXePDFJFzk9BlQ07p2U"
+    },
+    {
+      "added_at": "2026-04-02 16:46:19",
+      "album": {
+        "name": "FOOLS GOLD",
+        "url": "https://open.spotify.com/album/5dsoKOXrJx0wx8KVscSNQ7"
+      },
+      "artists": [
+        {
+          "name": "MARLON",
+          "url": "https://open.spotify.com/artist/27eocpxomMYAIsSTC7ub7z"
+        }
+      ],
+      "duration_ms": 112987,
+      "name": "FOOLS GOLD",
+      "url": "https://open.spotify.com/track/4smBauBzEkVhRt7WGsby6E"
+    },
+    {
+      "added_at": "2026-04-02 16:46:20",
+      "album": {
+        "name": "SMITH & MR. WESSON",
+        "url": "https://open.spotify.com/album/3J1ksZyw0iHkmsYJCTmH9x"
+      },
+      "artists": [
+        {
+          "name": "MARLON",
+          "url": "https://open.spotify.com/artist/27eocpxomMYAIsSTC7ub7z"
+        },
+        {
+          "name": "FLORES",
+          "url": "https://open.spotify.com/artist/10SgODoY6fWDzAhCEWvNUN"
+        }
+      ],
+      "duration_ms": 146430,
+      "name": "SMITH & MR. WESSON",
+      "url": "https://open.spotify.com/track/7LRereBkRes9WIflpQl593"
     }
   ],
   "unique_name": "TOP TIER TUNES \ud83c\udfde",

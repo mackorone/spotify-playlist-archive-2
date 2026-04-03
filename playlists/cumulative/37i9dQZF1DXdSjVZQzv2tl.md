@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Mayke & Rodrigo, Panda
+> O melhor do sertanejo em uma só playlist! Foto: Murilo Huff
 
-378 songs - 17 hr 42 min
+379 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Aceita Que Acabou \- Ao Vivo](https://open.spotify.com/track/6fNQLvaEEOdDrnkQQD0D66) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Aceita Que Acabou \(Ao Vivo\)](https://open.spotify.com/album/4CmPrEUmKroXZIuyniOpX3) | 2:35 | 2025-12-05 |  |
 | [Aceita Que Ela Tá Comigo \- Ao Vivo](https://open.spotify.com/track/1aKO7s5pKClaGB31yW0tWg) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Ao Vivo Em São Paulo \- Vol\. 1](https://open.spotify.com/album/3p0oXCvFis7r9CfA4xFN7V) | 2:33 | 2024-11-29 | 2025-02-22 |
 | [Acordo \- Ao Vivo](https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Acordo \(Ao Vivo\)](https://open.spotify.com/album/1hG9khbERmeplVf0lTn6gm) | 2:49 | 2021-12-31 | 2023-04-01 |
+| [Admita \- Ao Vivo](https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Admita \(Ao Vivo\)](https://open.spotify.com/album/5LSlkNPGCk88r7UzXC33e2) | 2:55 | 2026-04-03 |  |
 | [Aham \- Ao Vivo](https://open.spotify.com/track/3Bkw2nrO4vXwql6BBDH5pq) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Questão de Tempo \(Ao Vivo / Parte 2\)](https://open.spotify.com/album/4tcd8Asdup9cwhIpLAxcbx) | 2:29 | 2024-08-30 | 2025-02-07 |
 | [Ai Eu Chorei \- Ao Vivo](https://open.spotify.com/track/5TPXcKSOlPaz2pkYbWiWHU) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [No Churrasco 2 \(Ao Vivo\)](https://open.spotify.com/album/6GwoKtfGlr1VGlrTU6Xb9u) | 2:56 | 2022-07-22 | 2023-08-05 |
 | [Ali Te Ama](https://open.spotify.com/track/75UeFgDZUmxJW1eViQtbYF) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ali Te Ama](https://open.spotify.com/album/6aR8YMno9VPTfKYvRf8DSL) | 2:48 | 2023-11-10 | 2024-08-23 |
@@ -193,7 +194,7 @@
 | [Lua](https://open.spotify.com/track/1iilEnhis2SZrqGdcjKOY5) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Lua \(Boiadeira Internacional EP.4\)](https://open.spotify.com/album/4hy4Wsbl0nWmAWMdp46OHV) | 3:26 | 2024-02-23 | 2024-06-15 |
 | [Mal](https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Mal](https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7) | 2:46 | 2024-09-20 | 2024-10-18 |
 | [Mal Feito \- Ao Vivo](https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Mal Feito \(Ao Vivo\)](https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I) | 2:57 | 2022-01-17 | 2023-06-17 |
-| [Mala](https://open.spotify.com/track/314coIrgJwYCz7RlhEcNGC) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E) | [Mala](https://open.spotify.com/album/5mTRuj3aYGv0eD2rckLB0M) | 2:53 | 2025-11-28 |  |
+| [Mala](https://open.spotify.com/track/314coIrgJwYCz7RlhEcNGC) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E) | [Mala](https://open.spotify.com/album/5mTRuj3aYGv0eD2rckLB0M) | 2:53 | 2025-11-28 | 2026-04-03 |
 | [Mala dos Porta\-Mala \- Ao Vivo](https://open.spotify.com/track/7GScY8oE12cqTiNBzVQpUB) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Mala dos Porta\-Mala \(Ao Vivo\)](https://open.spotify.com/album/3KbuCPion6RqgTCrLigEJq) | 2:33 | 2023-07-21 | 2024-07-13 |
 | [Manda um Oi \- Ao Vivo](https://open.spotify.com/track/7DkhndGTKaqkFxxKN7XlAh) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Manda um Oi \(Ao Vivo\)](https://open.spotify.com/album/1HItTCmal7a7jPpRwnV4g3) | 2:46 | 2023-06-02 | 2024-04-19 |
 | [Me Ama Mesmo \- Ao Vivo](https://open.spotify.com/track/3EcLx5fFRgDIVAzfYwopuR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Me Ama Mesmo \(Ao Vivo\)](https://open.spotify.com/album/0RN1Pw18MnsRIN7xruskYK) | 3:01 | 2024-11-29 | 2025-08-23 |

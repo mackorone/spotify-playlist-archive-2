@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1298492,
+  "num_followers": 1298334,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        }
-      ],
-      "duration_ms": 211084,
-      "name": "Cuando No Era Cantante",
-      "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
         "name": "Comando Estelar",
         "url": "https://open.spotify.com/album/4mv9P6vEf6fh0iLYC0WhlH"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 220000,
       "name": "Comando Estelar",
       "url": "https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 211084,
+      "name": "Cuando No Era Cantante",
+      "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
+        "name": "C\u00d3DiGOS DE MU\u00d1EKA",
+        "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 133535,
+      "name": "iGO",
+      "url": "https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
         "name": "LAS NEAS",
         "url": "https://open.spotify.com/album/7obxopROLfWvdgoO6oWvZ8"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 203833,
       "name": "LAS NEAS",
       "url": "https://open.spotify.com/track/4VPetBH68wPQ67N8LwwJAI"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
-        "name": "C\u00d3DiGOS DE MU\u00d1EKA",
-        "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 133535,
-      "name": "iGO",
-      "url": "https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
+        "name": "Besito en la Frente",
+        "url": "https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 161622,
+      "name": "Besito en la Frente",
+      "url": "https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
         "name": "1204",
         "url": "https://open.spotify.com/album/6w9zniCbXkVsVCMCHdSRQx"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 235613,
       "name": "1204",
       "url": "https://open.spotify.com/track/46TxZmfZdm2FBku9B0cSnG"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
-        "name": "Besito en la Frente",
-        "url": "https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 161622,
-      "name": "Besito en la Frente",
-      "url": "https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
+        "name": "SELEDA.",
+        "url": "https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 131388,
+      "name": "SELEDA.",
+      "url": "https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
         "name": "$extape",
         "url": "https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 244894,
       "name": "$extape",
       "url": "https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
-        "name": "SELEDA.",
-        "url": "https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 131388,
-      "name": "SELEDA.",
-      "url": "https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO"
     },
     {
       "added_at": "2026-03-18 17:58:35",

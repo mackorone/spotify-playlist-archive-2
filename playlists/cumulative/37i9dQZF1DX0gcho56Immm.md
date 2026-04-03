@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Alba Akvama
 
-263 songs - 15 hr 15 min
+265 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Formula 1](https://open.spotify.com/track/6BHkkOCflCQjyTcGl0jaMi) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0), [Melody English](https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp) | [Formula 1](https://open.spotify.com/album/5b5V1qr0RiJzLBAeEe5VOY) | 3:09 | 2025-05-15 |  |
 | [G\-LIP](https://open.spotify.com/track/6F8GWMveksAfUHPjisf7MD) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:17 | 2025-08-08 |  |
 | [Galloping Chest](https://open.spotify.com/track/0sW23ZyfB2RrAFFsA0YGXz) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Galloping Chest](https://open.spotify.com/album/33T7RKYfkC9zIsq2gX3hob) | 3:30 | 2025-06-06 | 2026-03-07 |
+| [Getaway](https://open.spotify.com/track/54YvXQzjpfQee9u3YKg8Ls) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:37 | 2026-04-02 |  |
 | [Gilded](https://open.spotify.com/track/2nxEJwcb0pxBohg1fKKmHe) | [Mr\. Beale](https://open.spotify.com/artist/7IXaHCboVc1IOzBqdHmQ1v) | [Gilded](https://open.spotify.com/album/1QvGemln6o7k5hGaYFpDZ6) | 3:01 | 2025-08-22 |  |
 | [Girls Like Me Belong in Bed, Curled](https://open.spotify.com/track/0byjD8soqql3yBdhOFWjKI) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 4:04 | 2025-03-13 | 2026-01-24 |
 | [Golden Brown Sugar](https://open.spotify.com/track/1s8UNp2swlH5b6c6FghaCl) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Golden Brown Sugar](https://open.spotify.com/album/3GTsuGzSY59ekjlR2WDWWp) | 3:49 | 2026-02-12 |  |
@@ -164,6 +165,7 @@
 | [move](https://open.spotify.com/track/56PaK7eELIPEz0Zob6ycfG) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [sentence structure in the country](https://open.spotify.com/album/133L9f28bAgtUOMWZYszr5) | 4:18 | 2026-03-19 |  |
 | [moving in](https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [moving in](https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk) | 4:05 | 2026-01-23 |  |
 | [Musicality](https://open.spotify.com/track/4KnN1qVhG1gccZe7cJxWn3) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/59enWNqQlZKbTD1oQ74dtY) | 2:18 | 2025-06-13 | 2025-09-20 |
+| [N'Balmed \- JASSS Purple Mix](https://open.spotify.com/track/5UIAOo7Zhv2WiSIfs307az) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf), [JASSS](https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV) | [N'Balmed \(JASSS Purple Mix\)](https://open.spotify.com/album/0Pmc7ihxCFtAvevrDlaZKP) | 4:13 | 2026-04-02 |  |
 | [Nice](https://open.spotify.com/track/3qpaZJb1799OHuOAN1u0dc) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei) | [So I Can See You](https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo) | 3:08 | 2025-08-08 | 2026-03-07 |
 | [Nine Clean Nails](https://open.spotify.com/track/2TxrxTDFNzWR0wTs1auyaz) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Free Energy](https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3) | 3:50 | 2025-03-13 | 2026-01-24 |
 | [NOT 2NITE \(feat\. Cansu Kandemir\)](https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ) | [Rat Heart](https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e), [Cansu Kandemir](https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv) | [Dancin' In The Streets](https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ) | 6:09 | 2025-11-07 |  |

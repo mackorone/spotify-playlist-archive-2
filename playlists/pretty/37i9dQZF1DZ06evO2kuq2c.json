@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 88019,
+  "num_followers": 88049,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAACdfY2HSfTcOgx1pKRxGdHT",
+  "snapshot_id": "acxgAAAAAACugLci1mPjTV2ehAAjvu6A",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the classic symptoms of a broken spirit",
-        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 259143,
-      "name": "burn down my house",
-      "url": "https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Our Gods Have Abandoned Us",
         "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 228017,
       "name": "A Match Made in Heaven",
       "url": "https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 259143,
+      "name": "burn down my house",
+      "url": "https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Forever // Lost Together",
-        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 232939,
-      "name": "Broken Cross",
-      "url": "https://open.spotify.com/track/4b7oCl6v6kyH10igobXEuy"
+      "duration_ms": 241386,
+      "name": "These Colours Don't Run",
+      "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
       "duration_ms": 211848,
       "name": "a new moral low ground",
       "url": "https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daybreaker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "These Colours Don't Run",
-      "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
     },
     {
       "added_at": null,
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 133370,
-      "name": "Red Hypergiant",
-      "url": "https://open.spotify.com/track/6dYxCJDZtOVSaRAKFe8NRZ"
+      "duration_ms": 232939,
+      "name": "Broken Cross",
+      "url": "https://open.spotify.com/track/4b7oCl6v6kyH10igobXEuy"
     },
     {
       "added_at": null,
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 259224,
-      "name": "C.A.N.C.E.R",
-      "url": "https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW"
+      "duration_ms": 133370,
+      "name": "Red Hypergiant",
+      "url": "https://open.spotify.com/track/6dYxCJDZtOVSaRAKFe8NRZ"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 192640,
       "name": "Even If You Win, You're Still A Rat",
       "url": "https://open.spotify.com/track/1YSmJJ1RRy9pOGgZHwyvhW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 259224,
+      "name": "C.A.N.C.E.R",
+      "url": "https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW"
     }
   ],
   "unique_name": "This Is Architects",

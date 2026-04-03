@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 127622,
+  "num_followers": 127624,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-03-27 19:14:11",
       "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 162188,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
+    },
+    {
+      "added_at": "2026-03-27 19:14:11",
+      "album": {
         "name": "Don't Play - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4VoV1cJ3ql4COea87NNZ51"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 179500,
       "name": "Don't Play - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2416mFSovCiMHfpvExCNaa"
-    },
-    {
-      "added_at": "2026-03-27 19:14:11",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
     },
     {
       "added_at": "2026-03-27 19:14:11",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-03-27 19:14:11",
       "album": {
+        "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 172897,
+      "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP"
+    },
+    {
+      "added_at": "2026-03-27 19:14:11",
+      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 234498,
       "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
-    },
-    {
-      "added_at": "2026-03-27 19:14:11",
-      "album": {
-        "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 172897,
-      "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP"
     },
     {
       "added_at": "2026-03-27 19:14:11",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2026-03-27 19:14:11",
       "album": {
-        "name": "I NEED IT (feat. Syd & Tank)",
-        "url": "https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG"
-      },
-      "artists": [
-        {
-          "name": "Camper",
-          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "I NEED IT (feat. Syd & Tank)",
-      "url": "https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q"
-    },
-    {
-      "added_at": "2026-03-27 19:14:11",
-      "album": {
         "name": "Back To Love [Feat. SiR & Alex Isley]",
         "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 201773,
       "name": "Back To Love [Feat. SiR & Alex Isley]",
       "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
+    },
+    {
+      "added_at": "2026-03-27 19:14:11",
+      "album": {
+        "name": "I NEED IT (feat. Syd & Tank)",
+        "url": "https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG"
+      },
+      "artists": [
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "I NEED IT (feat. Syd & Tank)",
+      "url": "https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q"
     },
     {
       "added_at": "2026-03-27 19:14:11",

@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 156500,
       "name": "Barefoot",
       "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Catch You",
+        "url": "https://open.spotify.com/album/5wZFv1zlIVCsda4SsvQTo8"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197129,
+      "name": "Catch You",
+      "url": "https://open.spotify.com/track/6ikOvPfy40gVDVt34WkoHk"
+    },
+    {
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -1194,6 +1212,24 @@
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
+    },
+    {
+      "album": {
+        "name": "Cut In Half",
+        "url": "https://open.spotify.com/album/0LEFdPWcty1wzOYTBebazM"
+      },
+      "artists": [
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Cut In Half",
+      "url": "https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53"
     },
     {
       "album": {
@@ -2227,6 +2263,28 @@
     },
     {
       "album": {
+        "name": "i do",
+        "url": "https://open.spotify.com/album/5AqmvYcSbrwPjTmVIFQgGz"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        },
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182446,
+      "name": "i do",
+      "url": "https://open.spotify.com/track/3Jb7AMVFNTF5acy27kUGma"
+    },
+    {
+      "album": {
         "name": "I Don't Love You",
         "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
       },
@@ -2600,7 +2658,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 173764,
       "name": "Lemon Blossoms",
       "url": "https://open.spotify.com/track/6NPee9nvVWAh5Q0hMBSJsd"
@@ -2844,6 +2902,24 @@
       "duration_ms": 240066,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy"
+    },
+    {
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/11koFUb2flCfP4dELQ388y"
+      },
+      "artists": [
+        {
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176887,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
     },
     {
       "album": {
@@ -3914,7 +3990,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 192989,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI"
@@ -5702,7 +5778,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 135866,
       "name": "Welcome to the Mood",
       "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"

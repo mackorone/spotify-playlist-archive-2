@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg"
+      },
+      "artists": [
+        {
+          "name": "Ullah",
+          "url": "https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216628,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe"
+    },
+    {
+      "album": {
         "name": "Object Permanence (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw"
       },
@@ -1670,7 +1688,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 212497,
       "name": "NEW AGE",
       "url": "https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9"

@@ -5064,7 +5064,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 178976,
       "name": "Soulful Gem",
       "url": "https://open.spotify.com/track/0VY33SprrlAzEkAOtxtI98"
@@ -5788,6 +5788,24 @@
       "duration_ms": 170689,
       "name": "Twilight Ember",
       "url": "https://open.spotify.com/track/5ctfiQGXKTJZzmTLY3kbIN"
+    },
+    {
+      "album": {
+        "name": "Tystnad",
+        "url": "https://open.spotify.com/album/6SlAbGflb8Yg0Nfm6sZhet"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "Tystnad",
+      "url": "https://open.spotify.com/track/2kF2BC0Cqqq8hVsQzJ4zCr"
     },
     {
       "album": {

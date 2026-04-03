@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 14838,
+  "num_followers": 14842,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "other boys are boring",
-        "url": "https://open.spotify.com/album/64pyxehnihFcz81L645ezR"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 140518,
-      "name": "other boys are boring",
-      "url": "https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 184260,
       "name": "Easy Does It",
       "url": "https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "other boys are boring",
+        "url": "https://open.spotify.com/album/64pyxehnihFcz81L645ezR"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 140518,
+      "name": "other boys are boring",
+      "url": "https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Now Would Be A Good Time",
-        "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 277951,
-      "name": "Hotel TV",
-      "url": "https://open.spotify.com/track/0rmV9NKcTQ7YvvDQAOP7oL"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Vital Loop",
         "url": "https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3"
       },
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "NEW AGE",
-        "url": "https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03"
+        "name": "Now Would Be A Good Time",
+        "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
       },
       "artists": [
         {
-          "name": "sleepazoid",
-          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
         }
       ],
-      "duration_ms": 212497,
-      "name": "NEW AGE",
-      "url": "https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9"
+      "duration_ms": 277951,
+      "name": "Hotel TV",
+      "url": "https://open.spotify.com/track/0rmV9NKcTQ7YvvDQAOP7oL"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg"
+      },
+      "artists": [
+        {
+          "name": "Ullah",
+          "url": "https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP"
+        }
+      ],
+      "duration_ms": 216628,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe"
     }
   ],
   "unique_name": "Fresh Finds: Class of 2025",

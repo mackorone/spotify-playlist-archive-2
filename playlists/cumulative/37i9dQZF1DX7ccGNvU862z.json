@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SEA., Z9",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: T!NE",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -854,7 +854,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 219900,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/1IKpptd5E4WFpUKbBpmqTl"
@@ -6377,6 +6377,32 @@
     },
     {
       "album": {
+        "name": "SEXY",
+        "url": "https://open.spotify.com/album/2IwHlhP21jxSBItdAUtphM"
+      },
+      "artists": [
+        {
+          "name": "CDGuntee",
+          "url": "https://open.spotify.com/artist/6hzuCOHEv2eDQrxfQWFbp7"
+        },
+        {
+          "name": "Dawut",
+          "url": "https://open.spotify.com/artist/4dTkhTCfgT8RNndgxaMdC3"
+        },
+        {
+          "name": "THE OLD i$E",
+          "url": "https://open.spotify.com/artist/4S9oEgTuT5LpYsKVTKkbfD"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166193,
+      "name": "SEXY",
+      "url": "https://open.spotify.com/track/7LcuHGE5SlkRefqvVE5LAj"
+    },
+    {
+      "album": {
         "name": "Sexy Baby",
         "url": "https://open.spotify.com/album/3jTWSb3Z7TyCyXyaWJGwl1"
       },
@@ -7658,6 +7684,28 @@
       "duration_ms": 158848,
       "name": "WAT U WANT",
       "url": "https://open.spotify.com/track/55fd8tvjN8u4uYqxA9yuAR"
+    },
+    {
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3KuLBxB9aO7r77feMNsVAh"
+      },
+      "artists": [
+        {
+          "name": "1LIFE",
+          "url": "https://open.spotify.com/artist/3VFBXUdlBwoF7gGu8g3Yn3"
+        },
+        {
+          "name": "Again",
+          "url": "https://open.spotify.com/artist/0M1tLjrVM5fWWhNMUmG20T"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/2qI6vRSsYTN8L0YzRpdrSS"
     },
     {
       "album": {
@@ -9793,6 +9841,28 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e19\u0e30\u0e44\u0e1f\u0e19\u0e4c\u0e0a\u0e34\u0e17^^",
+        "url": "https://open.spotify.com/album/7smVv0ZhejyHcojyDD6AXl"
+      },
+      "artists": [
+        {
+          "name": "iluvujayjay",
+          "url": "https://open.spotify.com/artist/00tPUeyHhiMPilBP7yYkwG"
+        },
+        {
+          "name": "\u0e40\u0e2a\u0e47\u0e07\u0e40\u0e04\u0e23\u0e47\u0e07",
+          "url": "https://open.spotify.com/artist/5xEInADzkhuNcf1gX7WZ5b"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "\u0e08\u0e34\u0e49\u0e21\u0e25\u0e34\u0e49\u0e21",
+      "url": "https://open.spotify.com/track/5wF8cOQCpSt1C0ru0f9p6a"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e36\u0e49\u0e07",
         "url": "https://open.spotify.com/album/6ZEAo86UbWLy2EoxPH6ulS"
       },
@@ -11495,6 +11565,24 @@
     },
     {
       "album": {
+        "name": "\u0e1c\u0e21\u0e21\u0e35\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e08\u0e23\u0e34\u0e07\u0e46 (For The Girl...)",
+        "url": "https://open.spotify.com/album/4hnaPredSGZI91cmD8WqGB"
+      },
+      "artists": [
+        {
+          "name": "T!NE",
+          "url": "https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "\u0e1c\u0e21\u0e21\u0e35\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e08\u0e23\u0e34\u0e07\u0e46 (For The Girl...)",
+      "url": "https://open.spotify.com/track/0yKr4gsqBjdZqrWhQp5Kny"
+    },
+    {
+      "album": {
         "name": "\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32",
         "url": "https://open.spotify.com/album/3xLyIPZqp5LVk2odmcFbfe"
       },
@@ -11554,7 +11642,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 210612,
       "name": "\u0e1c\u0e39\u0e49\u0e0a\u0e32\u0e22\u0e43\u0e19\u0e1d\u0e31\u0e19",
       "url": "https://open.spotify.com/track/4s4VwI1Uy8biEbVFTNGDVy"
@@ -14834,7 +14922,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 200891,
       "name": "\u0e40\u0e01\u0e34\u0e19\u0e1e\u0e2d",
       "url": "https://open.spotify.com/track/0U2Mmptl1pZFmUKukRlkrg"
@@ -16006,7 +16094,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 221217,
       "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48 (feat. SIMON)",
       "url": "https://open.spotify.com/track/4dcUKQ0zPZuQZFA0eTXwzV"

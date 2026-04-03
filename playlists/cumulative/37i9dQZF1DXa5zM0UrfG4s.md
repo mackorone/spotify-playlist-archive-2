@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-442 songs - 20 hr 12 min
+443 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Neste Sommer](https://open.spotify.com/track/7Crq1N5Rf9M6dxlTQZyjI6) | [Chester](https://open.spotify.com/artist/3xegnQbXOPhxZbYZVdD3f5), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Neste Sommer](https://open.spotify.com/album/3rHifJvNraG9kv4ITZJKjU) | 2:05 | 2022-10-13 | 2022-10-16 |
 | [Neste år](https://open.spotify.com/track/1wHXgxVlxS5esQRWWVrVfH) | [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb), [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Neste år](https://open.spotify.com/album/0aJOOwDBDxbZCT9cXBcG2x) | 2:07 | 2023-08-10 | 2023-08-18 |
 | [Norge rundt](https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Norge rundt](https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J) | 3:24 | 2023-02-03 | 2023-05-21 |
+| [Norge trenger bonden!](https://open.spotify.com/track/0mOahKjQsKatdM08cTkXHr) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Norge trenger bonden!](https://open.spotify.com/album/6OyAEErfXmTxJEl3kauZCf) | 3:15 | 2026-04-02 |  |
 | [Norske rednecks](https://open.spotify.com/track/0dD5RMYPOYVzGDOhGJWgsF) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7) | [Norske rednecks](https://open.spotify.com/album/30S8kPqmcDPTVr4xBSAglF) | 2:53 | 2021-12-16 | 2022-04-18 |
 | [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 | 2022-10-13 |  |
 | [Nå Er Det Fredan Igjen](https://open.spotify.com/track/6zYOdvNQuHxUQtmktw2vwo) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/0kFw68XIGOIjPDa39wgSKb) | 2:50 | 2021-12-16 | 2022-05-11 |
@@ -441,7 +442,7 @@
 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 | 2022-10-13 | 2024-02-09 |
 | [Worth The Risk](https://open.spotify.com/track/7emllhbuaBXiFnal8ZOSft) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Worth The Risk](https://open.spotify.com/album/4xNCGf3ddwkMUGqo3IX65P) | 2:44 | 2022-04-07 | 2022-07-02 |
 | [Zetor'n](https://open.spotify.com/track/5xU3QasHudpR6QFBHvFLc6) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Zetor'n](https://open.spotify.com/album/6V6o7asFD4RVyx3PzwQaOA) | 3:40 | 2022-03-24 | 2022-04-18 |
-| [Zetor’n](https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:47 | 2024-10-21 |  |
+| [Zetor’n](https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:47 | 2024-10-21 | 2026-04-03 |
 | [Är det kärlek du behöver \- N!NE EPA Bass Boosted Remix](https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:53 | 2022-10-15 |  |
 | [Åka med mig](https://open.spotify.com/track/0c5MF7xJwdnOtSCK4EG4Q3) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stefaren](https://open.spotify.com/artist/6eefs3JldV7g10OCRNicxO) | [Åka med mig](https://open.spotify.com/album/2V72zf3EccLjABO9Nop8le) | 2:03 | 2022-11-17 | 2023-03-27 |
 | [Ærbeskær](https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærbeskær](https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds) | 2:15 | 2021-12-16 | 2024-04-10 |

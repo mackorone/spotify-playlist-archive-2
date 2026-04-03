@@ -913,6 +913,28 @@
     },
     {
       "album": {
+        "name": "2 l1t",
+        "url": "https://open.spotify.com/album/4auxhB5qT1Wsp2CqYvV3E4"
+      },
+      "artists": [
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        },
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117410,
+      "name": "ar1gato 2 you",
+      "url": "https://open.spotify.com/track/0F6r2VkKSiHn9i8p3tZJJS"
+    },
+    {
+      "album": {
         "name": "NOTHING CHANGED",
         "url": "https://open.spotify.com/album/3WzeQmmXZLjWi7VMt7Pl7S"
       },
@@ -9580,7 +9602,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 190819,
       "name": "No Less",
       "url": "https://open.spotify.com/track/32wGNSA3W124qObuGWW2i6"
@@ -13550,7 +13572,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 163468,
       "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
       "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
@@ -13898,7 +13920,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 163444,
       "name": "THERAPY SESSION",
       "url": "https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx"
@@ -14114,6 +14136,24 @@
       "duration_ms": 172800,
       "name": "TOY GIRL (with Juno & Valentino Rose)",
       "url": "https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy"
+    },
+    {
+      "album": {
+        "name": "OLORIN PACK",
+        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
+      },
+      "artists": [
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113776,
+      "name": "TRABAYE",
+      "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
     },
     {
       "album": {
@@ -14936,6 +14976,28 @@
       "duration_ms": 149628,
       "name": "Way Too Young",
       "url": "https://open.spotify.com/track/6CpKnWXqOXKaRoYXZr78GK"
+    },
+    {
+      "album": {
+        "name": "+WE 2 FLY\u00b0",
+        "url": "https://open.spotify.com/album/4NRUkjBzireLsRZ6BiP14v"
+      },
+      "artists": [
+        {
+          "name": "Monochrome",
+          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
+        },
+        {
+          "name": "S1orDie",
+          "url": "https://open.spotify.com/artist/1rxMZxcNgJiXunlNSAq8pY"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170467,
+      "name": "We 2 Fly",
+      "url": "https://open.spotify.com/track/4Ym5QOanjoiNXvWBIOyIh0"
     },
     {
       "album": {

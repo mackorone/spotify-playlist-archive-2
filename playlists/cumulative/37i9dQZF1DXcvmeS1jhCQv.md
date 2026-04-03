@@ -2,9 +2,9 @@
 
 ### [A Breath of Fresh Éire](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> New tunes from Ireland for your discovery\. Cover: Rosie Carney
+> New tunes from Ireland for your discovery\. Cover: KNEECAP
 
-421 songs - 23 hr 4 min
+424 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [33s](https://open.spotify.com/track/6Xib9snQv0CJ2NmY8SV4vW) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [33s](https://open.spotify.com/album/2lJOSCuyYCXf9HTgAhUhK0) | 3:44 | 2024-02-02 | 2024-04-12 |
 | [501s](https://open.spotify.com/track/6feJvH2JJNmrsXiAeUDAZb) | [Conchúr White](https://open.spotify.com/artist/3CKoNNHadnfwIuDzOmX7vF) | [501s](https://open.spotify.com/album/5JVHvHnv7bCaQqEMyygAkR) | 3:31 | 2024-02-02 | 2024-05-24 |
 | [A Dream](https://open.spotify.com/track/07xpCiMlogescjembqXvID) | [NAOMI JEREMIAH](https://open.spotify.com/artist/4mhXKME7vxoBUyjO7uIU5h) | [A Dream](https://open.spotify.com/album/7bIvUU5TnwqLcoObMOciWN) | 2:54 | 2025-11-28 |  |
-| [A Lifetime or Two](https://open.spotify.com/track/3bd3JPlFd4w85LEcXN4FIZ) | [Róise](https://open.spotify.com/artist/7ANwWQmuhIV8KmIOoZFjqq) | [Television](https://open.spotify.com/album/5GbCCEnNiwzRUxtyZie3CO) | 3:46 | 2025-11-14 |  |
+| [A Lifetime or Two](https://open.spotify.com/track/3bd3JPlFd4w85LEcXN4FIZ) | [Róise](https://open.spotify.com/artist/7ANwWQmuhIV8KmIOoZFjqq) | [Television](https://open.spotify.com/album/5GbCCEnNiwzRUxtyZie3CO) | 3:46 | 2025-11-14 | 2026-04-03 |
 | [Acid Rain](https://open.spotify.com/track/0zDh3nGjdZQUw4NVTVJiGe) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Acid Rain](https://open.spotify.com/album/4o5yDiykwO8ItIU0acNVfI) | 3:29 | 2025-04-23 | 2025-11-14 |
 | [Afterglow](https://open.spotify.com/track/6jIjQHf2S6jVh25TbNV6TM) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Afterglow](https://open.spotify.com/album/4C3YEmyqlD0ceZoYEXZLrT) | 3:20 | 2024-04-18 | 2024-11-16 |
 | [All at once](https://open.spotify.com/track/5J1PZvQu4OeX76aHwY8yls) | [Seán Joyce](https://open.spotify.com/artist/1RaoRco4KVMzbCJo5xZCVE) | [All at once](https://open.spotify.com/album/1FovzW1PrwkPwix17fLufC) | 3:22 | 2024-07-25 | 2024-12-07 |
@@ -123,7 +123,7 @@
 | [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-02-02 | 2024-05-03 |
 | [eliana](https://open.spotify.com/track/0cL1vePQmfGl6GdqNFXrsf) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [for james](https://open.spotify.com/album/2BokFGMyNZrL9GEraM1Vho) | 2:20 | 2025-03-07 | 2025-11-14 |
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2024-02-02 | 2024-02-16 |
-| [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 | 2025-07-30 |  |
+| [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 | 2025-07-30 | 2026-04-03 |
 | [EUROSTAR](https://open.spotify.com/track/4vsBFq7FzZszfgfUIUy7Ai) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [SPOOKY](https://open.spotify.com/album/6cIlRgrzjXGyTwSibBrvrZ) | 3:40 | 2025-01-10 | 2025-11-14 |
 | [Everyone's Here](https://open.spotify.com/track/7uv08gWiki9vJdqlPyQtTW) | [Brién](https://open.spotify.com/artist/3ih9EeN9uAqD2b323DdvMj) | [Everyone's Here](https://open.spotify.com/album/1DKIYposrZBuiAQvfFTBOz) | 2:42 | 2024-11-15 | 2025-05-31 |
 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 | 2025-01-31 | 2025-10-11 |
@@ -133,6 +133,7 @@
 | [Fault Line](https://open.spotify.com/track/16hJb6Q1lb22hVc4IsJoCo) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Fault Line](https://open.spotify.com/album/4oaZCFbDFPktNYKJrTlXf3) | 3:11 | 2025-11-14 |  |
 | [Favela](https://open.spotify.com/track/0eTBOGiX3nHdoUkP3QcqDA) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Favela](https://open.spotify.com/album/5MykttFGutQ8FE4C6bSP7J) | 1:58 | 2026-02-27 |  |
 | [Feels so Wrong](https://open.spotify.com/track/0SIjGMgwOFqwUTnpeesaz7) | [Still Searching](https://open.spotify.com/artist/2gSqF3RzCp1BFajY4yUxll), [Becky McNeice](https://open.spotify.com/artist/7edFE4o8Du2u5kmW93EY5f) | [Baile Nua](https://open.spotify.com/album/1vRrjSc0KUzHnpHmqnuBow) | 2:50 | 2025-11-14 |  |
+| [FENIAN](https://open.spotify.com/track/6vN9o849XOpOKbygIid6ck) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [FENIAN](https://open.spotify.com/album/0IAAsMXyI0xm8FkmsOJRh3) | 3:14 | 2026-04-02 |  |
 | [Figure It Out](https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figure It Out](https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD) | 3:11 | 2025-11-14 |  |
 | [First Prize](https://open.spotify.com/track/0BMZKsQfwIknNMn7iDUFDc) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [A Crescendo Ending](https://open.spotify.com/album/5RPiTbxAmc4c7atFXFFd6l) | 2:49 | 2024-06-20 | 2024-12-07 |
 | [Follow Me](https://open.spotify.com/track/5g5lGBblSV6M0XMveLlGRn) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Follow Me](https://open.spotify.com/album/4Vn7Y2GexjvoLqp8Mwf8pH) | 3:59 | 2024-02-02 | 2024-06-21 |
@@ -306,7 +307,7 @@
 | [Rivers](https://open.spotify.com/track/6Ly5TRE6GVx2K6vVnHa0ru) | [Conchúr White](https://open.spotify.com/artist/3CKoNNHadnfwIuDzOmX7vF) | [Rivers](https://open.spotify.com/album/5ZAcHFKb7UkBq49KSK3mG3) | 3:01 | 2024-02-02 | 2024-03-08 |
 | [RoseGold](https://open.spotify.com/track/3HwPz3OzoXWOEA1yiAIMZo) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [RoseGold](https://open.spotify.com/album/6Ane8pLlHEehPVZWe26z4N) | 4:56 | 2024-04-05 | 2024-08-23 |
 | [ROUGH](https://open.spotify.com/track/6fTshwPBLq7F1qfMGVrNT1) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [ROUGH](https://open.spotify.com/album/7535P5YwibD1up5Sba36QL) | 2:43 | 2025-01-31 | 2025-10-03 |
-| [round in circles](https://open.spotify.com/track/1oBZNwVCmIUBw4ZaPED0VE) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [round in circles](https://open.spotify.com/album/2WalztsJFp48MzjYLow60C) | 2:54 | 2025-11-14 |  |
+| [round in circles](https://open.spotify.com/track/1oBZNwVCmIUBw4ZaPED0VE) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [round in circles](https://open.spotify.com/album/2WalztsJFp48MzjYLow60C) | 2:54 | 2025-11-14 | 2026-04-03 |
 | [RUNAWAY](https://open.spotify.com/track/3ElJ5DOaqQEshMnejsX0VQ) | [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [RUNAWAY](https://open.spotify.com/album/3zguSEANWhPXzGCI34R3aX) | 2:31 | 2024-09-19 | 2025-04-24 |
 | [Sam Hall](https://open.spotify.com/track/7tmJRF0z9FZAzuYeX9yLS2) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Sam Hall](https://open.spotify.com/album/6ym6lC1fG7zAyMYaGHuspf) | 3:50 | 2024-12-06 | 2025-07-31 |
 | [Saoirse](https://open.spotify.com/track/5EJSeGt3bOW2ho0Ompib9g) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Saoirse](https://open.spotify.com/album/0StKhomjgXxgnr5geXZw0S) | 3:42 | 2026-02-27 |  |
@@ -385,6 +386,7 @@
 | [Tree Sap](https://open.spotify.com/track/1gE8YjNMyYbcuBpY6aIQrM) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [Tree Sap](https://open.spotify.com/album/3UEJYN35NOShY9pY7wyAvM) | 2:25 | 2024-02-02 | 2024-02-16 |
 | [TRUTH](https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [TRUTH](https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl) | 2:03 | 2025-06-26 | 2026-03-18 |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-02-02 | 2024-07-19 |
+| [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 | 2026-04-02 |  |
 | [twin flame](https://open.spotify.com/track/3CVr8uzhhUguJUdI17ZKkF) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [twin flame](https://open.spotify.com/album/10qMmgkmgspyaR23TVyqqr) | 1:49 | 2024-10-18 | 2025-05-31 |
 | [TWO SIDES](https://open.spotify.com/track/2obagAOY1SvYnEtSb9Q1a4) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [TWO SIDES](https://open.spotify.com/album/0DDHRnjZHVSgrlvrM9R4f5) | 4:07 | 2025-01-31 | 2025-10-11 |
 | [Under My Skin](https://open.spotify.com/track/2YL1nqQAZbiJFey1mwVCXu) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Under My Skin](https://open.spotify.com/album/1eKbAWza2LQkWIe2PBBjyG) | 3:32 | 2024-09-26 | 2025-06-20 |
@@ -399,6 +401,7 @@
 | [Waiting Room](https://open.spotify.com/track/32ZKLt3sWi1E6UsFhjoqDH) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [Waiting Room](https://open.spotify.com/album/25R3RUlOhwyroov3MpT5Eo) | 3:17 | 2025-02-28 | 2025-11-14 |
 | [Want You Back](https://open.spotify.com/track/1pcJTIl87SVVRPlO30dBDS) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Want You Back](https://open.spotify.com/album/53v4RgVbisJc0UlLgXq2uV) | 3:34 | 2024-02-02 | 2024-04-12 |
 | [WashItAllAway](https://open.spotify.com/track/1aQNQk07N0frC2Dbt9jt3B) | [LARAbEL](https://open.spotify.com/artist/4NYyRftIFDSk9ZM975OoBM) | [Squiggle](https://open.spotify.com/album/4nsQfoysktJVeL7Tflrnhz) | 4:40 | 2025-08-07 | 2026-02-27 |
+| [wasted time](https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI), [melodybloom](https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk) | [wasted time](https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ) | 2:13 | 2026-04-02 |  |
 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 | 2024-02-02 | 2024-04-12 |
 | [Waterfall](https://open.spotify.com/track/3vpAWGsnUk6YESo071ahXA) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Waterfall](https://open.spotify.com/album/57P6518jygT3Hj9Il7x4o0) | 3:24 | 2025-06-19 | 2025-11-14 |
 | [Waves](https://open.spotify.com/track/6l8jDnOuzV0se6Xqg04pk3) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Come As You Are](https://open.spotify.com/album/3abhzkoogxncYsKSBwxhqT) | 4:25 | 2024-05-30 | 2024-11-16 |

@@ -4,7 +4,7 @@
 
 > Music from "Dr.STONE" /「Dr.STONE」の楽曲を1つのプレイリストで。©米スタジオ・Boichi／集英社・Dr.STONE製作委員会
 
-62 songs - 3 hr 37 min
+63 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [With Our Own Hands \- 堤博明](https://open.spotify.com/track/07H8MGnrVLtEOCU7FPtbir) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『Dr.STONE』 オリジナル・サウンドトラック 4](https://open.spotify.com/album/4WKfSsZqmBJObUlZIwWevp) | 2:47 | 2023-09-28 |  |
 | [Won't Give Up](https://open.spotify.com/track/66xy3dNsGUZsRpxNR3ZuXw) | [リリアン・ワインバーグ\(Song Performed by Laura Pitt\-Pulford\)](https://open.spotify.com/artist/1JyA4TFld3mybh8Viy3Nmc), [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 2:15 | 2023-09-28 |  |
 | [カンデンマンガン\(Kung Dang Manganese\)](https://open.spotify.com/track/4dxyn09KeE7ArsOVHLM7gZ) | [あさぎりゲン\(CV.河西健吾\)](https://open.spotify.com/artist/7vWpv3e8gek5MgkmVVIdMA) | [TVアニメ「Dr.STONE」オリジナルサウンドトラック2](https://open.spotify.com/album/4cgRD0VVmCZkNnn2UqbPkv) | 0:44 | 2023-09-28 |  |
+| [スキンズ \- Skins](https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [スキンズ \- Skins](https://open.spotify.com/album/763UvrUoMGjPlFkgdpLFIH) | 4:05 | 2026-04-02 |  |
 | [ワスレガタキ](https://open.spotify.com/track/0HsQSbVZ3DCO79O1mDng5n) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/6HVxoLT2tveBMVrThNCFaz) | 2:57 | 2023-09-28 |  |
 | [三原色](https://open.spotify.com/track/4xOD2IlfXe7oLfC4Fbn76p) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [三原色](https://open.spotify.com/album/2xeHiFG4KHRkUEUKuxymC1) | 3:29 | 2023-09-28 |  |
 | [声?](https://open.spotify.com/track/00EAiVX99rZ4rlYFLItPcC) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [声?](https://open.spotify.com/album/6wbxrXya4hrgjELtSpgGaG) | 4:07 | 2023-09-28 |  |

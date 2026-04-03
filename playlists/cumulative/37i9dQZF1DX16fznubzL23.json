@@ -3287,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5tL0Es1QypmSnTCRzx0SPJ"
+      },
+      "artists": [
+        {
+          "name": "Charmaine 'L A",
+          "url": "https://open.spotify.com/artist/0XbOSZeNvIJbqZrgdKypsP"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1jEFxzaf8WWPcNrmU96gVN"
+    },
+    {
+      "album": {
         "name": "More Than Friends",
         "url": "https://open.spotify.com/album/4ho264FYDgVnp1mnnSyDyg"
       },
@@ -3686,7 +3704,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 115294,
       "name": "Not Romantic",
       "url": "https://open.spotify.com/track/50cMzFR04kYjHTuu8k69oi"

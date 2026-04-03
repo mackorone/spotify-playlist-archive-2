@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 5月5日\(火祝\)\~6日\(水祝\)に開催される「KOBE MELLOW CRUISE」公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,904 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,909 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 59 | [Sawajiri Erika](https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 2:07 |
 | 60 | [supanova](https://open.spotify.com/track/3pVCx5BUhT0ttGffkIeLg0) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [Seaside Club](https://open.spotify.com/album/3Z0oNlsaqAMEUTGWKI9bu0) | 2:28 |
 
-Snapshot ID: `AAAAANwYWMpsd4Y9AbGfDKcTvFAGNHZe`
+Snapshot ID: `AAAAANUIk+tkHDR+of5q5cwF4h2vfJEu`

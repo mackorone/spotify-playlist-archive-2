@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142729,
+  "num_followers": 1142747,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 239212,
-      "name": "twin flame",
-      "url": "https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Nothing But Thieves (Deluxe)",
         "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 206563,
       "name": "If I Get High",
       "url": "https://open.spotify.com/track/3O2pB9JHreUZ9F83qSNmu8"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 239212,
+      "name": "twin flame",
+      "url": "https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Songs for Dads",
-        "url": "https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "I Love You So",
-      "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 265613,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Songs for Dads",
+        "url": "https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Woodland - EP",
-        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Sadnecessary",
         "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 262000,
       "name": "Flashed Junk Mind",
       "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Woodland - EP",
+        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1499,6 +1499,22 @@
       "duration_ms": 321453,
       "name": "Hanging On",
       "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "I'll Keep You In Mind, From Time to Time",
+        "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
+      },
+      "artists": [
+        {
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
+        }
+      ],
+      "duration_ms": 159711,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1615,22 +1631,6 @@
       "duration_ms": 204466,
       "name": "Guru",
       "url": "https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/76MThARuTPq59l5oseVCJT"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 258186,
-      "name": "Don't Move",
-      "url": "https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh"
     }
   ],
   "unique_name": "You & Me",

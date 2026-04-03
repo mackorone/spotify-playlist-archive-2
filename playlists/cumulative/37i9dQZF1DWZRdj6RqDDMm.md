@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-635 songs - 1 day 11 hr 21 min
+638 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [HOLY \- Choir Version](https://open.spotify.com/track/2QrNCXp6HbRAcIDVT3Umra) | [Mark Success](https://open.spotify.com/artist/2UsJ6DTOfg7n99HC3aJAip) | [HOLY \(Choir Version\)](https://open.spotify.com/album/0YgIWrQZ9ssYZhv1O1FQds) | 1:40 | 2024-04-26 | 2024-07-05 |
 | [Holy Hip\-Hop](https://open.spotify.com/track/2PiygCTWtDWGfNeAFbVEoE) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Holy Hip\-Hop](https://open.spotify.com/album/4ek9Wu3eDpVLyxzwVTRBAN) | 2:17 | 2024-01-12 | 2024-02-23 |
 | [Holy Hip\-Hop II](https://open.spotify.com/track/5tfF2kMhZqYCDPBXVcQe9v) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Pwa'ashino](https://open.spotify.com/artist/3BAq1Yh9Bnz0mhMwOdBKkX) | [Holy Hip\-Hop II](https://open.spotify.com/album/739MEjClzOAKQ6JkMRzOS2) | 3:20 | 2024-08-16 | 2024-10-18 |
+| [Holy Lion \- Live](https://open.spotify.com/track/1a5o3ggaPXvJQ4jpJse1G7) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Holy Lion](https://open.spotify.com/album/0iPF450yj9uArQB1dzYGwP) | 8:36 | 2026-04-03 |  |
 | [HOLY PLACE](https://open.spotify.com/track/5jkD22xzTiwTLp90CBpTmr) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [HOLY PLACE](https://open.spotify.com/album/2opgoS8ibTjPJCU55jgkt4) | 4:17 | 2026-01-30 |  |
 | [Holy Spirit](https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 7:29 | 2024-01-26 |  |
 | [Hossana](https://open.spotify.com/track/3rGzoZemU63QFPr0pNwxwy) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s), [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Hossana](https://open.spotify.com/album/6z3uhmYUiARvZFUMnxoErm) | 2:34 | 2024-06-14 | 2024-08-16 |
@@ -409,6 +410,7 @@
 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2023-10-20 | 2024-02-17 |
 | [Occupy](https://open.spotify.com/track/5JJYztRVAlMuGKfwahenyD) | [Moses Eze](https://open.spotify.com/artist/4S4H6Q2AjmqM9tEIeFRbMm) | [Occupy](https://open.spotify.com/album/7FgUzZ8pYKyG26LQ238ILN) | 2:48 | 2025-08-15 | 2025-10-10 |
 | [Odogwu Na'agha](https://open.spotify.com/track/2t7FMZ7kKOHzQfSyC8IOOF) | [Dare David](https://open.spotify.com/artist/3iSjgaz8j7eDfSlsXqhx63) | [Odogwu Na'agha](https://open.spotify.com/album/7pWsOyypgykAvu95ba3VPT) | 5:37 | 2025-03-21 |  |
+| [Off Days](https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Off Days](https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU) | 3:20 | 2026-04-03 |  |
 | [Off My Feet](https://open.spotify.com/track/3HHautxyzcZIoW1ky10Sc0) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Off My Feet](https://open.spotify.com/album/1lP1Isnzfqi717ZoqG2T0O) | 2:31 | 2024-04-05 | 2024-09-06 |
 | [Oghene Doh](https://open.spotify.com/track/1nQ8q7jsrcmzexCi5eGUUK) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Oghene Doh](https://open.spotify.com/album/2eiepZSsPBPYugqKudqfG1) | 3:59 | 2024-04-12 | 2025-01-10 |
 | [Oh Mpa](https://open.spotify.com/track/4ZveSGfjIUWpBm1RO8dsoD) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Oh Mpa](https://open.spotify.com/album/3NXAo7AMQmzIgp2Hcupn5t) | 3:48 | 2025-01-10 | 2025-05-30 |
@@ -511,6 +513,7 @@
 | [Sit](https://open.spotify.com/track/1RJUPZirLCgAfuw7AvzKiw) | [Tobi Tes](https://open.spotify.com/artist/6OdJ4i4jk7ySs7AqHoaFuA), [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Sit](https://open.spotify.com/album/2K0vs7PhXvWUGzRUVvgOto) | 3:02 | 2025-12-26 | 2026-01-30 |
 | [Smile](https://open.spotify.com/track/1gfC7nGth0lAF5gyXwAI1R) | [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe), [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Smile](https://open.spotify.com/album/6iw7OKvgFeOrCg5Qj42Hzs) | 6:00 | 2025-05-30 | 2025-06-13 |
 | [Solace in You](https://open.spotify.com/track/7ssyPSO2hy5CJxpa5RHDv7) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Solace in You](https://open.spotify.com/album/06pr5GD2OmF8mxG3YVBfkW) | 3:32 | 2025-12-12 | 2026-03-06 |
+| [Solitude](https://open.spotify.com/track/3PZSTBNopf5iiP2wYTKTD4) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [MonLee Mane](https://open.spotify.com/artist/10uFSeSqZvh5HQmINSSGcE) | [Solitude](https://open.spotify.com/album/3vNGrHDnRrxEu3g1ccJFIj) | 3:20 | 2026-04-03 |  |
 | [Song Of Love](https://open.spotify.com/track/0UhMMj6DTG65TC84UxIl3V) | [Mo'Lola](https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO), [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ) | [Song Of Love](https://open.spotify.com/album/2xeDGHYMn8QUsbBZUwLRnJ) | 4:34 | 2024-02-09 | 2024-03-01 |
 | [SORO \(speak\)](https://open.spotify.com/track/5R7K57LirFdfq4cpQjaUft) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Apostle Richard Onebamoi](https://open.spotify.com/artist/1pX3Iyn0rqhwDo7vKN5tmY) | [SORO \(speak\)](https://open.spotify.com/album/7MrAxqjMlYl64mABcbRiQv) | 5:54 | 2025-01-30 | 2025-03-21 |
 | [Sparrow](https://open.spotify.com/track/2JMcODWr2bxsnum0G2Atre) | [Yimika](https://open.spotify.com/artist/5YlBgQy703VoyidAjPDzzO), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3) | [Sparrow](https://open.spotify.com/album/5x3YLyNDrKn75OUd3ijTMX) | 2:01 | 2026-02-20 |  |

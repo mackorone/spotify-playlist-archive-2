@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 17157,
+  "num_followers": 17173,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,18 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/7tour33WTvp9sK9CZ1Fh5F"
+        "name": "Amen (Live)",
+        "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "FRA!",
+          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
         }
       ],
-      "duration_ms": 422954,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/75sGkbnu0fhIX5r5Setmd5"
+      "duration_ms": 200161,
+      "name": "Amen - Live",
+      "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -351,18 +351,18 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Amen (Live)",
-        "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/7tour33WTvp9sK9CZ1Fh5F"
       },
       "artists": [
         {
-          "name": "FRA!",
-          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 200161,
-      "name": "Amen - Live",
-      "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
+      "duration_ms": 422954,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/75sGkbnu0fhIX5r5Setmd5"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Sing",
-        "url": "https://open.spotify.com/album/775gzUzBh5ga4fThcVEflT"
-      },
-      "artists": [
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/2vaKwFtTvNmq2PAbKtxPpH"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "Yesu Meda Wase",
         "url": "https://open.spotify.com/album/1gLEBofnKav2fJEDenAx7M"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 319701,
       "name": "Yesu Meda Wase",
       "url": "https://open.spotify.com/track/3HS6eorSIugQE3oyXanSOJ"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "Sing",
+        "url": "https://open.spotify.com/album/775gzUzBh5ga4fThcVEflT"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/2vaKwFtTvNmq2PAbKtxPpH"
     },
     {
       "added_at": "2026-03-12 23:38:53",

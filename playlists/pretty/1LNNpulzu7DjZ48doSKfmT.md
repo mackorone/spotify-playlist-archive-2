@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 461 likes - 399 songs - 20 hr 8 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 462 likes - 404 songs - 20 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -407,5 +407,10 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 397 | [ROCKSTAR](https://open.spotify.com/track/02uFOFVJ5ENxARYYzv2V5x) | [Lil Tweest](https://open.spotify.com/artist/0jmqZUm1FmUbILmyMVkWpZ) | [ROCKSTAR](https://open.spotify.com/album/4KHXKMGNGQtB0Yx3a6cQ8M) | 2:15 |
 | 398 | [Lost Inside the Afterglow](https://open.spotify.com/track/1mfjmEdZqVNylQoRQrdLmP) | [Low Tide Signals](https://open.spotify.com/artist/0yLzIVCnk8YeBE8UikbhFG) | [Lost Inside the Afterglow](https://open.spotify.com/album/5lKuG4M3SKcCwNVAciHvxe) | 3:02 |
 | 399 | [Marry Her](https://open.spotify.com/track/6E4qQ2uPxy8GKduJqzpU1O) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd) | [Marry Her](https://open.spotify.com/album/4ZoHq2Soy1Bq9FrV5424RB) | 3:06 |
+| 400 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 |
+| 401 | [Unmatched Energy](https://open.spotify.com/track/7y3UqtDdSLrtieDS30ebRK) | [The Disciple](https://open.spotify.com/artist/4rFx1sd3c9LDKaKJt1qcEm) | [Unmatched Energy](https://open.spotify.com/album/1lKhWYO9aE2dKmq1clRXiG) | 3:54 |
+| 402 | [The Apple](https://open.spotify.com/track/6E0KXePDFJFzk9BlQ07p2U) | [Ryan Aotani](https://open.spotify.com/artist/62zTP7Hd5XwMVQwEuQ8ttB) | [The Apple](https://open.spotify.com/album/26OzWwi9hNcp0N3KRiMUyW) | 2:57 |
+| 403 | [FOOLS GOLD](https://open.spotify.com/track/4smBauBzEkVhRt7WGsby6E) | [MARLON](https://open.spotify.com/artist/27eocpxomMYAIsSTC7ub7z) | [FOOLS GOLD](https://open.spotify.com/album/5dsoKOXrJx0wx8KVscSNQ7) | 1:52 |
+| 404 | [SMITH & MR\. WESSON](https://open.spotify.com/track/7LRereBkRes9WIflpQl593) | [MARLON](https://open.spotify.com/artist/27eocpxomMYAIsSTC7ub7z), [FLORES](https://open.spotify.com/artist/10SgODoY6fWDzAhCEWvNUN) | [SMITH & MR\. WESSON](https://open.spotify.com/album/3J1ksZyw0iHkmsYJCTmH9x) | 2:26 |
 
-Snapshot ID: `AAAcN8BX5VWAK6MXPnywGzGQPB9QGRoi`
+Snapshot ID: `AAAcPPX5sE2EmTl1HQpvw1m4OP5i8MOE`

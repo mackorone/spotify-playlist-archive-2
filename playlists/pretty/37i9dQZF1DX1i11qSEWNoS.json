@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 643026,
+  "num_followers": 643056,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -891,18 +891,22 @@
     {
       "added_at": "2026-03-26 23:00:06",
       "album": {
-        "name": "Baby Bell",
-        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
+        "name": "Fast Cars & Superstars",
+        "url": "https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR"
       },
       "artists": [
         {
-          "name": "Breitner",
-          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
+          "name": "Cristian Marchi",
+          "url": "https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW"
+        },
+        {
+          "name": "Reverend Haus",
+          "url": "https://open.spotify.com/artist/3mm99b8u85c3cbeel8FDAJ"
         }
       ],
-      "duration_ms": 159565,
-      "name": "Baby Bell",
-      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
+      "duration_ms": 118701,
+      "name": "Fast Cars & Superstars",
+      "url": "https://open.spotify.com/track/4TMczfHTXHSDPHOsxqS1sa"
     },
     {
       "added_at": "2026-03-26 23:00:06",
@@ -927,22 +931,18 @@
     {
       "added_at": "2026-03-26 23:00:06",
       "album": {
-        "name": "Fast Cars & Superstars",
-        "url": "https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR"
+        "name": "Baby Bell",
+        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
       },
       "artists": [
         {
-          "name": "Cristian Marchi",
-          "url": "https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW"
-        },
-        {
-          "name": "Reverend Haus",
-          "url": "https://open.spotify.com/artist/3mm99b8u85c3cbeel8FDAJ"
+          "name": "Breitner",
+          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
         }
       ],
-      "duration_ms": 118701,
-      "name": "Fast Cars & Superstars",
-      "url": "https://open.spotify.com/track/4TMczfHTXHSDPHOsxqS1sa"
+      "duration_ms": 159565,
+      "name": "Baby Bell",
+      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
     },
     {
       "added_at": "2026-03-26 23:00:06",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2026-03-26 23:00:06",
       "album": {
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+    },
+    {
+      "added_at": "2026-03-26 23:00:06",
+      "album": {
         "name": "HURENSOHN",
         "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 157402,
       "name": "DRAGO AUGUSTINO",
       "url": "https://open.spotify.com/track/3zadSXykCJFdmRKxsfOQ2h"
-    },
-    {
-      "added_at": "2026-03-26 23:00:06",
-      "album": {
-        "name": "KETA UND KRAWALL",
-        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
-        }
-      ],
-      "duration_ms": 125492,
-      "name": "KETA UND KRAWALL",
-      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
     },
     {
       "added_at": "2026-03-26 23:00:06",
@@ -1779,42 +1779,6 @@
     {
       "added_at": "2026-03-26 23:00:06",
       "album": {
-        "name": "Mille Grazie",
-        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
-    },
-    {
-      "added_at": "2026-03-26 23:00:06",
-      "album": {
-        "name": "KNUTSCHFLECK",
-        "url": "https://open.spotify.com/album/7IvvlCspMq250Y7Gf6D1PF"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 156176,
-      "name": "KNUTSCHFLECK",
-      "url": "https://open.spotify.com/track/4cfqkdJ1CdSnwmM4UdfPiY"
-    },
-    {
-      "added_at": "2026-03-26 23:00:06",
-      "album": {
         "name": "BIKINI GRELL",
         "url": "https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM"
       },
@@ -1847,6 +1811,42 @@
       "duration_ms": 204000,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "added_at": "2026-03-26 23:00:06",
+      "album": {
+        "name": "KNUTSCHFLECK",
+        "url": "https://open.spotify.com/album/7IvvlCspMq250Y7Gf6D1PF"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 156176,
+      "name": "KNUTSCHFLECK",
+      "url": "https://open.spotify.com/track/4cfqkdJ1CdSnwmM4UdfPiY"
+    },
+    {
+      "added_at": "2026-03-26 23:00:06",
+      "album": {
+        "name": "Mille Grazie",
+        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
     }
   ],
   "unique_name": "schiebt anders",

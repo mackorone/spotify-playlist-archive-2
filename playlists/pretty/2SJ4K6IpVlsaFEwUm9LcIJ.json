@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2026 (previous playlists archived on my profile)",
-  "num_followers": 24268,
+  "num_followers": 24273,
   "original_name": "home when you return",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAODuLpMM3q2CoUKuN2HprOYh/EVoG8",
+  "snapshot_id": "AAAOENXLoY7qwQ8x5JFYOheFcEZvAUbw",
   "tracks": [
     {
       "added_at": "2026-03-12 17:07:42",
@@ -367,6 +367,38 @@
       "duration_ms": 207973,
       "name": "Off the Rail",
       "url": "https://open.spotify.com/track/1pLQ2Wwyd9DlyFWkki5HHX"
+    },
+    {
+      "added_at": "2026-04-02 21:08:47",
+      "album": {
+        "name": "You Think It's Like This But Really It's Like This",
+        "url": "https://open.spotify.com/album/2TBjVIWGpjU5J0VkKNq0Ff"
+      },
+      "artists": [
+        {
+          "name": "Mirah",
+          "url": "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
+        }
+      ],
+      "duration_ms": 289720,
+      "name": "Sweepstakes Prize",
+      "url": "https://open.spotify.com/track/7s3548yd3bletCda8v5zQs"
+    },
+    {
+      "added_at": "2026-04-02 22:02:20",
+      "album": {
+        "name": "Primitive Love",
+        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
+      },
+      "artists": [
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Falling In Love (Uh-Oh)",
+      "url": "https://open.spotify.com/track/5jwoygernfGvAuIxFSqxHp"
     }
   ],
   "unique_name": "home when you return",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 
 > The official playlist for 365 Days trilogy\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,292 likes - 77 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,323 likes - 77 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JXQl1bmFgT.md) - [plain]
 | 40 | [Tu Coche](https://open.spotify.com/track/1F1eXMItFj4gAhM7JSFnfh) | [J.J\. Abel](https://open.spotify.com/artist/2kptWrlEYUY9Tksx9f9EDE), [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Tu Coche](https://open.spotify.com/album/6HcYHU1x2h6r8Cqde0RjxM) | 2:41 |
 | 41 | [Coming Back](https://open.spotify.com/track/3ohPMjVSAnwj1lfPbZchjR) | [Robin Loxley](https://open.spotify.com/artist/2Lc0SlbkNbedYcGd5V7R4g), [Smudge Mason](https://open.spotify.com/artist/2lnw3CSgw0VsbPd9ucKUOD) | [Indie Ballads](https://open.spotify.com/album/1OjvJU0GnsOYqMgrdTYC6R) | 3:33 |
 | 42 | [On It](https://open.spotify.com/track/5asNFwe1ZwlW3jTjPk7k6j) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [On It](https://open.spotify.com/album/2vyCR653Jik6KEKMdPKUpF) | 2:54 |
-| 43 | [Lovesick](https://open.spotify.com/track/1qeVVhpTobYtad8aOwUb3h) | [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [Lovesick](https://open.spotify.com/album/56qerLUlo7Ts5NnwiHiP2O) | 2:49 |
+| 43 | [Lovesick](https://open.spotify.com/track/1qeVVhpTobYtad8aOwUb3h) | [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [Kuba Szmajkowsky](https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ) | [Lovesick](https://open.spotify.com/album/56qerLUlo7Ts5NnwiHiP2O) | 2:49 |
 | 44 | [Give 'em Hell](https://open.spotify.com/track/4erIlmqDxM8ZeBHqHonRXM) | [Robbie Nevil](https://open.spotify.com/artist/4NkLjsRsFnuPu9B4zqzBqq) | [I See Red: Everybody Loves an Outlaw](https://open.spotify.com/album/2mq4HAlGrOLpSGQ8DvDtaf) | 2:39 |
 | 45 | [Choose](https://open.spotify.com/track/0JIWtIU7Q4HbfdceW0cNbt) | [Ian Scott](https://open.spotify.com/artist/2eOYAtEiQnCh4NVIgAh5Jn) | [Choose](https://open.spotify.com/album/03e3cgkOQCcJkHvswUYNaB) | 2:45 |
 | 46 | [Another Wave](https://open.spotify.com/track/5d3KvWvuu5qpYCbpZX163x) | [Raphael Lake](https://open.spotify.com/artist/1jHQI26XkjY8BHwvDnh9Jw) | [Disco Pop](https://open.spotify.com/album/1fqRT8C9oIioQRyanc7Teq) | 3:12 |

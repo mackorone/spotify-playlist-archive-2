@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Bloemen Voor De Moeders",
+        "url": "https://open.spotify.com/album/7p5JTvi9BM9P3onLcKWSqi"
+      },
+      "artists": [
+        {
+          "name": "Kregel",
+          "url": "https://open.spotify.com/artist/0KlczGkbURYdsbNnWTou94"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251996,
+      "name": "Bloemen Voor De Moeders",
+      "url": "https://open.spotify.com/track/57Vvsb0cHfgSfBwFTy9ueX"
+    },
+    {
+      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/7CMzjb69JKk0dPiBfI0LXQ"
       },
@@ -1098,6 +1116,24 @@
       "duration_ms": 252000,
       "name": "Cold Hand",
       "url": "https://open.spotify.com/track/7fVun2Co3aRW5yZxz0ZwMZ"
+    },
+    {
+      "album": {
+        "name": "Comfortably Numb",
+        "url": "https://open.spotify.com/album/1EsBwHkNSLDOFEbJLqaYxs"
+      },
+      "artists": [
+        {
+          "name": "Bugeye",
+          "url": "https://open.spotify.com/artist/5coA87VxMQH8xZRRbhc03m"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196573,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/7sRuGGOjQ8fl43PYTZgfvJ"
     },
     {
       "album": {
@@ -1682,7 +1718,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 224919,
       "name": "Disarm",
       "url": "https://open.spotify.com/track/2m6rggLAMteu6mOULCbu9n"
@@ -1808,7 +1844,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -3037,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Greetings From The Half Life",
+        "url": "https://open.spotify.com/album/6IaErzZEimmXH7w0ViJqv0"
+      },
+      "artists": [
+        {
+          "name": "Nick Luddite",
+          "url": "https://open.spotify.com/artist/5JW6XHyFvz9WOZidRZwYq5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208661,
+      "name": "Greetings From The Half Life",
+      "url": "https://open.spotify.com/track/5r89EqCofA1SbES6otsK4Z"
+    },
+    {
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/04ETecVYyhQAYzwwfnngqq"
       },
@@ -3250,7 +3304,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -3524,7 +3578,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 267391,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/1mPpngt6wY5CpcuCjodRGW"
@@ -3546,6 +3600,24 @@
       "duration_ms": 338513,
       "name": "I Ora Tou Stuff",
       "url": "https://open.spotify.com/track/64TVlFtRGqoQbqND2Ofcj3"
+    },
+    {
+      "album": {
+        "name": "I Rot",
+        "url": "https://open.spotify.com/album/1mryN4qrdrnlD5YrtugppU"
+      },
+      "artists": [
+        {
+          "name": "Method Blank",
+          "url": "https://open.spotify.com/artist/3GDcIr6nBf3NXeKU7O89fM"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336125,
+      "name": "I Rot",
+      "url": "https://open.spotify.com/track/45ZUN6y6Xd6RXDovAnSTvG"
     },
     {
       "album": {
@@ -3870,7 +3942,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 230952,
       "name": "Juicy Lucy",
       "url": "https://open.spotify.com/track/2p3uS5Tx2LcCYHXX3WT4Kh"
@@ -5177,6 +5249,24 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/4LpJYT0okKB0yZeTLCSd5p"
+      },
+      "artists": [
+        {
+          "name": "Moderation",
+          "url": "https://open.spotify.com/artist/0yfUMCYHUaB3Hs9qajAdFw"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208064,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/5JtzIKPFgxpzcYPeeWOjLc"
+    },
+    {
+      "album": {
         "name": "Dukkeskrekk",
         "url": "https://open.spotify.com/album/2jKiFBwOvuf6lurONkyr0f"
       },
@@ -5646,7 +5736,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 246088,
       "name": "Old Heart Falls",
       "url": "https://open.spotify.com/track/2wruwMp8j02epUMpj6CKOA"
@@ -5682,7 +5772,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -6520,7 +6610,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 192974,
       "name": "Sat\u0131l\u0131k",
       "url": "https://open.spotify.com/track/7on488VC4QZnr1ugaYj87q"
@@ -6812,7 +6902,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 209933,
       "name": "She Haunts the Night",
       "url": "https://open.spotify.com/track/0CBfmGzrW3mEeW3CqIJM5w"
@@ -7190,7 +7280,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 251586,
       "name": "Speaking In Smoke",
       "url": "https://open.spotify.com/track/1DtjHQOd7iF8LuLn1rja36"
@@ -7800,7 +7890,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 218408,
       "name": "The EyePhone Is My New Religion",
       "url": "https://open.spotify.com/track/3dqgKYCTzGdwPiOlSYrEpz"
@@ -8237,6 +8327,28 @@
     },
     {
       "album": {
+        "name": "The Weight (Barn Tapes 04)",
+        "url": "https://open.spotify.com/album/4MuEQ9MtPxY5MMTsd9D4D1"
+      },
+      "artists": [
+        {
+          "name": "Matze Rossi",
+          "url": "https://open.spotify.com/artist/0sPJEKFDMd3zAKilFyh6b2"
+        },
+        {
+          "name": "Yotam Ben Horin",
+          "url": "https://open.spotify.com/artist/4RNK7RtKxBIalLG6QZo6Dj"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226166,
+      "name": "The Weight - Barn Tapes 04",
+      "url": "https://open.spotify.com/track/4vVfBSaHb51UlgDwu93FaE"
+    },
+    {
+      "album": {
         "name": "The Witch's Waltz",
         "url": "https://open.spotify.com/album/1nrZd1okX3zNWKjYZFGmdL"
       },
@@ -8610,7 +8722,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 169756,
       "name": "TO\u0143",
       "url": "https://open.spotify.com/track/0Q0eVjlRJIFzMkL1NbJawP"
@@ -8754,7 +8866,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -9396,7 +9508,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 187409,
       "name": "Whisper in Storms",
       "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"

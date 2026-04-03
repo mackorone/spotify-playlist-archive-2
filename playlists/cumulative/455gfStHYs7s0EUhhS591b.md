@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-266 songs - 15 hr 36 min
+268 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Fade Into You](https://open.spotify.com/track/5hBvkRhD2ozsjlYiV5KiRQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Chill Executive Officer \(CEO\), Vol\. 34 \[Selected by Maykel Piron\]](https://open.spotify.com/album/49DZIPW5Uxtr6j3m5ZRVZs) | 3:36 | 2025-07-18 |  |
 | [Fall Forward](https://open.spotify.com/track/1UTTCPSa4LXtFq8H0y2yer) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Ocean Whisper](https://open.spotify.com/album/2TS8GzDdIIPfankjCGj4dT) | 3:02 | 2025-07-18 |  |
 | [Falling \(Piece Of Me\)](https://open.spotify.com/track/6DSMipCcpahSwU0mXwlHF4) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Falling \(Piece Of Me\)](https://open.spotify.com/album/0iRONB7bulwsfUjG9ytR6j) | 2:48 | 2025-07-18 |  |
+| [Falling Trees](https://open.spotify.com/track/7qxQJALzKMC1PTcgl5NaHy) | [Friend of Honor](https://open.spotify.com/artist/0CJ7GINCDoDAN3pvV8qwtf), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Falling Trees](https://open.spotify.com/album/2L20vjCwbC8xnP9wVnHS7D) | 4:29 | 2026-04-03 |  |
 | [Farewell To The Moon \- Lukas Midub Chillout Mix](https://open.spotify.com/track/7dYhaMyzBajkkB1TDbpfZp) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Lukas Midub](https://open.spotify.com/artist/5pInJK9j0YkdpMck2kdZgf) | [Infinite](https://open.spotify.com/album/6BhHiGdMkVuoxki0s8MAha) | 3:21 | 2025-06-19 |  |
 | [Fate](https://open.spotify.com/track/77v4vQQ3wAJ1pqMZDmXLHR) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [Fate](https://open.spotify.com/album/0sM9ddbJh4pUSGVtPOfzUT) | 1:51 | 2025-06-19 |  |
 | [Feel Again \- Lounge Edit](https://open.spotify.com/track/0YZPP5q0xm182fbAI6uTgg) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Moa Lisa](https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E) | [Feel Again \(Lounge Edit\)](https://open.spotify.com/album/0zTEmHrBbr8OL9ZGFR5Uow) | 3:00 | 2025-06-19 |  |
@@ -234,6 +235,7 @@
 | [Strange Without You](https://open.spotify.com/track/3o3HcXTDlmO1mUDb2f6Zqb) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Chill Executive Officer \(CEO\), Vol\. 8 \[Selected by Maykel Piron\]](https://open.spotify.com/album/2GWbdANbXBXg9uFBf6fAnc) | 3:33 | 2025-07-18 |  |
 | [Strangers](https://open.spotify.com/track/4yMHaZOLDSDSDrQDj5hr4D) | [Sam Wiseman](https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47), [ANDREWBATES](https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv) | [Strangers](https://open.spotify.com/album/1sjYj345gHTVjhelEKkR8S) | 3:02 | 2025-07-18 | 2025-09-05 |
 | [Subterranean \- Chill Mix](https://open.spotify.com/track/6T4v5vAdSRMJs3NsHbf1WE) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Armada Electronic Elements \- Essentials 2024](https://open.spotify.com/album/0wAAs3GYLNR21J1Ym4OxEG) | 3:04 | 2025-06-19 |  |
+| [Sun Above](https://open.spotify.com/track/6liwDOC1aJsxqqvIiJnDNK) | [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4) | [Sun Above](https://open.spotify.com/album/162nDxmkiLd4v8V64lf4Sf) | 3:37 | 2026-04-03 |  |
 | [Sun Is Shining \- Kato Remix](https://open.spotify.com/track/53Z3R7mfgRgMp92TgnYSAo) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2), [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A) | [Sun Is Shining \(Kato Remix\)](https://open.spotify.com/album/0bPSH8gHTb5LpJmJUmCh1W) | 3:06 | 2025-12-17 |  |
 | [Sunday](https://open.spotify.com/track/72hlIMZzH5uKjddm1BHqIl) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG) | [Circle Line](https://open.spotify.com/album/0tVzr7LmiN8OoWuRPcoCgx) | 3:58 | 2025-07-18 | 2025-09-05 |
 | [Sunrise](https://open.spotify.com/track/7CXD0SFVhMXi7z898a6fxs) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Sunrise](https://open.spotify.com/album/2gpx29vJMTMNlYxN9CIcsE) | 3:04 | 2025-06-19 |  |

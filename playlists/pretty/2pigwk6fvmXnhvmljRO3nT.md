@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,417 songs - 21 day 10 hr 56 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,421 songs - 21 day 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8425,5 +8425,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8415 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 |
 | 8416 | [GOCHISO様](https://open.spotify.com/track/1sZ9rkYkLg7X8i3AeiMYMY) | [ヒシアマゾン \(CV\. 巽 悠衣子\)](https://open.spotify.com/artist/60uJpPl3obcx0b9l4Lh8fG), [サクラチヨノオー \(CV\. 野口瑠璃子\)](https://open.spotify.com/artist/3nmPhZtuGpChr7Rvb0UAfr), [カツラギエース \(CV\. 藤原夏海\)](https://open.spotify.com/artist/4XGQkF8hcw6jDWULBRUvCo), [シーザリオ \(CV\. 佐藤榛夏\)](https://open.spotify.com/artist/4UeO844LVP3OuVBQBh4jsD) | [GOCHISO様](https://open.spotify.com/album/1MOckS48Hgg5Leoyh3OFLw) | 3:18 |
 | 8417 | [MANIAC](https://open.spotify.com/track/35ZccqI4iHVR0puhGc1u0U) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/0QMR5pNGuNu4ao6v7ux9Yt) | 3:15 |
+| 8418 | [力になりたい](https://open.spotify.com/track/1SCysEXfxnYkCQzv8LepoE) | [Takeshi Nakatsuka](https://open.spotify.com/artist/20NsQIQXOKSrclmLOeZLIF) | [その着せ替え人形は恋をする Original Soundtrack VOL.1](https://open.spotify.com/album/22WJ7yTFy5skROvKGWyddA) | 3:02 |
+| 8419 | [Missing You](https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:20 |
+| 8420 | [DADDY ! DADDY ! DO !](https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [Airi Suzuki](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:14 |
+| 8421 | [ラブ・ドラマティック](https://open.spotify.com/track/7retZfwqndc1A1eUl8mUsf) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [伊原六花](https://open.spotify.com/artist/2oHiy1x5X3FnhsLrrS6IEo) | [MARTINI DUET DELUXE](https://open.spotify.com/album/5hj7c0XVJ45tuKXgSz54k3) | 4:24 |
 
-Snapshot ID: `AAALflfbmbFzKli0rMxe38di9dXa+WRX`
+Snapshot ID: `AAALgpKfKEJR1i8eVSI18vGhgG30Fsfw`

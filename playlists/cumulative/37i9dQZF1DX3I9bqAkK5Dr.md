@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-503 songs - 1 day 6 hr 12 min
+504 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Andame](https://open.spotify.com/track/5CHTjwWyqr4uhkRWNcT3Vf) | [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Andame](https://open.spotify.com/album/7BP2lZYx8RrW8fICweQynt) | 3:28 | 2023-02-21 | 2023-11-21 |
 | [Andhami Swapnam](https://open.spotify.com/track/1BtRSvbXdLyZEweikCLqsm) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/5qIsGKX1MhrYRXrMO4eDIo) | 4:26 | 2023-05-02 | 2024-04-19 |
 | [Andhami Swapnam](https://open.spotify.com/track/3tiYuEpEjZGuFLjfDf0UyX) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/6IUYeqHEcXN6OYusVU3b8z) | 4:26 | 2023-05-02 | 2024-07-31 |
-| [Angana](https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Angana](https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv) | 3:40 | 2025-10-03 |  |
+| [Angana](https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Angana](https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv) | 3:40 | 2025-10-03 | 2026-04-03 |
 | [Anna Chelli Anubandham](https://open.spotify.com/track/4GejSY5P7SQXc5Hln6dnU6) | [Boda Jayanth Maadhur](https://open.spotify.com/artist/3x168egz6kQ67souPEwZFY), [Sahithi Adapa](https://open.spotify.com/artist/0G7jVjthZwdLRMADl7Kg5m), [Hamsini](https://open.spotify.com/artist/5KVLBdQwLKz3KNAEC97fB8), [Dia](https://open.spotify.com/artist/76rZrfcbFRe8C0URMZBd2A) | [Anna Chelli Anubandham](https://open.spotify.com/album/2ff94mRYUtwgxUbmHNjiGj) | 3:46 | 2023-09-13 | 2023-09-28 |
 | [Anukokunda](https://open.spotify.com/track/3SSAFT9NPbQTTAT8cKCuyD) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Anukokunda](https://open.spotify.com/album/3mmudJUHwELNQuiaLsAOMY) | 2:50 | 2024-07-25 | 2024-10-11 |
 | [Apashampakirikiri](https://open.spotify.com/track/5Aq0ncMH951va6Rm3owSLy) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Apashampakirikiri](https://open.spotify.com/album/7ycxolhPIqW83cNKuRsecS) | 2:21 | 2025-04-11 | 2025-07-02 |
@@ -256,6 +256,7 @@
 | [Naa Rakshasi](https://open.spotify.com/track/5Edz52y2OPRDfuukFNiZXx) | [Adithya Rkay](https://open.spotify.com/artist/2YObV4LlxjIDCRAZleXF1a), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Nimshi Zacchaeus](https://open.spotify.com/artist/0YQIokZUhvSY7WtIDgTrcz), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Naa Rakshasi](https://open.spotify.com/album/0ajeD6b6xFRnBgTl4AcPGE) | 5:08 | 2026-02-09 |  |
 | [Naalo Kalisave](https://open.spotify.com/track/4gurofjle2L1VbQPzAmZyL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Naalo Kalisave](https://open.spotify.com/album/3iuXBy218ITzay6mc72Oaz) | 5:12 | 2023-03-31 | 2023-06-01 |
 | [Naalo Manasu](https://open.spotify.com/track/3VoZO7ceMwffilEDWQ3tIe) | [Rishit Kaniganti](https://open.spotify.com/artist/5iMObwxm7HwiDjK0dVc51d), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Naalo Manasu](https://open.spotify.com/album/5HHafTMXy0l5zPlXosDrVW) | 4:06 | 2026-02-20 |  |
+| [Naatho Kalisi](https://open.spotify.com/track/4spzhmet6DRBgSpVS91xM7) | [Vamshi Dandanayakula](https://open.spotify.com/artist/0NNUZ3TZP3bVd7s9USGkE6) | [Naatho Kalisi](https://open.spotify.com/album/35foNb8zTvcVAw8ByoGLMV) | 4:10 | 2026-04-03 |  |
 | [Naatho Nene](https://open.spotify.com/track/3110yd1QgpP3mUsVe8MdhT) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Naatho Nene](https://open.spotify.com/album/1Sc7iddapaXJvCiPFYvnZN) | 2:52 | 2024-10-01 | 2024-12-21 |
 | [Nachadhe](https://open.spotify.com/track/5BciFtQG5SJg6aa2PSgnr9) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Nachadhe](https://open.spotify.com/album/4J3yUcfVx55clLRnAmyKNc) | 3:18 | 2024-09-25 | 2025-09-16 |
 | [Naku Breakup Ayyindoch](https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Naku Breakup Ayyindoch](https://open.spotify.com/album/0NC6F3B8BYECN2xB7skKqL) | 3:52 | 2023-06-02 | 2023-10-11 |

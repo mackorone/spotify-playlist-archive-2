@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Blush
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,163 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,168 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 20 | [Vriende](https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Vriende](https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx) | 3:55 |
 | 21 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
 | 22 | [Tip The Waitress](https://open.spotify.com/track/0S6RQKi4Kg2L1SsaE0uCAC) | [The Medicine Dolls](https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese) | [Tip The Waitress](https://open.spotify.com/album/0vNu9FlsYL1FIGBdYFkfGR) | 2:50 |
-| 23 | [Cowboys Of Doom](https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k), [Jay Smith](https://open.spotify.com/artist/1qS4fe56ZPYitRYMlJsLaO) | [Cowboys Of Doom](https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB) | 4:59 |
+| 23 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 24 | [Gatvol](https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Gatvol](https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI) | 2:46 |
 | 25 | [Why Does This Always Happen To Me?](https://open.spotify.com/track/5b7gY6VlwwLJgvoOWZQ4r5) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [Why Does This Always Happen To Me?](https://open.spotify.com/album/27CLq3H4drGhcHx8Pk5D5R) | 3:13 |
-| 26 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
+| 26 | [Cowboys Of Doom](https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k), [Jay Smith](https://open.spotify.com/artist/1qS4fe56ZPYitRYMlJsLaO) | [Cowboys Of Doom](https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB) | 4:59 |
 | 27 | [The Right Words](https://open.spotify.com/track/7EHocaSQCcyFBgbYILTYM2) | [Man As Machine](https://open.spotify.com/artist/0gMp8WEb3FwRk5WHuCDj3k) | [The Right Words](https://open.spotify.com/album/6qmoBD3upg3iUvNkysr2fB) | 3:40 |
 | 28 | [My Huis](https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [My Huis](https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad) | 3:30 |
 | 29 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |

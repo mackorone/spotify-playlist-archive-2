@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-286 songs - 15 hr 3 min
+287 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66) | 4:22 | 2024-10-04 | 2025-04-29 |
 | [Save Me](https://open.spotify.com/track/0l9vJxbYnjbaRI1Yj3rBPu) | [BARAKA THE KID](https://open.spotify.com/artist/632zuYvAmSbcN7oXlck1DF), [1Navo](https://open.spotify.com/artist/65PpZsQW7aR1KKYVL93uZL) | [Save Me](https://open.spotify.com/album/2peuRaPCFaiTTHFjZgxFGG) | 3:00 | 2024-03-14 | 2024-10-05 |
 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 | 2024-10-04 |  |
+| [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 | 2026-04-03 |  |
 | [Sex With Me](https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:26 | 2024-10-04 |  |
 | [Shameful Game](https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite](https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN) | 3:05 | 2025-07-14 |  |
 | [SHINE \(with SiR\)](https://open.spotify.com/track/79cQ8BxtYKsb8nAp8LfcZB) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [SHINE \(with SiR\)](https://open.spotify.com/album/41oaGXdQll9lAxJAwoZrlm) | 2:59 | 2024-03-14 | 2024-10-05 |
@@ -270,7 +271,7 @@
 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 | 2024-10-04 |  |
 | [UNDERSTAND](https://open.spotify.com/track/7zV4vL7JOq13a2W3XXgYQ1) | [Micah Acosta](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [UNDERSTAND](https://open.spotify.com/album/07KkjXFVX51xTYznizXxaj) | 2:40 | 2024-03-14 | 2024-10-05 |
 | [Unplanned](https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Unplanned](https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc) | 2:50 | 2024-11-29 | 2025-02-14 |
-| [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx) | 3:25 | 2024-10-04 |  |
+| [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx) | 3:25 | 2024-10-04 | 2026-04-03 |
 | [Want U](https://open.spotify.com/track/3lFbM9JdipWtVRzohsaOWk) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Want U / Safe To Say](https://open.spotify.com/album/7oPUGuvIS4164TJFayPYuJ) | 2:16 | 2024-12-19 | 2025-01-27 |
 | [Wat U Sed \(feat\. Doechii & Kal Banx\)](https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:56 | 2024-10-04 |  |
 | [Way Back in HS in NY in June](https://open.spotify.com/track/4raEEc2KgXla14KdUlYhUY) | [Prod DR3o](https://open.spotify.com/artist/3yEVDDU45XzlumJuupm1Ul), [nikomanjiro](https://open.spotify.com/artist/40IrCW03DHKkwbAX7tTrfV) | [Way Back in HS in NY in June](https://open.spotify.com/album/00yYlDLwC4OKWuwotpoCw4) | 3:02 | 2024-03-14 | 2024-10-05 |

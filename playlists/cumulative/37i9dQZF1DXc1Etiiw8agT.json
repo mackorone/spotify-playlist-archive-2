@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Amber Dusk",
+        "url": "https://open.spotify.com/album/3VYJLM1oXQV0o9RTlVSrfA"
+      },
+      "artists": [
+        {
+          "name": "Caelestis Nati",
+          "url": "https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186125,
+      "name": "Amber Dusk",
+      "url": "https://open.spotify.com/track/4oOMOC0aKnS1KdyljjwjQk"
+    },
+    {
+      "album": {
         "name": "Focus Freq.",
         "url": "https://open.spotify.com/album/44qDPoC3RbYTMzqxQmH74P"
       },
@@ -1388,6 +1406,24 @@
       "duration_ms": 222000,
       "name": "Brown Noise for undisturbed Nightrest",
       "url": "https://open.spotify.com/track/2ONwTlxPnBw6mV5sDQMgsr"
+    },
+    {
+      "album": {
+        "name": "Brown Noise Foundation",
+        "url": "https://open.spotify.com/album/6CFgbWppDekaBABhAsqrND"
+      },
+      "artists": [
+        {
+          "name": "Doug Carrlas",
+          "url": "https://open.spotify.com/artist/3ZshreGfZ99jtTwoYcmmT5"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Brown Noise Foundation",
+      "url": "https://open.spotify.com/track/3IymR9VmBAjR9yiOgcU4RF"
     },
     {
       "album": {
@@ -5056,7 +5092,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 183564,
       "name": "Soothing Brown Noise",
       "url": "https://open.spotify.com/track/2FW8YAb6QaMbyLFDpnoFr5"
@@ -5438,7 +5474,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 181500,
       "name": "Waves of Brown Part 2",
       "url": "https://open.spotify.com/track/39fdMNGeBk7Vn25exDjwfv"

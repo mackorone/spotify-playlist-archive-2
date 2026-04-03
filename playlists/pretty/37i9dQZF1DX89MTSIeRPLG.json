@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 24311,
+  "num_followers": 24321,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "1-800-HIT-EAZY",
-        "url": "https://open.spotify.com/album/49sZjOYtCwxpOhbwDXmaUi"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Hitmaka",
-          "url": "https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7cmml6x2roZ79TepoRbnd0"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Period",
         "url": "https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 200013,
       "name": "Period",
       "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "1-800-HIT-EAZY",
+        "url": "https://open.spotify.com/album/49sZjOYtCwxpOhbwDXmaUi"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Hitmaka",
+          "url": "https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7cmml6x2roZ79TepoRbnd0"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "X-Tra Laps",
-        "url": "https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 163520,
-      "name": "Bulgari Shades",
-      "url": "https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Bounty",
         "url": "https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226292,
       "name": "Bounty",
       "url": "https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "X-Tra Laps",
+        "url": "https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 163520,
+      "name": "Bulgari Shades",
+      "url": "https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6"
     },
     {
       "added_at": "2022-10-01 20:31:11",

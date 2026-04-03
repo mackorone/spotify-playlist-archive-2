@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-262 songs - 15 hr 15 min
+268 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-11-01 | 2026-01-17 |
 | [California \- Radio Edit](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California \(Radio Edit\)](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 | 2026-01-16 | 2026-02-11 |
 | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/track/4b2xYezRYlT9jf6nKxPOwT) | [J0VANNA](https://open.spotify.com/artist/1ILEWunbo2Yr5xi6LXJtGy) | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/album/3WPYj0X3qC3jPwzyr3jekD) | 4:15 | 2025-10-17 | 2025-12-12 |
+| [Can I See U Again?](https://open.spotify.com/track/0ZfTda2rDafMvWBLghgoEW) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [One](https://open.spotify.com/album/6Nq8LT0hzTEbeMBOKKLA34) | 2:44 | 2026-04-02 |  |
 | [Carnival And Cotton Candy](https://open.spotify.com/track/49Ee6TwuEjIwYt4hjZapWX) | [Liisa Pentti](https://open.spotify.com/artist/7o3YN0mGGbr0DKjMZBfEta) | [Seems Familiar But So Strange](https://open.spotify.com/album/7e5Tpz7tzdK53RMcorgoTS) | 3:16 | 2026-03-10 |  |
 | [Carry Me](https://open.spotify.com/track/3HlzhD5JzCOl28ZyYaBMl7) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Carry Me](https://open.spotify.com/album/4CsWROryalOsNgDTZGV2ct) | 3:18 | 2025-12-12 | 2026-02-07 |
 | [Chapiteau](https://open.spotify.com/track/06e4iSfNG6XVts53EnG91O) | [Neona](https://open.spotify.com/artist/3VE3HoeJRsX7NetnHwDSlp) | [Chapiteau](https://open.spotify.com/album/2o4zfUINIDlrpyMzk2d1Lm) | 2:17 | 2025-11-01 | 2026-01-15 |
@@ -55,6 +56,7 @@
 | [Days, Years & Months](https://open.spotify.com/track/45nZXh0QNDfot6DifudLZe) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Days, Years & Months](https://open.spotify.com/album/1U63ykUIU3haPpDKQtNvZB) | 5:19 | 2025-10-27 | 2025-12-02 |
 | [De Costa a Costa](https://open.spotify.com/track/4mmNt648AwIq9FkI5c6gVL) | [Microfunk Band](https://open.spotify.com/artist/4BEoveed0d10Qd1Cf4EcoR) | [De Costa a Costa](https://open.spotify.com/album/58YBu5f6ErbSiJf8xuojxc) | 4:38 | 2026-03-04 |  |
 | [Dead in a Ditch \(Reloaded\)](https://open.spotify.com/track/3wjMvlboeH5EQofd0XNfWL) | [Tiny Banshee](https://open.spotify.com/artist/4TjpNiCPSovZ6SSIYrQeoN) | [Small\. Loud\. and Haunted.](https://open.spotify.com/album/5NTWQ6aTCeWkG7OzNiU2gb) | 2:23 | 2025-11-01 | 2026-01-17 |
+| [dealihea](https://open.spotify.com/track/4OIkCRqHqvEjR6CrWifwOZ) | [low\-key](https://open.spotify.com/artist/3o3u93T1lwwuCWE4ib3yKF) | [cases](https://open.spotify.com/album/4XyxycEfY5tF8VissqvHd9) | 5:33 | 2026-04-02 |  |
 | [Deep in the Misery](https://open.spotify.com/track/3ewW2BuO8DxWLZfxiFQvdx) | [Indigo](https://open.spotify.com/artist/2T0y5xRUmcjFn8oXD3iRsu) | [Deep in the Misery](https://open.spotify.com/album/2jgh1drEJVXCTD5lDxszxn) | 3:32 | 2026-03-02 |  |
 | [Delighted](https://open.spotify.com/track/5tjcDtOijDGnJuny9xT1Du) | [sharpened knives](https://open.spotify.com/artist/4CNxLphbFJg9tc9QXH7y2V) | [Wishes You'd Never Said](https://open.spotify.com/album/61hjvBA69NNQWdsgyZ96Z8) | 2:00 | 2026-01-11 | 2026-02-20 |
 | [Demons Move In Shadows](https://open.spotify.com/track/4zqdjaBlB7Ob2bo1MiAPXu) | [Numsig](https://open.spotify.com/artist/1Ws1YsRvDtL3gqKgrbY0Ju) | [Demons Move In Shadows](https://open.spotify.com/album/4E41VvlBG39lwOv13sCdPw) | 3:01 | 2025-10-24 | 2025-12-02 |
@@ -119,7 +121,9 @@
 | [I'm Only Sleeping](https://open.spotify.com/track/5uXA2Ss4v2WaqujWoTTmsT) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 3:43 | 2026-02-08 | 2026-03-29 |
 | [I'm so Scared of You](https://open.spotify.com/track/29myHNF0WVbPbwZmc3Al7x) | [Everything Velvet](https://open.spotify.com/artist/0J3Bsaj91QTSMVpxpAY8NE) | [I'm so Scared of You](https://open.spotify.com/album/6FNFV9J1mhqFVz53nzXIOb) | 4:53 | 2025-11-01 | 2026-01-17 |
 | [i've](https://open.spotify.com/track/46CHFOn4ayNjzKQ31B7sbM) | [North Shy](https://open.spotify.com/artist/2A3nZ5WhiMaBI2NgsXa4aV) | [aftermath](https://open.spotify.com/album/3YF6DBphL3fpTWSVrIj2Og) | 3:25 | 2025-10-24 | 2025-12-02 |
+| [I.if only i could get next to you](https://open.spotify.com/track/3pJmDvcs4mQycH2R5RGhnZ) | [Rafael Vaza](https://open.spotify.com/artist/10fjJKlE2xKlUlmjSiVyFj) | [the electrojazz of rafael vaza or the unexpectable heartbreak clichê](https://open.spotify.com/album/2QHhijjY9eGI0rEd7K2U6r) | 1:41 | 2026-04-02 |  |
 | [Icarus Waltz](https://open.spotify.com/track/37qu1BN6eNFBhLQzw5yL6H) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Icarus Waltz](https://open.spotify.com/album/1wezJ1s8GGRj9dgPHOWJD4) | 2:48 | 2025-10-23 | 2026-03-10 |
+| [Ich werd nicht weniger](https://open.spotify.com/track/0fcuM80u8rmO19kZzWMbyU) | [Brave Bones](https://open.spotify.com/artist/2GnTqVSfxKobyNlwTMKsMg) | [Ich werd nicht weniger](https://open.spotify.com/album/6ofFw6HJRpOVMzmUl3Svjd) | 2:48 | 2026-04-02 |  |
 | [Idle Stranger](https://open.spotify.com/track/11S6dH5Sklh1cE0UrmvlKl) | [Miccoli](https://open.spotify.com/artist/5k6ayjMCjG9Dyjkrnjwijv) | [Idle Stranger](https://open.spotify.com/album/1TbYvKKwBIqu9zesWejWRk) | 3:46 | 2025-10-24 | 2025-12-12 |
 | [in my bones](https://open.spotify.com/track/6vSNVLse9DXY8U2GUP0UgB) | [purr grief](https://open.spotify.com/artist/23WsCrFd5z85zpuxX6SCQI) | [superficial bliss](https://open.spotify.com/album/0L2BOFYomdaG0xhNoaoQJ4) | 4:49 | 2026-02-02 | 2026-03-10 |
 | [Insônia](https://open.spotify.com/track/7mnsSLbwEhtVEtapHjdV3p) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Insônia](https://open.spotify.com/album/2RZ7KjRITbF7dZkDFtSuxP) | 3:19 | 2026-03-18 |  |
@@ -138,6 +142,7 @@
 | [let me down](https://open.spotify.com/track/3GNrt3MEs5gaHGJRVuuoDr) | [Pixie Cola](https://open.spotify.com/artist/50vL1eTCa1R40d6BMCkX4G) | [let me down](https://open.spotify.com/album/1zbr6mwb5gTnPWHqQnCYrm) | 3:41 | 2025-10-30 | 2026-01-17 |
 | [Letter \(for the Quiet\)](https://open.spotify.com/track/6YU0GtUQ0OM3l0F6QAEKYQ) | [Dave D.](https://open.spotify.com/artist/0Mc5CkhanpC4GIt4aR3gzK) | [Letter \(for the Quiet\)](https://open.spotify.com/album/0fs9NuS5lFG12SLgi4IAuS) | 2:15 | 2026-02-09 | 2026-03-29 |
 | [Level of Life](https://open.spotify.com/track/6mudyCp3eCaKgnYdXKODmw) | [poliester](https://open.spotify.com/artist/5EBtUpLChJomEjgY0xIGhX) | [Level of Life](https://open.spotify.com/album/2JDkUv7HpUjsNLlq9uFNTO) | 3:17 | 2026-03-19 |  |
+| [Liminal](https://open.spotify.com/track/1vHbFf4vScIbvOqdlUTmIU) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Liminal](https://open.spotify.com/album/0eMFhVV9J64pfUouzj7wAs) | 2:40 | 2026-04-02 |  |
 | [Little Red Corvette](https://open.spotify.com/track/45cnMC7EXUO4CEzKGyg527) | [This Side of Wednesday](https://open.spotify.com/artist/0ft5RSHIKkcsSexjHEIV6V) | [Breath](https://open.spotify.com/album/7brV5bURCt0XvWfjcT9H75) | 3:48 | 2026-03-10 |  |
 | [Little Self\-Indulgent](https://open.spotify.com/track/6MIEwxpFDX4AeOhYJejFPv) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Kaleidoscope](https://open.spotify.com/album/2wkD37IBLLNRoCPfXEMY53) | 3:00 | 2026-01-20 | 2026-03-10 |
 | [Look at me](https://open.spotify.com/track/59O07Sj5VVQ8SXeuHCltN7) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Look at me](https://open.spotify.com/album/65GQNjC1rd9j7mc4rflmQg) | 4:05 | 2025-11-11 | 2026-01-17 |
@@ -269,6 +274,7 @@
 | [Yellow](https://open.spotify.com/track/7oIGfvvszUPBy3RbcybSsy) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 4:35 | 2026-03-02 |  |
 | [Yes I Hope](https://open.spotify.com/track/4nYjSNumkVBOWJl7xbImKq) | [Roots Habits](https://open.spotify.com/artist/6jCRadZaIZtiXstamJAyJX) | [Yes I Hope](https://open.spotify.com/album/6vGfjWBItGXGUcbGpOAuft) | 3:39 | 2025-10-24 | 2025-12-02 |
 | [You & Me](https://open.spotify.com/track/2hfm5hiifBPWSueyh2WqdW) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [You & Me](https://open.spotify.com/album/5Z2u2i6gk0Dry8QjI1GmrD) | 3:26 | 2025-11-18 | 2026-01-17 |
+| [Your Flow](https://open.spotify.com/track/7w3PDDIQ9mO58DnRpbwRFJ) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Your Flow](https://open.spotify.com/album/5IMkL1GoZJlrtEqnNGR5Wn) | 3:00 | 2026-04-02 |  |
 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 | 2026-01-09 | 2026-02-20 |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

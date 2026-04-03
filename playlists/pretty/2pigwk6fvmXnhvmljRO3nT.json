@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAALflfbmbFzKli0rMxe38di9dXa+WRX",
+  "snapshot_id": "AAALgpKfKEJR1i8eVSI18vGhgG30Fsfw",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -149575,6 +149575,78 @@
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/35ZccqI4iHVR0puhGc1u0U"
+    },
+    {
+      "added_at": "2026-04-02 07:13:46",
+      "album": {
+        "name": "\u305d\u306e\u7740\u305b\u66ff\u3048\u4eba\u5f62\u306f\u604b\u3092\u3059\u308b Original Soundtrack VOL.1",
+        "url": "https://open.spotify.com/album/22WJ7yTFy5skROvKGWyddA"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Nakatsuka",
+          "url": "https://open.spotify.com/artist/20NsQIQXOKSrclmLOeZLIF"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "\u529b\u306b\u306a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/1SCysEXfxnYkCQzv8LepoE"
+    },
+    {
+      "added_at": "2026-04-02 09:42:30",
+      "album": {
+        "name": "ANTITHESE",
+        "url": "https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo"
+    },
+    {
+      "added_at": "2026-04-02 10:02:46",
+      "album": {
+        "name": "ALL TIME ROCK 'N' ROLL",
+        "url": "https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9"
+      },
+      "artists": [
+        {
+          "name": "Masayuki Suzuki",
+          "url": "https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF"
+        },
+        {
+          "name": "Airi Suzuki",
+          "url": "https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "DADDY ! DADDY ! DO !",
+      "url": "https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp"
+    },
+    {
+      "added_at": "2026-04-02 10:02:56",
+      "album": {
+        "name": "MARTINI DUET DELUXE",
+        "url": "https://open.spotify.com/album/5hj7c0XVJ45tuKXgSz54k3"
+      },
+      "artists": [
+        {
+          "name": "Masayuki Suzuki",
+          "url": "https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF"
+        },
+        {
+          "name": "\u4f0a\u539f\u516d\u82b1",
+          "url": "https://open.spotify.com/artist/2oHiy1x5X3FnhsLrrS6IEo"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "\u30e9\u30d6\u30fb\u30c9\u30e9\u30de\u30c6\u30a3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/7retZfwqndc1A1eUl8mUsf"
     }
   ],
   "unique_name": "Purge",

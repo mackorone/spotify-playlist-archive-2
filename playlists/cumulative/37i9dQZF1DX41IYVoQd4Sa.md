@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אבנר טואג
 
-379 songs - 22 hr 12 min
+381 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Black Cat](https://open.spotify.com/track/4nwYbjn238n47DPCzmUReh) | [Dekel](https://open.spotify.com/artist/5gxM8dhLvPicBCFCjsI4gx) | [Black Cat](https://open.spotify.com/album/52incfSBJrQkGGmZpYAnBU) | 2:01 | 2024-10-17 | 2024-11-08 |
 | [Black Eye](https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Black Eye](https://open.spotify.com/album/295njq3mu85uparrz5upr0) | 2:25 | 2025-03-06 | 2025-08-09 |
 | [BUBBLING](https://open.spotify.com/track/6s5eOLOj3Zlb9x6eOfN1lM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [BUBBLING](https://open.spotify.com/album/5Olp3mWtW2kYfGxGKNXzID) | 2:45 | 2025-11-20 |  |
+| [bully](https://open.spotify.com/track/6NUT1Vezwr0surmLC6cvk5) | [Egozi](https://open.spotify.com/artist/06FcDNksGd8xlNOgN8f04x) | [bully](https://open.spotify.com/album/3soiNTPxof5O0Pd7miQcs1) | 2:47 | 2026-04-02 |  |
 | [Butterfly Mind](https://open.spotify.com/track/0ABdJfuNeEFPljTk5LsgWy) | [Helfer](https://open.spotify.com/artist/6ca6hQoFgRKbYyPURjPL0t), [Totemo](https://open.spotify.com/artist/6tUQYwxSVGcNxUYvxIkqJg), [Age Is a Box](https://open.spotify.com/artist/1O0pQLwyMDj4bq3SHtlqaQ) | [Butterfly Mind](https://open.spotify.com/album/3DHDNMxRrZYYrZ0Po6fxCp) | 3:43 | 2025-04-10 | 2025-05-02 |
 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 | 2024-07-25 | 2025-03-21 |
 | [Caviar](https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Caviar](https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ) | 4:06 | 2025-02-27 | 2025-07-05 |
@@ -55,7 +56,7 @@
 | [Ha'chayim Ha'ele](https://open.spotify.com/track/0j6h27PRdWp5reQDD3IV4V) | [Autarkic](https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ) | [Ha'chayim Ha'ele](https://open.spotify.com/album/55KdrAbQ29QClGDay6Wony) | 3:15 | 2024-07-11 | 2024-08-02 |
 | [Hate You Instead](https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Hate You Instead](https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1) | 3:01 | 2024-11-21 | 2025-05-09 |
 | [Haunted](https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Haunted](https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL) | 3:58 | 2025-06-26 |  |
-| [Hey Ole Player](https://open.spotify.com/track/0hQRM6KeFc6ct5sDVY4RAk) | [Troll II](https://open.spotify.com/artist/4qDmDXSivXlA6LUesI3VNS) | [Hey Ole Player](https://open.spotify.com/album/6NKTbsw1kmQLywg4V8P3St) | 2:27 | 2026-03-19 |  |
+| [Hey Ole Player](https://open.spotify.com/track/0hQRM6KeFc6ct5sDVY4RAk) | [Troll II](https://open.spotify.com/artist/4qDmDXSivXlA6LUesI3VNS) | [Hey Ole Player](https://open.spotify.com/album/6NKTbsw1kmQLywg4V8P3St) | 2:27 | 2026-03-19 | 2026-04-03 |
 | [HEY!](https://open.spotify.com/track/6QMIbaRVFf2fTMGd6TJjhu) | [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [HEY!](https://open.spotify.com/album/29jKgnKJ7BgfNOdcVFRZpX) | 3:19 | 2025-07-10 | 2025-08-16 |
 | [Hide](https://open.spotify.com/track/3FYIt7h7Pa7QK7anzrQfHN) | [flatmate sessions](https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW), [KUPA](https://open.spotify.com/artist/6aTpmtMOHVX6hxCaHV4erM) | [Hide](https://open.spotify.com/album/5YW6Bo5MJnq693AFC9wQwK) | 3:29 | 2025-04-17 | 2025-05-09 |
 | [HIGHER](https://open.spotify.com/track/2XsJUYovLDX5sCtrpO0HUQ) | [GADEE](https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0) | [HIGHER](https://open.spotify.com/album/5XR8SwQtlGafU9QVIOFeNJ) | 2:14 | 2024-11-28 | 2024-12-13 |
@@ -126,6 +127,7 @@
 | [אביגיל](https://open.spotify.com/track/70TuLyNWVlEj0SYi9cHGHj) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB) | [אביגיל](https://open.spotify.com/album/5tqQPNRAfgpzLitYK1xuPt) | 4:11 | 2025-07-03 | 2025-08-22 |
 | [אבל את](https://open.spotify.com/track/5ogS9Gv62PA9a8h3nL2bEX) | [Meir Banai](https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אבל את](https://open.spotify.com/album/7nVbLJZz5SZXuXccAXnfRr) | 3:49 | 2025-07-10 |  |
 | [אדבר איתך](https://open.spotify.com/track/4PPoJRKqZQdxQzM8VlMmNm) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [אדבר איתך](https://open.spotify.com/album/5eC10LJTxbt30EeHXzF0NS) | 2:50 | 2025-09-18 | 2025-10-17 |
+| [אדבר איתך](https://open.spotify.com/track/733hbUsBXNyqGXN0WyhFSF) | [Eran Tzur](https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY) | [אדבר איתך](https://open.spotify.com/album/7qsJhJleIUPqy9JOof05oR) | 3:40 | 2026-04-02 |  |
 | [אדם ללא אדם](https://open.spotify.com/track/2p3MxQx5jEMJ97itxrd7tp) | [Hemi Rudner](https://open.spotify.com/artist/73Cuv6pUbmERHKWEGD4ffj) | [אדם ללא אדם](https://open.spotify.com/album/6AGcS4mQ2JzOzF0BGgEjjS) | 4:26 | 2024-09-26 | 2024-11-15 |
 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 | 2024-06-27 | 2025-02-10 |
 | [אהבת חיי](https://open.spotify.com/track/4aAexzkSglTMEufNbYDGSs) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [Shai Tsabari](https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A) | [אהבת חיי](https://open.spotify.com/album/5hHZlrM4xvsmFEE0GD6lzm) | 4:28 | 2025-09-18 | 2026-02-20 |
@@ -205,7 +207,7 @@
 | [הכלים השבורים](https://open.spotify.com/track/23GTlgyW30suOUiIzOeZwS) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [הכלים השבורים](https://open.spotify.com/album/6I0Vjzr0C0aTTYX51gKmsk) | 3:27 | 2024-07-25 | 2024-09-14 |
 | [הלב מתרוקן](https://open.spotify.com/track/3JVxntcOx5kfPR4C5163zR) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [Peter Roth](https://open.spotify.com/artist/5lLE5NXuUO1dpOIEKMwA5d) | [הלב מתרוקן](https://open.spotify.com/album/2xOWJzOBMe7dZ5o5et8hGA) | 3:16 | 2025-12-11 | 2026-01-30 |
 | [הלוך ושוב](https://open.spotify.com/track/1LWXYCFfhJBeeNhQw6io2j) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W), [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [לחיות](https://open.spotify.com/album/6uPKNwK4o6QokRH0I7z7cL) | 4:16 | 2024-09-05 | 2024-11-29 |
-| [המוזיקה הישראלית](https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd) | [המוזיקה הישראלית](https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb) | 4:31 | 2025-12-11 |  |
+| [המוזיקה הישראלית](https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd) | [המוזיקה הישראלית](https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb) | 4:31 | 2025-12-11 | 2026-04-03 |
 | [המחלה שלי](https://open.spotify.com/track/4KvXDIhFUlVLvyXMg1LBa2) | [Tohar](https://open.spotify.com/artist/6AGauzgDfrDTQA8ezvCiaS) | [המחלה שלי](https://open.spotify.com/album/4uC06N3kCx2ngbZZAqDkvA) | 3:48 | 2024-09-12 | 2024-09-29 |
 | [הסתר פנים](https://open.spotify.com/track/21BeSX3ugfBBSyk2tGrxiy) | [Ilai Ashdot](https://open.spotify.com/artist/17hPAjtRLK0X3JHXFnd5Sy) | [שושנה](https://open.spotify.com/album/3DwgbgMB7ES3kIKHKIOzjO) | 3:36 | 2025-11-20 | 2025-12-12 |
 | [העץ יחיה](https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [העץ יחיה](https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL) | 3:09 | 2024-06-27 |  |

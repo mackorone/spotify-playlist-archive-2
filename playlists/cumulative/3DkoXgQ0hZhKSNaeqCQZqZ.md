@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-506 songs - 1 day 2 hr 49 min
+507 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [lil boy](https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 2:15 | 2025-01-25 |  |
 | [lil boy](https://open.spotify.com/track/4pGX4804iIeGtn2dGD2NaX) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [lil boy](https://open.spotify.com/album/510NAc32IQl7IbbLTYd08Q) | 2:15 | 2024-08-15 | 2026-03-01 |
 | [Lil Nuggit](https://open.spotify.com/track/3Oi6KBqKqY8XRAcvBhDAHy) | [Chi\-Chi](https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW) | [Lil Nuggit](https://open.spotify.com/album/71AbiIBC2D36pt3ytXNuSK) | 3:03 | 2024-02-10 |  |
+| [LIMITLESS](https://open.spotify.com/track/7iDr0MSWRPd5CCvoLkpZdn) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [LIMITLESS](https://open.spotify.com/album/7dcAsHSzowpNp2oicBzeD6) | 3:03 | 2026-04-02 |  |
 | [Limitless Skies](https://open.spotify.com/track/6Z8pT0yROu8tqQLMyMxVN4) | [YamikaDesu](https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930), [Vigilabo](https://open.spotify.com/artist/66MUcZLPqqgg4FdhMgQxmi) | [Limitless Skies](https://open.spotify.com/album/5dhRAXTuymg3Wl8gIciyWi) | 3:24 | 2025-02-08 | 2026-03-01 |
 | [Linger in the Rain](https://open.spotify.com/track/2ZdLhmKydlxXLXL1Hlo4Ex) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Linger in the Rain](https://open.spotify.com/album/3whFAKu7WRtkGPRSoCRrva) | 5:00 | 2024-12-09 |  |
 | [Little Something Blue](https://open.spotify.com/track/2CjIzdNBJkrxELV6HmW2Vl) | [Alecs Dyno](https://open.spotify.com/artist/7l4nppdq0TLcDEtw7MjGyP) | [Without Fireworks](https://open.spotify.com/album/0LpSXydYGJvtPDiuvGq2Lx) | 3:24 | 2025-12-15 |  |

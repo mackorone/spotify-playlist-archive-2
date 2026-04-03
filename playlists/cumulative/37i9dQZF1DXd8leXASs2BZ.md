@@ -2,7 +2,7 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POP YOURSまであと1日！】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Litty
+> 【POP YOURS DAY1】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: NEW COMER SHOT LIVE
 
 1,407 songs - 2 day 16 hr 52 min
 

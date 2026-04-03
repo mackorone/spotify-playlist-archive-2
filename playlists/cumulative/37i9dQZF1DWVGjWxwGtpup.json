@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : J Balvin x Ryan Castro",
+  "description": "Tous les hits latino du moment sont ici. Photo : Ozuna",
   "name": "Caliente",
   "tracks": [
     {
@@ -190,6 +190,24 @@
       "duration_ms": 185467,
       "name": "777",
       "url": "https://open.spotify.com/track/42e9HfXNoupybWl2RcnCTp"
+    },
+    {
+      "album": {
+        "name": "ADIOS",
+        "url": "https://open.spotify.com/album/28TpiwghzeUEx0HMP2Giui"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163369,
+      "name": "96 AL REVES",
+      "url": "https://open.spotify.com/track/49xk5mobx2iCwJMjOKrxCu"
     },
     {
       "album": {
@@ -900,7 +918,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 239687,
       "name": "Bebezinho",
       "url": "https://open.spotify.com/track/4jJWFFZieYnbNWr7j6KUMz"
@@ -1333,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "Caducaste",
+        "url": "https://open.spotify.com/album/5um6GIoA0TejDR97zILaDG"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "Caducaste",
+      "url": "https://open.spotify.com/track/3k0au8hNwghIrLsfpP2W4z"
+    },
+    {
+      "album": {
         "name": "Calumnia",
         "url": "https://open.spotify.com/album/4vEn1u4njtUh83FAncUiEX"
       },
@@ -1528,6 +1568,28 @@
       "duration_ms": 207984,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
+    },
+    {
+      "album": {
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
     },
     {
       "album": {
@@ -3902,7 +3964,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
@@ -8524,7 +8586,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 214742,
       "name": "Un Polvito +",
       "url": "https://open.spotify.com/track/2FgNhMMwYXRnsctqIcouMP"

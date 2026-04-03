@@ -4,7 +4,7 @@
 
 > Innately spellbinding & meditative, absent of endings & beginnings\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-68 songs - 5 hr 54 min
+70 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 | 2025-04-18 |  |
 | [Black Car](https://open.spotify.com/track/3pvmkjuacq6719H5su9ixl) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 4:11 | 2025-04-10 |  |
 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 | 2025-10-27 |  |
+| [Bushel Hyde](https://open.spotify.com/track/5JlTE3LEsYAXzEIwShI7CI) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 4:10 | 2026-04-02 |  |
 | [Camberwell](https://open.spotify.com/track/2w60d1hGeoinHTn1WANxVN) | [\#1 Dads](https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI) | [About Face](https://open.spotify.com/album/2GttWblJv1A6Be32u4YNPN) | 3:49 | 2025-04-10 |  |
 | [Carthage](https://open.spotify.com/track/5T2rPvGAbs5Z6CLXXbh3jX) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 5:30 | 2025-04-10 |  |
 | [Cash Under Your Bed](https://open.spotify.com/track/4lUfqswEnCgJJ7YzOBZoai) | [Punko](https://open.spotify.com/artist/4yzuY0P7bNgPKnhgtPzMMt) | [Plants Singing](https://open.spotify.com/album/74HCkCdqWIyJHwCIag0pYm) | 3:30 | 2025-04-10 |  |
@@ -37,6 +38,7 @@
 | [HNSCC](https://open.spotify.com/track/6c07FQryyVnmfFUuECzRvV) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 2:31 | 2025-04-10 |  |
 | [House Of Cards](https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:28 | 2025-04-10 |  |
 | [I Am The Changer](https://open.spotify.com/track/3MTSYD5sQ8aooeKIhQemPo) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 6:34 | 2025-04-10 |  |
+| [I'm a Bug Now](https://open.spotify.com/track/3KcQqEAlR5pitZscAkcnHJ) | [Thomas Flynn](https://open.spotify.com/artist/74cT8MAv0JwkUku9MKJtZj) | [Fun Bug Songs \(Hell\)](https://open.spotify.com/album/2jZKDqW0ccwJsJHQUeuIN6) | 2:33 | 2026-04-02 |  |
 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 | 2025-04-10 |  |
 | [Indexical reminder of a morning well spent](https://open.spotify.com/track/6w8NOOj4f8FhF6346a7Ulx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:43 | 2025-04-10 |  |
 | [ingydar](https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 4:08 | 2025-04-10 |  |

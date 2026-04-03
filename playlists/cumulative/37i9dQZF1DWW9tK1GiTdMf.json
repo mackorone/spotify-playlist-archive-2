@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni per una primavera non proprio felice (plantino in cover) \ud83d\udc99",
+  "description": "canzoni per una primavera non proprio felice (sairo in cover) ",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 177902,
       "name": "1000spine",
       "url": "https://open.spotify.com/track/0Oketcd5vPu5AAYV5OxBoy"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 184500,
       "name": "Addio",
       "url": "https://open.spotify.com/track/40wI457n3yeUv7gtiAoi3N"
@@ -2318,7 +2318,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 203916,
       "name": "anedonia",
       "url": "https://open.spotify.com/track/0bs9DFxBrKvOd6VEsC2p6W"
@@ -4736,7 +4736,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 150927,
       "name": "CAMERA D'ARIA",
       "url": "https://open.spotify.com/track/20MIRIChiVYXFZPyKfMgfx"
@@ -4862,7 +4862,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 208875,
       "name": "casa mia",
       "url": "https://open.spotify.com/track/4asnXnpnLxhaLyNpbqHLRA"
@@ -5600,7 +5600,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 168428,
       "name": "Cielo Grigio (feat. Plant)",
       "url": "https://open.spotify.com/track/4JRAxjoqcBLtmi5qiMxsdQ"
@@ -6000,7 +6000,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 201380,
       "name": "Come chi non ha paura",
       "url": "https://open.spotify.com/track/6Coc0XtNwFXvHyezxXefyp"
@@ -7584,7 +7584,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 150255,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/43AOW7GMURYgHE1KFNjLZJ"
@@ -9564,7 +9564,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -10729,6 +10729,24 @@
     },
     {
       "album": {
+        "name": "Filo Spinato",
+        "url": "https://open.spotify.com/album/1zGhIyMT7wYfcREJqLMvcL"
+      },
+      "artists": [
+        {
+          "name": "Sunken",
+          "url": "https://open.spotify.com/artist/167oxjyR82Rs8XinJirzvm"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135111,
+      "name": "Filo Spinato",
+      "url": "https://open.spotify.com/track/6VJVWqHntNtlBslzyfGGg9"
+    },
+    {
+      "album": {
         "name": "Kalimera",
         "url": "https://open.spotify.com/album/1AtSqGiMAB2C2MaZHtfSuF"
       },
@@ -11603,6 +11621,28 @@
     },
     {
       "album": {
+        "name": "Vita, Morte e Miracoli",
+        "url": "https://open.spotify.com/album/55EldRuc15CKWkdU6MLBg3"
+      },
+      "artists": [
+        {
+          "name": "WEL",
+          "url": "https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v"
+        },
+        {
+          "name": "Why Everyone Left",
+          "url": "https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/7lUVgbQvkUckyQ3mxYh6Yu"
+    },
+    {
+      "album": {
         "name": "digital era",
         "url": "https://open.spotify.com/album/7fEd5XfhR2dwZSINdmEBmL"
       },
@@ -11734,7 +11774,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 202285,
       "name": "GENERAZIONE FIORI MORTI",
       "url": "https://open.spotify.com/track/0ZVQxB03d8eaGQza353XJN"
@@ -12240,7 +12280,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 217454,
       "name": "GIULIA",
       "url": "https://open.spotify.com/track/0Td8nQAa4w1T1m3VercEFg"
@@ -14044,7 +14084,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
@@ -14370,7 +14410,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 191834,
       "name": "io mi fidavo di te",
       "url": "https://open.spotify.com/track/0T3QCcqtRpqAW9doZHDZWZ"
@@ -18524,7 +18564,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 183187,
       "name": "MORSI",
       "url": "https://open.spotify.com/track/1qVFYoXoxM9AgEd1d5GcTL"
@@ -23789,6 +23829,24 @@
     },
     {
       "album": {
+        "name": "Queste cose sono io",
+        "url": "https://open.spotify.com/album/5p7U1mHRCciW30ZeuzdL3Q"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199961,
+      "name": "Queste cose sono io",
+      "url": "https://open.spotify.com/track/6yQj2KBh8Yp1BAAtJsp9yJ"
+    },
+    {
+      "album": {
         "name": "QUESTO \u00c8 TROPPO",
         "url": "https://open.spotify.com/album/3T3ZJsdP0zIX7iJ0s6PtiW"
       },
@@ -23808,6 +23866,24 @@
       "duration_ms": 151540,
       "name": "QUESTO \u00c8 TROPPO",
       "url": "https://open.spotify.com/track/4ZAbwttmCWEJ99kXBpnk9I"
+    },
+    {
+      "album": {
+        "name": "Qui per sempre",
+        "url": "https://open.spotify.com/album/56mKBIYOx6jXodqzmazK67"
+      },
+      "artists": [
+        {
+          "name": "Sairo",
+          "url": "https://open.spotify.com/artist/38ghVFP8xwyGcMQET8kA7L"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166416,
+      "name": "Qui per sempre",
+      "url": "https://open.spotify.com/track/0PPck0I81P6AGTR1rRJh6s"
     },
     {
       "album": {
@@ -25259,6 +25335,24 @@
     },
     {
       "album": {
+        "name": "SCIARMATO BOI",
+        "url": "https://open.spotify.com/album/6iKUpbAlLTyX5SDfn67ZoK"
+      },
+      "artists": [
+        {
+          "name": "Zack",
+          "url": "https://open.spotify.com/artist/0digr9CIDd0VatlphDu3rO"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156210,
+      "name": "SCIARMATO BOI",
+      "url": "https://open.spotify.com/track/5heYIEJEcuS1uAjDwNyTZ5"
+    },
+    {
+      "album": {
         "name": "Scarabocchi",
         "url": "https://open.spotify.com/album/4mVj0l7BupieXgxrXzTJ72"
       },
@@ -25853,6 +25947,24 @@
     },
     {
       "album": {
+        "name": "serial killer",
+        "url": "https://open.spotify.com/album/5InOo5AVu2KLptzV4LPAzt"
+      },
+      "artists": [
+        {
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180836,
+      "name": "serial killer",
+      "url": "https://open.spotify.com/track/5CPRWAPm3EXmSRBWJSjodV"
+    },
+    {
+      "album": {
         "name": "SEROTONINA",
         "url": "https://open.spotify.com/album/5QnugKAe67cmVm2gsOLWCt"
       },
@@ -26338,6 +26450,24 @@
       "duration_ms": 186861,
       "name": "side effect",
       "url": "https://open.spotify.com/track/4S22GrfRfAPyespmAeEfFC"
+    },
+    {
+      "album": {
+        "name": "SIDERALE",
+        "url": "https://open.spotify.com/album/4t3X0Qsj0c8Ea3bFALiUdy"
+      },
+      "artists": [
+        {
+          "name": "Pluvia",
+          "url": "https://open.spotify.com/artist/2iYo4wUo3mf6MVcRlRxXuG"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183391,
+      "name": "SIDERALE",
+      "url": "https://open.spotify.com/track/3qISkz1pXPBgAZ0Ga7gSLO"
     },
     {
       "album": {
@@ -28242,7 +28372,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 168750,
       "name": "STRONZA",
       "url": "https://open.spotify.com/track/7i1bSbQSkfRrTqYSgghQbU"
@@ -29174,7 +29304,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 160000,
       "name": "tempo??",
       "url": "https://open.spotify.com/track/1WpiH2dQkCb2yvNCI4TSvv"
@@ -30126,7 +30256,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 198015,
       "name": "Tragica",
       "url": "https://open.spotify.com/track/43pWyJoQ7EH1OErVhjNoKh"
@@ -30656,7 +30786,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 168000,
       "name": "Tutto tutto tutto dentro",
       "url": "https://open.spotify.com/track/4pqqniB1d9U60r5ppuoc5i"
@@ -31944,7 +32074,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 191871,
       "name": "via lattea",
       "url": "https://open.spotify.com/track/5CaOMx5BqJmaSDiT5dYUwe"
@@ -32716,6 +32846,24 @@
       "duration_ms": 164961,
       "name": "Wild",
       "url": "https://open.spotify.com/track/5WPRRX9z5WQ9K4sVAfeIgM"
+    },
+    {
+      "album": {
+        "name": "Ma'",
+        "url": "https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129879,
+      "name": "Woo",
+      "url": "https://open.spotify.com/track/228aFvxsFK3AKgS4jSNVeu"
     },
     {
       "album": {

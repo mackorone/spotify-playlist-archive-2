@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "2u",
+        "url": "https://open.spotify.com/album/4EhFUflgbOlEtbs6yxqeUq"
+      },
+      "artists": [
+        {
+          "name": "Margarita Quebrada",
+          "url": "https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "2u",
+      "url": "https://open.spotify.com/track/3jJMJNiWbAdGu1ArlaKCWX"
+    },
+    {
+      "album": {
         "name": "4 Impulsos M\u00e1s",
         "url": "https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo"
       },
@@ -476,6 +494,24 @@
       "duration_ms": 187635,
       "name": "Almod\u00f3var",
       "url": "https://open.spotify.com/track/4f30Z0UAzLenMOk65NtTYH"
+    },
+    {
+      "album": {
+        "name": "ALQUILER",
+        "url": "https://open.spotify.com/album/7kySJfnlb5qMPxWRTOVGc5"
+      },
+      "artists": [
+        {
+          "name": "LOS GALGOS",
+          "url": "https://open.spotify.com/artist/6eRluh6i0eiujCIRRA7FEj"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91714,
+      "name": "ALQUILER",
+      "url": "https://open.spotify.com/track/2lQfCoFsW4uqmDCcVjP8Cn"
     },
     {
       "album": {
@@ -1306,7 +1342,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 134117,
       "name": "Buenos d\u00edas Vietnam",
       "url": "https://open.spotify.com/track/1WtI58G1hrqxtBXJEVCyrC"
@@ -1404,6 +1440,24 @@
       "duration_ms": 215514,
       "name": "Caen Imperios",
       "url": "https://open.spotify.com/track/6wJk3x2eRy7Fo6stBr0N6z"
+    },
+    {
+      "album": {
+        "name": "Caja Sorpresa",
+        "url": "https://open.spotify.com/album/0xTAs9fElhgoNbywKL3qne"
+      },
+      "artists": [
+        {
+          "name": "Joder Juan",
+          "url": "https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139081,
+      "name": "Caja Sorpresa",
+      "url": "https://open.spotify.com/track/6nf6hXW4AS55PyaXNnqgfB"
     },
     {
       "album": {
@@ -1982,7 +2036,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 128455,
       "name": "Cristales",
       "url": "https://open.spotify.com/track/2NQjmOgMynS5t1Q0tlaYJj"
@@ -2058,7 +2112,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 212586,
       "name": "Cuando todo el mundo duerme",
       "url": "https://open.spotify.com/track/50PhMOpKlCEsLCKu2Vh7yG"
@@ -2098,6 +2152,28 @@
       "duration_ms": 178693,
       "name": "Curso Avanzado de Perra",
       "url": "https://open.spotify.com/track/3vLy8XXfciY4KvQktrOClg"
+    },
+    {
+      "album": {
+        "name": "C\u00c1LLATE YA",
+        "url": "https://open.spotify.com/album/5mokadGvpHWIwDgHso747O"
+      },
+      "artists": [
+        {
+          "name": "8 y Medio",
+          "url": "https://open.spotify.com/artist/29xJWp07Ld04lmvT0tizaR"
+        },
+        {
+          "name": "Drugos",
+          "url": "https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116003,
+      "name": "C\u00c1LLATE YA",
+      "url": "https://open.spotify.com/track/2Koj4wXXKYUiETuqGsXbNZ"
     },
     {
       "album": {
@@ -3264,7 +3340,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 121752,
       "name": "El Plan Maestro",
       "url": "https://open.spotify.com/track/0S7c6nfd1OuiDO0T3F59xd"
@@ -4761,6 +4837,24 @@
     },
     {
       "album": {
+        "name": "Como Vivir Sin Cuerpo",
+        "url": "https://open.spotify.com/album/7FVBTfI08WOKE1tjiM18An"
+      },
+      "artists": [
+        {
+          "name": "Goa",
+          "url": "https://open.spotify.com/artist/1jj0qqazY8R9qnrGAKneIh"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Indian Street Food",
+      "url": "https://open.spotify.com/track/5XnzycV1LHH8nej6sOqgJI"
+    },
+    {
+      "album": {
         "name": "Insurrecci\u00f3n",
         "url": "https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f"
       },
@@ -5600,6 +5694,24 @@
       "duration_ms": 181211,
       "name": "Les Llevar\u00e9 Mi Cruz",
       "url": "https://open.spotify.com/track/6QIODBpsQuCjIrHZHJIhbF"
+    },
+    {
+      "album": {
+        "name": "La \u00faltima bala",
+        "url": "https://open.spotify.com/album/6ijF7PxfiicFqKA4Qcs3vT"
+      },
+      "artists": [
+        {
+          "name": "La Groupie",
+          "url": "https://open.spotify.com/artist/1ub0t0cPeZW5lIOy9J3dp6"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134991,
+      "name": "LGP",
+      "url": "https://open.spotify.com/track/4QrmTN3BT7h6dLIE4uTfvk"
     },
     {
       "album": {
@@ -6850,7 +6962,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 167915,
       "name": "modo sigilo",
       "url": "https://open.spotify.com/track/0yVHUY5qQRPehPrux7JOI5"
@@ -8623,6 +8735,28 @@
     },
     {
       "album": {
+        "name": "Problemas",
+        "url": "https://open.spotify.com/album/4SN3RhmUlb0JQZL14cPJvO"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        },
+        {
+          "name": "Dear Joanne",
+          "url": "https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145133,
+      "name": "Problemas",
+      "url": "https://open.spotify.com/track/3rqsqwBNjbbp0Wdx5tnwsi"
+    },
+    {
+      "album": {
         "name": "Pronto",
         "url": "https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl"
       },
@@ -9844,7 +9978,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 147381,
       "name": "Spiderman 2",
       "url": "https://open.spotify.com/track/7EAGK8G7EBYSdGeAOWXj8s"
@@ -11682,7 +11816,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 177093,
       "name": "Yo quiero enamorarme de ti",
       "url": "https://open.spotify.com/track/5juIleuCWUbgFtWwehyFiN"

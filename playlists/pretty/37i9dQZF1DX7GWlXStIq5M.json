@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Bia Marques",
-  "num_followers": 363014,
+  "num_followers": 362997,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,26 @@
     {
       "added_at": "2026-03-30 13:34:57",
       "album": {
+        "name": "MANIA (oi amor, bom dia)",
+        "url": "https://open.spotify.com/album/0FfaZWXTDQp0rbYhOaVIZP"
+      },
+      "artists": [
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 167183,
+      "name": "MANIA (oi amor, bom dia)",
+      "url": "https://open.spotify.com/track/68xlHabOLtNATuxSFcOAyT"
+    },
+    {
+      "added_at": "2026-03-30 13:34:57",
+      "album": {
         "name": "FEL\u00cdDIA",
         "url": "https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C"
       },
@@ -195,26 +215,6 @@
       "duration_ms": 160284,
       "name": "antes que voc\u00ea v\u00e1",
       "url": "https://open.spotify.com/track/4tM0ZCycym90cD9Xi4iVtD"
-    },
-    {
-      "added_at": "2026-03-30 13:34:57",
-      "album": {
-        "name": "MANIA (oi amor, bom dia)",
-        "url": "https://open.spotify.com/album/0FfaZWXTDQp0rbYhOaVIZP"
-      },
-      "artists": [
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 167183,
-      "name": "MANIA (oi amor, bom dia)",
-      "url": "https://open.spotify.com/track/68xlHabOLtNATuxSFcOAyT"
     },
     {
       "added_at": "2026-03-30 13:34:57",
@@ -299,6 +299,34 @@
     {
       "added_at": "2026-03-30 13:34:57",
       "album": {
+        "name": "Fim Do Mundo",
+        "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Beeside Records",
+          "url": "https://open.spotify.com/artist/3ZCJP8VneBmjWhsRzmcOdo"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Fim Do Mundo",
+      "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
+    },
+    {
+      "added_at": "2026-03-30 13:34:57",
+      "album": {
         "name": "a1",
         "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
       },
@@ -335,34 +363,6 @@
       "duration_ms": 130639,
       "name": "Encanto (Nossa Gente, Avisa l\u00e1)",
       "url": "https://open.spotify.com/track/790OWdmOK2eLr9qBWEbuj4"
-    },
-    {
-      "added_at": "2026-03-30 13:34:57",
-      "album": {
-        "name": "Fim Do Mundo",
-        "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Beeside Records",
-          "url": "https://open.spotify.com/artist/3ZCJP8VneBmjWhsRzmcOdo"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Fim Do Mundo",
-      "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
     },
     {
       "added_at": "2026-03-30 13:34:57",
@@ -719,6 +719,42 @@
     {
       "added_at": "2026-03-30 13:34:57",
       "album": {
+        "name": "MUCHO SEXY - ASTRO SESSIONS",
+        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        }
+      ],
+      "duration_ms": 144427,
+      "name": "ATITUDE",
+      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
+    },
+    {
+      "added_at": "2026-03-30 13:34:57",
+      "album": {
+        "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
+        "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 183337,
+      "name": "sera que esse \u00e9 mesmo o nosso fim?",
+      "url": "https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF"
+    },
+    {
+      "added_at": "2026-03-30 13:34:57",
+      "album": {
         "name": "Del\u00edrio Favorito",
         "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
       },
@@ -751,42 +787,6 @@
       "duration_ms": 194760,
       "name": "viciado em mim",
       "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
-    },
-    {
-      "added_at": "2026-03-30 13:34:57",
-      "album": {
-        "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
-        "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 183337,
-      "name": "sera que esse \u00e9 mesmo o nosso fim?",
-      "url": "https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF"
-    },
-    {
-      "added_at": "2026-03-30 13:34:57",
-      "album": {
-        "name": "MUCHO SEXY - ASTRO SESSIONS",
-        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        }
-      ],
-      "duration_ms": 144427,
-      "name": "ATITUDE",
-      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
     },
     {
       "added_at": "2026-03-30 13:34:57",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-03-30 13:34:57",
       "album": {
-        "name": "Vida N\u00e3o Termina",
-        "url": "https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss"
-      },
-      "artists": [
-        {
-          "name": "Pinotti",
-          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
-        },
-        {
-          "name": "Helena Serena",
-          "url": "https://open.spotify.com/artist/1pxvtinDP1BbdZGKSc7sE4"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Vida N\u00e3o Termina",
-      "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"
-    },
-    {
-      "added_at": "2026-03-30 13:34:57",
-      "album": {
         "name": "nada s\u00e9rio",
         "url": "https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 166153,
       "name": "nada s\u00e9rio",
       "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
+    },
+    {
+      "added_at": "2026-03-30 13:34:57",
+      "album": {
+        "name": "Vida N\u00e3o Termina",
+        "url": "https://open.spotify.com/album/6BL1tDNtD5KKwVazuYgbss"
+      },
+      "artists": [
+        {
+          "name": "Pinotti",
+          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
+        },
+        {
+          "name": "Helena Serena",
+          "url": "https://open.spotify.com/artist/1pxvtinDP1BbdZGKSc7sE4"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Vida N\u00e3o Termina",
+      "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"
     },
     {
       "added_at": "2026-03-30 13:34:57",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-03-30 13:34:57",
       "album": {
-        "name": "PARECE OUTRA VIDA",
-        "url": "https://open.spotify.com/album/6VRtXcvR70svm0jT4mahtM"
-      },
-      "artists": [
-        {
-          "name": "Marco Baptista",
-          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
-        }
-      ],
-      "duration_ms": 161754,
-      "name": "PARECE OUTRA VIDA",
-      "url": "https://open.spotify.com/track/49k1W5UyAoAn9aoFoQTUzO"
-    },
-    {
-      "added_at": "2026-03-30 13:34:57",
-      "album": {
         "name": "PASSARINHO",
         "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 201783,
       "name": "PASSARINHO",
       "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
+    },
+    {
+      "added_at": "2026-03-30 13:34:57",
+      "album": {
+        "name": "PARECE OUTRA VIDA",
+        "url": "https://open.spotify.com/album/6VRtXcvR70svm0jT4mahtM"
+      },
+      "artists": [
+        {
+          "name": "Marco Baptista",
+          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
+        }
+      ],
+      "duration_ms": 161754,
+      "name": "PARECE OUTRA VIDA",
+      "url": "https://open.spotify.com/track/49k1W5UyAoAn9aoFoQTUzO"
     },
     {
       "added_at": "2026-03-30 13:34:57",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-03-30 13:34:57",
       "album": {
-        "name": "MOVEDI\u00c7A II",
-        "url": "https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 146776,
-      "name": "AKO\u00c7A",
-      "url": "https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H"
-    },
-    {
-      "added_at": "2026-03-30 13:34:57",
-      "album": {
         "name": "Ecos do Desejo",
         "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2026-03-30 13:34:57",
       "album": {
-        "name": "amanh\u00e3 de manh\u00e3",
-        "url": "https://open.spotify.com/album/7wnb54oeH4W62nXcF66qzU"
+        "name": "MOVEDI\u00c7A II",
+        "url": "https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96"
       },
       "artists": [
         {
-          "name": "lola ferrera",
-          "url": "https://open.spotify.com/artist/73XYpnz3T3doSWen2bH10K"
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
         }
       ],
-      "duration_ms": 152521,
-      "name": "amanh\u00e3 de manh\u00e3",
-      "url": "https://open.spotify.com/track/7re1atoPYsUFVx2Kv6mOqK"
+      "duration_ms": 146776,
+      "name": "AKO\u00c7A",
+      "url": "https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H"
     },
     {
       "added_at": "2026-03-30 13:34:57",
@@ -1215,6 +1199,22 @@
       "duration_ms": 164000,
       "name": "MINA",
       "url": "https://open.spotify.com/track/6bms1AEgjJDu6TQaSTAEcR"
+    },
+    {
+      "added_at": "2026-03-30 13:34:57",
+      "album": {
+        "name": "amanh\u00e3 de manh\u00e3",
+        "url": "https://open.spotify.com/album/7wnb54oeH4W62nXcF66qzU"
+      },
+      "artists": [
+        {
+          "name": "lola ferrera",
+          "url": "https://open.spotify.com/artist/73XYpnz3T3doSWen2bH10K"
+        }
+      ],
+      "duration_ms": 152521,
+      "name": "amanh\u00e3 de manh\u00e3",
+      "url": "https://open.spotify.com/track/7re1atoPYsUFVx2Kv6mOqK"
     },
     {
       "added_at": "2026-03-30 13:34:57",

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124121,
+  "num_followers": 124117,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVReQPfP6EVSmFVPjGynlO5/lVby3w",
+  "snapshot_id": "AAAVRkT/b+N+Mt0NzhHIRznn4PzkqNEn",
   "tracks": [
+    {
+      "added_at": "2026-04-02 15:10:53",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3n8WLww6y3YDe9hjPDGaQT"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Midnight Kids",
+          "url": "https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/2fqjgv5ZhAzR0fXC5WrrPT"
+    },
     {
       "added_at": "2026-04-01 15:38:09",
       "album": {

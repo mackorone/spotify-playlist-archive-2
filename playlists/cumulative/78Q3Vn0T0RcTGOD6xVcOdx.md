@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/78Q3Vn0T0RcTGOD6xVcOdx.md) - cumulative - [plain](/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx)
 
-### [Today’s Top Hits ](https://open.spotify.com/playlist/78Q3Vn0T0RcTGOD6xVcOdx)
+### [Today’s Top Hits\-Pop 2026 pop playlist, pop hits 2026, best pop songs, top pop music, viral pop song](https://open.spotify.com/playlist/78Q3Vn0T0RcTGOD6xVcOdx)
 
-> 
+> www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
 282 songs - 16 hr 8 min
 

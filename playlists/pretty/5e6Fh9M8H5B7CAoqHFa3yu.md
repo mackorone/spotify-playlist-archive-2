@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 300 likes - 2,120 songs - 5 day 5 hr 49 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 300 likes - 2,121 songs - 5 day 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2128,5 +2128,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2118 | [Psychedelic \- Band Version](https://open.spotify.com/track/2IKjfnfs0Bji4vr6NnQ9Rb) | [Kayleigh Walker](https://open.spotify.com/artist/5GKQQUenHbZ5qmohHqMBCd) | [Who is she ? \(Band Version\)](https://open.spotify.com/album/16b7kK0q5bR4Olemf8x4NG) | 3:37 |
 | 2119 | [Directamente del Cielo](https://open.spotify.com/track/72a9t5mhsKriamVuPqDAJj) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Directamente del Cielo](https://open.spotify.com/album/2U6pc5ziwVV895tqWX47iz) | 3:52 |
 | 2120 | [Mothman](https://open.spotify.com/track/38gi9OlVKpj6zwtNKK0dDc) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Mothman](https://open.spotify.com/album/2Ep74PqtVoHvQYwZ033Nvs) | 5:11 |
+| 2121 | [Tuko Pamoja](https://open.spotify.com/track/6pW2PSRYIQRMzeQikBTGct) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Tuko Pamoja](https://open.spotify.com/album/6HvrHdtTFSvPV1kEVs42rt) | 2:57 |
 
-Snapshot ID: `AAAI6mvIs4Sdv0Dwa0xL8xoV1UyaZsKQ`
+Snapshot ID: `AAAI6zp83C9aNPZwFvTcb3oANRuDwGmP`

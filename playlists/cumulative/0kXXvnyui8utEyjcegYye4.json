@@ -3879,6 +3879,32 @@
     },
     {
       "album": {
+        "name": "MONTAGEM ALQUIMIA",
+        "url": "https://open.spotify.com/album/0N6Xm4YHBgSx1NGUCs4L7X"
+      },
+      "artists": [
+        {
+          "name": "h6itam",
+          "url": "https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf"
+        },
+        {
+          "name": "n7san7os",
+          "url": "https://open.spotify.com/artist/3cvsBiWPwn1oVpKCeGBev9"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113465,
+      "name": "MONTAGEM ALQUIMIA - SLOWED",
+      "url": "https://open.spotify.com/track/0vmFuEhyHR8SbOhDFq021Y"
+    },
+    {
+      "album": {
         "name": "Montagem Mysterious Game",
         "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
       },

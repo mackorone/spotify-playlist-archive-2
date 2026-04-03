@@ -746,7 +746,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 197368,
       "name": "Meta \u05d4\u05e0\u05e9\u05de\u05d4 \u05dc\u05d0",
       "url": "https://open.spotify.com/track/7qCXxGnVvPDHyCjhLWdbCD"
@@ -5355,6 +5355,24 @@
     },
     {
       "album": {
+        "name": "\u05d7\u05d5\u05e4\u05e9\u05ea \u05de\u05dc\u05d7\u05de\u05d4",
+        "url": "https://open.spotify.com/album/3FzGJAXenSmRAAwCHuo3B4"
+      },
+      "artists": [
+        {
+          "name": "Hatikva 6",
+          "url": "https://open.spotify.com/artist/3umXlcgiDTcCRkvPVobeJc"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204972,
+      "name": "\u05d7\u05d5\u05e4\u05e9\u05ea \u05de\u05dc\u05d7\u05de\u05d4",
+      "url": "https://open.spotify.com/track/6N6FiVp241IR19sUZcq1eN"
+    },
+    {
+      "album": {
         "name": "\u05d1\u05d7\u05d6\u05e8\u05d4 \u05dc\u05d0\u05e8\u05d5\u05df",
         "url": "https://open.spotify.com/album/2wM0XTYE5UDr2dlgs6OqWp"
       },
@@ -5952,7 +5970,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 213765,
       "name": "\u05d9\u05e9 \u05de\u05d9\u05e9\u05d4\u05d5 \u05e9\u05e9\u05e8 \u05dc\u05da",
       "url": "https://open.spotify.com/track/6Ix2MJMdzccf5gVosUYG0r"
@@ -5992,6 +6010,24 @@
       "duration_ms": 171068,
       "name": "\u05d9\u05e9\u05ea\u05d1\u05d7",
       "url": "https://open.spotify.com/track/4jgOx2gmCmaDndHkeBv1Ja"
+    },
+    {
+      "album": {
+        "name": "\u05db\u05d5\u05dc\u05e0\u05d5 \u05d7\u05d9\u05d9\u05dd \u05d0\u05ea \u05d0\u05d5\u05ea\u05dd \u05d7\u05d9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0Wutr4T7MPONsaRT4XdWCZ"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05dc\u05d3.",
+          "url": "https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "\u05db\u05d0\u05e4\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/3FucKWzjyTIGLBkSnJAMYm"
     },
     {
       "album": {
@@ -6524,6 +6560,24 @@
       "duration_ms": 124444,
       "name": "\u05dc\u05d0 \u05dc\u05d4\u05ea\u05d0\u05d1\u05e1\u05e1",
       "url": "https://open.spotify.com/track/2xkXWaRUUn4phPu3QgiEA5"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d0 \u05dc\u05d7\u05d9\u05e0\u05dd",
+        "url": "https://open.spotify.com/album/1HhYxpCEC7fcbNPbLOTJeu"
+      },
+      "artists": [
+        {
+          "name": "Ishay Ribo",
+          "url": "https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "\u05dc\u05d0 \u05dc\u05d7\u05d9\u05e0\u05dd",
+      "url": "https://open.spotify.com/track/58AttoRTaSvsAtHLmvknqB"
     },
     {
       "album": {
@@ -10696,7 +10750,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 215792,
       "name": "\u05e9\u05b0\u05c2\u05d3\u05b5\u05d4 \u05e0\u05b7\u05e8\u05b0\u05e7\u05b4\u05d9\u05e1\u05b4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/5O0SzvdwgkiLzgtnQGVIMH"

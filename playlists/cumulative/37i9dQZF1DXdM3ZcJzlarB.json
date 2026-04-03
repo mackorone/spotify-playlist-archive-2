@@ -1813,6 +1813,28 @@
     },
     {
       "album": {
+        "name": "Discovery's",
+        "url": "https://open.spotify.com/album/6RsVfBtSVkTKyqqtW27Tj2"
+      },
+      "artists": [
+        {
+          "name": "CCINNI",
+          "url": "https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp"
+        },
+        {
+          "name": "Amancay",
+          "url": "https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268776,
+      "name": "Discovery's",
+      "url": "https://open.spotify.com/track/4DvTSZCc4aGhSLAk5y4AKb"
+    },
+    {
+      "album": {
         "name": "Distant Memories",
         "url": "https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76"
       },
@@ -6436,7 +6458,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 440655,
       "name": "The Illusion",
       "url": "https://open.spotify.com/track/5bVb0wK6MbEcfUYLXlXdcw"

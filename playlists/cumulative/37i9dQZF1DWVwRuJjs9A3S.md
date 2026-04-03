@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie\. Cover: Dottie Andersson
+> Det senaste och bästa från världen av indie\. Cover: Jungle
 
-1,189 songs - 2 day 20 hr 27 min
+1,194 songs - 2 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/4y22TdNzGjEX7qn5qvLrq3) | 3:30 | 2025-10-09 | 2026-01-16 |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-27 | 2025-04-25 |
 | [Cherry Wine](https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Starflower](https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa) | 3:57 | 2025-04-03 | 2025-06-20 |
+| [Chicago](https://open.spotify.com/track/2N5NhAQy5OeEtTWHvpykdX) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Chicago & Denver](https://open.spotify.com/album/6VNso8AIChuLA1eW0gSJku) | 3:48 | 2026-04-02 |  |
 | [Chick Flick](https://open.spotify.com/track/49bfNME6rwi0wVTtvBIOHs) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Chick Flick](https://open.spotify.com/album/1J1uuS8eM5xDUDn1Q7TQAi) | 3:22 | 2026-02-12 |  |
 | [Chicken](https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Chicken](https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD) | 4:22 | 2024-07-25 | 2024-08-30 |
 | [Childhood](https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Childhood](https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk) | 3:02 | 2025-01-02 | 2025-02-28 |
@@ -219,6 +220,7 @@
 | [Corner Boys](https://open.spotify.com/track/6PVBY2cZJ0jdzPNiN5S2AO) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl), [Painaway](https://open.spotify.com/artist/5sXuMtnirJrHjsXwHs7xQK) | [From the Inside \(Music from the Original TV Series Från Insidan\)](https://open.spotify.com/album/7C2cmxwKD6XhanOCk3Jo4N) | 3:26 | 2024-12-12 | 2025-02-28 |
 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 | 2025-10-16 |  |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-29 | 2025-10-10 |
+| [Crayons](https://open.spotify.com/track/6mRPNbIa1EgP5qdFZyD1kj) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Crayons](https://open.spotify.com/album/2Rfn9Sw0x80wIrJKQuBBYs) | 2:43 | 2026-04-02 |  |
 | [Crisis](https://open.spotify.com/track/3P8EiAM6PHXIQzNWiZRVor) | [Wolfschmidt](https://open.spotify.com/artist/5IHov8wtsp76uPgwMVNx0o) | [Crisis](https://open.spotify.com/album/5DonSRhBF8oTz4RFJXkNQP) | 4:31 | 2024-08-08 | 2024-09-13 |
 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 | 2025-07-03 | 2026-01-16 |
 | [Crumbs](https://open.spotify.com/track/6HzhsHoGBLP63zISjDM0sz) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Crumbs](https://open.spotify.com/album/1WchsrtjxiZ7QjmLSHKuVq) | 4:13 | 2026-03-05 |  |
@@ -230,6 +232,7 @@
 | [cypress](https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [cypress](https://open.spotify.com/album/34A3HZas24PfzMckyhVKrt) | 4:32 | 2025-05-08 | 2025-10-10 |
 | [Daggers](https://open.spotify.com/track/0vyOox9JgtqHMYqmTofFgx) | [Lemi](https://open.spotify.com/artist/6z7Xu7QkD7cqJ8brVwtb1c) | [Daggers](https://open.spotify.com/album/7cDgFT6OBIEmCKgKqjSNlp) | 2:39 | 2025-03-07 | 2025-05-16 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-25 | 2024-10-11 |
+| [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 | 2026-04-02 |  |
 | [Dancers](https://open.spotify.com/track/0MdXqGO6myqxt0FwvuOqMN) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Dancers](https://open.spotify.com/album/4NQBMNfQxbgiVp8OCPbeJU) | 3:30 | 2024-06-27 | 2024-08-09 |
 | [Dare To Fall In Love](https://open.spotify.com/track/6wK00cLmk8GOgJOgMusTeu) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Change My Mind / Dare To Fall In Love](https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS) | 2:17 | 2025-09-11 | 2026-01-16 |
 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 | 2025-09-18 | 2026-01-16 |
@@ -982,6 +985,7 @@
 | [Summer Crime](https://open.spotify.com/track/1ijQbGjPqCWmAvM69YAgVF) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Summer Crime](https://open.spotify.com/album/0c8hv4aVCRv9IFsbwce8Jh) | 2:59 | 2025-06-19 | 2025-10-10 |
 | [Summerinlove](https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Summerinlove](https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4) | 4:31 | 2025-07-31 | 2026-01-16 |
 | [Sun Tan](https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Sun Tan](https://open.spotify.com/album/06o9hDDvMetaUcbnATlFtg) | 3:37 | 2025-06-05 | 2026-01-16 |
+| [Sungazer](https://open.spotify.com/track/504TpZVrxvCzC9Cy15jMti) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sungazer](https://open.spotify.com/album/4Bl9c6aAUaDPLRYrf3fiDI) | 4:34 | 2026-04-02 |  |
 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 | 2025-03-13 | 2025-05-16 |
 | [sunshine\~](https://open.spotify.com/track/5Jc4vDaFlqyCWUFINwjaTS) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [sunshine\~](https://open.spotify.com/album/68xXHDSi3oAj6OMzz2Ln5K) | 1:49 | 2024-09-12 | 2024-11-15 |
 | [Supermarket Fridays](https://open.spotify.com/track/01f2MOPf7mAIJBocrM7nKo) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Supermarket Fridays](https://open.spotify.com/album/1r9zHUtC13FtsOY601Qud2) | 4:02 | 2025-01-02 | 2025-02-14 |
@@ -1041,6 +1045,7 @@
 | [the thing about you](https://open.spotify.com/track/6KNGUyfu8l8BTwUP0urEhQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [the thing about you](https://open.spotify.com/album/4peXtpFElRZAgs76jHOifT) | 2:40 | 2024-06-27 | 2024-08-23 |
 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-04 |  |
 | [The Unshaken Frame](https://open.spotify.com/track/6w6Tv5D6Od9Khtzarcl0wy) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [The Unshaken Frame](https://open.spotify.com/album/6Hdg7trGeWQZOmVt7wz8wC) | 3:29 | 2025-04-24 | 2025-07-25 |
+| [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 | 2026-04-02 |  |
 | [The Wannabe](https://open.spotify.com/track/2rWPq0boMTydPsl8zFqafM) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Oh My God \- That's So Me](https://open.spotify.com/album/3Pumb6shTeFPOskFWHClay) | 3:03 | 2024-09-05 | 2024-11-15 |
 | [The world of yesterday](https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The world of yesterday](https://open.spotify.com/album/3j2tB7H1Ez1HHP8dO1e5nr) | 3:32 | 2024-10-10 | 2024-11-15 |
 | [Therapy II](https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys \(Japanese Deluxe Edition\)](https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB) | 2:39 | 2026-01-08 |  |

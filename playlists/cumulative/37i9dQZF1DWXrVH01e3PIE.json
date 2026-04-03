@@ -4670,7 +4670,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 200548,
       "name": "FUERA DE LA ORBITA",
       "url": "https://open.spotify.com/track/4FFq4Rgv2fmKdgh0ur92qJ"
@@ -12264,6 +12264,24 @@
       "duration_ms": 219560,
       "name": "VLONE",
       "url": "https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5"
+    },
+    {
+      "album": {
+        "name": "zelly",
+        "url": "https://open.spotify.com/album/7lNdUIg9CS88Kye35acvOW"
+      },
+      "artists": [
+        {
+          "name": "Zell",
+          "url": "https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152643,
+      "name": "vos, yo y tu Ego",
+      "url": "https://open.spotify.com/track/7yX4yBRyObd73GfTIx3mym"
     },
     {
       "album": {

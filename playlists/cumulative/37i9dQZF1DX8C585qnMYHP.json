@@ -929,6 +929,28 @@
     },
     {
       "album": {
+        "name": "a feeling",
+        "url": "https://open.spotify.com/album/0lT0bmsvvpNkHvzfzJ8Ezd"
+      },
+      "artists": [
+        {
+          "name": "WALTA",
+          "url": "https://open.spotify.com/artist/1u5Zp5UwzGCydF4HunLqaJ"
+        },
+        {
+          "name": "Kieran Stevenson",
+          "url": "https://open.spotify.com/artist/2PSQtUZiqvkJYw5syNNbd4"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "a feeling",
+      "url": "https://open.spotify.com/track/0q4GQFQkzhkKUlzZZv0eNb"
+    },
+    {
+      "album": {
         "name": "Furtive Glances",
         "url": "https://open.spotify.com/album/3w7XwzmpLui3Gxe5s8UXcV"
       },
@@ -4785,6 +4807,24 @@
     },
     {
       "album": {
+        "name": "BIWM",
+        "url": "https://open.spotify.com/album/7HGirV7wJ93mWgYkIkScqP"
+      },
+      "artists": [
+        {
+          "name": "MAY",
+          "url": "https://open.spotify.com/artist/2x2XcuR2lkrJHzDjnYZIk5"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226374,
+      "name": "BIWM",
+      "url": "https://open.spotify.com/track/6zmBzFMP19mafCMH40Rcc3"
+    },
+    {
+      "album": {
         "name": "Six Twelve Pervert",
         "url": "https://open.spotify.com/album/5KrwnAJKMN7RcRp7SZCahr"
       },
@@ -7450,7 +7490,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 169560,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB"
@@ -11261,6 +11301,24 @@
     },
     {
       "album": {
+        "name": "Spectres",
+        "url": "https://open.spotify.com/album/5tlhRi4B8fKgOW1aDqeZZB"
+      },
+      "artists": [
+        {
+          "name": "J. Mordechai",
+          "url": "https://open.spotify.com/artist/5Jjx40UzbnzKFxYvui5JBs"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280125,
+      "name": "Eternal September",
+      "url": "https://open.spotify.com/track/5Kw14pZRJ6jsGtk8WRg0wZ"
+    },
+    {
+      "album": {
         "name": "Lone Memory",
         "url": "https://open.spotify.com/album/6g6FwKH02JkWomYFdVZnno"
       },
@@ -14706,7 +14764,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 272000,
       "name": "Grief",
       "url": "https://open.spotify.com/track/1WvlzTLQuAzhAWgnWQFydt"
@@ -17464,7 +17522,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 272031,
       "name": "Indigo Skies",
       "url": "https://open.spotify.com/track/5cYovKQWMe0zXkHiPMvW0W"
@@ -17972,6 +18030,28 @@
       "duration_ms": 199756,
       "name": "Interlude of Life",
       "url": "https://open.spotify.com/track/7gFXUAMdj7HchJy2HTR9g7"
+    },
+    {
+      "album": {
+        "name": "Music for Intersecting Planes",
+        "url": "https://open.spotify.com/album/6hgGCTcKj9F9t7SYiRGmgs"
+      },
+      "artists": [
+        {
+          "name": "Leila Bordreuil",
+          "url": "https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35"
+        },
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502000,
+      "name": "Intersecting Planes II",
+      "url": "https://open.spotify.com/track/0Qv4TU6l9PdPVjAGB04wDz"
     },
     {
       "album": {
@@ -34948,7 +35028,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 291792,
       "name": "The sound of a continent moving\u2026 animals, plants and minerals included",
       "url": "https://open.spotify.com/track/1QbN0pkKWRDE0eEIvGVOUJ"

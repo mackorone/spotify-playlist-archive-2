@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Mar\u00eda Isabel.",
-  "num_followers": 747479,
+  "num_followers": 747464,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "HOY NO TRABAJO",
-        "url": "https://open.spotify.com/album/5hdRkMghtquoZK9RFeY5m0"
-      },
-      "artists": [
-        {
-          "name": "OMAY",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "HOY NO TRABAJO",
-      "url": "https://open.spotify.com/track/4wtpYqV7ZHXBmwRkWKsx7V"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
         "name": "INFANCIA MAL CALIBRADA",
         "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 187605,
       "name": "Quieres Autodestruirte Conmigo?",
       "url": "https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "HOY NO TRABAJO",
+        "url": "https://open.spotify.com/album/5hdRkMghtquoZK9RFeY5m0"
+      },
+      "artists": [
+        {
+          "name": "OMAY",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "HOY NO TRABAJO",
+      "url": "https://open.spotify.com/track/4wtpYqV7ZHXBmwRkWKsx7V"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
+        "name": "barquito (bonus track)",
+        "url": "https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 204974,
+      "name": "barquito - bonus track",
+      "url": "https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
         "name": "Ramma + Cindy Cats - Spotify Sessions",
         "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 195445,
       "name": "alg\u00fan d\u00eda - Spotify Sessions",
       "url": "https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
-        "name": "barquito (bonus track)",
-        "url": "https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 204974,
-      "name": "barquito - bonus track",
-      "url": "https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 252929,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
         "name": "Lienzo",
         "url": "https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 252929,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "otro d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 151264,
-      "name": "otro d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
         "name": "Canciones en Mi",
         "url": "https://open.spotify.com/album/4l7m9k9na3sm2sR3BYSTsE"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 142724,
       "name": "D\u00f3nde Est\u00e1s!",
       "url": "https://open.spotify.com/track/42hWyKlSWHMLPcvl8nkrfC"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "otro d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 151264,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
+        "name": "Mil Noches",
+        "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 164584,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
         "name": "aunquetelopida",
         "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 180631,
       "name": "aunquetelopida",
       "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
-        "name": "Mil Noches",
-        "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 164584,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/5uVq7FwYvcXrE0nWfRYqxn"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "BENDITA SEA LA HORA",
-        "url": "https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW"
-      },
-      "artists": [
-        {
-          "name": "PARDOPARDO",
-          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
-        }
-      ],
-      "duration_ms": 147711,
-      "name": "BENDITA SEA LA HORA",
-      "url": "https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
         "name": "Falta Algo",
         "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 203127,
       "name": "Falta Algo",
       "url": "https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "BENDITA SEA LA HORA",
+        "url": "https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW"
+      },
+      "artists": [
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        }
+      ],
+      "duration_ms": 147711,
+      "name": "BENDITA SEA LA HORA",
+      "url": "https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "Me Asusta Amar Tanto la Soledad",
-        "url": "https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 202354,
-      "name": "Me Asusta Amar Tanto la Soledad",
-      "url": "https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
         "name": "Se Amaba As\u00ed",
         "url": "https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK"
       },
@@ -1531,22 +1515,18 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "Pinta Bonito",
-        "url": "https://open.spotify.com/album/3tRAsO7rFrSh6uDYFl1uiJ"
+        "name": "Me Asusta Amar Tanto la Soledad",
+        "url": "https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs"
       },
       "artists": [
         {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
         }
       ],
-      "duration_ms": 216677,
-      "name": "Pinta Bonito",
-      "url": "https://open.spotify.com/track/6j98s4dlTDuUl8tMy8BUZ7"
+      "duration_ms": 202354,
+      "name": "Me Asusta Amar Tanto la Soledad",
+      "url": "https://open.spotify.com/track/6026RHq4ZOiQH6Zdo0pTy3"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -1567,22 +1547,22 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "Camas Separadas (ft. Disco Bah\u00eda)",
-        "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
+        "name": "Pinta Bonito",
+        "url": "https://open.spotify.com/album/3tRAsO7rFrSh6uDYFl1uiJ"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
         },
         {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
         }
       ],
-      "duration_ms": 235136,
-      "name": "Camas Separadas - ft. Disco Bah\u00eda",
-      "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
+      "duration_ms": 216677,
+      "name": "Pinta Bonito",
+      "url": "https://open.spotify.com/track/6j98s4dlTDuUl8tMy8BUZ7"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -1603,6 +1583,26 @@
       "duration_ms": 223910,
       "name": "Q.I.S - feat. maye",
       "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "Camas Separadas (ft. Disco Bah\u00eda)",
+        "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 235136,
+      "name": "Camas Separadas - ft. Disco Bah\u00eda",
+      "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
     },
     {
       "added_at": "2026-03-13 04:00:54",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-03-13 04:00:54",
       "album": {
-        "name": "BLANCOMEZCLILLA",
-        "url": "https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 187903,
-      "name": "a veces casi siempre",
-      "url": "https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:54",
-      "album": {
         "name": "EL OTRO T\u00da",
         "url": "https://open.spotify.com/album/6o2mMA8R9374vi2KVc3DPl"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 172840,
       "name": "EL OTRO T\u00da",
       "url": "https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "BLANCOMEZCLILLA",
+        "url": "https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 187903,
+      "name": "a veces casi siempre",
+      "url": "https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ"
     }
   ],
   "unique_name": "Mixto",

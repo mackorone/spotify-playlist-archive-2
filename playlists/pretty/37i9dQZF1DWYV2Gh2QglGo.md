@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Kalsey Kulyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,707 likes - 138 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,713 likes - 138 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

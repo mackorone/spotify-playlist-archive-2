@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 163249,
+  "num_followers": 163279,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAAAs2EiBSqZ0rdpfp6D7K87L",
+  "snapshot_id": "acxgAAAAAABmtVoklDMy+Y7w3wL9GJXI",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cl\u00e1sicos 1.0: Entrega",
-        "url": "https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 297061,
-      "name": "Cl\u00e1sicos 1.0: Entrega",
-      "url": "https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Alto En El Camino",
         "url": "https://open.spotify.com/album/5K1xoFuq0UnWFVLhYcRCI5"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 290373,
       "name": "Un Alto En El Camino",
       "url": "https://open.spotify.com/track/6DyMFZOsFnCCr6vrbsFE9f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cl\u00e1sicos 1.0: Entrega",
+        "url": "https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 297061,
+      "name": "Cl\u00e1sicos 1.0: Entrega",
+      "url": "https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 291893,
+      "name": "El Amor Vendr\u00e1",
+      "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Mundo Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/3YSgkCCFuUs3jm3NZuiOxK"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 209200,
       "name": "Mi Mundo Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/5eL3CUuqkOycNKjRUJban8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tapando el Hueco",
-        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 291893,
-      "name": "El Amor Vendr\u00e1",
-      "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
     },
     {
       "added_at": null,

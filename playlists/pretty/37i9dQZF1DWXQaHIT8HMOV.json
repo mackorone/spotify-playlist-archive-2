@@ -1,15 +1,15 @@
 {
-  "description": "Homegrown Ugandan gems in one playlist. Cover: Pia Pounds",
-  "num_followers": 10575,
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Pallaso",
+  "num_followers": 10586,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADm+5F1rBL92VpAMLsV7gitAazWE",
+  "snapshot_id": "AAAAAP5w+NoPFxX7VHxPjsNisPVNQ1qu",
   "tracks": [
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Daily Bundle",
         "url": "https://open.spotify.com/album/0aubgASRi7N38T8bG24Pmh"
@@ -25,7 +25,31 @@
       "url": "https://open.spotify.com/track/5YXwtHacsQiPVd0Yk6fwzs"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
+      "album": {
+        "name": "Tulo Tulo",
+        "url": "https://open.spotify.com/album/5UNCHeVKK5Gh1ORs94PfAV"
+      },
+      "artists": [
+        {
+          "name": "Ava Peace",
+          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+        },
+        {
+          "name": "Kelly Yo",
+          "url": "https://open.spotify.com/artist/7hEadzhyozm99Hm6dbSQBD"
+        },
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 188995,
+      "name": "Tulo Tulo",
+      "url": "https://open.spotify.com/track/3HJpqhdwOGhiS2YhgllmCb"
+    },
+    {
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Morocco (Remix)",
         "url": "https://open.spotify.com/album/2GXg4xtgD1GvFRatolULXX"
@@ -49,7 +73,27 @@
       "url": "https://open.spotify.com/track/6K0yyDL8HIakuunhcTAttS"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
+      "album": {
+        "name": "Elizabella",
+        "url": "https://open.spotify.com/album/4btEtJznxqgZWYrWVuxK81"
+      },
+      "artists": [
+        {
+          "name": "Dokta Brain",
+          "url": "https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY"
+        },
+        {
+          "name": "Fille",
+          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
+        }
+      ],
+      "duration_ms": 195291,
+      "name": "Run Di Town",
+      "url": "https://open.spotify.com/track/4gA3vcjeE5qk1Fyx9ExhVi"
+    },
+    {
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "HABIBI",
         "url": "https://open.spotify.com/album/5DYq6LbDRwNEuvUCNQvRhl"
@@ -65,7 +109,55 @@
       "url": "https://open.spotify.com/track/0dZPHeDKSci3kF7uGEowDX"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
+      "album": {
+        "name": "Barik",
+        "url": "https://open.spotify.com/album/7JTDomVxxgLwGt79WaQeW6"
+      },
+      "artists": [
+        {
+          "name": "Omega 256",
+          "url": "https://open.spotify.com/artist/4fqAceCbd2x3635AFs6nmD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Barik",
+      "url": "https://open.spotify.com/track/6ZWibgEzfhtq6qGAbv1vs8"
+    },
+    {
+      "added_at": "2026-04-02 22:59:01",
+      "album": {
+        "name": "Size Yange",
+        "url": "https://open.spotify.com/album/1IhDUyT23sha5gpDOcbJmJ"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "Size Yange",
+      "url": "https://open.spotify.com/track/0LTXFAgz9DoYeqbBBc8Jw8"
+    },
+    {
+      "added_at": "2026-04-02 22:59:01",
+      "album": {
+        "name": "Wano Wano",
+        "url": "https://open.spotify.com/album/0CaMWlyesbiWDxEdeuvIJI"
+      },
+      "artists": [
+        {
+          "name": "Rema namakula",
+          "url": "https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "Wano Wano",
+      "url": "https://open.spotify.com/track/5KNavivNEL4jNVCDJktY9g"
+    },
+    {
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Human Form",
         "url": "https://open.spotify.com/album/7CpwZTLcfrcLtJFblTpFEZ"
@@ -85,23 +177,43 @@
       "url": "https://open.spotify.com/track/0oNhqypDjc5xHPvsFVZCMu"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
-        "name": "Size Yange",
-        "url": "https://open.spotify.com/album/1IhDUyT23sha5gpDOcbJmJ"
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/4QJWJoDNkLBNrnKa9DanHt"
       },
       "artists": [
         {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/2PiQiMIqY2BvV8noRlZq8L"
         }
       ],
-      "duration_ms": 160434,
-      "name": "Size Yange",
-      "url": "https://open.spotify.com/track/0LTXFAgz9DoYeqbBBc8Jw8"
+      "duration_ms": 159917,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/4fpRCKBrXOCgX6TrY64FJb"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
+      "album": {
+        "name": "Gundi II",
+        "url": "https://open.spotify.com/album/2Re4euq9Jhniua0vnf4Sh4"
+      },
+      "artists": [
+        {
+          "name": "MIMI KAMPALA",
+          "url": "https://open.spotify.com/artist/3wLP8my7yp4jjC4wKvg5kX"
+        },
+        {
+          "name": "KAPEKE",
+          "url": "https://open.spotify.com/artist/5PmsG49rnSaGHFElOTkHi2"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Gundi II",
+      "url": "https://open.spotify.com/track/4WElF8GBQ6W5uqVyI9FzWw"
+    },
+    {
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Let U Go",
         "url": "https://open.spotify.com/album/24UmvZYmg3SjlDXroy760t"
@@ -117,7 +229,23 @@
       "url": "https://open.spotify.com/track/0P3gJ2csdkEecglQ0kW86g"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
+      "album": {
+        "name": "Ng'etaala",
+        "url": "https://open.spotify.com/album/5Z5wKUDCLTcN2DdWVFttxo"
+      },
+      "artists": [
+        {
+          "name": "ALLAN TONIKS",
+          "url": "https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Ng'etaala",
+      "url": "https://open.spotify.com/track/3qcknbyl0KCy4XzftduXSj"
+    },
+    {
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/1haxScVwh7lfpP3L5fRINd"
@@ -137,7 +265,23 @@
       "url": "https://open.spotify.com/track/77V3AIxStP7UvO6n0zIdiT"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
+      "album": {
+        "name": "Njagala Okulya",
+        "url": "https://open.spotify.com/album/5fplGB320NDGCtq7VCFUGU"
+      },
+      "artists": [
+        {
+          "name": "Chozen Blood",
+          "url": "https://open.spotify.com/artist/1ZZ4q0qDlEAM4kcO5eD3mT"
+        }
+      ],
+      "duration_ms": 162429,
+      "name": "Njagala Okulya",
+      "url": "https://open.spotify.com/track/3dGLHTp2QcA3kCmq9duRvS"
+    },
+    {
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Nyweera",
         "url": "https://open.spotify.com/album/3fjpmzYRV1dh2XNXdYIxuX"
@@ -153,7 +297,7 @@
       "url": "https://open.spotify.com/track/32fgnccnW2GGN0Sh5tu2cz"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Tonalaba",
         "url": "https://open.spotify.com/album/5ONL2pLRZJpbFgHCKActmW"
@@ -173,7 +317,23 @@
       "url": "https://open.spotify.com/track/0zyvr9G5PrfuvhqlCKMh4O"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
+      "album": {
+        "name": "WEPIME",
+        "url": "https://open.spotify.com/album/2NolbbbRQxdohbAjAOQ9Zo"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "WEPIME",
+      "url": "https://open.spotify.com/track/2fLiZwIebf7QCvId2iJFe1"
+    },
+    {
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Nkwatako (Touch Me)",
         "url": "https://open.spotify.com/album/64XZmD37ghkqatARVd2oTY"
@@ -197,7 +357,23 @@
       "url": "https://open.spotify.com/track/6noDaGsPHFVaorhbg6U3nJ"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
+      "album": {
+        "name": "Pen",
+        "url": "https://open.spotify.com/album/70N3nyBt05B0eDKVPgG32G"
+      },
+      "artists": [
+        {
+          "name": "Gravity Omutujju",
+          "url": "https://open.spotify.com/artist/6nxjPyAUGxuhWX68nT7oko"
+        }
+      ],
+      "duration_ms": 176222,
+      "name": "Pen",
+      "url": "https://open.spotify.com/track/5bHuCAQi4ppdq2RvTqK6GD"
+    },
+    {
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Kiyamba Nze & Empeta",
         "url": "https://open.spotify.com/album/6dV7uxni6lA7iGG80xfM0n"
@@ -213,7 +389,43 @@
       "url": "https://open.spotify.com/track/4cjOihQfvoYISv7usG7dMR"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
+      "album": {
+        "name": "Abaana Bawoo",
+        "url": "https://open.spotify.com/album/70opGkpYRKCLyunLAJEe80"
+      },
+      "artists": [
+        {
+          "name": "Roffe Wander",
+          "url": "https://open.spotify.com/artist/3d4OHRvD1gahCN8o3n9UZo"
+        },
+        {
+          "name": "OmaNi ReigN",
+          "url": "https://open.spotify.com/artist/4asjN0yrL59sabVQEnKLYV"
+        },
+        {
+          "name": "Mr. Original",
+          "url": "https://open.spotify.com/artist/1zlCgR8luBS6AbZ6XGdPQl"
+        },
+        {
+          "name": "Kvan",
+          "url": "https://open.spotify.com/artist/6ucO2ifB9FOmWbh1dmF36e"
+        },
+        {
+          "name": "Slumboy Zacky",
+          "url": "https://open.spotify.com/artist/5dRtCzStDAciY4TlvaflMS"
+        },
+        {
+          "name": "Lyrical Philosofa",
+          "url": "https://open.spotify.com/artist/6V7upyHQjwFMhaDhAMrgHU"
+        }
+      ],
+      "duration_ms": 247578,
+      "name": "Abaana Bawoo",
+      "url": "https://open.spotify.com/track/3AIPw8MnqrBZ4vSxhug2CC"
+    },
+    {
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Poster Boy",
         "url": "https://open.spotify.com/album/112Gt6F0A8roRYhcRzHa2k"
@@ -229,7 +441,7 @@
       "url": "https://open.spotify.com/track/5utBkhTZULODs9aVAZrDIT"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/6HWwAJR5Ucarqb8D2gmPOI"
@@ -253,7 +465,7 @@
       "url": "https://open.spotify.com/track/0jsy7wWM2eNwHZidVOaThC"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Juvie",
         "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
@@ -273,7 +485,7 @@
       "url": "https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Darlie",
         "url": "https://open.spotify.com/album/4qq0MoobI7hVI2wNLpMZNT"
@@ -289,7 +501,7 @@
       "url": "https://open.spotify.com/track/7zevWR3wRI6AyjjjIqHsVC"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/4AWV0Kl4nWnfaPTseDUKWN"
@@ -317,7 +529,7 @@
       "url": "https://open.spotify.com/track/44ohwgdP6fywqjza4cwBU4"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "ABCD",
         "url": "https://open.spotify.com/album/4FRQvt4uqmTIswP3NerIj0"
@@ -337,7 +549,7 @@
       "url": "https://open.spotify.com/track/7LZi2twUKdO939aMSu4xHb"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Amazaina",
         "url": "https://open.spotify.com/album/4g7YJc1kXDa79qf9LoqGJh"
@@ -357,7 +569,7 @@
       "url": "https://open.spotify.com/track/1gobRUGrQ3nxM343Z3SINY"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Ba Haters (Remix)",
         "url": "https://open.spotify.com/album/0R4VWUWSKOJBs6gwBqLppF"
@@ -377,7 +589,7 @@
       "url": "https://open.spotify.com/track/6jcUNNWZh3Lt10R2cZ8IkU"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Njagala Banjagala",
         "url": "https://open.spotify.com/album/0UEqzwohyikF1VxI5CgNG9"
@@ -397,7 +609,7 @@
       "url": "https://open.spotify.com/track/5SoOchV6p7ZeIMo4h7s2KA"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Njagala Mukwano",
         "url": "https://open.spotify.com/album/1iD6TzKVWgf7sgChI5777R"
@@ -413,23 +625,7 @@
       "url": "https://open.spotify.com/track/6PzFNEhqh5s5osIbIgseE5"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
-      "album": {
-        "name": "Kano Akayimba",
-        "url": "https://open.spotify.com/album/6bmLHCvX1jyCRhLUQdliK4"
-      },
-      "artists": [
-        {
-          "name": "K!MERA",
-          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
-        }
-      ],
-      "duration_ms": 179277,
-      "name": "Kano Akayimba",
-      "url": "https://open.spotify.com/track/5JI6dcYNQOc9GlEOzWk7Xp"
-    },
-    {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Revolve",
         "url": "https://open.spotify.com/album/77hRlufu1pFl8KGlBjOsPg"
@@ -445,7 +641,7 @@
       "url": "https://open.spotify.com/track/7EyJa8jYBkpRO8NxFFaH8a"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Cherie",
         "url": "https://open.spotify.com/album/5evkQhgfPzCNKzHkTVd3ul"
@@ -461,7 +657,7 @@
       "url": "https://open.spotify.com/track/3Pitcv0by6ZQNUIUjz477f"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Good Idea",
         "url": "https://open.spotify.com/album/6H1rdKxDBAVCEq3fpRGLI2"
@@ -481,7 +677,7 @@
       "url": "https://open.spotify.com/track/6MHDsDMdC4l2DZ9fUdmk6L"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Chikicha",
         "url": "https://open.spotify.com/album/3wul9VitsMDaAhSvFCpbNY"
@@ -501,7 +697,7 @@
       "url": "https://open.spotify.com/track/14BZpV8OgaPsWkX1NtEbCt"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Omugongo",
         "url": "https://open.spotify.com/album/7hHA0ASfWH6dHKf4mLEc0M"
@@ -521,7 +717,7 @@
       "url": "https://open.spotify.com/track/0ex3U5VZRZou8FZVxXFGah"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Setting",
         "url": "https://open.spotify.com/album/4qx633m4zSy8Z6q1BSDbtX"
@@ -541,43 +737,7 @@
       "url": "https://open.spotify.com/track/1KlO3pDb3AS2Vi0SYMIB8L"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
-      "album": {
-        "name": "Wanchenche",
-        "url": "https://open.spotify.com/album/1Hn6QYIvYxcCeNqmYMUxEl"
-      },
-      "artists": [
-        {
-          "name": "Bad Sparksy",
-          "url": "https://open.spotify.com/artist/6PepBSUCzpxoiKCx9sfrdP"
-        },
-        {
-          "name": "Swag Dada",
-          "url": "https://open.spotify.com/artist/04Pil0oWDQTeW7gKKTJwU1"
-        }
-      ],
-      "duration_ms": 151092,
-      "name": "Wanchenche",
-      "url": "https://open.spotify.com/track/6ZMeYawGz1bu8pBhxIdwRa"
-    },
-    {
-      "added_at": "2026-03-26 23:59:21",
-      "album": {
-        "name": "THIS IS HAPPENING",
-        "url": "https://open.spotify.com/album/1QmRLdcCJRlMKpkRqaaH9I"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 186534,
-      "name": "SAY I DO",
-      "url": "https://open.spotify.com/track/2RPMbkVqUvAIAzbd2iswkS"
-    },
-    {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Dive In",
         "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
@@ -597,7 +757,7 @@
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Nkisusamu",
         "url": "https://open.spotify.com/album/3TsSnRHtcCmg5MJa56HV0t"
@@ -613,27 +773,7 @@
       "url": "https://open.spotify.com/track/3QUyCTyxXSB4egQhLa45gZ"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
-      "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/51XBZw5AdA77RToRUD9nRj"
-      },
-      "artists": [
-        {
-          "name": "Johnny Benzx",
-          "url": "https://open.spotify.com/artist/5NEnBthn01lKX8YUrwRIQB"
-        },
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 129619,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/36V4TrRiUIkQLB6sEwx7A4"
-    },
-    {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Totta",
         "url": "https://open.spotify.com/album/2Hij9Q3rJ0YR3SBnFoCeVW"
@@ -653,59 +793,7 @@
       "url": "https://open.spotify.com/track/0T3rnnZnmL3kR2MfM5QWuM"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
-      "album": {
-        "name": "Woman in My Life",
-        "url": "https://open.spotify.com/album/6KaryKdZd2Pw9TgiDixQjc"
-      },
-      "artists": [
-        {
-          "name": "Dokta Brain",
-          "url": "https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Woman in My Life",
-      "url": "https://open.spotify.com/track/4MVNh79x52KiTNFLtUvfWX"
-    },
-    {
-      "added_at": "2026-03-26 23:59:21",
-      "album": {
-        "name": "African Buoy",
-        "url": "https://open.spotify.com/album/4ZzsWY2WUETPUEZc4kNmkl"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        },
-        {
-          "name": "Laika",
-          "url": "https://open.spotify.com/artist/3bUcjrDYke1YzdN5ncdQJ7"
-        }
-      ],
-      "duration_ms": 192473,
-      "name": "Mummy Yo",
-      "url": "https://open.spotify.com/track/4ICBQ0SyH00WHiuQ3RbUPG"
-    },
-    {
-      "added_at": "2026-03-26 23:59:21",
-      "album": {
-        "name": "Nzikiriza",
-        "url": "https://open.spotify.com/album/36Ux9nRTO5VFGYQYdO2kAq"
-      },
-      "artists": [
-        {
-          "name": "Nandor Love",
-          "url": "https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6"
-        }
-      ],
-      "duration_ms": 236982,
-      "name": "Nzikiriza",
-      "url": "https://open.spotify.com/track/6R97FR5ro7PL8h76QBXjmq"
-    },
-    {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Sugar and Honey",
         "url": "https://open.spotify.com/album/7qLlm8QkLKxDTY6ip0ptNf"
@@ -721,7 +809,7 @@
       "url": "https://open.spotify.com/track/4NYHjyxsy95rAqVMCcfxLi"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "The One And Only",
         "url": "https://open.spotify.com/album/4G28LtW2pvuNwhrjLMKXcp"
@@ -741,27 +829,7 @@
       "url": "https://open.spotify.com/track/50b953jkgOie1y0tkm7cnf"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
-      "album": {
-        "name": "Macho",
-        "url": "https://open.spotify.com/album/4O4g9TrNLTScdGdNZUqftJ"
-      },
-      "artists": [
-        {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
-        },
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 212783,
-      "name": "Macho",
-      "url": "https://open.spotify.com/track/7ebNrfDTDSkrsaINuuW03J"
-    },
-    {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Wrong Places",
         "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
@@ -781,7 +849,7 @@
       "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Onina",
         "url": "https://open.spotify.com/album/5FAG9hafjiW7PQhAAzK4rR"
@@ -797,7 +865,7 @@
       "url": "https://open.spotify.com/track/5QvxlKXDj7yaYU5gUkXbWM"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "It All Depends",
         "url": "https://open.spotify.com/album/1w4U6yXrHFvY0BvkLzfc5l"
@@ -817,7 +885,7 @@
       "url": "https://open.spotify.com/track/4ypKU7GxAWukpDQP0yyWam"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Daily",
         "url": "https://open.spotify.com/album/3Ce8iMZieFbA0iDCfJiCZF"
@@ -833,7 +901,7 @@
       "url": "https://open.spotify.com/track/3eVfm7a08o18EUiejVetSm"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Mpeke",
         "url": "https://open.spotify.com/album/4YW3EZJ9G89tB7MVQCLN34"
@@ -853,27 +921,7 @@
       "url": "https://open.spotify.com/track/4qwAAODLtRAqWANUwvRSBw"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
-      "album": {
-        "name": "Ku Sure",
-        "url": "https://open.spotify.com/album/6rvN46Nw1PEtsOVYYhmzjv"
-      },
-      "artists": [
-        {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
-        },
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Ku Sure",
-      "url": "https://open.spotify.com/track/6VIFtMdBm6pvjf4WuO1ebe"
-    },
-    {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Mangadalena",
         "url": "https://open.spotify.com/album/6URFM6zBF9JSk6LUPjFCvv"
@@ -889,7 +937,7 @@
       "url": "https://open.spotify.com/track/641jmL3qvN9LopncAeNjBs"
     },
     {
-      "added_at": "2026-03-26 23:59:21",
+      "added_at": "2026-04-02 22:59:01",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/7CmV1qRtstMPTXS30WY4VV"
@@ -915,42 +963,6 @@
       "duration_ms": 177551,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2BB5nzxCnlBwxtO2Vj0Eiu"
-    },
-    {
-      "added_at": "2026-03-26 23:59:21",
-      "album": {
-        "name": "Kiwede",
-        "url": "https://open.spotify.com/album/6C0DrePE4DdvNFMPKSJK14"
-      },
-      "artists": [
-        {
-          "name": "B2c",
-          "url": "https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4"
-        },
-        {
-          "name": "David Lutalo",
-          "url": "https://open.spotify.com/artist/6oSfZEWn2BRxv81M5JwKXl"
-        }
-      ],
-      "duration_ms": 269453,
-      "name": "Kiwede",
-      "url": "https://open.spotify.com/track/2DxBJ6J0BNycAYk1L8ktRK"
-    },
-    {
-      "added_at": "2026-03-26 23:59:21",
-      "album": {
-        "name": "Error 404",
-        "url": "https://open.spotify.com/album/3aeOd0raQ0KzPDITXr0Gyz"
-      },
-      "artists": [
-        {
-          "name": "SHENA SKIES",
-          "url": "https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/6ENZbAQiGwkK2m33tA4rh8"
     }
   ],
   "unique_name": "Made In Uganda",

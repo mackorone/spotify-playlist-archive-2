@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Taylor Swift !",
+  "description": "Le meilleur des hits avec Shakira !",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -3743,6 +3743,28 @@
     },
     {
       "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/5BxB49zq4P3MiCEB4HokzF"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148671,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/3Udajvl5tdJY1RV9NPmTxe"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
@@ -6108,7 +6130,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 231600,
       "name": "No Name - Single Version",
       "url": "https://open.spotify.com/track/0vG8huSd6GX6IbDZCAZlay"

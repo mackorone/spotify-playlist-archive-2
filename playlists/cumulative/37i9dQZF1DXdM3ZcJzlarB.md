@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Mariano Mellino
 
-362 songs - 1 day 10 hr 16 min
+363 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Desde El Oceano](https://open.spotify.com/track/43DCA32pZIcXt1OY1YvyCi) | [Govinda \(Arg\)](https://open.spotify.com/artist/7EY8b86otBMRZ54VaOBSyA) | [Technical Progress, Vol\. 7 \(Compiled by Stergios Sigma & Mike T\)](https://open.spotify.com/album/2FAhMFku8qW0Jv3THYvpvj) | 8:54 | 2020-09-04 | 2023-11-18 |
 | [Desde El Oceano](https://open.spotify.com/track/4RvnwukV6qD5L5PsQDib4C) | [Govinda \(Arg\)](https://open.spotify.com/artist/7EY8b86otBMRZ54VaOBSyA) | [Stay Home, Vol\. 017](https://open.spotify.com/album/0YJk6w2qDhT9P1yA2PJNsZ) | 8:54 | 2020-09-04 | 2022-07-29 |
 | [Desire](https://open.spotify.com/track/28S3IlHu1KEdSLNmdXh9gP) | [Antrim](https://open.spotify.com/artist/271h29FBgospHlk0pFn8fS) | [Desire / Purpose / Appearance](https://open.spotify.com/album/1MjtLGJCFFWcTkMa3Gnsx8) | 9:25 | 2020-09-04 | 2023-11-18 |
+| [Discovery's](https://open.spotify.com/track/4DvTSZCc4aGhSLAk5y4AKb) | [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Discovery's](https://open.spotify.com/album/6RsVfBtSVkTKyqqtW27Tj2) | 4:28 | 2026-04-02 |  |
 | [Distant Memories](https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Hicky & Kalo](https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT) | [Distant Memories](https://open.spotify.com/album/196al4c2iW2Jl9fqC9WX76) | 4:58 | 2024-05-06 | 2025-03-20 |
 | [Dogma \- Original Mix](https://open.spotify.com/track/05W1NW68MEKEEefEVjGKRE) | [Paul Deep \(AR\)](https://open.spotify.com/artist/6xxlOO67SHYReIUQ2Jd2IJ) | [Dogma](https://open.spotify.com/album/5FrVcqShI72lMOdO1MaHbe) | 8:10 | 2020-09-04 | 2023-11-18 |
 | [Don't Say](https://open.spotify.com/track/4dDwzooJin3uzoqYsmSEny) | [Abuk](https://open.spotify.com/artist/4kYAGDsAQjBYuWNNBJNnNv), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Don't Say](https://open.spotify.com/album/6RzYVGcgoGb5fZmB2A40Dd) | 6:39 | 2025-06-27 |  |
@@ -318,7 +319,7 @@
 | [Tetam Gramma](https://open.spotify.com/track/2Gao1954kvVrhiqt9o6rNM) | [Bilevicius](https://open.spotify.com/artist/2jRawRVCDSBZyJ24oL6fiX) | [Tetam Gramma](https://open.spotify.com/album/10OdqB89fb2yeaIUk430ko) | 4:47 | 2024-02-02 | 2025-07-08 |
 | [That's the Way It Goes](https://open.spotify.com/track/7LLPb7lwljnDSksJ2iOJ7u) | [SidiRum](https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Buen Augurio](https://open.spotify.com/album/6Ef0wz2lp7g7FD6PJIMb71) | 7:40 | 2020-09-04 | 2023-11-18 |
 | [The Hanging Tree](https://open.spotify.com/track/0VPJnjF2TEshtyEwNxBcAA) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i), [Oh My Pop!](https://open.spotify.com/artist/3bagGeYp0001yDSzrxmv6J) | [The Hanging Tree](https://open.spotify.com/album/12mgeUhTHMNaWcMxNG5xnP) | 3:14 | 2025-05-02 |  |
-| [The Illusion](https://open.spotify.com/track/5bVb0wK6MbEcfUYLXlXdcw) | [Joan Retamero](https://open.spotify.com/artist/5DgoJDVafztIO8Q2RGpGuh) | [The Illusion](https://open.spotify.com/album/4u8kiomTCLb4WXrQQi4q5H) | 7:20 | 2025-03-19 |  |
+| [The Illusion](https://open.spotify.com/track/5bVb0wK6MbEcfUYLXlXdcw) | [Joan Retamero](https://open.spotify.com/artist/5DgoJDVafztIO8Q2RGpGuh) | [The Illusion](https://open.spotify.com/album/4u8kiomTCLb4WXrQQi4q5H) | 7:20 | 2025-03-19 | 2026-04-03 |
 | [The Insanity of Infinty \- Edit](https://open.spotify.com/track/2iIpsPRoHMGGjzY4ydEzwz) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [The Insanity of Infinity](https://open.spotify.com/album/3C6C6bs2PBcdurxWS57ewv) | 4:32 | 2026-03-20 |  |
 | [The Range](https://open.spotify.com/track/5LctNQgYEqdfbRdNLvTsyR) | [Tiefstone](https://open.spotify.com/artist/6Nu3bTytPSUQ9Y6k0r2gOO), [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Unicron \| Dominus \| the Range](https://open.spotify.com/album/2nLS9mHCj9SlionGnXPOn6) | 6:34 | 2025-05-09 | 2026-03-21 |
 | [The Raveolution](https://open.spotify.com/track/0fTXTxCAk94ZUEjqoUvb1d) | [Erika Halliday](https://open.spotify.com/artist/5HlRz2Fo1ZBzTt4RJrFlzv) | [Lost at 9pm](https://open.spotify.com/album/5gqWklcCpjfqWzc9w4rJUf) | 6:14 | 2025-03-19 | 2025-08-29 |

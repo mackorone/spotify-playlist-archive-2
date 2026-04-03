@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 596022,
+  "num_followers": 596032,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAADjZ5BicTcWQsXxmJBsde5a",
+  "snapshot_id": "acxgAAAAAABnBA8NmeBWLFDoFST1XRv5",
   "tracks": [
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "John and Elvis Are Dead",
-      "url": "https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symphonica (Deluxe Version)",
         "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 269891,
       "name": "Idol - Live",
       "url": "https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "John and Elvis Are Dead",
+      "url": "https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k"
     },
     {
       "added_at": null,

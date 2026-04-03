@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: PinkPantheress, Zara Larsson
+> The best tracks from the world of music\. Cover: BTS
 
 626 songs - 1 day 10 hr 10 min
 

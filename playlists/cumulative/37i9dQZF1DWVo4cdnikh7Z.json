@@ -19317,6 +19317,32 @@
     },
     {
       "album": {
+        "name": "Kaathukulla Kuruvi (From \"Singha\")",
+        "url": "https://open.spotify.com/album/7epPtdOuweLl4jgZfPkeLA"
+      },
+      "artists": [
+        {
+          "name": "Manoj Chinnaswamy",
+          "url": "https://open.spotify.com/artist/2wuVO36dg7lm3lbfJi5KCl"
+        },
+        {
+          "name": "Mani Amudhavan",
+          "url": "https://open.spotify.com/artist/1kSTKro0qSNVuTIzuS6LQa"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "Kaathukulla Kuruvi (From \"Singha\")",
+      "url": "https://open.spotify.com/track/29YyWjV82y7T9vGeXgeo0D"
+    },
+    {
+      "album": {
         "name": "Tharunam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5iOnJSr6L6JpSUMWEXgfmd"
       },

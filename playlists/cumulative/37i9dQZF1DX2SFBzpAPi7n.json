@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: ) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: EL CAPITXN & TAEHYUN & Jeremy Zucker) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 209774,
       "name": "a plumber",
       "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
@@ -5042,7 +5042,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
@@ -6041,6 +6041,24 @@
     },
     {
       "album": {
+        "name": "LOVE&HATE",
+        "url": "https://open.spotify.com/album/5lOdOxNDjxelMZ7PJSZB6G"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "GAME OVER ?",
+      "url": "https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP"
+    },
+    {
+      "album": {
         "name": "GANGGANGSULLAE",
         "url": "https://open.spotify.com/album/0Kbpx8QDYQIEzzA05MlsCZ"
       },
@@ -6382,7 +6400,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 254750,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/7BoDS7yidANiu8l7RSX4f2"
@@ -14946,7 +14964,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
@@ -15206,7 +15224,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 220094,
       "name": "Save me",
       "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
@@ -18550,7 +18568,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 197213,
       "name": "Tug of War",
       "url": "https://open.spotify.com/track/6clIbMbca7szZquD4XeIdK"
@@ -19142,6 +19160,28 @@
       "duration_ms": 177061,
       "name": "WatchOut",
       "url": "https://open.spotify.com/track/5KbCS44g1kvV6zVXe29NzQ"
+    },
+    {
+      "album": {
+        "name": "BURN PART.2",
+        "url": "https://open.spotify.com/album/5UgdylQND1QZWGJFhAPbn7"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "WATER (Feat. Car the garden)",
+      "url": "https://open.spotify.com/track/4JgId66CQQw0YnoeMEVvd8"
     },
     {
       "album": {
@@ -19902,7 +19942,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 216743,
       "name": "Wind in the Sails",
       "url": "https://open.spotify.com/track/2tuSmGcfM9LM6AhrQUVlL3"
@@ -20104,7 +20144,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 191000,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/1J9RGYqlLKuAtNkEoISL31"

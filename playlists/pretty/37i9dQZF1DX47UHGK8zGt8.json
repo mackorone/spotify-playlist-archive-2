@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 608449,
+  "num_followers": 608525,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 231474,
-      "name": "Meu Abrigo",
-      "url": "https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 231474,
+      "name": "Meu Abrigo",
+      "url": "https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Um amor puro",
-        "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Um amor puro",
-      "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Mais Bonito N\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 237479,
       "name": "Mais Bonito N\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Um amor puro",
+        "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Um amor puro",
+      "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
+        "name": "Carnaval de Sof\u00e1",
+        "url": "https://open.spotify.com/album/6ne5ijX7ThpjEdy3y3GZBk"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 186375,
+      "name": "Bola de Sab\u00e3o",
+      "url": "https://open.spotify.com/track/0Wr2aRTg74el3e98NKu8Zs"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 237696,
       "name": "Estrela",
       "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "Carnaval de Sof\u00e1",
-        "url": "https://open.spotify.com/album/6ne5ijX7ThpjEdy3y3GZBk"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 186375,
-      "name": "Bola de Sab\u00e3o",
-      "url": "https://open.spotify.com/track/0Wr2aRTg74el3e98NKu8Zs"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1311,6 +1311,30 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
+        "name": "S\u00f3 love",
+        "url": "https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi"
+      },
+      "artists": [
+        {
+          "name": "Vers\u00e3o brasileira",
+          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Renato Frei",
+          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
+        }
+      ],
+      "duration_ms": 161934,
+      "name": "S\u00f3 love",
+      "url": "https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
         "name": "Banho de Folhas",
         "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
       },
@@ -1383,22 +1407,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Mahmundi",
-        "url": "https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 295771,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -1419,26 +1427,34 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "S\u00f3 love",
-        "url": "https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi"
+        "name": "Mahmundi",
+        "url": "https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN"
       },
       "artists": [
         {
-          "name": "Vers\u00e3o brasileira",
-          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
-        },
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Renato Frei",
-          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 161934,
-      "name": "S\u00f3 love",
-      "url": "https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5"
+      "duration_ms": 295771,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5jn5jnmwO9hdyoix0bCOif"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "LAGUM AO VIVO",
+        "url": "https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 158295,
+      "name": "Outro Algu\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1459,22 +1475,6 @@
       "duration_ms": 392813,
       "name": "Z\u00e9 Do Caro\u00e7o",
       "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
-        "name": "LAGUM AO VIVO",
-        "url": "https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 158295,
-      "name": "Outro Algu\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Cora\u00e7\u00e3o Radiante",
-        "url": "https://open.spotify.com/album/4TDg5WJgrlQVTWKwT6bMEg"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 191743,
-      "name": "Cora\u00e7\u00e3o Radiante",
-      "url": "https://open.spotify.com/track/1TtDOwQNcxT3YJjXcHUo80"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Por Causa de Voc\u00ea",
         "url": "https://open.spotify.com/album/3ouwXPloR4FWOYb2b5fKA5"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 151200,
       "name": "Por Causa de Voc\u00ea",
       "url": "https://open.spotify.com/track/3N9TzvYRK1yNIE8yJc41Y9"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Radiante",
+        "url": "https://open.spotify.com/album/4TDg5WJgrlQVTWKwT6bMEg"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 191743,
+      "name": "Cora\u00e7\u00e3o Radiante",
+      "url": "https://open.spotify.com/track/1TtDOwQNcxT3YJjXcHUo80"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/4cdC6A0Dhofn5M0Qm1tr6H"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 220257,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/3xJygPEkeDUonwKS5rnn7j"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Mela\u00e7o",
-        "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
-      },
-      "artists": [
-        {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Mela\u00e7o",
-      "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
-    },
-    {
-      "added_at": "2026-02-06 12:58:31",
-      "album": {
         "name": "Por Que N\u00e3o",
         "url": "https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA"
       },
@@ -1811,18 +1791,22 @@
     {
       "added_at": "2026-02-06 12:58:31",
       "album": {
-        "name": "Mandinga Multiplica\u00e7\u00e3o - Josyara canta Timbalada",
-        "url": "https://open.spotify.com/album/6GAQFUj5yXIUmyhz6qIzy3"
+        "name": "Mela\u00e7o",
+        "url": "https://open.spotify.com/album/5pZ1zk3DLNDExO5Bh1RiWT"
       },
       "artists": [
         {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
         }
       ],
-      "duration_ms": 111293,
-      "name": "Mimar Voc\u00ea",
-      "url": "https://open.spotify.com/track/6YkgFcnZO2mFf8voFJujY5"
+      "duration_ms": 163240,
+      "name": "Mela\u00e7o",
+      "url": "https://open.spotify.com/track/1iyoJQl1IuG7wwH0mDXRy7"
     },
     {
       "added_at": "2026-02-06 12:58:31",
@@ -1839,6 +1823,22 @@
       "duration_ms": 178660,
       "name": "Banho de Chuva",
       "url": "https://open.spotify.com/track/3DYzpfpTpzSo3T82yWDzTu"
+    },
+    {
+      "added_at": "2026-02-06 12:58:31",
+      "album": {
+        "name": "Mandinga Multiplica\u00e7\u00e3o - Josyara canta Timbalada",
+        "url": "https://open.spotify.com/album/6GAQFUj5yXIUmyhz6qIzy3"
+      },
+      "artists": [
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        }
+      ],
+      "duration_ms": 111293,
+      "name": "Mimar Voc\u00ea",
+      "url": "https://open.spotify.com/track/6YkgFcnZO2mFf8voFJujY5"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

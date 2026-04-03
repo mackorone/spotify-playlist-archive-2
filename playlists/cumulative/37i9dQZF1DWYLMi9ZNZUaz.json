@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: YC",
+  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI\n",
   "name": "Hip-hop Vi\u1ec7t",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 158559,
       "name": "Badtrip",
       "url": "https://open.spotify.com/track/33SYx5viijwLGMqfl50FKI"
@@ -4691,6 +4691,32 @@
     },
     {
       "album": {
+        "name": "NO CHASE",
+        "url": "https://open.spotify.com/album/0aNqRNUNwwkykPMwilPczl"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        },
+        {
+          "name": "Richie D. ICY",
+          "url": "https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA"
+        },
+        {
+          "name": "Kriss Ngo",
+          "url": "https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175909,
+      "name": "NO CHASE",
+      "url": "https://open.spotify.com/track/1trcQKrQRIB5GlhhoHmiWN"
+    },
+    {
+      "album": {
         "name": "An",
         "url": "https://open.spotify.com/album/0J9ZJ2vnTHm4NpzKVE779w"
       },
@@ -5246,6 +5272,32 @@
       "duration_ms": 160874,
       "name": "POLITE",
       "url": "https://open.spotify.com/track/3EfychxMku3sRuso0jkGis"
+    },
+    {
+      "album": {
+        "name": "Private Party",
+        "url": "https://open.spotify.com/album/0Fi3fDXRorxgRDam8ph1FO"
+      },
+      "artists": [
+        {
+          "name": "Puppy",
+          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
+        },
+        {
+          "name": "Wheelie",
+          "url": "https://open.spotify.com/artist/0Gr3bRnYGIx2xHO853bo3V"
+        },
+        {
+          "name": "AL403",
+          "url": "https://open.spotify.com/artist/7rphxE9Q67qTXa7ev9AQgi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Private Party",
+      "url": "https://open.spotify.com/track/6SndU0avW3ACmNRknZISVc"
     },
     {
       "album": {
@@ -6184,7 +6236,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 193125,
       "name": "Th\u1ee7 \u0110\u00f4 Cypher (RPT Phongkhin Remix)",
       "url": "https://open.spotify.com/track/4A4Qdq6Jl4XilO2FS1sq2y"

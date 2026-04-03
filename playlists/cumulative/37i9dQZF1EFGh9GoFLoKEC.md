@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3Ds9IjnaNOAcEIWURkzJqs">Mark Ronson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-103 songs - 6 hr 10 min
+104 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/track/78JGdUz8IxGBaBpZo9BYKv) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/album/4xkTjrcq1DSA8fZ09ILDm5) | 2:21 | 2024-01-29 |  |
 | [Hey Girl](https://open.spotify.com/track/554PnB96IltLzVlbinBstw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Florence Welch](https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 4:15 | 2024-01-29 |  |
 | [HOT](https://open.spotify.com/track/6rjdminyj1lHQjLLnCG0rB) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Hits Of Today](https://open.spotify.com/album/1jHO2EMilNQVl5JnMRtQU3) | 3:13 | 2024-01-29 |  |
-| [I Can't Lose \(feat\. Keyone Starr\)](https://open.spotify.com/track/2VNSUMHI1R3B6wVV8P7ZlG) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Keyone Starr](https://open.spotify.com/artist/5aNSfdgygtKXXyFAwqyASY) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 3:16 | 2024-01-29 |  |
+| [I Can't Lose \(feat\. Keyone Starr\)](https://open.spotify.com/track/2VNSUMHI1R3B6wVV8P7ZlG) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Keyone Starr](https://open.spotify.com/artist/5aNSfdgygtKXXyFAwqyASY) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 3:16 | 2024-01-29 | 2026-04-03 |
+| [I Can't Lose \(feat\. Keyone Starr\) \- Pomo Remix](https://open.spotify.com/track/52yAJNEvLjD5wRMnSDa3na) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Keyone Starr](https://open.spotify.com/artist/5aNSfdgygtKXXyFAwqyASY), [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [I Can't Lose \(Remixes\) \- EP \(feat\. Keyone Starr\)](https://open.spotify.com/album/10phTZBGPXX4z9RPOoeXNM) | 3:37 | 2026-04-02 |  |
 | [I Know Time \(Is Calling\) \(feat\. Paul McCartney & Gary Numan\)](https://open.spotify.com/track/4bTg3UkHwkcSxChg7kVJZ9) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 2:56 | 2024-01-29 |  |
 | [I'm Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 | 2024-01-29 |  |
 | [In Case of Fire \(feat\. Jeff Bhasker\)](https://open.spotify.com/track/2OTdfTzu0VAmnykkQDrFZr) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Jeff Bhasker](https://open.spotify.com/artist/5phOCTS0ZqbZGVXdpG6rLu) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:33 | 2024-01-29 |  |

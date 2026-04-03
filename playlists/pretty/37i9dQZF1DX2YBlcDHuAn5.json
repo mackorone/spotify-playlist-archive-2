@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33914,
+  "num_followers": 33917,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,18 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
-        "name": "BP Love",
-        "url": "https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2"
+        "name": "A Beautiful Life",
+        "url": "https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8"
       },
       "artists": [
         {
-          "name": "Jessica Allossery",
-          "url": "https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob"
-        },
-        {
-          "name": "The Butterfly Room",
-          "url": "https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA"
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
         }
       ],
-      "duration_ms": 126750,
-      "name": "BP Love",
-      "url": "https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy"
+      "duration_ms": 196304,
+      "name": "A Beautiful Life",
+      "url": "https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ"
     },
     {
       "added_at": "2026-03-26 23:00:07",
@@ -579,18 +575,22 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
-        "name": "A Beautiful Life",
-        "url": "https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8"
+        "name": "BP Love",
+        "url": "https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "Jessica Allossery",
+          "url": "https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob"
+        },
+        {
+          "name": "The Butterfly Room",
+          "url": "https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA"
         }
       ],
-      "duration_ms": 196304,
-      "name": "A Beautiful Life",
-      "url": "https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ"
+      "duration_ms": 126750,
+      "name": "BP Love",
+      "url": "https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy"
     },
     {
       "added_at": "2026-03-26 23:00:07",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
-        "name": "Stone Cold Sober",
-        "url": "https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5"
-      },
-      "artists": [
-        {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Stone Cold Sober",
-      "url": "https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H"
-    },
-    {
-      "added_at": "2026-03-26 23:00:07",
-      "album": {
         "name": "For Once",
         "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
+        "name": "Stone Cold Sober",
+        "url": "https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Stone Cold Sober",
+      "url": "https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H"
+    },
+    {
+      "added_at": "2026-03-26 23:00:07",
+      "album": {
         "name": "Good Riddance & Goodbye",
         "url": "https://open.spotify.com/album/4fJjNjrXI8Kg06UwA30ImI"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 187980,
       "name": "Good Riddance & Goodbye",
       "url": "https://open.spotify.com/track/5qah0qyBq6iG8sRjtfPu7e"
+    },
+    {
+      "added_at": "2026-03-26 23:00:07",
+      "album": {
+        "name": "Buckle Down",
+        "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Ryan",
+          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
+        }
+      ],
+      "duration_ms": 166957,
+      "name": "Buckle Down",
+      "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
     },
     {
       "added_at": "2026-03-26 23:00:07",
@@ -743,18 +759,18 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
-        "name": "Buckle Down",
-        "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50"
       },
       "artists": [
         {
-          "name": "Melanie Ryan",
-          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
+          "name": "Koen Vael",
+          "url": "https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx"
         }
       ],
-      "duration_ms": 166957,
-      "name": "Buckle Down",
-      "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
+      "duration_ms": 225174,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf"
     },
     {
       "added_at": "2026-03-26 23:00:07",
@@ -775,18 +791,18 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50"
+        "name": "Wealthiest Man",
+        "url": "https://open.spotify.com/album/1SW1cbceHsjMJjHvyniK0s"
       },
       "artists": [
         {
-          "name": "Koen Vael",
-          "url": "https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx"
+          "name": "Erik Lindeman",
+          "url": "https://open.spotify.com/artist/3n3KUrOk92Xm3ks9WYtrjH"
         }
       ],
-      "duration_ms": 225174,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf"
+      "duration_ms": 293215,
+      "name": "Wealthiest Man",
+      "url": "https://open.spotify.com/track/0m5RI0qThyYnZ3QX9WQk2O"
     },
     {
       "added_at": "2026-03-26 23:00:07",
@@ -827,18 +843,18 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
-        "name": "Wealthiest Man",
-        "url": "https://open.spotify.com/album/1SW1cbceHsjMJjHvyniK0s"
+        "name": "Every Town",
+        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
       },
       "artists": [
         {
-          "name": "Erik Lindeman",
-          "url": "https://open.spotify.com/artist/3n3KUrOk92Xm3ks9WYtrjH"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 293215,
-      "name": "Wealthiest Man",
-      "url": "https://open.spotify.com/track/0m5RI0qThyYnZ3QX9WQk2O"
+      "duration_ms": 233262,
+      "name": "Every Town",
+      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
     },
     {
       "added_at": "2026-03-26 23:00:07",
@@ -855,22 +871,6 @@
       "duration_ms": 167586,
       "name": "Let's Get This Over With",
       "url": "https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF"
-    },
-    {
-      "added_at": "2026-03-26 23:00:07",
-      "album": {
-        "name": "Every Town",
-        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 233262,
-      "name": "Every Town",
-      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
     },
     {
       "added_at": "2026-03-26 23:00:07",

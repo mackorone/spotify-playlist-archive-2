@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Franky Rizardo",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Chris Stussy",
   "name": "UK House Music",
   "tracks": [
     {
@@ -520,6 +520,24 @@
       "duration_ms": 154560,
       "name": "Ain't No Other Man - Rework",
       "url": "https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl"
+    },
+    {
+      "album": {
+        "name": "Ain't With That (Late Night Callin')",
+        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Ain't With That (Late Night Callin')",
+      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
     },
     {
       "album": {
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 120340,
       "name": "Bad Man Sound",
       "url": "https://open.spotify.com/track/6oYa9iLZ18BfxrqgI8ct5J"
@@ -2320,6 +2338,24 @@
       "duration_ms": 461007,
       "name": "Big Eff Off Groove",
       "url": "https://open.spotify.com/track/4gdwfPd0LcJ4GHzE9MPxsl"
+    },
+    {
+      "album": {
+        "name": "Big Space",
+        "url": "https://open.spotify.com/album/5K7XTnfL9nJQBxVWRt7inj"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Big Space",
+      "url": "https://open.spotify.com/track/6Uhy569s1JlYKwqI5k06ui"
     },
     {
       "album": {
@@ -4006,7 +4042,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 336008,
       "name": "Carry's Blues",
       "url": "https://open.spotify.com/track/5qWoXbGv4bxpAy50MkH69v"
@@ -7589,6 +7625,28 @@
     },
     {
       "album": {
+        "name": "Lost, Found & Forgotten...",
+        "url": "https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247230,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/1fEfDgrXuU5yjQ8gu87AXV"
       },
@@ -7846,7 +7904,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 184085,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz"
@@ -9243,6 +9301,24 @@
     },
     {
       "album": {
+        "name": "Girl On The Beat",
+        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160029,
+      "name": "Girl On The Beat",
+      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
+    },
+    {
+      "album": {
         "name": "girl$",
         "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
       },
@@ -9432,7 +9508,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 158104,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/3kDBGGQosCCTmFOUkramUM"
@@ -14870,7 +14946,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 161311,
       "name": "Make Your Mind Up",
       "url": "https://open.spotify.com/track/5do1rzR2GMf8lPTsc15tBy"
@@ -15636,7 +15712,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 236110,
       "name": "Move & Flow",
       "url": "https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz"
@@ -16024,6 +16100,28 @@
       "duration_ms": 207852,
       "name": "My Shadow",
       "url": "https://open.spotify.com/track/6bUC7jA13apX8WIGeUcQYG"
+    },
+    {
+      "album": {
+        "name": "My Temptations",
+        "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191657,
+      "name": "My Temptations",
+      "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
     },
     {
       "album": {
@@ -18545,6 +18643,24 @@
     },
     {
       "album": {
+        "name": "Planet Hollywood",
+        "url": "https://open.spotify.com/album/2HEK4ntthgXlQO7yEVFSOw"
+      },
+      "artists": [
+        {
+          "name": "JAKKOB",
+          "url": "https://open.spotify.com/artist/1eZYmDz6m5XXpZ1dzo70v0"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Planet Hollywood",
+      "url": "https://open.spotify.com/track/14fs7flJKEL6r1q8Enly3r"
+    },
+    {
+      "album": {
         "name": "Plastic Smiling",
         "url": "https://open.spotify.com/album/4bEqr1qELvLFgTUm1LIQFP"
       },
@@ -20577,6 +20693,28 @@
     },
     {
       "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/7AO7DuU0gu9m7ZuW9PYRPu"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "TAET",
+          "url": "https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178834,
+      "name": "Second Nature",
+      "url": "https://open.spotify.com/track/48UKanzGLbagrgYxcH2cuS"
+    },
+    {
+      "album": {
         "name": "Seen It All Before",
         "url": "https://open.spotify.com/album/4p3YuS9AMmwHspc1VW3jy2"
       },
@@ -22227,6 +22365,28 @@
     },
     {
       "album": {
+        "name": "Strong Rhyme",
+        "url": "https://open.spotify.com/album/4CEMzSVtDWRa0pIls00LoZ"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207575,
+      "name": "Strong Rhyme",
+      "url": "https://open.spotify.com/track/7zQw0isILUc2PAWMRRa82W"
+    },
+    {
+      "album": {
         "name": "Stuck In A Loop",
         "url": "https://open.spotify.com/album/2EmTsbWSCULTXSZ1yKbbAt"
       },
@@ -23528,7 +23688,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 180057,
       "name": "The Fix",
       "url": "https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi"
@@ -23546,7 +23706,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 357268,
       "name": "The Great Beyond",
       "url": "https://open.spotify.com/track/2zDNlVvHzqVoBJ8dZpentE"
@@ -24010,7 +24170,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 183953,
       "name": "The Way I Are - Max Dean Remix",
       "url": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
@@ -25956,7 +26116,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 205909,
       "name": "Want Somebody",
       "url": "https://open.spotify.com/track/53bBuXb07xaPlXFyzxzYBW"
@@ -26660,6 +26820,24 @@
       "duration_ms": 184160,
       "name": "Whisper (feat. Raphi)",
       "url": "https://open.spotify.com/track/6v5ovNPrLpOkFyM7gWorZW"
+    },
+    {
+      "album": {
+        "name": "Party Sampler 001",
+        "url": "https://open.spotify.com/album/3YARlCSrTGutb62THx3rYm"
+      },
+      "artists": [
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355419,
+      "name": "Whizz Kid",
+      "url": "https://open.spotify.com/track/4l0nY8vvfUrvBdNmxsae1I"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,250 songs - 2 day 6 hr 1 min
+1,251 songs - 2 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Anytime](https://open.spotify.com/track/1Gl4Tr4rKehjMq8UEuz6yB) | [Horbatso](https://open.spotify.com/artist/3NiLiVrm3T8AQysXn54ALH), [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg), [Luke James Shaffer](https://open.spotify.com/artist/5rhcXbjwP1pnyqjlNo4AoP) | [Anytime](https://open.spotify.com/album/6KYFBTog0ci4zA4g308gd5) | 2:40 | 2025-11-16 | 2025-12-02 |
 | [Anywhere](https://open.spotify.com/track/0XKRBp3R8w2kAuQJYSa8Vf) | [Kalkovich](https://open.spotify.com/artist/1FeiNJm4aeEJ97JnSMduTh), [Menza](https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7) | [Anywhere](https://open.spotify.com/album/2YhQDeWZq48QzpxF9ipEqv) | 2:51 | 2025-08-03 | 2025-10-06 |
 | [Anywhere](https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Anywhere](https://open.spotify.com/album/21ptT4ISYfDiAXfRmBtp9w) | 2:23 | 2025-03-01 | 2025-06-02 |
+| [Anywhere](https://open.spotify.com/track/4HckiHk9acfJDIAYyCpGYD) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Anywhere](https://open.spotify.com/album/6MF5PRNdtS1ADNgUuOOzhl) | 2:46 | 2026-04-02 |  |
 | [Anywhere With You](https://open.spotify.com/track/55KplvBzr2DNKvWTnxm2mS) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Anywhere With You](https://open.spotify.com/album/1isQywIBds6XO5h6ZaU36K) | 2:23 | 2023-10-27 | 2024-01-08 |
 | [Apologize](https://open.spotify.com/track/0tEC32rSvBK2o4lwQbEvM7) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe), [LUKUS](https://open.spotify.com/artist/1MRIxJ469v984abDvc1sMi), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7), [Jethro](https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK) | [Apologize](https://open.spotify.com/album/3A01OtSBqE1cyF0yY3ZcUT) | 2:47 | 2024-10-10 | 2025-12-02 |
 | [Are You With Me](https://open.spotify.com/track/3ICy1GAnWag1jZ8IPRu4pY) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Are You With Me](https://open.spotify.com/album/29gSIz1mK5ZIoKOnshant3) | 2:31 | 2025-03-18 | 2026-03-30 |

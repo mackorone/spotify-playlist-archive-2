@@ -1,12 +1,12 @@
 {
   "description": "De grootste hits uit de kroeg in \u00e9\u00e9n playlist.",
-  "num_followers": 267204,
+  "num_followers": 267254,
   "original_name": "Kroegenhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGxH5yMXsxQ/EjnugU0aO06Azu2L",
+  "snapshot_id": "AAAAAH+bIc1qixzJS0Yc5c64f4ZD0Xwk",
   "tracks": [
     {
       "added_at": "2026-03-30 12:00:12",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-03-30 12:00:12",
       "album": {
+        "name": "Samen Uit Samen Thuis",
+        "url": "https://open.spotify.com/album/3L5za3HAhPEb8EQ5EMr96x"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        },
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 164653,
+      "name": "Samen Uit Samen Thuis",
+      "url": "https://open.spotify.com/track/23DJ7OaJ4iOAeYkPuln5gM"
+    },
+    {
+      "added_at": "2026-03-30 12:00:12",
+      "album": {
         "name": "Kroegtijger",
         "url": "https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 198222,
       "name": "Atje Voor De Sfeer",
       "url": "https://open.spotify.com/track/2dTS7TKUmvGNRQoq0mzlZC"
-    },
-    {
-      "added_at": "2026-03-30 12:00:12",
-      "album": {
-        "name": "Samen Uit Samen Thuis",
-        "url": "https://open.spotify.com/album/3L5za3HAhPEb8EQ5EMr96x"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
-        },
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "Samen Uit Samen Thuis",
-      "url": "https://open.spotify.com/track/23DJ7OaJ4iOAeYkPuln5gM"
     },
     {
       "added_at": "2026-03-30 12:00:12",

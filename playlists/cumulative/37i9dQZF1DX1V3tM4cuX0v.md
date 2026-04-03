@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: BTS
+> 50 найгарячіших пісень в Україні\. Обкладинка: Jerry Heil
 
 189 songs - 9 hr 29 min
 

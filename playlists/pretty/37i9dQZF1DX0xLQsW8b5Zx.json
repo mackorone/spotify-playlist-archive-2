@@ -1,6 +1,6 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 545975,
+  "num_followers": 546002,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 127847,
-      "name": "Matchbox",
-      "url": "https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
         "name": "Elvis",
         "url": "https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 115359,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/242E7zj2wWWegVlurGpaVz"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 127847,
+      "name": "Matchbox",
+      "url": "https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -123,8 +123,8 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/2UG7OjoH8G3MILkrOYXyCN"
+        "name": "Midnight Dynamos",
+        "url": "https://open.spotify.com/album/31dfhTOccGyCwz2oRTSMfy"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1TZLeOYelnAiEkOJnofWrj"
         }
       ],
-      "duration_ms": 167040,
-      "name": "Rockabilly Rebel",
-      "url": "https://open.spotify.com/track/47fBL9Hqjq2kFIrg8c1wQi"
+      "duration_ms": 186413,
+      "name": "Midnight Dynamos",
+      "url": "https://open.spotify.com/track/0AX3dBr7hRTDjy1O2s4N6u"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -219,8 +219,8 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Midnight Dynamos",
-        "url": "https://open.spotify.com/album/31dfhTOccGyCwz2oRTSMfy"
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/2UG7OjoH8G3MILkrOYXyCN"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1TZLeOYelnAiEkOJnofWrj"
         }
       ],
-      "duration_ms": 186413,
-      "name": "Midnight Dynamos",
-      "url": "https://open.spotify.com/track/0AX3dBr7hRTDjy1O2s4N6u"
+      "duration_ms": 167040,
+      "name": "Rockabilly Rebel",
+      "url": "https://open.spotify.com/track/47fBL9Hqjq2kFIrg8c1wQi"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 133009,
-      "name": "Everybody's Trying to Be My Baby",
-      "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
         "name": "Glen Rocks",
         "url": "https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 162493,
       "name": "Everybody's Movin'",
       "url": "https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 133009,
+      "name": "Everybody's Trying to Be My Baby",
+      "url": "https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -495,22 +495,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Ooby Dooby / Go Go Go",
-        "url": "https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY"
+        "name": "Straight from the Heart",
+        "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
       },
       "artists": [
         {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        },
-        {
-          "name": "The Teen Kings",
-          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
+          "name": "John Lindberg Trio",
+          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
         }
       ],
-      "duration_ms": 126500,
-      "name": "Go Go Go",
-      "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
+      "duration_ms": 138615,
+      "name": "You Belong to Me",
+      "url": "https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -531,22 +527,6 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Straight from the Heart",
-        "url": "https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask"
-      },
-      "artists": [
-        {
-          "name": "John Lindberg Trio",
-          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
-        }
-      ],
-      "duration_ms": 138615,
-      "name": "You Belong to Me",
-      "url": "https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
         "name": "Tear It Up",
         "url": "https://open.spotify.com/album/45gM7iiWC2Fd93IInjtCQK"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 203493,
       "name": "Back In The USA",
       "url": "https://open.spotify.com/track/4Znz9jKTkZvCzW6CkBIhHK"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
+        "name": "Ooby Dooby / Go Go Go",
+        "url": "https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        },
+        {
+          "name": "The Teen Kings",
+          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
+        }
+      ],
+      "duration_ms": 126500,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Rockabilly Portrait",
-        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
+        "name": "Melrose",
+        "url": "https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Melrose",
+          "url": "https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan"
         }
       ],
-      "duration_ms": 109500,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
+      "duration_ms": 231586,
+      "name": "Rich Little Bitch",
+      "url": "https://open.spotify.com/track/12680M4NXeEB27oywHfCxg"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Melrose",
-        "url": "https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz"
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E"
       },
       "artists": [
         {
-          "name": "Melrose",
-          "url": "https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan"
+          "name": "Fatboy",
+          "url": "https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT"
         }
       ],
-      "duration_ms": 231586,
-      "name": "Rich Little Bitch",
-      "url": "https://open.spotify.com/track/12680M4NXeEB27oywHfCxg"
+      "duration_ms": 166040,
+      "name": "Bad News From Pretty Red Lips",
+      "url": "https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -783,18 +783,34 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E"
+        "name": "Rockabilly Portrait",
+        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
       "artists": [
         {
-          "name": "Fatboy",
-          "url": "https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 166040,
-      "name": "Bad News From Pretty Red Lips",
-      "url": "https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd"
+      "duration_ms": 109500,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
+      },
+      "artists": [
+        {
+          "name": "Jerry Jaye",
+          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "Redneck Rock",
+      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -831,18 +847,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl"
+        "name": "The Blasters",
+        "url": "https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B"
       },
       "artists": [
         {
-          "name": "Jerry Jaye",
-          "url": "https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N"
+          "name": "The Blasters",
+          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
         }
       ],
-      "duration_ms": 135666,
-      "name": "Redneck Rock",
-      "url": "https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8"
+      "duration_ms": 127626,
+      "name": "American Music",
+      "url": "https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -863,18 +879,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "The Blasters",
-        "url": "https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B"
+        "name": "From the Waist Down",
+        "url": "https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj"
       },
       "artists": [
         {
-          "name": "The Blasters",
-          "url": "https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5"
+          "name": "Jack Rabbit Slim",
+          "url": "https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI"
         }
       ],
-      "duration_ms": 127626,
-      "name": "American Music",
-      "url": "https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g"
+      "duration_ms": 121253,
+      "name": "Rock-a-Cha",
+      "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -891,22 +907,6 @@
       "duration_ms": 170084,
       "name": "Rock 'n' Roll Ruby",
       "url": "https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
-        "name": "From the Waist Down",
-        "url": "https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj"
-      },
-      "artists": [
-        {
-          "name": "Jack Rabbit Slim",
-          "url": "https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI"
-        }
-      ],
-      "duration_ms": 121253,
-      "name": "Rock-a-Cha",
-      "url": "https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK"
     },
     {
       "added_at": "2025-10-24 14:43:53",

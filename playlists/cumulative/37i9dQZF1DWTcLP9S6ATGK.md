@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Shakirra Vier
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Neona
 
-851 songs - 2 day 7 hr 30 min
+854 songs - 2 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 | 2024-06-27 | 2024-07-27 |
 | [Bernaung \- From "Setetes Embun Cinta Niyala"](https://open.spotify.com/track/16Q9MOCDYgrgjEHx6Hx2rv) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Bernaung \(From "Setetes Embun Cinta Niyala"\)](https://open.spotify.com/album/753bObZFRMHb4cDlHtpzwz) | 3:18 | 2025-03-20 | 2025-04-25 |
 | [Bersabarlah](https://open.spotify.com/track/4eczUTGfhSCIkBPt1Cuk7I) | [Indra Sinaga](https://open.spotify.com/artist/2abJPNlO0AZ5rxcKas2hOw) | [Bersabarlah](https://open.spotify.com/album/7AVJEfkv1oyajgJQkwhqwJ) | 4:30 | 2024-06-27 | 2024-09-13 |
+| [Bersaing Dengan Masa Lalu](https://open.spotify.com/track/0njcft5RtJNo69lkDOzOFr) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [Bersaing Dengan Masa Lalu](https://open.spotify.com/album/3gR28fJIozTDlTdl55n5zs) | 3:26 | 2026-04-02 |  |
 | [Bersalah](https://open.spotify.com/track/6WV2LkAwhDMH0znwXXYq5R) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Bersalah](https://open.spotify.com/album/77yBhiIJHtsczrZV8M7wCq) | 4:27 | 2024-06-27 | 2024-07-05 |
 | [Bersamamu](https://open.spotify.com/track/68Z2rw1ffXVmJleB8lzmfU) | [Amanda Citra](https://open.spotify.com/artist/4Jrl3wADhbdxxuYvYAjT6t) | [Bersamamu](https://open.spotify.com/album/3Oy3oc04FmaJGjMbVnnPEa) | 5:17 | 2025-02-13 | 2025-05-16 |
 | [BERSAMAMU DUNIAKU BERBEDA](https://open.spotify.com/track/7zTNbusrktyUfKdBgxCcej) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [BERSAMAMU DUNIAKU BERBEDA](https://open.spotify.com/album/66DiUuvgcQcWbkkC8dvDcT) | 3:28 | 2024-10-17 | 2024-11-22 |
@@ -221,6 +222,7 @@
 | [Di Mana Rumah Tuk Pulang?](https://open.spotify.com/track/10JW9o9lfFSTG7NDek5uRs) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [Di Mana Rumah Tuk Pulang?](https://open.spotify.com/album/4s7CBBNisdAhUM963JCduC) | 4:51 | 2025-09-11 | 2025-10-31 |
 | [Di Saat Cinta Cintanya](https://open.spotify.com/track/71BLmKvQ0hu4moTx8XkyVh) | [Martian](https://open.spotify.com/artist/5BvwxVjJ6IZyzG9EZvq28H) | [Di Saat Cinta Cintanya](https://open.spotify.com/album/65yQcuO11sdzlZhkn8ahoM) | 3:39 | 2024-07-25 | 2024-09-06 |
 | [Di Sore Hari yang Lucu](https://open.spotify.com/track/5UsRnPUC5ZsJZlyBhrDo3p) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu), [Videmarsha](https://open.spotify.com/artist/3csYfnFSC3OT25mqe22lmB) | [The Folk: Side B](https://open.spotify.com/album/0CdWhykeUHdhSMVnw6kLRi) | 4:39 | 2025-02-20 | 2025-07-11 |
+| [Di Tepi Lamunan \- Original Soundtrack from ‘Para Perasuk’](https://open.spotify.com/track/0DX9GrFmZw6tiUnFR29J4K) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Di Tepi Lamunan \(Original Soundtrack from ‘Para Perasuk’\)](https://open.spotify.com/album/3Fn9WrozjuRkGNhe2CTCDA) | 3:54 | 2026-04-02 |  |
 | [Di Ujung Minggu](https://open.spotify.com/track/0XYtsjQ5iqkMDVV5SecdXU) | [Mesa Hira](https://open.spotify.com/artist/7ynP6OqOCJe3k4JTk1Tjwc) | [Di Ujung Minggu](https://open.spotify.com/album/7ix30MwxN9n0gUgRfrxUid) | 3:50 | 2025-11-20 |  |
 | [Dia Menunggu](https://open.spotify.com/track/6wd1yvYQ1G5KBYPQDaLhKx) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD), [Egha De Latoya](https://open.spotify.com/artist/4ty4E2G4r2XErvJfvwK4zO) | [Dia Menunggu](https://open.spotify.com/album/0GVP9nRqHAV6utMJXxKBcg) | 4:20 | 2025-03-20 | 2025-05-16 |
 | [Dia Milikku](https://open.spotify.com/track/7uzx6k9lwbP7rD5kNzdLkE) | [Obbie Messakh](https://open.spotify.com/artist/6S40FdKeiCsGHth3mulKl6) | [Dia Milikku](https://open.spotify.com/album/03wC0CdKzuFK78BTUmk9AH) | 4:42 | 2026-02-19 |  |
@@ -423,6 +425,7 @@
 | [Little by Little](https://open.spotify.com/track/14OP5wOfh1zmkaNxRhazuz) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Midnight's Promises](https://open.spotify.com/album/7L8u8SoGZjEGBi9yFI0Cxo) | 3:20 | 2025-07-17 | 2025-10-03 |
 | [Luka Terindah](https://open.spotify.com/track/4D1h0LfksaEtrYxlScOP2T) | [Made Aurellia](https://open.spotify.com/artist/5X5Jcfm3nfIAlpVvQlFbS4) | [Luka Terindah](https://open.spotify.com/album/7oqFzu2rIKw8DkDwiRooQn) | 4:06 | 2025-02-27 | 2025-05-09 |
 | [Luka Yang Kusengaja](https://open.spotify.com/track/5pzndYkzTrj6iyX07dubxn) | [GITA](https://open.spotify.com/artist/4Bj2N0TMyyM7lGyEgZz93Q) | [Luka Yang Kusengaja](https://open.spotify.com/album/6lz0kmrqmPpiJmKz9L8V7F) | 3:19 | 2024-09-05 | 2025-01-10 |
+| [LUPA!](https://open.spotify.com/track/3QZPgu1RopGKEzTn45KbXV) | [Neona](https://open.spotify.com/artist/1VOUbr2qeHgk36EXMkWaZH) | [LUPA!](https://open.spotify.com/album/60ZEtvnxL8KpYaTCZsLAro) | 2:36 | 2026-04-02 |  |
 | [Lupakan Mu Yang Lupakanku](https://open.spotify.com/track/0qTRqC532ycLefhpmUqzQ9) | [Aulia Rahman](https://open.spotify.com/artist/1HTshF70aKp0eayJXUx82u) | [Lupakan Mu Yang Lupakanku](https://open.spotify.com/album/0etUlM0S84OlP9R5D6Ax9E) | 3:38 | 2025-07-24 | 2025-08-22 |
 | [Maaf](https://open.spotify.com/track/01eiagOArcPnOEMBYbV4VS) | [Baim](https://open.spotify.com/artist/1xtClintZXLr9RrzKzwBeM), [Pongki Barata](https://open.spotify.com/artist/4FTaeFBX07JxJ5hIFFvack) | [Maaf](https://open.spotify.com/album/62JvN3XSNyBG2UvMKbRXv3) | 5:17 | 2025-05-30 | 2025-06-27 |
 | [Maaf](https://open.spotify.com/track/7DkH7hvGk7QcizlFogieHc) | [Kiesha Alvaro](https://open.spotify.com/artist/3PoQLTNsUVrcMn7uDudLDJ) | [Maaf](https://open.spotify.com/album/1HbNW2qE36DgSnlommqa1h) | 4:18 | 2025-07-31 | 2025-09-26 |

@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-486 songs - 1 day 1 hr 41 min
+487 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [No Boys Allowed \- OG House Mix](https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Locomotiva Ibiza 2099 II](https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm) | 5:52 | 2024-09-27 | 2024-11-23 |
 | [No Letting Go](https://open.spotify.com/track/7kTdLu5ZNyEFB2aChJXv3I) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [No Letting Go](https://open.spotify.com/album/3B8xnuYemxIakH1dmmEvt2) | 3:15 | 2021-10-29 | 2022-07-26 |
 | [No Mercy](https://open.spotify.com/track/2eU50HdqsZPXNBzKOdiwkV) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [nomerci](https://open.spotify.com/artist/5tygsM77YMbY8WgkVKhv4R) | [No Mercy](https://open.spotify.com/album/7i1hSeAp6foMVkuzhqYibE) | 2:46 | 2021-10-29 | 2022-05-22 |
-| [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-06-07 |  |
+| [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 | 2024-06-07 | 2026-04-03 |
 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 | 2022-07-01 | 2024-07-10 |
 | [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 | 2025-07-04 | 2025-07-18 |
 | [Ocean Quiet](https://open.spotify.com/track/6zFCci00787rGrLkWDwog8) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Ocean Quiet](https://open.spotify.com/album/4KrSgkyrBWUG4fS3N1CgZ9) | 2:47 | 2021-10-29 | 2023-05-13 |
@@ -410,6 +410,7 @@
 | [Surf Song](https://open.spotify.com/track/3jjvpoRGl2tfSGMSKAovw8) | [Ian Storm](https://open.spotify.com/artist/6fllSzvyC7OruOFZisOELq), [Polina Vita](https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq) | [Surf Song](https://open.spotify.com/album/5YhmrTqgAJJlTOm3WOPfHq) | 2:28 | 2023-04-07 | 2023-05-24 |
 | [Sweet Disposition \- John Summit & Silver Panda Remix](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Sweet Disposition \(John Summit & Silver Panda Remix\)](https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5) | 4:11 | 2024-03-15 | 2025-03-30 |
 | [Sweet Disposition \- John Summit & Silver Panda Remix](https://open.spotify.com/track/7rXke3ttpL2uXel9Nesf4u) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Sweet Disposition \(John Summit & Silver Panda Remix\)](https://open.spotify.com/album/6BM3arvtpuj41WO2E4V77i) | 4:11 | 2025-06-02 |  |
+| [Sweet Nothings](https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [feel](https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL) | 3:40 | 2026-03-27 |  |
 | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi) | 3:48 | 2022-03-25 | 2023-04-01 |
 | [Swim](https://open.spotify.com/track/7mSu3xUir7sG81HeBl5RVf) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Swim](https://open.spotify.com/album/2IThnSyUnupQqbJ7SvUiDC) | 2:52 | 2022-03-25 | 2022-04-17 |
 | [Take It Easy on Me](https://open.spotify.com/track/62aj6pzjrfimmXIMWHMYiU) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Take It Easy on Me](https://open.spotify.com/album/61t1NrQrjIvnOozh9h212U) | 2:39 | 2025-02-14 | 2025-05-31 |

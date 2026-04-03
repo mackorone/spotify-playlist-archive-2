@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT?si=X2KwqcXsSfO\_VQgT3Qxn7w">Devin Tracy</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,290 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,350 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

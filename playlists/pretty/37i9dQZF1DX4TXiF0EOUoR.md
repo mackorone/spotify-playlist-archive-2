@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡PUEEERTAAAAAAAAS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,139 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,190 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 77 | [Rumbo a la Cañada](https://open.spotify.com/track/3EhVdAJv8cqxNdL2Aj1NfY) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 2:32 |
 | 78 | [El Son Del Toro](https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Mis Raíces](https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5) | 2:42 |
 | 79 | [El Palomito \- Son](https://open.spotify.com/track/0z7t1dVYkRoiXTX62TFZ7D) | [Banda Laser](https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4) | [Male Chabelita \(Música Purepecha, Abajeños, Sones, Pirékuas\)](https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr) | 2:27 |
-| 80 | [El Son Del Veneno](https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH) | [Banda Los Tecateando](https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe) | [Haciendo Historia](https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN) | 4:12 |
-| 81 | [11 Pueblos \(Carlillos Guerrero\) \- En Vivo](https://open.spotify.com/track/11IDEme7XMApgERLgpTxEW) | [Banda La Maxima Escuela](https://open.spotify.com/artist/1jWdAKdi41k3LswEE4zTW0) | [Sones Tradicionales \(En Vivo\)](https://open.spotify.com/album/7G1v1Iad6PBNTxCV5gPLtc) | 3:11 |
+| 80 | [11 Pueblos \(Carlillos Guerrero\) \- En Vivo](https://open.spotify.com/track/11IDEme7XMApgERLgpTxEW) | [Banda La Maxima Escuela](https://open.spotify.com/artist/1jWdAKdi41k3LswEE4zTW0) | [Sones Tradicionales \(En Vivo\)](https://open.spotify.com/album/7G1v1Iad6PBNTxCV5gPLtc) | 3:11 |
+| 81 | [El Son Del Veneno](https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH) | [Banda Los Tecateando](https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe) | [Haciendo Historia](https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN) | 4:12 |
 | 82 | [Homenaje a Un Barbaro ..\. Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Piña](https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 4:48 |
 | 83 | [La Yaquesita](https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 3:37 |
 | 84 | [La Cuichi \- En Vivo](https://open.spotify.com/track/5kuTaAtUzmq8LeG3UlaSbf) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Sones Adictivos \(En Vivo\)](https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4) | 2:28 |

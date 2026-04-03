@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-558 songs - 1 day 3 hr 41 min
+562 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 av 10](https://open.spotify.com/track/2kG7398S7yH749tICTl4Oq) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [10 av 10](https://open.spotify.com/album/30yDYaPRI3Wxi3lmv5tirL) | 2:43 | 2025-10-23 | 2025-11-28 |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-09-19 | 2025-03-30 |
 | [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 | 2025-07-17 | 2025-09-19 |
+| [2 ord m/ Lars Vaular](https://open.spotify.com/track/3Qj7jdHHGJgBeheJBqw6KP) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Lars Vaular](https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2) | [2 ord m/ Lars Vaular](https://open.spotify.com/album/4c5QKonmQ7CsK4lygmaEOn) | 2:40 | 2026-04-02 |  |
 | [2 Trekk](https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [2 Trekk](https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso) | 2:52 | 2024-10-17 | 2024-10-26 |
 | [2CB](https://open.spotify.com/track/4v4544m9rPttWudGucbzAc) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [2CB](https://open.spotify.com/album/0x9hyJIBVJewDqzPnWQApB) | 3:07 | 2025-06-05 | 2025-09-05 |
 | [555](https://open.spotify.com/track/4d6W8hgX7Iyu3OUogH6OxL) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [555](https://open.spotify.com/album/3Z1oqJEL9YE5jqXgDozPhL) | 3:13 | 2025-05-12 | 2025-05-23 |
@@ -164,6 +165,7 @@
 | [Frankenstein](https://open.spotify.com/track/0l8vP9dyXEiJ0onCWK7q5Z) | [Mileo](https://open.spotify.com/artist/3vXCUcFuOPgSbDJiwUlf8D) | [Frankenstein](https://open.spotify.com/album/3rsIYa1pLa4deIjMWmrgFW) | 2:48 | 2026-01-29 | 2026-03-13 |
 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 | 2025-05-08 | 2025-11-28 |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-25 | 2025-05-01 |
+| [FRELSER](https://open.spotify.com/track/49uu5Y3lAR6Ln9kg2K1X5h) | [BLAKSTA](https://open.spotify.com/artist/1durHwES7iW4UCtqeGtfFY) | [FRELSER](https://open.spotify.com/album/1TYUtJQzBX73eQ8cvbdArn) | 2:30 | 2026-04-02 |  |
 | [Funeral](https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Funeral](https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm) | 4:03 | 2026-01-22 |  |
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-02-27 | 2025-03-28 |
 | [Følsom spiller \(feat\. Vinz og Philip Emilio\)](https://open.spotify.com/track/7LGPuO6ur2x5r85gvLNBXI) | [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P), [Philip Emilio](https://open.spotify.com/artist/2GN0eor58XbyUUfQxWTgYn) | [Følsom spiller \(feat\. Vinz og Philip Emilio\)](https://open.spotify.com/album/748Z06ByUQHOZ39D0ymyob) | 2:47 | 2024-09-26 | 2024-10-11 |
@@ -505,6 +507,7 @@
 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-04 |  |
 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-02 |  |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-13 | 2025-09-19 |
+| [The More I Hope](https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Broken View](https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg) | 4:06 | 2026-04-02 |  |
 | [The Room](https://open.spotify.com/track/1X9wnBr0GtplOi4VuYsOAS) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [The Room](https://open.spotify.com/album/0wzVgPQZQLrGj9MhkD6gMk) | 2:13 | 2025-09-26 | 2026-03-13 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-07-31 | 2025-09-19 |
 | [THEO](https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [THEO](https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu) | 2:27 | 2026-02-19 |  |
@@ -523,6 +526,7 @@
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-06-27 | 2025-03-08 |
 | [trenger min love](https://open.spotify.com/track/4pC15giPh4pwFZQkZL0z5L) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [trenger min love](https://open.spotify.com/album/02lT1avDI4toG3QCw7eoeo) | 3:02 | 2025-04-30 | 2025-05-23 |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2025-03-27 | 2025-05-01 |
+| [Trist Masochist](https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Trist Masochist](https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6) | 3:01 | 2026-04-02 |  |
 | [Trophy](https://open.spotify.com/track/2JHpFobSp0WktxCod6MEIy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 3:10 | 2025-06-12 |  |
 | [Try To Forget You](https://open.spotify.com/track/4owTp0ISJEukMDPpbiYVTF) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Bloom](https://open.spotify.com/album/3bbmQ862f9gNMC3I5eH5Qx) | 3:24 | 2026-01-22 |  |
 | [Tur i oturen](https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tur i oturen](https://open.spotify.com/album/1vwBrTS2u2X0FPRQcjinhe) | 2:57 | 2025-04-30 | 2025-05-23 |

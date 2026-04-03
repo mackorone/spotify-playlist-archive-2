@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Tedeschi Trucks Band",
-  "num_followers": 1067978,
+  "num_followers": 1068015,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -333,26 +333,6 @@
       "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
     },
     {
-      "added_at": "2026-03-04 15:51:29",
-      "album": {
-        "name": "Revelations",
-        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
-      },
-      "artists": [
-        {
-          "name": "Chris Tapp",
-          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
-        },
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 221239,
-      "name": "Revelations",
-      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
-    },
-    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "Don't Leave Me",
@@ -371,6 +351,26 @@
       "duration_ms": 210428,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
+    },
+    {
+      "added_at": "2026-03-04 15:51:29",
+      "album": {
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
+      },
+      "artists": [
+        {
+          "name": "Chris Tapp",
+          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
+        },
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 221239,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Fancy Drones (Fracture Me)",
+      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "The Mule",
         "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
       },
@@ -645,36 +661,24 @@
       "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
     },
     {
-      "added_at": "2026-02-13 05:00:37",
+      "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+        "name": "Six Shades of Grey",
+        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
       },
       "artists": [
         {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Fancy Drones (Fracture Me)",
-      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "House On Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
-      },
-      "artists": [
+          "name": "Lindsey Troy",
+          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
+        },
         {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+          "name": "Deap Vally",
+          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Saviour - Unplugged",
-      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
+      "duration_ms": 203757,
+      "name": "Six Shades of Grey",
+      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -707,6 +711,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "House On Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Saviour - Unplugged",
+      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Joy, Joy!",
         "url": "https://open.spotify.com/album/6t1qkbhNBE3Nxt9yemCHrw"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 236219,
       "name": "Oh Betty",
       "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
-        "name": "Six Shades of Grey",
-        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Troy",
-          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
-        },
-        {
-          "name": "Deap Vally",
-          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
-        }
-      ],
-      "duration_ms": 203757,
-      "name": "Six Shades of Grey",
-      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
     },
     {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "Coast of Light",
+        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 217581,
+      "name": "Teacher's Desk",
+      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
+    },
+    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "Crossroads",
@@ -955,22 +971,6 @@
       "duration_ms": 189739,
       "name": "What I Wouldn't Do",
       "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Mileage",
-        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 250765,
-      "name": "Mileage",
-      "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Mileage",
+        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 250765,
+      "name": "Mileage",
+      "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 260458,
       "name": "You Still Got Me - Edit",
       "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
-        "name": "Coast of Light",
-        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 217581,
-      "name": "Teacher's Desk",
-      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
     },
     {
       "added_at": "2026-03-06 05:00:04",
@@ -1117,6 +1117,22 @@
       "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
     },
     {
+      "added_at": "2026-03-06 05:00:04",
+      "album": {
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+    },
+    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "Antique Hearts: Revisited",
@@ -1133,20 +1149,20 @@
       "url": "https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2"
     },
     {
-      "added_at": "2026-03-06 05:00:04",
+      "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+        "name": "Let It Die Here",
+        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
       },
       "artists": [
         {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+          "name": "Linda Perry",
+          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
         }
       ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+      "duration_ms": 223523,
+      "name": "Let It Die Here",
+      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1323,38 +1339,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/3jxanQOwCwfBi8lSY8ep26"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        }
-      ],
-      "duration_ms": 170399,
-      "name": "Liberation",
-      "url": "https://open.spotify.com/track/7edtRdOTDQuJudfReugLJw"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
-        "name": "Let It Die Here",
-        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
-      },
-      "artists": [
-        {
-          "name": "Linda Perry",
-          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Let It Die Here",
-      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 278457,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/3jxanQOwCwfBi8lSY8ep26"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 170399,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/7edtRdOTDQuJudfReugLJw"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Bring Me Back Home Again",
+        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Bring Me Back Home Again",
+      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "What's Not To Love?",
         "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 199174,
       "name": "I Guess I\u2019ll Get The Papers And Go Home",
       "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Bring Me Back Home Again",
-        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Bring Me Back Home Again",
-      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1505,20 +1505,24 @@
       "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
     },
     {
-      "added_at": "2026-02-13 05:00:37",
+      "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
+        "name": "Gathering Forces",
+        "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Jonah Smith",
+          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
+        },
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
         }
       ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+      "duration_ms": 185399,
+      "name": "Gathering Forces",
+      "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1535,6 +1539,22 @@
       "duration_ms": 287986,
       "name": "All The Things I Said",
       "url": "https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1587,22 +1607,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Seasons Change",
         "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
       },
@@ -1615,6 +1619,22 @@
       "duration_ms": 207931,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1679,26 +1699,6 @@
       "duration_ms": 175564,
       "name": "Whom I Adore",
       "url": "https://open.spotify.com/track/0KyEGhg4AcfSuMrgPjMdEc"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
-        "name": "Gathering Forces",
-        "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
-      },
-      "artists": [
-        {
-          "name": "Jonah Smith",
-          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
-        },
-        {
-          "name": "Family Company",
-          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
-        }
-      ],
-      "duration_ms": 185399,
-      "name": "Gathering Forces",
-      "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
     },
     {
       "added_at": "2026-02-13 05:00:37",

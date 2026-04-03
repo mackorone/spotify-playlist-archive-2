@@ -4,7 +4,7 @@
 
 > De beste tunes op repeat\. Cover: CHO
 
-116 songs - 5 hr 29 min
+117 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,12 +115,13 @@
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2025-07-17 |  |
 | [Update](https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/2HX58CDc9At5raER932yCf) | 3:27 | 2025-07-17 |  |
 | [Van Mij Zijn](https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Van Mij Zijn](https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe) | 2:46 | 2025-07-17 |  |
+| [Vervreemd](https://open.spotify.com/track/7M4F4A8M7k13zOnyt3q2CC) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Vervreemd](https://open.spotify.com/album/3Zme7AYOj5SA4Xuh8TDWjr) | 3:28 | 2026-04-02 |  |
 | [Voorzichtig](https://open.spotify.com/track/5D50iIozof7VABnwls2H13) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Voorzichtig](https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM) | 2:23 | 2025-07-17 |  |
 | [WAHALA \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [WAHALA \(FEAT\. OLAMIDE\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 | 2025-07-17 |  |
 | [Waterkant](https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:02 | 2025-12-10 |  |
 | [Wild West](https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Wild West](https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw) | 2:41 | 2025-07-17 |  |
 | [yawa](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [yawa](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 | 2025-07-17 |  |
-| [Your Season](https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Your Season](https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy) | 2:32 | 2025-07-17 |  |
+| [Your Season](https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Your Season](https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy) | 2:32 | 2025-07-17 | 2026-04-03 |
 | [ZAAZAA](https://open.spotify.com/track/0hVWE4YILwwpN4F1P9nxva) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [bLoOdLine](https://open.spotify.com/album/0WW2cx3x8Foi8d4xNLfHce) | 2:34 | 2025-12-10 |  |
 | [Zonder Mij](https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Zonder Mij](https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3) | 3:23 | 2025-07-17 | 2026-03-22 |
 | [Ça c'est bien](https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ça c'est bien](https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES) | 2:39 | 2025-07-17 | 2025-10-16 |

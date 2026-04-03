@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Quercia in cover",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Salmo in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 242466,
       "name": "Another Love Song",
       "url": "https://open.spotify.com/track/4sFs1vhwd4KC0rMgDraMa3"
@@ -4256,7 +4256,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 228150,
       "name": "Bye Bye Samurai/Vite",
       "url": "https://open.spotify.com/track/2gnKTQ5EUmvRmbJ8DzKziA"
@@ -5126,7 +5126,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 186905,
       "name": "CASCARA",
       "url": "https://open.spotify.com/track/4lW9rkaM6DncE3oasycGr1"
@@ -8967,6 +8967,24 @@
     },
     {
       "album": {
+        "name": "Hellvisback 10 Years Later",
+        "url": "https://open.spotify.com/album/3jNCrVhxAmn429sGhoth4E"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187741,
+      "name": "ECLISSI",
+      "url": "https://open.spotify.com/track/7LOz7vUwz6845uQwpd16UZ"
+    },
+    {
+      "album": {
         "name": "chiaroscuro",
         "url": "https://open.spotify.com/album/15hhbGhDTck2pRtvL5UvZu"
       },
@@ -9026,7 +9044,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 140281,
       "name": "Eii",
       "url": "https://open.spotify.com/track/4WiXdkbsYfeGZKF7pnqken"
@@ -10777,6 +10795,24 @@
     },
     {
       "album": {
+        "name": "Fliiim",
+        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
+      },
+      "artists": [
+        {
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329102,
+      "name": "Fliiim",
+      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
+    },
+    {
+      "album": {
         "name": "Prendersi Cura",
         "url": "https://open.spotify.com/album/1Xl0SgVxdlEC9plEg5KMFY"
       },
@@ -11048,7 +11084,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 237500,
       "name": "Formaldeide",
       "url": "https://open.spotify.com/track/6gju7XPR7hi9U6zBzjhTai"
@@ -11594,6 +11630,28 @@
       "duration_ms": 188485,
       "name": "Gagarin",
       "url": "https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO"
+    },
+    {
+      "album": {
+        "name": "Vita, Morte e Miracoli",
+        "url": "https://open.spotify.com/album/55EldRuc15CKWkdU6MLBg3"
+      },
+      "artists": [
+        {
+          "name": "WEL",
+          "url": "https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v"
+        },
+        {
+          "name": "Why Everyone Left",
+          "url": "https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/7lUVgbQvkUckyQ3mxYh6Yu"
     },
     {
       "album": {
@@ -12880,7 +12938,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 208830,
       "name": "Heloim",
       "url": "https://open.spotify.com/track/0Gekt8VBiUhBNMjJb5IAwh"
@@ -13204,7 +13262,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 209846,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/0eB4BW6dwcA5gX4RXtUmXE"
@@ -13926,6 +13984,24 @@
       "duration_ms": 266120,
       "name": "il cielo \u00e8 cos\u00ec terso",
       "url": "https://open.spotify.com/track/6rfBdgPdwHSXhqcGrQDHkA"
+    },
+    {
+      "album": {
+        "name": "Lucida Follia",
+        "url": "https://open.spotify.com/album/0Pc2ojxhdmKvsQbDiV0qNa"
+      },
+      "artists": [
+        {
+          "name": "Negative Message",
+          "url": "https://open.spotify.com/artist/5IqJuYWytZk2tYQVmte7ML"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215712,
+      "name": "Il Circo Degli Orrori",
+      "url": "https://open.spotify.com/track/1jfUnSlu1TEbmOtOSGci48"
     },
     {
       "album": {
@@ -17150,7 +17226,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 213751,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/7s7khJzZY9msU7ylxVJCd9"
@@ -23465,6 +23541,24 @@
     },
     {
       "album": {
+        "name": "Per le vie della citt\u00e0",
+        "url": "https://open.spotify.com/album/5gxv0uYf0h5NfVZ5fVHpZ3"
+      },
+      "artists": [
+        {
+          "name": "Pierpaolo Capovilla e i Cattivi Maestri",
+          "url": "https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194621,
+      "name": "Per le vie della citt\u00e0",
+      "url": "https://open.spotify.com/track/38o6cByWLgLS3WeHdg5idc"
+    },
+    {
+      "album": {
         "name": "Per non pensarci pi\u00f9",
         "url": "https://open.spotify.com/album/74fX2Nb62K4SieqsRNDjvi"
       },
@@ -28029,6 +28123,24 @@
     },
     {
       "album": {
+        "name": "SIDERALE",
+        "url": "https://open.spotify.com/album/4t3X0Qsj0c8Ea3bFALiUdy"
+      },
+      "artists": [
+        {
+          "name": "Pluvia",
+          "url": "https://open.spotify.com/artist/2iYo4wUo3mf6MVcRlRxXuG"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183391,
+      "name": "SIDERALE",
+      "url": "https://open.spotify.com/track/3qISkz1pXPBgAZ0Ga7gSLO"
+    },
+    {
+      "album": {
         "name": "Sides",
         "url": "https://open.spotify.com/album/2a8G9pLND6ILoopArfwy3k"
       },
@@ -28166,7 +28278,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 244397,
       "name": "Silvia corre sola",
       "url": "https://open.spotify.com/track/50yMDTlkeAbt4BJ7lOGYas"
@@ -31318,7 +31430,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 302490,
       "name": "To Fall",
       "url": "https://open.spotify.com/track/3jVGHVPKuTiHCkoYR3HwyE"
@@ -31505,6 +31617,24 @@
     },
     {
       "album": {
+        "name": "torpida",
+        "url": "https://open.spotify.com/album/7cOmpx2gwK9IVMRHh4t5Hl"
+      },
+      "artists": [
+        {
+          "name": "edere",
+          "url": "https://open.spotify.com/artist/7DC9Xd7F24okb8pTdi4e1P"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264742,
+      "name": "torpida",
+      "url": "https://open.spotify.com/track/5YAuDMeg8JcDjCiCDRpiin"
+    },
+    {
+      "album": {
         "name": "FIVE EGGS",
         "url": "https://open.spotify.com/album/6Pv0otbP9L0QWHxBvtBlpC"
       },
@@ -31664,7 +31794,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 160083,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/2VFEjS42V3FvfLaBTDWKKP"

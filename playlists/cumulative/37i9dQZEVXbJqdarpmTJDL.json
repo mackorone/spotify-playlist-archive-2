@@ -7198,7 +7198,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -22434,7 +22434,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 165282,
       "name": "Hey Shawty",
       "url": "https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe"
@@ -24444,7 +24444,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 184598,
       "name": "Isos Isoun Kiria",
       "url": "https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4"
@@ -31528,7 +31528,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 185400,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/1n80QsVmclzh7ETsMO03FR"
@@ -34872,7 +34872,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 177600,
       "name": "MOU ZITAS",
       "url": "https://open.spotify.com/track/3Q3e0KMeCinQONCLJyO69X"
@@ -36150,7 +36150,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 139800,
       "name": "NFL",
       "url": "https://open.spotify.com/track/5H8VwlKbwORU3icDM947rK"
@@ -36772,6 +36772,32 @@
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "album": {
+        "name": "NTALAVERIA",
+        "url": "https://open.spotify.com/album/27vjQOr6Jf6XFETYlEELSx"
+      },
+      "artists": [
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        },
+        {
+          "name": "DJ Stephan",
+          "url": "https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188235,
+      "name": "NTALAVERIA",
+      "url": "https://open.spotify.com/track/4tFevjTUCMo0OBkIQzzQOj"
     },
     {
       "album": {
@@ -37744,7 +37770,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "Oloi",
       "url": "https://open.spotify.com/track/3vf4jc8eUcmsFxmsygVz6v"
@@ -46018,7 +46044,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 214253,
       "name": "SERBIAN FREESTYLE",
       "url": "https://open.spotify.com/track/1MMpsfptbwzmzAcxZxRG1x"
@@ -47830,7 +47856,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 168428,
       "name": "SOSA",
       "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"

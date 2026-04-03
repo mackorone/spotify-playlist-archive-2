@@ -2579,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0QsiNQJW66Fnl7IeLzYkOs"
+      },
+      "artists": [
+        {
+          "name": "Ken erics",
+          "url": "https://open.spotify.com/artist/5pSgNNjy7wnH4MF8PqTf7U"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166499,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/1WI5G7gvxfLanIVuWPxDrG"
+    },
+    {
+      "album": {
         "name": "Call the Father",
         "url": "https://open.spotify.com/album/6Ord6iPTK4z4hpGpYoTWjq"
       },
@@ -3968,7 +3986,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 192283,
       "name": "Dey Pray",
       "url": "https://open.spotify.com/track/1yiah3DJ495GGyfoafP2rk"
@@ -7486,7 +7504,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 145897,
       "name": "Hosannah",
       "url": "https://open.spotify.com/track/1sod8CbyyR367ZVZhNtjCc"
@@ -9403,7 +9421,7 @@
     },
     {
       "album": {
-        "name": "Kuzo Muje, II",
+        "name": "Kuzo Muje II",
         "url": "https://open.spotify.com/album/2aw6gvO02HCDo72WtQyYov"
       },
       "artists": [
@@ -9423,8 +9441,8 @@
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 165067,
-      "name": "Kuzo Muje, II",
+      "duration_ms": 165000,
+      "name": "Kuzo Muje II",
       "url": "https://open.spotify.com/track/6IwwQofzDmM9mgPrkYYKly"
     },
     {
@@ -9708,6 +9726,24 @@
       "duration_ms": 165762,
       "name": "Location",
       "url": "https://open.spotify.com/track/7emIC5BmmI5JSlMD9Kes6n"
+    },
+    {
+      "album": {
+        "name": "looking for You",
+        "url": "https://open.spotify.com/album/09JJYTEAPsuiG15YXBUXGL"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153281,
+      "name": "looking for You",
+      "url": "https://open.spotify.com/track/2pwzpvKhbiz67yu6QZpVXJ"
     },
     {
       "album": {
@@ -10762,6 +10798,32 @@
       "duration_ms": 166000,
       "name": "Mon Dieu",
       "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
+    },
+    {
+      "album": {
+        "name": "More Life (CRWN \u00d8F THRNZ Remix)",
+        "url": "https://open.spotify.com/album/2yT3TLbQhkCwmppZh80IvH"
+      },
+      "artists": [
+        {
+          "name": "Joel Brown",
+          "url": "https://open.spotify.com/artist/0NPyI4OlrMBcH6rPxEgE5n"
+        },
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        },
+        {
+          "name": "CRWN \u00d8F THRNZ",
+          "url": "https://open.spotify.com/artist/4VnZ6kOonI4OKwKD1iSJQL"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253348,
+      "name": "More Life - CRWN \u00d8F THRNZ Remix",
+      "url": "https://open.spotify.com/track/6zkOlIRQ63PszTKt8TXRHS"
     },
     {
       "album": {
@@ -13661,6 +13723,24 @@
     },
     {
       "album": {
+        "name": "Persevere (Afro Remix)",
+        "url": "https://open.spotify.com/album/1QTfuS5z9OZ0claRC86kGZ"
+      },
+      "artists": [
+        {
+          "name": "Olivier Cheuwa",
+          "url": "https://open.spotify.com/artist/2izAP4n3Cio3Yzh1g7v0XX"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194921,
+      "name": "Persevere - Afro Remix",
+      "url": "https://open.spotify.com/track/3bxrjPNrZaliJlPHii52Gd"
+    },
+    {
+      "album": {
         "name": "Pharaoh",
         "url": "https://open.spotify.com/album/0feSZCdHVTIuy4vIvKJqe0"
       },
@@ -15986,7 +16066,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 156631,
       "name": "TAMUNO",
       "url": "https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh"
@@ -16240,7 +16320,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 185262,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/4QrcCtSGa3xaR1DpVfV2jB"
@@ -16980,6 +17060,24 @@
       "duration_ms": 167225,
       "name": "Tout nouveau tout beau",
       "url": "https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO"
+    },
+    {
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw"
     },
     {
       "album": {
@@ -18153,6 +18251,32 @@
     },
     {
       "album": {
+        "name": "Whosoever (Live)",
+        "url": "https://open.spotify.com/album/5VD7Hzv0v0cZ5mxUhckuA3"
+      },
+      "artists": [
+        {
+          "name": "Wellspring Music",
+          "url": "https://open.spotify.com/artist/760XbihuDnesUcKkNEOOIj"
+        },
+        {
+          "name": "Kanjii Mbugua",
+          "url": "https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY"
+        },
+        {
+          "name": "Malachi Lucey",
+          "url": "https://open.spotify.com/artist/1lNMOGGfhY4JFmw92Wr1mJ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249258,
+      "name": "Whosoever - Live",
+      "url": "https://open.spotify.com/track/6FfQyUSA8grFb1Y3Wnbanq"
+    },
+    {
+      "album": {
         "name": "Open Doors",
         "url": "https://open.spotify.com/album/2T9zs9YOQTQqCEbBxaB16e"
       },
@@ -18274,6 +18398,28 @@
       "duration_ms": 221743,
       "name": "With My Name",
       "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5KXVKSZVfL02T3GPt15Z4D"
+      },
+      "artists": [
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162935,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1q73vgp83XE42lE86YiSNT"
     },
     {
       "album": {
@@ -18737,6 +18883,24 @@
     },
     {
       "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/16HVSUhTrK4U231KZJ1Me4"
+      },
+      "artists": [
+        {
+          "name": "Jesufemi",
+          "url": "https://open.spotify.com/artist/3Hk1MSEN7hTVpjPdKp8GRA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185945,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/6VDhWqHgYFJQkWC8X6GwEl"
+    },
+    {
+      "album": {
         "name": "Yeshua (Extended)",
         "url": "https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H"
       },
@@ -18760,6 +18924,42 @@
       "duration_ms": 156196,
       "name": "Yeshua (Extended)",
       "url": "https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7"
+    },
+    {
+      "album": {
+        "name": "Yeshua!",
+        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220766,
+      "name": "Yeshua!",
+      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
+    },
+    {
+      "album": {
+        "name": "Yesu",
+        "url": "https://open.spotify.com/album/1C1hk6ScDpYZXC7jHinsYl"
+      },
+      "artists": [
+        {
+          "name": "Jumbo Aniebiet",
+          "url": "https://open.spotify.com/artist/3SFQtiUWFMi1dZFoieb47p"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Yesu",
+      "url": "https://open.spotify.com/track/53LjxInfWogTWJyCDaRhem"
     },
     {
       "album": {

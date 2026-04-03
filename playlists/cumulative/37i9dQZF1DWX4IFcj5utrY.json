@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: bees & honey, FOLA",
+  "description": "The best dance hits in Africa. Cover: Makhadzi",
   "name": "mint Africa",
   "tracks": [
     {
@@ -10383,6 +10383,36 @@
     },
     {
       "album": {
+        "name": "Gone Kanje (feat. Mellow & Sleazy & Dlala Regal)",
+        "url": "https://open.spotify.com/album/10poemRnLMAmpKyiHbt2U5"
+      },
+      "artists": [
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Slyzza Rsa",
+          "url": "https://open.spotify.com/artist/61w0RQ0wzRDoEocR0IR4v2"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Dlala Regal",
+          "url": "https://open.spotify.com/artist/6xaKm4AEnJJ2N2tw4wYRMK"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381570,
+      "name": "Gone Kanje (feat. Mellow & Sleazy & Dlala Regal)",
+      "url": "https://open.spotify.com/track/5NbkOhZw2pfkLAipJmojSK"
+    },
+    {
+      "album": {
         "name": "Gonna Keep It",
         "url": "https://open.spotify.com/album/2vKOQpo6PtHyB0IcySiVp3"
       },
@@ -18396,7 +18426,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 267904,
       "name": "Mean 2 Me",
       "url": "https://open.spotify.com/track/6IMJPS60S4PuO4dsyGSaDc"
@@ -18958,6 +18988,36 @@
       "duration_ms": 382776,
       "name": "Moja",
       "url": "https://open.spotify.com/track/1m7tl08WOnGcwEGKADBWu5"
+    },
+    {
+      "album": {
+        "name": "BIG 30",
+        "url": "https://open.spotify.com/album/4UJzumndO8KpSdhsNJROCA"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi Entertainment",
+          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
+        },
+        {
+          "name": "Poobington",
+          "url": "https://open.spotify.com/artist/1ue9oEVioYpBEUlvPHnas4"
+        },
+        {
+          "name": "Dr Skaro",
+          "url": "https://open.spotify.com/artist/2xkslEBMPDYAZzT2Ws2pUz"
+        },
+        {
+          "name": "DJ Janisto",
+          "url": "https://open.spotify.com/artist/49pDCx2fEbFhIhVwE37KZW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308346,
+      "name": "Mokone (feat. Dr Skaro & Dj Janisto)",
+      "url": "https://open.spotify.com/track/0QLZcbPrpRZh1QAAwNANYt"
     },
     {
       "album": {
@@ -30604,7 +30664,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 375466,
       "name": "Unyaka",
       "url": "https://open.spotify.com/track/6xkThBF66zRG34cNm3mekW"

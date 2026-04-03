@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover:  Andi Rianto, Nadhif Basalamah",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Maudy Ayunda",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -2693,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "Di Tepi Lamunan (Original Soundtrack from \u2018Para Perasuk\u2019)",
+        "url": "https://open.spotify.com/album/3Fn9WrozjuRkGNhe2CTCDA"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234674,
+      "name": "Di Tepi Lamunan - Original Soundtrack from \u2018Para Perasuk\u2019",
+      "url": "https://open.spotify.com/track/0DX9GrFmZw6tiUnFR29J4K"
+    },
+    {
+      "album": {
         "name": "Di Ujung Minggu",
         "url": "https://open.spotify.com/album/7ix30MwxN9n0gUgRfrxUid"
       },
@@ -3228,7 +3246,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 217641,
       "name": "Gantung",
       "url": "https://open.spotify.com/track/2R1Eks7GwZb8F8JIfyZEBo"
@@ -3294,6 +3312,24 @@
       "duration_ms": 231995,
       "name": "Gemercik Asmara",
       "url": "https://open.spotify.com/track/3wA8KBsBcCkAAF9ZDZLkKQ"
+    },
+    {
+      "album": {
+        "name": "Dalam Dinamika",
+        "url": "https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv"
+      },
+      "artists": [
+        {
+          "name": "Perunggu",
+          "url": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300583,
+      "name": "Gemilang",
+      "url": "https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT"
     },
     {
       "album": {
@@ -6211,6 +6247,24 @@
     },
     {
       "album": {
+        "name": "EUNOIA",
+        "url": "https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB"
+      },
+      "artists": [
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275935,
+      "name": "Masa ini, Nanti, dan Masa Indah Lainnya",
+      "url": "https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v"
+    },
+    {
+      "album": {
         "name": "Masa Mudaku Habis",
         "url": "https://open.spotify.com/album/3XntILaq6yQVrdUk0kVRwZ"
       },
@@ -8120,7 +8174,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 315506,
       "name": "Ropang",
       "url": "https://open.spotify.com/track/4c2OR5RjaVRhAOTqWhXZfQ"
@@ -8174,7 +8228,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 278961,
       "name": "Rumah dan Baju Barumu",
       "url": "https://open.spotify.com/track/6FESOv2mvZiZPG65JVAnjT"
@@ -9846,7 +9900,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 184980,
       "name": "SISA ASA",
       "url": "https://open.spotify.com/track/1LyHrjq4VGWDM0UIci4yPF"

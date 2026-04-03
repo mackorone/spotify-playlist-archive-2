@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,544 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,564 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 9 | [Boom Boom](https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [Reggie](https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Boom Boom](https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp) | 2:44 |
 | 10 | [Cinderella](https://open.spotify.com/track/3S8DdOVdItdxl8wiSJbxqG) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Cityboy](https://open.spotify.com/artist/7nvcEfeWUdqDgE0SDvaULw), [Thomas the Great](https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc), [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [O’Kenneth](https://open.spotify.com/artist/2IlZ9ELZSszoF3eDvj0uKe) | [Cinderella](https://open.spotify.com/album/1XUuE6jXikxH60jgtQPLt1) | 3:52 |
 | 11 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 |
-| 12 | [GHRIME RIDDIM III: TEMA BOYS](https://open.spotify.com/track/38uFgfZxPXIleSZWwLKH0p) | [SAVAGE 4](https://open.spotify.com/artist/5zSR3vg92lLKODwbAaFEbT), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP) | [GHRIME RIDDIM III: TEMA BOYS](https://open.spotify.com/album/1j4eofLfJN2kobBub5vzdV) | 2:32 |
+| 12 | [Voodoo](https://open.spotify.com/track/7EoAz17odE257JEOhbHSfq) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Voodoo](https://open.spotify.com/album/3TIkFCdYozvbay67Ripiha) | 2:05 |
 | 13 | [LONELY ROAD](https://open.spotify.com/track/2rrXhDtfbDWzo3nbtMYGX3) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/2RMzKqHpoxVKMNJu73Anha) | 3:00 |
 | 14 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 |
 | 15 | [AGYEIWAA](https://open.spotify.com/track/6jiUTqGMy6CeiQtCxIjKKa) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [AGYEIWAA](https://open.spotify.com/album/4dhGN9UWrhHHR0DhhxfZKo) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [TNT](https://open.spotify.com/track/4k9nLxc8QRGKjo5cEfYAbq) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [TNT](https://open.spotify.com/album/01V0h9BrD6qr1J5O3ketEs) | 3:34 |
 | 50 | [Ringing](https://open.spotify.com/track/3Nk9QDlj5NJlXX2HeSZwVb) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Happy Place](https://open.spotify.com/album/2mvDoIS4T250xZx5qTy1mE) | 3:27 |
 
-Snapshot ID: `AAAAAAhGmtIoYbVtBrP68YUZK7eP94Mw`
+Snapshot ID: `AAAAAO9O1qD6I/Zds2j8DdEM//9WSoEX`

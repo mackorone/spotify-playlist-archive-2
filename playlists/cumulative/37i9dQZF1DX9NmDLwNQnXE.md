@@ -4,7 +4,7 @@
 
 > Relax to the sound of a storm setting in.
 
-459 songs - 20 hr 41 min
+461 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Goddess Of Thunder](https://open.spotify.com/track/6U89RZ2OKLjoKaBm0GHJyd) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Goddess Of Thunder](https://open.spotify.com/album/750KlTBN4XouiJKskT0Jpz) | 2:33 | 2021-11-10 | 2024-03-09 |
 | [Goddess Of Thunder](https://open.spotify.com/track/2NJISxdOO1keYuVzst55Jw) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:19 | 2023-02-13 | 2024-03-09 |
 | [Golden Thunderstorm](https://open.spotify.com/track/31GNsedPV2m9qB1D2LEdIB) | [NC2 LABORATORIES](https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH) | [Oh, Beautiful Thunder](https://open.spotify.com/album/59sCC7vzp9xwTGPr57HvbD) | 1:32 | 2021-11-10 | 2023-06-16 |
-| [Good Night Nature Rain](https://open.spotify.com/track/3XyCMBq2Q11RBeW3n6gRw4) | [Epic Nature](https://open.spotify.com/artist/02dqJlqEiSm6HAU1sA43RY) | [Good Night Nature Rain](https://open.spotify.com/album/5bOIfjWZ3pyS1zTGm11KgG) | 2:14 | 2021-11-10 |  |
+| [Good Night Nature Rain](https://open.spotify.com/track/3XyCMBq2Q11RBeW3n6gRw4) | [Epic Nature](https://open.spotify.com/artist/02dqJlqEiSm6HAU1sA43RY) | [Good Night Nature Rain](https://open.spotify.com/album/5bOIfjWZ3pyS1zTGm11KgG) | 2:14 | 2021-11-10 | 2026-04-03 |
 | [Graue Wolken](https://open.spotify.com/track/1SVyDxMo3VtdWz1fzegvDy) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Graue Wolken](https://open.spotify.com/album/6rCYUB4w56TeN96r9qdjK1) | 3:28 | 2021-11-10 |  |
 | [Gray Day](https://open.spotify.com/track/369022QlJSzhvLyE53KuKl) | [Serene Surroundings](https://open.spotify.com/artist/3sfSVTmJdFQsfPZxwM6ETs) | [Ethereal Showers](https://open.spotify.com/album/6x6fb16LgKeJE1jtGRtz5g) | 6:21 | 2021-11-10 | 2024-03-09 |
 | [Greek Rain and Thunder](https://open.spotify.com/track/0CYwZoze1eTVaYFZTMu0EV) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 2](https://open.spotify.com/album/4lPzsxOS8SHL3mFg6uZMZa) | 1:42 | 2021-11-10 | 2023-06-16 |
@@ -325,6 +325,7 @@
 | [Sleepy Raindrops](https://open.spotify.com/track/01Mgf3GGm5oEzUcwPRHROa) | [Rain Rec.](https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ) | [Reclining Rain](https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv) | 3:28 | 2021-11-10 | 2024-03-09 |
 | [Sleepy Storm](https://open.spotify.com/track/0gXGs4OoIwCEEDdKCwsOJE) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2023-02-13 | 2024-03-09 |
 | [Slowing Rain](https://open.spotify.com/track/3D7S0olBoyof3UikRaLIxM) | [The Sound Of The Rain](https://open.spotify.com/artist/6dBj5bCBZzgZdWuo9Gb0eh) | [Volume 2](https://open.spotify.com/album/5NgY5CULUgD79hID4M1XMB) | 3:11 | 2021-11-10 | 2023-02-14 |
+| [Slumber Night Rains](https://open.spotify.com/track/5D3Qv60Pfpt01xIxizpT6l) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Slumber Night Rains](https://open.spotify.com/album/5iLDsc7sxuvHGhkEmTzOuj) | 2:27 | 2026-04-01 |  |
 | [Soft Clappering Rain With Distant Storm](https://open.spotify.com/track/54gd3cuzXOLPgmj1BLIHmB) | [Proper Noises](https://open.spotify.com/artist/5SVSuYcrKCVhrNSeXHF0qr) | [Meditation Morning Rain](https://open.spotify.com/album/7Il9UcVgVjIHBHJRN8oScd) | 2:25 | 2021-11-10 |  |
 | [Soft Forest Clappering](https://open.spotify.com/track/5bcHiKNME9lrvd6rUJ5zxT) | [Birds & Bees etc.](https://open.spotify.com/artist/4eS0pNLDVquopuOenfqX3U) | [Soft Forest Clappering](https://open.spotify.com/album/5aPiqjkiZtlotd4egGRpxv) | 1:59 | 2021-11-10 | 2023-06-16 |
 | [Soft Rain Carrying Strong Lightnings](https://open.spotify.com/track/0qTxu9veqYjT7qCJJtaMQr) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 2:16 | 2023-02-13 |  |
@@ -411,6 +412,7 @@
 | [Thunder Nights](https://open.spotify.com/track/5TexsAXp4ms15voj66r02X) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Storm Catcher](https://open.spotify.com/album/0tE3oQZ2AHWNTYknOouOOK) | 2:38 | 2021-11-10 |  |
 | [Thunder On The Mountain](https://open.spotify.com/track/1Lb0zH7GmFN9mTXL6vX2UH) | [Mountain Man Recordings](https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD) | [Thunder On The Mountain](https://open.spotify.com/album/2VDjzhhW14ytIWeqte0oSs) | 3:46 | 2023-02-13 | 2024-03-09 |
 | [Thunder Rain](https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2023-02-13 |  |
+| [Thunder Rainfall](https://open.spotify.com/track/40Zf8PY526CdfE3V2Va8fI) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Thunder Rainfall](https://open.spotify.com/album/1zVVHDMvcFmhf0rSai1RPD) | 3:29 | 2026-04-01 |  |
 | [Thunder Run](https://open.spotify.com/track/6pwYNA6ASZQ2Q0rMG8yVO0) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Thunder Run](https://open.spotify.com/album/3j8JVgZckDVWg8UWU2if5g) | 3:28 | 2023-02-13 |  |
 | [Thunder Through The Night](https://open.spotify.com/track/06gtbxmgyG7uYuDDsorKSg) | [Myrs](https://open.spotify.com/artist/6xqQc4rYEbyc9YV7cHZY6Y) | [Nature Rumble](https://open.spotify.com/album/2VBhhO8AUOD9HnJN4kYifp) | 2:12 | 2021-11-10 |  |
 | [Thunder Volts](https://open.spotify.com/track/3sQRC5dgFDkPbVReUwMN9W) | [650 Watts](https://open.spotify.com/artist/0LC81vaWHA3XuTkp8pqWOW) | [Thunder Volts](https://open.spotify.com/album/1go2Vu6ge1LxQIOH3ot16t) | 2:45 | 2023-02-13 |  |
@@ -439,7 +441,7 @@
 | [Tormenta Del Bosque](https://open.spotify.com/track/5iZmYfTncJKyX97m4cGZ8p) | [Tormenta Jamaicana](https://open.spotify.com/artist/7Fod6Ykml8hrQjL3p9vxgx) | [Tormenta Secreta](https://open.spotify.com/album/38ClULiKoCQaNZPgImivZf) | 2:18 | 2021-11-10 |  |
 | [Tormenta lejana](https://open.spotify.com/track/4H26XrehY3uGaYjMSQ9ZIY) | [Ciclo del Agua](https://open.spotify.com/artist/7jvfAbf9xdkVSlJx8XBbpJ) | [Precipitación](https://open.spotify.com/album/6m0K7pr7P5o7yB4aLCxYj3) | 2:33 | 2023-06-15 |  |
 | [Tormenta ligera](https://open.spotify.com/track/0O87UiGy34Kn82mdNkbZp3) | [Tromentas Naturales](https://open.spotify.com/artist/7kdG75ISHiPcFrfUIpbszZ) | [Tormenta](https://open.spotify.com/album/1Yuzz0fCr1NHtDfejBwyK6) | 2:19 | 2021-11-10 | 2026-04-02 |
-| [Tropfen](https://open.spotify.com/track/6eYLvLhgdWzebLS1Zial1s) | [Millionen Tropfen](https://open.spotify.com/artist/1vonqrJbq5LvjugdJ8GMC7) | [Klimawandel](https://open.spotify.com/album/7MLIwhRzf3R6vyPvRi7aZL) | 2:21 | 2021-11-10 |  |
+| [Tropfen](https://open.spotify.com/track/6eYLvLhgdWzebLS1Zial1s) | [Millionen Tropfen](https://open.spotify.com/artist/1vonqrJbq5LvjugdJ8GMC7) | [Klimawandel](https://open.spotify.com/album/7MLIwhRzf3R6vyPvRi7aZL) | 2:21 | 2021-11-10 | 2026-04-03 |
 | [Tropical Forest Rain](https://open.spotify.com/track/7jLmLFDvQPYD7SZAsyXtaq) | [Drenched Trees](https://open.spotify.com/artist/29d8hIOhdY6Z697cHuCeq1) | [Lakeside Falls](https://open.spotify.com/album/21xU8irx4SLg1TdflnPXnr) | 1:57 | 2021-11-10 | 2023-06-16 |
 | [Tropical Rain Sound](https://open.spotify.com/track/5egT99fn74En0yE997ToIO) | [Regenmaschine](https://open.spotify.com/artist/1GTEiekrEAxZrpOCNMKFAY) | [Rain Sleep Effects](https://open.spotify.com/album/71EhaKqV4TQXMLmhQZFpR4) | 2:56 | 2021-11-10 | 2023-02-14 |
 | [Trueno distante](https://open.spotify.com/track/3KSWMixsyBC6J4jjrZ3oMu) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [Lluvia ligera y truenos](https://open.spotify.com/album/09x9KnmIyjuZYwZMC5I8Eu) | 2:21 | 2021-11-10 | 2026-04-02 |

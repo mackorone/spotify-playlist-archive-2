@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Neyna",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -2249,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "Chuva De Amor",
+        "url": "https://open.spotify.com/album/6pJMUzRz6QHarHAV4CRbE0"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Chuva De Amor",
+      "url": "https://open.spotify.com/track/0NUKgPv3y7seN48Ipm6HUM"
+    },
+    {
+      "album": {
         "name": "Chuva em Abril",
         "url": "https://open.spotify.com/album/5XOFLbCKQel78Ohb4RSlQE"
       },
@@ -2446,6 +2464,28 @@
       "duration_ms": 204721,
       "name": "Companhia",
       "url": "https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy"
+    },
+    {
+      "album": {
+        "name": "Conecta",
+        "url": "https://open.spotify.com/album/1qfrpd4rp5JWmRG6kVbwUI"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195364,
+      "name": "Conecta",
+      "url": "https://open.spotify.com/track/6BRvWO6nio9hUdWyQBntkn"
     },
     {
       "album": {
@@ -4648,7 +4688,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 206333,
       "name": "Gestora",
       "url": "https://open.spotify.com/track/2N1hEIzWuX3YJoIzEn7F1g"
@@ -10015,6 +10055,24 @@
     },
     {
       "album": {
+        "name": "Sabi Mo Veron",
+        "url": "https://open.spotify.com/album/01EtgdsQaYXoosAquRxG59"
+      },
+      "artists": [
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211714,
+      "name": "Sabi Mo Veron",
+      "url": "https://open.spotify.com/track/1lNzDQpnEFdb58QcRssYA0"
+    },
+    {
+      "album": {
         "name": "Safadeza",
         "url": "https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB"
       },
@@ -11206,7 +11264,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 255690,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
@@ -12264,7 +12322,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 151423,
       "name": "T\u00e1 Na Moda",
       "url": "https://open.spotify.com/track/3jJlb1Q5xrZjcCVhf1UnJP"

@@ -2231,6 +2231,32 @@
     },
     {
       "album": {
+        "name": "Inna Da",
+        "url": "https://open.spotify.com/album/3RSprpBDuSzZkBcYZv0m2S"
+      },
+      "artists": [
+        {
+          "name": "Martin Jazz",
+          "url": "https://open.spotify.com/artist/2tJOTx0kM4NyC4IY8xO9Cu"
+        },
+        {
+          "name": "San T",
+          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
+        },
+        {
+          "name": "Slim KD",
+          "url": "https://open.spotify.com/artist/09WwWdZUQKu1HHMfyYdLWI"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228176,
+      "name": "Inna Da",
+      "url": "https://open.spotify.com/track/1dhM6kS94VbTRs68TFK0Rc"
+    },
+    {
+      "album": {
         "name": "Enthiran (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/64fHKUIMRdOSsIpF6lLWqo"
       },
@@ -3612,6 +3638,24 @@
       "duration_ms": 248181,
       "name": "Naa Ready (From \"Leo\")",
       "url": "https://open.spotify.com/track/1B02UI29t3PTh3m98absaP"
+    },
+    {
+      "album": {
+        "name": "Naai Pozhappu",
+        "url": "https://open.spotify.com/album/4OcgxpR1FJMahvTzL6Jw99"
+      },
+      "artists": [
+        {
+          "name": "JOZHAY",
+          "url": "https://open.spotify.com/artist/3VnVuRey8RM3wGsN0YjWa6"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102173,
+      "name": "Naai Pozhappu",
+      "url": "https://open.spotify.com/track/5si2qn3libZtyd7fDj2cgl"
     },
     {
       "album": {

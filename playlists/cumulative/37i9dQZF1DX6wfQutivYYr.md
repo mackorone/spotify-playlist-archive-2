@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> LDA e Aka 7even sulla cover della playlist più grande in Italia 🔥
+> nayt sulla cover della playlist più grande in Italia 🔥
 
 313 songs - 16 hr 17 min
 

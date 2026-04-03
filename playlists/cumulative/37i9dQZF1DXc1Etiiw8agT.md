@@ -4,7 +4,7 @@
 
 > 12 Hours of brown noise to sleep longer.
 
-306 songs - 15 hr 15 min
+308 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [89 hz Band Q brown noise](https://open.spotify.com/track/5sEbUxmIkJ5R7LgXwJd0iv) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:33 | 2023-05-25 | 2026-02-25 |
 | [A Dampened Rumble](https://open.spotify.com/track/3LTXCe2HwYDRCE1D96KlMO) | [Inside Rest](https://open.spotify.com/artist/63hZGAk9B5wnxqgrAxQX1m) | [A Dampened Rumble](https://open.spotify.com/album/3lxXN8Kx8rz6fPd9PGmZzT) | 3:28 | 2023-05-25 |  |
 | [Abundant Brown Noise](https://open.spotify.com/track/4urad775yq5bhYEf7LNoS2) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Abundant Brown Noise](https://open.spotify.com/album/3B3TSP9WL509iVgqjrvWHz) | 3:46 | 2023-05-25 |  |
+| [Amber Dusk](https://open.spotify.com/track/4oOMOC0aKnS1KdyljjwjQk) | [Caelestis Nati](https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8) | [Amber Dusk](https://open.spotify.com/album/3VYJLM1oXQV0o9RTlVSrfA) | 3:06 | 2026-03-31 |  |
 | [Ambient Brown 150 Hz Soft Q](https://open.spotify.com/track/6CvRhqgufOLoYhujaZoxSt) | [Ambient Eclipse](https://open.spotify.com/artist/5kfu1YGIiPo81N6z7ipvOB) | [Focus Freq.](https://open.spotify.com/album/44qDPoC3RbYTMzqxQmH74P) | 3:02 | 2023-05-25 |  |
 | [Atmosphere Brown Noise](https://open.spotify.com/track/4Bq6IdY33YoyM2OWogdywx) | [Noise Gravity](https://open.spotify.com/artist/5Qd5aYgxNuzurvHmSbHRa5) | [Nighttime Brown Noise](https://open.spotify.com/album/7bOwzgHmf9neP2ApwS6xEO) | 2:40 | 2023-10-26 |  |
 | [Baby Sleep BN One](https://open.spotify.com/track/6J8DMT0HbyIbUoT7u1B07u) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Brown Noise](https://open.spotify.com/album/72oELCMIURf5TwCP1tC7RE) | 2:19 | 2023-05-25 | 2025-08-13 |
@@ -85,6 +86,7 @@
 | [Brown Noise for Relaxing](https://open.spotify.com/track/0bohmotsrCFyZ4Wfouo7CV) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Sleeping Brown Noise](https://open.spotify.com/album/7umltGSpruiFHUJUxQJLlf) | 3:43 | 2023-05-25 | 2023-11-11 |
 | [Brown Noise for Sleepy Moms](https://open.spotify.com/track/238uX8gGLneKDtrezxvkxR) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [Brown Noise for Sleepy Moms](https://open.spotify.com/album/5sQOg3F1Y60VXT9LufAnN9) | 3:11 | 2023-10-26 |  |
 | [Brown Noise for undisturbed Nightrest](https://open.spotify.com/track/2ONwTlxPnBw6mV5sDQMgsr) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Tranquil Brown Noise](https://open.spotify.com/album/7xp0o274OOr733c3AqszDc) | 3:42 | 2023-05-25 | 2025-02-28 |
+| [Brown Noise Foundation](https://open.spotify.com/track/3IymR9VmBAjR9yiOgcU4RF) | [Doug Carrlas](https://open.spotify.com/artist/3ZshreGfZ99jtTwoYcmmT5) | [Brown Noise Foundation](https://open.spotify.com/album/6CFgbWppDekaBABhAsqrND) | 2:36 | 2026-03-31 |  |
 | [Brown Noise Garden](https://open.spotify.com/track/5oUyuGEDP3slny7GZP19O9) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Brown Noise Sleep Escape](https://open.spotify.com/album/3viNE5LfYfm1fgehifXmyE) | 3:16 | 2023-05-25 |  |
 | [Brown Noise Haven: Relaxation Retreat](https://open.spotify.com/track/7hsG88Yk27DKuCcu88ujB9) | [HQ\-10](https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5) | [Brown Noise Haven: Relaxation Retreat](https://open.spotify.com/album/3JWbuOEdGJw5djg48lhZE7) | 3:13 | 2025-02-27 |  |
 | [Brown Noise Healing](https://open.spotify.com/track/4Rz5XWD97zYlummPDHYgIi) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Brown Noise Hz](https://open.spotify.com/album/5Eh7GZpQT9dfjyMz4NUdvk) | 3:46 | 2023-05-25 |  |
@@ -288,7 +290,7 @@
 | [Soft Brown Noise \- Seamless](https://open.spotify.com/track/01BuGDsak2sRcIFCZuwFFZ) | [Oasis Magna](https://open.spotify.com/artist/644swZfx5CWX5B1g3njvr1) | [Soft Brown Noise](https://open.spotify.com/album/4dTSxzW8BjI83W1HsjBAAX) | 2:54 | 2023-05-25 |  |
 | [Soft Noise](https://open.spotify.com/track/7zFEaYPifMRKdllCixP61H) | [NoiseZ](https://open.spotify.com/artist/0sfBeyU3aHvVFEGrPBU3xq) | [Universal Sleep Noise](https://open.spotify.com/album/0K7WGFAOLM8IHYYk6wMaSv) | 2:46 | 2023-05-25 | 2026-01-15 |
 | [Soothing Blanket of Brown Noise](https://open.spotify.com/track/1AX1IB9cLclzB89lLi6NXJ) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [Soothing Blanket of Brown Noise](https://open.spotify.com/album/7pZ14KvOcfuk4Yi1Rsw6xz) | 5:27 | 2025-02-27 |  |
-| [Soothing Brown Noise](https://open.spotify.com/track/2FW8YAb6QaMbyLFDpnoFr5) | [Science Noise](https://open.spotify.com/artist/21rKXFXyX0IWKpYmoOaP8Q) | [Soothing Brown Noise](https://open.spotify.com/album/7oU0nNxdUDwEaa4Ddft0l0) | 3:03 | 2023-05-25 |  |
+| [Soothing Brown Noise](https://open.spotify.com/track/2FW8YAb6QaMbyLFDpnoFr5) | [Science Noise](https://open.spotify.com/artist/21rKXFXyX0IWKpYmoOaP8Q) | [Soothing Brown Noise](https://open.spotify.com/album/7oU0nNxdUDwEaa4Ddft0l0) | 3:03 | 2023-05-25 | 2026-04-03 |
 | [Soothing Brown Noise 304.6 Hz](https://open.spotify.com/track/7FQpbVqEAbbALTGqodrqZL) | [Snore Patrol](https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu) | [137.2 \- 304.6 Hz Soothing Brown Noise](https://open.spotify.com/album/0lSewTsocyGV0ZTEWqeoab) | 3:13 | 2023-05-25 | 2025-11-14 |
 | [Soundproofing Brown Nois](https://open.spotify.com/track/4ShlTNzP1ZSJxItox6QvI6) | [Construidor](https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG) | [Machine Brown Noise](https://open.spotify.com/album/0s6i6UdOJqJV1JDLyzqHDy) | 2:28 | 2023-10-26 |  |
 | [Space Wind](https://open.spotify.com/track/1qnW1Tu3soxc4UqUduAzHV) | [NoiseZ](https://open.spotify.com/artist/0sfBeyU3aHvVFEGrPBU3xq) | [Universal Sleep Noise](https://open.spotify.com/album/0K7WGFAOLM8IHYYk6wMaSv) | 2:56 | 2023-05-25 |  |
@@ -309,7 +311,7 @@
 | [Warming Brown Noise](https://open.spotify.com/track/0RSMXSylZA7BIycjzpym6T) | [Sleepy Parents](https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj) | [Pacifying Brown Noise](https://open.spotify.com/album/34pUUouvWXJa8hANnLaMXU) | 3:32 | 2023-05-25 | 2026-04-01 |
 | [Water Brown Noise](https://open.spotify.com/track/3HJiyNzdB6VPaLJQwi7iml) | [Naturelle](https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI) | [Water Brown Noise](https://open.spotify.com/album/2sirmPYaTcdpsYrvL99oYd) | 2:21 | 2023-05-25 |  |
 | [Waves & Winds For Brown Noise](https://open.spotify.com/track/0q5zEFmOTSw1oW59iNQJyM) | [Sound Carrie](https://open.spotify.com/artist/6VSLsTLt5SnJSaiKVwHSKn) | [Waves & Winds For Brown Noise](https://open.spotify.com/album/7rA2G2jKdixwTaHBzTiEZT) | 2:16 | 2023-05-25 | 2026-03-05 |
-| [Waves of Brown Part 2](https://open.spotify.com/track/39fdMNGeBk7Vn25exDjwfv) | [Caalyx](https://open.spotify.com/artist/3UBNMUnNuVwJrGtXGwuTDi) | [Waves of Brown](https://open.spotify.com/album/4fYvxaji7HUX4CEjVjvJaV) | 3:01 | 2023-05-25 |  |
+| [Waves of Brown Part 2](https://open.spotify.com/track/39fdMNGeBk7Vn25exDjwfv) | [Caalyx](https://open.spotify.com/artist/3UBNMUnNuVwJrGtXGwuTDi) | [Waves of Brown](https://open.spotify.com/album/4fYvxaji7HUX4CEjVjvJaV) | 3:01 | 2023-05-25 | 2026-04-03 |
 | [Way Down Deep 240 Hz](https://open.spotify.com/track/123VXXgsLsUFKoZ49rEhBg) | [Dormant Clouds](https://open.spotify.com/artist/08MfBIg9r4Dzm2ISLs1Us7) | [Way Down Deep](https://open.spotify.com/album/1CtBpLMV3kM3KROr0cr9JJ) | 2:57 | 2023-05-25 | 2025-02-28 |
 | [White Noise's Cousin: Brown Noise](https://open.spotify.com/track/7ApGztZvGpVikIV2st1tlu) | [Natures Acoustics](https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1) | [Sleep Aid Brown Noise](https://open.spotify.com/album/4hzsIdXqE5kzNUj4edWk2t) | 2:16 | 2023-10-26 |  |
 | [Window Seat \(Brown Noise\)](https://open.spotify.com/track/4OttM0PrbvudvhVjNr9V5r) | [Tintrel](https://open.spotify.com/artist/3wKSIO8EWa6ego4VTtvRKt) | [Window Seat \(Brown Noise\)](https://open.spotify.com/album/04uii1MevMetZxf3P5Le6N) | 3:04 | 2025-11-13 |  |

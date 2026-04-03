@@ -1,13 +1,77 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Central Cee)",
-  "num_followers": 457192,
+  "num_followers": 457194,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK1wVwQZlCoyVefsxxg7tFmIVbmP",
+  "snapshot_id": "AAAAAPo/4mSe8kuHqnoaFMM+JLwkrNyH",
   "tracks": [
+    {
+      "added_at": "2026-04-02 16:00:23",
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 169330,
+      "name": "FATHER (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
+    },
+    {
+      "added_at": "2026-04-02 16:00:23",
+      "album": {
+        "name": "TEACH YOU HOW TO LUH ME",
+        "url": "https://open.spotify.com/album/7DQF3OuLxkjvqDvzS1tBM5"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "TEACH YOU HOW TO LUH ME",
+      "url": "https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp"
+    },
+    {
+      "added_at": "2026-04-02 16:00:23",
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
+    },
     {
       "added_at": "2026-04-01 11:18:26",
       "album": {
@@ -23,6 +87,46 @@
       "duration_ms": 127000,
       "name": "WAGWAN",
       "url": "https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip"
+    },
+    {
+      "added_at": "2026-04-02 16:00:23",
+      "album": {
+        "name": "Home on the Range // Back Home",
+        "url": "https://open.spotify.com/album/5FMSAdmLudQYXyLWLfoya7"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "duration_ms": 97874,
+      "name": "Home on the Range",
+      "url": "https://open.spotify.com/track/4QiWYpCnD5TipN2AycUy2i"
+    },
+    {
+      "added_at": "2026-04-02 16:00:23",
+      "album": {
+        "name": "Season 2 (Deluxe LP)",
+        "url": "https://open.spotify.com/album/00LVEGAf8cMPwVp4O1Lelz"
+      },
+      "artists": [
+        {
+          "name": "Saukrates",
+          "url": "https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/4x9QVilLjClfIumi8lVkfB"
+        }
+      ],
+      "duration_ms": 156783,
+      "name": "Gilla House Music",
+      "url": "https://open.spotify.com/track/78xbjoN5FulwEKl6p9SEv7"
     },
     {
       "added_at": "2026-04-01 11:18:26",
@@ -1895,26 +1999,6 @@
     {
       "added_at": "2026-04-01 11:18:26",
       "album": {
-        "name": "Part 3",
-        "url": "https://open.spotify.com/album/2wboAwulksF118O1TkNeBc"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        }
-      ],
-      "duration_ms": 169696,
-      "name": "Thick One (with Skilla Baby)",
-      "url": "https://open.spotify.com/track/5t2aXsdHmumN4Sb4z1oR6T"
-    },
-    {
-      "added_at": "2026-04-01 11:18:26",
-      "album": {
         "name": "Candy Paint (feat. Shoreline Mafia)",
         "url": "https://open.spotify.com/album/0MHVIfKRwYuByVdv04B3si"
       },
@@ -1955,98 +2039,6 @@
       "duration_ms": 222298,
       "name": "VIBES",
       "url": "https://open.spotify.com/track/0XKjxLy23wMZ3zNNluXw0A"
-    },
-    {
-      "added_at": "2026-04-01 11:18:26",
-      "album": {
-        "name": "Wataru",
-        "url": "https://open.spotify.com/album/6gfdpeoCwQlU5zrGaJ9mMx"
-      },
-      "artists": [
-        {
-          "name": "\u00a5ellow Bucks",
-          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 136801,
-      "name": "456",
-      "url": "https://open.spotify.com/track/5z4NC6tMp8jFo3esiB8cf3"
-    },
-    {
-      "added_at": "2026-04-01 11:18:26",
-      "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 224279,
-      "name": "AIR FORCE (BLACK DEMARCO)",
-      "url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
-    },
-    {
-      "added_at": "2026-04-01 11:18:26",
-      "album": {
-        "name": "HELICOPTER",
-        "url": "https://open.spotify.com/album/3RqGpx3OPRVlRdVEMCh0Wf"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 165288,
-      "name": "HELICOPTER",
-      "url": "https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn"
-    },
-    {
-      "added_at": "2026-04-01 11:18:26",
-      "album": {
-        "name": "Sexy",
-        "url": "https://open.spotify.com/album/0UCYF6mGPlzobkXXp1OZyW"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 204329,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/4jg24p9fO117Vr2RdgdMzf"
-    },
-    {
-      "added_at": "2026-04-01 11:18:26",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "4 Raws",
-      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
     }
   ],
   "unique_name": "Beats & Rhymes",

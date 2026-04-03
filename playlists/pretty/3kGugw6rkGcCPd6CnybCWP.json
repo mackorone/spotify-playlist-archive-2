@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1169,
+  "num_followers": 1171,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAN/c7pzuZPoenHOaeSixB5b1bt9JHz",
+  "snapshot_id": "AAAOA3YXBsh4RvdtD04HaPsBpc3DboJc",
   "tracks": [
     {
       "added_at": "2026-03-31 12:00:09",
@@ -1547,6 +1547,102 @@
       "duration_ms": 242144,
       "name": "Under My Own Skin",
       "url": "https://open.spotify.com/track/3pb2oy4kC9za9LL81Bhxfi"
+    },
+    {
+      "added_at": "2026-04-02 08:20:13",
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/0eMFhVV9J64pfUouzj7wAs"
+      },
+      "artists": [
+        {
+          "name": "ANNAPURNA",
+          "url": "https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ"
+        }
+      ],
+      "duration_ms": 160810,
+      "name": "Liminal",
+      "url": "https://open.spotify.com/track/1vHbFf4vScIbvOqdlUTmIU"
+    },
+    {
+      "added_at": "2026-04-02 08:20:38",
+      "album": {
+        "name": "Ich werd nicht weniger",
+        "url": "https://open.spotify.com/album/6ofFw6HJRpOVMzmUl3Svjd"
+      },
+      "artists": [
+        {
+          "name": "Brave Bones",
+          "url": "https://open.spotify.com/artist/2GnTqVSfxKobyNlwTMKsMg"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Ich werd nicht weniger",
+      "url": "https://open.spotify.com/track/0fcuM80u8rmO19kZzWMbyU"
+    },
+    {
+      "added_at": "2026-04-02 08:20:48",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/6Nq8LT0hzTEbeMBOKKLA34"
+      },
+      "artists": [
+        {
+          "name": "Glorification",
+          "url": "https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I"
+        }
+      ],
+      "duration_ms": 164038,
+      "name": "Can I See U Again?",
+      "url": "https://open.spotify.com/track/0ZfTda2rDafMvWBLghgoEW"
+    },
+    {
+      "added_at": "2026-04-02 08:21:46",
+      "album": {
+        "name": "Your Flow",
+        "url": "https://open.spotify.com/album/5IMkL1GoZJlrtEqnNGR5Wn"
+      },
+      "artists": [
+        {
+          "name": "ORA BLU",
+          "url": "https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh"
+        }
+      ],
+      "duration_ms": 180614,
+      "name": "Your Flow",
+      "url": "https://open.spotify.com/track/7w3PDDIQ9mO58DnRpbwRFJ"
+    },
+    {
+      "added_at": "2026-04-02 11:59:12",
+      "album": {
+        "name": "cases",
+        "url": "https://open.spotify.com/album/4XyxycEfY5tF8VissqvHd9"
+      },
+      "artists": [
+        {
+          "name": "low-key",
+          "url": "https://open.spotify.com/artist/3o3u93T1lwwuCWE4ib3yKF"
+        }
+      ],
+      "duration_ms": 333557,
+      "name": "dealihea",
+      "url": "https://open.spotify.com/track/4OIkCRqHqvEjR6CrWifwOZ"
+    },
+    {
+      "added_at": "2026-04-02 11:59:36",
+      "album": {
+        "name": "the electrojazz of rafael vaza or the unexpectable heartbreak clich\u00ea",
+        "url": "https://open.spotify.com/album/2QHhijjY9eGI0rEd7K2U6r"
+      },
+      "artists": [
+        {
+          "name": "Rafael Vaza",
+          "url": "https://open.spotify.com/artist/10fjJKlE2xKlUlmjSiVyFj"
+        }
+      ],
+      "duration_ms": 101250,
+      "name": "I.if only i could get next to you",
+      "url": "https://open.spotify.com/track/3pJmDvcs4mQycH2R5RGhnZ"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

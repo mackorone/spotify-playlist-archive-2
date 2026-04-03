@@ -4,7 +4,7 @@
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: María Becerra, Jere Klein y Lucky Brown
 
-12,966 songs - 28 day 14 hr 9 min
+12,967 songs - 28 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1757,6 +1757,7 @@
 | [Cada Vez Te Extraño Menos](https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cada Vez Te Extraño Menos](https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is) | 2:42 | 2023-02-17 | 2023-02-25 |
 | [Cadenita](https://open.spotify.com/track/2EXcYu19tIO30QVD5qNDcD) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Cadenita](https://open.spotify.com/album/5UVNQxz8qpJDbnuPRWrlds) | 1:53 | 2024-12-06 | 2024-12-14 |
 | [Cadillac](https://open.spotify.com/track/70bOqTO6mtFAA18poj18qX) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Zarri](https://open.spotify.com/artist/0dslxxp5Bwc5LsMkq2tNaS), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj) | [Rich Vagos Mixtape, Vol\. 2](https://open.spotify.com/album/2kGTwHezbLOPc7wK5YLVL7) | 3:30 | 2022-11-18 | 2022-11-26 |
+| [Caducaste](https://open.spotify.com/track/3k0au8hNwghIrLsfpP2W4z) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Caducaste](https://open.spotify.com/album/5um6GIoA0TejDR97zILaDG) | 3:34 | 2026-03-27 |  |
 | [CAE CAE](https://open.spotify.com/track/1KhKKVn2MCLxZ0q8HovXwv) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [CAE CAE](https://open.spotify.com/album/6mPQbY35GRyQ9m2cB1Ylq2) | 2:50 | 2023-09-15 | 2023-09-23 |
 | [Cae La Lluvia](https://open.spotify.com/track/2zfG2C9oJYMkM088tOtdgY) | [Luis Díazz](https://open.spotify.com/artist/1YrcerJAHip85arXssuLvm), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [Cae La Lluvia](https://open.spotify.com/album/4lEd8H0uq6YaJDgIiG8Uu3) | 2:59 | 2026-02-20 | 2026-02-28 |
 | [Cae la noche](https://open.spotify.com/track/5kdYtGwf6OWLsffzhe6j51) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Cae la noche](https://open.spotify.com/album/3M9lsX9ArdXqvN5jzRoMf4) | 2:38 | 2021-12-31 | 2022-01-15 |

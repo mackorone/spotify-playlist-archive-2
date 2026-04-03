@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-206 songs - 15 hr 48 min
+207 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Tungo Sa'yo](https://open.spotify.com/track/4sHcUvNf3lwDaibrFdqum9) | [Bituin Escalante](https://open.spotify.com/artist/0lyIvVIJZWM6K64it2HqWk), [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX) | [Tungo Sa'yo](https://open.spotify.com/album/3YLfQuufMs7a0OrHAisBBn) | 4:59 | 2024-03-19 | 2024-04-19 |
 | [TWCN \- Dymph Track](https://open.spotify.com/track/1nmQkvDfWa5XHycvqz10tJ) | [Liveloud Worship](https://open.spotify.com/artist/4XC8aM9budSQnDfhUktPTY) | [TWCN \(Dymph Track\)](https://open.spotify.com/album/6Wx4Rc1D8R9wb5MEIGfgvk) | 4:54 | 2022-04-15 |  |
 | [U.R.](https://open.spotify.com/track/59RXrifYHhI0ikAa3srRjV) | [Rutella](https://open.spotify.com/artist/1LKE1tOJHPl3jNjmLhTTMy), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20) | [U.R.](https://open.spotify.com/album/5B1w6BGv6j1wLtfXWhgaeh) | 3:37 | 2023-05-05 |  |
+| [Unfinished](https://open.spotify.com/track/2HiNIsMvT7i9VtIu8VwX84) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Unfinished](https://open.spotify.com/album/1X6c3sCeAR7vhNicx4EebO) | 5:18 | 2026-04-01 |  |
 | [Vessels](https://open.spotify.com/track/6OHrgXhZmxx2WuFVrreeja) | [Peace Valley Music](https://open.spotify.com/artist/4fpDXqBFAtvTyD2SDPKcc8), [Ferdinand Aragon](https://open.spotify.com/artist/199ECS30J1oOc3Ftz93dsk) | [Vessels](https://open.spotify.com/album/1MsuIPEgUR2Kmaxf6xM5BM) | 6:42 | 2025-11-05 |  |
 | [Victory to Our King](https://open.spotify.com/track/0jvPCNYpagyTjKc7PgEZgg) | [Ablaze Music](https://open.spotify.com/artist/3N1hmweYcwNTQX8Np4GVe6) | [Worship Companion, Vol\. 4](https://open.spotify.com/album/7nd1eTaYnygjSPJew00GNO) | 3:39 | 2022-04-15 |  |
 | [W.O.W.](https://open.spotify.com/track/6UcTrsKvlJCHdaA0B2XFfG) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [W.O.W.](https://open.spotify.com/album/3HgTMDRbO21zvPIiUc6SXL) | 4:02 | 2024-03-19 | 2024-10-25 |

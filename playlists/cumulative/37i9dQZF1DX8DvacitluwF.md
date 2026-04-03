@@ -2,7 +2,7 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Joya Mooi
+> The best in South African and international R&B\. Cover: Shekhinah
 
 632 songs - 1 day 10 hr 4 min
 
@@ -401,7 +401,7 @@
 | [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 | 2023-10-12 | 2024-04-19 |
 | [On my way!](https://open.spotify.com/track/5gafkd7SV0YJZ3xriEJEqv) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [PINK PM](https://open.spotify.com/album/7Mwbp0ArZhIjOpRdzrGyb8) | 2:34 | 2023-10-12 | 2024-02-09 |
 | [On Our Own](https://open.spotify.com/track/5RgluVKZPb26mnlqM49LQl) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [From Me to You & Only You](https://open.spotify.com/album/50kl134khPMtu1FVrniPmi) | 1:24 | 2025-02-13 | 2025-03-01 |
-| [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 | 2025-04-24 |  |
+| [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 | 2025-04-24 | 2026-04-03 |
 | [One Of These](https://open.spotify.com/track/3SX7xiRjM8X2t5SmIU3aPQ) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 3:44 | 2024-11-29 | 2025-04-25 |
 | [One Way Ticket](https://open.spotify.com/track/2ILizzTkcXjA6NTioLdeuA) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:16 | 2025-05-01 | 2025-06-28 |
 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV) | 3:15 | 2024-09-11 | 2024-11-29 |
@@ -457,7 +457,7 @@
 | [Revelation](https://open.spotify.com/track/1BPafeKeNEIFrsLf6cm8rX) | [On Our Own Clock](https://open.spotify.com/artist/1OQvPdcUC8eNPYRUpq3PZM), [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ), [Danalogue](https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu), [Tarang Cissoko](https://open.spotify.com/artist/4a0AUS5fqYNFI4cMK50lfW), [Tebogo Austebza Sedumedi](https://open.spotify.com/artist/1Zvagd4zRf9DR19Afl3PF7), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Siya Makuzeni](https://open.spotify.com/artist/7JcSeSjhuxBOkhVULQhAjw), [Zoe Molelekwa](https://open.spotify.com/artist/3DJcHMfN5hF9f2RpHkXcHJ) | [On Our Own Clock](https://open.spotify.com/album/5HEoN384lweVQjmEsummJM) | 4:32 | 2025-06-13 | 2025-06-20 |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2024-02-08 | 2024-06-14 |
 | [Right In My Arms](https://open.spotify.com/track/73EQ7rfD4uN4MhTLeVwWae) | [The Woodź](https://open.spotify.com/artist/1b4yg5JOwp7Dr4Ko0Jwol1) | [Right In My Arms](https://open.spotify.com/album/1ybAA9ffzon9NTEDk14UDd) | 3:47 | 2024-02-14 | 2024-02-23 |
-| [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 | 2024-03-21 | 2025-11-21 |
+| [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 | 2024-03-21 |  |
 | [Roboto](https://open.spotify.com/track/6kGuzD6SGSCjMzpgNHX6Eu) | [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Ntatao](https://open.spotify.com/artist/65AL7DNBWa4m5Y94PPATUE) | [Roboto](https://open.spotify.com/album/2fHwBnIZJdNHrAEYrZBZ3W) | 4:05 | 2024-01-12 | 2024-03-29 |
 | [roll da dice](https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [roll da dice](https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh) | 3:10 | 2024-09-26 | 2025-04-11 |
 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-08 | 2024-06-28 |

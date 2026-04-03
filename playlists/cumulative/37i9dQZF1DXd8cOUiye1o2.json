@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Fresh from the recording to your ears. Latest Hindi music, right here. Cover - Dhurandhar The Revenge",
+  "description": "Fresh from the recording to your ears. Latest Hindi music, right here. Cover - Dhurandhar: The Revenge",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 370666,
       "name": "Barf",
       "url": "https://open.spotify.com/track/2sJl8wjjlM7aNyaJNdUAwJ"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 254592,
       "name": "Dekho - Kaavish",
       "url": "https://open.spotify.com/track/2olOCrMhAS5js94KEt2Mlu"
@@ -6210,6 +6210,32 @@
       "duration_ms": 209048,
       "name": "Jaana Nahi",
       "url": "https://open.spotify.com/track/4b0yYmtJxaS9sO75LTS8rB"
+    },
+    {
+      "album": {
+        "name": "Jaane De",
+        "url": "https://open.spotify.com/album/4dXTmZORktHeXw7V3euM1e"
+      },
+      "artists": [
+        {
+          "name": "Neyhal",
+          "url": "https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31"
+        },
+        {
+          "name": "BONGOLAND",
+          "url": "https://open.spotify.com/artist/5kHskg9FZjoYDGv45MMd5J"
+        },
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197680,
+      "name": "Jaane De",
+      "url": "https://open.spotify.com/track/0QUo8XYVHtlRc2ampJMGFj"
     },
     {
       "album": {
@@ -10046,6 +10072,24 @@
       "duration_ms": 174411,
       "name": "O Mahiya",
       "url": "https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz"
+    },
+    {
+      "album": {
+        "name": "O Meena",
+        "url": "https://open.spotify.com/album/0U3SwZ3I7KolJ0NECOEtww"
+      },
+      "artists": [
+        {
+          "name": "Inayat",
+          "url": "https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "O Meena",
+      "url": "https://open.spotify.com/track/2vxFkZeJU9RLkDzP0Gmr5i"
     },
     {
       "album": {

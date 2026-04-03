@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Louane\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Vitaa\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -6425,6 +6425,28 @@
     },
     {
       "album": {
+        "name": "VERSATILE",
+        "url": "https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ"
+      },
+      "artists": [
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162653,
+      "name": "Probl\u00e8me (feat. La Fouine)",
+      "url": "https://open.spotify.com/track/4xwa2sVbOq5WEeW998mzk9"
+    },
+    {
+      "album": {
         "name": "probl\u00e8me probl\u00e8me",
         "url": "https://open.spotify.com/album/3dqSveAkJ0DezC4IkzS3qE"
       },
@@ -6526,7 +6548,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 193666,
       "name": "Quand m\u00eame",
       "url": "https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc"
@@ -7208,7 +7230,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 226520,
       "name": "Si t'\u00e9tais l\u00e0",
       "url": "https://open.spotify.com/track/1naTcpdwdFbEd8wBLRewBm"
@@ -7418,6 +7440,24 @@
       "duration_ms": 165640,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/0ga5vX42pHZ7KSwaZhriSB"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/71UYVPUJxCfkisIL9FLrS3"
+      },
+      "artists": [
+        {
+          "name": "47ter",
+          "url": "https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/29ngwhaBqObFJoPjDhplN2"
     },
     {
       "album": {

@@ -5013,6 +5013,24 @@
     },
     {
       "album": {
+        "name": "Holy Lion",
+        "url": "https://open.spotify.com/album/0iPF450yj9uArQB1dzYGwP"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516937,
+      "name": "Holy Lion - Live",
+      "url": "https://open.spotify.com/track/1a5o3ggaPXvJQ4jpJse1G7"
+    },
+    {
+      "album": {
         "name": "HOLY PLACE",
         "url": "https://open.spotify.com/album/2opgoS8ibTjPJCU55jgkt4"
       },
@@ -8511,6 +8529,24 @@
     },
     {
       "album": {
+        "name": "Off Days",
+        "url": "https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Off Days",
+      "url": "https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz"
+    },
+    {
+      "album": {
         "name": "Off My Feet",
         "url": "https://open.spotify.com/album/1lP1Isnzfqi717ZoqG2T0O"
       },
@@ -10724,6 +10760,28 @@
       "duration_ms": 212571,
       "name": "Solace in You",
       "url": "https://open.spotify.com/track/7ssyPSO2hy5CJxpa5RHDv7"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/3vNGrHDnRrxEu3g1ccJFIj"
+      },
+      "artists": [
+        {
+          "name": "Phrv",
+          "url": "https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq"
+        },
+        {
+          "name": "MonLee Mane",
+          "url": "https://open.spotify.com/artist/10uFSeSqZvh5HQmINSSGcE"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200010,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/3PZSTBNopf5iiP2wYTKTD4"
     },
     {
       "album": {

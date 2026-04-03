@@ -4,7 +4,7 @@
 
 > House Music 2026 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2026 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
 
-470 songs - 23 hr 20 min
+471 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Everything You Have Done](https://open.spotify.com/track/44lgAk4wJN8ObrFSglxui5) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [MEDUZA](https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc) | 2:36 | 2025-11-21 | 2026-03-07 |
 | [Exhale](https://open.spotify.com/track/2L5RY6eVB5PYmNsrnchGW1) | [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv), [Alimish](https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR) | [Exhale](https://open.spotify.com/album/1JREEnrYGc7Df2GZt2am3v) | 2:30 | 2023-11-03 | 2024-04-10 |
 | [EYES ON ME](https://open.spotify.com/track/6H2esvireFczczagJ4ZoLF) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [EYES ON ME](https://open.spotify.com/album/3iL4CabgPMSFybsApWQ7dx) | 3:43 | 2024-11-22 | 2025-10-04 |
+| [Favour](https://open.spotify.com/track/7oNqFOek4W2px8jzrK4BxF) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Favour](https://open.spotify.com/album/7EuOzXLRWg4G575PupWcPs) | 3:14 | 2026-04-02 |  |
 | [Feel This Way](https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Feel This Way](https://open.spotify.com/album/0BVGCcx3DWdTu1ComULh5k) | 3:04 | 2026-02-06 |  |
 | [Feel Your Lovin'](https://open.spotify.com/track/0lwYzmHvA5RVKWYsNnKQ48) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [KAIN](https://open.spotify.com/artist/3hUzmwo4uCNNY5XS1h3GP0) | [Feel Your Lovin'](https://open.spotify.com/album/6itlnneZqTTW0LWjl9AUlf) | 2:50 | 2023-11-03 | 2024-03-09 |
 | [feelings don't lie](https://open.spotify.com/track/3lqamRh4EILIDACnAbl35t) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [feelings don't lie](https://open.spotify.com/album/7Dl3d5p3H4vp1DKkXifeRm) | 2:30 | 2024-05-31 | 2024-06-11 |
@@ -350,7 +351,7 @@
 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 | 2024-06-10 | 2024-06-15 |
 | [She Talks Like That](https://open.spotify.com/track/2aoqeBK5HuexOsN3XkAsoE) | [Just Aaron](https://open.spotify.com/artist/3P0enmC2QzJvz1alkJydUk) | [She Talks Like That](https://open.spotify.com/album/3b0aqGKMQqM1k9eNQWkeHd) | 3:07 | 2024-05-31 | 2024-06-15 |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2025-11-07 | 2025-11-22 |
-| [Side To Side](https://open.spotify.com/track/7iV2AhBH3BIS1AM9CzRWcj) | [nate band](https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W) | [Side To Side](https://open.spotify.com/album/3BB35BRE9ky9uVlr6EK7EA) | 2:39 | 2026-03-27 |  |
+| [Side To Side](https://open.spotify.com/track/7iV2AhBH3BIS1AM9CzRWcj) | [nate band](https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W) | [Side To Side](https://open.spotify.com/album/3BB35BRE9ky9uVlr6EK7EA) | 2:39 | 2026-03-27 | 2026-04-03 |
 | [Silence](https://open.spotify.com/track/3JvijFDDd3fUj4DZxcGw0l) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Sylvie](https://open.spotify.com/artist/65ZxzibB1frczfKSahNg5R) | [Silence](https://open.spotify.com/album/0ZWIMOsnBMBlTihsaKpfn4) | 3:42 | 2024-02-16 | 2024-06-18 |
 | [Sinceramente](https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Sinceramente](https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse) | 3:35 | 2024-02-14 | 2024-06-01 |
 | [Sinner](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sinner](https://open.spotify.com/album/23x07E0mPIzgXa1i4i6EnW) | 3:11 | 2023-11-03 | 2024-12-07 |

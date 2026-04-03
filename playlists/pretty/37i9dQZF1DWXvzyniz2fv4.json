@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158854,
+  "num_followers": 158860,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,26 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
+        "name": "Tom Cinza",
+        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Tom Cinza",
+      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
+    },
+    {
+      "added_at": "2026-03-27 19:25:35",
+      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -547,22 +567,18 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
-        "name": "Tom Cinza",
-        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
+        "name": "Solidificando a Caminhada",
+        "url": "https://open.spotify.com/album/46PONjnLVfZkw3Oyg9qTgb"
       },
       "artists": [
         {
-          "name": "Cr\u00f4nicas de um Babaca",
-          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+          "name": "MC Rodolfinho",
+          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Tom Cinza",
-      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
+      "duration_ms": 129962,
+      "name": "Solidificando a Caminhada",
+      "url": "https://open.spotify.com/track/0WHHtSyBfAcWB4OnM1tIiE"
     },
     {
       "added_at": "2026-03-27 19:25:35",
@@ -587,22 +603,6 @@
       "duration_ms": 166440,
       "name": "Ravi",
       "url": "https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix"
-    },
-    {
-      "added_at": "2026-03-27 19:25:35",
-      "album": {
-        "name": "Solidificando a Caminhada",
-        "url": "https://open.spotify.com/album/46PONjnLVfZkw3Oyg9qTgb"
-      },
-      "artists": [
-        {
-          "name": "MC Rodolfinho",
-          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
-        }
-      ],
-      "duration_ms": 129962,
-      "name": "Solidificando a Caminhada",
-      "url": "https://open.spotify.com/track/0WHHtSyBfAcWB4OnM1tIiE"
     },
     {
       "added_at": "2026-03-27 19:25:35",
@@ -703,30 +703,6 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
-        "name": "Beira do Mar",
-        "url": "https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda"
-      },
-      "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "MC Julio D.E.R.",
-          "url": "https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV"
-        }
-      ],
-      "duration_ms": 187988,
-      "name": "Beira do Mar",
-      "url": "https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n"
-    },
-    {
-      "added_at": "2026-03-27 19:25:35",
-      "album": {
         "name": "Amor N\u00e3o Sai de Moda",
         "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 143721,
       "name": "S\u00e1bado",
       "url": "https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo"
+    },
+    {
+      "added_at": "2026-03-27 19:25:35",
+      "album": {
+        "name": "Beira do Mar",
+        "url": "https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "MC Julio D.E.R.",
+          "url": "https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV"
+        }
+      ],
+      "duration_ms": 187988,
+      "name": "Beira do Mar",
+      "url": "https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n"
     },
     {
       "added_at": "2026-03-27 19:25:35",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
-        "name": "Tira, Coloca De Volta",
-        "url": "https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        },
-        {
-          "name": "LKAHH",
-          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
-        }
-      ],
-      "duration_ms": 144117,
-      "name": "Tira, Coloca De Volta",
-      "url": "https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV"
-    },
-    {
-      "added_at": "2026-03-27 19:25:35",
-      "album": {
         "name": "Talism\u00e3",
         "url": "https://open.spotify.com/album/6w8KrZmc4Lvo8CHOxcWsMX"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 155744,
       "name": "Talism\u00e3",
       "url": "https://open.spotify.com/track/26DVRByfW09GuvoX7CO4Bu"
+    },
+    {
+      "added_at": "2026-03-27 19:25:35",
+      "album": {
+        "name": "Tira, Coloca De Volta",
+        "url": "https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "LKAHH",
+          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
+        }
+      ],
+      "duration_ms": 144117,
+      "name": "Tira, Coloca De Volta",
+      "url": "https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV"
     },
     {
       "added_at": "2026-03-27 19:25:35",
@@ -923,6 +923,30 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
+        "name": "Original MTK #2 - Se Voc\u00ea Vier",
+        "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
+      },
+      "artists": [
+        {
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+        },
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 264547,
+      "name": "Original MTK #2 - Se Voc\u00ea Vier",
+      "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
+    },
+    {
+      "added_at": "2026-03-27 19:25:35",
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -947,30 +971,6 @@
       "duration_ms": 250434,
       "name": "Madrugada \u00e9 Solid\u00e3o",
       "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
-    },
-    {
-      "added_at": "2026-03-27 19:25:35",
-      "album": {
-        "name": "Original MTK #2 - Se Voc\u00ea Vier",
-        "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
-      },
-      "artists": [
-        {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
-        },
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 264547,
-      "name": "Original MTK #2 - Se Voc\u00ea Vier",
-      "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
     },
     {
       "added_at": "2026-03-27 19:25:35",
@@ -1191,30 +1191,6 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
-      },
-      "artists": [
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
-    },
-    {
-      "added_at": "2026-03-27 19:25:35",
-      "album": {
         "name": "ALAKASAM",
         "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
       },
@@ -1235,6 +1211,30 @@
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
+    },
+    {
+      "added_at": "2026-03-27 19:25:35",
+      "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
+      },
+      "artists": [
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
     },
     {
       "added_at": "2026-03-27 19:25:35",

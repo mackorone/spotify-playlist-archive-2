@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Dottie Andersson",
+  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Jungle",
   "name": "Indie Highlights",
   "tracks": [
     {
@@ -3405,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Chicago & Denver",
+        "url": "https://open.spotify.com/album/6VNso8AIChuLA1eW0gSJku"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228807,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/2N5NhAQy5OeEtTWHvpykdX"
+    },
+    {
+      "album": {
         "name": "Chick Flick",
         "url": "https://open.spotify.com/album/1J1uuS8eM5xDUDn1Q7TQAi"
       },
@@ -3987,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/2Rfn9Sw0x80wIrJKQuBBYs"
+      },
+      "artists": [
+        {
+          "name": "Bav\u00e9",
+          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163153,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/6mRPNbIa1EgP5qdFZyD1kj"
+    },
+    {
+      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/5DonSRhBF8oTz4RFJXkNQP"
       },
@@ -4190,6 +4226,28 @@
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v"
+      },
+      "artists": [
+        {
+          "name": "Niah Steiner",
+          "url": "https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7"
+        },
+        {
+          "name": "RAES",
+          "url": "https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178950,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT"
     },
     {
       "album": {
@@ -18229,6 +18287,24 @@
     },
     {
       "album": {
+        "name": "Sungazer",
+        "url": "https://open.spotify.com/album/4Bl9c6aAUaDPLRYrf3fiDI"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274476,
+      "name": "Sungazer",
+      "url": "https://open.spotify.com/track/504TpZVrxvCzC9Cy15jMti"
+    },
+    {
+      "album": {
         "name": "Sunny Baby",
         "url": "https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa"
       },
@@ -19352,6 +19428,24 @@
       "duration_ms": 209920,
       "name": "The Unshaken Frame",
       "url": "https://open.spotify.com/track/6w6Tv5D6Od9Khtzarcl0wy"
+    },
+    {
+      "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "album": {

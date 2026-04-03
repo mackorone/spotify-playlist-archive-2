@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Wilkinson",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Dimension, bbyclose",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 227000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/6GiVRfnfvWEAIR2SD8qRKY"
@@ -8421,6 +8421,28 @@
     },
     {
       "album": {
+        "name": "Full Power",
+        "url": "https://open.spotify.com/album/2B8BsCBkGXwypoKCHP4kzq"
+      },
+      "artists": [
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Emz",
+          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Full Power",
+      "url": "https://open.spotify.com/track/5FNNKh2Aw0RCWwrMPF8DBn"
+    },
+    {
+      "album": {
         "name": "fumble (feat. piri)",
         "url": "https://open.spotify.com/album/5hscifRFV9IXLm2mZ27fSH"
       },
@@ -9013,6 +9035,32 @@
     },
     {
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/2EuzUEdeJgOfGsyM89w8Gh"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/0vA8uwu9xTryDZOZnUr9w2"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/0OBQlXkLbrWXZCf5ni96RM"
       },
@@ -9388,7 +9436,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 135852,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4uW9dtQpVIicdTOo5SaX4x"
@@ -9458,7 +9506,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 233083,
       "name": "Grindhouse",
       "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
@@ -13627,6 +13675,36 @@
     },
     {
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/42yOcRn0KqR5diVLNlUy2V"
+      },
+      "artists": [
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        },
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        },
+        {
+          "name": "Azotix",
+          "url": "https://open.spotify.com/artist/5ZdqCYEicA2uEyan7znlKI"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289471,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/5vR6mlFh3pS3dFqkfW5H1N"
+    },
+    {
+      "album": {
         "name": "Lowkey (LDN Drift) [feat. Takura]",
         "url": "https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp"
       },
@@ -16146,6 +16224,28 @@
       "duration_ms": 197832,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
+    },
+    {
+      "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/1m7XvswwabGbeR72Lsbyeh"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
     },
     {
       "album": {
@@ -19322,7 +19422,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 196250,
       "name": "Say Less (ft. IRAH & Mr Williamz)",
       "url": "https://open.spotify.com/track/6lBEl5Y8I0UyQG5TdM3ScV"
@@ -21490,7 +21590,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 226206,
       "name": "Substance",
       "url": "https://open.spotify.com/track/35xMkZ8QgiXQQgSujSzvTP"
@@ -22444,6 +22544,28 @@
       "duration_ms": 156890,
       "name": "The Corner (feat. Joe Devlin)",
       "url": "https://open.spotify.com/track/4IXaBsfsyE1OIcM2zF8ns0"
+    },
+    {
+      "album": {
+        "name": "The End of the Earth",
+        "url": "https://open.spotify.com/album/5B2CR4iU11579BdWtup0BV"
+      },
+      "artists": [
+        {
+          "name": "Jolliffe",
+          "url": "https://open.spotify.com/artist/0LnYKY8xLUWxNkxwmrJS4H"
+        },
+        {
+          "name": "L:T",
+          "url": "https://open.spotify.com/artist/5iP56t9sFyHoBvptLkOynJ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "The End of the Earth",
+      "url": "https://open.spotify.com/track/3hPBoCMuBWezdEXW0k3RPe"
     },
     {
       "album": {

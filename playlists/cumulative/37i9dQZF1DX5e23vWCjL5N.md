@@ -2,9 +2,9 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Punchline, storytelling, rap italiano\. Marte in cover.
+> Punchline, storytelling, rap italiano\. Promessa in cover.
 
-393 songs - 19 hr 56 min
+396 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Baci À La Giapponese](https://open.spotify.com/track/2ByN1RkHhO3c9w0bD7qNW5) | [Lanz Khan](https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [Jack Di Quadri](https://open.spotify.com/album/7jRRQXVP5skHkGz9Z5hGkQ) | 2:59 | 2025-06-19 | 2025-08-01 |
 | [Bagagli \(Improvvisazione\)](https://open.spotify.com/track/0VbPsWeQgpyDw5sQNGkUVL) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 3:15 | 2023-06-01 | 2023-09-15 |
 | [Baggy](https://open.spotify.com/track/0xeJ32ajq1qEqHPqfv5InP) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [60 Hz II](https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM) | 2:50 | 2025-06-26 |  |
+| [Basta!](https://open.spotify.com/track/4RZVU3ZTz7nOI4WRfB3He6) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [TAREK DA COLORARE](https://open.spotify.com/album/702yHXFNhrle5tk9VXdjl8) | 3:42 | 2026-04-02 |  |
 | [BEATCOIN](https://open.spotify.com/track/7fdHC4jR6EXhu2wcA3ljk8) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 2:32 | 2025-05-08 | 2026-02-06 |
 | [Beh ok \(feat\. Madman\)](https://open.spotify.com/track/06ZQuqmlzQuUIfwQ6Imh47) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [PENKILLER](https://open.spotify.com/album/0OWt4MfX6LNXO7Z5ie5vRm) | 2:46 | 2025-05-22 | 2025-06-27 |
 | [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Ill Santo](https://open.spotify.com/artist/1LBbwEH0VFHyIQY0o7Y8dV), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 | 2025-12-17 |  |
@@ -248,6 +249,7 @@
 | [Mio padre \(feat\. Noyz Narcos & Guè\)](https://open.spotify.com/track/6im0jVUTuW50jBwTHnMiur) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 2:26 | 2024-10-10 | 2025-04-11 |
 | [Momenti No](https://open.spotify.com/track/4IxM8LopMS2014C2LTJEYu) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:12 | 2023-11-17 | 2025-04-19 |
 | [MOMENTO E MOMENTO](https://open.spotify.com/track/5z8hzYn8ybDFL2XzGwGliG) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [MOMENTO E MOMENTO](https://open.spotify.com/album/1HsXlYjQl35Jx1nqFlzu8o) | 2:27 | 2024-05-02 | 2025-01-10 |
+| [Mon Amour](https://open.spotify.com/track/60ZTMQ4JgsyMlD4ZXsHMt9) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos) | [Mon Amour](https://open.spotify.com/album/6UBSCKET51OOy2vEbEBGjm) | 2:25 | 2026-04-02 |  |
 | [Mondo Di Fango](https://open.spotify.com/track/3rR90ytwXhFCGXjbDzN7HI) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC9 \- QUELLO CHE VI CONSIGLIO VOL\. 9](https://open.spotify.com/album/5lfSlorm20o9qN9YoDmwFe) | 1:57 | 2022-04-15 | 2024-06-28 |
 | [Moneylove \(feat\. Emis Killa\)](https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:56 | 2023-11-30 |  |
 | [Morto di fame \(feat\. Lazza\)](https://open.spotify.com/track/4hqi818jHZUJIbJ6OJllGI) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Keta Music, Vol\. 3](https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa) | 2:43 | 2022-04-15 | 2024-11-29 |
@@ -264,6 +266,7 @@
 | [NOI](https://open.spotify.com/track/6g4ZDGB7jj7T1X8sWB5GFQ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 4:32 | 2022-07-15 | 2024-04-19 |
 | [Noia](https://open.spotify.com/track/67eVdMdbm9cp8A1Thsdcr1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 4:44 | 2022-04-15 | 2024-01-12 |
 | [Non Parlarmi \(Outro\)](https://open.spotify.com/track/0MKaWjeFXU07DGJ2LtKhoC) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Non Parlarmi \(Outro\)](https://open.spotify.com/album/0Pgz00h9dyL1dQ1BKKIjlB) | 3:31 | 2023-11-30 | 2025-05-20 |
+| [Nostalgia](https://open.spotify.com/track/3tQ4vI8ejqXEhwR4hZI9yT) | [Leevio](https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O) | [Nostalgia](https://open.spotify.com/album/4EqlfFCjsazn5Fnwurza3Q) | 3:01 | 2026-04-02 |  |
 | [Notte Blu II \(feat\. Gemitaiz\)](https://open.spotify.com/track/7w5rrPfl0zH0vwTHeMHa2J) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [60 Hz II](https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM) | 2:55 | 2025-06-26 |  |
 | [Nu creature int’o munno](https://open.spotify.com/track/6Vb2cNnIUQvWEk1JupBVop) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:30 | 2024-08-29 | 2024-11-27 |
 | [Nun è mai fernut](https://open.spotify.com/track/1mIs94EvwoD8zLCFQXrdHA) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:47 | 2024-08-29 | 2024-12-14 |

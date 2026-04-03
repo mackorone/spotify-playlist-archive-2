@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Zerrydl",
+  "description": "From the trenches. Through the streets.\nCover: Straffitti",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -1674,6 +1674,24 @@
       "duration_ms": 140000,
       "name": "Cana",
       "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
+    },
+    {
+      "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "CANADA BREEZE",
+      "url": "https://open.spotify.com/track/5qWYxhd84Dj1uSR3GUtpJD"
     },
     {
       "album": {
@@ -4248,7 +4266,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 116585,
       "name": "Ikeja (No Go Thief)",
       "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
@@ -4406,6 +4424,24 @@
       "duration_ms": 156696,
       "name": "Iskolodo",
       "url": "https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av"
+    },
+    {
+      "album": {
+        "name": "ITALAWA",
+        "url": "https://open.spotify.com/album/35MZvjHcda1RlLX01GijE5"
+      },
+      "artists": [
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "ITALAWA",
+      "url": "https://open.spotify.com/track/0iEBX5KTMJBTTeDo1UfJRQ"
     },
     {
       "album": {
@@ -5398,7 +5434,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 203773,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/1MHZaTZvSGR7kE5a5gBl4g"
@@ -7558,7 +7594,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 197522,
       "name": "Scenes",
       "url": "https://open.spotify.com/track/0Pdp2f6EmVtuaDciWeg32N"
@@ -8185,6 +8221,32 @@
     },
     {
       "album": {
+        "name": "TE WO II",
+        "url": "https://open.spotify.com/album/7rorWGbmVSTdyuZVPFXv93"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141025,
+      "name": "TE WO II",
+      "url": "https://open.spotify.com/track/2FWdDRfkf1lfGxZnShMjpU"
+    },
+    {
+      "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
       },
@@ -8672,7 +8734,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 149454,
       "name": "USDT",
       "url": "https://open.spotify.com/track/5hLPePgQ8Qx1Ae1z7VwI9j"

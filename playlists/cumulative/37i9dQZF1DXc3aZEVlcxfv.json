@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 207801,
       "name": "A Cikin Inuwarka",
       "url": "https://open.spotify.com/track/4X0PisJrHln2RXT72UYXGR"
@@ -172,6 +172,24 @@
       "duration_ms": 395555,
       "name": "Aileyipada",
       "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/22U2vWcz5CaxU9x6S9oehH"
+      },
+      "artists": [
+        {
+          "name": "Scott Evans",
+          "url": "https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140707,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3MwLu7gPqB81ql2AecxkFn"
     },
     {
       "album": {
@@ -610,6 +628,32 @@
       "duration_ms": 105575,
       "name": "Aseda II",
       "url": "https://open.spotify.com/track/6E3P6k7uF7buUPPfQjpamS"
+    },
+    {
+      "album": {
+        "name": "Assurance",
+        "url": "https://open.spotify.com/album/5ypaZcd5W60ewthnlKdZZ0"
+      },
+      "artists": [
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        },
+        {
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136540,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/3uPYUqwxreOB85WGpYyaho"
     },
     {
       "album": {
@@ -1240,7 +1284,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 167223,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/5uUo2yqnT9JaqHkmsOH5OB"
@@ -2764,7 +2808,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 210000,
       "name": "Done me Well",
       "url": "https://open.spotify.com/track/2NTxIp2e1Asq94iBoTSE7z"
@@ -3603,6 +3647,28 @@
     },
     {
       "album": {
+        "name": "Look, it's Green",
+        "url": "https://open.spotify.com/album/2GUcf58yY6ChmzXR6DP6dC"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Nicole Muwanguzi",
+          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131136,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW"
+    },
+    {
+      "album": {
         "name": "Feels Good",
         "url": "https://open.spotify.com/album/6rdruiqR1RYqmURdMQFlcz"
       },
@@ -3972,7 +4038,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 163871,
       "name": "Glorify the Lord",
       "url": "https://open.spotify.com/track/1WdnWUQaH6GUi2PABm1fry"
@@ -4444,7 +4510,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 440000,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/6LpCFvnMavPbR5mgKIY497"
@@ -5720,7 +5786,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 253261,
       "name": "IMO II",
       "url": "https://open.spotify.com/track/30HQgEXGsNiIGkg5hiN4nf"
@@ -7652,7 +7718,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 303375,
       "name": "MOWA",
       "url": "https://open.spotify.com/track/6kVv0C1FQc2GLYQGtKujrh"
@@ -8454,6 +8520,24 @@
       "duration_ms": 203591,
       "name": "Odogwu",
       "url": "https://open.spotify.com/track/28KSf1gG77PI0gZpDHMaKr"
+    },
+    {
+      "album": {
+        "name": "Off Days",
+        "url": "https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Off Days",
+      "url": "https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz"
     },
     {
       "album": {
@@ -10502,7 +10586,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 197500,
       "name": "the sound of being okay",
       "url": "https://open.spotify.com/track/3SwukFJJk27HmmDnhaBImE"
@@ -10802,6 +10886,24 @@
       "duration_ms": 169933,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J"
+    },
+    {
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw"
     },
     {
       "album": {
@@ -11520,6 +11622,24 @@
       "duration_ms": 223472,
       "name": "Yes, I Know",
       "url": "https://open.spotify.com/track/3v7RvFFJkYMQU1m7VF9Qp0"
+    },
+    {
+      "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/16HVSUhTrK4U231KZJ1Me4"
+      },
+      "artists": [
+        {
+          "name": "Jesufemi",
+          "url": "https://open.spotify.com/artist/3Hk1MSEN7hTVpjPdKp8GRA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185945,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/6VDhWqHgYFJQkWC8X6GwEl"
     },
     {
       "album": {

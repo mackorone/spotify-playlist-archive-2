@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover:  Mannywellz",
+  "description": "Sweet afro melodies. Cover:  Mavo",
   "name": "Ginja",
   "tracks": [
     {
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 234767,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 191160,
       "name": "Commitment",
       "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
@@ -3897,6 +3897,28 @@
     },
     {
       "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "ELMAH",
+          "url": "https://open.spotify.com/artist/0o07HRGPlEb5iAv8igSnAl"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168908,
+      "name": "COPING MECHANISM",
+      "url": "https://open.spotify.com/track/4Jvng8y8F17cbIXnEic8Xj"
+    },
+    {
+      "album": {
         "name": "Corny",
         "url": "https://open.spotify.com/album/1oVNe2AR7EQLYMjzKbXASP"
       },
@@ -3948,7 +3970,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 149333,
       "name": "Crazily",
       "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
@@ -5186,6 +5208,24 @@
       "duration_ms": 194666,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N"
+    },
+    {
+      "album": {
+        "name": "Especially You",
+        "url": "https://open.spotify.com/album/495XGaY3Jw7DdqqeA3L1V0"
+      },
+      "artists": [
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144444,
+      "name": "Especially You",
+      "url": "https://open.spotify.com/track/3M8g7vcyQ62hqcosQjpVAP"
     },
     {
       "album": {
@@ -7092,7 +7132,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 159183,
       "name": "Happier",
       "url": "https://open.spotify.com/track/0u87IwEXPIXL7p3Lcrc2U9"
@@ -15161,6 +15201,28 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/200r1lFv3jZPypoZK0YEsP"
+      },
+      "artists": [
+        {
+          "name": "Shaiboy",
+          "url": "https://open.spotify.com/artist/6XXxjNL1EhbvGiGTTj7IX9"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179774,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/4gK4aMkLAoqLsBq1jtrRhp"
+    },
+    {
+      "album": {
         "name": "Shy",
         "url": "https://open.spotify.com/album/5WZgswcqvAbQfftf5LYXXg"
       },
@@ -15206,6 +15268,24 @@
       "duration_ms": 173804,
       "name": "Shy",
       "url": "https://open.spotify.com/track/4fCimEld2dkOKSiShgj3As"
+    },
+    {
+      "album": {
+        "name": "Shy Lover",
+        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Shy Lover",
+      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
     },
     {
       "album": {
@@ -17159,6 +17239,24 @@
     },
     {
       "album": {
+        "name": "For All The Right Reasons Vol. 1",
+        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"
+    },
+    {
+      "album": {
         "name": "Next Rated",
         "url": "https://open.spotify.com/album/7kw7JdzgwwbvKPjznLpabZ"
       },
@@ -18382,7 +18480,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 174050,
       "name": "WILL I EVER",
       "url": "https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG"

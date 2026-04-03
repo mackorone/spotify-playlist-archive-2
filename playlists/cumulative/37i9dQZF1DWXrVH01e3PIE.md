@@ -4,7 +4,7 @@
 
 > Little Boogie & Milo J en la casa del Trap Argentino
 
-573 songs - 1 day 3 hr 49 min
+574 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Frixen](https://open.spotify.com/track/38aRvHQWv2qFBY4BAucb8C) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Frixen](https://open.spotify.com/album/0lTLmQt4g3QIvV4Chz3eT6) | 2:35 | 2023-02-10 | 2023-09-16 |
 | [Fruto](https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:12 | 2023-10-09 | 2025-12-13 |
 | [Frío](https://open.spotify.com/track/7CaBbXaR1sTf5OJKRQFRj6) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 3:05 | 2023-10-27 | 2024-01-27 |
-| [FUERA DE LA ORBITA](https://open.spotify.com/track/4FFq4Rgv2fmKdgh0ur92qJ) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Trapicheo: EL DON](https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO) | 3:20 | 2024-03-15 |  |
+| [FUERA DE LA ORBITA](https://open.spotify.com/track/4FFq4Rgv2fmKdgh0ur92qJ) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Trapicheo: EL DON](https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO) | 3:20 | 2024-03-15 | 2026-04-03 |
 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 | 2022-01-21 |  |
 | [Fumando](https://open.spotify.com/track/3iKEykOfNQfJeapo6schnr) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Detroit11](https://open.spotify.com/album/4RO2qCQzhubROJgs1J0COj) | 2:13 | 2024-10-04 | 2025-01-18 |
 | [fumando solo](https://open.spotify.com/track/5CA83WobR1hqZGTozG7F6G) | [BIG frank](https://open.spotify.com/artist/5DlabRsrA6kxXf39PlYMAS), [Leston](https://open.spotify.com/artist/5vU7O06Mto29k2V4oBBbDZ) | [viiBesOnly 2](https://open.spotify.com/album/2B7i8T2whX2SXBg2mQNS9b) | 2:28 | 2025-04-25 |  |
@@ -555,6 +555,7 @@
 | [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 | 2024-02-16 | 2024-11-16 |
 | [Vivo Fresh](https://open.spotify.com/track/4BWwoRrK8TgoTJFscf10YL) | [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc) | [Vivo Fresh](https://open.spotify.com/album/2KUPifGAYUMJyEYhzLPnrh) | 3:00 | 2025-03-28 | 2025-06-21 |
 | [VLONE](https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [VLONE](https://open.spotify.com/album/6E3i0fUfZf0QseLtnot3S6) | 3:39 | 2022-01-21 | 2023-09-02 |
+| [vos, yo y tu Ego](https://open.spotify.com/track/7yX4yBRyObd73GfTIx3mym) | [Zell](https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi) | [zelly](https://open.spotify.com/album/7lNdUIg9CS88Kye35acvOW) | 2:32 | 2026-04-02 |  |
 | [VOY A DISPARARME](https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [VOY A DISPARARME](https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP) | 3:14 | 2026-03-20 |  |
 | [VUDÚ](https://open.spotify.com/track/4ORYC508Z4K3iLb5Y1jlJX) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [VUDÚ](https://open.spotify.com/album/4wINC4Da6oWcQowqekyT5J) | 3:20 | 2024-10-25 | 2025-01-18 |
 | [VUO \(OvO\)](https://open.spotify.com/track/4o91jzdQwj2hQOsYeMuk6M) | [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [NoPhotoPlease](https://open.spotify.com/artist/609sHPsDjyCtCIwrdzdfB4) | [VUO \(OvO\)](https://open.spotify.com/album/5iUfeuEOSHZJanLJmWq0nd) | 3:12 | 2023-01-13 | 2023-05-05 |

@@ -4,7 +4,7 @@
 
 > The latest of R&B rising in the UK\. Cover: Bellah
 
-583 songs - 1 day 6 hr 15 min
+585 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Caught Up](https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:50 | 2024-12-06 | 2025-07-25 |
 | [Celebrate](https://open.spotify.com/track/5ROXBkqR69eWzAZnptk2z3) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Celebrate](https://open.spotify.com/album/6OGetbdMvrLVufx7LoSBdv) | 3:21 | 2023-11-03 | 2023-11-18 |
 | [Chameleon](https://open.spotify.com/track/0UoXbt3i1BiUmtFn8KbDFE) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Chameleon](https://open.spotify.com/album/3ouEtmk7OjIapqVqmPLKeg) | 3:03 | 2024-04-19 | 2024-05-11 |
+| [Change](https://open.spotify.com/track/1KmrL1QJABCiUNsqtfOLht) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Change](https://open.spotify.com/album/5Rgf6ssTodt5bMI85dkjP6) | 3:30 | 2026-04-02 |  |
 | [Changed ?](https://open.spotify.com/track/6dPJgfmbG8Mm5nLRhyYjtN) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [Changed ?](https://open.spotify.com/album/5qPKchGGwpw1yFWsjmpoVR) | 2:55 | 2025-07-24 | 2025-12-11 |
 | [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 | 2024-08-29 | 2025-03-13 |
 | [Check](https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check](https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW) | 2:45 | 2024-08-06 | 2025-04-25 |
@@ -437,6 +438,7 @@
 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 | 2024-01-26 | 2024-04-20 |
 | [Range 95’](https://open.spotify.com/track/5f1hCTY2bQk6rVbr9N0AzG) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 2:59 | 2023-09-14 | 2023-09-27 |
 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 | 2024-02-16 | 2024-11-15 |
+| [Red Wine](https://open.spotify.com/track/4qzBHmt6mnOg1iSyEx8nkW) | [Krystyn](https://open.spotify.com/artist/0RamQJ0pgt5rLMQh93Hyiu) | [Red Wine](https://open.spotify.com/album/48aFVPIvvsorIvP58hixvl) | 2:27 | 2026-04-02 |  |
 | [Regular Girl](https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Regular Girl](https://open.spotify.com/album/3OhFLv2iX72yrfnSHpilN5) | 2:31 | 2025-02-14 | 2025-05-22 |
 | [Riot \- PRGRSHN Mix](https://open.spotify.com/track/4022YvBU2rdez0sVa6dXmr) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [A Little Lost, A Little Found](https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg) | 3:21 | 2023-07-21 | 2023-08-19 |
 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 | 2022-07-17 | 2023-07-22 |
@@ -463,7 +465,7 @@
 | [She Said](https://open.spotify.com/track/24WrsFDNWrRiyBnJa5eSJj) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [She Said](https://open.spotify.com/album/3To0wqAZiL8bcjRK7XsSK5) | 2:28 | 2025-05-16 | 2026-01-15 |
 | [She's Gone](https://open.spotify.com/track/7J4wnrnlWavaWWihWwC9lg) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Descend](https://open.spotify.com/album/2WF4Xtbie58S3TIaqXXmKd) | 5:32 | 2024-11-22 | 2025-03-17 |
 | [should i give it up?](https://open.spotify.com/track/1p93g3SrDbIBvA4yK5RaQU) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [should i give it up?](https://open.spotify.com/album/1uJTd7634MZTlEXlWjuE8F) | 2:25 | 2026-03-20 |  |
-| [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 | 2025-06-26 |  |
+| [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 | 2025-06-26 | 2026-04-03 |
 | [shouldn't have](https://open.spotify.com/track/1Wxoo2ouIIn3UfSszx7BT5) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [shouldn't have](https://open.spotify.com/album/0e4nE4z0Fy9ta0HMiRSovc) | 1:37 | 2025-07-24 | 2025-11-07 |
 | [Signals](https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Signals](https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7) | 2:44 | 2023-07-21 | 2023-08-19 |
 | [Silence](https://open.spotify.com/track/0nczSj6as1uJ8fZ91xsOLr) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Silence](https://open.spotify.com/album/2jQgJAsAIzvc0hGQVbqboI) | 3:27 | 2023-07-21 | 2023-10-02 |
@@ -503,7 +505,7 @@
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2022-07-17 | 2024-09-13 |
 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 | 2024-08-06 | 2025-04-25 |
 | [SUNSET BLVD](https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SUNSET BLVD](https://open.spotify.com/album/7KHNgbzkWGvK13wzjvUCig) | 2:39 | 2024-08-06 | 2024-10-28 |
-| [Sunshine](https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Sunshine](https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd) | 3:11 | 2025-05-16 |  |
+| [Sunshine](https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Sunshine](https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd) | 3:11 | 2025-05-16 | 2026-04-03 |
 | [Sunshine](https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Sunshine](https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB) | 2:32 | 2024-09-12 | 2025-03-12 |
 | [Superfan](https://open.spotify.com/track/6dCqCHxMhOjEpx43wgWycn) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Superfan](https://open.spotify.com/album/1GBTH2EaDPAC9IjpcBO8Md) | 2:25 | 2024-05-31 | 2024-06-15 |
 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 | 2025-02-28 | 2025-07-25 |

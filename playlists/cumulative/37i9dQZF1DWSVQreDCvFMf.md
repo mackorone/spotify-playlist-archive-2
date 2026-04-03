@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: NEW LORE
 
-842 songs - 2 day 4 hr 10 min
+843 songs - 2 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [K](https://open.spotify.com/track/78VwTvhDEgUe4etkxPyrMN) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [K](https://open.spotify.com/album/5YxEY0VbeXcdmha670Hh6s) | 3:45 | 2025-03-28 | 2025-06-21 |
 | [Kaakit\-akit](https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Kaakit\-akit](https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2) | 4:06 | 2024-07-19 | 2024-11-09 |
 | [KABANATA](https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [KABANATA](https://open.spotify.com/album/4ORFzQtMyd3xR7SnLFnod9) | 3:48 | 2025-03-21 | 2025-06-07 |
+| [Kabisado](https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:27 | 2026-04-02 |  |
 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 | 2025-06-13 | 2025-10-25 |
 | [Kahit 1 month pa lang](https://open.spotify.com/track/4zx0T8X11XdeyHntqRPLeX) | [Hattus](https://open.spotify.com/artist/0jFhoFzinngkDsmalRO9mP), [Eunice Rain](https://open.spotify.com/artist/6bd7dF5PF46dezapDpHouS) | [Kahit 1 month pa lang](https://open.spotify.com/album/4lV3xMGinhtp7SEybSEZTe) | 2:27 | 2025-10-15 | 2026-02-14 |
 | [Kahit May Kilig](https://open.spotify.com/track/5t5hnWYT7KpZUVeBdclV12) | [Hi\-C](https://open.spotify.com/artist/0iFUpccD5oMiH6RUDr2gsx) | [Kahit May Kilig](https://open.spotify.com/album/6IRH4QvjByBTaxiPsapX0w) | 3:27 | 2026-02-07 | 2026-03-21 |

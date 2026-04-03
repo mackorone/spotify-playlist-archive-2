@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5Rgf6ssTodt5bMI85dkjP6"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210688,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1KmrL1QJABCiUNsqtfOLht"
+    },
+    {
+      "album": {
         "name": "Changed ?",
         "url": "https://open.spotify.com/album/5qPKchGGwpw1yFWsjmpoVR"
       },
@@ -8167,6 +8185,24 @@
     },
     {
       "album": {
+        "name": "Red Wine",
+        "url": "https://open.spotify.com/album/48aFVPIvvsorIvP58hixvl"
+      },
+      "artists": [
+        {
+          "name": "Krystyn",
+          "url": "https://open.spotify.com/artist/0RamQJ0pgt5rLMQh93Hyiu"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147668,
+      "name": "Red Wine",
+      "url": "https://open.spotify.com/track/4qzBHmt6mnOg1iSyEx8nkW"
+    },
+    {
+      "album": {
         "name": "Regular Girl",
         "url": "https://open.spotify.com/album/3OhFLv2iX72yrfnSHpilN5"
       },
@@ -8666,7 +8702,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 226835,
       "name": "Shoulda Woulda Coulda",
       "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
@@ -9446,7 +9482,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 191689,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"

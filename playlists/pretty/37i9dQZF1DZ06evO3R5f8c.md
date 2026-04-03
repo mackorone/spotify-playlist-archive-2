@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,457 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,546 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 6 | [We Dance Again](https://open.spotify.com/track/6HvCOJvbEzVTmEFmv79pTf) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [We Dance Again](https://open.spotify.com/album/2ASR0MV1bBqDKVaS3jDxGD) | 4:41 |
 | 7 | [Superman](https://open.spotify.com/track/752l1xT5G1OHzg71ZBnTyZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 7:13 |
 | 8 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 3:19 |
-| 9 | [Not The Same \- Black Coffee feat\. Shoba Remix](https://open.spotify.com/track/1evlBqxfjtUoUMLB0iCbjD) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX), [Shoba](https://open.spotify.com/artist/79ciLJFZzYNYzo6Whl9inU) | [Not The Same \(Black Coffee feat\. Shoba Remix\)](https://open.spotify.com/album/0pNYIjBnrhXe0coE6QpHYX) | 3:36 |
-| 10 | [Deep In The Bottom \(of Africa\)](https://open.spotify.com/track/4CsVcnKcMD3SQvlj8PyZ1I) | [Monique Bingham](https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Best of the Last](https://open.spotify.com/album/2DICCoDzKa9OoHbuZU5qbt) | 6:33 |
+| 9 | [Deep In The Bottom \(of Africa\)](https://open.spotify.com/track/4CsVcnKcMD3SQvlj8PyZ1I) | [Monique Bingham](https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Best of the Last](https://open.spotify.com/album/2DICCoDzKa9OoHbuZU5qbt) | 6:33 |
+| 10 | [Not The Same \- Black Coffee feat\. Shoba Remix](https://open.spotify.com/track/1evlBqxfjtUoUMLB0iCbjD) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX), [Shoba](https://open.spotify.com/artist/79ciLJFZzYNYzo6Whl9inU) | [Not The Same \(Black Coffee feat\. Shoba Remix\)](https://open.spotify.com/album/0pNYIjBnrhXe0coE6QpHYX) | 3:36 |
 | 11 | [I Know What's On Your Mind](https://open.spotify.com/track/70IaMEsiO8r9KWP79AYz3q) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Tortured Soul](https://open.spotify.com/artist/3C1iOOVTmPNAe3a1exn0LL) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:16 |
 | 12 | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 4:28 |
 | 13 | [You Turn Me On](https://open.spotify.com/track/1aqL3jlruipLsSZV9OvgTv) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 49 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 |
 | 50 | [100 Zulu Warriors](https://open.spotify.com/track/5xYU4QIQqxhGaWgpwKLkri) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 |
 
-Snapshot ID: `acsOgAAAAAAsHSFqoG7moh+tyRR4H+cb`
+Snapshot ID: `acxgAAAAAACI9+kfzGjQTsWL1BJBIgGF`

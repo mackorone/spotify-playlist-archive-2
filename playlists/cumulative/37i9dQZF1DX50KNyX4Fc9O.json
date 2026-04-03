@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Keep your finger on the pulse of pop. Cover: Cody Simpson",
+  "description": "Keep your finger on the pulse of pop. Cover: Peach PRC",
   "name": "Pop n' Fresh",
   "tracks": [
     {
@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 226573,
       "name": "anything",
       "url": "https://open.spotify.com/track/3d1Usuv149C977ZD9gfCBM"
@@ -8980,7 +8980,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 243760,
       "name": "Dancing On The Wall",
       "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
@@ -13920,7 +13920,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 148673,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
@@ -15542,7 +15542,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 227767,
       "name": "girls",
       "url": "https://open.spotify.com/track/0dZjccxMWrvVy4l3lUJUGG"
@@ -18721,6 +18721,24 @@
     },
     {
       "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/0dkYcY21sT5qZ1cHkD8Llw"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228100,
+      "name": "Hold It For Her",
+      "url": "https://open.spotify.com/track/3x8ROvzmBSnxj6t1LELGwf"
+    },
+    {
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/0IAuRK4GBCkj0OVh7gBl73"
       },
@@ -19252,7 +19270,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 219190,
       "name": "Honest",
       "url": "https://open.spotify.com/track/4Tk4WBjzGdKqgtRfmCgaty"
@@ -20460,6 +20478,24 @@
       "duration_ms": 178131,
       "name": "I Don't Speak French",
       "url": "https://open.spotify.com/track/42LMd0m0zj6DPaKFramUMS"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Be",
+        "url": "https://open.spotify.com/album/5ClhMHsRNjJ81rlCFZwmos"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196133,
+      "name": "I Don't Wanna Be",
+      "url": "https://open.spotify.com/track/2Nv65jwceq5LhmapNS2RXK"
     },
     {
       "album": {
@@ -23049,6 +23085,24 @@
     },
     {
       "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/17gNaYjfSODjbCzK0s8k93"
+      },
+      "artists": [
+        {
+          "name": "Zhuli",
+          "url": "https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/7tOBfHEUnMOzNlQJFN65nz"
+    },
+    {
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/5TWGSRtuOsPUDAKl2WKvon"
       },
@@ -24586,7 +24640,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 172972,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/5u4CGbjFxDD2AvCwmEWy8r"
@@ -25284,6 +25338,24 @@
       "duration_ms": 170554,
       "name": "LOLA",
       "url": "https://open.spotify.com/track/2hUuCNRnmb7ltv99gY3grK"
+    },
+    {
+      "album": {
+        "name": "London",
+        "url": "https://open.spotify.com/album/3f0PVlrT754wlLh7RJ4zxc"
+      },
+      "artists": [
+        {
+          "name": "Rachel Leo",
+          "url": "https://open.spotify.com/artist/7nvGqdG2C213Fb4ItZyxuQ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203730,
+      "name": "London",
+      "url": "https://open.spotify.com/track/6Og1pgacDVVAm2xC5N9yeb"
     },
     {
       "album": {
@@ -26328,7 +26400,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 194122,
       "name": "LoveDrunk",
       "url": "https://open.spotify.com/track/4OVwmCVvl48GoFO1qkocIV"
@@ -28499,6 +28571,28 @@
     },
     {
       "album": {
+        "name": "MUSIC 2 MY EARS",
+        "url": "https://open.spotify.com/album/5SfGIAN91Qh6hP3PogX4vS"
+      },
+      "artists": [
+        {
+          "name": "Robert Baxter",
+          "url": "https://open.spotify.com/artist/5VOw2lhSolJj6DgdrkN20j"
+        },
+        {
+          "name": "Sweatbaby",
+          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183996,
+      "name": "MUSIC 2 MY EARS",
+      "url": "https://open.spotify.com/track/6svIfNqTuUWT37M1XMhuR3"
+    },
+    {
+      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -29001,6 +29095,24 @@
     },
     {
       "album": {
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238427,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"
+    },
+    {
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -29060,6 +29172,24 @@
       "duration_ms": 202089,
       "name": "Nepotism Baby",
       "url": "https://open.spotify.com/track/3H2TSiUgvZfkrTG8I1Fj1i"
+    },
+    {
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/6MQBaXvBB8310VzGSCLuQq"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139055,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/1C8M9xgprhPMF2cqDih1OQ"
     },
     {
       "album": {
@@ -29440,6 +29570,24 @@
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+    },
+    {
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184788,
+      "name": "Night at the Opera",
+      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
     },
     {
       "album": {
@@ -31814,7 +31962,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 203400,
       "name": "Paracosm",
       "url": "https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0"
@@ -37488,7 +37636,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 162135,
       "name": "Someone Else's Love",
       "url": "https://open.spotify.com/track/2Bw8PW8vGuDJ92n50vxVDZ"
@@ -37899,6 +38047,24 @@
     },
     {
       "album": {
+        "name": "SpiceKick",
+        "url": "https://open.spotify.com/album/58PCIgUueFleyunThXBdf4"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149174,
+      "name": "SpiceKick",
+      "url": "https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX"
+    },
+    {
+      "album": {
         "name": "Spicy Margarita",
         "url": "https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER"
       },
@@ -38166,7 +38332,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 235423,
       "name": "Stars",
       "url": "https://open.spotify.com/track/7FLymPYQ4F93w8eoZzScyb"
@@ -38272,6 +38438,24 @@
       "duration_ms": 185999,
       "name": "Stay (If You Wanna Dance)",
       "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
+    },
+    {
+      "album": {
+        "name": "Stay Awake With Me",
+        "url": "https://open.spotify.com/album/4xcpVWjvcyfPTphTUZe8K4"
+      },
+      "artists": [
+        {
+          "name": "ISHAN",
+          "url": "https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Stay Awake With Me",
+      "url": "https://open.spotify.com/track/10g7y7DhnPQ1kFHVji7no1"
     },
     {
       "album": {
@@ -39721,6 +39905,24 @@
     },
     {
       "album": {
+        "name": "Sweet Ecstasy",
+        "url": "https://open.spotify.com/album/4DOBE3WBqnvn57oCufsEik"
+      },
+      "artists": [
+        {
+          "name": "Ben Swissa",
+          "url": "https://open.spotify.com/artist/5oCWqJlsPteQEIjAMxQRs8"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156009,
+      "name": "Sweet Ecstasy",
+      "url": "https://open.spotify.com/track/1aBHFsJS0Mf2O7FRjeFxFv"
+    },
+    {
+      "album": {
         "name": "You Promised A Lifetime",
         "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
       },
@@ -40802,7 +41004,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 147000,
       "name": "That's Her (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/1kkgrnr6OWVBnks8OhZQio"
@@ -41214,6 +41416,24 @@
       "duration_ms": 162666,
       "name": "The Fix",
       "url": "https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR"
+    },
+    {
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/0k8RXtTwCrqs9ofCFAUNQX"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175161,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/5OkXA7ru3aZrY92m800aSc"
     },
     {
       "album": {
@@ -42898,7 +43118,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 148755,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/30IzEykfGZdbd9o7yeDWbh"
@@ -44067,6 +44287,24 @@
     },
     {
       "album": {
+        "name": "The Weight of the Woods",
+        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230418,
+      "name": "Turnstile",
+      "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"
+    },
+    {
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/26ngT168TbWrmMyiumtu3R"
       },
@@ -44096,7 +44334,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 148704,
       "name": "Tweak",
       "url": "https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO"
@@ -44208,7 +44446,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 232796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
@@ -45852,6 +46090,24 @@
       "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
+    },
+    {
+      "album": {
+        "name": "WE WERE NEVER REALLY FRIENDS",
+        "url": "https://open.spotify.com/album/08TARF6DR1NErKi8399AXx"
+      },
+      "artists": [
+        {
+          "name": "RARIA",
+          "url": "https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187061,
+      "name": "WE WERE NEVER REALLY FRIENDS",
+      "url": "https://open.spotify.com/track/73P7TokCzhDB8AlgmnbSzC"
     },
     {
       "album": {

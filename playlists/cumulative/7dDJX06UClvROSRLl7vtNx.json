@@ -1309,6 +1309,32 @@
     },
     {
       "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/6MF5PRNdtS1ADNgUuOOzhl"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Hobes",
+          "url": "https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl"
+        },
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/4HckiHk9acfJDIAYyCpGYD"
+    },
+    {
+      "album": {
         "name": "Anywhere With You",
         "url": "https://open.spotify.com/album/1isQywIBds6XO5h6ZaU36K"
       },

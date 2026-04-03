@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: カネコアヤノ Kaneko Ayano
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,557 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,583 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 90 | [sunrise rocket](https://open.spotify.com/track/0tEt8CPH0NK10SqS00krls) | [MisiiN](https://open.spotify.com/artist/1AWaERDm3O1qwyVa3NpmXC) | [sunrise rocket](https://open.spotify.com/album/0nefnCe52X4GOpIqNFtAeW) | 2:45 |
 | 91 | [five means](https://open.spotify.com/track/6olVFgP8Ws99vNU1viQngH) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [five means](https://open.spotify.com/album/20wVBmLnSS72tlOFtdzcx4) | 3:11 |
 | 92 | [Bleeding for Nothing](https://open.spotify.com/track/2nGE6WcpvY0zkjo6jdHhFN) | [Modern Jazz War](https://open.spotify.com/artist/0RuckljmK4FzRmu5lU9PjU) | [Holes in Modernity](https://open.spotify.com/album/38LAAjVp1J1uDPUufgViZc) | 4:34 |
-| 93 | [透明不透明人間](https://open.spotify.com/track/2hsswGHPb82IR8ZMC8ZM1G) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [透明不透明人間](https://open.spotify.com/album/2lT98bl11Is4NqzR886npC) | 3:07 |
+| 93 | [不透明透明人間](https://open.spotify.com/track/2hsswGHPb82IR8ZMC8ZM1G) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [不透明透明人間](https://open.spotify.com/album/2lT98bl11Is4NqzR886npC) | 3:07 |
 | 94 | [Junk Pop](https://open.spotify.com/track/5fCqVGBJazjpNDvapBPmpg) | [ผ้าอ้อม99999](https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8) | [JUNK POP](https://open.spotify.com/album/66X7dfyaXIeVuPUKDKgEoE) | 3:39 |
 | 95 | [天使2](https://open.spotify.com/track/29w59F1HMWXOuJ4sRJpUAl) | [綿貫雪](https://open.spotify.com/artist/79KrOWHi6qdV9FWxSsskah), [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB), [pppppfffffuuuuuiiiii](https://open.spotify.com/artist/7zoTbN4yjSp5IaDrFMmszL) | [天使2](https://open.spotify.com/album/7EttDAZ79KNSfCM9hy3MEN) | 3:59 |
 | 96 | [ダンス](https://open.spotify.com/track/3scZXkPv508ilSANzWeWZq) | [穴熊](https://open.spotify.com/artist/3yiNdcVwxC8pc1Gvba79eg) | [冗談/ダンス](https://open.spotify.com/album/4R9OkX97JjAJMgVYkgMtTN) | 6:09 |

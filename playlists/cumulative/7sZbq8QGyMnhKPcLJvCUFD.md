@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-842 songs - 1 day 17 hr 46 min
+843 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Clockwork](https://open.spotify.com/track/4zczcRcIdlg0YLFzQjdmPR) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk), [Bryan Andrew Medina](https://open.spotify.com/artist/1AXCXAe9tTUVCTxgZzaYfI) | [Clockwork](https://open.spotify.com/album/0M9vqRe4AV89rYORJcmAbp) | 4:21 | 2023-12-13 | 2024-07-19 |
 | [Clown Around](https://open.spotify.com/track/6qpjU00lJs5rCGyh6mFar2) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [Clown Around](https://open.spotify.com/album/4B9AKvwbLZajHo7eQAJF47) | 2:43 | 2023-06-16 | 2023-08-20 |
 | [Code](https://open.spotify.com/track/1hg8pF09mkmaLzVWKiyhvw) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Code](https://open.spotify.com/album/21VWyeXDxoL9up6VuCLshi) | 2:29 | 2024-04-02 | 2024-09-29 |
+| [colors](https://open.spotify.com/track/6qytEhkkIEnxlLv6nopItr) | [HXPETRAIN](https://open.spotify.com/artist/58Kb5i2Bxw4XM6Cj8a5hbi) | [colors](https://open.spotify.com/album/0wMttc6KFjiIPRn8xMOHOm) | 2:19 | 2026-04-02 |  |
 | [COM BOTA](https://open.spotify.com/track/1xpgHzym0uDfioJNWRndhj) | [cape](https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K), [crysstales](https://open.spotify.com/artist/3ZIN00As3dOKnQpjA3O8uz) | [COM BOTA](https://open.spotify.com/album/0XBZTTcFiYFDn1U1STuXyA) | 1:25 | 2026-02-19 |  |
 | [Come Alive](https://open.spotify.com/track/6pftCjKWt9FhrTtVTgMgam) | [RDLS](https://open.spotify.com/artist/7JiTFmONy7I3lM2ZDvjc6H), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Come Alive](https://open.spotify.com/album/0M2igd6SNDoQOT7gDYQPvH) | 2:56 | 2022-07-15 | 2023-04-28 |
 | [Comet](https://open.spotify.com/track/0klFHFJRTKtNQ8uX9tgs0Q) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Keepsake](https://open.spotify.com/artist/3TNyKBo7OPi8zuGJostZXS) | [Comet](https://open.spotify.com/album/2PnjRKPTRBz128x4sHSPqt) | 3:50 | 2024-05-23 | 2024-12-09 |

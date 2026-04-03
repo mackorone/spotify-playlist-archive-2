@@ -4825,6 +4825,24 @@
     },
     {
       "album": {
+        "name": "We Come As One",
+        "url": "https://open.spotify.com/album/1YbMdMt6TsASotL4jueGGG"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175890,
+      "name": "We Come As One",
+      "url": "https://open.spotify.com/track/02Eg51HAwz1JmK4yPxV4ui"
+    },
+    {
+      "album": {
         "name": "We Don\u2019t Care (Incl. SaberZ Remix)",
         "url": "https://open.spotify.com/album/2ZhZGTgIcuySWBOYqQwK1X"
       },

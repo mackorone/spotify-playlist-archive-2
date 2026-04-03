@@ -1727,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157613,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/54YvXQzjpfQee9u3YKg8Ls"
+    },
+    {
+      "album": {
         "name": "Gilded",
         "url": "https://open.spotify.com/album/1QvGemln6o7k5hGaYFpDZ6"
       },
@@ -2970,6 +2988,28 @@
       "duration_ms": 138000,
       "name": "Musicality",
       "url": "https://open.spotify.com/track/4KnN1qVhG1gccZe7cJxWn3"
+    },
+    {
+      "album": {
+        "name": "N'Balmed (JASSS Purple Mix)",
+        "url": "https://open.spotify.com/album/0Pmc7ihxCFtAvevrDlaZKP"
+      },
+      "artists": [
+        {
+          "name": "james K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        },
+        {
+          "name": "JASSS",
+          "url": "https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253213,
+      "name": "N'Balmed - JASSS Purple Mix",
+      "url": "https://open.spotify.com/track/5UIAOo7Zhv2WiSIfs307az"
     },
     {
       "album": {

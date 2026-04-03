@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Pollyfromthedirt",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Claudia Valentina",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -6322,6 +6322,24 @@
       "duration_ms": 194173,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/4oecUEFtf9m5x8YQFfE1em"
+    },
+    {
+      "album": {
+        "name": "WHAT CAN I TELL U",
+        "url": "https://open.spotify.com/album/3hbjx9QSXlYmizj5cSULSA"
+      },
+      "artists": [
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125024,
+      "name": "WRANGLER",
+      "url": "https://open.spotify.com/track/0DY8rIKn5G8rGyE8QMGGDQ"
     },
     {
       "album": {

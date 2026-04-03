@@ -4,7 +4,7 @@
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-203 songs - 10 hr 32 min
+204 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bang Alleen Te Blijven](https://open.spotify.com/track/0OCZpLuFQz3H3eowjX7ho4) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Bang Alleen Te Blijven](https://open.spotify.com/album/3pboEsYZAqlrkCgASC0JLY) | 3:25 | 2024-11-04 | 2025-04-04 |
 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 | 2025-03-01 |  |
 | [Belangrijk](https://open.spotify.com/track/6QJFBH8HpTzTVVNE7Crbh2) | [Dwight Dissels](https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f) | [Belangrijk](https://open.spotify.com/album/0KpvKRZa46wgvsDtXlVCTt) | 3:54 | 2024-07-22 | 2024-11-22 |
-| [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 | 2025-04-25 |  |
+| [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 | 2025-04-25 | 2026-04-03 |
 | [Bennie](https://open.spotify.com/track/4CI8h2cW6luzQtcJRr8ApQ) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Bennie](https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve) | 2:37 | 2025-09-04 |  |
 | [Bij Deze](https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Bij Deze](https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek) | 2:48 | 2025-02-20 |  |
 | [Brandende Zee](https://open.spotify.com/track/2Z9qbGSmIaIZEZeEfAjAUt) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Brandende Zee](https://open.spotify.com/album/19ijVBynplq41Q4ra9fVhf) | 3:49 | 2024-06-24 | 2024-11-22 |
@@ -119,6 +119,7 @@
 | [Love Song](https://open.spotify.com/track/3caukRr0UZRCvg2QCvbGeH) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Love Song](https://open.spotify.com/album/214tK7D0YvGWW2p7yJgtbP) | 3:04 | 2024-09-12 | 2024-12-13 |
 | [Maar Niet Met Jou Erbij](https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Maar Niet Met Jou Erbij](https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey) | 3:01 | 2024-06-24 | 2024-11-05 |
 | [Mes In M'n Rug](https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2024 \(Aflevering 4\- SERA\)](https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V) | 2:57 | 2025-01-08 |  |
+| [Met de tijd](https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Met de tijd](https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW) | 3:31 | 2026-03-26 |  |
 | [Middenweg](https://open.spotify.com/track/3b9LcqTuGaPtQigdbyuFZE) | [Reyck](https://open.spotify.com/artist/36t2vlP5OiRO1G7EgxgNvU) | [Los](https://open.spotify.com/album/6bgCKabxQJRfIMpQw0oi0f) | 3:03 | 2024-07-25 | 2024-09-20 |
 | [Mijn Dorp In De Kempen \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/2Jc7DQilZLNtv8qrkU1Quj) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Mijn Dorp In De Kempen \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/5ipD1vyfx57xhUE7bERMHC) | 4:26 | 2025-04-10 | 2025-05-13 |
 | [Mijn Huisje](https://open.spotify.com/track/2S0b2igN6JP3gcokE7EXtE) | [Bolle Tito](https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Mijn Huisje](https://open.spotify.com/album/0fy34G5zLy2C86oi23Gph1) | 2:34 | 2024-11-04 | 2024-12-13 |

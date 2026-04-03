@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Hearts in Pink",
+        "url": "https://open.spotify.com/album/645Nx8XILB5rrVIygRrHEe"
+      },
+      "artists": [
+        {
+          "name": "Pinkfreq",
+          "url": "https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222238,
+      "name": "Hearts in Pink",
+      "url": "https://open.spotify.com/track/2MJAO077Qupt0TZgSeFiLd"
+    },
+    {
+      "album": {
         "name": "Heedful Pink Dreamscape",
         "url": "https://open.spotify.com/album/2reqtalwAtRtu3cI8cQSg1"
       },
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 180023,
       "name": "Magic Dream Pink Noise",
       "url": "https://open.spotify.com/track/6gynjroKIvBfv0ucZfohfB"
@@ -4217,6 +4235,24 @@
     },
     {
       "album": {
+        "name": "Raspberry Dazzle Pink Noise",
+        "url": "https://open.spotify.com/album/2Gilt5ic1F2hngB8wFmr2u"
+      },
+      "artists": [
+        {
+          "name": "Titan Pulse",
+          "url": "https://open.spotify.com/artist/2LxEiPDLSX3rxS0VYnqaIY"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218174,
+      "name": "Raspberry Dazzle Pink Noise",
+      "url": "https://open.spotify.com/track/38Ka0309xc23w1JswXEs9o"
+    },
+    {
+      "album": {
         "name": "Beautiful Pink Noise",
         "url": "https://open.spotify.com/album/6OY5DlG8C1UC4qxdrvqCX0"
       },
@@ -4354,7 +4390,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 203037,
       "name": "River Of Dreams Pink Noise",
       "url": "https://open.spotify.com/track/0K5Qv83SvBXkOgRoF3blmG"

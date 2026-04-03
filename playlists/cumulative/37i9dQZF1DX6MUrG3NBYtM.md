@@ -4,7 +4,7 @@
 
 > De beste Indie releases\. Cover: Naaz
 
-286 songs - 17 hr 26 min
+287 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Must Have Been New](https://open.spotify.com/track/5DEm7vf67ksyI50GvL0eIP) | [dEUS](https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN) | [How To Replace It](https://open.spotify.com/album/0VwdLX4EvZMcaFwd7fWtil) | 3:46 | 2024-06-26 | 2024-07-19 |
 | [My Kinda Woman](https://open.spotify.com/track/2iVWKU78MURQCwfyj8Yy7T) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [My Kinda Woman](https://open.spotify.com/album/2XxNT2RrPizKoRaHvF4Eye) | 3:04 | 2024-07-18 | 2025-01-07 |
 | [My Lilies](https://open.spotify.com/track/00H6RHWi98jHMwAAZBapTz) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [My Lilies](https://open.spotify.com/album/3k2NT1UROCWfnAnk0dinQI) | 4:05 | 2025-01-13 | 2025-07-05 |
-| [Natural Woman](https://open.spotify.com/track/3s382wKMe6FvXmwTS1bWmN) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:05 | 2025-06-23 |  |
+| [Natural Woman](https://open.spotify.com/track/3s382wKMe6FvXmwTS1bWmN) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:05 | 2025-06-23 | 2026-04-03 |
 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 | 2024-06-26 | 2024-11-07 |
 | [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 | 2025-08-29 | 2026-01-15 |
 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 | 2025-05-12 | 2025-09-27 |
@@ -213,6 +213,7 @@
 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 | 2025-02-06 | 2025-09-27 |
 | [See What Sticks](https://open.spotify.com/track/1kWMfZuciYaWSYIa4QrbKT) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Hell Go Rhythm](https://open.spotify.com/album/4EwrO3QrAG3IywH5jX1fsc) | 3:18 | 2025-01-06 | 2025-04-11 |
 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-08-08 |  |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-04-02 |  |
 | [Shades](https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Shades](https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu) | 3:17 | 2024-06-26 | 2025-01-07 |
 | [Shaking Shoulder](https://open.spotify.com/track/1zOpsnW07jNmNAOu0qDRoQ) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/6FaSba3ItIHnC6B0gyOuWz) | 3:10 | 2025-03-06 | 2025-10-09 |
 | [Shirt](https://open.spotify.com/track/749fYL6VeBCQM1518NYrJ2) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Launch The Rocket](https://open.spotify.com/album/0uc3RRD7UYqSX0Pkk8SSY1) | 2:42 | 2025-02-21 | 2025-08-30 |

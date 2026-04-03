@@ -1551,6 +1551,32 @@
     },
     {
       "album": {
+        "name": "Desert Rose (Reimagined)",
+        "url": "https://open.spotify.com/album/6xKAtFQb75Q5eK3dwgVBy5"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288780,
+      "name": "Desert Rose - Bedouin Remix",
+      "url": "https://open.spotify.com/track/6Q0QOjg0whW68Mn2byferG"
+    },
+    {
+      "album": {
         "name": "Devi",
         "url": "https://open.spotify.com/album/5vHKGWsNrgEaoNIdw0pMvQ"
       },
@@ -5684,7 +5710,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 435121,
       "name": "Tawada - Saint Evo Remix",
       "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"

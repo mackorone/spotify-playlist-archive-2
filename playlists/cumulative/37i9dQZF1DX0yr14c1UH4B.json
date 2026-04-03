@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song  \ud83c\udfa7 cover: Suki Waterhouse\n\ud83d\udccdSomewhere between indie, pop, folk and country",
+  "description": "It's all about the song  \ud83c\udfa7 cover: Dermot Kennedy\n\ud83d\udccdSomewhere between indie, pop, folk and country",
   "name": "Common Thread",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 172437,
       "name": "All My Mess",
       "url": "https://open.spotify.com/track/15BuvM6K93OWhahQAc2dTZ"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 217500,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/2A5QWwjDnJYIfn96ESNI1E"
@@ -2307,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Cut In Half",
+        "url": "https://open.spotify.com/album/0LEFdPWcty1wzOYTBebazM"
+      },
+      "artists": [
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Cut In Half",
+      "url": "https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53"
+    },
+    {
+      "album": {
         "name": "Theatre of the Absurd presents C'est La Vie",
         "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
       },
@@ -2572,6 +2590,24 @@
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/0xujjYOwkUXeNfuGhgGdOC"
+      },
+      "artists": [
+        {
+          "name": "Pixie McCann",
+          "url": "https://open.spotify.com/artist/2JT4el59Lvkj4FrhbzdBSu"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298268,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/0FzYZ03c2T1wZIMNm4VbQC"
     },
     {
       "album": {
@@ -2886,6 +2922,24 @@
       "duration_ms": 213552,
       "name": "Dodge",
       "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
+    },
+    {
+      "album": {
+        "name": "Dog years",
+        "url": "https://open.spotify.com/album/4WBt2rXMjOVbRJqwPKd6ys"
+      },
+      "artists": [
+        {
+          "name": "Aidan Jones",
+          "url": "https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150989,
+      "name": "Dog years",
+      "url": "https://open.spotify.com/track/2Rl6Kr1Mvp709lU1dkp4ew"
     },
     {
       "album": {
@@ -4314,7 +4368,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 197125,
       "name": "Future Tense",
       "url": "https://open.spotify.com/track/6EUlfewAije5ka0bjx2SzI"
@@ -5316,7 +5370,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 219190,
       "name": "Honest",
       "url": "https://open.spotify.com/track/4Tk4WBjzGdKqgtRfmCgaty"
@@ -5756,7 +5810,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 190955,
       "name": "I OWE IT TO YOU",
       "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
@@ -6808,6 +6862,24 @@
       "duration_ms": 345040,
       "name": "Leap Year",
       "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
+    },
+    {
+      "album": {
+        "name": "Learning Curve",
+        "url": "https://open.spotify.com/album/5SeD7yzWqU5oU0TNALAr3I"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Learning Curve",
+      "url": "https://open.spotify.com/track/5qhSQs3PlJSHj9M4f8O1N4"
     },
     {
       "album": {
@@ -8202,7 +8274,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 182400,
       "name": "Natural Disaster",
       "url": "https://open.spotify.com/track/1GzENjFiUZL7O6jreawkQE"
@@ -8968,6 +9040,24 @@
       "duration_ms": 203085,
       "name": "Over it Now",
       "url": "https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo"
+    },
+    {
+      "album": {
+        "name": "Overdrawn",
+        "url": "https://open.spotify.com/album/0OwJt3VZqdF0AjDsCLnY4M"
+      },
+      "artists": [
+        {
+          "name": "Scott Quinn",
+          "url": "https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256353,
+      "name": "Overdrawn",
+      "url": "https://open.spotify.com/track/2biAEf8gmyqFzxCq9V6pVg"
     },
     {
       "album": {
@@ -10592,7 +10682,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 208412,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/2h3R5SN0NRPlLLAt1s0wnw"
@@ -11122,7 +11212,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 196733,
       "name": "Somewhere Without You",
       "url": "https://open.spotify.com/track/6LwdFLN3VdFUuQjpnrattn"
@@ -12551,6 +12641,24 @@
     },
     {
       "album": {
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/1iSV82EFX3NPgV4EpuNC3j"
+      },
+      "artists": [
+        {
+          "name": "Vicky Sometani",
+          "url": "https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/7gVVb2Tpoc4S9fkfm4j5if"
+    },
+    {
+      "album": {
         "name": "Thinkin' Bout It",
         "url": "https://open.spotify.com/album/3710Lh9kQPfuZgidaONNVO"
       },
@@ -12696,6 +12804,24 @@
       "duration_ms": 259400,
       "name": "Time Lost",
       "url": "https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7"
+    },
+    {
+      "album": {
+        "name": "Time Lost",
+        "url": "https://open.spotify.com/album/4CJCGMU40qZmYtJrAgJJrO"
+      },
+      "artists": [
+        {
+          "name": "Kanako Yamamoto",
+          "url": "https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165680,
+      "name": "Time Lost",
+      "url": "https://open.spotify.com/track/0aHSrR8RefR8MbMt5X9DYo"
     },
     {
       "album": {
@@ -12869,6 +12995,24 @@
     },
     {
       "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/197taNYjpikHAPjkOWctWk"
+      },
+      "artists": [
+        {
+          "name": "Emma Harner",
+          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G"
+    },
+    {
+      "album": {
         "name": "Gumshoe",
         "url": "https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo"
       },
@@ -12978,10 +13122,28 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 187853,
       "name": "Turn Your Heart Back On",
       "url": "https://open.spotify.com/track/4713XrbD4hGM1YYQkqRbZM"
+    },
+    {
+      "album": {
+        "name": "The Weight of the Woods",
+        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230418,
+      "name": "Turnstile",
+      "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"
     },
     {
       "album": {
@@ -14055,6 +14217,24 @@
     },
     {
       "album": {
+        "name": "Wishing on a Candle",
+        "url": "https://open.spotify.com/album/0LwQ4conuajoU9QohWjb0c"
+      },
+      "artists": [
+        {
+          "name": "Samuel Newman",
+          "url": "https://open.spotify.com/artist/4ivtkkinQxEQuVjcvySF9V"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Wishing on a Candle",
+      "url": "https://open.spotify.com/track/48QDggRw13GOHetcXJxwGX"
+    },
+    {
+      "album": {
         "name": "if you need me, i'm a few missed calls away",
         "url": "https://open.spotify.com/album/6nShMxkB15RxG2dwZrXXCw"
       },
@@ -14286,7 +14466,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 109491,
       "name": "Yearn For Your Smile",
       "url": "https://open.spotify.com/track/7Cfkz8Lrvdy4Tcq6D4IhmQ"

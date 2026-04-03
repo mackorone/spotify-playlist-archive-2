@@ -2151,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "I KNOW A GOD (LIVE)",
+        "url": "https://open.spotify.com/album/6N02fLeSWLoq2ECDib0dGr"
+      },
+      "artists": [
+        {
+          "name": "Richy Okechukwu",
+          "url": "https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416389,
+      "name": "I KNOW A GOD (LIVE)",
+      "url": "https://open.spotify.com/track/4mpSOJVupkJ6LKr1BVVhs6"
+    },
+    {
+      "album": {
         "name": "Shout It Loud (Live)",
         "url": "https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG"
       },
@@ -5714,6 +5732,32 @@
       "duration_ms": 1141000,
       "name": "Who Is Like You - Live",
       "url": "https://open.spotify.com/track/2gbB7Qux8u6qCZhGxlEKFo"
+    },
+    {
+      "album": {
+        "name": "Whosoever (Live)",
+        "url": "https://open.spotify.com/album/5VD7Hzv0v0cZ5mxUhckuA3"
+      },
+      "artists": [
+        {
+          "name": "Wellspring Music",
+          "url": "https://open.spotify.com/artist/760XbihuDnesUcKkNEOOIj"
+        },
+        {
+          "name": "Kanjii Mbugua",
+          "url": "https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY"
+        },
+        {
+          "name": "Malachi Lucey",
+          "url": "https://open.spotify.com/artist/1lNMOGGfhY4JFmw92Wr1mJ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249258,
+      "name": "Whosoever - Live",
+      "url": "https://open.spotify.com/track/6FfQyUSA8grFb1Y3Wnbanq"
     },
     {
       "album": {

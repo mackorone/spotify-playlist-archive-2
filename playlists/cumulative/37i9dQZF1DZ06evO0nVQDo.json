@@ -684,10 +684,28 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 127012,
       "name": "Water / Air",
       "url": "https://open.spotify.com/track/7xIaXsMAB2KZ4GUlqsmr0W"
+    },
+    {
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209700,
+      "name": "Water / Earth",
+      "url": "https://open.spotify.com/track/1pnZHkdiCLlsIQ7Tb9KuUr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: El Bogueto
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,178 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,187 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 15 | [FOREVER TU GANTEL](https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:46 |
 | 16 | [LAGUNA](https://open.spotify.com/track/4kEnA76OKHUTmaboAldpUD) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO) | [LAGUNA](https://open.spotify.com/album/5Z2MSxzYBr2BS33MfwwbIK) | 2:40 |
 | 17 | [SCANDIC](https://open.spotify.com/track/7D2A3hvJSabgicJ1HM4kDi) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SCANDIC](https://open.spotify.com/album/1yyN0XBYnI7tJBCAhmmcOE) | 3:01 |
-| 18 | [Mercenarios](https://open.spotify.com/track/1YtBEZolFa52BcyDZg7U2L) | [Capo](https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mercenarios](https://open.spotify.com/album/57F0XyYYCfiQ7D4ZL0Ca6Q) | 2:24 |
+| 18 | [Mercenarios](https://open.spotify.com/track/1YtBEZolFa52BcyDZg7U2L) | [Capo](https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mercenarios](https://open.spotify.com/album/57F0XyYYCfiQ7D4ZL0Ca6Q) | 2:22 |
 | 19 | [Bichote](https://open.spotify.com/track/6NbFOWgjmxHgJi95VQW78p) | [JS SERNA](https://open.spotify.com/artist/7xtH0cO7uO2QuF1Klyvmkz), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [THE FAVORITES](https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I) | [Bichote](https://open.spotify.com/album/2LkRTHVDOSbEKHBuRCj8UM) | 2:33 |
 | 20 | [SU su SU](https://open.spotify.com/track/3CsV3o4DS5zoRRlLDj8dHc) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [SU su SU](https://open.spotify.com/album/1vOC7vZNCja6RW50m297hR) | 2:39 |
 | 21 | [Exmaquina](https://open.spotify.com/track/3d0LfxFm4FvW0RE1oZkdBV) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Exmaquina](https://open.spotify.com/album/3R4W7oN6SdG6HzX4PIFvTm) | 3:08 |

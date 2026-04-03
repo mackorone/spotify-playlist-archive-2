@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Jul
+> Photo : Gambi
 
-480 songs - 22 hr 19 min
+482 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Dolce Vita](https://open.spotify.com/track/4LBC4a1BjTY7kLJfWIRlEx) | [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [ÉPREUVES](https://open.spotify.com/album/5MmmsnFx91B7lyqQxjLxu9) | 2:50 | 2024-02-22 | 2024-06-21 |
 | [Dommage](https://open.spotify.com/track/1volRiZpmvvzMu1cxd472q) | [YL](https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P), [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Dommage](https://open.spotify.com/album/05QGhv1F5zH8k0Dke0g6bG) | 2:36 | 2024-02-08 | 2024-05-10 |
 | [Doser](https://open.spotify.com/track/1Jfm129mci3FMizdlXeMOs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Doser](https://open.spotify.com/album/6vgVwBsKW6RNOGOYQULL7R) | 2:59 | 2026-01-29 |  |
+| [DOUCEMENT](https://open.spotify.com/track/5btmfx5sNRsrcoIes2gmHu) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [DOUCEMENT](https://open.spotify.com/album/6R0dOwLtxYDVaaovcpQNDB) | 2:52 | 2026-04-02 |  |
 | [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 | 2023-11-23 | 2024-02-02 |
 | [DXB](https://open.spotify.com/track/1MWOBTcuQwLvK3lAhkOvtU) | [Mortalla](https://open.spotify.com/artist/7xVHj5WkiGCygNfzWbOVRD) | [DXB](https://open.spotify.com/album/6EPnl5aba6enLzXfjfp3tU) | 2:24 | 2024-04-25 | 2024-05-17 |
 | [Dès l'matin](https://open.spotify.com/track/0lzx4GqUQwmZrV6LuQX62h) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [Dès l'matin](https://open.spotify.com/album/6YLuPziACioeJsxR9VC1Fw) | 2:31 | 2024-06-13 | 2024-09-20 |
@@ -356,7 +357,7 @@
 | [Pélican](https://open.spotify.com/track/3vE9tuRoHiyNPG5HJQLgNd) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Pélican](https://open.spotify.com/album/7tGOpS4UrTuzHTnnyHv8YS) | 2:45 | 2025-02-13 | 2025-07-04 |
 | [Pêche passion](https://open.spotify.com/track/0DuK0nxqmds0pOjEMj8Ga9) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Pêche passion](https://open.spotify.com/album/4F2byFbowOMCRnzq0kP7u5) | 2:50 | 2025-04-24 | 2025-07-04 |
 | [Quand elle danse](https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Quand elle danse](https://open.spotify.com/album/6Dn9V3wCwHeZdX0YrjKe3K) | 3:11 | 2025-08-14 | 2025-09-05 |
-| [Quasimodo](https://open.spotify.com/track/3Xtx4I7Lu5O6UOK5cCezPT) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Quasimodo](https://open.spotify.com/album/1ssYBHK8BmGT9Wi5aBKErC) | 2:24 | 2025-12-18 |  |
+| [Quasimodo](https://open.spotify.com/track/3Xtx4I7Lu5O6UOK5cCezPT) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Quasimodo](https://open.spotify.com/album/1ssYBHK8BmGT9Wi5aBKErC) | 2:24 | 2025-12-18 | 2026-04-03 |
 | [Que du réel \#4 \- Oh my God](https://open.spotify.com/track/3n3MEYOWxH32NBP78fCQjA) | [Nada](https://open.spotify.com/artist/3ITEeeUF199eEtg4xg3mzB) | [Que du réel \#4 \- Oh my God](https://open.spotify.com/album/3v8Tpyigp9O79jI8VyxtIw) | 2:25 | 2025-11-20 | 2025-12-12 |
 | [Que tu quieres](https://open.spotify.com/track/4xts0kdUEi4Xlqy6LldP3g) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Que tu quieres](https://open.spotify.com/album/65CMeg5l3XqlVYjHeXyugT) | 3:43 | 2025-12-25 |  |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-09-28 | 2023-10-13 |
@@ -365,8 +366,9 @@
 | [Qué Miras Bobo](https://open.spotify.com/track/69V8EffxZePjssPL4h7x87) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Qué Miras Bobo](https://open.spotify.com/album/5StZFX7RwMBri67KR13OF6) | 2:30 | 2025-02-06 | 2025-04-25 |
 | [RAP CONSCIENT](https://open.spotify.com/track/2Hj3OjF1QTf8uqHb5C7ArK) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [RAP CONSCIENT](https://open.spotify.com/album/3AIpkvssKn09gqJpEPXdDG) | 2:16 | 2024-06-27 | 2024-07-19 |
 | [RATATA](https://open.spotify.com/track/4tGZCW0Ik3wASPyZXVjZQo) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [RATATA](https://open.spotify.com/album/22dlDdmFV7p4UaFso2PhHo) | 3:04 | 2025-11-13 | 2026-02-06 |
-| [Red flag](https://open.spotify.com/track/5nscdqclMch8bJcofelBXl) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [Red flag](https://open.spotify.com/album/1DSxsF4IyMBelq0IXloBas) | 2:40 | 2026-01-08 |  |
+| [Red flag](https://open.spotify.com/track/5nscdqclMch8bJcofelBXl) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [Red flag](https://open.spotify.com/album/1DSxsF4IyMBelq0IXloBas) | 2:40 | 2026-01-08 | 2026-04-03 |
 | [Remontada \(feat\. Leto\)](https://open.spotify.com/track/1uLESz9GPo9f3kKyf9Us8M) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Art de rue](https://open.spotify.com/artist/1b27lFoOmpecfaxZGgprtA), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Remontada \(feat\. Leto\)](https://open.spotify.com/album/3G83RKl9LzD6JEfzBhzCU2) | 2:43 | 2024-06-20 | 2024-07-27 |
+| [RENÉ CAOVILLA](https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [RENÉ CAOVILLA](https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR) | 2:17 | 2026-04-02 |  |
 | [Reste Trankil](https://open.spotify.com/track/7B7zzTwckbzoiRz3fAdQq9) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reste Trankil](https://open.spotify.com/album/3oAjyQtWWMRyZ5SM6mWKzm) | 3:19 | 2023-10-12 | 2024-04-05 |
 | [Rihanna](https://open.spotify.com/track/49w3f0FJLmHw0YSzAevGkT) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Dans Ma Bulle](https://open.spotify.com/album/0HHSgD1xD3dhOkYwZwtRRc) | 2:57 | 2025-12-18 | 2026-02-06 |
 | [Risqué](https://open.spotify.com/track/6HCVioNcqAhwl3dkVLBhjE) | [DJ Flash](https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Sous contrôle](https://open.spotify.com/album/4giZXCK1xBPgdea8UmTIpU) | 2:36 | 2024-05-16 | 2024-06-14 |

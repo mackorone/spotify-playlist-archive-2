@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-761 songs - 1 day 14 hr 16 min
+762 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Fade Away](https://open.spotify.com/track/6yGafCLQo7XjTr6eatEhNS) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Jessica Hart](https://open.spotify.com/artist/41WPcAIdEkYBBn9lfiD6us) | [Fade Away](https://open.spotify.com/album/7453KE569DhKAIsAFgGCDi) | 3:44 | 2022-10-14 | 2023-09-04 |
 | [Fade Into Darkness](https://open.spotify.com/track/2MP2r9xNcvNmGCDJDCriu4) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB) | [Fade Into Darkness](https://open.spotify.com/album/63tZ4KGiLkwp2kDgMfXePx) | 3:31 | 2022-04-01 | 2024-05-04 |
 | [Fall At Your Feet](https://open.spotify.com/track/69lKbD1RGW41qnsksqtMuq) | [Lucy Neville](https://open.spotify.com/artist/0bq4n0hc3bUfuqIFU79sBC) | [Fall At Your Feet](https://open.spotify.com/album/3NT7QaUJUgaZb5HBlcXEpv) | 3:22 | 2022-01-14 | 2022-05-14 |
+| [Fallin' In Love](https://open.spotify.com/track/2YDJCPY2OwX6j5pMUPUhY4) | [Ruxolf](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Fallin' In Love](https://open.spotify.com/album/643BjQv5phRpMGFRKOBJ9K) | 2:38 | 2026-03-20 |  |
 | [Fallin' In Love](https://open.spotify.com/track/431fmcuUMXY4plJk9kOoKI) | [RUXOLF](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Fallin' In Love](https://open.spotify.com/album/08l89p4aJeQ5vdrMuEyJpe) | 2:38 | 2023-01-13 | 2023-01-15 |
 | [Falling Fire](https://open.spotify.com/track/4oHR6G7xfAqn0fL63QREbF) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Falling Fire](https://open.spotify.com/album/4AKB3lrLFQFpw8h2tM6wRm) | 3:28 | 2022-01-14 | 2022-12-31 |
 | [Falling For You \(feat\. Jordan Grace\)](https://open.spotify.com/track/0bJWoS4pF3pCchMW9ziIgp) | [Siks](https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Falling For You \(feat\. Jordan Grace\)](https://open.spotify.com/album/6ksvthfLmQpOyn9R1A7pgL) | 2:33 | 2023-05-26 | 2023-08-22 |
@@ -667,7 +668,7 @@
 | [Teenage Heart](https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Teenage Heart](https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX) | 4:03 | 2022-01-14 | 2023-05-18 |
 | [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-01-14 | 2024-05-04 |
 | [The Best Days \(feat\. Tabitha\)](https://open.spotify.com/track/140XpWSdJ0jZEbLj9iVnPA) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [The Best Days \(feat\. Tabitha\)](https://open.spotify.com/album/2rK1aKulqPu5DydpbYfLnZ) | 2:41 | 2022-01-14 | 2023-05-13 |
-| [The Dream](https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF) | [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [The Dream](https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk) | 2:46 | 2023-06-16 |  |
+| [The Dream](https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF) | [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [The Dream](https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk) | 2:46 | 2023-06-16 | 2026-04-03 |
 | [The Flood](https://open.spotify.com/track/79Hkie6ttHO2QMcXs7Jwqp) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [The Flood](https://open.spotify.com/album/0j9MRmq6o0yXbp0Za4ffs5) | 3:05 | 2022-01-14 | 2024-05-04 |
 | [The Great Wide Open](https://open.spotify.com/track/2DogC9NLsgkOD5l34RWWUR) | [Life's A Beach](https://open.spotify.com/artist/2bc5dL3SdvIq8snye5uJZo), [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ) | [The Great Wide Open](https://open.spotify.com/album/6VXmiotNPdpdLhG0v5qxpF) | 2:21 | 2024-05-03 |  |
 | [The Last Ones Standing](https://open.spotify.com/track/4X6wMQec2NHdBhEGUwqUFV) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [The Last Ones Standing](https://open.spotify.com/album/5kJjpj6RYQyz90yewpM6Cb) | 3:28 | 2022-01-14 | 2022-04-18 |

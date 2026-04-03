@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 447472,
+  "num_followers": 447533,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Uma Coisa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 360500,
+      "name": "Uma Coisa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5IY9xOZ28mVZAvjDkXmegz"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Avenida do Arrependimento",
         "url": "https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 390733,
       "name": "Avenida do Arrependimento",
       "url": "https://open.spotify.com/track/6gFSzsRAZOG9tRPcnWwkdT"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Uma Coisa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 360500,
-      "name": "Uma Coisa - Ao Vivo",
-      "url": "https://open.spotify.com/track/5IY9xOZ28mVZAvjDkXmegz"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Alfa e \u00d4mega",
-        "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
-      },
-      "artists": [
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        }
-      ],
-      "duration_ms": 364878,
-      "name": "Alfa e \u00d4mega",
-      "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
         "name": "O Maior Trof\u00e9u",
         "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 311280,
       "name": "O Maior Trof\u00e9u",
       "url": "https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
+        "name": "Alfa e \u00d4mega",
+        "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
+      },
+      "artists": [
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "duration_ms": 364878,
+      "name": "Alfa e \u00d4mega",
+      "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
     },
     {
       "added_at": "2026-01-30 13:05:09",

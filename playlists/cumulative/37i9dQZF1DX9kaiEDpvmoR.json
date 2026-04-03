@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Bara mellan oss",
+        "url": "https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221833,
+      "name": "Bara mellan oss",
+      "url": "https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h"
+    },
+    {
+      "album": {
         "name": "Skebokvarnsv. 209 (Deluxe Version)",
         "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
       },
@@ -852,7 +870,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 167266,
       "name": "Bara vi andas",
       "url": "https://open.spotify.com/track/1WbUSbSwnQ6YbvWiqjoe6L"
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 177026,
       "name": "Country Enough",
       "url": "https://open.spotify.com/track/4BmKl4Z5BnWSqOBAeTL2DJ"
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 190584,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/4djJK0BuxKPm0QyQVXSUEi"
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 169608,
       "name": "Forgive, Forget",
       "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
@@ -3522,7 +3540,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 173447,
       "name": "Henrys gitarr",
       "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
@@ -4242,7 +4260,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 327480,
       "name": "In Your Grace",
       "url": "https://open.spotify.com/track/6mpZzSwKvQxgYtQ0cEBvtx"
@@ -4379,6 +4397,24 @@
     },
     {
       "album": {
+        "name": "Sciura",
+        "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171706,
+      "name": "Inte bra i grupp",
+      "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
+    },
+    {
+      "album": {
         "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
         "url": "https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD"
       },
@@ -4488,6 +4524,24 @@
       "duration_ms": 200694,
       "name": "I\u2019m Here For You Now",
       "url": "https://open.spotify.com/track/2mrFXNlzPzqIpFZnZorm2L"
+    },
+    {
+      "album": {
+        "name": "Jack & Coke",
+        "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Jack & Coke",
+      "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
     },
     {
       "album": {
@@ -6057,6 +6111,24 @@
     },
     {
       "album": {
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238427,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"
+    },
+    {
+      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
       },
@@ -6682,7 +6754,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 245614,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/3PFolCodainwsFza3S2IYZ"
@@ -7260,6 +7332,28 @@
       "duration_ms": 218507,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/23mymG8MR8H4oQ6uyJ40cQ"
+    },
+    {
+      "album": {
+        "name": "Show Me Your Heart",
+        "url": "https://open.spotify.com/album/1i9Gi892Z4rD4GCKr0Dadp"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        },
+        {
+          "name": "Tingsek",
+          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197417,
+      "name": "Show Me Your Heart",
+      "url": "https://open.spotify.com/track/4Fe0BVxBWsHG8LfHCYq6kp"
     },
     {
       "album": {
@@ -7866,7 +7960,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 263360,
       "name": "Stillhet",
       "url": "https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ"
@@ -8135,6 +8229,28 @@
     },
     {
       "album": {
+        "name": "Superlim & silvertejp",
+        "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193634,
+      "name": "Superlim & silvertejp",
+      "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
+    },
+    {
+      "album": {
         "name": "Svindlande h\u00f6jder",
         "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
       },
@@ -8392,7 +8508,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 220664,
       "name": "The Loneliest Girl In The World - T&A Demo, March 8+9, 2020",
       "url": "https://open.spotify.com/track/06B38tKYdFqU2K6BZkwihV"

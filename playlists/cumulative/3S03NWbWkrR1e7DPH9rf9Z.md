@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-230 songs - 11 hr 14 min
+231 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Wanna Rock](https://open.spotify.com/track/33PX42yfwXnmeowcZktYmL) | [Sebastian Bronk](https://open.spotify.com/artist/4Iau0oBg23all6HbsD98lm) | [Revealed Recordings presents ADE Sampler 2023](https://open.spotify.com/album/0DB4352TIbGPGz1gSkENN8) | 2:43 | 2025-07-04 | 2025-08-26 |
 | [We Are Free](https://open.spotify.com/track/36vCzShuqcVtAikqtpPTmT) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt), [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [We Are Free](https://open.spotify.com/album/3PynmYXtpWvXeiabyyBH6k) | 2:42 | 2025-07-04 |  |
 | [We Can't Stop](https://open.spotify.com/track/7b5FO1uKhuJE0ZUJPKLWtI) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [We Can't Stop](https://open.spotify.com/album/27LVMe5wMsHddairHoCux2) | 2:02 | 2025-07-04 |  |
+| [We Come As One](https://open.spotify.com/track/02Eg51HAwz1JmK4yPxV4ui) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [We Come As One](https://open.spotify.com/album/1YbMdMt6TsASotL4jueGGG) | 2:55 | 2026-04-02 |  |
 | [We Don't Care \- SaberZ Remix](https://open.spotify.com/track/0ZP7z0N7Fui5YWs6g1kHYF) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [We Don’t Care \(Incl\. SaberZ Remix\)](https://open.spotify.com/album/2ZhZGTgIcuySWBOYqQwK1X) | 3:10 | 2025-07-04 |  |
 | [Welcome To The Weekend](https://open.spotify.com/track/16TlP5h8EAcM3umJfAV5jT) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Welcome To The Weekend](https://open.spotify.com/album/1ySr3refuNS1FVvYTxwIO9) | 2:54 | 2025-07-04 |  |
 | [Why \- BLK RSE Remix](https://open.spotify.com/track/3pasvjHpIOyUEIuFgB9KaD) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [Why \(BLK RSE Remix\)](https://open.spotify.com/album/3UQ5fqGMimlIULruwBMZhf) | 2:52 | 2025-07-04 |  |

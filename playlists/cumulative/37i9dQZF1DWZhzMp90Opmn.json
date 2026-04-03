@@ -4340,7 +4340,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 191393,
       "name": "Pink Background Noise",
       "url": "https://open.spotify.com/track/0Cyu5QUCoVNXMFjcjyRBru"
@@ -8322,7 +8322,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 165000,
       "name": "Pink Rest State",
       "url": "https://open.spotify.com/track/5rahjnV9yrqqVbfmJ30KEQ"
@@ -9985,6 +9985,24 @@
     },
     {
       "album": {
+        "name": "Pink Noise for Studying",
+        "url": "https://open.spotify.com/album/4oj6vfbeeqSp1E94mAvsrO"
+      },
+      "artists": [
+        {
+          "name": "Empyrean",
+          "url": "https://open.spotify.com/artist/3KMNkkaZzoo0wfCzVZ3pri"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137454,
+      "name": "Sleepy Pink Noise",
+      "url": "https://open.spotify.com/track/3hUWybTxqDBpU4boUIjTVJ"
+    },
+    {
+      "album": {
         "name": "Pink Noizzze",
         "url": "https://open.spotify.com/album/5oh3UTFF1GZp4lyA7wDTeb"
       },
@@ -10252,6 +10270,24 @@
       "duration_ms": 173994,
       "name": "Soft Pink Echoes",
       "url": "https://open.spotify.com/track/0YGPcFjfOZ36hccZzWBiDK"
+    },
+    {
+      "album": {
+        "name": "Soft Pink Noise",
+        "url": "https://open.spotify.com/album/6VekMONmw1s4OJoIqbMTBu"
+      },
+      "artists": [
+        {
+          "name": "Indika",
+          "url": "https://open.spotify.com/artist/6vl0jfkfF6pKuUQPJhWshU"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119129,
+      "name": "Soft Pink Noise",
+      "url": "https://open.spotify.com/track/5KHwBQEvflrnRBCLe1hrhO"
     },
     {
       "album": {

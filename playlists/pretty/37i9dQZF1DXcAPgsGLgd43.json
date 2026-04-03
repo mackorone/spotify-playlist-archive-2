@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 112885,
+  "num_followers": 112954,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-03-27 17:36:05",
       "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
+    },
+    {
+      "added_at": "2026-03-27 17:36:05",
+      "album": {
         "name": "La bohemia",
         "url": "https://open.spotify.com/album/6xQ8fWvwPReZSU4uRkUI8p"
       },
@@ -1479,18 +1495,22 @@
     {
       "added_at": "2026-03-27 17:36:05",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
       "artists": [
         {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     },
     {
       "added_at": "2026-03-27 17:36:05",
@@ -1511,26 +1531,6 @@
       "duration_ms": 218813,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
-    },
-    {
-      "added_at": "2026-03-27 17:36:05",
-      "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Sam Collins",
-          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     },
     {
       "added_at": "2026-03-27 17:36:05",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2026-03-27 17:36:05",
       "album": {
-        "name": "Vamos A La Playa",
-        "url": "https://open.spotify.com/album/3geRmvgFf5Bnei4MaCblqL"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Miranda",
-          "url": "https://open.spotify.com/artist/6Cm8HAcz329ltnH1h5s68Y"
-        }
-      ],
-      "duration_ms": 176818,
-      "name": "Vamos A La Playa (Feat. Miranda)",
-      "url": "https://open.spotify.com/track/7jhZ9ObYAmlHSoP6w6xB9g"
-    },
-    {
-      "added_at": "2026-03-27 17:36:05",
-      "album": {
         "name": "BaBaBa (Hangover)",
         "url": "https://open.spotify.com/album/3Xq4k9A16wDzWLrwLM6rTo"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 172384,
       "name": "BaBaBa (Hangover)",
       "url": "https://open.spotify.com/track/14lJLTWfq5vkoe2CZksFvC"
+    },
+    {
+      "added_at": "2026-03-27 17:36:05",
+      "album": {
+        "name": "Vamos A La Playa",
+        "url": "https://open.spotify.com/album/3geRmvgFf5Bnei4MaCblqL"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Miranda",
+          "url": "https://open.spotify.com/artist/6Cm8HAcz329ltnH1h5s68Y"
+        }
+      ],
+      "duration_ms": 176818,
+      "name": "Vamos A La Playa (Feat. Miranda)",
+      "url": "https://open.spotify.com/track/7jhZ9ObYAmlHSoP6w6xB9g"
     },
     {
       "added_at": "2026-03-27 17:36:05",

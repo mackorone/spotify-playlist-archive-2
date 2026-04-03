@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: KVRVBO",
+  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: Artwork Sounds",
   "name": "Deep House Session",
   "tracks": [
     {
@@ -3209,6 +3209,32 @@
     },
     {
       "album": {
+        "name": "The Gospel According To Artwork Sounds IV",
+        "url": "https://open.spotify.com/album/2EYccFevFRTjs29r5NeU8C"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        },
+        {
+          "name": "Wav Gardn",
+          "url": "https://open.spotify.com/artist/5ICrK2OM6TBc2tgc3uK9rY"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431437,
+      "name": "ITHUBA",
+      "url": "https://open.spotify.com/track/70kL57xnkQxWspHIaGhLMD"
+    },
+    {
+      "album": {
         "name": "Ivar the Boneless",
         "url": "https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I"
       },
@@ -5540,7 +5566,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 350892,
       "name": "Ratata",
       "url": "https://open.spotify.com/track/2lMTb7VeVVkQrhIz8uS8dP"
@@ -6800,7 +6826,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 407431,
       "name": "The Chants - Deep Mix",
       "url": "https://open.spotify.com/track/1hGR7HalrcS1fvvs47aC6I"
@@ -8002,6 +8028,28 @@
       "duration_ms": 421000,
       "name": "Yebo Baba",
       "url": "https://open.spotify.com/track/6PsoO4efqsHrJxSxmjl8yJ"
+    },
+    {
+      "album": {
+        "name": "Yebo! (feat. Dj Xivo)",
+        "url": "https://open.spotify.com/album/2t9nUvhEf1ijG3kF575tk2"
+      },
+      "artists": [
+        {
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+        },
+        {
+          "name": "Dj Xivo",
+          "url": "https://open.spotify.com/artist/3FQ0rSSQdBSz58KxGts86A"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Yebo! (feat. Dj Xivo)",
+      "url": "https://open.spotify.com/track/2191d9q8ELxARX4Ei92ltj"
     },
     {
       "album": {

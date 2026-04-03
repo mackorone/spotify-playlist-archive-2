@@ -3827,6 +3827,32 @@
     },
     {
       "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/6CWS2QAvjz3X00NI8ncTvf"
+      },
+      "artists": [
+        {
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
+        },
+        {
+          "name": "Zakwe",
+          "url": "https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd"
+        },
+        {
+          "name": "Tshwane Gospel Choir",
+          "url": "https://open.spotify.com/artist/3mQR6Ep0xUi6lekkWfqMpi"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286829,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/6v5wbwIesk0dHAI6M8PJPp"
+    },
+    {
+      "album": {
         "name": "Restored (Live)",
         "url": "https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5"
       },
@@ -5826,6 +5852,32 @@
       "duration_ms": 360336,
       "name": "Sefapanong - Live",
       "url": "https://open.spotify.com/track/7D0TvTgatksJxLKdmFwEAV"
+    },
+    {
+      "album": {
+        "name": "Sekgabile",
+        "url": "https://open.spotify.com/album/4q536HuCPsdzVaWP0fdAv3"
+      },
+      "artists": [
+        {
+          "name": "Puleng March",
+          "url": "https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn"
+        },
+        {
+          "name": "Nhlanhla Zofo",
+          "url": "https://open.spotify.com/artist/2puGaMi4O5GZENkA9Mq7PA"
+        },
+        {
+          "name": "Rev M Sontshi",
+          "url": "https://open.spotify.com/artist/4RJvuKln6rAsDwBMyS9vrM"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504666,
+      "name": "Sekgabile",
+      "url": "https://open.spotify.com/track/03i77NTIKBUvQoKEEgsVaV"
     },
     {
       "album": {
@@ -8600,6 +8652,28 @@
       "duration_ms": 367306,
       "name": "Yebo Nkosi Yami",
       "url": "https://open.spotify.com/track/3RFsQEu3pL5aGw9YG1gCLV"
+    },
+    {
+      "album": {
+        "name": "Yehlis'uMoya (Live)",
+        "url": "https://open.spotify.com/album/6UYtaXAzhw6u7sLeWCFwyd"
+      },
+      "artists": [
+        {
+          "name": "3C Live",
+          "url": "https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT"
+        },
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363000,
+      "name": "Yehlis'uMoya (Live)",
+      "url": "https://open.spotify.com/track/0Slb0OZ6AErNcYYAhErEIt"
     },
     {
       "album": {

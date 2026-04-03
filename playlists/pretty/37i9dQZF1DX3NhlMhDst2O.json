@@ -1,6 +1,6 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 165876,
+  "num_followers": 165954,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Antolog\u00eda. . . Los Solitarios",
-        "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Sufrir",
-      "url": "https://open.spotify.com/track/5hFkKLE06GhSuqoLJR2oP7"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
         "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 180426,
       "name": "Olvidarte Nunca - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Antolog\u00eda. . . Los Solitarios",
+        "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Sufrir",
+      "url": "https://open.spotify.com/track/5hFkKLE06GhSuqoLJR2oP7"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Recordando Monterrey",
-        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Cuando Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Coleccion Suprema Plus- Los Polifaceticos",
         "url": "https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 187173,
       "name": "Cuatro Lagrimas",
       "url": "https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Recordando Monterrey",
+        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Cuando Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "Ana Gabriel Todos Sus Exitos",
+        "url": "https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/5eQxyKQ8wVlpP7nTMCAVww"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "Palito Ortega y Sus \u00c9xitos",
         "url": "https://open.spotify.com/album/6vWqqBI2PSTDoROOU6IdE3"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 229668,
       "name": "Doce Rosas",
       "url": "https://open.spotify.com/track/4EPJIgQaRIuDZRm1qe9RrA"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Ana Gabriel Todos Sus Exitos",
-        "url": "https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/5eQxyKQ8wVlpP7nTMCAVww"
     },
     {
       "added_at": "2025-01-28 15:41:46",

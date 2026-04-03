@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-163 songs - 8 hr 58 min
+164 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Money Emotions](https://open.spotify.com/track/79KjJ83HOF9hKl7eUC9yfq) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Money & Other Things](https://open.spotify.com/album/1lSq8AREi188gD0KDrHdQ9) | 2:46 | 2023-10-20 | 2025-05-30 |
 | [moonblush](https://open.spotify.com/track/5vopOwOC7OSmxGBqNf8aRa) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [Hurricane Dan Fischer](https://open.spotify.com/artist/6FBvTqUW5FkfopSN89CGtP), [Ridym](https://open.spotify.com/artist/0oHKQJYVEgW3r3NzOX0YyY) | [olympean](https://open.spotify.com/album/6sSChOGxUAliFMngXURrWf) | 2:33 | 2024-11-21 |  |
 | [Motorola Money](https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Motorola Money](https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG) | 1:50 | 2024-05-03 |  |
-| [Mtoto Wa Wenyewe](https://open.spotify.com/track/4hhp9MtmqeijTpyRR5oSpS) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Mtoto Wa Wenyewe](https://open.spotify.com/album/6Wf24C2m0yWcDevjGQv7DZ) | 3:49 | 2025-07-10 |  |
+| [Mtoto Wa Wenyewe](https://open.spotify.com/track/4hhp9MtmqeijTpyRR5oSpS) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Mtoto Wa Wenyewe](https://open.spotify.com/album/6Wf24C2m0yWcDevjGQv7DZ) | 3:49 | 2025-07-10 | 2026-04-03 |
 | [Muse](https://open.spotify.com/track/7mlh81rZvoDlHCXBiowqrg) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse](https://open.spotify.com/album/47vsQwer42Eb6hKTFdAuEz) | 5:07 | 2024-05-30 | 2025-04-16 |
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 | 2024-06-01 |
 | [Mwanga We Wajua](https://open.spotify.com/track/7K6kgMnTPLqR8p04M6dG8H) | [Hope Hajir](https://open.spotify.com/artist/1pK84UqJKAOW6uOWmpR5cN) | [Mwanga We Wajua](https://open.spotify.com/album/34iOJa2njy5Ym74bpxLeVl) | 1:23 | 2023-06-30 | 2024-04-27 |
@@ -96,6 +96,7 @@
 | [Nakungoja](https://open.spotify.com/track/2eXcfadwFQqOuxsBV3YIvQ) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2) | [Nakungoja](https://open.spotify.com/album/5B3APlvJ1MTbaLrNFFsdqE) | 2:28 | 2025-08-21 |  |
 | [Narcissus](https://open.spotify.com/track/3VOiBodB2ZqAhaA1kbtmuM) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Narcissus](https://open.spotify.com/album/5rmgacCroc3SaJKLI6Gvbc) | 2:11 | 2025-06-13 |  |
 | [Next to You](https://open.spotify.com/track/6jzTlL6HZzakz2kTUU38WG) | [Macua](https://open.spotify.com/artist/41ODikbo3Wh2SWsZORQJIh), [Attara](https://open.spotify.com/artist/7q9Oam3CwOj6bP7JfSPApN) | [Next to You](https://open.spotify.com/album/2nRJDMEAicvIZv4NQp5z1E) | 2:43 | 2026-02-05 |  |
+| [Ni Bless](https://open.spotify.com/track/4HLmDtZB8X4jBBPr1AcJCQ) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Ni Bless](https://open.spotify.com/album/4Dt2N6dyKmLmLqWRS5kYs3) | 3:33 | 2026-04-02 |  |
 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2023-06-30 | 2024-05-04 |
 | [no promises](https://open.spotify.com/track/6zH0Q8VlQs18p6TFe9xD8H) | [Klyffe](https://open.spotify.com/artist/3cUBcmugvvHi9RW6hDGnmO) | [no promises](https://open.spotify.com/album/7r3JRAU0Oy7ONXhO4ddt8l) | 3:37 | 2026-01-29 | 2026-03-20 |
 | [Not My Own](https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Not My Own](https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D) | 2:16 | 2023-06-30 | 2025-11-28 |

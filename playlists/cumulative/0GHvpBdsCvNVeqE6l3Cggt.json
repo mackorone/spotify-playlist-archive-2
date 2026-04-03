@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Not There",
+        "url": "https://open.spotify.com/album/2OpqAFx1fBVA2Ap2SBoXkR"
+      },
+      "artists": [
+        {
+          "name": "blanket season",
+          "url": "https://open.spotify.com/artist/6MkM0uop587AXtnDFsQJMC"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184559,
+      "name": "Not There",
+      "url": "https://open.spotify.com/track/5qu1ZbZglE1eEpketsdNCL"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/6k6Mm0cN1KMKYAam21oTQc"
       },

@@ -4,12 +4,12 @@
 
 > Ideale muziek voor de werkdag
 
-627 songs - 1 day 11 hr 38 min
+630 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 | 2023-02-23 | 2024-10-04 |
-| [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 | 2024-03-26 |  |
+| [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 | 2024-03-26 | 2026-04-03 |
 | [17](https://open.spotify.com/track/0ipSZJxKLs1F2LNTl0GF6y) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [17](https://open.spotify.com/album/2xmOMHzLhu5BgzpGOWkOWe) | 3:38 | 2023-09-07 |  |
 | [1973](https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 4:40 | 2023-02-23 | 2025-05-10 |
 | [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 | 2025-09-11 |  |
@@ -243,7 +243,7 @@
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2023-02-23 | 2024-12-21 |
 | [How To Stop It](https://open.spotify.com/track/1C1zYsvtEw9nROGnQL40wh) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [How To Stop It](https://open.spotify.com/album/1x880PZgDNpeG3M67BmCpX) | 2:44 | 2025-05-08 |  |
 | [Hungry](https://open.spotify.com/track/4xqm63jD6sXXbdLrAa09px) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 3:29 | 2023-02-23 | 2024-04-19 |
-| [Hunter](https://open.spotify.com/track/0tu3IW9kbapTXjdgp7ClFL) | [Sandra van Nieuwland](https://open.spotify.com/artist/255PaovXNzjBcODZn42QgC) | [Hunter](https://open.spotify.com/album/5PmxMLXItoWNckYoSPgKfY) | 3:05 | 2023-02-23 |  |
+| [Hunter](https://open.spotify.com/track/0tu3IW9kbapTXjdgp7ClFL) | [Sandra van Nieuwland](https://open.spotify.com/artist/255PaovXNzjBcODZn42QgC) | [Hunter](https://open.spotify.com/album/5PmxMLXItoWNckYoSPgKfY) | 3:05 | 2023-02-23 | 2026-04-03 |
 | [Hurricane \- Acoustic Version](https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane \(Acoustic Version\)](https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy) | 2:50 | 2023-02-23 |  |
 | [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2025-05-12 |  |
 | [Hurt Somebody \(With Julia Michaels\)](https://open.spotify.com/track/7vA2Y79Q4bBqdzBCfHeGEe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/1TMA2dKLdsJZ8u1iikE6Ow) | 2:48 | 2023-02-23 | 2023-04-26 |
@@ -388,6 +388,7 @@
 | [Nova](https://open.spotify.com/track/58320MeXvjRR0ATsTKSUja) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Nova](https://open.spotify.com/album/6pzKtk1M2lDTaNT5wyH6AI) | 2:22 | 2024-11-14 | 2025-01-24 |
 | [Now That We’ve Found Love](https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB), [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY) | [Now That We’ve Found Love](https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8) | 2:34 | 2023-02-23 |  |
 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 | 2023-02-23 | 2025-04-29 |
+| [Obsession](https://open.spotify.com/track/40XiAOitWuV9bJKh4DHHpB) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Obsession](https://open.spotify.com/album/0VSzTgBV31f6bVRW4emJiN) | 3:01 | 2026-04-02 |  |
 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 | 2025-09-25 |  |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 | 2025-09-11 |
 | [On My Mind](https://open.spotify.com/track/5iq8DndLIqUnZJbfteoOTu) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6) | [On My Mind](https://open.spotify.com/album/6q4Ss6nSwVlTSKDttPyqjb) | 2:42 | 2025-09-25 |  |
@@ -512,7 +513,7 @@
 | [Sunshine](https://open.spotify.com/track/3TjE3x4D8uGjEAphQkVzk7) | [Ginger Ninja](https://open.spotify.com/artist/5wnA6TC3CtmprSekn0n59P) | [Wicked Map](https://open.spotify.com/album/4wvNU1fLBizBoBuAZeqnuc) | 3:15 | 2023-02-23 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2024-07-26 | 2024-09-28 |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-18 | 2025-11-11 |
-| [Swim With Sam \- rerecorded](https://open.spotify.com/track/7HWxIBizOFNo505Ljw6IcV) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Swim With Sam](https://open.spotify.com/album/3NSLHcKHZ8422YD7MQO8Ch) | 4:23 | 2023-02-23 |  |
+| [Swim With Sam \- rerecorded](https://open.spotify.com/track/7HWxIBizOFNo505Ljw6IcV) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Swim With Sam](https://open.spotify.com/album/3NSLHcKHZ8422YD7MQO8Ch) | 4:23 | 2023-02-23 | 2026-04-03 |
 | [Table Of Fools](https://open.spotify.com/track/0QSJddfRGIfStqy0DZ9pvw) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Table Of Fools](https://open.spotify.com/album/6DNHrREOywqBISE6MW7hCk) | 3:24 | 2023-02-23 |  |
 | [Take A Chance \- Acoustic](https://open.spotify.com/track/7maJDADttwHBFlcuTzf2s9) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Take A Chance \(Acoustic\)](https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf) | 2:46 | 2023-02-23 |  |
 | [Take Mine](https://open.spotify.com/track/1aE7IyH98sfj1GjpzitNfE) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [City Of Our Lives](https://open.spotify.com/album/3vWGsppgWED2VQZxBSh56t) | 3:05 | 2023-02-23 | 2024-03-20 |
@@ -545,6 +546,7 @@
 | [The Poetry Man](https://open.spotify.com/track/0BLMTt0ufk4vqgKUU6T3MP) | [Stevie Ann](https://open.spotify.com/artist/0BLtgRpARRInhUuj2RnpBJ) | [Away From Here](https://open.spotify.com/album/2sU6VJXNO21g8i55eZY9f7) | 4:44 | 2023-02-23 | 2025-08-31 |
 | [The Reason](https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 3:52 | 2024-01-16 | 2024-04-19 |
 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 | 2023-04-06 | 2024-09-25 |
+| [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-04-02 |  |
 | [The Wait Is Over!](https://open.spotify.com/track/71ngUdvQfCsmK6pVWv9twa) | [Matthew Crosby](https://open.spotify.com/artist/6USf974SHTa6CJBaXcHO4r) | [The Wait Is Over!](https://open.spotify.com/album/30aDWY29De1BweSR5kEZoY) | 3:55 | 2023-04-25 |  |
 | [Theatre of Life](https://open.spotify.com/track/0TELVigVXQUi3BvEMUSA4v) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s), [Iolanda Boban](https://open.spotify.com/artist/6Cij3Lukc7JSSOoQWe6Da4) | [Theatre of Life](https://open.spotify.com/album/34R9rtDKVV76KGIqoOYLTV) | 2:58 | 2023-05-18 | 2024-03-20 |
 | [These Nights](https://open.spotify.com/track/5769eZb8t1ufXgk2Iq5ZMZ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [These Nights](https://open.spotify.com/album/7LivGxiTjQCQAau5AsMfbN) | 2:57 | 2025-04-28 |  |
@@ -635,5 +637,6 @@
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2023-02-23 | 2023-04-26 |
 | [Young Ones](https://open.spotify.com/track/1e9ec75rofTKNnaAC5885Y) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Time Will Heal Our Senses](https://open.spotify.com/album/2rMPYckv6JT8YOXjECPCfA) | 3:55 | 2024-04-11 | 2026-02-07 |
 | [Young Ones](https://open.spotify.com/track/1p5rkJjrlNhewXpCNuNwfl) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Summer Hits 2011](https://open.spotify.com/album/0ZyAIkXXHhQZw8uW0A1hyh) | 3:55 | 2023-04-25 | 2024-01-17 |
+| [Younger You \- From the "Hannah Montana 20th Anniversary Special"](https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger You \(From the "Hannah Montana 20th Anniversary Special"\)](https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6) | 2:47 | 2026-04-02 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

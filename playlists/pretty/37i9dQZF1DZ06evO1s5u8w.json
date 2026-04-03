@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 201650,
+  "num_followers": 201680,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAADYYw/YbsEp229xfdSaupt3",
+  "snapshot_id": "acxgAAAAAAC5bvRWVSV4J8bTExiE7crf",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Don't Worry About the Government",
+      "url": "https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Songs About Buildings and Food",
         "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Don't Worry About the Government",
-      "url": "https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -587,38 +587,6 @@
       "duration_ms": 204520,
       "name": "Seen and Not Seen - 2005 Remaster",
       "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Perfect World - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 360640,
-      "name": "What a Day That Was - Live; Edit",
-      "url": "https://open.spotify.com/track/1qRbIDeJnmfnglzlJI8kOK"
     },
     {
       "added_at": null,
@@ -655,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food",
-        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "The Good Thing",
-      "url": "https://open.spotify.com/track/0DO7AUeYAx9oUG7gyrbdTD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -680,9 +632,25 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 270800,
-      "name": "Genius of Love (Tom Tom Club) - Live",
-      "url": "https://open.spotify.com/track/1Z0jkAvtK78wrDc5odDtdX"
+      "duration_ms": 360640,
+      "name": "What a Day That Was - Live; Edit",
+      "url": "https://open.spotify.com/track/1qRbIDeJnmfnglzlJI8kOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Perfect World - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
     },
     {
       "added_at": null,
@@ -719,6 +687,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 270800,
+      "name": "Genius of Love (Tom Tom Club) - Live",
+      "url": "https://open.spotify.com/track/1Z0jkAvtK78wrDc5odDtdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Songs About Buildings and Food",
+        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "The Good Thing",
+      "url": "https://open.spotify.com/track/0DO7AUeYAx9oUG7gyrbdTD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food",
-        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 234960,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/4tqipsSOnLHM8UbH6kzvXO"
+      "duration_ms": 210013,
+      "name": "Memories Can't Wait - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "More Songs About Buildings and Food",
+        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Memories Can't Wait - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
+      "duration_ms": 234960,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/4tqipsSOnLHM8UbH6kzvXO"
     },
     {
       "added_at": null,

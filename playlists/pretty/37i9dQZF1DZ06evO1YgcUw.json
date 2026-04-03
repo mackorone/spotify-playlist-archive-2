@@ -1,12 +1,12 @@
 {
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
-  "num_followers": 341067,
+  "num_followers": 341080,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAACQv+9/Id4rGFJFr1YlhrHH",
+  "snapshot_id": "acxgAAAAAACNQ4mJREUhzbXnhUZgX0Bv",
   "tracks": [
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sail On Sailor \u2013 1972 (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0tOjOMLH9dwS5ITlwtgz9k"
+        "name": "L.A. (Light Album) [Remastered]",
+        "url": "https://open.spotify.com/album/48nGKNICvdcZSWHwEkIIQz"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 31296,
-      "name": "I'm The Pied Piper - A Cappella Section",
-      "url": "https://open.spotify.com/track/21cBdopm6fSgfLnplL7qVT"
+      "duration_ms": 239240,
+      "name": "Lady Lynda - Remastered 2000",
+      "url": "https://open.spotify.com/track/4wObUmV0gM20Rnahfo2FJ4"
     }
   ],
   "unique_name": "This Is The Beach Boys",

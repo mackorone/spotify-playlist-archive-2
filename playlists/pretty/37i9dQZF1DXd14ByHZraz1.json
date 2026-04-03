@@ -1,6 +1,6 @@
 {
   "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Almanac",
-  "num_followers": 921288,
+  "num_followers": 921227,
   "original_name": "mint brasil",
   "owner": {
     "name": "Spotify",
@@ -582,6 +582,10 @@
         {
           "name": "Evoxx",
           "url": "https://open.spotify.com/artist/4ARaZW5s4DFmr6kalIPHI6"
+        },
+        {
+          "name": "SAM SAM",
+          "url": "https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU"
         }
       ],
       "duration_ms": 165230,

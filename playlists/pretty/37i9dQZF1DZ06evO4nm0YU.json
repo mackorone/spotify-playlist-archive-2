@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 187399,
+  "num_followers": 187437,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAAAoAURCtk4yt5rdWY57jcB2",
+  "snapshot_id": "acxgAAAAAAAm127oh5lywLJr47gz6+z0",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "49 Minutes",
-        "url": "https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72"
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
         },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 497640,
-      "name": "Timbalero",
-      "url": "https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q"
+      "duration_ms": 391320,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
     },
     {
       "added_at": null,
@@ -507,22 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+        "name": "49 Minutes",
+        "url": "https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 391320,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
+      "duration_ms": 497640,
+      "name": "Timbalero",
+      "url": "https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz (Remastered 2023)",
-        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 392131,
-      "name": "Rompe Sarag\u00fcey - Remastered 2023",
-      "url": "https://open.spotify.com/track/3WAV5R3aBDpT10YhxVoQv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strikes Back",
         "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 223040,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6hqqBWimVhXmWcA8OMzTKX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Voz (Remastered 2023)",
+        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 392131,
+      "name": "Rompe Sarag\u00fcey - Remastered 2023",
+      "url": "https://open.spotify.com/track/3WAV5R3aBDpT10YhxVoQv3"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+        "name": "\u00a1Que Sentimiento!",
+        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 574800,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/5UCnz9Q6GSFLl6oeCSaSSZ"
+      "duration_ms": 366586,
+      "name": "\u00c9l Son",
+      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Que Sentimiento!",
-        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 366586,
-      "name": "\u00c9l Son",
-      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
+      "duration_ms": 574800,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/5UCnz9Q6GSFLl6oeCSaSSZ"
     }
   ],
   "unique_name": "This Is H\u00e9ctor Lavoe",

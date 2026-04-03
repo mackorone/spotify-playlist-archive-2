@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Pond",
+  "description": "New and local indie noise. Cover: Ecca Vandal",
   "name": "Local Noise",
   "tracks": [
     {
@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Andy's Place",
+        "url": "https://open.spotify.com/album/1FLtasaAsJAHr26wlfO9iy"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192663,
+      "name": "Andy's Place",
+      "url": "https://open.spotify.com/track/7hVbWsIgLEUd5ghe5BJ0gN"
+    },
+    {
+      "album": {
         "name": "Angela",
         "url": "https://open.spotify.com/album/28FfHkZdHj58QwUbxmB3eM"
       },
@@ -1259,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "BATH WATER",
+        "url": "https://open.spotify.com/album/3g2iiKMvkwdNr5WN57fTJH"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149817,
+      "name": "BATH WATER",
+      "url": "https://open.spotify.com/track/0ZjK3E7iStZSYjVZ0rKKMW"
+    },
+    {
+      "album": {
         "name": "Beast Of You",
         "url": "https://open.spotify.com/album/2HEdIKK7hSCwn3lFWxZzAe"
       },
@@ -1684,7 +1720,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 215783,
       "name": "BLEED",
       "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
@@ -2228,7 +2264,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 204800,
       "name": "CARDINAL",
       "url": "https://open.spotify.com/track/0adH0QpjjIuBOhkOKac9YV"
@@ -2300,7 +2336,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 202103,
       "name": "Catching Up 2 U",
       "url": "https://open.spotify.com/track/2ylOJDYb91xiRaLs3kKtqD"
@@ -2786,7 +2822,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 167122,
       "name": "Claws",
       "url": "https://open.spotify.com/track/4lOAlq0GpCLH7VqlFOmCVJ"
@@ -3153,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "COOLER",
+        "url": "https://open.spotify.com/album/6VJFXjJCOKeLGKwrBYq5K1"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "COOLER",
+      "url": "https://open.spotify.com/track/5hsDbZdZRHdpjOrGvMmBuI"
+    },
+    {
+      "album": {
         "name": "Cost Of Living",
         "url": "https://open.spotify.com/album/1hzesLwWWraYhyJTSHZJGD"
       },
@@ -3218,7 +3272,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 121350,
       "name": "Count",
       "url": "https://open.spotify.com/track/2cmEv97rWoWgCq95x2hp54"
@@ -3362,7 +3416,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 281703,
       "name": "Cruisy Confusion",
       "url": "https://open.spotify.com/track/5N4TcbYTSRCoN7MVX9rGmL"
@@ -3470,7 +3524,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 129866,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG"
@@ -3748,6 +3802,42 @@
       "duration_ms": 103366,
       "name": "DND",
       "url": "https://open.spotify.com/track/0B2ADsLW4cGnr1elxcLRm3"
+    },
+    {
+      "album": {
+        "name": "Angel Glands",
+        "url": "https://open.spotify.com/album/7xu9ZmLrJlQ3v3eQp8SB1r"
+      },
+      "artists": [
+        {
+          "name": "HEADSEND",
+          "url": "https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248118,
+      "name": "Do Do",
+      "url": "https://open.spotify.com/track/7fBGO13V5jWSKzXWPP4Kus"
+    },
+    {
+      "album": {
+        "name": "Do It All Again",
+        "url": "https://open.spotify.com/album/6n1EV11naIu4D2mwlA7E9n"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206327,
+      "name": "Do It All Again",
+      "url": "https://open.spotify.com/track/76hgSsuNU7ysrLcTN74TXv"
     },
     {
       "album": {
@@ -4735,6 +4825,24 @@
     },
     {
       "album": {
+        "name": "High Voltage Anxiety",
+        "url": "https://open.spotify.com/album/1RWQG4vJaKQdEDb0pvyxVZ"
+      },
+      "artists": [
+        {
+          "name": "Cry Club",
+          "url": "https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202736,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/5eI8uYRyWCkibPBFpUmmmc"
+    },
+    {
+      "album": {
         "name": "Feels Like Woah",
         "url": "https://open.spotify.com/album/368XKvA778eRn5cKniqjwU"
       },
@@ -5459,6 +5567,24 @@
     },
     {
       "album": {
+        "name": "Guilty As Hell",
+        "url": "https://open.spotify.com/album/2nXfllovhmnqWpeIFV3DPQ"
+      },
+      "artists": [
+        {
+          "name": "Down And Out",
+          "url": "https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183396,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/39VjxIoI9NTBZEZLuCFlUV"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/6vlTk7BgK4vhCOwWVXTtDk"
       },
@@ -5528,7 +5654,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 178333,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/22yzFzFoICiGnFjgdl0JAk"
@@ -6036,7 +6162,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 162333,
       "name": "HEADSPINNER",
       "url": "https://open.spotify.com/track/1TOHLrOndix1KzXjHTG87L"
@@ -6242,6 +6368,24 @@
       "duration_ms": 179143,
       "name": "Hiding From",
       "url": "https://open.spotify.com/track/7ziFwOtyqyEvyRg1rLvpRA"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5FTAbdKHBZgtpCRSPrfauT"
+      },
+      "artists": [
+        {
+          "name": "Bronte Alva",
+          "url": "https://open.spotify.com/artist/0pOi3jQPLxu1ruQahY1Twm"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161476,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2yJv4R87Rw9pce7Q7tWNf5"
     },
     {
       "album": {
@@ -6605,6 +6749,24 @@
     },
     {
       "album": {
+        "name": "For Then",
+        "url": "https://open.spotify.com/album/2NdArO2qIfFZbgSl8Vgeiq"
+      },
+      "artists": [
+        {
+          "name": "Ullah",
+          "url": "https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146649,
+      "name": "How to Dance Pt.2",
+      "url": "https://open.spotify.com/track/1kHwK0eJjFkP1Ytp4EZBYb"
+    },
+    {
+      "album": {
         "name": "Howler",
         "url": "https://open.spotify.com/album/1Mk59u6AVdHI9Vcp7CLr0i"
       },
@@ -6786,6 +6948,24 @@
       "duration_ms": 166588,
       "name": "I HATE RICH CUNTS",
       "url": "https://open.spotify.com/track/12cPzoY08JZVx7JnJNtGak"
+    },
+    {
+      "album": {
+        "name": "I Know (In The End)",
+        "url": "https://open.spotify.com/album/0aBv75Aj04vMrPH2rH0WLc"
+      },
+      "artists": [
+        {
+          "name": "Sonic Reducer",
+          "url": "https://open.spotify.com/artist/4fSqBIjaypPHHyGIkrebEL"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133537,
+      "name": "I Know (In The End)",
+      "url": "https://open.spotify.com/track/1uYOte1ZH6iaXiUcw8E5DX"
     },
     {
       "album": {
@@ -7831,6 +8011,24 @@
     },
     {
       "album": {
+        "name": "Leech",
+        "url": "https://open.spotify.com/album/4v6pUeg5eGETi1Aj9VlwQF"
+      },
+      "artists": [
+        {
+          "name": "Crocodylus",
+          "url": "https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262416,
+      "name": "Leech",
+      "url": "https://open.spotify.com/track/3EBbanbifx3F1RkgX9fPhB"
+    },
+    {
+      "album": {
         "name": "Left Of The Dealer",
         "url": "https://open.spotify.com/album/7g8nObVYvr2ew5XU5VIhwi"
       },
@@ -8282,6 +8480,24 @@
       "duration_ms": 237213,
       "name": "Low",
       "url": "https://open.spotify.com/track/1IyygCYXb4iRXBOSejGurP"
+    },
+    {
+      "album": {
+        "name": "Lowlife",
+        "url": "https://open.spotify.com/album/26YuWRcu2mzfOtqAilwcIv"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192813,
+      "name": "Lowlife",
+      "url": "https://open.spotify.com/track/1SleOZVjERXfxVqmMxFcEj"
     },
     {
       "album": {
@@ -10003,6 +10219,24 @@
     },
     {
       "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/0iGHI45DWOOb5QG7aDlzvm"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282062,
+      "name": "One Thing At A Time",
+      "url": "https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I"
+    },
+    {
+      "album": {
         "name": "One Way Ticket",
         "url": "https://open.spotify.com/album/02ck4HiN1kXx2bfN1gc3yY"
       },
@@ -10886,7 +11120,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 176706,
       "name": "R.I.P. ME",
       "url": "https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd"
@@ -11142,7 +11376,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 162594,
       "name": "Record Baby",
       "url": "https://open.spotify.com/track/1IOWf4GFUljEq46AdTCVbw"
@@ -11322,7 +11556,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 221586,
       "name": "Retaliate",
       "url": "https://open.spotify.com/track/7IuLd36vK0TklhayG08vB9"
@@ -11938,7 +12172,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 232233,
       "name": "Shadowland",
       "url": "https://open.spotify.com/track/55UcLytbMiRcXmReVQcpyz"
@@ -12464,7 +12698,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 203435,
       "name": "Situation Lost Control",
       "url": "https://open.spotify.com/track/0WG1iYgvHuOf25wERaFjUZ"
@@ -12800,6 +13034,24 @@
       "duration_ms": 277437,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/38dPK19fxdAvEDOICBRdEq"
+    },
+    {
+      "album": {
+        "name": "SORRY! CRASH!",
+        "url": "https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "SORRY! CRASH!",
+      "url": "https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH"
     },
     {
       "album": {
@@ -14210,6 +14462,24 @@
       "duration_ms": 216680,
       "name": "The Gospel of Luke",
       "url": "https://open.spotify.com/track/4sSBioiRxTC66Jwu8ARepx"
+    },
+    {
+      "album": {
+        "name": "The Hallway",
+        "url": "https://open.spotify.com/album/5WPDCTU1UNc9Cfi9eAU5RR"
+      },
+      "artists": [
+        {
+          "name": "Sly Withers",
+          "url": "https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192618,
+      "name": "The Hallway",
+      "url": "https://open.spotify.com/track/72t91cy0ZOAZmFIPG32PI8"
     },
     {
       "album": {

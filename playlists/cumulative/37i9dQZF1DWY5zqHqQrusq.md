@@ -2,9 +2,9 @@
 
 ### [Barefoot and Free](https://open.spotify.com/playlist/37i9dQZF1DWY5zqHqQrusq)
 
-> Chill, take a long walk and clear your mind\. Cover: Flier
+> Chill, take a long walk and clear your mind\. Cover: Iken
 
-139 songs - 7 hr 55 min
+141 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Aibu \(feat\. Bien\)](https://open.spotify.com/track/1cBRn1Gp5RbFi4sVDN3v1A) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu \(feat\. Bien\)](https://open.spotify.com/album/6W4ZbKDYOh7ZPB4KGm5iZ0) | 2:17 | 2024-03-08 | 2024-04-19 |
 | [Alive Again](https://open.spotify.com/track/3wrUpaoR6jm1Z99kxuUyGk) | [Sandra Solit](https://open.spotify.com/artist/040yz8zntFdRJqeOynxEBl) | [Alive Again](https://open.spotify.com/album/6q4Lu34c463AMK6sV4IgPG) | 3:36 | 2022-11-11 | 2023-10-21 |
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2022-11-11 | 2025-01-10 |
-| [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2024-05-23 |  |
+| [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2024-05-23 | 2026-04-03 |
 | [Asali](https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Love Language](https://open.spotify.com/album/1vF0nqkfedSTlQrXh0Feoa) | 3:03 | 2022-11-11 | 2025-01-10 |
 | [Athena, am I beautiful?](https://open.spotify.com/track/2brYh8EuopGb0C1NsJtOZt) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Speak to me](https://open.spotify.com/album/0dzjosZvWYTFaUAcv3d9nL) | 4:39 | 2025-07-25 |  |
 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-16 |  |
@@ -37,6 +37,7 @@
 | [Enough](https://open.spotify.com/track/2dDXkA6w6uq2PIlJwnSfjy) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:32 | 2022-11-11 | 2023-11-18 |
 | [Fade](https://open.spotify.com/track/7FuyHQVU2rdPy7nmQhzOye) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Pikes](https://open.spotify.com/artist/3iYk1tEjUMPcs5roPxv533) | [Oasis Park III](https://open.spotify.com/album/0gyKYbsf4q8U5RaSBSqp3s) | 3:58 | 2022-11-11 | 2024-05-24 |
 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-09-26 |  |
+| [Favorite](https://open.spotify.com/track/4Aw9OJJDJFCbVlVBAb0EdM) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Favorite](https://open.spotify.com/album/7LcNdnjDCwb9SLjDxi2FPP) | 4:19 | 2026-04-02 |  |
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-11-11 | 2023-10-27 |
 | [Fly](https://open.spotify.com/track/1RboxJGwwhPee5v79GH8fJ) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Fly](https://open.spotify.com/album/2KQudMxXH2DVX533i2o8Gp) | 3:40 | 2024-11-29 |  |
 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 | 2023-10-20 |  |
@@ -67,7 +68,7 @@
 | [Jane](https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Jane](https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i) | 2:57 | 2024-03-28 | 2025-02-28 |
 | [Jua Tua](https://open.spotify.com/track/0h8qRIECcUeHdGIlTviijb) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Zawadi Mukami](https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v) | [Jua Tua](https://open.spotify.com/album/78jUt3tL1Vnm5M7I9qQvpY) | 1:47 | 2025-01-09 |  |
 | [Karma](https://open.spotify.com/track/6TWmMuc8pofbqBJA0jn4GW) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Karma](https://open.spotify.com/album/6vxjwodaQOfH0QI2LJ63Qu) | 2:50 | 2022-11-11 | 2023-12-03 |
-| [Kitanda Baridi](https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/37koEdQDcJf6odt9woXGUu) | 2:56 | 2023-09-15 |  |
+| [Kitanda Baridi](https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/37koEdQDcJf6odt9woXGUu) | 2:56 | 2023-09-15 | 2026-04-03 |
 | [Kitanda Baridi](https://open.spotify.com/track/6pKPr8Q8DPtQ5HI0JMfTmx) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/7hJjPkoexYN13yHx7W7XhI) | 2:56 | 2024-02-23 | 2024-04-19 |
 | [Kizungu](https://open.spotify.com/track/6IOwNDCwz8TZ1MUpiI5nr9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Ceke](https://open.spotify.com/artist/4mVKiUZ9zJwWX2p4wmNgO3) | [Kizungu](https://open.spotify.com/album/3QtoYICiNK1G0wE6SAHOaU) | 1:00 | 2025-10-16 |  |
 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-11-11 | 2023-04-17 |
@@ -136,6 +137,7 @@
 | [truth](https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [truth](https://open.spotify.com/album/3UKFqVZGA0X7bFBVM6bXy8) | 2:32 | 2024-05-16 | 2026-02-20 |
 | [Turn It Off](https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [TURN IT OFF](https://open.spotify.com/album/4ylxBzU0yxcLNsDGkBQnVS) | 3:42 | 2022-11-11 | 2024-05-17 |
 | [Uko Poa](https://open.spotify.com/track/1DJgI3D1o5k4dnktOJFG2e) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Short Versions, Long Stories](https://open.spotify.com/album/05QYtF6561A9EfIMipAFcS) | 1:36 | 2022-11-11 | 2024-05-10 |
+| [Umbrella](https://open.spotify.com/track/0qGfu80AFVNYjR3yJCux4d) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 2:52 | 2026-04-02 |  |
 | [UNIFIED LOVE](https://open.spotify.com/track/0F0i8OwqGcT1oNK00r4y6E) | [KN\_Tini](https://open.spotify.com/artist/4O5Of6pRjTlXZ3pdWGJdOc), [THE GaMbLeR](https://open.spotify.com/artist/0Xa986czvVLKnJsu4ekoeZ) | [UNIFIED LOVE](https://open.spotify.com/album/1shCSJhobpWDyP5akTEUIr) | 4:25 | 2024-10-17 | 2025-02-15 |
 | [Usiku Wa Manane](https://open.spotify.com/track/2Ss0BWhI2ntDbbKV45dOmg) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Usiku Wa Manane](https://open.spotify.com/album/06Ip1GFAs0Y0gdoxjfKCs9) | 2:34 | 2026-02-26 |  |
 | [Vile Inafaa](https://open.spotify.com/track/6U2X9YMZrcc3hOMmnzpIhk) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Bonnie Afreeka](https://open.spotify.com/artist/2fTgPrdZSSYcuCywFKTvXg) | [Vile Inafaa](https://open.spotify.com/album/2W6B908mrzSZ88ZaXPPuJ8) | 3:30 | 2024-04-19 | 2024-05-17 |

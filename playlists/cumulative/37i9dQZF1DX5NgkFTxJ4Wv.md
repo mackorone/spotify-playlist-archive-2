@@ -4,7 +4,7 @@
 
 > Lush continuous pink noise that will make you sleep all night.
 
-297 songs - 15 hr 31 min
+299 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Healing Noise](https://open.spotify.com/track/3s13VtClR3qhJ6Dd1Gv11C) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Pink Noise Atmosphere](https://open.spotify.com/album/4U3KbPCbwIPNjLgPMqT1nj) | 2:51 | 2023-05-25 |  |
 | [Healing Pink Noise](https://open.spotify.com/track/5iuFeUVeAAFMTnmtUvHqF3) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [pink noise escapism](https://open.spotify.com/album/7fgortUNmcRIpBdYfW0WQ4) | 3:10 | 2023-05-25 |  |
 | [Healing Waterfalls Pink Noise](https://open.spotify.com/track/0fIBhgMPcEByakKwJzZOG2) | [Guglielmo Markoni](https://open.spotify.com/artist/1Jfj6AuDorlEytpeJrB419) | [Healing Waterfalls Pink Noise](https://open.spotify.com/album/2jGtcYRSjWtEbo7PDP44j7) | 3:23 | 2023-05-25 |  |
+| [Hearts in Pink](https://open.spotify.com/track/2MJAO077Qupt0TZgSeFiLd) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Hearts in Pink](https://open.spotify.com/album/645Nx8XILB5rrVIygRrHEe) | 3:42 | 2026-03-31 |  |
 | [Heedful Pink Dreamscape](https://open.spotify.com/track/1gzNv5GHajJDawqoWJpPhi) | [Sonic Observations](https://open.spotify.com/artist/1GyhuweKXGa3R8mBbRDwWe) | [Heedful Pink Dreamscape](https://open.spotify.com/album/2reqtalwAtRtu3cI8cQSg1) | 3:05 | 2026-03-31 |  |
 | [Hiraeth River Pink Noise](https://open.spotify.com/track/6CPKw0w4P5WHNauX6L9CDR) | [Global Ambience](https://open.spotify.com/artist/1goj961rAV1i8TIFFVKUJ8) | [Hiraeth River Pink Noise](https://open.spotify.com/album/6m9xjpsh0f15zi5IdPa6Sj) | 3:10 | 2023-05-25 | 2026-04-01 |
 | [Horizon \- \(Pink Noise\)](https://open.spotify.com/track/5mBps7Tf9aeJF7RkbyYwos) | [Trap Of Sounds](https://open.spotify.com/artist/64RIcJtRLemOOUbQTx00OW) | [Horizon \- \(Pink Noise\)](https://open.spotify.com/album/1JJu2V2F28xgKvrm9HGLWf) | 3:01 | 2023-05-25 |  |
@@ -99,7 +100,7 @@
 | [Lucid Pink Noise](https://open.spotify.com/track/20tHBOsTrEEbqVX1UytpYq) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [Lucid Pink Noise](https://open.spotify.com/album/3OcXv4J1AFYPeP9SMxPOFq) | 4:39 | 2025-02-04 |  |
 | [Lunar Pink Noise](https://open.spotify.com/track/7BQfABBXoRGXnK8D7Lgu6G) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Lunar Pink Noise](https://open.spotify.com/album/6Io7xnSgAbti2b6256lfZ5) | 3:20 | 2023-05-25 |  |
 | [Magenta Mindfulness](https://open.spotify.com/track/3KfXN1v4xWRiJfEIma5UIh) | [Cinnamon](https://open.spotify.com/artist/7f8CQthEpsBtUE1iOf7oHf) | [Stress Antidote Pink Noise](https://open.spotify.com/album/0a3AnmrZ1YDN6QElQTHmXH) | 3:00 | 2023-05-25 | 2026-04-01 |
-| [Magic Dream Pink Noise](https://open.spotify.com/track/6gynjroKIvBfv0ucZfohfB) | [Global Ambience](https://open.spotify.com/artist/1goj961rAV1i8TIFFVKUJ8) | [Magic Dream Pink Noise](https://open.spotify.com/album/12UrK5LZdGAzRilIPAl0fm) | 3:00 | 2023-05-25 |  |
+| [Magic Dream Pink Noise](https://open.spotify.com/track/6gynjroKIvBfv0ucZfohfB) | [Global Ambience](https://open.spotify.com/artist/1goj961rAV1i8TIFFVKUJ8) | [Magic Dream Pink Noise](https://open.spotify.com/album/12UrK5LZdGAzRilIPAl0fm) | 3:00 | 2023-05-25 | 2026-04-03 |
 | [Magical Pink Noise Serenity](https://open.spotify.com/track/4pZpsZB3KTBXo3Inr10keU) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Pink Noise Hz](https://open.spotify.com/album/5kw0eQ2Kt85ovdYPu35j3c) | 3:28 | 2023-05-25 | 2023-10-28 |
 | [Meditative Pink Noise](https://open.spotify.com/track/7fdXFbBi05j6f30c3c7SuM) | [Global Ambience](https://open.spotify.com/artist/1goj961rAV1i8TIFFVKUJ8) | [Meditative Pink Noise](https://open.spotify.com/album/2GECfBhht2cVE19CYNg457) | 3:00 | 2023-05-25 | 2025-12-20 |
 | [Medium Pink Noise](https://open.spotify.com/track/6bJylELacfvS7lmch74HuR) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Pink Noise for Restful Sleep](https://open.spotify.com/album/2JQpTr1MbtBZOJAUfBA243) | 3:00 | 2023-05-25 |  |
@@ -242,6 +243,7 @@
 | [Private Yacht Sleep](https://open.spotify.com/track/0hUVfXxkbPpg4QH7iMTo95) | [Pink Drift](https://open.spotify.com/artist/1sstuT7ZXtGHzymk3hra0a) | [Pink Noise Soundscapes](https://open.spotify.com/album/1ISr3lk2WEvEFpAACxtfvX) | 2:52 | 2023-05-25 | 2026-04-01 |
 | [Prograde Pink Noise](https://open.spotify.com/track/2Njfs0tdLZ4DQEnwLitIKK) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Prograde Pink Noise](https://open.spotify.com/album/5oedSuDp9a5VjByzjqErtN) | 3:09 | 2023-05-25 |  |
 | [Radiance Pink Noise](https://open.spotify.com/track/6Vl0d64kN481KV8VkZ6xWN) | [Clam Pass](https://open.spotify.com/artist/5tiC8V84vAB6FIDwSkGCF6) | [Pink Frequencies](https://open.spotify.com/album/1X26ZZAVYKCQWaVvd8MToi) | 2:42 | 2023-05-25 |  |
+| [Raspberry Dazzle Pink Noise](https://open.spotify.com/track/38Ka0309xc23w1JswXEs9o) | [Titan Pulse](https://open.spotify.com/artist/2LxEiPDLSX3rxS0VYnqaIY) | [Raspberry Dazzle Pink Noise](https://open.spotify.com/album/2Gilt5ic1F2hngB8wFmr2u) | 3:38 | 2026-03-31 |  |
 | [Relax into the Pink Noise](https://open.spotify.com/track/77UV91tV8QTI7IdlD7NgyT) | [Xella Machina](https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI) | [Beautiful Pink Noise](https://open.spotify.com/album/6OY5DlG8C1UC4qxdrvqCX0) | 3:23 | 2023-05-25 |  |
 | [Relaxing Cascade Pink Noise](https://open.spotify.com/track/7FZaJmuMcTGxNCFAAY78gH) | [Dreaming Of Solfeggio](https://open.spotify.com/artist/5J5iQ1cL74ilo4F6TmuOto) | [Relaxing Cascade Pink Noise](https://open.spotify.com/album/4zXHk15cjfSIzbGd585bOt) | 3:23 | 2023-05-25 | 2023-10-28 |
 | [Relaxing Pink Noise](https://open.spotify.com/track/7fkBR719ApUpjWJ4xGY85T) | [Desi Eskil](https://open.spotify.com/artist/4vDXxjHGMDyOaPyUdRXfQj) | [Relaxing Pink Noise](https://open.spotify.com/album/3AyftmvDjBFj2mhNM4X2eV) | 3:09 | 2023-05-25 |  |
@@ -249,7 +251,7 @@
 | [Remember Pink Noise](https://open.spotify.com/track/3N5sgm7NQA0R2eMUtt2HW1) | [Pink Orbit](https://open.spotify.com/artist/1OcOohHo7T54wkzZhIs6KA) | [Pink Noise Moment](https://open.spotify.com/album/5oHMW5JreJe8wRvZxkuBcL) | 3:23 | 2023-05-25 |  |
 | [Restful Waterfall Pink Noise](https://open.spotify.com/track/7pj329XxEjvahgcowTi3Xw) | [Ambientes Globales](https://open.spotify.com/artist/7GPnokvVJokeij4Ke3uA9d) | [Restful Waterfall Pink Noise](https://open.spotify.com/album/6PMAh2vvVE3faBdbcnUdVK) | 3:11 | 2023-05-25 | 2026-04-01 |
 | [Retrograde Pink Noise](https://open.spotify.com/track/4KDNVbgOQBTW58VaayYMMR) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Retrograde Pink Noise](https://open.spotify.com/album/0Hdpx60YY26FqcfAqKHe4O) | 2:44 | 2023-05-25 |  |
-| [River Of Dreams Pink Noise](https://open.spotify.com/track/0K5Qv83SvBXkOgRoF3blmG) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [River Of Dreams Pink Noise](https://open.spotify.com/album/7uJF7Mem1isuT62FyGYSiz) | 3:23 | 2023-05-25 |  |
+| [River Of Dreams Pink Noise](https://open.spotify.com/track/0K5Qv83SvBXkOgRoF3blmG) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [River Of Dreams Pink Noise](https://open.spotify.com/album/7uJF7Mem1isuT62FyGYSiz) | 3:23 | 2023-05-25 | 2026-04-03 |
 | [Rose Haze Relaxation](https://open.spotify.com/track/1Az1mgbkMSrmRfJWvz4ZmS) | [FX Soundtrap](https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo) | [Rose Haze Relaxation](https://open.spotify.com/album/5BkLK7DLpNPeU3U3RHAriN) | 2:01 | 2025-12-19 |  |
 | [Rose Ritual](https://open.spotify.com/track/08Tn0TjL2LvAjtPC8alvZU) | [Vibe Industry](https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag) | [Pink Sunset Serenade](https://open.spotify.com/album/3MUmaOiJwePV7ei07jrKYl) | 2:42 | 2023-05-25 | 2026-02-25 |
 | [Rosy Dreams](https://open.spotify.com/track/5GpDBAtt26KQjgEkaMRJ9Q) | [Heavenly Fluff](https://open.spotify.com/artist/088h0mIu6ZctknUuvWuqGm) | [Rosy Dreams](https://open.spotify.com/album/3faJPclmpNBnTD369J3ze6) | 2:14 | 2025-12-19 |  |

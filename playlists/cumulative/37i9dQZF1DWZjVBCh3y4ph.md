@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : Kany
+> Les hits zouk & kompa du moment\. Photo : Laconi
 
-389 songs - 20 hr 25 min
+391 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Baby Oh](https://open.spotify.com/track/6w08Z9Jgjkh1A4jjbhZKZg) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Baby Oh](https://open.spotify.com/album/5Ru2z5Wz4hgmle5aexU4pM) | 2:37 | 2023-09-28 | 2023-11-24 |
 | [BABYBOO](https://open.spotify.com/track/30iT4ZT1fGHbGnYRiEnk1T) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [BABYBOO](https://open.spotify.com/album/19ofZBa8n994iFc9vI3bJ4) | 2:46 | 2025-12-18 | 2026-02-06 |
 | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/track/3MgDEWy7SXqSftFvovNOnv) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/album/3XdVsdE1LETgzTufgIpvnP) | 2:23 | 2024-01-25 | 2024-03-08 |
+| [Bandit chef](https://open.spotify.com/track/44A6TlpNKN3uuXfi2tdjnd) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Bandit chef](https://open.spotify.com/album/42L6uuqhDyV6LVNsm42rWi) | 2:40 | 2026-04-02 |  |
 | [Banm Bagay La](https://open.spotify.com/track/2F7is4x8kYIidEEdbAouWF) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [T\-Gui](https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5) | [Banm Bagay La](https://open.spotify.com/album/501IQJZV5F6ZABRzUVZmRP) | 4:18 | 2024-05-30 | 2024-08-02 |
 | [Baratin](https://open.spotify.com/track/0h6g68cbe1G5E4acldFj4l) | [Aïshé](https://open.spotify.com/artist/0d332SkvomPxlORvEKIrBo) | [Baratin](https://open.spotify.com/album/0ltbj3HWntrupqtGwObdae) | 2:51 | 2025-11-06 | 2025-12-19 |
 | [Baratin](https://open.spotify.com/track/0wlEtezelZWAczjXjjUWWJ) | [Lizi](https://open.spotify.com/artist/6bTD7aWcgLJ2u5YGjgFDnc) | [Baratin](https://open.spotify.com/album/3xLzw6i2PacCJTjJOF7Il8) | 2:43 | 2025-11-27 | 2026-02-06 |
@@ -53,7 +54,7 @@
 | [Caresse](https://open.spotify.com/track/7t7sDVNiFNVdmULGJ8HB1A) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71) | [Caresse](https://open.spotify.com/album/1hy3yEUGl5nXixgIiQnjJu) | 3:05 | 2025-02-13 | 2025-03-28 |
 | [Ce que tu veux de nous \- Baby boo](https://open.spotify.com/track/2woFHVE5BQmaoDfNtlN6Ln) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Incomprise](https://open.spotify.com/album/48zfG8lvY9evxG8fPKkUur) | 2:59 | 2024-09-26 | 2024-10-25 |
 | [Chambre 41](https://open.spotify.com/track/1OpJHDb3pHTSnSuiLAMAzb) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Chambre 41](https://open.spotify.com/album/5M8YB1mmEHueFKUovWAyty) | 2:55 | 2025-11-27 | 2025-12-12 |
-| [Chambre 41 \- Kompa Gouyad](https://open.spotify.com/track/5DvjanZowlxxa6zAmYyCNZ) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Chambre 41 \(Kompa Gouyad\)](https://open.spotify.com/album/7gD4cpfHdNYsDmkNdVZwk9) | 3:06 | 2026-01-01 |  |
+| [Chambre 41 \- Kompa Gouyad](https://open.spotify.com/track/5DvjanZowlxxa6zAmYyCNZ) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Chambre 41 \(Kompa Gouyad\)](https://open.spotify.com/album/7gD4cpfHdNYsDmkNdVZwk9) | 3:06 | 2026-01-01 | 2026-04-03 |
 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 | 2025-04-17 | 2026-02-13 |
 | [Changer](https://open.spotify.com/track/19fT3Mo3tLcIwMBZ4W9ANM) | [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC), [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [Changer](https://open.spotify.com/album/28CHRKEIkGSJCvqsdDsUZx) | 3:31 | 2025-07-24 | 2025-10-03 |
 | [Cho](https://open.spotify.com/track/6sGcYTh3pBs5zkL33svsCB) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [Cho](https://open.spotify.com/album/0Jtw3H0L4jpNYKHwb4wT3Y) | 2:47 | 2025-06-05 | 2025-07-11 |
@@ -149,6 +150,7 @@
 | [J'avoue, j'avoue part\. 2](https://open.spotify.com/track/4ZHYynp9MFmygQSrRMh71A) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [J'avoue, j'avoue part\. 2](https://open.spotify.com/album/7y79dDxIeReWrhUOh02r2Z) | 2:51 | 2025-09-18 | 2026-01-23 |
 | [J'IMAGINE](https://open.spotify.com/track/72OsmQOvecMI8SDF4tgJVp) | [M'KA](https://open.spotify.com/artist/5AHG8UpUyiTZNIJIjJfA4a) | [J'IMAGINE](https://open.spotify.com/album/4oKsrRi55stpJvZ1L2PtfO) | 3:38 | 2025-08-14 | 2025-09-12 |
 | [J'me préfère](https://open.spotify.com/track/1RVvNzABOsE2EgEqchJkF1) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [J'me préfère](https://open.spotify.com/album/3KO3H0YUHHd9l10Uou1BLx) | 2:55 | 2024-09-05 | 2024-10-25 |
+| [J'suis Fait Pour Ça](https://open.spotify.com/track/08dk9ADMEA8QZpLnM05zTU) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [J'suis Fait Pour Ça](https://open.spotify.com/album/7c0XAxyLCBwyPs7iOLtXri) | 3:58 | 2026-04-02 |  |
 | [Je Donne](https://open.spotify.com/track/1bol6WkjrtvcxPydk4tsGC) | [Santrinos Raphael](https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Belle vie](https://open.spotify.com/album/4JPoxkWhDRrfLZbUOE3Aez) | 2:30 | 2025-03-06 | 2025-06-27 |
 | [Je le savais](https://open.spotify.com/track/0GmFgFtkqsgnrFMWJZ1x99) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN) | [Je le savais](https://open.spotify.com/album/6n9uhoJnNGaNd6mENrluEC) | 2:42 | 2023-09-28 | 2023-10-27 |
 | [Je me fais belle](https://open.spotify.com/track/45htjtRjNtyXpnPQAGXZmf) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Je me fais belle](https://open.spotify.com/album/12YIWyWMXMO8R9jkrB48u4) | 3:01 | 2025-04-10 | 2025-09-27 |
@@ -367,7 +369,7 @@
 | [Trophy](https://open.spotify.com/track/1mKlQnt4FPb2R4HV5cn5y1) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Féeries](https://open.spotify.com/album/2W94yzXafkE28LcyiQD4YH) | 2:59 | 2023-09-28 | 2023-11-17 |
 | [Trophée](https://open.spotify.com/track/4bMmiLEjHHhwqo8fKIRayx) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP) | [Trophée](https://open.spotify.com/album/1814HhtSuacyysbTwr79mO) | 2:57 | 2024-08-29 | 2024-11-08 |
 | [TU ME TOUCHES](https://open.spotify.com/track/1CMYEMTuKG82siF0FMAlqn) | [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [Thayna](https://open.spotify.com/artist/1TeJHWmFIoKu01utt6n3kR), [VARAINE BEN](https://open.spotify.com/artist/33VRGx12FIZw3TPLU93feY) | [TU ME TOUCHES](https://open.spotify.com/album/2INKDIz39NOpEhXTkydqnc) | 3:32 | 2023-11-23 | 2024-02-09 |
-| [Tu sais](https://open.spotify.com/track/3xlPtFdUNYP1tgOAD5tRIm) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Tu sais](https://open.spotify.com/album/2yq4Rb3h0AUNvMa1b7a9i1) | 2:58 | 2025-12-18 |  |
+| [Tu sais](https://open.spotify.com/track/3xlPtFdUNYP1tgOAD5tRIm) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Tu sais](https://open.spotify.com/album/2yq4Rb3h0AUNvMa1b7a9i1) | 2:58 | 2025-12-18 | 2026-04-03 |
 | [Tu sais](https://open.spotify.com/track/2m3HdJkh5Slon3H4KgLbBX) | [Tamaryo](https://open.spotify.com/artist/7ioMggRkKixyLcyg4WmOeX), [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71) | [Tu sais](https://open.spotify.com/album/4Y4g73yvPzwfUCWv73alKc) | 3:27 | 2025-05-01 | 2025-05-30 |
 | [Two méfian](https://open.spotify.com/track/1rCtW0Td7JwoQOfTLoICUq) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Two méfian](https://open.spotify.com/album/4WJI63uMzZ8sKWu9lrTOZQ) | 2:54 | 2024-08-29 | 2024-10-25 |
 | [Tèt Kolé](https://open.spotify.com/track/4uFJVgEMZmG8CAUxoliS29) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [Tèt Kolé](https://open.spotify.com/album/4YamarGSQ6C3csouR1FGWD) | 2:32 | 2025-05-15 | 2025-09-27 |

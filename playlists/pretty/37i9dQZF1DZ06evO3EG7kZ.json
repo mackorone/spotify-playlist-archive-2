@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 51242,
+  "num_followers": 51256,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAADOFi6K+YAeq1jRsQRoxS4f",
+  "snapshot_id": "acxgAAAAAACyoKdCQwc3179/KmSyXWy/",
   "tracks": [
     {
       "added_at": null,
@@ -298,11 +298,23 @@
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Meg Washington",
+          "url": "https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ"
+        },
+        {
+          "name": "Joe Brumm",
+          "url": "https://open.spotify.com/artist/7x4QT4xcrTImKPWIICRHBZ"
         }
       ],
-      "duration_ms": 65038,
-      "name": "It Was Yesterday",
-      "url": "https://open.spotify.com/track/1vMrZkX9ZnsqYlAFjBmwfd"
+      "duration_ms": 146646,
+      "name": "The Gnome Song (feat. Meg Washington)",
+      "url": "https://open.spotify.com/track/6ePFV4tdMDBo2KQmpQioKq"
     },
     {
       "added_at": null,
@@ -374,23 +386,11 @@
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Meg Washington",
-          "url": "https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ"
-        },
-        {
-          "name": "Joe Brumm",
-          "url": "https://open.spotify.com/artist/7x4QT4xcrTImKPWIICRHBZ"
         }
       ],
-      "duration_ms": 146646,
-      "name": "The Gnome Song (feat. Meg Washington)",
-      "url": "https://open.spotify.com/track/6ePFV4tdMDBo2KQmpQioKq"
+      "duration_ms": 65038,
+      "name": "It Was Yesterday",
+      "url": "https://open.spotify.com/track/1vMrZkX9ZnsqYlAFjBmwfd"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 218653,
-      "name": "Flat Pack",
-      "url": "https://open.spotify.com/track/7q18RAxFkjWQZs5HhdlafS"
+      "duration_ms": 116537,
+      "name": "Tradies",
+      "url": "https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ"
     }
   ],
   "unique_name": "This Is Bluey",

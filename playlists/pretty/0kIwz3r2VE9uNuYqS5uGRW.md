@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 187 songs - 9 hr 42 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 195 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,5 +195,13 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 185 | [Wait Up](https://open.spotify.com/track/1cF1sWGapFXHssAQjGeHmI) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Wait Up](https://open.spotify.com/album/38n1tJIhXqdh6yGGLdWngM) | 2:04 |
 | 186 | [Delorean](https://open.spotify.com/track/0ipu6uwgDaq38JeXheuO2R) | [Tokyo Killa](https://open.spotify.com/artist/44HYvFdD06IqOhCBXawbtz) | [Delorean](https://open.spotify.com/album/4TlN1FUusLJskg7Sl5HOwg) | 3:12 |
 | 187 | [QQDM?](https://open.spotify.com/track/3SKUMB5tpdr4UT2BIq3juc) | [majorea](https://open.spotify.com/artist/2Jmw8pBHcLa6JMCwk3rmRq) | [QQDM?](https://open.spotify.com/album/1gE9VgPQWKVsZfST7jTKSw) | 2:43 |
+| 188 | [talk](https://open.spotify.com/track/1d9xyrASfsD0edthqvHbpL) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [talk](https://open.spotify.com/album/6gVHNh3J56BQdaqO5cSCKF) | 3:36 |
+| 189 | [Quien Te Azota?](https://open.spotify.com/track/1PvuFHjDJii2tFTeqP4yVq) | [FARDY](https://open.spotify.com/artist/46YEtFyBgkWpFLkEE5C4Hc), [Adal Palacios](https://open.spotify.com/artist/1ybBqXrXyErUMB9DchGSjc), [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL) | [PERREKE MEXA](https://open.spotify.com/album/6DvAY3z2vHQQLi7dPaW5HP) | 2:23 |
+| 190 | [2805](https://open.spotify.com/track/6OkThCextlbfDydfSO4cHp) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [2805](https://open.spotify.com/album/3AqgwXEQaDCS5awPbA1vk8) | 2:41 |
+| 191 | [No Hay Tiempo](https://open.spotify.com/track/2zLn9ZLLxBLJXfjo7kZwVv) | [Lu\-k Mc](https://open.spotify.com/artist/7eBvM4CyBRXoJK0l7dUTkq) | [No Hay Tiempo](https://open.spotify.com/album/6twp3uVTUMbnQGgo9iHiFJ) | 3:27 |
+| 192 | [Heart Don't Beat No Fear](https://open.spotify.com/track/5pmLY4W35dyS7VvUpoBtHM) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Heart Don't Beat No Fear](https://open.spotify.com/album/3cP2lWFVTlDHhqtWQN12Zl) | 3:08 |
+| 193 | [Everyone Clapped Anyway](https://open.spotify.com/track/2zrBWiv8Htq8oWS4fmW8iz) | [Verena](https://open.spotify.com/artist/3QSg39zXOtTTdxvwRUm52y) | [Everyone Clapped Anyway](https://open.spotify.com/album/1fzTnxhsA84YZusPiyBHv2) | 2:36 |
+| 194 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 |
+| 195 | [Jazz Soul \- \(Freestyle\)](https://open.spotify.com/track/2SGF1liiKRxgtJM12X2XfU) | [Pazzo](https://open.spotify.com/artist/1DDE68aTInM89DhuzkIWAR) | [Jazz Soul](https://open.spotify.com/album/3pdWZJ8FhYGdasB8Qon7l5) | 3:32 |
 
-Snapshot ID: `AAAVwVrQxZGa9QKz0Ilf2XEik0Ri/uc7`
+Snapshot ID: `AAAVyam+ntwrMadSs86FoTdLLG5fP9JX`

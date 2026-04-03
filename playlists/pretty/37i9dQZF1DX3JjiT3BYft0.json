@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 78596,
+  "num_followers": 78601,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-03-05 06:11:01",
       "album": {
-        "name": "\u30aa\u30ec\u30f3\u30b8 (Cover)",
-        "url": "https://open.spotify.com/album/1I465L0Mbyc0QbJb0uY50m"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "\u30aa\u30ec\u30f3\u30b8 (Cover)",
-      "url": "https://open.spotify.com/track/1gRerODkdxiDxlXb4j6UN7"
-    },
-    {
-      "added_at": "2026-03-05 06:11:01",
-      "album": {
         "name": "\u6700\u4e0a\u7d1a\u306b\u304b\u308f\u3044\u3044\u306e\uff01 (Cover)",
         "url": "https://open.spotify.com/album/6TzI50EqlfGlG2JUZMyTDK"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 191333,
       "name": "\u6700\u4e0a\u7d1a\u306b\u304b\u308f\u3044\u3044\u306e\uff01 (Cover)",
       "url": "https://open.spotify.com/track/17woIV9I95tV9C4fnc6Ep4"
+    },
+    {
+      "added_at": "2026-03-05 06:11:01",
+      "album": {
+        "name": "\u30aa\u30ec\u30f3\u30b8 (Cover)",
+        "url": "https://open.spotify.com/album/1I465L0Mbyc0QbJb0uY50m"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "\u30aa\u30ec\u30f3\u30b8 (Cover)",
+      "url": "https://open.spotify.com/track/1gRerODkdxiDxlXb4j6UN7"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 216066,
-      "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u30e9\u30e9\u30d0\u30a4",
-      "url": "https://open.spotify.com/track/61os2N4PtLf4s5ojzbpU9d"
+      "duration_ms": 255000,
+      "name": "\u8a93\u3044\u306eWingbeat",
+      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 255000,
-      "name": "\u8a93\u3044\u306eWingbeat",
-      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
+      "duration_ms": 216066,
+      "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30c3\u30af\u30e9\u30e9\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/61os2N4PtLf4s5ojzbpU9d"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
         }
       ],
-      "duration_ms": 228833,
-      "name": "SAKURA\u30b9\u30ad\u30c3\u30d7 - Cover",
-      "url": "https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x"
+      "duration_ms": 243766,
+      "name": "\u6c17\u307e\u3050\u308c\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af - Cover",
+      "url": "https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2026-03-05 06:11:01",
       "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection (2)",
-        "url": "https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2"
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 250833,
-      "name": "chAngE",
-      "url": "https://open.spotify.com/track/1aEeR6DqwyvgSwDLUxKjnl"
+      "duration_ms": 215968,
+      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
+      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
         }
       ],
-      "duration_ms": 243266,
-      "name": "DISCOTHEQUE - Cover",
-      "url": "https://open.spotify.com/track/5FFBLmADzoKasxORMErCd4"
+      "duration_ms": 228833,
+      "name": "SAKURA\u30b9\u30ad\u30c3\u30d7 - Cover",
+      "url": "https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x"
     },
     {
       "added_at": "2026-03-05 06:11:01",
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
         }
       ],
-      "duration_ms": 243766,
-      "name": "\u6c17\u307e\u3050\u308c\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af - Cover",
-      "url": "https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC"
+      "duration_ms": 218600,
+      "name": "\u79d8\u5bc6\u306e\u6249\u304b\u3089\u4f1a\u3044\u306b\u304d\u3066 - Cover",
+      "url": "https://open.spotify.com/track/3bZs0reeBz1mcztx2AnSMg"
     },
     {
       "added_at": "2026-03-05 06:11:01",

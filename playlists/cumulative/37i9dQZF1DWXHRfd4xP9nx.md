@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-360 songs - 16 hr 55 min
+361 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Sleep in the rain](https://open.spotify.com/track/1bsxsOKLVuh2jCUdrm6X3r) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Rain Dance](https://open.spotify.com/album/6C14sZG9ez20gtlv3hc5P3) | 3:32 | 2022-10-27 | 2023-12-21 |
 | [Sleep Rain in Nature](https://open.spotify.com/track/5vNsQqP4iqNL5UvK3XCKRf) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Forest Rain](https://open.spotify.com/album/2Be1a696TMJVycuCb9gzIV) | 2:18 | 2022-10-27 |  |
 | [Sleepy Raindrops](https://open.spotify.com/track/01Mgf3GGm5oEzUcwPRHROa) | [Rain Rec.](https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ) | [Reclining Rain](https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv) | 3:28 | 2022-10-27 |  |
+| [Slumber Night Rains](https://open.spotify.com/track/5D3Qv60Pfpt01xIxizpT6l) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Slumber Night Rains](https://open.spotify.com/album/5iLDsc7sxuvHGhkEmTzOuj) | 2:27 | 2026-04-01 |  |
 | [Slumber Rain](https://open.spotify.com/track/2pUhY7tWx8egpw2qn84iSi) | [Nature Of Sweden](https://open.spotify.com/artist/7kgwMm8d2igABad4wfEKti) | [Rainy Mind](https://open.spotify.com/album/0dk1131P27XQgkbt8bbkiU) | 2:26 | 2022-10-27 |  |
 | [Slumber Rain](https://open.spotify.com/track/2vak5zHVWQ5cmKX7Msm3Bi) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxed Outdoor Recordings](https://open.spotify.com/album/4jTv3LXuYqblyFqiAyZsMK) | 3:01 | 2024-03-21 | 2024-04-13 |
 | [Smooth Rain](https://open.spotify.com/track/2aqWJpAR0TiDZAEmWpiGGI) | [TELEKROME](https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV) | [Rain Sounds](https://open.spotify.com/album/0WRI6oCy41nI6BPA0pxsRi) | 3:03 | 2022-10-27 | 2023-12-21 |
@@ -365,7 +366,7 @@
 | [Winter Water \(Rain\)](https://open.spotify.com/track/71HK7aHqXqcdIPLAAHj0um) | [The Peace Within](https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i) | [Winter Water \(Rain\)](https://open.spotify.com/album/2kVIKZCuJrzM8S8LqQ7SGE) | 3:06 | 2025-12-19 |  |
 | [Wonderful Rain](https://open.spotify.com/track/4KCIoTO0Wyesf9Ia4VwGgn) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [Stratus](https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX) | 2:31 | 2023-12-20 |  |
 | [Woodnear Forest \(Rain\)](https://open.spotify.com/track/4Ia3PfPXOmDJ5cYPyt6VIi) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 | 2023-12-20 |  |
-| [Woodshed Rain](https://open.spotify.com/track/6kfiOzzsv9bPBsuh1Abl32) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Woodshed Rain](https://open.spotify.com/album/7n08BfUqHKJWYe6w5TzkdL) | 3:23 | 2024-03-21 |  |
+| [Woodshed Rain](https://open.spotify.com/track/6kfiOzzsv9bPBsuh1Abl32) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Woodshed Rain](https://open.spotify.com/album/7n08BfUqHKJWYe6w5TzkdL) | 3:23 | 2024-03-21 | 2026-04-03 |
 | [Yoga Rain](https://open.spotify.com/track/4sieuDUZuvGySckrUxCgN2) | [Dream Wonderland](https://open.spotify.com/artist/2FQzApUKsaETAB1fmHHtqd) | [Relax Rain](https://open.spotify.com/album/7fqwCU5bvNyMPUTDXJjW8y) | 2:13 | 2023-12-20 |  |
 | [ฝนไทย](https://open.spotify.com/track/6RahdCve2k4j9uMktGnvzN) | [Andiman](https://open.spotify.com/artist/1eDXoT9A8y5E9xIDrHV4yH) | [เสียงฝนกรุงเทพ](https://open.spotify.com/album/0StfOG7Lsu1P9qseiHtDOZ) | 2:13 | 2023-12-20 |  |
 

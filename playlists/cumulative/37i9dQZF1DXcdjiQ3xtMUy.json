@@ -724,7 +724,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 227112,
       "name": "Aspirini",
       "url": "https://open.spotify.com/track/5viznjGtO0Y61qSjAHHazi"
@@ -826,6 +826,24 @@
       "duration_ms": 256000,
       "name": "Asteromata - Playmen & Valeron Remix",
       "url": "https://open.spotify.com/track/7nATmzzvbhxLeMgkXHONld"
+    },
+    {
+      "album": {
+        "name": "ASTO",
+        "url": "https://open.spotify.com/album/6583W1cJew8azNxmRHS26l"
+      },
+      "artists": [
+        {
+          "name": "KONY",
+          "url": "https://open.spotify.com/artist/0uf238oeLAQXNuy8WNKgce"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123913,
+      "name": "ASTO",
+      "url": "https://open.spotify.com/track/6f0rmYIVJzuDnZcKocYC0z"
     },
     {
       "album": {
@@ -4773,6 +4791,32 @@
     },
     {
       "album": {
+        "name": "To S' Agapo",
+        "url": "https://open.spotify.com/album/5TL1F4mfJncz4EcA7hY4qt"
+      },
+      "artists": [
+        {
+          "name": "Kostas Martakis",
+          "url": "https://open.spotify.com/artist/1WqBNjsIfFxCyYuAhLMfXd"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203505,
+      "name": "To S' Agapo",
+      "url": "https://open.spotify.com/track/1NOXCmSA0fIk9P3PvchJle"
+    },
+    {
+      "album": {
         "name": "To Sagapw",
         "url": "https://open.spotify.com/album/2wSHAUfxb1PQyOqWkvbjRS"
       },
@@ -4934,7 +4978,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 136500,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/3tY0UN3X71k0xsU80x4ru4"

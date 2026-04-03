@@ -3473,56 +3473,6 @@
     },
     {
       "album": {
-        "name": "Vivaldi - Il Giustino",
-        "url": "https://open.spotify.com/album/1HDV2Rdpzh6bp5Lxn63PGc"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Marina Comparato",
-          "url": "https://open.spotify.com/artist/7z0rTtPSjdqkJOdPXsntHb"
-        },
-        {
-          "name": "Dominique Labelle",
-          "url": "https://open.spotify.com/artist/5oZ6PYvb6ZQNUqYBYgC5Eh"
-        },
-        {
-          "name": "Francesca Provvisionato",
-          "url": "https://open.spotify.com/artist/60mUQEupEsR5d9x30MAhvQ"
-        },
-        {
-          "name": "Geraldine McGreevy",
-          "url": "https://open.spotify.com/artist/4cMCr3GIcF9Jkrb4YLc4uO"
-        },
-        {
-          "name": "Leonardo de Lisi",
-          "url": "https://open.spotify.com/artist/7isVjfA94KHjJOcdEwnjc4"
-        },
-        {
-          "name": "Laura Cherici",
-          "url": "https://open.spotify.com/artist/1Sr2LcXB20D0ttHjAMqQMb"
-        },
-        {
-          "name": "Il Complesso Barocco",
-          "url": "https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87"
-        },
-        {
-          "name": "Alan Curtis",
-          "url": "https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR"
-        }
-      ],
-      "date_added": "2021-07-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138800,
-      "name": "Vivaldi: Giustino, RV 717: Sinfonia, 1. Allegro",
-      "url": "https://open.spotify.com/track/4vGkaPECPrris9KsNGQRgX"
-    },
-    {
-      "album": {
         "name": "Vivaldi: Gloria, RV 589 - Dixit Dominus, RV 594 & Magnificat, RV 610",
         "url": "https://open.spotify.com/album/0jkM5CrTfhifTAyqYr8VSD"
       },
@@ -3550,6 +3500,32 @@
       "duration_ms": 147320,
       "name": "Vivaldi: Gloria in D Major, RV 589: I. Gloria in excelsis Deo",
       "url": "https://open.spotify.com/track/5Txwlv081K39njx353jh7r"
+    },
+    {
+      "album": {
+        "name": "Vivaldi - Il Giustino",
+        "url": "https://open.spotify.com/album/1HDV2Rdpzh6bp5Lxn63PGc"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Alan Curtis",
+          "url": "https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR"
+        },
+        {
+          "name": "Il Complesso Barocco",
+          "url": "https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87"
+        }
+      ],
+      "date_added": "2021-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138800,
+      "name": "Vivaldi: Il Giustino, RV 717, Sinfonia: Allegro",
+      "url": "https://open.spotify.com/track/4vGkaPECPrris9KsNGQRgX"
     },
     {
       "album": {

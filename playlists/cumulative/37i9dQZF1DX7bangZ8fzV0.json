@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Rooksein",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Chris Steyn",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -936,7 +936,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 177971,
       "name": "Bruinoog Blond",
       "url": "https://open.spotify.com/track/2276xEvn3y8SeQ6sUOrGpz"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 187611,
       "name": "Dik Stukke",
       "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
@@ -1590,6 +1590,24 @@
       "duration_ms": 198832,
       "name": "Ek Kannie",
       "url": "https://open.spotify.com/track/27kbGhN4zhHBbVW7nyamLF"
+    },
+    {
+      "album": {
+        "name": "Ek Kom Jou Haal",
+        "url": "https://open.spotify.com/album/2gpH0eRRT7eV3djITMrZAx"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Ek Kom Jou Haal",
+      "url": "https://open.spotify.com/track/2g6m72rfZ7XNIvmeyHBJos"
     },
     {
       "album": {
@@ -4268,6 +4286,24 @@
       "duration_ms": 201777,
       "name": "Moegdans",
       "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
+    },
+    {
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/7v4TqWVYYflWPx5sx52hjQ"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192089,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/2im5SmQjuHhVcWuo28skZT"
     },
     {
       "album": {

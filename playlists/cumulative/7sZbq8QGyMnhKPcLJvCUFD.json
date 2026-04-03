@@ -2785,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "colors",
+        "url": "https://open.spotify.com/album/0wMttc6KFjiIPRn8xMOHOm"
+      },
+      "artists": [
+        {
+          "name": "HXPETRAIN",
+          "url": "https://open.spotify.com/artist/58Kb5i2Bxw4XM6Cj8a5hbi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "colors",
+      "url": "https://open.spotify.com/track/6qytEhkkIEnxlLv6nopItr"
+    },
+    {
+      "album": {
         "name": "COM BOTA",
         "url": "https://open.spotify.com/album/0XBZTTcFiYFDn1U1STuXyA"
       },

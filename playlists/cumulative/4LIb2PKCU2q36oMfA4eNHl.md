@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-408 songs - 1 day 2 hr 11 min
+409 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [The Moon Governs The Night](https://open.spotify.com/track/5bNBYs0wCLverPgOfmQy2W) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Lunar Tides EP](https://open.spotify.com/album/4Ghh5Y3pvazUgGRjKtjBx4) | 3:35 | 2025-01-13 | 2025-02-22 |
 | [The Plug](https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:18 | 2025-08-15 |  |
 | [The Things You Say](https://open.spotify.com/track/2ig2GJZvdhQ1WkqECsPjir) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [The Things You Say](https://open.spotify.com/album/3sqffR47Gvb97EZQ72ooSU) | 3:48 | 2024-07-19 | 2024-08-03 |
-| [there is beauty when you allow yourself to see](https://open.spotify.com/track/73BtAeBHPCA1IMGoVPXEHN) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [when the quiet comes](https://open.spotify.com/album/4Dx6ghUqKDjLa6xJHpHQor) | 5:27 | 2025-08-15 |  |
+| [there is beauty when you allow yourself to see](https://open.spotify.com/track/73BtAeBHPCA1IMGoVPXEHN) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [when the quiet comes](https://open.spotify.com/album/4Dx6ghUqKDjLa6xJHpHQor) | 5:27 | 2025-08-15 | 2026-04-03 |
 | [this is all yours](https://open.spotify.com/track/4KP3pOw2ozsL6hrCef7ajT) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [sleep](https://open.spotify.com/album/6doyLgotIno6g2yYVU5fJd) | 2:08 | 2024-08-16 | 2024-09-21 |
 | [through the boughs of the garden](https://open.spotify.com/track/3GG1mFb8JCY67uUPI54y3Z) | [Lyndsie Alguire](https://open.spotify.com/artist/2ccPuyFIeFmNpKb9ZVOlBc) | […like butterfly wings](https://open.spotify.com/album/7nAJcSFG2d4zMwVUQGHIl9) | 4:06 | 2025-01-13 | 2025-02-22 |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2023-12-08 | 2024-01-06 |
@@ -387,6 +387,7 @@
 | [Today](https://open.spotify.com/track/6RyAX1icG9FUU2HmnRn2dF) | [Vincenzo](https://open.spotify.com/artist/7FR8ZynvReyPlYfi4LnKyI) | [The Vanishing Years](https://open.spotify.com/album/3lnxGIRMSj6NKB16ijwbOH) | 3:37 | 2025-08-15 | 2026-01-28 |
 | [Trampoline Counting Stars](https://open.spotify.com/track/6Rysw3fhiyos3SgaqDmaa8) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 2:22 | 2025-01-13 | 2025-06-10 |
 | [Transcend](https://open.spotify.com/track/5957QAtuz2zqkvRHowniT8) | [DE/AL](https://open.spotify.com/artist/0avqHHetEkHe4liyyAm81e) | [Transcend / Let Go](https://open.spotify.com/album/46M8DxjeALzJrb03ttx7uc) | 3:21 | 2026-02-05 |  |
+| [Traumtaenzer](https://open.spotify.com/track/2RfdewuGu5FSfAZAWBugax) | [Matthias Vogt](https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY) | [Flugmodus / Traumtaenzer](https://open.spotify.com/album/5lbJnjRuSUOZeBx9E4SCwv) | 4:44 | 2026-04-02 |  |
 | [Uhh..](https://open.spotify.com/track/2FLuMpOB0B2wLl5NTGrNA1) | [Tropicalpurples](https://open.spotify.com/artist/5P14dIQyeZyLCJpi5uhVRd) | [Uhh.\. EP](https://open.spotify.com/album/1qEaa6JOjp0TG9r20FBv8q) | 3:59 | 2025-02-28 | 2025-11-22 |
 | [Under The Stars \- Malibu Remix](https://open.spotify.com/track/7bc3ddhluk5GQBpcVxdjva) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [In Another Lifetime \(Remixed\)](https://open.spotify.com/album/4ZuegOgRfXe7Z7SxGcW8jf) | 3:39 | 2025-01-13 | 2025-02-15 |
 | [Undone](https://open.spotify.com/track/1YjfbNhL8OVla61lTW0Cy9) | [Idin Gorji](https://open.spotify.com/artist/1SBoQTgHLHfOY6bKVc5MeR), [Fabio Vee](https://open.spotify.com/artist/1KtT51ksm6OrjbhVOUyXMu), [Negin Forouzan](https://open.spotify.com/artist/2uLQBNLaFgo8m7q4RutvmX) | [Undone](https://open.spotify.com/album/3ILzFzhUNK9mvUia28ZvsF) | 2:44 | 2025-11-10 | 2025-11-25 |

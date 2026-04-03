@@ -4024,7 +4024,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 140109,
       "name": "Danger",
       "url": "https://open.spotify.com/track/1Qt93wdcRF1sgRNnJeeldt"
@@ -8517,6 +8517,28 @@
     },
     {
       "album": {
+        "name": "Konkonsa",
+        "url": "https://open.spotify.com/album/1sMeUS8M66dmnJf7PZ7HnW"
+      },
+      "artists": [
+        {
+          "name": "ANNY",
+          "url": "https://open.spotify.com/artist/4jFYJxnO6fjK8ZGc6JUyUw"
+        },
+        {
+          "name": "Ghanaian Stallion",
+          "url": "https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184434,
+      "name": "Konkonsa",
+      "url": "https://open.spotify.com/track/0rTqf5iHyoX1mRYPTmeALp"
+    },
+    {
+      "album": {
         "name": "KU LO SA (with Camila Cabello)",
         "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
       },
@@ -9694,7 +9716,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 154983,
       "name": "MANDEM",
       "url": "https://open.spotify.com/track/6dn6lkOk2V3Ya0U7uPImIJ"
@@ -11716,6 +11738,32 @@
       "duration_ms": 246323,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/5PHyvWrp5vtBS8lma8IWRo"
+    },
+    {
+      "album": {
+        "name": "Of Course",
+        "url": "https://open.spotify.com/album/4eb1Vf93F0qgJOo8vOBphV"
+      },
+      "artists": [
+        {
+          "name": "Glassface",
+          "url": "https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP"
+        },
+        {
+          "name": "Ayotemi",
+          "url": "https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Of Course",
+      "url": "https://open.spotify.com/track/07g4rBsJAXS0GXvc0IR6kk"
     },
     {
       "album": {

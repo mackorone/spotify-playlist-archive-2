@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Igor Herbut",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Amelia And",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -1386,6 +1386,28 @@
       "duration_ms": 223937,
       "name": "Bez Ciebie",
       "url": "https://open.spotify.com/track/1e0Al4JpNT6tJGKQ0uzkA0"
+    },
+    {
+      "album": {
+        "name": "Bez Ciebie",
+        "url": "https://open.spotify.com/album/56BxmChAvPCDEdh3OWUN91"
+      },
+      "artists": [
+        {
+          "name": "SUPERNOVA",
+          "url": "https://open.spotify.com/artist/13pID0NGBQTVDqblbBcSNO"
+        },
+        {
+          "name": "SNLGHT",
+          "url": "https://open.spotify.com/artist/1Ybm8Ze0H3meOe4GP6OWCi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225342,
+      "name": "Bez Ciebie",
+      "url": "https://open.spotify.com/track/4DVjl9vP5pkuk4XPKVrYyD"
     },
     {
       "album": {
@@ -6954,7 +6976,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 185669,
       "name": "Gospel",
       "url": "https://open.spotify.com/track/2KBKmO2415gSO06SXxPNXh"
@@ -9587,6 +9609,24 @@
     },
     {
       "album": {
+        "name": "Kocham",
+        "url": "https://open.spotify.com/album/4kDVyK4HkSS5xYMhef929l"
+      },
+      "artists": [
+        {
+          "name": "Kminek",
+          "url": "https://open.spotify.com/artist/68HUpiuU3Ni0AMP0DuxMG3"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196909,
+      "name": "Kocham",
+      "url": "https://open.spotify.com/track/7gE1wplb0AZzxGFlYCfjvm"
+    },
+    {
+      "album": {
         "name": "KOCHAM POLSK\u0118",
         "url": "https://open.spotify.com/album/3NrMwOLNdZfTM4mEKfOF91"
       },
@@ -9656,7 +9696,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 179266,
       "name": "Kocha\u0107 inaczej (rework)",
       "url": "https://open.spotify.com/track/6HgZt9DzNOitgm4WJ4z1Fc"
@@ -11330,7 +11370,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 237439,
       "name": "List z wielkiego miasta",
       "url": "https://open.spotify.com/track/5vAcemWiqZ9V8KXYSfn4WM"
@@ -15090,7 +15130,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 144913,
       "name": "Nie sta\u0142o si\u0119 nic",
       "url": "https://open.spotify.com/track/1aSDziIqOBjneLghehDVip"
@@ -16352,6 +16392,24 @@
       "duration_ms": 185313,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6IdIY0pXH9j0PSatRSNK95"
+    },
+    {
+      "album": {
+        "name": "Brudna - Bielizna",
+        "url": "https://open.spotify.com/album/46S418J9r6uh6v5ACV3QTW"
+      },
+      "artists": [
+        {
+          "name": "Kosmonauci",
+          "url": "https://open.spotify.com/artist/283semIr4NG8yUDW5zRAol"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364411,
+      "name": "Och! Proste : Trudne",
+      "url": "https://open.spotify.com/track/4rPLuXcvAU7nrvtPgnjimz"
     },
     {
       "album": {
@@ -19508,7 +19566,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 240000,
       "name": "p\u0142uca",
       "url": "https://open.spotify.com/track/2TxsC8ggcshcT7ldo9Oj0f"
@@ -25773,6 +25831,24 @@
     },
     {
       "album": {
+        "name": "Woda zm\u0105cona (W kadzidla\u0144skim boru)",
+        "url": "https://open.spotify.com/album/2w9zREBjl7SsW542yQVSJg"
+      },
+      "artists": [
+        {
+          "name": "Amelia And",
+          "url": "https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Woda zm\u0105cona (W kadzidla\u0144skim boru)",
+      "url": "https://open.spotify.com/track/5FE07a074RetujLAg4Bhx4"
+    },
+    {
+      "album": {
         "name": "Wojna",
         "url": "https://open.spotify.com/album/4F8hsZvmeSaa3838hgv78p"
       },
@@ -29128,6 +29204,24 @@
       "duration_ms": 192982,
       "name": "\u017b\u00f3\u0142te okna",
       "url": "https://open.spotify.com/track/1uRLyPPB9kxga0pXvm80C9"
+    },
+    {
+      "album": {
+        "name": "\u017b\u00f3\u0142w",
+        "url": "https://open.spotify.com/album/5ImeYrRUXs4jxxx7MeIO9S"
+      },
+      "artists": [
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436458,
+      "name": "\u017b\u00f3\u0142w",
+      "url": "https://open.spotify.com/track/4WmVhbrRPbRJsYHfQA0cLw"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 10CM & SORAN\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-671 songs - 1 day 15 hr 25 min
+672 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jacob \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 | 2026-01-26 | 2026-03-27 |
 | [Envy you](https://open.spotify.com/track/533qJgO1JRlJLL6F0mC0jd) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Envy you](https://open.spotify.com/album/6rdUdeXkuaPHdZb4igsQ2S) | 3:34 | 2022-12-13 | 2022-12-20 |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2021-12-10 |  |
-| [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 | 2026-03-06 |  |
+| [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 | 2026-03-06 | 2026-04-03 |
 | [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 | 2021-12-10 | 2025-01-18 |
 | [every night every day](https://open.spotify.com/track/4bLj4d2i6hnoIbmsYtqpsJ) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [every night every day](https://open.spotify.com/album/2KzUmmLwP4ZH0X0096aahf) | 3:35 | 2025-04-17 | 2025-07-18 |
 | [Everything](https://open.spotify.com/track/6LKKXN9AU570Y88RrQeM1s) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7GwxpetZKbSuTgzGeduh6z) | 3:19 | 2023-01-14 | 2023-01-26 |
@@ -167,6 +167,7 @@
 | [firefly](https://open.spotify.com/track/0Yl0RQL6YAbZvAZMBuRlfG) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Firefly](https://open.spotify.com/album/31wQ8LKIBv4YGM10scKFUq) | 3:22 | 2025-12-02 | 2025-12-05 |
 | [First Confession](https://open.spotify.com/track/449Oc8OI6gPZo8FFuCEYO2) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Eunbyeol](https://open.spotify.com/artist/6w4yTmsjdEcvc2nKuQo6gJ) | [First Confession](https://open.spotify.com/album/13AOgIWiuBJCMvAyBWW9SU) | 4:01 | 2024-05-10 | 2024-06-01 |
 | [First dance](https://open.spotify.com/track/6f7r1qCJBPZo5NubaKPipP) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx) | [OVERHAUL](https://open.spotify.com/album/2knl4OxinpGhYjUstyDXmB) | 3:43 | 2022-03-31 | 2022-04-18 |
+| [First Date \(2026 ver.\)](https://open.spotify.com/track/47so8QhBwzJYh211xsnljl) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Change](https://open.spotify.com/album/5IKR5OzEVQApwgp7mjWBK6) | 3:42 | 2026-04-02 |  |
 | [First Night](https://open.spotify.com/track/1gxhjVlAXCUlLqP0lw1TIH) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [First Night](https://open.spotify.com/album/4ALF5JtHvUpEYRjgTsG9jM) | 3:36 | 2025-01-09 | 2025-02-04 |
 | [Flashback](https://open.spotify.com/track/48IH46gTbuyXsL5EjtRHxo) | [권결](https://open.spotify.com/artist/0jy3BB8xJVu7fuBeD9OolD) | [Flashback](https://open.spotify.com/album/5ZOFISUwly1UlG4k0dBL7i) | 2:40 | 2022-03-31 | 2022-04-16 |
 | [For a Long Time 오래도록 반짝이게](https://open.spotify.com/track/1iyrKf79eBRdPoxQ1zawzu) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [The End of The Summer 새봄, 04 소품집 \`여름녘\`](https://open.spotify.com/album/0pgphJHEePy829QEVesrXs) | 4:03 | 2021-12-10 | 2022-07-29 |

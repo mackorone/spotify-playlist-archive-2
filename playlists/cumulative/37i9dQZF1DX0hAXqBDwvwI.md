@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-832 songs - 2 day 5 hr 49 min
+833 songs - 2 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Higher's High](https://open.spotify.com/track/1qsCLieHNQXNi1nRjkt0QO) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [Higher's High](https://open.spotify.com/album/2PQWxWKHG7VNhRgjyvMpGD) | 3:32 | 2022-06-03 | 2022-06-13 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-11-12 | 2024-04-19 |
 | [HOME](https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME](https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d) | 4:51 | 2022-06-14 | 2022-07-02 |
+| [Honto](https://open.spotify.com/track/7e3ofxCHCU9ef4OKIWUXr1) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Honto](https://open.spotify.com/album/2jePhGriZgRyomj52o8hIV) | 3:42 | 2026-04-02 |  |
 | [HORIZON](https://open.spotify.com/track/0jNd21lxSmPCjSmtTyoNiG) | [TEAM SHACHI](https://open.spotify.com/artist/6PWtv6Ry0vlA2WkbFcQfro) | [HORIZON](https://open.spotify.com/album/27KWr8ETlrdCAR9doDdhSX) | 4:17 | 2022-06-24 | 2022-07-19 |
 | [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 | 2025-10-02 |  |
 | [Howling](https://open.spotify.com/track/2twCEq28Qw7FcsznfX4HNv) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Howling](https://open.spotify.com/album/2XJrLMBNy1Ln56nHrW1Uic) | 4:09 | 2022-06-03 | 2022-07-25 |
@@ -765,7 +766,7 @@
 | [空に歌えば](https://open.spotify.com/track/3XKMO7tvyyUmxRvlJGhYQm) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [地方都市のメメント・モリ](https://open.spotify.com/album/5H70NIneu6i4h5LKIG9TH6) | 3:37 | 2022-07-28 | 2024-04-19 |
 | [突破口](https://open.spotify.com/track/481beimUiUnMUzSbOAFcUT) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [突破口 / 自慢になりたい](https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB) | 4:15 | 2022-06-03 | 2024-07-17 |
 | [窓を開けて](https://open.spotify.com/track/4TwD0lFw27wyvl3ZmHV9Vi) | [CIEL](https://open.spotify.com/artist/3br9le9sNFSVAVBDTjdOn4) | [窓を開けて](https://open.spotify.com/album/3BPnbO888UkvL18f3Sdj9s) | 3:36 | 2022-06-03 | 2022-07-26 |
-| [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-05-09 |  |
+| [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-05-09 | 2026-04-03 |
 | [箱庭の幸福](https://open.spotify.com/track/1OCE0YptdrXn8h31fzkwT2) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [箱庭の幸福](https://open.spotify.com/album/1Ln2bsxA0nLjlsMtsoS4R2) | 4:55 | 2022-06-03 | 2022-07-15 |
 | [約束](https://open.spotify.com/track/3wE3rGZpYYvOPPE6r0Dtp8) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [約束](https://open.spotify.com/album/5snHlvUPqmmv3wB0M7QWcv) | 4:56 | 2022-06-03 | 2022-07-29 |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2022-07-28 | 2024-04-19 |

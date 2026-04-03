@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > All of your recent Worship hits in one place!  Cover: Charity Gayle
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,906 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,190 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 49 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/0rrDGNRps64Pgz1Gw6AYBi) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [HUMAN \(Live\)](https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm) | 5:18 |
 | 50 | [Look What God Has Done \- Live](https://open.spotify.com/track/1a5ZUohQyPCZ99qSdr8hBL) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa), [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Harley Rowell](https://open.spotify.com/artist/5OhHnCKkkRB39Qhh8JRyPB) | [Look What God Has Done](https://open.spotify.com/album/7eOYGeQDyPKRbiizEkGObi) | 4:04 |
 
-Snapshot ID: `AAAAAAoXLtOvzcu8nt5hRh3wke8gZj34`
+Snapshot ID: `AAAAAAvwqflC2c+j2zy2Ghp2/RDpq820`

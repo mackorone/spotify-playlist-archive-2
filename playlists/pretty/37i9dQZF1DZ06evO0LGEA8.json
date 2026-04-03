@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 313990,
+  "num_followers": 314084,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAADdbSNrs/iyqHapkyKEh0iv",
+  "snapshot_id": "acxgAAAAAADHtFsQyE4ujpTfMq8WjLrz",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 278544,
-      "name": "Como Me Encula Esa Dama",
-      "url": "https://open.spotify.com/track/1mFXcxBVvvmB0j3MlogCAh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Nube en Nube",
         "url": "https://open.spotify.com/album/0QL23W1P1RARwrX55ywxWt"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 186710,
       "name": "De Nube en Nube",
       "url": "https://open.spotify.com/track/6uKxRqcYPJtBRZXfOJeSOZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 278544,
+      "name": "Como Me Encula Esa Dama",
+      "url": "https://open.spotify.com/track/1mFXcxBVvvmB0j3MlogCAh"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 396200,
-      "name": "Bailando Con La Muerte",
-      "url": "https://open.spotify.com/track/7BaOaWytKiNV4givTdu2Of"
+      "duration_ms": 310800,
+      "name": "Si Tuviera Una Fortuna",
+      "url": "https://open.spotify.com/track/4WYsUSOCVNPloM1hZ8bcwg"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 310800,
-      "name": "Si Tuviera Una Fortuna",
-      "url": "https://open.spotify.com/track/4WYsUSOCVNPloM1hZ8bcwg"
+      "duration_ms": 396200,
+      "name": "Bailando Con La Muerte",
+      "url": "https://open.spotify.com/track/7BaOaWytKiNV4givTdu2Of"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Chidas Pal Cuarto",
+        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 320551,
+      "name": "Biscochologo",
+      "url": "https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TOP TOP (feat. MC Davo)",
         "url": "https://open.spotify.com/album/0pGlWHw5twnUTOBCvkIKLI"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 362063,
       "name": "TOP TOP (feat. MC Davo)",
       "url": "https://open.spotify.com/track/75uaabQUMf0Vg7YKwVQq01"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Chidas Pal Cuarto",
-        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 320551,
-      "name": "Biscochologo",
-      "url": "https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Donde Se Pueda, Vol. 2",
-        "url": "https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 265300,
-      "name": "Esto No Es Malo",
-      "url": "https://open.spotify.com/track/41zxZRnp6wanJYfc2U8ZUA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Chidas Pal Cuarto",
         "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 315419,
       "name": "Mi Necesidad",
       "url": "https://open.spotify.com/track/63bxC1JHzLGAlWfTSnnCPH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta Donde Se Pueda, Vol. 2",
+        "url": "https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 265300,
+      "name": "Esto No Es Malo",
+      "url": "https://open.spotify.com/track/41zxZRnp6wanJYfc2U8ZUA"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Donde Se Pueda, Vol. 2",
-        "url": "https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 338400,
-      "name": "Hasta Donde Se Pueda",
-      "url": "https://open.spotify.com/track/6dDx3ww7VVr4jqOYrmuAyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liga Malandra 2",
         "url": "https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 240000,
       "name": "Liga Malandra 2",
       "url": "https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta Donde Se Pueda, Vol. 2",
+        "url": "https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 338400,
+      "name": "Hasta Donde Se Pueda",
+      "url": "https://open.spotify.com/track/6dDx3ww7VVr4jqOYrmuAyl"
     },
     {
       "added_at": null,

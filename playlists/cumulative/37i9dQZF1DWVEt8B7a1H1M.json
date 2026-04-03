@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Song of the Wild",
+        "url": "https://open.spotify.com/album/1kuqYcePXJxsmzTZ7ODtkM"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Sound Makers",
+          "url": "https://open.spotify.com/artist/1ZvH1asTCMDD0RgCUNOpVM"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134557,
+      "name": "A Song of the Wild",
+      "url": "https://open.spotify.com/track/3ta4hndWzkHWKJedkjhrFb"
+    },
+    {
+      "album": {
         "name": "A Symphony of the Sky",
         "url": "https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft"
       },
@@ -185,6 +203,28 @@
     },
     {
       "album": {
+        "name": "Sounds of the Borneo Rainforest",
+        "url": "https://open.spotify.com/album/03hSEx9PHgBPAP2XEkq4pO"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Chill Palm",
+          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Afternoon in Usun Apau",
+      "url": "https://open.spotify.com/track/684UbavxSKVbmzh53AfrAr"
+    },
+    {
+      "album": {
         "name": "Insect Bird By The Day",
         "url": "https://open.spotify.com/album/6T6lScQergcNtXtUlqirdA"
       },
@@ -268,7 +308,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 122601,
       "name": "Beautiful Sound Of Spring Birds",
       "url": "https://open.spotify.com/track/342GNSPKRkvYFTKSkEVvCn"
@@ -304,7 +344,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 160496,
       "name": "Beauty-Bird",
       "url": "https://open.spotify.com/track/63bDLpi7dByFnHFQEAMCh7"
@@ -924,7 +964,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 200620,
       "name": "Birds song forest rain",
       "url": "https://open.spotify.com/track/0NNomsoZvS34EyTZ8ph1xz"
@@ -1302,7 +1342,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 182083,
       "name": "Forest Bird",
       "url": "https://open.spotify.com/track/0GC8vCFKNHjC2myLf1o8v2"
@@ -1320,7 +1360,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 118000,
       "name": "Forest Birds",
       "url": "https://open.spotify.com/track/7rgTZWgO5JEPrLCmhy1ABE"
@@ -1381,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Forest Veil of Calm",
+        "url": "https://open.spotify.com/album/1MbpUJe6fX7UK9oSiZm5GL"
+      },
+      "artists": [
+        {
+          "name": "Natures Acoustics",
+          "url": "https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Forest Veil of Calm",
+      "url": "https://open.spotify.com/track/713cxL8jFho2xjv1quABDd"
+    },
+    {
+      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/185jgdGe8PCY7itko869IC"
       },
@@ -1399,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Rainy Morning Bird Sounds",
+        "url": "https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163857,
+      "name": "Garden Rain",
+      "url": "https://open.spotify.com/track/2uKaRSkIzRzjCIfqJy2dS5"
+    },
+    {
+      "album": {
         "name": "Birds by the Creek",
         "url": "https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg"
       },
@@ -1414,6 +1490,24 @@
       "duration_ms": 104651,
       "name": "Happy Birds",
       "url": "https://open.spotify.com/track/2x2NrTYeKoNmiC6uEcXyuJ"
+    },
+    {
+      "album": {
+        "name": "Hidden Birds of the Jungle",
+        "url": "https://open.spotify.com/album/0CxJTq7RjtuaSEsw7D8EGt"
+      },
+      "artists": [
+        {
+          "name": "Nature's Essence",
+          "url": "https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183763,
+      "name": "Hidden Birds of the Jungle",
+      "url": "https://open.spotify.com/track/7bYZLycurOWi4nyO5bfOAy"
     },
     {
       "album": {
@@ -1734,7 +1828,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 78980,
       "name": "Morning Bird Symphony",
       "url": "https://open.spotify.com/track/1lFMvT4R4B2S0K3dSUTrlN"
@@ -1878,7 +1972,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 1826598,
       "name": "Morning Melodies: Aotearoa Birdsong at Dawn (Aotearoa Birdsong at Dawn)",
       "url": "https://open.spotify.com/track/7a3IgdLFrx5v22xKrjMcJ1"
@@ -2019,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Night Forest",
+        "url": "https://open.spotify.com/album/4XrhapfKtOHM8vM9oRAkCi"
+      },
+      "artists": [
+        {
+          "name": "Nature's Essence",
+          "url": "https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194410,
+      "name": "Night Forest",
+      "url": "https://open.spotify.com/track/3OrDEsaqIYNaXMjtoNTmGn"
+    },
+    {
+      "album": {
         "name": "Spring Birds",
         "url": "https://open.spotify.com/album/1V9jTmnMPdFCPEyLQuy5ZQ"
       },
@@ -2030,7 +2142,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 171000,
       "name": "Northern Birds",
       "url": "https://open.spotify.com/track/7pmoGrDQTWH0PHgRvJcHAm"
@@ -2257,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Rain In The Forest",
+        "url": "https://open.spotify.com/album/4gxhbBMd0f76hxLXPOZsvZ"
+      },
+      "artists": [
+        {
+          "name": "Celestial Elements",
+          "url": "https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Rain In The Forest",
+      "url": "https://open.spotify.com/track/59qpYkbZNKjClf9lm4EPyw"
+    },
+    {
+      "album": {
         "name": "Relaxing Sounds of Nature",
         "url": "https://open.spotify.com/album/2QGcmnsvluOe2W71WSfTyG"
       },
@@ -2409,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Soulful Rainbirds",
+        "url": "https://open.spotify.com/album/1P0Mpw5KwciuJ8KTpuYo0J"
+      },
+      "artists": [
+        {
+          "name": "Nature Advisor",
+          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195134,
+      "name": "Soulful Rainbirds",
+      "url": "https://open.spotify.com/track/2VdvvqEYzxcqwvPYCVzNTA"
+    },
+    {
+      "album": {
         "name": "Nature Sounds: Ocean Waves, Forest Sounds, Rain, Soft Breezes Wind",
         "url": "https://open.spotify.com/album/265JVBSN2QBT7X0OnhJltv"
       },
@@ -2474,7 +2622,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 134092,
       "name": "Spring Birds In The Afternoon",
       "url": "https://open.spotify.com/track/70ZhYH2joI9RCE45TG52sS"
@@ -2874,6 +3022,24 @@
       "duration_ms": 157525,
       "name": "Wide Forest Birds",
       "url": "https://open.spotify.com/track/1LpNmVAC0WE75GCwcOzAIr"
+    },
+    {
+      "album": {
+        "name": "Wild Nature Birds",
+        "url": "https://open.spotify.com/album/0GcCzT6z7ZhVeo78qy9rOo"
+      },
+      "artists": [
+        {
+          "name": "Arico Mist",
+          "url": "https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133220,
+      "name": "Wild Nature Birds",
+      "url": "https://open.spotify.com/track/0QmgFStTBjFstSjyDUb3Va"
     },
     {
       "album": {

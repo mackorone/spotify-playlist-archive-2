@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Francamente in cover + tutto il meglio delle novit\u00e0 indie \ud83c\udf38",
+  "description": "Zara Colombo in cover + tutto il meglio delle novit\u00e0 indie \ud83c\udf47",
   "name": "Novit\u00e0 Indie Italiano",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 164788,
       "name": "2 am (feat. Drast)",
       "url": "https://open.spotify.com/track/6PAQfzssPTEWiQSsWT5WQT"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 154624,
       "name": "A casa starei meglio",
       "url": "https://open.spotify.com/track/6B6nWFACBC4FZQkbshA3IJ"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 94657,
       "name": "ad ogni costo",
       "url": "https://open.spotify.com/track/2Mus1en9s7ppExu1S580wC"
@@ -1458,6 +1458,24 @@
       "duration_ms": 128089,
       "name": "Alla Gente",
       "url": "https://open.spotify.com/track/63F7Ah19iuwHsoBzi4jrvo"
+    },
+    {
+      "album": {
+        "name": "alla luna",
+        "url": "https://open.spotify.com/album/3XhsUfKCOuSJKqLYrVP5zU"
+      },
+      "artists": [
+        {
+          "name": "marsea",
+          "url": "https://open.spotify.com/artist/7mw9gGWm4SBXadBNhW1OMX"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256375,
+      "name": "alla luna",
+      "url": "https://open.spotify.com/track/0OuHeXyrPEZNbCJZ9raCIH"
     },
     {
       "album": {
@@ -2790,7 +2808,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 147775,
       "name": "Babilonia",
       "url": "https://open.spotify.com/track/2vJvbnqyitMFw5NCGBMer4"
@@ -4881,6 +4899,24 @@
     },
     {
       "album": {
+        "name": "Che combini a Milano?",
+        "url": "https://open.spotify.com/album/2TTZVCc5fIQTdqQJteoFs8"
+      },
+      "artists": [
+        {
+          "name": "Stunk",
+          "url": "https://open.spotify.com/artist/6eHbpr6dxKAYDUvL0kCU0t"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178836,
+      "name": "Che combini a Milano?",
+      "url": "https://open.spotify.com/track/5QCJJGArp9Ygoba4LRzCYb"
+    },
+    {
+      "album": {
         "name": "Che cos'\u00e8 un limone",
         "url": "https://open.spotify.com/album/2UKLvqGHYh6QJRHiuPgJnq"
       },
@@ -4928,7 +4964,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 164347,
       "name": "che disastrooo",
       "url": "https://open.spotify.com/track/5V9RKN11CJDHepw0QGmCZp"
@@ -5194,6 +5230,24 @@
       "duration_ms": 184724,
       "name": "Chi Vorrei Essere?",
       "url": "https://open.spotify.com/track/6somoa1ZibdMP5JJTW2Mts"
+    },
+    {
+      "album": {
+        "name": "Chi \u00e8",
+        "url": "https://open.spotify.com/album/0R2qtyVjjALDonuLSrvc4v"
+      },
+      "artists": [
+        {
+          "name": "Cigarilla Disonasty",
+          "url": "https://open.spotify.com/artist/3rTEGeGVcOA8fyji7HJTQS"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155145,
+      "name": "Chi \u00e8",
+      "url": "https://open.spotify.com/track/11dIUhciJ6oV28Hen43D8b"
     },
     {
       "album": {
@@ -7416,7 +7470,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 155142,
       "name": "Dimenticare Maria",
       "url": "https://open.spotify.com/track/5q1bue3zwLf0N18K6NTLAl"
@@ -7470,7 +7524,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 188372,
       "name": "dimmi di no",
       "url": "https://open.spotify.com/track/4vaKEfRUby6zHszSrWgS57"
@@ -8862,7 +8916,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 187261,
       "name": "Faccio lo scemo",
       "url": "https://open.spotify.com/track/6cTzxU7wi8OaHLMNgl08BX"
@@ -9082,7 +9136,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 161944,
       "name": "fattelodire",
       "url": "https://open.spotify.com/track/4cC7wC2UHA1IOJFDtm6XlX"
@@ -10876,7 +10930,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 142024,
       "name": "Grido",
       "url": "https://open.spotify.com/track/6K2Gf80B5cYCD4BxPlTPPv"
@@ -11140,7 +11194,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 151200,
       "name": "ho paura del futuro",
       "url": "https://open.spotify.com/track/5gfNbfyN4P9umXsaFeb1pt"
@@ -13182,7 +13236,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 201600,
       "name": "la guerra e le bombe",
       "url": "https://open.spotify.com/track/5hwKCeWMOpSK0vRocTXpGC"
@@ -13334,7 +13388,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 220520,
       "name": "La noche",
       "url": "https://open.spotify.com/track/2eDAu5lbAZBY40MpGUbRh8"
@@ -14211,6 +14265,24 @@
     },
     {
       "album": {
+        "name": "Linea D'aria",
+        "url": "https://open.spotify.com/album/0JsdTALZcbH3Q8SyJ99F1Q"
+      },
+      "artists": [
+        {
+          "name": "Daria Huber",
+          "url": "https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181577,
+      "name": "Linea D'aria",
+      "url": "https://open.spotify.com/track/6xCWD6BL7qxBdCMKfkzA7n"
+    },
+    {
+      "album": {
         "name": "Lingua di Fuoco",
         "url": "https://open.spotify.com/album/15kfZ272oLXFdIj7NH4VWm"
       },
@@ -14265,6 +14337,28 @@
     },
     {
       "album": {
+        "name": "LITURGIA",
+        "url": "https://open.spotify.com/album/0LnQkknDDAcAmTpntspIbo"
+      },
+      "artists": [
+        {
+          "name": "thevoto",
+          "url": "https://open.spotify.com/artist/2dHTLE6CDl9Eu0vEJz9DCb"
+        },
+        {
+          "name": "Blackeye",
+          "url": "https://open.spotify.com/artist/5eogcP8PnyeZTk7brIK2Cj"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142300,
+      "name": "LITURGIA",
+      "url": "https://open.spotify.com/track/011h94XhyKEWMijQ1GihHa"
+    },
+    {
+      "album": {
         "name": "LIVIDI",
         "url": "https://open.spotify.com/album/6VHXZHXYErbIFyu8kJfZYW"
       },
@@ -14284,7 +14378,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 200400,
       "name": "LIVIDI",
       "url": "https://open.spotify.com/track/1QbOeTptRKHIv6vjxskZWx"
@@ -15369,6 +15463,24 @@
     },
     {
       "album": {
+        "name": "Madre Lingua",
+        "url": "https://open.spotify.com/album/1naMbMqwfCgeIRsBmaue8x"
+      },
+      "artists": [
+        {
+          "name": "Zara Colombo",
+          "url": "https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167835,
+      "name": "Mamma Mezzanotte",
+      "url": "https://open.spotify.com/track/4pDdlC0APzRn8C9mcEUJk4"
+    },
+    {
+      "album": {
         "name": "Mandorle",
         "url": "https://open.spotify.com/album/2o81VuMnSVyhFatqVLCZJh"
       },
@@ -15868,7 +15980,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 152241,
       "name": "Massimino",
       "url": "https://open.spotify.com/track/1BWtKPcPzRAwGdmXwZHV6F"
@@ -18130,7 +18242,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 201614,
       "name": "Notte",
       "url": "https://open.spotify.com/track/4vLvtlm9y7U0YkA507BoTl"
@@ -18350,7 +18462,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 321993,
       "name": "Nun ce 'a faccio chi\u00f9",
       "url": "https://open.spotify.com/track/3eC8DHH4lwTFdGboLmHKtk"
@@ -18888,7 +19000,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 217221,
       "name": "Oltre le palpebre",
       "url": "https://open.spotify.com/track/5qKDw2a4TuyfsyrEnUIm48"
@@ -19040,6 +19152,24 @@
       "duration_ms": 134030,
       "name": "Oopah",
       "url": "https://open.spotify.com/track/0yd2o1Fd32LonuRUrChnKr"
+    },
+    {
+      "album": {
+        "name": "OP (tocca a te)",
+        "url": "https://open.spotify.com/album/4kiXyojR6TvVSXvuEc6rAr"
+      },
+      "artists": [
+        {
+          "name": "Deepho",
+          "url": "https://open.spotify.com/artist/3ixYsE9GB9UnuYDIYdswxi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "OP (tocca a te)",
+      "url": "https://open.spotify.com/track/2uE8Vwch4LZQr5g30WUguj"
     },
     {
       "album": {
@@ -19701,6 +19831,24 @@
     },
     {
       "album": {
+        "name": "Pelle",
+        "url": "https://open.spotify.com/album/7tZFD9rjkklg88IlRpihVb"
+      },
+      "artists": [
+        {
+          "name": "151515!",
+          "url": "https://open.spotify.com/artist/2Yi3CLx7EWKwzPnkDFz0GL"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Pelle",
+      "url": "https://open.spotify.com/track/2eub3PPe46iMALUxATNTij"
+    },
+    {
+      "album": {
         "name": "Pelle d'oca",
         "url": "https://open.spotify.com/album/1Nfgmy1TPFubXhaQevYrgz"
       },
@@ -19886,6 +20034,24 @@
       "duration_ms": 243640,
       "name": "Per farti dormire",
       "url": "https://open.spotify.com/track/1mA9I0XgSDzX5jhzRhX5fE"
+    },
+    {
+      "album": {
+        "name": "Per le vie della citt\u00e0",
+        "url": "https://open.spotify.com/album/5gxv0uYf0h5NfVZ5fVHpZ3"
+      },
+      "artists": [
+        {
+          "name": "Pierpaolo Capovilla e i Cattivi Maestri",
+          "url": "https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194621,
+      "name": "Per le vie della citt\u00e0",
+      "url": "https://open.spotify.com/track/38o6cByWLgLS3WeHdg5idc"
     },
     {
       "album": {
@@ -20517,6 +20683,24 @@
     },
     {
       "album": {
+        "name": "Pi\u00f9 di te",
+        "url": "https://open.spotify.com/album/7mawdyID6MDCWfSaRZBKr8"
+      },
+      "artists": [
+        {
+          "name": "Barcaiolo",
+          "url": "https://open.spotify.com/artist/3t2amaczWnIunE9srTy6E0"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Pi\u00f9 di te",
+      "url": "https://open.spotify.com/track/5jYB5aVYmY8rNDDmhqgLUe"
+    },
+    {
+      "album": {
         "name": "GARDEN CITY CLUB",
         "url": "https://open.spotify.com/album/1XOgirOpGEkKtbunuBodEP"
       },
@@ -20672,7 +20856,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 186400,
       "name": "Pornografia",
       "url": "https://open.spotify.com/track/6Dm5XvTrqaN06ZpUdUtru9"
@@ -20950,7 +21134,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 176585,
       "name": "Principessa della ferraglia",
       "url": "https://open.spotify.com/track/5epMdRiH1fgPvFxeYXTZpP"
@@ -21229,6 +21413,24 @@
     },
     {
       "album": {
+        "name": "Madre Lingua",
+        "url": "https://open.spotify.com/album/1naMbMqwfCgeIRsBmaue8x"
+      },
+      "artists": [
+        {
+          "name": "Zara Colombo",
+          "url": "https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210681,
+      "name": "Punk",
+      "url": "https://open.spotify.com/track/6C9xjiQtORHsOZofPpxBeo"
+    },
+    {
+      "album": {
         "name": "punto",
         "url": "https://open.spotify.com/album/2G73CooRfo1Ly5YFpCuhrI"
       },
@@ -21348,7 +21550,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 144298,
       "name": "QUANDO DICO CERTE COSE",
       "url": "https://open.spotify.com/track/7GW4tvAgvulZVORYyCwP7i"
@@ -21500,6 +21702,24 @@
       "duration_ms": 177320,
       "name": "Quel che eravamo",
       "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
+    },
+    {
+      "album": {
+        "name": "Quella Stanza di Paris",
+        "url": "https://open.spotify.com/album/5ZBjTD0K0cRZ1o4PVajH0u"
+      },
+      "artists": [
+        {
+          "name": "carbeau",
+          "url": "https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242152,
+      "name": "Quella Stanza di Paris",
+      "url": "https://open.spotify.com/track/07QtsVtRaPEvJEX5YNfKat"
     },
     {
       "album": {
@@ -22914,7 +23134,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 248500,
       "name": "Sara ti amo",
       "url": "https://open.spotify.com/track/0MmVZ3b7S4Q2xUchW6paU5"
@@ -23221,6 +23441,24 @@
     },
     {
       "album": {
+        "name": "SCIARMATO BOI",
+        "url": "https://open.spotify.com/album/6iKUpbAlLTyX5SDfn67ZoK"
+      },
+      "artists": [
+        {
+          "name": "Zack",
+          "url": "https://open.spotify.com/artist/0digr9CIDd0VatlphDu3rO"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156210,
+      "name": "SCIARMATO BOI",
+      "url": "https://open.spotify.com/track/5heYIEJEcuS1uAjDwNyTZ5"
+    },
+    {
+      "album": {
         "name": "sconosciuti",
         "url": "https://open.spotify.com/album/2b3pVOTBafGfmraGRybkEv"
       },
@@ -23470,7 +23708,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 183061,
       "name": "Segreto",
       "url": "https://open.spotify.com/track/0ZJj3UhKd7BXkDjDaMHCCi"
@@ -26405,6 +26643,24 @@
     },
     {
       "album": {
+        "name": "torpida",
+        "url": "https://open.spotify.com/album/7cOmpx2gwK9IVMRHh4t5Hl"
+      },
+      "artists": [
+        {
+          "name": "edere",
+          "url": "https://open.spotify.com/artist/7DC9Xd7F24okb8pTdi4e1P"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264742,
+      "name": "torpida",
+      "url": "https://open.spotify.com/track/5YAuDMeg8JcDjCiCDRpiin"
+    },
+    {
+      "album": {
         "name": "TORRE DI BABELE",
         "url": "https://open.spotify.com/album/1du37TKZC30wcFBJ1SQYwP"
       },
@@ -26776,6 +27032,24 @@
       "duration_ms": 219434,
       "name": "TROPPA PUBBLICIT\u00c0",
       "url": "https://open.spotify.com/track/1cupmwZiaoP36x7lIPkQoY"
+    },
+    {
+      "album": {
+        "name": "Troppo Sporadici",
+        "url": "https://open.spotify.com/album/1QdBoqjvr4h37bQLQBGWAI"
+      },
+      "artists": [
+        {
+          "name": "Shar",
+          "url": "https://open.spotify.com/artist/3QM2rkW7qf3ToW9V14KVNO"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170097,
+      "name": "Troppo Sporadici",
+      "url": "https://open.spotify.com/track/16Xu5Q9fkf9MzVugK5wv7Y"
     },
     {
       "album": {
@@ -28598,7 +28872,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 268585,
       "name": "Villa",
       "url": "https://open.spotify.com/track/2DNrCPimliGqfMHNTs5PDZ"

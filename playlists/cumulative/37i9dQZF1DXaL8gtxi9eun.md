@@ -2,9 +2,9 @@
 
 ### [بوب مصري](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> أجمد أغاني البوب المصري كلها في قائمة واحدة\. الغلاف: تووليت
+> أجمد أغاني البوب المصري كلها في قائمة واحدة\. الغلاف: كريم محسن
 
-424 songs - 1 day 1 hr 21 min
+425 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [الليلة حلوة](https://open.spotify.com/track/5RyptsCWbpw2TbsinvklVv) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [الليلة حلوة](https://open.spotify.com/album/1FtkFVI2zD4mNnmuJ9wiRp) | 2:55 | 2024-05-08 | 2025-01-28 |
 | [النهايات اخلاق](https://open.spotify.com/track/1N7883qNidzmI1SVmdzfAE) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [النهايات اخلاق](https://open.spotify.com/album/2gCCgjKpxvkdWaXiDh9Kk7) | 4:08 | 2024-01-05 | 2024-07-25 |
 | [الوتر الحساس](https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 4:21 | 2023-05-17 | 2023-07-12 |
+| [اه يا غالي](https://open.spotify.com/track/18BCx4X8wsVovSv1P3gOkx) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [اه يا غالي](https://open.spotify.com/album/5clFOfAah8HZfAPNBHRXom) | 2:54 | 2026-04-02 |  |
 | [ايه السعادة دي](https://open.spotify.com/track/5yA23gQnPVD5H5GeO3oSEE) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ايه السعادة دي](https://open.spotify.com/album/4zuku3m8svJHhlHGylFIpJ) | 2:57 | 2023-09-01 | 2024-02-10 |
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-10-20 | 2023-07-12 |
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2022-05-04 | 2023-05-18 |
@@ -334,7 +335,7 @@
 | [جغرافيًا](https://open.spotify.com/track/31gyXhkjaqNtd0qC3sez0S) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [جغرافيًا](https://open.spotify.com/album/1nPTIrAMfh0Tzba123B4IC) | 3:02 | 2025-05-24 |  |
 | [جيت متأخر](https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [جيت متأخر](https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L) | 3:18 | 2023-12-08 | 2024-02-07 |
 | [حالته صعبة](https://open.spotify.com/track/2rz6i8B0kvYVar1GIza4O7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حالته صعبة](https://open.spotify.com/album/12J0QVom1KE7d8GaQjbI5x) | 4:52 | 2024-08-16 | 2025-04-18 |
-| [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/track/4SJwiMWbTn3QMkJ7w5V7Zn) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Menna Shalaby](https://open.spotify.com/artist/5XhIGSVTyNhZAzla5j0JKY) | [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/album/31nlWb5PMcd6OrOsgBFwWM) | 3:14 | 2024-12-20 |  |
+| [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/track/4SJwiMWbTn3QMkJ7w5V7Zn) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Menna Shalaby](https://open.spotify.com/artist/5XhIGSVTyNhZAzla5j0JKY) | [حب حياتي \(feat\. Menna Shalaby\)](https://open.spotify.com/album/31nlWb5PMcd6OrOsgBFwWM) | 3:14 | 2024-12-20 | 2026-04-03 |
 | [حبيبي ليه](https://open.spotify.com/track/3vX1qpjqKTmuESvmvwMBHR) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp) | 2:00 | 2024-07-29 | 2025-06-21 |
 | [حبيت المقابلة](https://open.spotify.com/track/2oURHU9AZsHV37S3GPtNc6) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [حبيت المقابلة](https://open.spotify.com/album/0iddA66uS6i7Rb1tv1sJ7E) | 3:05 | 2023-08-04 | 2023-08-19 |
 | [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 | 2023-07-11 | 2023-08-19 |

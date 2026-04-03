@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 15563,
+  "num_followers": 15599,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 177176,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Groundhog Day",
         "url": "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 173619,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/0QLb1y64s617SAnnDoUZLN"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 177176,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Box for Buddy, Box for Star",
-        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 273460,
-      "name": "I'm All Fucked Up",
-      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "All Is Well",
         "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 150967,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Box for Buddy, Box for Star",
+        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 273460,
+      "name": "I'm All Fucked Up",
+      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/0RSPVYjnhUDpXfMOa7zTdE"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/43I2PiBJCc781cQwY5EUVA"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
         "url": "https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 198000,
       "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
       "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/0RSPVYjnhUDpXfMOa7zTdE"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 216852,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/43I2PiBJCc781cQwY5EUVA"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "eyes don\u2019t lie",
-        "url": "https://open.spotify.com/album/6058NxZ7f2h99cX5nYai0Y"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 226054,
-      "name": "Eyes Don't Lie",
-      "url": "https://open.spotify.com/track/7mVBncqtMZeCC6lnOx4GSv"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Shawty",
         "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 197727,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "eyes don\u2019t lie",
+        "url": "https://open.spotify.com/album/6058NxZ7f2h99cX5nYai0Y"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 226054,
+      "name": "Eyes Don't Lie",
+      "url": "https://open.spotify.com/track/7mVBncqtMZeCC6lnOx4GSv"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2467,6 +2467,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "High 4 U",
+        "url": "https://open.spotify.com/album/5MMBnre4vg3kHHjCuPzBRR"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 162793,
+      "name": "High 4 U",
+      "url": "https://open.spotify.com/track/0pRbwemRrnRUDOAniF6FOR"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Daughter Of The Sun",
         "url": "https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS"
       },
@@ -2479,22 +2495,6 @@
       "duration_ms": 237473,
       "name": "Daughter Of The Sun",
       "url": "https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "It's fine",
-        "url": "https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y"
-      },
-      "artists": [
-        {
-          "name": "rhyu",
-          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
-        }
-      ],
-      "duration_ms": 305714,
-      "name": "It's fine",
-      "url": "https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb"
     }
   ],
   "unique_name": "10 Years of Fresh Finds",

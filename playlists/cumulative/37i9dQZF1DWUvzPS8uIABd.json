@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 168000,
       "name": "1001 tapaa",
       "url": "https://open.spotify.com/track/3FEqxWTMRB4jka8qmknxOz"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 172150,
       "name": "7 synti\u00e4 (feat. AHTI)",
       "url": "https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 175677,
       "name": "Boom Kah 2.0",
       "url": "https://open.spotify.com/track/4we0IaQqOwFJlYIiCKvVFt"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 177951,
       "name": "Clean Girl",
       "url": "https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN"
@@ -4164,7 +4164,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 151216,
       "name": "iPhone",
       "url": "https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076"
@@ -5625,6 +5625,24 @@
     },
     {
       "album": {
+        "name": "Askeleen edell\u00e4 - EP",
+        "url": "https://open.spotify.com/album/3Q9yKmbiKvtgzC9uJOfxZX"
+      },
+      "artists": [
+        {
+          "name": "Alma Alanko",
+          "url": "https://open.spotify.com/artist/1fFcue8MWSuhjTPVgIpRUt"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168582,
+      "name": "Kenen mukaan",
+      "url": "https://open.spotify.com/track/5Q5aAxsbtKqYyzMikGPyXP"
+    },
+    {
+      "album": {
         "name": "Kerro mik\u00e4 mun oikein on (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
         "url": "https://open.spotify.com/album/6FSzPlRCYL2GWii3L0w6RY"
       },
@@ -5854,6 +5872,36 @@
       "duration_ms": 169802,
       "name": "Kiire (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/1G5KFkMaAbhfvfzcA7HEZr"
+    },
+    {
+      "album": {
+        "name": "Kilistell\u00e4\u00e4n kyyneleit\u00e4",
+        "url": "https://open.spotify.com/album/6HPxidIevlLoAMToenpZCw"
+      },
+      "artists": [
+        {
+          "name": "RODEO",
+          "url": "https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ"
+        },
+        {
+          "name": "Anna Puu",
+          "url": "https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3"
+        },
+        {
+          "name": "Erin",
+          "url": "https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ"
+        },
+        {
+          "name": "Ida Paul",
+          "url": "https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226154,
+      "name": "Kilistell\u00e4\u00e4n kyyneleit\u00e4",
+      "url": "https://open.spotify.com/track/2g4NUpywYmotb70ZipbiaA"
     },
     {
       "album": {
@@ -6524,7 +6572,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 192621,
       "name": "kun joskus en muista",
       "url": "https://open.spotify.com/track/1Gp19g5YxFjMkU95DbsJhW"
@@ -7770,6 +7818,24 @@
       "duration_ms": 169329,
       "name": "L\u00f6yt\u00e4\u00e4 mut",
       "url": "https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4"
+    },
+    {
+      "album": {
+        "name": "m0ti0n",
+        "url": "https://open.spotify.com/album/2agpEAlJ7uDQjcIGswVPLM"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147562,
+      "name": "m0ti0n",
+      "url": "https://open.spotify.com/track/1bfGnvSonrY4NJcG8DAK0l"
     },
     {
       "album": {
@@ -10166,7 +10232,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 149750,
       "name": "OK (feat. ANI)",
       "url": "https://open.spotify.com/track/3nOafOYJ5ix2TuUDXFet2k"
@@ -13015,6 +13081,28 @@
     },
     {
       "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/7fXIlpj2gXIZQyAQwEO6TT"
+      },
+      "artists": [
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206488,
+      "name": "Savurenkaat (feat. ibe)",
+      "url": "https://open.spotify.com/track/6jjGaiUbig7I9mkzcXrgl7"
+    },
+    {
+      "album": {
         "name": "Scatman",
         "url": "https://open.spotify.com/album/2RWs5Fn0ZTGRaZdsdhhIIp"
       },
@@ -14227,6 +14315,28 @@
     },
     {
       "album": {
+        "name": "Sweetheart (feat. Topi Saha)",
+        "url": "https://open.spotify.com/album/3cBuBd8Csq8AMb0m66SS9i"
+      },
+      "artists": [
+        {
+          "name": "Annika Pudas",
+          "url": "https://open.spotify.com/artist/1UEWzQeV0TWpwFQvhIeJiA"
+        },
+        {
+          "name": "Topi Saha",
+          "url": "https://open.spotify.com/artist/634z144xl609g8O217USKM"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196627,
+      "name": "Sweetheart (feat. Topi Saha)",
+      "url": "https://open.spotify.com/track/0raRqU2pwKRw69n0m3rGOT"
+    },
+    {
+      "album": {
         "name": "Syd\u00e4mel on kiire",
         "url": "https://open.spotify.com/album/7jh7qPSZie4mXWKXZOHfmg"
       },
@@ -14887,6 +14997,28 @@
     },
     {
       "album": {
+        "name": "S\u00e4 olit oikees",
+        "url": "https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        },
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158829,
+      "name": "Tarviin jonkun joka tarvii mua (feat. louna0nline)",
+      "url": "https://open.spotify.com/track/6llAbvwBRx1VHLAdMvPyvp"
+    },
+    {
+      "album": {
         "name": "Taskulamppu",
         "url": "https://open.spotify.com/album/2hN3NLzwf52JmXOHoyoUrT"
       },
@@ -14992,6 +15124,24 @@
       "duration_ms": 171720,
       "name": "Terapiaa",
       "url": "https://open.spotify.com/track/4fQEoBhm2FlRVRRhhzCBMg"
+    },
+    {
+      "album": {
+        "name": "Ter\u00e4lehti",
+        "url": "https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr"
+      },
+      "artists": [
+        {
+          "name": "Juuna Chill",
+          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148374,
+      "name": "Ter\u00e4lehti",
+      "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"
     },
     {
       "album": {
@@ -15158,7 +15308,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 165438,
       "name": "Toimitusjohtaja",
       "url": "https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF"
@@ -15332,6 +15482,24 @@
       "duration_ms": 199466,
       "name": "Toyboy",
       "url": "https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI"
+    },
+    {
+      "album": {
+        "name": "m\u00e4 oon vaan ihminen",
+        "url": "https://open.spotify.com/album/4EYr93p8uqFv6GSkEQAz4v"
+      },
+      "artists": [
+        {
+          "name": "whereismike",
+          "url": "https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/797DCnlbSHSBDT3TVsjuvp"
     },
     {
       "album": {

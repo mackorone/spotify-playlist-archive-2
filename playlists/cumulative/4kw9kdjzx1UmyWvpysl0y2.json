@@ -19517,6 +19517,28 @@
     },
     {
       "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3n8WLww6y3YDe9hjPDGaQT"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Midnight Kids",
+          "url": "https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/2fqjgv5ZhAzR0fXC5WrrPT"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/7qTMw9yGynm49gjq2MyUC2"
       },

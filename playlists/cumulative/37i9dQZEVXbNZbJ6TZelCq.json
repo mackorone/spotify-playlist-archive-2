@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 147038,
       "name": "Ale ale",
       "url": "https://open.spotify.com/track/5pClmo7Su4lXAzDOE5MSPA"
@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 155909,
       "name": "Am dat jos ceasul iar",
       "url": "https://open.spotify.com/track/2p45gy3fuJCsGgGn7ul1Qd"
@@ -6108,7 +6108,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -6282,7 +6282,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 122530,
       "name": "BOT",
       "url": "https://open.spotify.com/track/3fd1UJwCkgGhAojjavHEjg"
@@ -7214,7 +7214,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 155250,
       "name": "B\u0103ie\u021bi de Ora\u0219 - From \"B\u0103ie\u021bi De Ora\u0219 | Golden Boyz\" The Movie",
       "url": "https://open.spotify.com/track/33XJD6EhI9Od8gFhLsbdGi"
@@ -12134,7 +12134,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 203182,
       "name": "Din Corason",
       "url": "https://open.spotify.com/track/0y2dfDgJaRckH48vI1YIVH"
@@ -13033,6 +13033,28 @@
     },
     {
       "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "album": {
         "name": "Draga Domnisoara",
         "url": "https://open.spotify.com/album/4Abiy3GqPbfeCmsgyqUm0K"
       },
@@ -13648,7 +13670,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 141539,
       "name": "E Mult, E Greu!",
       "url": "https://open.spotify.com/track/6OfGAcaOGhkgXWWrSsRpzj"
@@ -13666,7 +13688,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 102000,
       "name": "E TA LA VIA",
       "url": "https://open.spotify.com/track/1QjEQL1vUyI4FSOpjyYy5S"
@@ -18730,7 +18752,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 139008,
       "name": "Hai tu Maria",
       "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
@@ -21558,7 +21580,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 261309,
       "name": "Info de la Napoli",
       "url": "https://open.spotify.com/track/3LPqJm3IWTzb55vaxhtkHV"
@@ -22272,6 +22294,24 @@
       "duration_ms": 297000,
       "name": "Jail",
       "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
+    },
+    {
+      "album": {
+        "name": "Jamaica (Live)",
+        "url": "https://open.spotify.com/album/0lZx5Tkdqk73ZAfvqXv1X8"
+      },
+      "artists": [
+        {
+          "name": "Luis Gabriel",
+          "url": "https://open.spotify.com/artist/03bnhSwfwaSQhZyVy9m6ob"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "Jamaica - Live",
+      "url": "https://open.spotify.com/track/5fHDlsUJmzAtIPV7r7lGWu"
     },
     {
       "album": {
@@ -25932,7 +25972,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 209523,
       "name": "Ma Suni Noaptea",
       "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
@@ -29444,7 +29484,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 179477,
       "name": "NEW YORK",
       "url": "https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD"
@@ -30200,7 +30240,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 131368,
       "name": "Nu m\u0103 las\u0103 \u00een pace",
       "url": "https://open.spotify.com/track/4nswoiGHjYF3ufTPpr5SC9"
@@ -34952,7 +34992,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 139236,
       "name": "Putaria",
       "url": "https://open.spotify.com/track/5qLHgcv6NujmTJkNpSdec7"
@@ -35768,7 +35808,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 157021,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
@@ -42390,7 +42430,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 176386,
       "name": "Talentul ala fin",
       "url": "https://open.spotify.com/track/2ftaktO6DSSPwXkoZkf4dI"
@@ -44276,7 +44316,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 148474,
       "name": "Toat\u0103 seara",
       "url": "https://open.spotify.com/track/5G0qHzsdgZGoTROnafSKvp"
@@ -47516,7 +47556,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 160731,
       "name": "Walla Eh",
       "url": "https://open.spotify.com/track/30Qx8p1Fr1qIZCY7Rp83sG"

@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 29569,
+  "num_followers": 29577,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAABRePHGC/uj8YR91bL88j3l",
+  "snapshot_id": "acxgAAAAAABEuRWsxuQm7tJjvnNLgrJ3",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Voyager - Essential Max Richter",
+        "url": "https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "The Departure",
+      "url": "https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
         "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
       },
@@ -459,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voyager - Essential Max Richter",
-        "url": "https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd"
+        "name": "Saint-Sa\u00ebns: Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
+        "url": "https://open.spotify.com/album/0PuIYmzYUjpCtdavDdXdoY"
       },
       "artists": [
         {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 151506,
-      "name": "The Departure",
-      "url": "https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l"
+      "duration_ms": 194666,
+      "name": "Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
+      "url": "https://open.spotify.com/track/0iM0od4FRl4FhDSSEIWjms"
     },
     {
       "added_at": null,
@@ -499,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns: Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
-        "url": "https://open.spotify.com/album/0PuIYmzYUjpCtdavDdXdoY"
+        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
+        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 194666,
-      "name": "Carnival of the Animals, R. 125: XIII. The Swan (Arr. Naoumoff for Piano 4 Hands)",
-      "url": "https://open.spotify.com/track/0iM0od4FRl4FhDSSEIWjms"
+      "duration_ms": 89280,
+      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
+      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
     },
     {
       "added_at": null,
@@ -531,26 +551,6 @@
       "duration_ms": 160356,
       "name": "The Bare Necessities - From \"The Jungle Book\"",
       "url": "https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Part of Your World (Arr. Hamilton for Piano & Flute) [From \"The Little Mermaid\" (Feat. Cocomi)]",
-        "url": "https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        },
-        {
-          "name": "Cocomi",
-          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
-        }
-      ],
-      "duration_ms": 344466,
-      "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
-      "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
     },
     {
       "added_at": null,
@@ -575,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
-        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
+        "name": "Part of Your World (Arr. Hamilton for Piano & Flute) [From \"The Little Mermaid\" (Feat. Cocomi)]",
+        "url": "https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF"
       },
       "artists": [
         {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
-        },
-        {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
         }
       ],
-      "duration_ms": 89280,
-      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
-      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
+      "duration_ms": 344466,
+      "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
+      "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns",
-        "url": "https://open.spotify.com/album/3923ndf9zKgvppYaawmuIO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 372653,
-      "name": "Pavane, Op. 50 (Version for Piano)",
-      "url": "https://open.spotify.com/track/349KIIngrzk0ObXRz3pqlG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lang Lang: The Chopin Album",
         "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 366320,
       "name": "Nocturne in E-Flat Major, Op. 55, No. 2",
       "url": "https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saint-Sa\u00ebns",
+        "url": "https://open.spotify.com/album/3923ndf9zKgvppYaawmuIO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 372653,
+      "name": "Pavane, Op. 50 (Version for Piano)",
+      "url": "https://open.spotify.com/track/349KIIngrzk0ObXRz3pqlG"
     },
     {
       "added_at": null,
@@ -840,17 +840,17 @@
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Elena Kats-Chernin",
+          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 35826,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 3",
-      "url": "https://open.spotify.com/track/01krwPhJ04YilFViTRPU1O"
+      "duration_ms": 190626,
+      "name": "Wild Swans Suite: II. Eliza Aria (Version for Piano)",
+      "url": "https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lang Lang: The Chopin Album",
-        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "\u00c9tudes, Op. 25: No. 1 in A-Flat Major",
-      "url": "https://open.spotify.com/track/6SZecFOXcA1mt31T67vajf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ann: ICARUS (Version for Piano 4 Hands)",
         "url": "https://open.spotify.com/album/70wHjMEcYKBwNTufddc69I"
       },
@@ -919,22 +899,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+        "name": "Lang Lang: The Chopin Album",
+        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
       },
       "artists": [
         {
-          "name": "Elena Kats-Chernin",
-          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Wild Swans Suite: II. Eliza Aria (Version for Piano)",
-      "url": "https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y"
+      "duration_ms": 174266,
+      "name": "\u00c9tudes, Op. 25: No. 1 in A-Flat Major",
+      "url": "https://open.spotify.com/track/6SZecFOXcA1mt31T67vajf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 35826,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 3",
+      "url": "https://open.spotify.com/track/01krwPhJ04YilFViTRPU1O"
     },
     {
       "added_at": null,

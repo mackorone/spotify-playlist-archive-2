@@ -2405,6 +2405,32 @@
     },
     {
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/0HVup9ocjvZAqnabNje5H1"
+      },
+      "artists": [
+        {
+          "name": "NANDHITAXX",
+          "url": "https://open.spotify.com/artist/4MLKYLMWvFnrCA8TvuNIO0"
+        },
+        {
+          "name": "JRSN",
+          "url": "https://open.spotify.com/artist/2KvLniIH0ovivlx2gjf1kr"
+        },
+        {
+          "name": "Jeruson",
+          "url": "https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/4FhXNSst841JP0C3z1jdbe"
+    },
+    {
+      "album": {
         "name": "Dream Girl",
         "url": "https://open.spotify.com/album/3buuOcGH7pmdMF6Ck0xwOX"
       },
@@ -4616,6 +4642,28 @@
       "duration_ms": 183944,
       "name": "Kaalam Neram (From \"MM Originals\") (Original Soundtrack)",
       "url": "https://open.spotify.com/track/4reJxn5fEju74xRPpRdUPm"
+    },
+    {
+      "album": {
+        "name": "Kaalam Thaandi",
+        "url": "https://open.spotify.com/album/50qWbb1zndVGN6WLuV5RnF"
+      },
+      "artists": [
+        {
+          "name": "Allwin Fernandes",
+          "url": "https://open.spotify.com/artist/0n5eXhYnKovcAjuvdCqGtR"
+        },
+        {
+          "name": "Vignesh Shankar",
+          "url": "https://open.spotify.com/artist/3efktrNkS49TYF0gcfwMeX"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215737,
+      "name": "Kaalam Thaandi",
+      "url": "https://open.spotify.com/track/25RJWsx5213PQNXXa7vwPq"
     },
     {
       "album": {
@@ -9842,6 +9890,28 @@
       "duration_ms": 276645,
       "name": "Oh My Baby",
       "url": "https://open.spotify.com/track/6ZEz7w3tmInPP7WlK9C1wB"
+    },
+    {
+      "album": {
+        "name": "Oh My Faahh!",
+        "url": "https://open.spotify.com/album/2OwP43t9xfwPbo7aJEqPVD"
+      },
+      "artists": [
+        {
+          "name": "Sharan kumar",
+          "url": "https://open.spotify.com/artist/6TZDORviDHkSuMyOC7Y1zT"
+        },
+        {
+          "name": "Sudarson Murali",
+          "url": "https://open.spotify.com/artist/3tN6lidJb3D8ajB1CR8Fl2"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192396,
+      "name": "Oh My Faahh!",
+      "url": "https://open.spotify.com/track/5ulozItll1NPmEcxCfJQm6"
     },
     {
       "album": {

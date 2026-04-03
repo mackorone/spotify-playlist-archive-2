@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 Christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,080 likes - 160 songs - 14 hr 40 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,070 likes - 160 songs - 14 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Holy Forever](https://open.spotify.com/track/1jnU6ZJXnSSwxfmjGGed2J) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 5:08 |
-| 2 | [He Arose](https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [He Arose](https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m) | 4:49 |
-| 3 | [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 |
-| 4 | [Mighty Name of Jesus \- Live](https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Mighty Name of Jesus & This Place \(Live\)](https://open.spotify.com/album/49siZ2o3xfh6ZR56eI5ZPr) | 8:02 |
-| 5 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
-| 6 | [Bless Your Name](https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Bless Your Name](https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH) | 4:11 |
+| 2 | [Bless Your Name](https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Bless Your Name](https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH) | 4:11 |
+| 3 | [He Arose](https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [He Arose](https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m) | 4:49 |
+| 4 | [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 |
+| 5 | [Mighty Name of Jesus \- Live](https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Mighty Name of Jesus & This Place \(Live\)](https://open.spotify.com/album/49siZ2o3xfh6ZR56eI5ZPr) | 8:02 |
+| 6 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
 | 7 | [Who Else](https://open.spotify.com/track/0W222BKVZpnQT5hjt8oXbG) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Anna Byrd](https://open.spotify.com/artist/1kuo3vRooBFar6swkV54PY) | [Church Moments](https://open.spotify.com/album/2RTlVdXyZEVDEzVZY8e4W2) | 6:36 |
 | 8 | [Stories \- Break Open](https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Break Open](https://open.spotify.com/album/0FSWZD1UjBwGb1nNUJFExO) | 6:38 |
 | 9 | [Gratitude \- Live At Sound Emporium](https://open.spotify.com/track/37WPHM0v6wekvi5wXnve4W) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Songs You Maybe Didn't Know I Wrote And Some You Maybe Did \(Live At Sound Emporium\)](https://open.spotify.com/album/6zkm3hMUBGWTigktv1U4PK) | 7:07 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 159 | [Rest On Us](https://open.spotify.com/track/25p9WwZkKwI07cZiHxFask) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Harvest Grapevine](https://open.spotify.com/artist/1fHsA04cL5A4gkCzl9gAW0) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 9:24 |
 | 160 | [Fear of God ∞](https://open.spotify.com/track/27GcUxI5ScpItTrA82fwSD) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [INFINITY](https://open.spotify.com/album/026YDYCcrzKoCrELvYR1ZM) | 4:33 |
 
-Snapshot ID: `AAAh2LPlILQWmhsnj0rGOlzchjPOISQJ`
+Snapshot ID: `AAAh2lTBBEOmhKA4Dt1ysc97SMPr/0uM`

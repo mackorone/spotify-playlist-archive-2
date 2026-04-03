@@ -4,7 +4,7 @@
 
 > Listen to Daniela Andrade and Canadian women at full volume!
 
-2,180 songs - 4 day 17 hr 35 min
+2,181 songs - 4 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [Choose Summer \(Gold Teeth and Bamboos\)](https://open.spotify.com/track/5TvS3frY1wTkKRYNNQMaTy) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Beyond the Uncanny Valley](https://open.spotify.com/album/6B5xlWlWF1amW6KzOzbxr0) | 2:03 | 2023-09-06 | 2023-10-05 |
 | [Château de sable](https://open.spotify.com/track/4c9YqPthFT6LIFSQehoZre) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Château de sable](https://open.spotify.com/album/1mhXgb3EuFPMO58Pv3K4d2) | 3:18 | 2025-07-02 | 2025-08-07 |
 | [Château de sable \- Piano Edit](https://open.spotify.com/track/34xRCwiwxNk02ih8kAVE0R) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Château de sable \(Piano Edit\)](https://open.spotify.com/album/44jGCF4P32PtjxQy6ybDKt) | 2:41 | 2026-02-04 | 2026-03-05 |
-| [Ciao bye bonsoir!](https://open.spotify.com/track/5nrFeomM9BET3f0UBu85WM) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Ciao bye bonsoir!](https://open.spotify.com/album/0r8IYVgDP5ay1TO97VJz6q) | 2:50 | 2026-04-01 |  |
+| [Ciao bye bonsoir!](https://open.spotify.com/track/5nrFeomM9BET3f0UBu85WM) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Ciao bye bonsoir!](https://open.spotify.com/album/0r8IYVgDP5ay1TO97VJz6q) | 2:50 | 2026-04-01 | 2026-04-03 |
 | [Circle Back Around](https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Circle Back Around](https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33) | 3:15 | 2023-03-01 | 2023-04-06 |
 | [Circle Back Around](https://open.spotify.com/track/5iZxD9bAj02VcePfzunBNt) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 3:15 | 2023-11-29 | 2024-01-13 |
 | [CLAP CLAP](https://open.spotify.com/track/5RTlJhSKbSYKC96vgKq8qM) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated](https://open.spotify.com/album/7ce1HCzYF5AMlYsM639YlN) | 3:15 | 2022-11-30 | 2023-01-05 |
@@ -867,6 +867,7 @@
 | [Hot](https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:42 | 2024-09-04 | 2024-10-03 |
 | [Hot Cakes](https://open.spotify.com/track/4wDrcyjnsusxoXMMk69H3x) | [Olivia Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Hot Cakes](https://open.spotify.com/album/599SChVKuAdf7VzWL2Nsjj) | 2:14 | 2025-07-02 | 2025-08-07 |
 | [hot girls in hell](https://open.spotify.com/track/5XVBu2hj62d0W4cShqIsEo) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [falling for robots & wishing i was one](https://open.spotify.com/album/4KvF5JPbuL07l8OxQjPezf) | 2:51 | 2025-05-07 | 2025-06-05 |
+| [HOT N $WEET](https://open.spotify.com/track/3BPZX5XTDcJuG75JJbb7is) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [$TILL PAID](https://open.spotify.com/album/2HrOxwGUV3bk56mynG4NpK) | 2:04 | 2026-04-02 |  |
 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 | 2023-10-04 | 2024-01-13 |
 | [Hotter Than the Sun](https://open.spotify.com/track/3D9qndBLQXvP7KiVtZFRwe) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Fantasy Life](https://open.spotify.com/album/1lJr3ZmZqQtEukjLIFll2H) | 3:20 | 2025-12-03 | 2026-01-15 |
 | [Hotter Than the Sun](https://open.spotify.com/track/61q6NKN3EnJyW4e1I50qol) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Hotter Than the Sun](https://open.spotify.com/album/2fAu9AeCGx9Rxqf9wLYKqc) | 3:20 | 2025-10-01 | 2025-11-06 |

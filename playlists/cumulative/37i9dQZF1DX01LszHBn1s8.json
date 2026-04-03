@@ -13171,6 +13171,24 @@
     },
     {
       "album": {
+        "name": "Ibbe's Song (From the Netflix Series 'Love is Blind Sweden')",
+        "url": "https://open.spotify.com/album/6ZYuyWCci1h3jbG3BoxyWB"
+      },
+      "artists": [
+        {
+          "name": "ANIELA",
+          "url": "https://open.spotify.com/artist/7jL4XNfIkjSR92sLxWizVs"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "Ibbe's Song (From the Netflix Series 'Love is Blind Sweden')",
+      "url": "https://open.spotify.com/track/57NM4YDUlt4DzAONf7WbNM"
+    },
+    {
+      "album": {
         "name": "IBTC",
         "url": "https://open.spotify.com/album/7JG6V3mLxuQX0mPJlI6Kie"
       },

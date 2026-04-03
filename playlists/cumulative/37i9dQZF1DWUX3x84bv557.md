@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Russo & Emma Heesters
+> Frisse Nederlandse pop\. Cover: Antoon
 
-1,269 songs - 2 day 12 hr 39 min
+1,272 songs - 2 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Carrière & De Liefde](https://open.spotify.com/track/2yXTOinA170JZPUDdFCmYr) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Carrière & De Liefde](https://open.spotify.com/album/23jvyfrfkEP3VabOS6KLZh) | 2:29 | 2026-02-19 |  |
 | [Carrousel](https://open.spotify.com/track/37ol7vhRstiq8txUKXDkNP) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Carrousel](https://open.spotify.com/album/4MVvf0xyqyN8o0QN1GqZM6) | 2:19 | 2025-04-17 | 2025-06-27 |
 | [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 | 2025-03-06 | 2025-03-28 |
-| [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 | 2026-01-15 |  |
+| [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 | 2026-01-15 | 2026-04-03 |
 | [Champie & Sashimi](https://open.spotify.com/track/2oLSkJFtbH4OFQMWeXnhoL) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Champie & Sashimi](https://open.spotify.com/album/4EH2rYlWPsrWHvPXDyLJYe) | 2:36 | 2026-03-19 |  |
 | [Champions League](https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Champions League](https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec) | 2:22 | 2023-11-09 | 2024-03-08 |
 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 | 2025-06-12 | 2025-09-19 |
@@ -574,6 +574,7 @@
 | [Illusies](https://open.spotify.com/track/54E9cqWN03bwOSXpZ0WI3y) | [Tomson](https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp) | [Illusies](https://open.spotify.com/album/5XgzPaAbCwP8z6sN3ivyL9) | 2:55 | 2023-08-31 | 2023-09-15 |
 | [Illusionist](https://open.spotify.com/track/0nyuMI9Gz3bdPu69fiVhpN) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Illusionist](https://open.spotify.com/album/1xUXLVxq8k2xF7Zekii9E6) | 3:39 | 2025-10-16 | 2026-01-23 |
 | [In Het Licht](https://open.spotify.com/track/1OhdiixXL81GSl6G5SLgf2) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Paradijs](https://open.spotify.com/album/6XXlimQKIfOiVzb7JrzxX0) | 2:29 | 2024-01-25 | 2024-02-16 |
+| [In Je Bed](https://open.spotify.com/track/5v78Fw0egMGlffUGn1pnb7) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [In Je Bed](https://open.spotify.com/album/0zjj2c9hvjajVWRQZpSYyZ) | 2:50 | 2026-04-02 |  |
 | [In Je Hoek](https://open.spotify.com/track/75snVU5TWO4KbkIBbNITxq) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [In Je Hoek](https://open.spotify.com/album/4R4UjiDPSy31mPFDMukybB) | 3:29 | 2026-03-26 |  |
 | [In M'n Armen](https://open.spotify.com/track/0UlQCNLlugOOcm7DU6ButT) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [In M'n Armen](https://open.spotify.com/album/4tqM7d0GnWrARsTNaNbS5R) | 2:17 | 2025-02-27 | 2025-05-16 |
 | [Incognito](https://open.spotify.com/track/2ec9C3JxRSpZDk8vnBM6VX) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [Incognito](https://open.spotify.com/album/3c7BaxiV0tzo4VfYaiZXYP) | 2:10 | 2024-04-04 | 2024-06-14 |
@@ -625,6 +626,7 @@
 | [Keep It Real](https://open.spotify.com/track/29ATYUGisQLeSCphYSB4LL) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb) | [Keep It Real](https://open.spotify.com/album/14uCrw5li2R6CAc16pL4vn) | 2:38 | 2023-10-05 | 2023-10-20 |
 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 | 2025-01-10 | 2025-03-07 |
 | [Keuzestress](https://open.spotify.com/track/6MQOcrAfVujJ4EzHCrkbZk) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Keuzestress](https://open.spotify.com/album/2SbhLqAR0NcZr8mHZNfVfI) | 2:26 | 2024-02-29 | 2024-05-24 |
+| [Kijk niet in de Zon](https://open.spotify.com/track/29a5iDpWcJNMupxLzh3Vtx) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [Luis Moka](https://open.spotify.com/artist/7A44q1pS4CF0mZrM1ozdoD) | [Kijk niet in de Zon](https://open.spotify.com/album/5w8ysOEpEvtuWQxK9bQoiw) | 3:24 | 2026-04-02 |  |
 | [Klaar Met Jou](https://open.spotify.com/track/0aMWyDZmWkJT6oHV4jsaek) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Klaar Met Jou](https://open.spotify.com/album/6mnhnt9QUJDMXRcmAgfxpY) | 2:12 | 2025-07-10 | 2025-09-12 |
 | [Klaar Voor Wat Er Komt](https://open.spotify.com/track/74oGstwGCWwsxlM5cwz7ge) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Klaar Voor Wat Er Komt](https://open.spotify.com/album/3nDUUpZK89esI3MkJfxnM7) | 3:26 | 2024-11-21 | 2025-02-28 |
 | [Kleine Dingen](https://open.spotify.com/track/69eLavpmDiLevHD5CWZXSo) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:26 | 2024-10-24 | 2024-12-13 |
@@ -999,7 +1001,7 @@
 | [Sorry Dat Ik Over Hem Schrijf](https://open.spotify.com/track/3qM76cuxVxJJAJFTVKKiVB) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Sorry Dat Ik Over Hem Schrijf](https://open.spotify.com/album/3BL300Rt0YMtGAvi0yH7l5) | 2:36 | 2025-04-17 | 2025-06-06 |
 | [Sorry dat ik stoor](https://open.spotify.com/track/1otdNSbercygfjKDmtSNTZ) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Sorry dat ik stoor](https://open.spotify.com/album/4d19JlNDJ2OwrGBWETU3rP) | 3:24 | 2023-11-02 | 2024-01-05 |
 | [Sowieso](https://open.spotify.com/track/020Ctks6NzM9htzWdFsI37) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Sowieso](https://open.spotify.com/album/6qHb1I8crdjoT1f3MlX25a) | 2:18 | 2024-07-11 | 2024-11-05 |
-| [Soy Yo](https://open.spotify.com/track/0mkykewBRHWJHUGfStQ5Xn) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [Soy Yo](https://open.spotify.com/album/7zyKfSVSnTMDUrlxfpvcEB) | 2:17 | 2026-01-15 |  |
+| [Soy Yo](https://open.spotify.com/track/0mkykewBRHWJHUGfStQ5Xn) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [Soy Yo](https://open.spotify.com/album/7zyKfSVSnTMDUrlxfpvcEB) | 2:17 | 2026-01-15 | 2026-04-03 |
 | [Sparen Voor De Nacht](https://open.spotify.com/track/44vgHjyTTFdOe0F01MhPir) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Sparen Voor De Nacht](https://open.spotify.com/album/4NqNVbz0Hxl9jRtYsy3qCx) | 2:34 | 2025-05-29 | 2025-10-10 |
 | [Spijt](https://open.spotify.com/track/7d3nTgaCcWmvFVt8AhGAJO) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Spijt](https://open.spotify.com/album/3cJU4l6JLEJrjESpcMkgUQ) | 2:43 | 2024-04-11 | 2024-05-17 |
 | [Spijt](https://open.spotify.com/track/6sKhdsXpgWSO2QMGQTINIk) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Aurelia \(Deluxe\)](https://open.spotify.com/album/685rvbfLSwlnFArXpendcy) | 2:07 | 2023-02-23 | 2023-04-28 |
@@ -1088,7 +1090,7 @@
 | [Vaders Zoon](https://open.spotify.com/track/5TGv7eOHSbsxktJJVFc21Q) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Vaders Zoon](https://open.spotify.com/album/0KHAWF4hTfJgRg0TaLNSOE) | 4:05 | 2023-10-26 | 2023-11-17 |
 | [Vallen](https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Vallen](https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW) | 3:02 | 2023-02-23 | 2023-03-18 |
 | [Vallen en Weer Opstaan](https://open.spotify.com/track/4jkmmV57x7CY8K4f0wKbi3) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Vallen en Weer Opstaan](https://open.spotify.com/album/5qWstIv3DEVpfUvfXHCCHu) | 3:45 | 2023-02-23 | 2023-03-18 |
-| [Van God Los](https://open.spotify.com/track/1JA5D5dsSgVn9cSr7ogzfC) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Tot Het Eind Van Mij](https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU) | 3:01 | 2026-01-15 |  |
+| [Van God Los](https://open.spotify.com/track/1JA5D5dsSgVn9cSr7ogzfC) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Tot Het Eind Van Mij](https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU) | 3:01 | 2026-01-15 | 2026-04-03 |
 | [Van Goed Naar Beter](https://open.spotify.com/track/0nfFsJLVTNTNFAPn7L8THP) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Nu Of Ooit](https://open.spotify.com/album/0LgIADRXaWlGGorozeFfNR) | 2:51 | 2023-02-23 | 2023-03-18 |
 | [Vanavond](https://open.spotify.com/track/1sozmK1WTAKOVKzIAPTH5v) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Vanavond](https://open.spotify.com/album/3zVBZc4iHYE1LdeNXbjbiB) | 3:20 | 2023-04-13 | 2023-04-28 |
 | [Vanavond Ben Ik Verliefd](https://open.spotify.com/track/7JFqVDysg44NokL5De2EAU) | [DAAN.](https://open.spotify.com/artist/0BhCoO6LMneAnZV5p3O233) | [Vanavond Ben Ik Verliefd](https://open.spotify.com/album/56gkwo9nbDeoMB76a0RRRU) | 2:33 | 2025-08-28 | 2025-09-12 |
@@ -1277,5 +1279,6 @@
 | [Écoutez\-moi](https://open.spotify.com/track/55U5MtDnqyZ5jpdlOjPxON) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/7a4fD18DJgxkP3uSCVj0pb) | 2:39 | 2024-01-11 | 2024-01-20 |
 | [Écoutez\-moi \- NL](https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 | 2024-01-18 | 2024-04-05 |
 | [⁠Tot Het Eind Van Mij](https://open.spotify.com/track/5MSrJGjtJy0eu2Z0oRXYlP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [⁠Tot Het Eind Van Mij](https://open.spotify.com/album/2juwxLM6gQlTe5bPlMn70n) | 2:44 | 2025-11-20 | 2026-01-16 |
+| [⁠Tot Het Eind Van Mij \- Akoestisch](https://open.spotify.com/track/2uA8dEMA61IBCXGz4lA3GD) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [⁠Tot Het Eind Van Mij \- Akoestisch](https://open.spotify.com/album/5kgoAHKiaOk2YsJe6HATxX) | 2:30 | 2026-04-02 |  |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

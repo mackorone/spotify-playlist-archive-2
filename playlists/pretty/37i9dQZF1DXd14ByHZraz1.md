@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Almanac
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,288 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,227 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 29 | [AWAKE](https://open.spotify.com/track/5XH7i3B4Q6ZPHhdv07SEdf) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [AWAKE](https://open.spotify.com/album/4UEdAADO57okZjafO05wtK) | 3:23 |
 | 30 | [Evil](https://open.spotify.com/track/3I82UgyI4rzaXSwAGJvvfw) | [TAWWA](https://open.spotify.com/artist/6yBHf0snZYUKr4CWZC50N6), [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn) | [Evil](https://open.spotify.com/album/6LmICPiQ7WCGs2KnJHXfQ1) | 2:30 |
 | 31 | [All Night Long](https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder Part 1](https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1) | 3:01 |
-| 32 | [Vai Tomando](https://open.spotify.com/track/4MHoo309LAtMRfbWRsagOy) | [Dj Brenno Paixão](https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM), [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1), [Evoxx](https://open.spotify.com/artist/4ARaZW5s4DFmr6kalIPHI6) | [Vai Tomando](https://open.spotify.com/album/06vZ4bNOeoTxFl1y44Quqs) | 2:45 |
+| 32 | [Vai Tomando](https://open.spotify.com/track/4MHoo309LAtMRfbWRsagOy) | [Dj Brenno Paixão](https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM), [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1), [Evoxx](https://open.spotify.com/artist/4ARaZW5s4DFmr6kalIPHI6), [SAM SAM](https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU) | [Vai Tomando](https://open.spotify.com/album/06vZ4bNOeoTxFl1y44Quqs) | 2:45 |
 | 33 | [Impossible](https://open.spotify.com/track/6r6MPuQfr3riRVWcJnfKNe) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Savage & SHē](https://open.spotify.com/artist/3grWiHymOsSQY0VjeNAxCD) | [Mziki, Vol\. 2](https://open.spotify.com/album/3Y7uhCxhDdpo5JQ7j9YPZT) | 3:42 |
 | 34 | [I Don't Care](https://open.spotify.com/track/3o7B0xq8v84PnuSmi54ixW) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [THECAP](https://open.spotify.com/artist/1hPbiOxL86lKFEXSgSPkSt), [Zenith](https://open.spotify.com/artist/58rRhmvBlhJ10X5uiVpMzo) | [I Don't Care](https://open.spotify.com/album/1l3uUVYKdqfpDu4jd65TUs) | 2:22 |
 | 35 | [Ex Machina](https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Ex Machina](https://open.spotify.com/album/7Fb34mkumndAU8Lc5421C1) | 2:01 |

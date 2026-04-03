@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 99403,
+  "num_followers": 99457,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -1255,6 +1255,30 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
+        "name": "Woza La!",
+        "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
+      },
+      "artists": [
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Benny Maverick",
+          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
+        },
+        {
+          "name": "Triple X Da Ghost",
+          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
+        }
+      ],
+      "duration_ms": 484285,
+      "name": "Woza La!",
+      "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
         "name": "Imizamo (feat. Aries Cooper, North The Jap & Havoc)",
         "url": "https://open.spotify.com/album/2hFbYWq8PFrM4nYFBX9eKo"
       },
@@ -1279,30 +1303,6 @@
       "duration_ms": 450281,
       "name": "Imizamo (feat. Aries Cooper, North The Jap & Havoc)",
       "url": "https://open.spotify.com/track/69Wt3Yy8u9T3yswT6fLI9g"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
-        "name": "Woza La!",
-        "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
-      },
-      "artists": [
-        {
-          "name": "Njelic",
-          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
-        },
-        {
-          "name": "Benny Maverick",
-          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
-        },
-        {
-          "name": "Triple X Da Ghost",
-          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
-        }
-      ],
-      "duration_ms": 484285,
-      "name": "Woza La!",
-      "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
     },
     {
       "added_at": "2026-02-20 01:43:11",

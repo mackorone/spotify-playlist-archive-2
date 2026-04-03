@@ -4795,6 +4795,24 @@
     },
     {
       "album": {
+        "name": "LIMITLESS",
+        "url": "https://open.spotify.com/album/7dcAsHSzowpNp2oicBzeD6"
+      },
+      "artists": [
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "LIMITLESS",
+      "url": "https://open.spotify.com/track/7iDr0MSWRPd5CCvoLkpZdn"
+    },
+    {
+      "album": {
         "name": "Limitless Skies",
         "url": "https://open.spotify.com/album/5dhRAXTuymg3Wl8gIciyWi"
       },

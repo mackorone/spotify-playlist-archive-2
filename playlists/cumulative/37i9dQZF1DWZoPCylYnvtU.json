@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 160000,
       "name": "Ambient Rain",
       "url": "https://open.spotify.com/track/4HgrTAqOd1cc5VGoq6j0m7"
@@ -2378,6 +2378,24 @@
       "duration_ms": 124000,
       "name": "Lotus Rain",
       "url": "https://open.spotify.com/track/0cYf8BBWyP83Q6uxqjkSel"
+    },
+    {
+      "album": {
+        "name": "Wall of Rain",
+        "url": "https://open.spotify.com/album/5Wl4IUYO6C9n79S99Njy1n"
+      },
+      "artists": [
+        {
+          "name": "Weatherality",
+          "url": "https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125698,
+      "name": "Market Tents in Rain",
+      "url": "https://open.spotify.com/track/1UPymYeJBhuJ50RoH2TuN8"
     },
     {
       "album": {

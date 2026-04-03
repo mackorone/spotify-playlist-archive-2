@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Meesaya Murukku 2
 
-2,344 songs - 5 day 21 hr 23 min
+2,345 songs - 5 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf) | [Kaathu Mela \(From "Think Indie"\)](https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H) | 2:03 | 2024-07-27 | 2024-11-26 |
 | [Kaathu Namma Pakkam \- From "Kudumbasthan"](https://open.spotify.com/track/1hqrI53DIjtpPRUS9paFEp) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp), [A\-Gan](https://open.spotify.com/artist/3Npa3oPCYQ8BXQ9QzZsseH) | [Kaathu Namma Pakkam \(From "Kudumbasthan"\)](https://open.spotify.com/album/2ITr2D4exP6A5aMBtSqZkx) | 2:11 | 2025-01-24 | 2025-03-01 |
 | [Kaathu Vaakula Rendu \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/7byhnsOjh1qCfhrRZwCJp7) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Kaathu Vaakula Rendu \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/5Ps3UUNqlXixkmTdoKmnZY) | 3:55 | 2022-05-10 | 2022-07-24 |
+| [Kaathukulla Kuruvi \(From "Singha"\)](https://open.spotify.com/track/29YyWjV82y7T9vGeXgeo0D) | [Manoj Chinnaswamy](https://open.spotify.com/artist/2wuVO36dg7lm3lbfJi5KCl), [Mani Amudhavan](https://open.spotify.com/artist/1kSTKro0qSNVuTIzuS6LQa), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Kaathukulla Kuruvi \(From "Singha"\)](https://open.spotify.com/album/7epPtdOuweLl4jgZfPkeLA) | 4:10 | 2026-04-02 |  |
 | [Kaatrai Ketten](https://open.spotify.com/track/3mtKnIxODoBtiTT35JMPmB) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Tharunam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iOnJSr6L6JpSUMWEXgfmd) | 5:25 | 2025-01-16 | 2025-02-19 |
 | [Kaatril Aadum Deepam \- From "Kaarottiyin Kaadhali"](https://open.spotify.com/track/4dNMuKjwyGxfzWQG3hTC0v) | [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Kaatril Aadum Deepam \(From "Kaarottiyin Kaadhali"\)](https://open.spotify.com/album/1PKbmqg4DTrKynovVjO0cm) | 3:58 | 2022-08-24 | 2022-09-09 |
 | [Kaatril Sikki \(From "Nitham Oru Vaanam"\)](https://open.spotify.com/track/7fWhAwZUrxrj5iLpZ7Leoq) | [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6) | [Kaatril Sikki \(From "Nitham Oru Vaanam"\)](https://open.spotify.com/album/1tU8BBNz77cLpCNz4iwwqn) | 3:45 | 2022-10-18 | 2022-11-10 |

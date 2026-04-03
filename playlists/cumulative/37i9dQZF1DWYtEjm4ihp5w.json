@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 202000,
       "name": "3DABI",
       "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
@@ -6542,6 +6542,24 @@
       "duration_ms": 169200,
       "name": "Paprika",
       "url": "https://open.spotify.com/track/1sRxcnih7w5PfbJAujdbJo"
+    },
+    {
+      "album": {
+        "name": "Parano",
+        "url": "https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163720,
+      "name": "Parano",
+      "url": "https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR"
     },
     {
       "album": {

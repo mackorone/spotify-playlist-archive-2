@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAASbTnVqSWmeqEqzVBBHvaLTb1M6Jz1",
+  "snapshot_id": "AAASciAxY//l363nhcL1FvGhlhkJxWRy",
   "tracks": [
     {
       "added_at": "2026-03-05 23:06:18",
@@ -299,6 +299,26 @@
       "duration_ms": 113040,
       "name": "my bad",
       "url": "https://open.spotify.com/track/5kU5WeQMvHhDICBqyFRwLm"
+    },
+    {
+      "added_at": "2026-04-02 07:53:28",
+      "album": {
+        "name": "Psyop (Piano Ballata)",
+        "url": "https://open.spotify.com/album/4CQZbuoogORxfvsixj6OEW"
+      },
+      "artists": [
+        {
+          "name": "Nilz H\u00fcbenbecker",
+          "url": "https://open.spotify.com/artist/6LXyY9kw7dcaqV4WQq1qIQ"
+        },
+        {
+          "name": "Miroslaw Bojadzijew",
+          "url": "https://open.spotify.com/artist/1XQQujTdjrWCCWpG8Iqu4Y"
+        }
+      ],
+      "duration_ms": 173591,
+      "name": "Psyop - Piano Ballata",
+      "url": "https://open.spotify.com/track/0CZfa975EMmjpUrX7H4kxo"
     },
     {
       "added_at": "2026-03-02 19:27:20",
@@ -2831,6 +2851,86 @@
       "duration_ms": 187500,
       "name": "Northwest Cold Front",
       "url": "https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V"
+    },
+    {
+      "added_at": "2026-04-02 07:51:52",
+      "album": {
+        "name": "Cuerdas Nocturnas",
+        "url": "https://open.spotify.com/album/1HZmIA87i8LsruJ1rSglCC"
+      },
+      "artists": [
+        {
+          "name": "NayroMusic",
+          "url": "https://open.spotify.com/artist/4bJJBolygs8H5vlKMNtxKc"
+        }
+      ],
+      "duration_ms": 219070,
+      "name": "Lujuria",
+      "url": "https://open.spotify.com/track/2ayXQoeFACT89igH4XBwho"
+    },
+    {
+      "added_at": "2026-04-02 07:51:55",
+      "album": {
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/5MclxDMknVlBLyhy1Fjx77"
+      },
+      "artists": [
+        {
+          "name": "Teddy Is Offline",
+          "url": "https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V"
+        }
+      ],
+      "duration_ms": 137069,
+      "name": "In Your Dreams",
+      "url": "https://open.spotify.com/track/1fmX0jToR2dVaY4fTWqM2B"
+    },
+    {
+      "added_at": "2026-04-02 07:53:42",
+      "album": {
+        "name": "Europe Flow (Remix)",
+        "url": "https://open.spotify.com/album/2BBTIa9LgvP9g0GoL3fDd1"
+      },
+      "artists": [
+        {
+          "name": "neyoooo",
+          "url": "https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I"
+        },
+        {
+          "name": "Official GooNie",
+          "url": "https://open.spotify.com/artist/3IjaIwNFWwhoBRlzItmi5Y"
+        },
+        {
+          "name": "ProdByWhites",
+          "url": "https://open.spotify.com/artist/6flN5ZCSG9JeQeX9msFVV7"
+        }
+      ],
+      "duration_ms": 116169,
+      "name": "Europe Flow - Remix",
+      "url": "https://open.spotify.com/track/5CFEwAG4IVLP0Li9F8VNX6"
+    },
+    {
+      "added_at": "2026-04-02 07:53:45",
+      "album": {
+        "name": "FLY (Original Mix)",
+        "url": "https://open.spotify.com/album/5MUfhF7oOQvpysNAphGwEm"
+      },
+      "artists": [
+        {
+          "name": "neyoooo",
+          "url": "https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I"
+        },
+        {
+          "name": "FIM Collective",
+          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
+        },
+        {
+          "name": "J1 GTB",
+          "url": "https://open.spotify.com/artist/6mm0pxFY41cqM9kjJve4jH"
+        }
+      ],
+      "duration_ms": 178392,
+      "name": "FLY - Original Mix",
+      "url": "https://open.spotify.com/track/0KGD6zRqbj2EgGeAmwB76v"
     }
   ],
   "unique_name": "New Indie Music",

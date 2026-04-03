@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: \ub518\ub518 (DINDIN) & \uc870\ud604\uc601(\ub808\uc778\ubcf4\uc6b0))",
-  "num_followers": 396138,
+  "num_followers": 396142,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,22 @@
     {
       "added_at": "2026-03-31 04:01:12",
       "album": {
-        "name": "In my room.",
-        "url": "https://open.spotify.com/album/0PKO6PT9dVPmv0E7aEPYlV"
+        "name": "Interlunar",
+        "url": "https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O"
       },
       "artists": [
         {
-          "name": "Suen",
-          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
         },
         {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
         }
       ],
-      "duration_ms": 140000,
-      "name": "What Is This Feeling? (with BANG YEDAM)",
-      "url": "https://open.spotify.com/track/5i1JrZ25HK3J4ePjrGp8OZ"
+      "duration_ms": 194013,
+      "name": "Glue stick (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/5kTTqmMNRQRgtkol2iM2ir"
     },
     {
       "added_at": "2026-03-31 04:01:12",
@@ -531,22 +531,22 @@
     {
       "added_at": "2026-03-31 04:01:12",
       "album": {
-        "name": "Interlunar",
-        "url": "https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O"
+        "name": "In my room.",
+        "url": "https://open.spotify.com/album/0PKO6PT9dVPmv0E7aEPYlV"
       },
       "artists": [
         {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+          "name": "Suen",
+          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
         },
         {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
         }
       ],
-      "duration_ms": 194013,
-      "name": "Glue stick (Feat. Hoody)",
-      "url": "https://open.spotify.com/track/5kTTqmMNRQRgtkol2iM2ir"
+      "duration_ms": 140000,
+      "name": "What Is This Feeling? (with BANG YEDAM)",
+      "url": "https://open.spotify.com/track/5i1JrZ25HK3J4ePjrGp8OZ"
     },
     {
       "added_at": "2026-03-31 04:01:12",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-03-31 04:01:12",
       "album": {
-        "name": "\ub2e4 \uc774\ub8e8\uc5b4\uc9c8\uc9c0\ub2c8 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU"
-      },
-      "artists": [
-        {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        },
-        {
-          "name": "So Soo Bin",
-          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
-        }
-      ],
-      "duration_ms": 228701,
-      "name": "A Night Full of You",
-      "url": "https://open.spotify.com/track/2KvLK4xXYmkubREnYbCX27"
-    },
-    {
-      "added_at": "2026-03-31 04:01:12",
-      "album": {
         "name": "Ghosting",
         "url": "https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 220693,
       "name": "Ghosting (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub"
+    },
+    {
+      "added_at": "2026-03-31 04:01:12",
+      "album": {
+        "name": "\ub2e4 \uc774\ub8e8\uc5b4\uc9c8\uc9c0\ub2c8 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        },
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "duration_ms": 228701,
+      "name": "A Night Full of You",
+      "url": "https://open.spotify.com/track/2KvLK4xXYmkubREnYbCX27"
     },
     {
       "added_at": "2026-03-31 04:01:12",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-03-31 04:01:12",
       "album": {
+        "name": "Even for a moment",
+        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Even for a moment",
+      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
+    },
+    {
+      "added_at": "2026-03-31 04:01:12",
+      "album": {
         "name": "Waves (feat. Simon Dominic & Jamie)",
         "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 164920,
       "name": "Waves (feat. Simon Dominic & Jamie)",
       "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
-    },
-    {
-      "added_at": "2026-03-31 04:01:12",
-      "album": {
-        "name": "Even for a moment",
-        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Even for a moment",
-      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
     },
     {
       "added_at": "2026-03-31 04:01:12",

@@ -1,13 +1,77 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2721,
+  "num_followers": 2723,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAAR04/L1fn6sQuxgtDCobdQzolD5mir",
+  "snapshot_id": "AAAR1++/60wT5YuzhfmyW0ldkVKUzLTJ",
   "tracks": [
+    {
+      "added_at": "2026-04-03 01:46:19",
+      "album": {
+        "name": "LOST IN THE NIGHT",
+        "url": "https://open.spotify.com/album/6jXxlvfX8Jb3tCRehoi2Kp"
+      },
+      "artists": [
+        {
+          "name": "TWOEF",
+          "url": "https://open.spotify.com/artist/2QJuVsoNKHRWGaxomS9ity"
+        }
+      ],
+      "duration_ms": 326250,
+      "name": "LOST IN THE NIGHT",
+      "url": "https://open.spotify.com/track/3EZunl1UNuVrO5k899dML0"
+    },
+    {
+      "added_at": "2026-04-02 17:12:19",
+      "album": {
+        "name": "10th Anniversary (2015 - 2025)",
+        "url": "https://open.spotify.com/album/0M3tO0rv3kDCGUwNn3Fu85"
+      },
+      "artists": [
+        {
+          "name": "Mattia Voyage",
+          "url": "https://open.spotify.com/artist/5xixKPIuZRHp3zoAtSKk1e"
+        }
+      ],
+      "duration_ms": 297431,
+      "name": "Le Mie Sfumature - 10th Anniversary Mix",
+      "url": "https://open.spotify.com/track/77QHq2tRGFGc7g5FyeMXRG"
+    },
+    {
+      "added_at": "2026-04-02 13:39:18",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/5XUSaoSK8ODtZuyECU2cKs"
+      },
+      "artists": [
+        {
+          "name": "Diana J",
+          "url": "https://open.spotify.com/artist/66g5QWGcUydjW7eazBdGTB"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/20iEbeHGJnAFC1Z9ByhV5R"
+    },
+    {
+      "added_at": "2026-04-02 06:57:46",
+      "album": {
+        "name": "Cinematic Bass: Epic Dubstep & Trap (Vol. 1)",
+        "url": "https://open.spotify.com/album/1WNBIHcvpB6sWakBROrIPV"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/6shkxDbI1xR720ubiBz0YS"
+    },
     {
       "added_at": "2026-04-01 20:25:44",
       "album": {

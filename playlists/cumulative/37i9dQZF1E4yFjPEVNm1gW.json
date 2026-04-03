@@ -24,7 +24,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 211393,
       "name": "2much - YCO Jay Remix",
       "url": "https://open.spotify.com/track/31c1ogOXzjQb0dVHly4UT4"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 125401,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/72lcXqVlzrsCt5lAdFqG0m"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Not bumping",
+        "url": "https://open.spotify.com/album/2SBa06L24D7kk33xEdwck8"
+      },
+      "artists": [
+        {
+          "name": "diorbgs",
+          "url": "https://open.spotify.com/artist/2Uw0O9f4bvMbzkS48qrzIQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85122,
+      "name": "Not bumping",
+      "url": "https://open.spotify.com/track/5PwZYWcegobehHkGHrdUUe"
+    },
+    {
+      "album": {
         "name": "not enn a diss",
         "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
       },
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 141379,
       "name": "Rubbin Of The Pain x New Flash",
       "url": "https://open.spotify.com/track/2uYPKtXblH7QOB6AbDs55f"
@@ -2682,7 +2700,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 141316,
       "name": "Rubbin Off The Paint x New Flesh",
       "url": "https://open.spotify.com/track/6d42nLEA7M1HDs86A5IB2t"
@@ -2798,7 +2816,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 110545,
       "name": "Spectacular 2",
       "url": "https://open.spotify.com/track/7cRSJZxsujmH1FENsQySBf"
@@ -3424,7 +3442,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 106533,
       "name": "Yale",
       "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"

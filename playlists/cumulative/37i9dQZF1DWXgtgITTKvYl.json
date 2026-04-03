@@ -720,7 +720,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 188053,
       "name": "Astral Man - Live, The Kiel Auditorium, St Louis",
       "url": "https://open.spotify.com/track/62ILaKs9Gt59zAzhviIbts"
@@ -2645,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "A Dark Poem, Part II: Sanguis",
+        "url": "https://open.spotify.com/album/2GOYCUoz868WL0S3MR3iKZ"
+      },
+      "artists": [
+        {
+          "name": "Green Carnation",
+          "url": "https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423000,
+      "name": "Fire in Ice",
+      "url": "https://open.spotify.com/track/0SDjOtkzBWn86FgBojqEkQ"
+    },
+    {
+      "album": {
         "name": "Fly on a Windshield (Live in London 2024)",
         "url": "https://open.spotify.com/album/0uep9cjuo49UHXoDR9mCaK"
       },
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 459731,
       "name": "Fragrance Of Paradise",
       "url": "https://open.spotify.com/track/1f7O8vpDXiYNAw27ZLG4WI"
@@ -8986,6 +9004,24 @@
       "duration_ms": 253280,
       "name": "Total Mass Retain - Steven Wilson Edit",
       "url": "https://open.spotify.com/track/4Xyd8c5iy4jqnAjlgPNbiT"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/7yt6Mr11bLcISr3nP8Jm1d"
+      },
+      "artists": [
+        {
+          "name": "Bernth",
+          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/10VkUmXJ4xPRnZeBvyrfxr"
     },
     {
       "album": {

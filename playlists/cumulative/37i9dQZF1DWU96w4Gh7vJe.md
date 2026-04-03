@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-224 songs - 14 hr 7 min
+225 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [INAANTAY](https://open.spotify.com/track/0xtHhG8bodSM13Y6f62dqy) | [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [Iggy Napoles](https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ) | [INAANTAY](https://open.spotify.com/album/2YF3kn9QLYp9ClqQDabhwL) | 2:52 | 2023-10-20 | 2023-10-26 |
 | [Isang Sandali Pa](https://open.spotify.com/track/48SAJX6sI7Xaeb3XH3jp84) | [Leona](https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO) | [Isang Sandali Pa](https://open.spotify.com/album/4T8DskzUA83SVvfJyrCymc) | 3:25 | 2026-03-09 | 2026-03-18 |
 | [Isang Tingin Mo Lang](https://open.spotify.com/track/2UPr5h1Px0LGbgoc6X5Vnx) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Isang Tingin Mo Lang](https://open.spotify.com/album/33ID8iZWFWy1Vq7s6TBqEb) | 3:06 | 2023-12-08 | 2024-02-13 |
+| [Kabisado](https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:27 | 2026-04-02 |  |
 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 | 2025-07-08 |  |
 | [Kahit Di Mo Alam](https://open.spotify.com/track/6GIzDc4xBUeYHwubWwTrhC) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Kahit Di Mo Alam](https://open.spotify.com/album/1aUdCxhin4mQevKWVLrtNN) | 4:42 | 2023-10-20 | 2023-12-15 |
 | [Kahit Di Mo Alam](https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:42 | 2023-12-08 | 2024-04-19 |
@@ -152,7 +153,7 @@
 | [pamasahe](https://open.spotify.com/track/0YbqgaBE1LwZhalqK09iQf) | [GY](https://open.spotify.com/artist/1r92uYFzHwUHmSVCd4Yn37) | [pamasahe](https://open.spotify.com/album/1XfrJx9J2gJ3JhCRuio6qi) | 2:48 | 2026-02-18 | 2026-03-10 |
 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 | 2025-02-12 |  |
 | [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 | 2026-03-18 |  |
-| [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 | 2024-02-07 |  |
+| [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 | 2024-02-07 | 2026-04-03 |
 | [Paraiso](https://open.spotify.com/track/4WgKPgWj629H3bnTEQQuEH) | [JetNekko](https://open.spotify.com/artist/2Zz4iF0WqUSduXhnJFos5o) | [Paraiso](https://open.spotify.com/album/5nEVhJoyzg7K9S8DRwO3xy) | 5:01 | 2025-12-08 | 2026-01-20 |
 | [Paramdam](https://open.spotify.com/track/0ewqLShg1DRv2yvOApI5XC) | [FINA](https://open.spotify.com/artist/55svyNcngicNYNing9V9QP) | [Paramdam](https://open.spotify.com/album/4zxO3Mr0TPtosqc9kiM8Fo) | 3:34 | 2026-02-26 | 2026-03-10 |
 | [Paru\-Paro](https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:21 | 2025-11-10 | 2026-02-03 |

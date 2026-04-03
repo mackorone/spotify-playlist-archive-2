@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11392,
+  "num_followers": 11393,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAAD8jE2bQhWpyqeACeXeFlUj",
+  "snapshot_id": "acxgAAAAAACFM/7yoC4vanwWJLBuG9gT",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like It's Over (feat. MNDR)",
-        "url": "https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Like It's Over (feat. MNDR)",
-      "url": "https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parachute Remixes",
         "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 249360,
       "name": "Drivin Thru the Night - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like It's Over (feat. MNDR)",
+        "url": "https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "Like It's Over (feat. MNDR)",
+      "url": "https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL"
     },
     {
       "added_at": null,

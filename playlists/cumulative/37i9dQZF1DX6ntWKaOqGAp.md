@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Official髭男dism
 
-3,113 songs - 8 day 2 hr 15 min
+3,115 songs - 8 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Days](https://open.spotify.com/track/70FouyEWKM0a6tV4nITxxZ) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/19WApxqGz4x06rBgNGBPnz) | 3:53 | 2023-06-13 | 2023-06-21 |
 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 | 2023-01-13 | 2023-01-18 |
 | [Dear Future](https://open.spotify.com/track/0cAMS28jrGnrZEdlndRzzR) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Dear Future](https://open.spotify.com/album/0916gU5FyF01sKbtH32r7a) | 3:48 | 2024-02-01 | 2024-04-05 |
+| [DECOTORA15](https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [DECOTORA15](https://open.spotify.com/album/13clnrelj5KAwEbD3I5v2i) | 3:06 | 2026-04-02 |  |
 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 | 2026-01-13 |  |
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-16 | 2024-10-30 |
 | [DESTINY](https://open.spotify.com/track/2vhnYCh0JSAMKirkdPTPJ0) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [DESTINY](https://open.spotify.com/album/468ZPAqEXHLZMxboOXkq0z) | 5:29 | 2023-03-30 | 2023-05-03 |
@@ -651,7 +652,7 @@
 | [IAI](https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo) | 3:03 | 2024-02-28 | 2024-03-20 |
 | [IAI](https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [IAI](https://open.spotify.com/album/0ZAJakcgLyFpCOepUnSZVY) | 3:03 | 2024-02-28 | 2024-02-29 |
 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 | 2023-07-07 |
-| [Icarus](https://open.spotify.com/track/4nMashE4VnRei3r1MxhITO) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Feel](https://open.spotify.com/album/6rjvbab3fBNb6Cei8hFeeq) | 3:33 | 2026-03-24 |  |
+| [Icarus](https://open.spotify.com/track/4nMashE4VnRei3r1MxhITO) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Feel](https://open.spotify.com/album/6rjvbab3fBNb6Cei8hFeeq) | 3:33 | 2026-03-24 | 2026-04-03 |
 | [IceCandy](https://open.spotify.com/track/4pbCqUCl2lxBurAd5TbowI) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [IceCandy](https://open.spotify.com/album/3pmlBjfIG0GIv4P3s94r2i) | 4:27 | 2025-09-16 | 2025-10-01 |
 | [idiot](https://open.spotify.com/track/7gHr8kI2aN1OvjQv4o2VPg) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [idiot](https://open.spotify.com/album/63IOT3ku8ix5AiypBT4wo7) | 3:57 | 2024-08-27 | 2024-10-09 |
 | [Ikada no Uta](https://open.spotify.com/track/50IvU2o8mBruTfMeVpaVb7) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Taiyo Hoko](https://open.spotify.com/album/3kjFKAwm3qgsWIo7bHW0i5) | 4:34 | 2024-03-05 | 2024-04-19 |
@@ -1709,7 +1710,7 @@
 | [うざ。](https://open.spotify.com/track/3FSA09BUNeFWxk5IuL72Sd) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [うざ。](https://open.spotify.com/album/4FQhXuwDDkeOnG9DjAdaAc) | 3:05 | 2023-01-13 | 2023-01-18 |
 | [うそつき](https://open.spotify.com/track/5IBNmCgZO97b2wqgh8dQSf) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [うそつき](https://open.spotify.com/album/2JDz624JdZ8McGoKJAXPvX) | 4:57 | 2023-05-11 | 2023-05-17 |
 | [うつくしさ](https://open.spotify.com/track/2d8bqLzDkftYujVUE6CVgh) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [†](https://open.spotify.com/album/60T06E6uoGxtxJ9xfH26TZ) | 2:51 | 2025-05-13 | 2025-05-28 |
-| [うるわし](https://open.spotify.com/track/5kvESVLeUE6ldAIYpBcstS) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [うるわし](https://open.spotify.com/album/4cnaJ9wIlBUVnZJLsPg9Q4) | 4:00 | 2026-01-13 |  |
+| [うるわし](https://open.spotify.com/track/5kvESVLeUE6ldAIYpBcstS) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [うるわし](https://open.spotify.com/album/4cnaJ9wIlBUVnZJLsPg9Q4) | 4:00 | 2026-01-13 | 2026-04-03 |
 | [うろん](https://open.spotify.com/track/5p8XRLhcc46poCmALYNLlb) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [うろん](https://open.spotify.com/album/3UPWRledUd0RglspGjF1Z4) | 3:14 | 2025-01-07 | 2025-01-17 |
 | [おかえりジョニー](https://open.spotify.com/track/14QnHq6GzPH9kFtR4P402w) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [おかえりジョニー](https://open.spotify.com/album/2SPmPLWD9dUbhNtU1mRez0) | 4:23 | 2026-03-03 | 2026-03-25 |
 | [おちこち](https://open.spotify.com/track/7nZDEEYlVsSMWW14xVo2op) | [Ooochie Koochie](https://open.spotify.com/artist/6C63Dia34mMK2wzE5uEvQF), [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0), [Koji Kikkawa](https://open.spotify.com/artist/1S6yZL1OIb51tEtbKg3iZ1) | [Ooochie Koochie](https://open.spotify.com/album/7jx3a9PiYBVEKNuduTnsyB) | 3:16 | 2025-06-24 | 2025-07-02 |
@@ -2071,6 +2072,7 @@
 | [スイートピー](https://open.spotify.com/track/0K8YQCXjT5QCOJrdZFimG9) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [スイートピー](https://open.spotify.com/album/6Py14Bzgq3wiuUVdy6QGDS) | 4:12 | 2025-03-11 | 2025-04-04 |
 | [スイートメモリー](https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [スイートメモリー](https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD) | 3:19 | 2024-07-09 | 2024-08-30 |
 | [スカーレット](https://open.spotify.com/track/5lU8PI88khcDDsN7Nc8Drm) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 4:31 | 2025-08-19 | 2025-09-03 |
+| [スキンズ \- Skins](https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [スキンズ \- Skins](https://open.spotify.com/album/763UvrUoMGjPlFkgdpLFIH) | 4:05 | 2026-04-02 |  |
 | [スクールボーイ](https://open.spotify.com/track/1Eb9z5jcDZnRfNiMraPHfk) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [HEART](https://open.spotify.com/album/0u1S82PGHIoNsvHTLuy0Nz) | 4:00 | 2023-02-14 | 2023-03-08 |
 | [スケッチ](https://open.spotify.com/track/1DwIDURG65LanONj5bHuSk) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [スケッチ](https://open.spotify.com/album/6Xhv9jzU1DZ2rkdqyfVxOo) | 3:34 | 2025-01-30 | 2025-02-19 |
 | [スケベなだけで金がない](https://open.spotify.com/track/2LhQsqnq5uyTtuobpoHCat) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [スケベなだけで金がない](https://open.spotify.com/album/5Ar3B8oObwuJfIuHQQIpDg) | 2:39 | 2023-07-11 | 2023-09-06 |

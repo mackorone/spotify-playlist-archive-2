@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 220293,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
@@ -4786,6 +4786,24 @@
       "duration_ms": 166760,
       "name": "The Duke",
       "url": "https://open.spotify.com/track/2EuD6kRlJnqJHRZEdVx7Wh"
+    },
+    {
+      "album": {
+        "name": "Season 2",
+        "url": "https://open.spotify.com/album/7xOcpPA3wLpa31NMMC1yPG"
+      },
+      "artists": [
+        {
+          "name": "Saukrates",
+          "url": "https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161162,
+      "name": "The Grand Design",
+      "url": "https://open.spotify.com/track/1U6AFMbiGI3tgCukSTVdHO"
     },
     {
       "album": {

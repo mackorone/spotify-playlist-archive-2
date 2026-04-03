@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con J Balvin y Ryan Castro.
 
-1,100 songs - 2 day 10 hr 17 min
+1,101 songs - 2 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Bésame](https://open.spotify.com/track/2cVCr6Am3spuM1gPDLKxAF) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Bésame](https://open.spotify.com/album/77RnZZL53tsWQ0gTRgAFkW) | 3:05 | 2022-02-04 | 2022-05-13 |
 | [C.U.L.O Remix](https://open.spotify.com/track/7l8ahZGFqEVNZy0mI1qMdw) | [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [C.U.L.O Remix](https://open.spotify.com/album/27dEXi5d5DLq5jNxHnvov5) | 4:39 | 2022-01-28 | 2022-05-20 |
 | [Cabaña](https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Los Patos Feos Inc](https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Cabaña](https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT) | 2:58 | 2023-06-30 | 2023-11-18 |
+| [Caducaste](https://open.spotify.com/track/3k0au8hNwghIrLsfpP2W4z) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Caducaste](https://open.spotify.com/album/5um6GIoA0TejDR97zILaDG) | 3:34 | 2026-03-27 |  |
 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2022-08-09 | 2023-01-27 |
 | [Calentura](https://open.spotify.com/track/2hVVBKkvunpUH86JKO70lE) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Calentura](https://open.spotify.com/album/0BWKR99sP38uPNKeiubjMl) | 3:49 | 2022-12-09 | 2023-02-11 |
 | [Caleta](https://open.spotify.com/track/719ongISRx7olE8DXyw6zu) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Caleta](https://open.spotify.com/album/3VrVqcy5F8QGOalY2zhx74) | 2:29 | 2024-06-14 | 2024-09-07 |

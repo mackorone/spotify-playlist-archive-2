@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11177,
+  "num_followers": 11178,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAACivTzhSziF+4B2u2Osmkem",
+  "snapshot_id": "acxgAAAAAAC0fT/K7K6tYzT9AVCXLmBW",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 231773,
-      "name": "Age of Aquarius",
-      "url": "https://open.spotify.com/track/1uevF8gTF0bmeCThFqKB5x"
+      "duration_ms": 234520,
+      "name": "The Heart's Monologue",
+      "url": "https://open.spotify.com/track/0gYmdTjbKcJYZf0CfF2f7e"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 234520,
-      "name": "The Heart's Monologue",
-      "url": "https://open.spotify.com/track/0gYmdTjbKcJYZf0CfF2f7e"
+      "duration_ms": 231773,
+      "name": "Age of Aquarius",
+      "url": "https://open.spotify.com/track/1uevF8gTF0bmeCThFqKB5x"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 77999,
+      "name": "Changing Times",
+      "url": "https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meditation 111",
         "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 142083,
       "name": "Meditation 111",
       "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 278750,
-      "name": "NATURE VIBRATION",
-      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 278750,
+      "name": "NATURE VIBRATION",
+      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emotive Piano",
         "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
       },
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 77999,
-      "name": "Changing Times",
-      "url": "https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X"
+      "duration_ms": 153137,
+      "name": "Evolving Memories",
+      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
       "duration_ms": 339026,
       "name": "Law of One",
       "url": "https://open.spotify.com/track/6F49Fonv14f9GaCLCmLNk3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 153137,
-      "name": "Evolving Memories",
-      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
     },
     {
       "added_at": null,

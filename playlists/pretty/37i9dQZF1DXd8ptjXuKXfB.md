@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,625 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,631 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 25 | [AFTERPARTY \- Bruno](https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [AFTERPARTY \(Bruno\)](https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd) | 2:24 |
 | 26 | [BULLSHIT](https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [BULLSHIT](https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW) | 2:18 |
 | 27 | [TAKE YOUR TIME](https://open.spotify.com/track/1CcSopy8wvVOyKexbS0gyU) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [TAKE YOUR TIME](https://open.spotify.com/album/6o33CmUr6BfidP0VL59yot) | 2:21 |
-| 28 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 |
+| 28 | [Államhajó](https://open.spotify.com/track/5eqbwJo1k5I9fHhgSTw06b) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Magyar Tenger Kalózai](https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX) | 3:11 |
 | 29 | [BETON.HOF1](https://open.spotify.com/track/4eBj6JtbOR8kQ3Lcx2YKxO) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 2:42 |
 | 30 | [TOP TIER \- SPACCONE](https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [TOP TIER \(SPACCONE\)](https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx) | 2:02 |
-| 31 | [DADDY](https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA) | [Mirror Glimpse](https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif) | [HATALMASABB, MINT GONDOLNÁD](https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O) | 2:17 |
-| 32 | [STARBOY](https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [STARBOY](https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE) | 2:36 |
-| 33 | [Államhajó](https://open.spotify.com/track/5eqbwJo1k5I9fHhgSTw06b) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Magyar Tenger Kalózai](https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX) | 3:11 |
+| 31 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 |
+| 32 | [DADDY](https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA) | [Mirror Glimpse](https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif) | [HATALMASABB, MINT GONDOLNÁD](https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O) | 2:17 |
+| 33 | [STARBOY](https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [STARBOY](https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE) | 2:36 |
 | 34 | [COLD](https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [COLD](https://open.spotify.com/album/08o9icfk6CXtYrfJ39W2im) | 2:12 |
 | 35 | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b) | 2:54 |
 | 36 | [INTERREGNUM](https://open.spotify.com/track/5fC9vYizLxqvDcT8kqB7Ma) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 2:13 |
-| 37 | [Kimaradás](https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Ferike](https://open.spotify.com/artist/5jL6bZFXh0g5zists9pECZ) | [Kimaradás](https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI) | 2:15 |
-| 38 | [Passenger Princess](https://open.spotify.com/track/030Ndm2tv9gonGnjXz8CFl) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Playboy](https://open.spotify.com/album/0PZftC8lqjmTANjYRfGW9R) | 2:17 |
+| 37 | [Passenger Princess](https://open.spotify.com/track/030Ndm2tv9gonGnjXz8CFl) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Playboy](https://open.spotify.com/album/0PZftC8lqjmTANjYRfGW9R) | 2:17 |
+| 38 | [Kimaradás](https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Ferike](https://open.spotify.com/artist/5jL6bZFXh0g5zists9pECZ) | [Kimaradás](https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI) | 2:15 |
 | 39 | [KERTES HÁZ](https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [KERTES HÁZ](https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd) | 2:19 |
 | 40 | [Passport](https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:17 |
 | 41 | [Kapitány](https://open.spotify.com/track/0tey8bGlUjHlfVr0LFJYb6) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Magyar Tenger Kalózai](https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX) | 3:00 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 75 | [Rajosan 3](https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Essemm](https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu), [Beat](https://open.spotify.com/artist/2JDv04js6dtvkylyVbDLAD) | [III](https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8) | 2:56 |
 | 76 | [vemzavr!](https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [vemzavr!](https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7) | 3:03 |
 | 77 | [Szép Szavak](https://open.spotify.com/track/4wh8J6tjQlb4hMjDcs3zU8) | [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Hűtlen Délibáb](https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0) | 2:34 |
-| 78 | [THC](https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Europa](https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P) | 2:12 |
-| 79 | [MIT MONDHATNÉK?](https://open.spotify.com/track/1f0aN0HJK66gBJmTNzhmCL) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [MIT MONDHATNÉK?](https://open.spotify.com/album/34NrTOzN7j9l2nIavp4h7U) | 2:02 |
+| 78 | [MIT MONDHATNÉK?](https://open.spotify.com/track/1f0aN0HJK66gBJmTNzhmCL) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [MIT MONDHATNÉK?](https://open.spotify.com/album/34NrTOzN7j9l2nIavp4h7U) | 2:02 |
+| 79 | [THC](https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Europa](https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P) | 2:12 |
 | 80 | [BABY ÉN NEM JÁTSZOM](https://open.spotify.com/track/69PO2SFd17GwZgI7t5z7iP) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [BABY ÉN NEM JÁTSZOM](https://open.spotify.com/album/3nKzfmwfoZ5Nhc4K1EMOKk) | 2:15 |
 
 Snapshot ID: `AAAAAN56k3gGXB4h6M/VWLkwsboRqAML`

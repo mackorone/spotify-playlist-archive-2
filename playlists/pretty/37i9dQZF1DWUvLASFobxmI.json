@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Codiciado en portada.",
-  "num_followers": 528879,
+  "num_followers": 528925,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Dueles",
-        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Sabor A Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
       },
@@ -491,18 +471,38 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "HOME RUN",
-        "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
+        "name": "Dueles",
+        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
       },
       "artists": [
         {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 207886,
-      "name": "HOME RUN",
-      "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
+      "duration_ms": 175375,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Bajo El Agua",
+        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 183051,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -519,6 +519,22 @@
       "duration_ms": 171833,
       "name": "Sin Foto de Perfil",
       "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "HOME RUN",
+        "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 207886,
+      "name": "HOME RUN",
+      "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -559,22 +575,6 @@
       "duration_ms": 205237,
       "name": "LO LOGRAMOS",
       "url": "https://open.spotify.com/track/1dg9Gf4LclMVJ9HuKp0sgF"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Bajo El Agua",
-        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 183051,
-      "name": "Bajo El Agua",
-      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -739,6 +739,26 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "Apenas Prend\u00ed El Motor",
+        "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
+      },
+      "artists": [
+        {
+          "name": "Eley Romero",
+          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
+        },
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "duration_ms": 117866,
+      "name": "Apenas Prend\u00ed El Motor",
+      "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "LA TERAPIA",
         "url": "https://open.spotify.com/album/2c8qPwvwRibrjo8liDQwXa"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 184021,
       "name": "Cosas De Borrachera (En Vivo)",
       "url": "https://open.spotify.com/track/05rGX2P3QuJoTuXUEZhLjI"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Apenas Prend\u00ed El Motor",
-        "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
-      },
-      "artists": [
-        {
-          "name": "Eley Romero",
-          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
-        },
-        {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
-        }
-      ],
-      "duration_ms": 117866,
-      "name": "Apenas Prend\u00ed El Motor",
-      "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Seras Mia",
-        "url": "https://open.spotify.com/album/06W0RYfvO5ZVW2DpKOUy2A"
-      },
-      "artists": [
-        {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
-        }
-      ],
-      "duration_ms": 256587,
-      "name": "Seras Mia",
-      "url": "https://open.spotify.com/track/1eYNeNvks6wWxaIKL2mCtf"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/2xinWstoJ8afZc5WUlL0sz"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 163968,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3VroXeC69MnIXdA9gXvMEc"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Seras Mia",
+        "url": "https://open.spotify.com/album/06W0RYfvO5ZVW2DpKOUy2A"
+      },
+      "artists": [
+        {
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
+        }
+      ],
+      "duration_ms": 256587,
+      "name": "Seras Mia",
+      "url": "https://open.spotify.com/track/1eYNeNvks6wWxaIKL2mCtf"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "El Consejo",
-        "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
-      },
-      "artists": [
-        {
-          "name": "Superiores de Nuevo Leon",
-          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
-        }
-      ],
-      "duration_ms": 171444,
-      "name": "El Consejo",
-      "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Mi Potra",
         "url": "https://open.spotify.com/album/6CtAa222LPUIPcR06yPK3Z"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 193015,
       "name": "Mi Potra",
       "url": "https://open.spotify.com/track/2fwihVz6TlJkSn6CKfx1SF"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "El Consejo",
+        "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
+      },
+      "artists": [
+        {
+          "name": "Superiores de Nuevo Leon",
+          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
+        }
+      ],
+      "duration_ms": 171444,
+      "name": "El Consejo",
+      "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "Desde Los Angeles (En Vivo)",
+        "url": "https://open.spotify.com/album/4Qo9B9QZhwqV579sX7lriE"
+      },
+      "artists": [
+        {
+          "name": "La Atraxion",
+          "url": "https://open.spotify.com/artist/3hMHWpyQ2fgjbN6R3g90mQ"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "La vida recia - En Vivo",
+      "url": "https://open.spotify.com/track/5PDK2DNVnr11CNZ1X0hXsR"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "Cumbias Pa\u00b4bailar Vol. 2",
         "url": "https://open.spotify.com/album/4k4oPQQtCT2FvkkcZqAUsm"
       },
@@ -1411,26 +1427,6 @@
       "duration_ms": 139950,
       "name": "Hanky Panky",
       "url": "https://open.spotify.com/track/6au2dwJBy7nsSPZ1VfiZRs"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Nos Acostumbramos",
-        "url": "https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        },
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        }
-      ],
-      "duration_ms": 179647,
-      "name": "Nos Acostumbramos",
-      "url": "https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1455,34 +1451,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Desde Los Angeles (En Vivo)",
-        "url": "https://open.spotify.com/album/4Qo9B9QZhwqV579sX7lriE"
+        "name": "Nos Acostumbramos",
+        "url": "https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ"
       },
       "artists": [
         {
-          "name": "La Atraxion",
-          "url": "https://open.spotify.com/artist/3hMHWpyQ2fgjbN6R3g90mQ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "La vida recia - En Vivo",
-      "url": "https://open.spotify.com/track/5PDK2DNVnr11CNZ1X0hXsR"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "La Gata Bajo La Lluvia",
-        "url": "https://open.spotify.com/album/3Zg03daN63SxyWwpwR2GwE"
-      },
-      "artists": [
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        },
         {
-          "name": "Nuevo Regimen",
-          "url": "https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8"
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
         }
       ],
-      "duration_ms": 252743,
-      "name": "La Gata Bajo La Lluvia",
-      "url": "https://open.spotify.com/track/4PFvj4kLpcGB947uHq4UGT"
+      "duration_ms": 179647,
+      "name": "Nos Acostumbramos",
+      "url": "https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1499,6 +1483,22 @@
       "duration_ms": 247479,
       "name": "Por Debajo del Agua",
       "url": "https://open.spotify.com/track/0A1PJPNx8tZXHuew1cT0Ym"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "La Gata Bajo La Lluvia",
+        "url": "https://open.spotify.com/album/3Zg03daN63SxyWwpwR2GwE"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Regimen",
+          "url": "https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8"
+        }
+      ],
+      "duration_ms": 252743,
+      "name": "La Gata Bajo La Lluvia",
+      "url": "https://open.spotify.com/track/4PFvj4kLpcGB947uHq4UGT"
     },
     {
       "added_at": "2026-03-27 06:00:17",

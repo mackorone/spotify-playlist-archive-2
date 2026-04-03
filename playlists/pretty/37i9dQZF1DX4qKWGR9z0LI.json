@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1881446,
+  "num_followers": 1881428,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -463,30 +463,6 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "ROM\u00c1NTICA",
-        "url": "https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "XROSS",
-          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "ROM\u00c1NTICA",
-      "url": "https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
         "name": "Salsa Dura, Vol. 5",
         "url": "https://open.spotify.com/album/1uRY3jqUxtHVxvNdxD6dlR"
       },
@@ -515,6 +491,30 @@
       "duration_ms": 303133,
       "name": "He Tratado",
       "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
+        "name": "ROM\u00c1NTICA",
+        "url": "https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "ROM\u00c1NTICA",
+      "url": "https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
+        "name": "Arriba Siempre - De Pura Sangre",
+        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
+      },
+      "artists": [
+        {
+          "name": "Michel el Buen\u00f3n",
+          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
-        "name": "Arriba Siempre - De Pura Sangre",
-        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
-      },
-      "artists": [
-        {
-          "name": "Michel el Buen\u00f3n",
-          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 191260,
       "name": "The Reason - Latin Version",
       "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1503,22 +1503,18 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "Fue Culpa De Usted",
-        "url": "https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ"
+        "name": "Mal Necesario",
+        "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
       },
       "artists": [
         {
           "name": "Moa Rivera",
           "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 207423,
-      "name": "Fue Culpa De Usted",
-      "url": "https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO"
+      "duration_ms": 186224,
+      "name": "Mal Necesario",
+      "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1595,34 +1591,22 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "Mal Necesario",
-        "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
+        "name": "Fue Culpa De Usted",
+        "url": "https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ"
       },
       "artists": [
         {
           "name": "Moa Rivera",
           "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 186224,
-      "name": "Mal Necesario",
-      "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
-        "name": "Hello,What's Up",
-        "url": "https://open.spotify.com/album/6hDFSysxL72NCGP0mKHHeK"
-      },
-      "artists": [
+        },
         {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 190909,
-      "name": "Hello, What's Up",
-      "url": "https://open.spotify.com/track/11GVewr1WRV4CFJtgrL5mK"
+      "duration_ms": 207423,
+      "name": "Fue Culpa De Usted",
+      "url": "https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
+        "name": "Hello,What's Up",
+        "url": "https://open.spotify.com/album/6hDFSysxL72NCGP0mKHHeK"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Hello, What's Up",
+      "url": "https://open.spotify.com/track/11GVewr1WRV4CFJtgrL5mK"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
         "name": "Como Olvidarte",
         "url": "https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9"
       },
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "No Me Lo Creo",
-        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 268175,
-      "name": "No Me Lo Creo",
-      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
         "name": "Luis Figueroa",
         "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
       },
@@ -1703,18 +1683,22 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
+        "name": "No Me Lo Creo",
+        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
       },
       "artists": [
         {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 208524,
-      "name": "Coraz\u00f3n Roto",
-      "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
+      "duration_ms": 268175,
+      "name": "No Me Lo Creo",
+      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1771,6 +1755,22 @@
       "duration_ms": 198238,
       "name": "Cali Buenaventura",
       "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
+        "name": "Mi Propiedad Privada",
+        "url": "https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Mi Propiedad Privada",
+      "url": "https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl"
     }
   ],
   "unique_name": "Salsa Nation",

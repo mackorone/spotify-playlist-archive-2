@@ -628,10 +628,32 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 295866,
       "name": "Linger - Acoustic Version",
       "url": "https://open.spotify.com/track/1nxebACXgKGhpB2DPs3qP0"
+    },
+    {
+      "album": {
+        "name": "Linger [Spanish Mix (2026)]",
+        "url": "https://open.spotify.com/album/3tQd63g2Ydd2pNr08b4mAg"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225216,
+      "name": "Linger - Spanish Mix (2026)",
+      "url": "https://open.spotify.com/track/34HvVFUB2RDNhsf71SiF5X"
     },
     {
       "album": {

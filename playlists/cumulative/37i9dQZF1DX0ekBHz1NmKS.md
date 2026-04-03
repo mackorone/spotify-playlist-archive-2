@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,210 songs - 4 day 18 hr 48 min
+2,211 songs - 4 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,7 +521,7 @@
 | [Empati](https://open.spotify.com/track/0VtfW5epZbVcSXwB2M7unz) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Empati](https://open.spotify.com/album/0xstPqvoi3ogWYS27scNX8) | 2:49 | 2024-01-25 | 2024-03-11 |
 | [En av alla andra](https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 2:21 | 2025-11-13 | 2026-03-13 |
 | [En av ungarna](https://open.spotify.com/track/0d7I3Dlg0uAwkZOtUpUYIl) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [En av ungarna](https://open.spotify.com/album/6ekSfXbb6ry0JE0hhq5VMI) | 3:03 | 2023-11-23 | 2024-03-08 |
-| [En dröm](https://open.spotify.com/track/3dQGDtM4mk2rMAEJiZdmcr) | [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43) | [En dröm](https://open.spotify.com/album/4qQHswBjkRv00pfXu46Zxm) | 2:28 | 2026-03-19 |  |
+| [En dröm](https://open.spotify.com/track/3dQGDtM4mk2rMAEJiZdmcr) | [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43) | [En dröm](https://open.spotify.com/album/4qQHswBjkRv00pfXu46Zxm) | 2:28 | 2026-03-19 | 2026-04-03 |
 | [EN DÖENDE PLANET](https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EN DÖENDE PLANET](https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8) | 4:03 | 2025-04-10 | 2025-08-16 |
 | [En fattig munk från Skara](https://open.spotify.com/track/3PRcVDJ6sb0XNF0ZNUHQfT) | [Gustaf & Viktor Norén](https://open.spotify.com/artist/7wgjhOBlEERCRSA6iloMvt) | [Samlade sånger](https://open.spotify.com/album/53W6Wvkzo0eWW2YcwWX0CL) | 4:29 | 2021-12-16 | 2022-07-22 |
 | [En Första Dans](https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [En Första Dans](https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R) | 2:10 | 2024-06-27 | 2024-10-01 |
@@ -1929,6 +1929,7 @@
 | [THRILLER \(with Clara Mae\)](https://open.spotify.com/track/0rFAE6PNRKkw4b6nxCK7b1) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [THRILLER \(with Clara Mae\)](https://open.spotify.com/album/6fYCA4iunXPtY9JnLhNeZE) | 2:41 | 2023-04-20 | 2023-09-09 |
 | [Through The Fire](https://open.spotify.com/track/2ML88ePNxtALsVHzg3rLjK) | [Alex Alexander](https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj) | [Through The Fire](https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf) | 3:53 | 2022-09-15 | 2023-06-23 |
 | [Tiden har stått still](https://open.spotify.com/track/1toEHcEtoy0TY0PxXuP9Oj) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Tiden har stått still](https://open.spotify.com/album/1g1dDHJaszMN3scbyj1FgX) | 1:59 | 2024-04-26 | 2024-05-24 |
+| [Tiden i min hand \(Om 100 år\)](https://open.spotify.com/track/3wYzLu8teMxrY6GG2DE5Nj) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Tiden i min hand \(Om 100 år\)](https://open.spotify.com/album/0JoXr5oqVqlQuSbwErn0Kj) | 3:01 | 2026-04-02 |  |
 | [Tiden läker alla sår](https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tiden läker alla sår](https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q) | 3:03 | 2025-10-02 | 2026-02-13 |
 | [Tiden läker alla sår](https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [SAD ROMANCE](https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF) | 2:54 | 2024-10-17 | 2025-04-18 |
 | [Tiden rinner iväg](https://open.spotify.com/track/7JxgJn1DCftAEZim7e5gPc) | [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt) | [Tiden rinner iväg](https://open.spotify.com/album/1yVbNhW1AHwDGQdbzVRKD2) | 2:59 | 2022-12-01 | 2023-01-23 |

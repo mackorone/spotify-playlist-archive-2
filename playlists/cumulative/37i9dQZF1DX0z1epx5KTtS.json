@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : DJ KEROZEN",
+  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Ste Milano",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 202766,
       "name": "BIAMA BOMB\u00c9",
       "url": "https://open.spotify.com/track/0fVTSESDZB3MpDVGss5F6O"
@@ -908,6 +908,24 @@
       "duration_ms": 198576,
       "name": "C'est g\u00e2t\u00e9",
       "url": "https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V"
+    },
+    {
+      "album": {
+        "name": "C'est G\u00e2t\u00e9 partout",
+        "url": "https://open.spotify.com/album/1IglftnnNnwZEwCU4XIf2l"
+      },
+      "artists": [
+        {
+          "name": "Taf La R\u00e9f\u00e9rence",
+          "url": "https://open.spotify.com/artist/5CtDNucB5geU4uqT0SuqZv"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "C'est G\u00e2t\u00e9 partout",
+      "url": "https://open.spotify.com/track/7D9dBLIcRVVaflhhPJtSaX"
     },
     {
       "album": {
@@ -1346,7 +1364,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 180018,
       "name": "COUPER-COUPER",
       "url": "https://open.spotify.com/track/6IC40SlghyZK2fI7D25B5V"

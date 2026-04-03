@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Willie Peyote ha una nuova canzone tutta blu e sad 🫂
+> Fulmine tutto incravattato in cover di Indie Italia 👔💚
 
-500 songs - 1 day 2 hr 43 min
+502 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Dove andiamo a ballare questa sera?](https://open.spotify.com/track/2mvoDitYZLiL2XarlaMSru) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Dove andiamo a ballare questa sera?](https://open.spotify.com/album/2cmr3ljiT9HU69PdilyMt7) | 3:01 | 2026-03-27 |  |
 | [dubbi anthem](https://open.spotify.com/track/5Opazk7AZdjTvhiqqvKaFZ) | [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [muschio](https://open.spotify.com/album/5Zcxr4kTukUO6jduEDE7Fy) | 2:43 | 2024-06-27 | 2024-08-16 |
 | [Due Anime](https://open.spotify.com/track/3VYbbCl0q1YEmM4XUNCXby) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Due Anime](https://open.spotify.com/album/1VFFSfaKXrAzYr3d04ezWH) | 3:32 | 2024-12-19 | 2025-01-17 |
-| [Due Estranei \(feat\. Fulminacci\)](https://open.spotify.com/track/2GzEXn5EhLA9ngz7WOpUZu) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 3:05 | 2025-03-27 |  |
+| [Due Estranei \(feat\. Fulminacci\)](https://open.spotify.com/track/2GzEXn5EhLA9ngz7WOpUZu) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 3:05 | 2025-03-27 | 2026-04-03 |
 | [DUE GATTI A MILANO](https://open.spotify.com/track/07ml1sRzeQQIj6U6lfWS95) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [VITA\_FUSA](https://open.spotify.com/album/7lUQ8zSvRJwgC77Pb3St5Z) | 2:52 | 2025-03-06 | 2025-03-18 |
 | [due lune](https://open.spotify.com/track/3zq17xnIvCZWv8l167tzdP) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [due lune](https://open.spotify.com/album/39ByFKSGWOPTa7USlargt4) | 3:20 | 2025-05-01 | 2025-06-20 |
 | [E poi](https://open.spotify.com/track/2uPkHeF2T4V6LK3d0JVZhV) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [RADICAL POP](https://open.spotify.com/album/0fL9TA0WevAHVH33i2ql3N) | 2:56 | 2025-04-10 | 2025-05-02 |
@@ -133,7 +133,7 @@
 | [Estate 2007](https://open.spotify.com/track/2qUoYjZYq4jtq52bowjwP1) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Estate 2007 \| Piazza Roma](https://open.spotify.com/album/1c6viVbq9KFBNuXJEqdtrZ) | 2:18 | 2026-03-19 |  |
 | [Facciamo a metà](https://open.spotify.com/track/2PAZ4v3LrSLjEUdE9CAuJP) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/161wzAhcVaxA9SipWiTF6n) | 3:33 | 2025-12-04 |  |
 | [Fallito](https://open.spotify.com/track/5SkOX9LGHGBQWn8OLmNEjO) | [AIMONE](https://open.spotify.com/artist/18hOfr11qzoQKN87YjmyxS) | [Mai più per sempre](https://open.spotify.com/album/453uiFz6tPhSFpXiXQV7p1) | 3:02 | 2025-05-01 | 2025-10-04 |
-| [Fantasia 2000 \(con Franco126\)](https://open.spotify.com/track/19uOf45JYsppo49a8jiMt6) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 3:11 | 2026-03-12 |  |
+| [Fantasia 2000 \(con Franco126\)](https://open.spotify.com/track/19uOf45JYsppo49a8jiMt6) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 3:11 | 2026-03-12 | 2026-04-03 |
 | [Farla Facile](https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Farla Facile](https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8) | 3:54 | 2025-01-09 | 2025-02-28 |
 | [Farò Più Rumore Del Ratatata](https://open.spotify.com/track/6pqwsZdRorpeqoJQxcWeTL) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t), [Toomaj](https://open.spotify.com/artist/5mBmrpiMC2lzIWCG0MDOYx) | [Farò Più Rumore Del Ratatata](https://open.spotify.com/album/69SXGkqk4Q5PXr1S2brFPO) | 2:46 | 2024-06-27 | 2024-10-04 |
 | [Favola](https://open.spotify.com/track/0sq1ZosH1uS0VUCwF3qwfO) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [Favola](https://open.spotify.com/album/0LmhzsWhGFnLfcmqqVnUuj) | 3:38 | 2025-01-16 | 2025-02-04 |
@@ -242,6 +242,7 @@
 | [Lily](https://open.spotify.com/track/0GhVyHeFbIj8v2s5SjAV3V) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1), [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [Lily](https://open.spotify.com/album/3BzZ4rNEMK02aMd9OmumJN) | 1:55 | 2024-09-19 | 2024-12-06 |
 | [Limbo](https://open.spotify.com/track/20p0SmBBE4NrXLhfrj9TkU) | [Roshelle](https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt) | [Mangiami pure](https://open.spotify.com/album/5ZOaNaQEE4vNuWTcbyT1Cr) | 3:01 | 2026-03-27 |  |
 | [Lindacolei](https://open.spotify.com/track/0P2EOU8FDTcdPqasxgyy3N) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [Lindacolei](https://open.spotify.com/album/6UdydwbsRth1xW9OtqqJwk) | 3:20 | 2024-11-21 | 2024-12-20 |
+| [Linea D'aria](https://open.spotify.com/track/6xCWD6BL7qxBdCMKfkzA7n) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [Linea D'aria](https://open.spotify.com/album/0JsdTALZcbH3Q8SyJ99F1Q) | 3:01 | 2026-04-02 |  |
 | [Little Rat](https://open.spotify.com/track/4q3ZKc4CcEwhzuusvsr4Dg) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Little Rat](https://open.spotify.com/album/0phrEGKl53xAyL59YMznHX) | 2:43 | 2025-11-20 | 2026-01-15 |
 | [Lividi](https://open.spotify.com/track/6C0lbJ5lZxSWiZOv8jNBby) | [COMETE](https://open.spotify.com/artist/7ASul1q4D4AEBiGFohve61) | [Lividi](https://open.spotify.com/album/57cfLRda3OYKLW8E0bERkx) | 3:09 | 2024-06-27 | 2024-07-05 |
 | [Loneliness](https://open.spotify.com/track/0HJd4ynGL3mn0p2o6WE9DI) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 2:39 | 2024-06-27 | 2025-12-12 |
@@ -262,6 +263,7 @@
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-06-27 | 2024-10-04 |
 | [Maledetto me](https://open.spotify.com/track/0RkFzXmEJzSv4Bu6YwZJx6) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 2:59 | 2026-03-12 |  |
 | [Mambo](https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Mambo](https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp) | 4:05 | 2024-07-04 | 2024-08-16 |
+| [Mamma Mezzanotte](https://open.spotify.com/track/4pDdlC0APzRn8C9mcEUJk4) | [Zara Colombo](https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx) | [Madre Lingua](https://open.spotify.com/album/1naMbMqwfCgeIRsBmaue8x) | 2:47 | 2026-04-02 |  |
 | [Mani d’ortica](https://open.spotify.com/track/6iu6Zq1uaI01PuSKo3VXka) | [Erica Mou](https://open.spotify.com/artist/7CkPMtYIA3Vrn1mmekWZAD) | [Cerchi](https://open.spotify.com/album/62XasxTrsETcBPriqlJ1g0) | 3:06 | 2024-11-14 | 2024-12-20 |
 | [MANIFESTAZIONE D'AMORE](https://open.spotify.com/track/4CVzKDQSP7dZOzca7vQvsH) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [MANIFESTAZIONE D'AMORE](https://open.spotify.com/album/15FtREzDJ4JZLRFxMMmeY3) | 3:04 | 2025-12-18 |  |
 | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Carlo Amleto](https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5) | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp) | 2:53 | 2024-07-25 | 2024-09-06 |

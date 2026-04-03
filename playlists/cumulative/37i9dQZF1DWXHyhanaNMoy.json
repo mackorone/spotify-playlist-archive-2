@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Architrackz",
+  "description": "Motion & good vibes! Cover: Mensa",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -4282,7 +4282,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 124761,
       "name": "Bet\u00e2h",
       "url": "https://open.spotify.com/track/7zjEIHBKlOHhCoPAC6DkNY"
@@ -9112,7 +9112,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 174730,
       "name": "Diana",
       "url": "https://open.spotify.com/track/7HLWQvaSJdXBKJree77UDv"
@@ -10163,6 +10163,28 @@
     },
     {
       "album": {
+        "name": "DOUCEMENT",
+        "url": "https://open.spotify.com/album/6R0dOwLtxYDVaaovcpQNDB"
+      },
+      "artists": [
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172913,
+      "name": "DOUCEMENT",
+      "url": "https://open.spotify.com/track/5btmfx5sNRsrcoIes2gmHu"
+    },
+    {
+      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/3HTO9qqLmvJ50teZjoA4W0"
       },
@@ -10296,6 +10318,24 @@
       "duration_ms": 156666,
       "name": "Droom",
       "url": "https://open.spotify.com/track/1Fez3BtcXdUBgCR2UsLFYd"
+    },
+    {
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164336,
+      "name": "Drugsprobleem",
+      "url": "https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1"
     },
     {
       "album": {
@@ -12793,6 +12833,32 @@
     },
     {
       "album": {
+        "name": "Get Busy",
+        "url": "https://open.spotify.com/album/7jadfyrcWDSaf5T9WMA8fV"
+      },
+      "artists": [
+        {
+          "name": "Tera K\u00f2r\u00e1",
+          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
+        },
+        {
+          "name": "FS Green",
+          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+        },
+        {
+          "name": "Freezy",
+          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108273,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/7Ioc66iWYGZPKcbFa3Pkto"
+    },
+    {
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/5khvTZOuqSQm1VXPmP7Mrx"
       },
@@ -13240,7 +13306,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 127800,
       "name": "Go Baby",
       "url": "https://open.spotify.com/track/54vNEp3PpKIXBkJNLs9o1i"
@@ -13646,6 +13712,24 @@
       "duration_ms": 153400,
       "name": "GUILT TRIPPIN (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
+    },
+    {
+      "album": {
+        "name": "Gunshot",
+        "url": "https://open.spotify.com/album/4ALsDE8QoiB8SvSodvjcnE"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Gunshot",
+      "url": "https://open.spotify.com/track/4mD1XPHleoO8bG3rJk0Zjt"
     },
     {
       "album": {
@@ -16806,7 +16890,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 188861,
       "name": "Jogodo",
       "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
@@ -22690,7 +22774,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 135000,
       "name": "Multi-Culti",
       "url": "https://open.spotify.com/track/7BdChO9B2PEzRmnXlVSbTp"
@@ -23012,7 +23096,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 152959,
       "name": "Naar De Getver",
       "url": "https://open.spotify.com/track/1oWGfpbUVlwiyMaK47WFLe"
@@ -25652,6 +25736,28 @@
       "duration_ms": 165646,
       "name": "Oye Oye (feat. Bizzey)",
       "url": "https://open.spotify.com/track/7FT7An5Q3DiRfQlZJachwS"
+    },
+    {
+      "album": {
+        "name": "Pal Agua",
+        "url": "https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206296,
+      "name": "Pal Agua",
+      "url": "https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0"
     },
     {
       "album": {
@@ -29158,6 +29264,32 @@
       "duration_ms": 146285,
       "name": "Sende",
       "url": "https://open.spotify.com/track/3zkJlzwHX7MNBSEFHak4d3"
+    },
+    {
+      "album": {
+        "name": "Sensa",
+        "url": "https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122818,
+      "name": "Sensa",
+      "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
     },
     {
       "album": {
@@ -35002,7 +35134,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 125668,
       "name": "Voorkant (feat. Rijck & Trobi)",
       "url": "https://open.spotify.com/track/4dceRXPzF27sXSbddy5a4z"
@@ -36212,6 +36344,24 @@
       "duration_ms": 125700,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/0F3iXq4JcmegWKxTN60F1J"
+    },
+    {
+      "album": {
+        "name": "Wifi In De Club",
+        "url": "https://open.spotify.com/album/6saU8Vb3c32CZYeXg8tWmq"
+      },
+      "artists": [
+        {
+          "name": "Syllaa",
+          "url": "https://open.spotify.com/artist/2BJAiTDstqkddEvx7Rrd52"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Wifi In De Club",
+      "url": "https://open.spotify.com/track/0saS2IY2oObieNzCOlUCY2"
     },
     {
       "album": {

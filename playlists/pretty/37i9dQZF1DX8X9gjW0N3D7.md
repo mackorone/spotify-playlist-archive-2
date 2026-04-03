@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Arielle Soucy
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,817 likes - 95 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,816 likes - 95 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

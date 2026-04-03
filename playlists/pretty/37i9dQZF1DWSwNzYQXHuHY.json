@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12260,
+  "num_followers": 12269,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-03-31 04:05:31",
       "album": {
+        "name": "MUSEUM",
+        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
+      },
+      "artists": [
+        {
+          "name": "OWIS",
+          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
+        }
+      ],
+      "duration_ms": 200822,
+      "name": "juicy",
+      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
+    },
+    {
+      "added_at": "2026-03-31 04:05:31",
+      "album": {
         "name": "LOVECHAPTER",
         "url": "https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 180000,
       "name": "Telepathy (Feat. ADORA)",
       "url": "https://open.spotify.com/track/43huSeupxUXIBkRALBozSO"
-    },
-    {
-      "added_at": "2026-03-31 04:05:31",
-      "album": {
-        "name": "MUSEUM",
-        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
-      },
-      "artists": [
-        {
-          "name": "OWIS",
-          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
-        }
-      ],
-      "duration_ms": 200822,
-      "name": "juicy",
-      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
     },
     {
       "added_at": "2026-03-31 04:05:31",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-03-31 04:05:31",
       "album": {
+        "name": "My Dearest (ToGetHer X xooos) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w"
+      },
+      "artists": [
+        {
+          "name": "xooos",
+          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "My Dearest",
+      "url": "https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM"
+    },
+    {
+      "added_at": "2026-03-31 04:05:31",
+      "album": {
         "name": "Message (with Gist)",
         "url": "https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 170000,
       "name": "Message (with Gist)",
       "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
-    },
-    {
-      "added_at": "2026-03-31 04:05:31",
-      "album": {
-        "name": "My Dearest (ToGetHer X xooos) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w"
-      },
-      "artists": [
-        {
-          "name": "xooos",
-          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "My Dearest",
-      "url": "https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM"
     },
     {
       "added_at": "2026-03-31 04:05:31",

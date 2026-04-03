@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Paris Paloma",
-  "num_followers": 325812,
+  "num_followers": 325842,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Living With Ghosts",
         "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 191093,
       "name": "Let Him Fly",
       "url": "https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 241200,
       "name": "jordan",
       "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Down Rounder",
         "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 139333,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 317466,
-      "name": "Boots of Spanish Leather",
-      "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Highway 101, Vol. 2",
         "url": "https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 220586,
       "name": "(Do You Love Me) Just Say Yes",
       "url": "https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 317466,
+      "name": "Boots of Spanish Leather",
+      "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "A Southern Gothic",
         "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
       },
@@ -1379,18 +1359,22 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Anna with the Silver Arrow",
-        "url": "https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8"
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
       "artists": [
         {
-          "name": "Ellie O'Neill",
-          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
         }
       ],
-      "duration_ms": 224234,
-      "name": "Anna with the Silver Arrow",
-      "url": "https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei"
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1423,6 +1407,22 @@
       "duration_ms": 185506,
       "name": "Workin' Woman Blues",
       "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Anna with the Silver Arrow",
+        "url": "https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8"
+      },
+      "artists": [
+        {
+          "name": "Ellie O'Neill",
+          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
+        }
+      ],
+      "duration_ms": 224234,
+      "name": "Anna with the Silver Arrow",
+      "url": "https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "I Could Drive You Crazy",
-        "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 216128,
-      "name": "I Could Drive You Crazy",
-      "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "Birdseye",
         "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 151573,
       "name": "Birdseye",
       "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "I Could Drive You Crazy",
+        "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 216128,
+      "name": "I Could Drive You Crazy",
+      "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Dollar Bill Bar",
-        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 209176,
-      "name": "Dollar Bill Bar",
-      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "I Will Not Be Afraid",
         "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 195320,
       "name": "Blood on Your Bootheels",
       "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Dollar Bill Bar",
+        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 209176,
+      "name": "Dollar Bill Bar",
+      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 184558,
-      "name": "Jeremiah",
-      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "On the Line",
         "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 313405,
       "name": "Heads Gonna Roll",
       "url": "https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 184558,
+      "name": "Jeremiah",
+      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
-        "name": "Riddy Arman",
-        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
-      },
-      "artists": [
-        {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Too Late to Write a Love Song",
-      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 159360,
       "name": "Follow Me - Remastered",
       "url": "https://open.spotify.com/track/4r45V7ZeTmjpX11lW5i6Xx"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
     },
     {
       "added_at": "2026-03-08 15:33:31",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2026-03-08 15:33:31",
       "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Will the Circle Be Unbroken",
+      "url": "https://open.spotify.com/track/2XQlZQGMQKIElKRYSf5NWx"
+    },
+    {
+      "added_at": "2026-03-08 15:33:31",
+      "album": {
         "name": "Royal Traveller",
         "url": "https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 236614,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/0j1lzFyh427bXhDHLeth6q"
-    },
-    {
-      "added_at": "2026-03-08 15:33:31",
-      "album": {
-        "name": "Freedom Highway",
-        "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Will the Circle Be Unbroken",
-      "url": "https://open.spotify.com/track/2XQlZQGMQKIElKRYSf5NWx"
     },
     {
       "added_at": "2026-03-08 15:33:31",

@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: SoWhat & Loisey
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 晚安莉莉
 
-1,644 songs - 3 day 21 hr 0 min
+1,648 songs - 3 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1255,6 +1255,7 @@
 | [夜闌人靜 That's It](https://open.spotify.com/track/6FjCNupk9xizYWMigQn0nx) | [姜穎芝 Gigi](https://open.spotify.com/artist/7xbRsyQgjHiM8EYHuMEK0p) | [夜闌人靜 That's It](https://open.spotify.com/album/2dRaudMcZgqIcrJ14oDwLV) | 4:36 | 2023-01-12 | 2023-05-26 |
 | [夠鐘 Time's Up](https://open.spotify.com/track/4ua8rMZzLG9ii73SKOiHiq) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [夠鐘 Time's Up](https://open.spotify.com/album/0OsYyEFoWdYb8wAIkktlbW) | 3:24 | 2022-09-08 | 2023-02-03 |
 | [夢寐 \(feat\. J Jelly\)](https://open.spotify.com/track/5cNWcuz1a3qHXMMcS4G4AI) | [WanillaCoco](https://open.spotify.com/artist/76sx7t1WnMy8XwQwY86nwk), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [夢寐 \(feat\. J Jelly\)](https://open.spotify.com/album/0U9BXpiyf7MOW1uILPJCvB) | 3:06 | 2024-08-08 | 2024-12-13 |
+| [大亂鬥生存守則](https://open.spotify.com/track/108vPqGjLYFtxqPHQL2Ydx) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [大亂鬥生存守則](https://open.spotify.com/album/7oARYVLZ10iYf6pYSMwGW0) | 2:31 | 2026-04-02 |  |
 | [大休息](https://open.spotify.com/track/1zT27FApK0srGKi3SYRhtH) | [Peterson](https://open.spotify.com/artist/1TxtXcoWBsf48HlugqdfPq) | [大休息](https://open.spotify.com/album/6lS7C5dlEoFr9kyl4ThBOR) | 3:37 | 2024-07-04 | 2024-11-15 |
 | [大揪鬼](https://open.spotify.com/track/09HmiCOzZJtqY6FDtWLgd7) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [大揪鬼](https://open.spotify.com/album/18Pkx9GrX1ujtIsJWxqgcQ) | 3:56 | 2024-10-31 | 2025-02-14 |
 | [大有](https://open.spotify.com/track/3WT0JXvJp6D0xGdGUuisHX) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [大有](https://open.spotify.com/album/1bEOMxmg5JyqWgjMIsbj8T) | 3:48 | 2024-06-13 | 2024-11-15 |
@@ -1493,6 +1494,7 @@
 | [煙 Lofi Remix](https://open.spotify.com/track/4Wsk0uyGAa3oAdPJ81tQJ5) | [The Priceless Boat](https://open.spotify.com/artist/3aIis27ZwDnQzBIx7CqYXV) | [煙](https://open.spotify.com/album/4U22KBh4EvWG1MgDzD0Ydr) | 2:12 | 2024-01-25 | 2024-05-10 |
 | [煙花](https://open.spotify.com/track/0shCo11sKdzjd4HvAQ5N6b) | [地球旅人](https://open.spotify.com/artist/4MXyGb0iHp1AoSFcHla2Tb) | [煙花](https://open.spotify.com/album/5urjNaWB6TjYAed6DqUTdS) | 5:12 | 2023-02-16 | 2023-03-18 |
 | [煩](https://open.spotify.com/track/4gz8dfi9yCYUmOTYSn49PJ) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [PRESENT](https://open.spotify.com/album/4PkmXFT0XwZqFBPvPImPbW) | 4:18 | 2023-04-27 | 2023-07-14 |
+| [煩惱事九成都不會發生](https://open.spotify.com/track/05tI9TZPgRKDzqa3yBCCJa) | [Locksmiths 開鎖佬](https://open.spotify.com/artist/1Z4uKuJsVmcbUGaozKoXO8) | [煩惱事九成都不會發生](https://open.spotify.com/album/6KHfTtALEdZbnYk2mP86hB) | 3:50 | 2026-04-02 |  |
 | [煩惱吃掉白日夢](https://open.spotify.com/track/05FRKsVTxx4oigV33g1dFg) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [煩惱吃掉白日夢](https://open.spotify.com/album/61GZLTgxm4d9KDkDJuxUve) | 3:50 | 2025-12-19 |  |
 | [爛](https://open.spotify.com/track/63fnY0Ic24TkyHBgRrjyfg) | [ORANGE VS CURIOUS](https://open.spotify.com/artist/30uTGGyCxcKCg3X8Wy5dIO), [Mike Orange](https://open.spotify.com/artist/16CT77nyCx37z4iQkTx0vs), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [爛](https://open.spotify.com/album/5pyEYBMr25nHpJBQeQcTvW) | 3:19 | 2025-11-13 |  |
 | [片尾曲 （微電影《柴灣電影會》主題曲）](https://open.spotify.com/track/1EQCNrJfk4nkJLEbcggqrI) | [Charming Way](https://open.spotify.com/artist/1us1dhuQC9cgSiJT3qEQJb) | [片尾曲 （微電影《柴灣電影會》主題曲）](https://open.spotify.com/album/1TsmcuW7CWtfTLipntZpqD) | 3:29 | 2025-02-06 | 2025-03-14 |
@@ -1506,6 +1508,7 @@
 | [甩身 \(feat\. CotaBoii\)](https://open.spotify.com/track/1ECUIV8lgeLLKx4FP92aX7) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I), [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [甩身 \(feat\. CotaBoii\)](https://open.spotify.com/album/3JuWMejLdX2RxP0VhL3WiM) | 3:22 | 2023-09-14 | 2023-11-24 |
 | [界限症](https://open.spotify.com/track/6qjZCAVuB5UNKFPhduC1gD) | [Instinct of Sight](https://open.spotify.com/artist/69daEmEDuIbefSrerLcNhA) | [界限症](https://open.spotify.com/album/2NSMbcxQgBUpWMpl8v2x73) | 2:59 | 2025-02-06 | 2025-05-30 |
 | [留在原地等你追](https://open.spotify.com/track/4lX0k2U34XEVZcAhh9xSOu) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [留在原地等你追](https://open.spotify.com/album/4QBcJM4hB8sRAQP2s6SRDL) | 3:42 | 2022-07-21 | 2022-11-04 |
+| [當我們不再說晚安](https://open.spotify.com/track/5nft8DV4HTOPyt5RJ5xBA9) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [當我們不再說晚安](https://open.spotify.com/album/6gzB8wOU4M97H6dosO2uY8) | 4:00 | 2026-04-02 |  |
 | [百鬼夜行](https://open.spotify.com/track/4WWYhgUUXt4SesG2OwmxQe) | [SENZA A Cappella](https://open.spotify.com/artist/2CQcJ2puP32r60KacgJdyW) | [百鬼夜行](https://open.spotify.com/album/3sHdBZLhLCN9wOh24BzDd7) | 3:30 | 2023-10-19 | 2024-01-05 |
 | [相逢實驗](https://open.spotify.com/track/6eblAIsM4cnlGAdxFKJFwY) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [相逢實驗](https://open.spotify.com/album/6lRE98Vlhmr7TzZ4jgc8ay) | 4:05 | 2024-02-22 | 2024-06-07 |
 | [真心有病](https://open.spotify.com/track/2VWFZ4SGhtQO7ldILHGBC7) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH), [米爺](https://open.spotify.com/artist/4VSNdg5c0V26Srdi4MOHR7) | [真心有病](https://open.spotify.com/album/396LSdL0kyRtvB0pYRh9LZ) | 3:11 | 2026-01-02 |  |
@@ -1612,6 +1615,7 @@
 | [開朗咗 Fantastic](https://open.spotify.com/track/7M4QQtHG0KtgJBXOBbI4Np) | [SINK!](https://open.spotify.com/artist/3SO5eXhcmQ6XIrblMK20si) | [開朗咗 Fantastic](https://open.spotify.com/album/1aScUtpMgve7K6bTtOU4f1) | 2:23 | 2023-02-16 | 2023-03-18 |
 | [阿姐今年已經30歲](https://open.spotify.com/track/6zqysqnKJv93lCU4LgPil3) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [阿姐今年已經30歲](https://open.spotify.com/album/2OFMhoYXMpQZlZTEJeJcZX) | 3:40 | 2024-08-15 | 2024-12-13 |
 | [除夕與你過\(I'm Falling in Love\)](https://open.spotify.com/track/5It7vSIsHHmQb2O11Mmhjg) | [Modern Children](https://open.spotify.com/artist/4IZzgVRtODTBz4WzplETIi) | [除夕與你過\(I'm Falling in Love\)](https://open.spotify.com/album/4rAQqSl9dO0TOP2Ll3xs4P) | 2:29 | 2024-12-19 | 2025-04-25 |
+| [隱約聽見愛的悲鳴](https://open.spotify.com/track/49njFmHIqq4YzHlOSs3myx) | [Mark Chan](https://open.spotify.com/artist/5LbkM0hR7sv5IVpQWF7AEQ) | [隱約聽見愛的悲鳴](https://open.spotify.com/album/57UJWFXGRxTqTgPgnwju6y) | 4:03 | 2026-04-02 |  |
 | [雀斑](https://open.spotify.com/track/5mYjvglzHjX5lCqKpD4e3i) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [DOUBLE DOWN](https://open.spotify.com/album/1PrOhEbcjgjKzEUo2TWnWC) | 3:31 | 2024-11-14 | 2025-03-14 |
 | [雅努斯](https://open.spotify.com/track/2qNKSxxHDoyzHNN3UHboRL) | [SY 胡肇賢](https://open.spotify.com/artist/4s9TBSoPhdMHkfVcj3o2lO) | [雅努斯](https://open.spotify.com/album/5MtJbEYtjcnuslZAqkHaOg) | 3:20 | 2024-12-12 | 2025-02-14 |
 | [雌雄同體](https://open.spotify.com/track/1BHc2pjfLXfntjrgs4TMGc) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [雌雄同體](https://open.spotify.com/album/3ReYvfsMslCtRwZAMF6uad) | 3:16 | 2023-11-09 | 2023-12-05 |

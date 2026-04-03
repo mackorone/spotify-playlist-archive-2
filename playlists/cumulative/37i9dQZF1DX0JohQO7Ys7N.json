@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Wendy Kay",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Bridget Blue",
   "name": "NairoBae",
   "tracks": [
+    {
+      "album": {
+        "name": "RNB",
+        "url": "https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171960,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/7MCcXsGunhdXUyMf1jsnuk"
+    },
     {
       "album": {
         "name": "A Little Thing Called Love",
@@ -846,7 +864,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 155062,
       "name": "Deja",
       "url": "https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr"
@@ -1258,6 +1276,24 @@
       "duration_ms": 202500,
       "name": "Far",
       "url": "https://open.spotify.com/track/6xAWN1hyeU6rugPzEDp7dp"
+    },
+    {
+      "album": {
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/7LcNdnjDCwb9SLjDxi2FPP"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259352,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/4Aw9OJJDJFCbVlVBAb0EdM"
     },
     {
       "album": {
@@ -5350,7 +5386,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 335606,
       "name": "Swim",
       "url": "https://open.spotify.com/track/0IgoWhyc7cNawpafMJpQ0u"

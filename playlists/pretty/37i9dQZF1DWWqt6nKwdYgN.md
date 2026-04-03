@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Neton Vega en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,593 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,602 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nalguita y Teta](https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Nalguita y Teta](https://open.spotify.com/album/0jwalP0wios13VlRWKILbC) | 3:07 |
-| 2 | [Mercenarios](https://open.spotify.com/track/1YtBEZolFa52BcyDZg7U2L) | [Capo](https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mercenarios](https://open.spotify.com/album/57F0XyYYCfiQ7D4ZL0Ca6Q) | 2:24 |
+| 2 | [Mercenarios](https://open.spotify.com/track/1YtBEZolFa52BcyDZg7U2L) | [Capo](https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mercenarios](https://open.spotify.com/album/57F0XyYYCfiQ7D4ZL0Ca6Q) | 2:22 |
 | 3 | [Stamford Bridge](https://open.spotify.com/track/1zhQNQUBbZFaYmxhpOhyLC) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samg](https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ) | [Stamford Bridge](https://open.spotify.com/album/3n0nCCkmMF2pzXbMvpeg0B) | 3:03 |
 | 4 | [Ego](https://open.spotify.com/track/3uxYCqJtleP7kgkyKnSodq) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [School MC](https://open.spotify.com/artist/5mu2rGENOsGqLnb9hGum2X) | [The Black Souls](https://open.spotify.com/album/4q2rpWBts7di4mrXZunQ7R) | 4:32 |
 | 5 | [Parcera](https://open.spotify.com/track/724Txk8NEBXqNK7nIvY6MK) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Parcera](https://open.spotify.com/album/2iiuzRYwehvW5XKRY1r5Fk) | 3:09 |

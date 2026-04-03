@@ -2291,6 +2291,28 @@
     },
     {
       "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA"
+      },
+      "artists": [
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228387,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w"
+    },
+    {
+      "album": {
         "name": "TRACKER",
         "url": "https://open.spotify.com/album/7Jd8BFJbmI6DTcmyOX7R16"
       },
@@ -22653,6 +22675,24 @@
     },
     {
       "album": {
+        "name": "LOVE CALLS",
+        "url": "https://open.spotify.com/album/7FWCEAgaWqd3MWYjtjNOXu"
+      },
+      "artists": [
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124878,
+      "name": "LOVE CALLS",
+      "url": "https://open.spotify.com/track/7dWN5JkVhhZSMPfRkGJ0kB"
+    },
+    {
+      "album": {
         "name": "Love Come Through",
         "url": "https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI"
       },
@@ -24483,6 +24523,24 @@
     },
     {
       "album": {
+        "name": "Mizukami",
+        "url": "https://open.spotify.com/album/521QOxLFhoz3ocRjZWVoNV"
+      },
+      "artists": [
+        {
+          "name": "Snowk",
+          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332950,
+      "name": "Mizukami",
+      "url": "https://open.spotify.com/track/1SNUUPgkHHOAnMsyCUbPCu"
+    },
+    {
+      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d"
       },
@@ -25240,6 +25298,24 @@
       "duration_ms": 395809,
       "name": "My Healing",
       "url": "https://open.spotify.com/track/3Vp8VycawlbZIMmI8dAEY0"
+    },
+    {
+      "album": {
+        "name": "Always With A Remix",
+        "url": "https://open.spotify.com/album/23PksvTJUKwBAFOZFnsz4m"
+      },
+      "artists": [
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301042,
+      "name": "My Melody - TEED Club Mix",
+      "url": "https://open.spotify.com/track/2f6NEdZijB2Fuys4DrRCHh"
     },
     {
       "album": {
@@ -33066,6 +33142,24 @@
       "duration_ms": 157745,
       "name": "Silence Is Loud",
       "url": "https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg"
+    },
+    {
+      "album": {
+        "name": "SILENT RIOT",
+        "url": "https://open.spotify.com/album/4jwIRVNzPswCfNCCScfcXi"
+      },
+      "artists": [
+        {
+          "name": "DJ DISK",
+          "url": "https://open.spotify.com/artist/7BhAnkcfEJZNZNBsGXj9Jr"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245413,
+      "name": "SILENT RIOT",
+      "url": "https://open.spotify.com/track/1kGSBjUX2yTVDOCrOGSZIV"
     },
     {
       "album": {

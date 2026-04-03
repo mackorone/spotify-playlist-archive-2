@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 143280,
       "name": "Ayer Hable Con Dios",
       "url": "https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 143300,
       "name": "Ayer Hable Con Dios",
       "url": "https://open.spotify.com/track/59JHSgCS2nbh0GqusOLQjS"
@@ -6962,7 +6962,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 94081,
       "name": "Chapul\u00edn",
       "url": "https://open.spotify.com/track/4NkYpLDo4RcBGefiwDeQzW"
@@ -12531,6 +12531,28 @@
     },
     {
       "album": {
+        "name": "Tarac\u00e1",
+        "url": "https://open.spotify.com/album/3x8EqFhf17Rupeyh0k1a0H"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Rueda de Candombe",
+          "url": "https://open.spotify.com/artist/603pfk1hiL5mfXafI4dfnH"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206242,
+      "name": "El tambor chico",
+      "url": "https://open.spotify.com/track/5G9ILP0Ma78qW5zpp7fbwE"
+    },
+    {
+      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -15392,7 +15414,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 286825,
       "name": "For Fun / Cicatrices / Pensamientos - En Vivo en la Plaza de la M\u00fasica",
       "url": "https://open.spotify.com/track/4yZk21smI1Z7ybhbJWiLyH"
@@ -16290,7 +16312,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
@@ -19623,6 +19645,24 @@
     },
     {
       "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
+    },
+    {
+      "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
       },
@@ -20650,7 +20690,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 366200,
       "name": "La Memoria",
       "url": "https://open.spotify.com/track/4jdvNdmgHxlNGmX3BACU76"
@@ -24406,7 +24446,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 149400,
       "name": "Marcha de las Malvinas",
       "url": "https://open.spotify.com/track/7H851ulmXQFlBOrLjbyHgj"
@@ -46502,7 +46542,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 174918,
       "name": "Y \u00bfSi Fuera Ella?",
       "url": "https://open.spotify.com/track/3YjBajZ96h7G9qX2uDFdyN"

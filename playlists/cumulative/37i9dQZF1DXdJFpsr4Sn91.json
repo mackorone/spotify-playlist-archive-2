@@ -350,7 +350,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 191119,
       "name": "Aamun kuiskaus (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
       "url": "https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW"
@@ -8284,7 +8284,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 234880,
       "name": "Kaiken arvoinen",
       "url": "https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1"
@@ -8675,6 +8675,24 @@
     },
     {
       "album": {
+        "name": "Askeleen edell\u00e4 - EP",
+        "url": "https://open.spotify.com/album/3Q9yKmbiKvtgzC9uJOfxZX"
+      },
+      "artists": [
+        {
+          "name": "Alma Alanko",
+          "url": "https://open.spotify.com/artist/1fFcue8MWSuhjTPVgIpRUt"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168582,
+      "name": "Kenen mukaan",
+      "url": "https://open.spotify.com/track/5Q5aAxsbtKqYyzMikGPyXP"
+    },
+    {
+      "album": {
         "name": "Kerro mulle",
         "url": "https://open.spotify.com/album/2Y0ACTy2R9ZGlH1Nxc98AH"
       },
@@ -8756,6 +8774,28 @@
       "duration_ms": 195239,
       "name": "Kes\u00e4h\u00e4\u00e4t",
       "url": "https://open.spotify.com/track/1UlzvdqHMbekpDOJ6zySpW"
+    },
+    {
+      "album": {
+        "name": "Kev\u00e4tkiima",
+        "url": "https://open.spotify.com/album/0IcYHhXS5oi0F6sJmgy0pT"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Visa",
+          "url": "https://open.spotify.com/artist/5KGtBCbmfrpTqAq1ISbi1D"
+        },
+        {
+          "name": "Ira",
+          "url": "https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153110,
+      "name": "Kev\u00e4tkiima",
+      "url": "https://open.spotify.com/track/6G2WYA3PdKa7lvgtwP6Ui0"
     },
     {
       "album": {
@@ -9238,7 +9278,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 192621,
       "name": "kun joskus en muista",
       "url": "https://open.spotify.com/track/1Gp19g5YxFjMkU95DbsJhW"
@@ -12286,7 +12326,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 160714,
       "name": "Mun vuoro luovuttaa",
       "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
@@ -15583,6 +15623,28 @@
     },
     {
       "album": {
+        "name": "Reputation (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
+    },
+    {
+      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3XyCo0tUkIHQ2vRDDlBgWy"
       },
@@ -18691,6 +18753,24 @@
     },
     {
       "album": {
+        "name": "Ter\u00e4lehti",
+        "url": "https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr"
+      },
+      "artists": [
+        {
+          "name": "Juuna Chill",
+          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148374,
+      "name": "Ter\u00e4lehti",
+      "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"
+    },
+    {
+      "album": {
         "name": "If You're Looking For A Reason To Key Your Ex's Car",
         "url": "https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc"
       },
@@ -20307,6 +20387,24 @@
     },
     {
       "album": {
+        "name": "Valmis",
+        "url": "https://open.spotify.com/album/1HYxXOIaXc35BGrmbMwnpH"
+      },
+      "artists": [
+        {
+          "name": "Haavat",
+          "url": "https://open.spotify.com/artist/5kkqhzRK0Iq7REjdlz2Swo"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213472,
+      "name": "Valmis",
+      "url": "https://open.spotify.com/track/6Tzxwl980X0jQxi0nWAM22"
+    },
+    {
+      "album": {
         "name": "Valoa varten",
         "url": "https://open.spotify.com/album/1RUTppaKrlMH27m0E4Y6lP"
       },
@@ -20906,6 +21004,24 @@
       "duration_ms": 159784,
       "name": "Viimeinen tekoni",
       "url": "https://open.spotify.com/track/06G9w3cEqRAHaNhIgnefP3"
+    },
+    {
+      "album": {
+        "name": "Viimeiseen hengenvetoon",
+        "url": "https://open.spotify.com/album/22h46Y8b4gQkLi5vrVT9HZ"
+      },
+      "artists": [
+        {
+          "name": "Vilma Alina",
+          "url": "https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201341,
+      "name": "Viimeiseen hengenvetoon",
+      "url": "https://open.spotify.com/track/4t3vRAfFDA9vuXE6iFAT7q"
     },
     {
       "album": {
@@ -21564,7 +21680,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 233666,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
@@ -22166,7 +22282,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 182125,
       "name": "\u00e4l\u00e4 sano mit\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/1JvOQjASrjSV2ysLqED3Qf"

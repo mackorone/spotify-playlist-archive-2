@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Rooksein
+> Net die beste Afrikaanse musiek! Omslag: Chris Steyn
 
-376 songs - 20 hr 48 min
+378 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Brannewynlippe](https://open.spotify.com/track/1gdBisAst3pplEuOS4xUhP) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Brannewynlippe](https://open.spotify.com/album/68c0WhoFBICaOlNDVh3pvk) | 3:06 | 2021-10-14 | 2023-01-21 |
 | [Bring Dit](https://open.spotify.com/track/0CFG2doHcEGyIIlK7Qq0Oz) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Bring Dit](https://open.spotify.com/album/2iRdazzYsOBztAR5V2aiku) | 2:52 | 2021-09-09 | 2023-02-03 |
 | [Bring Dit](https://open.spotify.com/track/7F0TVSAgDWcn7d2t6sfgiJ) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Groot Afrikaans Treffers](https://open.spotify.com/album/7tIHjz5g4qfELNLTxO0xm8) | 2:52 | 2023-03-09 | 2024-02-02 |
-| [Bruinoog Blond](https://open.spotify.com/track/2276xEvn3y8SeQ6sUOrGpz) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Bruinoog Blond](https://open.spotify.com/album/4Rn1Rk78r37rPRMnKoDSbI) | 2:57 | 2025-11-27 |  |
+| [Bruinoog Blond](https://open.spotify.com/track/2276xEvn3y8SeQ6sUOrGpz) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Bruinoog Blond](https://open.spotify.com/album/4Rn1Rk78r37rPRMnKoDSbI) | 2:57 | 2025-11-27 | 2026-04-03 |
 | [Buffel Van Buffelsfontein](https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Buffel Van Buffelsfontein](https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z) | 2:56 | 2023-11-30 | 2025-09-16 |
 | [By Die Dam](https://open.spotify.com/track/5e7VN92fFQVhndeT1rXGGB) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [By Die Dam](https://open.spotify.com/album/4vlClvEqxXba4pYE8E2tSZ) | 3:08 | 2024-10-24 | 2025-11-11 |
 | [Carina](https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Carina](https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS) | 3:16 | 2024-08-29 |  |
@@ -84,7 +84,7 @@
 | [Diepseeduiker 17](https://open.spotify.com/track/1eIZwzjI4lB2nRoxO50l4q) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Die Ontdekking](https://open.spotify.com/album/0nUGaOlp2pVhxbTlfKVcLq) | 2:45 | 2025-11-10 | 2025-11-15 |
 | [Diepseeduiker 17](https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Diepseeduiker 17](https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz) | 2:45 | 2024-02-29 |  |
 | [Dieselfde Bly](https://open.spotify.com/track/2dfE8HxGJQv8RRSkyeYJ7G) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Dieselfde Bly](https://open.spotify.com/album/3l6zhVLJs90NyQMa7bHMcv) | 3:39 | 2026-02-05 | 2026-03-27 |
-| [Dik Stukke](https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Dik Stukke](https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy) | 3:07 | 2025-05-08 |  |
+| [Dik Stukke](https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Dik Stukke](https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy) | 3:07 | 2025-05-08 | 2026-04-03 |
 | [Dina](https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:16 | 2023-03-09 | 2024-04-27 |
 | [Dis 'n Vibe](https://open.spotify.com/track/5cM47TXZurGyo8c0JcOJ8v) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Dis 'n Vibe](https://open.spotify.com/album/2Mo2TPvo9aehgvcLdyP67Z) | 3:06 | 2024-07-04 | 2024-12-23 |
 | [Dis Raak](https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Dis Raak](https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1) | 3:33 | 2023-12-21 | 2025-11-11 |
@@ -94,6 +94,7 @@
 | [EEN TWEE](https://open.spotify.com/track/55OBFEGwJ1cR3aaEsSocB2) | [JohnJ](https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [EEN TWEE](https://open.spotify.com/album/3MO3xOBykVnnbqOCXzg1JB) | 2:25 | 2022-07-14 | 2022-10-14 |
 | [Ek Hou Van](https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Ek Hou Van](https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD) | 3:12 | 2025-02-20 | 2025-11-07 |
 | [Ek Kannie](https://open.spotify.com/track/27kbGhN4zhHBbVW7nyamLF) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Ek Kannie](https://open.spotify.com/album/3a1UyyczCmUfkeXObfdnkn) | 3:18 | 2025-08-28 |  |
+| [Ek Kom Jou Haal](https://open.spotify.com/track/2g6m72rfZ7XNIvmeyHBJos) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Ek Kom Jou Haal](https://open.spotify.com/album/2gpH0eRRT7eV3djITMrZAx) | 2:43 | 2026-04-02 |  |
 | [Ek Like Jou](https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Ek Like Jou](https://open.spotify.com/album/4XP2UPBce2DLra8bZ2DXQp) | 3:24 | 2022-09-14 | 2024-10-11 |
 | [Ek Ly Aan](https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Ek Ly Aan](https://open.spotify.com/album/60enOSqxjh06pLpDFRkzD8) | 3:17 | 2023-02-09 | 2023-07-21 |
 | [Ek Moes Ek Wou Ek Sou](https://open.spotify.com/track/4M5ZYtZaATYEjmCY1I78sR) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Ek Moes Ek Wou Ek Sou](https://open.spotify.com/album/4fAIx1F240tedTZvZVouJm) | 3:20 | 2022-05-05 | 2024-04-27 |
@@ -237,6 +238,7 @@
 | [Mia](https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Die Piesangskille](https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC) | 4:06 | 2025-11-06 |  |
 | [Mila](https://open.spotify.com/track/50ZHOPP42jXBg5uMnPHYZY) | [JACOBUS](https://open.spotify.com/artist/24iz20utElKngkNR7P2uBt) | [Mila](https://open.spotify.com/album/4enI5oy6qL2Ibdf96K29vL) | 2:52 | 2026-03-06 |  |
 | [Moegdans](https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Moegdans](https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq) | 3:21 | 2023-09-21 | 2025-09-03 |
+| [Monica](https://open.spotify.com/track/2im5SmQjuHhVcWuo28skZT) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Monica](https://open.spotify.com/album/7v4TqWVYYflWPx5sx52hjQ) | 3:12 | 2026-04-02 |  |
 | [Mooier As Mens](https://open.spotify.com/track/6Sf2Gix8i6F5dppxF4SDsW) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Mooier As Mens](https://open.spotify.com/album/6icQRVPzVaFuFForSooh0L) | 3:31 | 2025-05-15 | 2025-09-19 |
 | [Morsig](https://open.spotify.com/track/2PM1iKRKIz73N0r5wRfl5e) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Morsig](https://open.spotify.com/album/4apOG7LWrQ140OaSwLtWNs) | 3:14 | 2024-09-27 | 2025-06-07 |
 | [My Bra](https://open.spotify.com/track/5aDU1syQZmoTu0aK0Quyg5) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH), [SANFRANDISCO](https://open.spotify.com/artist/0HSdp6iuOI2XqselvVUDur) | [My Bra](https://open.spotify.com/album/4SfoXJXapgh5WDmLRoTaoK) | 3:30 | 2026-01-01 |  |

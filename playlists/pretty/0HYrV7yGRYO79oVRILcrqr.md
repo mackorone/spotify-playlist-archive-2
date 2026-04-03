@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,767 likes - 128 songs - 8 hr 24 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,773 likes - 134 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,11 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 126 | [Big Dick Boogie](https://open.spotify.com/track/76x8P66beazlp4BtXaGXpn) | [Hot Molluscs](https://open.spotify.com/artist/3m3ppkQCBHSbev6IHIG8XY) | [The Smelly Sound of Hot Molluscs](https://open.spotify.com/album/0Tby9AMVwYQoUGY7LpwDaZ) | 1:24 |
 | 127 | [Trouble](https://open.spotify.com/track/4bAbgD2Tv3v1d0fuJNg1ar) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Trouble](https://open.spotify.com/album/766W9V5Bg6ZX5rm46fuVWX) | 4:32 |
 | 128 | [Janet](https://open.spotify.com/track/1JNOovQfkhp3fnB5oodVQv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p) | [Janet](https://open.spotify.com/album/0NrLESS4kSbJR6jcmzgG0Z) | 3:09 |
+| 129 | [Happiness and Being Smart](https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:09 |
+| 130 | [Silver Sun](https://open.spotify.com/track/1SRg1WTKk2Uq8tw0MmgDi2) | [Fish Pond Ponies](https://open.spotify.com/artist/6JDLBZ98LILGDamFL9XE9H) | [Silver Sun](https://open.spotify.com/album/5I4IV0TfzKqZ8TH4BrNAJk) | 2:18 |
+| 131 | [Verso de ilusión](https://open.spotify.com/track/3pdYFEuje4eYU5HGaDqjqQ) | [The Leggins](https://open.spotify.com/artist/4jXFZ6JRHGubqmLubkA2G6) | [La Oportunidad](https://open.spotify.com/album/6yWMiqRtAzV8qsgw9xR0nk) | 4:08 |
+| 132 | [Wilt](https://open.spotify.com/track/0w7KcJg2E5rId9GnWwt9eI) | [Hard Softee](https://open.spotify.com/artist/4F1IzLLPomRL7g3IlrefEy) | [Silent Screams and Little Things](https://open.spotify.com/album/3RxepldlbmSJa3XxKJ7Y52) | 2:50 |
+| 133 | [The Best of Me Belongs to You](https://open.spotify.com/track/311iEqzTpmxHiuyTBiv0hq) | [Lucas Orione](https://open.spotify.com/artist/3zMzklK5gKCsSKLvgDxZee) | [The Best of Me Belongs to You](https://open.spotify.com/album/2ZnfjQwHVqvdzQALylLElI) | 3:42 |
+| 134 | [High and Dry](https://open.spotify.com/track/3XaoMnrPzZUvkI9KBAILE2) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 3:30 |
 
-Snapshot ID: `AAAK+7IDz6aKfYOlNA6SigQdkFtBv0V1`
+Snapshot ID: `AAALAfFeR6Nl2EJIyi6Ih9gSEdvnVFEV`

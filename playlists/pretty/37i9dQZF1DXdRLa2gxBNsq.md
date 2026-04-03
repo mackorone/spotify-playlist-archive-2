@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Eskorbuto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,028 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,037 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 56 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
 | 57 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
 | 58 | [O Mundo Toleou](https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA) | [Residuos Do Sistema](https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo), [Soak](https://open.spotify.com/artist/1sFx9AKYzR2OQYrUin52Pa) | [O Mundo Toleou](https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk) | 3:38 |
-| 59 | [Hipócritas](https://open.spotify.com/track/4JGzUB4flqlW4542UoAkGh) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Hipócritas](https://open.spotify.com/album/4xuB2mtzWogiZaUQ06XITY) | 2:39 |
-| 60 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
-| 61 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
+| 59 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
+| 60 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
+| 61 | [Hipócritas](https://open.spotify.com/track/4JGzUB4flqlW4542UoAkGh) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Hipócritas](https://open.spotify.com/album/4xuB2mtzWogiZaUQ06XITY) | 2:39 |
 | 62 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
 | 63 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
 | 64 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
 | 65 | [TOÑO TERREMOTO](https://open.spotify.com/track/7oO6Fm6D6mdsXi7hyeCyeo) | [Martes Mal](https://open.spotify.com/artist/55kgOTb4zLb5sHTZJ49mVR) | [TOÑO TERREMOTO](https://open.spotify.com/album/5SWQyPTEC4fvg2zQTynhBu) | 2:59 |
-| 66 | [Las Calles Tienen Memoria](https://open.spotify.com/track/5xrwfphFtporIEf0dNcV8c) | [Tiempos de Ira](https://open.spotify.com/artist/25vYjwA9cgXFdERLL1h6vy), [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Las Calles Tienen Memoria](https://open.spotify.com/album/3UkeWshRdY8sX78tSQI8Xi) | 3:10 |
-| 67 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 66 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 67 | [Las Calles Tienen Memoria](https://open.spotify.com/track/5xrwfphFtporIEf0dNcV8c) | [Tiempos de Ira](https://open.spotify.com/artist/25vYjwA9cgXFdERLL1h6vy), [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Las Calles Tienen Memoria](https://open.spotify.com/album/3UkeWshRdY8sX78tSQI8Xi) | 3:10 |
 | 68 | [A Por Ellos \- Canción Hiriente \- En Directo](https://open.spotify.com/track/0mpcVrpKO92V7Miy3ejdbe) | [Yeska](https://open.spotify.com/artist/745VrAQSrPtpBc7rIOQ5J1) | [A Por Ellos \- Canción Hiriente \(En Directo\)](https://open.spotify.com/album/5dONQEWPZXmz5sbLnGCaYn) | 3:10 |
 | 69 | [Prohibido Prohibir](https://open.spotify.com/track/28EOznAk1sIbb1C82N52BQ) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ), [Fernando Reincidentes](https://open.spotify.com/artist/4189x5Md7w8lVuQPOFi1K5), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [Prohibido Prohibir](https://open.spotify.com/album/3PvwXmZiRPAyYSq1IbBW12) | 3:41 |
 | 70 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |

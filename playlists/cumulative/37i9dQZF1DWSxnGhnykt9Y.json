@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 145200,
       "name": "Gimme Ur Luv",
       "url": "https://open.spotify.com/track/41Y4HI6j3MO763wGudQtAP"
@@ -2701,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5tL0Es1QypmSnTCRzx0SPJ"
+      },
+      "artists": [
+        {
+          "name": "Charmaine 'L A",
+          "url": "https://open.spotify.com/artist/0XbOSZeNvIJbqZrgdKypsP"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1jEFxzaf8WWPcNrmU96gVN"
+    },
+    {
+      "album": {
         "name": "Most Wanted",
         "url": "https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge"
       },
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 207455,
       "name": "Pour Some More",
       "url": "https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a"
@@ -4238,6 +4256,24 @@
       "duration_ms": 157808,
       "name": "Temperature (E Dey Hot)",
       "url": "https://open.spotify.com/track/0o2Hm5xDGCjsboek8TOFDC"
+    },
+    {
+      "album": {
+        "name": "Farm Julia",
+        "url": "https://open.spotify.com/album/1rredyCC7vDRBE3wxb153V"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290909,
+      "name": "Thobela",
+      "url": "https://open.spotify.com/track/2nbIOACMsrzwJRffLmysWa"
     },
     {
       "album": {

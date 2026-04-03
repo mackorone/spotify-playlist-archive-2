@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 130040,
+  "num_followers": 130037,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Heaven Scent",
-        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
-      },
-      "artists": [
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        },
-        {
-          "name": "Chloe Sevigny",
-          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
-        }
-      ],
-      "duration_ms": 283424,
-      "name": "Heaven Scent",
-      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Heaven Scent",
+        "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        },
+        {
+          "name": "Chloe Sevigny",
+          "url": "https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG"
+        }
+      ],
+      "duration_ms": 283424,
+      "name": "Heaven Scent",
+      "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
     },
     {
-      "added_at": "2025-12-18 13:00:08",
-      "album": {
-        "name": "132 TECHNO",
-        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 334584,
-      "name": "132 TECHNO",
-      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
-    },
-    {
       "added_at": "2025-10-16 13:00:01",
       "album": {
         "name": "Cascade",
@@ -827,6 +811,22 @@
       "duration_ms": 170909,
       "name": "Badder",
       "url": "https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v"
+    },
+    {
+      "added_at": "2025-12-18 13:00:08",
+      "album": {
+        "name": "132 TECHNO",
+        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 334584,
+      "name": "132 TECHNO",
+      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD"
     },
     {
-      "added_at": "2026-02-19 13:00:29",
-      "album": {
-        "name": "Shellerz Volume One",
-        "url": "https://open.spotify.com/album/3YbE8A7z6u1qtAXJRj8jbZ"
-      },
-      "artists": [
-        {
-          "name": "4K",
-          "url": "https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP"
-        }
-      ],
-      "duration_ms": 270344,
-      "name": "Murda Style",
-      "url": "https://open.spotify.com/track/3CfXDUYPtL6UWgLf5UES2R"
-    },
-    {
       "added_at": "2025-10-16 13:00:01",
       "album": {
         "name": "Who Are They?",
@@ -911,6 +895,22 @@
       "duration_ms": 294339,
       "name": "Who Are They?",
       "url": "https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2"
+    },
+    {
+      "added_at": "2026-02-19 13:00:29",
+      "album": {
+        "name": "Shellerz Volume One",
+        "url": "https://open.spotify.com/album/3YbE8A7z6u1qtAXJRj8jbZ"
+      },
+      "artists": [
+        {
+          "name": "4K",
+          "url": "https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP"
+        }
+      ],
+      "duration_ms": 270344,
+      "name": "Murda Style",
+      "url": "https://open.spotify.com/track/3CfXDUYPtL6UWgLf5UES2R"
     },
     {
       "added_at": "2025-10-16 13:00:01",

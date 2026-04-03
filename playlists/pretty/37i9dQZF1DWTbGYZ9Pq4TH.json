@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 187258,
+  "num_followers": 187251,
   "original_name": "San Valentino 2026",
   "owner": {
     "name": "Spotify",
@@ -95,18 +95,18 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Io Non So Parlar D'Amore",
-        "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
       "artists": [
         {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
         }
       ],
-      "duration_ms": 247533,
-      "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
-      "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
+      "duration_ms": 236417,
+      "name": "Pastello Bianco",
+      "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -151,18 +151,18 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+        "name": "Io Non So Parlar D'Amore",
+        "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
         }
       ],
-      "duration_ms": 236417,
-      "name": "Pastello Bianco",
-      "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
+      "duration_ms": 247533,
+      "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
+      "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Buoni O Cattivi (Remastered 2017)",
-        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "E...",
-      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
@@ -451,22 +435,18 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+        "name": "Buoni O Cattivi (Remastered 2017)",
+        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
       },
       "artists": [
         {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Margarita (con Marracash)",
-      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
+      "duration_ms": 209093,
+      "name": "E...",
+      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -487,6 +467,26 @@
       "duration_ms": 249417,
       "name": "Questa nostra stupida canzone d'amore",
       "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Margarita (con Marracash)",
+      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -539,26 +539,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Brividi",
-        "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
-      },
-      "artists": [
-        {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        },
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Brividi",
-      "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "Canzoni",
         "url": "https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs"
       },
@@ -579,18 +559,22 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Splende",
-        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
+        "name": "Brividi",
+        "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
       },
       "artists": [
         {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 211093,
-      "name": "Una finestra tra le stelle",
-      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
+      "duration_ms": 199146,
+      "name": "Brividi",
+      "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -615,6 +599,22 @@
       "duration_ms": 237613,
       "name": "LA CANZONE NOSTRA \u27c1 \ufe0e(con BLANCO & SALMO)",
       "url": "https://open.spotify.com/track/7rTcFU742aPIjmxwEnp7uh"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "Splende",
+        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Una finestra tra le stelle",
+      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "L'amore \u00e8",
-        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
-      },
-      "artists": [
-        {
-          "name": "Enrico Nigiotti",
-          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "L'amore \u00e8",
-      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "\u00c8 sempre bello",
         "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 201546,
       "name": "Domenica",
       "url": "https://open.spotify.com/track/7qtE9zyA03AewO2GcRWVPA"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "L'amore \u00e8",
+        "url": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1"
+      },
+      "artists": [
+        {
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "L'amore \u00e8",
+      "url": "https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Bagus",
-        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Vieni A Vedere Perch\u00e8",
-      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "Lucio Dalla",
         "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 221093,
       "name": "Anna E Marco",
       "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "Bagus",
+        "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Vieni A Vedere Perch\u00e8",
+      "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Sopravvissuti e sopravviventi (2009 Remaster)",
-        "url": "https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt"
-      },
-      "artists": [
-        {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
-        }
-      ],
-      "duration_ms": 286146,
-      "name": "Ho messo via",
-      "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "Odissea",
         "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 270003,
       "name": "Oro",
       "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "Sopravvissuti e sopravviventi (2009 Remaster)",
+        "url": "https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt"
+      },
+      "artists": [
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Ho messo via",
+      "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Anima",
-        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
-      },
-      "artists": [
-        {
-          "name": "Riccardo Cocciante",
-          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
-        }
-      ],
-      "duration_ms": 274973,
-      "name": "Bella senz'anima",
-      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "Possibili Scenari",
         "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 284480,
       "name": "Nessuno Vuole Essere Robin",
       "url": "https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Cocciante",
+          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Bella senz'anima",
+      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Albachiara",
-        "url": "https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Albachiara",
-      "url": "https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "Appena prima di partire",
         "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 223053,
       "name": "Svegliarsi la mattina",
       "url": "https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "Albachiara",
+        "url": "https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Albachiara",
+      "url": "https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
+        "name": "Nome e cognome [Remastered Version]",
+        "url": "https://open.spotify.com/album/4ykRF2gZsuZmUVBeVMFnnT"
+      },
+      "artists": [
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "L'amore conta",
+      "url": "https://open.spotify.com/track/1ms3QC6CO8vN4100SgrG70"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
         "name": "TANGO",
         "url": "https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Nome e cognome [Remastered Version]",
-        "url": "https://open.spotify.com/album/4ykRF2gZsuZmUVBeVMFnnT"
+        "name": "Tempo Reale Extra",
+        "url": "https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi"
       },
       "artists": [
         {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+          "name": "Francesco Renga",
+          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
         }
       ],
-      "duration_ms": 263173,
-      "name": "L'amore conta",
-      "url": "https://open.spotify.com/track/1ms3QC6CO8vN4100SgrG70"
+      "duration_ms": 217640,
+      "name": "Il mio giorno pi\u00f9 bello nel mondo",
+      "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -1407,22 +1423,6 @@
       "duration_ms": 203133,
       "name": "Tikibombom",
       "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
-        "name": "Tempo Reale Extra",
-        "url": "https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi"
-      },
-      "artists": [
-        {
-          "name": "Francesco Renga",
-          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Il mio giorno pi\u00f9 bello nel mondo",
-      "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "Essere Qui",
-        "url": "https://open.spotify.com/album/4eN5SrtLrerdQsvFIo95N9"
-      },
-      "artists": [
-        {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
-        }
-      ],
-      "duration_ms": 204003,
-      "name": "Mi Parli Piano",
-      "url": "https://open.spotify.com/track/6XRe4ft04Skbpbz3TwsenD"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "Gira, il mondo gira",
         "url": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 166791,
       "name": "Polvere",
       "url": "https://open.spotify.com/track/4BtXn7gvRgO2fFn3N7V6xP"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "Essere Qui",
+        "url": "https://open.spotify.com/album/4eN5SrtLrerdQsvFIo95N9"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "duration_ms": 204003,
+      "name": "Mi Parli Piano",
+      "url": "https://open.spotify.com/track/6XRe4ft04Skbpbz3TwsenD"
     },
     {
       "added_at": "2026-02-12 16:19:36",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-02-12 16:19:36",
       "album": {
-        "name": "La Vasca",
-        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "Una Su 1.000.000",
-      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
-    },
-    {
-      "added_at": "2026-02-12 16:19:36",
-      "album": {
         "name": "Bruciasse Il Cielo",
         "url": "https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 237606,
       "name": "Bruciasse Il Cielo",
       "url": "https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y"
+    },
+    {
+      "added_at": "2026-02-12 16:19:36",
+      "album": {
+        "name": "La Vasca",
+        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
+      },
+      "artists": [
+        {
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "Una Su 1.000.000",
+      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
     },
     {
       "added_at": "2026-02-12 16:19:36",

@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 170135,
+  "num_followers": 170175,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Lo logre",
-        "url": "https://open.spotify.com/album/6YqUR5CZ41mFCMDQd2E3a4"
-      },
-      "artists": [
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        }
-      ],
-      "duration_ms": 194078,
-      "name": "Lo logre",
-      "url": "https://open.spotify.com/track/5VCwxSMbHdXr22LxROFgyA"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -111,18 +95,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Ay Mamita",
-        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
+        "name": "Lo logre",
+        "url": "https://open.spotify.com/album/6YqUR5CZ41mFCMDQd2E3a4"
       },
       "artists": [
         {
-          "name": "Alan Arrieta",
-          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Ay Mamita",
-      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
+      "duration_ms": 194078,
+      "name": "Lo logre",
+      "url": "https://open.spotify.com/track/5VCwxSMbHdXr22LxROFgyA"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -143,6 +127,22 @@
       "duration_ms": 168230,
       "name": "Punta Cana",
       "url": "https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Ay Mamita",
+        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
+      },
+      "artists": [
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Ay Mamita",
+      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -467,18 +467,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "WEEKND",
-        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
       "artists": [
         {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
         }
       ],
-      "duration_ms": 203333,
-      "name": "WEEKND",
-      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
+      "duration_ms": 181200,
+      "name": "BOBOMENSOTONTO",
+      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -515,22 +519,42 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+        "name": "WEEKND",
+        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
         }
       ],
-      "duration_ms": 181200,
-      "name": "BOBOMENSOTONTO",
-      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
+      "duration_ms": 203333,
+      "name": "WEEKND",
+      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "TOMORROWLAND",
+        "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 185511,
+      "name": "TOMORROWLAND",
+      "url": "https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -563,26 +587,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "TOMORROWLAND",
-        "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
+        "name": "LOVELANGUAGE",
+        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 185511,
-      "name": "TOMORROWLAND",
-      "url": "https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N"
+      "duration_ms": 224761,
+      "name": "LOVELANGUAGE",
+      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -619,22 +635,6 @@
       "duration_ms": 193421,
       "name": "Desde Cero (feat. Santa Fe Klan)",
       "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "LOVELANGUAGE",
-        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "LOVELANGUAGE",
-      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Braille EP",
-        "url": "https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Sopa de Letritas",
-      "url": "https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Los Ni\u00f1os De La Batea",
         "url": "https://open.spotify.com/album/0xCVXdCUcfUjVobRqtf0qg"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 188601,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/5a4o64swsJSRqlGbhcgIHB"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Braille EP",
+        "url": "https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Sopa de Letritas",
+      "url": "https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 201538,
+      "name": "Cumbia Lunera",
+      "url": "https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Lento y Bajate",
         "url": "https://open.spotify.com/album/1IUbPwspn9MznXqU4AgaNI"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 201538,
-      "name": "Cumbia Lunera",
-      "url": "https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "De La Calle Pa Tu Cora",
         "url": "https://open.spotify.com/album/3UXH6Yk3zm7s87fXASKvnV"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 189268,
       "name": "Mi Bebesita",
       "url": "https://open.spotify.com/track/0MLrtHu0ymaxaV6NEappv8"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "donde qued\u00e9 yo?",
-        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
-      },
-      "artists": [
-        {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
-        }
-      ],
-      "duration_ms": 152721,
-      "name": "lo que no sabes",
-      "url": "https://open.spotify.com/track/2UN7Bjfn8SfWxKB6GkrWmo"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1647,6 +1631,22 @@
       "duration_ms": 190624,
       "name": "Volv\u00ed a Creer",
       "url": "https://open.spotify.com/track/6kgQ28Evmla4TPvdc2D4SO"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "donde qued\u00e9 yo?",
+        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "duration_ms": 152721,
+      "name": "lo que no sabes",
+      "url": "https://open.spotify.com/track/2UN7Bjfn8SfWxKB6GkrWmo"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Adios",
-        "url": "https://open.spotify.com/album/7tgREtNFckExy20QnRUJpF"
-      },
-      "artists": [
-        {
-          "name": "La Marlu",
-          "url": "https://open.spotify.com/artist/6jE6nnMPk3FSA9RBHxYks3"
-        }
-      ],
-      "duration_ms": 204107,
-      "name": "Adios",
-      "url": "https://open.spotify.com/track/6fkxCIVDhGYuQfZO6f4PtW"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 230730,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/2YPUSBvQwfFgfe6aIsW69j"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Adios",
+        "url": "https://open.spotify.com/album/7tgREtNFckExy20QnRUJpF"
+      },
+      "artists": [
+        {
+          "name": "La Marlu",
+          "url": "https://open.spotify.com/artist/6jE6nnMPk3FSA9RBHxYks3"
+        }
+      ],
+      "duration_ms": 204107,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/6fkxCIVDhGYuQfZO6f4PtW"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "La Fiesta De Mi Rancho",
-        "url": "https://open.spotify.com/album/2ovNmdZGjk2mUshX3ksLWR"
-      },
-      "artists": [
-        {
-          "name": "Monir Bautista",
-          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
-        }
-      ],
-      "duration_ms": 156659,
-      "name": "La Fiesta De Mi Rancho",
-      "url": "https://open.spotify.com/track/3sTzAbbRNLFBcAirOxYZBb"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Scratch De Versos",
         "url": "https://open.spotify.com/album/7sRbfBmwb0jFdmyUJEJh28"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 259090,
       "name": "99,99%",
       "url": "https://open.spotify.com/track/1YsHWGRvwLhJZ3wJgx9JrB"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "La Fiesta De Mi Rancho",
+        "url": "https://open.spotify.com/album/2ovNmdZGjk2mUshX3ksLWR"
+      },
+      "artists": [
+        {
+          "name": "Monir Bautista",
+          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
+        }
+      ],
+      "duration_ms": 156659,
+      "name": "La Fiesta De Mi Rancho",
+      "url": "https://open.spotify.com/track/3sTzAbbRNLFBcAirOxYZBb"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Talento de Vida",
-        "url": "https://open.spotify.com/album/2pvr1DnmS01brEuyN0iNgd"
-      },
-      "artists": [
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 188089,
-      "name": "Mi Kryptonita",
-      "url": "https://open.spotify.com/track/5DBoa0YTjE7xXAK1S2C2X3"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Venimi",
         "url": "https://open.spotify.com/album/4dnFRlboe1Wj7k2AeE50pp"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 120000,
       "name": "Venimi",
       "url": "https://open.spotify.com/track/0faGhdyDvoqG38vhaHjl3E"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Talento de Vida",
+        "url": "https://open.spotify.com/album/2pvr1DnmS01brEuyN0iNgd"
+      },
+      "artists": [
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "duration_ms": 188089,
+      "name": "Mi Kryptonita",
+      "url": "https://open.spotify.com/track/5DBoa0YTjE7xXAK1S2C2X3"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2347,18 +2347,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Bengala",
-        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
+        "name": "Camila Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
       },
       "artists": [
         {
-          "name": "Bengala",
-          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 187600,
-      "name": "Miente",
-      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
+      "duration_ms": 177800,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/4e3o6V532LdEuBtr3WEPDQ"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2379,6 +2379,22 @@
       "duration_ms": 184736,
       "name": "24/7",
       "url": "https://open.spotify.com/track/4K4ks2NpTorYdGIitosc5U"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Bengala",
+        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
+      },
+      "artists": [
+        {
+          "name": "Bengala",
+          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Miente",
+      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2415,22 +2431,6 @@
       "duration_ms": 142500,
       "name": "Prom",
       "url": "https://open.spotify.com/track/0fcSrSjsn3davHBci18iT0"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Camila Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177800,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/4e3o6V532LdEuBtr3WEPDQ"
     },
     {
       "added_at": "2025-11-09 06:50:57",

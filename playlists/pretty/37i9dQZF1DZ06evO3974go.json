@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAABRbTMNcHzSndcJYVpl2KAD",
+  "snapshot_id": "acxgAAAAAAAY4l2rWwLiCXQYfE/aiJ74",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 227194,
+      "name": "I F*ck Wit You Girl",
+      "url": "https://open.spotify.com/track/2u2fseIt359oKZoq6TxM6C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luca Brasi 2: Gangsta Grillz",
         "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 191532,
       "name": "Word Around Town (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 227194,
-      "name": "I F*ck Wit You Girl",
-      "url": "https://open.spotify.com/track/2u2fseIt359oKZoq6TxM6C"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family & Mula",
-        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Risk Takers",
-      "url": "https://open.spotify.com/track/2MamyTCQ8NxwdXDuAuleWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 209523,
       "name": "WWYD",
       "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family & Mula",
+        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Risk Takers",
+      "url": "https://open.spotify.com/track/2MamyTCQ8NxwdXDuAuleWJ"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Get TF Out My Face (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 281704,
       "name": "No Way",
       "url": "https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "Get TF Out My Face (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 253452,
+      "name": "RedBone",
+      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 214935,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6DBEM7SPgNvLTDowgmxvwN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 253452,
-      "name": "RedBone",
-      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Sayin' (feat. Rich Homie Quan)",
-        "url": "https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "I'm Sayin' (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life After Fame",
         "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 164622,
       "name": "Rich Homie Quando (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Sayin' (feat. Rich Homie Quan)",
+        "url": "https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "I'm Sayin' (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich As In Spirit",
-        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
+        "name": "Song Cry",
+        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 214947,
-      "name": "Perfect Flower",
-      "url": "https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a"
+      "duration_ms": 169880,
+      "name": "Song Cry",
+      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
       "duration_ms": 162246,
       "name": "Gamble",
       "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rich As In Spirit",
+        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 214947,
+      "name": "Perfect Flower",
+      "url": "https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
       "duration_ms": 247384,
       "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
       "url": "https://open.spotify.com/track/3vk2vqP66qXKYoC5NU4qtO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Song Cry",
-        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 169880,
-      "name": "Song Cry",
-      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "Celebrate (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RG2",
         "url": "https://open.spotify.com/album/2ppw6DFuPFHi4EOGLxHX2F"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 240801,
       "name": "Up Up And Away",
       "url": "https://open.spotify.com/track/2VBerpaTuZ0WXBREhe5eYw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "Celebrate (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
     }
   ],
   "unique_name": "This Is Rich Homie Quan",

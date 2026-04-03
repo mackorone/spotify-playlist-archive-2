@@ -4,7 +4,7 @@
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-84 songs - 4 hr 29 min
+85 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Joep Beving: Etude](https://open.spotify.com/track/6wovdUcRwvVGe9gNuKjrcW) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Joep Beving: Etude](https://open.spotify.com/album/1dS6tP3LX5ANZPKwVXKJ5J) | 4:03 | 2025-10-16 |  |
 | [Karin's Waltz](https://open.spotify.com/track/4q05G5FQBU7qovLEytLPVW) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Burn All My Letters \(Music For The Motion Picture\)](https://open.spotify.com/album/4s74o7LCNdEwByMWGM5XAH) | 1:10 | 2025-10-16 |  |
 | [La Vie](https://open.spotify.com/track/5Hn2dUqSBV79DHbMuHI11h) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 4:20 | 2025-10-16 |  |
+| [Law of One](https://open.spotify.com/track/6F49Fonv14f9GaCLCmLNk3) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 5:39 | 2026-04-02 |  |
 | [Like an Open Book](https://open.spotify.com/track/7FhgcPqNKXfzCkyiR2Tq4O) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Like an Open Book](https://open.spotify.com/album/2uqm3Wad4JnBQ5XVuWrUzO) | 2:11 | 2025-10-16 |  |
 | [Liszt: 3 Liebesträume, S\. 541: No\. 3 in A\-Flat Major](https://open.spotify.com/track/0d3UgGJN10zuitT3m1fJ23) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Martin James Bartlett](https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O) | [Love and Death](https://open.spotify.com/album/4o2cK5PwXRoSVANyPuFSOb) | 4:56 | 2025-10-16 |  |
 | [Liszt: 6 Consolations, S\. 172: No\. 3, Lento placido](https://open.spotify.com/track/6t6NUHnlhN2hWTN2XxqTNA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Mariam Batsashvili](https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci) | [Chopin & Liszt: Piano Works](https://open.spotify.com/album/0RYJ4y07bDSZNkEoXbMSyU) | 3:40 | 2025-10-16 |  |
@@ -82,7 +83,7 @@
 | [Tchaikovsky: The Seasons, Op\. 37a: No\. 6, June\. Barcarolle](https://open.spotify.com/track/4hdKqrctjCvXDSi5ZKDtoC) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Morning Piano \- Tchaikovsky: Barcarolle \(June\)](https://open.spotify.com/album/691vnadLWLRLCjltix7nxn) | 4:18 | 2025-10-16 |  |
 | [The Book of Sounds: Part 10 \(Single Version\)](https://open.spotify.com/track/7c97v6NzryakfMndVbGaGm) | [Hans Otte](https://open.spotify.com/artist/5MS1W3dYe51MSv2tKSwnyt), [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [The Book of Sounds: Part 10](https://open.spotify.com/album/53IAVcLLTi7TL8oOQPnlOi) | 4:31 | 2025-10-16 |  |
 | [The Earth Cries](https://open.spotify.com/track/3kFkE1ZgjbTibr8RdwzuCH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [The Earth Cries](https://open.spotify.com/album/0bMMczD8dDDD4RdH9yTqfh) | 2:06 | 2025-10-16 |  |
-| [The youth in me](https://open.spotify.com/track/11mQ8chWxC1fIbtFw8uxgi) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [The youth in me](https://open.spotify.com/album/4OjN9UkitFZyAy9vIf6Ene) | 2:22 | 2025-10-16 |  |
+| [The youth in me](https://open.spotify.com/track/11mQ8chWxC1fIbtFw8uxgi) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [The youth in me](https://open.spotify.com/album/4OjN9UkitFZyAy9vIf6Ene) | 2:22 | 2025-10-16 | 2026-04-03 |
 | [Truth And Context](https://open.spotify.com/track/1OQUnqwqgYCLVloQM1XqNG) | [Michel Haspeslagh](https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl) | [Truth And Context](https://open.spotify.com/album/20IbKSpf5XNPuNmEyKlSbZ) | 2:18 | 2025-10-16 |  |
 | [Ukiyo](https://open.spotify.com/track/1w1vmGM5nzNsQviR9dC4Sc) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:55 | 2025-10-16 |  |
 | [Unexpected](https://open.spotify.com/track/0m9fzwrmYsjUVMjHuyk3tX) | [YARA](https://open.spotify.com/artist/0g3UV4KTsBXySBgxKtNUFG) | [Unexpected](https://open.spotify.com/album/3Xpv1qcWUSIs0bnCjrDz0Q) | 3:38 | 2025-10-16 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "A tua alternativa ao mainstream. Os \u00faltimos concertos europeus do MARO acontecem em Portugal esta semana.",
+  "description": "A tua alternativa ao mainstream. Foto: Ravyn Lenae, Dominic Fike",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 144787,
       "name": "6 (O Meu Sangue)",
       "url": "https://open.spotify.com/track/4unP9bGmcZYsRRCGJTPmyu"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 184761,
       "name": "Back Again",
       "url": "https://open.spotify.com/track/45LINu0RLccmLrkAMGqg9S"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 243203,
       "name": "Can we talk about Isaac?",
       "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 123119,
       "name": "Cartas",
       "url": "https://open.spotify.com/track/1FI2DJdGaw1xDAEQHBdiga"
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 196697,
       "name": "Hemingway",
       "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
@@ -6203,6 +6203,24 @@
     },
     {
       "album": {
+        "name": "Capotar",
+        "url": "https://open.spotify.com/album/3VJ2BDlCczsO2nFhhQTzIs"
+      },
+      "artists": [
+        {
+          "name": "Francisco Fontes",
+          "url": "https://open.spotify.com/artist/0FB8swkT77YbxyQssm4xcZ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273362,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/5Mh3H6N5dBXpAGJHfpPIcy"
+    },
+    {
+      "album": {
         "name": "priva",
         "url": "https://open.spotify.com/album/36LChvzBcAq0KP9zCZGC31"
       },
@@ -6476,6 +6494,28 @@
       "duration_ms": 244525,
       "name": "Rendez-vous",
       "url": "https://open.spotify.com/track/550dDj1ZjfEEOmcOH1P1EN"
+    },
+    {
+      "album": {
+        "name": "Reputation (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
     },
     {
       "album": {
@@ -7197,6 +7237,24 @@
     },
     {
       "album": {
+        "name": "Sungazer",
+        "url": "https://open.spotify.com/album/4Bl9c6aAUaDPLRYrf3fiDI"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274476,
+      "name": "Sungazer",
+      "url": "https://open.spotify.com/track/504TpZVrxvCzC9Cy15jMti"
+    },
+    {
+      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
       },
@@ -7788,6 +7846,24 @@
       "duration_ms": 202973,
       "name": "The Treadmill",
       "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
+    },
+    {
+      "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "album": {
@@ -8404,7 +8480,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 209839,
       "name": "Vento Dentro de Casa",
       "url": "https://open.spotify.com/track/0K8HL5zq7JAwzUO0MzjXh2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Statzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,530 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,533 likes - 99 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 39 | [Évidence](https://open.spotify.com/track/74EcXWL1fiAUU26NbL3kJO) | [Geneviève RB](https://open.spotify.com/artist/3j4mW87ogAvFyQHLV6q5Wp) | [Revenir](https://open.spotify.com/album/68XTUyyUiHqQWCR8ex0LZv) | 3:16 |
 | 40 | [L'amour des autres](https://open.spotify.com/track/3r4qVYEOtbKCxrkphXpkn6) | [Meloire](https://open.spotify.com/artist/4BTPhFbG3pPr2bUlh1mHAb) | [L'amour des autres](https://open.spotify.com/album/79TGAreNwAsg1UyEeAkXXL) | 3:01 |
 | 41 | [Berceuses](https://open.spotify.com/track/1AOs9id5eQcP0Vea7x1D6t) | [galilée](https://open.spotify.com/artist/5CircD2DiQWV5jLh3HrBdu) | [Berceuses](https://open.spotify.com/album/7eOZI0RkwUaf6wnxxNTISc) | 3:22 |
-| 42 | [Ronnie Kray](https://open.spotify.com/track/3v0SxUb7KgiR65hKRQW1ak) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Ronnie Kray](https://open.spotify.com/album/4KgE0uYQDDCYEpWiL8eL5f) | 3:47 |
+| 42 | [Ronnie Kray](https://open.spotify.com/track/3v0SxUb7KgiR65hKRQW1ak) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Ronnie Kray](https://open.spotify.com/album/4KgE0uYQDDCYEpWiL8eL5f) | 3:46 |
 | 43 | [ELLE VOULAIT](https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [My Eyes Only \- Flashback](https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr) | 2:25 |
 | 44 | [Couteau](https://open.spotify.com/track/3lO4WuWtjZ6xLVReW5zVGg) | [Coco GB](https://open.spotify.com/artist/2tG1f1qMvWtDQ0j1iF18pQ) | [Couteau](https://open.spotify.com/album/38zhpZtdxGevVNQD0uceVs) | 2:40 |
 | 45 | [Panne électrique \- Version piano](https://open.spotify.com/track/7n6ndSC1Y0LRatyupnApF9) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Panne électrique / Not Your Princess \(Versions piano\)](https://open.spotify.com/album/3HaJRUOwXoFjZtO6HFZwUU) | 2:52 |

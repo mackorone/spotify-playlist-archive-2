@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Homegrown emerging pop \ud83c\udf19\ncover: Arthur Hill",
+  "description": "Homegrown emerging pop \u26d3\ufe0f\ncover: Tsatamis",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "American Wedding",
+        "url": "https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191943,
+      "name": "American Wedding",
+      "url": "https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942"
+    },
+    {
+      "album": {
         "name": "And I Spiral",
         "url": "https://open.spotify.com/album/6uFX3cD3ja5L5J5V49qZ9s"
       },
@@ -920,6 +938,24 @@
       "duration_ms": 190477,
       "name": "Angel Blonde (that's life!)",
       "url": "https://open.spotify.com/track/6bjt5POsImUxhxLgt13Oxu"
+    },
+    {
+      "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/200LAacp5mXwgFAr490iKq"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7"
     },
     {
       "album": {
@@ -4293,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Cut In Half",
+        "url": "https://open.spotify.com/album/0LEFdPWcty1wzOYTBebazM"
+      },
+      "artists": [
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Cut In Half",
+      "url": "https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53"
+    },
+    {
+      "album": {
         "name": "CUT IT OFF!",
         "url": "https://open.spotify.com/album/3IIyOoNvKVHS2FpweEmMKj"
       },
@@ -5003,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Dog years",
+        "url": "https://open.spotify.com/album/4WBt2rXMjOVbRJqwPKd6ys"
+      },
+      "artists": [
+        {
+          "name": "Aidan Jones",
+          "url": "https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150989,
+      "name": "Dog years",
+      "url": "https://open.spotify.com/track/2Rl6Kr1Mvp709lU1dkp4ew"
+    },
+    {
+      "album": {
         "name": "Late to the Party",
         "url": "https://open.spotify.com/album/55sn9OWifVLJQ2EypeYPri"
       },
@@ -5302,7 +5374,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 213887,
       "name": "DON\u2019T YOU SEE ME TRYING?",
       "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
@@ -8029,6 +8101,24 @@
     },
     {
       "album": {
+        "name": "HEARD YOU CRY",
+        "url": "https://open.spotify.com/album/0YzfyD0IpXS269vSf9zjTF"
+      },
+      "artists": [
+        {
+          "name": "Alfie Sharp",
+          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217402,
+      "name": "HEARD YOU CRY",
+      "url": "https://open.spotify.com/track/7p58Izemdrh02bOQ5o3Lx0"
+    },
+    {
+      "album": {
         "name": "Pivotal",
         "url": "https://open.spotify.com/album/5NBU8i7ZFGBlGbv9WaRMNq"
       },
@@ -8408,6 +8498,24 @@
       "duration_ms": 216842,
       "name": "Holding You",
       "url": "https://open.spotify.com/track/4KRgeJYNTtXS4tqzZdVGYR"
+    },
+    {
+      "album": {
+        "name": "Holiday Blues",
+        "url": "https://open.spotify.com/album/51sC7Wqr61fGhgwsyLe0RG"
+      },
+      "artists": [
+        {
+          "name": "Poppy Freeley",
+          "url": "https://open.spotify.com/artist/3GJZ85O0PBa9Z01lv8ftMy"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222336,
+      "name": "Holiday Blues",
+      "url": "https://open.spotify.com/track/5IT9R1iTJvl0N3kWSWmBA7"
     },
     {
       "album": {
@@ -9585,6 +9693,24 @@
     },
     {
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/38TVMlo5gi5j2yfX0pJQmL"
+      },
+      "artists": [
+        {
+          "name": "Miles Temp",
+          "url": "https://open.spotify.com/artist/268gIHwMM6Mp2SG0CEZGuU"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150610,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/0Q1GO03eIfLyvzOtpo6kT6"
+    },
+    {
+      "album": {
         "name": "indigo",
         "url": "https://open.spotify.com/album/4yLxah6bVH2WO45nBfulgD"
       },
@@ -9938,7 +10064,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 223346,
       "name": "Jessica",
       "url": "https://open.spotify.com/track/2zbXgzUFZL6xb8mX3h9Ozt"
@@ -10590,7 +10716,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 162412,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/3RH8lBYK7rpmRmyYY79t0J"
@@ -10723,6 +10849,24 @@
     },
     {
       "album": {
+        "name": "London",
+        "url": "https://open.spotify.com/album/3f0PVlrT754wlLh7RJ4zxc"
+      },
+      "artists": [
+        {
+          "name": "Rachel Leo",
+          "url": "https://open.spotify.com/artist/7nvGqdG2C213Fb4ItZyxuQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203730,
+      "name": "London",
+      "url": "https://open.spotify.com/track/6Og1pgacDVVAm2xC5N9yeb"
+    },
+    {
+      "album": {
         "name": "Long Time Coming",
         "url": "https://open.spotify.com/album/5ystHj82LhMaGTYuLRp3Uu"
       },
@@ -10792,6 +10936,24 @@
       "duration_ms": 186998,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/6soowAK2q88ThzrteFWCvs"
+    },
+    {
+      "album": {
+        "name": "Lost In Your Blues",
+        "url": "https://open.spotify.com/album/0B0TyWChnMZqsvYUxGbpeg"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168758,
+      "name": "Lost In Your Blues",
+      "url": "https://open.spotify.com/track/6IROP7Z00gxFrJvKHwE1uS"
     },
     {
       "album": {
@@ -13608,7 +13770,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 184637,
       "name": "Playground",
       "url": "https://open.spotify.com/track/1N2Y3HX9WzHPS8gjcYifQK"
@@ -14588,7 +14750,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 172479,
       "name": "Romantic Sadness",
       "url": "https://open.spotify.com/track/50yfmUOxiMOCV3ybCsQpi2"
@@ -15770,7 +15932,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 208107,
       "name": "Sleep Tonight",
       "url": "https://open.spotify.com/track/3KUZ67LJ8PBbffnGaDrKt4"
@@ -16112,7 +16274,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 171573,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2WqlA3WSTkXW9ao4pn1PS7"
@@ -16224,7 +16386,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 149344,
       "name": "Spit or Kiss",
       "url": "https://open.spotify.com/track/7jWCMlmyn42w3Excc4apGd"
@@ -16246,6 +16408,24 @@
       "duration_ms": 187906,
       "name": "Square One",
       "url": "https://open.spotify.com/track/4GqcSkhfQYgU6Pqt4A8bKm"
+    },
+    {
+      "album": {
+        "name": "Squirm",
+        "url": "https://open.spotify.com/album/2Bo5aIgc7CztAnB1mqyPyA"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148162,
+      "name": "Squirm",
+      "url": "https://open.spotify.com/track/1C5whO9ggWKJGkcI93Cizs"
     },
     {
       "album": {
@@ -18638,7 +18818,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 176828,
       "name": "Walk",
       "url": "https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1"
@@ -18998,7 +19178,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 193493,
       "name": "Wild Horse",
       "url": "https://open.spotify.com/track/5Mt7Sm7sadazfiQxSS2BzP"

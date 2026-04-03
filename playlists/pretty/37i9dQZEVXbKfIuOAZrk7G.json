@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Canada.",
-  "num_followers": 55151,
+  "num_followers": 55153,
   "original_name": "Viral 50 - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MWCDGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MWHUmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Doomed",
         "url": "https://open.spotify.com/album/70K5kRPiCNeGbz3kPS8yk7"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5mkaAyZacFyGg92OBP2wA0"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/0GJy6sx1TeHuniepvbrk6Y"
@@ -41,15 +41,15 @@
       "url": "https://open.spotify.com/track/70HMyw5ZheaR4bxu6E7SSS"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "When I Stand",
         "url": "https://open.spotify.com/album/1ZZnKO1LCDBxjqdJ5n4EvT"
       },
       "artists": [
         {
-          "name": "Owen James",
-          "url": "https://open.spotify.com/artist/6kqeHxe4IG1RCR15nMT34L"
+          "name": "Owen Jamesline",
+          "url": "https://open.spotify.com/artist/5iEVkeKcFoK7mx6CdVjb4w"
         }
       ],
       "duration_ms": 199720,
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1GdddKSMtXbKovNOwlgGXd"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Freakin\u2019 Out",
         "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
@@ -73,55 +73,7 @@
       "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "We Run",
-        "url": "https://open.spotify.com/album/5U0ILMp243WIMY4dTX9MPO"
-      },
-      "artists": [
-        {
-          "name": "Small Town Kid",
-          "url": "https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql"
-        }
-      ],
-      "duration_ms": 162946,
-      "name": "We Run",
-      "url": "https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "Bairan",
-        "url": "https://open.spotify.com/album/3ZIsrV7xUXWX4tR0vk1CGF"
-      },
-      "artists": [
-        {
-          "name": "Banjaare",
-          "url": "https://open.spotify.com/artist/7IbxsPdlYelceWNyHAor55"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Bairan",
-      "url": "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Jane!",
         "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
@@ -137,7 +89,55 @@
       "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "We Run",
+        "url": "https://open.spotify.com/album/5U0ILMp243WIMY4dTX9MPO"
+      },
+      "artists": [
+        {
+          "name": "Small Town Kid",
+          "url": "https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql"
+        }
+      ],
+      "duration_ms": 162946,
+      "name": "We Run",
+      "url": "https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "Bairan",
+        "url": "https://open.spotify.com/album/3ZIsrV7xUXWX4tR0vk1CGF"
+      },
+      "artists": [
+        {
+          "name": "Banjaare",
+          "url": "https://open.spotify.com/artist/7IbxsPdlYelceWNyHAor55"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Bairan",
+      "url": "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Queen St",
         "url": "https://open.spotify.com/album/5AFbRTavGTeT3M4azCIybO"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6o86CKQQc85ql8pMHrvJpo"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "LOVE CATCHER",
         "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Fabienk",
         "url": "https://open.spotify.com/album/3K7nUC1QKBJi7iB9VSX9GZ"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/4UXwfhy8RTOcH0QWJF8SMg"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "NOBLE",
         "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Dry Spell",
         "url": "https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Vol.1",
         "url": "https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn"
@@ -249,23 +249,7 @@
       "url": "https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "White Trails (Expanded)",
         "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
@@ -281,7 +265,23 @@
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "ALWAYS LET YOU DOWN (feat. A Day To Remember)",
         "url": "https://open.spotify.com/album/11qgjRUBFe0yAR47559uaU"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/2QkboO9FsC9Z2ogQPjDb30"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Cicada",
         "url": "https://open.spotify.com/album/5axnyPxOLswnEDZS40YMXC"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/1wCD215s6KtEg5PjXnCRej"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Talk To You",
         "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
@@ -389,39 +389,7 @@
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "Hanging on Hope",
-        "url": "https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 223939,
-      "name": "Hanging on Hope",
-      "url": "https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "Porch Light",
-        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 262726,
-      "name": "Porch Light",
-      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Going Normal",
         "url": "https://open.spotify.com/album/79TP0nVbW71q4zYVeqrd7a"
@@ -437,27 +405,23 @@
       "url": "https://open.spotify.com/track/33YkiqLWsxzZdi8Z1AKyIk"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
-        "name": "Trying Times",
-        "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 197311,
-      "name": "Doesn't Just Happen",
-      "url": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe"
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Bazooka",
         "url": "https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L"
@@ -473,7 +437,39 @@
       "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "Hanging on Hope",
+        "url": "https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 223939,
+      "name": "Hanging on Hope",
+      "url": "https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "Motion Party",
+        "url": "https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 95840,
+      "name": "Motion Party",
+      "url": "https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
@@ -493,75 +489,27 @@
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
-        "name": "Need it Bad (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
       },
       "artists": [
         {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         },
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 187096,
-      "name": "Need it Bad (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
+      "duration_ms": 197311,
+      "name": "Doesn't Just Happen",
+      "url": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "Motion Party",
-        "url": "https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        }
-      ],
-      "duration_ms": 95840,
-      "name": "Motion Party",
-      "url": "https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "The Visitor",
-        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 228908,
-      "name": "The Visitor",
-      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/556UTItUBqXnwhnRq56JpB"
-      },
-      "artists": [
-        {
-          "name": "MIND",
-          "url": "https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5"
-        }
-      ],
-      "duration_ms": 284784,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/06fqBUtCFsSomwcG1Mvgzr"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
@@ -581,39 +529,59 @@
       "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe"
+        "name": "Need it Bad (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
       },
       "artists": [
         {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 163874,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
+      "duration_ms": 187096,
+      "name": "Need it Bad (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
-        "name": "SRT FULL NWAR",
-        "url": "https://open.spotify.com/album/10S8OLvQhSmtF2tmk5Nr0g"
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
       },
       "artists": [
         {
-          "name": "MINUISKI",
-          "url": "https://open.spotify.com/artist/1FfPeHlceaZLaDaN7SMxdZ"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 187959,
-      "name": "SRT FULL NWAR",
-      "url": "https://open.spotify.com/track/3NaM8jq5zSHdAa0idhBAmA"
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/556UTItUBqXnwhnRq56JpB"
+      },
+      "artists": [
+        {
+          "name": "MIND",
+          "url": "https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5"
+        }
+      ],
+      "duration_ms": 284784,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/06fqBUtCFsSomwcG1Mvgzr"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Dracula (Remix)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
@@ -633,7 +601,75 @@
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 163874,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "worry",
+        "url": "https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML"
+      },
+      "artists": [
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "riserayss",
+          "url": "https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib"
+        }
+      ],
+      "duration_ms": 201908,
+      "name": "worry - Slowed",
+      "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "We Do What We Want (Edit)",
+        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "duration_ms": 188095,
+      "name": "We Do What We Want - Edit",
+      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "SRT FULL NWAR",
+        "url": "https://open.spotify.com/album/10S8OLvQhSmtF2tmk5Nr0g"
+      },
+      "artists": [
+        {
+          "name": "MINUISKI",
+          "url": "https://open.spotify.com/artist/1FfPeHlceaZLaDaN7SMxdZ"
+        }
+      ],
+      "duration_ms": 187959,
+      "name": "SRT FULL NWAR",
+      "url": "https://open.spotify.com/track/3NaM8jq5zSHdAa0idhBAmA"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "The Way We Touch",
         "url": "https://open.spotify.com/album/6elYxwsTNLEQlxDvMxacJn"
@@ -649,7 +685,7 @@
       "url": "https://open.spotify.com/track/0fVrUsHbkqg7ISVKufGoLm"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Dhurandhar The Revenge",
         "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
@@ -693,7 +729,7 @@
       "url": "https://open.spotify.com/track/157BtwkY54FQ3Xl8DsTso1"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "GTA 6",
         "url": "https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us"
@@ -709,7 +745,7 @@
       "url": "https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "One Helluvalife",
         "url": "https://open.spotify.com/album/4PW3lw69lppdcGHMM1ZVDQ"
@@ -729,59 +765,7 @@
       "url": "https://open.spotify.com/track/1xa7R072ZHy5iKxCIKEZhJ"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "worry",
-        "url": "https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML"
-      },
-      "artists": [
-        {
-          "name": "LONOWN",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        },
-        {
-          "name": "riserayss",
-          "url": "https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib"
-        }
-      ],
-      "duration_ms": 201908,
-      "name": "worry - Slowed",
-      "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/2kTHdT585hkQkJVWrybzqQ"
-      },
-      "artists": [
-        {
-          "name": "Jerri",
-          "url": "https://open.spotify.com/artist/5nkSIrT61FtbpWyM2fWdmK"
-        }
-      ],
-      "duration_ms": 138897,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/0OD0jZsRWsC8FwKektKyA4"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "We Do What We Want (Edit)",
-        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "duration_ms": 188095,
-      "name": "We Do What We Want - Edit",
-      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -797,7 +781,7 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Everything Will Be Alright In The End",
         "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
@@ -817,23 +801,7 @@
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
-    },
-    {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "ECLESIA",
         "url": "https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH"
@@ -849,7 +817,23 @@
       "url": "https://open.spotify.com/track/34BzcgDQc4mnP8A2umJiu9"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "BE MORE GRATEFUL",
+        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 138346,
+      "name": "POP DAT THANG",
+      "url": "https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
       "album": {
         "name": "Choosin' Texas",
         "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
@@ -865,20 +849,36 @@
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
-      "added_at": "2026-04-01 14:28:54",
+      "added_at": "2026-04-02 14:17:06",
       "album": {
-        "name": "BE MORE GRATEFUL",
-        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 138346,
-      "name": "POP DAT THANG",
-      "url": "https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu"
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "added_at": "2026-04-02 14:17:06",
+      "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/2kTHdT585hkQkJVWrybzqQ"
+      },
+      "artists": [
+        {
+          "name": "Jerri",
+          "url": "https://open.spotify.com/artist/5nkSIrT61FtbpWyM2fWdmK"
+        }
+      ],
+      "duration_ms": 138897,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/0OD0jZsRWsC8FwKektKyA4"
     }
   ],
   "unique_name": "Viral 50 - Canada",

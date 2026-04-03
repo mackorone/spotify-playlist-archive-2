@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Catch You",
+        "url": "https://open.spotify.com/album/5wZFv1zlIVCsda4SsvQTo8"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197129,
+      "name": "Catch You",
+      "url": "https://open.spotify.com/track/6ikOvPfy40gVDVt34WkoHk"
+    },
+    {
+      "album": {
         "name": "Clover",
         "url": "https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z"
       },

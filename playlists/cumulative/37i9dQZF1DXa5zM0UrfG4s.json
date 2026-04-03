@@ -6013,6 +6013,28 @@
     },
     {
       "album": {
+        "name": "Norge trenger bonden!",
+        "url": "https://open.spotify.com/album/6OyAEErfXmTxJEl3kauZCf"
+      },
+      "artists": [
+        {
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+        },
+        {
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195375,
+      "name": "Norge trenger bonden!",
+      "url": "https://open.spotify.com/track/0mOahKjQsKatdM08cTkXHr"
+    },
+    {
+      "album": {
         "name": "Norske rednecks",
         "url": "https://open.spotify.com/album/30S8kPqmcDPTVr4xBSAglF"
       },
@@ -8714,7 +8736,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 167980,
       "name": "Zetor\u2019n",
       "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"

@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : DJ KEROZEN
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Ste Milano
 
-286 songs - 15 hr 37 min
+287 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [BBL](https://open.spotify.com/track/1OuPjyDcQxYJTJkLnsvbsX) | [ESMEY](https://open.spotify.com/artist/78K6aNk5RZ3DWfNqMqSIgu), [Mr Behi](https://open.spotify.com/artist/74aXWkfWy1V2b5BGiyH9ZF) | [BBL](https://open.spotify.com/album/29roxzFxZIiIxSDVkdgRuV) | 2:30 | 2024-11-28 | 2025-01-17 |
 | [Biakamou](https://open.spotify.com/track/0V5kD6sff0KeCYM2MT6VKH) | [Ayanne](https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl) | [Biakamou](https://open.spotify.com/album/14eGVG0vLwCoK0lVdzGuw7) | 2:59 | 2024-09-19 | 2025-11-28 |
 | [BIAMA 2 BLACK K](https://open.spotify.com/track/7K65fwVYwjWHvyxwc8vvUi) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq) | [REMINISCENCE](https://open.spotify.com/album/1vxkcusCDeE3AXMVo4nAgV) | 2:22 | 2024-09-26 | 2024-10-04 |
-| [BIAMA BOMBÉ](https://open.spotify.com/track/0fVTSESDZB3MpDVGss5F6O) | [Oyoki Onanayo](https://open.spotify.com/artist/4aKN9IVVCH0haHMdFhfw7L) | [BIAMA BOMBÉ](https://open.spotify.com/album/4fqWDiCXrAW64SfrGNVGdW) | 3:22 | 2026-02-05 |  |
+| [BIAMA BOMBÉ](https://open.spotify.com/track/0fVTSESDZB3MpDVGss5F6O) | [Oyoki Onanayo](https://open.spotify.com/artist/4aKN9IVVCH0haHMdFhfw7L) | [BIAMA BOMBÉ](https://open.spotify.com/album/4fqWDiCXrAW64SfrGNVGdW) | 3:22 | 2026-02-05 | 2026-04-03 |
 | [Biama Brut Reverse](https://open.spotify.com/track/2cql6AVi8ktgedXr4RAFR0) | [Oyoki Onanayo](https://open.spotify.com/artist/4aKN9IVVCH0haHMdFhfw7L), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Biama Brut Reverse](https://open.spotify.com/album/3xoYfNYq0K6abXFOyAIhIO) | 3:01 | 2025-01-02 |  |
 | [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 | 2022-06-17 |
 | [BINAKA](https://open.spotify.com/track/4G5lllH9iGUSyFkMDwabMU) | [Dj Moasco](https://open.spotify.com/artist/6AfzTdenXg9xaTui9NXoRa), [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [BINAKA](https://open.spotify.com/album/0zCYYMTHLUKVTeGJm1w8lh) | 3:56 | 2022-12-01 | 2023-04-07 |
@@ -51,6 +51,7 @@
 | [C'est Dieu](https://open.spotify.com/track/0lzg8WWNBXrp6IAcMNGU54) | [Confirmé Manadja](https://open.spotify.com/artist/0Ay3wxcNxGlLwwZe6KOcpY), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [C'est Dieu](https://open.spotify.com/album/5pDcPJPOZzUkE4dPqoxHzV) | 3:22 | 2023-02-16 | 2023-06-16 |
 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 | 2022-05-20 | 2025-08-08 |
 | [C'est gâté](https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [C'est gâté](https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX) | 3:18 | 2022-12-08 | 2023-11-17 |
+| [C'est Gâté partout](https://open.spotify.com/track/7D9dBLIcRVVaflhhPJtSaX) | [Taf La Référence](https://open.spotify.com/artist/5CtDNucB5geU4uqT0SuqZv) | [C'est Gâté partout](https://open.spotify.com/album/1IglftnnNnwZEwCU4XIf2l) | 2:20 | 2026-04-02 |  |
 | [C'est le moment](https://open.spotify.com/track/2MOlw94ecEZ2ZfaXstl3KG) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [C'est le moment](https://open.spotify.com/album/7KfEmS33up7GwkaeGi5wLx) | 4:34 | 2025-05-01 | 2025-09-05 |
 | [C'est pour les grands](https://open.spotify.com/track/5347vjt4voHoVXB4r4PUQm) | [Lionell](https://open.spotify.com/artist/678uLiEv9CfIv59509DnZe) | [C'est pour les grands](https://open.spotify.com/album/3ZWT7ouS6rVQLC69ZUhBJc) | 3:36 | 2024-04-11 | 2024-05-03 |
 | [C'est qui qui à koeuré?](https://open.spotify.com/track/3sMa9CW10jJOINelbPeV03) | [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [C'est qui qui à koeuré?](https://open.spotify.com/album/4AQrYtHFNuagblJEqLA8nM) | 2:45 | 2025-10-16 | 2026-02-06 |
@@ -71,7 +72,7 @@
 | [Commando](https://open.spotify.com/track/1FKK9VxAHmqPBXW6WRun5S) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Commando](https://open.spotify.com/album/34fhvumHC8dqlDhZBaWSXd) | 2:52 | 2023-01-26 | 2023-07-07 |
 | [Copa](https://open.spotify.com/track/6DHB4gzkkIAtV4X5TruqoG) | [Kiko](https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv) | [Agama](https://open.spotify.com/album/7JFbI2Bgh9U5QPN3NuuA4l) | 2:22 | 2023-07-06 | 2023-09-29 |
 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 | 2023-12-21 | 2025-05-30 |
-| [COUPER\-COUPER](https://open.spotify.com/track/6IC40SlghyZK2fI7D25B5V) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [C'EST BIAMA QUI COORDONNE](https://open.spotify.com/album/5zOLgXEs8SSMtt1K88ksM6) | 3:00 | 2026-03-26 |  |
+| [COUPER\-COUPER](https://open.spotify.com/track/6IC40SlghyZK2fI7D25B5V) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [C'EST BIAMA QUI COORDONNE](https://open.spotify.com/album/5zOLgXEs8SSMtt1K88ksM6) | 3:00 | 2026-03-26 | 2026-04-03 |
 | [Coupé Décalé SuperSonic](https://open.spotify.com/track/3WaX1ciQMCAuI9kAD8xpTQ) | [David Tayorault](https://open.spotify.com/artist/5fGgmiJ78nMM0AnnbdqBcO), [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Coupé Décalé SuperSonic](https://open.spotify.com/album/2zj72TEqodhRAAPb4ngQ0q) | 3:26 | 2023-01-26 | 2023-03-25 |
 | [CPLM](https://open.spotify.com/track/1nMW4kWWNlCdZ5YWoUURm8) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg), [Mozard Letagnroter](https://open.spotify.com/artist/6gpi6KpAKEKb5YBHLKxOEo) | [OMNI](https://open.spotify.com/album/7IdUJMA4X3IzzrQeWfMJJ4) | 3:07 | 2022-12-01 | 2023-06-16 |
 | [Créatair \(Dokui\)](https://open.spotify.com/track/3icNhDoAQVBPtBe8NcoQnt) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Créatair](https://open.spotify.com/album/6NLn3piJhLvA01cVl6Ytk0) | 2:53 | 2025-08-07 |  |

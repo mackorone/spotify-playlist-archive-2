@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-407 songs - 1 day 1 hr 18 min
+411 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2026-02-04 | 2026-02-23 |
 | [GROWING](https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [GROWING](https://open.spotify.com/album/1oIE9MRFPl6IZdZFQESkcW) | 2:49 | 2026-01-22 | 2026-03-04 |
 | [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 | 2025-12-08 | 2025-12-28 |
+| [Happiness and Being Smart](https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:09 | 2026-04-02 |  |
 | [Happy In Stereo](https://open.spotify.com/track/408GJ4bXMavwxdFKSxaUW4) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Happy In Stereo](https://open.spotify.com/album/0ei3pdiUssJx4oQzpDV21M) | 3:09 | 2026-03-23 |  |
 | [Hard Times](https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Hard Times](https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB) | 3:38 | 2025-12-22 | 2026-01-21 |
 | [Hazy](https://open.spotify.com/track/2GtqGAGqCfZbgjn9jC1OqO) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Hazy](https://open.spotify.com/album/3t9hfg84AKwgF8KA0T4K5w) | 2:45 | 2026-04-02 |  |
@@ -201,6 +202,7 @@
 | [Let's Make It Rock Tonight](https://open.spotify.com/track/18maw03KeLnbdf43RdvzUo) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [Let's Make It Rock Tonight](https://open.spotify.com/album/0ofGHU4AlfThKM5VpLci8L) | 3:55 | 2025-10-28 | 2025-11-22 |
 | [Letzter Kuss](https://open.spotify.com/track/24Y239nFAW5fky8A9BVH1r) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Letzter Kuss](https://open.spotify.com/album/1jevubVvUvW6JRZqiJgzMJ) | 4:01 | 2026-02-09 | 2026-03-04 |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 | 2026-01-21 |
+| [Light in the Darkness](https://open.spotify.com/track/4469akQ3sJ0BL8LO92RNmL) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Light in the Darkness](https://open.spotify.com/album/31cciFSZKFdJmpoYXIFFMi) | 3:59 | 2026-04-02 |  |
 | [Lighthouse](https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 4:48 | 2025-12-22 | 2026-01-21 |
 | [Live Like You Mean It](https://open.spotify.com/track/0axZqgHnrL5FpSDyrCQkqr) | [Riff Raiders](https://open.spotify.com/artist/3uP6nJf8faTwth3kDqqKRv) | [Live Like You Mean It](https://open.spotify.com/album/1c6wgRmqwUT1oq7Xi7c5S2) | 3:25 | 2026-02-21 |  |
 | [Lobo Enjaulado](https://open.spotify.com/track/1Emlppibbbk0q4dwzbdGMr) | [P.R.O.A.](https://open.spotify.com/artist/6cMptGtvHkjH88qP0s57eO) | [Lobo Enjaulado](https://open.spotify.com/album/63rBMmyVAlIWjCJGGa7ySM) | 6:05 | 2026-02-16 | 2026-03-22 |
@@ -307,6 +309,7 @@
 | [So Long, it's a Shame About the Fish \- Radio Edit](https://open.spotify.com/track/1LRCIZlYb4bxhwAVjeUbMI) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [So Long, it's a Shame About the Fish](https://open.spotify.com/album/58jcUai7lmTiBkpotllfpl) | 2:26 | 2025-11-04 | 2025-12-12 |
 | [Solitario](https://open.spotify.com/track/5ASTeFNSL8IqOU165b9pRF) | [Hot Dog](https://open.spotify.com/artist/7zqoqGmLGianOlJo47jQ1f) | [Ardiente \(EP\)](https://open.spotify.com/album/7vDeWBbCQIqssX6YPbKLuy) | 4:34 | 2026-03-05 |  |
 | [Sombre Delight](https://open.spotify.com/track/5sLGwXtLsRRCZqEhKoD12i) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Dogs & Roses](https://open.spotify.com/album/3wCaudFRpeeXZXnh066Lek) | 5:33 | 2026-03-05 |  |
+| [Something About You](https://open.spotify.com/track/1W2eU1ISQAJkjiIgb9e9va) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Love Hotel](https://open.spotify.com/album/62Bxt91D7ef7SJKnHZ0BxM) | 3:19 | 2026-04-02 |  |
 | [Sorrow](https://open.spotify.com/track/03WwAoY5g9cuENQZ8STzXn) | [The Scree Fall](https://open.spotify.com/artist/34Sey5DRlJEnCm3TEEk7cE) | [Steel Birds Scream](https://open.spotify.com/album/5W6X8kOGx698haoq3iR8yO) | 4:35 | 2025-10-29 | 2025-11-22 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-11-27 | 2026-01-05 |
 | [Sotto Controllo](https://open.spotify.com/track/6jAPPaMIFWkCDgFdu86G1m) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Sotto Controllo](https://open.spotify.com/album/5LB0TRZvTWRjYIFFTAHBEE) | 3:57 | 2026-02-15 | 2026-03-22 |
@@ -396,6 +399,7 @@
 | [Whiskey Breath](https://open.spotify.com/track/4MrUSgnIRXGvPWnRYCzTXC) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:03 | 2025-12-22 | 2026-01-21 |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-11-26 | 2026-01-05 |
 | [White Devil](https://open.spotify.com/track/2FOLmxfAX5oQiOYanJccZ0) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 4:42 | 2025-11-29 | 2025-12-28 |
+| [Wings to go back](https://open.spotify.com/track/6Xn61zWFMyCP6U8977UTXM) | [SOAVE](https://open.spotify.com/artist/67OEL9vCpXIheb7L9WpPCG) | [Wings to go back](https://open.spotify.com/album/59zHfQ01fPeXk15jkFSG4G) | 3:53 | 2026-04-02 |  |
 | [Wish Me Luck](https://open.spotify.com/track/1H1y2fumUdS2YiKPxHJ4jl) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Twenty\-Four Seven](https://open.spotify.com/album/6kGDbKew5FJ0AUErB6gyty) | 3:06 | 2026-01-17 | 2026-02-18 |
 | [With The Radio On](https://open.spotify.com/track/2D8Pe8G3mrE7sftHvvmQx9) | [Northfield](https://open.spotify.com/artist/51rLG6ENMAwu7WMcNHffyl) | [Lost and Found](https://open.spotify.com/album/1eBsLVrjcZHPSPMukzJkXV) | 3:39 | 2025-10-31 | 2025-11-22 |
 | [Without You](https://open.spotify.com/track/1TwapdaPvDJ1ABCDDMMQ1f) | [Dead Horse Riding](https://open.spotify.com/artist/7wqNTaQeGwXNjejl4XLokL) | [Without You](https://open.spotify.com/album/2XnDsmaRabXtnnGFOs6JW8) | 3:49 | 2026-03-20 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1178253,
+  "num_followers": 1178362,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-03-26 17:28:05",
       "album": {
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
+    },
+    {
+      "added_at": "2026-03-26 17:28:05",
+      "album": {
         "name": "Sky Blue Sky",
         "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 279240,
       "name": "Golden",
       "url": "https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR"
-    },
-    {
-      "added_at": "2026-03-26 17:28:05",
-      "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
     },
     {
       "added_at": "2026-03-26 17:28:05",

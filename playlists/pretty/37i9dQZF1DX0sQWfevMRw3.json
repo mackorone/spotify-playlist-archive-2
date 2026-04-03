@@ -1,15 +1,31 @@
 {
   "description": "\ud83c\uddf3\ud83c\uddf4\ud83e\udd1d\ud83c\uddf8\ud83c\uddea ",
-  "num_followers": 176306,
+  "num_followers": 176310,
   "original_name": "30 km/h",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACZ60tVzHNClHIWtAbqi19JVIl05",
+  "snapshot_id": "AAAAAB8rY1P0Yowg29OWsrk2BvyNJNsa",
   "tracks": [
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
+      "album": {
+        "name": "P\u00e5 en tur (Eller hur?)",
+        "url": "https://open.spotify.com/album/44yp9vkgl3qF3R7UEdqrYL"
+      },
+      "artists": [
+        {
+          "name": "Kaptenen",
+          "url": "https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl"
+        }
+      ],
+      "duration_ms": 109683,
+      "name": "P\u00e5 en tur (Eller hur?)",
+      "url": "https://open.spotify.com/track/1QbyGkRBxMWNL0u50HVgkk"
+    },
+    {
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Drekke d\u00e6 fin",
         "url": "https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc"
@@ -29,7 +45,23 @@
       "url": "https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
+      "album": {
+        "name": "RAGGARBIL",
+        "url": "https://open.spotify.com/album/2PMxKd42axpiKqgKQ2KNv6"
+      },
+      "artists": [
+        {
+          "name": "TRIPPEL TRUBBEL",
+          "url": "https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "RAGGARBIL",
+      "url": "https://open.spotify.com/track/2ueF9mv57FNsabUrYprQY8"
+    },
+    {
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Sommarkatt",
         "url": "https://open.spotify.com/album/0CT043iJqTjICBNuQKcMsn"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/06SBaFS25FItwI86Euk05d"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "FAKK MITT EX",
         "url": "https://open.spotify.com/album/72QDi4ww9Hn3zz6V1A0oBK"
@@ -65,7 +97,39 @@
       "url": "https://open.spotify.com/track/6RXBmjvRX1XWZyS8jF416I"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
+      "album": {
+        "name": "WALK OF SHAME",
+        "url": "https://open.spotify.com/album/3NHll7fFS9bKMV2TvbucCG"
+      },
+      "artists": [
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        }
+      ],
+      "duration_ms": 158699,
+      "name": "WALK OF SHAME",
+      "url": "https://open.spotify.com/track/3Wbvley7A40oKxfIck7Dkw"
+    },
+    {
+      "added_at": "2026-04-02 22:00:51",
+      "album": {
+        "name": "HAKUNA MATATA",
+        "url": "https://open.spotify.com/album/5fdrUVc2icNw9bOD3BRnmk"
+      },
+      "artists": [
+        {
+          "name": "10.2%",
+          "url": "https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH"
+        }
+      ],
+      "duration_ms": 136289,
+      "name": "HAKUNA MATATA",
+      "url": "https://open.spotify.com/track/53Gv48kSCLE6ADiAaw3uep"
+    },
+    {
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Volvo, villa & hund",
         "url": "https://open.spotify.com/album/41zUcJ8IV6b4lNJ6Tq5qjA"
@@ -85,7 +149,27 @@
       "url": "https://open.spotify.com/track/4ytQR7TA9tU2ua46jDaBj2"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
+      "album": {
+        "name": "ALLA KILLARS DR\u00d6MTJEJ",
+        "url": "https://open.spotify.com/album/6RJpEnkw1YEinEYEIJbjnu"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronja",
+          "url": "https://open.spotify.com/artist/4UreQm83zKgphhXRToZs9r"
+        },
+        {
+          "name": "\u00d6versten",
+          "url": "https://open.spotify.com/artist/3B7WpyQspBGGjfif7rKFmM"
+        }
+      ],
+      "duration_ms": 163725,
+      "name": "ALLA KILLARS DR\u00d6MTJEJ",
+      "url": "https://open.spotify.com/track/7fVVyYlFR3zjNOYwbFIaQz"
+    },
+    {
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Bitch",
         "url": "https://open.spotify.com/album/2pklHN6T1P7Bzd8jRIWe6a"
@@ -101,7 +185,7 @@
       "url": "https://open.spotify.com/track/0DF4Z8hunwvY7Vp3Tk6h3C"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/1pqCV6LC2iODdoz3YIe1bW"
@@ -117,7 +201,31 @@
       "url": "https://open.spotify.com/track/0hecjMGCQAejEoyRKqNI26"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
+      "album": {
+        "name": "FUCKFRIEND",
+        "url": "https://open.spotify.com/album/7EENnl1dkiScAJCvSu7YW9"
+      },
+      "artists": [
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "GRANNJ\u00c4NTAN",
+          "url": "https://open.spotify.com/artist/68F1zsaJ2m6HuKqtJz9kaZ"
+        },
+        {
+          "name": "KLIKK",
+          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
+        }
+      ],
+      "duration_ms": 129923,
+      "name": "FUCKFRIEND",
+      "url": "https://open.spotify.com/track/1MwJnEHigvwBX76pxkTAnB"
+    },
+    {
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "BE WITH U",
         "url": "https://open.spotify.com/album/0nKbQ35mOu0uFHsRqgdoSX"
@@ -137,7 +245,7 @@
       "url": "https://open.spotify.com/track/2SZgyWAVTXWejEAnjr0p6q"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Lilla Lapper",
         "url": "https://open.spotify.com/album/4nDzPTJn0VJWS4ysZUCJtz"
@@ -153,7 +261,7 @@
       "url": "https://open.spotify.com/track/3ZbsZBcOqpWY8dZHy3Mvyn"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "HKF (H\u00e5ll k\u00e4ften & f\u00f6rsvinn)",
         "url": "https://open.spotify.com/album/53S5r8qxuUDf2LI7Hj36Td"
@@ -169,7 +277,7 @@
       "url": "https://open.spotify.com/track/76tyr2QnGa8rZMkcjMTjSR"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "VETLANDATJEJ",
         "url": "https://open.spotify.com/album/3Hmp5JQ3gVMwAP9zd4851l"
@@ -189,23 +297,7 @@
       "url": "https://open.spotify.com/track/2TREoE1GJwT461CvOgbHTK"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "HAKUNA MATATA",
-        "url": "https://open.spotify.com/album/5fdrUVc2icNw9bOD3BRnmk"
-      },
-      "artists": [
-        {
-          "name": "10.2%",
-          "url": "https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH"
-        }
-      ],
-      "duration_ms": 136289,
-      "name": "HAKUNA MATATA",
-      "url": "https://open.spotify.com/track/53Gv48kSCLE6ADiAaw3uep"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "ASTRONAUT",
         "url": "https://open.spotify.com/album/2aazrz2gsf0Y66LFS9gRQv"
@@ -225,7 +317,7 @@
       "url": "https://open.spotify.com/track/5VL30JXRmzjOaDxk5rQqBZ"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Living Next Door to Alice (Who the Fuck is Alice?)",
         "url": "https://open.spotify.com/album/2ahcRKOb5EkSSfg403zPak"
@@ -245,7 +337,7 @@
       "url": "https://open.spotify.com/track/2VhTsEe1BD4TsTzSTs4Cbd"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "F.T.P",
         "url": "https://open.spotify.com/album/3rPNew5ADG0bk3Gso2Vf0X"
@@ -269,7 +361,7 @@
       "url": "https://open.spotify.com/track/0Dx9ZpRkTJ40zjdTdyIjoa"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Ah shit. here we go again.",
         "url": "https://open.spotify.com/album/46TRmT4mn1TDLFOww1tNAM"
@@ -285,79 +377,7 @@
       "url": "https://open.spotify.com/track/0OMt0APLoHjWHKdb4ARD0t"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "MAD MAX",
-        "url": "https://open.spotify.com/album/2PZqxgwkIs5z3VbyKREvx9"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 158437,
-      "name": "MAD MAX",
-      "url": "https://open.spotify.com/track/1KsvmBIHznWBc9fLx4UAmW"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "EN SISTA RUNDA",
-        "url": "https://open.spotify.com/album/1fNWJETWg2tHz5fsZ5qC8b"
-      },
-      "artists": [
-        {
-          "name": "Rivstart",
-          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "EN SISTA RUNDA",
-      "url": "https://open.spotify.com/track/0gPqt3BdgsrqB2H52HGZ0k"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "DUM AV DIG",
-        "url": "https://open.spotify.com/album/6rzMpJG6kKsvAFbn7XDI5k"
-      },
-      "artists": [
-        {
-          "name": "Kaptenen",
-          "url": "https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl"
-        },
-        {
-          "name": "vem e du",
-          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
-        }
-      ],
-      "duration_ms": 123205,
-      "name": "DUM AV DIG",
-      "url": "https://open.spotify.com/track/2ghglxd0bbYTGzRYpvGy49"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "BAD FOR BUSINESS (feat. Roc Boyz)",
-        "url": "https://open.spotify.com/album/1uPbzyCa9oEtRqsjZBK2Fv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Blesson",
-          "url": "https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp"
-        },
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 159423,
-      "name": "BAD FOR BUSINESS (feat. Roc Boyz)",
-      "url": "https://open.spotify.com/track/3qvfx3mCtMXz9qARxMHQKx"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "\u00c4CKLIG",
         "url": "https://open.spotify.com/album/2TtxNxlOOcxpsGAhZGVJHd"
@@ -381,7 +401,79 @@
       "url": "https://open.spotify.com/track/5Lzjz3FnrFh9TX7JdqKZhn"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
+      "album": {
+        "name": "MAD MAX",
+        "url": "https://open.spotify.com/album/2PZqxgwkIs5z3VbyKREvx9"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 158437,
+      "name": "MAD MAX",
+      "url": "https://open.spotify.com/track/1KsvmBIHznWBc9fLx4UAmW"
+    },
+    {
+      "added_at": "2026-04-02 22:00:51",
+      "album": {
+        "name": "EN SISTA RUNDA",
+        "url": "https://open.spotify.com/album/1fNWJETWg2tHz5fsZ5qC8b"
+      },
+      "artists": [
+        {
+          "name": "Rivstart",
+          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "EN SISTA RUNDA",
+      "url": "https://open.spotify.com/track/0gPqt3BdgsrqB2H52HGZ0k"
+    },
+    {
+      "added_at": "2026-04-02 22:00:51",
+      "album": {
+        "name": "DUM AV DIG",
+        "url": "https://open.spotify.com/album/6rzMpJG6kKsvAFbn7XDI5k"
+      },
+      "artists": [
+        {
+          "name": "Kaptenen",
+          "url": "https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl"
+        },
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "duration_ms": 123205,
+      "name": "DUM AV DIG",
+      "url": "https://open.spotify.com/track/2ghglxd0bbYTGzRYpvGy49"
+    },
+    {
+      "added_at": "2026-04-02 22:00:51",
+      "album": {
+        "name": "BAD FOR BUSINESS (feat. Roc Boyz)",
+        "url": "https://open.spotify.com/album/1uPbzyCa9oEtRqsjZBK2Fv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Blesson",
+          "url": "https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp"
+        },
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 159423,
+      "name": "BAD FOR BUSINESS (feat. Roc Boyz)",
+      "url": "https://open.spotify.com/track/3qvfx3mCtMXz9qARxMHQKx"
+    },
+    {
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "St\u00f8gg melodi",
         "url": "https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC"
@@ -397,7 +489,7 @@
       "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "JAG VET, DU \u00c4R INTE MIN - HARDTEKK",
         "url": "https://open.spotify.com/album/7MtzqAmU4CkxC9CJD1CZF5"
@@ -425,7 +517,7 @@
       "url": "https://open.spotify.com/track/7sb7o3489xN37oVuZzaU6M"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Promiski\u00f8s (PM)",
         "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
@@ -441,7 +533,7 @@
       "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "J\u00c4VLA SNUT!",
         "url": "https://open.spotify.com/album/6uSwID3tyCPBezcLzOpIWo"
@@ -461,7 +553,7 @@
       "url": "https://open.spotify.com/track/283oCOGssu64MJ4WcN9Iym"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "THE EASTER BUNNY IS HORNY",
         "url": "https://open.spotify.com/album/6Nyry1hCBxwkmHHjSLefto"
@@ -477,7 +569,7 @@
       "url": "https://open.spotify.com/track/7B6RHydB6bg3Tro9xHaKVE"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Marokkansk",
         "url": "https://open.spotify.com/album/1SQLH0FVtcfzkYYwQCLHNY"
@@ -493,7 +585,7 @@
       "url": "https://open.spotify.com/track/2oRbqKvN9sR8fakOSBi6LF"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "FAKK MITT X",
         "url": "https://open.spotify.com/album/5YQQAoz0ci5USRq54s59hr"
@@ -517,7 +609,7 @@
       "url": "https://open.spotify.com/track/2rJK8zzRVOYasVK5EPcuty"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "FATTA OCH F\u00d6RST\u00c5",
         "url": "https://open.spotify.com/album/4ysN3WJnD3T5sFLKSA97Eb"
@@ -541,7 +633,7 @@
       "url": "https://open.spotify.com/track/13goY7Puh6HmT8SMrcFFJq"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "D\u00d6D",
         "url": "https://open.spotify.com/album/7nJiVU81SvChTx1JxJWvXu"
@@ -565,7 +657,7 @@
       "url": "https://open.spotify.com/track/7Gvw3FDPKeScJxeXx1xXfN"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "RAGGARTJEJ",
         "url": "https://open.spotify.com/album/6j1rmPhwYCl0o29l7tenfO"
@@ -589,7 +681,7 @@
       "url": "https://open.spotify.com/track/4tqfNJQoaApme8HpGh2I3I"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "VINTERN \u00c4R ETT HELVETE",
         "url": "https://open.spotify.com/album/1LS7PwwZmo1fbwrlr0DdGO"
@@ -605,7 +697,7 @@
       "url": "https://open.spotify.com/track/0j2fdqNLSDqh3Toc7rSRjj"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "SVIDER",
         "url": "https://open.spotify.com/album/41oGyZtr8fc43cNshIOkav"
@@ -621,7 +713,7 @@
       "url": "https://open.spotify.com/track/0WXkit3qzl4KF9m48JvoVG"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "ALKOHOLIST",
         "url": "https://open.spotify.com/album/0G7v1QM6RgoBkh5joLxncS"
@@ -641,7 +733,7 @@
       "url": "https://open.spotify.com/track/06yI3fi0iMjOCCHhYYJ50m"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "n\u00e4r du g\u00e5r ner",
         "url": "https://open.spotify.com/album/72Gce0Bew6P7dNpS9RqWKi"
@@ -657,7 +749,7 @@
       "url": "https://open.spotify.com/track/3ZU3HTZFRGeggksUD6OGJB"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "K\u00e4rleksfeberdr\u00f6mmar",
         "url": "https://open.spotify.com/album/61kJVwaHF3iarA7FtqD389"
@@ -677,7 +769,7 @@
       "url": "https://open.spotify.com/track/6YugmiY69PTLcWf0VPXsvy"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Gikk en tur p\u00e5 stien",
         "url": "https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS"
@@ -693,7 +785,7 @@
       "url": "https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "VEM BRYR SIG?",
         "url": "https://open.spotify.com/album/6F6hj8bB6WXlr0ZOSmt20Z"
@@ -709,7 +801,7 @@
       "url": "https://open.spotify.com/track/2X8x42vFYR4Veq5cHari92"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m"
@@ -725,7 +817,7 @@
       "url": "https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Saknar inte dig",
         "url": "https://open.spotify.com/album/41ayJRq60gfUmzXiixarjB"
@@ -745,7 +837,7 @@
       "url": "https://open.spotify.com/track/5qkV6nAkuHJMoRWgrKYRyq"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Hele natta",
         "url": "https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ"
@@ -765,7 +857,7 @@
       "url": "https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "DET B\u00d6RJAR LIKNA",
         "url": "https://open.spotify.com/album/1T5RNljkxenXdEseR3vH1X"
@@ -785,7 +877,7 @@
       "url": "https://open.spotify.com/track/5e2Kwj1GVhwLV8iFzEN2YT"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "KUNGAR (aldrig gamla)",
         "url": "https://open.spotify.com/album/4W8FH9yOCerJSaJGwg07dp"
@@ -801,7 +893,7 @@
       "url": "https://open.spotify.com/track/2VGr0aQXozpnj3yUmGtVIW"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "RIVER IN",
         "url": "https://open.spotify.com/album/6febqco96liS65c06Gi26b"
@@ -821,7 +913,7 @@
       "url": "https://open.spotify.com/track/1jlYiAp626BLDe7OpKCmHc"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Baby er du med",
         "url": "https://open.spotify.com/album/1pnbLXPvFs9FnxFpF8AX2L"
@@ -841,7 +933,7 @@
       "url": "https://open.spotify.com/track/4Q2vNgA5H2JH5oqNIQZfiB"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "EN BIRA TILL",
         "url": "https://open.spotify.com/album/3sbzhwxCNkjwyalpDbv1vb"
@@ -865,7 +957,7 @@
       "url": "https://open.spotify.com/track/2rBwSiPf93hLaevgsMxKFn"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "L\u00f6ste Sig \u00c4nd\u00e5",
         "url": "https://open.spotify.com/album/6B7z2Iyq0vGGoBtWF6Ujix"
@@ -881,7 +973,7 @@
       "url": "https://open.spotify.com/track/08ICNHDl3tM5fohMDjeStx"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "KAN INTE S\u00c4GA NEJ",
         "url": "https://open.spotify.com/album/6ZUIncy7k574ph0LEhz5fh"
@@ -901,7 +993,7 @@
       "url": "https://open.spotify.com/track/0t9KX6DzqQuWIF9Xx1A6mg"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "SPRIT & K..",
         "url": "https://open.spotify.com/album/598YdZCSIypmNF4he0vbef"
@@ -925,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5ZJqMo8zMUotvwARwsj1KD"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Bring It",
         "url": "https://open.spotify.com/album/1zhEdgjIV87BqV6k2eJmUK"
@@ -945,7 +1037,7 @@
       "url": "https://open.spotify.com/track/4Gqk05iNREv4ln3txoADwg"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "SOM EN PIRAT",
         "url": "https://open.spotify.com/album/62rMaSRFS30ZGcxfEJKXSL"
@@ -961,31 +1053,7 @@
       "url": "https://open.spotify.com/track/6ANMXmIqQwY1qAs1fNtSGn"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "VAD H\u00c4NDER",
-        "url": "https://open.spotify.com/album/0Dcjg2t62XHTSZasGV9XCb"
-      },
-      "artists": [
-        {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        },
-        {
-          "name": "Olav Haust",
-          "url": "https://open.spotify.com/artist/70zQbRqxcwsB6jJxNzd9Uv"
-        },
-        {
-          "name": "KLIKK",
-          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
-        }
-      ],
-      "duration_ms": 140129,
-      "name": "VAD H\u00c4NDER",
-      "url": "https://open.spotify.com/track/3fpxSBuxiSsbVA3JR9wUx4"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Hos dig \u00e4r jag underbar",
         "url": "https://open.spotify.com/album/3n5FBtgzgTyRHilhii6PvL"
@@ -1005,7 +1073,7 @@
       "url": "https://open.spotify.com/track/7GyCwSiH7pXQTPtMvs3vSz"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "DUNK DUNK DUNK",
         "url": "https://open.spotify.com/album/4O46bYRz7LMUdIlORCDkE2"
@@ -1021,7 +1089,7 @@
       "url": "https://open.spotify.com/track/2PrlR3FEpsE7Yc0YXF0AIJ"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "GASAR P\u00c5",
         "url": "https://open.spotify.com/album/6WCMFr4hQ2YmA04TvnT31U"
@@ -1037,7 +1105,7 @@
       "url": "https://open.spotify.com/track/4elmPbJeSK34yjCYIVvaN4"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "AFTERSKI (Drick Upp)",
         "url": "https://open.spotify.com/album/2fF6yExLStk0kwW4waUyQ4"
@@ -1057,43 +1125,7 @@
       "url": "https://open.spotify.com/track/6sZOQiyaLgPAuDznPGhxzc"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Premium League 2026",
-        "url": "https://open.spotify.com/album/5it6zF09iUB1DIP2h6EZUy"
-      },
-      "artists": [
-        {
-          "name": "\u00dcBER",
-          "url": "https://open.spotify.com/artist/7lY2tiKgsWVxd95OasKIRO"
-        },
-        {
-          "name": "Onkel Petter",
-          "url": "https://open.spotify.com/artist/6d2GY0ewv3sQXA96fP8RPp"
-        }
-      ],
-      "duration_ms": 135882,
-      "name": "Premium League 2026",
-      "url": "https://open.spotify.com/track/2CECrRNSk2MGryHG6xQwqG"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "POPO",
-        "url": "https://open.spotify.com/album/3K0Gug5ONCBqPPu7l6q7Oj"
-      },
-      "artists": [
-        {
-          "name": "Hasselyra",
-          "url": "https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B"
-        }
-      ],
-      "duration_ms": 132801,
-      "name": "POPO",
-      "url": "https://open.spotify.com/track/27V56aOJJL8ms1gFfu9Mhz"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "JAG VILL HA...",
         "url": "https://open.spotify.com/album/4LwuKt6m1mJ2NIgMp3VZSK"
@@ -1113,7 +1145,7 @@
       "url": "https://open.spotify.com/track/2wZv9rHaQLPw9NOQmuUbFm"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "FLYGPLAN",
         "url": "https://open.spotify.com/album/0Ewd7P2H50TqvafPL6sJOf"
@@ -1129,31 +1161,7 @@
       "url": "https://open.spotify.com/track/56hHCESKiK3vkjEI1Bl7zG"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "FAKKBOI (Skaka rumpa)",
-        "url": "https://open.spotify.com/album/4xH17FsmjiBVdkXMEa9OTa"
-      },
-      "artists": [
-        {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        },
-        {
-          "name": "KLIKK",
-          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
-        },
-        {
-          "name": "DJ Smashyy",
-          "url": "https://open.spotify.com/artist/732rgcIFiFfVdzK9GaFdHJ"
-        }
-      ],
-      "duration_ms": 146493,
-      "name": "FAKKBOI (Skaka rumpa)",
-      "url": "https://open.spotify.com/track/3iyibcScl3sdaA0jsEvv2m"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "FALLER",
         "url": "https://open.spotify.com/album/5uBwtdWAuVtiESK4zOPaZN"
@@ -1177,23 +1185,7 @@
       "url": "https://open.spotify.com/track/410IeJsbnWUp2CFu2AkQyh"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "om jag var en dildo",
-        "url": "https://open.spotify.com/album/0Z149QOZygRAINddRzRCbF"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        }
-      ],
-      "duration_ms": 151741,
-      "name": "om jag var en dildo",
-      "url": "https://open.spotify.com/track/0q6dh7Y65rrDpjgPshT88B"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "DUNKA",
         "url": "https://open.spotify.com/album/5tCF1xd7LA0DMHJdxuHwSp"
@@ -1209,7 +1201,7 @@
       "url": "https://open.spotify.com/track/6hr5yCAsvJVSWWVtC8hVCk"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "JAX TELLER",
         "url": "https://open.spotify.com/album/0U5CaF2vkix50sF3KBwLE4"
@@ -1229,23 +1221,7 @@
       "url": "https://open.spotify.com/track/7E7raDs00o4D6VKsvtd4BD"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "F\u00f6rklara allt",
-        "url": "https://open.spotify.com/album/63bm4lhdCP4Mhm0JmawTi5"
-      },
-      "artists": [
-        {
-          "name": "SN\u00d8",
-          "url": "https://open.spotify.com/artist/121fhWsV0cLJ8VXvUZ1zU7"
-        }
-      ],
-      "duration_ms": 147468,
-      "name": "F\u00f6rklara allt",
-      "url": "https://open.spotify.com/track/4rQ3lr7vKKbm0LIEe6OXUL"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Snyggaste",
         "url": "https://open.spotify.com/album/5sIJTqMKzLx7Hchvu0cB3O"
@@ -1261,7 +1237,7 @@
       "url": "https://open.spotify.com/track/16NsjDB2F9eP4c0upomZBm"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "INGA UNDANTAG",
         "url": "https://open.spotify.com/album/1uSHLNZcOEAXznJktYGsRR"
@@ -1277,7 +1253,7 @@
       "url": "https://open.spotify.com/track/0UvH5bOPsjl9j5P3sht6FA"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/6HCFm5uTyOQVENK6Fizxyi"
@@ -1297,7 +1273,7 @@
       "url": "https://open.spotify.com/track/4rPzC5pYU0MYzNys1VCQ2U"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Se p\u00e5 mig",
         "url": "https://open.spotify.com/album/5T5X1U70SmAfbzv26IFsOg"
@@ -1313,7 +1289,7 @@
       "url": "https://open.spotify.com/track/7EMeNcHq0jCfWUCaRBG4ie"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "RONJA REJVARDOTTER",
         "url": "https://open.spotify.com/album/4ETfdus0XwgF1uGDSJA5Mr"
@@ -1333,7 +1309,7 @@
       "url": "https://open.spotify.com/track/6h7x4dqUD1QmVmLImdGPk6"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "VIAGRA",
         "url": "https://open.spotify.com/album/3TW6SCY7g7Ke1wbfU8gujr"
@@ -1353,7 +1329,7 @@
       "url": "https://open.spotify.com/track/4vaznKSJW2aBhGsaviHlqx"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Kaster Penger",
         "url": "https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN"
@@ -1369,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "UNGA I KV\u00c4LL",
         "url": "https://open.spotify.com/album/1TFpBPxP19jxDffaK0e3t0"
@@ -1385,7 +1361,7 @@
       "url": "https://open.spotify.com/track/34k8eZfhDDXuNimjjiO0lA"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "MER JUL",
         "url": "https://open.spotify.com/album/2tH3N1StaBtdBmfKTNKcgg"
@@ -1401,7 +1377,7 @@
       "url": "https://open.spotify.com/track/6tcKK7eoOISx1sIKVlAdDP"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "SHOT ROULETTE",
         "url": "https://open.spotify.com/album/5TzAL6jSNxYyIuRpCtCFko"
@@ -1417,7 +1393,7 @@
       "url": "https://open.spotify.com/track/1rKowH3O4Axyz2DLDxVUed"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "DRAGEN",
         "url": "https://open.spotify.com/album/6fPK2KJWEViTWKb7lwEmvb"
@@ -1433,7 +1409,7 @@
       "url": "https://open.spotify.com/track/015GhizGVjGzSeHm7CNsn9"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "SOS (feat. LOAM)",
         "url": "https://open.spotify.com/album/3LLbyOG8dMwkNabpuaN6vT"
@@ -1453,7 +1429,7 @@
       "url": "https://open.spotify.com/track/6vE2RZwkgeZyzyGZvCWKiR"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/4YAGlbjWbQOjqGEVfvn0k5"
@@ -1469,7 +1445,7 @@
       "url": "https://open.spotify.com/track/5JKKwVE40v14pgDRxyPNfP"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "240",
         "url": "https://open.spotify.com/album/0miZzcJoflKRHbaS5vkxRp"
@@ -1489,7 +1465,7 @@
       "url": "https://open.spotify.com/track/2CdxVjuzNqznIOWENEG2Ml"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "LANDET RUNT (PUNDARPULKA)",
         "url": "https://open.spotify.com/album/6FPCsmUCQQ5q8ZvRFF0xlY"
@@ -1509,7 +1485,7 @@
       "url": "https://open.spotify.com/track/4xJTePIw7LLN80D9Uv1ZMO"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "ALLA VILL LIGGA",
         "url": "https://open.spotify.com/album/5orgMcIURNtlL8J24TLuWQ"
@@ -1529,27 +1505,7 @@
       "url": "https://open.spotify.com/track/0f6Td4yCgrjXUn1cJTq1JR"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Here We Go Again (Feat. Tigergutt101)",
-        "url": "https://open.spotify.com/album/47HlOxbY4afPIy9AcI810i"
-      },
-      "artists": [
-        {
-          "name": "Von Disco",
-          "url": "https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv"
-        },
-        {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "Here We Go Again (Feat. Tigergutt101)",
-      "url": "https://open.spotify.com/track/55VKp3wMGqYOUaaRqH6RdR"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Bara du",
         "url": "https://open.spotify.com/album/1NQbUh8WFPaAfb45dDUaR8"
@@ -1565,7 +1521,7 @@
       "url": "https://open.spotify.com/track/5qySMvXGPLAYuBoHrOrc11"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Mr. Polizei",
         "url": "https://open.spotify.com/album/1KVj0cX8f8tUZZTLWceOmB"
@@ -1585,63 +1541,7 @@
       "url": "https://open.spotify.com/track/6ms4SZ8aRhsuKYtUrzeYtn"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Hvem skal nekte meg en \u00f8l?",
-        "url": "https://open.spotify.com/album/0LryBlmnp3nfWLI6jwH0kC"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 126027,
-      "name": "Hvem skal nekte meg en \u00f8l?",
-      "url": "https://open.spotify.com/track/6bfbQpHqcAMsBT2D5YYPTb"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "SPELMANSLAG",
-        "url": "https://open.spotify.com/album/5cAO2cDXZhGxOo3W9AL02J"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 121050,
-      "name": "SPELMANSLAG",
-      "url": "https://open.spotify.com/track/6Tk1xbCBSG0i6gW9L4NaPk"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Sn\u00e4lla tomten (hoe hoe hoe)",
-        "url": "https://open.spotify.com/album/1q3fnc3wLJhCeRQCBKNh1d"
-      },
-      "artists": [
-        {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        },
-        {
-          "name": "KLIKK",
-          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
-        },
-        {
-          "name": "\u00d6rnen",
-          "url": "https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy"
-        }
-      ],
-      "duration_ms": 155250,
-      "name": "Sn\u00e4lla tomten (hoe hoe hoe)",
-      "url": "https://open.spotify.com/track/34Np8ybfOGCeOL4vFxewx1"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Belvedere",
         "url": "https://open.spotify.com/album/4PPfRHM26lrYtVEhEgsI8J"
@@ -1657,63 +1557,7 @@
       "url": "https://open.spotify.com/track/0XK4XQtngtiy1IBnZVs2Wm"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "JUL P\u00c5 REGEMENTET",
-        "url": "https://open.spotify.com/album/7xKOdyEmHIl4odVLHUTT26"
-      },
-      "artists": [
-        {
-          "name": "\u00d6versten",
-          "url": "https://open.spotify.com/artist/3B7WpyQspBGGjfif7rKFmM"
-        },
-        {
-          "name": "GRABBARNA GRUS",
-          "url": "https://open.spotify.com/artist/3vqZpcHSUlnIEczeBUdBvx"
-        }
-      ],
-      "duration_ms": 148819,
-      "name": "JUL P\u00c5 REGEMENTET",
-      "url": "https://open.spotify.com/track/3HlGih0cBvIRZnSPO9jlsR"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "EGO 2.0",
-        "url": "https://open.spotify.com/album/3UcrAM36vJ9fQT7Cy14toB"
-      },
-      "artists": [
-        {
-          "name": "Emil Asserg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
-        },
-        {
-          "name": "Mange Schmidt",
-          "url": "https://open.spotify.com/artist/3XNYAscVt30VsW8dJiWQsl"
-        }
-      ],
-      "duration_ms": 207020,
-      "name": "EGO 2.0",
-      "url": "https://open.spotify.com/track/5PyGZDA59WofAzF4bwgAIi"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "JAG \u00c4R EN UTEBAJSARE",
-        "url": "https://open.spotify.com/album/1pWOHVSqdqqKNaAawlHbPZ"
-      },
-      "artists": [
-        {
-          "name": "Mejeristerna",
-          "url": "https://open.spotify.com/artist/27P0zwyOk3CLx4sTBwj1ha"
-        }
-      ],
-      "duration_ms": 114912,
-      "name": "JAG \u00c4R EN UTEBAJSARE",
-      "url": "https://open.spotify.com/track/3Spjj4LM4n7LSVn9smaR3E"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "FUCKA UR",
         "url": "https://open.spotify.com/album/0Ysvz0OTF0bXlMRIIGeQ5K"
@@ -1733,7 +1577,7 @@
       "url": "https://open.spotify.com/track/49fxUYsoVY6HA7FlmvlFAd"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "P\u00c5 LOKAL",
         "url": "https://open.spotify.com/album/6PzvVlavNNqMMWzSKusoX5"
@@ -1753,7 +1597,7 @@
       "url": "https://open.spotify.com/track/5pF1DygehF10LeCIpV936H"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "L\u00c4TTAR",
         "url": "https://open.spotify.com/album/6WvdffDFUri9uyYv4VznKR"
@@ -1769,7 +1613,7 @@
       "url": "https://open.spotify.com/track/0haBpxAKNDWImmQf91NPdF"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "ALLURE",
         "url": "https://open.spotify.com/album/4Zt8RNa8Xf2GqIX077ezbG"
@@ -1789,7 +1633,7 @@
       "url": "https://open.spotify.com/track/3aSfDNWONpRvFYV85E7inq"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "KAOZ & KAOZ",
         "url": "https://open.spotify.com/album/6vShMJiOw9pfu6E2LJfQUd"
@@ -1809,27 +1653,7 @@
       "url": "https://open.spotify.com/track/1CZ2g32bQJjTrSGmQasApY"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "H\u00c5RT PAKET",
-        "url": "https://open.spotify.com/album/69sAwg4TRAdo9uGZjMc3aJ"
-      },
-      "artists": [
-        {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        },
-        {
-          "name": "KLIKK",
-          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
-        }
-      ],
-      "duration_ms": 148333,
-      "name": "H\u00c5RT PAKET",
-      "url": "https://open.spotify.com/track/2cyL2qFKQcEDbRiKGQecY0"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Kv\u00e4llen tar aldrig slut",
         "url": "https://open.spotify.com/album/1e1FE357U2LZ6BtPolgRRF"
@@ -1849,7 +1673,7 @@
       "url": "https://open.spotify.com/track/0P8bAaQDNklUlZ6Izjinll"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Kurtis\u00f8r 2026",
         "url": "https://open.spotify.com/album/0Dz7qLsSVwDeGB0Xfqptjf"
@@ -1865,139 +1689,7 @@
       "url": "https://open.spotify.com/track/5xiYCXTo3PnbkjdRRcuMdq"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Helt Aktiv",
-        "url": "https://open.spotify.com/album/0XcZV8OZ00dj6IYbfTrpaI"
-      },
-      "artists": [
-        {
-          "name": "Papi Santana",
-          "url": "https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ"
-        },
-        {
-          "name": "Kid Canady",
-          "url": "https://open.spotify.com/artist/3dk8QXIPYOpzqiQkcA7NYN"
-        }
-      ],
-      "duration_ms": 138394,
-      "name": "Helt Aktiv",
-      "url": "https://open.spotify.com/track/0bjlFt58yASZpLsTPb1eT1"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Bad boys",
-        "url": "https://open.spotify.com/album/70meEZFZI6Ka8HGd0rV4jF"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 152343,
-      "name": "Bad boys",
-      "url": "https://open.spotify.com/track/4rjv15I95Y3XYudadxS15j"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "SLUTA LEKA SV\u00c5R",
-        "url": "https://open.spotify.com/album/5UbGgRELerXlQ3mKosYBcz"
-      },
-      "artists": [
-        {
-          "name": "vem e du",
-          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
-        }
-      ],
-      "duration_ms": 165509,
-      "name": "SLUTA LEKA SV\u00c5R",
-      "url": "https://open.spotify.com/track/0JJk1ZMoWEvqbmpC5pDu0r"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Natten l\u00e5ng",
-        "url": "https://open.spotify.com/album/6LuVNWHTG1KxIkvPkt4Iqb"
-      },
-      "artists": [
-        {
-          "name": "Mozby",
-          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
-        },
-        {
-          "name": "\u00d6rnen",
-          "url": "https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "Natten l\u00e5ng",
-      "url": "https://open.spotify.com/track/09gJYVF1AvPS3aczYBemXU"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "God Jul & Gott Nytt J\u00e4vla \u00c5r",
-        "url": "https://open.spotify.com/album/2V8Uep6oiBXv7gweFfu3gO"
-      },
-      "artists": [
-        {
-          "name": "Rivstart",
-          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
-        },
-        {
-          "name": "Mange Olsson",
-          "url": "https://open.spotify.com/artist/40vl1jO3M2576V7tP8h4SR"
-        }
-      ],
-      "duration_ms": 146829,
-      "name": "God Jul & Gott Nytt J\u00e4vla \u00c5r",
-      "url": "https://open.spotify.com/track/2skpRgUiX0tzb2vJJabR2R"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te & Rare",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 129450,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "SK\u00c5LER",
-        "url": "https://open.spotify.com/album/1kSVaAqrGdiXxh2gMUuCRH"
-      },
-      "artists": [
-        {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        },
-        {
-          "name": "Olav Haust",
-          "url": "https://open.spotify.com/artist/70zQbRqxcwsB6jJxNzd9Uv"
-        },
-        {
-          "name": "KLIKK",
-          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
-        }
-      ],
-      "duration_ms": 146909,
-      "name": "SK\u00c5LER",
-      "url": "https://open.spotify.com/track/7yZGSZLKWGWDHMfdaDuqzu"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "DUM",
         "url": "https://open.spotify.com/album/2wMFWGVcjh2Lx6Ipcb8cM5"
@@ -2013,7 +1705,7 @@
       "url": "https://open.spotify.com/track/1PgM2LfYjscFrgqXByCLHI"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "\u00c4ngel",
         "url": "https://open.spotify.com/album/1XzZWlJliZ1EICOfatbc4w"
@@ -2029,7 +1721,7 @@
       "url": "https://open.spotify.com/track/5J0hCDqpB5I9VHeJA0QvVZ"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "La meg leve",
         "url": "https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj"
@@ -2045,31 +1737,7 @@
       "url": "https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "ROYAL FLUSH 2026",
-        "url": "https://open.spotify.com/album/3BhrXAV958mWXjU0i0xHiK"
-      },
-      "artists": [
-        {
-          "name": "Truse Tarzan",
-          "url": "https://open.spotify.com/artist/2wvRnhwhYuLc04HMOciPiZ"
-        },
-        {
-          "name": "Roc Mul",
-          "url": "https://open.spotify.com/artist/2QkG2LM1QO37UTojXXTCvB"
-        },
-        {
-          "name": "mo$art.",
-          "url": "https://open.spotify.com/artist/6SMzQu8U3CpAEjZ6vJvczx"
-        }
-      ],
-      "duration_ms": 141036,
-      "name": "ROYAL FLUSH 2026",
-      "url": "https://open.spotify.com/track/3LfiCSpygEZ1xyk79yr491"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "BUBBEL",
         "url": "https://open.spotify.com/album/25QLKqY6jUG6W1rxtDTeoR"
@@ -2085,23 +1753,7 @@
       "url": "https://open.spotify.com/track/3qkMysp3aCh7zc9126F9Df"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "GOLF",
-        "url": "https://open.spotify.com/album/2ZTc5n62uK6TjSbpURO5Me"
-      },
-      "artists": [
-        {
-          "name": "GOLF",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Juniregnet",
-      "url": "https://open.spotify.com/track/7iZHA1WIBbDER2YvheX0kP"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "\u00d6STERMALM",
         "url": "https://open.spotify.com/album/7q5PPe33q2F2Bp2sXQS4oK"
@@ -2125,7 +1777,7 @@
       "url": "https://open.spotify.com/track/0xtnSMPcEsTihbdHF9UqHT"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Sluta.",
         "url": "https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P"
@@ -2141,31 +1793,7 @@
       "url": "https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "LA FAMILIA 2026",
-        "url": "https://open.spotify.com/album/2u8X7zCIi9PKrPS1Hfcrf5"
-      },
-      "artists": [
-        {
-          "name": "Truse Tarzan",
-          "url": "https://open.spotify.com/artist/2wvRnhwhYuLc04HMOciPiZ"
-        },
-        {
-          "name": "Roc Mul",
-          "url": "https://open.spotify.com/artist/2QkG2LM1QO37UTojXXTCvB"
-        },
-        {
-          "name": "mo$art.",
-          "url": "https://open.spotify.com/artist/6SMzQu8U3CpAEjZ6vJvczx"
-        }
-      ],
-      "duration_ms": 154240,
-      "name": "LA FAMILIA 2026",
-      "url": "https://open.spotify.com/track/0D0SsDYX1yNlGFq8S1dYK3"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Sjukt",
         "url": "https://open.spotify.com/album/1xxUs27O4QxTJTUTWlAmVz"
@@ -2181,7 +1809,7 @@
       "url": "https://open.spotify.com/track/1EYQoZCU5eyDIvVDkhgrbj"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Se P\u00e5 Meg",
         "url": "https://open.spotify.com/album/5WaoMzn9JLXkxar2AYt656"
@@ -2197,7 +1825,7 @@
       "url": "https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Blueprint",
         "url": "https://open.spotify.com/album/4UaZUfKJmUsKLzX1Jiy4Kv"
@@ -2213,7 +1841,7 @@
       "url": "https://open.spotify.com/track/1mTnJlYhJn44ZjcfMYHdQb"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "HYSJ (ICED)",
         "url": "https://open.spotify.com/album/5XfBIt784dpEj7JMVAmx81"
@@ -2237,59 +1865,7 @@
       "url": "https://open.spotify.com/track/3JXoRVmB1XBRx28aP8OoRJ"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Campingstol",
-        "url": "https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Campingstol",
-      "url": "https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Ordner seg",
-        "url": "https://open.spotify.com/album/6SwY7z3rIsFXhpuutGdmEu"
-      },
-      "artists": [
-        {
-          "name": "3D",
-          "url": "https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU"
-        }
-      ],
-      "duration_ms": 175181,
-      "name": "Ordner seg",
-      "url": "https://open.spotify.com/track/55gyKCjFV2nKhuWjhF7ZR6"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "AL\u00c9 AL\u00c9 (Ragga runt)",
-        "url": "https://open.spotify.com/album/4HyEyfAhIaXhmZ2qg4nRSi"
-      },
-      "artists": [
-        {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        },
-        {
-          "name": "KLIKK",
-          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
-        }
-      ],
-      "duration_ms": 166628,
-      "name": "AL\u00c9 AL\u00c9 (Ragga runt)",
-      "url": "https://open.spotify.com/track/0O2Pgvdv7HzGvJ2QthmQf1"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Deja vu",
         "url": "https://open.spotify.com/album/3C28scm6lummbH9Ztel5X7"
@@ -2305,23 +1881,7 @@
       "url": "https://open.spotify.com/track/6XBXt3FFVznJ1IDRa0fOdc"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "STQ",
-        "url": "https://open.spotify.com/album/78PCs1dcmaJuU2CyZEbaSG"
-      },
-      "artists": [
-        {
-          "name": "Raggarligan",
-          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "STQ",
-      "url": "https://open.spotify.com/track/1sh8EHvwVP24fQ5vkmbwJn"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Nachspiel",
         "url": "https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE"
@@ -2341,27 +1901,7 @@
       "url": "https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Lever Som Aldrig F\u00f8r (feat. Soppgirobygget)",
-        "url": "https://open.spotify.com/album/2Kek5X3lagfrxLqT49uIZY"
-      },
-      "artists": [
-        {
-          "name": "Ude Af Kontrol",
-          "url": "https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev"
-        },
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 122860,
-      "name": "Lever Som Aldrig F\u00f8r (feat. Soppgirobygget)",
-      "url": "https://open.spotify.com/track/5FN2WmM6V4vR8kas4KqckJ"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Skam 2026 (Hjemmesnekk)",
         "url": "https://open.spotify.com/album/5En8nMJ6zwfU3UGUqbLwpj"
@@ -2397,39 +1937,7 @@
       "url": "https://open.spotify.com/track/0GYT2gYTEE0EhYU2ZpXhKw"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "I m\u00f6rkret tillsammans",
-        "url": "https://open.spotify.com/album/6E5v08lWBRptYKXrf53Eeb"
-      },
-      "artists": [
-        {
-          "name": "Lia Larsson",
-          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
-        }
-      ],
-      "duration_ms": 142344,
-      "name": "I m\u00f6rkret tillsammans",
-      "url": "https://open.spotify.com/track/0bXVfaLuhBFzOjQBzDyO04"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Ge mig en \u00d6",
-        "url": "https://open.spotify.com/album/4X23Fz2oqTY2BTugbiTAe9"
-      },
-      "artists": [
-        {
-          "name": "LBSB",
-          "url": "https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "Ge mig en \u00d6",
-      "url": "https://open.spotify.com/track/0kIkppz6budbnMJgYwBvnM"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Alt Jeg Har",
         "url": "https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa"
@@ -2445,7 +1953,7 @@
       "url": "https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Roland Garros",
         "url": "https://open.spotify.com/album/5X4vo46idIojMrxYfpVipb"
@@ -2461,67 +1969,7 @@
       "url": "https://open.spotify.com/track/5IsstsiJAOYyf4hpEXt4Dk"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "J\u00c4GER & BIRA",
-        "url": "https://open.spotify.com/album/5LTOtoRCc66G1dpLOJzckr"
-      },
-      "artists": [
-        {
-          "name": "Rivstart",
-          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
-        }
-      ],
-      "duration_ms": 119111,
-      "name": "J\u00c4GER & BIRA",
-      "url": "https://open.spotify.com/track/2WeNklyiYBFl4peb5fuDam"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "\u00c5ngest med vodka",
-        "url": "https://open.spotify.com/album/7Aav4eSDYc79iXkc71IRbW"
-      },
-      "artists": [
-        {
-          "name": "Erik Meduza",
-          "url": "https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr"
-        },
-        {
-          "name": "The Barseb\u00e4ckz",
-          "url": "https://open.spotify.com/artist/7BssnPHoq2UviwEEpE1Dej"
-        }
-      ],
-      "duration_ms": 185671,
-      "name": "\u00c5ngest med vodka",
-      "url": "https://open.spotify.com/track/1Sd185JUV29fh6AYHgJcYw"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "H\u00c6NG (Matros 2026)",
-        "url": "https://open.spotify.com/album/3mCAcw7HC0hLBpDUkwrLZe"
-      },
-      "artists": [
-        {
-          "name": "Phill",
-          "url": "https://open.spotify.com/artist/1caxfZzRftKxfWglKFyXEj"
-        },
-        {
-          "name": "Benjiz",
-          "url": "https://open.spotify.com/artist/7fgX1bg0tR0qXOK9pguneg"
-        },
-        {
-          "name": "BERGREM",
-          "url": "https://open.spotify.com/artist/3xw4Fyy4UUWDSVfScqt2BH"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "H\u00c6NG (Matros 2026)",
-      "url": "https://open.spotify.com/track/6NHoFQTuq4Nn04dnWKbJgL"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "H\u00c4R & NU",
         "url": "https://open.spotify.com/album/5yj3haVqUfoh6RWChzQ6wU"
@@ -2541,23 +1989,7 @@
       "url": "https://open.spotify.com/track/56750K3bfGecD64ROya9p6"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "SVAG",
-        "url": "https://open.spotify.com/album/4qbumWkGdvo6HlNReuongj"
-      },
-      "artists": [
-        {
-          "name": "Kenneth Svensson",
-          "url": "https://open.spotify.com/artist/4ChUBIVdqsR82ZDAjdUvy6"
-        }
-      ],
-      "duration_ms": 122533,
-      "name": "SVAG",
-      "url": "https://open.spotify.com/track/7pgA4UVutmW2hktzYZXNuM"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "UPPENBART",
         "url": "https://open.spotify.com/album/6B8CngVy31ukIgv0cayn85"
@@ -2573,23 +2005,7 @@
       "url": "https://open.spotify.com/track/4meKZi0x36BTVKSbtsCFYs"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Minns mitt namn",
-        "url": "https://open.spotify.com/album/2G1WjZJR1HJpxqSKKV1qtn"
-      },
-      "artists": [
-        {
-          "name": "Dom F\u00f6rsta",
-          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
-        }
-      ],
-      "duration_ms": 181161,
-      "name": "Minns mitt namn",
-      "url": "https://open.spotify.com/track/4FKoUtIXG74AGE68KVEVnG"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "FUCK MITT EX",
         "url": "https://open.spotify.com/album/1FzUlKjvO9lEdKj5XUcrvU"
@@ -2605,7 +2021,7 @@
       "url": "https://open.spotify.com/track/5uZbNtwrtQKOCkXFoVOGxX"
     },
     {
-      "added_at": "2026-03-30 09:41:16",
+      "added_at": "2026-04-02 22:00:51",
       "album": {
         "name": "Det L\u00f8ser Seg",
         "url": "https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W"
@@ -2619,126 +2035,6 @@
       "duration_ms": 132727,
       "name": "Det L\u00f8ser Seg",
       "url": "https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "On One",
-        "url": "https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 163364,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/4zlD45eP54LYnhXtn5kYel"
-      },
-      "artists": [
-        {
-          "name": "Hjorterud All\u00e9",
-          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
-        }
-      ],
-      "duration_ms": 139746,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/3zX22ihHjV4y37ZSedjdKj"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "LINEDANCE (Vilka fucking moves)",
-        "url": "https://open.spotify.com/album/2VD2jvyBOrr7HG1zIRRYWI"
-      },
-      "artists": [
-        {
-          "name": "Rivstart",
-          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
-        }
-      ],
-      "duration_ms": 165821,
-      "name": "LINEDANCE (Vilka fucking moves)",
-      "url": "https://open.spotify.com/track/1aN59CSsjF3Lj9Nir699PS"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "HIGH STAKES 2026",
-        "url": "https://open.spotify.com/album/5x3q1YjcYkaPHNh2egJDZ4"
-      },
-      "artists": [
-        {
-          "name": "Prells",
-          "url": "https://open.spotify.com/artist/50Kop00cliTuhn1vCBNVkH"
-        },
-        {
-          "name": "Lille Saus",
-          "url": "https://open.spotify.com/artist/15saPvefLxxtw3nvTOCUg0"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "HIGH STAKES 2026",
-      "url": "https://open.spotify.com/track/11KM0ZgVaUhZkQ1dHd2YJH"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "G\u00e5r i trans (Jackass 2026)",
-        "url": "https://open.spotify.com/album/3lmidYMDUZCtNttwoNXFsN"
-      },
-      "artists": [
-        {
-          "name": "Prells",
-          "url": "https://open.spotify.com/artist/50Kop00cliTuhn1vCBNVkH"
-        },
-        {
-          "name": "DJ VLADI",
-          "url": "https://open.spotify.com/artist/7wRXf1DelGyBsmOj5hnOum"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "G\u00e5r i trans (Jackass 2026)",
-      "url": "https://open.spotify.com/track/5xf8FnmngQLVNquLSvEXiB"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 201459,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN"
-    },
-    {
-      "added_at": "2026-03-30 09:41:16",
-      "album": {
-        "name": "BANANANAS",
-        "url": "https://open.spotify.com/album/6eJNlN1SvQB9HrTSvjbcj6"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 145873,
-      "name": "BANANANAS",
-      "url": "https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K"
     }
   ],
   "unique_name": "30 km/h",

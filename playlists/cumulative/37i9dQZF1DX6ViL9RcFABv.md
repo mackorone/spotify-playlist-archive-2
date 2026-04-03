@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: Afonso Dubraz, Luís Trigacheiro
 
-459 songs - 1 day 0 hr 12 min
+461 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Ao Teu Ouvido \(feat\. Bárbara Tinoco\)](https://open.spotify.com/track/6bZkZEAd74aN460QLox8W9) | [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Ao Teu Ouvido \(feat\. Bárbara Tinoco\)](https://open.spotify.com/album/5l3QAHoU2IXYiyYspW9ZQA) | 3:36 | 2024-06-27 | 2024-11-22 |
 | [Apaga a Luz](https://open.spotify.com/track/3wsBY12jclLxRB8IkQkfFh) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU) | [Apaga a Luz](https://open.spotify.com/album/36heBACSXybLbTgwAHf8Ja) | 2:46 | 2024-10-10 | 2025-01-10 |
 | [Apagar A Sombra](https://open.spotify.com/track/1d85Pi8RAoGxB18gfu2Nk0) | [Milhanas](https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC) | [Apagar A Sombra](https://open.spotify.com/album/20LXGivwNOPfvMvTJWzRvE) | 2:46 | 2025-05-29 | 2025-07-04 |
-| [Aprende a Te Amar](https://open.spotify.com/track/3qZ2rMufNaOZgQnLz7dO7v) | [Nayra Mirella](https://open.spotify.com/artist/2I7XfmIcxcr0mVB2llZNb1) | [Aprende a Te Amar](https://open.spotify.com/album/32nOKRqeo3xdIfZMajmQ4P) | 3:07 | 2026-03-06 |  |
+| [Aprende a Te Amar](https://open.spotify.com/track/3qZ2rMufNaOZgQnLz7dO7v) | [Nayra Mirella](https://open.spotify.com/artist/2I7XfmIcxcr0mVB2llZNb1) | [Aprende a Te Amar](https://open.spotify.com/album/32nOKRqeo3xdIfZMajmQ4P) | 3:07 | 2026-03-06 | 2026-04-03 |
 | [Aqui pra Ti](https://open.spotify.com/track/0BQTqEVfJika55rjtiMy8L) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Aqui pra Ti](https://open.spotify.com/album/6QZVZg5aiEK1v0JO5csZ1J) | 3:34 | 2024-06-27 | 2025-01-17 |
 | [Arrependimento](https://open.spotify.com/track/3RvNfxUXCgf7xi665J7MyK) | [Beatriz Abrunhosa](https://open.spotify.com/artist/3obN0kv6cKvDcwGT1TMpTF) | [Arrependimento](https://open.spotify.com/album/4aAaMWdI0r8nCGfcvRE97Y) | 3:14 | 2026-01-16 | 2026-02-06 |
 | [As Mãos](https://open.spotify.com/track/5ntSogYQzyovUX84ez3Lwa) | [João Só](https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he) | [As Mãos](https://open.spotify.com/album/00g0rCExmeX34M2kZBD0Am) | 2:02 | 2024-12-06 | 2024-12-20 |
@@ -91,6 +91,7 @@
 | [Chumbo da Maria](https://open.spotify.com/track/1HH6XW60EYyp2n5PEnEW2a) | [Grupo Académico Seistetos \(Universidade Évora\)](https://open.spotify.com/artist/6UytzMPJfPy7zHhPXTDMvr) | [In Taberna](https://open.spotify.com/album/0WuKWDMs3yjtzQYzaIFsTA) | 3:18 | 2025-10-02 | 2025-10-10 |
 | [Chuva](https://open.spotify.com/track/2uB7S2blkS8H0HnzwWAQDS) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Chuva](https://open.spotify.com/album/0lHM4lNFAuARUulDjQALh4) | 2:52 | 2024-11-15 | 2025-05-09 |
 | [Chuva \- Acoustic](https://open.spotify.com/track/1J5dd7iOYWZovD8riV4HoS) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Chuva \(Remixes\)](https://open.spotify.com/album/3BzRQVHVG1cQ1JvTQBzAGC) | 2:55 | 2025-02-07 | 2025-04-04 |
+| [Chuva De Amor](https://open.spotify.com/track/0NUKgPv3y7seN48Ipm6HUM) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Chuva De Amor](https://open.spotify.com/album/6pJMUzRz6QHarHAV4CRbE0) | 3:50 | 2026-04-02 |  |
 | [Cidade](https://open.spotify.com/track/7jCwf4u2bLCWPfU8ljz7iK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [Cidade](https://open.spotify.com/album/07PnjkwXSysiILawDAjVDY) | 2:50 | 2026-02-20 |  |
 | [Cinco e Meia](https://open.spotify.com/track/6KGVT9dt9Avdo3uKXWt2me) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7) | [Cinco e Meia](https://open.spotify.com/album/1gelKP5jeCV5HzqPOp9TWH) | 2:40 | 2024-11-29 | 2026-01-23 |
 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 | 2024-06-27 | 2024-07-05 |
@@ -183,9 +184,10 @@
 | [Fica À Espera](https://open.spotify.com/track/4n7NYDk3R0InjDTUMWyQ07) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Fica À Espera](https://open.spotify.com/album/47pnlWiEK2a1Weg7OiMbfF) | 3:21 | 2025-08-28 | 2025-10-03 |
 | [Ficar Óai](https://open.spotify.com/track/1nDOYhM8Xl18RAEzoN3ZAU) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Zé Amaro](https://open.spotify.com/artist/4RPhwXdkeoT1IYQ1sQIEvi) | [Ficar Óai](https://open.spotify.com/album/03GkXezi0YyOGnE5AbGrfX) | 3:12 | 2025-09-26 |  |
 | [Filha de Lisboa](https://open.spotify.com/track/4DUfHfmKcl4YKTlrgFAjLD) | [Catarina Castanhas](https://open.spotify.com/artist/7oMMnf1YRqDS8mJ1GYGwHf) | [Filha de Lisboa](https://open.spotify.com/album/2AvgPZA0PszARWc0zS5Fyf) | 3:04 | 2024-07-18 | 2024-09-06 |
-| [Fim](https://open.spotify.com/track/3c7G3nVXRjCztM0eBd6wvq) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Fim](https://open.spotify.com/album/14ml4nSlwTf5aBFqGZ2UIV) | 3:09 | 2026-03-13 |  |
+| [Fim](https://open.spotify.com/track/3c7G3nVXRjCztM0eBd6wvq) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Fim](https://open.spotify.com/album/14ml4nSlwTf5aBFqGZ2UIV) | 3:09 | 2026-03-13 | 2026-04-03 |
 | [Fio Invisível](https://open.spotify.com/track/6xY6lXZckuRYzfPa0q4ZBS) | [Amor Perdido](https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs) | [Fio Invisível](https://open.spotify.com/album/2wExmbyoK3Ry5JktocnYxy) | 2:59 | 2026-02-06 | 2026-02-27 |
 | [Flash](https://open.spotify.com/track/6bUbxSQqLIS7zzgjCF7hKi) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X) | [Flash](https://open.spotify.com/album/48CCNFMg4Mw7GOiL66oRvG) | 3:24 | 2024-09-05 | 2024-11-15 |
+| [Foi Assim](https://open.spotify.com/track/6frDxyg5KyEYoP8Q9d9LF2) | [Los Romeros](https://open.spotify.com/artist/5R9lB5jcI6GXb39hkI6LiI) | [Foi Assim](https://open.spotify.com/album/2pR2ifNO18Hwu781SST7ad) | 3:35 | 2026-04-02 |  |
 | [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/track/3Q4rvGBoHiTxNDqR13iaKF) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/album/5QpUym9AFfvPiT74s7T3XM) | 3:53 | 2024-08-15 | 2025-03-14 |
 | [Foste Embora](https://open.spotify.com/track/6elFmzmHRGXeqyya232ZFu) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Aparentemente \- vol 1](https://open.spotify.com/album/626ozUdqBKuPW0cmLkHEuJ) | 2:39 | 2024-06-27 | 2025-02-14 |
 | [Foste Tu](https://open.spotify.com/track/2aQUqkcVAQgCPmsXOQ9Zkj) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Foste Tu](https://open.spotify.com/album/5EcFzVIvBhlgBmYuwX7lWR) | 3:14 | 2025-03-07 | 2025-05-16 |

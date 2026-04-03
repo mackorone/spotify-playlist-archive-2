@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Ha\u00efti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 36548,
+  "num_followers": 36556,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-02-26 17:17:47",
       "album": {
+        "name": "Our Own World",
+        "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
+      },
+      "artists": [
+        {
+          "name": "J-BEATZ",
+          "url": "https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU"
+        }
+      ],
+      "duration_ms": 293918,
+      "name": "It's Getting Late",
+      "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
+    },
+    {
+      "added_at": "2026-02-26 17:17:47",
+      "album": {
         "name": "She's Hot",
         "url": "https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 238524,
       "name": "She's Hot",
       "url": "https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW"
-    },
-    {
-      "added_at": "2026-02-26 17:17:47",
-      "album": {
-        "name": "Our Own World",
-        "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
-      },
-      "artists": [
-        {
-          "name": "J-BEATZ",
-          "url": "https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU"
-        }
-      ],
-      "duration_ms": 293918,
-      "name": "It's Getting Late",
-      "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
     },
     {
       "added_at": "2026-02-26 17:17:47",

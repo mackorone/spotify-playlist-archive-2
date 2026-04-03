@@ -2255,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/4kzIspUEy5FsEdT9ElD7gr"
+      },
+      "artists": [
+        {
+          "name": "Samuel Shipway",
+          "url": "https://open.spotify.com/artist/2dgvSwqsBBsIGxZjR3Qnn3"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183611,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/2I5Ne7pq4adv8mLv6zye1U"
+    },
+    {
+      "album": {
         "name": "Do I Do",
         "url": "https://open.spotify.com/album/6qMzV5XcEmrofQPYtci0Np"
       },
@@ -2898,6 +2916,24 @@
       "duration_ms": 152906,
       "name": "El\u00e4m\u00e4 on kurjaa",
       "url": "https://open.spotify.com/track/44AfFD794wWql6ToThNiS2"
+    },
+    {
+      "album": {
+        "name": "El\u00e4m\u00e4lt\u00e4 kaiken sain",
+        "url": "https://open.spotify.com/album/0FG1oFcx5c8cFkFuQdcWNs"
+      },
+      "artists": [
+        {
+          "name": "joku iiris",
+          "url": "https://open.spotify.com/artist/0NhMIscHF1pXKbhSv0nvbr"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223429,
+      "name": "El\u00e4m\u00e4lt\u00e4 kaiken sain",
+      "url": "https://open.spotify.com/track/3sViq6gsY7I4uMG2z1YpUr"
     },
     {
       "album": {
@@ -5146,6 +5182,24 @@
       "duration_ms": 385185,
       "name": "Huvin vuoksi yksin Kouvolaan",
       "url": "https://open.spotify.com/track/1H35eFpEYaZpgPXpaAKqWb"
+    },
+    {
+      "album": {
+        "name": "Hydro",
+        "url": "https://open.spotify.com/album/7rqdOaOOGzvOx5W7uwCFh7"
+      },
+      "artists": [
+        {
+          "name": "Efka Crush",
+          "url": "https://open.spotify.com/artist/7F5rSmDXew3j6VX4e60dJF"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135211,
+      "name": "Hydro",
+      "url": "https://open.spotify.com/track/2Wcvgc3wKyLAk9f6pOAZd3"
     },
     {
       "album": {
@@ -16939,6 +16993,28 @@
     },
     {
       "album": {
+        "name": "Sweetheart (feat. Topi Saha)",
+        "url": "https://open.spotify.com/album/3cBuBd8Csq8AMb0m66SS9i"
+      },
+      "artists": [
+        {
+          "name": "Annika Pudas",
+          "url": "https://open.spotify.com/artist/1UEWzQeV0TWpwFQvhIeJiA"
+        },
+        {
+          "name": "Topi Saha",
+          "url": "https://open.spotify.com/artist/634z144xl609g8O217USKM"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196627,
+      "name": "Sweetheart (feat. Topi Saha)",
+      "url": "https://open.spotify.com/track/0raRqU2pwKRw69n0m3rGOT"
+    },
+    {
+      "album": {
         "name": "MBL",
         "url": "https://open.spotify.com/album/44gIQmqoqG3cacndipATD8"
       },
@@ -19327,6 +19403,24 @@
     },
     {
       "album": {
+        "name": "Valmis",
+        "url": "https://open.spotify.com/album/1HYxXOIaXc35BGrmbMwnpH"
+      },
+      "artists": [
+        {
+          "name": "Haavat",
+          "url": "https://open.spotify.com/artist/5kkqhzRK0Iq7REjdlz2Swo"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213472,
+      "name": "Valmis",
+      "url": "https://open.spotify.com/track/6Tzxwl980X0jQxi0nWAM22"
+    },
+    {
+      "album": {
         "name": "Valo Varjon",
         "url": "https://open.spotify.com/album/6TliPIevIULwORE06DeonI"
       },
@@ -20504,6 +20598,24 @@
       "duration_ms": 258876,
       "name": "Ykk\u00f6nen nolla",
       "url": "https://open.spotify.com/track/4eqQBbwVAfzisvOeqtvkoX"
+    },
+    {
+      "album": {
+        "name": "Yks ja yks",
+        "url": "https://open.spotify.com/album/1diTF3GKfc7K5JomEzcbdy"
+      },
+      "artists": [
+        {
+          "name": "Saimaa",
+          "url": "https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214330,
+      "name": "Yks ja yks",
+      "url": "https://open.spotify.com/track/5u7e3UoOATPU6D1mkmU3od"
     },
     {
       "album": {

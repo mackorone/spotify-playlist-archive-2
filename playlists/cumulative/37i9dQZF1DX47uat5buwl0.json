@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Banger na banger. Cover: Bausa \ud83d\udd25",
+  "description": "Banger na banger. Cover: Lil Kleine \ud83d\udd25",
   "name": "Studenten Hits 2026",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 131547,
       "name": "Aan",
       "url": "https://open.spotify.com/track/4nFslMaQEbvAKAuJ0UryJB"
@@ -104,6 +104,24 @@
       "duration_ms": 174857,
       "name": "ADHD",
       "url": "https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB"
+    },
+    {
+      "album": {
+        "name": "Adten",
+        "url": "https://open.spotify.com/album/1d2nnKHZC1Z0FUP168kF6i"
+      },
+      "artists": [
+        {
+          "name": "Young Dylan",
+          "url": "https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Adten",
+      "url": "https://open.spotify.com/track/1fAAnr492hYqf2XC0nsX9u"
     },
     {
       "album": {
@@ -522,7 +540,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 166425,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 156824,
       "name": "Dansen Met Een Engel",
       "url": "https://open.spotify.com/track/55bhfVPAdefPI7ZoJTVCTN"
@@ -910,6 +928,24 @@
       "duration_ms": 132283,
       "name": "Down 4 Whatever",
       "url": "https://open.spotify.com/track/0Y2jYeRtebUMr21kZwK2Fi"
+    },
+    {
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164336,
+      "name": "Drugsprobleem",
+      "url": "https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1"
     },
     {
       "album": {
@@ -2324,6 +2360,32 @@
       "duration_ms": 211862,
       "name": "One Night Of Love",
       "url": "https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX"
+    },
+    {
+      "album": {
+        "name": "onsportief.",
+        "url": "https://open.spotify.com/album/7GHS6giQdBzegtU2DQwGHN"
+      },
+      "artists": [
+        {
+          "name": "MANUEL&GEZA",
+          "url": "https://open.spotify.com/artist/6fnPjHWdsz5fMFSikcmRdM"
+        },
+        {
+          "name": "GEZA",
+          "url": "https://open.spotify.com/artist/07muF3TcFnHQgGHBT7A0mV"
+        },
+        {
+          "name": "Manuel Broekman",
+          "url": "https://open.spotify.com/artist/3OwIcjU2rTf7nVll84Xu9R"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199426,
+      "name": "onsportief.",
+      "url": "https://open.spotify.com/track/6W5DFQUHwSad1q1ddYpVef"
     },
     {
       "album": {

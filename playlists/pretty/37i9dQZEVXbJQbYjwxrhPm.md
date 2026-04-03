@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 27 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
 | 28 | [they don’t know ’bout us](https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:44 |
 | 29 | [Halkata](https://open.spotify.com/track/4D9xZqswwIE1WR0d8RpuTb) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI) | [Halkata](https://open.spotify.com/album/6xtxEfxyVJ0vFnjTihgApk) | 3:21 |
-| 30 | [С мен да вървиш](https://open.spotify.com/track/19nkJXLnVH1WtINrTZ2wl6) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Dzhena](https://open.spotify.com/artist/6bqs6dEjDh3fkybEZeqj0k) | [С мен да вървиш](https://open.spotify.com/album/0uMzPEOku3ih5kJyHwL9r6) | 4:10 |
+| 30 | [S men da varvish](https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt) | [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Da ti bada korona](https://open.spotify.com/album/4Y6emNYvaVKOwU5AFL40nM) | 4:12 |
 | 31 | [Aliens](https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:47 |
 | 32 | [Like Animals](https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:09 |
 | 33 | [2.0](https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:49 |
 | 34 | [Бам Бам Бам](https://open.spotify.com/track/3cKFXnDX2AqTrLXGPIBI6j) | [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Бам Бам Бам](https://open.spotify.com/album/4RhHrWwy3WupzaU8JwbpIa) | 3:09 |
-| 35 | [Ne me zasluzhavash](https://open.spotify.com/track/4apCbBmGlsVy3VM2EeN2t6) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Dokato sartseto bie](https://open.spotify.com/album/0bLraMzgIu8e8Gn7oYJtm4) | 3:33 |
+| 35 | [Ne me zasluzhavash](https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Dokato sartseto bie](https://open.spotify.com/album/4WIsDXVbpQ86N4brU4jVUl) | 3:33 |
 | 36 | [Тази дискотека](https://open.spotify.com/track/4ZMpVZ52QE7EMJ35F5ReN2) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Тази дискотека](https://open.spotify.com/album/4BKWSEifxxparI4dOCRrcq) | 3:33 |
 | 37 | [Добро момче](https://open.spotify.com/track/1KpfzzQNYJ56vqhOXk0SEt) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [Добро момче](https://open.spotify.com/album/4g0MxR8h6gHyyJeNB3AuJ5) | 3:18 |
-| 38 | [Bez teb](https://open.spotify.com/track/3zZ1efLexshtTkHLRBbgDh) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Bez teb](https://open.spotify.com/album/3oiqu7Pp11nVJM6OliVkAZ) | 3:04 |
+| 38 | [Bez teb](https://open.spotify.com/track/3zlH4fylzmEq4QX6zjn3Ny) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Bez teb](https://open.spotify.com/album/6zOxZsZ7mYY2jsJRpy2QiE) | 3:04 |
 | 39 | [Откачила](https://open.spotify.com/track/3fEpl8LU6WyIuE3C9P6pfI) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ), [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Откачила](https://open.spotify.com/album/52P4CGdygRdEWNJWGSS2Eu) | 2:55 |
 | 40 | [Ще ме търсиш](https://open.spotify.com/track/4DxdsSAzo1IVE2PRg0WsG8) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Ще ме търсиш](https://open.spotify.com/album/07jRWauI3LME1RONMB6kLI) | 3:10 |
 | 41 | [Джумбаре](https://open.spotify.com/track/1qKImzYMfCmhZWYZ4hmYOq) | [Krissy](https://open.spotify.com/artist/1tQw6OfMksrYe6ZipFVFzo), [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Джумбаре](https://open.spotify.com/album/2sZEOvZ7WBU6SsWD8yNc8d) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [One More Night](https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:47 |
 | 50 | [Ministarat Na Veselieto](https://open.spotify.com/track/653RTe2vklxgMHS2yfYWqo) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD), [Lora Karajova](https://open.spotify.com/artist/5io8vM6q4wMK12XmOdEYIt), [Bo\-Bo](https://open.spotify.com/artist/0Vgy22BLANHhK4IXt52xEB) | [Ministarat Na Veselieto](https://open.spotify.com/album/2UDNAQc1BPelhkcRxCCyHO) | 3:26 |
 
-Snapshot ID: `MWCDGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MWHUmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

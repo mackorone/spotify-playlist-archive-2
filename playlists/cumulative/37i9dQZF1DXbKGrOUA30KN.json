@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: TJARK",
+  "description": "Deutschpop, der jetzt passiert. Cover: Bosse",
   "name": "POPLAND",
   "tracks": [
     {
@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Atzensong",
+        "url": "https://open.spotify.com/album/5pVS6LrpxBhGqo0eioQTNQ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "Atzensong",
+      "url": "https://open.spotify.com/track/2SdYW2nf0GJmtDiORkw5CL"
+    },
+    {
+      "album": {
         "name": "AUF WIEDERSEHEN",
         "url": "https://open.spotify.com/album/3Zetjt6Tbcmk8uvKyJ0UWX"
       },
@@ -1041,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "bitte bleibt",
+        "url": "https://open.spotify.com/album/6qn9DZ93ArDVmazACHQjZC"
+      },
+      "artists": [
+        {
+          "name": "cami",
+          "url": "https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178912,
+      "name": "bitte bleibt",
+      "url": "https://open.spotify.com/track/6RAIxtTwirHYMrQxYC51wY"
+    },
+    {
+      "album": {
         "name": "Blaue Flecken",
         "url": "https://open.spotify.com/album/67UTVVvNulF2gfV1oo0o5Q"
       },
@@ -1312,7 +1348,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 139973,
       "name": "Das Leben",
       "url": "https://open.spotify.com/track/4uCExAnSFZqLYiKTdcr83M"
@@ -1366,7 +1402,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 156281,
       "name": "Das Leben ruft",
       "url": "https://open.spotify.com/track/3OYZsuAx0PgQSOdgu3neaS"
@@ -1960,7 +1996,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 205768,
       "name": "Einmal alles bitte (mit Clara L\u00f6sel)",
       "url": "https://open.spotify.com/track/6eV6sETHiD3rhpJc2I1o4Q"
@@ -2260,6 +2296,24 @@
       "duration_ms": 116733,
       "name": "Filmriss",
       "url": "https://open.spotify.com/track/6MXGRSgIS9jHJ0mWlAO75d"
+    },
+    {
+      "album": {
+        "name": "Flackern",
+        "url": "https://open.spotify.com/album/0hgdilqnbJgIbIywMSGJt9"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177319,
+      "name": "Flackern",
+      "url": "https://open.spotify.com/track/3ThXfB9n13QWWaJIB6xF2A"
     },
     {
       "album": {
@@ -2596,7 +2650,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 156315,
       "name": "Gib uns nicht auf",
       "url": "https://open.spotify.com/track/4Rfv2xTvaOIrJpYTmrMiju"
@@ -3458,7 +3512,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 148332,
       "name": "Interstellar (Zwischen den Sternen)",
       "url": "https://open.spotify.com/track/5PQUtofqhSPbfsC3Mi4YtS"
@@ -4720,7 +4774,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 182874,
       "name": "mein n\u00e4chstes leben",
       "url": "https://open.spotify.com/track/6atEiNS1RXIIEfWYntlE7T"
@@ -5335,6 +5389,32 @@
     },
     {
       "album": {
+        "name": "ok wenn du weinst",
+        "url": "https://open.spotify.com/album/5pbngCjT6zUmGfHxI3SsRq"
+      },
+      "artists": [
+        {
+          "name": "Strob",
+          "url": "https://open.spotify.com/artist/0JP5ABLaBXOg8HFsxUoPzC"
+        },
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        },
+        {
+          "name": "zuender",
+          "url": "https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121829,
+      "name": "ok wenn du weinst",
+      "url": "https://open.spotify.com/track/7HcAbD1vX5zznHjZJQEPi5"
+    },
+    {
+      "album": {
         "name": "OOTD",
         "url": "https://open.spotify.com/album/5uI3XadrVfI5iAPDMBnUdv"
       },
@@ -5466,6 +5546,24 @@
     {
       "album": {
         "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/2rRZZ8Q95JchxhdDIFNKk7"
+      },
+      "artists": [
+        {
+          "name": "ela.",
+          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5gqme2nzBjIcCPuDH89eC5"
+    },
+    {
+      "album": {
+        "name": "Peter Pan",
         "url": "https://open.spotify.com/album/5w7zO3LXptH8ZzEGY2MLpS"
       },
       "artists": [
@@ -5588,6 +5686,24 @@
       "duration_ms": 203196,
       "name": "Pinienb\u00e4ume",
       "url": "https://open.spotify.com/track/4eBzQbMeVBvPoG5PHx5CGF"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/1LA7G0YA9KMLm7KxoRwMLh"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/0ZCbxUPZReHqmDsGmiRvL1"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212896,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/2Ci5HifAZvrqwgvioCuuki"
     },
     {
       "album": {
@@ -6009,6 +6125,24 @@
     },
     {
       "album": {
+        "name": "Sommerlieder",
+        "url": "https://open.spotify.com/album/6rJguu3RRo0iJQmvjG8sxu"
+      },
+      "artists": [
+        {
+          "name": "Savvy",
+          "url": "https://open.spotify.com/artist/31PAzAvprOXLSA01ff7elC"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130720,
+      "name": "Sommerlieder",
+      "url": "https://open.spotify.com/track/0FBtNx5ldQm3t2knkG5fNa"
+    },
+    {
+      "album": {
         "name": "Sommerregen (mit MilleniumKid & Domiziana)",
         "url": "https://open.spotify.com/album/3vEmVPHg28S1JNx5yloV2E"
       },
@@ -6230,7 +6364,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 160189,
       "name": "Suffering In Style",
       "url": "https://open.spotify.com/track/0LzTrNBOxEoMxPqky7Z3la"
@@ -6833,6 +6967,24 @@
     },
     {
       "album": {
+        "name": "Was du nicht siehst",
+        "url": "https://open.spotify.com/album/3DxsfptcHKBfMg3f3rQVWU"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Was du nicht siehst",
+      "url": "https://open.spotify.com/track/1xDt2hyZhp0ChDl4zynHku"
+    },
+    {
+      "album": {
         "name": "WAS ICH BIN",
         "url": "https://open.spotify.com/album/2eqpPfHpit3GmkMsbUHujt"
       },
@@ -7148,7 +7300,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 133529,
       "name": "Wenn du mir fehlst",
       "url": "https://open.spotify.com/track/3UuUOJMJmrhdRoWtEdfr9X"
@@ -7376,7 +7528,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 169699,
       "name": "wie sch\u00f6n",
       "url": "https://open.spotify.com/track/0tGmUBMkkICi049JU5rm18"
@@ -7640,6 +7792,24 @@
       "duration_ms": 227163,
       "name": "Zusammen ist man weniger kaputt",
       "url": "https://open.spotify.com/track/20O97YynklTMV7CBBqv7rq"
+    },
+    {
+      "album": {
+        "name": "\u00c7a va aller",
+        "url": "https://open.spotify.com/album/2UGM3D9VjjIAIB2658LQp7"
+      },
+      "artists": [
+        {
+          "name": "Queen Mahoro",
+          "url": "https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151646,
+      "name": "\u00c7a va aller",
+      "url": "https://open.spotify.com/track/5HDCn7jnmb9SDwn1btDGwi"
     },
     {
       "album": {

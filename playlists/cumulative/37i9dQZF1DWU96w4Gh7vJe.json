@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207920,
+      "name": "Kabisado",
+      "url": "https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M"
+    },
+    {
+      "album": {
         "name": "kahel na langit",
         "url": "https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ"
       },
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 186240,
       "name": "Para Sa Akin",
       "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"

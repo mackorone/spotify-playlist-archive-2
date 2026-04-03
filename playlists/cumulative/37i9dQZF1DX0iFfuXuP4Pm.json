@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Ate",
+        "url": "https://open.spotify.com/album/5A4eJARS7eP1fdKBG7kJDw"
+      },
+      "artists": [
+        {
+          "name": "Ely Buendia",
+          "url": "https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241855,
+      "name": "Ate",
+      "url": "https://open.spotify.com/track/6Lsts5Jn22moVr4H5FTtAx"
+    },
+    {
+      "album": {
         "name": "Atin Ang Walang Hanggan",
         "url": "https://open.spotify.com/album/73Xv8DhknPr6TCBtPSBcPe"
       },
@@ -758,6 +776,24 @@
       "duration_ms": 144000,
       "name": "Ayoko Magmadali",
       "url": "https://open.spotify.com/track/5v0DTg7KJdp0rxY0DcJDr2"
+    },
+    {
+      "album": {
+        "name": "AYOS",
+        "url": "https://open.spotify.com/album/4rr0Zu5EuhUVKWu89qi8Ke"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218863,
+      "name": "AYOS",
+      "url": "https://open.spotify.com/track/68dmr672B6cZq1LXrhFToX"
     },
     {
       "album": {
@@ -2023,6 +2059,28 @@
     },
     {
       "album": {
+        "name": "Wakas At Simula",
+        "url": "https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        },
+        {
+          "name": "JOLIN",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Emoji",
+      "url": "https://open.spotify.com/track/1WgkRboDwSJLVKvv9bthvR"
+    },
+    {
+      "album": {
         "name": "ERE",
         "url": "https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD"
       },
@@ -3237,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "i know u by heart",
+        "url": "https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "i know u by heart",
+      "url": "https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY"
+    },
+    {
+      "album": {
         "name": "true orange",
         "url": "https://open.spotify.com/album/1eWaVsgQhg4BXn2UowMT9O"
       },
@@ -4204,7 +4280,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 279248,
       "name": "kung para sa 'yo",
       "url": "https://open.spotify.com/track/78n4nnldHAH1GawfHlvy2m"
@@ -4374,7 +4450,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 177517,
       "name": "Lapit Kapit",
       "url": "https://open.spotify.com/track/1bHr7b32kUEQMwv159ZB4y"
@@ -5150,7 +5226,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 232500,
       "name": "MATIK",
       "url": "https://open.spotify.com/track/6m8zHi1isEk6pSPN7j1ogR"
@@ -6002,7 +6078,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 201750,
       "name": "Ngiti",
       "url": "https://open.spotify.com/track/0OzQ6q4AErZG5kJGA3wbcN"
@@ -6472,6 +6548,24 @@
       "duration_ms": 181032,
       "name": "Pagitan",
       "url": "https://open.spotify.com/track/09l7DSBPUiqqyDEeQ2au3o"
+    },
+    {
+      "album": {
+        "name": "Pagmamahal",
+        "url": "https://open.spotify.com/album/4veS7T0v7QLIXnpT3pkMci"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188190,
+      "name": "Pagmamahal",
+      "url": "https://open.spotify.com/track/2wDKvXRpikiUEvNBEjGRPa"
     },
     {
       "album": {
@@ -7896,7 +7990,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 180588,
       "name": "Sabihin Mo Lang",
       "url": "https://open.spotify.com/track/7JGChCgGGxVdPMxopSTzzN"
@@ -7932,7 +8026,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 259058,
       "name": "Saksi Ang Langit",
       "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
@@ -9126,6 +9220,44 @@
       "duration_ms": 210000,
       "name": "Tequila Rose",
       "url": "https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0"
+    },
+    {
+      "album": {
+        "name": "The Helly What",
+        "url": "https://open.spotify.com/album/7qCw3yKpSmKLx5C2uKIEEn"
+      },
+      "artists": [
+        {
+          "name": "Kartell'em",
+          "url": "https://open.spotify.com/artist/4e4flHlMWdF3KOADVBTMXo"
+        },
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        },
+        {
+          "name": "Waiian",
+          "url": "https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29"
+        },
+        {
+          "name": "Wavyier",
+          "url": "https://open.spotify.com/artist/5BiH3cDOIyyAQixJ0JcyNw"
+        },
+        {
+          "name": "Ne7in",
+          "url": "https://open.spotify.com/artist/7xLdWx1ZNY9LnvPZo7BbS3"
+        },
+        {
+          "name": "Nickname",
+          "url": "https://open.spotify.com/artist/7oPgFmJIfapueMliwOjBiH"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161624,
+      "name": "The Helly What",
+      "url": "https://open.spotify.com/track/1a4wNQKai7Z9zpybqmpcU8"
     },
     {
       "album": {

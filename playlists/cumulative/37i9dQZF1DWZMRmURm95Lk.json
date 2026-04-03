@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "La Migliore Stagione",
+        "url": "https://open.spotify.com/album/6Fn8UnTIOM12LpLniQA4wq"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191016,
+      "name": "Amore Goodbye",
+      "url": "https://open.spotify.com/track/2jYzT33cv1DNsAS9iZaG0d"
+    },
+    {
+      "album": {
         "name": "Amore puro",
         "url": "https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD"
       },
@@ -4112,6 +4130,36 @@
       "duration_ms": 204120,
       "name": "FLOW SUI GRADINI #15 (Badman) [feat. Ensi & Jack The Smoker]",
       "url": "https://open.spotify.com/track/2PEaAW2l39LLfoJD1UBNnI"
+    },
+    {
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/4tpC8UMAe1Usi93NaKaez8"
+      },
+      "artists": [
+        {
+          "name": "Giovane Feddini",
+          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
+        },
+        {
+          "name": "Anagogia",
+          "url": "https://open.spotify.com/artist/2Z7eQuEsvITejxmWouud3B"
+        },
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "Dok the Beatmaker",
+          "url": "https://open.spotify.com/artist/7dZlzpWrOs9qr1qJgxfoPL"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175878,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/7FolfMl59cPBxfW92Kbd1L"
     },
     {
       "album": {
@@ -8160,6 +8208,32 @@
       "duration_ms": 159000,
       "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
       "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
+    },
+    {
+      "album": {
+        "name": "MORENDO AD OCCHI APERTI",
+        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "MONTANA (feat. RRARI DAL TACCO)",
+      "url": "https://open.spotify.com/track/1BxMEw38wEwSRWwywaRxu4"
     },
     {
       "album": {
@@ -13864,7 +13938,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 242758,
       "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
       "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
@@ -13922,7 +13996,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 218118,
       "name": "Vertigine Soggettiva",
       "url": "https://open.spotify.com/track/0zDVgdDEscFZveCA05m3f1"
@@ -14046,7 +14120,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 190843,
       "name": "VIZI CAPITALI",
       "url": "https://open.spotify.com/track/78b0aztW6ygsDMJeNiwaTQ"
@@ -14179,6 +14253,32 @@
     },
     {
       "album": {
+        "name": "Who the fuck is this!!!",
+        "url": "https://open.spotify.com/album/2gTI3FRq0y6O2Crxvn3CZi"
+      },
+      "artists": [
+        {
+          "name": "Lord Madness",
+          "url": "https://open.spotify.com/artist/2C8ebHS0C1Ei0SGrK5j8e7"
+        },
+        {
+          "name": "Brain",
+          "url": "https://open.spotify.com/artist/3kUliBZD9sFj0YLIwKyVYp"
+        },
+        {
+          "name": "ZZ",
+          "url": "https://open.spotify.com/artist/4mHcb0HQlOY5ZME2n2EX27"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213369,
+      "name": "Who the fuck is this!!!",
+      "url": "https://open.spotify.com/track/68u1tK2slv7lHZTB2twVyV"
+    },
+    {
+      "album": {
         "name": "Troll",
         "url": "https://open.spotify.com/album/1iNwavqXN3jzNJ8RPUfTqd"
       },
@@ -14216,7 +14316,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 148334,
       "name": "WILD",
       "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"

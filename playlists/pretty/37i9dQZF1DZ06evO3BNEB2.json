@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40189,
+  "num_followers": 40196,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAAB0pVLRaHHBmhl+XEvlVT45",
+  "snapshot_id": "acxgAAAAAAB09IYQMmmpcH8WYZinAA8V",
   "tracks": [
     {
       "added_at": null,
@@ -199,30 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74"
-      },
-      "artists": [
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Respect That You Earn (feat. Ne-Yo & Wale)",
-      "url": "https://open.spotify.com/track/0zV8HiTQ2MHlgCkDfq9Ak6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Forgives, I Don't (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1YSb516nyR6ALY2ji1eCAV"
       },
@@ -243,6 +219,30 @@
       "duration_ms": 276160,
       "name": "Diced Pineapples",
       "url": "https://open.spotify.com/track/27mF2eUbhExYWiOT0y9cuc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Respect That You Earn (feat. Ne-Yo & Wale)",
+      "url": "https://open.spotify.com/track/0zV8HiTQ2MHlgCkDfq9Ak6"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "James Freestyle",
-        "url": "https://open.spotify.com/album/4uXfh6zoUUX861mzCMhXWI"
-      },
-      "artists": [
-        {
-          "name": "Don Cannon",
-          "url": "https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 146543,
-      "name": "James Freestyle",
-      "url": "https://open.spotify.com/track/0TCwOV4kb3zDKBd9U8dL1j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 208000,
       "name": "Angles (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "James Freestyle",
+        "url": "https://open.spotify.com/album/4uXfh6zoUUX861mzCMhXWI"
+      },
+      "artists": [
+        {
+          "name": "Don Cannon",
+          "url": "https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 146543,
+      "name": "James Freestyle",
+      "url": "https://open.spotify.com/track/0TCwOV4kb3zDKBd9U8dL1j"
     },
     {
       "added_at": null,

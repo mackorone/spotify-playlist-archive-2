@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 60930,
+  "num_followers": 60961,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -755,30 +755,6 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc ROAD TO THE TOP\u300f\u30a2\u30eb\u30d0\u30e0",
-        "url": "https://open.spotify.com/album/2UDTzB8zpCddqHna9Gn9sY"
-      },
-      "artists": [
-        {
-          "name": "\u30ca\u30ea\u30bf\u30c8\u30c3\u30d7\u30ed\u30fc\u30c9 (CV. \u4e2d\u6751\u30ab\u30f3\u30ca)",
-          "url": "https://open.spotify.com/artist/4qARhZ8LYPvzrBeqpvref3"
-        },
-        {
-          "name": "\u30a2\u30c9\u30de\u30a4\u30e4\u30d9\u30ac (CV. \u54b2\u3005\u6728\u77b3)",
-          "url": "https://open.spotify.com/artist/77jJBS7kai3P7IpnhczBTU"
-        },
-        {
-          "name": "\u30c6\u30a4\u30a8\u30e0\u30aa\u30da\u30e9\u30aa\u30fc (CV. \u5fb3\u4e95\u9752\u7a7a)",
-          "url": "https://open.spotify.com/artist/0HmlG1tmStQxv3UhMNUpXP"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "Glorious Moment\uff01",
-      "url": "https://open.spotify.com/track/2RsZ4qG6GT7DzW4OIZtcxe"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 (vol.1 \u30e6\u30e1\u30f2\u30ab\u30b1\u30eb\uff01)",
         "url": "https://open.spotify.com/album/29EUPZu75o2TfBLmMvxHu2"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 283973,
       "name": "\u30e6\u30e1\u30f2\u30ab\u30b1\u30eb\uff01",
       "url": "https://open.spotify.com/track/1o2aQhMdbZ2WtFQJvJzygZ"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc ROAD TO THE TOP\u300f\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/2UDTzB8zpCddqHna9Gn9sY"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30ea\u30bf\u30c8\u30c3\u30d7\u30ed\u30fc\u30c9 (CV. \u4e2d\u6751\u30ab\u30f3\u30ca)",
+          "url": "https://open.spotify.com/artist/4qARhZ8LYPvzrBeqpvref3"
+        },
+        {
+          "name": "\u30a2\u30c9\u30de\u30a4\u30e4\u30d9\u30ac (CV. \u54b2\u3005\u6728\u77b3)",
+          "url": "https://open.spotify.com/artist/77jJBS7kai3P7IpnhczBTU"
+        },
+        {
+          "name": "\u30c6\u30a4\u30a8\u30e0\u30aa\u30da\u30e9\u30aa\u30fc (CV. \u5fb3\u4e95\u9752\u7a7a)",
+          "url": "https://open.spotify.com/artist/0HmlG1tmStQxv3UhMNUpXP"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "Glorious Moment\uff01",
+      "url": "https://open.spotify.com/track/2RsZ4qG6GT7DzW4OIZtcxe"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -863,6 +863,22 @@
       "duration_ms": 250493,
       "name": "\u5f69 Phantasia",
       "url": "https://open.spotify.com/track/5jQe1D7i1LeuQrswdHJGSG"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 05",
+        "url": "https://open.spotify.com/album/20ZzGezmzDKqZ9UsAgHWsJ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 304920,
+      "name": "We are DREAMERS!!",
+      "url": "https://open.spotify.com/track/2mViOFg8N1olmZsSa9vi8j"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -991,22 +1007,6 @@
       "duration_ms": 242146,
       "name": "\u30b0\u30ed\u30a6\u30a2\u30c3\u30d7\u30fb\u30b7\u30e3\u30a4\u30f3\uff01 - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/4CwMzQCoyiZ5oFc6ckt9Qo"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 05",
-        "url": "https://open.spotify.com/album/20ZzGezmzDKqZ9UsAgHWsJ"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 304920,
-      "name": "We are DREAMERS!!",
-      "url": "https://open.spotify.com/track/2mViOFg8N1olmZsSa9vi8j"
     },
     {
       "added_at": "2026-01-13 16:30:52",

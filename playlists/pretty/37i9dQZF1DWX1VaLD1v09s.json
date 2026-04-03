@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 83252,
+  "num_followers": 83671,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
+        "name": "If We're Honest (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 302577,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
         "name": "The Blessing (Live)",
         "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 514664,
       "name": "The Blessing - Live",
       "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
-        "name": "If We're Honest (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
-      },
-      "artists": [
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 302577,
-      "name": "Holy Spirit",
-      "url": "https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 306253,
+      "name": "The Lion and the Lamb",
+      "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
         "name": "Majestic (Live)",
         "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
@@ -303,18 +319,38 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+        "name": "Jesus The Only (feat. Davide Mutendji)",
+        "url": "https://open.spotify.com/album/7Etjqgbb5o3rQqtJBgCPEo"
       },
       "artists": [
         {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Davide Mutendji",
+          "url": "https://open.spotify.com/artist/6lteH2fZlwBBu1qyDc1Rs1"
         }
       ],
-      "duration_ms": 306253,
-      "name": "The Lion and the Lamb",
-      "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
+      "duration_ms": 408773,
+      "name": "Jesus The Only (feat. Davide Mutendji)",
+      "url": "https://open.spotify.com/track/1gVCOo3SKqbFlD57JMPm5P"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
+        "name": "IT NEEDS TO BE SAID",
+        "url": "https://open.spotify.com/album/00yUC4YymAJzSoUJCTgoJY"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 297866,
+      "name": "THE NAME ABOVE ALL NAMES",
+      "url": "https://open.spotify.com/track/5sv4NwHh8XIwJVCQpCjxKr"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -335,22 +371,6 @@
       "duration_ms": 289972,
       "name": "He Arose",
       "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
-        "name": "IT NEEDS TO BE SAID",
-        "url": "https://open.spotify.com/album/00yUC4YymAJzSoUJCTgoJY"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 297866,
-      "name": "THE NAME ABOVE ALL NAMES",
-      "url": "https://open.spotify.com/track/5sv4NwHh8XIwJVCQpCjxKr"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -399,26 +419,6 @@
       "duration_ms": 498426,
       "name": "Break Every Chain - Live",
       "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
-        "name": "Jesus The Only (feat. Davide Mutendji)",
-        "url": "https://open.spotify.com/album/7Etjqgbb5o3rQqtJBgCPEo"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        },
-        {
-          "name": "Davide Mutendji",
-          "url": "https://open.spotify.com/artist/6lteH2fZlwBBu1qyDc1Rs1"
-        }
-      ],
-      "duration_ms": 408773,
-      "name": "Jesus The Only (feat. Davide Mutendji)",
-      "url": "https://open.spotify.com/track/1gVCOo3SKqbFlD57JMPm5P"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -735,6 +735,26 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
+        "name": "The Resurrection Of A King",
+        "url": "https://open.spotify.com/album/4wLFc5K7ODnAYiFD9bXOfK"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "duration_ms": 355068,
+      "name": "We Turn Our Eyes",
+      "url": "https://open.spotify.com/track/0FmXi9DmlwfA15LKO47Dp1"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
         "name": "Good News (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
-        "name": "The Resurrection Of A King",
-        "url": "https://open.spotify.com/album/4wLFc5K7ODnAYiFD9bXOfK"
-      },
-      "artists": [
-        {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
-        },
-        {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
-        }
-      ],
-      "duration_ms": 355068,
-      "name": "We Turn Our Eyes",
-      "url": "https://open.spotify.com/track/0FmXi9DmlwfA15LKO47Dp1"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "There's Still Power In The Blood",
-        "url": "https://open.spotify.com/album/2XPSc5zqPARbkeTkt6HMBD"
+        "name": "Passion: Everything Glorious",
+        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
       "artists": [
         {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 277113,
-      "name": "There's Still Power In The Blood",
-      "url": "https://open.spotify.com/track/2UblZJ9hcWzOURUX7kUJl7"
+      "duration_ms": 327400,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Passion: Everything Glorious",
-        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
+        "name": "There's Still Power In The Blood",
+        "url": "https://open.spotify.com/album/2XPSc5zqPARbkeTkt6HMBD"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
         }
       ],
-      "duration_ms": 327400,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
+      "duration_ms": 277113,
+      "name": "There's Still Power In The Blood",
+      "url": "https://open.spotify.com/track/2UblZJ9hcWzOURUX7kUJl7"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Stars Go Dim",
-        "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 206648,
-      "name": "You Are Loved",
-      "url": "https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
         "name": "From The Inside Out",
         "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
+        "name": "Stars Go Dim",
+        "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 206648,
+      "name": "You Are Loved",
+      "url": "https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
         "name": "In Christ Alone",
         "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Citizens",
-        "url": "https://open.spotify.com/album/7EtWK30PesO8kiVHoPFVhE"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Made Alive",
-      "url": "https://open.spotify.com/track/7zb6qjGi5l9cgUjYaoYI3Y"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 294813,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
+        "name": "Citizens",
+        "url": "https://open.spotify.com/album/7EtWK30PesO8kiVHoPFVhE"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Made Alive",
+      "url": "https://open.spotify.com/track/7zb6qjGi5l9cgUjYaoYI3Y"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Fear No More EP",
-        "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        },
-        {
-          "name": "brook(e)",
-          "url": "https://open.spotify.com/artist/1VEX0MeLsiGvEq2OYP9hri"
-        }
-      ],
-      "duration_ms": 233216,
-      "name": "Blessing I Can\u2019t See",
-      "url": "https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
         "name": "Inheritance",
         "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
       },
@@ -1443,18 +1423,22 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+        "name": "Fear No More EP",
+        "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
       },
       "artists": [
         {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        },
+        {
+          "name": "brook(e)",
+          "url": "https://open.spotify.com/artist/1VEX0MeLsiGvEq2OYP9hri"
         }
       ],
-      "duration_ms": 320400,
-      "name": "Head to the Heart (Live)",
-      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
+      "duration_ms": 233216,
+      "name": "Blessing I Can\u2019t See",
+      "url": "https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -1479,6 +1463,22 @@
       "duration_ms": 308274,
       "name": "Sweet Victory",
       "url": "https://open.spotify.com/track/3RpcCr8ZlIiYEctUYBAGQm"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Head to the Heart (Live)",
+      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
+        "name": "Good For Nothing",
+        "url": "https://open.spotify.com/album/1zRobWXPx0e1cDbHihNfGR"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Good For Nothing",
+      "url": "https://open.spotify.com/track/3VgboIL9HZRZN9umNXAV7r"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
         "name": "My Utmost For His Highest",
         "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 201401,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/0tXaXcuDbaX0Jhzns45Gx5"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
-        "name": "Good For Nothing",
-        "url": "https://open.spotify.com/album/1zRobWXPx0e1cDbHihNfGR"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Good For Nothing",
-      "url": "https://open.spotify.com/track/3VgboIL9HZRZN9umNXAV7r"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 292953,
-      "name": "Speak the Name (feat. Natalie Grant)",
-      "url": "https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
         "name": "Facedown",
         "url": "https://open.spotify.com/album/2MezviW2LAUOMeq29zYWt7"
       },
@@ -1955,34 +1935,22 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Third Day",
-        "url": "https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
       "artists": [
         {
-          "name": "Third Day",
-          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Thief",
-      "url": "https://open.spotify.com/track/4w7qUNRMg3A3xnqhE37TP3"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
-        "name": "He's Alive: Don Francisco Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/2Ax36W4f22Kr96sJnsnBtw"
-      },
-      "artists": [
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        },
         {
-          "name": "Don Francisco",
-          "url": "https://open.spotify.com/artist/6TxrRPbH25NhjMCBvoeyXI"
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 298706,
-      "name": "He's Alive",
-      "url": "https://open.spotify.com/track/3BHTusPUbP50JY0uzCUODT"
+      "duration_ms": 292953,
+      "name": "Speak the Name (feat. Natalie Grant)",
+      "url": "https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -2003,6 +1971,38 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
+        "name": "He's Alive: Don Francisco Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/2Ax36W4f22Kr96sJnsnBtw"
+      },
+      "artists": [
+        {
+          "name": "Don Francisco",
+          "url": "https://open.spotify.com/artist/6TxrRPbH25NhjMCBvoeyXI"
+        }
+      ],
+      "duration_ms": 298706,
+      "name": "He's Alive",
+      "url": "https://open.spotify.com/track/3BHTusPUbP50JY0uzCUODT"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
+        "name": "Third Day",
+        "url": "https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF"
+      },
+      "artists": [
+        {
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/4w7qUNRMg3A3xnqhE37TP3"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
         "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
         "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
       },
@@ -2019,8 +2019,24 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Valley of the Shadow",
-        "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
+        "name": "Burn The Ships (Deluxe Edition: Remixes & Collaborations)",
+        "url": "https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/77ntXt0HAf9cn9WJpzQQ3g"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
+        "name": "The Narrow Sea",
+        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
       },
       "artists": [
         {
@@ -2028,9 +2044,9 @@
           "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 256127,
-      "name": "Glory & Grace",
-      "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
+      "duration_ms": 313489,
+      "name": "O Rock Eternal",
+      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -2071,18 +2087,18 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Burn The Ships (Deluxe Edition: Remixes & Collaborations)",
-        "url": "https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb"
+        "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
+        "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
       },
       "artists": [
         {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "Caroline Cobb",
+          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
         }
       ],
-      "duration_ms": 227013,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/77ntXt0HAf9cn9WJpzQQ3g"
+      "duration_ms": 249000,
+      "name": "The Passover Song (feat. Sean Carter)",
+      "url": "https://open.spotify.com/track/4IM3k6CREQ4buhuklvqpa8"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -2103,8 +2119,8 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "The Narrow Sea",
-        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
+        "name": "Valley of the Shadow",
+        "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
       },
       "artists": [
         {
@@ -2112,25 +2128,9 @@
           "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 313489,
-      "name": "O Rock Eternal",
-      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
-        "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
-        "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
-      },
-      "artists": [
-        {
-          "name": "Caroline Cobb",
-          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "The Passover Song (feat. Sean Carter)",
-      "url": "https://open.spotify.com/track/4IM3k6CREQ4buhuklvqpa8"
+      "duration_ms": 256127,
+      "name": "Glory & Grace",
+      "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -2147,6 +2147,22 @@
       "duration_ms": 212280,
       "name": "He Is Alive",
       "url": "https://open.spotify.com/track/1vHPJ28cxBU4N2AowlNxhQ"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
+        "name": "Hill Of Grace",
+        "url": "https://open.spotify.com/album/7EM6wAlDRK10dRvjVuGPq4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
+        }
+      ],
+      "duration_ms": 235104,
+      "name": "Hill Of Grace",
+      "url": "https://open.spotify.com/track/2B0F33PmOf3uc52uxnjLj8"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -2199,6 +2215,22 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
+        "name": "Rolled Away (Sunday Edit)",
+        "url": "https://open.spotify.com/album/24zeioYNhFWy9v2WSryXZe"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 295157,
+      "name": "Rolled Away - Sunday Edit",
+      "url": "https://open.spotify.com/track/09o5CpYZUfXe94FHsRVfDJ"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
         "name": "We Shall Behold Him/Behold The Lamb",
         "url": "https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg"
       },
@@ -2239,18 +2271,18 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Rolled Away (Sunday Edit)",
-        "url": "https://open.spotify.com/album/24zeioYNhFWy9v2WSryXZe"
+        "name": "Don't Lose Hope",
+        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
       },
       "artists": [
         {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
         }
       ],
-      "duration_ms": 295157,
-      "name": "Rolled Away - Sunday Edit",
-      "url": "https://open.spotify.com/track/09o5CpYZUfXe94FHsRVfDJ"
+      "duration_ms": 182426,
+      "name": "He's Not Here",
+      "url": "https://open.spotify.com/track/2gK9y1vDM71f8qpM789X6B"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -2275,18 +2307,22 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Don't Lose Hope",
-        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
+        "name": "Jesus Song (Live)",
+        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
       },
       "artists": [
         {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        },
+        {
+          "name": "Taylor Gall",
+          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
         }
       ],
-      "duration_ms": 182426,
-      "name": "He's Not Here",
-      "url": "https://open.spotify.com/track/2gK9y1vDM71f8qpM789X6B"
+      "duration_ms": 380713,
+      "name": "Jesus Song - Live",
+      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -2311,26 +2347,6 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "Jesus Song (Live)",
-        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        },
-        {
-          "name": "Taylor Gall",
-          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
-        }
-      ],
-      "duration_ms": 380713,
-      "name": "Jesus Song - Live",
-      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -2347,22 +2363,6 @@
       "duration_ms": 427389,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
-        "name": "Hill Of Grace",
-        "url": "https://open.spotify.com/album/7EM6wAlDRK10dRvjVuGPq4"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        }
-      ],
-      "duration_ms": 235104,
-      "name": "Hill Of Grace",
-      "url": "https://open.spotify.com/track/2B0F33PmOf3uc52uxnjLj8"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "All My Praise",
-        "url": "https://open.spotify.com/album/2SGRAtlh30q2on1fgkcArw"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 207438,
-      "name": "All My Praise",
-      "url": "https://open.spotify.com/track/3b9j80XcN10pJt4vDcniwk"
-    },
-    {
-      "added_at": "2026-03-29 08:11:14",
-      "album": {
         "name": "Yes He Lives",
         "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
       },
@@ -2455,22 +2439,18 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "The Lamb Slain (Live)",
-        "url": "https://open.spotify.com/album/4hCC720mFetw7yfbwIjGEn"
+        "name": "All My Praise",
+        "url": "https://open.spotify.com/album/2SGRAtlh30q2on1fgkcArw"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Brett Lee Miller",
-          "url": "https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 449474,
-      "name": "The Lamb Slain - Live",
-      "url": "https://open.spotify.com/track/3EZoFCVRhsSQxFT0k2hGAW"
+      "duration_ms": 207438,
+      "name": "All My Praise",
+      "url": "https://open.spotify.com/track/3b9j80XcN10pJt4vDcniwk"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -2523,18 +2503,22 @@
     {
       "added_at": "2026-03-29 08:11:14",
       "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/347JypsBn6wwUeQtPaoMQV"
+        "name": "The Lamb Slain (Live)",
+        "url": "https://open.spotify.com/album/4hCC720mFetw7yfbwIjGEn"
       },
       "artists": [
         {
-          "name": "Travis Cottrell",
-          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Brett Lee Miller",
+          "url": "https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF"
         }
       ],
-      "duration_ms": 277480,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/5JJPHbFPolI3dl8VbUuoAs"
+      "duration_ms": 449474,
+      "name": "The Lamb Slain - Live",
+      "url": "https://open.spotify.com/track/3EZoFCVRhsSQxFT0k2hGAW"
     },
     {
       "added_at": "2026-03-29 08:11:14",
@@ -2551,6 +2535,22 @@
       "duration_ms": 238306,
       "name": "Scars",
       "url": "https://open.spotify.com/track/7reASFw2ZMgqahFJc6CMgl"
+    },
+    {
+      "added_at": "2026-03-29 08:11:14",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/347JypsBn6wwUeQtPaoMQV"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/5JJPHbFPolI3dl8VbUuoAs"
     },
     {
       "added_at": "2026-03-29 08:11:14",

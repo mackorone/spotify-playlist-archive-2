@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: media puzzle",
+  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: Lambrini Girls",
   "name": "Wire",
   "tracks": [
     {
@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Cult of Celebrity",
+        "url": "https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133749,
+      "name": "Cult of Celebrity",
+      "url": "https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV"
+    },
+    {
+      "album": {
         "name": "Body Broker",
         "url": "https://open.spotify.com/album/2qOPFkzeD33AyGvMOblT5u"
       },
@@ -630,7 +648,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 260501,
       "name": "Easy Now",
       "url": "https://open.spotify.com/track/116Q6WPhxJhZZCkjlzXiaE"
@@ -782,6 +800,28 @@
       "duration_ms": 226645,
       "name": "Executive Function",
       "url": "https://open.spotify.com/track/5LrBYOI6AaS8zumfUqaygO"
+    },
+    {
+      "album": {
+        "name": "FENIAN",
+        "url": "https://open.spotify.com/album/0IAAsMXyI0xm8FkmsOJRh3"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Casiokids",
+          "url": "https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "FENIAN",
+      "url": "https://open.spotify.com/track/6vN9o849XOpOKbygIid6ck"
     },
     {
       "album": {
@@ -1570,7 +1610,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 170238,
       "name": "Not Sorry",
       "url": "https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb"
@@ -1975,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275599,
+      "name": "Sarniezz",
+      "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
+    },
+    {
+      "album": {
         "name": "Scorching Heat",
         "url": "https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT"
       },
@@ -2076,7 +2134,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 253373,
       "name": "Sidestepping",
       "url": "https://open.spotify.com/track/1oImQjepMT3mT3QrmbEswR"
@@ -2401,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "The Sound It Made",
+        "url": "https://open.spotify.com/album/3ejGatYed8blR2jFn3Vtbm"
+      },
+      "artists": [
+        {
+          "name": "Robber Robber",
+          "url": "https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158981,
+      "name": "The Sound It Made",
+      "url": "https://open.spotify.com/track/0X8xSULeOMS3n3D0QxeYNZ"
+    },
+    {
+      "album": {
         "name": "viagr aboys (Japanese Deluxe Edition)",
         "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
       },
@@ -2448,7 +2524,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 163485,
       "name": "THROWIN SHAPES",
       "url": "https://open.spotify.com/track/3mhopbXYbHnBNTP4VpAvFy"

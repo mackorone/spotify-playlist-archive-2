@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83777,
+  "num_followers": 83769,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Luq Speed Vision",
+        "url": "https://open.spotify.com/album/4i2Yfw0gb4BwMPgrA6sG9J"
+      },
+      "artists": [
+        {
+          "name": "luqeta",
+          "url": "https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ"
+        },
+        {
+          "name": "deadpeace",
+          "url": "https://open.spotify.com/artist/5GtEbRUFQN7CXSH9yZWfgA"
+        }
+      ],
+      "duration_ms": 102812,
+      "name": "Ta Tudo Bem Speedplug - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/50nCM4Diua1enzBmN8i11A"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "202 (Speed)",
         "url": "https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 142006,
       "name": "202 - Speed",
       "url": "https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Luq Speed Vision",
-        "url": "https://open.spotify.com/album/4i2Yfw0gb4BwMPgrA6sG9J"
-      },
-      "artists": [
-        {
-          "name": "luqeta",
-          "url": "https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ"
-        },
-        {
-          "name": "deadpeace",
-          "url": "https://open.spotify.com/artist/5GtEbRUFQN7CXSH9yZWfgA"
-        }
-      ],
-      "duration_ms": 102812,
-      "name": "Ta Tudo Bem Speedplug - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/50nCM4Diua1enzBmN8i11A"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Kill Bill - Speed",
-        "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
-      },
-      "artists": [
-        {
-          "name": "Cabrxlzin",
-          "url": "https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF"
-        },
-        {
-          "name": "\u00e9oTGL",
-          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
-        }
-      ],
-      "duration_ms": 88068,
-      "name": "Kill Bill - Speed",
-      "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 120100,
       "name": "Karma - Speed",
       "url": "https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Kill Bill - Speed",
+        "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
+      },
+      "artists": [
+        {
+          "name": "Cabrxlzin",
+          "url": "https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        }
+      ],
+      "duration_ms": 88068,
+      "name": "Kill Bill - Speed",
+      "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Boa Noite, DEUS (Sped Up)",
+        "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
+      },
+      "artists": [
+        {
+          "name": "Nick Die",
+          "url": "https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS"
+        },
+        {
+          "name": "WMBR",
+          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Boa Noite, DEUS (Sped Up)",
+      "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Conto do Pescador (Speed Version)",
         "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 136615,
       "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
       "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Boa Noite, DEUS (Sped Up)",
-        "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
-      },
-      "artists": [
-        {
-          "name": "Nick Die",
-          "url": "https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS"
-        },
-        {
-          "name": "WMBR",
-          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Boa Noite, DEUS (Sped Up)",
-      "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
     },
     {
       "added_at": "2024-07-08 19:10:57",

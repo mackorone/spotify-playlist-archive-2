@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. nieve ella
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,963 likes - 59 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,946 likes - 59 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 58 | [for your love](https://open.spotify.com/track/6YiySDiEu0qdt9k75XD0qZ) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [for your love](https://open.spotify.com/album/5DXRZIcbELIWkOjRQB2qM3) | 3:05 |
 | 59 | [Not Sorry](https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [When A Flower Doesn't Grow](https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm) | 2:50 |
 
-Snapshot ID: `AAAAALA9KcBs3CyyUK+pZOny2Y7L6eUw`
+Snapshot ID: `AAAAAJUA/aVGPlqQbXaY6p2mgxwyaEKu`

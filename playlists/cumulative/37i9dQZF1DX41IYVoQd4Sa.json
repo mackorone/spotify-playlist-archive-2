@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "bully",
+        "url": "https://open.spotify.com/album/3soiNTPxof5O0Pd7miQcs1"
+      },
+      "artists": [
+        {
+          "name": "Egozi",
+          "url": "https://open.spotify.com/artist/06FcDNksGd8xlNOgN8f04x"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167899,
+      "name": "bully",
+      "url": "https://open.spotify.com/track/6NUT1Vezwr0surmLC6cvk5"
+    },
+    {
+      "album": {
         "name": "Butterfly Mind",
         "url": "https://open.spotify.com/album/3DHDNMxRrZYYrZ0Po6fxCp"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 147850,
       "name": "Hey Ole Player",
       "url": "https://open.spotify.com/track/0hQRM6KeFc6ct5sDVY4RAk"
@@ -2390,6 +2408,24 @@
       "duration_ms": 170250,
       "name": "\u05d0\u05d3\u05d1\u05e8 \u05d0\u05d9\u05ea\u05da",
       "url": "https://open.spotify.com/track/4PPoJRKqZQdxQzM8VlMmNm"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d3\u05d1\u05e8 \u05d0\u05d9\u05ea\u05da",
+        "url": "https://open.spotify.com/album/7qsJhJleIUPqy9JOof05oR"
+      },
+      "artists": [
+        {
+          "name": "Eran Tzur",
+          "url": "https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220682,
+      "name": "\u05d0\u05d3\u05d1\u05e8 \u05d0\u05d9\u05ea\u05da",
+      "url": "https://open.spotify.com/track/733hbUsBXNyqGXN0WyhFSF"
     },
     {
       "album": {
@@ -3962,7 +3998,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 271815,
       "name": "\u05d4\u05de\u05d5\u05d6\u05d9\u05e7\u05d4 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea",
       "url": "https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu"

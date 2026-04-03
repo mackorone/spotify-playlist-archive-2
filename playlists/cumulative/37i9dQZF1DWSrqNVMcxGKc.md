@@ -4,7 +4,7 @@
 
 > Tous les classiques du rap français dans une seule playlist ! Photo : Ärsenik
 
-60 songs - 4 hr 24 min
+61 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Nés sous la même étoile](https://open.spotify.com/track/66ZtqKhYSA8XyPr0aAUFsm) | [IAM](https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7) | [L'école du micro d'argent](https://open.spotify.com/album/3atPIVCVIIgak6KeB1ANnK) | 3:51 | 2025-04-11 |  |
 | [Obsolète](https://open.spotify.com/track/0vbxOnEj10QBsFswwU4Hsv) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Prose combat](https://open.spotify.com/album/55R0qA8SLVcw1DuMdbk887) | 3:04 | 2025-04-11 |  |
 | [Partis de rien](https://open.spotify.com/track/7hpGE5NHxTK5umouUBw20v) | [Scred Connexion](https://open.spotify.com/artist/5ZtIEcmzQosu8SDKWgwc86), [Fabe](https://open.spotify.com/artist/5Jh4UFOCWwleD3kcd88xyh), [Haroun](https://open.spotify.com/artist/5p9kx3T4qpQIq88fibnUeN), [Mokless](https://open.spotify.com/artist/33T5kdoVSK7Vg5DXquJluL), [Koma](https://open.spotify.com/artist/6jMcst5OaBN7JgoUHwDjBv) | [Scred Selexion 99/2000 \(1\)](https://open.spotify.com/album/6P90EXL5d2w0dLsOv7785R) | 4:01 | 2025-04-11 |  |
-| [Pas l'temps pour les regrets](https://open.spotify.com/track/2wbOsLvN17xwcNsOLFZdBy) | [Lunatic](https://open.spotify.com/artist/2T94BUd6X8J1G5EfJj3hZr) | [Mauvais Oeil](https://open.spotify.com/album/0qc2G99LJTbEeSBuTcVqZ9) | 4:40 | 2025-04-11 |  |
+| [Pas l'temps pour les regrets](https://open.spotify.com/track/2wbOsLvN17xwcNsOLFZdBy) | [Lunatic](https://open.spotify.com/artist/2T94BUd6X8J1G5EfJj3hZr) | [Mauvais Oeil](https://open.spotify.com/album/0qc2G99LJTbEeSBuTcVqZ9) | 4:40 | 2025-04-11 | 2026-04-03 |
 | [Patate de forain](https://open.spotify.com/track/2VMzuaMP2YP6F0xIA4hoch) | [Seth Gueko](https://open.spotify.com/artist/5SZayIKDZvxXaJrxLfnIRN), [Sefyu](https://open.spotify.com/artist/2OULCPo7k0vPKlEZimhaVc) | [Barillet plein](https://open.spotify.com/album/1uPOLMHkIj1AUWfEiCHyUv) | 4:14 | 2025-04-11 |  |
 | [Pitbull](https://open.spotify.com/track/1efBNlkIwBbccMBXHoJBZN) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Ouest Side](https://open.spotify.com/album/3yT2JhKAfo78iIqgEkZNVw) | 3:49 | 2025-04-11 |  |
 | [Pour ceux](https://open.spotify.com/track/3JjnCqQwWlgIz5ty1ByAbO) | [Mafia K'1 Fry](https://open.spotify.com/artist/1cRhxmFvL3Ef4vx4jSCy04) | [La cerise sur le ghetto](https://open.spotify.com/album/3WD23sAzX8PH7PgZ9g4czo) | 6:07 | 2025-04-11 |  |
@@ -64,6 +64,7 @@
 | [That's My People](https://open.spotify.com/track/1RWXFHOJ6XjK8a9pitucrX) | [Suprême NTM](https://open.spotify.com/artist/4ko6Ysxtvx9EY9GEFslrIz) | [Suprême NTM](https://open.spotify.com/album/3eG7SaLEdlmKLapewG6m4J) | 4:11 | 2025-04-11 |  |
 | [Tombé pour elle \(feat\. Amel Bent\)](https://open.spotify.com/track/5DCxMQMmW3UFZUj1QtUvVc) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Aller Retour](https://open.spotify.com/album/520OyGOsfncx674UMNWisB) | 4:38 | 2025-04-11 |  |
 | [Tonton du bled](https://open.spotify.com/track/18lEJ1SEujElAbdRGjNTZh) | [113](https://open.spotify.com/artist/5nTMNNNwQMoCYgzUXdUaB6), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Tonton du bled](https://open.spotify.com/album/4nzeBPSUxFyJDzNtHy4uqm) | 4:53 | 2025-04-11 |  |
+| [Un ange dans le ciel](https://open.spotify.com/track/3QUuikemjGi0DbeBOJFQQi) | [Kool Shen](https://open.spotify.com/artist/6oc3ElPTqRlMxSWCuZPi3x) | [Dernier Round](https://open.spotify.com/album/0qHYnujUqGwHJNLcbZsoyl) | 3:52 | 2026-04-02 |  |
 | [Undaground connexion](https://open.spotify.com/track/0HHG5v9DKrvsCuXG1pUJ5p) | [Assasin](https://open.spotify.com/artist/5Rvs4rQWz3s8S1U9HQDJXO), [Supernatural](https://open.spotify.com/artist/3imos1CMHVKIIqsh3RWcl9) | [100% Classique Rap Français, vol\. 1](https://open.spotify.com/album/52EIzWwL809gvcGzoVGCrr) | 6:13 | 2025-04-11 |  |
 | [Une époque formidable](https://open.spotify.com/track/63Mv2ORJ7QmKRuZ8bUWCiv) | [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg) | [La main sur le cœur](https://open.spotify.com/album/0e2v2AgFGdlgHfJnCdpZlQ) | 4:42 | 2025-04-11 |  |
 | [Viens voir le docteur \- Dirty Moog Mix](https://open.spotify.com/track/1fMN6QQvt84UTmOd4izgD1) | [Doc Gynéco](https://open.spotify.com/artist/4GX9CqwqWtb76wuXwbXR6b) | [Premiere consultation](https://open.spotify.com/album/3UACOTg56TwfNelPFsdGAg) | 5:22 | 2025-04-11 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Saintess in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Amanda Roberts in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Ancora",
+        "url": "https://open.spotify.com/album/5SUlIcu2YVtIiYA81us5xh"
+      },
+      "artists": [
+        {
+          "name": "Quatri\u00e8me",
+          "url": "https://open.spotify.com/artist/4htLboC28JZXm2K2IqLnVO"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Ancora",
+      "url": "https://open.spotify.com/track/3ggUVM4KKzWd3o9OizwMh1"
+    },
+    {
+      "album": {
         "name": "Andiamo lontano",
         "url": "https://open.spotify.com/album/3a1Dni74rcQQQJ9al0cz6P"
       },
@@ -2078,7 +2096,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 168624,
       "name": "bene",
       "url": "https://open.spotify.com/track/6N30UQTzb21kUpmZhQnb5i"
@@ -7563,6 +7581,24 @@
     },
     {
       "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/7MGGV3Dlmesw46nfZgbOWh"
+      },
+      "artists": [
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203163,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/4DTetGWzcKQ2NGt4cllAkf"
+    },
+    {
+      "album": {
         "name": "Hooligans",
         "url": "https://open.spotify.com/album/1XoGxiGWfdPCHH2ItOz3SM"
       },
@@ -8295,6 +8331,24 @@
     },
     {
       "album": {
+        "name": "JURNATA 'E SOLE",
+        "url": "https://open.spotify.com/album/0CkovfE5wxMjWrLU4xcz7E"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "JURNATA 'E SOLE",
+      "url": "https://open.spotify.com/track/7IqOqo9LfqTxzj174TETUH"
+    },
+    {
+      "album": {
         "name": "Just Eat",
         "url": "https://open.spotify.com/album/7niPoJYBWsZBlQLp997fLQ"
       },
@@ -8694,7 +8748,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 203307,
       "name": "L'Ultima Volta",
       "url": "https://open.spotify.com/track/634ClABsa5vXZIyUG6hPWr"
@@ -10071,6 +10125,28 @@
     },
     {
       "album": {
+        "name": "M(Elodie)",
+        "url": "https://open.spotify.com/album/7C4F3CntQ7mBSIO6pwdq8d"
+      },
+      "artists": [
+        {
+          "name": "Nico Kyni",
+          "url": "https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9"
+        },
+        {
+          "name": "Nablito",
+          "url": "https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215478,
+      "name": "M(Elodie)",
+      "url": "https://open.spotify.com/track/0hTXL8Q9jJHm63Kxhd3UFT"
+    },
+    {
+      "album": {
         "name": "Ma Che Vuo'",
         "url": "https://open.spotify.com/album/5VbUGXvh1qaPvp4cDFqRIP"
       },
@@ -11070,7 +11146,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 144000,
       "name": "muozzeco",
       "url": "https://open.spotify.com/track/0opk7SysHBG6XQo9utTIIq"
@@ -12790,7 +12866,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 90157,
       "name": "Offline",
       "url": "https://open.spotify.com/track/2Xp3dMpk5VrnG9RIi8bkVI"
@@ -13952,6 +14028,24 @@
       "duration_ms": 160115,
       "name": "Pita Gyros",
       "url": "https://open.spotify.com/track/6Ii2DpNzwECTaOMhjTPnOu"
+    },
+    {
+      "album": {
+        "name": "Pi\u00f9 di te",
+        "url": "https://open.spotify.com/album/7mawdyID6MDCWfSaRZBKr8"
+      },
+      "artists": [
+        {
+          "name": "Barcaiolo",
+          "url": "https://open.spotify.com/artist/3t2amaczWnIunE9srTy6E0"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Pi\u00f9 di te",
+      "url": "https://open.spotify.com/track/5jYB5aVYmY8rNDDmhqgLUe"
     },
     {
       "album": {
@@ -17040,7 +17134,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 165261,
       "name": "Specchio (ultimo quarto di luna)",
       "url": "https://open.spotify.com/track/2mJx6pmaeHlAAyF3pzOmFK"

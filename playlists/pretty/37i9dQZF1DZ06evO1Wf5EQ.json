@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAADVPPZ19G7PwiSY6nIu9XAl",
+  "snapshot_id": "acxgAAAAAAACVR+0cuzWIcP1zcJXDP1M",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 143893,
-      "name": "LaBelle Opera",
-      "url": "https://open.spotify.com/track/4aE6lKn6mPTRF2DDqUPAuS"
+      "duration_ms": 86546,
+      "name": "You Lost Your Shadow, Bill",
+      "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
     },
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 86546,
-      "name": "You Lost Your Shadow, Bill",
-      "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
+      "duration_ms": 143893,
+      "name": "LaBelle Opera",
+      "url": "https://open.spotify.com/track/4aE6lKn6mPTRF2DDqUPAuS"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Mcnue Leaves",
-      "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
+      "duration_ms": 398320,
+      "name": "Atascadero (Denouement)",
+      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 76850,
-      "name": "Lessons In Chemistry",
-      "url": "https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h"
+      "duration_ms": 99962,
+      "name": "...Surprise",
+      "url": "https://open.spotify.com/track/44g4FlOQjnoAWDCthdYaZ5"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 398320,
-      "name": "Atascadero (Denouement)",
-      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
+      "duration_ms": 184000,
+      "name": "Mcnue Leaves",
+      "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

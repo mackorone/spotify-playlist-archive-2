@@ -1,6 +1,6 @@
 {
   "description": "Mantras for meditation",
-  "num_followers": 230802,
+  "num_followers": 230857,
   "original_name": "Magical Mantras",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,34 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
+        "name": "Bajrang Baan",
+        "url": "https://open.spotify.com/album/4ElIZIv6fb4LRQpwIh8Kre"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Saicharan Bhaskaruni",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        },
+        {
+          "name": "Lokeshwar Edara",
+          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
+        },
+        {
+          "name": "Harshavardhan Chavali",
+          "url": "https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G"
+        }
+      ],
+      "duration_ms": 337488,
+      "name": "Bajrang Baan",
+      "url": "https://open.spotify.com/track/1Ab0PsTSuqFjU3hxdzZ41t"
+    },
+    {
+      "added_at": "2026-02-19 04:16:12",
+      "album": {
         "name": "Mantras Budista",
         "url": "https://open.spotify.com/album/7AfpljlxDdVVf4AQcpjamv"
       },
@@ -567,34 +595,6 @@
       "duration_ms": 393040,
       "name": "Lingashtakam",
       "url": "https://open.spotify.com/track/35VgwpmovfuGrYkLVJojnK"
-    },
-    {
-      "added_at": "2026-02-19 04:16:12",
-      "album": {
-        "name": "Bajrang Baan",
-        "url": "https://open.spotify.com/album/4ElIZIv6fb4LRQpwIh8Kre"
-      },
-      "artists": [
-        {
-          "name": "GowraHari",
-          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
-        },
-        {
-          "name": "Saicharan Bhaskaruni",
-          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
-        },
-        {
-          "name": "Lokeshwar Edara",
-          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
-        },
-        {
-          "name": "Harshavardhan Chavali",
-          "url": "https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G"
-        }
-      ],
-      "duration_ms": 337488,
-      "name": "Bajrang Baan",
-      "url": "https://open.spotify.com/track/1Ab0PsTSuqFjU3hxdzZ41t"
     },
     {
       "added_at": "2026-02-19 04:16:12",
@@ -743,30 +743,6 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
-        "name": "Shree Ganesh Pancharatna Stotra",
-        "url": "https://open.spotify.com/album/65zwQp8vOBCsyDkCboLZh5"
-      },
-      "artists": [
-        {
-          "name": "Shubhankar",
-          "url": "https://open.spotify.com/artist/2hPwuLChHGlC6fxk0bZgyv"
-        },
-        {
-          "name": "Divyank",
-          "url": "https://open.spotify.com/artist/3HqkGLdOBj4YvDXmnK1Duf"
-        },
-        {
-          "name": "Ojus Gupta",
-          "url": "https://open.spotify.com/artist/6cG1Kh9AByorAzPd1Et6JF"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Shree Ganesh Pancharatna Stotra",
-      "url": "https://open.spotify.com/track/35sQ8oPMSLWSa5M992r0is"
-    },
-    {
-      "added_at": "2026-02-19 04:16:12",
-      "album": {
         "name": "Om Namoh Hanumate Rudravataraya Mantra",
         "url": "https://open.spotify.com/album/5mohdfYe1g23futO6cTwra"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 305454,
       "name": "Om Namoh Hanumate Rudravataraya Mantra",
       "url": "https://open.spotify.com/track/5oOVQSeZ7Ju2n3Db7mlmkn"
+    },
+    {
+      "added_at": "2026-02-19 04:16:12",
+      "album": {
+        "name": "Shree Ganesh Pancharatna Stotra",
+        "url": "https://open.spotify.com/album/65zwQp8vOBCsyDkCboLZh5"
+      },
+      "artists": [
+        {
+          "name": "Shubhankar",
+          "url": "https://open.spotify.com/artist/2hPwuLChHGlC6fxk0bZgyv"
+        },
+        {
+          "name": "Divyank",
+          "url": "https://open.spotify.com/artist/3HqkGLdOBj4YvDXmnK1Duf"
+        },
+        {
+          "name": "Ojus Gupta",
+          "url": "https://open.spotify.com/artist/6cG1Kh9AByorAzPd1Et6JF"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Shree Ganesh Pancharatna Stotra",
+      "url": "https://open.spotify.com/track/35sQ8oPMSLWSa5M992r0is"
     },
     {
       "added_at": "2026-02-19 04:16:12",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
-        "name": "Mantras for Positive Energy",
-        "url": "https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7"
-      },
-      "artists": [
-        {
-          "name": "Meditative Mind",
-          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
-        }
-      ],
-      "duration_ms": 680647,
-      "name": "Antarjami Purakh Bidhate",
-      "url": "https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40"
-    },
-    {
-      "added_at": "2026-02-19 04:16:12",
-      "album": {
         "name": "Rudrashtakam - The Manifestation Of Shiva",
         "url": "https://open.spotify.com/album/6QJa1dUs1jgj1NRbQjzrvq"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 472500,
       "name": "Rudrashtakam - The Manifestation Of Shiva",
       "url": "https://open.spotify.com/track/64CiB4K6eabg8UK5pmlv6B"
+    },
+    {
+      "added_at": "2026-02-19 04:16:12",
+      "album": {
+        "name": "Mantras for Positive Energy",
+        "url": "https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "duration_ms": 680647,
+      "name": "Antarjami Purakh Bidhate",
+      "url": "https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40"
     },
     {
       "added_at": "2026-02-19 04:16:12",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
+        "name": "Green Tara Mantra",
+        "url": "https://open.spotify.com/album/1QU1Vx9gpBv9rl5ENFK8DV"
+      },
+      "artists": [
+        {
+          "name": "Nidhi Prasad",
+          "url": "https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga"
+        }
+      ],
+      "duration_ms": 259354,
+      "name": "Green Tara Mantra",
+      "url": "https://open.spotify.com/track/2qCzNbcYtmB8Ov7aq2E7jw"
+    },
+    {
+      "added_at": "2026-02-19 04:16:12",
+      "album": {
         "name": "Tvameva Mata Cha Pita Tvameva",
         "url": "https://open.spotify.com/album/34WWbToLqZuq4PIVtVQmiJ"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 806844,
       "name": "Tvameva Mata Cha Pita Tvameva",
       "url": "https://open.spotify.com/track/6ApbR2J85fA6TbhOTZWry4"
-    },
-    {
-      "added_at": "2026-02-19 04:16:12",
-      "album": {
-        "name": "Green Tara Mantra",
-        "url": "https://open.spotify.com/album/1QU1Vx9gpBv9rl5ENFK8DV"
-      },
-      "artists": [
-        {
-          "name": "Nidhi Prasad",
-          "url": "https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga"
-        }
-      ],
-      "duration_ms": 259354,
-      "name": "Green Tara Mantra",
-      "url": "https://open.spotify.com/track/2qCzNbcYtmB8Ov7aq2E7jw"
     },
     {
       "added_at": "2026-02-19 04:16:12",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
-        "name": "Nava Durga Gayatri Mantra Jaap",
-        "url": "https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 2062009,
-      "name": "Nava Durga Gayatri Mantra Jaap",
-      "url": "https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m"
-    },
-    {
-      "added_at": "2026-02-19 04:16:12",
-      "album": {
         "name": "Om Namah Shivay Mantra",
         "url": "https://open.spotify.com/album/1q2387c87LOveOx3uBFIhJ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 344999,
       "name": "Om Chanting",
       "url": "https://open.spotify.com/track/5klNR4AlnRhWqP7vgqmWkB"
+    },
+    {
+      "added_at": "2026-02-19 04:16:12",
+      "album": {
+        "name": "Nava Durga Gayatri Mantra Jaap",
+        "url": "https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 2062009,
+      "name": "Nava Durga Gayatri Mantra Jaap",
+      "url": "https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m"
     },
     {
       "added_at": "2026-02-19 04:16:12",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
-        "name": "Prayers For World Peace",
-        "url": "https://open.spotify.com/album/2tsh4rRKPqpH4gmp9M1Cwd"
+        "name": "Durga",
+        "url": "https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg"
       },
       "artists": [
         {
-          "name": "Lama Michel Rinpoche",
-          "url": "https://open.spotify.com/artist/3qtj1nM3ZegAT8iNor6TiQ"
-        },
-        {
-          "name": "United Peace Voices",
-          "url": "https://open.spotify.com/artist/4R5565muqCpN3iZBUTItw4"
+          "name": "Pandit Jasraj",
+          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
         }
       ],
-      "duration_ms": 171986,
-      "name": "Request Prayer To The Guru",
-      "url": "https://open.spotify.com/track/0M8RaskzY6v9HwmrwmhYXE"
+      "duration_ms": 249230,
+      "name": "Shloka",
+      "url": "https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS"
     },
     {
       "added_at": "2026-02-19 04:16:12",
@@ -1279,18 +1275,38 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
-        "name": "Durga",
-        "url": "https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg"
+        "name": "Prayers For World Peace",
+        "url": "https://open.spotify.com/album/2tsh4rRKPqpH4gmp9M1Cwd"
       },
       "artists": [
         {
-          "name": "Pandit Jasraj",
-          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
+          "name": "Lama Michel Rinpoche",
+          "url": "https://open.spotify.com/artist/3qtj1nM3ZegAT8iNor6TiQ"
+        },
+        {
+          "name": "United Peace Voices",
+          "url": "https://open.spotify.com/artist/4R5565muqCpN3iZBUTItw4"
         }
       ],
-      "duration_ms": 249230,
-      "name": "Shloka",
-      "url": "https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS"
+      "duration_ms": 171986,
+      "name": "Request Prayer To The Guru",
+      "url": "https://open.spotify.com/track/0M8RaskzY6v9HwmrwmhYXE"
+    },
+    {
+      "added_at": "2026-02-19 04:16:12",
+      "album": {
+        "name": "Ganesh Mantra",
+        "url": "https://open.spotify.com/album/7Fl31P8ZIOJivw5OPfjTKs"
+      },
+      "artists": [
+        {
+          "name": "Uma Mohan",
+          "url": "https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q"
+        }
+      ],
+      "duration_ms": 283726,
+      "name": "Ganesh Mantra",
+      "url": "https://open.spotify.com/track/4Cd4lQdse8xNPfXOgpUfPF"
     },
     {
       "added_at": "2026-02-19 04:16:12",
@@ -1331,42 +1347,18 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
-        "name": "Ganesh Mantra",
-        "url": "https://open.spotify.com/album/7Fl31P8ZIOJivw5OPfjTKs"
+        "name": "Ganesh",
+        "url": "https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E"
       },
       "artists": [
         {
-          "name": "Uma Mohan",
-          "url": "https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q"
+          "name": "Pandit Jasraj",
+          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
         }
       ],
-      "duration_ms": 283726,
-      "name": "Ganesh Mantra",
-      "url": "https://open.spotify.com/track/4Cd4lQdse8xNPfXOgpUfPF"
-    },
-    {
-      "added_at": "2026-02-19 04:16:12",
-      "album": {
-        "name": "Ram Naam Chanting",
-        "url": "https://open.spotify.com/album/2a3szoALUteejLabQS39M1"
-      },
-      "artists": [
-        {
-          "name": "Palak Sharma",
-          "url": "https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG"
-        },
-        {
-          "name": "JusKeys",
-          "url": "https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc"
-        },
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        }
-      ],
-      "duration_ms": 1081463,
-      "name": "Ram Naam Chanting",
-      "url": "https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2"
+      "duration_ms": 297692,
+      "name": "Beej Mantra",
+      "url": "https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj"
     }
   ],
   "unique_name": "Magical Mantras",

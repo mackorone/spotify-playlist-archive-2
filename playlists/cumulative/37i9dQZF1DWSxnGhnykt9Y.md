@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Juno
 
-244 songs - 11 hr 28 min
+246 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Forgiveness](https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness](https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9) | 3:20 | 2024-11-29 | 2025-10-25 |
 | [From Softie to You \(Dey There\)](https://open.spotify.com/track/0900x6zcJZ93gRi11xutc7) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [From Softie to You \(Dey There\)](https://open.spotify.com/album/6oGKVPLpN29GUsfKT1zega) | 2:33 | 2025-05-16 | 2025-10-10 |
 | [Gara \(feat\. Ayra Starr\)](https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Water & Garri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy) | 2:31 | 2024-11-29 | 2025-05-30 |
-| [Gimme Ur Luv](https://open.spotify.com/track/41Y4HI6j3MO763wGudQtAP) | [Efe Oraka](https://open.spotify.com/artist/5Q53UO2TC6Nwbx0qVCmcxo) | [Gimme Ur Luv](https://open.spotify.com/album/1Yjr8ett0KVRZlM2IkaviJ) | 2:25 | 2026-02-27 |  |
+| [Gimme Ur Luv](https://open.spotify.com/track/41Y4HI6j3MO763wGudQtAP) | [Efe Oraka](https://open.spotify.com/artist/5Q53UO2TC6Nwbx0qVCmcxo) | [Gimme Ur Luv](https://open.spotify.com/album/1Yjr8ett0KVRZlM2IkaviJ) | 2:25 | 2026-02-27 | 2026-04-03 |
 | [Give Me Love](https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Give Me Love](https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce) | 2:32 | 2025-08-29 | 2025-09-05 |
 | [Gold Digger](https://open.spotify.com/track/02D1c5p1YaBcGHmei9aX3s) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [Introvert Disco](https://open.spotify.com/album/3pHGMyIporBBRCpCU9tAs9) | 3:10 | 2026-03-27 |  |
 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 | 2024-11-29 |  |
@@ -146,6 +146,7 @@
 | [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 | 2024-11-29 | 2025-03-29 |
 | [Mid Tempo](https://open.spotify.com/track/1z8yTKgKZA5kCbC8LsBPui) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Mid Tempo](https://open.spotify.com/album/30T55hfm5N2EBSq4xYtCJV) | 2:34 | 2025-05-16 |  |
 | [MiiYa](https://open.spotify.com/track/3gA42BhHhRnItB1Iiwck5I) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [MiiYa](https://open.spotify.com/album/6XU9fyoSPL0SbsMw32lDEf) | 4:17 | 2024-11-29 | 2025-07-18 |
+| [Money](https://open.spotify.com/track/1jEFxzaf8WWPcNrmU96gVN) | [Charmaine 'L A](https://open.spotify.com/artist/0XbOSZeNvIJbqZrgdKypsP) | [Money](https://open.spotify.com/album/5tL0Es1QypmSnTCRzx0SPJ) | 2:58 | 2026-04-03 |  |
 | [Most Wanted](https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Most Wanted](https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge) | 2:43 | 2024-11-29 | 2025-05-30 |
 | [Most Wanted](https://open.spotify.com/track/5la9K68cIHIBkURlGiHAAs) | [S high](https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Bagetti](https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Most Wanted](https://open.spotify.com/album/0OpIDcA9XULn2Ws2aGWBrQ) | 2:51 | 2025-12-12 | 2026-02-14 |
 | [MOVE](https://open.spotify.com/track/7KkZsYEhcAEvQJIP5iauyZ) | [Rita Kamale](https://open.spotify.com/artist/4O67ere8Zi4xRPeR90umD0), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [MOVE](https://open.spotify.com/album/0lf0yUHujZT9dNmTGTWbla) | 3:06 | 2024-11-29 | 2025-07-05 |
@@ -191,7 +192,7 @@
 | [Pepper Demm](https://open.spotify.com/track/0GrjQoD0G2nbpjvBa64EPK) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Pepper Demm](https://open.spotify.com/album/6bZNNrCzbcozLN1ZSCIfS3) | 2:34 | 2025-02-28 | 2025-10-25 |
 | [Personal](https://open.spotify.com/track/0EMXklypGROwo70DKaDZYY) | [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is) | [Personal](https://open.spotify.com/album/1EwRPcScU1xa4YLlwn2ntA) | 3:03 | 2026-03-06 |  |
 | [Personally](https://open.spotify.com/track/4L8RI5JB3drZXgzsnDpSF3) | [Veola](https://open.spotify.com/artist/5fLNzZuVFMdNKfNOvWA39i) | [Personally](https://open.spotify.com/album/1x6RtT73Jkn1SHhSlFPFLv) | 2:52 | 2025-07-18 | 2025-09-26 |
-| [Pour Some More](https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [Pour Some More](https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF) | 3:27 | 2026-02-27 |  |
+| [Pour Some More](https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [Pour Some More](https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF) | 3:27 | 2026-02-27 | 2026-04-03 |
 | [Pressure](https://open.spotify.com/track/6sXhKl8JUaO9g8Q2O1kQtg) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Pressure](https://open.spotify.com/album/4kPmfne7JilXehb88OknDC) | 2:16 | 2025-02-28 | 2025-03-15 |
 | [Pretty Girl](https://open.spotify.com/track/3mbZFN6ZynKRwKt7EDccI1) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Pretty Girl](https://open.spotify.com/album/528NVpD6jexhQKgUnxrFkg) | 3:12 | 2025-06-13 | 2025-06-20 |
 | [Pretty Girl Bop](https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [Hear Me Out](https://open.spotify.com/album/32SYdv9QzscXqSV4tQc1qC) | 2:18 | 2024-11-29 | 2025-03-15 |
@@ -224,6 +225,7 @@
 | [Talking Too Much](https://open.spotify.com/track/7944xUFsCEivN3zFMZXmTt) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 3:14 | 2024-11-29 | 2025-05-16 |
 | [Telepatia](https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:19 | 2025-11-07 | 2026-02-28 |
 | [Temperature \(E Dey Hot\)](https://open.spotify.com/track/0o2Hm5xDGCjsboek8TOFDC) | [Omawumi](https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj) | [Temperature \(E Dey Hot\)](https://open.spotify.com/album/1rsNVVWjJEUf6CPEggHgDv) | 2:37 | 2025-10-24 | 2025-11-07 |
+| [Thobela](https://open.spotify.com/track/2nbIOACMsrzwJRffLmysWa) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Farm Julia](https://open.spotify.com/album/1rredyCC7vDRBE3wxb153V) | 4:50 | 2026-04-03 |  |
 | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/track/06Q3EYMkRjqe5K3lSKABtN) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [To Kill a Single Girl \(Tequila\)](https://open.spotify.com/album/4EmugwIjX1qX68hUfAT8Oz) | 3:34 | 2024-12-06 | 2024-12-17 |
 | [Toffee](https://open.spotify.com/track/526ajsmmCi9QKfOQCJiZn3) | [Veola](https://open.spotify.com/artist/5fLNzZuVFMdNKfNOvWA39i) | [Toffee](https://open.spotify.com/album/3gtf09EytYdN4bfuTXsvCW) | 3:05 | 2025-11-14 | 2026-02-28 |
 | [Tolotolo](https://open.spotify.com/track/0r3Ih6qH8xMDzqJmErLSAN) | [Nyinée](https://open.spotify.com/artist/6Z2nDqpkGxvethBqjEPEbg) | [Tolotolo](https://open.spotify.com/album/5QaDucTY5mtu9ibsMQJAcY) | 2:00 | 2026-02-20 |  |

@@ -1819,6 +1819,28 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/1tNoAb4Gx77SiLMpKUqs43"
+      },
+      "artists": [
+        {
+          "name": "Thi'sl",
+          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
+        },
+        {
+          "name": "The Knuckles",
+          "url": "https://open.spotify.com/artist/1FuBPWbvbI4fjXzRgfmopc"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274971,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/6UhWtQosBdknihw6dsjHGs"
+    },
+    {
+      "album": {
         "name": "Paycheck",
         "url": "https://open.spotify.com/album/4SPM1AvZv9BLTQTOauUiop"
       },

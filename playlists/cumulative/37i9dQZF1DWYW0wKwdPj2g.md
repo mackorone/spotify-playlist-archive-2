@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-313 songs - 1 day 18 hr 38 min
+315 songs - 1 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [I Decree \- Live](https://open.spotify.com/track/4daFIen6VNnemOUgvzAThq) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [I Decree \(Live\)](https://open.spotify.com/album/4MwqnWVW9SNkQ6GZJ4Bjli) | 6:06 | 2025-08-01 | 2025-08-29 |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2024-02-23 |  |
 | [I Know \- Live](https://open.spotify.com/track/4NGtFSuxqx4px2MAyYD5y4) | [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F) | [I Know \(Live\)](https://open.spotify.com/album/0b2OP2eyJkmHQ89DzoKOhV) | 9:06 | 2025-10-24 | 2025-11-14 |
+| [I KNOW A GOD \(LIVE\)](https://open.spotify.com/track/4mpSOJVupkJ6LKr1BVVhs6) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [I KNOW A GOD \(LIVE\)](https://open.spotify.com/album/6N02fLeSWLoq2ECDib0dGr) | 6:56 | 2026-04-03 |  |
 | [I Know Who I Am \- Live](https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud \(Live\)](https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG) | 6:10 | 2024-02-23 | 2026-03-06 |
 | [I Need You \- Live](https://open.spotify.com/track/0YyTm2zoM1hOlcUDNBXE2Z) | [God in This Music](https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K), [DreySongz](https://open.spotify.com/artist/6hTvRU851v5ocXtb3MBstp) | [No Bounds: The Album](https://open.spotify.com/album/6tRTPgUwjuN50FTUBVtHFn) | 10:34 | 2024-11-29 | 2025-02-28 |
 | [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 | 2024-11-15 |  |
@@ -294,6 +295,7 @@
 | [Who Is Like The Lord \- LIVE](https://open.spotify.com/track/73TY0ezTyS10sBzN61ULS9) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [Who Is Like The Lord \(LIVE\)](https://open.spotify.com/album/1BlFPOk2ErZz4GVi9Lbdqe) | 9:49 | 2025-08-22 | 2025-10-10 |
 | [WHO IS LIKE THEE \(Live\)](https://open.spotify.com/track/60Rryc6TaQNDQRbiWBXfd1) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [WHO IS LIKE THEE \(Live\)](https://open.spotify.com/album/4W0qjKFeLkJU4i1VYM0A4s) | 6:08 | 2025-04-25 | 2025-08-22 |
 | [Who Is Like You \- Live](https://open.spotify.com/track/2gbB7Qux8u6qCZhGxlEKFo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Who Is Like You \(Live\)](https://open.spotify.com/album/4Z7NcJsD3IbJRCGalgEyW9) | 19:01 | 2025-03-07 |  |
+| [Whosoever \- Live](https://open.spotify.com/track/6FfQyUSA8grFb1Y3Wnbanq) | [Wellspring Music](https://open.spotify.com/artist/760XbihuDnesUcKkNEOOIj), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Malachi Lucey](https://open.spotify.com/artist/1lNMOGGfhY4JFmw92Wr1mJ) | [Whosoever \(Live\)](https://open.spotify.com/album/5VD7Hzv0v0cZ5mxUhckuA3) | 4:09 | 2026-04-03 |  |
 | [Why You Love Me \- Live](https://open.spotify.com/track/2xnfFxX7Jtj17QXwoITgBl) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Tobi Jeff Richards](https://open.spotify.com/artist/4otRzds8kWRbAxtnJQHPTP) | [Why You Love Me \(Live\)](https://open.spotify.com/album/3smj9D3CphAyfsdHxAC4li) | 12:09 | 2025-01-31 |  |
 | [Without You \(Live\)](https://open.spotify.com/track/7LitINmbh2R4n5x91ghvTf) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6), [Stella Joel](https://open.spotify.com/artist/5U1EZrQYcLHj4bBXmSdqec) | [Without You \(Live\)](https://open.spotify.com/album/1cOqnAsYGJiQKuRKXkfzhD) | 6:50 | 2025-02-21 | 2025-03-28 |
 | [WO NKYEN](https://open.spotify.com/track/5DLa96rKO72NOOMnTFk53N) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Felicia Sarfo](https://open.spotify.com/artist/3P1uB9Vb9lBVnTHsXIB7eq) | [WO NKYEN](https://open.spotify.com/album/4uNt01HdxLnW29Ptqn6GtC) | 5:36 | 2024-08-30 | 2024-10-04 |

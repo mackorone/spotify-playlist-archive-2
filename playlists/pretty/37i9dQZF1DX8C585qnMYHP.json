@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent Experimental artists. <a href=\"spotify:artist:7ll9lIFnSZ6CGl1MjZ4mrw\">Bono / Burattini</a> on cover. Artwork by Thami Nabil.",
-  "num_followers": 192910,
+  "num_followers": 192943,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFCemYF2pZr9dL2NhUeStGRmmjh+",
+  "snapshot_id": "AAAAAMrkMt9Ppp7vU0ft8zB2EYlMnNGs",
   "tracks": [
     {
       "added_at": "2026-03-21 01:23:07",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/1H4gXQt5jHktMwJo59akVV"
     },
     {
+      "added_at": "2026-04-02 20:06:34",
+      "album": {
+        "name": "Spectres",
+        "url": "https://open.spotify.com/album/5tlhRi4B8fKgOW1aDqeZZB"
+      },
+      "artists": [
+        {
+          "name": "J. Mordechai",
+          "url": "https://open.spotify.com/artist/5Jjx40UzbnzKFxYvui5JBs"
+        }
+      ],
+      "duration_ms": 280125,
+      "name": "Eternal September",
+      "url": "https://open.spotify.com/track/5Kw14pZRJ6jsGtk8WRg0wZ"
+    },
+    {
       "added_at": "2026-03-21 01:23:07",
       "album": {
         "name": "\uff0d\uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65\uff65 \uff0d \uff65\uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff0d \uff0d\uff65\uff0d\uff0d",
@@ -87,6 +103,22 @@
       "duration_ms": 212535,
       "name": "\uff0d\uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65\uff65 \uff0d \uff65\uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff0d \uff0d\uff65\uff0d\uff0d",
       "url": "https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J"
+    },
+    {
+      "added_at": "2026-04-02 20:06:34",
+      "album": {
+        "name": "BIWM",
+        "url": "https://open.spotify.com/album/7HGirV7wJ93mWgYkIkScqP"
+      },
+      "artists": [
+        {
+          "name": "MAY",
+          "url": "https://open.spotify.com/artist/2x2XcuR2lkrJHzDjnYZIk5"
+        }
+      ],
+      "duration_ms": 226374,
+      "name": "BIWM",
+      "url": "https://open.spotify.com/track/6zmBzFMP19mafCMH40Rcc3"
     },
     {
       "added_at": "2026-03-21 01:23:07",
@@ -149,6 +181,26 @@
       "url": "https://open.spotify.com/track/3m3RfnYDaIlXlHPiWzVtje"
     },
     {
+      "added_at": "2026-04-02 20:06:34",
+      "album": {
+        "name": "a feeling",
+        "url": "https://open.spotify.com/album/0lT0bmsvvpNkHvzfzJ8Ezd"
+      },
+      "artists": [
+        {
+          "name": "WALTA",
+          "url": "https://open.spotify.com/artist/1u5Zp5UwzGCydF4HunLqaJ"
+        },
+        {
+          "name": "Kieran Stevenson",
+          "url": "https://open.spotify.com/artist/2PSQtUZiqvkJYw5syNNbd4"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "a feeling",
+      "url": "https://open.spotify.com/track/0q4GQFQkzhkKUlzZZv0eNb"
+    },
+    {
       "added_at": "2026-03-21 01:23:07",
       "album": {
         "name": "The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore",
@@ -179,6 +231,26 @@
       "duration_ms": 160000,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/5qVqO95bAKrSAXr7syJDA5"
+    },
+    {
+      "added_at": "2026-04-02 20:06:34",
+      "album": {
+        "name": "Music for Intersecting Planes",
+        "url": "https://open.spotify.com/album/6hgGCTcKj9F9t7SYiRGmgs"
+      },
+      "artists": [
+        {
+          "name": "Leila Bordreuil",
+          "url": "https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35"
+        },
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "duration_ms": 502000,
+      "name": "Intersecting Planes II",
+      "url": "https://open.spotify.com/track/0Qv4TU6l9PdPVjAGB04wDz"
     },
     {
       "added_at": "2026-03-21 01:23:07",
@@ -371,42 +443,6 @@
     {
       "added_at": "2026-03-21 01:23:07",
       "album": {
-        "name": "Grief",
-        "url": "https://open.spotify.com/album/1QucVHnWfS3U2IjEMnEd54"
-      },
-      "artists": [
-        {
-          "name": "Mai Mai Mai",
-          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
-        },
-        {
-          "name": "Maya Al Khaldi",
-          "url": "https://open.spotify.com/artist/3prfEtBarVhjO942w5f6T6"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Grief",
-      "url": "https://open.spotify.com/track/1WvlzTLQuAzhAWgnWQFydt"
-    },
-    {
-      "added_at": "2026-03-21 01:23:07",
-      "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH"
-      },
-      "artists": [
-        {
-          "name": "Fight Pausa",
-          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB"
-    },
-    {
-      "added_at": "2026-03-21 01:23:07",
-      "album": {
         "name": "Ratios IV",
         "url": "https://open.spotify.com/album/5WEHqOF9EzG7w8EhFk3KER"
       },
@@ -467,38 +503,6 @@
       "duration_ms": 146765,
       "name": "director's cut",
       "url": "https://open.spotify.com/track/61b3uyJnNh7d1v5NU7ttiT"
-    },
-    {
-      "added_at": "2026-03-21 01:23:07",
-      "album": {
-        "name": "The Sludge of the Land",
-        "url": "https://open.spotify.com/album/4HZ9GCqvFEraON1Vf3YQQ6"
-      },
-      "artists": [
-        {
-          "name": "Babau",
-          "url": "https://open.spotify.com/artist/2gSV6FsMxBBH01LLNgx6HU"
-        }
-      ],
-      "duration_ms": 291792,
-      "name": "The sound of a continent moving\u2026 animals, plants and minerals included",
-      "url": "https://open.spotify.com/track/1QbN0pkKWRDE0eEIvGVOUJ"
-    },
-    {
-      "added_at": "2026-03-21 01:23:07",
-      "album": {
-        "name": "Indigo Skies / Montagne a Colori",
-        "url": "https://open.spotify.com/album/6A9m1LfwzeRK6X1glkvASn"
-      },
-      "artists": [
-        {
-          "name": "Planet Opal",
-          "url": "https://open.spotify.com/artist/79u3gvhlSLQxzZNqn0voXp"
-        }
-      ],
-      "duration_ms": 272031,
-      "name": "Indigo Skies",
-      "url": "https://open.spotify.com/track/5cYovKQWMe0zXkHiPMvW0W"
     },
     {
       "added_at": "2026-03-21 01:23:07",

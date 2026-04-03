@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > \[Playlist Takeover: syudou\] Explore the current wave of VOCALOID culture\. Cover: syudou
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,971 likes - 41 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,016 likes - 41 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 40 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
 | 41 | [いい国夢気分](https://open.spotify.com/track/4BSFFzyd7OS6PPaHchaFOu) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [必死](https://open.spotify.com/album/6xmiMQEOeFgvh8Tot6ueMv) | 2:52 |
 
-Snapshot ID: `AAAAAPp4YNYnyu1YQ0lC//rn8hKfrCGk`
+Snapshot ID: `AAAAAARveLm/TEn7lMLZ7/LXhN9yWC2j`

@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 78 | [Maybe Not](https://open.spotify.com/track/1PkMxo1SQtehhsM3GuYd4g) | [Temecula Road](https://open.spotify.com/artist/6NBjdxIPyMnOSmkkwd5UZT) | [Maybe Not](https://open.spotify.com/album/4djCJK2VULqp1Okwc6Sx51) | 2:57 |
 | 79 | [Having It All](https://open.spotify.com/track/5xeASgqvLB3WOUkND2zfrZ) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn) | [Miss California](https://open.spotify.com/album/1XcCJgdR5mdwmY38BwO3o5) | 2:53 |
 | 80 | [Head Start on a Heartbreak](https://open.spotify.com/track/09YHbsgK2ushf9Cq0RkM2X) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The 3rd](https://open.spotify.com/album/338PUzOE2YzbuGeYPEp50N) | 3:08 |
-| 81 | [Morning Person](https://open.spotify.com/track/2m9e4YyrrpMjlm7wVVwQ0N) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Dive Bar Beauty Queen](https://open.spotify.com/album/2stHI1R40N24BTQ0EIGccF) | 3:40 |
-| 82 | [Broken Hearts Break](https://open.spotify.com/track/4Zxz5nRPkPDzTfau5WG3g6) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Broken Hearts](https://open.spotify.com/album/3nhHTXUL4eEFE6LRD8Fo0n) | 3:33 |
+| 81 | [Broken Hearts Break](https://open.spotify.com/track/4Zxz5nRPkPDzTfau5WG3g6) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Broken Hearts](https://open.spotify.com/album/3nhHTXUL4eEFE6LRD8Fo0n) | 3:33 |
+| 82 | [Morning Person](https://open.spotify.com/track/2m9e4YyrrpMjlm7wVVwQ0N) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Dive Bar Beauty Queen](https://open.spotify.com/album/2stHI1R40N24BTQ0EIGccF) | 3:40 |
 | 83 | [A Christmas We'll Remember](https://open.spotify.com/track/19SSpYuUi0ytkavyxX05k9) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [A Christmas We'll Remember](https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45) | 2:31 |
 | 84 | [just a house](https://open.spotify.com/track/0DzTXqEjas7NYeoLsaw6B9) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING \(DELUXE\)](https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd) | 3:39 |
 | 85 | [Too Much Of A Good Thing](https://open.spotify.com/track/1j1hE1uyIWcEMLSvMNPBss) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:14 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 127 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 128 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcNuNgAAAADv73mocBeJDN6Z58XV83MB`
+Snapshot ID: `AcNz1gAAAAB3vWnSyuaXgKYGqFwIv3OX`

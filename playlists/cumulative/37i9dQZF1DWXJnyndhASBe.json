@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: francis, Oskar83, r\u00f3w babicze",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: White 2115",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 131538,
       "name": "5 ZEGARK\u00d3W",
       "url": "https://open.spotify.com/track/6x0DfhurmG5IBGydtCqteY"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 136240,
       "name": "CHC\u0118 TAK",
       "url": "https://open.spotify.com/track/12gzMq0ry5SWInJ8Rvhuvz"
@@ -4501,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "da da da(\u017cyje dla rapu)",
+        "url": "https://open.spotify.com/album/1ojwFXQzTdXq2TkJEN5naV"
+      },
+      "artists": [
+        {
+          "name": "spazma",
+          "url": "https://open.spotify.com/artist/6bmmtf7rBNZvwxMOlmomN7"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98400,
+      "name": "da da da(\u017cyje dla rapu)",
+      "url": "https://open.spotify.com/track/2guW0FLEPd4QgJn9GEDi0n"
+    },
+    {
+      "album": {
         "name": "da vinci",
         "url": "https://open.spotify.com/album/2B4K5RECs4Y9AvfCQive48"
       },
@@ -4638,6 +4656,28 @@
       "duration_ms": 202838,
       "name": "DAY ONE",
       "url": "https://open.spotify.com/track/1OooCG5KS1VAtzdj4KENLW"
+    },
+    {
+      "album": {
+        "name": "DWADZIE\u015aCIASIEDEM.",
+        "url": "https://open.spotify.com/album/21J9DnFrNcBPZBIUv5RI8G"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120960,
+      "name": "DEAD2ME",
+      "url": "https://open.spotify.com/track/1jH617LGeaVkRgn79XjI0w"
     },
     {
       "album": {
@@ -4962,6 +5002,24 @@
       "duration_ms": 265740,
       "name": "DNI LEPSZE NI\u017b TEN",
       "url": "https://open.spotify.com/track/5NrALgHxMvITkF7RF9KjJ6"
+    },
+    {
+      "album": {
+        "name": "dobra pora",
+        "url": "https://open.spotify.com/album/0kwEzMfrVsCC3Y59Des6rk"
+      },
+      "artists": [
+        {
+          "name": "schafter",
+          "url": "https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "dobra pora",
+      "url": "https://open.spotify.com/track/4cRn20AmU4WD4brk5CAsQN"
     },
     {
       "album": {
@@ -5444,7 +5502,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 136800,
       "name": "DUMA NARODU",
       "url": "https://open.spotify.com/track/70X83FmvJ1DYVbYMqlqT5G"
@@ -7518,7 +7576,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 121625,
       "name": "HERE WE GO",
       "url": "https://open.spotify.com/track/0ld2GTi2fjKYIWdagJzuFO"
@@ -9811,6 +9869,28 @@
     },
     {
       "album": {
+        "name": "KUBA",
+        "url": "https://open.spotify.com/album/0XZfTnUV0YiOk1TkORpzxY"
+      },
+      "artists": [
+        {
+          "name": "Bary",
+          "url": "https://open.spotify.com/artist/4JBmVZET2xstezrgS5PsXw"
+        },
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "KUBA",
+      "url": "https://open.spotify.com/track/4Q3rNrkvbjh5SgfW1A6TUf"
+    },
+    {
+      "album": {
         "name": "Sen, kt\u00f3rego nigdy nie mia\u0142em",
         "url": "https://open.spotify.com/album/66PLYx5D3aFMof9xxcwJ3k"
       },
@@ -11070,7 +11150,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 152312,
       "name": "MAMY PRAC\u0118",
       "url": "https://open.spotify.com/track/21VtZ2F7KaTeNdesHfhcuo"
@@ -13869,6 +13949,24 @@
     },
     {
       "album": {
+        "name": "Zimowy Gda\u0144sk",
+        "url": "https://open.spotify.com/album/14RrXgwKcnGlQM1g5FKWHw"
+      },
+      "artists": [
+        {
+          "name": "Cheatz",
+          "url": "https://open.spotify.com/artist/4ZA66hsvIPVsSelQsobJ0B"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129632,
+      "name": "Niesko\u0144czono\u015b\u0107",
+      "url": "https://open.spotify.com/track/440q1Tg7jVikYJryQHbYfv"
+    },
+    {
+      "album": {
         "name": "wake ep",
         "url": "https://open.spotify.com/album/5akHAtkZ2NQYnCCiiYJ3dL"
       },
@@ -15008,7 +15106,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 121142,
       "name": "Ostre Ci\u0119cie",
       "url": "https://open.spotify.com/track/0afsZqOO1ARSR0L7XnOx8t"
@@ -16376,7 +16474,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 183529,
       "name": "PRAGNIE\u0143 BRAK",
       "url": "https://open.spotify.com/track/01Mx9qKrT1IeL9EywTe4Se"
@@ -20985,6 +21083,24 @@
     },
     {
       "album": {
+        "name": "WIECZ\u00d3R KAWALERSKI",
+        "url": "https://open.spotify.com/album/4W8FIabwOwiSMYtNr9d8qC"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "WIECZ\u00d3R KAWALERSKI",
+      "url": "https://open.spotify.com/track/0AylbaS3jQ4BgT0NEVVa7S"
+    },
+    {
+      "album": {
         "name": "WIFEY",
         "url": "https://open.spotify.com/album/359CWpeVe8HhxFORUDg0R5"
       },
@@ -21618,6 +21734,24 @@
       "duration_ms": 230666,
       "name": "WZROK NA BUCIKI",
       "url": "https://open.spotify.com/track/5Hi0wWHKJ1vB9Io3Lj8bHX"
+    },
+    {
+      "album": {
+        "name": "XL",
+        "url": "https://open.spotify.com/album/1HPJSB1t9znN7ZDFLvP5y8"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129230,
+      "name": "XL",
+      "url": "https://open.spotify.com/track/73BMvnk2GbshPzyg3nRr8T"
     },
     {
       "album": {

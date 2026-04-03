@@ -1,6 +1,6 @@
 {
   "description": "Ballads from the best shows, from the West End and beyond.",
-  "num_followers": 178507,
+  "num_followers": 178510,
   "original_name": "Ballads From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,26 @@
     {
       "added_at": "2025-12-10 11:43:01",
       "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR"
+    },
+    {
+      "added_at": "2025-12-10 11:43:01",
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 225240,
       "name": "Burn",
       "url": "https://open.spotify.com/track/4B3qvzOMzLQXLeYgPsG3KA"
-    },
-    {
-      "added_at": "2025-12-10 11:43:01",
-      "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR"
     },
     {
       "added_at": "2025-12-10 11:43:01",

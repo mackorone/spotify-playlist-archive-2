@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-901 songs - 1 day 22 hr 3 min
+906 songs - 1 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Fire](https://open.spotify.com/track/5evomhPGDSozj3SEXWsoCV) | [Jazz D](https://open.spotify.com/artist/3sNhIdHwhDDf5x6kp0kuds) | [Fire](https://open.spotify.com/album/7cjWHI8DLyqkqpRlZ2983o) | 3:28 | 2026-02-16 |  |
 | [FLASHBACK](https://open.spotify.com/track/0qszBWU36w3h9oFxZEWHq3) | [ELO](https://open.spotify.com/artist/1qoApE9HzNbP2RiogZkE89) | [FLASHBACK](https://open.spotify.com/album/6L7ptbn30QyNFHLAwMCqwg) | 2:18 | 2025-10-09 | 2026-01-15 |
 | [Floor Inspector](https://open.spotify.com/track/5Tn9qxw18Fy7qKut2DWCdY) | [Complex C](https://open.spotify.com/artist/1kLsASVDGo2Qt8oQcQcQY8) | [Floor Inspector](https://open.spotify.com/album/5w9rwhZfKZcTa1tVNWOrbA) | 3:36 | 2026-01-03 | 2026-02-23 |
+| [FOOLS GOLD](https://open.spotify.com/track/4smBauBzEkVhRt7WGsby6E) | [MARLON](https://open.spotify.com/artist/27eocpxomMYAIsSTC7ub7z) | [FOOLS GOLD](https://open.spotify.com/album/5dsoKOXrJx0wx8KVscSNQ7) | 1:52 | 2026-04-02 |  |
 | [Forth Wall: Empires & Interiors](https://open.spotify.com/track/5J7TP8CIaj1OUN1q5wyV0e) | [ΠϢΑϪЄ](https://open.spotify.com/artist/3MkDPKEYw7KgH2WZuCvrPO) | [The First Explorers Of Earth](https://open.spotify.com/album/0tpJ21XRrenBcwj5wGWUMa) | 2:11 | 2025-11-26 | 2026-02-23 |
 | [Fountain](https://open.spotify.com/track/5L6DTMCdiz4BBmh3xweyrJ) | [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Fountain](https://open.spotify.com/album/6NJdM5ZPBS0IHkK8XBNeX2) | 2:12 | 2025-12-29 |  |
 | [Free4EB65](https://open.spotify.com/track/64GMwD4IDICYUD1NQfJybU) | [4EB PB](https://open.spotify.com/artist/3HbPetWDaxc46dNBrBTBN2) | [Free4EB65](https://open.spotify.com/album/3iTWxsVESbaycZhynf1idp) | 2:34 | 2026-01-30 |  |
@@ -572,6 +573,7 @@
 | [On S'est Perdu](https://open.spotify.com/track/2TmlhNyiTpJE8expr5Auok) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Moi Qui a Mal](https://open.spotify.com/album/0iQHWtIwT46b3Rj97T2Zb4) | 3:36 | 2025-11-06 | 2026-02-17 |
 | [On Your Mind Again](https://open.spotify.com/track/0B9A2nKDB03G9GomPdRe2N) | [Jimmy Hazelwood](https://open.spotify.com/artist/1F27YY4TGG6BJ42kUAHcHw) | [On Your Mind Again](https://open.spotify.com/album/0yTLFSFRnUrRf2yfe106TZ) | 3:14 | 2025-07-31 | 2026-01-15 |
 | [One Battle After Another Freestyle \(Bonus Track\)](https://open.spotify.com/track/4N7GSM5mhV4S4A2D5mFzcn) | [Schino B](https://open.spotify.com/artist/7HTvfaoiDmOiGqg66nZC2B), [2 Late](https://open.spotify.com/artist/6owOgQeL12R2Lq8kQRM3aN) | [He Cries Wolf \(Deluxe\)](https://open.spotify.com/album/2szYYLI3z0zr9ICi2kR431) | 3:08 | 2025-11-06 | 2026-02-17 |
+| [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-04-02 |  |
 | [One Life in a Second](https://open.spotify.com/track/3ejiegnz0P0wCBmDiVt6DS) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [One Life in a Second](https://open.spotify.com/album/31tJrwZLvVxTmiDHo7I5es) | 4:41 | 2025-12-02 | 2026-02-23 |
 | [One Way Road](https://open.spotify.com/track/3gpPiz0MCAfeq25uMTfBRl) | [Empress Linoleum](https://open.spotify.com/artist/4FuR22rpxsrFeXd1VrimbB) | [One Way Road](https://open.spotify.com/album/6BDbhOeZBBfwq1iHeFhPaM) | 3:12 | 2025-11-16 |  |
 | [Only](https://open.spotify.com/track/7cYsxbpGZjtkkyjweT730m) | [Yonss Durant](https://open.spotify.com/artist/5jJ8XdoLJTmtfYTHCu6QRb) | [Only](https://open.spotify.com/album/1xam7EfOwSAleFOCFuoNfB) | 3:14 | 2026-01-30 |  |
@@ -692,6 +694,7 @@
 | [Slot en grendel](https://open.spotify.com/track/4foQ7rSrmTO6QqYbYIXQ1I) | [Fijnproeverz](https://open.spotify.com/artist/3sV1Ese7wuMcBnfgpvwEV3), [Djenghis Haan](https://open.spotify.com/artist/7G1yCP3w4Q5fpZlP8m7I3q), [LDB](https://open.spotify.com/artist/4OPzEBvFfoqsHgZ8ikuo1a), [J\. Duko](https://open.spotify.com/artist/1ImBk9xf7RDB8vBp3dyyJC) | [Aan Tafel](https://open.spotify.com/album/36wKkqQFwlJxJChy2wOLHA) | 3:09 | 2025-08-22 | 2026-01-15 |
 | [Slow Motion](https://open.spotify.com/track/1CV3zdjR73oQ90IucPeQ3Q) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw) | [Slow Motion](https://open.spotify.com/album/2VPZNOCIQ7FXvKz2BZxy5G) | 2:58 | 2025-11-10 | 2026-02-23 |
 | [Slugs](https://open.spotify.com/track/7GD615AqvGT4prgeyWqER5) | [Young.Fendi](https://open.spotify.com/artist/7J8NCqwzHIYJGVbxvTLB9E) | [Fendi on Fendi](https://open.spotify.com/album/7belYfAlFiOC5Z2NLHEqxF) | 1:58 | 2026-02-08 |  |
+| [SMITH & MR\. WESSON](https://open.spotify.com/track/7LRereBkRes9WIflpQl593) | [MARLON](https://open.spotify.com/artist/27eocpxomMYAIsSTC7ub7z), [FLORES](https://open.spotify.com/artist/10SgODoY6fWDzAhCEWvNUN) | [SMITH & MR\. WESSON](https://open.spotify.com/album/3J1ksZyw0iHkmsYJCTmH9x) | 2:26 | 2026-04-02 |  |
 | [Smooth Ride](https://open.spotify.com/track/4zqTyQVumxaBPHvq6dwUk0) | [Bengt Isaksson](https://open.spotify.com/artist/2jounGBjlkg6p4nPuTFUcK) | [My Westcoast Songs](https://open.spotify.com/album/1gFeLFqLqCzC2KaiLpv37A) | 2:49 | 2025-08-05 | 2026-01-15 |
 | [SNEAKY LINK](https://open.spotify.com/track/0AdPvHCKaLSg1WSW2HdJ2r) | [Tonej](https://open.spotify.com/artist/0PU4CWUvfChKwyGKKmyE1W) | [SNEAKY LINK](https://open.spotify.com/album/0GlUR1FM89ltdhvPHhhuP6) | 3:09 | 2025-09-28 | 2026-01-15 |
 | [So Bad](https://open.spotify.com/track/73kgIKPgRiltF1uiY2M6yU) | [Versifyer](https://open.spotify.com/artist/5ZDvjyF3mOHhZtQenm9Pqp), [Synj](https://open.spotify.com/artist/2I8CBILsjH2jqqQIP67RnR) | [So Bad](https://open.spotify.com/album/6lzDU9QY597wL0q6oYuVSE) | 4:18 | 2026-01-08 |  |
@@ -755,6 +758,7 @@
 | [Terceiro Olho](https://open.spotify.com/track/31NUoMH7ey9Tssl490bBMD) | [Malukos por Justiça \(MPJ\)](https://open.spotify.com/artist/0fbMHYed7mPuYCZzR6ExrT) | [Terceiro Olho](https://open.spotify.com/album/1XRyOGqWEBHbwzh5odDImt) | 2:47 | 2025-07-28 | 2026-01-15 |
 | [Terra Firma](https://open.spotify.com/track/6QIQuwTcoFTNmJXsprASIa) | [Stratafield](https://open.spotify.com/artist/1VuViStzi9Ag49k1Hxm9xA) | [Sympathetic Waveforms](https://open.spotify.com/album/5NH23YnT1jzDMkSC2b9AdK) | 4:29 | 2026-01-26 |  |
 | [Thank You](https://open.spotify.com/track/4Al3Gz3caTl6kQJF4b3StW) | [1976Piano/MJM](https://open.spotify.com/artist/51dGdERH5AOJVfardvCpi3) | [Thank You](https://open.spotify.com/album/5VHUIf80aGNXeKwHFan379) | 2:35 | 2025-08-29 | 2026-01-15 |
+| [The Apple](https://open.spotify.com/track/6E0KXePDFJFzk9BlQ07p2U) | [Ryan Aotani](https://open.spotify.com/artist/62zTP7Hd5XwMVQwEuQ8ttB) | [The Apple](https://open.spotify.com/album/26OzWwi9hNcp0N3KRiMUyW) | 2:57 | 2026-04-02 |  |
 | [The Art of My Heart](https://open.spotify.com/track/101tVU5zbAIoEzE7PByjNS) | [Davi Crowne](https://open.spotify.com/artist/7MNZVfGPgjBa6VTM4hpc8s) | [The Art of My Heart](https://open.spotify.com/album/7dH496KsZ04WdfCWQO3Heu) | 3:32 | 2026-01-28 |  |
 | [THE BEAST SLEEPS IN ME](https://open.spotify.com/track/4AYgPlI7O19uEq79wCtAzi) | [Maffy Miller](https://open.spotify.com/artist/5KJRm0D0rqtorpRX137abW) | [MONSTERGOD](https://open.spotify.com/album/3sYErZ9dEaKpc3037uVDX7) | 3:11 | 2026-03-02 |  |
 | [The Brink](https://open.spotify.com/track/2sfMpk6ZMNV7iJpOopK4ue) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw) | [The Brink](https://open.spotify.com/album/6QibssZn3Z4HGIyap0lKHj) | 3:24 | 2026-03-06 |  |
@@ -819,6 +823,7 @@
 | [Undeniable](https://open.spotify.com/track/2s37gy26U45DthJbHOka6k) | [LIL T.H](https://open.spotify.com/artist/74z1v2wyqoRLGyWXDAVkx2) | [Undeniable](https://open.spotify.com/album/1fJpJpR5mafInjHqD1EROj) | 1:22 | 2025-11-04 | 2026-02-17 |
 | [Underground, Nacional e Odioso](https://open.spotify.com/track/4ATJc42X2u1ptKkBOq9m4S) | [Ricardo Andrade](https://open.spotify.com/artist/4xP97UEKRKNauOSUrrrSTf), [VOLPZ'](https://open.spotify.com/artist/2zyB6pdDHZsBzb3Ksist8p) | [Underground, Nacional e Odioso](https://open.spotify.com/album/6YS31LUdd1qC1F4fcYkbPA) | 3:29 | 2025-09-04 | 2026-01-15 |
 | [Une étoile](https://open.spotify.com/track/23yiktGi5K5xQolMKqbryp) | [Kévin Bourgey](https://open.spotify.com/artist/7ziymlTRH1NTLslbYqnWtq), [Mohamed Hajji](https://open.spotify.com/artist/639Ru540URzagA7qLiGXqI) | [Une étoile](https://open.spotify.com/album/5IT9a9DGLl3CJY7PNnp2bA) | 3:08 | 2025-09-23 | 2026-01-15 |
+| [Unmatched Energy](https://open.spotify.com/track/7y3UqtDdSLrtieDS30ebRK) | [The Disciple](https://open.spotify.com/artist/4rFx1sd3c9LDKaKJt1qcEm) | [Unmatched Energy](https://open.spotify.com/album/1lKhWYO9aE2dKmq1clRXiG) | 3:54 | 2026-04-02 |  |
 | [Up & Down](https://open.spotify.com/track/3F26QKXnR3aP0DwrSE4oFP) | [Tsilla](https://open.spotify.com/artist/0XFGLPbtLa5gspkrLw3xoF), [LOCSAIN](https://open.spotify.com/artist/0x4AIjN5tzcoBzeqpUKWkt) | [Up & Down](https://open.spotify.com/album/4OtnbdvtY81fN7Izc7Z3n3) | 3:16 | 2026-01-22 | 2026-02-23 |
 | [V2 "Vivid Vision"](https://open.spotify.com/track/5yrrOA4g24srn9yiURHa5w) | [Mvingo](https://open.spotify.com/artist/7uJH5I3vDXcinEKi633si2) | [V2 "Vivid Vision"](https://open.spotify.com/album/7CEaZJK1ceEQEMRdbvthU7) | 2:49 | 2026-01-30 |  |
 | [V2 \(Vi\)](https://open.spotify.com/track/6va7IExS5yyVdlGDGdoiZN) | [Drey Tyler](https://open.spotify.com/artist/2wfMXEAuni8gFywyKploZT), [andres yuma](https://open.spotify.com/artist/1Zlp7gKGKtdZo1LLJj4n3N) | [V2 \(Vi\)](https://open.spotify.com/album/5koA5l6mAquVQRj4qYep7j) | 2:34 | 2025-12-27 | 2026-02-23 |

@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> PLK au top de la première playlist de rap français.
+> La Rvfleuze au top de la première playlist de rap français.
 
-420 songs - 21 hr 11 min
+422 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Le P'tit](https://open.spotify.com/track/2LwX4RESg60WS043x1ohD3) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Le P'tit](https://open.spotify.com/album/3W9RcU9NZt2GyHNsJjD1YT) | 2:04 | 2025-08-21 | 2025-11-14 |
 | [LE PLAN](https://open.spotify.com/track/0U7UH2iu2X4pWdlmyY3kSm) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE PLAN](https://open.spotify.com/album/6y8p3yTNrEfThZXb4KaRLB) | 2:48 | 2025-01-09 | 2025-05-16 |
 | [Leo Messi](https://open.spotify.com/track/3YZdPvENFPytMyrnkRWm1B) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Leo Messi](https://open.spotify.com/album/4bsIuKDMHdl0MbCI9QMwml) | 1:45 | 2022-01-06 | 2022-03-04 |
-| [Les bases](https://open.spotify.com/track/0WFSnWfJeSCMngK9El5Pb7) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Les bases](https://open.spotify.com/album/5l9ZnhJWgIAXO8yzvHEJg2) | 2:17 | 2026-01-29 |  |
+| [Les bases](https://open.spotify.com/track/0WFSnWfJeSCMngK9El5Pb7) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Les bases](https://open.spotify.com/album/5l9ZnhJWgIAXO8yzvHEJg2) | 2:17 | 2026-01-29 | 2026-04-03 |
 | [LES DIAMANTS DE BOKASSA](https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [M.I.L.S 4](https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ) | 2:32 | 2026-01-15 |  |
 | [Les Flammes](https://open.spotify.com/track/4i6CKsl0vgzFF97h5nzpS3) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:13 | 2023-11-09 | 2024-01-19 |
 | [Les gentils bandits](https://open.spotify.com/track/3Xw6c0oby7C6d7eAjyb1oD) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Les gentils bandits / Focus](https://open.spotify.com/album/1NceKqfVz9ruY8YxMcknlv) | 3:40 | 2022-03-10 | 2022-08-12 |
@@ -328,6 +328,7 @@
 | [Prequel](https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:30 | 2024-06-13 | 2024-09-06 |
 | [Printemps](https://open.spotify.com/track/4KMbIojhnl6R2BLuxdSguR) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Printemps](https://open.spotify.com/album/3QyeKFrKSgnwN1aMtvw6Gi) | 3:21 | 2025-10-09 |  |
 | [PROBATION](https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [PROBATION](https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ) | 3:39 | 2024-11-14 | 2025-03-28 |
+| [PROMENADE](https://open.spotify.com/track/1eAGQPau3pwhVT7JLINSo5) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Numéro d'écrou](https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf) | 2:43 | 2026-04-02 |  |
 | [Préjudice](https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Préjudice](https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V) | 2:01 | 2023-10-12 | 2023-11-03 |
 | [Pyramide](https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:28 | 2024-02-15 | 2025-02-07 |
 | [Périph](https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Périph](https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI) | 2:48 | 2023-12-21 | 2024-09-27 |
@@ -350,6 +351,7 @@
 | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U) | 2:44 | 2022-04-28 | 2022-12-02 |
 | [Retour aux pyramides](https://open.spotify.com/track/6LN1NUnuny49b7tpNRDt43) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [Retour aux pyramides](https://open.spotify.com/album/75Z8HLG5dKEvcmdueJ4vED) | 3:05 | 2026-02-12 |  |
 | [RODEO DRIVE \(feat\. Hamza\)](https://open.spotify.com/track/2IiCeifwD1U5cvb5rgUh6g) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [RODEO DRIVE \(feat\. Hamza\)](https://open.spotify.com/album/7KJcR218DxsTSr2RpVgYTK) | 2:25 | 2025-02-13 | 2025-04-11 |
+| [Ronnie Kray](https://open.spotify.com/track/3v0SxUb7KgiR65hKRQW1ak) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Ronnie Kray](https://open.spotify.com/album/4KgE0uYQDDCYEpWiL8eL5f) | 3:46 | 2026-04-02 |  |
 | [Roule un autre \- A COLORS SHOW](https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Roule un autre \(A COLORS SHOW\)](https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx) | 2:56 | 2023-10-19 | 2024-02-02 |
 | [RR Phantom](https://open.spotify.com/track/2ZEHv7uVlIJA1fUZNWP1YQ) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [RR Phantom](https://open.spotify.com/album/6biiy3ANhJ4vl57sXa9MxY) | 2:32 | 2024-05-02 | 2024-09-06 |
 | [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 | 2025-06-26 | 2026-03-06 |
@@ -362,7 +364,7 @@
 | [Saturday](https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Saturday](https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM) | 2:30 | 2025-03-27 | 2025-07-25 |
 | [Selfie](https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Selfie](https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI) | 2:36 | 2022-09-29 | 2023-02-17 |
 | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 | 2025-01-09 | 2025-06-06 |
-| [Serrure \#5](https://open.spotify.com/track/79HWCJC8r8UHGUOAaRN4IO) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Serrure \#5](https://open.spotify.com/album/0Zk8t2ZRO8cHHL7RmLuCoB) | 2:18 | 2025-09-04 |  |
+| [Serrure \#5](https://open.spotify.com/track/79HWCJC8r8UHGUOAaRN4IO) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Serrure \#5](https://open.spotify.com/album/0Zk8t2ZRO8cHHL7RmLuCoB) | 2:18 | 2025-09-04 | 2026-04-03 |
 | [Serrure \#667](https://open.spotify.com/track/4zipUPcZZkWmxn2TEMummt) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Serrure \#667](https://open.spotify.com/album/0HzOMyTAUOlrjnZzrMWkA6) | 2:27 | 2026-02-12 |  |
 | [Sexy Woman](https://open.spotify.com/track/3rcYxqjhN14IdYmRwfWhbi) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Sexy Woman](https://open.spotify.com/album/2xnmWvqnvQSffJ3OxnJpHZ) | 2:31 | 2025-02-20 | 2025-12-05 |
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-08-03 | 2023-11-24 |

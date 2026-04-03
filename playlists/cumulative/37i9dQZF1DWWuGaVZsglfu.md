@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Aisha Retno
+> The best tracks from the world of music\. Cover: BTS
 
 503 songs - 1 day 4 hr 45 min
 

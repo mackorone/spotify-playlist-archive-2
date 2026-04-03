@@ -4,7 +4,7 @@
 
 > Hand\-picked grooves.
 
-473 songs - 1 day 4 hr 11 min
+474 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Losing My Perfection](https://open.spotify.com/track/5Fmi8gEdTDTARDnxdwiY7v) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [FLIPSIDE](https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9) | 3:02 | 2023-08-30 | 2023-12-05 |
 | [Losing My Perfection](https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Losing My Perfection](https://open.spotify.com/album/0C7bqhOiwfgGuPR0jlUDF2) | 3:02 | 2022-09-09 | 2024-11-22 |
 | [Lost & Found](https://open.spotify.com/track/4NVrNTSPyRBGKkqHNDBbxi) | [Makzo](https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96), [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Lost & Found](https://open.spotify.com/album/77KWopOZQjrJ1aAYovUQhS) | 3:10 | 2024-05-09 | 2025-11-21 |
+| [LOVE CALLS](https://open.spotify.com/track/7dWN5JkVhhZSMPfRkGJ0kB) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [LOVE CALLS](https://open.spotify.com/album/7FWCEAgaWqd3MWYjtjNOXu) | 2:04 | 2026-04-02 |  |
 | [Love In HiFi](https://open.spotify.com/track/6tjBKiKSaY9UfuDsrZeC99) | [KDRC](https://open.spotify.com/artist/7znZBeCEOB0GsbZzA0oPTR), [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Love In HiFi](https://open.spotify.com/album/3kARVuGckQBp1norYyrlvi) | 3:01 | 2025-01-16 |  |
 | [Love is Alive \- Original](https://open.spotify.com/track/1OO9x0076IBk1IA52lYLaR) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Steve Biko.K](https://open.spotify.com/artist/0Riq2hYv6r7QUpawOjFUTx), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA), [Daniël von Piekartz](https://open.spotify.com/artist/73LS331VMYvV2eoS3EFeAn) | [Love Is Alive \(Original\)](https://open.spotify.com/album/5jHvcU6ffhv4Fuu4MuWjUh) | 5:31 | 2023-12-11 | 2025-08-15 |
 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 | 2022-09-09 | 2023-07-08 |
@@ -373,7 +374,7 @@
 | [Shots](https://open.spotify.com/track/6bBjArs6x5oGYDPtF797DJ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/0oWbmnZr6PPQq582jT4bEV) | 4:31 | 2022-09-09 | 2023-04-29 |
 | [Show You the World](https://open.spotify.com/track/5ier31vbYr7fGn5hK7Y8pR) | [Packed Rich](https://open.spotify.com/artist/3VP45ZJW1y1Mz7LEMkxj94), [Jessica Pham](https://open.spotify.com/artist/5cFluXh5aSPpf6ne9VAyIz) | [Show You The World](https://open.spotify.com/album/2R19WR5owthJuZvKKx3P0K) | 3:36 | 2022-09-09 | 2023-07-08 |
 | [Signs](https://open.spotify.com/track/1PMn4TOF2HBDFi5dhZL9iT) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [Andreas](https://open.spotify.com/album/3iziTSI728p59ZmH5pfIT5) | 3:22 | 2022-09-09 | 2023-07-08 |
-| [Sit & Talk](https://open.spotify.com/track/40UxIicJJ14RQaW4pjt8hx) | [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Sit & Talk](https://open.spotify.com/album/3dqRPO46WYw3J93QsAKbab) | 4:23 | 2024-07-25 |  |
+| [Sit & Talk](https://open.spotify.com/track/40UxIicJJ14RQaW4pjt8hx) | [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Sit & Talk](https://open.spotify.com/album/3dqRPO46WYw3J93QsAKbab) | 4:23 | 2024-07-25 | 2026-04-03 |
 | [Sleepwalking](https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Sleepwalking](https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO) | 2:42 | 2025-05-29 |  |
 | [Slide All Night](https://open.spotify.com/track/1pou1vJsBUcH1y7UmFmDVp) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:55 | 2022-12-09 | 2025-03-14 |
 | [So Cool](https://open.spotify.com/track/44aip3NiojpXMaSOTyZ1UO) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [So Cool](https://open.spotify.com/album/0WTexgyWemY3YVYS3VE8Qk) | 1:51 | 2022-09-09 | 2023-10-05 |

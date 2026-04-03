@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11488,
+  "num_followers": 11492,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAAAO+LpRkE/RFUNA/S7aAsZ4",
+  "snapshot_id": "acxgAAAAAAAhcGGYebZhMr87faMJFVOm",
   "tracks": [
     {
       "added_at": null,
@@ -139,34 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Wicked Good Finale",
-        "url": "https://open.spotify.com/album/7cw1RA5QNAnGuPxcvbrOAQ"
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
       "artists": [
         {
-          "name": "John Powell",
-          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
-        },
-        {
-          "name": "Stephen Schwartz",
-          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Wicked Movie Cast",
-          "url": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
         }
       ],
-      "duration_ms": 279628,
-      "name": "A Wicked Good Finale (feat. Ariana Grande & Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/0hGrcAapSjvygI4SayBccd"
+      "duration_ms": 271929,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/1w2k1OOCSy3ez40D3TQs7L"
     },
     {
       "added_at": null,
@@ -211,18 +195,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+        "name": "A Wicked Good Finale",
+        "url": "https://open.spotify.com/album/7cw1RA5QNAnGuPxcvbrOAQ"
       },
       "artists": [
         {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        },
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Wicked Movie Cast",
+          "url": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
         }
       ],
-      "duration_ms": 271929,
-      "name": "I'm Here",
-      "url": "https://open.spotify.com/track/1w2k1OOCSy3ez40D3TQs7L"
+      "duration_ms": 279628,
+      "name": "A Wicked Good Finale (feat. Ariana Grande & Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/0hGrcAapSjvygI4SayBccd"
     },
     {
       "added_at": null,
@@ -760,13 +760,13 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+          "name": "Color Purple New Broadway Cast",
+          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
         }
       ],
-      "duration_ms": 237387,
-      "name": "What About Love?",
-      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
+      "duration_ms": 234731,
+      "name": "The Color Purple (Reprise)",
+      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
     },
     {
       "added_at": null,
@@ -828,13 +828,13 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
-          "name": "Color Purple New Broadway Cast",
-          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
         }
       ],
-      "duration_ms": 234731,
-      "name": "The Color Purple (Reprise)",
-      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
+      "duration_ms": 237387,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
     },
     {
       "added_at": null,

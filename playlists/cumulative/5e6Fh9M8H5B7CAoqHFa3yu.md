@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,047 songs - 5 day 1 hr 30 min
+2,048 songs - 5 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1858,6 +1858,7 @@
 | [Tu Silencio \- Remastered](https://open.spotify.com/track/19ROBN6XmatCMeqWpaAhJe) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Silencio](https://open.spotify.com/album/1JmsZxCxmvPl4Kssr3kYr5) | 2:54 | 2025-12-07 |  |
 | [TU Y YO </3](https://open.spotify.com/track/3WAdNltwhgApGZ97cjRIoQ) | [ADRELL](https://open.spotify.com/artist/0J8QEZG5IIqwLnS3gABCMt) | [TU Y YO </3](https://open.spotify.com/album/3PtR0uDlMQFLCeB40Jshv8) | 3:11 | 2025-05-11 |  |
 | [Tuff Gong](https://open.spotify.com/track/6xt3sdreRvXRzXovhSviaC) | [Creation Rockers](https://open.spotify.com/artist/16KpRRvWm3CeTm5myGSQbw) | [Let's Make Waves](https://open.spotify.com/album/78qlBiCnNPt9mZrvNTtJBT) | 4:01 | 2024-05-01 |  |
+| [Tuko Pamoja](https://open.spotify.com/track/6pW2PSRYIQRMzeQikBTGct) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Tuko Pamoja](https://open.spotify.com/album/6HvrHdtTFSvPV1kEVs42rt) | 2:57 | 2026-04-02 |  |
 | [Tunnel](https://open.spotify.com/track/4x4iU4zW6wNU6wcco5qerT) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [Tunnel](https://open.spotify.com/album/5G5i9EAbN7L0Pbw2vH2QTf) | 3:31 | 2024-10-25 |  |
 | [Tuscan Breeze](https://open.spotify.com/track/5H5thy4j7g7oTRt4G2oo7Z) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [Tuscan Breeze](https://open.spotify.com/album/1NeGeVX7ZfX7AiZme0oi8z) | 3:02 | 2025-11-15 |  |
 | [Tutto è Zero](https://open.spotify.com/track/1FmVS9T0WjWiR2ni31f4rT) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Sfumature](https://open.spotify.com/album/7Fa4EGBXkuhP8OoyRCZKuP) | 3:24 | 2023-03-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112519,
+  "num_followers": 112512,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-03-27 10:05:21",
       "album": {
-        "name": "Naiwna ja",
-        "url": "https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Kida",
-          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
-        },
-        {
-          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
-          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
-        }
-      ],
-      "duration_ms": 140111,
-      "name": "Naiwna ja",
-      "url": "https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v"
-    },
-    {
-      "added_at": "2026-03-27 10:05:21",
-      "album": {
         "name": "Zoo (z filmu \"Zwierzogr\u00f3d 2\")",
         "url": "https://open.spotify.com/album/7oPKTptGg3JbF7nXYGwU6W"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 190822,
       "name": "Zoo - z filmu \"Zwierzogr\u00f3d 2\"",
       "url": "https://open.spotify.com/track/1W6AFHYh0GZpiu40atnpaS"
+    },
+    {
+      "added_at": "2026-03-27 10:05:21",
+      "album": {
+        "name": "Naiwna ja",
+        "url": "https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Kida",
+          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
+        },
+        {
+          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
+          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
+        }
+      ],
+      "duration_ms": 140111,
+      "name": "Naiwna ja",
+      "url": "https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v"
     },
     {
       "added_at": "2026-03-27 10:05:21",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-03-27 10:05:21",
       "album": {
+        "name": "Dotknij",
+        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
+      },
+      "artists": [
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "duration_ms": 154736,
+      "name": "Dotknij",
+      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
+    },
+    {
+      "added_at": "2026-03-27 10:05:21",
+      "album": {
         "name": "Brightest Light",
         "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
       },
@@ -1043,26 +1059,6 @@
       "duration_ms": 180691,
       "name": "Brightest Light",
       "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
-    },
-    {
-      "added_at": "2026-03-27 10:05:21",
-      "album": {
-        "name": "JESZCZE RAZ",
-        "url": "https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb"
-      },
-      "artists": [
-        {
-          "name": "Kinny Zimmer",
-          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
-        },
-        {
-          "name": "Kaptur",
-          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
-        }
-      ],
-      "duration_ms": 206367,
-      "name": "JESZCZE RAZ",
-      "url": "https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T"
     },
     {
       "added_at": "2026-03-27 10:05:21",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2026-03-27 10:05:21",
       "album": {
-        "name": "Dotknij",
-        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
+        "name": "JESZCZE RAZ",
+        "url": "https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb"
       },
       "artists": [
         {
-          "name": "Daria Marx",
-          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "Kaptur",
+          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
         }
       ],
-      "duration_ms": 154736,
-      "name": "Dotknij",
-      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
+      "duration_ms": 206367,
+      "name": "JESZCZE RAZ",
+      "url": "https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T"
     }
   ],
   "unique_name": "... ale najpierw kawa",

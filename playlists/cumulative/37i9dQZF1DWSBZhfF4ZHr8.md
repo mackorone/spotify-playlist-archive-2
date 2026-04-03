@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Louane
+> Les meilleures nouveautés de la variété française avec Vitaa
 
-458 songs - 22 hr 36 min
+460 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,12 +344,13 @@
 | [Pourquoi tu restes](https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [MINUIT UNE](https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj) | 2:47 | 2025-06-05 | 2025-09-19 |
 | [Première fois](https://open.spotify.com/track/2yaVFrD8ugHhld6t6Nwaxt) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Il faut que tu saches](https://open.spotify.com/album/6rX8V0Vs9oaGB8LgrUOcn1) | 2:40 | 2025-12-04 | 2026-03-13 |
 | [Princesse de la nuit](https://open.spotify.com/track/75qwPX1KWjKBA6oMN4msvO) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Princesse de la nuit](https://open.spotify.com/album/1wWpr7rUvnhihjJTaxu8sR) | 3:30 | 2026-03-16 |  |
+| [Problème \(feat\. La Fouine\)](https://open.spotify.com/track/4xwa2sVbOq5WEeW998mzk9) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 2:42 | 2026-04-02 |  |
 | [problème problème](https://open.spotify.com/track/06GlYvE9CUWUV83OUrDBUI) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [problème problème](https://open.spotify.com/album/3dqSveAkJ0DezC4IkzS3qE) | 2:38 | 2025-11-06 | 2026-02-13 |
 | [Prêt à t'aimer](https://open.spotify.com/track/71pTdNcN3lieAQj3BPDn13) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:17 | 2026-01-22 |  |
 | [Puzzle](https://open.spotify.com/track/64CmepzkypgxrWLhbkB27E) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [PAULISE + PUZZLE](https://open.spotify.com/album/0NVSvL5BYQwQsoAZ3vOB8h) | 2:35 | 2025-06-05 | 2025-09-19 |
 | [Qu'est\-ce qu'il me restera ?](https://open.spotify.com/track/2dDb0ZppFpTDdcqPLIgJ01) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Nouveau souffle](https://open.spotify.com/album/3XNqB7hY2AtGnloqozOWTb) | 2:22 | 2025-11-20 | 2026-02-27 |
 | [Qu'on m'aime](https://open.spotify.com/track/6tv0cQsnSrz23mcgJYKfGM) | [Lena](https://open.spotify.com/artist/4GPLDEEPZs0kALh6FmxiJk) | [Qu'on m'aime](https://open.spotify.com/album/1B14GH9birzrAwmWVdGXlA) | 1:47 | 2025-07-10 | 2025-10-03 |
-| [Quand même](https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Adrénaline](https://open.spotify.com/album/7uBRFkBVpOgW0Uub3qstIK) | 3:13 | 2026-01-08 |  |
+| [Quand même](https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Adrénaline](https://open.spotify.com/album/7uBRFkBVpOgW0Uub3qstIK) | 3:13 | 2026-01-08 | 2026-04-03 |
 | [Que reste\-t\-il ?](https://open.spotify.com/track/2yuCAFKbsM5TaDXf1M7ZZU) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Que reste\-t\-il ?](https://open.spotify.com/album/5sSJ7zRawxZDwekt3AqAEC) | 2:51 | 2024-11-07 | 2025-01-10 |
 | [Que tu restes](https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre \(Summer Édition\)](https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU) | 2:59 | 2024-07-04 | 2024-10-18 |
 | [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 | 2024-09-12 | 2024-10-04 |
@@ -386,7 +387,7 @@
 | [Si j'pouvais](https://open.spotify.com/track/4tTfUZz1UxYpw5DKCbbCz4) | [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [Si j'pouvais](https://open.spotify.com/album/2Fw1bNmKVq208kNjKnZfwR) | 2:22 | 2025-05-01 | 2025-07-18 |
 | [Si je m'en vais](https://open.spotify.com/track/2YKQx9FIGPVnfyhmsb7hVm) | [TIMEO](https://open.spotify.com/artist/0pNMzsxbYpuf2bxg1nQWZl) | [Si je m'en vais](https://open.spotify.com/album/4jeLyGZaKMioLXS5LjUUYM) | 2:50 | 2025-07-03 | 2025-09-26 |
 | [Si seulement...](https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2) | 2:57 | 2024-08-29 | 2024-11-22 |
-| [Si t'étais là](https://open.spotify.com/track/1naTcpdwdFbEd8wBLRewBm) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi) | [Si t'étais là](https://open.spotify.com/album/7hFbG8ZH5saqgBYBhXHnQk) | 3:46 | 2026-02-26 |  |
+| [Si t'étais là](https://open.spotify.com/track/1naTcpdwdFbEd8wBLRewBm) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi) | [Si t'étais là](https://open.spotify.com/album/7hFbG8ZH5saqgBYBhXHnQk) | 3:46 | 2026-02-26 | 2026-04-03 |
 | [Sicile](https://open.spotify.com/track/5dQJIdDIbdb92aNlqSgoxV) | [Boostee](https://open.spotify.com/artist/2PNcNJDYJyoeJqUjgHz9Xa) | [Sicile](https://open.spotify.com/album/0cwuZthC2IBx4d2aiSy6PS) | 3:17 | 2025-06-05 | 2025-09-13 |
 | [Sincère](https://open.spotify.com/track/6gQ4esi2AgqryoiLh8vmfU) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Sincère](https://open.spotify.com/album/0RSQXx0gSLmVgNeFL4Ow5T) | 2:49 | 2024-11-07 | 2025-02-07 |
 | [Soif d'amour](https://open.spotify.com/track/4DKzSPzfpw6pnmD8ej7I9I) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Soif d'amour](https://open.spotify.com/album/2oml5W6hOHp3EFGJIDaqn6) | 3:17 | 2024-08-22 | 2024-11-08 |
@@ -398,6 +399,7 @@
 | [Stupide avec toi](https://open.spotify.com/track/5C7oS96TmhpdibChQSF7c1) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Stupide avec toi](https://open.spotify.com/album/3IOPhGgrlaxVpiFDotAT5X) | 3:17 | 2025-07-17 | 2025-10-03 |
 | [Summer Body](https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Pas de seum pour le summer](https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA) | 2:59 | 2024-06-27 | 2024-10-11 |
 | [Supernova](https://open.spotify.com/track/0ga5vX42pHZ7KSwaZhriSB) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Supernova](https://open.spotify.com/album/6l8MpmPfGRirtOSzUeflMB) | 2:45 | 2024-09-05 | 2024-11-29 |
+| [Superstar](https://open.spotify.com/track/29ngwhaBqObFJoPjDhplN2) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi) | [Superstar](https://open.spotify.com/album/71UYVPUJxCfkisIL9FLrS3) | 2:37 | 2026-04-02 |  |
 | [T'aimer comme il faut](https://open.spotify.com/track/2Y0DN3PuPC2CNI178Mx6b6) | [Louis Montémont](https://open.spotify.com/artist/0Do9qMtssKqAfKiVJqmTcf) | [T'aimer comme il faut](https://open.spotify.com/album/1oGk0vOJQqspMOGLx39QYa) | 3:30 | 2026-02-26 |  |
 | [T'en aller](https://open.spotify.com/track/59MVdyazjn9ExcL2C8xuTY) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [T'en aller](https://open.spotify.com/album/00nbP0PHv8JjqtS82B1hYN) | 3:11 | 2024-10-03 | 2024-12-13 |
 | [t'en va pas \- Spotify Singles](https://open.spotify.com/track/4k0d0g1YEyVdvxigZOqyvB) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Spotify Singles](https://open.spotify.com/album/0A8ClQfkb8D4Q6mBJGlx2e) | 3:09 | 2025-10-23 | 2026-02-13 |

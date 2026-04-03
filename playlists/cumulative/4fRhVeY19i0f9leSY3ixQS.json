@@ -2565,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "Bright Idea",
+        "url": "https://open.spotify.com/album/7foURBDxGdqpTOQK0YvP8O"
+      },
+      "artists": [
+        {
+          "name": "This Time Only",
+          "url": "https://open.spotify.com/artist/3U8Y9kZdHdKtTwpDlWHM7j"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Bright Idea",
+      "url": "https://open.spotify.com/track/3XpC1K3CTlpdJxLFJkmgNh"
+    },
+    {
+      "album": {
         "name": "Frantic!",
         "url": "https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV"
       },
@@ -2965,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Call Me A Fool",
+        "url": "https://open.spotify.com/album/1USGgRR09I8oRERLMkjnPm"
+      },
+      "artists": [
+        {
+          "name": "Lenox Hills",
+          "url": "https://open.spotify.com/artist/7n3YiiqkprbCvWUTTwpGdK"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245425,
+      "name": "Call Me A Fool",
+      "url": "https://open.spotify.com/track/4bL7jaM1TChctOqrmsdgbd"
+    },
+    {
+      "album": {
         "name": "Call Me Back",
         "url": "https://open.spotify.com/album/4dcVlIizzDV9aCxirXgtUm"
       },
@@ -3272,6 +3308,24 @@
       "duration_ms": 141666,
       "name": "CHEMICAL DEFAULT",
       "url": "https://open.spotify.com/track/4U5bfXx3RmZ2YEDJLcIokK"
+    },
+    {
+      "album": {
+        "name": "CHEMICAL MAKEUP",
+        "url": "https://open.spotify.com/album/1sk1D3eFtx4q45Zc7M06NZ"
+      },
+      "artists": [
+        {
+          "name": "HOWRU?",
+          "url": "https://open.spotify.com/artist/3lWKH0Kv5zQXrjVp4svPY6"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190545,
+      "name": "CHEMICAL MAKEUP",
+      "url": "https://open.spotify.com/track/5CpfYv3iXDU0zVC8JormFb"
     },
     {
       "album": {
@@ -4850,6 +4904,24 @@
       "duration_ms": 202285,
       "name": "Dictators",
       "url": "https://open.spotify.com/track/4UHP30FNADwdL4PyfojcaK"
+    },
+    {
+      "album": {
+        "name": "DIGITAL ASCENSION",
+        "url": "https://open.spotify.com/album/3PWL3ItPEa0TOatpLdwM8H"
+      },
+      "artists": [
+        {
+          "name": "Abyssal Dream",
+          "url": "https://open.spotify.com/artist/4f3AB69jaX9tUftDr1fFji"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "DIGITAL ASCENSION",
+      "url": "https://open.spotify.com/track/05qV1pTbbO3yXVuSsuQDDw"
     },
     {
       "album": {
@@ -6971,6 +7043,24 @@
     },
     {
       "album": {
+        "name": "For a Spell",
+        "url": "https://open.spotify.com/album/5N6myDduhczw5w8WulsgDb"
+      },
+      "artists": [
+        {
+          "name": "KATER",
+          "url": "https://open.spotify.com/artist/77eZeXZrzRgqIQoaYqaAm3"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184604,
+      "name": "For a Spell",
+      "url": "https://open.spotify.com/track/0qx3xU6G6q80BWemsyYgFJ"
+    },
+    {
+      "album": {
         "name": "For Tuna",
         "url": "https://open.spotify.com/album/6LA5qtgiRxK2h0GGk03im7"
       },
@@ -7018,7 +7108,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 224605,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1aE42XhA3l8qpX23oxLfoM"
@@ -8123,6 +8213,24 @@
     },
     {
       "album": {
+        "name": "Hardcore Band",
+        "url": "https://open.spotify.com/album/3gv76KFGZJttPbIQ1md3K9"
+      },
+      "artists": [
+        {
+          "name": "Frog Fortress",
+          "url": "https://open.spotify.com/artist/1hCyCHuTSzpTuOURKNzYCb"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Hardcore Band",
+      "url": "https://open.spotify.com/track/7uuEc0EhdkQBkw3eYWGGXu"
+    },
+    {
+      "album": {
         "name": "Harddown",
         "url": "https://open.spotify.com/album/4MWC97NGCmTy9yz8NiD1ZT"
       },
@@ -8960,6 +9068,24 @@
       "duration_ms": 191270,
       "name": "I Don't Understand It",
       "url": "https://open.spotify.com/track/1FMftJu5CXMzGeJQUMTfIq"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Live (Like This)",
+        "url": "https://open.spotify.com/album/3ofUrRG2jEhgQiPvt900na"
+      },
+      "artists": [
+        {
+          "name": "born for nothing",
+          "url": "https://open.spotify.com/artist/5uToWSOLkuiu97NEIanFOO"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142134,
+      "name": "I Don't Wanna Live (Like This)",
+      "url": "https://open.spotify.com/track/3mTmi5qB1mPGvI4JR8BTha"
     },
     {
       "album": {
@@ -9804,6 +9930,24 @@
       "duration_ms": 154500,
       "name": "Integration",
       "url": "https://open.spotify.com/track/3OJdvSdzZbYC1tXtalZaNW"
+    },
+    {
+      "album": {
+        "name": "interloper",
+        "url": "https://open.spotify.com/album/6tkJfX9OjCLrNOoX7WlFef"
+      },
+      "artists": [
+        {
+          "name": "winterwell",
+          "url": "https://open.spotify.com/artist/6b3nSN3W4KgRFzNNrGDI5w"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205940,
+      "name": "interloper",
+      "url": "https://open.spotify.com/track/3TjZnMlhDoJy3TXKI58s75"
     },
     {
       "album": {
@@ -11617,6 +11761,24 @@
     },
     {
       "album": {
+        "name": "Malinche",
+        "url": "https://open.spotify.com/album/0aE6HtHJNuXefdnYKtsG4l"
+      },
+      "artists": [
+        {
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/1izMFxixxfQXbChJO8ms0m"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91712,
+      "name": "Malinche",
+      "url": "https://open.spotify.com/track/7CApgKmcRubsAuyyclIdR0"
+    },
+    {
+      "album": {
         "name": "Man And Machine",
         "url": "https://open.spotify.com/album/6OF0f9X6YfnkccxE4FOemr"
       },
@@ -12112,6 +12274,24 @@
       "duration_ms": 230101,
       "name": "Milhouse - 10 Years Later",
       "url": "https://open.spotify.com/track/5bZx9aOBK9D8OIsuzvJdk7"
+    },
+    {
+      "album": {
+        "name": "Alpha Pet",
+        "url": "https://open.spotify.com/album/1IWR8zmUjAxcjilKf75DvS"
+      },
+      "artists": [
+        {
+          "name": "Alpha Pet",
+          "url": "https://open.spotify.com/artist/35KQt1BxGQNjNkCJojgSgi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180702,
+      "name": "Mind vs Evolution",
+      "url": "https://open.spotify.com/track/44WZ6GGqmcIsDNVDN0SW8w"
     },
     {
       "album": {
@@ -18172,7 +18352,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 120000,
       "name": "Superslut - Skate Park Mix",
       "url": "https://open.spotify.com/track/5ZGVc0Zloei57HKuu2DdjP"

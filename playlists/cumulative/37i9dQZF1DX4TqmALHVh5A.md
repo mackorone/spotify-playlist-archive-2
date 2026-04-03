@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Blaame
+> La scène française branchée sur courant alternatif\. Photo : Requin Chagrin
 
-458 songs - 1 day 0 hr 2 min
+460 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [COMMENT TU T'APPELLES ?](https://open.spotify.com/track/3iVHpYIzAVAwwOkkjIqX9P) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [COMMENT TU T'APPELLES ?](https://open.spotify.com/album/6sT5T9gtQCE2Xo88GO9NoV) | 2:38 | 2025-09-11 | 2025-11-14 |
 | [Conspire](https://open.spotify.com/track/5Ps5Ca2F1O7QqIo88C9WAH) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Conspire](https://open.spotify.com/album/3kuN93pe0gnDpztgTlIvX1) | 5:53 | 2023-11-30 | 2024-01-13 |
 | [Contre\-soirée](https://open.spotify.com/track/5x8xtP96TVMZpwP6XV7Cji) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Les histoires d'amour de St Graal](https://open.spotify.com/album/2Yb34HpfejFCJSMtap0HdE) | 2:44 | 2026-01-15 |  |
-| [COPINES?](https://open.spotify.com/track/6USaIObsBoczO9pEFj2rO5) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [COPINES?](https://open.spotify.com/album/0FvG0TMwM7ANCg5FRCkoFy) | 2:23 | 2026-01-08 |  |
+| [COPINES?](https://open.spotify.com/track/6USaIObsBoczO9pEFj2rO5) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [COPINES?](https://open.spotify.com/album/0FvG0TMwM7ANCg5FRCkoFy) | 2:23 | 2026-01-08 | 2026-04-03 |
 | [coucou les potes](https://open.spotify.com/track/1R8EXTuGZPIJehG5kDR1rC) | [Dab Rozer](https://open.spotify.com/artist/33Mlo4xMrJsseOIv75xdfl), [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [coucou les potes](https://open.spotify.com/album/2ZD9Dj7uISqHQyBgXWiiLW) | 2:30 | 2026-03-19 |  |
 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 | 2023-09-28 | 2023-11-17 |
 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 | 2025-04-24 | 2025-10-11 |
@@ -107,6 +107,7 @@
 | [Deep Eyes](https://open.spotify.com/track/57If5DV9TQdoSHKP5jNvSh) | [Maddy Street](https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ) | [Heart Choices](https://open.spotify.com/album/6EAJ9G6DT4UUYCqghIWEyj) | 2:33 | 2024-10-10 | 2025-02-21 |
 | [DEEP HOLES](https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4) | [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [HOPECORE](https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw) | 4:46 | 2024-10-03 | 2025-02-14 |
 | [Deeper](https://open.spotify.com/track/62YSJXvarbaTjC6S7jHzl0) | [Sure](https://open.spotify.com/artist/5yrXtZYureEFlY57R4KW44) | [Deeper](https://open.spotify.com/album/7CeRpRTzRuAyCmzcfdWCPW) | 3:59 | 2024-11-28 | 2025-03-28 |
+| [Dehors](https://open.spotify.com/track/6DejXIhazPkCU91fisHZ4M) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Dehors](https://open.spotify.com/album/2QZ9bx5LbLuigdWmqDriDD) | 3:07 | 2026-04-02 |  |
 | [Des bêtises \(part I\)](https://open.spotify.com/track/6cHBn7KJ1zLYZuEznzeb77) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Des bêtises \(part I\)](https://open.spotify.com/album/58N0JewhvuJxBYc7uj99hk) | 2:32 | 2025-07-10 | 2025-09-12 |
 | [Dis\(t\)dance](https://open.spotify.com/track/3ij2QXYi7ybKR2BZB744zb) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Dis\(t\)dance](https://open.spotify.com/album/3cvbeVC5aHjypN86sH652F) | 3:17 | 2024-12-12 | 2025-04-11 |
 | [Distancer](https://open.spotify.com/track/6jRXFZfoodiKfSTbfWXxhG) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Distancer](https://open.spotify.com/album/7qr1UZqCBwaBUomxmnNBMg) | 3:25 | 2025-12-18 | 2026-03-27 |
@@ -295,7 +296,7 @@
 | [Ne T'En Fais Pas Pour Elle](https://open.spotify.com/track/339AZu1ohdLOfABPMevryC) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Ne T'En Fais Pas Pour Elle](https://open.spotify.com/album/6Nfy2yDPAVkyMBRNaXRRcH) | 2:55 | 2025-11-13 | 2026-01-16 |
 | [New Place in Town](https://open.spotify.com/track/6VMrf5OUtv67cUAcXyQ9ZE) | [VoX LoW](https://open.spotify.com/artist/7wdA5zANepbxnHVkUNQMg9) | [Keep on Falling](https://open.spotify.com/album/0FBzbc9TbvtCEXvgVsjQCe) | 4:38 | 2023-12-21 | 2024-06-21 |
 | [New World](https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [New World](https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy) | 3:14 | 2023-09-28 | 2023-11-03 |
-| [Nightclub](https://open.spotify.com/track/28W16x4pZhK9uQ9zPSqD7Q) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [Nightclub](https://open.spotify.com/album/2TDj6BvuFFMvHfWFCEbP5n) | 2:57 | 2026-01-08 |  |
+| [Nightclub](https://open.spotify.com/track/28W16x4pZhK9uQ9zPSqD7Q) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [Nightclub](https://open.spotify.com/album/2TDj6BvuFFMvHfWFCEbP5n) | 2:57 | 2026-01-08 | 2026-04-03 |
 | [Nobody's Wife](https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nobody's Wife](https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W) | 3:39 | 2023-09-28 | 2023-10-06 |
 | [NON!](https://open.spotify.com/track/0Exg9zdCIzf5oxraD55Hvx) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1) | [NON!](https://open.spotify.com/album/0QN2wl4FJrYBnug6pADlWq) | 1:41 | 2024-04-25 | 2024-06-07 |
 | [Nothing Ever Changes](https://open.spotify.com/track/2OL7obe1J70lqOitrZKHQw) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [OUT OF CONTROL, INTO THE WALL](https://open.spotify.com/album/3eBWV87VNtnMg6myhRbeYe) | 5:04 | 2024-11-21 | 2025-05-16 |
@@ -377,6 +378,7 @@
 | [Shake It](https://open.spotify.com/track/71UX9MrQd3iCROyiWgUIuE) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [Shake It](https://open.spotify.com/album/3RBuzCHdEXspCfVkuyc7er) | 3:51 | 2024-02-08 | 2024-03-15 |
 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 | 2023-09-28 | 2023-11-17 |
 | [Shrek Is a Lesbian](https://open.spotify.com/track/5XLswkqDgMtht0KP5QKfUm) | [Maddy Street](https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ), [Juda La Vidange](https://open.spotify.com/artist/0oqeRZKId5upY0otMtUjs3) | [Shrek Is a Lesbian](https://open.spotify.com/album/6Yz6YGzF88ogesednT8CPn) | 1:51 | 2024-06-13 | 2024-10-04 |
+| [Si Dieu fume](https://open.spotify.com/track/2ySvyDNdXGsxC0HDmSkMd7) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Si Dieu fume](https://open.spotify.com/album/7HBG0e1B8BIsJZb5YrTPuG) | 3:23 | 2026-04-02 |  |
 | [Si j'avais su](https://open.spotify.com/track/6ZmquJRJGfeimrtQnLMQ64) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Si j'avais su](https://open.spotify.com/album/1NE8tgtqwz0hYV0q3PXf0i) | 3:41 | 2023-09-28 | 2023-11-24 |
 | [Si tu meurs](https://open.spotify.com/track/1LDMAUnwUgeKBwK83bet2w) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Si tu meurs](https://open.spotify.com/album/0t240MQUXjulKFlF0qj0EG) | 3:32 | 2026-03-19 |  |
 | [si tu veux on va voir la mer](https://open.spotify.com/track/50oYuuu1dN4Ld47YkO6SVP) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [si tu veux on va voir la mer](https://open.spotify.com/album/165OtpCQM1BgC6TPnaiMQx) | 2:32 | 2025-07-10 | 2025-10-24 |

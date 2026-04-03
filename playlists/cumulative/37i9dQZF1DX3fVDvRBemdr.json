@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Donnie & Senna (<a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">RADAR</a>-artiest)",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Marco Schuitmaker",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Alles Samen Gedaan",
+        "url": "https://open.spotify.com/album/63QoyRRm1yaJi188DdRu3L"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207696,
+      "name": "Alles Samen Gedaan",
+      "url": "https://open.spotify.com/track/4fCXXSqmAkHLPS0ogMfSaK"
+    },
+    {
+      "album": {
         "name": "Alles Wat Ik Nodig Heb",
         "url": "https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W"
       },
@@ -727,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Als Ik Jou Niet Bij Me Heb",
+        "url": "https://open.spotify.com/album/0RTjnnNIvUN4pPx9JqV3sc"
+      },
+      "artists": [
+        {
+          "name": "Glenn van Dooren",
+          "url": "https://open.spotify.com/artist/1i43wqXU5RaPW41NC4H7Yf"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170976,
+      "name": "Als Ik Jou Niet Bij Me Heb",
+      "url": "https://open.spotify.com/track/7GBTyiQDOCvlXgzvMAr6SV"
+    },
+    {
+      "album": {
         "name": "Als Ik Naar Malaga Ga",
         "url": "https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X"
       },
@@ -778,6 +814,24 @@
       "duration_ms": 174023,
       "name": "Als Jij Liegt En Bedriegt",
       "url": "https://open.spotify.com/track/5BGoVSGmuyJPOi8bdSOdGb"
+    },
+    {
+      "album": {
+        "name": "Als jij nu nog niet weet",
+        "url": "https://open.spotify.com/album/3HSvJaqOHNOAJmhj6UFwLT"
+      },
+      "artists": [
+        {
+          "name": "John De Bever",
+          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176572,
+      "name": "Als jij nu nog niet weet",
+      "url": "https://open.spotify.com/track/5thX3h4OdQvVqP77tpteVt"
     },
     {
       "album": {
@@ -1030,6 +1084,40 @@
       "duration_ms": 174448,
       "name": "Bang Dat Ik Je Stem Vergeet",
       "url": "https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54"
+    },
+    {
+      "album": {
+        "name": "BBL",
+        "url": "https://open.spotify.com/album/5L3C8nCw6eXzm5MvDA4Que"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        },
+        {
+          "name": "De Voorhoede",
+          "url": "https://open.spotify.com/artist/30P6li7INhXvV1XIPKlMBU"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "BBL",
+      "url": "https://open.spotify.com/track/3VvgwTBOtDPylEZHtPvBuz"
     },
     {
       "album": {
@@ -1757,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Dans tot de morgen met mij",
+        "url": "https://open.spotify.com/album/5cqVz1HxdZE2iSo1dLU8ca"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189809,
+      "name": "Dans tot de morgen met mij",
+      "url": "https://open.spotify.com/track/5pWhF7YA7P5leU1bAOrChs"
+    },
+    {
+      "album": {
         "name": "Dansen In De Kroeg",
         "url": "https://open.spotify.com/album/6glKIVMwQPhBXgsXeYnzFK"
       },
@@ -2326,6 +2432,24 @@
       "duration_ms": 177625,
       "name": "Deed het pijn toen jij uit de hemel viel",
       "url": "https://open.spotify.com/track/5yO23LWwJxv2QUJeuuEk9E"
+    },
+    {
+      "album": {
+        "name": "Deze Nacht",
+        "url": "https://open.spotify.com/album/7MpGGoc3MKotYWfkr0jh5A"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167464,
+      "name": "Deze Nacht",
+      "url": "https://open.spotify.com/track/1xFfN67OYCNDS3yN70IKVd"
     },
     {
       "album": {
@@ -2935,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Elke Dag Is Mijn Dag",
+        "url": "https://open.spotify.com/album/7nKgxjvaoz53Hlh6BXGbrf"
+      },
+      "artists": [
+        {
+          "name": "Rinus Werrens",
+          "url": "https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200197,
+      "name": "Elke Dag Is Mijn Dag",
+      "url": "https://open.spotify.com/track/3nZlIlVR7WeqHh0006HHoZ"
+    },
+    {
+      "album": {
         "name": "En Dan Komt Ze Binnen (2.0)",
         "url": "https://open.spotify.com/album/6T05SmHVekRwXCe6dWG7mJ"
       },
@@ -3124,6 +3266,24 @@
       "duration_ms": 154592,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/1boryOfIhzuquqa8MIOVm6"
+    },
+    {
+      "album": {
+        "name": "Fiesta Escalada",
+        "url": "https://open.spotify.com/album/3qEgGuGaHSRlGJhYO8oJu2"
+      },
+      "artists": [
+        {
+          "name": "Effe Serieus",
+          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135376,
+      "name": "Fiesta Escalada",
+      "url": "https://open.spotify.com/track/3qeU6sDU1cjZ0oCEh8YyFe"
     },
     {
       "album": {
@@ -3920,6 +4080,24 @@
       "duration_ms": 183809,
       "name": "Het Heden",
       "url": "https://open.spotify.com/track/0CiTmFrxDMGN57vRrZ20nY"
+    },
+    {
+      "album": {
+        "name": "Het Is Nooit Goed",
+        "url": "https://open.spotify.com/album/7HjCx8g2gJbLyYW4SKksvp"
+      },
+      "artists": [
+        {
+          "name": "De Havenzangers",
+          "url": "https://open.spotify.com/artist/52Q4TyDwkpvHsKdx5aPPEn"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213046,
+      "name": "Het Is Nooit Goed",
+      "url": "https://open.spotify.com/track/7rG5ZsdzBvwd3QwBbxZddr"
     },
     {
       "album": {
@@ -5148,7 +5326,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 154475,
       "name": "In Mijn Hart",
       "url": "https://open.spotify.com/track/2GiENDK9r194HJxo2QuFh6"
@@ -5607,6 +5785,24 @@
     },
     {
       "album": {
+        "name": "Jongen",
+        "url": "https://open.spotify.com/album/1393qk9bvY8FJJGTJ8ltQs"
+      },
+      "artists": [
+        {
+          "name": "Rinus Ponsen",
+          "url": "https://open.spotify.com/artist/0oWvaZ5p5eDjRyAhv57mlW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218711,
+      "name": "Jongen",
+      "url": "https://open.spotify.com/track/0S5R3o6pU9RzoTaSxrz0HM"
+    },
+    {
+      "album": {
         "name": "Jongen Van De Straat",
         "url": "https://open.spotify.com/album/2glUKNxODHxUaYjSyMoGup"
       },
@@ -6014,7 +6210,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 153230,
       "name": "Kroegentocht",
       "url": "https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton"
@@ -7175,6 +7371,24 @@
     },
     {
       "album": {
+        "name": "Mooiste Van Het Stel",
+        "url": "https://open.spotify.com/album/1pXO8i8O2noLRh7H5P2kgF"
+      },
+      "artists": [
+        {
+          "name": "Roy van Nuland",
+          "url": "https://open.spotify.com/artist/0rnA333PgkP9joLU7KM3qy"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138877,
+      "name": "Mooiste Van Het Stel",
+      "url": "https://open.spotify.com/track/73XjwdA1H58ay02UKEmG6t"
+    },
+    {
+      "album": {
         "name": "More Amor Por Favor",
         "url": "https://open.spotify.com/album/532AjAx1Hih8SJdZVNwdoM"
       },
@@ -7382,7 +7596,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 176842,
       "name": "Nog Een Nacht Met Jou",
       "url": "https://open.spotify.com/track/0KsuZnsqDZCINlre1OI37K"
@@ -9293,6 +9507,24 @@
     },
     {
       "album": {
+        "name": "Veneti\u00eb",
+        "url": "https://open.spotify.com/album/6cV1KgMsUuzZt2VaCgW42v"
+      },
+      "artists": [
+        {
+          "name": "Hansie Schill",
+          "url": "https://open.spotify.com/artist/57WlgDZ9PjPcKWxWRHaBvK"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156210,
+      "name": "Veneti\u00eb",
+      "url": "https://open.spotify.com/track/7xVzPs5qtrjvnECDgkvIKK"
+    },
+    {
+      "album": {
         "name": "Venten Voor Me Centen",
         "url": "https://open.spotify.com/album/5X6H2BTSqGNL2JXuoMTp9b"
       },
@@ -9986,6 +10218,24 @@
       "duration_ms": 189782,
       "name": "Wat Zou Ik Daarvoor Moeten Doen",
       "url": "https://open.spotify.com/track/4Thwkrx5Qf6sCskcEy4ucF"
+    },
+    {
+      "album": {
+        "name": "Waterpas",
+        "url": "https://open.spotify.com/album/5eU5jXJoDNFhvGlqrQOB8I"
+      },
+      "artists": [
+        {
+          "name": "Henk Dissel",
+          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171436,
+      "name": "Waterpas",
+      "url": "https://open.spotify.com/track/3aulIOmwLaqAnzNVy6Cho4"
     },
     {
       "album": {

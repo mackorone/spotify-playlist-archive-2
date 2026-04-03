@@ -4,10 +4,11 @@
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Nieuw: <a href="spotify:artist:4oMzH6lIWPhCdx7KADXLJZ">Senna</a>
 
-252 songs - 13 hr 24 min
+254 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [120 Seconden](https://open.spotify.com/track/2BBxToCpjsCfL6ywZh55S9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:00 | 2026-04-02 |  |
 | [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 | 2024-03-22 | 2024-07-05 |
 | [180](https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [180](https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj) | 3:31 | 2023-07-20 | 2024-07-02 |
 | [22](https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 2:53 | 2023-05-09 | 2023-09-15 |
@@ -81,6 +82,7 @@
 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 | 2025-06-12 | 2025-12-12 |
 | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9) | 2:58 | 2025-12-11 |  |
 | [Een Teken](https://open.spotify.com/track/4YWS5c1tKeLFFiuZuSCg10) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Een Teken](https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q) | 2:12 | 2021-12-10 | 2022-03-19 |
+| [Eerste Klus](https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:19 | 2026-04-02 |  |
 | [EGOTRIP](https://open.spotify.com/track/6figbpzScXtzzlc4lYTLNw) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [EGOTRIP](https://open.spotify.com/album/51KPkUzPehz3oPihuwAlJL) | 2:38 | 2025-09-24 | 2026-01-15 |
 | [Emotional](https://open.spotify.com/track/5KhKUkTD4F14DWQGdYtEn3) | [Glowe](https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0) | [Emotional](https://open.spotify.com/album/4lXgI0aIpChKJEZtzS0RJM) | 3:00 | 2022-02-25 | 2022-06-17 |
 | [Er Was Eens Een Meid](https://open.spotify.com/track/128TSKhbp925wwRpJksRXH) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 2:56 | 2023-04-05 | 2024-01-19 |
@@ -95,7 +97,7 @@
 | [Gold](https://open.spotify.com/track/78TrDPsrrV0qWyqUmpj1Lm) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/3zZDnfsDMmYZ20DsNGir3I) | 2:54 | 2024-09-05 | 2025-03-06 |
 | [Gone \- Monks\. Remix](https://open.spotify.com/track/1S6dAn7JVM7f0TPabCjS3Y) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Monks.](https://open.spotify.com/artist/6Xzfqilk615ZKGjEOwTdPK) | [Gone \(Monks\. Remix\)](https://open.spotify.com/album/2bfob7z1a7651fvK2kCf5a) | 4:23 | 2023-07-20 | 2023-07-26 |
 | [Gone \- Monks\. Remix](https://open.spotify.com/track/4XLXrYdFsGF7StgArAPEYX) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Monks.](https://open.spotify.com/artist/6Xzfqilk615ZKGjEOwTdPK) | [Gone \(Monks\. Remix\)](https://open.spotify.com/album/3hhVdDALanDfdFL3dPn7ih) | 4:23 | 2023-07-20 | 2024-01-19 |
-| [Gouden Handdruk](https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Gouden Handdruk](https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD) | 2:08 | 2026-03-05 |  |
+| [Gouden Handdruk](https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Gouden Handdruk](https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD) | 2:08 | 2026-03-05 | 2026-04-03 |
 | [Grow](https://open.spotify.com/track/2VkQOOtMhEkd2KF2AAGVKD) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow](https://open.spotify.com/album/7n1mEyOkjx2HUeW43vBRMH) | 2:59 | 2023-09-14 | 2026-03-19 |
 | [Guts](https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Guts](https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1) | 3:26 | 2021-12-10 | 2022-08-26 |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2022-02-03 | 2022-06-17 |
@@ -137,7 +139,7 @@
 | [Laat Me FF](https://open.spotify.com/track/6ZaaJCNF37mYmkPFWeZ5F6) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Beef Met Mezelf](https://open.spotify.com/album/6jCeJrk6lDb8IcT1nfDB4e) | 2:38 | 2023-09-14 | 2023-10-06 |
 | [Laatste Trein](https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Laatste Trein](https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG) | 2:48 | 2024-04-02 | 2024-09-27 |
 | [Last Dance](https://open.spotify.com/track/5sHkRXZbyR6SLOlq3EpCpq) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K) | 4:03 | 2022-09-08 | 2023-04-07 |
-| [Leef Vandaag](https://open.spotify.com/track/4sdWltOf93g9Ok3zNGVDTI) | [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Leef Vandaag](https://open.spotify.com/album/3bUohj9RjzxKayLLNvSSia) | 2:45 | 2026-03-03 |  |
+| [Leef Vandaag](https://open.spotify.com/track/4sdWltOf93g9Ok3zNGVDTI) | [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Leef Vandaag](https://open.spotify.com/album/3bUohj9RjzxKayLLNvSSia) | 2:45 | 2026-03-03 | 2026-04-03 |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-18 | 2023-05-18 |
 | [long for](https://open.spotify.com/track/1TxLvSFDtHljzooqeyFKdX) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [RETROSPECT](https://open.spotify.com/album/32Ni3cNuxsKj5xiLkVc1Sf) | 3:19 | 2021-12-10 | 2022-03-19 |
 | [Look At Me](https://open.spotify.com/track/5ztdptHqHe9Jt0NzI3Powe) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Look At Me](https://open.spotify.com/album/14PdkPdvr3NsCVzqKrlvkJ) | 3:15 | 2021-12-10 | 2022-06-17 |

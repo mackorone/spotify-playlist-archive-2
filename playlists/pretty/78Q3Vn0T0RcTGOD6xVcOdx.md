@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain](/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/78Q3Vn0T0RcTGOD6xVcOdx)
 
-### [Today’s Top Hits ](https://open.spotify.com/playlist/78Q3Vn0T0RcTGOD6xVcOdx)
+### [Today’s Top Hits\-Pop 2026 pop playlist, pop hits 2026, best pop songs, top pop music, viral pop song](https://open.spotify.com/playlist/78Q3Vn0T0RcTGOD6xVcOdx)
 
-> 
+> www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
 [UP Music ProMotion](https://open.spotify.com/user/11141650175) - 487 likes - 282 songs - 16 hr 8 min
 
@@ -291,4 +291,4 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 281 | [¿Qué Sientes al Dar?](https://open.spotify.com/track/2WG4nnvnlqGog03RmcTywy) | [Javier Marval Ross](https://open.spotify.com/artist/72FYWQsfatZShho1er5m3t) | [¿Qué Sientes al Dar?](https://open.spotify.com/album/5ngarvdoBmBsQEUIk0yYes) | 3:41 |
 | 282 | [Suspiro eléctrico \(dance with me\)](https://open.spotify.com/track/0j3whSznT03ACSBL0XLvak) | [Planeta Luna](https://open.spotify.com/artist/5bZIFH7GHHt0BvGFhLgonS) | [Suspiro eléctrico \(dance with me\)](https://open.spotify.com/album/72QiHOhEGwuD4mX0SuraLH) | 2:44 |
 
-Snapshot ID: `AAAA+HTXDxHJDlTQ1aN6dOpypajQBzG3`
+Snapshot ID: `AAAA+oPbgSRIa/h/SrlkgCHOe0ntcdgQ`

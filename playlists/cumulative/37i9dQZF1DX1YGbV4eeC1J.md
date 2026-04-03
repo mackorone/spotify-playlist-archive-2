@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Lony Bway
+> What is your love language? Say it in Swahili\.  Cover: Zuchu
 
-350 songs - 19 hr 38 min
+351 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [I Do](https://open.spotify.com/track/0xKkw3VN1fEFWK8BGsyEBM) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [The Black Queen](https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri) | 3:01 | 2024-07-04 | 2024-07-06 |
 | [I Do](https://open.spotify.com/track/4e6oiM3w4K2o0lnd3ll8lE) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [I Do](https://open.spotify.com/album/2J0frKTCXVcOUb9piqkVwo) | 3:19 | 2024-09-26 | 2025-04-18 |
 | [I Love You](https://open.spotify.com/track/2Mt3Sq3zpBmZj6pkkttzQs) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Love You](https://open.spotify.com/album/3beOuf8HSVjiWzl47doPX6) | 3:10 | 2024-11-22 | 2025-04-04 |
+| [I Love You](https://open.spotify.com/track/3XRI2PTAJ65j7uPKuvpuNS) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [I Love You](https://open.spotify.com/album/1u4xz5MGmqYxqVMYXdvnyg) | 3:31 | 2026-04-02 |  |
 | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD) | 4:08 | 2022-05-26 | 2024-02-02 |
 | [I Need You](https://open.spotify.com/track/7stnz82FT1oFa0GMh7RYrD) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Need You](https://open.spotify.com/album/6z2pR0pueBjjjpJiTm1hGm) | 3:05 | 2023-08-31 | 2024-02-16 |
 | [I Need You](https://open.spotify.com/track/65r5JlLLlCPfpAAQH1Nsv8) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [I Need You](https://open.spotify.com/album/3uRFdty1rcadmo53p0ydVZ) | 3:06 | 2022-08-04 | 2023-03-11 |
@@ -244,7 +245,7 @@
 | [Niteke](https://open.spotify.com/track/3dWC1S6dok7pr1B3WyNvQQ) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Niteke](https://open.spotify.com/album/0DJ6lEzgMYxW5om8AUwmpP) | 2:37 | 2022-05-26 | 2023-04-21 |
 | [No Body \(feat\. Bien\)](https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [No Body \(feat\. Bien\)](https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d) | 3:23 | 2023-03-30 | 2026-02-06 |
 | [No Stress](https://open.spotify.com/track/1qwAufkn1HNoDTLNAxItdv) | [Nandy](https://open.spotify.com/artist/4BAqXsmyKo72kZuG4tkv4m) | [No Stress](https://open.spotify.com/album/4Jx3PlbkvB1Rs25h36gELZ) | 2:36 | 2025-04-18 | 2025-08-22 |
-| [Ntadedi](https://open.spotify.com/track/3wOWM4YK7PFONA0wNHcNru) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Ntadedi](https://open.spotify.com/album/1OWV8U3pfhPLw1Ko7dxDCw) | 2:57 | 2025-07-03 |  |
+| [Ntadedi](https://open.spotify.com/track/3wOWM4YK7PFONA0wNHcNru) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Ntadedi](https://open.spotify.com/album/1OWV8U3pfhPLw1Ko7dxDCw) | 2:57 | 2025-07-03 | 2026-04-03 |
 | [Number one](https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Number one](https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5) | 3:47 | 2024-02-22 | 2024-11-22 |
 | [Number One \(feat\. Zuchu\)](https://open.spotify.com/track/3E3aGiIEpAtuVD0wPjDSsi) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Number One \(feat\. Zuchu\)](https://open.spotify.com/album/3uSWtkSEGvuCeafCDL47eu) | 3:33 | 2024-03-14 | 2024-03-22 |
 | [Okay](https://open.spotify.com/track/5wY9TuRcJ5G9gz7SpqMzSW) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Okay](https://open.spotify.com/album/7wt6uu5it7TniGsatpOgKb) | 2:52 | 2024-12-05 | 2025-05-09 |

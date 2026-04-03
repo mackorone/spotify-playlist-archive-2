@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-601 songs - 1 day 13 hr 16 min
+605 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Last Night](https://open.spotify.com/track/1yNfUht2F5XFr6MtadE284) | [Ike TJ](https://open.spotify.com/artist/3DB5xKPkNiCoH8xopiagZ4) | [Last Night](https://open.spotify.com/album/4tai8TuD1nw2F2Isrm9D0Y) | 6:16 | 2026-02-27 |  |
 | [Last Ones](https://open.spotify.com/track/1DLf5cSy5FMiILI0z9acya) | [Aaron Klugg](https://open.spotify.com/artist/2wmuwPAXRhL4Xi0cWis1zG) | [Last Ones](https://open.spotify.com/album/4w2G9uZVP65BQcpN4k0rLn) | 6:18 | 2024-03-24 | 2024-05-20 |
 | [Lately](https://open.spotify.com/track/63uUbh2wl4FYvzLdOKJ8nq) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Leah Rose](https://open.spotify.com/artist/7JB5It5zOFEGkYJKipsBZj) | [Lately](https://open.spotify.com/album/63Zj3oMRhWuzAHcV6bhdxS) | 3:30 | 2023-01-29 | 2023-03-06 |
+| [Le Mie Sfumature \- 10th Anniversary Mix](https://open.spotify.com/track/77QHq2tRGFGc7g5FyeMXRG) | [Mattia Voyage](https://open.spotify.com/artist/5xixKPIuZRHp3zoAtSKk1e) | [10th Anniversary \(2015 \- 2025\)](https://open.spotify.com/album/0M3tO0rv3kDCGUwNn3Fu85) | 4:57 | 2026-04-02 |  |
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-01-22 | 2023-02-13 |
 | [Leave The Past Behind](https://open.spotify.com/track/72zsJLiCPtrmjZMakMKOuc) | [West Dingo](https://open.spotify.com/artist/6B30jOzfy4u8nu9PrcoOFa) | [Slow is Smooth\. Smooth is Fast.](https://open.spotify.com/album/7sIVA9xNrYCtBf05hdutQh) | 3:40 | 2025-12-15 | 2026-01-03 |
 | [Less That](https://open.spotify.com/track/7zCsBTEeeaB1QAJK2R728d) | [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW), [No Break](https://open.spotify.com/artist/4mZ0SNrLR1DPVB86E8iLqQ) | [Less That](https://open.spotify.com/album/4R7gY27TiEhuGPNO5wJknN) | 3:10 | 2023-01-22 | 2023-02-13 |
@@ -338,6 +339,7 @@
 | [Loover](https://open.spotify.com/track/488YwyQNBEGi7xr9idmZKT) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Underworld EP](https://open.spotify.com/album/1BiAIErFeetDN887HJsFvD) | 6:00 | 2023-08-27 | 2023-09-26 |
 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 | 2023-09-17 | 2023-12-14 |
 | [Lost](https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Lost](https://open.spotify.com/album/1X994T3NOkN6NEfbZTwYXX) | 2:50 | 2023-04-16 | 2023-05-01 |
+| [LOST IN THE NIGHT](https://open.spotify.com/track/3EZunl1UNuVrO5k899dML0) | [TWOEF](https://open.spotify.com/artist/2QJuVsoNKHRWGaxomS9ity) | [LOST IN THE NIGHT](https://open.spotify.com/album/6jXxlvfX8Jb3tCRehoi2Kp) | 5:26 | 2026-04-03 |  |
 | [Loud Tonight](https://open.spotify.com/track/68Hb7cEAoENqIes52urp8Y) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Loud Tonight](https://open.spotify.com/album/4EI9MeXtQkVCIkYDmdFNsy) | 2:55 | 2023-08-06 | 2023-09-26 |
 | [Love Finds A Way \- Radio Edit](https://open.spotify.com/track/6FLpYaVGuq1CFgU6sd3iuj) | [David Herrlich](https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj) | [Love Finds A Way \(Radio Edit\)](https://open.spotify.com/album/1B7YW1Y5VSXDdIIagVOSy7) | 2:22 | 2023-01-29 | 2023-03-06 |
 | [Loveless](https://open.spotify.com/track/3SN0Qt3fOLKbDGLW0q5AD2) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [Nite & Day](https://open.spotify.com/album/7nzBg24gwBiLWWTR6E5LeN) | 2:22 | 2026-03-17 |  |
@@ -436,6 +438,7 @@
 | [Real](https://open.spotify.com/track/0sHxBKvOOrPfCfBZjOIbkN) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal) | [Real](https://open.spotify.com/album/1S3kgoT0prKVmnoX18HZRk) | 3:24 | 2023-01-29 | 2023-03-06 |
 | [Red Tape](https://open.spotify.com/track/0WauEaIUUp3RBd22n7hSM4) | [White Off](https://open.spotify.com/artist/3YYih7Xf8yIMm6nm6r1j7N) | [Red Tape](https://open.spotify.com/album/4XFQEDf0gtebWEEdB7gT2h) | 3:07 | 2024-10-13 |  |
 | [Relative](https://open.spotify.com/track/6tPBj6TsuJWRiDVgIavgoB) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu) | [Relative](https://open.spotify.com/album/54LJSXrny0n1aFXxR0bg0N) | 3:49 | 2025-12-14 | 2026-01-03 |
+| [Release Me](https://open.spotify.com/track/20iEbeHGJnAFC1Z9ByhV5R) | [Diana J](https://open.spotify.com/artist/66g5QWGcUydjW7eazBdGTB) | [Release Me](https://open.spotify.com/album/5XUSaoSK8ODtZuyECU2cKs) | 3:11 | 2026-04-02 |  |
 | [Reload](https://open.spotify.com/track/0B6twHJlRxSM9Q68NpGCKg) | [1997](https://open.spotify.com/artist/6MSe5IjGtnDLfKyAuofPo2), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [Reload](https://open.spotify.com/album/5PbhhWEN3BsplhcFBTDIAH) | 3:52 | 2023-07-16 | 2023-08-20 |
 | [Returns a Zero](https://open.spotify.com/track/02Vi6DWSNKrSG4vib5Qhgo) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Afterhours: Cinematic Techno \(Vol\. 1\)](https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa) | 5:59 | 2026-03-22 |  |
 | [REVENGE](https://open.spotify.com/track/0DD63rGP1wxbkWKoxR6wdV) | [DYEPA'](https://open.spotify.com/artist/7b7hWy8ITrscmKdRb8WjMv) | [REVENGE](https://open.spotify.com/album/7Ly33lununxENkFpzWEwwJ) | 3:00 | 2025-12-18 | 2026-01-03 |
@@ -541,6 +544,7 @@
 | [The Treble](https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Treble](https://open.spotify.com/album/0iHPUixpramB60NDP56aar) | 3:22 | 2023-07-30 | 2023-08-28 |
 | [The Unknown](https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [The Unknown](https://open.spotify.com/album/5X5MiGq9BMfwqrRrLigR1M) | 2:56 | 2024-05-19 | 2024-07-08 |
 | [The Vinci Code](https://open.spotify.com/track/5KSiKAMi4HisvlKB0qrI3t) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [Neon Renaissance](https://open.spotify.com/album/0ChsRFFcUtNRfoq2PsmEvZ) | 2:00 | 2026-03-04 |  |
+| [These Walls](https://open.spotify.com/track/6shkxDbI1xR720ubiBz0YS) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Cinematic Bass: Epic Dubstep & Trap \(Vol\. 1\)](https://open.spotify.com/album/1WNBIHcvpB6sWakBROrIPV) | 3:19 | 2026-04-02 |  |
 | [This Is Test](https://open.spotify.com/track/66JPCXqRUYNtanxZwujO8Z) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [This Is Test](https://open.spotify.com/album/6H42cNi6CpjPdeUAbqM1CF) | 3:17 | 2024-04-14 | 2024-05-20 |
 | [Throne of Dust](https://open.spotify.com/track/61nOmRmS9uc93lx3hKWv7x) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [Neon Renaissance](https://open.spotify.com/album/0ChsRFFcUtNRfoq2PsmEvZ) | 2:00 | 2026-03-23 |  |
 | [Throw Your Hands](https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Throw Your Hands](https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw) | 3:11 | 2023-05-14 | 2023-06-12 |

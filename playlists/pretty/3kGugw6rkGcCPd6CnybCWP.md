@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 94 songs - 5 hr 34 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,11 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 92 | [Courage](https://open.spotify.com/track/48qv827pojV4yv2XdEWTcU) | [Supermarket Underground](https://open.spotify.com/artist/6uABFKFo3LgW834mHlL2S4) | [Supermarket Underground](https://open.spotify.com/album/4z9ZgrunOniEQ64AAP1LYh) | 5:48 |
 | 93 | [Runnin' On Empty](https://open.spotify.com/track/4Ak9DIQXtFKsB5xc9u6LTw) | [Brandon Birdwell](https://open.spotify.com/artist/0AhCptHCR9jOUnM5nYzVSi) | [Runnin' On Empty](https://open.spotify.com/album/6zrNLo1HS4qF1d72WfDqiE) | 3:30 |
 | 94 | [Under My Own Skin](https://open.spotify.com/track/3pb2oy4kC9za9LL81Bhxfi) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Under My Own Skin](https://open.spotify.com/album/3VBfuNs603KbzcCl2J61DQ) | 4:02 |
+| 95 | [Liminal](https://open.spotify.com/track/1vHbFf4vScIbvOqdlUTmIU) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Liminal](https://open.spotify.com/album/0eMFhVV9J64pfUouzj7wAs) | 2:40 |
+| 96 | [Ich werd nicht weniger](https://open.spotify.com/track/0fcuM80u8rmO19kZzWMbyU) | [Brave Bones](https://open.spotify.com/artist/2GnTqVSfxKobyNlwTMKsMg) | [Ich werd nicht weniger](https://open.spotify.com/album/6ofFw6HJRpOVMzmUl3Svjd) | 2:48 |
+| 97 | [Can I See U Again?](https://open.spotify.com/track/0ZfTda2rDafMvWBLghgoEW) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [One](https://open.spotify.com/album/6Nq8LT0hzTEbeMBOKKLA34) | 2:44 |
+| 98 | [Your Flow](https://open.spotify.com/track/7w3PDDIQ9mO58DnRpbwRFJ) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Your Flow](https://open.spotify.com/album/5IMkL1GoZJlrtEqnNGR5Wn) | 3:00 |
+| 99 | [dealihea](https://open.spotify.com/track/4OIkCRqHqvEjR6CrWifwOZ) | [low\-key](https://open.spotify.com/artist/3o3u93T1lwwuCWE4ib3yKF) | [cases](https://open.spotify.com/album/4XyxycEfY5tF8VissqvHd9) | 5:33 |
+| 100 | [I.if only i could get next to you](https://open.spotify.com/track/3pJmDvcs4mQycH2R5RGhnZ) | [Rafael Vaza](https://open.spotify.com/artist/10fjJKlE2xKlUlmjSiVyFj) | [the electrojazz of rafael vaza or the unexpectable heartbreak clichê](https://open.spotify.com/album/2QHhijjY9eGI0rEd7K2U6r) | 1:41 |
 
-Snapshot ID: `AAAN/c7pzuZPoenHOaeSixB5b1bt9JHz`
+Snapshot ID: `AAAOA3YXBsh4RvdtD04HaPsBpc3DboJc`

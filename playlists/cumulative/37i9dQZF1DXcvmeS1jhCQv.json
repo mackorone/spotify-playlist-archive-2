@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: Rosie Carney",
+  "description": "New tunes from Ireland for your discovery. Cover: KNEECAP",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 226403,
       "name": "A Lifetime or Two",
       "url": "https://open.spotify.com/track/3bd3JPlFd4w85LEcXN4FIZ"
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 296680,
       "name": "EURO-COUNTRY",
       "url": "https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0"
@@ -2328,6 +2328,28 @@
       "duration_ms": 170013,
       "name": "Feels so Wrong",
       "url": "https://open.spotify.com/track/0SIjGMgwOFqwUTnpeesaz7"
+    },
+    {
+      "album": {
+        "name": "FENIAN",
+        "url": "https://open.spotify.com/album/0IAAsMXyI0xm8FkmsOJRh3"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Casiokids",
+          "url": "https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "FENIAN",
+      "url": "https://open.spotify.com/track/6vN9o849XOpOKbygIid6ck"
     },
     {
       "album": {
@@ -5532,7 +5554,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 174545,
       "name": "round in circles",
       "url": "https://open.spotify.com/track/1oBZNwVCmIUBw4ZaPED0VE"
@@ -6987,6 +7009,24 @@
     },
     {
       "album": {
+        "name": "The Weight of the Woods",
+        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230418,
+      "name": "Turnstile",
+      "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"
+    },
+    {
+      "album": {
         "name": "twin flame",
         "url": "https://open.spotify.com/album/10qMmgkmgspyaR23TVyqqr"
       },
@@ -7236,6 +7276,28 @@
       "duration_ms": 280250,
       "name": "WashItAllAway",
       "url": "https://open.spotify.com/track/1aQNQk07N0frC2Dbt9jt3B"
+    },
+    {
+      "album": {
+        "name": "wasted time",
+        "url": "https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ"
+      },
+      "artists": [
+        {
+          "name": "proderics",
+          "url": "https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI"
+        },
+        {
+          "name": "melodybloom",
+          "url": "https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133270,
+      "name": "wasted time",
+      "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
     },
     {
       "album": {

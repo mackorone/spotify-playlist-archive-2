@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Willie Peyote ha una nuova canzone tutta blu e sad \ud83e\udec2",
+  "description": "Fulmine tutto incravattato in cover di Indie Italia \ud83d\udc54\ud83d\udc9a",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 185107,
       "name": "Due Estranei (feat. Fulminacci)",
       "url": "https://open.spotify.com/track/2GzEXn5EhLA9ngz7WOpUZu"
@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 191199,
       "name": "Fantasia 2000 (con Franco126)",
       "url": "https://open.spotify.com/track/19uOf45JYsppo49a8jiMt6"
@@ -4437,6 +4437,24 @@
     },
     {
       "album": {
+        "name": "Linea D'aria",
+        "url": "https://open.spotify.com/album/0JsdTALZcbH3Q8SyJ99F1Q"
+      },
+      "artists": [
+        {
+          "name": "Daria Huber",
+          "url": "https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181577,
+      "name": "Linea D'aria",
+      "url": "https://open.spotify.com/track/6xCWD6BL7qxBdCMKfkzA7n"
+    },
+    {
+      "album": {
         "name": "Little Rat",
         "url": "https://open.spotify.com/album/0phrEGKl53xAyL59YMznHX"
       },
@@ -4806,6 +4824,24 @@
       "duration_ms": 245411,
       "name": "Mambo",
       "url": "https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T"
+    },
+    {
+      "album": {
+        "name": "Madre Lingua",
+        "url": "https://open.spotify.com/album/1naMbMqwfCgeIRsBmaue8x"
+      },
+      "artists": [
+        {
+          "name": "Zara Colombo",
+          "url": "https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167835,
+      "name": "Mamma Mezzanotte",
+      "url": "https://open.spotify.com/track/4pDdlC0APzRn8C9mcEUJk4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Maria Becerra, J Balvin & Ryan Castro, Becky G, Neton Vega & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,494 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,555 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 16 | [Callate y Besame](https://open.spotify.com/track/4I7u8l7P2A409S1emPOUhX) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Eso Si Es De Gangster](https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL) | 3:26 |
 | 17 | [Caldero Panameño](https://open.spotify.com/track/5LUXMVG2LgC7zwmvyvDIWB) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY) | [Caldero Panameño](https://open.spotify.com/album/4qdX35Qhj7BBb2xdZpMUty) | 3:12 |
 | 18 | [Exmaquina](https://open.spotify.com/track/3d0LfxFm4FvW0RE1oZkdBV) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Exmaquina](https://open.spotify.com/album/3R4W7oN6SdG6HzX4PIFvTm) | 3:08 |
-| 19 | [Mercenarios](https://open.spotify.com/track/1YtBEZolFa52BcyDZg7U2L) | [Capo](https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mercenarios](https://open.spotify.com/album/57F0XyYYCfiQ7D4ZL0Ca6Q) | 2:24 |
+| 19 | [Mercenarios](https://open.spotify.com/track/1YtBEZolFa52BcyDZg7U2L) | [Capo](https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mercenarios](https://open.spotify.com/album/57F0XyYYCfiQ7D4ZL0Ca6Q) | 2:22 |
 | 20 | [Ego](https://open.spotify.com/track/3uxYCqJtleP7kgkyKnSodq) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [School MC](https://open.spotify.com/artist/5mu2rGENOsGqLnb9hGum2X) | [The Black Souls](https://open.spotify.com/album/4q2rpWBts7di4mrXZunQ7R) | 4:32 |
 | 21 | [MINI FALDA](https://open.spotify.com/track/5q9K5GZbJk377LDKHznfQD) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [MINI FALDA](https://open.spotify.com/album/2Fak3I0a1PyslGbAvZBJjH) | 4:40 |
 | 22 | [Corazonada](https://open.spotify.com/track/50djfaTziNAD9lzW394lyQ) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Corazonada](https://open.spotify.com/album/6M2WxySETQXSq6K5QRXqyx) | 3:57 |

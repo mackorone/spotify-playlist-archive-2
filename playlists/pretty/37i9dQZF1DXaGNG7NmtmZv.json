@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 244123,
+  "num_followers": 244164,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Friendship Loyalty Commitment",
-        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
-      },
-      "artists": [
-        {
-          "name": "25 Ta Life",
-          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
-        }
-      ],
-      "duration_ms": 125746,
-      "name": "Over the Years",
-      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "What Doesn't Kill You Will Make You Stronger",
         "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 196720,
       "name": "Blood",
       "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Friendship Loyalty Commitment",
+        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
+      },
+      "artists": [
+        {
+          "name": "25 Ta Life",
+          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
+        }
+      ],
+      "duration_ms": 125746,
+      "name": "Over the Years",
+      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
     },
     {
       "added_at": "2024-02-07 16:33:52",

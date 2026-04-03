@@ -4,7 +4,7 @@
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.
 
-1,639 songs - 3 day 14 hr 35 min
+1,640 songs - 3 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -981,6 +981,7 @@
 | [Most Wanted](https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Most Wanted](https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge) | 2:43 | 2024-07-26 | 2024-10-18 |
 | [Moth to a Flame](https://open.spotify.com/track/2QVur9XmWWwivQntbUwvVT) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Moth to a Flame](https://open.spotify.com/album/3k89ZbjGkJJbm5hnCqx5B3) | 3:52 | 2024-06-21 | 2024-07-27 |
 | [Mother](https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA +](https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1) | 4:40 | 2025-10-31 | 2026-02-14 |
+| [Motion Party](https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Motion Party](https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr) | 1:35 | 2026-04-02 |  |
 | [Mourir sur scène](https://open.spotify.com/track/5XEPaOuGZBShwnMMprcWfM) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [IMPOSTEUR](https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g) | 3:50 | 2024-11-08 | 2024-12-07 |
 | [Move A Little Closer](https://open.spotify.com/track/0gf1KoU5UhhxoEodDF29Rm) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Move A Little Closer](https://open.spotify.com/album/3W7wRLiuNsiNVvFMCKcuoO) | 2:49 | 2025-07-18 | 2025-07-26 |
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-02-21 | 2025-03-15 |

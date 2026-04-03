@@ -4,7 +4,7 @@
 
 > 
 
-373 songs - 21 hr 53 min
+374 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Mist](https://open.spotify.com/track/2NLOyWzztMiW5FmNhD83K6) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:10 | 2026-01-03 | 2026-01-18 |
 | [Monday Mourning](https://open.spotify.com/track/10V96IBSJJjZPAS4fcKEmn) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Monday Mourning](https://open.spotify.com/album/4E240gSAhzKIH9HDZKNKsj) | 2:00 | 2023-07-13 |  |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 | 2023-07-13 |  |
+| [MONTAGEM ALQUIMIA \- SLOWED](https://open.spotify.com/track/0vmFuEhyHR8SbOhDFq021Y) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf), [n7san7os](https://open.spotify.com/artist/3cvsBiWPwn1oVpKCeGBev9), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM ALQUIMIA](https://open.spotify.com/album/0N6Xm4YHBgSx1NGUCs4L7X) | 1:53 | 2026-04-02 |  |
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-22 |  |
 | [MONTAGEM UNFOUND 2 \- Slowed](https://open.spotify.com/track/213q21omFjVGHe09HPtowq) | [DJ FallThox](https://open.spotify.com/artist/2SE6mfDFx1U34XJsT48MUN), [cape](https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K) | [MONTAGEM UNFOUND 2](https://open.spotify.com/album/5tk8LYvJPWmP989IfZU3dn) | 1:58 | 2025-10-03 |  |
 | [Movements](https://open.spotify.com/track/3gZUflBBfgS3QiTSTg0hk0) | [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3), [Yung Fusion](https://open.spotify.com/artist/0daSHuKxoXYl50HIQ9aKzt) | [Movements \- Single](https://open.spotify.com/album/6LcbhFnEpPsY1JkyA8Sgv8) | 3:28 | 2023-07-13 |  |

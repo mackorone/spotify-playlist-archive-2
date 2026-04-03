@@ -2,9 +2,9 @@
 
 ### [indie.nl](https://open.spotify.com/playlist/37i9dQZF1DX2wnn4eczZBS)
 
-> Indiepop in het Nederlands\. Cover: Het Algoritme
+> Indiepop in het Nederlands\. Cover: Elmer
 
-312 songs - 16 hr 14 min
+313 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 | 2025-09-26 |  |
 | [Cherry Jenna](https://open.spotify.com/track/0Z7EHxmP8WznjmOPNsDSzl) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/24DodGp1X7O17mu0kiKInY) | 2:41 | 2025-01-21 | 2025-02-08 |
 | [Chocoladefontein](https://open.spotify.com/track/30cgYyTs2gobLFcwmbyfZj) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Chocoladefontein](https://open.spotify.com/album/3v03jn6nWDCkR11aGVeA5T) | 3:01 | 2024-06-26 | 2024-08-02 |
-| [Cowboy](https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK) | [De Zweefclub](https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x) | [Cowboy](https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm) | 2:30 | 2026-03-05 |  |
+| [Cowboy](https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK) | [De Zweefclub](https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x) | [Cowboy](https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm) | 2:30 | 2026-03-05 | 2026-04-03 |
 | [Dag en Nacht](https://open.spotify.com/track/3A7F8yDLENuQrPUkxjcMxV) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Dag en Nacht](https://open.spotify.com/album/1O3xO2IARNTK7mU2EN5yyZ) | 3:39 | 2025-01-10 | 2025-03-13 |
 | [Dansen met de dood](https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Dansen met de dood](https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7) | 3:24 | 2025-05-08 | 2026-02-18 |
 | [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 | 2025-01-10 | 2025-04-25 |
@@ -84,6 +84,7 @@
 | [Gebroken Spiegel](https://open.spotify.com/track/10Kg907mXNLeJ0K86gE1Or) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM), [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Gebroken Spiegel](https://open.spotify.com/album/6dNDtmJnXyWzaFKiC47vc2) | 3:29 | 2025-01-16 | 2025-03-08 |
 | [Geef me een Teken](https://open.spotify.com/track/1sMC7VDr7zRbNvYVTdLyGA) | [Lucas de Gier](https://open.spotify.com/artist/0IEv7VW29Y0gKhh3gmELOt) | [lucas](https://open.spotify.com/album/7FsUGGBTX3ODgZhNgZnUqj) | 3:56 | 2024-11-07 | 2025-01-11 |
 | [Geef Mij Nog Deze Nacht](https://open.spotify.com/track/5yVGyRGN344cTDdOg1ayJ7) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Geef Mij Nog Deze Nacht](https://open.spotify.com/album/2I0w8eTaxMcNj9xlLNpp16) | 3:12 | 2025-06-02 | 2025-07-22 |
+| [GEEN BEEST](https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [GEEN BEEST](https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk) | 2:25 | 2026-04-02 |  |
 | [Geen Ego](https://open.spotify.com/track/1CwTDPhXGfgHZX6MFmDaLi) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Hardt](https://open.spotify.com/album/7vDfXzVI6iBTtK7p2gSH7i) | 3:05 | 2026-02-12 | 2026-03-10 |
 | [Geen Steek Veranderd](https://open.spotify.com/track/0Z7UuliJxlUTtPuA7HqrdU) | [\(...\) Centraal](https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2) | [puntpuntpunt](https://open.spotify.com/album/3m9qDzog8BUub1BLDqs9xM) | 3:25 | 2024-06-26 | 2024-08-02 |
 | [Geest Van Het Zuiden](https://open.spotify.com/track/3aY93NRQyDNARcblm0javK) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Of Het Terugkomt](https://open.spotify.com/album/1YRPxfopR6ICS1ZUIDAmSV) | 3:13 | 2024-06-26 | 2024-09-13 |
@@ -240,7 +241,7 @@
 | [Schip](https://open.spotify.com/track/0prmFYgEnM3C1DydcWaPD3) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Schip](https://open.spotify.com/album/71FXgXXsQ4evMqRWsvxSsg) | 2:34 | 2024-10-24 | 2025-01-11 |
 | [Sexy Genoeg \(feat\. MEROL\)](https://open.spotify.com/track/1EQRtIpGXYAba7dz5ukrdd) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Sexy Genoeg \(feat\. MEROL\)](https://open.spotify.com/album/1DiAV9MiIWkWodHdqElI9M) | 4:07 | 2024-07-05 | 2024-11-15 |
 | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf) | 3:27 | 2024-08-01 | 2025-02-28 |
-| [Skinroutine Bikinilijn](https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Skinroutine Bikinilijn](https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ) | 3:03 | 2025-12-01 | 2026-04-01 |
+| [Skinroutine Bikinilijn](https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Skinroutine Bikinilijn](https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ) | 3:03 | 2025-12-01 |  |
 | [slecht idee \(let’s do it\)](https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [slecht idee \(let’s do it\)](https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t) | 3:11 | 2025-12-01 |  |
 | [Sneeuw In De Zomer](https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sneeuw In De Zomer](https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32) | 2:44 | 2026-01-12 | 2026-02-01 |
 | [Soms Regen Ik Ook](https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Eclips](https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l) | 3:26 | 2024-09-12 | 2025-05-16 |
@@ -288,7 +289,7 @@
 | [Waar Ontmoet Jij De Maan?](https://open.spotify.com/track/0BgXjzIyAnLf54F5hkgSJZ) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm), [Pelumi Adejumo](https://open.spotify.com/artist/5KzL65Y4YjGMLbCewSkstC) | [Gekleed In Donker, Ze Vroegen Niks](https://open.spotify.com/album/0pk53p781JhLnHXtXjt2wJ) | 5:38 | 2025-05-16 | 2025-07-19 |
 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 | 2025-04-11 | 2026-02-27 |
 | [Was Het Nou Maar Zo](https://open.spotify.com/track/16109XiqzxPp5UrwFTB285) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Was Het Nou Maar Zo](https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada) | 3:14 | 2026-03-19 |  |
-| [Water](https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Ook De Miezer](https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ) | 4:00 | 2026-03-19 |  |
+| [Water](https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Ook De Miezer](https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ) | 4:00 | 2026-03-19 | 2026-04-03 |
 | [Wauw](https://open.spotify.com/track/2Pqh5BrKly0mN6uvavP6Xm) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Diep In De Nacht \(Original Soundtrack\)](https://open.spotify.com/album/1Alx3D8sFOF2APdvn2XMHu) | 1:54 | 2025-03-28 | 2025-09-16 |
 | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/track/6bOIf6PY3dHknq5RzWxSbe) | [SIM—OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/album/6pu4TsYK4brCRRwTWkiN4z) | 2:51 | 2024-06-26 | 2024-10-10 |
 | [We Hebben De Tijd](https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:32 | 2024-06-26 | 2024-10-23 |

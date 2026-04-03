@@ -4351,6 +4351,36 @@
     },
     {
       "album": {
+        "name": "DMC",
+        "url": "https://open.spotify.com/album/5ykRvEogjoPLmSupwE1QJR"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "DMC",
+      "url": "https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic"
+    },
+    {
+      "album": {
         "name": "Do What You Do",
         "url": "https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S"
       },
@@ -15176,7 +15206,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 160919,
       "name": "PS118 - feat. Rapsody",
       "url": "https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz"

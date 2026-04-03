@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,086 likes - 338 songs - 21 hr 2 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,087 likes - 338 songs - 21 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ulvgjeld & Blodsodel](https://open.spotify.com/track/1iEJL4YTZ8pJY43urQYGzJ) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Ulvgjeld & Blodsodel](https://open.spotify.com/album/1puFNMqJXaDz3qFieW0W6J) | 5:42 |
 | 2 | [Mercy](https://open.spotify.com/track/3KmFFR1CInXTFKMvZiAmgL) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Mercy](https://open.spotify.com/album/70OLK4vLOoljMTDM6ZDFx4) | 3:49 |
 | 3 | [The Way Things Should End](https://open.spotify.com/track/6mp7GUe0MvvtctUYkJCgN1) | [Torn Open](https://open.spotify.com/artist/1XLYwoarb8vwv77W7UxGgX) | [The Way Things Should End](https://open.spotify.com/album/0SrBH11qxiYYQWMFfJqlmY) | 3:18 |
-| 4 | [Above & Below](https://open.spotify.com/track/2RVkLXKlvg5ZXmJ4eT6Tv9) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Engines of Demolition](https://open.spotify.com/album/1KHpXJzeuwhXrgNBiaapXj) | 3:27 |
+| 4 | [Above & Below](https://open.spotify.com/track/2RVkLXKlvg5ZXmJ4eT6Tv9) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Engines of Demolition](https://open.spotify.com/album/1KHpXJzeuwhXrgNBiaapXj) | 3:27 |
 | 5 | [AUREA](https://open.spotify.com/track/0i2M5fjYTAtcihXqwLQxZ8) | [Black Spikes](https://open.spotify.com/artist/5OHs983geoRmnuuRVfB2XQ) | [AUREA](https://open.spotify.com/album/2pej0tjRuzdX3ewQEwRS6O) | 5:13 |
 | 6 | [Retén](https://open.spotify.com/track/2yzBJIHvZ5Shfw9NWPI7LS) | [Quiet Fear](https://open.spotify.com/artist/7f9rUMEhQtAGij5enAodnf) | [Retén](https://open.spotify.com/album/74lx9bx5nXqvJfR1QUQI1e) | 3:02 |
 | 7 | [Mirror Deep](https://open.spotify.com/track/6bEPtGlc4sixMMcsG0nPHT) | [Neurosis](https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF) | [An Undying Love for a Burning World](https://open.spotify.com/album/6R9JG8pkMHdGz031ceugiM) | 5:39 |

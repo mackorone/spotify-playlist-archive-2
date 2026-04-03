@@ -4,7 +4,7 @@
 
 > 
 
-8,571 songs - 21 day 20 hr 6 min
+8,575 songs - 21 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1458,6 +1458,7 @@
 | [Da Art of Storytellin' \(Pt\. 1\)](https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 3:42 | 2025-01-15 |  |
 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 | 2024-12-14 |  |
 | [DA WIZARD](https://open.spotify.com/track/3MG4uJgccswTKrjheG54eW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 2:36 | 2025-07-17 |  |
+| [DADDY ! DADDY ! DO !](https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [Airi Suzuki](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:14 | 2026-04-02 |  |
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2025-03-12 |  |
 | [Daddy's Birthday](https://open.spotify.com/track/347hgqCHnL4GfgVX5hZfNv) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 3:28 | 2025-01-15 |  |
 | [Daily Routine](https://open.spotify.com/track/7fMG4HNSKzBFKthjmeW8LU) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 2:57 | 2025-01-03 |  |
@@ -4203,6 +4204,7 @@
 | [Missing My Idols](https://open.spotify.com/track/5HnxL39pSgVVQMLP7WnSfv) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk) | 2:26 | 2025-01-15 |  |
 | [Missing You](https://open.spotify.com/track/3HqXGwYNjV7kL06M0lxpku) | [Fly to the Sky](https://open.spotify.com/artist/4Va11kshAHkYONJgZqhi0C) | [Missing You \- The 4th Album](https://open.spotify.com/album/7n0B8QowHmVfHf71hZBSqb) | 4:11 | 2025-01-03 |  |
 | [Missing you](https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:32 | 2025-06-03 |  |
+| [Missing You](https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:20 | 2026-04-02 |  |
 | [Misty](https://open.spotify.com/track/4kF394GKEnI13QdZBM9mxM) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Piano Duets](https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd) | 2:54 | 2025-08-12 |  |
 | [Misty](https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Plays Misty](https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9) | 2:51 | 2025-08-12 |  |
 | [Misty](https://open.spotify.com/track/5oEJyOsT68BDRwLoQQJl6W) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:29 | 2025-08-12 |  |
@@ -7791,6 +7793,7 @@
 | [ラブレター](https://open.spotify.com/track/4epEfVufvFE6MRLRSAsRcs) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Jukebox](https://open.spotify.com/album/1r811zsBkeiS2leBNkg7YN) | 5:43 | 2025-01-03 |  |
 | [ラブレター](https://open.spotify.com/track/185Wm4Mx09dQG0fUktklDm) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ラブレター](https://open.spotify.com/album/6RfHLN2DLnZLAvR5Ogb4jA) | 3:32 | 2025-01-15 |  |
 | [ラブ・ドラマティック](https://open.spotify.com/track/7AhMVnj6N89jmuCKNyr0AZ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [伊原六花](https://open.spotify.com/artist/2oHiy1x5X3FnhsLrrS6IEo) | [ラブ・ドラマティック](https://open.spotify.com/album/1NIPOt9WMMqNIpXA3adOPj) | 4:23 | 2025-01-04 |  |
+| [ラブ・ドラマティック](https://open.spotify.com/track/7retZfwqndc1A1eUl8mUsf) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [伊原六花](https://open.spotify.com/artist/2oHiy1x5X3FnhsLrrS6IEo) | [MARTINI DUET DELUXE](https://open.spotify.com/album/5hj7c0XVJ45tuKXgSz54k3) | 4:24 | 2026-04-02 |  |
 | [ラヴァーズ](https://open.spotify.com/track/5Do3qmFMpCjVLmtLhmj3a1) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [ドキドキ](https://open.spotify.com/album/3CkjjWdhr8y5wrIkNWkw21) | 3:42 | 2026-01-11 |  |
 | [ラヴ・ソング](https://open.spotify.com/track/7koIq91PsDK55W71AAVKtO) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [PEOPLE](https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f) | 3:25 | 2025-01-15 |  |
 | [リテラチュア](https://open.spotify.com/track/1Oc8AYDtd0Hcpz8Ijl4JaT) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [リテラチュア](https://open.spotify.com/album/2PTMl1FagFSWwFFwA98SOP) | 4:00 | 2025-05-17 |  |
@@ -7872,6 +7875,7 @@
 | [分かってないよ](https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:28 | 2026-03-21 |  |
 | [別の人の彼女になったよ](https://open.spotify.com/track/666wLEFj1AtTNBEcErygLz) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [群青リフレイン](https://open.spotify.com/album/7ibkOnS6ApxvZ3R79cualG) | 5:04 | 2025-01-15 |  |
 | [刹那の人魚姫～Heart break mermaid～ \- Full Spec Edition](https://open.spotify.com/track/7519s7yaJNhvRV1QcVFfcn) | [千佳](https://open.spotify.com/artist/0EbN9AvLinWeyEFXHLcv6y), [彩也香](https://open.spotify.com/artist/23oYiC3mc5S0FCBTDeq1BY) | [龍が如く0 誓いの場所 オリジナルサウンドトラック \(Side B\)](https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u) | 4:35 | 2025-06-11 |  |
+| [力になりたい](https://open.spotify.com/track/1SCysEXfxnYkCQzv8LepoE) | [Takeshi Nakatsuka](https://open.spotify.com/artist/20NsQIQXOKSrclmLOeZLIF) | [その着せ替え人形は恋をする Original Soundtrack VOL.1](https://open.spotify.com/album/22WJ7yTFy5skROvKGWyddA) | 3:02 | 2026-04-02 |  |
 | [動く、動く](https://open.spotify.com/track/5kAAJl0tdatIogdLfBXWDd) | [チト\(CV:水瀬いのり\)](https://open.spotify.com/artist/2cHhOd4brIQTAAJxbVoK3A), [ユーリ\(CV:久保ユリカ\)](https://open.spotify.com/artist/00PGeyhFEAm7jfV8bkUTo0) | [TVアニメ「少女終末旅行」オープニングテーマ「動く、動く」](https://open.spotify.com/album/2QUwCN7FPbPSBTpRyLMrGI) | 4:36 | 2025-08-15 |  |
 | [動く、動く](https://open.spotify.com/track/7wGdYp9R24KjxERRzksEru) | [チト\(CV:水瀬いのり\)](https://open.spotify.com/artist/2cHhOd4brIQTAAJxbVoK3A), [ユーリ\(CV:久保ユリカ\)](https://open.spotify.com/artist/00PGeyhFEAm7jfV8bkUTo0) | [TVアニメ「少女終末旅行」オープニングテーマ「動く、動く」](https://open.spotify.com/album/2PkaR41koO8uWLX0jmd8Ze) | 4:36 | 2025-12-07 |  |
 | [勘冴えて悔しいわ](https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 3:56 | 2025-01-15 |  |

@@ -1,33 +1,13 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 50751,
+  "num_followers": 50762,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAAAxhj2goEUxycRn16u4NLsP",
+  "snapshot_id": "acxgAAAAAAC7R1SKoopVHxF35p+d/EOr",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Excuse The Mess",
-        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "That's Why We Fight (feat. Koe Wetzel)",
-      "url": "https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 179413,
       "name": "High Road (feat. Jessie Murph)",
       "url": "https://open.spotify.com/track/1FhgmMvNlh3nJ1Ldc2eE6H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Excuse The Mess",
+        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "That's Why We Fight (feat. Koe Wetzel)",
+      "url": "https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg"
     },
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 204352,
-      "name": "Something to Talk About",
-      "url": "https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 173269,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/3dzRwqd1L3HqxmViUJt20A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 204352,
+      "name": "Something to Talk About",
+      "url": "https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 233685,
-      "name": "February 28, 2016",
-      "url": "https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/4w6qmr3nn6fJQPUpbnfouc"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 188885,
       "name": "Surrounded",
       "url": "https://open.spotify.com/track/2Al9P5vRKol3YoqDIjWLwH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 233685,
+      "name": "February 28, 2016",
+      "url": "https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 240265,
-      "name": "Fuss and Fight",
-      "url": "https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Austin",
         "url": "https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 274716,
       "name": "Austin",
       "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 240265,
+      "name": "Fuss and Fight",
+      "url": "https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
+        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 146657,
+      "name": "College",
+      "url": "https://open.spotify.com/track/5J2YeOcma7rxH2cas57Tsy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 223062,
       "name": "Love (feat. Parker McCollum)",
       "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
-        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 146657,
-      "name": "College",
-      "url": "https://open.spotify.com/track/5J2YeOcma7rxH2cas57Tsy"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 241972,
-      "name": "Kuntry & Wistern",
-      "url": "https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
         "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 243152,
       "name": "GTFO",
       "url": "https://open.spotify.com/track/69yFW3GkClGTCXdOrZ8cSl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 241972,
+      "name": "Kuntry & Wistern",
+      "url": "https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 198313,
-      "name": "Cold & Alone",
-      "url": "https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
         "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 287926,
       "name": "Lonesome Dove",
       "url": "https://open.spotify.com/track/6owKFz2r0DDseMD2Os26l9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 198313,
+      "name": "Cold & Alone",
+      "url": "https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Oklahoma Sun",
-      "url": "https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
         "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 239193,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/2gAcxlvwhyHDxnKLBbWXAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Oklahoma Sun",
+      "url": "https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 260664,
-      "name": "FGA",
-      "url": "https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
         "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 267715,
       "name": "Sweet Texas Strange",
       "url": "https://open.spotify.com/track/2eMDLqUwfIKwYpamHAzgEe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 260664,
+      "name": "FGA",
+      "url": "https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 306057,
-      "name": "YellaBush Road",
-      "url": "https://open.spotify.com/track/31gBArPt7AgI5zNzCbX1DW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 194621,
       "name": "Casamigos",
       "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 306057,
+      "name": "YellaBush Road",
+      "url": "https://open.spotify.com/track/31gBArPt7AgI5zNzCbX1DW"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sellout",
         "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 232326,
       "name": "Sundy or Mundy",
       "url": "https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "Money Spent",
-      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Six String Sorrow Sessions",
         "url": "https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 288128,
       "name": "Gunshy - Rerecorded",
       "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
     }
   ],
   "unique_name": "This Is Koe Wetzel",

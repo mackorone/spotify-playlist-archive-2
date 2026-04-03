@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Black Sherif",
+  "description": "Hottest bars coming live from the 233.  Cover: Bhadmayors",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -2794,7 +2794,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 158876,
       "name": "Birkin",
       "url": "https://open.spotify.com/track/2Zke4QkjzbvFZISq4mPgBh"
@@ -4690,6 +4690,24 @@
       "duration_ms": 184000,
       "name": "Do Mi Saa",
       "url": "https://open.spotify.com/track/38Kbh3Bp0DYKHqrFXYuvLf"
+    },
+    {
+      "album": {
+        "name": "Do My Best",
+        "url": "https://open.spotify.com/album/1Xr9Bzi3mVelSKzzbT0BAR"
+      },
+      "artists": [
+        {
+          "name": "Sean Lifer",
+          "url": "https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159589,
+      "name": "Do My Best",
+      "url": "https://open.spotify.com/track/2H8PzL5YLaUyTNxtjqlt6F"
     },
     {
       "album": {
@@ -6930,7 +6948,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 163000,
       "name": "Gated Community",
       "url": "https://open.spotify.com/track/459tlRYmJbqHJW0aqFtnNp"
@@ -8004,6 +8022,32 @@
       "duration_ms": 500310,
       "name": "Hennessy Cypher",
       "url": "https://open.spotify.com/track/4Pk8OqjfAwDnYS6kD7RlRa"
+    },
+    {
+      "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/0YQuxrOyneDdFN5NcK0DFa"
+      },
+      "artists": [
+        {
+          "name": "Halfco Baby",
+          "url": "https://open.spotify.com/artist/5Z1tk0XItnDFfbknQ6bF9U"
+        },
+        {
+          "name": "Moor Sound",
+          "url": "https://open.spotify.com/artist/3n5yjt02sJrVGF3mPfEUh4"
+        },
+        {
+          "name": "Slim Drumz",
+          "url": "https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134399,
+      "name": "Higher Place",
+      "url": "https://open.spotify.com/track/6koQEuARnaW5l3lvhx3mZs"
     },
     {
       "album": {
@@ -14760,7 +14804,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 126545,
       "name": "Save Your Soul",
       "url": "https://open.spotify.com/track/41EHgT0K5DKVMem0uRl249"
@@ -17010,7 +17054,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 214524,
       "name": "TNT",
       "url": "https://open.spotify.com/track/4k9nLxc8QRGKjo5cEfYAbq"
@@ -17256,6 +17300,24 @@
       "duration_ms": 122668,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv"
+    },
+    {
+      "album": {
+        "name": "Pain Made Us",
+        "url": "https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y"
+      },
+      "artists": [
+        {
+          "name": "BHADMAYORS",
+          "url": "https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy"
     },
     {
       "album": {
@@ -17700,6 +17762,24 @@
       "duration_ms": 137848,
       "name": "Virgin",
       "url": "https://open.spotify.com/track/2PA1H6OkeKlz1PE7M3Wzcj"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/3TIkFCdYozvbay67Ripiha"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125784,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/7EoAz17odE257JEOhbHSfq"
     },
     {
       "album": {
@@ -18174,6 +18254,28 @@
       "duration_ms": 190000,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/5HqJICWJomytoiIFnAsw0A"
+    },
+    {
+      "album": {
+        "name": "What\u2019s Up",
+        "url": "https://open.spotify.com/album/1xLRummsukXMPldYeAIVZB"
+      },
+      "artists": [
+        {
+          "name": "DJ K.O",
+          "url": "https://open.spotify.com/artist/7yjvFR5JVrthgdUy0Vb0yF"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "What\u2019s Up",
+      "url": "https://open.spotify.com/track/14majQVTXSpC2HthtSWd2y"
     },
     {
       "album": {
@@ -18680,7 +18782,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 195027,
       "name": "Wura",
       "url": "https://open.spotify.com/track/3k2460qzwd0ArtDOIoN5ik"

@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59891,
+  "num_followers": 59896,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA0ubpGNMY2GC2mkq5HNEOSh4Bt8yuJ",
+  "snapshot_id": "AAA0u3x6Rf/bmiDzfjqe7RcH952d8Xcm",
   "tracks": [
     {
       "added_at": "2026-03-28 09:51:22",
@@ -267,6 +267,54 @@
       "duration_ms": 151640,
       "name": "Fade",
       "url": "https://open.spotify.com/track/3ZJqedtdlKFJ7YSsb4CU0t"
+    },
+    {
+      "added_at": "2026-03-28 09:51:22",
+      "album": {
+        "name": "Runoff",
+        "url": "https://open.spotify.com/album/4EGptdTTaevi5RLfoZ556o"
+      },
+      "artists": [
+        {
+          "name": "Otracami",
+          "url": "https://open.spotify.com/artist/6VZhV0nHzh64xErbe4OHZs"
+        }
+      ],
+      "duration_ms": 274516,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/4PdeHME3Fo91sE39hRjP4Y"
+    },
+    {
+      "added_at": "2026-03-28 09:51:22",
+      "album": {
+        "name": "Trucks",
+        "url": "https://open.spotify.com/album/4maNzBo4X0yaDEVYlgVgOh"
+      },
+      "artists": [
+        {
+          "name": "blue diner.",
+          "url": "https://open.spotify.com/artist/7507iWsMThB2CBFkRqtI2E"
+        }
+      ],
+      "duration_ms": 189269,
+      "name": "Trucks",
+      "url": "https://open.spotify.com/track/2SarUJQqnib3jMb0i2a3ZM"
+    },
+    {
+      "added_at": "2026-03-28 09:51:22",
+      "album": {
+        "name": "Can i Be Electric?",
+        "url": "https://open.spotify.com/album/4PbYVPSYZPPXhR9q96T8Tv"
+      },
+      "artists": [
+        {
+          "name": "Mashenka",
+          "url": "https://open.spotify.com/artist/3AGuytZ9jB4b6XDXt8EPQk"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Can i Be Electric?",
+      "url": "https://open.spotify.com/track/2F3S6eNClOcEpS7pY3XU84"
     },
     {
       "added_at": "2026-03-28 09:51:22",
@@ -767,22 +815,6 @@
     {
       "added_at": "2026-03-28 09:51:22",
       "album": {
-        "name": "Runoff",
-        "url": "https://open.spotify.com/album/4EGptdTTaevi5RLfoZ556o"
-      },
-      "artists": [
-        {
-          "name": "Otracami",
-          "url": "https://open.spotify.com/artist/6VZhV0nHzh64xErbe4OHZs"
-        }
-      ],
-      "duration_ms": 274516,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/4PdeHME3Fo91sE39hRjP4Y"
-    },
-    {
-      "added_at": "2026-03-28 09:51:22",
-      "album": {
         "name": "Destroy",
         "url": "https://open.spotify.com/album/7fROoPg5RmznXHexxS3jqR"
       },
@@ -795,38 +827,6 @@
       "duration_ms": 147590,
       "name": "Destroy",
       "url": "https://open.spotify.com/track/5rYxTbY0SrhadPdMeG9vpx"
-    },
-    {
-      "added_at": "2026-03-28 09:51:22",
-      "album": {
-        "name": "Trucks",
-        "url": "https://open.spotify.com/album/4maNzBo4X0yaDEVYlgVgOh"
-      },
-      "artists": [
-        {
-          "name": "blue diner.",
-          "url": "https://open.spotify.com/artist/7507iWsMThB2CBFkRqtI2E"
-        }
-      ],
-      "duration_ms": 189269,
-      "name": "Trucks",
-      "url": "https://open.spotify.com/track/2SarUJQqnib3jMb0i2a3ZM"
-    },
-    {
-      "added_at": "2026-03-28 09:51:22",
-      "album": {
-        "name": "Can i Be Electric?",
-        "url": "https://open.spotify.com/album/4PbYVPSYZPPXhR9q96T8Tv"
-      },
-      "artists": [
-        {
-          "name": "Mashenka",
-          "url": "https://open.spotify.com/artist/3AGuytZ9jB4b6XDXt8EPQk"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "Can i Be Electric?",
-      "url": "https://open.spotify.com/track/2F3S6eNClOcEpS7pY3XU84"
     },
     {
       "added_at": "2026-03-28 09:51:22",

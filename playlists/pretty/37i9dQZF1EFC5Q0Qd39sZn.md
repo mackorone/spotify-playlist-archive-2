@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,464 likes - 581 songs - 1 day 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,467 likes - 581 songs - 1 day 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 116 | [I'll Be](https://open.spotify.com/track/66ZBkOR0Q2bQEM42Pbj7hQ) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [So Good Together](https://open.spotify.com/album/3MIT6r0IA688BmmtV8USfD) | 4:28 |
 | 117 | [Now That I Found You](https://open.spotify.com/track/1M5sHKA3KvHHhSttsYhWMP) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:32 |
 | 118 | [The Time Alone With You](https://open.spotify.com/track/4qVzqyB11x7Rsk2hAs5dgj) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [BACKLASH](https://open.spotify.com/album/0AoG5TUFJKiWG8JNhOTIw0) | 4:40 |
-| 119 | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/track/27dYgu9SoZY5t3EzC2hSue) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/album/5OYTmotVhUzSxheuRa6CrV) | 3:53 |
-| 120 | [When Your Eyes Say It](https://open.spotify.com/track/30hSG0Is8yOGkFQtF20Lxu) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 4:29 |
+| 119 | [When Your Eyes Say It](https://open.spotify.com/track/30hSG0Is8yOGkFQtF20Lxu) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 4:29 |
+| 120 | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/track/27dYgu9SoZY5t3EzC2hSue) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/album/5OYTmotVhUzSxheuRa6CrV) | 3:53 |
 | 121 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 |
 | 122 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
 | 123 | [A Estrela Que Mais Brilhar](https://open.spotify.com/track/20d64OB5wgNTkb19x8PyWj) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:22 |
@@ -545,8 +545,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 535 | [Care Too Much](https://open.spotify.com/track/6cXFkHT00hrPD3dVfPCW9g) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [3rd Base](https://open.spotify.com/album/1BF6nTLmsnDY3gIdnMjAwz) | 4:08 |
 | 536 | [I Know What's Good for You](https://open.spotify.com/track/6v0kYD1OtpqAxRNuQQgjS0) | [Amy Keys](https://open.spotify.com/artist/2K1iGjjn5wjpOHhpeU9Cy0) | [Lover's Intuition](https://open.spotify.com/album/5ZmIfeKLj8AE45i0JELGog) | 5:02 |
 | 537 | [Break](https://open.spotify.com/track/4s5LJh2Rkmi66GWeZm0cOx) | [Due Voci](https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO) | [Due Voci](https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz) | 4:52 |
-| 538 | [Would I Know](https://open.spotify.com/track/73ejE2UWxwhLT2zmjSvdBX) | [Due Voci](https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO) | [Due Voci](https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz) | 3:48 |
-| 539 | [Can't Get You out of My Heart](https://open.spotify.com/track/48OlQtp5Xlq0e76r4ZoG57) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:23 |
+| 538 | [Can't Get You out of My Heart](https://open.spotify.com/track/48OlQtp5Xlq0e76r4ZoG57) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:23 |
+| 539 | [Would I Know](https://open.spotify.com/track/73ejE2UWxwhLT2zmjSvdBX) | [Due Voci](https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO) | [Due Voci](https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz) | 3:48 |
 | 540 | [No Known Cure](https://open.spotify.com/track/7ahbAPouPlckdehl0ilTy4) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Yours Fatally](https://open.spotify.com/album/7dQkn95399PE46yHU2f0Nv) | 3:32 |
 | 541 | [Busco Señales Divinas](https://open.spotify.com/track/0431RfAmQ22MgBoKxfzgAJ) | [Ainhoa](https://open.spotify.com/artist/1dhhcNPTwfTrCjfUsrGK3C) | [Esencia Natural](https://open.spotify.com/album/5REUSLyEftpbSsyynmr6H0) | 4:04 |
 | 542 | [Till Somebody Loves You](https://open.spotify.com/track/3j1AJQSbFp6oDYWo79w9cK) | [Henry Lee Summer](https://open.spotify.com/artist/7wtiiuXdnWtATBrAxU9fnQ) | [Way Past Midnight](https://open.spotify.com/album/3THWD4bmH97uCn9TyzBShB) | 3:35 |
@@ -590,4 +590,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 580 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 581 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcNuSgAAAACs2GA3dGx5wqLNxaYBOOXT`
+Snapshot ID: `AcNz6gAAAAC8C8/xo+VSpW6WbhiwdcJ1`

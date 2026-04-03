@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Blaame",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Requin Chagrin",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 143906,
       "name": "COPINES?",
       "url": "https://open.spotify.com/track/6USaIObsBoczO9pEFj2rO5"
@@ -1820,6 +1820,24 @@
       "duration_ms": 239720,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/62YSJXvarbaTjC6S7jHzl0"
+    },
+    {
+      "album": {
+        "name": "Dehors",
+        "url": "https://open.spotify.com/album/2QZ9bx5LbLuigdWmqDriDD"
+      },
+      "artists": [
+        {
+          "name": "Simia",
+          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187489,
+      "name": "Dehors",
+      "url": "https://open.spotify.com/track/6DejXIhazPkCU91fisHZ4M"
     },
     {
       "album": {
@@ -5294,7 +5312,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 177893,
       "name": "Nightclub",
       "url": "https://open.spotify.com/track/28W16x4pZhK9uQ9zPSqD7Q"
@@ -6808,6 +6826,24 @@
       "duration_ms": 111978,
       "name": "Shrek Is a Lesbian",
       "url": "https://open.spotify.com/track/5XLswkqDgMtht0KP5QKfUm"
+    },
+    {
+      "album": {
+        "name": "Si Dieu fume",
+        "url": "https://open.spotify.com/album/7HBG0e1B8BIsJZb5YrTPuG"
+      },
+      "artists": [
+        {
+          "name": "Zed Yun Pavarotti",
+          "url": "https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203965,
+      "name": "Si Dieu fume",
+      "url": "https://open.spotify.com/track/2ySvyDNdXGsxC0HDmSkMd7"
     },
     {
       "album": {

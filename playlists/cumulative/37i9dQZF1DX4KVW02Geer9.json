@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Tom Misch",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Thundercat",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -1331,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "Brothers (Beno Edit / Remix)",
+        "url": "https://open.spotify.com/album/3C6zrsChN1Y6rxm0sp9jeR"
+      },
+      "artists": [
+        {
+          "name": "Sefi Zisling",
+          "url": "https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H"
+        },
+        {
+          "name": "Beno",
+          "url": "https://open.spotify.com/artist/4343BaI3YR26WY8ed5FiY6"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276011,
+      "name": "Brothers - Beno Remix",
+      "url": "https://open.spotify.com/track/4eMJJy7CcgwaSz8PGj01nG"
+    },
+    {
+      "album": {
         "name": "C.R.E.A.M. (CASH RULES EVERYTHING AROUND ME)",
         "url": "https://open.spotify.com/album/4Ze0FHhMNSsEGFlxZEF4Tz"
       },
@@ -2506,7 +2528,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 323076,
       "name": "Don't Take My Lover Away",
       "url": "https://open.spotify.com/track/3fKmOOqhIF7M9nU4mqe1yV"
@@ -3275,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Foolsong",
+        "url": "https://open.spotify.com/album/01DXz6Y1a1TxfSMdLWEBUt"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198985,
+      "name": "Foolsong",
+      "url": "https://open.spotify.com/track/78vBRjXSmbJDGvnGsRGuuu"
+    },
+    {
+      "album": {
         "name": "Found A Light (Beale Street)",
         "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
       },
@@ -3460,6 +3500,28 @@
       "duration_ms": 199381,
       "name": "Full Speed",
       "url": "https://open.spotify.com/track/0ZcN9Vx5j4exYEyAlThwKa"
+    },
+    {
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
     },
     {
       "album": {
@@ -4142,7 +4204,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
@@ -7018,7 +7080,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 201869,
       "name": "Once I Say",
       "url": "https://open.spotify.com/track/4nPXIVzRK8ov667r7O7Rrr"
@@ -8070,7 +8132,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 213106,
       "name": "She Knows Too Much",
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
@@ -8446,7 +8508,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 215675,
       "name": "SS",
       "url": "https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw"
@@ -8654,7 +8716,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 172661,
       "name": "Surfliner",
       "url": "https://open.spotify.com/track/0Xpvv39FiFal42G3m5dgf5"
@@ -8684,6 +8746,28 @@
       "duration_ms": 216373,
       "name": "Survivors Guilt",
       "url": "https://open.spotify.com/track/6jHuphZVA3IYEGwZHNkiRE"
+    },
+    {
+      "album": {
+        "name": "In A Space Outta Dub",
+        "url": "https://open.spotify.com/album/2oZbenjXnLxd1GNp3eTzgD"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        },
+        {
+          "name": "Adrian Sherwood",
+          "url": "https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312693,
+      "name": "Sweeter Still",
+      "url": "https://open.spotify.com/track/4z3h9SgaDQ2AMeFIdFU613"
     },
     {
       "album": {
@@ -8976,6 +9060,24 @@
       "duration_ms": 192047,
       "name": "Tear It Off",
       "url": "https://open.spotify.com/track/2cF9Pd6p2jcrQN0bv3P3oC"
+    },
+    {
+      "album": {
+        "name": "Terra Ignota",
+        "url": "https://open.spotify.com/album/1brEAg2M3TIkZCTxqm8xrR"
+      },
+      "artists": [
+        {
+          "name": "Krakatau",
+          "url": "https://open.spotify.com/artist/7H9cgiR2zQWXNxZjPd3Vyk"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508500,
+      "name": "Terra Ignota",
+      "url": "https://open.spotify.com/track/5B24SUBDr4dL8gDEkSZWPO"
     },
     {
       "album": {
@@ -9522,7 +9624,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 341066,
       "name": "Traffic Lights (feat. Thom Yorke)",
       "url": "https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K"
@@ -9744,7 +9846,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 120628,
       "name": "Uncomfortable Pivot",
       "url": "https://open.spotify.com/track/1a381XvewzDomUYdPF9fox"
@@ -10128,6 +10230,28 @@
       "duration_ms": 207533,
       "name": "Waterscape",
       "url": "https://open.spotify.com/track/5EzbxbknclMlwNVJlCVY9w"
+    },
+    {
+      "album": {
+        "name": "WAVE8 (feat. Ole)",
+        "url": "https://open.spotify.com/album/4BgZVJEoDwHgqBmbKRfY7v"
+      },
+      "artists": [
+        {
+          "name": "ISAFAT",
+          "url": "https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt"
+        },
+        {
+          "name": "Ole",
+          "url": "https://open.spotify.com/artist/7m9yK07LzbtyQCfhtNkUEd"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202001,
+      "name": "WAVE8 (feat. Ole)",
+      "url": "https://open.spotify.com/track/6uOYOzfuG7KyWcjrid3r4j"
     },
     {
       "album": {
@@ -10588,7 +10712,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 134198,
       "name": "Wonderful Thing",
       "url": "https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: RnBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,758 likes - 74 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,774 likes - 74 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 8 | [Tu vis, t'apprends](https://open.spotify.com/track/6ybtjbboDQn9iAUtaa1AR0) | [Richie Beats](https://open.spotify.com/artist/2wYp4hDPC6rDgn3SCvgqpB), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Tu vis, t'apprends](https://open.spotify.com/album/3fX6SeVM0H6B9LBr8PpxhY) | 2:39 |
 | 9 | [Riposter](https://open.spotify.com/track/0YdZPzbKtkQtTTe79UmdO9) | [Seth Gueko](https://open.spotify.com/artist/5SZayIKDZvxXaJrxLfnIRN), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Riposter](https://open.spotify.com/album/4YgtClQVKEljfCfxZkKKO9) | 2:51 |
 | 10 | [RFD](https://open.spotify.com/track/5vBMjRxBaSHUI6tKE4wXg8) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [RFD](https://open.spotify.com/album/33D7ADHkWncZq0h2mAFqCh) | 2:52 |
-| 11 | [Ronnie Kray](https://open.spotify.com/track/3v0SxUb7KgiR65hKRQW1ak) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Ronnie Kray](https://open.spotify.com/album/4KgE0uYQDDCYEpWiL8eL5f) | 3:47 |
+| 11 | [Ronnie Kray](https://open.spotify.com/track/3v0SxUb7KgiR65hKRQW1ak) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Ronnie Kray](https://open.spotify.com/album/4KgE0uYQDDCYEpWiL8eL5f) | 3:46 |
 | 12 | [Shawty](https://open.spotify.com/track/3nkVSeaL5M6II2uHQHRuYM) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Shawty](https://open.spotify.com/album/1BOcfpzanvhwblouD5Fa3m) | 2:57 |
 | 13 | [BOHÈME](https://open.spotify.com/track/2GObLHNW4Dq1jioI4LCnEG) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [BOHÈME](https://open.spotify.com/album/0wnWO9EOzcUDJp3jYOPjkN) | 3:26 |
 | 14 | [Tranchées](https://open.spotify.com/track/4ojWmrrprVbyVU2zc7lOqf) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Dieu Donne, J'utilise part.2](https://open.spotify.com/album/6vA5LeB2ybi78YZpqhg1yN) | 3:00 |

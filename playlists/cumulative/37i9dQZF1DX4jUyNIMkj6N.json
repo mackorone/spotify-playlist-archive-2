@@ -846,7 +846,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 213115,
       "name": "Beautiful Woman",
       "url": "https://open.spotify.com/track/6q7Q8j4oso0rMmJj7xtCzV"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 202720,
       "name": "Break Things",
       "url": "https://open.spotify.com/track/1GgFAaCWCPcENXLJMhepOj"
@@ -1396,6 +1396,24 @@
       "duration_ms": 279757,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/4WGfbOXbDMj5ugvmJ38irE"
+    },
+    {
+      "album": {
+        "name": "Closet Drama",
+        "url": "https://open.spotify.com/album/6QXsZ624HLJ1gZveg36f7W"
+      },
+      "artists": [
+        {
+          "name": "Embla and the Karidotters",
+          "url": "https://open.spotify.com/artist/1n3qjPEPKXcQjHVwlfcagR"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252866,
+      "name": "Closet Drama",
+      "url": "https://open.spotify.com/track/0CkLgc4JkKxowkBCg3SL8H"
     },
     {
       "album": {
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 174986,
       "name": "Efiga",
       "url": "https://open.spotify.com/track/6Fz2QyQbSMeqlHxIeQSEHW"
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 207186,
       "name": "Faster",
       "url": "https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74"
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 235392,
       "name": "I Let the Good Ones Go",
       "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
@@ -4420,6 +4438,24 @@
       "duration_ms": 203373,
       "name": "Nights Like These",
       "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+    },
+    {
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/4FFPLBRqTbPJiE9btO3sJe"
+      },
+      "artists": [
+        {
+          "name": "Freyr",
+          "url": "https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224130,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/7jIpbeX9pgpxDF8AlDoxXl"
     },
     {
       "album": {
@@ -7104,7 +7140,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"

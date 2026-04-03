@@ -4,7 +4,7 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: WOODZ\)
 
-348 songs - 22 hr 42 min
+349 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [The Snowman](https://open.spotify.com/track/6PeZIUwTsJGshizDi61wbe) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [The Snowman](https://open.spotify.com/album/0agY1C6NrdlTu2hkB1l7x0) | 3:56 | 2026-01-14 |  |
 | [The Way To Say Goodbye](https://open.spotify.com/track/70a9hCn5BMXNDROcckHmAO) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [The Way To Say Goodbye](https://open.spotify.com/album/123HZKvdhxbDBSkRgWYCHz) | 5:07 | 2022-02-17 |  |
 | [The Way To Say Goodbye](https://open.spotify.com/track/1xlCcSVgFufo88sfkKarhk) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [The Way To Say Goodbye](https://open.spotify.com/album/01XwXakosDXoyR4FuTlkm3) | 5:07 | 2025-10-21 |  |
+| [TICK TOCK \(Feat\. ZICO\) \(Prod\. by ZICO, Crush\)](https://open.spotify.com/track/3m08yeqLjXsqblRU3KXPAp) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW), [Jung Junhyuk](https://open.spotify.com/artist/3AfvvgMrTONEdoXOfWrBoS), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Show Me The Money 12 Episode 1](https://open.spotify.com/album/67ieVVFQxypYAvx3FirGoG) | 3:50 | 2026-04-03 |  |
 | [Time of Our Life](https://open.spotify.com/track/0btLaqWlXsOWLcpjE1jmIk) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/3gTiTx97I9WtlvWOLnPETW) | 3:25 | 2024-04-02 |  |
 | [Timeless](https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [SG Wanna Be＋](https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs) | 3:57 | 2022-02-17 |  |
 | [To live](https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [To live](https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx) | 3:51 | 2025-02-14 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 500904,
+  "num_followers": 500936,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Somebody's Pleasure",
-        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
-      },
-      "artists": [
-        {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        }
-      ],
-      "duration_ms": 223957,
-      "name": "Somebody's Pleasure",
-      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 283311,
       "name": "That Somebody",
       "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Somebody's Pleasure",
+        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "duration_ms": 223957,
+      "name": "Somebody's Pleasure",
+      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "The Special One",
-        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
-      },
-      "artists": [
-        {
-          "name": "Yovie & Nuno",
-          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Dia Milikku",
-      "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Rumah",
         "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Lesung Pipi",
-        "url": "https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG"
+        "name": "The Special One",
+        "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
       },
       "artists": [
         {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
         }
       ],
-      "duration_ms": 225153,
-      "name": "Lesung Pipi",
-      "url": "https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp"
+      "duration_ms": 211933,
+      "name": "Dia Milikku",
+      "url": "https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -643,6 +627,22 @@
       "duration_ms": 240493,
       "name": "Sewindu",
       "url": "https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Lesung Pipi",
+        "url": "https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "duration_ms": 225153,
+      "name": "Lesung Pipi",
+      "url": "https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Seamin Tak Seiman",
-        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
-      },
-      "artists": [
-        {
-          "name": "Mahen",
-          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "Seamin Tak Seiman",
-      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Tulus",
         "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Keajaiban",
-        "url": "https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j"
+        "name": "Seamin Tak Seiman",
+        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
       },
       "artists": [
         {
-          "name": "Reza Artamevia",
-          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
         }
       ],
-      "duration_ms": 325973,
-      "name": "Satu Yang Tak Bisa Lepas",
-      "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"
+      "duration_ms": 216448,
+      "name": "Seamin Tak Seiman",
+      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -767,6 +751,22 @@
       "duration_ms": 132762,
       "name": "Walking Back Home",
       "url": "https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Keajaiban",
+        "url": "https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j"
+      },
+      "artists": [
+        {
+          "name": "Reza Artamevia",
+          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+        }
+      ],
+      "duration_ms": 325973,
+      "name": "Satu Yang Tak Bisa Lepas",
+      "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Bunga Abadi",
-        "url": "https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx"
+        "name": "Renung Resah",
+        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
       },
       "artists": [
         {
-          "name": "Rio Clappy",
-          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
         }
       ],
-      "duration_ms": 243038,
-      "name": "Bunga Abadi",
-      "url": "https://open.spotify.com/track/70Wtp9jCA3ZhGAxV0pnwS7"
+      "duration_ms": 222000,
+      "name": "Itu Aku",
+      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Renung Resah",
-        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
+        "name": "Bunga Abadi",
+        "url": "https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx"
       },
       "artists": [
         {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+          "name": "Rio Clappy",
+          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Itu Aku",
-      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
+      "duration_ms": 243038,
+      "name": "Bunga Abadi",
+      "url": "https://open.spotify.com/track/70Wtp9jCA3ZhGAxV0pnwS7"
     },
     {
       "added_at": "2026-02-27 14:15:43",

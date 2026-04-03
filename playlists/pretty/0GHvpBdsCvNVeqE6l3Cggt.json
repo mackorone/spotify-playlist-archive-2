@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAkIBq5cTEGyEXRKf0ZhzN0wrxadaJ9",
+  "snapshot_id": "AAAkIaiTsFIYGRVQQZKwe4+pUESB8Ax2",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -731,6 +731,22 @@
       "duration_ms": 195554,
       "name": "People's Game - Riky Dainesi Remix",
       "url": "https://open.spotify.com/track/3cM78eVwhptGKn4fZYJzaC"
+    },
+    {
+      "added_at": "2026-04-02 07:33:07",
+      "album": {
+        "name": "Not There",
+        "url": "https://open.spotify.com/album/2OpqAFx1fBVA2Ap2SBoXkR"
+      },
+      "artists": [
+        {
+          "name": "blanket season",
+          "url": "https://open.spotify.com/artist/6MkM0uop587AXtnDFsQJMC"
+        }
+      ],
+      "duration_ms": 184559,
+      "name": "Not There",
+      "url": "https://open.spotify.com/track/5qu1ZbZglE1eEpketsdNCL"
     }
   ],
   "unique_name": "Alternative Pop Archive",

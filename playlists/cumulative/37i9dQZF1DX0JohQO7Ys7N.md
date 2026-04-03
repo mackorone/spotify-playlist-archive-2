@@ -2,12 +2,13 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Wendy Kay
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Bridget Blue
 
-316 songs - 17 hr 52 min
+318 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [9 to 5](https://open.spotify.com/track/7MCcXsGunhdXUyMf1jsnuk) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 2:51 | 2026-04-02 |  |
 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 | 2023-01-12 | 2023-10-27 |
 | [Afraid, Pt\. 2 \- feat\. Xenia Manasseh](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2 \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 | 2025-03-14 | 2025-11-07 |
 | [Aheri](https://open.spotify.com/track/5vEmN5ml5878eDF1vJI1Uc) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Kuwe](https://open.spotify.com/album/0xV4Zm2IC2b9uNh4r0avUY) | 4:35 | 2021-12-28 | 2023-11-25 |
@@ -51,7 +52,7 @@
 | [Dear Irene](https://open.spotify.com/track/1ZkB1206T0Thw3VRxXrg2y) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Genge Soul](https://open.spotify.com/album/17Mcjhdk3I8T20i6qwW2ad) | 3:43 | 2026-03-05 |  |
 | [DEATH DO US PART](https://open.spotify.com/track/6ptCZtRoGTKHxHtoaUnB3P) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [DEATH DO US PART](https://open.spotify.com/album/6Cov4kqIcPwIHhpDfZWD3a) | 3:42 | 2025-08-14 |  |
 | [Decide](https://open.spotify.com/track/2KgzIprRCaUMG28E9k9yFo) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Four Letter Word](https://open.spotify.com/album/14RN20kRB6ZYdfJZgyUMbF) | 3:05 | 2025-02-13 | 2025-02-21 |
-| [Deja](https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Deja](https://open.spotify.com/album/5Wx3w6fhKT9sxwLxEyZbT1) | 2:35 | 2024-10-10 |  |
+| [Deja](https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Deja](https://open.spotify.com/album/5Wx3w6fhKT9sxwLxEyZbT1) | 2:35 | 2024-10-10 | 2026-04-03 |
 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2023-12-15 | 2024-09-20 |
 | [Different](https://open.spotify.com/track/1rh9ejTFlDxhfcrGftrJXz) | [Hiribae](https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3), [Tugi](https://open.spotify.com/artist/66RQGuKdIdvRrU3vxIfbc5) | [Different](https://open.spotify.com/album/1trH6Lu0maC1H9e0UBkQx8) | 3:31 | 2022-10-27 | 2023-08-18 |
 | [Digestive's Interlude](https://open.spotify.com/track/4HtPQfPIefNlbD1tS8vln7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Digestive's Interlude](https://open.spotify.com/album/58e3kFKcmQ2eiHiOlJeKV6) | 1:37 | 2024-10-17 | 2025-07-04 |
@@ -72,6 +73,7 @@
 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-09-26 | 2025-05-09 |
 | [Fantasy](https://open.spotify.com/track/398tdFtkVxkekbMCU0kMti) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:30 | 2022-05-26 | 2022-07-01 |
 | [Far](https://open.spotify.com/track/6xAWN1hyeU6rugPzEDp7dp) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [YAH LISTEN](https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc) | [Far](https://open.spotify.com/album/2YS1JKm6Go4LOLQgcMdG13) | 3:22 | 2026-02-20 |  |
+| [Favorite](https://open.spotify.com/track/4Aw9OJJDJFCbVlVBAb0EdM) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Favorite](https://open.spotify.com/album/7LcNdnjDCwb9SLjDxi2FPP) | 4:19 | 2026-04-02 |  |
 | [Feel](https://open.spotify.com/track/5J1xo1NeFeSNgxtXajRBZL) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:01 | 2024-04-25 | 2026-02-06 |
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-03-03 | 2022-07-23 |
 | [Feel My Love](https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:57 | 2025-02-13 | 2025-02-21 |
@@ -277,7 +279,7 @@
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2021-12-28 | 2025-02-21 |
 | [Sunshine State of Mind](https://open.spotify.com/track/2er73rABGL9TYoAkhyupMk) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Lia April](https://open.spotify.com/artist/4zduBC59YxJ3rRjz2E9x6F) | [Sunshine State of Mind](https://open.spotify.com/album/7oENnLSMaD5MLj1TG4bJh3) | 3:16 | 2023-05-18 | 2023-07-08 |
 | [Sweetest Time](https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Sweetest Time](https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW) | 2:34 | 2025-03-28 |  |
-| [Swim](https://open.spotify.com/track/0IgoWhyc7cNawpafMJpQ0u) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Swim](https://open.spotify.com/album/4y4ziiOeTnCtd8ysaJ6ABH) | 5:35 | 2025-01-09 |  |
+| [Swim](https://open.spotify.com/track/0IgoWhyc7cNawpafMJpQ0u) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Swim](https://open.spotify.com/album/4y4ziiOeTnCtd8ysaJ6ABH) | 5:35 | 2025-01-09 | 2026-04-03 |
 | [Switch It Up](https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y) | [Antoneosoul](https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T) | [Welcome 2 My Soul](https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ) | 4:32 | 2022-06-16 | 2023-02-24 |
 | [Tabasamu](https://open.spotify.com/track/6khmE0goGUcvJ1IsOn11d2) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Tabasamu](https://open.spotify.com/album/0RLjwJr8hyK9ar4FTLfuQ5) | 3:28 | 2026-02-20 |  |
 | [Take It](https://open.spotify.com/track/60BmYE0G5451D7LwIqO7md) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Take It](https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn) | 2:30 | 2024-06-13 | 2025-02-14 |

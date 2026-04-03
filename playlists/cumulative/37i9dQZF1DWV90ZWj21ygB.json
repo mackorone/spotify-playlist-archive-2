@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 160603,
       "name": "Atlantic Night Waves",
       "url": "https://open.spotify.com/track/4kOY2xfpY5LlNDvNhmkz2g"
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Atlantic Sunrise XXII",
+        "url": "https://open.spotify.com/album/31xHCc1QWffRKIRbKOGdTs"
+      },
+      "artists": [
+        {
+          "name": "Broadsand",
+          "url": "https://open.spotify.com/artist/2oZ8sTbWytiKHRBSGcajWv"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151619,
+      "name": "Atlantic Sunrise XXII",
+      "url": "https://open.spotify.com/track/1FK1lKjXzaWkETOINnGOoJ"
+    },
+    {
+      "album": {
         "name": "Atlantic Waves",
         "url": "https://open.spotify.com/album/5XiJuA5yautJlZ3J0wrhK1"
       },
@@ -293,6 +311,24 @@
     },
     {
       "album": {
+        "name": "away adrift (nature)",
+        "url": "https://open.spotify.com/album/7sNom6GJ1acTyCEW3ncZXF"
+      },
+      "artists": [
+        {
+          "name": "warmest depths",
+          "url": "https://open.spotify.com/artist/1akeT46w4la2HMfty7dh4W"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "away adrift (nature)",
+      "url": "https://open.spotify.com/track/7FffgNpdeg9Ai9wdUOS6WC"
+    },
+    {
+      "album": {
         "name": "Coastal Clifftop Waves",
         "url": "https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj"
       },
@@ -344,6 +380,24 @@
       "duration_ms": 148483,
       "name": "Beach Calmness",
       "url": "https://open.spotify.com/track/1PZoHdDM71mzOFW1T6H03y"
+    },
+    {
+      "album": {
+        "name": "Green Noise",
+        "url": "https://open.spotify.com/album/0RLetTHxUoLbPcADh9Ogxp"
+      },
+      "artists": [
+        {
+          "name": "Vallis Aura",
+          "url": "https://open.spotify.com/artist/3QDsgZyyuvrvJ1HxdOsf7Q"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110326,
+      "name": "Beach Side Waves",
+      "url": "https://open.spotify.com/track/3mkSyuH8oEGJFZVZeXmvaO"
     },
     {
       "album": {
@@ -466,7 +520,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 168535,
       "name": "Big Waves Rolling In",
       "url": "https://open.spotify.com/track/6fYnju6yqwdkv6hYTg1VqG"
@@ -538,7 +592,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 184000,
       "name": "Brain Waves Ocean Sounds",
       "url": "https://open.spotify.com/track/46pmGWrth04JCva2F0yMDR"
@@ -556,7 +610,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 150000,
       "name": "Brain Waves Ocean Sounds 2",
       "url": "https://open.spotify.com/track/7xa0f1u6PD4pVqTLw07hNR"
@@ -592,7 +646,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 180777,
       "name": "Calm Pouring Ocean",
       "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
@@ -610,7 +664,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 138762,
       "name": "Calm Waves pt. 3",
       "url": "https://open.spotify.com/track/5UnPhb3mYd8wVudFPXbHzh"
@@ -762,7 +816,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 159728,
       "name": "Clean Waves",
       "url": "https://open.spotify.com/track/6mxn8Q4WuosCc8HztFiuOL"
@@ -798,7 +852,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 280336,
       "name": "Close to the Shores",
       "url": "https://open.spotify.com/track/243lmQ66EFqpi10PJa5JU4"
@@ -856,6 +910,24 @@
       "duration_ms": 250402,
       "name": "Coastal Waves",
       "url": "https://open.spotify.com/track/2XKPf3NxvTDxIgPEHuvOug"
+    },
+    {
+      "album": {
+        "name": "Coasts of Calm",
+        "url": "https://open.spotify.com/album/1DoGpHFBKnZTVEu5Rg0Qho"
+      },
+      "artists": [
+        {
+          "name": "Nebelune",
+          "url": "https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "Coasts of Calm",
+      "url": "https://open.spotify.com/track/2rwx2LS9a9oZlwYEIBEbbw"
     },
     {
       "album": {
@@ -1062,7 +1134,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 163785,
       "name": "Dark Winds And Stormy Ocean",
       "url": "https://open.spotify.com/track/5bJFDUtTqtkDMgDjklrC9J"
@@ -1249,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Endless Healing Waves",
+        "url": "https://open.spotify.com/album/0tsZR7CHT4WCyTVyVgpogh"
+      },
+      "artists": [
+        {
+          "name": "Scallope",
+          "url": "https://open.spotify.com/artist/6qjzKyd1b3rjZVf0ol9Alc"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158630,
+      "name": "Endless Healing Waves",
+      "url": "https://open.spotify.com/track/7CBoa5w1UD3Ox4bbrOn6aX"
+    },
+    {
+      "album": {
         "name": "Nature Sleep",
         "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
       },
@@ -1260,7 +1350,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 126356,
       "name": "Es Trenc Beach Samples",
       "url": "https://open.spotify.com/track/4uoNAb88yNTjEotalf06vw"
@@ -1278,7 +1368,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 179808,
       "name": "Falling Asleep at the Shore",
       "url": "https://open.spotify.com/track/0I2FETV7Ce2FZ22E9Xkizl"
@@ -1397,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Green Bay and Birds",
+        "url": "https://open.spotify.com/album/7KXSjJKGOQ6s2O9YcfwRuZ"
+      },
+      "artists": [
+        {
+          "name": "Watertowers",
+          "url": "https://open.spotify.com/artist/7DcNhZNSWzYyhuDm2SyQnt"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198531,
+      "name": "Green Bay and Birds",
+      "url": "https://open.spotify.com/track/0iOJThtzyYgt1b2o0m4Ycg"
+    },
+    {
+      "album": {
         "name": "Safe Water",
         "url": "https://open.spotify.com/album/7ujlIQZIFK8MN6SbP3wBS0"
       },
@@ -1462,7 +1570,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 135445,
       "name": "Hear the Distant Waves",
       "url": "https://open.spotify.com/track/6HIWJ7OCiyShqeix9zAODH"
@@ -1480,7 +1588,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 156000,
       "name": "Heavy Oceans",
       "url": "https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK"
@@ -1660,7 +1768,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 173509,
       "name": "Jutlandica Sleep (432 Hz Mild Boost)",
       "url": "https://open.spotify.com/track/6JxqdNuRIAwcIu8vBzSpbG"
@@ -1847,6 +1955,28 @@
     },
     {
       "album": {
+        "name": "Songs from the Sea",
+        "url": "https://open.spotify.com/album/444aUY63lz0iMrt3DGPhiv"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192298,
+      "name": "Merritt Island Mangrove Whisper, Ocean Roar",
+      "url": "https://open.spotify.com/track/61kqodZRJRKuN9xQg6qV49"
+    },
+    {
+      "album": {
         "name": "Nature Sleep",
         "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
       },
@@ -1858,7 +1988,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 143167,
       "name": "Miami Beach Waves",
       "url": "https://open.spotify.com/track/12Dq3g5lnKjg6sgtQITuUw"
@@ -1876,7 +2006,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 174345,
       "name": "Misty Waves",
       "url": "https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn"
@@ -1912,7 +2042,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 122380,
       "name": "Naples Beach",
       "url": "https://open.spotify.com/track/0P3wyNDU63zoKiqJmrQI7g"
@@ -1930,7 +2060,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 140157,
       "name": "Nature: Depths of Softness",
       "url": "https://open.spotify.com/track/52HbaYhiH5xewPRQdbEBvB"
@@ -2186,7 +2316,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 122042,
       "name": "Oceans Outside",
       "url": "https://open.spotify.com/track/4ndb9Sv5pTIolY8Lt5jmSn"
@@ -2226,6 +2356,24 @@
       "duration_ms": 120000,
       "name": "Oceanside Waves",
       "url": "https://open.spotify.com/track/7GrhXAeTRgc3fvGApUKbQI"
+    },
+    {
+      "album": {
+        "name": "Off The Shore",
+        "url": "https://open.spotify.com/album/1QFjSRJjP3qKrV7TOcIxVK"
+      },
+      "artists": [
+        {
+          "name": "Nebelune",
+          "url": "https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Off The Shore",
+      "url": "https://open.spotify.com/track/3xJ5En6Cmy5g6FMe9FQCbL"
     },
     {
       "album": {
@@ -2294,7 +2442,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 208280,
       "name": "Pacific Ocean",
       "url": "https://open.spotify.com/track/4beKgc6XO9T2JUM7npzZNE"
@@ -2467,6 +2615,28 @@
     },
     {
       "album": {
+        "name": "Songs from the Sea",
+        "url": "https://open.spotify.com/album/444aUY63lz0iMrt3DGPhiv"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191521,
+      "name": "Playa Pelada Sunburnt Surf",
+      "url": "https://open.spotify.com/track/0G9A43Ip04oTEcwhybFVsb"
+    },
+    {
+      "album": {
         "name": "Peaceful Waves",
         "url": "https://open.spotify.com/album/5SQ7hzm0tiHvrqtbzcrV06"
       },
@@ -2604,7 +2774,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 182506,
       "name": "Restful Waves",
       "url": "https://open.spotify.com/track/49PblPGIrPcJbU2Ul9F3U1"
@@ -2716,7 +2886,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Rumbling Surf (Ocean)",
       "url": "https://open.spotify.com/track/3OTOq3EXRb2tIJ1NGiRGBa"
@@ -2741,6 +2911,28 @@
     },
     {
       "album": {
+        "name": "Songs from the Sea",
+        "url": "https://open.spotify.com/album/444aUY63lz0iMrt3DGPhiv"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174314,
+      "name": "Saltwater Breath on Bottle Beach",
+      "url": "https://open.spotify.com/track/6p6ErrPpk7aO3nGZdrehrK"
+    },
+    {
+      "album": {
         "name": "Oceanic Waves",
         "url": "https://open.spotify.com/album/1C52yI9myDEvIQlHT8sv7s"
       },
@@ -2752,7 +2944,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 202659,
       "name": "Sandy Beach Sounds",
       "url": "https://open.spotify.com/track/1VApDifG2Adn7kAWWMXqT6"
@@ -2907,6 +3099,42 @@
     },
     {
       "album": {
+        "name": "Serenity Crests (Ocean)",
+        "url": "https://open.spotify.com/album/6kwM9cEjN7yMb3n7E8Q0fC"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Serenity Crests (Ocean)",
+      "url": "https://open.spotify.com/track/5LqBy30T9wWRSRJaWLM1Ae"
+    },
+    {
+      "album": {
+        "name": "Shivering Shores (Ocean)",
+        "url": "https://open.spotify.com/album/7cg1RH90leSTTgoHjbn0kf"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Shivering Shores (Ocean)",
+      "url": "https://open.spotify.com/track/00IJSFQ8lYK26Z6dLDxXLq"
+    },
+    {
+      "album": {
         "name": "Soft Ocean Waves",
         "url": "https://open.spotify.com/album/6hV7AFtm1OBdtnGvKNH5u9"
       },
@@ -2972,7 +3200,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 169313,
       "name": "Sleep Miracle",
       "url": "https://open.spotify.com/track/1Z1Gb8CdPzokH1k2toeMlP"
@@ -3051,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "Cold Water Warmth",
+        "url": "https://open.spotify.com/album/6wWoRDBPOJJdUFI2hgcM7K"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164018,
+      "name": "Slow Coast",
+      "url": "https://open.spotify.com/track/2CMUq4tgUWERePRV84NBMp"
+    },
+    {
+      "album": {
         "name": "Slow Waves",
         "url": "https://open.spotify.com/album/5v5qT4eyJfLXD8lnNAIo2d"
       },
@@ -3098,7 +3344,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 181067,
       "name": "Soft Waves",
       "url": "https://open.spotify.com/track/4AtqK695Bo1OxeXHG9uzGp"
@@ -3350,7 +3596,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 162960,
       "name": "Sounds of Nature: The Beach",
       "url": "https://open.spotify.com/track/1ggZVPo1igmW8ZnEMKch9d"
@@ -3368,7 +3614,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 149508,
       "name": "Sounds of Nature: The Waves",
       "url": "https://open.spotify.com/track/1aH1upF0vMdkKEHrKrE88K"
@@ -3386,7 +3632,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 181520,
       "name": "Spring Break Ocean Sounds",
       "url": "https://open.spotify.com/track/66klBImdxB66yleqiEh6aZ"
@@ -3552,7 +3798,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 182764,
       "name": "Stormy Sea of Kauai",
       "url": "https://open.spotify.com/track/6qhH5jBOs9CK4mIXZkh3WM"
@@ -3624,7 +3870,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 165240,
       "name": "Stress Relieving Sounds",
       "url": "https://open.spotify.com/track/0YbufbfIS8GR6UHPHYvkPW"
@@ -3696,7 +3942,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 151067,
       "name": "Summer Ocean Waves",
       "url": "https://open.spotify.com/track/6RfkQdyd9B1Q8SFNT6Wvwn"
@@ -3732,7 +3978,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 194687,
       "name": "Super Cold Waves",
       "url": "https://open.spotify.com/track/7J851Pjup3zK2XuEoOlaIZ"
@@ -3786,7 +4032,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 173422,
       "name": "The Oceanic Beach Sound",
       "url": "https://open.spotify.com/track/5mvw769FihTs6dokvzhosR"
@@ -3826,6 +4072,24 @@
       "duration_ms": 186032,
       "name": "Three Minutes Of Breathing Waves",
       "url": "https://open.spotify.com/track/31SevMkEKupBNpthM8Zkja"
+    },
+    {
+      "album": {
+        "name": "Tide and Seek",
+        "url": "https://open.spotify.com/album/30Y12ZOHyevf4ufQAKJE4o"
+      },
+      "artists": [
+        {
+          "name": "State Of Rest",
+          "url": "https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Tide And Seek",
+      "url": "https://open.spotify.com/track/6Gkhp7x9TdpJnFqafxDYYn"
     },
     {
       "album": {
@@ -3912,7 +4176,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 169983,
       "name": "Upstream River Sounds",
       "url": "https://open.spotify.com/track/3HtzQDc13GIkar1d3suvKl"
@@ -4092,10 +4356,32 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 184759,
       "name": "Wave Sounds From Your Favorite Beach",
       "url": "https://open.spotify.com/track/2R6HB9DiSAxq08vj5dj9B3"
+    },
+    {
+      "album": {
+        "name": "Songs from the Sea",
+        "url": "https://open.spotify.com/album/444aUY63lz0iMrt3DGPhiv"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225056,
+      "name": "Waves Against Old Bones, Namibia Coast",
+      "url": "https://open.spotify.com/track/2fMd07ykH6eiNrIgELP1Kd"
     },
     {
       "album": {
@@ -4672,7 +4958,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 207170,
       "name": "White Noise and Ocean Pouring",
       "url": "https://open.spotify.com/track/1kLZQfEVrRdp9gU5PSpsVZ"

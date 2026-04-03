@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 210000,
       "name": "Bonmat\u00ed",
       "url": "https://open.spotify.com/track/37fZ4lKNEAtb324fDOWTcm"
@@ -3723,6 +3723,28 @@
     },
     {
       "album": {
+        "name": "BALANCE",
+        "url": "https://open.spotify.com/album/3fQYE3NVCFXUkiVYHpvEBx"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225790,
+      "name": "Cueste Lo Que Cueste",
+      "url": "https://open.spotify.com/track/1IRrTzByPmQHoQLLZ7RzvO"
+    },
+    {
+      "album": {
         "name": "Culpable",
         "url": "https://open.spotify.com/album/5pcGSp47uIyS6SfpwmltUY"
       },
@@ -4090,7 +4112,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 186212,
       "name": "DEJAV\u00da",
       "url": "https://open.spotify.com/track/3jJssQFwwWxXuKGZKGTpBP"
@@ -5518,7 +5540,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 168064,
       "name": "ESCAMA",
       "url": "https://open.spotify.com/track/5sj0xUHZ1b7tKO9iKoLXpx"
@@ -7340,6 +7362,24 @@
       "duration_ms": 188354,
       "name": "Judas",
       "url": "https://open.spotify.com/track/1OyP7jh9oYJ9gxB2qPxqmj"
+    },
+    {
+      "album": {
+        "name": "JUDAS FREESTYLE",
+        "url": "https://open.spotify.com/album/0DuTw8UM8VozzrcGjkd3Vj"
+      },
+      "artists": [
+        {
+          "name": "Daby",
+          "url": "https://open.spotify.com/artist/7BVumzfJLNy2YPuW9pGQgr"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159962,
+      "name": "JUDAS FREESTYLE",
+      "url": "https://open.spotify.com/track/4olDMuMkPxfQxdzmdIrL8G"
     },
     {
       "album": {
@@ -15648,6 +15688,24 @@
       "duration_ms": 163184,
       "name": "UH UH",
       "url": "https://open.spotify.com/track/0PsSxsFFrdURJ5PTssLkLM"
+    },
+    {
+      "album": {
+        "name": "Ultraprocesado",
+        "url": "https://open.spotify.com/album/7jhl7cT2bulrpJ7g6Xle6L"
+      },
+      "artists": [
+        {
+          "name": "Subze",
+          "url": "https://open.spotify.com/artist/1iw6ZNe7cO6LGk61z3pMRJ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274657,
+      "name": "Ultraprocesado",
+      "url": "https://open.spotify.com/track/4R98TKFnp1hXaqY8PWY0rf"
     },
     {
       "album": {

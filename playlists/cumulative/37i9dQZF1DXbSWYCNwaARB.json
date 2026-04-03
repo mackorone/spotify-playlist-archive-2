@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "SOMIN 1st EP 'UNVEIL'",
+        "url": "https://open.spotify.com/album/7kzDwWj4jOfCl2IYepW4z1"
+      },
+      "artists": [
+        {
+          "name": "SOMIN",
+          "url": "https://open.spotify.com/artist/1J3BfBC9Z9VRIpEUB64Rbw"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165910,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/0AoI4bREI1xef36mJh2WZ3"
+    },
+    {
+      "album": {
         "name": "BAD",
         "url": "https://open.spotify.com/album/2Abu3BsKcVE3bSdXk6Cukx"
       },
@@ -8526,7 +8544,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 184477,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0kkqkpgbkLFpopZqPAH1CO"

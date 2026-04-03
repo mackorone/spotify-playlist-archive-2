@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 165374,
+  "num_followers": 165449,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Aku Tanpa Kamu Tanpa Aku",
+        "url": "https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        },
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "duration_ms": 267392,
+      "name": "Aku Tanpa Kamu Tanpa Aku",
+      "url": "https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "Menjaga Hati",
         "url": "https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou"
       },
@@ -563,26 +583,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Aku Tanpa Kamu Tanpa Aku",
-        "url": "https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        },
-        {
-          "name": "Anggi Marito",
-          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
-        }
-      ],
-      "duration_ms": 267392,
-      "name": "Aku Tanpa Kamu Tanpa Aku",
-      "url": "https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Menunggumu Sampai Akhir Hidup",
         "url": "https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 258148,
       "name": "Angin Rindu",
       "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Sayang Orang Sama",
+        "url": "https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL"
+      },
+      "artists": [
+        {
+          "name": "Adira Suhaimi",
+          "url": "https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF"
+        }
+      ],
+      "duration_ms": 202191,
+      "name": "Sayang Orang Sama",
+      "url": "https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -647,22 +663,6 @@
       "duration_ms": 212500,
       "name": "Bukan Lagi Kita",
       "url": "https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Sayang Orang Sama",
-        "url": "https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL"
-      },
-      "artists": [
-        {
-          "name": "Adira Suhaimi",
-          "url": "https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF"
-        }
-      ],
-      "duration_ms": 202191,
-      "name": "Sayang Orang Sama",
-      "url": "https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y"
     },
     {
       "added_at": "2026-02-20 05:28:17",

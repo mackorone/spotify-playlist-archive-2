@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285059,
+  "num_followers": 285093,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
+      },
+      "artists": [
+        {
+          "name": "Micah Wagner",
+          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Wake Me Up (The Bluegrass Rendition)",
         "url": "https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 263996,
       "name": "Wake Me Up - The Bluegrass Rendition",
       "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
-      },
-      "artists": [
-        {
-          "name": "Micah Wagner",
-          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Five For Silver",
+        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 198913,
+      "name": "Luxury Liner",
+      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Up On The Ridge",
         "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 249213,
       "name": "Pride (In The Name Of Love)",
       "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Five For Silver",
-        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 198913,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 199297,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/0tt5aoegu9I2UCf0q89JVF"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 298250,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Folsom Prison Blues",
         "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 206886,
       "name": "Folsom Prison Blues",
       "url": "https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 298250,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "All Will Be Well",
-        "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "All Will Be Well",
-      "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 267690,
       "name": "It's a Great Day to Be Alive",
       "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "All Will Be Well",
+        "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "All Will Be Well",
+      "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "In Tall Buildings",
-        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Graceland (Live Session)",
         "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 186000,
       "name": "Graceland (Live Session)",
       "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "In Tall Buildings",
+        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
     },
     {
       "added_at": "2026-02-04 05:00:53",

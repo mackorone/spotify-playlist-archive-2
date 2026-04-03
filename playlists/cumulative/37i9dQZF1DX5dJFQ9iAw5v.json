@@ -231,6 +231,24 @@
     },
     {
       "album": {
+        "name": "Roman",
+        "url": "https://open.spotify.com/album/4z7OxQXwykb4W5uBkbGiY0"
+      },
+      "artists": [
+        {
+          "name": "ROM\u00c1N",
+          "url": "https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291561,
+      "name": "Bill's Groove",
+      "url": "https://open.spotify.com/track/34fbQjaiSWhK8bP6zfblCS"
+    },
+    {
+      "album": {
         "name": "ROM\u00c1N",
         "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
       },
@@ -316,7 +334,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 349454,
       "name": "Blue in Green (Sky and Sea)",
       "url": "https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf"
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 396155,
       "name": "Nueva Luna, Mundo Arjo (feat. Pedro Aznar)",
       "url": "https://open.spotify.com/track/3Ybi19qv29GlOHkKoCTZ3P"
@@ -2408,7 +2426,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 286373,
       "name": "Titi",
       "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"

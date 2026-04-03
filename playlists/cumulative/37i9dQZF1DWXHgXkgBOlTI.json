@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 146760,
       "name": "Greenfield",
       "url": "https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo"
@@ -2322,6 +2322,24 @@
       "duration_ms": 337578,
       "name": "Thousand Knives - ver.Rawment",
       "url": "https://open.spotify.com/track/2eDazC1X5NUITWXcV3jWqN"
+    },
+    {
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz"
+      },
+      "artists": [
+        {
+          "name": "Still Caravan",
+          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
+        }
+      ],
+      "date_added": "2026-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Thrust",
+      "url": "https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2"
     },
     {
       "album": {

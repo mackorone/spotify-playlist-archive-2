@@ -2,9 +2,9 @@
 
 ### [Altijd Goed](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Nieuwe tijdloze muziek\. Cover: Nona
+> Nieuwe tijdloze muziek\. Cover: Oscar and the Wolf
 
-853 songs - 2 day 1 hr 56 min
+854 songs - 2 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Coming Back Babe](https://open.spotify.com/track/7IGWOUIrYykMGjoDQvf9Ky) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/7A2JImzRj1b2gdTKFE8vH4) | 3:29 | 2025-11-13 | 2026-03-20 |
 | [Coming Undone \- Single Edit](https://open.spotify.com/track/6LU9IjSKhlOg0uU2eXj9Mo) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Coming Undone](https://open.spotify.com/album/5Hl2Lx7g5bC5pwGKWJ1Als) | 5:50 | 2024-11-28 | 2025-02-04 |
 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-03-13 |  |
+| [Conversation](https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Conversation](https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp) | 3:06 | 2026-04-02 |  |
 | [Cool Water \- Single Mix](https://open.spotify.com/track/7Ki9OmvTAsczQSJO1h99WM) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Back to Moon Beach](https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ) | 4:31 | 2023-11-23 | 2024-05-10 |
 | [Could Have Been Us](https://open.spotify.com/track/4YnwFg1qB2E6euEB6a9v9q) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Could Have Been Us](https://open.spotify.com/album/6MBWWDyw0JTFgbP1E14fr8) | 3:16 | 2024-12-20 | 2025-03-21 |
 | [Couldn’t Make It Up](https://open.spotify.com/track/7s59X5LAdm9G2HUV7k62DS) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Couldn't Make It Up](https://open.spotify.com/album/7x4nXw3hbF9h5GORc16WSV) | 3:55 | 2023-05-09 | 2023-09-29 |
@@ -634,7 +635,7 @@
 | [Something About It](https://open.spotify.com/track/6YNCKtSjrRBmeJglRNK6Yn) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something About It](https://open.spotify.com/album/3J89YUZ9n0PZKs0wcVvwqd) | 3:20 | 2024-01-25 | 2024-06-01 |
 | [Something Better](https://open.spotify.com/track/1pOT0avfCCTWJhreZjoHFm) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Something Better](https://open.spotify.com/album/19ynUn8XBbyJEhspOGhNrB) | 3:31 | 2024-05-24 | 2024-07-30 |
 | [Something Better](https://open.spotify.com/track/1PXiU7yaE1iAhz8XyqhJaK) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Something Better](https://open.spotify.com/album/1Y7rc1h1p9vn5TDRnbIiw0) | 3:23 | 2025-09-08 | 2026-03-13 |
-| [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-10-09 |  |
+| [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-10-09 | 2026-04-03 |
 | [Something Over Nothing](https://open.spotify.com/track/5Y9wKu4rpLD7tNsLbmNlz7) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Something Over Nothing](https://open.spotify.com/album/2pOY3OgmYl5KRShgb9r2Pu) | 3:03 | 2025-06-05 | 2025-10-07 |
 | [Something Serious](https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:46 | 2026-03-05 |  |
 | [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 | 2026-02-19 |  |

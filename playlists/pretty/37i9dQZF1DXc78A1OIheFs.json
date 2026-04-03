@@ -1,12 +1,12 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19342,
+  "num_followers": 19343,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFmz7YU1BDj7TXVNbZd2/sQIbl+C",
+  "snapshot_id": "AAAAAIXQtGSbtKWrkmq5z7rpcoyYYx3P",
   "tracks": [
     {
       "added_at": "2026-03-26 13:00:23",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "BLEED",
-        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 215783,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "We Belong (feat. Corrella & L.A.B)",
         "url": "https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 215273,
       "name": "We Belong (feat. Corrella & L.A.B)",
       "url": "https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 215783,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "Harmless",
         "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 145445,
       "name": "Harmless",
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "The//Glow",
-        "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 234947,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "Letting Love Die",
         "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 179000,
       "name": "Letting Love Die",
       "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "The//Glow",
+        "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 234947,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "Metal",
-        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 283253,
-      "name": "Metal",
-      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "When He Was Mine (Pele Fo'i Mai)",
         "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 283253,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
       },
@@ -1079,54 +1079,6 @@
       "duration_ms": 156055,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
-        "name": "Ghost in Your Bed",
-        "url": "https://open.spotify.com/album/4hCnWA3vA8bpwHzNcC4u7J"
-      },
-      "artists": [
-        {
-          "name": "Bic Runga",
-          "url": "https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Ghost in Your Bed",
-      "url": "https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
-        "name": "Didn't Change A Thing",
-        "url": "https://open.spotify.com/album/7q6gFymoUw39CUBeDQJTkr"
-      },
-      "artists": [
-        {
-          "name": "Te Wehi",
-          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
-        }
-      ],
-      "duration_ms": 164999,
-      "name": "Didn't Change A Thing",
-      "url": "https://open.spotify.com/track/2OgPwHAA08O8gPkX2S6ujL"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
-      },
-      "artists": [
-        {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -1151,22 +1103,6 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "Dominoes",
-        "url": "https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW"
-    },
-    {
-      "added_at": "2026-03-26 13:00:23",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
       },
@@ -1179,6 +1115,70 @@
       "duration_ms": 201480,
       "name": "So Good",
       "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "Didn't Change A Thing",
+        "url": "https://open.spotify.com/album/7q6gFymoUw39CUBeDQJTkr"
+      },
+      "artists": [
+        {
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "Didn't Change A Thing",
+      "url": "https://open.spotify.com/track/2OgPwHAA08O8gPkX2S6ujL"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "Ghost in Your Bed",
+        "url": "https://open.spotify.com/album/4hCnWA3vA8bpwHzNcC4u7J"
+      },
+      "artists": [
+        {
+          "name": "Bic Runga",
+          "url": "https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Ghost in Your Bed",
+      "url": "https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
+    },
+    {
+      "added_at": "2026-03-26 13:00:23",
+      "album": {
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW"
     },
     {
       "added_at": "2026-03-26 13:00:23",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-03-26 13:00:23",
       "album": {
-        "name": "Suckerpunch",
-        "url": "https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx"
+        "name": "Make Way For The Sun",
+        "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
       },
       "artists": [
         {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+          "name": "O & The Mo",
+          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
         }
       ],
-      "duration_ms": 154673,
-      "name": "Suckerpunch",
-      "url": "https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH"
+      "duration_ms": 214000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
     }
   ],
   "unique_name": "The Local List Aotearoa",

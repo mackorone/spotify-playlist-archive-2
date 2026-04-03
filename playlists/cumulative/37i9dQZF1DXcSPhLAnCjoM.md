@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Autrement" de Julien Lieb est le Grand Hit de la semaine.
+> "Soirée mondaine" d'Oria est le Grand Hit de la semaine.
 
 323 songs - 16 hr 34 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Jenevieve, Jordan Ward",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Arlo Parks",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 204447,
       "name": "Betcha (feat. That Mexican OT, Berner & Frankie J)",
       "url": "https://open.spotify.com/track/1HW2nq2PGXbjbGUFVHMi9r"
@@ -3922,7 +3922,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 197092,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/0oK5F4umypVDscLUs2ib5a"
@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 247700,
       "name": "Countdown",
       "url": "https://open.spotify.com/track/6q0AIKHeOo41sIaMIIcPdx"
@@ -4472,6 +4472,24 @@
       "duration_ms": 226495,
       "name": "Dancing Circles 2.0",
       "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
+    },
+    {
+      "album": {
+        "name": "Dangerous Lover",
+        "url": "https://open.spotify.com/album/2EIRNYg9YwfZt0iRuuUFCh"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204323,
+      "name": "Dangerous Lover",
+      "url": "https://open.spotify.com/track/6k5MFxx07WH3p0cC6DK9PD"
     },
     {
       "album": {
@@ -6981,6 +6999,28 @@
     },
     {
       "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
+    },
+    {
+      "album": {
         "name": "FYS",
         "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
       },
@@ -8832,7 +8872,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 223568,
       "name": "Humble",
       "url": "https://open.spotify.com/track/23I0i2MXMFtkDwRHRiHTlX"
@@ -8879,6 +8919,24 @@
     },
     {
       "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192419,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
+    },
+    {
+      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/08Qh2ZB44AvDW9N7gyg8XA"
       },
@@ -8890,7 +8948,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 257600,
       "name": "I BROUGHT U FLOWERS",
       "url": "https://open.spotify.com/track/4eyyerE9QXgNuonGVHMVFA"
@@ -11632,7 +11690,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 176294,
       "name": "lone star",
       "url": "https://open.spotify.com/track/3ovwgZbdXzgEs8vCxpdKWC"
@@ -12174,7 +12232,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 149374,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/3KjHuFcOKfHTr5dFwTSoBh"
@@ -13166,7 +13224,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 175033,
       "name": "Miss The Days",
       "url": "https://open.spotify.com/track/2qEApNTwj5MgmFV0YBn1oU"
@@ -13553,6 +13611,28 @@
     },
     {
       "album": {
+        "name": "SAME DIFFERENCE",
+        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206467,
+      "name": "MURAL (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/6mIiV28R5NjFBuSo31u2ER"
+    },
+    {
+      "album": {
         "name": "The Co-Star",
         "url": "https://open.spotify.com/album/65vEwsXYAjfVreDIoF1CVi"
       },
@@ -13692,7 +13772,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 182857,
       "name": "My Man & Me",
       "url": "https://open.spotify.com/track/6sYsSMFQWpzzztDgzTGjqf"
@@ -16006,7 +16086,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 156092,
       "name": "Play Along",
       "url": "https://open.spotify.com/track/7nTODWLf2h5D5Wrr5rJCv9"
@@ -18133,6 +18213,28 @@
     },
     {
       "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+    },
+    {
+      "album": {
         "name": "Seven Days a Week",
         "url": "https://open.spotify.com/album/2k899IKbxRu66ysrb8lYpa"
       },
@@ -18330,7 +18432,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 167142,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/71sJonMpsxAnCGNJdCEjXU"
@@ -21116,7 +21218,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 229573,
       "name": "The Rock (feat. 3DDY)",
       "url": "https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM"
@@ -22076,7 +22178,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 207661,
       "name": "Tumaya",
       "url": "https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y"
@@ -23029,6 +23131,24 @@
     },
     {
       "album": {
+        "name": "Want Love",
+        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200791,
+      "name": "Want Love",
+      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
+    },
+    {
+      "album": {
         "name": "War (feat. Ari Lennox & Jeremih)",
         "url": "https://open.spotify.com/album/3tR4PWPHf5CdhFbXUJ3AyV"
       },
@@ -23662,7 +23782,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 263025,
       "name": "Whip The Wind",
       "url": "https://open.spotify.com/track/77nWzREV6lPcV6lSGFUpxN"
@@ -24734,7 +24854,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 195500,
       "name": "Youth",
       "url": "https://open.spotify.com/track/6YpoiX49N1bGr3n082gwJD"
@@ -24898,7 +25018,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 294810,
       "name": "\u5149\u306e\u679c\u5b9f [TOSHIKI HAYASHI (%C) REMIX]",
       "url": "https://open.spotify.com/track/67ApWdsjj7NdJpYnQrh8Xn"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u041c\u0435\u0439\u043d\u0441\u0442\u0440\u0438\u043c\u043d\u0456 \u0442\u0430 \u043d\u0456\u0448\u0435\u0432\u0456 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0438, \u044f\u043a\u0438\u043c\u0438 \u0437\u0430\u0445\u043e\u043f\u043b\u044e\u0454\u0442\u044c\u0441\u044f \u0423\u043a\u0440\u0430\u0457\u043d\u0430 \u0456 \u0441\u0432\u0456\u0442! \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Jerry Heil",
+  "description": "\u0417\u0456\u0440\u043a\u0438 \u041d\u0430\u0446\u0432\u0456\u0434\u0431\u043e\u0440\u0456\u0432 \u0442\u0430 \u0456\u043d\u0448\u0456 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0439 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0442\u043e\u043f \u043f\u043e\u043f \u0430\u0440\u0442\u0438\u0441\u0442\u0438! \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: MOLODI & Monokate",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -4618,7 +4618,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 177230,
       "name": "Thin Ice",
       "url": "https://open.spotify.com/track/4sjNlqIcIxPb1Jr3COXDHh"
@@ -5266,7 +5266,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 167800,
       "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
       "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
@@ -5492,6 +5492,24 @@
       "duration_ms": 132626,
       "name": "\u0410\u0443 \u0430\u0443",
       "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
+    },
+    {
+      "album": {
+        "name": "\u0431\u0430\u043b\u0430\u043d\u0441",
+        "url": "https://open.spotify.com/album/4CzwaY2GYpO7Xv27yomm4W"
+      },
+      "artists": [
+        {
+          "name": "NANA SOLIS",
+          "url": "https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "\u0431\u0430\u043b\u0430\u043d\u0441",
+      "url": "https://open.spotify.com/track/5kaKBReAEfDuN0JlvKB8Ky"
     },
     {
       "album": {
@@ -6653,6 +6671,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u0438\u043b\u0438\u043c",
+        "url": "https://open.spotify.com/album/6jyJTIdgjzgyPltPQYnyux"
+      },
+      "artists": [
+        {
+          "name": "Shmiska",
+          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184235,
+      "name": "\u041a\u0438\u043b\u0438\u043c",
+      "url": "https://open.spotify.com/track/7HFGL5iqsNM87PmvE6SbeA"
+    },
+    {
+      "album": {
         "name": "\u043a\u0438\u0457\u0432-\u043d\u044c\u044e-\u0439\u043e\u0440\u043a",
         "url": "https://open.spotify.com/album/1pEJUVKehVzrUPZSUFZK6F"
       },
@@ -6978,7 +7014,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 157722,
       "name": "\u041b\u044f\u043c\u0443\u0440",
       "url": "https://open.spotify.com/track/7lmnlYXtiLM0W44QuPmWXp"
@@ -8025,6 +8061,24 @@
     },
     {
       "album": {
+        "name": "\u043e\u0434\u0430\u0441\u0432\u043e\u0431\u043e\u0434\u0430",
+        "url": "https://open.spotify.com/album/59wNxqKMl9Tl3PdOvDLoZ1"
+      },
+      "artists": [
+        {
+          "name": "MONATIK",
+          "url": "https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154624,
+      "name": "\u043e\u0434\u0430\u0441\u0432\u043e\u0431\u043e\u0434\u0430",
+      "url": "https://open.spotify.com/track/0RVHL9wb184jdKUZY3da5o"
+    },
+    {
+      "album": {
         "name": "\u043e\u0434\u043d\u0430 \u043d\u0430 \u043c\u0456\u043b\u044c\u0439\u043e\u043d",
         "url": "https://open.spotify.com/album/0PMBM2qi2ViFot9MlMBTjx"
       },
@@ -8804,7 +8858,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 221803,
       "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u0430",
       "url": "https://open.spotify.com/track/6ykClYVMS8JlvsEe8jmoAI"
@@ -9046,6 +9100,28 @@
       "duration_ms": 141522,
       "name": "\u0422\u0410\u041a \u041d\u0410\u0411\u0410\u0413\u0410\u0422\u041e \u041a\u0420\u0410\u0429\u0415",
       "url": "https://open.spotify.com/track/6ouCHu3DOH1QeAAX398xu7"
+    },
+    {
+      "album": {
+        "name": "\u0442\u0430\u043d\u0446\u044e\u0432\u0430\u0442\u0438 \u043f\u043e\u043a\u0438 \u0436\u0438\u0432\u0456",
+        "url": "https://open.spotify.com/album/3uZxTpnP51OdesclAXRNVt"
+      },
+      "artists": [
+        {
+          "name": "MOLODI",
+          "url": "https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF"
+        },
+        {
+          "name": "Monokate",
+          "url": "https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148937,
+      "name": "\u0442\u0430\u043d\u0446\u044e\u0432\u0430\u0442\u0438 \u043f\u043e\u043a\u0438 \u0436\u0438\u0432\u0456",
+      "url": "https://open.spotify.com/track/2HjMlRBlvhttLIwwcfjT8X"
     },
     {
       "album": {

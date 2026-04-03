@@ -1,12 +1,12 @@
 {
   "description": "This is Laurie Spiegel. The essential tracks, all in one playlist.",
-  "num_followers": 474,
+  "num_followers": 479,
   "original_name": "This Is Laurie Spiegel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acsOgAAAAABepUxU1RZkonJfm08tK/OP",
+  "snapshot_id": "acxgAAAAAABSqcH4OyQKoSqFCPNS6ALc",
   "tracks": [
     {
       "added_at": null,
@@ -63,18 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Common Ground, Vol. 1",
-        "url": "https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
       },
       "artists": [
+        {
+          "name": "VooCha",
+          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
+        },
         {
           "name": "Laurie Spiegel",
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 214883,
-      "name": "At Sea",
-      "url": "https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM"
+      "duration_ms": 171874,
+      "name": "Taking It Further",
+      "url": "https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp"
     },
     {
       "added_at": null,
@@ -111,22 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
+        "name": "Common Ground, Vol. 1",
+        "url": "https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM"
       },
       "artists": [
-        {
-          "name": "VooCha",
-          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
-        },
         {
           "name": "Laurie Spiegel",
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 171874,
-      "name": "Taking It Further",
-      "url": "https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp"
+      "duration_ms": 214883,
+      "name": "At Sea",
+      "url": "https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Heliopause",
-      "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
+      "duration_ms": 158500,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 158500,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r"
+      "duration_ms": 174000,
+      "name": "Heliopause",
+      "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 202426,
-      "name": "Three Sonic Spaces II",
-      "url": "https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR"
+      "duration_ms": 215040,
+      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
+      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
-      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
+      "duration_ms": 202426,
+      "name": "Three Sonic Spaces II",
+      "url": "https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 429013,
-      "name": "Drums",
-      "url": "https://open.spotify.com/track/7sagDXY3Pdl5A5EPUgimZn"
+      "duration_ms": 322960,
+      "name": "Appalachian Grove I",
+      "url": "https://open.spotify.com/track/58ODorNYopmxNhZnWdjQjO"
     }
   ],
   "unique_name": "This Is Laurie Spiegel",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: error",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: katlix",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -11258,7 +11258,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 199125,
       "name": "Grauer Regenbogen",
       "url": "https://open.spotify.com/track/3jwhquyMwXSIhm3DJ0fcSy"
@@ -14306,7 +14306,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 137206,
       "name": "isok",
       "url": "https://open.spotify.com/track/0wcAReLwvaglm6ZbnfPS5s"
@@ -20022,7 +20022,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 182394,
       "name": "Nie allein",
       "url": "https://open.spotify.com/track/1KkDpjbcKWaO4xIWiTTcEM"
@@ -20842,6 +20842,32 @@
       "duration_ms": 150520,
       "name": "Ohne uns",
       "url": "https://open.spotify.com/track/7APp1SPNTDUWUPBl4CjqcK"
+    },
+    {
+      "album": {
+        "name": "ok wenn du weinst",
+        "url": "https://open.spotify.com/album/5pbngCjT6zUmGfHxI3SsRq"
+      },
+      "artists": [
+        {
+          "name": "Strob",
+          "url": "https://open.spotify.com/artist/0JP5ABLaBXOg8HFsxUoPzC"
+        },
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        },
+        {
+          "name": "zuender",
+          "url": "https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121829,
+      "name": "ok wenn du weinst",
+      "url": "https://open.spotify.com/track/7HcAbD1vX5zznHjZJQEPi5"
     },
     {
       "album": {
@@ -24044,7 +24070,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 165840,
       "name": "Selfcaretag",
       "url": "https://open.spotify.com/track/3VWCgicSNalOmTOYVGbswf"
@@ -24246,7 +24272,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 176480,
       "name": "Sie",
       "url": "https://open.spotify.com/track/5s3S2D5OZD8pNlK3hbq88C"
@@ -24330,6 +24356,24 @@
       "duration_ms": 205053,
       "name": "Sie tanzt so gut",
       "url": "https://open.spotify.com/track/3FiINXWzj5ZYnfC3ROsWjp"
+    },
+    {
+      "album": {
+        "name": "zu sch\u00f6n",
+        "url": "https://open.spotify.com/album/1z2I9xMXiJryeLiuwwTHlU"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120378,
+      "name": "sie wei\u00df nicht",
+      "url": "https://open.spotify.com/track/2E2TF2SUWd4saNxNYFmxOq"
     },
     {
       "album": {
@@ -27211,6 +27255,24 @@
     },
     {
       "album": {
+        "name": "Tr\u00e4nen",
+        "url": "https://open.spotify.com/album/4jCfU0yIXKvsYDW0KYgjxE"
+      },
+      "artists": [
+        {
+          "name": "yara",
+          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161537,
+      "name": "Tr\u00e4nen",
+      "url": "https://open.spotify.com/track/0PVtk1FliHIiCMJUYWm4Sj"
+    },
+    {
+      "album": {
         "name": "Tr\u00e4um von dir",
         "url": "https://open.spotify.com/album/0MqyQlAf69y8Hpob4DsnnL"
       },
@@ -28132,6 +28194,24 @@
       "duration_ms": 147404,
       "name": "Verlierer",
       "url": "https://open.spotify.com/track/2UbMm8S5eqHwn27aUkPhAW"
+    },
+    {
+      "album": {
+        "name": "Verloren hab ich dich eh nicht",
+        "url": "https://open.spotify.com/album/476SuZvJWW0rhnRX2WtfWL"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193056,
+      "name": "Verloren hab ich dich eh nicht",
+      "url": "https://open.spotify.com/track/16PpeOipvPc9YQQdmjqqyM"
     },
     {
       "album": {
@@ -29122,6 +29202,24 @@
       "duration_ms": 152594,
       "name": "was du brauchst (st.pauli)",
       "url": "https://open.spotify.com/track/0evN6KOmUZVaZue7ca0ce1"
+    },
+    {
+      "album": {
+        "name": "Was du nicht siehst",
+        "url": "https://open.spotify.com/album/3DxsfptcHKBfMg3f3rQVWU"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Was du nicht siehst",
+      "url": "https://open.spotify.com/track/1xDt2hyZhp0ChDl4zynHku"
     },
     {
       "album": {

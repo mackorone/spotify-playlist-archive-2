@@ -2,9 +2,9 @@
 
 ### [Dark and Furious](https://open.spotify.com/playlist/37i9dQZF1DXdMp10y0r6l2)
 
-> AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH\. Escape The Fate en portada
+> AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH\. Deftones en portada
 
-585 songs - 1 day 22 hr 3 min
+586 songs - 1 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Forget to Remember \- From Saw II \- Original Soundtrack](https://open.spotify.com/track/0h5D9uxuZRAfq6qMMX34vN) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:35 | 2024-10-22 | 2025-07-30 |
 | [Forlorn Hope](https://open.spotify.com/track/0g8Ha33AQs9g9Q85cdezdn) | [Matalobos](https://open.spotify.com/artist/17ljH1H0YKjh1EYDuvJZDB) | [The Grand Splendour of Death](https://open.spotify.com/album/62oCK9GykHwIYw4ml9Ach4) | 5:52 | 2024-08-20 | 2024-10-22 |
 | [From the Abyss](https://open.spotify.com/track/2RfUsxTK4o3gypWCJF6AGV) | [Phantom G.D.L](https://open.spotify.com/artist/6f9WeAPRDSevpjBAyGfVmV) | [Transylvanian Nightmare](https://open.spotify.com/album/2pKBfURO57RKo9pFBg1gTk) | 4:41 | 2024-08-20 | 2024-10-22 |
-| [Fucking Your Ghost In Chains of Ice](https://open.spotify.com/track/5maiXlxUmXjlKqqqpJbctD) | [Leviathan](https://open.spotify.com/artist/6CJU2RwwB10D0KoYYqWYeM) | [The Tenth Sub Level Of Suicide](https://open.spotify.com/album/1a08Kc3CmrsUbCxEibttUx) | 5:40 | 2025-07-29 |  |
+| [Fucking Your Ghost In Chains of Ice](https://open.spotify.com/track/5maiXlxUmXjlKqqqpJbctD) | [Leviathan](https://open.spotify.com/artist/6CJU2RwwB10D0KoYYqWYeM) | [The Tenth Sub Level Of Suicide](https://open.spotify.com/album/1a08Kc3CmrsUbCxEibttUx) | 5:40 | 2025-07-29 | 2026-04-03 |
 | [Fuego](https://open.spotify.com/track/34KdEEbN9SJ7PtpprhWsTB) | [Bones of Minerva](https://open.spotify.com/artist/43EJ0fWSA2sQ5U3twJaZBZ) | [Embers](https://open.spotify.com/album/6vXIUx3svkyAY7TrtMGGrN) | 5:01 | 2023-09-22 | 2024-01-26 |
 | [Fèis mór Tír na nÓg \(Across the North Sea to Visnech\) \- Re\-Mastered Version 2025](https://open.spotify.com/track/0XoCuF5wedQZGByfqk4ghV) | [Absu](https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP) | [The Sun Of Tiphareth \(30th anniversary edition\)](https://open.spotify.com/album/3SMxFvjeNZGMdlGxsYhtNH) | 8:04 | 2025-08-28 | 2025-09-27 |
 | [G N B](https://open.spotify.com/track/77b0Wus8dEYNtBRNQwHehm) | [Cardiel](https://open.spotify.com/artist/0c6kjkK1AtFKYJ38B14wO6) | [Local Solo](https://open.spotify.com/album/4QlVYRuFL9niJosoAkYhhX) | 2:05 | 2025-07-29 |  |
@@ -310,6 +310,7 @@
 | [Me and My Gun](https://open.spotify.com/track/0GxskFrMkz500YmvQyeSCE) | [Devil's Whiskey](https://open.spotify.com/artist/1p0gsLgv9WazWXnotYoCvM) | [Condemned to Live](https://open.spotify.com/album/5loPopAtzJ4GJw3NoMN1tG) | 6:55 | 2024-08-20 | 2024-10-22 |
 | [Metal Forces](https://open.spotify.com/track/3jtttOBbtniZYB024BgVNt) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [The Force](https://open.spotify.com/album/3yxyPOBBqo3f65AnDNzOXo) | 6:36 | 2025-08-28 | 2025-09-27 |
 | [Mi Momento](https://open.spotify.com/track/298Vh8757USnVOB8j8LEnL) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Mi Momento](https://open.spotify.com/album/4f7yKjOU9ROrd2qQHRseC4) | 3:32 | 2024-10-22 | 2025-07-30 |
+| [milk of the madonna](https://open.spotify.com/track/2463q6UN8BIDfeVI379qFz) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 4:08 | 2026-04-02 |  |
 | [milk of the madonna](https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [milk of the madonna](https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen) | 4:08 | 2025-09-26 |  |
 | [Mirror Reaper](https://open.spotify.com/track/75dSM9nk2SF9ENfMfpuYez) | [Bell Witch](https://open.spotify.com/artist/6lZ0xXnt7D1JXxv03XLX0K) | [Mirror Reaper](https://open.spotify.com/album/5DRrLyeF74shGFylXov9n1) | 1:23:15 | 2024-08-20 | 2024-10-22 |
 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 | 2023-09-22 | 2024-01-26 |

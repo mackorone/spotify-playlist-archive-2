@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 88077,
+  "num_followers": 88102,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Hold My Love",
         "url": "https://open.spotify.com/album/5nHPiP5rhIa3VJhRKqguBR"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 204426,
       "name": "Hold My Love",
       "url": "https://open.spotify.com/track/6YkUGh3Tl6dNVYRz0rgyLo"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "The Bend",
         "url": "https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 242446,
       "name": "The Bend",
       "url": "https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Don't Put It All On Me (feat. Fleet Foxes)",
         "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 247306,
       "name": "Don't Put It All On Me (feat. Fleet Foxes)",
       "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Sad And Beautiful World",
-        "url": "https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 246210,
-      "name": "Sad and Beautiful World",
-      "url": "https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Sad And Beautiful World",
+        "url": "https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 246210,
+      "name": "Sad and Beautiful World",
+      "url": "https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "What Are You Thinking Of?",
-        "url": "https://open.spotify.com/album/10jbswbbYaJJ3rvvBhNOAH"
-      },
-      "artists": [
-        {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
-        }
-      ],
-      "duration_ms": 198646,
-      "name": "What Are You Thinking Of?",
-      "url": "https://open.spotify.com/track/1m2fUf7eX7Crq8BHOrUy1L"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "happy ending",
         "url": "https://open.spotify.com/album/2wqktjryHxu6i4Mof6tWtL"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 157440,
       "name": "happy ending",
       "url": "https://open.spotify.com/track/2xSoj3qiRpbTd2ku7pvMvd"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "What Are You Thinking Of?",
+        "url": "https://open.spotify.com/album/10jbswbbYaJJ3rvvBhNOAH"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "duration_ms": 198646,
+      "name": "What Are You Thinking Of?",
+      "url": "https://open.spotify.com/track/1m2fUf7eX7Crq8BHOrUy1L"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1411,38 +1411,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Earthstar",
-        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 243455,
-      "name": "Earthstar",
-      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
-        "name": "hands to myself",
-        "url": "https://open.spotify.com/album/6hFrFTTnn4LiZr8izHX1zf"
-      },
-      "artists": [
-        {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
-        }
-      ],
-      "duration_ms": 160491,
-      "name": "hands to myself",
-      "url": "https://open.spotify.com/track/312F4NjnSnTbFI70e435is"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "tell me something",
         "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
       },
@@ -1455,6 +1423,22 @@
       "duration_ms": 237426,
       "name": "tell me something",
       "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
+        "name": "hands to myself",
+        "url": "https://open.spotify.com/album/6hFrFTTnn4LiZr8izHX1zf"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "duration_ms": 160491,
+      "name": "hands to myself",
+      "url": "https://open.spotify.com/track/312F4NjnSnTbFI70e435is"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
         "name": "Achilles",
         "url": "https://open.spotify.com/album/5baUTzkWiIeFGyEWFAMYB7"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 191349,
       "name": "Call of Duty",
       "url": "https://open.spotify.com/track/7CyTAwPV2r7pBfZt9fVNDG"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 110173,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1507,22 +1523,6 @@
       "duration_ms": 188936,
       "name": "Poison In My Well",
       "url": "https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 110173,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "That's Gonna Leave a Mark",
-        "url": "https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "That's Gonna Leave a Mark",
-      "url": "https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Alan Sparhawk with Trampled by Turtles",
         "url": "https://open.spotify.com/album/1x0de2EjrGot84ocdigfUa"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 202839,
       "name": "Not Broken",
       "url": "https://open.spotify.com/track/0mQTDyVOHUVmgAU17SP8uR"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "That's Gonna Leave a Mark",
+        "url": "https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "That's Gonna Leave a Mark",
+      "url": "https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

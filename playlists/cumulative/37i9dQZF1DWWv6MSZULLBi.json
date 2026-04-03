@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Charlotte Cornfield",
+  "description": "A laid-back trip in the folk scene. Cover: Forest Blakk & Joy Williams",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1178,6 +1178,24 @@
       "duration_ms": 258105,
       "name": "Already There",
       "url": "https://open.spotify.com/track/4eQgIa4i3nr4ReoujolhCc"
+    },
+    {
+      "album": {
+        "name": "Alternate Ending",
+        "url": "https://open.spotify.com/album/1imXHb4yzZBWR5ZEZZVaRJ"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190550,
+      "name": "Alternate Ending",
+      "url": "https://open.spotify.com/track/4ARFJVAoSfB6pw5lZ9AnAI"
     },
     {
       "album": {
@@ -8569,6 +8587,24 @@
     },
     {
       "album": {
+        "name": "Flourish",
+        "url": "https://open.spotify.com/album/4hw9GjwwWL0aZs4q7CiQ5F"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273589,
+      "name": "Flourish",
+      "url": "https://open.spotify.com/track/5Smhvv8feumz7NEkCZAp0k"
+    },
+    {
+      "album": {
         "name": "Flower Heart",
         "url": "https://open.spotify.com/album/4Kcpt100arj8ncUgyZmt4m"
       },
@@ -11186,6 +11222,24 @@
       "duration_ms": 231026,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/7J9DEND05zjJwWs7yCBndX"
+    },
+    {
+      "album": {
+        "name": "Horizon (Rework)",
+        "url": "https://open.spotify.com/album/6QjDPepKKxAiSey7oagThh"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225302,
+      "name": "Horizon - Rework",
+      "url": "https://open.spotify.com/track/3jMDGbZ3UoLiMfQgvV2wWo"
     },
     {
       "album": {
@@ -13966,7 +14020,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 198813,
       "name": "Le Restaurant",
       "url": "https://open.spotify.com/track/6zbYZt4jhUbxv7TKC0zEvf"
@@ -16438,7 +16492,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 190757,
       "name": "Mosaic in the Sun",
       "url": "https://open.spotify.com/track/19gw10sPNKZJhsg7nELfxb"
@@ -17564,7 +17618,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 224552,
       "name": "Nomads - Timelines Acoustic",
       "url": "https://open.spotify.com/track/13kaQ2PH77l9v5xOl7maDw"
@@ -17982,7 +18036,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 192820,
       "name": "off day",
       "url": "https://open.spotify.com/track/1oRVV0MGr5jza6NAGEQ2Nd"
@@ -20285,6 +20339,24 @@
     },
     {
       "album": {
+        "name": "right by my side",
+        "url": "https://open.spotify.com/album/3KOBVybYa8lG5Ko5PJtZT9"
+      },
+      "artists": [
+        {
+          "name": "Eric Kane",
+          "url": "https://open.spotify.com/artist/1c0It57ov3NYgwdU1trh2Y"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206729,
+      "name": "right by my side",
+      "url": "https://open.spotify.com/track/4PPuGYLJA0PrQObLui6wex"
+    },
+    {
+      "album": {
         "name": "Evergold",
         "url": "https://open.spotify.com/album/6yx0gSVORmm9Sx7atiiUjH"
       },
@@ -20466,7 +20538,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 197996,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8"
@@ -20650,7 +20722,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
@@ -21346,6 +21418,24 @@
       "duration_ms": 243641,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6"
+    },
+    {
+      "album": {
+        "name": "Set The Record Straight",
+        "url": "https://open.spotify.com/album/039iDjSz795RXrHgp1SG60"
+      },
+      "artists": [
+        {
+          "name": "Alex Coley & Afterlove",
+          "url": "https://open.spotify.com/artist/33LX3IFolOGYJGiF7mgTmE"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243629,
+      "name": "Set The Record Straight",
+      "url": "https://open.spotify.com/track/1CbNmVLSMFTBmkOfAZEpKN"
     },
     {
       "album": {
@@ -22240,7 +22330,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 199607,
       "name": "Someday Is Today",
       "url": "https://open.spotify.com/track/6ZTcQwe5zWbp6Ly2wtB6dN"
@@ -22266,6 +22356,24 @@
       "duration_ms": 183378,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/04xfDpReIdCIXPZWdaMHun"
+    },
+    {
+      "album": {
+        "name": "Somehow Made It Out",
+        "url": "https://open.spotify.com/album/2WK7bpbUtyKCqIedCqNI3B"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222513,
+      "name": "Somehow Made It Out",
+      "url": "https://open.spotify.com/track/3squeOqGJzGz3x2WyTJSD3"
     },
     {
       "album": {
@@ -25663,6 +25771,24 @@
     },
     {
       "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/197taNYjpikHAPjkOWctWk"
+      },
+      "artists": [
+        {
+          "name": "Emma Harner",
+          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G"
+    },
+    {
+      "album": {
         "name": "In Lieu Of Light",
         "url": "https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z"
       },
@@ -28630,7 +28756,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-03",
       "duration_ms": 211573,
       "name": "Younger Days",
       "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
@@ -28760,6 +28886,28 @@
       "duration_ms": 195539,
       "name": "You\u2019d Like to Believe",
       "url": "https://open.spotify.com/track/6yEMIk1gWqatcZm2bSGEeM"
+    },
+    {
+      "album": {
+        "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
+        "url": "https://open.spotify.com/album/4QQj3QOSKqEEuJ1RdhJiAf"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        },
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206504,
+      "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
+      "url": "https://open.spotify.com/track/3IC5qtXccheQyYw27oSSD4"
     },
     {
       "album": {

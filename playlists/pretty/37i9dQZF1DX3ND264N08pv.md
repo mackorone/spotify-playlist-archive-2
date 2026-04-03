@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,188 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,218 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 21 | [RECKLESS](https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [RECKLESS](https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE) | 2:40 |
 | 22 | [Get Wrecked 2024 Tool \- Dimitri K Remix](https://open.spotify.com/track/5tMFR1V777V8IdkVVuiV7d) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Get Wrecked 2024 Tool \(Dimitri K Remix\)](https://open.spotify.com/album/1rnD7VreKY4ox2NPKDeGNo) | 1:29 |
 | 23 | [FA TI CO](https://open.spotify.com/track/6Rjx2o141BbWJGh3hj9bDP) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [FA TI CO](https://open.spotify.com/album/1iEjMRxdKdHXA5Xw1svSO9) | 1:49 |
-| 24 | [Dark Smile](https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [IMHAPPY](https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB) | [Dark Smile](https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc) | 3:36 |
-| 25 | [Bass Go Boom](https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Bass Go Boom](https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk) | 2:40 |
+| 24 | [Bass Go Boom](https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Bass Go Boom](https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk) | 2:40 |
+| 25 | [Dark Smile](https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [IMHAPPY](https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB) | [Dark Smile](https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc) | 3:36 |
 | 26 | [Pennywise \- Deadly Guns Remix](https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Pennywise \(Deadly Guns Remix\)](https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb) | 2:32 |
 | 27 | [PSSY MTHRFCKRZ \- Chaos Project & Sakyra Remix](https://open.spotify.com/track/6wFYX9fvq5uWbcixgRxRUz) | [Endymion](https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT), [Sakyra](https://open.spotify.com/artist/2GR3DT7wsxRnjNckRcNMpD) | [PSSY MTHRFCKRZ \(Chaos Project & Sakyra Remix\)](https://open.spotify.com/album/7j1R300leutDGel6DS2Jxc) | 2:42 |
 | 28 | [Just like me \- Nosferatu Remix](https://open.spotify.com/track/1ZBR5pgAyBOVEByrGGT27i) | [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [MC Jeff](https://open.spotify.com/artist/7zKk52i6Ad4So5HltHRPa9), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [Just like me \(Nosferatu Remix\)](https://open.spotify.com/album/2AkApAXF401gaLEhEQdfyr) | 4:56 |

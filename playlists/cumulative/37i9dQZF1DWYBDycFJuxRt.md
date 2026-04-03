@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Mall Boyz + BIM + kZm \*👉 <a href="https://spice.eplus.jp/articles/345154">連動記事</a>をSPICEでチェック!
 
-14,184 songs - 37 day 14 hr 47 min
+14,185 songs - 37 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3650,6 +3650,7 @@
 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 | 2026-03-10 | 2026-03-18 |
 | [Home away from home](https://open.spotify.com/track/078aRKG1uIz2W2Vf6Brncl) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/1QPo9D2cCyLWtBEdAjzdmg) | 4:07 | 2023-02-28 | 2023-03-02 |
 | [Home away from home](https://open.spotify.com/track/0Gq2WKpmU7eKwK8dUcckv2) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/3QjYyRaZJAGvFQksUdrWqW) | 4:07 | 2023-03-01 | 2023-03-08 |
+| [HOME BASS](https://open.spotify.com/track/5XZTBOeIjHKfTTvgWJPadX) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [HOME BASS](https://open.spotify.com/album/0v7ZJMI1L20sJPJi988bDB) | 3:09 | 2026-03-31 |  |
 | [Home Is Where The Hurt Is](https://open.spotify.com/track/7ujyUurqKZiltLgXroP3Z3) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Home Is Where The Hurt Is](https://open.spotify.com/album/2ibB2OyjmvKTmOOo2GgORh) | 4:00 | 2023-09-12 | 2023-09-20 |
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-26 | 2024-12-04 |
 | [homes](https://open.spotify.com/track/1FmlbzMgSl5ly9hrrem0xs) | [不眠旅行](https://open.spotify.com/artist/7GgnNRjBrWIBC9rDzxLBwm) | [homes](https://open.spotify.com/album/21wJGBShczXrJjpyrroHBO) | 3:58 | 2025-11-18 | 2025-11-26 |
@@ -11764,6 +11765,7 @@
 | [不眠導入剤](https://open.spotify.com/track/0NL5SHYE1u3TgA0WtYhwlF) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [肴](https://open.spotify.com/album/3FgHoa9C34h5KOuA9VrVZp) | 2:40 | 2023-09-26 | 2023-10-04 |
 | [不純愛ラブストーリー](https://open.spotify.com/track/1m1LvGZoH4V2AF8Ev5301N) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:05 | 2024-06-12 | 2024-06-19 |
 | [不良外国人](https://open.spotify.com/track/4NMe2tPUbyQhfSsCHzHgL1) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [不良外国人](https://open.spotify.com/album/2CU4WtjFxsnnRBzGbGG46U) | 3:57 | 2024-07-16 | 2024-07-24 |
+| [不透明透明人間](https://open.spotify.com/track/2hsswGHPb82IR8ZMC8ZM1G) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [不透明透明人間](https://open.spotify.com/album/2lT98bl11Is4NqzR886npC) | 3:07 | 2026-03-31 |  |
 | [与えられる夜](https://open.spotify.com/track/4Yx2NgXfkVKdFuUENxTHJq) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [WATASHIBOSHI](https://open.spotify.com/album/3umtn8uo1dxKM7hQPsDQyx) | 3:39 | 2023-12-12 | 2023-12-20 |
 | [世界](https://open.spotify.com/track/1b0VZf5R93X22m5GHagnbb) | [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Infinity](https://open.spotify.com/album/1qD4ejkktMiSpnvlFtQfsl) | 5:35 | 2023-09-05 | 2023-09-13 |
 | [世界](https://open.spotify.com/track/5VAgszLmn23XAqWkP6qwt9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [世界](https://open.spotify.com/album/09EAPlkRPeRdxJSBEE4PPl) | 4:24 | 2026-03-03 | 2026-03-11 |
@@ -13892,7 +13894,6 @@
 | [透明](https://open.spotify.com/track/2eJcQPq8NIdPw0ijl1lZRu) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [透明 / リグレットベイビーズ](https://open.spotify.com/album/7wL6j59eR6K2JL3kF8VhFU) | 4:45 | 2024-04-16 | 2024-04-24 |
 | [透明なぬくもり](https://open.spotify.com/track/2U1dmHyEEcdjPoLXg06tAV) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [中川 理沙](https://open.spotify.com/artist/777vRijuj99nwWotZD3D5y) | [透明なぬくもり](https://open.spotify.com/album/4XO6MTetKMR09jeqTb0M0m) | 3:17 | 2023-06-20 | 2023-06-22 |
 | [透明なガール \-Dye me\- \(feat\. ひかり\) \- Kan Sano Remix](https://open.spotify.com/track/1siasGbYxYkN9PXZvNGTWS) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [透明なガール \(Remixes\)](https://open.spotify.com/album/2zu4pvYDprErsrMOA0eP8U) | 3:57 | 2023-12-12 | 2023-12-20 |
-| [透明不透明人間](https://open.spotify.com/track/2hsswGHPb82IR8ZMC8ZM1G) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [透明不透明人間](https://open.spotify.com/album/2lT98bl11Is4NqzR886npC) | 3:07 | 2026-03-31 |  |
 | [透明少女 \- 4 / LIVE](https://open.spotify.com/track/4w7NG7srCNipghjLJxvUhK) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [NUMBER GIRL 無常の日 \(LIVE\)](https://open.spotify.com/album/53SM7JmehI9uYICKm1Z4Qu) | 3:47 | 2023-05-30 | 2023-06-07 |
 | [透過光](https://open.spotify.com/track/6Nd6yT1ds3x48QUMmnqWS0) | [井戸健人](https://open.spotify.com/artist/4PlzrQn4QMNelRxDC51Z7u) | [透過光](https://open.spotify.com/album/551ilUyH5kkAveLsUdumL3) | 3:21 | 2025-04-15 | 2025-04-23 |
 | [通り雨](https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [通り雨](https://open.spotify.com/album/6PS8k0M1Qlme23JTA1bhXE) | 3:01 | 2023-11-21 | 2023-11-29 |
