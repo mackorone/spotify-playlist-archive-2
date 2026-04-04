@@ -8217,6 +8217,24 @@
     },
     {
       "album": {
+        "name": "b\u00faum til baby, baby",
+        "url": "https://open.spotify.com/album/3VLVNYUBISNrqzNlUbVREp"
+      },
+      "artists": [
+        {
+          "name": "Aron Kristinn",
+          "url": "https://open.spotify.com/artist/7ka0BBMmxQTQbVV92WKtM7"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189226,
+      "name": "b\u00faum til baby, baby",
+      "url": "https://open.spotify.com/track/53fXa5p281n0PDXaR13pct"
+    },
+    {
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0"
       },
@@ -13278,6 +13296,28 @@
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
       "album": {
@@ -23536,7 +23576,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 111157,
       "name": "HIGHS AND LOWS",
       "url": "https://open.spotify.com/track/565G1vHZu2xoxrnTyF06Qw"
@@ -29170,7 +29210,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 126868,
       "name": "KING",
       "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
@@ -34622,7 +34662,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -42198,7 +42238,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 108334,
       "name": "PUNCH DRUNK",
       "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV"
@@ -44702,6 +44742,24 @@
       "duration_ms": 165812,
       "name": "R\u00fantarinn",
       "url": "https://open.spotify.com/track/2cHBypBYR5pXwBRA3jCxwb"
+    },
+    {
+      "album": {
+        "name": "R\u00daSTA M\u00c9R",
+        "url": "https://open.spotify.com/album/01AYi8lmCUmuRxLwpCe7nt"
+      },
+      "artists": [
+        {
+          "name": "NUSSUN",
+          "url": "https://open.spotify.com/artist/0at3uaVgwcDuhoSynpoLzx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "R\u00daSTA M\u00c9R",
+      "url": "https://open.spotify.com/track/6P81SHhoWVRjFzxjPiGKgq"
     },
     {
       "album": {
@@ -59046,7 +59104,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 119272,
       "name": "WHATEVER WORKS",
       "url": "https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU"

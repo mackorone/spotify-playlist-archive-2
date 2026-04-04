@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-344 songs - 16 hr 1 min
+345 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-01 | 2023-09-29 |
 | [Calm Mind, in the Forest](https://open.spotify.com/track/6j88pim2dgfpUIlf984HtC) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Calm Mind, in the Forest](https://open.spotify.com/album/0TYH8l0gdWGehsBYzlLkjq) | 2:15 | 2026-01-21 |  |
 | [Calm Moments](https://open.spotify.com/track/5dnkSxcgzgsVdUgsFNfpGB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Calm Moments](https://open.spotify.com/album/1BHKyjHNueZeBCFeAmCsRj) | 2:41 | 2024-08-23 | 2026-03-21 |
-| [Calm Skies](https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Calm Skies](https://open.spotify.com/album/0La6GTzKvt8cJVRu3W1BNQ) | 3:14 | 2025-02-21 |  |
+| [Calm Skies](https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Calm Skies](https://open.spotify.com/album/0La6GTzKvt8cJVRu3W1BNQ) | 3:14 | 2025-02-21 | 2026-04-04 |
 | [Calm Spring](https://open.spotify.com/track/45OQ4d2oF6PKUg30jIYhLD) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Calm Spring](https://open.spotify.com/album/7l3YpyW05EHVsy2LuXDIxN) | 2:42 | 2025-05-16 |  |
 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-03-03 | 2025-06-12 |
 | [Calming Birds](https://open.spotify.com/track/6Er9bq9dt39Xmv8heRUxUO) | [Aziz Kirkin](https://open.spotify.com/artist/7BPMsxBuGDkaKlsYWR38kS) | [Calming Birds](https://open.spotify.com/album/3gQmWlR1BiBnVl1xmGxQIm) | 2:04 | 2023-09-01 | 2023-09-09 |
@@ -135,6 +135,7 @@
 | [Forest Water](https://open.spotify.com/track/0Tne2gAPuA298VvTZ3Q87w) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Water](https://open.spotify.com/album/4zPa0muGVcqjeGwlicz27m) | 3:07 | 2025-06-11 |  |
 | [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 | 2024-06-03 | 2026-03-26 |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-03 | 2024-09-05 |
+| [Frequenza Del Cuore 528 Hz \(nature Version\)](https://open.spotify.com/track/04ltEgSfEzF11vXr9OrymS) | [Seconda Fotura](https://open.spotify.com/artist/3dLzY2XAMjuE1soisVnzf7) | [Frequenza Del Cuore 528 Hz \(nature Version\)](https://open.spotify.com/album/5pZuu7kgbojNBoqS3hECmR) | 2:39 | 2026-03-20 |  |
 | [Garden of Hope](https://open.spotify.com/track/6OOoPdXoJHwqluL5mSWoTA) | [Willow Woodgrove](https://open.spotify.com/artist/5r4df4m56U0QWtdYNJiVCP) | [Garden of Hope](https://open.spotify.com/album/3ASNAbIm33ZIjkbTmgrmVc) | 2:56 | 2026-03-20 |  |
 | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/track/3tG0GoNdGyG42ktp3fRzeH) | [Mind Gardener](https://open.spotify.com/artist/3cYm4kOmJnp5qRslUjwjhP) | [Garden Suite \#1 \(Birds\)](https://open.spotify.com/album/523HXHTCCd8HuZY7dyf0l5) | 2:52 | 2025-03-19 | 2026-02-27 |
 | [Gentle Awakening](https://open.spotify.com/track/3Nhb2tW6P3QgBosxqmdACc) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Gentle Awakening](https://open.spotify.com/album/3orIz0nqcl54GFcbyyYYWJ) | 3:18 | 2025-03-19 | 2026-03-21 |

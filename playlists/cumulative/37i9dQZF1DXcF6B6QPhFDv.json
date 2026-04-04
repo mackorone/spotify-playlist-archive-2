@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "rock never dies. Cover: Florence Road",
+  "description": "rock never dies. Cover: Lambrini Girls",
   "name": "MARROW",
   "tracks": [
     {
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 143891,
       "name": "ASSIGNMENT",
       "url": "https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM"
@@ -1931,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Bexy",
+        "url": "https://open.spotify.com/album/3UY7suuL86SR3nx5aJziXV"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110255,
+      "name": "Bexy",
+      "url": "https://open.spotify.com/track/5gtGsDTcUHFzQagjBBFiSh"
+    },
+    {
+      "album": {
         "name": "Big Bad Bubble Boy",
         "url": "https://open.spotify.com/album/4qde5lDT5SiCEiOxMiOdzk"
       },
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 227798,
       "name": "Big Deal",
       "url": "https://open.spotify.com/track/1tMn280xzYU4NdTe0kpPOh"
@@ -3762,6 +3780,24 @@
       "duration_ms": 184063,
       "name": "Crying In The Shower",
       "url": "https://open.spotify.com/track/30TqgnUsww4JzR2V8Ert9b"
+    },
+    {
+      "album": {
+        "name": "Cult of Celebrity",
+        "url": "https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133749,
+      "name": "Cult of Celebrity",
+      "url": "https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV"
     },
     {
       "album": {
@@ -8664,7 +8700,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 201000,
       "name": "I CHANGED (I'M UP)",
       "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
@@ -9654,6 +9690,24 @@
       "duration_ms": 245240,
       "name": "Jesus He Knows Me",
       "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
+    },
+    {
+      "album": {
+        "name": "Jet Lag Mouth",
+        "url": "https://open.spotify.com/album/5g1C2O5oYIV2rBknUh7cuN"
+      },
+      "artists": [
+        {
+          "name": "In Color",
+          "url": "https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152258,
+      "name": "Jet Lag Mouth",
+      "url": "https://open.spotify.com/track/3A9jHzBMp27j4dZJ9m1nQJ"
     },
     {
       "album": {
@@ -10796,7 +10850,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 115744,
       "name": "Look How Far...",
       "url": "https://open.spotify.com/track/4ZwsQGsqUGewXIjNBXfrXr"
@@ -12020,7 +12074,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 272507,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
@@ -12640,6 +12694,24 @@
       "duration_ms": 202909,
       "name": "new way out",
       "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
+    },
+    {
+      "album": {
+        "name": "New Year's Eve",
+        "url": "https://open.spotify.com/album/6SmPMVdyFm801yWinRSbzO"
+      },
+      "artists": [
+        {
+          "name": "Robber Robber",
+          "url": "https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185204,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/4fzNnJKhgFueO0tcstBrQG"
     },
     {
       "album": {
@@ -16709,6 +16781,24 @@
     },
     {
       "album": {
+        "name": "Shine Again",
+        "url": "https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245564,
+      "name": "Shine Again",
+      "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
+    },
+    {
+      "album": {
         "name": "Shortest Fuse",
         "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
       },
@@ -17452,6 +17542,24 @@
       "duration_ms": 182786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/5qaCnFvjHw3P4qL02pFSlR"
+    },
+    {
+      "album": {
+        "name": "SORRY! CRASH!",
+        "url": "https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "SORRY! CRASH!",
+      "url": "https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH"
     },
     {
       "album": {
@@ -19867,6 +19975,24 @@
     },
     {
       "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7BIBkAvDaaSvM3dnmy6g3u"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171450,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/0CtDXpf55FygKZeWkuX5Px"
+    },
+    {
+      "album": {
         "name": "The Writing On The Wall",
         "url": "https://open.spotify.com/album/1YnwDXwv54rOtLwzzGVZ9N"
       },
@@ -20462,7 +20588,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 227733,
       "name": "toothless coal",
       "url": "https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul"
@@ -22028,7 +22154,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 153530,
       "name": "WIRED",
       "url": "https://open.spotify.com/track/2VSNcIG1cSDoa9VJXwyBMK"

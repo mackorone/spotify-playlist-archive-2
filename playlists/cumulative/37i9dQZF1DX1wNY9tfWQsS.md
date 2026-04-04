@@ -2,9 +2,9 @@
 
 ### [Women of R&B](https://open.spotify.com/playlist/37i9dQZF1DX1wNY9tfWQsS)
 
-> A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Jill Scott
+> A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Mary J\. Blige
 
-217 songs - 13 hr 40 min
+218 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Like a Tattoo](https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:38 | 2024-02-07 |  |
 | [Like You](https://open.spotify.com/track/0q2bjrLKP9FAGQalGgrk1P) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [Love Train 2](https://open.spotify.com/album/4WggHiQe90qGYWlcNlUa5P) | 3:04 | 2021-03-01 | 2022-07-29 |
 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-03-08 | 2022-07-29 |
-| [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 | 2025-05-16 |  |
+| [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 | 2025-05-16 | 2026-04-04 |
 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 | 2024-03-08 |  |
 | [Love Come Down \- Single Version](https://open.spotify.com/track/3ZpSFamHHJE4kL59IePR7P) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Essential \- Soul Love](https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6) | 3:37 | 2021-03-01 | 2022-07-18 |
 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 | 2021-03-01 |  |
@@ -207,6 +207,7 @@
 | [Under The Moon](https://open.spotify.com/track/7ey9jmePIXngNcEZ0p7fqk) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Under The Moon](https://open.spotify.com/album/5htwDF4DJFuae9rE5LDQiV) | 3:26 | 2025-10-24 | 2026-01-17 |
 | [Vacancy](https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U) | 3:03 | 2025-10-03 | 2025-10-25 |
 | [Wake Up Love](https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [Wake Up Love](https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR) | 3:35 | 2021-03-01 | 2022-07-29 |
+| [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 | 2026-04-03 |  |
 | [Water](https://open.spotify.com/track/0wYwXrgGrrU1idueX5A1wJ) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:20 | 2024-08-13 | 2024-11-16 |
 | [Waves \(feat\. 6LACK\)](https://open.spotify.com/track/2qHk6Nz5glNQrjW8Rhd5kv) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Waves \(feat\. 6LACK\)](https://open.spotify.com/album/0vwWltI5IYadfWBU1A1gou) | 3:35 | 2021-03-01 | 2022-11-13 |
 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 | 2021-03-01 |  |

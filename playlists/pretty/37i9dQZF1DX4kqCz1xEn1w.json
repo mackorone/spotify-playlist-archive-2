@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 77519,
+  "num_followers": 77761,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,18 @@
     {
       "added_at": "2026-03-29 07:52:19",
       "album": {
-        "name": "He Arose",
-        "url": "https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m"
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
       "artists": [
         {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
-        },
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
         }
       ],
-      "duration_ms": 289972,
-      "name": "He Arose",
-      "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2026-03-29 07:52:19",
@@ -447,22 +443,6 @@
     {
       "added_at": "2026-03-29 07:52:19",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2026-03-29 07:52:19",
-      "album": {
         "name": "Battle Belongs",
         "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 287532,
       "name": "Battle Belongs",
       "url": "https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo"
+    },
+    {
+      "added_at": "2026-03-29 07:52:19",
+      "album": {
+        "name": "He Arose",
+        "url": "https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 289972,
+      "name": "He Arose",
+      "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
     },
     {
       "added_at": "2026-03-29 07:52:19",
@@ -767,18 +767,22 @@
     {
       "added_at": "2026-03-29 07:52:19",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+        "name": "From The Inside Out",
+        "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+      "duration_ms": 256970,
+      "name": "Lead Me To The Cross",
+      "url": "https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f"
     },
     {
       "added_at": "2026-03-29 07:52:19",
@@ -803,6 +807,22 @@
     {
       "added_at": "2026-03-29 07:52:19",
       "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+    },
+    {
+      "added_at": "2026-03-29 07:52:19",
+      "album": {
         "name": "Hosanna",
         "url": "https://open.spotify.com/album/2HmNNkm5dX8awwSlfZGgZN"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 476677,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/7LcufkZ8en3eUP7NbkMrqk"
-    },
-    {
-      "added_at": "2026-03-29 07:52:19",
-      "album": {
-        "name": "From The Inside Out",
-        "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 256970,
-      "name": "Lead Me To The Cross",
-      "url": "https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f"
     },
     {
       "added_at": "2026-03-29 07:52:19",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-29 07:52:19",
       "album": {
-        "name": "Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 332946,
-      "name": "Hallelujah For The Cross - Live",
-      "url": "https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch"
-    },
-    {
-      "added_at": "2026-03-29 07:52:19",
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 294813,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
+    },
+    {
+      "added_at": "2026-03-29 07:52:19",
+      "album": {
+        "name": "Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 332946,
+      "name": "Hallelujah For The Cross - Live",
+      "url": "https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch"
     },
     {
       "added_at": "2026-03-29 07:52:19",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2026-03-29 07:52:19",
       "album": {
-        "name": "Breakthrough Miracle Power / You Are The Lord",
-        "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 352520,
-      "name": "Breakthrough Miracle Power",
-      "url": "https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc"
-    },
-    {
-      "added_at": "2026-03-29 07:52:19",
-      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 427389,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
+    },
+    {
+      "added_at": "2026-03-29 07:52:19",
+      "album": {
+        "name": "Breakthrough Miracle Power / You Are The Lord",
+        "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 352520,
+      "name": "Breakthrough Miracle Power",
+      "url": "https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc"
     },
     {
       "added_at": "2026-03-29 07:52:19",
@@ -1407,6 +1407,26 @@
       "duration_ms": 343813,
       "name": "This We Know - Live",
       "url": "https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX"
+    },
+    {
+      "added_at": "2026-03-29 07:52:19",
+      "album": {
+        "name": "Wonder Working Power",
+        "url": "https://open.spotify.com/album/4Q8OiIfEB7drI9glY9C37g"
+      },
+      "artists": [
+        {
+          "name": "Southeast Worship",
+          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
+        },
+        {
+          "name": "Taylor Barton",
+          "url": "https://open.spotify.com/artist/2uajyTFCN2VcWMe2L1EUVv"
+        }
+      ],
+      "duration_ms": 226740,
+      "name": "Wonder Working Power",
+      "url": "https://open.spotify.com/track/5BLk4TeZObZerBo3GZKQ09"
     },
     {
       "added_at": "2026-03-29 07:52:19",
@@ -1487,6 +1507,26 @@
     {
       "added_at": "2026-03-29 07:52:19",
       "album": {
+        "name": "Jesus Is My Healer (Live)",
+        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "duration_ms": 380865,
+      "name": "Jesus Is My Healer - Live",
+      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
+    },
+    {
+      "added_at": "2026-03-29 07:52:19",
+      "album": {
         "name": "Savior Of The World",
         "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
       },
@@ -1499,6 +1539,22 @@
       "duration_ms": 284760,
       "name": "Savior Of The World - Single Version",
       "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
+    },
+    {
+      "added_at": "2026-03-29 07:52:19",
+      "album": {
+        "name": "Resurrection Hope",
+        "url": "https://open.spotify.com/album/7szb9DEznbGDMucgrWqAR1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        }
+      ],
+      "duration_ms": 279993,
+      "name": "Resurrection Hope",
+      "url": "https://open.spotify.com/track/5QLPTodrdkH8sqn78ajTEp"
     },
     {
       "added_at": "2026-03-29 07:52:19",
@@ -1523,26 +1579,6 @@
     {
       "added_at": "2026-03-29 07:52:19",
       "album": {
-        "name": "Wonder Working Power",
-        "url": "https://open.spotify.com/album/4Q8OiIfEB7drI9glY9C37g"
-      },
-      "artists": [
-        {
-          "name": "Southeast Worship",
-          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
-        },
-        {
-          "name": "Taylor Barton",
-          "url": "https://open.spotify.com/artist/2uajyTFCN2VcWMe2L1EUVv"
-        }
-      ],
-      "duration_ms": 226740,
-      "name": "Wonder Working Power",
-      "url": "https://open.spotify.com/track/5BLk4TeZObZerBo3GZKQ09"
-    },
-    {
-      "added_at": "2026-03-29 07:52:19",
-      "album": {
         "name": "Our God Will See Us Through (Live)",
         "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
       },
@@ -1559,38 +1595,22 @@
     {
       "added_at": "2026-03-29 07:52:19",
       "album": {
-        "name": "Jesus Is My Healer (Live)",
-        "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
+        "name": "Songs For Easter",
+        "url": "https://open.spotify.com/album/1MSqoULfzApXe051w71wvr"
       },
       "artists": [
         {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jessie Harris",
-          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+          "name": "Molly Skaggs",
+          "url": "https://open.spotify.com/artist/0cW4RaDqeYZ5YSP2AtRanL"
         }
       ],
-      "duration_ms": 380865,
-      "name": "Jesus Is My Healer - Live",
-      "url": "https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp"
-    },
-    {
-      "added_at": "2026-03-29 07:52:19",
-      "album": {
-        "name": "Resurrection Hope",
-        "url": "https://open.spotify.com/album/7szb9DEznbGDMucgrWqAR1"
-      },
-      "artists": [
-        {
-          "name": "Aaron Williams",
-          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
-        }
-      ],
-      "duration_ms": 279993,
-      "name": "Resurrection Hope",
-      "url": "https://open.spotify.com/track/5QLPTodrdkH8sqn78ajTEp"
+      "duration_ms": 493293,
+      "name": "Ain\u2019t No Grave (Live)",
+      "url": "https://open.spotify.com/track/0SvJfjDhfAZ6oZiFuJ1CyA"
     },
     {
       "added_at": "2026-03-29 07:52:19",
@@ -1615,26 +1635,6 @@
       "duration_ms": 302048,
       "name": "Precious Love - Live",
       "url": "https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH"
-    },
-    {
-      "added_at": "2026-03-29 07:52:19",
-      "album": {
-        "name": "Songs For Easter",
-        "url": "https://open.spotify.com/album/1MSqoULfzApXe051w71wvr"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Molly Skaggs",
-          "url": "https://open.spotify.com/artist/0cW4RaDqeYZ5YSP2AtRanL"
-        }
-      ],
-      "duration_ms": 493293,
-      "name": "Ain\u2019t No Grave (Live)",
-      "url": "https://open.spotify.com/track/0SvJfjDhfAZ6oZiFuJ1CyA"
     },
     {
       "added_at": "2026-03-29 07:52:19",

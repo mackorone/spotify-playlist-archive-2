@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195739,
       "name": "Alegria, Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/2KfJwFYVUMCL9MO4G1wsPV"
@@ -3408,6 +3408,24 @@
       "duration_ms": 191733,
       "name": "Boca Em Brasa",
       "url": "https://open.spotify.com/track/3aVuw6UoTE477BrOO8aJCP"
+    },
+    {
+      "album": {
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/77jQnxccYwQsoSYaz2XCPn"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118647,
+      "name": "Boi",
+      "url": "https://open.spotify.com/track/5K5vFbKjcsfgahDYidEx6c"
     },
     {
       "album": {
@@ -12513,6 +12531,24 @@
     },
     {
       "album": {
+        "name": "M\u00e3e",
+        "url": "https://open.spotify.com/album/4yu7oYdkb7y6Z1tQosW1yq"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224060,
+      "name": "M\u00e3e",
+      "url": "https://open.spotify.com/track/6imUMThATsFFXljYTuWPso"
+    },
+    {
+      "album": {
         "name": "M\u00fasica",
         "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
       },
@@ -13898,7 +13934,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 279549,
       "name": "O B\u00eabado e a Equilibrista - Live At Rio Montreux Jazz Festival",
       "url": "https://open.spotify.com/track/3cQX0fVeZfhgTDfYxEyJCm"

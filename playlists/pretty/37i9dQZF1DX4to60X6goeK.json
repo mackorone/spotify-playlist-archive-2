@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Voltage",
-  "num_followers": 75331,
+  "num_followers": 75336,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        }
-      ],
-      "duration_ms": 177136,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
-    },
-    {
-      "added_at": "2026-03-12 13:34:51",
-      "album": {
         "name": "Raving In The Studio (SOTA Remix)",
         "url": "https://open.spotify.com/album/52JIuqcABYS0gq7DBUiWeH"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 135428,
       "name": "Raving In The Studio (SOTA Remix)",
       "url": "https://open.spotify.com/track/2imZwMeS2WLiPcgAbjo15T"
+    },
+    {
+      "added_at": "2026-03-12 13:34:51",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 177136,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
     },
     {
       "added_at": "2026-03-12 13:34:51",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
-    },
-    {
-      "added_at": "2026-03-12 13:34:51",
-      "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 180689,
       "name": "RUN",
       "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+    },
+    {
+      "added_at": "2026-03-12 13:34:51",
+      "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
     },
     {
       "added_at": "2026-03-12 13:34:51",
@@ -1063,18 +1063,26 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
-        "name": "Blindspot / Impact Response",
-        "url": "https://open.spotify.com/album/6HaImXzg6TPyW18gbhF5KB"
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/4lsEQ1SI8FHR0bq7wNdjqO"
       },
       "artists": [
         {
-          "name": "Formula",
-          "url": "https://open.spotify.com/artist/6GkcKgyIKaZxmZGcKdJDxL"
+          "name": "Georgie Riot",
+          "url": "https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi"
+        },
+        {
+          "name": "FREEMXN",
+          "url": "https://open.spotify.com/artist/3L92Rpz4UtsYPmfGt50nX4"
+        },
+        {
+          "name": "Ekstatic",
+          "url": "https://open.spotify.com/artist/1VQbUvRt7zz4zzLGD3vrMD"
         }
       ],
-      "duration_ms": 200344,
-      "name": "Blindspot",
-      "url": "https://open.spotify.com/track/2oiGdzswferiaVunkD2C62"
+      "duration_ms": 225441,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/2XlXBaDlXTdbdezkBDdZvB"
     }
   ],
   "unique_name": "Jump Up!",

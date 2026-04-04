@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2146976,
+  "num_followers": 2146812,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "System",
+      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "System",
-      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Living Room Worktapes",
-        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 243898,
-      "name": "Where You Are - Acoustic",
-      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "An Alien in Minneapolis",
         "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 259607,
       "name": "An Alien In Minneapolis - Edit",
       "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Living Room Worktapes",
+        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 243898,
+      "name": "Where You Are - Acoustic",
+      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "What A Relief",
         "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 182110,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Palindrome Hunches",
-        "url": "https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe"
-      },
-      "artists": [
-        {
-          "name": "Neil Halstead",
-          "url": "https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Digging Shelters",
-      "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 304880,
       "name": "I Don't Want to Go",
       "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Palindrome Hunches",
+        "url": "https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe"
+      },
+      "artists": [
+        {
+          "name": "Neil Halstead",
+          "url": "https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Digging Shelters",
+      "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "With You - A Sweet Little Love Song Demo",
-        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "With You - A Sweet Little Love Song Demo",
-      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Loving Takes This Course - a Tribute to the Songs of Kath Bloom",
         "url": "https://open.spotify.com/album/45Ae8sd3ZB5gbBHNNIZaGY"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 383066,
       "name": "The Breeze / My Baby Cries",
       "url": "https://open.spotify.com/track/32QtDJN4oRfo3Jwy6gpoWN"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "With You - A Sweet Little Love Song Demo",
+        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "With You - A Sweet Little Love Song Demo",
+      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Drugstore Houses",
         "url": "https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 182253,
       "name": "Drugstore Houses",
       "url": "https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "While I Was Asleep",
+        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 273413,
       "name": "For a While",
       "url": "https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 180581,
-      "name": "I-89 - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Indefinitely",
         "url": "https://open.spotify.com/album/48EF4G8KMMc2Ed23LgjahS"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 218805,
       "name": "Indefinitely",
       "url": "https://open.spotify.com/track/60qDNmGSb59JgfRKrDZmSg"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 180581,
+      "name": "I-89 - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Blood Money",
-        "url": "https://open.spotify.com/album/4A0CeSpGWbvGQ57rBnTHj4"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Blood Money",
-      "url": "https://open.spotify.com/track/3OPlxnryZhFUM67URhtbMX"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "the castle",
         "url": "https://open.spotify.com/album/2BFNtCmTyyrneqIAeh0FQk"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 197577,
       "name": "the castle",
       "url": "https://open.spotify.com/track/1BfkVeODgeTd1sFN9iKA33"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Blood Money",
+        "url": "https://open.spotify.com/album/4A0CeSpGWbvGQ57rBnTHj4"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Blood Money",
+      "url": "https://open.spotify.com/track/3OPlxnryZhFUM67URhtbMX"
     },
     {
       "added_at": "2026-01-09 13:51:16",

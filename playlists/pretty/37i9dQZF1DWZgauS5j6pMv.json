@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: The Philharmonik",
-  "num_followers": 352970,
+  "num_followers": 353012,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABu5jFT3bpY41+uekg9HoZ58FJKo",
+  "snapshot_id": "AAAAAMw0fn2p8a3DbiAjwgDMV+cdyb+K",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:01:52",
+      "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/1zkAiB0psHVIZB8JiQvdSX"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 211529,
+      "name": "IRL",
+      "url": "https://open.spotify.com/track/3RlATEbGvl4bvoBgeksryg"
+    },
     {
       "added_at": "2026-03-27 04:00:07",
       "album": {
@@ -1159,30 +1175,6 @@
       "duration_ms": 135445,
       "name": "Watch Me Get It Like",
       "url": "https://open.spotify.com/track/0OxC4TyAkd9MjXAQrx9Qdf"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Sweet Escape (feat. \u3072\u304b\u308a) [Jafunk Remix]",
-        "url": "https://open.spotify.com/album/48YB5mSWFYupUc0NbKkKie"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 217625,
-      "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
-      "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
     },
     {
       "added_at": "2023-09-29 04:01:00",

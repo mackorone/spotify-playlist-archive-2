@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 177624,
+  "num_followers": 177621,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 158306,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "('Til) I Kissed You",
+      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 148493,
       "name": "Catch a Falling Star (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
       "url": "https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "('Til) I Kissed You",
-      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Romance: Songs From The Heart",
-        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Definitive Pop: The Everly Brothers",
         "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 142906,
       "name": "Bye Bye Love",
       "url": "https://open.spotify.com/track/0xK34uEDBKa9ZzJ6kelLJE"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Romance: Songs From The Heart",
+        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172546,
+      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Rock & Roll 50s & 60s Mix",
-        "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Young",
-          "url": "https://open.spotify.com/artist/5FqPBW4Ca6EMEWcrpAgypV"
-        }
-      ],
-      "duration_ms": 166051,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Trying",
         "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 165466,
       "name": "Only You (and You Alone)",
       "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Rock & Roll 50s & 60s Mix",
+        "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Young",
+          "url": "https://open.spotify.com/artist/5FqPBW4Ca6EMEWcrpAgypV"
+        }
+      ],
+      "duration_ms": 166051,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+        "name": "Ruby Murray - Greatest Hits",
+        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
       },
       "artists": [
         {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+          "name": "Ruby Murray",
+          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
         }
       ],
-      "duration_ms": 152226,
-      "name": "Jambalaya (On The Bayou)",
-      "url": "https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht"
+      "duration_ms": 156373,
+      "name": "I'll Come When You Call",
+      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Ruby Murray - Greatest Hits",
-        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
       },
       "artists": [
         {
-          "name": "Ruby Murray",
-          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 156373,
-      "name": "I'll Come When You Call",
-      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
+      "duration_ms": 152226,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht"
     },
     {
       "added_at": "2023-10-17 16:18:55",

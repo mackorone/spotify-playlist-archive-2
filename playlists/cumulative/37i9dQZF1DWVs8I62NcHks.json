@@ -479,6 +479,32 @@
     },
     {
       "album": {
+        "name": "Main Street Country",
+        "url": "https://open.spotify.com/album/1cvfkOrGG9m7OOpEUOlFn0"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228133,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/6k61iSuJyKGdRs8hSZiyhM"
+    },
+    {
+      "album": {
         "name": "Walt Disney Records The Legacy Collection: Beauty and the Beast",
         "url": "https://open.spotify.com/album/7hq1LYjKOhg1jn39YzbqVK"
       },
@@ -640,7 +666,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 163826,
       "name": "Blue Bird / I Wonder",
       "url": "https://open.spotify.com/track/2GI8c03jgjHYdtVkw81xHp"
@@ -1034,7 +1060,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 236960,
       "name": "Disco Mickey Mouse",
       "url": "https://open.spotify.com/track/4O5hM0PUJaQfOtVbNUZM8z"
@@ -1622,7 +1648,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 252240,
       "name": "He Lives In You (Reprise)",
       "url": "https://open.spotify.com/track/67MoDnJtywQsAS6Bovvuon"
@@ -2634,7 +2660,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 107626,
       "name": "Mickey Mouse Club Alma Mater - From \"The Mickey Mouse Club TV Show\"",
       "url": "https://open.spotify.com/track/0qxhucKlrket7p5dw37cpQ"
@@ -2714,7 +2740,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 162893,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/67YQwy99nrMTE9BpqcXvuS"
@@ -2834,7 +2860,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 59933,
       "name": "Oo-De-Lally",
       "url": "https://open.spotify.com/track/5Asz9rHr2rViBdl6pkXpoq"
@@ -3166,7 +3192,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 104626,
       "name": "Saludos Amigos - From \"Saludos Amigos\"",
       "url": "https://open.spotify.com/track/58NywJgcHVLXrndCpLATvg"
@@ -3612,7 +3638,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 97080,
       "name": "Tall Paul",
       "url": "https://open.spotify.com/track/7oJujJSTfOKP1Gw95dK3Sy"
@@ -3768,6 +3794,24 @@
       "duration_ms": 174120,
       "name": "The Best of Both Worlds",
       "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
+    },
+    {
+      "album": {
+        "name": "Hannah Montana The Movie",
+        "url": "https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS"
     },
     {
       "album": {
@@ -3972,7 +4016,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 162680,
       "name": "Thomas O'Malley Cat - Original Soundtrack Version",
       "url": "https://open.spotify.com/track/4GUsoI49mC1wLsckhCf9z1"
@@ -4523,6 +4567,28 @@
     },
     {
       "album": {
+        "name": "Main Street Country",
+        "url": "https://open.spotify.com/album/1cvfkOrGG9m7OOpEUOlFn0"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259766,
+      "name": "You'll Be in My Heart",
+      "url": "https://open.spotify.com/track/7eznwD4fGIYVVv2WL2TU3i"
+    },
+    {
+      "album": {
         "name": "Tarzan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
       },
@@ -4632,6 +4698,24 @@
       "duration_ms": 124386,
       "name": "You've Got a Friend in Me",
       "url": "https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu"
+    },
+    {
+      "album": {
+        "name": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
+        "url": "https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167800,
+      "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
+      "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
     },
     {
       "album": {

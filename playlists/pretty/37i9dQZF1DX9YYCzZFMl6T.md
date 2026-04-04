@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,856 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,857 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 19 | [Christmas Eve](https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2) | 4:22 |
 | 20 | [The First Noel \- 2004 Remaster](https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 2:41 |
 | 21 | [More Than Christmas](https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [More Than Christmas](https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6) | 3:33 |
-| 22 | [I'll Be Home for Christmas](https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [To: Kate \- A Benefit for Kate's Sake](https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX) | 3:45 |
-| 23 | [Simple Gifts](https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Simple Gifts](https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg) | 1:12 |
+| 22 | [Simple Gifts](https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Simple Gifts](https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg) | 1:12 |
+| 23 | [I'll Be Home for Christmas](https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [To: Kate \- A Benefit for Kate's Sake](https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX) | 3:45 |
 | 24 | [Merry Christmas Darling](https://open.spotify.com/track/00J60e6s8QVW5cbhjBzYgk) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kate Bernhardt](https://open.spotify.com/artist/4tD1DjtxZogb0F6uRn2ty4), [Coco Reilly](https://open.spotify.com/artist/4B0rRuYqf9TbbnJSnGpW0Q) | [Merry Christmas Darling](https://open.spotify.com/album/0QcwV6O3vAsYZZirkEccE4) | 3:11 |
 | 25 | [Have Yourself A Merry Little Christmas \- Live From BBC Radio 2](https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 2:11 |
 | 26 | [Merry Christmas Mary Jane](https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Merry Christmas Mary Jane](https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j) | 4:12 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 44 | [Christmas Is All Around](https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [we did a Christmas thing](https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K) | 2:39 |
 | 45 | [Christmas Is Coming Soon](https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [I'll Stay 'Til After Christmas](https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu) | 3:03 |
 | 46 | [Auld Lang Syne](https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD) | [Palmyra](https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664) | [Auld Lang Syne](https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso) | 3:14 |
-| 47 | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ) | 3:52 |
-| 48 | [Wrapping Presents For Myself](https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Everybody Knows It's Christmas](https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG) | 3:44 |
+| 47 | [Wrapping Presents For Myself](https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Everybody Knows It's Christmas](https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG) | 3:44 |
+| 48 | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ) | 3:52 |
 | 49 | [Christmas in Prison](https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Christmas in Prison](https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG) | 3:32 |
 | 50 | [Santa Man](https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Santa Man / Hot Christmas](https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN) | 2:06 |
 

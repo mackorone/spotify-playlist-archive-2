@@ -4,7 +4,7 @@
 
 > Ease into your Sunday morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
-290 songs - 16 hr 31 min
+291 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-07-18 |  |
 | [Fade](https://open.spotify.com/track/0bDo5jU8xEeyfo0DYlyKQU) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Fade](https://open.spotify.com/album/2irS04uHyoblpXy7At0gPd) | 3:36 | 2025-12-12 |  |
 | [Falling or flying](https://open.spotify.com/track/0JZGKXuE6IZcGs5Jvw3bc8) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 3:24 | 2025-07-18 | 2026-02-05 |
+| [Finish Line](https://open.spotify.com/track/7860siLSwvRnGt63VOr7QT) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Finish Line](https://open.spotify.com/album/5vjZRodlfAwNbwtDcYR7ky) | 3:18 | 2026-04-03 |  |
 | [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 | 2025-11-21 |  |
 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 | 2026-01-27 | 2026-02-05 |
 | [Foul](https://open.spotify.com/track/68QVMtyPlxPGLGurDwAYdZ) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Foul](https://open.spotify.com/album/6NZjyOzH02iAwDbzJEAKku) | 1:53 | 2026-02-20 | 2026-03-14 |
@@ -227,7 +228,7 @@
 | [Skin](https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:59 | 2025-07-18 |  |
 | [Sleepwalking \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/68gyjIx4ZNSDyrCYiFmg7z) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Sleepwalking \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/album/1yYvnQGlHEb0qm92A6QGLG) | 2:56 | 2025-07-18 | 2025-10-18 |
 | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/track/6Gj9xjFXSZro0pf5Dz0Zii) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Articulate Excuses](https://open.spotify.com/album/6zYppiOb1FMO7I9YRoeLio) | 2:37 | 2025-07-18 | 2026-01-27 |
-| [So Good](https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [So Good](https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU) | 2:47 | 2026-02-20 |  |
+| [So Good](https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [So Good](https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU) | 2:47 | 2026-02-20 | 2026-04-04 |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2025-07-18 |  |
 | [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 | 2025-07-18 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/62oaDoBveZxvZb94ziiMXi) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4QsYYvV4ig7xeNQkTzUCA2) | 4:05 | 2025-07-18 |  |

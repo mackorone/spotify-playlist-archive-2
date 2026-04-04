@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,496 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,520 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 32 | [Cravo e Canela \- Acústico \| Ao Vivo](https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia Acústico \(Ao Vivo\)](https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE) | 3:35 |
 | 33 | [Não é Sério \- Ao Vivo \- Chegou Quem Faltava](https://open.spotify.com/track/4hXfkCgImL8rhqlppBrDPj) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chegou Quem Faltava \- Volume 2 \(Ao Vivo\)](https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT) | 4:17 |
 | 34 | [Is This Love \(Cover\) \- Acústico](https://open.spotify.com/track/18F79JBZvBDdI7FmRtFEEh) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Is This Love \(Cover\) \[Acústico\]](https://open.spotify.com/album/1dKiVt1rzKdnjEoRHKsN8O) | 3:52 |
-| 35 | [Desde as Estrelas \- Acústico](https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Segue em Frente](https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3) | 4:10 |
-| 36 | [Maré Cheia \- Acústico](https://open.spotify.com/track/3oByoGmRulhrK0h9Il19w0) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Maré Cheia](https://open.spotify.com/album/05CKBbHojCcLRBz4X96ik8) | 3:17 |
+| 35 | [Maré Cheia \- Acústico](https://open.spotify.com/track/3oByoGmRulhrK0h9Il19w0) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Maré Cheia](https://open.spotify.com/album/05CKBbHojCcLRBz4X96ik8) | 3:17 |
+| 36 | [Desde as Estrelas \- Acústico](https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Segue em Frente](https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3) | 4:10 |
 | 37 | [Solstício de Verão \- Acústico](https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Solstício de Verão \(acústico\)](https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw) | 3:11 |
-| 38 | [Proibiram as Flores \- Acústico](https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Eltin](https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq) | [Proibiram as Flores \(Acústico\)](https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs) | 3:58 |
-| 39 | [Burnin' & Lootin' \- Live At Music Hall, Boston / 1978](https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Easy Skanking In Boston '78](https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc) | 5:35 |
+| 38 | [Burnin' & Lootin' \- Live At Music Hall, Boston / 1978](https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Easy Skanking In Boston '78](https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc) | 5:35 |
+| 39 | [Proibiram as Flores \- Acústico](https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Eltin](https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq) | [Proibiram as Flores \(Acústico\)](https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs) | 3:58 |
 | 40 | [Reggae de Barão \- Acústico](https://open.spotify.com/track/1eZq0aDtVF4JOe1OMXCQKo) | [Da Vula Band](https://open.spotify.com/artist/4foXml2ME1mqHJ6i8DDhdA) | [Flow and Slow \(Acústico\)](https://open.spotify.com/album/5Rb8yyhD4wFRbzGJxK2UOM) | 3:42 |
 | 41 | [Estar Com Você \- Acústico](https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Emmano](https://open.spotify.com/artist/4kexQ10G1LH3GVukrGooaq) | [Acústico Helio Bentes](https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh) | 2:56 |
 | 42 | [A Verdade](https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu) | [Acustico Reggae](https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh) | [Na Cidade](https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt) | 3:19 |

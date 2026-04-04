@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Tiago Iorc
 
-909 songs - 1 day 21 hr 25 min
+910 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [A Gente Tem Tudo a Ver](https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk) | [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Mais Uma História de Amor](https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi) | 2:30 | 2024-02-02 | 2025-01-25 |
 | [A LUZ NO FIM DO TÚNEL](https://open.spotify.com/track/6AuAeeY9NgQKp9Mo1BKgcA) | [Bárbara Grando](https://open.spotify.com/artist/3Q7SOEZnnLV4lzp4I09k9F) | [VASO ALQUÍMICO](https://open.spotify.com/album/5fW6zQaWR2a7BKspDKcJuC) | 3:05 | 2025-01-31 | 2025-03-29 |
 | [A Melhor Coisa do Mundo](https://open.spotify.com/track/7dg73Cj0F0MAioMwmoOmCN) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [A Melhor Coisa do Mundo](https://open.spotify.com/album/0yHKDBkFM4Er1dQ0yoGKUv) | 2:31 | 2023-01-20 | 2023-05-27 |
-| [A Saudade Vem Bater](https://open.spotify.com/track/0F0ppDu7oMRYywOQfnnHGj) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [A Saudade Vem Bater](https://open.spotify.com/album/0hqAGPNFZZpYjd7uLRNiJV) | 2:09 | 2025-08-22 |  |
+| [A Saudade Vem Bater](https://open.spotify.com/track/0F0ppDu7oMRYywOQfnnHGj) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [A Saudade Vem Bater](https://open.spotify.com/album/0hqAGPNFZZpYjd7uLRNiJV) | 2:09 | 2025-08-22 | 2026-04-04 |
 | [A Tal Canção Pra Lua \- Microfonado](https://open.spotify.com/track/3wBAFUmySuNroiqji8Zdbx) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Microfonado](https://open.spotify.com/album/7x6b3yxltKswwR4CykJA6C) | 3:28 | 2024-11-08 | 2025-02-01 |
 | [A vida continua](https://open.spotify.com/track/0vsMO7P6gzbKiN9mItn8ic) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Marua Luz](https://open.spotify.com/artist/091x4KuVa3VUMyP1w4X5Lo) | [A vida continua](https://open.spotify.com/album/2EeB9MWRIowLCh2WlwNOct) | 4:05 | 2025-07-11 | 2025-11-02 |
 | [A Vida Não Erra](https://open.spotify.com/track/1vT7MW3pMQfYC8ZsVbLIGD) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [A Vida Não Erra](https://open.spotify.com/album/71rL4hsd3a7mI0qQVNcfVM) | 3:05 | 2022-05-13 | 2022-07-29 |
@@ -279,6 +279,7 @@
 | [Dezembro](https://open.spotify.com/track/6fqyjifsBZiZLpYA8n3FuB) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Dezembro](https://open.spotify.com/album/6YTd5CGlZO7L1pnUSgvSvl) | 3:48 | 2023-12-15 | 2024-02-17 |
 | [Diante dos Olhos](https://open.spotify.com/track/4MS7gcn0uGhmzNWWl5RRwd) | [Vintium](https://open.spotify.com/artist/3SGA7GJztAksjHmf5zVTUB), [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Diante dos Olhos](https://open.spotify.com/album/4xQUvpsZBA4bAtyHRbYcUc) | 3:36 | 2024-04-19 | 2024-10-05 |
 | [Dias Claros](https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Dias Claros](https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9) | 2:31 | 2023-04-07 | 2023-12-02 |
+| [disco voador](https://open.spotify.com/track/2jRXQx3AS2OVMSYB7PEhTj) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [BASEADO EM FATOS REAIS \(deluxe\)](https://open.spotify.com/album/1VNgTtRJ1zbNbBCc9mmTr1) | 2:55 | 2026-04-03 |  |
 | [do céu ao inferno](https://open.spotify.com/track/2su7rpshqu1YtlRSinMGNx) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [do céu ao inferno](https://open.spotify.com/album/3ymIbbproFg65oCA0eOFeH) | 3:18 | 2024-10-11 | 2024-12-21 |
 | [Do Jeito Que Você Me Ilude](https://open.spotify.com/track/2FFaJrEQven5YnYcRL7U5r) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Do Jeito Que Você Me Ilude](https://open.spotify.com/album/4xZzsW2CUOKRSEkPaIemmr) | 2:35 | 2022-05-13 | 2022-06-15 |
 | [do raso ao fundo](https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [do raso ao fundo](https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK) | 4:05 | 2025-04-25 | 2025-12-12 |

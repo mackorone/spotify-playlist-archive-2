@@ -1,6 +1,6 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 199513,
+  "num_followers": 199580,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "El Indio Enamorado",
-        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 188128,
-      "name": "El Indio Enamorado",
-      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Mexicano Hasta Las Pampas",
         "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 174157,
       "name": "Voy A Conquistarte",
       "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "Inventame - En Vivo",
-      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 172560,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Inventame - En Vivo",
+      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "La basurita",
-      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "Forjando una Historia",
         "url": "https://open.spotify.com/album/4cuJk8bQyqPBuTom3C16uo"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 196266,
       "name": "Dos Botellas De Mezcal",
       "url": "https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "La basurita",
+      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1195,8 +1195,8 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "El Amor Que Nunca Fue",
-        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
+        "name": "35 Aniversario",
+        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
       },
       "artists": [
         {
@@ -1204,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 204360,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
+      "duration_ms": 227933,
+      "name": "Actos De Un Tonto",
+      "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "Duele El Amor",
-        "url": "https://open.spotify.com/album/5LrxTZA5PuIQETlxJuWdHy"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres de la Sierra",
-          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "De Rodillas Te Pido",
-      "url": "https://open.spotify.com/track/6tKFmdlGpSiLZV35VH4PIx"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 169920,
       "name": "Qu\u00e9 No Dar\u00eda",
       "url": "https://open.spotify.com/track/6zWWMgNPLMHokpH2gRzyeS"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
+        "name": "Duele El Amor",
+        "url": "https://open.spotify.com/album/5LrxTZA5PuIQETlxJuWdHy"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/6tKFmdlGpSiLZV35VH4PIx"
     },
     {
       "added_at": "2024-10-23 17:24:42",
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
-        "name": "35 Aniversario",
-        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
+        "name": "El Amor Que Nunca Fue",
+        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
       },
       "artists": [
         {
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 227933,
-      "name": "Actos De Un Tonto",
-      "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
+      "duration_ms": 204360,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
     },
     {
       "added_at": "2024-10-23 17:24:42",

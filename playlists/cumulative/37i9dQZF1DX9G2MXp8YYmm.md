@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Derya Uluğ
 
-542 songs - 1 day 3 hr 23 min
+543 songs - 1 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Delil](https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Delil](https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH) | 2:22 | 2024-06-27 | 2024-08-05 |
 | [Denizler Derya](https://open.spotify.com/track/0QfeYJR33agZbEk1IKaaKk) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Denizler Derya](https://open.spotify.com/album/2GkdmyUO37FrB3ia4XAbVX) | 4:10 | 2024-08-08 | 2024-08-23 |
 | [Derbeder](https://open.spotify.com/track/6OATjzm4jOcPr2JaTELCUQ) | [Emre Şakar](https://open.spotify.com/artist/0rdwmnIhNkunUZvqAIU0Kh) | [Derbeder](https://open.spotify.com/album/2ZDnY4BVepv4dT3AuZmDBk) | 2:23 | 2024-09-05 | 2024-09-13 |
-| [Derde Aşık Olmuşuz](https://open.spotify.com/track/4jl46TtBgBbYHQOFwpLiBi) | [Gökhan Tepe](https://open.spotify.com/artist/6C2dcLMiM7ReleaXaiHsw5) | [Derde Aşık Olmuşuz](https://open.spotify.com/album/5wq021Suabys88JlhipQSf) | 3:56 | 2025-07-31 |  |
+| [Derde Aşık Olmuşuz](https://open.spotify.com/track/4jl46TtBgBbYHQOFwpLiBi) | [Gökhan Tepe](https://open.spotify.com/artist/6C2dcLMiM7ReleaXaiHsw5) | [Derde Aşık Olmuşuz](https://open.spotify.com/album/5wq021Suabys88JlhipQSf) | 3:56 | 2025-07-31 | 2026-04-04 |
 | [Derdim](https://open.spotify.com/track/0PDtvj3ZllsSfizbHzi1Z4) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Derdim](https://open.spotify.com/album/3DBSP9L9pMAlGAITrD8KF5) | 2:47 | 2025-10-23 | 2026-01-15 |
 | [derdim var](https://open.spotify.com/track/2BDFcXV23UANGAQ0J3kisZ) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [derdim var](https://open.spotify.com/album/71bmrClM3TxVThhDdxj2Xj) | 2:28 | 2025-04-17 | 2025-07-26 |
 | [DERMANIM](https://open.spotify.com/track/1FMbDJd4OAYIyNbvcBxIDr) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [DERMANIM](https://open.spotify.com/album/5ZlbCE0T5trgtEBO8RHgX6) | 2:34 | 2024-11-14 | 2025-01-05 |
@@ -322,6 +322,7 @@
 | [Küçük Bir Aşk Masalı](https://open.spotify.com/track/22zG9wPpspjZaBITqkfVfC) | [GALI](https://open.spotify.com/artist/3Gezk7PNZUHOmg9zuhtleN), [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Küçük Bir Aşk Masalı](https://open.spotify.com/album/5PwH7CgWdihO7ereHkxZ9P) | 3:06 | 2025-11-27 | 2025-12-25 |
 | [Küçük Hesaplar](https://open.spotify.com/track/0ydR35Qtrsk24fL01NuYC6) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Küçük Hesaplar](https://open.spotify.com/album/4NmqdoLVzbMUF9x41SMOMM) | 4:35 | 2025-07-31 | 2025-09-26 |
 | [Küçük Şeyler](https://open.spotify.com/track/1YYCphYLs0EJVTKF2gWHGI) | [Hakan Kılınç](https://open.spotify.com/artist/5iq9EHglioaz4pVoNTZBey) | [Küçük Şeyler](https://open.spotify.com/album/5W3J11XI0SPnsc4ir0Zpuj) | 2:47 | 2024-09-05 | 2024-09-13 |
+| [Kırmızı](https://open.spotify.com/track/58Y5BrcGgDUd5RWApT1lV9) | [Ayla Çelik](https://open.spotify.com/artist/3Z7GwK4hUEczTklLsVedcx) | [Kırmızı](https://open.spotify.com/album/3wk2gK2cnkhfqMqydtqdf9) | 3:25 | 2026-04-03 |  |
 | [Kızılca Şerbet](https://open.spotify.com/track/0aIrUkvAvcy36CtV5pXEme) | [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Kızılca Şerbet](https://open.spotify.com/album/746RjfRw4bAjdrGLcOQdys) | 3:00 | 2025-05-27 | 2025-07-01 |
 | [Kış Kış](https://open.spotify.com/track/7dPt6dEmIr788BonzTIVJt) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Kış Kış](https://open.spotify.com/album/4FA7EWO0U9xGxBfvlbeeGg) | 3:13 | 2025-06-05 | 2025-12-19 |
 | [Lakin](https://open.spotify.com/track/7AjPgrmEzCBVkQWUiOncM3) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Lakin](https://open.spotify.com/album/7u52LKZ2sJ0LnYxMol4Sxi) | 2:41 | 2024-06-27 | 2026-01-30 |

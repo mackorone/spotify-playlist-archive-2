@@ -15677,6 +15677,24 @@
     },
     {
       "album": {
+        "name": "Soaring",
+        "url": "https://open.spotify.com/album/0ALI5lP9Vo94YoJZy8OoRk"
+      },
+      "artists": [
+        {
+          "name": "Sindresu",
+          "url": "https://open.spotify.com/artist/76ABe2gQodROtWDOWQRL9J"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Soaring",
+      "url": "https://open.spotify.com/track/3t61xVGeNITVblylUfIHU0"
+    },
+    {
+      "album": {
         "name": "sober",
         "url": "https://open.spotify.com/album/27Zp5a2eVYz1W7e8KQmcOQ"
       },

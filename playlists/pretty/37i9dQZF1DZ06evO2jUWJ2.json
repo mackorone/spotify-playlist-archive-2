@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 322725,
+  "num_followers": 322838,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAABYsWS9pPskOXVD+ABtJhYI",
+  "snapshot_id": "ac2xgAAAAADvbzvF7r6Swb4FEULdMKKh",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 371616,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/7qqtTPQIMXAFubamFBPHG5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God I'm Just Grateful",
         "url": "https://open.spotify.com/album/5FTiQxhX4OfMF5YjStmIt6"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 299583,
       "name": "God I'm Just Grateful",
       "url": "https://open.spotify.com/track/2ggP6WjaTsloaiBxXY5JB7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 371616,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/7qqtTPQIMXAFubamFBPHG5"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 294800,
-      "name": "Give Me Faith",
-      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 598622,
       "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/4vVKQV8ZHk4uUjEkkydLLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 294800,
+      "name": "Give Me Faith",
+      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 291330,
-      "name": "My Testimony (Live)",
-      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -779,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aleluya (En La Tierra)",
-        "url": "https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH"
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Elevation Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
         }
       ],
-      "duration_ms": 378636,
-      "name": "Digno (Worthy)",
-      "url": "https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba"
+      "duration_ms": 291330,
+      "name": "My Testimony (Live)",
+      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
     },
     {
       "added_at": null,
@@ -823,26 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "So So Good (Live)",
-        "url": "https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru"
+        "name": "Aleluya (En La Tierra)",
+        "url": "https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
         }
       ],
-      "duration_ms": 288766,
-      "name": "So So Good - Live",
-      "url": "https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg"
+      "duration_ms": 378636,
+      "name": "Digno (Worthy)",
+      "url": "https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba"
     },
     {
       "added_at": null,
@@ -867,22 +843,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAN YOU IMAGINE?",
-        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+        "name": "So So Good (Live)",
+        "url": "https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         },
         {
-          "name": "Jonsal Barrientes",
-          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 361964,
-      "name": "No Body (feat. Jonsal Barrientes)",
-      "url": "https://open.spotify.com/track/2djkGKuduO9pea7gt8wPIz"
+      "duration_ms": 288766,
+      "name": "So So Good - Live",
+      "url": "https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg"
     },
     {
       "added_at": null,
@@ -907,22 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy In The Morning (Horizon Edition)",
-        "url": "https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ"
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Jonsal Barrientes",
+          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
         }
       ],
-      "duration_ms": 528413,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95"
+      "duration_ms": 361964,
+      "name": "No Body (feat. Jonsal Barrientes)",
+      "url": "https://open.spotify.com/track/2djkGKuduO9pea7gt8wPIz"
     },
     {
       "added_at": null,
@@ -947,22 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+        "name": "Joy In The Morning (Horizon Edition)",
+        "url": "https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
           "name": "Tauren Wells",
           "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 236736,
-      "name": "Echo (feat. Tauren Wells)",
-      "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
+      "duration_ms": 528413,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95"
     },
     {
       "added_at": null,
@@ -987,6 +967,26 @@
       "duration_ms": 473850,
       "name": "New Thing Coming (feat. Tiffany Hudson & Steven Furtick)",
       "url": "https://open.spotify.com/track/352bLqQDbtRgaFhZgdLUde"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 236736,
+      "name": "Echo (feat. Tauren Wells)",
+      "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: EVITA!",
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: Death Becomes Her",
   "name": "Broadway Hits",
   "tracks": [
     {
@@ -370,10 +370,32 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 184987,
       "name": "Another Suitcase In Another Hall",
       "url": "https://open.spotify.com/track/5Kyv5m2uTeh1sd6mhIXRJe"
+    },
+    {
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/5kBN5Qo1rxGqVr4dJIscT9"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Christopher",
+          "url": "https://open.spotify.com/artist/1bc4RK3BAuMC9yCEYM8MrN"
+        },
+        {
+          "name": "CHESS 2025 Broadway Company",
+          "url": "https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194744,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2WaxEavbIServ6UOMJijd2"
     },
     {
       "album": {
@@ -1178,6 +1200,28 @@
       "duration_ms": 306893,
       "name": "For Good - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/3WkgLAd7jGX3sZikfkF0lU"
+    },
+    {
+      "album": {
+        "name": "Death Becomes Her - Broadway Sneak Preview",
+        "url": "https://open.spotify.com/album/3MIGDAti81cyz9Aijjirb8"
+      },
+      "artists": [
+        {
+          "name": "Megan Hilty",
+          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+        },
+        {
+          "name": "'Death Becomes Her' Original Broadway Cast",
+          "url": "https://open.spotify.com/artist/5vboLeKxVlZmhd5sxZ05Wc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256444,
+      "name": "For The Gaze",
+      "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
     },
     {
       "album": {
@@ -4632,7 +4676,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 300246,
       "name": "Way Down Hadestown",
       "url": "https://open.spotify.com/track/5fnl0Tyeh4r5gPANdaVu61"

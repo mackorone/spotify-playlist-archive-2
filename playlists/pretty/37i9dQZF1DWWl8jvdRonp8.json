@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 300209,
+  "num_followers": 300304,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
+        "name": "Serie 33",
+        "url": "https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
+        {
+          "name": "Jos\u00e9 Manuel Zamacona",
+          "url": "https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/6DWA4R2XGw2jY5xTZKpvl5"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 228056,
       "name": "C\u00f3mo Me Haces Falta",
       "url": "https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "Serie 33",
-        "url": "https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C"
-      },
-      "artists": [
-        {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        },
-        {
-          "name": "Jos\u00e9 Manuel Zamacona",
-          "url": "https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Pero Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/6DWA4R2XGw2jY5xTZKpvl5"
     },
     {
       "added_at": "2026-03-10 01:21:38",

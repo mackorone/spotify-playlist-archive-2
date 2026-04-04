@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 72031,
+  "num_followers": 72044,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 178352,
+      "name": "Amor da Minha Vida",
+      "url": "https://open.spotify.com/track/1cbLFYmad56AWDBu6HNIW0"
+    },
+    {
+      "added_at": "2026-03-27 19:13:43",
+      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 249255,
       "name": "Maldade",
       "url": "https://open.spotify.com/track/4a1BLWVTSwGno5lUJS7s0h"
-    },
-    {
-      "added_at": "2026-03-27 19:13:43",
-      "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 178352,
-      "name": "Amor da Minha Vida",
-      "url": "https://open.spotify.com/track/1cbLFYmad56AWDBu6HNIW0"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -491,18 +491,18 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
+        "name": "PASSARINHO",
+        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
       },
       "artists": [
         {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
         }
       ],
-      "duration_ms": 226073,
-      "name": "Me Curar",
-      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+      "duration_ms": 201783,
+      "name": "PASSARINHO",
+      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -527,38 +527,18 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
-        "name": "PASSARINHO",
-        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
+        "name": "93",
+        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
       "artists": [
         {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
         }
       ],
-      "duration_ms": 201783,
-      "name": "PASSARINHO",
-      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
-    },
-    {
-      "added_at": "2026-03-27 19:13:43",
-      "album": {
-        "name": "Eu Te Entendo",
-        "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 157437,
-      "name": "Eu Te Entendo",
-      "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
+      "duration_ms": 226073,
+      "name": "Me Curar",
+      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -579,6 +559,26 @@
       "duration_ms": 206000,
       "name": "Vai dar Bom (Ao Vivo)",
       "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
+    },
+    {
+      "added_at": "2026-03-27 19:13:43",
+      "album": {
+        "name": "Eu Te Entendo",
+        "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 157437,
+      "name": "Eu Te Entendo",
+      "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
     },
     {
       "added_at": "2026-03-27 19:13:43",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-03-27 19:13:43",
       "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
+    },
+    {
+      "added_at": "2026-03-27 19:13:43",
+      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
-    },
-    {
-      "added_at": "2026-03-27 19:13:43",
-      "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2026-03-27 19:13:43",

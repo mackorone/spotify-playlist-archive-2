@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-996 songs - 2 day 5 hr 3 min
+997 songs - 2 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,6 +774,7 @@
 | [So Sad](https://open.spotify.com/track/50eUM0SPChUkxCSXj9SDpU) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [So Sad](https://open.spotify.com/album/34c9VT0L8JNBwtOX0pAUzM) | 2:52 | 2024-09-19 | 2025-08-13 |
 | [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 | 2023-05-04 | 2024-01-06 |
 | [Soak Up The Sun](https://open.spotify.com/track/2vhaFJVzOrVgF4wdU2lzp0) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [Soak Up The Sun](https://open.spotify.com/album/0oufmjtrlHZxQW7scjMcJk) | 3:36 | 2023-09-07 | 2024-01-06 |
+| [Soaring](https://open.spotify.com/track/3t61xVGeNITVblylUfIHU0) | [Sindresu](https://open.spotify.com/artist/76ABe2gQodROtWDOWQRL9J) | [Soaring](https://open.spotify.com/album/0ALI5lP9Vo94YoJZy8OoRk) | 2:16 | 2026-04-02 |  |
 | [sober](https://open.spotify.com/track/1U2bitiQwMK8GfMwhsmERj) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [sober](https://open.spotify.com/album/27Zp5a2eVYz1W7e8KQmcOQ) | 2:07 | 2023-11-16 | 2024-01-06 |
 | [SOLANA](https://open.spotify.com/track/3xcf6DL9oc2botvStMUlnD) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [SOLANA](https://open.spotify.com/album/4MsGXqVu2XqkvLScKUZ9XT) | 3:10 | 2025-05-08 |  |
 | [Somebody Else](https://open.spotify.com/track/5K9UgcPMw6y4PkQkLqwHu7) | [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [Somebody Else](https://open.spotify.com/album/0OpZ6W4gMnByrUkMQIKPBS) | 2:01 | 2026-01-29 |  |

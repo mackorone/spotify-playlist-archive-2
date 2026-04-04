@@ -4,7 +4,7 @@
 
 > For the caffeinated Christians!
 
-411 songs - 1 day 2 hr 25 min
+412 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Light of the World \(John 8\)](https://open.spotify.com/track/6p7qWnVcx1lOXXX1U3ehCp) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Nadège Nightingale](https://open.spotify.com/artist/5xCWbBpvJpf8QSfFtgZRHa) | [Light of the World \(John 8\)](https://open.spotify.com/album/4rd7wAjNFrH9WdeH5kJsl3) | 3:19 | 2026-03-23 |  |
 | [Like the Dawn](https://open.spotify.com/track/1RH9Nsu2iiShLD1enwFLaC) | [Becky Higg](https://open.spotify.com/artist/5ttP4RmwYgmSnhINrRavZv) | [Maybe Just Maybe](https://open.spotify.com/album/564N7BUtsNurbaPUL5FRg8) | 5:19 | 2020-08-31 | 2025-10-11 |
 | [Like The Prodigal \(Come Home\)](https://open.spotify.com/track/7DBugFty697vJcT7so4kfl) | [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd), [Brice Davis](https://open.spotify.com/artist/1b1HAA4FKPRckylVMBY9PM) | [Like The Prodigal \(Come Home\)](https://open.spotify.com/album/68N0FwU3ser9k5veW6JAGQ) | 4:41 | 2026-03-23 |  |
+| [Little Big Dreams](https://open.spotify.com/track/7pJU4hwoSBRlQ2FaBcASK6) | [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye), [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL), [Grace Coleman](https://open.spotify.com/artist/3R2G7IcUc0fmusW118P3cK), [Tiff Willmott](https://open.spotify.com/artist/5wIQoZsxW6jA9LXiyIz23h) | [Little Big Dreams](https://open.spotify.com/album/31kG968T4NmPlLaFynGNLz) | 4:26 | 2026-03-23 |  |
 | [Livin' To Learn](https://open.spotify.com/track/47Hf9LNwkxnQK7BtzyFtp1) | [Alex Jude](https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6) | [Livin' To Learn](https://open.spotify.com/album/6Ilwp3o5p0nuYlB42uGyoe) | 2:27 | 2025-12-12 | 2026-03-24 |
 | [Love Is](https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3) | [Allan McKinlay](https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf) | [Love Is](https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX) | 4:42 | 2020-08-31 | 2024-08-03 |
 | [Love Together](https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [A Dawn I Remember](https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH) | 4:14 | 2020-08-31 | 2023-07-29 |
@@ -336,7 +337,7 @@
 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 | 2024-08-03 |  |
 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 | 2020-08-31 | 2025-10-11 |
 | [Teach Us That One Song](https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 5:54 | 2020-08-31 | 2024-06-24 |
-| [Teach Us That One Song](https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Teach Us That One Song](https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb) | 5:54 | 2020-08-31 |  |
+| [Teach Us That One Song](https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Teach Us That One Song](https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb) | 5:54 | 2020-08-31 | 2026-04-04 |
 | [Thank God I Do](https://open.spotify.com/track/1V89zM9vgYVK4wyuasc74p) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Thank God I Do](https://open.spotify.com/album/0E1Ip2z8HR4ZYobvGTSlbJ) | 2:49 | 2023-07-28 | 2024-06-24 |
 | [Thank God I'm Not Alone](https://open.spotify.com/track/548bzYziy54164GQtXyihm) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Thank God I'm Not Alone](https://open.spotify.com/album/48VcWMgbgGWhTEhd8IEWy9) | 3:22 | 2025-08-06 |  |
 | [That's What I Call Free](https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [That's What I Call Free](https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb) | 3:51 | 2020-08-31 | 2025-10-11 |

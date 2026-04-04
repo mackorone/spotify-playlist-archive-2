@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,258 songs - 9 day 10 hr 43 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,259 songs - 9 day 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4266,5 +4266,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4256 | [Just Breathe](https://open.spotify.com/track/4ZFyVxZB4l8NMeKZ6tUYEc) | [Filthy Deal](https://open.spotify.com/artist/4VKZGj2RRrPO9PoQ2YzeWn) | [Just Breathe](https://open.spotify.com/album/7uwplBXjgdX7lDVcnUkwjv) | 4:18 |
 | 4257 | [Nebulosas Grises](https://open.spotify.com/track/19PaaxUieiyfH1afIQm4FG) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 4:03 |
 | 4258 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 |
+| 4259 | [We all live in a Fantasy](https://open.spotify.com/track/1utF6RyVi98fnKc0Du68uH) | [Archi Deep](https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl) | [We all live in a Fantasy](https://open.spotify.com/album/5bT2StBoZlkx0WlM4d4KI3) | 2:07 |
 
-Snapshot ID: `AAAIIeNkuE6T7zL2ILvwiemODwKISH/x`
+Snapshot ID: `AAAIIlHafBm7XxbleTtZEWTXqtLUdDBD`

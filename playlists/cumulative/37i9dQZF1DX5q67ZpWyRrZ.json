@@ -4893,6 +4893,32 @@
     },
     {
       "album": {
+        "name": "sun saawariya",
+        "url": "https://open.spotify.com/album/6TsxNWUu5OwoS11OORzoWy"
+      },
+      "artists": [
+        {
+          "name": "Accha Insaan",
+          "url": "https://open.spotify.com/artist/5kTO2lNG7ub2Bed7CF8zpH"
+        },
+        {
+          "name": "AtharvaMusic",
+          "url": "https://open.spotify.com/artist/689wgdJ8FExzGjaiehjfTS"
+        },
+        {
+          "name": "Yaani Karnawat",
+          "url": "https://open.spotify.com/artist/2DQRnUEWF0YPw4vXHgJzq8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "sun saawariya",
+      "url": "https://open.spotify.com/track/0dnsJ8W8k4ncYstIsrz5pY"
+    },
+    {
+      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m"
       },
@@ -5408,7 +5434,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 177105,
       "name": "Unse Jaake Kehdo",
       "url": "https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X"

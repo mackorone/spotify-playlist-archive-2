@@ -4,7 +4,7 @@
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-123 songs - 6 hr 43 min
+124 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Someday the Fire…](https://open.spotify.com/track/4nMlkWhy05wzOZT6612Zsb) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 3:15 | 2024-10-12 | 2025-11-13 |
 | [Spine](https://open.spotify.com/track/2jEM4kZCCvavtg3igVPd2c) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ) | 2:22 | 2025-07-27 | 2025-07-31 |
 | [Spine](https://open.spotify.com/track/4kj1UC6tMgspee3nRtLdqd) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:22 | 2022-10-25 | 2024-10-01 |
+| [Spine](https://open.spotify.com/track/581EaGsYGBSEEajYqSa9Au) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl) | 2:22 | 2026-04-04 |  |
 | [Spinning Over the Island](https://open.spotify.com/track/01X6UyKp6CwFWbEUey7Tli) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU) | 5:03 | 2024-03-10 | 2024-09-10 |
 | [Spinning Over the Island](https://open.spotify.com/track/1Mi8BxBA1FCh2ewTslZeoP) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR) | 5:03 | 2025-09-26 | 2025-10-09 |
 | [Stand by Me for the Millionth Time](https://open.spotify.com/track/6VqeHGqHH5mWHCngFC2IQb) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:53 | 2022-10-25 | 2024-10-12 |

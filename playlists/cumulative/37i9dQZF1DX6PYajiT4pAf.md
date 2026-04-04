@@ -4,7 +4,7 @@
 
 > Lérica con Daviles de Novelda y Marta Santos, Morad y el resto de novedades de la semana.
 
-5,058 songs - 10 day 19 hr 9 min
+5,060 songs - 10 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2046,6 +2046,7 @@
 | [IMPERIO](https://open.spotify.com/track/2KAWDGPsPbArgMHmDEGaf5) | [cybernene](https://open.spotify.com/artist/0frxUwUJIHPXGWZh4bSdYZ), [Steve Lean](https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T) | [PRESIDENTIAL SHIT THE MIXTAPE](https://open.spotify.com/album/0uKg2oxVbUhMCCDXA5OooC) | 2:38 | 2025-06-27 | 2025-07-04 |
 | [Imperio](https://open.spotify.com/track/63rRgkllF0FDeZ9fpOkFKl) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 2:48 | 2024-11-01 | 2024-11-08 |
 | [Importante](https://open.spotify.com/track/7EST4cNrgPyNyMFKnVWeKV) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Importante](https://open.spotify.com/album/05cwZJZmICYgHxcdJMl77u) | 3:35 | 2024-10-24 | 2024-11-01 |
+| [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 | 2026-04-02 |  |
 | [In My Mind](https://open.spotify.com/track/1UcSwc91w0QBondREndseA) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [In My Mind](https://open.spotify.com/album/0mtGeLXVMtHOo7n83TqJib) | 4:15 | 2026-02-13 | 2026-02-20 |
 | [IN MY MIND](https://open.spotify.com/track/6Ph55s9JklilVHJQaaHOsw) | [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw) | [IN MY MIND](https://open.spotify.com/album/0n6cH3AkhjBNdThiR0RVaN) | 2:18 | 2025-11-13 | 2025-11-21 |
 | [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 | 2025-08-15 | 2025-08-22 |
@@ -3901,6 +3902,7 @@
 | [Rutina](https://open.spotify.com/track/4EZRWXXfT2Odi7n5YqDd8m) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Rutina](https://open.spotify.com/album/4veGlDXexNE2cbOSIfQ5vC) | 2:48 | 2025-08-28 | 2025-09-05 |
 | [Ryanair](https://open.spotify.com/track/1eLSHAMqLVqtl5dmopqqp8) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a) | [Ryanair](https://open.spotify.com/album/35hqTabGKPWZn4aAuaskiT) | 3:09 | 2024-12-13 | 2024-12-20 |
 | [Rákata](https://open.spotify.com/track/2zzgT2jCp1j447vLyFFVk0) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj), [Marlon Collins](https://open.spotify.com/artist/5ek3qzAl6qGKWK7IuMmZRY) | [Rákata](https://open.spotify.com/album/2ya3UfTSTJLpv1FLmrtR6V) | 2:46 | 2025-12-18 | 2026-01-02 |
+| [réquiem por un sueño†](https://open.spotify.com/track/4TE6fGCKiNkBLqDEh59jOM) | [maxin](https://open.spotify.com/artist/5wlwdTl3dkozfS4DzObwgK) | [el precio](https://open.spotify.com/album/4MCitSnImMO4NjnuDD6mkm) | 4:46 | 2026-04-02 |  |
 | [Rómpela](https://open.spotify.com/track/7vECiTc2ctR0rdVefmcE2M) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Rómpela](https://open.spotify.com/album/2jovrBd9NY3lFixD3QllQ6) | 3:19 | 2026-03-19 | 2026-03-27 |
 | [s1venir](https://open.spotify.com/track/38udx9DSLElXWWLaQefK8P) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Nostàlgia Airlines SOUVENIR](https://open.spotify.com/album/5mvSkqsCbu8WwyUliAlv59) | 2:22 | 2025-03-13 | 2025-03-21 |
 | [Sabe de más](https://open.spotify.com/track/2VrtssKdjFZoDj4s1BBhnd) | [Lasole](https://open.spotify.com/artist/0SNAq10u99QLJf2Y8jzsQt), [El Hombre Viento](https://open.spotify.com/artist/6qJFpsoo6UNlHtmmkkvaOm), [Dani Cano](https://open.spotify.com/artist/45oDYg3pjYh48K65mCNPvz) | [Sabe de más](https://open.spotify.com/album/6c3iKD5GAqVEejF6yH7sgl) | 3:15 | 2025-06-12 | 2025-06-20 |

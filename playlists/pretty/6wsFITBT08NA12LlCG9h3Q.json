@@ -1,13 +1,29 @@
 {
   "description": "A <a href=\"http://www.digster.fm/decades\">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.",
-  "num_followers": 144414,
+  "num_followers": 144411,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAFLwsmg2im3IlU9o0j2/gPPVRmA+V6",
+  "snapshot_id": "AAAFPANA+mWeEZGrpbmf9QtB016Bh6zt",
   "tracks": [
+    {
+      "added_at": "2026-04-03 17:27:16",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 273600,
+      "name": "Mary Jane's Last Dance",
+      "url": "https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6"
+    },
     {
       "added_at": "2026-03-07 00:52:45",
       "album": {
@@ -25,10 +41,10 @@
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
     },
     {
-      "added_at": "2025-07-25 20:04:21",
+      "added_at": "2026-03-27 19:20:54",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+        "name": "No Need To Argue (2025 Remastered)",
+        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
       },
       "artists": [
         {
@@ -36,9 +52,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 271560,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
+      "duration_ms": 270600,
+      "name": "Ode To My Family - 2025 Remastered",
+      "url": "https://open.spotify.com/track/3k8qSv5e8ALW6tA9cpY9mm"
     },
     {
       "added_at": "2026-03-07 00:54:40",
@@ -137,22 +153,6 @@
       "url": "https://open.spotify.com/track/087OBLtoeS3Q6j0k6tMNAI"
     },
     {
-      "added_at": "2025-12-12 21:30:40",
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 304986,
-      "name": "Undone - The Sweater Song",
-      "url": "https://open.spotify.com/track/5p48X3cAjKoPDSpNtSft4N"
-    },
-    {
       "added_at": "2026-01-09 18:30:37",
       "album": {
         "name": "Sparkle And Fade",
@@ -233,20 +233,20 @@
       "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
-      "added_at": "2026-03-27 19:21:11",
+      "added_at": "2025-12-12 21:30:40",
       "album": {
-        "name": "To The Faithful Departed",
-        "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 296200,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1"
+      "duration_ms": 304986,
+      "name": "Undone - The Sweater Song",
+      "url": "https://open.spotify.com/track/5p48X3cAjKoPDSpNtSft4N"
     },
     {
       "added_at": "2025-04-22 23:10:10",
@@ -319,6 +319,22 @@
       "duration_ms": 173026,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "added_at": "2025-07-25 20:04:21",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 271560,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
     },
     {
       "added_at": "2025-04-22 23:10:10",
@@ -579,22 +595,6 @@
       "duration_ms": 148573,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt"
-    },
-    {
-      "added_at": "2026-03-27 19:20:54",
-      "album": {
-        "name": "No Need To Argue (2025 Remastered)",
-        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "Ode To My Family - 2025 Remastered",
-      "url": "https://open.spotify.com/track/3k8qSv5e8ALW6tA9cpY9mm"
     },
     {
       "added_at": "2025-04-22 23:10:10",
@@ -899,6 +899,22 @@
       "duration_ms": 268653,
       "name": "MMMBop",
       "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
+    },
+    {
+      "added_at": "2026-03-27 19:21:11",
+      "album": {
+        "name": "To The Faithful Departed",
+        "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 296200,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1"
     },
     {
       "added_at": "2025-04-22 23:10:10",

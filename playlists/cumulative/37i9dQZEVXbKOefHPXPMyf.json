@@ -15262,7 +15262,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 189223,
       "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
       "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
@@ -38130,6 +38130,24 @@
     {
       "album": {
         "name": "Jane!",
+        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
+    },
+    {
+      "album": {
+        "name": "Jane!",
         "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
       },
       "artists": [
@@ -38140,7 +38158,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
@@ -45002,6 +45020,24 @@
     {
       "album": {
         "name": "Love Without Disguises",
+        "url": "https://open.spotify.com/album/2XugAC7ToYWSLu47cP4j4Y"
+      },
+      "artists": [
+        {
+          "name": "Warren Roob",
+          "url": "https://open.spotify.com/artist/0iUilg0v4jsKoxUPw9YbB4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186680,
+      "name": "Love Without Disguises",
+      "url": "https://open.spotify.com/track/1Ghsz0gso8z3dyJ4OwqIFV"
+    },
+    {
+      "album": {
+        "name": "Love Without Disguises",
         "url": "https://open.spotify.com/album/19H6A6oMv9paBkyycuRouA"
       },
       "artists": [
@@ -45012,7 +45048,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186680,
       "name": "Love Without Disguises",
       "url": "https://open.spotify.com/track/4UH8HyU5HJnyQEcVT4rfcx"
@@ -81952,7 +81988,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"

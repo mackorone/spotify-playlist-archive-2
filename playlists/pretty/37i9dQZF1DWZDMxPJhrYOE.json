@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105732,
+  "num_followers": 105745,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
-        "name": "Nightingale Lane.",
-        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 302623,
-      "name": "Nightingale Lane.",
-      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
-    },
-    {
-      "added_at": "2026-03-27 08:11:13",
-      "album": {
         "name": "Loving Life Again",
         "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 226413,
       "name": "Loving Life Again",
       "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
+    },
+    {
+      "added_at": "2026-03-27 08:11:13",
+      "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
       "added_at": "2026-03-27 08:11:13",
@@ -543,8 +543,8 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
-        "name": "ICEMAN FREESTYLE",
-        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
+        "name": "ALL ROADS LEAD HOME",
+        "url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID"
       },
       "artists": [
         {
@@ -552,9 +552,25 @@
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 186000,
-      "name": "ICEMAN FREESTYLE",
-      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
+      "duration_ms": 127000,
+      "name": "WAGWAN",
+      "url": "https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip"
+    },
+    {
+      "added_at": "2026-03-27 08:11:13",
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/3x7Y0DerIKV86QgiyEbrkT"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 154448,
+      "name": "Dinner Party",
+      "url": "https://open.spotify.com/track/1EpOBcogQexzXarRTUDlDH"
     },
     {
       "added_at": "2026-03-27 08:11:13",
@@ -575,22 +591,6 @@
       "duration_ms": 224946,
       "name": "Home (feat. Hikaru Utada)",
       "url": "https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r"
-    },
-    {
-      "added_at": "2026-03-27 08:11:13",
-      "album": {
-        "name": "Dinner Party",
-        "url": "https://open.spotify.com/album/3x7Y0DerIKV86QgiyEbrkT"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 154448,
-      "name": "Dinner Party",
-      "url": "https://open.spotify.com/track/1EpOBcogQexzXarRTUDlDH"
     },
     {
       "added_at": "2026-03-27 08:11:13",
@@ -627,8 +627,8 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
-        "name": "ALL ROADS LEAD HOME",
-        "url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID"
+        "name": "ICEMAN FREESTYLE",
+        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 127000,
-      "name": "WAGWAN",
-      "url": "https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip"
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
     },
     {
       "added_at": "2026-03-27 08:11:13",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
+    },
+    {
+      "added_at": "2026-03-27 08:11:13",
+      "album": {
         "name": "To Love Somebody",
         "url": "https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 243667,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
-    },
-    {
-      "added_at": "2026-03-27 08:11:13",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-03-27 08:11:13",
@@ -799,42 +799,6 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 206530,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
-    },
-    {
-      "added_at": "2026-03-27 08:11:13",
-      "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 232796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
-    },
-    {
-      "added_at": "2026-03-27 08:11:13",
-      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
       },
@@ -855,6 +819,22 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 206530,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
+    },
+    {
+      "added_at": "2026-03-27 08:11:13",
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/3KnAcqhkltzD7qQ1SDF0AU"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 219190,
       "name": "Honest",
       "url": "https://open.spotify.com/track/4Tk4WBjzGdKqgtRfmCgaty"
+    },
+    {
+      "added_at": "2026-03-27 08:11:13",
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "added_at": "2026-03-27 08:11:13",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
-        "name": "VILD UNGDOM",
-        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 224812,
-      "name": "Flue i et spind",
-      "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
-    },
-    {
-      "added_at": "2026-03-27 08:11:13",
-      "album": {
         "name": "Sexistential",
         "url": "https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 214403,
       "name": "Sucker For Love",
       "url": "https://open.spotify.com/track/5O8GYy3zDYonQno0UWYc9n"
+    },
+    {
+      "added_at": "2026-03-27 08:11:13",
+      "album": {
+        "name": "VILD UNGDOM",
+        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 224812,
+      "name": "Flue i et spind",
+      "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
     },
     {
       "added_at": "2026-03-27 08:11:13",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
+    },
+    {
+      "added_at": "2026-03-27 08:11:13",
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 260879,
       "name": "Lights Burn Dimmer",
       "url": "https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ"
-    },
-    {
-      "added_at": "2026-03-27 08:11:13",
-      "album": {
-        "name": "Miyazaki",
-        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "Miyazaki",
-      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
       "added_at": "2026-03-27 08:11:13",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
+        "name": "Back in Love",
+        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Back in Love",
+      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
+    },
+    {
+      "added_at": "2026-03-27 08:11:13",
+      "album": {
         "name": "I Like You Better Than Me",
         "url": "https://open.spotify.com/album/0ScYexrAYA9MV0yN5YgLyn"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
-        "name": "Back in Love",
-        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
+        "name": "getting up to no good",
+        "url": "https://open.spotify.com/album/5CKpo0bDKwobUM6FzCqXVf"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 194346,
-      "name": "Back in Love",
-      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
+      "duration_ms": 151977,
+      "name": "i kinda like how u know just how beautiful u are",
+      "url": "https://open.spotify.com/track/4tjaq94p36aOoFwwdKhmGt"
     },
     {
       "added_at": "2026-03-27 08:11:13",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
-        "name": "getting up to no good",
-        "url": "https://open.spotify.com/album/5CKpo0bDKwobUM6FzCqXVf"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 151977,
-      "name": "i kinda like how u know just how beautiful u are",
-      "url": "https://open.spotify.com/track/4tjaq94p36aOoFwwdKhmGt"
-    },
-    {
-      "added_at": "2026-03-27 08:11:13",
-      "album": {
         "name": "I Had a Dream She Took My Hand",
         "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 220291,
       "name": "I Had a Dream She Took My Hand",
       "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+    },
+    {
+      "added_at": "2026-03-27 08:11:13",
+      "album": {
+        "name": "psychokiller / myself",
+        "url": "https://open.spotify.com/album/2IUOsRFVSNNxG5bbEfWMTB"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 113982,
+      "name": "psychokiller",
+      "url": "https://open.spotify.com/track/09V4HW3dQhhYrKYOQE2JIb"
     },
     {
       "added_at": "2026-03-27 08:11:13",
@@ -1363,34 +1379,22 @@
     {
       "added_at": "2026-03-27 08:11:13",
       "album": {
-        "name": "psychokiller / myself",
-        "url": "https://open.spotify.com/album/2IUOsRFVSNNxG5bbEfWMTB"
+        "name": "Superlim & silvertejp",
+        "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 113982,
-      "name": "psychokiller",
-      "url": "https://open.spotify.com/track/09V4HW3dQhhYrKYOQE2JIb"
-    },
-    {
-      "added_at": "2026-03-27 08:11:13",
-      "album": {
-        "name": "Skyggebokser",
-        "url": "https://open.spotify.com/album/1JnCki83OeAUhA12R9yuGI"
-      },
-      "artists": [
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        },
         {
-          "name": "ozzy",
-          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
         }
       ],
-      "duration_ms": 144431,
-      "name": "Skyggebokser",
-      "url": "https://open.spotify.com/track/281VeLp2LfugJG336oFYwC"
+      "duration_ms": 193634,
+      "name": "Superlim & silvertejp",
+      "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
     }
   ],
   "unique_name": "De nye",

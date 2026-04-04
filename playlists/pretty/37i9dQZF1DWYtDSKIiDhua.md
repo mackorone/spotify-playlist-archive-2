@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: Noni
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,139 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,153 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 3 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 |
 | 4 | [RATHER BE / IN HELL](https://open.spotify.com/track/0lVgwDVMGiCUa9tSWo56Oq) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [PISSED ME OFF / BORED ME TO DEATH](https://open.spotify.com/album/1ZVS7kg3oUYwmdnETa3ujT) | 4:06 |
 | 5 | [Up Out & Gone](https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Up Out & Gone](https://open.spotify.com/album/5wQV2yzSVcLdvVCRyTqAiV) | 2:56 |
-| 6 | [Track 13](https://open.spotify.com/track/6MRQPKK0fuRNzCKwnZF6nZ) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [LOL : SLUTTY BASS](https://open.spotify.com/album/4kADGUOhhfRSKoGdEH28ob) | 0:00 |
+| 6 | ["Nobody" Land](https://open.spotify.com/track/6MRQPKK0fuRNzCKwnZF6nZ) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [LOL : SLUTTY BASS](https://open.spotify.com/album/4kADGUOhhfRSKoGdEH28ob) | 3:41 |
 | 7 | [Waiting Room \(feat\. Jordan Ward\)](https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Waiting Room \(feat\. Jordan Ward\)](https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK) | 3:21 |
 | 8 | [Lie With Me](https://open.spotify.com/track/5DKau2qqKNHSipkNO57wYK) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:19 |
 | 9 | [wasteland](https://open.spotify.com/track/4nU7tSVX06D8JOZ08oUecQ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [wasteland](https://open.spotify.com/album/1hPMGRxP6fo6NonG6HKbiN) | 3:05 |

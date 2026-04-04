@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 324895,
+  "num_followers": 324951,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAzUG9qPIIhPrtCzFufIvqd",
+  "snapshot_id": "ac2xgAAAAAArrgSZhUdRTRGizctnxcaa",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed Beyond (Special Edition)",
-        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 229200,
-      "name": "Set It Off",
-      "url": "https://open.spotify.com/track/6TwT18qPHvu1T3p91MtgyN"
+      "duration_ms": 211149,
+      "name": "Beyond Incredible",
+      "url": "https://open.spotify.com/track/3qd9Dq8PpCsrFD5WGbpjK8"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dominion",
-        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+        "name": "Unleashed Beyond (Special Edition)",
+        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 211149,
-      "name": "Beyond Incredible",
-      "url": "https://open.spotify.com/track/3qd9Dq8PpCsrFD5WGbpjK8"
+      "duration_ms": 229200,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/6TwT18qPHvu1T3p91MtgyN"
     },
     {
       "added_at": null,

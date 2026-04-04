@@ -4307,6 +4307,24 @@
     },
     {
       "album": {
+        "name": "Manual",
+        "url": "https://open.spotify.com/album/0iux1rDoXgQVvhS84Dam4r"
+      },
+      "artists": [
+        {
+          "name": "akiko",
+          "url": "https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239602,
+      "name": "Manual",
+      "url": "https://open.spotify.com/track/2Cj2tCgsjrdgOutPTgCtpS"
+    },
+    {
+      "album": {
         "name": "MASKS",
         "url": "https://open.spotify.com/album/28UHrz5XOC5YDE7VXq6ggu"
       },
@@ -8324,7 +8342,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 432493,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98"

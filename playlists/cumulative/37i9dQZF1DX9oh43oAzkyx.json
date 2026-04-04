@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "600 Racks",
+        "url": "https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184383,
+      "name": "600 Racks",
+      "url": "https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6"
+    },
+    {
+      "album": {
         "name": "Too Good To Be True",
         "url": "https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX"
       },
@@ -8636,7 +8654,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 182466,
       "name": "Trophies",
       "url": "https://open.spotify.com/track/1T0iAFb7dgP0hajkmYstFu"

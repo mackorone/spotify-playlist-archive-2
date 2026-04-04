@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de ELENA ROSE y Alleh.",
+  "description": "Latinoam\u00e9rica baila al ritmo de El Alfa.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "ADIOS",
+        "url": "https://open.spotify.com/album/28TpiwghzeUEx0HMP2Giui"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163369,
+      "name": "96 AL REVES",
+      "url": "https://open.spotify.com/track/49xk5mobx2iCwJMjOKrxCu"
+    },
+    {
+      "album": {
         "name": "A la Carta",
         "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
       },
@@ -1674,6 +1692,32 @@
       "duration_ms": 166271,
       "name": "Amapiano.wav",
       "url": "https://open.spotify.com/track/6SVYh0RGE5A8JeOxYTf4lN"
+    },
+    {
+      "album": {
+        "name": "Amar y ya",
+        "url": "https://open.spotify.com/album/4OohI11DO3V8cGobXFMCyB"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "ONIKX",
+          "url": "https://open.spotify.com/artist/0vFQoUD1qGYeY6i908EYiZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179214,
+      "name": "Amar y ya",
+      "url": "https://open.spotify.com/track/4vvCb3lqE1dkfltnkk7aZ8"
     },
     {
       "album": {
@@ -5399,6 +5443,28 @@
     },
     {
       "album": {
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+    },
+    {
+      "album": {
         "name": "Always Dream",
         "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
       },
@@ -7768,7 +7834,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 178064,
       "name": "Dentro De La Disco",
       "url": "https://open.spotify.com/track/1fyIGx1bGNlywDMybF6aJD"
@@ -9978,7 +10044,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 163531,
       "name": "ENLOKCIENDO",
       "url": "https://open.spotify.com/track/4RvLWywNgTMHyKS3z9UEPB"
@@ -11890,7 +11956,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 222941,
       "name": "Gym Girl",
       "url": "https://open.spotify.com/track/6Kg5oP7ERvrElz7zuHITAb"
@@ -15564,6 +15630,28 @@
       "duration_ms": 171998,
       "name": "Los Roques",
       "url": "https://open.spotify.com/track/5wUNXICiryiGhRBVL5FQXh"
+    },
+    {
+      "album": {
+        "name": "LoSIENTES?",
+        "url": "https://open.spotify.com/album/4mAQtrtokBXeynqqfkl1AD"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142621,
+      "name": "LoSIENTES?",
+      "url": "https://open.spotify.com/track/24dDvXUCClESLZb4Bai6Sy"
     },
     {
       "album": {
@@ -28042,7 +28130,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 150545,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/1l0K7j49egSyRIsf17Kvml"

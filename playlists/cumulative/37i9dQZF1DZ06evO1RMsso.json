@@ -419,6 +419,36 @@
     },
     {
       "album": {
+        "name": "Cinema Serenade",
+        "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
+      },
+      "artists": [
+        {
+          "name": "Luis Bacalov",
+          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Il Postino: Theme",
+      "url": "https://open.spotify.com/track/7EDqH1x26SNDcdXAIBgCyB"
+    },
+    {
+      "album": {
         "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
       },

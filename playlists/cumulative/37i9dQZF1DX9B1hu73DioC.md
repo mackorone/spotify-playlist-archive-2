@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-1,013 songs - 2 day 12 hr 10 min
+1,014 songs - 2 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Collarbones](https://open.spotify.com/track/4FykZvoH6CPfO9PT4S6qc9) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Topograph](https://open.spotify.com/album/4p4wYF1OGj7Mm5qPcKIXkT) | 2:53 | 2021-03-14 | 2022-04-05 |
 | [Come Back Down](https://open.spotify.com/track/04H7h3KJAQp9JHCSPGlp9A) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:15 | 2025-08-29 |  |
 | [Come Meh Way](https://open.spotify.com/track/62wAc90VNxtcNJQJrPaeJQ) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Sudan Archives](https://open.spotify.com/album/14te3urxuBTRzhJciMLK0V) | 2:26 | 2023-04-26 | 2023-09-16 |
-| [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2024-08-16 |  |
+| [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2024-08-16 | 2026-04-04 |
 | [come ovr](https://open.spotify.com/track/01PN1v5FRjaIZsjzK0c6DV) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [come ovr/skype calls](https://open.spotify.com/album/6WlsGn24BvEIiQCyCXtvfG) | 2:35 | 2020-10-05\* | 2022-04-05 |
 | [Come to Pass](https://open.spotify.com/track/1wOp8sjR26NOSmc64JUMBE) | [Mutual Benefit](https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea) | [Come to Pass / Shedding Skin](https://open.spotify.com/album/3bezORIHdVNiS5p0vihTPH) | 2:42 | 2020-10-05\* | 2020-10-06 |
 | [Common Blue](https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Common Blue](https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra) | 3:51 | 2024-03-05 | 2024-11-16 |
@@ -464,7 +464,7 @@
 | [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 | 2024-10-04 | 2024-12-18 |
 | [I Wasted You](https://open.spotify.com/track/7sQQC2vvWgKLoZEISvWXjd) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Press](https://open.spotify.com/album/1q8ASB9H9g8rI74YjKsdsw) | 3:42 | 2020-10-05\* | 2022-04-05 |
 | [I Won!](https://open.spotify.com/track/3KQDLIK3HZkPJg7HS0d7jx) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [I Won!](https://open.spotify.com/album/3j3lsfoCPCp93p1eUL1dbq) | 3:20 | 2021-06-25 | 2022-04-21 |
-| [I Won't Go](https://open.spotify.com/track/3MBilTXRLzYt0z5vhGCLd4) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [I Won't Go](https://open.spotify.com/album/57sSWRu3FoOdl5L8EiSBsS) | 2:57 | 2025-09-12 |  |
+| [I Won't Go](https://open.spotify.com/track/3MBilTXRLzYt0z5vhGCLd4) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [I Won't Go](https://open.spotify.com/album/57sSWRu3FoOdl5L8EiSBsS) | 2:57 | 2025-09-12 | 2026-04-04 |
 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 | 2025-07-18 | 2025-09-13 |
 | [I'll Be Good](https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Habits of My Heart](https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ) | 4:08 | 2021-03-14 | 2022-04-19 |
 | [I'm Probably Gonna Rock Your World](https://open.spotify.com/track/0Sceq3bQBTB70SJwAZm9Nu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Supermarket \(Soundtrack\)](https://open.spotify.com/album/7C5J8fG34IbOKe2pQPq9SU) | 2:31 | 2020-10-05\* | 2022-04-18 |
@@ -783,6 +783,7 @@
 | [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 | 2025-09-26 |  |
 | [seems like time moves forever.](https://open.spotify.com/track/7C2uY2KCfOW3PzCCfWDERA) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh) | [COYOTE](https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu) | 4:35 | 2024-10-04 | 2024-12-18 |
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-11 | 2023-02-12 |
+| [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 | 2026-04-03 |  |
 | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz) | 3:26 | 2024-01-12 | 2025-08-30 |
 | [Separator](https://open.spotify.com/track/2fV57qob1dYMJKEfTwHOt1) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 5:19 | 2025-03-28 |  |
 | [Seven](https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Seven](https://open.spotify.com/album/3HdIy1njUneWoE5pWy4lEY) | 3:45 | 2020-10-05\* | 2022-04-16 |
@@ -1000,7 +1001,7 @@
 | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/track/0OSXUt035Kkf1wFsmy33jX) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Winona \(with Jamila Woods and Vagabon\)](https://open.spotify.com/album/3iXCkfY0J6eZJsE1jOlhcT) | 3:05 | 2021-08-27 | 2022-07-29 |
 | [Wish](https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 3:01 | 2022-09-30 | 2023-08-12 |
 | [Wish](https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Wish](https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW) | 3:19 | 2025-08-29 | 2025-10-10 |
-| [Wish I Didn't Love You](https://open.spotify.com/track/0Rt2l1jZY1l63z4XpRNzeH) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Wish I Didn't Love You](https://open.spotify.com/album/34vTtupIaQm34PykFukGsh) | 3:51 | 2025-08-15 | 2026-03-07 |
+| [Wish I Didn't Love You](https://open.spotify.com/track/0Rt2l1jZY1l63z4XpRNzeH) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Wish I Didn't Love You](https://open.spotify.com/album/34vTtupIaQm34PykFukGsh) | 3:51 | 2025-08-15 |  |
 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2023-04-06 | 2023-05-24 |
 | [With Balance](https://open.spotify.com/track/3581zkJzluGgdfLkELdXk9) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [With Balance](https://open.spotify.com/album/5MXYmobtF9QlxlKLCLYOop) | 2:58 | 2024-06-17 | 2024-11-22 |
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-09-12 |  |

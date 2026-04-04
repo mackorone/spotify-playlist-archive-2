@@ -1,6 +1,6 @@
 {
   "description": "For tiny adventures disguised as errands.",
-  "num_followers": 101291,
+  "num_followers": 101278,
   "original_name": "Tote ",
   "owner": {
     "name": "Spotify",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/1LomCMl5wD3MPVlC6smUHe"
     },
     {
-      "added_at": "2025-03-28 22:32:56",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "Some Protector",
-      "url": "https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0"
-    },
-    {
       "added_at": "2025-03-21 14:13:29",
       "album": {
         "name": "This Is All Yours",
@@ -671,6 +655,22 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+    },
+    {
+      "added_at": "2025-03-28 22:32:56",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Some Protector",
+      "url": "https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0"
     },
     {
       "added_at": "2025-03-21 14:13:29",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-03-21 14:13:29",
       "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
+      "added_at": "2025-03-21 14:13:29",
+      "album": {
         "name": "Call Me What You Like",
         "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2025-03-21 14:13:29",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+      "duration_ms": 284137,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
     },
     {
       "added_at": "2025-03-21 14:13:29",
@@ -1175,22 +1191,6 @@
       "duration_ms": 153312,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
-    },
-    {
-      "added_at": "2025-03-21 14:13:29",
-      "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 284137,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
     },
     {
       "added_at": "2025-03-21 14:13:29",

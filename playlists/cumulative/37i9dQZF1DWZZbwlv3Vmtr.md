@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,185 songs - 1 day 21 hr 36 min
+1,187 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 | 2025-08-30 |
 | [autumn shower](https://open.spotify.com/track/4yiIIKKdTC0mvONGjX3BW2) | [muun lite](https://open.spotify.com/artist/0JLWWTf1gMwZA4OOA9TM38) | [autumn shower](https://open.spotify.com/album/6nDLPzzU2OPJqfh1DGTZt1) | 2:07 | 2025-02-14 | 2025-08-23 |
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2023-10-13 | 2025-08-30 |
+| [Awakening](https://open.spotify.com/track/17CwEPAHes0NjgbLfZCt9s) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Awakening](https://open.spotify.com/album/4dD3GqdQ2WsfXsSWtjtp8s) | 1:57 | 2026-04-03 |  |
 | [Azo](https://open.spotify.com/track/70RuMUwR0nlX71VHxRezkH) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Azo](https://open.spotify.com/album/5IxplYWukgFd1gFxQNmwjy) | 2:01 | 2025-02-07 | 2026-01-17 |
 | [Back in time](https://open.spotify.com/track/6qLsaWSO04sgwX6N8xid7E) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Back in time](https://open.spotify.com/album/34XEHZITd5aslpA8xYzxV2) | 2:20 | 2023-01-20 |  |
 | [Backdoor](https://open.spotify.com/track/76siJBpv5Sb2yF84wqUzuX) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Backdoor](https://open.spotify.com/album/0oTpLBc7LZFiASLq70BFGi) | 2:13 | 2025-05-23 | 2025-10-25 |
@@ -97,6 +98,7 @@
 | [Big Easy City](https://open.spotify.com/track/22JgzHfHyonKuvOSpvEKDz) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu) | [Big Easy City](https://open.spotify.com/album/12GryY117JWWaGiywcZrdJ) | 2:00 | 2022-04-15 | 2022-05-20 |
 | [Black Tea](https://open.spotify.com/track/6UZdMhnCM7ks3aLA5V5FvL) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Black Tea](https://open.spotify.com/album/5okN6CGYZMhXcXXaASN3KL) | 2:48 | 2025-02-14 | 2025-02-22 |
 | [Blacktop Days](https://open.spotify.com/track/1dH3oLHEysyPEBP0oyFHp0) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Blacktop Days](https://open.spotify.com/album/7vQJZriJ7kH9uFBt2eREe3) | 2:09 | 2022-07-29 | 2022-08-12 |
+| [Blank Billboard](https://open.spotify.com/track/6QMEcPOolzBXeuYJqpd6qk) | [Pale Fiction](https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV) | [Blank Billboard](https://open.spotify.com/album/5TtOHBWo2YRW3wq3w6fV0g) | 2:15 | 2026-04-03 |  |
 | [Blank Canvas](https://open.spotify.com/track/4R9fYpcyz1BUFZ7FCiuJXg) | [Lake Valley](https://open.spotify.com/artist/7sXI0WtuyDELsesS7kW4qF) | [Blank Canvas](https://open.spotify.com/album/6zLHXiO7t2klPX6w5Dpt2T) | 2:32 | 2022-04-15 | 2025-07-10 |
 | [Blessings](https://open.spotify.com/track/4hE1uYOJZy6UPe1mTGQBhK) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Blessings](https://open.spotify.com/album/5vgWOjahlIwxaVgsKDqE7k) | 2:18 | 2022-08-19 | 2023-11-17 |
 | [blizz](https://open.spotify.com/track/2XdxihbjudHhbB95dgk3On) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [blizz](https://open.spotify.com/album/5oNoa4T5aGZYG5cFOYzSrc) | 2:07 | 2025-10-16 |  |

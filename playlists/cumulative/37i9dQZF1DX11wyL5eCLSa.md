@@ -2,9 +2,9 @@
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Zöelle en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Kross Vazquez/ Vivx Pxndx en Pxrtxdx.
 
-790 songs - 1 day 22 hr 35 min
+793 songs - 1 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Eres Para Mí \- Sinfónico En Vivo](https://open.spotify.com/track/30hP7rsy8RDu3t1ahdfiKV) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [La orquesta de Baja California](https://open.spotify.com/artist/7gSzHDUhn05GjiLliRbSsj) | [Sinfónico En Tijuana \(En Vivo\)](https://open.spotify.com/album/4PvLtFIY2w2wYWI5kCrwrx) | 3:20 | 2025-09-26 | 2026-03-07 |
 | [Errante](https://open.spotify.com/track/6GbWqZbWu6Zh5RcjGref6W) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Errante](https://open.spotify.com/album/66BWriXW9tW7PbgJTJcWt0) | 3:38 | 2026-02-06 |  |
 | [Es Lo Que Hay](https://open.spotify.com/track/1DgKuXooz3NjEZM2Y9oFPv) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Bisnesworld](https://open.spotify.com/album/5Vm42fsf6xv991Q4gmU2W2) | 2:40 | 2026-01-23 |  |
+| [Es Mentira](https://open.spotify.com/track/3l6g9Evcuq5eH5M40Uu9xk) | [Tito Fuentes](https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo) | [Es Mentira](https://open.spotify.com/album/4WeRQ14F6G91viz2zuh30A) | 3:09 | 2026-04-03 |  |
 | [Esa Estrella](https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Esa Estrella](https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo) | 3:58 | 2023-05-12 | 2023-07-08 |
 | [Esa Palabra](https://open.spotify.com/track/5wkflnlId9hD0xpU84KKr6) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Esa Palabra](https://open.spotify.com/album/1zEqCBj9ekkO4nt6DprDXC) | 6:05 | 2024-07-12 | 2024-09-14 |
 | [Escultura](https://open.spotify.com/track/1TFDhoMpJo62nKJbYKtKkr) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dime Lo Que No Se Habla](https://open.spotify.com/album/0b0OmpXEycuAEOY6IN6FwV) | 2:44 | 2026-03-20 |  |
@@ -305,6 +306,7 @@
 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 | 2022-07-11 | 2022-08-13 |
 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 | 2021-12-17 | 2024-09-28 |
 | [Grita](https://open.spotify.com/track/6DRiKwFSREKl2ADoV18Rp3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Grita](https://open.spotify.com/album/4fzH9IuG8ytX1TmWDfYr7i) | 3:26 | 2024-10-18 | 2025-03-15 |
+| [Guerreros del Sur](https://open.spotify.com/track/66oxeoj6grFsgEPByCMX7E) | [O Tortuga](https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK) | [Guerreros del Sur](https://open.spotify.com/album/4XwlF5au9UtkkM4XEluSf3) | 4:13 | 2026-04-03 |  |
 | [Guíame Que No Soy Yo](https://open.spotify.com/track/5HrFg5equln8liFUkXiN61) | [Aladin Fox](https://open.spotify.com/artist/1vl07Fu7VoBoAQQwtg490l) | [Guíame Que No Soy Yo](https://open.spotify.com/album/6EFxJyYpL0hF6lYPQJyoNx) | 2:31 | 2023-03-31 | 2023-04-09 |
 | [Halloween II](https://open.spotify.com/track/0ygAzclwMfvkQeqcdY0jD7) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [GRILLED CHEESE DELUXE](https://open.spotify.com/album/5wjtyr36SeI9ZaDNmKWu8j) | 2:31 | 2025-10-10 | 2026-03-07 |
 | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/album/2Sb0VvLRE3H0kNOuKL5zGO) | 4:34 | 2022-11-25 | 2023-06-03 |
@@ -589,6 +591,7 @@
 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-10-28 | 2023-04-22 |
 | [Princesa](https://open.spotify.com/track/0PGaDIj6NIB2rW7KUW3Yjz) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Princesa](https://open.spotify.com/album/0MamCSh5CYI0mJUsPXvWjn) | 5:27 | 2025-01-31 | 2025-06-28 |
 | [Problema Cabrón](https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Problema Cabrón](https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv) | 3:36 | 2023-09-08 | 2024-06-22 |
+| [Procedimientos \(All Stxrz\)](https://open.spotify.com/track/7a3mWCEN2bmNQ3GwWybyUN) | [Kross Vazquez](https://open.spotify.com/artist/2XsoadLmNstbslctx5O9b4), [Titán Santander](https://open.spotify.com/artist/1e0QsQh5B3ZHtXnWWUiFVY), [Adhara](https://open.spotify.com/artist/4OF2sYnnmFv7s8DIJLmoS3), [MUÑEKI77A](https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8), [MONDE](https://open.spotify.com/artist/1Z3eBkE7pZsOT3qHhU37xr), [Niñoz Perdidoz](https://open.spotify.com/artist/3Qejg2r7zxk2YQGtxaoNIE), [Mariana Priego](https://open.spotify.com/artist/45hWEuspg2TvqywJDgp1Rw), [Juan Stressed](https://open.spotify.com/artist/2LqxAQnmEPaCsou28O0Dyy), [San Venus](https://open.spotify.com/artist/7FR6tqusvm2lMUWkyfxVWp), [Moorelo](https://open.spotify.com/artist/0aLrOKg7LwawHHWfvv8ua5), [Helian Evans](https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N) | [Vivx Pxndx, Vol\. 1](https://open.spotify.com/album/00V2wmFVVN2utcBWabbJUM) | 3:14 | 2026-04-03 |  |
 | [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 | 2023-01-27 | 2023-02-19 |
 | [Préndanse Otro](https://open.spotify.com/track/5ufFco84JPZ4HYjzDGzugJ) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Préndanse Otro](https://open.spotify.com/album/1fhg4f60Aifr6e9JT0v8Wr) | 2:14 | 2024-04-19 | 2024-08-31 |
 | [Pulitzer](https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf) | [Onyricats](https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn) | [Pulitzer](https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF) | 4:23 | 2023-02-24 | 2023-03-11 |

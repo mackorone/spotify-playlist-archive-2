@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring 2charm.
 
-460 songs - 1 day 4 hr 0 min
+461 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amber Rush](https://open.spotify.com/track/0OvsbQdI2xvN7HXosDtfoJ) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/0nAGpiOiKPhWd8rYe7JdgF) | 6:05 | 2023-10-13 | 2024-04-19 |
 | [Amber Rush](https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/7ahTHniOH0ml5SiymYAhmW) | 6:05 | 2021-10-15 | 2024-06-08 |
 | [And Groove \- Edit](https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [And Groove](https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt) | 3:25 | 2021-10-15 | 2022-07-15 |
+| [Angelina](https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Angelina](https://open.spotify.com/album/200LAacp5mXwgFAr490iKq) | 3:43 | 2026-04-03 |  |
 | [Anywhere](https://open.spotify.com/track/3Bm1Zv03TJzPKd2eRwYSnU) | [Will Watt](https://open.spotify.com/artist/01GObtyNNir2fl1CBUMwyq) | [Anywhere](https://open.spotify.com/album/1vpj7hrzWeTPA6jOZaeSag) | 2:37 | 2025-03-21 | 2025-10-18 |
 | [Aperol Spritz](https://open.spotify.com/track/10V1mRpItQP4ZNCfEiOuF7) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl) | [Aperol Spritz](https://open.spotify.com/album/6WuSVFwTdlUGqq4Q5t6uR5) | 2:59 | 2025-06-20 |  |
 | [Aquamarine / Arcamarine](https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Aquamarine / Arcamarine](https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN) | 3:14 | 2024-11-22 | 2025-05-17 |
@@ -275,7 +276,7 @@
 | [Marlene](https://open.spotify.com/track/6baJdLkGaQ0T6Srg7B4ONS) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Marlene](https://open.spotify.com/album/6mBSueYh7UzUMr6XmEJ9OI) | 6:38 | 2021-10-15 | 2024-06-01 |
 | [Marlene](https://open.spotify.com/track/79oTqgo2EgUkLQ5IYwTteW) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Marlene](https://open.spotify.com/album/5PylsVfO7Ykw9izPDqmdtr) | 6:38 | 2023-10-13 | 2024-04-19 |
 | [Marsha’s rocknroll \- Edit](https://open.spotify.com/track/31UzKLiV2YQQBmKsZOPuvM) | [Cherry Lee](https://open.spotify.com/artist/0bV3bttNRkvIYyjKqmGPFn) | [Marsha’s rocknroll \(Edit\)](https://open.spotify.com/album/43DzOnjBZpUUgkeYkCfrk8) | 3:56 | 2025-05-23 | 2026-01-31 |
-| [materiaL hor$e](https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 1:34 | 2025-01-24 |  |
+| [materiaL hor$e](https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 1:34 | 2025-01-24 | 2026-04-04 |
 | [Mañana](https://open.spotify.com/track/2un8Lsq9ngtBRa2HlGuPXE) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp) | [Mañana](https://open.spotify.com/album/5jkUwcsa1zE8AsAloYnfqA) | 3:46 | 2022-06-03 | 2023-04-01 |
 | [McDonald's Sprite](https://open.spotify.com/track/0aE4r0rM0I0WAi4Hcil9vW) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Party Girl](https://open.spotify.com/album/52DjQ3FPYahAMok36LkCyd) | 2:20 | 2024-08-16 | 2024-12-07 |
 | [Meditations](https://open.spotify.com/track/5WCE4PyJgYWgn1Jq8JHtNs) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5) | [Meditations](https://open.spotify.com/album/3ZeOrfh7qU6PgCIg5FvYd1) | 5:57 | 2024-10-25 | 2025-04-26 |

@@ -10016,7 +10016,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 174533,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6YniytuSunB9HefGf4IxO9"
@@ -10448,7 +10448,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Eternal Moment",
       "url": "https://open.spotify.com/track/2aSfmbpproCPOe2j01WT2a"
@@ -24800,7 +24800,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
@@ -25896,7 +25896,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 232227,
       "name": "Paint On Spring - Remastering",
       "url": "https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI"
@@ -31381,6 +31381,28 @@
     },
     {
       "album": {
+        "name": "Girl Who Sees Smell (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0KLTnRxu16LGkmlWJDAQkE"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Spring Is Gone by chance",
+      "url": "https://open.spotify.com/track/5rZN0PP6xZsf5SWxkpMm7k"
+    },
+    {
+      "album": {
         "name": "Lovely Runner, Pt. 8 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1"
       },
@@ -31466,7 +31488,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 270304,
       "name": "SSAK (Feat. Loco) (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/0FOReGSXypVBP1q3CLEbfN"
@@ -36304,7 +36326,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 306477,
       "name": "W.I.N. (Feat. BewhY) (Prod. by GRAY)",
       "url": "https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI"
@@ -37416,7 +37438,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"

@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1185120,
+  "num_followers": 1185363,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 198569,
+      "name": "Madrid (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "NUBES",
         "url": "https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 178224,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 198569,
-      "name": "Madrid (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+        "name": "PRIMER AVISO",
+        "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+      "duration_ms": 182891,
+      "name": "PRIMER AVISO",
+      "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "PRIMER AVISO",
-        "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 182891,
-      "name": "PRIMER AVISO",
-      "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "Diablota",
+        "url": "https://open.spotify.com/album/2jxVNLCjxItfzlTkk267Ue"
+      },
+      "artists": [
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "Diablota",
+      "url": "https://open.spotify.com/track/5sv4Fmi0zlNMJm8JIRSfFM"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "La Hermandad",
         "url": "https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK"
       },
@@ -1547,50 +1567,6 @@
       "duration_ms": 209333,
       "name": "YA NO SIENTO NADA",
       "url": "https://open.spotify.com/track/2MFrGeRWUnIsZpSkoGn2N5"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Ella Quiere Hmm... Haa... Hmm...",
-        "url": "https://open.spotify.com/album/7mPxdHON4WVzd11KSLJkt5"
-      },
-      "artists": [
-        {
-          "name": "Leka el Poeta",
-          "url": "https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV"
-        },
-        {
-          "name": "Mishelle Master Boys",
-          "url": "https://open.spotify.com/artist/7dOIGNkb49QRgG5VsjXebG"
-        },
-        {
-          "name": "DJ Yayo",
-          "url": "https://open.spotify.com/artist/6sPVGPkxslll1c4pdHvxYh"
-        }
-      ],
-      "duration_ms": 212114,
-      "name": "Ella Quiere Hmm... Haa... Hmm... - DJ Yayo Remix Yayo Remix",
-      "url": "https://open.spotify.com/track/0yOExrHtTnmYpMzJKbR8vH"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Diablota",
-        "url": "https://open.spotify.com/album/2jxVNLCjxItfzlTkk267Ue"
-      },
-      "artists": [
-        {
-          "name": "Jossie A",
-          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 150576,
-      "name": "Diablota",
-      "url": "https://open.spotify.com/track/5sv4Fmi0zlNMJm8JIRSfFM"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1631,6 +1607,30 @@
       "duration_ms": 147013,
       "name": "Tu Sicaria",
       "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Ella Quiere Hmm... Haa... Hmm...",
+        "url": "https://open.spotify.com/album/7mPxdHON4WVzd11KSLJkt5"
+      },
+      "artists": [
+        {
+          "name": "Leka el Poeta",
+          "url": "https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV"
+        },
+        {
+          "name": "Mishelle Master Boys",
+          "url": "https://open.spotify.com/artist/7dOIGNkb49QRgG5VsjXebG"
+        },
+        {
+          "name": "DJ Yayo",
+          "url": "https://open.spotify.com/artist/6sPVGPkxslll1c4pdHvxYh"
+        }
+      ],
+      "duration_ms": 212114,
+      "name": "Ella Quiere Hmm... Haa... Hmm... - DJ Yayo Remix Yayo Remix",
+      "url": "https://open.spotify.com/track/0yOExrHtTnmYpMzJKbR8vH"
     },
     {
       "added_at": "2026-03-27 06:00:17",

@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112512,
+  "num_followers": 112509,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-03-27 10:05:21",
       "album": {
+        "name": "Dotknij",
+        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
+      },
+      "artists": [
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "duration_ms": 154736,
+      "name": "Dotknij",
+      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
+    },
+    {
+      "added_at": "2026-03-27 10:05:21",
+      "album": {
         "name": "TOKSYNA",
         "url": "https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF"
       },
@@ -1031,34 +1047,22 @@
     {
       "added_at": "2026-03-27 10:05:21",
       "album": {
-        "name": "Dotknij",
-        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
+        "name": "JESZCZE RAZ",
+        "url": "https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb"
       },
       "artists": [
         {
-          "name": "Daria Marx",
-          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
-        }
-      ],
-      "duration_ms": 154736,
-      "name": "Dotknij",
-      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
-    },
-    {
-      "added_at": "2026-03-27 10:05:21",
-      "album": {
-        "name": "Brightest Light",
-        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
-      },
-      "artists": [
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
         {
-          "name": "Marianna K\u0142os",
-          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
+          "name": "Kaptur",
+          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
         }
       ],
-      "duration_ms": 180691,
-      "name": "Brightest Light",
-      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
+      "duration_ms": 206367,
+      "name": "JESZCZE RAZ",
+      "url": "https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T"
     },
     {
       "added_at": "2026-03-27 10:05:21",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2026-03-27 10:05:21",
       "album": {
-        "name": "JESZCZE RAZ",
-        "url": "https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb"
+        "name": "Brightest Light",
+        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
       },
       "artists": [
         {
-          "name": "Kinny Zimmer",
-          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
-        },
-        {
-          "name": "Kaptur",
-          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
+          "name": "Marianna K\u0142os",
+          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
         }
       ],
-      "duration_ms": 206367,
-      "name": "JESZCZE RAZ",
-      "url": "https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T"
+      "duration_ms": 180691,
+      "name": "Brightest Light",
+      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
     }
   ],
   "unique_name": "... ale najpierw kawa",

@@ -4,7 +4,7 @@
 
 > It's all about the song  🎧 cover: Dermot Kennedy<br/>📍Somewhere between indie, pop, folk and country
 
-796 songs - 1 day 20 hr 31 min
+796 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -713,7 +713,6 @@
 | [Touch Me](https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Touch Me](https://open.spotify.com/album/0tcdyTBkSx24QyL8yaknrR) | 3:18 | 2026-01-30 |  |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-03-08 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-11 |
-| [Track 1](https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Evening Star](https://open.spotify.com/album/197taNYjpikHAPjkOWctWk) | 0:00 | 2026-04-03 |  |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-02 | 2025-05-23 |
 | [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 | 2025-11-07 | 2026-02-13 |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-05-02 | 2025-05-23 |
@@ -783,6 +782,7 @@
 | [Without You](https://open.spotify.com/track/6Epqcacr6V1DpxG00SoK22) | [Dominic Wright](https://open.spotify.com/artist/6JPpKyhX2EmJD1QqKrU9UE) | [All About You](https://open.spotify.com/album/5NfPxUyF5DdtKsOaynSLPK) | 3:02 | 2026-03-27 |  |
 | [Wolf River](https://open.spotify.com/track/5XyN4ThYy7yLPol7FEGRty) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Wolf River](https://open.spotify.com/album/134mZBbvgtMVVdxG1BItmx) | 3:41 | 2025-05-29 | 2025-08-01 |
 | [Woman Of Faces](https://open.spotify.com/track/6YU7Xlaz5ntxjnFJJNvXh6) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4LjTxBjWubEIQbttwwdxUo) | 4:50 | 2025-09-04 | 2025-10-10 |
+| [Woman of the Hour](https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Evening Star](https://open.spotify.com/album/197taNYjpikHAPjkOWctWk) | 3:02 | 2026-04-03 |  |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-26 | 2024-12-21 |
 | [Wonderful Life](https://open.spotify.com/track/5phSRJKDo1ihkqbwNlSTVp) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life](https://open.spotify.com/album/5sjDYH0h22YYNEWiRw9IH5) | 3:48 | 2025-09-04 | 2025-10-10 |
 | [Words](https://open.spotify.com/track/2CvVLHZ5BLbfB8tSFPzlQx) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:21 | 2025-10-09 | 2026-01-30 |

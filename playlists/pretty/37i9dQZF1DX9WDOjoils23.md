@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,990 likes - 50 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,035 likes - 50 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kehde Pasey Jaiye Sajana \- Live at Ahmedabad, Gujarat, Heritage Tour India 2026](https://open.spotify.com/track/2jObUEMY43VENhnrSsxf4c) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kehde Pasey Jaiye Sajana \(Live at Ahmedabad, Gujarat, Heritage Tour India 2026\)](https://open.spotify.com/album/7zZSds7y2I6mdkUPPMSUKV) | 12:53 |
 | 2 | [Kavita](https://open.spotify.com/track/0YXrj0gYt6QKj9Kwni5QMt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Shikhar](https://open.spotify.com/album/6ylmH5wcCn80rTOLsfYwkd) | 3:49 |
-| 3 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
-| 4 | [Biba Sada Dil](https://open.spotify.com/track/4MpxPfrHo6znvmJUwG1odK) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Biba Sada Dil](https://open.spotify.com/album/3cIdb5C0FLa49DmoQzTAcj) | 4:09 |
+| 3 | [Biba Sada Dil](https://open.spotify.com/track/4MpxPfrHo6znvmJUwG1odK) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Biba Sada Dil](https://open.spotify.com/album/3cIdb5C0FLa49DmoQzTAcj) | 4:09 |
+| 4 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
 | 5 | [Zikr Tera](https://open.spotify.com/track/5kl9GaHyI35Hr62DuSxbk5) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Rangrez](https://open.spotify.com/album/74PHaQYpw3BdgQXbq3SYDo) | 4:55 |
 | 6 | [Udaarian](https://open.spotify.com/track/3K3mo4LoxPKk18oqIC3hQC) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Seasons of Sartaaj](https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6) | 5:42 |
 | 7 | [Rehan De Rehan De](https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Haaye Sohniye](https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN) | 5:09 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 30 | [Ve Sone Diyan Kangna](https://open.spotify.com/track/3E765tcRR8JBqWBha6AG3Q) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Treasured Moments](https://open.spotify.com/album/3AJVUQpGABGVVUoDvi848K) | 19:34 |
 | 31 | [DUMA DUM MAST QALANDER \- Rebooted & Revved Up](https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [DUMA DUM MAST QALANDER \(Rebooted & Revved Up\)](https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI) | 4:09 |
 | 32 | [Allah Mola](https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Allah Mola](https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj) | 3:31 |
-| 33 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 |
-| 34 | [Dil Nu](https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5) | [Sukhjinder Alfaaz](https://open.spotify.com/artist/6fCDRp75C6FXv1xVCD2SK5) | [Dil Nu](https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW) | 4:31 |
+| 33 | [Dil Nu](https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5) | [Sukhjinder Alfaaz](https://open.spotify.com/artist/6fCDRp75C6FXv1xVCD2SK5) | [Dil Nu](https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW) | 4:31 |
+| 34 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 |
 | 35 | [Giya Piplan da Dhal](https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 7:11 |
 | 36 | [Bawa](https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 5:20 |
 | 37 | [Meriyaan Udaasiyann](https://open.spotify.com/track/7HE54gXIfogSglOKCPrnmD) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Meriyaan Udaasiyann](https://open.spotify.com/album/1xWbPeWLVJeLZyFYRt4W9k) | 10:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 49 | [Aa Sajan](https://open.spotify.com/track/0D8xqVj8ook7WsMpwhtPmB) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P) | [Aa Sajan](https://open.spotify.com/album/17ilitlw2MR4dTEN10lLHs) | 6:52 |
 | 50 | [Ghamaan Di Raat Lammi Ae](https://open.spotify.com/track/1PDD7lDnoAjH3QqbWwwHFu) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal \- Modern Punjabi Poerty](https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY) | 3:49 |
 
-Snapshot ID: `AAAAAPBFrT7N2IOKTRn7O8qJg1EOJTQy`
+Snapshot ID: `AAAAAJBAOuegGX7FGnr4WbnoktT2G6X+`

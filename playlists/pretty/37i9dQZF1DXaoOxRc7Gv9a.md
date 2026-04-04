@@ -1,0 +1,42 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoOxRc7Gv9a.md) - [plain](/playlists/plain/37i9dQZF1DXaoOxRc7Gv9a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXaoOxRc7Gv9a)
+
+### [샤이닝 \(Still Shining\)](https://open.spotify.com/playlist/37i9dQZF1DXaoOxRc7Gv9a)
+
+> Enjoy the sound track of Still Shining with memorable lines from the show \(샤이닝의 사운드 트랙을 대사와 함께 즐겨보세요!\)
+
+[Spotify](https://open.spotify.com/user/spotify) - 7 likes - 30 songs - 58 min 7 sec
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Love Spark \(Opening Title ver.\)](https://open.spotify.com/track/1E3YHrvrZu04RUbYR3Xfk4) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 0:51 |
+| 2 | [Still Shining : Liner 1](https://open.spotify.com/track/14DdlLclZjKrt5IBohdVGf) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Still Shining Audio Liners](https://open.spotify.com/album/7ou2sK8KJGwi5CBzOrpMXj) | 0:54 |
+| 3 | [The first time we met](https://open.spotify.com/track/2OS5fGTroOORVmr6Yv9uU0) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Jeon Jeong Hoon](https://open.spotify.com/artist/7MbiLCDpBR9sGwmLtnlnNc) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 1:15 |
+| 4 | [First Love](https://open.spotify.com/track/7iG47pnIxMEdzWGxPoSiqX) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Still Shining OST Part.1](https://open.spotify.com/album/71pcYxonJZvHm4Iv4HSo8i) | 4:07 |
+| 5 | [Still Shining : Liner 2](https://open.spotify.com/track/5K74BtLW19USHYjSpK9l2E) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Still Shining Audio Liners](https://open.spotify.com/album/7ou2sK8KJGwi5CBzOrpMXj) | 0:32 |
+| 6 | [facilitate](https://open.spotify.com/track/4w4S8pY4enabOrkhX0zd1G) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 0:36 |
+| 7 | [Higher \(Prod\. Nam Hye Seung\)](https://open.spotify.com/track/6kWVuYAxVyZePIO5te3GI3) | [Kim Kyung Hee](https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 1:10 |
+| 8 | [Still Shining : Liner 3](https://open.spotify.com/track/15ylaxxgrK6nB5Fs9F2PMd) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Still Shining Audio Liners](https://open.spotify.com/album/7ou2sK8KJGwi5CBzOrpMXj) | 1:03 |
+| 9 | [My heart, To you](https://open.spotify.com/track/1mDIYula5AUG2SfJfocAIX) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Still Shining OST Part.2](https://open.spotify.com/album/2o35P0jXFVWnDdZTAZ0tMY) | 3:50 |
+| 10 | [Still Shining : Liner 4](https://open.spotify.com/track/6OT8XMiKVj06zhLF6CUtea) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Still Shining Audio Liners](https://open.spotify.com/album/7ou2sK8KJGwi5CBzOrpMXj) | 0:44 |
+| 11 | [Love Spark](https://open.spotify.com/track/4N0lLBRcusEWfBsZ88HLWx) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Still Shining OST Part.4](https://open.spotify.com/album/2nqt4Bhyt3GSWCSn8pBzKb) | 3:50 |
+| 12 | [Still Shining : Liner 5](https://open.spotify.com/track/6M9UQApzAj0PejwSlySIjp) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Still Shining Audio Liners](https://open.spotify.com/album/7ou2sK8KJGwi5CBzOrpMXj) | 0:34 |
+| 13 | [Comforting Noodles](https://open.spotify.com/track/0e4zP744SUN2SjxnxwiSmQ) | [Jeon Jeong Hoon](https://open.spotify.com/artist/7MbiLCDpBR9sGwmLtnlnNc) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 0:40 |
+| 14 | [Still Shining : Liner 6](https://open.spotify.com/track/5DLCZfqa4WwQqkg0NEBig6) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Still Shining Audio Liners](https://open.spotify.com/album/7ou2sK8KJGwi5CBzOrpMXj) | 0:43 |
+| 15 | [Somewhere only we know](https://open.spotify.com/track/2TVBN3xllW1YXnwGhQIVGC) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Still Shining OST Part.6](https://open.spotify.com/album/3LEbHpnMpMxNlnFAMvNnq1) | 4:16 |
+| 16 | [When I look at you](https://open.spotify.com/track/3DT13tJzePp2MoFJ5SZWvc) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 1:17 |
+| 17 | [Still Shining : Liner 7](https://open.spotify.com/track/0KeJglylN9bSO9hd0EzekT) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Still Shining Audio Liners](https://open.spotify.com/album/7ou2sK8KJGwi5CBzOrpMXj) | 1:12 |
+| 18 | [Hidden Words](https://open.spotify.com/track/2kQJ8c4sIys2FWDgmrfYnL) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Still Shining OST Part.3](https://open.spotify.com/album/7farlwaCeA7X7HVdoV3SKu) | 4:19 |
+| 19 | [Still Shining : Liner 8](https://open.spotify.com/track/0l0MPnbCq5VcxqJAI9gapi) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Still Shining Audio Liners](https://open.spotify.com/album/7ou2sK8KJGwi5CBzOrpMXj) | 1:15 |
+| 20 | [Where, what, who](https://open.spotify.com/track/20S8NkTjlkw84YDGg806Ky) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 2:01 |
+| 21 | [Still Shining : Liner 9](https://open.spotify.com/track/3y3Ujn6p34TraDlSTU1lhO) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Still Shining Audio Liners](https://open.spotify.com/album/7ou2sK8KJGwi5CBzOrpMXj) | 0:38 |
+| 22 | [Rekindling Memories](https://open.spotify.com/track/7HPtra6fwCtCD0EaTQPTI0) | [SOOBIN](https://open.spotify.com/artist/03TzGrcj9wA6OShCB1chZX) | [Still Shining OST Part.5](https://open.spotify.com/album/26DRHTH2gLi39cNBp1cY66) | 4:24 |
+| 23 | [Prayer for peace](https://open.spotify.com/track/6m3hgYBAMXT6tNRkDWYU8u) | [Go Eun Jeong](https://open.spotify.com/artist/0XyPKaUvTcHkObgvFX72il) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 1:23 |
+| 24 | [Here, now and us](https://open.spotify.com/track/29YM7PcMcOkFhuD715p2iY) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 2:10 |
+| 25 | [Shining](https://open.spotify.com/track/4YgkvKLJGdjy3LyMBiJnxa) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Still Shining OST Part.7](https://open.spotify.com/album/5BQZMlxrr98Yi4KeKY8ZMA) | 3:45 |
+| 26 | [Closing Chapter](https://open.spotify.com/track/6fPNDHxMS3uknWCnZFEqbg) | [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 2:21 |
+| 27 | [Still Shining : Liner 10](https://open.spotify.com/track/1dAIpERGBCuAmjyOnBtSsX) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Still Shining Audio Liners](https://open.spotify.com/album/7ou2sK8KJGwi5CBzOrpMXj) | 1:48 |
+| 28 | [I’m fine, really](https://open.spotify.com/track/0bgBCVoNy7OS0WC5ADTzSY) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Still Shining OST Part.8](https://open.spotify.com/album/4b0H5ID0HPW4fTILjt7EsX) | 3:36 |
+| 29 | [A Heart That I Can’t Hold](https://open.spotify.com/track/5xp5hHDBNjv7iAApoGslRf) | [Nam Hye Seung](https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9), [Park Sang Hee](https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 1:32 |
+| 30 | [Sunbeam through the trees](https://open.spotify.com/track/3bYeLUHgysX4uwi8bxx1QA) | [Jo Han Na](https://open.spotify.com/artist/6SBoY6UJqMVKen88gLWP8m) | [Still Shining OST](https://open.spotify.com/album/4Drx72QTTUQ9J8IlWattKB) | 1:17 |
+
+Snapshot ID: `AAAAAFxVCGmiys4mcM9oo6HrMtp6K4JZ`

@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 154434,
       "name": "Baby Shark x Doggyland Remix [Do The Shark!] (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/3py0jklpnEtsJUxiiMmQer"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 214494,
       "name": "Beautiful Beasts",
       "url": "https://open.spotify.com/track/3WqBSYeGgrCZbgxdqgo1lP"
@@ -3181,6 +3181,28 @@
     },
     {
       "album": {
+        "name": "Colorful Crystal Rap",
+        "url": "https://open.spotify.com/album/2Xq8Ovp08u62ZP4yD97Qk2"
+      },
+      "artists": [
+        {
+          "name": "Rubble & Crew",
+          "url": "https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai"
+        },
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51041,
+      "name": "Colorful Crystal Rap",
+      "url": "https://open.spotify.com/track/4nFrZ8okq0UnP4bpdhXPNp"
+    },
+    {
+      "album": {
         "name": "Have A Musical Day Vol 2.",
         "url": "https://open.spotify.com/album/2QbP9FI4cPYYTZ6QTEsC29"
       },
@@ -3840,7 +3862,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 113881,
       "name": "Deliver the Music",
       "url": "https://open.spotify.com/track/1KYc8TOjuKXoehgTXU3CWl"
@@ -3938,6 +3960,24 @@
       "duration_ms": 115897,
       "name": "Dino Rescue",
       "url": "https://open.spotify.com/track/5XG15tLOdJGtixYs124kHA"
+    },
+    {
+      "album": {
+        "name": "Dino Stomp (Jemima Grooves Mix)",
+        "url": "https://open.spotify.com/album/6xOvrQul7HlZkP4OuElIRr"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110244,
+      "name": "Dino Stomp - Jemima Grooves Mix",
+      "url": "https://open.spotify.com/track/3GreL5FnuBUXag2ZuInP59"
     },
     {
       "album": {
@@ -9676,7 +9716,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 83333,
       "name": "Just Imagine",
       "url": "https://open.spotify.com/track/5DPH4YKfftGNfi6G2KfgQT"
@@ -10382,7 +10422,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 134262,
       "name": "Let's Roll Besties",
       "url": "https://open.spotify.com/track/39FDU3un5PbI0BLnkqnZFA"
@@ -11494,7 +11534,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 168501,
       "name": "Math Is Easy",
       "url": "https://open.spotify.com/track/7yDudVLPWEpqWhHuhjpgYj"
@@ -11672,6 +11712,36 @@
       "duration_ms": 244056,
       "name": "Messy",
       "url": "https://open.spotify.com/track/5QVnZ3YuUSIPaOd4NXeQAb"
+    },
+    {
+      "album": {
+        "name": "DJ Pon-3 Presents: Twilight Sparkle",
+        "url": "https://open.spotify.com/album/0lU0BfVqWQw3Pi4gejE95A"
+      },
+      "artists": [
+        {
+          "name": "Twilight Sparkle",
+          "url": "https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        },
+        {
+          "name": "DJ Pon-3",
+          "url": "https://open.spotify.com/artist/6Oi2Qrnn3uBHiQgNZk9qen"
+        },
+        {
+          "name": "Mona Rue",
+          "url": "https://open.spotify.com/artist/15lMav195dBJKGtRHPTWVw"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132687,
+      "name": "Midnight In Me (DJ Pon-3's Version)",
+      "url": "https://open.spotify.com/track/0YQqlo8DjwBZmkpTu85ZXa"
     },
     {
       "album": {
@@ -15485,6 +15555,28 @@
     },
     {
       "album": {
+        "name": "Sofia the First: Royal Magic Theme (From \"Disney Jr. Music: Sofia the First: Royal Magic\")",
+        "url": "https://open.spotify.com/album/7xLFLCm0WvaWE7mItxgBZC"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54854,
+      "name": "Sofia the First: Royal Magic Theme - From \"Disney Jr. Music: Sofia the First: Royal Magic\"",
+      "url": "https://open.spotify.com/track/2g6YlMOSrdekIm9idxeqKR"
+    },
+    {
+      "album": {
         "name": "Songs for Littles",
         "url": "https://open.spotify.com/album/4KAhBEkmBe3DDyEIToQ82M"
       },
@@ -15958,7 +16050,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 134121,
       "name": "Stomp Like a Dinosaur",
       "url": "https://open.spotify.com/track/09oEFNXCafGnpvbvrvAMpm"
@@ -15976,7 +16068,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 159900,
       "name": "Stop the Excavator!",
       "url": "https://open.spotify.com/track/1zKTVLbYpXpWh6qcvCgwmz"
@@ -16531,6 +16623,24 @@
     },
     {
       "album": {
+        "name": "Ten in The Bed Playdate",
+        "url": "https://open.spotify.com/album/6eK7mzsBoxzmS0RaOIiGD2"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149578,
+      "name": "Ten in The Bed Playdate",
+      "url": "https://open.spotify.com/track/6TEee8bUaH22fW6E42eeTi"
+    },
+    {
+      "album": {
         "name": "TEXAS HOLD 'EM",
         "url": "https://open.spotify.com/album/7FsXesEv0qrJEcs7FWlrFF"
       },
@@ -16560,7 +16670,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 124030,
       "name": "Thank You Heroes - Skye's Music Party",
       "url": "https://open.spotify.com/track/1HvJd2Zj7eMncXb4ljRk76"
@@ -16604,7 +16714,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 114500,
       "name": "Thankful and Grateful",
       "url": "https://open.spotify.com/track/0uxssqzMABXpP60ubaKdwW"
@@ -18383,6 +18493,28 @@
     },
     {
       "album": {
+        "name": "Today It's Raining",
+        "url": "https://open.spotify.com/album/3akMW8JypiN2Bk0RE7OGEl"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152233,
+      "name": "Today It's Raining",
+      "url": "https://open.spotify.com/track/08u58PZrHODui0zE4JRJ1M"
+    },
+    {
+      "album": {
         "name": "Tom Tom the Plumber\u2019s Son",
         "url": "https://open.spotify.com/album/66UC2JVcervp4CelY5wBhm"
       },
@@ -18684,6 +18816,24 @@
       "duration_ms": 184128,
       "name": "Under My Nose",
       "url": "https://open.spotify.com/track/6xZbvUXNxKEBCDsFrCDNTJ"
+    },
+    {
+      "album": {
+        "name": "Under The Chestnut Tree",
+        "url": "https://open.spotify.com/album/6sZeZuRGhvg0BGKh9CVhnk"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173832,
+      "name": "Under The Chestnut Tree",
+      "url": "https://open.spotify.com/track/4R1iI2FjUVcyhffUg4S1wa"
     },
     {
       "album": {
@@ -19700,6 +19850,28 @@
       "duration_ms": 150453,
       "name": "What's Inside the Toybox?",
       "url": "https://open.spotify.com/track/1JuAGIYes8RiOfTMoUEDsm"
+    },
+    {
+      "album": {
+        "name": "What's Your Name?",
+        "url": "https://open.spotify.com/album/0C4jLJ3FLfbK59abI37D2M"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85490,
+      "name": "What's Your Name? (feat. Sesame Street)",
+      "url": "https://open.spotify.com/track/4TAzNSca3BotmhvnYVHO2r"
     },
     {
       "album": {

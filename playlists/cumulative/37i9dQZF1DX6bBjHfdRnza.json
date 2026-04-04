@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Featuring Jackyboom. Curated by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring Osmosis Jones. Curated by human Spotify editors. \n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -2618,6 +2618,24 @@
       "duration_ms": 215433,
       "name": "All The Ladies",
       "url": "https://open.spotify.com/track/2QF5OiI1KWDl3etuKnj69m"
+    },
+    {
+      "album": {
+        "name": "All The Money In The World",
+        "url": "https://open.spotify.com/album/3cMXPuYSRoIhNCGLGDVAz0"
+      },
+      "artists": [
+        {
+          "name": "Osmosis Jones",
+          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225984,
+      "name": "All The Money In The World",
+      "url": "https://open.spotify.com/track/56kEN75zpdmdlprv6VlejQ"
     },
     {
       "album": {
@@ -19680,7 +19698,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 190222,
       "name": "feel better",
       "url": "https://open.spotify.com/track/4tMdePOkrariLOyFXe1KnD"
@@ -20996,7 +21014,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 220343,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/3WfWhh0UEe9AaLdUDqv70P"
@@ -29904,6 +29922,28 @@
       "duration_ms": 150000,
       "name": "In Tha Club",
       "url": "https://open.spotify.com/track/59j5yzNkQicfTmayf80bQi"
+    },
+    {
+      "album": {
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/6ThBelfuz9hYQLrF2rGKrV"
+      },
+      "artists": [
+        {
+          "name": "Jeno",
+          "url": "https://open.spotify.com/artist/6a6RDE2aXu0ZPQPxpllNps"
+        },
+        {
+          "name": "Wempe",
+          "url": "https://open.spotify.com/artist/55DlXvQEA1caP9xf39DSlW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216785,
+      "name": "In The Air",
+      "url": "https://open.spotify.com/track/0QfHRJwzVFgNLQwZmMpUfz"
     },
     {
       "album": {
@@ -41342,7 +41382,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 285547,
       "name": "NutDo",
       "url": "https://open.spotify.com/track/7DRhxqacpYaWDLKnq3mOAc"
@@ -59236,6 +59276,24 @@
       "duration_ms": 141355,
       "name": "TRYING TO SAY SOMETHING",
       "url": "https://open.spotify.com/track/3eWbApzvYveVZfYBBFJs5p"
+    },
+    {
+      "album": {
+        "name": "TU",
+        "url": "https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI"
+      },
+      "artists": [
+        {
+          "name": "fromclay",
+          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "TU",
+      "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"
     },
     {
       "album": {

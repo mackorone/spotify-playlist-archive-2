@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. El Bogueto y Almighty en portada.
 
-474 songs - 22 hr 41 min
+475 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Mexican trapping](https://open.spotify.com/track/0zBk1eQpZxYiJGVmjCuknS) | [Dari Pain](https://open.spotify.com/artist/3wYEEVsD1Am4grVL853QAR), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Jrkv](https://open.spotify.com/artist/6gtPHrlXI20tdloiCVrsMn) | [Mexican trapping](https://open.spotify.com/album/3j4ZBW3xQJCvpsecu3uUxM) | 3:22 | 2024-09-06 | 2024-10-26 |
 | [Mi Cabeza](https://open.spotify.com/track/72wd6LLe5x4KuoEwI8YWu7) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc) | [Mi Cabeza](https://open.spotify.com/album/2JpDPQjUAFrV7BsDQAO3HE) | 3:44 | 2023-06-30 | 2023-11-11 |
 | [Mi Don](https://open.spotify.com/track/38uh4OLnMhp99FluHPDPzs) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Villax](https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN), [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2), [Robb Candela](https://open.spotify.com/artist/3oMiumrA0ZaWk8DuUneylk), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Mi Don](https://open.spotify.com/album/5qSXL1ox4BU74ZAbdegRuN) | 3:31 | 2024-05-17 | 2024-06-26 |
+| [Mi Niña](https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mi Niña](https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5) | 2:55 | 2026-04-03 |  |
 | [Mictlan](https://open.spotify.com/track/4Jz8tdL3JAjbArCCA8CaMZ) | [Russo](https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Mictlan](https://open.spotify.com/album/7qdu4wl5M5BnDZ7iPAGHZ5) | 2:59 | 2025-10-24 |  |
 | [Mil Vueltas](https://open.spotify.com/track/6ipVOqUJN6JJ2K3Da8gUbF) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Mil Vueltas](https://open.spotify.com/album/0XR4d91t9xefN09WlO75c1) | 2:48 | 2023-06-09 | 2024-05-18 |
 | [Millón](https://open.spotify.com/track/64WAtGEW18TZJypuDepkxe) | [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF), [Kamaro](https://open.spotify.com/artist/7psBfCiJgjoSL9JMbTxqGU), [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk) | [Millón](https://open.spotify.com/album/0sWe9dI7ATIJcGmTVeeHv3) | 3:03 | 2023-06-09 | 2023-07-01 |

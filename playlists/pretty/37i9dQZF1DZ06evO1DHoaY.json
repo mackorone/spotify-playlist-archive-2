@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2073477,
+  "num_followers": 2073559,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAABvTyWDjB+XV7Ao9stOHx4u",
+  "snapshot_id": "ac2xgAAAAABSZuVH+9VLzS8EDCXgXqNr",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chant Down Babylon",
-        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
       },
       "artists": [
         {
           "name": "Bob Marley & The Wailers",
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 346333,
-      "name": "Turn Your Lights Down Low",
-      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
+      "duration_ms": 188026,
+      "name": "So Much Things To Say",
+      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+        "name": "Chant Down Babylon",
+        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
       },
       "artists": [
         {
           "name": "Bob Marley & The Wailers",
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 188026,
-      "name": "So Much Things To Say",
-      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
+      "duration_ms": 346333,
+      "name": "Turn Your Lights Down Low",
+      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
     },
     {
       "added_at": null,

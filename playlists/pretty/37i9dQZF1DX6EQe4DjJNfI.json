@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah, Duquesa",
-  "num_followers": 186581,
+  "num_followers": 186601,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-03-20 03:01:04",
       "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 171361,
+      "name": "Erro Fatal",
+      "url": "https://open.spotify.com/track/0nLgUFirsiwYuxdPBWpVt3"
+    },
+    {
+      "added_at": "2026-03-20 03:01:04",
+      "album": {
         "name": "Amar\u00edssima",
         "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 216000,
       "name": "10 Minutos",
       "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
-    },
-    {
-      "added_at": "2026-03-20 03:01:04",
-      "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 171361,
-      "name": "Erro Fatal",
-      "url": "https://open.spotify.com/track/0nLgUFirsiwYuxdPBWpVt3"
     },
     {
       "added_at": "2026-03-20 03:01:04",
@@ -963,18 +963,26 @@
     {
       "added_at": "2026-03-20 03:01:04",
       "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+        "name": "Desse Meu Mel",
+        "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
       },
       "artists": [
         {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+          "name": "BIA DOXUM",
+          "url": "https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV"
+        },
+        {
+          "name": "Vibox",
+          "url": "https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x"
+        },
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
         }
       ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+      "duration_ms": 282352,
+      "name": "sexta de manh\u00e3",
+      "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
     },
     {
       "added_at": "2026-03-20 03:01:04",
@@ -999,26 +1007,18 @@
     {
       "added_at": "2026-03-20 03:01:04",
       "album": {
-        "name": "Desse Meu Mel",
-        "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
       },
       "artists": [
         {
-          "name": "BIA DOXUM",
-          "url": "https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV"
-        },
-        {
-          "name": "Vibox",
-          "url": "https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x"
-        },
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
         }
       ],
-      "duration_ms": 282352,
-      "name": "sexta de manh\u00e3",
-      "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2026-03-20 03:01:04",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-03-20 03:01:04",
       "album": {
-        "name": "Tudo Que Eu Sempre Quis",
-        "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
-      },
-      "artists": [
-        {
-          "name": "JovemBlues",
-          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
-        },
-        {
-          "name": "Dos Anjos",
-          "url": "https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn"
-        }
-      ],
-      "duration_ms": 153375,
-      "name": "Tudo Que Eu Sempre Quis",
-      "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
-    },
-    {
-      "added_at": "2026-03-20 03:01:04",
-      "album": {
         "name": "Tempo Que N\u00e3o Volta",
         "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 172173,
       "name": "Tempo Que N\u00e3o Volta",
       "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
+    },
+    {
+      "added_at": "2026-03-20 03:01:04",
+      "album": {
+        "name": "Tudo Que Eu Sempre Quis",
+        "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
+      },
+      "artists": [
+        {
+          "name": "JovemBlues",
+          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
+        },
+        {
+          "name": "Dos Anjos",
+          "url": "https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn"
+        }
+      ],
+      "duration_ms": 153375,
+      "name": "Tudo Que Eu Sempre Quis",
+      "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
     },
     {
       "added_at": "2026-03-20 03:01:04",

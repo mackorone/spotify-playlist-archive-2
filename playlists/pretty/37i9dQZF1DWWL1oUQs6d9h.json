@@ -1,6 +1,6 @@
 {
   "description": "\uba38\ub9bf\uc18d\uc740 \ubcf5\uc7a1\ud558\uc9c0\ub9cc, \uac89\uc73c\ub85c\ub294 \uce60 & \ucfe8\ud574\ubcf4\uc774\uace0 \uc2f6\uc744 \ub54c",
-  "num_followers": 16195,
+  "num_followers": 16212,
   "original_name": "act cool.",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-04-02 01:34:32",
       "album": {
-        "name": "0.1 flaws and all.",
-        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "peach eyes",
-      "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
-    },
-    {
-      "added_at": "2026-04-02 01:34:32",
-      "album": {
         "name": "The Juice: Vol. II",
         "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 215386,
       "name": "West Coast Love",
       "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
+    },
+    {
+      "added_at": "2026-04-02 01:34:32",
+      "album": {
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "peach eyes",
+      "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
     },
     {
       "added_at": "2026-04-02 01:34:32",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-04-02 01:34:32",
       "album": {
-        "name": "after the sun goes down",
-        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "nah",
-      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
-    },
-    {
-      "added_at": "2026-04-02 01:34:32",
-      "album": {
         "name": "Skrr (feat. GISELLE)",
         "url": "https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 219200,
       "name": "Skrr (feat. GISELLE)",
       "url": "https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy"
+    },
+    {
+      "added_at": "2026-04-02 01:34:32",
+      "album": {
+        "name": "after the sun goes down",
+        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "nah",
+      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
     },
     {
       "added_at": "2026-04-02 01:34:32",

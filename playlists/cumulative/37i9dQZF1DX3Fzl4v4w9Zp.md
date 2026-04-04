@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Where roots meet what’s next\. Cover: Tenille Townes
+> Where roots meet what’s next\. Cover: Paul Cauthen
 
-975 songs - 2 day 11 hr 56 min
+977 songs - 2 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-02 | 2025-05-17 |
 | [Dancing in the Sky](https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:06 | 2023-10-13 | 2024-04-19 |
 | [Dark Black Coal](https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Dark Black Coal](https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z) | 4:14 | 2023-05-05 | 2024-05-25 |
+| [Dark Horse](https://open.spotify.com/track/43ZxkpfIAC4cfaVuNjFqrB) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Book of Paul](https://open.spotify.com/album/7uaR8wefw8pU4eYJh0jMr2) | 3:21 | 2026-04-03 |  |
 | [Day Of Reckoning](https://open.spotify.com/track/3jORWVR5pvIwGYngJeByeu) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Day Of Reckoning](https://open.spotify.com/album/72JDzIsYdbstVnIMYAAtaU) | 4:26 | 2024-09-20 | 2025-10-18 |
 | [Days Ahead \(feat\. Danielle Haim\)](https://open.spotify.com/track/5ESkRyWJPU5AThTvPa6Yfd) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | ['Flicted](https://open.spotify.com/album/7DmETOdm0xy9UCAwWP2xe8) | 4:58 | 2022-06-24 | 2022-10-01 |
 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 | 2023-02-24 | 2025-09-21 |
@@ -507,6 +508,7 @@
 | [Little Songs](https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT) | 2:25 | 2023-07-14 | 2024-07-13 |
 | [Livin' the Dream](https://open.spotify.com/track/5BnzjFbWDTIR0I7Vri1TfQ) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Southern Star](https://open.spotify.com/album/39kR5OZOs5agVwu3lLd2lX) | 2:41 | 2023-09-22 | 2024-09-21 |
 | [Livin’ In Shame](https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Livin’ In Shame](https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f) | 2:25 | 2026-02-20 |  |
+| [Lonesome Dove](https://open.spotify.com/track/3ossErA68C3bYNofQgQDsB) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Age of the Ram](https://open.spotify.com/album/7qSbOinSadHKhs2OkjKvEP) | 3:04 | 2026-04-03 |  |
 | [Lonesome Drifter](https://open.spotify.com/track/7IuilBb5xXErrNIZEeaqID) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/6zZyCNRv5LRBpM5Cqc2pFB) | 3:02 | 2025-01-31 | 2025-11-22 |
 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 | 2022-12-02 | 2024-04-19 |
 | [Long Journey Home](https://open.spotify.com/track/2dTTuGhULqhoWkw8LRBdE4) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Race Records](https://open.spotify.com/album/5ROffy9rfJLuZTgqCJdMFG) | 3:07 | 2021-12-17 | 2022-04-02 |
@@ -683,7 +685,7 @@
 | [RHODODENDRON](https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [RHODODENDRON](https://open.spotify.com/album/0jd1zjfrmUwnYgKaHU0WSp) | 3:34 | 2021-12-17 | 2022-07-29 |
 | [Rich Little Girls](https://open.spotify.com/track/6iZwFG2RPqHpPFd4FP9M3A) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Rich Little Girls](https://open.spotify.com/album/4TQGtYIgVUC53l3cvyaOeg) | 2:59 | 2022-11-18 | 2023-02-04 |
 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-18 | 2024-04-06 |
-| [Richmond On The James](https://open.spotify.com/track/0xSyT5drjetDctC8DZuW89) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Arcadia](https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH) | 3:27 | 2025-03-28 |  |
+| [Richmond On The James](https://open.spotify.com/track/0xSyT5drjetDctC8DZuW89) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Arcadia](https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH) | 3:27 | 2025-03-28 | 2026-04-04 |
 | [Ride On](https://open.spotify.com/track/0JRAb68EKNBaZwrkUBMVvq) | [Coleman Jennings](https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp) | [Ride On](https://open.spotify.com/album/4wZ9RtuL0b46pD8dHzl606) | 2:58 | 2026-03-27 |  |
 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-02-16 | 2025-11-08 |
 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 | 2024-03-29 | 2024-04-19 |
@@ -805,7 +807,7 @@
 | [Te Amo](https://open.spotify.com/track/20k4xjW04YB2MnvlPGgsya) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Something Is Working Up Above My Head](https://open.spotify.com/album/05eCc4XHbGhZ8jhVbQYnoX) | 3:09 | 2024-09-06 | 2025-10-25 |
 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 | 2021-12-17 | 2023-04-01 |
 | [Tennessee](https://open.spotify.com/track/7l9mIuhLAQJzvpoibPU2bE) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [River Rat](https://open.spotify.com/album/1B1uV1TfiwBFxKSJBakP8Z) | 3:51 | 2025-08-20 | 2026-02-14 |
-| [Tennessee Quick Cash](https://open.spotify.com/track/7zx68cuwvzYVwUl7cyIAXD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Dollar A Day](https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd) | 4:12 | 2025-08-08 |  |
+| [Tennessee Quick Cash](https://open.spotify.com/track/7zx68cuwvzYVwUl7cyIAXD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Dollar A Day](https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd) | 4:12 | 2025-08-08 | 2026-04-04 |
 | [Tequila Mockingbird](https://open.spotify.com/track/5eYBiVoBeThVr3zDy2k0PU) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [All Dressed Up](https://open.spotify.com/album/2J2A8C4WvbTFyZUYX1cuSr) | 2:39 | 2026-03-20 |  |
 | [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-06-28 | 2025-11-08 |
 | [Texas Moon](https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:25 | 2021-12-17 | 2022-11-12 |

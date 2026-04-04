@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Season Five",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PUN",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 210000,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/6wzi8plTTF8LHkruWOmCQS"
@@ -1430,6 +1430,24 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
+        "name": "Exp. (Expired)",
+        "url": "https://open.spotify.com/album/7hPIndCVEFuJdDNGucOZiy"
+      },
+      "artists": [
+        {
+          "name": "Kakagoesbackhome",
+          "url": "https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245322,
+      "name": "Exp. (Expired)",
+      "url": "https://open.spotify.com/track/74YZnuD5ptqucekBOEc3mw"
     },
     {
       "album": {
@@ -3058,7 +3076,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 217346,
       "name": "Not The Best But Still Good (From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d Duang With You\")",
       "url": "https://open.spotify.com/track/3Gc9V37FTaHx9bFtX4hfmn"
@@ -3076,7 +3094,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 203774,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/4lTXUyi9nNClTAMziDRIgF"
@@ -5328,7 +5346,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 212967,
       "name": "YSL GIRL",
       "url": "https://open.spotify.com/track/3VfV03FETvqZ8nlt993mes"
@@ -6137,6 +6155,24 @@
     },
     {
       "album": {
+        "name": "MultiColorBands",
+        "url": "https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS"
+      },
+      "artists": [
+        {
+          "name": "YUNGTARR",
+          "url": "https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "\u0e04\u0e23\u0e2d\u0e07\u0e42\u0e25\u0e01",
+      "url": "https://open.spotify.com/track/76j0uitplft5gODYnoQ62V"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07",
         "url": "https://open.spotify.com/album/06qIplvukzO5NyH9UwJG45"
       },
@@ -6232,7 +6268,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 263253,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e32\u0e14\u0e2b\u0e27\u0e31\u0e07",
       "url": "https://open.spotify.com/track/4n8TKmRLfD82RWnhb6HMNw"
@@ -9581,6 +9617,24 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e30\u0e2d\u0e2d\u0e07\u0e14\u0e32\u0e27 (Fading)",
+        "url": "https://open.spotify.com/album/52EWLPuVAPFavHS6DUVkD0"
+      },
+      "artists": [
+        {
+          "name": "YEW",
+          "url": "https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284571,
+      "name": "\u0e25\u0e30\u0e2d\u0e2d\u0e07\u0e14\u0e32\u0e27 (Fading)",
+      "url": "https://open.spotify.com/track/218RfuLb5cx1g6Wj8aeH2f"
+    },
+    {
+      "album": {
         "name": "\u0e25\u0e30\u0e40\u0e21\u0e2d\u0e14\u0e32\u0e27 (Starry Night)",
         "url": "https://open.spotify.com/album/2zG73XChEkI2PaoQnIrxdr"
       },
@@ -10676,6 +10730,24 @@
       "duration_ms": 283079,
       "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
       "url": "https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e32\u0e08\u0e44\u0e21\u0e48\u0e16\u0e36\u0e07\u0e04\u0e23\u0e32\u0e27 (right ?)",
+        "url": "https://open.spotify.com/album/1tkLKIyePmpnDCE5opuPgz"
+      },
+      "artists": [
+        {
+          "name": "Newery",
+          "url": "https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "\u0e2d\u0e32\u0e08\u0e44\u0e21\u0e48\u0e16\u0e36\u0e07\u0e04\u0e23\u0e32\u0e27 (right ?)",
+      "url": "https://open.spotify.com/track/66vg1i9irdGiIpVsjWj5Sl"
     },
     {
       "album": {
@@ -11906,6 +11978,24 @@
       "duration_ms": 228000,
       "name": "\u0e41\u0e01\u0e49\u0e1a\u0e19",
       "url": "https://open.spotify.com/track/1tBFg7D6aSmZb9KUl7FPbu"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e19\u0e32\u0e17\u0e35\u0e40\u0e14\u0e35\u0e22\u0e27 (A Minute)",
+        "url": "https://open.spotify.com/album/09g1TRMQbauWslcoOYwvXk"
+      },
+      "artists": [
+        {
+          "name": "Phuwin",
+          "url": "https://open.spotify.com/artist/1dDqRhUNUraehCs3aoLks0"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214166,
+      "name": "\u0e41\u0e04\u0e48\u0e19\u0e32\u0e17\u0e35\u0e40\u0e14\u0e35\u0e22\u0e27 (A Minute)",
+      "url": "https://open.spotify.com/track/4GoLfWS3yj0GA4GjUqLIFQ"
     },
     {
       "album": {

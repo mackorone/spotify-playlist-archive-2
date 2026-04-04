@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Adriatique
 
-6,744 songs - 23 day 2 hr 42 min
+6,744 songs - 23 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6065,7 +6065,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 1](https://open.spotify.com/track/3vTAO1ih47eeLEeQnKwxKr) | [Dodi Palese](https://open.spotify.com/artist/2JNZPGveOPu5gIw9o3V4pb) | [What Happens Then](https://open.spotify.com/album/1GJkF1OqPvGLnF8CNAv7DU) | 0:00 | 2026-04-02 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 | 2026-01-29 | 2026-02-20 |
@@ -6485,6 +6484,7 @@
 | [What a Day](https://open.spotify.com/track/5orEjdvk8hDhdcmQ7v8ZHP) | [Kollektiv Ost](https://open.spotify.com/artist/3G5wjUV0bhx9pIIUrGUabR), [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP) | [What a Day](https://open.spotify.com/album/0RRwxBP7Y44ZgFwkPdWeMV) | 6:15 | 2024-07-04 | 2024-07-27 |
 | [What Do U Know](https://open.spotify.com/track/2hJZt38gjPERlXyVFnX8Bd) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [What Do U Know](https://open.spotify.com/album/6a28sQYLhHOZ6T5eVSqOOH) | 3:35 | 2025-07-10 | 2025-07-25 |
 | [What Do U Know \- Monkey Safari Remix](https://open.spotify.com/track/6LXtkmZS7XCKgGnKyJRIaV) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [What Do U Know \(Monkey Safari Remix\)](https://open.spotify.com/album/3Dvmd6AYV2QmSNYWVfvffz) | 4:25 | 2025-10-02 | 2025-10-24 |
+| [What Happens Then](https://open.spotify.com/track/3vTAO1ih47eeLEeQnKwxKr) | [Dodi Palese](https://open.spotify.com/artist/2JNZPGveOPu5gIw9o3V4pb) | [What Happens Then](https://open.spotify.com/album/1GJkF1OqPvGLnF8CNAv7DU) | 4:59 | 2026-04-02 |  |
 | [What I Said](https://open.spotify.com/track/6DvTUQiv9tCcRZxdIwFVSH) | [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [What I Said](https://open.spotify.com/album/7i1mjCZnPgWEC5UQn4m8qc) | 3:46 | 2024-05-02 | 2024-05-17 |
 | [What If I](https://open.spotify.com/track/5bGqDdq1N19rshIU3WXAcr) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [What If I](https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0) | 5:54 | 2023-01-12 | 2023-02-03 |
 | [What If I Want You](https://open.spotify.com/track/6oUpN1TABswmcWijWC24cR) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [What If I Want You](https://open.spotify.com/album/5adIJApaW90tOBjMyBoyMu) | 3:22 | 2023-08-17 | 2023-09-01 |

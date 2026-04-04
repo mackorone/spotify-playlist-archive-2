@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,974 songs - 4 day 11 hr 16 min
+1,975 songs - 4 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,7 +740,7 @@
 | [Hate You](https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:34 | 2023-11-04 | 2023-11-06 |
 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 | 2021-06-13 | 2021-06-14 |
 | [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 | 2024-08-13 | 2024-08-31 |
-| [HAYAWAN](https://open.spotify.com/track/5ShBW4bheRNU8zrlNE9t1f) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:41 | 2026-03-28 |  |
+| [HAYAWAN](https://open.spotify.com/track/5ShBW4bheRNU8zrlNE9t1f) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:41 | 2026-03-28 | 2026-04-04 |
 | [Hchouma](https://open.spotify.com/track/3nb2XZJ3n3J7Qq4nJdmqqI) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 1:51 | 2023-01-07 | 2023-01-17 |
 | [Hchouma](https://open.spotify.com/track/6N4T2Ta0KoaisECYl4tkMu) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 1:51 | 2023-01-08 | 2023-01-10 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-10-19 | 2022-05-25 |
@@ -1382,6 +1382,7 @@
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-09 |
 | [Paprika](https://open.spotify.com/track/1sRxcnih7w5PfbJAujdbJo) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Molno Jorjo](https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc) | 2:49 | 2025-01-25 | 2025-02-22 |
 | [PARA MI \(feat\. Beny JR\)](https://open.spotify.com/track/6gHsm2pRCjq3OknHhRpe1C) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:24 | 2023-11-25 | 2024-02-10 |
+| [Parano](https://open.spotify.com/track/2AFF39DkukQH8csCAzdGXR) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Parano](https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61) | 2:43 | 2026-04-03 |  |
 | [PARASAIL](https://open.spotify.com/track/2Q0aElTZQtEUsoiaQfizu6) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:34 | 2023-07-29 | 2023-07-31 |
 | [PARASITE](https://open.spotify.com/track/2yF2mzAJgithv1mGqqKnF1) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 2:13 | 2022-08-13 | 2022-08-15 |
 | [PARISIENNE](https://open.spotify.com/track/3igbfkHq3s5wGMvC8iAscj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [PARISIENNE](https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b) | 2:38 | 2025-08-07 | 2025-08-12 |
@@ -1637,7 +1638,7 @@
 | [SPIDER](https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw) | 3:08 | 2024-09-14 | 2024-11-27 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-11-05 | 2022-11-07 |
 | [Spirale](https://open.spotify.com/track/48MFRTMZLuCR3LX3HURMSy) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 3:09 | 2021-03-29 | 2021-03-31 |
-| [SPL!T](https://open.spotify.com/track/0SEji12utDWRGFPtHYpqQM) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:39 | 2026-03-28 |  |
+| [SPL!T](https://open.spotify.com/track/0SEji12utDWRGFPtHYpqQM) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:39 | 2026-03-28 | 2026-04-04 |
 | [Spliff](https://open.spotify.com/track/2HdScolhznqzKsBMfYvmBk) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:11 | 2024-11-09 | 2024-11-17 |
 | [SPOWNOEL](https://open.spotify.com/track/338Wo6letYNwTdybwpfiOl) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [SPOWNOEL](https://open.spotify.com/album/13ASs7KTL0Ue49pncis3XX) | 8:46 | 2026-01-04 | 2026-01-26 |
 | [Spring Day](https://open.spotify.com/track/5xFoqABWVj4FIAf7vQX8FN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/5liZcQeYT5zHkwdZbtRa3M) | 4:34 | 2021-11-16 | 2021-11-17 |
@@ -1791,7 +1792,7 @@
 | [Tromsõ](https://open.spotify.com/track/1O8UJaISI6JML7g7WPTZNa) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [MC3](https://open.spotify.com/album/4adJ7R9LtergjKVJJUYUmH) | 2:34 | 2025-09-13 | 2025-09-20 |
 | [Trump](https://open.spotify.com/track/2C7txY1gksw7OkWz8Ivn6M) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 3:33 | 2021-06-24 | 2021-06-25 |
 | [Trump](https://open.spotify.com/track/36Bjp9ZefI3K5zeBKOENbn) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Trump](https://open.spotify.com/album/2gZnadHn3UQiCxfckQkoOW) | 3:33 | 2021-06-23 | 2021-06-24 |
-| [Tsswirtek](https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tsswirtek](https://open.spotify.com/album/1RxCM1YSYCEgnbpwRI0BrO) | 2:27 | 2025-09-28 | 2026-03-29 |
+| [Tsswirtek](https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tsswirtek](https://open.spotify.com/album/1RxCM1YSYCEgnbpwRI0BrO) | 2:27 | 2025-09-28 |  |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-09 |
 | [Tsunami](https://open.spotify.com/track/5nPUi1FjzXA2Ur35LIS0X3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:37 | 2023-02-18 | 2023-02-20 |
 | [Tt Va Bien](https://open.spotify.com/track/4Tid3jOcqtTtvGe4IQO5Kv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tt Va Bien](https://open.spotify.com/album/2DbK52rV0HWp7jVKJXDQ2s) | 2:38 | 2021-05-17 | 2022-01-30 |

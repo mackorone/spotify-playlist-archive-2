@@ -4,7 +4,7 @@
 
 > all gains
 
-162 songs - 6 hr 9 min
+163 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [NO BATIDÃO \- Slowed](https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [NO BATIDÃO](https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1) | 1:47 | 2026-02-13 |  |
 | [NO ERA AMOR \- Slowed](https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9) | [DJ Asul](https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe) | [NO ERA AMOR](https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU) | 1:33 | 2026-02-13 |  |
 | [Nuketown \(feat\. Juice WRLD\)](https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:46 | 2023-05-19 | 2023-12-30 |
-| [NUNCA MUDA?](https://open.spotify.com/track/5EIjpM1B1VsLoKvv2iwd0P) | [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF) | [NUNCA MUDA?](https://open.spotify.com/album/6xUYw5goKIoyJQi9C27UBy) | 1:21 | 2025-03-27 |  |
+| [NUNCA MUDA?](https://open.spotify.com/track/5EIjpM1B1VsLoKvv2iwd0P) | [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF) | [NUNCA MUDA?](https://open.spotify.com/album/6xUYw5goKIoyJQi9C27UBy) | 1:21 | 2025-03-27 | 2026-04-04 |
 | [Oppa](https://open.spotify.com/track/2YSBjsqZ2YxwwHi8xqf9ms) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja) | [Oppa](https://open.spotify.com/album/0MjCgPgOnJJKGvaaLINZig) | 1:27 | 2024-02-13 | 2024-04-27 |
 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 | 2023-05-23 | 2023-07-12 |
 | [Orquestra Maldita](https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Orquestra Maldita](https://open.spotify.com/album/3vrQH2IPnx36leo1TExy5E) | 1:59 | 2023-09-08 | 2023-12-20 |
@@ -147,6 +147,7 @@
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2023-03-01 | 2023-08-17 |
 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2023-09-08 |  |
 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 | 2024-01-10 |  |
+| [TAKA LA DENTRO](https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr) | [SEKIMANE](https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq), [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [TAKA LA DENTRO](https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE) | 1:29 | 2026-04-03 |  |
 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2023-03-01 | 2023-03-25 |
 | [THE AUTOTREM 1.0](https://open.spotify.com/track/1cOOhtwpwDFIjsuZkp2KYJ) | [DJ RICK 013](https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [THE AUTOTREM 1.0](https://open.spotify.com/album/3B6zpOLO07POn5FKcNwTKB) | 2:29 | 2024-02-13 | 2024-05-09 |
 | [The Search](https://open.spotify.com/track/3oLe5ZILASG8vU5dxIMfLY) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:08 | 2023-03-09 | 2023-12-30 |

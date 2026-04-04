@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 91280,
+  "num_followers": 91302,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAABKen5Kkz66KDKFbjA4A+Oo",
+  "snapshot_id": "ac2xgAAAAAC7nQiaYHLYC2iVQ1LuP7Zz",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "En El Amor Hay Que Perdonar",
-      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cocoterapia",
         "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 202153,
       "name": "Flamenkito",
       "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "En El Amor Hay Que Perdonar",
+      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "En La Obscuridad",
-      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 184000,
       "name": "Vivir - Any Better",
       "url": "https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "En La Obscuridad",
+      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
     },
     {
       "added_at": null,
@@ -975,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "Sal De Mi Piel",
-      "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Estamos Tan Locos",
         "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 206354,
       "name": "No Estamos Tan Locos",
       "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "Sal De Mi Piel",
+      "url": "https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft"
     },
     {
       "added_at": null,

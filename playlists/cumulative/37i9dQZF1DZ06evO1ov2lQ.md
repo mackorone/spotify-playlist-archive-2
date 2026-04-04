@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Adagiati](https://open.spotify.com/track/7sGGstyG6WbJGQnvIEI47g) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:51 | 2022-05-29 |  |
+| [Adagiati](https://open.spotify.com/track/7sGGstyG6WbJGQnvIEI47g) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:51 | 2022-05-29 | 2026-04-04 |
 | [Addio](https://open.spotify.com/track/3FBwcr5rTOj47URzCGRDpc) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:30 | 2022-10-21 | 2025-04-07 |
 | [Algae and Fungi part 1](https://open.spotify.com/track/0K7TAxOoj5mLt1IuC1Gogs) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:43 | 2022-06-23 | 2022-09-19 |
 | [Algae and Fungi part 2](https://open.spotify.com/track/0qveDw5Qx1zn1StsX81HvJ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:17 | 2022-06-03 | 2022-10-09 |
@@ -134,7 +134,7 @@
 | [Orbemia](https://open.spotify.com/track/1bJIHrjKTvpUYVyqC7RQZn) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Orbemia](https://open.spotify.com/album/54WlSuLP5AZr2AHDErBX8m) | 6:29 | 2025-06-01 | 2025-06-08 |
 | [Out Of The Cradle](https://open.spotify.com/track/5CfC7qaDyjaYE03txNXtPy) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 2:13 | 2023-04-19 | 2024-05-11 |
 | [Path Leading to the High Grass](https://open.spotify.com/track/2FwjeglcsXySDw4vem1Er0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:51 | 2022-06-25 | 2026-01-18 |
-| [Path Leading to the High Grass](https://open.spotify.com/track/0IC5axq3KgyHvFtla1pq0q) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 3:55 | 2026-03-25 | 2026-04-02 |
+| [Path Leading to the High Grass](https://open.spotify.com/track/0IC5axq3KgyHvFtla1pq0q) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 3:55 | 2026-03-25 |  |
 | [People Are Friends](https://open.spotify.com/track/7CYNZgGuWr2lhkeQh1yurD) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 10:39 | 2022-05-29 | 2025-12-31 |
 | [Phantasm](https://open.spotify.com/track/0GitudTQiCx24Yq8GopYuG) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 4:50 | 2022-07-10 | 2025-11-29 |
 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2022-05-29 |  |

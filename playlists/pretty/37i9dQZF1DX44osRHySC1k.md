@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,302 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,305 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 41 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Mira Leafling](https://open.spotify.com/artist/5BYS7QRM7jcBlEOtjMVgHv), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
 | 42 | [Solace](https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Solace](https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP) | 2:42 |
 | 43 | [Sunrise Glory](https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 4:09 |
-| 44 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 |
-| 45 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 |
-| 46 | [Olancha Farewell](https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 2:18 |
+| 44 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 |
+| 45 | [Olancha Farewell](https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 2:18 |
+| 46 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 |
 | 47 | [The Breath Inside the Breath](https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/3dfjHQXl4xuXAbSEPZarJL) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 5:25 |
 | 48 | [Buenas Noches](https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Flowing Strings](https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8) | 4:38 |
 | 49 | [Aura](https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Aura](https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5) | 2:07 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 51 | [Symphony Of Heaven](https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D), [Entspannungsmusik](https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J), [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN) | [Calm Moments Piano Music](https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn) | 2:10 |
 | 52 | [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 |
 | 53 | [Dulces Sueños](https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Dulces Sueños](https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA) | 4:05 |
-| 54 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 |
-| 55 | [Astral Therapy](https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:17 |
+| 54 | [Astral Therapy](https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:17 |
+| 55 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 |
 | 56 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 |
 | 57 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 |
 | 58 | [Eternal Thoughts](https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1) | [Orbit Release](https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG) | [Eternal Thoughts](https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP) | 4:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,825 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,865 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [0008](https://open.spotify.com/track/3QbBAFPQh3BOcGHUiSRGMV) | [R Maan](https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n) | [0008](https://open.spotify.com/album/2HvTVuae3QUQEM9SiyzqHT) | 2:41 |
 | 50 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 |
 
-Snapshot ID: `AAAAAJXeTGdOFSsnh0WKg+Vd4v2E0Bee`
+Snapshot ID: `AAAAAIXHbQ3AO4BwhfbG1076I5Qf/iS2`

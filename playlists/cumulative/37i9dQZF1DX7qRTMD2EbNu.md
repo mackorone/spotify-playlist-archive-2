@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Bhadmayors
 
-903 songs - 1 day 21 hr 22 min
+903 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Akorfa](https://open.spotify.com/track/3CL86NHbA0NjfdS28TE2Wb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Lighter Tod](https://open.spotify.com/artist/3b3Vzpjyj5I1xOmVVKglUk) | [Akorfa](https://open.spotify.com/album/7gCyJwNjycvJfQDeVXGUrk) | 3:04 | 2025-01-31 | 2025-05-17 |
 | [Alhaji Popping](https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Alhaji Popping](https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ) | 2:36 | 2025-06-20 | 2025-09-05 |
 | [All Black](https://open.spotify.com/track/6k0JvWV5AzGlnoWe0IQxNq) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Bar 2 Mixtape](https://open.spotify.com/album/4TjcXQcmjVk3Fta78FewRe) | 5:13 | 2025-03-06 | 2025-03-14 |
+| [ALL FALL APART](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 2:51 | 2026-04-03 |  |
 | [All Gas No Breaks](https://open.spotify.com/track/5kVP6wqCnZIvSkAExR0qdX) | [Kev the Topic](https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [All Gas No Breaks](https://open.spotify.com/album/563vOOWujyM8dwQKzYhGMP) | 2:54 | 2023-07-20 | 2023-09-22 |
 | [All My Life](https://open.spotify.com/track/2utcd67JnYjlDaXQ92beai) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Vth 2](https://open.spotify.com/album/5BRuNa1MCmOQFc7164uNXd) | 2:14 | 2025-10-10 | 2025-12-19 |
 | [All Night](https://open.spotify.com/track/6CNXAilaYIPE8lDTX6GMLu) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Midnight Sounds](https://open.spotify.com/album/4fE4QvVGJNWEl0Uihl9ej8) | 2:28 | 2025-07-11 | 2025-08-22 |
@@ -813,7 +814,6 @@
 | [Too Windy 4 U](https://open.spotify.com/track/7JuLuj4Z4v85apcflxXW5O) | [Mus](https://open.spotify.com/artist/4gIy9bx9Mw1zNM6PRnfT0P), [Japo](https://open.spotify.com/artist/7fKwtNYCndojisAPoE3z7m) | [Too Windy 4 U](https://open.spotify.com/album/4SdPGtonnFujGC874zu2Ii) | 1:58 | 2024-08-09 | 2024-08-26 |
 | [Top Speed](https://open.spotify.com/track/5uMtLvgPkHjclh5zIgYSOO) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Top Speed](https://open.spotify.com/album/5QTnDhXpzwXkhzqHcyhxYp) | 3:01 | 2025-09-26 |  |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
-| [Track 5](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 0:00 | 2026-04-03 |  |
 | [Tracking You](https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Tracking You](https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6) | 3:03 | 2025-09-05 |  |
 | [Tranquillo](https://open.spotify.com/track/0R5MHXzCbwJkng8NHlH2S2) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Allan Harvey](https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt) | [Tranquillo](https://open.spotify.com/album/6tlJwdz4dFTig2UG6HoSAn) | 3:05 | 2023-06-09 | 2023-06-23 |
 | [Trap](https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Trap](https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59) | 2:58 | 2024-03-08 | 2024-08-09 |

@@ -4,7 +4,7 @@
 
 > una guitarra y mucho sentimiento para cantar\. Natalia Lafourcade en portada.
 
-272 songs - 17 hr 27 min
+273 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 | 2025-05-30 |  |
 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 | 2025-05-30 |  |
 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 | 2022-03-04 | 2025-05-31 |
+| [MAKTUB](https://open.spotify.com/track/7szYdGa1zURalac1tdhA9L) | [Majo Puente](https://open.spotify.com/artist/1pyvvzBs5rAleQc3hKyMte) | [MAKTUB](https://open.spotify.com/album/2Q64lf0EuYInIDtRDxlTMY) | 3:12 | 2026-04-03 |  |
 | [Mal de Amores](https://open.spotify.com/track/7aXpSB3zDZG2mPYowpEPNJ) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Mal de Amores](https://open.spotify.com/album/2ETyqCocQb3rLg5ik39Ya7) | 4:24 | 2026-02-06 |  |
 | [Mapas en Blanco](https://open.spotify.com/track/2w2noxTEg9IUZv9kCdt3Y2) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0), [Ximena Carstensen](https://open.spotify.com/artist/4pELcIPO8XT2tszzk7d6cu) | [Mapas en Blanco](https://open.spotify.com/album/0oCZZwDGaiqjbzHy0T5Opc) | 3:54 | 2026-01-16 |  |
 | [Marchita](https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:46 | 2025-05-30 | 2026-02-28 |
@@ -251,7 +252,7 @@
 | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/track/6Jv5QIyxHtBLvKB8U84Ae2) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/album/3qqiuCVd7j8bLEICEmycNC) | 3:11 | 2022-03-04 | 2025-05-31 |
 | [Tristeza \- Spotify Singles](https://open.spotify.com/track/3snlRAr38hQef8sz0hJbmy) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:45 | 2022-04-20 | 2024-04-19 |
 | [Tristeza \- Spotify Singles](https://open.spotify.com/track/4uZ5XgrjuomsVXOABMRaVW) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:45 | 2022-04-20 | 2025-05-31 |
-| [Tu Me Dijiste Que Venias](https://open.spotify.com/track/5IPweAJxBcDyC7dDkcSyE1) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Archivos Pt.1](https://open.spotify.com/album/019VrJB8sbXd52dsdyUtqu) | 2:37 | 2025-05-30 |  |
+| [Tu Me Dijiste Que Venias](https://open.spotify.com/track/5IPweAJxBcDyC7dDkcSyE1) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Archivos Pt.1](https://open.spotify.com/album/019VrJB8sbXd52dsdyUtqu) | 2:37 | 2025-05-30 | 2026-04-04 |
 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 | 2022-03-04 | 2025-01-11 |
 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/4Y4LIwW0Wu2ofbnaz9qZVN) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/3l1VLXgsVJQ2iBLeIkByZn) | 4:28 | 2022-03-04 | 2025-05-31 |
 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/0cvrnpQP2UBc9f68M28JDt) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 4:28 | 2022-03-04 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-380 songs - 20 hr 41 min
+381 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Promenade en traîneau](https://open.spotify.com/track/7fwzmmganYLIMBP9rmrAAw) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 2:54 | 2021-12-17 | 2024-04-19 |
 | [Promenade en traîneau](https://open.spotify.com/track/47CEnviJEZLJ0e7LstG1rx) | [Raffy](https://open.spotify.com/artist/5PW85Meg3JSYjhl9aOOZRz) | [Joyeux Noël et bonne année](https://open.spotify.com/album/4rwdFdwkoCgsc4wlyFKzG3) | 3:56 | 2021-12-17 |  |
 | [Père Noël arrive ce soir](https://open.spotify.com/track/2hv3iAKUZwNobiXKUmaqTz) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:24 | 2021-12-17 |  |
+| [Quand j’ai embrassé le Père Noël](https://open.spotify.com/track/4VxlGbuKwoaa3VNMTycdcl) | [Fallenium](https://open.spotify.com/artist/5MoKpr0a1MfK5wQI6XVXxd) | [Quand j’ai embrassé le Père Noël](https://open.spotify.com/album/26N8IUfBTT5StJsvgMCcqE) | 3:44 | 2025-12-12 |  |
 | [River](https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:05 | 2021-12-17 | 2022-07-24 |
 | [River](https://open.spotify.com/track/3yLCQ4GRSFlg3GmwlYQlzX) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Wintersong](https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ) | 4:02 | 2021-12-17 | 2024-04-19 |
 | [River](https://open.spotify.com/track/5DAeQJd1dKgA42CyAryzDy) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Wintersong](https://open.spotify.com/album/2yVxCBduVtW4I4wfkoJW48) | 4:04 | 2021-12-17 | 2022-07-23 |
@@ -378,7 +379,7 @@
 | [Wonderful Christmastime](https://open.spotify.com/track/5aj4UEKeW7T3eI4ETaN7Me) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Are Coming](https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB) | 3:45 | 2022-11-12 | 2022-11-14 |
 | [Wonderful Christmastime \(Edited Version\) \[Remastered\]](https://open.spotify.com/track/1F8tXdM8cz9bH5PiK1SuAB) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Now That's What I Call Christmas](https://open.spotify.com/album/2S4v9bMfAM13mpnXYsgUAi) | 3:45 | 2021-12-17 | 2022-07-28 |
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-12-17 | 2024-04-19 |
-| [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 | 2021-12-17 |  |
+| [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 | 2021-12-17 | 2026-04-04 |
 | [À soir c'est Noël](https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J) | [Marc Picard](https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou) | [À soir c'est Noël](https://open.spotify.com/album/14PccyfM5layefTF0yAB1z) | 2:23 | 2021-12-17 |  |
 | [Ça Berger](https://open.spotify.com/track/2P3wmWVzs9qVkGcIkL94Dn) | [Laurence Jalbert](https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l) | [Noël Des Anges](https://open.spotify.com/album/5l6INRksl8l9Pi3HUcWuJh) | 2:57 | 2021-12-17 |  |
 | [Ça bergers](https://open.spotify.com/track/51TcglSn8lt01fQEnKd2Jx) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3) | [Trésors de Noël](https://open.spotify.com/album/0ipMElEDtwVT3EUsv4ZqZy) | 2:26 | 2021-12-17 | 2022-07-27 |

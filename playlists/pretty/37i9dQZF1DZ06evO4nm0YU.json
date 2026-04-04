@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 187437,
+  "num_followers": 187480,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAm127oh5lywLJr47gz6+z0",
+  "snapshot_id": "ac2xgAAAAABAUfpANuHUELlhvpZRc4ER",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Ti Depende (Remastered 2024)",
+        "url": "https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 333524,
+      "name": "Hacha y Machete - Remastered 2024",
+      "url": "https://open.spotify.com/track/4WeKM7puIMQ67q6k73lGC3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 277186,
       "name": "Qu\u00e9 L\u00edo",
       "url": "https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Ti Depende (Remastered 2024)",
-        "url": "https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 333524,
-      "name": "Hacha y Machete - Remastered 2024",
-      "url": "https://open.spotify.com/track/4WeKM7puIMQ67q6k73lGC3"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strikes Back",
-        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/6hqqBWimVhXmWcA8OMzTKX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Voz (Remastered 2023)",
         "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 392131,
       "name": "Rompe Sarag\u00fcey - Remastered 2023",
       "url": "https://open.spotify.com/track/3WAV5R3aBDpT10YhxVoQv3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strikes Back",
+        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/6hqqBWimVhXmWcA8OMzTKX"
     },
     {
       "added_at": null,

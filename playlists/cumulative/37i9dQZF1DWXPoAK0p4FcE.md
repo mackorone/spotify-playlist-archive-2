@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: loserpop
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Newery
 
-164 songs - 11 hr 21 min
+167 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Come Back](https://open.spotify.com/track/53WPXVNz8z7vdb8WGdUpSJ) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [Come Back](https://open.spotify.com/album/2iC9vz1bnIVeCEB8hqZ6nE) | 3:27 | 2026-03-20 |  |
 | [Destiny](https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [BLACKBEANS](https://open.spotify.com/album/7zwzgZ4Z81rXLAbR24aJSZ) | 4:02 | 2024-07-05 | 2025-05-31 |
 | [do you?](https://open.spotify.com/track/21bRopAfENk7IQKRGvz8Ce) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [do you?](https://open.spotify.com/album/5gybSiiYBGY1eJgcadloaR) | 3:54 | 2024-06-27 | 2024-09-28 |
-| [Fall in love too easily](https://open.spotify.com/track/0rVPjrssMtRriOlhqhlno4) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Fall in love too easily](https://open.spotify.com/album/2PujWlerF7kmr6fLeC7wBZ) | 4:12 | 2026-02-13 |  |
+| [Fall in love too easily](https://open.spotify.com/track/0rVPjrssMtRriOlhqhlno4) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Fall in love too easily](https://open.spotify.com/album/2PujWlerF7kmr6fLeC7wBZ) | 4:12 | 2026-02-13 | 2026-04-04 |
 | [Gaslighting](https://open.spotify.com/track/5a1XP82wLiIUleq52ODrex) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Gaslighting](https://open.spotify.com/album/6Zhy9NBqu2PHIDFH1iBnzA) | 4:47 | 2025-02-28 | 2025-07-05 |
 | [Grow Up](https://open.spotify.com/track/0SrCn0wCmOxHQ77bxPFCMK) | [T\_047](https://open.spotify.com/artist/5qO3EBbmjdcKnUbqd8JBIJ) | [Grow Up](https://open.spotify.com/album/6V6sQHdGbUYNjLcl1BVvz2) | 5:35 | 2025-03-28 | 2025-07-19 |
 | [HIPPO](https://open.spotify.com/track/4N0iol0u4GdX1SIRG4xqTx) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [Ichika Nito](https://open.spotify.com/artist/1XUPVN7adYSZ0PLy51mPBQ) | [HIPPO](https://open.spotify.com/album/2B7L476RCUX8lY9P31Ju7J) | 2:56 | 2025-10-10 | 2025-10-18 |
@@ -90,7 +90,7 @@
 | [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/track/1WIZ3l4fZemVHoL8LjaAXS) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/album/1fW1hBs7G8B5VmsvmoGdus) | 2:57 | 2025-11-07 | 2026-02-14 |
 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 | 2024-07-05 | 2024-12-21 |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-06-27 | 2025-05-02 |
-| [ปล่อยฝัน \(Always\)](https://open.spotify.com/track/4fgvbzIQIwCjJXQEAqQQQB) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ปล่อยฝัน \(Always\)](https://open.spotify.com/album/7nz2tmpEGyOL25V6BfhVOn) | 3:58 | 2024-06-27 |  |
+| [ปล่อยฝัน \(Always\)](https://open.spotify.com/track/4fgvbzIQIwCjJXQEAqQQQB) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ปล่อยฝัน \(Always\)](https://open.spotify.com/album/7nz2tmpEGyOL25V6BfhVOn) | 3:58 | 2024-06-27 | 2026-04-04 |
 | [ผัดวัน \(no/more\)](https://open.spotify.com/track/34dNJVGauEMrLWoc82EHxv) | [electric.neon.lamp](https://open.spotify.com/artist/4TrJEtCSLvvnpuPO4uAesD) | [ผัดวัน \(no/more\)](https://open.spotify.com/album/5un08eM6t9HLY1iEz2vjDE) | 4:44 | 2024-06-27 | 2024-07-20 |
 | [ฝังร่างข้างๆกัน](https://open.spotify.com/track/2ozaRIqgJ3P0F0IDUeCGx2) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฝังร่างข้างๆกัน](https://open.spotify.com/album/7dx5MW8O3RAfPNMln79BYd) | 5:13 | 2025-06-13 |  |
 | [พรดาวตก](https://open.spotify.com/track/6VMntYzRpSDB2lRIJWJ1Zw) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [พรดาวตก](https://open.spotify.com/album/4WBPyEq4CAEORHls1imUjh) | 4:28 | 2025-11-21 |  |
@@ -108,6 +108,8 @@
 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 | 2024-06-27 | 2025-05-02 |
 | [ร้อง](https://open.spotify.com/track/0dz7CG4PilygZufNh79F7Q) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [6lur](https://open.spotify.com/album/4cVtKN4sHwYxAACCBUYTRW) | 4:17 | 2024-10-25 | 2024-11-29 |
 | [ลมร้อน \(Blow Away\)](https://open.spotify.com/track/0gMdJ0kK9vnG1ZL6AYe8SF) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ลมร้อน \(Blow Away\)](https://open.spotify.com/album/23KgslqlvgoquZW8f7MNfc) | 5:08 | 2025-05-01 |  |
+| [ละครเรื่องเดิม](https://open.spotify.com/track/5gBb3rTCrJFB0SC7JKRJD1) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [ละครเรื่องเดิม](https://open.spotify.com/album/3MEmeSt3mr48AHrPQ52IVq) | 4:58 | 2026-04-03 |  |
+| [ละอองดาว \(Fading\)](https://open.spotify.com/track/218RfuLb5cx1g6Wj8aeH2f) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ละอองดาว \(Fading\)](https://open.spotify.com/album/52EWLPuVAPFavHS6DUVkD0) | 4:44 | 2026-04-03 |  |
 | [ละเมอดาว \(Starry Night\)](https://open.spotify.com/track/6JpF08HpTe7I5IYH5nx7Rl) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [ละเมอดาว \(Starry Night\)](https://open.spotify.com/album/2zG73XChEkI2PaoQnIrxdr) | 3:45 | 2025-10-24 | 2025-12-08 |
 | [ลา ลา ลา](https://open.spotify.com/track/27OEf7iSIOJ14txp16xweP) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ลา ลา ลา](https://open.spotify.com/album/2fwk9nkcCTL3mrmJkcj60q) | 4:13 | 2024-06-27 | 2024-08-24 |
 | [วันที่ความรักเข้ามาทักทาย \(Hello, Love\)](https://open.spotify.com/track/2t5lcT6IjuQC14NV8wWf33) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [วันที่ความรักเข้ามาทักทาย \(Hello, Love\)](https://open.spotify.com/album/5GtXHgDlQfIp5wp0BFMRZD) | 4:09 | 2025-02-28 | 2025-03-29 |
@@ -127,6 +129,7 @@
 | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/track/1L2Kyu9eOSz9PVKyUloBM6) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/album/0ptiLoehWeONMaAlbo4ukW) | 3:50 | 2024-08-30 | 2024-11-29 |
 | [อยากเจอจะทนไม่ไหว \(Dear Me\)](https://open.spotify.com/track/6kbPfIB4a78Qg496QvsRmm) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [อยากเจอจะทนไม่ไหว \(Dear Me\)](https://open.spotify.com/album/2m9DP9KmKTehY52imD558Q) | 3:33 | 2024-06-27 | 2025-08-30 |
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2024-06-27 | 2025-02-22 |
+| [อาจไม่ถึงคราว \(right ?\)](https://open.spotify.com/track/66vg1i9irdGiIpVsjWj5Sl) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [อาจไม่ถึงคราว \(right ?\)](https://open.spotify.com/album/1tkLKIyePmpnDCE5opuPgz) | 3:24 | 2026-04-03 |  |
 | [อีกสักครั้ง](https://open.spotify.com/track/1u8t3ijcMISRh2N87qZMS4) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [อีกสักครั้ง](https://open.spotify.com/album/4lZ4coRqcqMKvMrlG0ReGN) | 4:10 | 2024-07-26 | 2025-03-29 |
 | [อุบัติเหตุ](https://open.spotify.com/track/73CrYgDl37fnFNXp9IJmyX) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [อุบัติเหตุ](https://open.spotify.com/album/4KLqKuzE6d3mKq9I7ZJH2i) | 4:00 | 2025-04-18 |  |
 | [เก็บไว้ได้ไหม \(Misty Memory\)](https://open.spotify.com/track/3Mzl6CVal8DZVnyYu7Icog) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [เก็บไว้ได้ไหม \(Misty Memory\)](https://open.spotify.com/album/2AABmDlmQYFHWnYTvO2iN1) | 4:42 | 2025-01-31 | 2025-08-09 |
@@ -134,7 +137,7 @@
 | [เจ้ากรรมนายเวร](https://open.spotify.com/track/63BVOFtSCNqC8g4w7HDZim) | [ภูมิจิต](https://open.spotify.com/artist/62ghjNskQdvtOuLX1fXEMX) | [เจ้ากรรมนายเวร](https://open.spotify.com/album/2TzFd0hZ8bcgxQJ3V0uLok) | 5:49 | 2025-05-01 | 2025-05-10 |
 | [เธอน่ะไม่ต้องเก่งกว่านี้](https://open.spotify.com/track/7Io7duTHbX22guoinFQpcx) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [เธอน่ะไม่ต้องเก่งกว่านี้](https://open.spotify.com/album/58hZgQmEWJeJ6hoNiGqK31) | 4:40 | 2024-08-16 | 2024-10-26 |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 | 2024-06-27 | 2024-10-26 |
-| [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/track/2LXwmbBwQtMlxyc7B8URR3) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/album/5rzx4nzHzapsZ34X22Ykg1) | 4:06 | 2024-11-01 |  |
+| [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/track/2LXwmbBwQtMlxyc7B8URR3) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [เปลี่ยนไปเหมือนกัน \(Vesper\)](https://open.spotify.com/album/5rzx4nzHzapsZ34X22Ykg1) | 4:06 | 2024-11-01 | 2026-04-04 |
 | [เปลี่ยนไปแต่เหมือนเดิม \(Changed\)](https://open.spotify.com/track/69nkOVHSHgN2AyZRXHfAeD) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เปลี่ยนไปแต่เหมือนเดิม \(Changed\)](https://open.spotify.com/album/6k0Frmgoclu4EIJnLlP9vQ) | 3:36 | 2024-06-27 | 2025-03-15 |
 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 | 2024-06-27 | 2024-08-17 |
 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 | 2024-06-27 | 2024-07-06 |

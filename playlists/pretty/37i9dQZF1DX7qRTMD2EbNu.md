@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Bhadmayors
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,492 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,519 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PopStar](https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [PopStar](https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL) | 2:36 |
 | 2 | [Big Bricks II](https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu) | [Essumann](https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Big Bricks II](https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz) | 3:27 |
-| 3 | [Track 5](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 0:00 |
+| 3 | [ALL FALL APART](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 2:51 |
 | 4 | [Dreamer](https://open.spotify.com/track/2kLiFLe4F3YCBqOd3YrWED) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:20 |
 | 5 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 |
 | 6 | [SAME TIMBS](https://open.spotify.com/track/6kSFCS2GbbctaZ4KbWTqrA) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [SAME TIMBS](https://open.spotify.com/album/0AjcqAkU6McINORVRb5bZV) | 2:21 |

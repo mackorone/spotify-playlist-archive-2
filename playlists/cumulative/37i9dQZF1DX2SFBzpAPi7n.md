@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: EL CAPITXN & TAEHYUN & Jeremy Zucker\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,165 songs - 2 day 22 hr 44 min
+1,166 songs - 2 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,7 +830,7 @@
 | [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-08 | 2023-10-12 |
 | [sarang..](https://open.spotify.com/track/6ZJfNgDzD5itYTKZGj7aPy) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [sarang..](https://open.spotify.com/album/07rhnJeNxFuJgMnN39G9qJ) | 2:57 | 2026-02-09 | 2026-02-13 |
 | [SAVE ME](https://open.spotify.com/track/0Dl9zaQa98CBI888R8KGEh) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [SAVE ME](https://open.spotify.com/album/1MARlNcmM2jaUKMXsGWH4O) | 3:07 | 2026-02-04 | 2026-02-20 |
-| [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 | 2025-04-11 |  |
+| [Save me](https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:40 | 2025-04-11 | 2026-04-04 |
 | [Save me](https://open.spotify.com/track/42i24oTxRFR53ezroofUtx) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.3](https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq) | 3:40 | 2024-08-07 | 2024-11-07 |
 | [sAvioR](https://open.spotify.com/track/0PzdmnKzqWQs1zrCK0PpIW) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<sAvioR>](https://open.spotify.com/album/2rhmlezB7fEfmR6dVEKofA) | 3:42 | 2025-11-14 | 2025-12-09 |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-02 | 2022-07-29 |
@@ -978,6 +978,7 @@
 | [The Piper](https://open.spotify.com/track/4bkXHH5lvTFY8ijhrl0UXA) | [BUT 벗](https://open.spotify.com/artist/0S5UlGMSHfr2MH6xYlC3UB) | [Better Unique Travel](https://open.spotify.com/album/2xnxgQlR6bhGP79eDrh5U7) | 4:42 | 2022-04-12 | 2022-04-21 |
 | [The Place](https://open.spotify.com/track/24EZZ3YKMApbZsHxnFgL2C) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [The Place](https://open.spotify.com/album/4PUVnefFSS0KIVVZzZZL2J) | 3:43 | 2025-11-03 | 2025-11-07 |
 | [The Queen](https://open.spotify.com/track/4YR8iin9SJtZluXD0s1LoZ) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [CLEANING UP \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4WIE1wBrZ2hqzxJdyw7jdG) | 3:28 | 2022-07-08 | 2022-07-23 |
+| [The Show](https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 2:47 | 2026-04-03 |  |
 | [The Starry Night](https://open.spotify.com/track/0daiNZK6DTgP65O4mM3Iv1) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [WE : Dream Chaser](https://open.spotify.com/album/0gWM4TwSrL4t3fj4V9dfKb) | 3:17 | 2025-03-06 | 2025-04-12 |
 | [The Story Behind](https://open.spotify.com/track/1FjIg32VDdvHabecHKpe03) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Restart](https://open.spotify.com/album/3lZxrczzvuxPrbJYf8Sdyo) | 4:16 | 2024-01-09 | 2024-05-10 |
 | [The Summer We Shared](https://open.spotify.com/track/0BtqyDF7zslNB6aXx1sQZl) | [TOVE](https://open.spotify.com/artist/0wF5o1LMXTCIFKdPNkCvze) | [Echoes of Summer](https://open.spotify.com/album/5SRvSeWEjPKy2dqBUkUxeb) | 3:03 | 2025-09-22 | 2025-09-24 |
@@ -1045,7 +1046,7 @@
 | [War](https://open.spotify.com/track/5TV2bxWF3YZsjMQk2vaULt) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [War](https://open.spotify.com/album/02JAq1LeSVB6WMqgctzmWB) | 4:46 | 2022-04-12 | 2022-07-28 |
 | [Wash Away](https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Wash Away](https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt) | 3:23 | 2025-01-30 | 2025-03-18 |
 | [WatchOut](https://open.spotify.com/track/5KbCS44g1kvV6zVXe29NzQ) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Chil](https://open.spotify.com/album/2RTfaQzsiBOgVb1WlUXlwM) | 2:57 | 2022-10-01 | 2022-10-19 |
-| [WATER \(Feat\. Car the garden\)](https://open.spotify.com/track/4JgId66CQQw0YnoeMEVvd8) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [BURN PART.2](https://open.spotify.com/album/5UgdylQND1QZWGJFhAPbn7) | 3:19 | 2026-04-02 |  |
+| [WATER \(Feat\. Car, the garden\)](https://open.spotify.com/track/4JgId66CQQw0YnoeMEVvd8) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [BURN PART.2](https://open.spotify.com/album/5UgdylQND1QZWGJFhAPbn7) | 3:19 | 2026-04-02 |  |
 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 | 2024-03-06 |  |
 | [We All Live Young \- Geuneu Remix Version](https://open.spotify.com/track/2C8PXEFlJPsEZw4qEYhv78) | [이츠허밍](https://open.spotify.com/artist/2qYgbpt1efCVWNjDbhpeVf) | [We All Live Young](https://open.spotify.com/album/2ZUs2eaYqRsSOEUbZzgRXk) | 3:22 | 2023-07-28 | 2023-08-18 |
 | [We are](https://open.spotify.com/track/7urVxZOTjXnk41uyX7kFOo) | [Kim Ki Tae](https://open.spotify.com/artist/2DT5Ql0hYDhX2PUF6q15US) | [Brain Cooperation \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/7kzPYujOxWaZhNnlKIS5LP) | 3:19 | 2023-01-14 | 2023-01-26 |

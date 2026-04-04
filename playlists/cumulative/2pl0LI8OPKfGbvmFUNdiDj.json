@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "For The Seasons",
+        "url": "https://open.spotify.com/album/7dDWirfVw0eWCOovuiREaa"
+      },
+      "artists": [
+        {
+          "name": "The Katawicks",
+          "url": "https://open.spotify.com/artist/3hqty8aRn2EImLsrckK6mk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190920,
+      "name": "40",
+      "url": "https://open.spotify.com/track/0efLMYEhoCsvPEjMTug7cY"
+    },
+    {
+      "album": {
         "name": "A Better Man",
         "url": "https://open.spotify.com/album/3fYEKBdWP2srmsbqsJzSlf"
       },

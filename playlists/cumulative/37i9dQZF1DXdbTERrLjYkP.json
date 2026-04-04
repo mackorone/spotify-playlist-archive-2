@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Cloe Wilder",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Ryann Ross",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -2231,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "album": {
         "name": "Girls In Purgatory (Full Moon Edition)",
         "url": "https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia"
       },
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 185847,
       "name": "Bully",
       "url": "https://open.spotify.com/track/6lQKmT1GV7B7cI7ad7gVJF"
@@ -4050,7 +4068,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 185453,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/7ekw9FblMWIhWEUF0nDTFI"
@@ -7692,7 +7710,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 191764,
       "name": "How To Lose The Girl",
       "url": "https://open.spotify.com/track/3OxTk4NL6r8bAOxuSbYeSp"
@@ -9374,7 +9392,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 189622,
       "name": "Jane",
       "url": "https://open.spotify.com/track/6q0NjsiOc2bkDZD69cDoFz"
@@ -11661,6 +11679,24 @@
     },
     {
       "album": {
+        "name": "Stars and Teeth",
+        "url": "https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191454,
+      "name": "My Kind of Freak",
+      "url": "https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0"
+    },
+    {
+      "album": {
         "name": "Mystery Woman",
         "url": "https://open.spotify.com/album/06Zx22LDG16fi9ZE22k4SK"
       },
@@ -13739,6 +13775,24 @@
     },
     {
       "album": {
+        "name": "Middle School Dropout",
+        "url": "https://open.spotify.com/album/4tFRlMuaPBCKK9pqqIeZh9"
+      },
+      "artists": [
+        {
+          "name": "Iris Copperman",
+          "url": "https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/4STDViDVw1BrMhT3LqSNXT"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/1OdBCJQCZJFvYRvDz85STj"
       },
@@ -14132,6 +14186,24 @@
       "duration_ms": 125004,
       "name": "Season One",
       "url": "https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof"
+    },
+    {
+      "album": {
+        "name": "second grade",
+        "url": "https://open.spotify.com/album/5pMdeiF3uvKgUkjrAjX3so"
+      },
+      "artists": [
+        {
+          "name": "Anya Gupta",
+          "url": "https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182701,
+      "name": "second grade",
+      "url": "https://open.spotify.com/track/77GI8YUY8xvnXD3qaC1xWQ"
     },
     {
       "album": {
@@ -16271,6 +16343,24 @@
     },
     {
       "album": {
+        "name": "the man with money in his hands",
+        "url": "https://open.spotify.com/album/3N2RDj3l9f1MgwpfMBoaAd"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177993,
+      "name": "the man with money in his hands",
+      "url": "https://open.spotify.com/track/05zheau3JeycC8FNZpGRSd"
+    },
+    {
+      "album": {
         "name": "The New Me",
         "url": "https://open.spotify.com/album/0cqSltNGK7v8cGQmpw2QAF"
       },
@@ -16520,7 +16610,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 140586,
       "name": "Thinking \u2018bout You",
       "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
@@ -18278,7 +18368,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 259626,
       "name": "Wishing For Wounds",
       "url": "https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD"
@@ -18804,6 +18894,24 @@
       "duration_ms": 199471,
       "name": "Your Presence",
       "url": "https://open.spotify.com/track/6urvD8IGktg5UZAsrpxEpp"
+    },
+    {
+      "album": {
+        "name": "Your Side Of The Moon",
+        "url": "https://open.spotify.com/album/3Uk4QTcXscdX6n78NC8WZ5"
+      },
+      "artists": [
+        {
+          "name": "Ryann Ross",
+          "url": "https://open.spotify.com/artist/4LlusKGPaCxnefSJFNulY6"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249306,
+      "name": "Your Side Of The Moon",
+      "url": "https://open.spotify.com/track/5jRi5oRKtafH4U1EerxQOp"
     },
     {
       "album": {

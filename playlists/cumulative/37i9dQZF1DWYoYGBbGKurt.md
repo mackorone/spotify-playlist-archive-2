@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,141 songs - 3 day 10 hr 48 min
+2,142 songs - 3 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -916,6 +916,7 @@
 | [In Peace](https://open.spotify.com/track/1mIS6W4TPVTAZxFv6zPIBY) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [In Peace](https://open.spotify.com/album/0B3kbIMwhZUAhNRudvKxqz) | 1:48 | 2024-05-13 | 2024-07-19 |
 | [In Place](https://open.spotify.com/track/4yNr9leVtSPaF1VVWyVx04) | [Klode Chill](https://open.spotify.com/artist/4ykT0z2VYMH0yh9NoVfzEo), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [In Place](https://open.spotify.com/album/0EFeMrQsMxALEOhUxydZ19) | 1:46 | 2022-07-29 | 2022-10-14 |
 | [In The Deep](https://open.spotify.com/track/57NUJvvaolgDOw4DwumiDN) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [In The Deep](https://open.spotify.com/album/780tID6S852uS2Bo2s3qWz) | 2:06 | 2021-12-07 | 2022-11-12 |
+| [in the distance](https://open.spotify.com/track/3Ua9UFOnZzF3FX4wkS7aOx) | [midnight swim](https://open.spotify.com/artist/10P2mhlgatKCJ8ddf15AO1) | [in the distance](https://open.spotify.com/album/7G0QK7yLx31OtpA5EB8kb6) | 2:28 | 2026-04-03 |  |
 | [In The Morning](https://open.spotify.com/track/4BDHShKHD1vyWcHOo9cjGS) | [Neele Harder](https://open.spotify.com/artist/4KxuKYAXcdSrZGi1s19G5c) | [In The Morning](https://open.spotify.com/album/3FOxfYAaQhq0sBKp90m3aM) | 3:10 | 2022-09-23 | 2022-09-30 |
 | [In The Now](https://open.spotify.com/track/1HNdxZPy022HHL0leTB3sR) | [2 Liter](https://open.spotify.com/artist/13FWCiQOR1emUlfK9wN9FM) | [In The Now](https://open.spotify.com/album/5lu1YNBvZkApFwJfJSXLs5) | 2:19 | 2022-09-09 | 2025-03-08 |
 | [in the pines](https://open.spotify.com/track/1r8icnNvDtJktIocc0pXOb) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [in the pines](https://open.spotify.com/album/3hwV3tXeDK5TSi7XUCl4q8) | 2:22 | 2024-07-12 |  |

@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: DEVAURA",
-  "num_followers": 137420,
+  "num_followers": 137457,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "Do You Really Love Her",
-        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 228168,
-      "name": "Do You Really Love Her",
-      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
         "name": "Baby Blue / When It Comes To Loving You",
         "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 171630,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
+        "name": "Do You Really Love Her",
+        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 228168,
+      "name": "Do You Really Love Her",
+      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
         "name": "NOT OK",
         "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 206040,
       "name": "NOT OK",
       "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "If That Makes Sense",
-        "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 178303,
-      "name": "Whateverrrr",
-      "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
         "name": "STAMPEDE",
         "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 189200,
       "name": "STAMPEDE",
       "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
+        "name": "If That Makes Sense",
+        "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 178303,
+      "name": "Whateverrrr",
+      "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -699,70 +699,6 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "WHERE YOU'LL FIND ME",
-        "url": "https://open.spotify.com/album/3XYF72bBKt5XbmIoqjWhbb"
-      },
-      "artists": [
-        {
-          "name": "James Johnston",
-          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
-        }
-      ],
-      "duration_ms": 169958,
-      "name": "ONE MORE",
-      "url": "https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
-        "name": "In Twos",
-        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 166897,
-      "name": "In Twos",
-      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/2RkuogMfmVrJgweGc80pd4"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/3twNlcDcyTluh5UahXP8AB"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Love Balloon",
-      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
         "name": "Honora",
         "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
       },
@@ -783,6 +719,70 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
+        "name": "WHERE YOU'LL FIND ME",
+        "url": "https://open.spotify.com/album/3XYF72bBKt5XbmIoqjWhbb"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "duration_ms": 169958,
+      "name": "ONE MORE",
+      "url": "https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/2RkuogMfmVrJgweGc80pd4"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/3twNlcDcyTluh5UahXP8AB"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
+        "name": "In Twos",
+        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 166897,
+      "name": "In Twos",
+      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Love Balloon",
+      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
         "name": "Yougotmefeeling",
         "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 183462,
       "name": "Yougotmefeeling",
       "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
-        "name": "Giving Up Air",
-        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 287411,
-      "name": "Giving Up Air",
-      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -831,6 +815,22 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
+        "name": "Giving Up Air",
+        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 287411,
+      "name": "Giving Up Air",
+      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
         "name": "War To Love",
         "url": "https://open.spotify.com/album/1B98ap9KlAntA62R4c1rJM"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 226770,
       "name": "War To Love",
       "url": "https://open.spotify.com/track/2WY1WmPZN1Kxh216rdMwu0"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 284339,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -895,6 +879,22 @@
       "duration_ms": 235006,
       "name": "My Baby's Place",
       "url": "https://open.spotify.com/track/5noMqCfgrkV3zOcCvpC6We"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 284339,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "Tell Me How It Feels",
-        "url": "https://open.spotify.com/album/20WT44ywZwSmZsYSk4OW7l"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Tell Me How It Feels",
-      "url": "https://open.spotify.com/track/7heLi5l4FqgKvOG3IN8jFm"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
         "name": "A Feeling I Miss",
         "url": "https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 201289,
       "name": "A Feeling I Miss",
       "url": "https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
+        "name": "Tell Me How It Feels",
+        "url": "https://open.spotify.com/album/20WT44ywZwSmZsYSk4OW7l"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Tell Me How It Feels",
+      "url": "https://open.spotify.com/track/7heLi5l4FqgKvOG3IN8jFm"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
+        "name": "Thrills",
+        "url": "https://open.spotify.com/album/2NaHPoiajNRF1peImCGK9E"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 186184,
+      "name": "Thrills",
+      "url": "https://open.spotify.com/track/3Cq4tuFqivRPL9OWlr8OHP"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
       },
@@ -1139,22 +1159,18 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "Thrills",
-        "url": "https://open.spotify.com/album/2NaHPoiajNRF1peImCGK9E"
+        "name": "Steel Town",
+        "url": "https://open.spotify.com/album/6olQXi537DIuAMEa065n4e"
       },
       "artists": [
         {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
         }
       ],
-      "duration_ms": 186184,
-      "name": "Thrills",
-      "url": "https://open.spotify.com/track/3Cq4tuFqivRPL9OWlr8OHP"
+      "duration_ms": 182264,
+      "name": "Letting You Go",
+      "url": "https://open.spotify.com/track/4rzRrwNt2FlrFT1KqWxjAR"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "Steel Town",
-        "url": "https://open.spotify.com/album/6olQXi537DIuAMEa065n4e"
+        "name": "Some Kinda Heaven",
+        "url": "https://open.spotify.com/album/3EeGkM5qgkBgkTTJvXy6VU"
       },
       "artists": [
         {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
         }
       ],
-      "duration_ms": 182264,
-      "name": "Letting You Go",
-      "url": "https://open.spotify.com/track/4rzRrwNt2FlrFT1KqWxjAR"
+      "duration_ms": 204507,
+      "name": "Some Kinda Heaven",
+      "url": "https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -1207,22 +1223,6 @@
       "duration_ms": 131186,
       "name": "GEEKD",
       "url": "https://open.spotify.com/track/5GYyqVHW2Gf2kaZK0KaUYA"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
-        "name": "Some Kinda Heaven",
-        "url": "https://open.spotify.com/album/3EeGkM5qgkBgkTTJvXy6VU"
-      },
-      "artists": [
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 204507,
-      "name": "Some Kinda Heaven",
-      "url": "https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "Keith",
-        "url": "https://open.spotify.com/album/13Ro0ysFRQupwe8EiA9gzI"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/0iGHI45DWOOb5QG7aDlzvm"
       },
       "artists": [
         {
-          "name": "Playlunch",
-          "url": "https://open.spotify.com/artist/0KeXd4EkaUHseJoZQhNR4u"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 250681,
-      "name": "Keith",
-      "url": "https://open.spotify.com/track/3mwb8NjfPRCcNgYdJTACU3"
+      "duration_ms": 282062,
+      "name": "One Thing At A Time",
+      "url": "https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/0iGHI45DWOOb5QG7aDlzvm"
+        "name": "Keith",
+        "url": "https://open.spotify.com/album/13Ro0ysFRQupwe8EiA9gzI"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+          "name": "Playlunch",
+          "url": "https://open.spotify.com/artist/0KeXd4EkaUHseJoZQhNR4u"
         }
       ],
-      "duration_ms": 282062,
-      "name": "One Thing At A Time",
-      "url": "https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I"
+      "duration_ms": 250681,
+      "name": "Keith",
+      "url": "https://open.spotify.com/track/3mwb8NjfPRCcNgYdJTACU3"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "Everything Every Single Day",
-        "url": "https://open.spotify.com/album/26InhFNchJBbPbVcd8Dxqb"
-      },
-      "artists": [
-        {
-          "name": "The Rions",
-          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
-        }
-      ],
-      "duration_ms": 233254,
-      "name": "Scumbag",
-      "url": "https://open.spotify.com/track/0GpMgcNFWydvjsd0bXSEDu"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
         "name": "New Love",
         "url": "https://open.spotify.com/album/0PPBf8JkGGRsjb3nWkiYtT"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
+        "name": "Everything Every Single Day",
+        "url": "https://open.spotify.com/album/26InhFNchJBbPbVcd8Dxqb"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "duration_ms": 233254,
+      "name": "Scumbag",
+      "url": "https://open.spotify.com/track/0GpMgcNFWydvjsd0bXSEDu"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
         "name": "I Know!",
         "url": "https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "New Age",
-        "url": "https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl"
-      },
-      "artists": [
-        {
-          "name": "sleepazoid",
-          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
-        }
-      ],
-      "duration_ms": 261931,
-      "name": "ITS FINE",
-      "url": "https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
         "name": "Terrestrials",
         "url": "https://open.spotify.com/album/7Jka6HCeAYcU6Glrzb9r3f"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 239173,
       "name": "Terrestrials",
       "url": "https://open.spotify.com/track/0Rz8hTX3IDEzJnsraQSYJG"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
+        "name": "New Age",
+        "url": "https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "duration_ms": 261931,
+      "name": "ITS FINE",
+      "url": "https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV"
     },
     {
       "added_at": "2026-04-02 13:01:31",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-04-02 13:01:31",
       "album": {
-        "name": "Back Of My Hand",
-        "url": "https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Back Of My Hand",
-      "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
-    },
-    {
-      "added_at": "2026-04-02 13:01:31",
-      "album": {
         "name": "DUMB",
         "url": "https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 170526,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx"
+    },
+    {
+      "added_at": "2026-04-02 13:01:31",
+      "album": {
+        "name": "Back Of My Hand",
+        "url": "https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Back Of My Hand",
+      "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
     }
   ],
   "unique_name": "Turn Up Aus",

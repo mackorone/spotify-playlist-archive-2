@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Something Sweet
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: SOK
 
-327 songs - 23 hr 27 min
+328 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [สมปรารถนา](https://open.spotify.com/track/3Qrr2iIBzsUxiN2iRgLxMu) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX) | [สมปรารถนา](https://open.spotify.com/album/3MfpyPBmw4TqD4fQbevTt4) | 4:03 | 2026-03-27 |  |
 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 | 2024-06-21 | 2025-07-19 |
 | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7) | [Vaals](https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u) | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc) | 3:08 | 2025-12-07 | 2026-03-28 |
-| [สิ่งดีดี](https://open.spotify.com/track/40LuIeGWNzSQnQVIicYDC7) | [gizzdear](https://open.spotify.com/artist/3P3Q12jeu49wXQ7GaL85gp) | [สิ่งดีดี](https://open.spotify.com/album/7CVh4hdg1GD0CzPzGwZZEV) | 3:52 | 2026-03-27 |  |
+| [สิ่งดีดี](https://open.spotify.com/track/40LuIeGWNzSQnQVIicYDC7) | [gizzdear](https://open.spotify.com/artist/3P3Q12jeu49wXQ7GaL85gp) | [สิ่งดีดี](https://open.spotify.com/album/7CVh4hdg1GD0CzPzGwZZEV) | 3:52 | 2026-03-27 | 2026-04-04 |
 | [สิ่งมหัศจรรย์อันดับหนึ่ง](https://open.spotify.com/track/5PwxUIurBN6rV4DTfaVyYx) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX), [WHATFALSE\)](https://open.spotify.com/artist/1oKUUKTRXdkOTRnVRlwuRh) | [สิ่งมหัศจรรย์อันดับหนึ่ง](https://open.spotify.com/album/4SvTTGi0gRbZq894bmYzCz) | 3:59 | 2025-08-15 | 2025-09-06 |
 | [สีสันในตอนกลางคืน \( point \)](https://open.spotify.com/track/4MnxhyBNVUdMwggVokRXIZ) | [TheBiirthdayParty](https://open.spotify.com/artist/1IPO4PYOEO6Hr1YRlPKQlG) | [สีสันในตอนกลางคืน \( point \)](https://open.spotify.com/album/3cztb7psWsq1ZLZfTkjJaj) | 4:22 | 2025-05-02 | 2025-06-07 |
 | [สุขสันต์วันเลิกรา](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 | 2026-03-27 |  |
@@ -324,6 +324,7 @@
 | [ให้เธอเป็นแกนซีกโลกใต้ที่เอียงเข้าหาดวงอาทิตย์](https://open.spotify.com/track/4XTL8HO23v0GJL4GH2zhpa) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ให้เธอเป็นแกนซีกโลกใต้ที่เอียงเข้าหาดวงอาทิตย์](https://open.spotify.com/album/6KInBVDs388QnNiFrcj97Y) | 3:42 | 2024-06-21 | 2024-11-29 |
 | [ให้เราลาจากกัน](https://open.spotify.com/track/7iTEtdRrFCy2FczyQ5HRK0) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [ให้เราลาจากกัน \(Leave\)](https://open.spotify.com/album/7DIhrVbrxIlKZb6fMtbDWF) | 4:09 | 2024-06-21 | 2024-11-23 |
 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 | 2024-06-21 | 2025-12-08 |
+| [ไม่ทันบอกลา](https://open.spotify.com/track/3sMyAULEGLFPaeBOieYs2s) | [SOK](https://open.spotify.com/artist/2RcrQpcnnhqYCxJhul3mUa) | [ไม่ทันบอกลา](https://open.spotify.com/album/4QUYkCMmPL62aE2Ct3eBIV) | 6:00 | 2026-04-03 |  |
 | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/track/40iWwQzs0TALQaTPu8L2lc) | [SOUNDSLEEP](https://open.spotify.com/artist/6s1SgkazTTQy1i0fs6ZIGw) | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/album/3yEhe0j7XHRHJEAuhoj7Rj) | 4:52 | 2025-05-09 |  |
 | [ไม่ว่าจะดาวดวงไหน \(Under any star\)](https://open.spotify.com/track/6BhCYlMoARieAdhSQVJj2M) | [Def Teerapat](https://open.spotify.com/artist/48vGpotLO3IyFQbzlfAWtI) | [ไม่ว่าจะดาวดวงไหน \(Under any star\)](https://open.spotify.com/album/66Mw3mVkQcob4hQ4xFId7q) | 4:55 | 2025-04-25 | 2025-05-31 |
 | [ไม่อยากให้เธอหายไป \(Before u go\)](https://open.spotify.com/track/6Q1eZLRcZsU6LEK5r1LgN0) | [Plantpot](https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R), [Daisy](https://open.spotify.com/artist/0EubXtpso45245tzrMHtKZ) | [ไม่อยากให้เธอหายไป \(Before u go\)](https://open.spotify.com/album/6pf3J33KdDrfIdbizm0Qjj) | 3:01 | 2025-08-15 | 2025-12-27 |

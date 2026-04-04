@@ -4,7 +4,7 @@
 
 > Las canciones de pop más exitosas en México\. Jasiel Nuñez y Ximena Sariñana en portada.
 
-925 songs - 2 day 1 hr 32 min
+926 songs - 2 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,7 +563,7 @@
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2022-02-04 | 2023-03-25 |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-31 | 2023-02-25 |
 | [monterrey](https://open.spotify.com/track/4WK3s6BZwopY5tdJLcXlBg) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:38 | 2025-10-25 |  |
-| [Morfina](https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Morfina](https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n) | 5:50 | 2025-11-14 |  |
+| [Morfina](https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Morfina](https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n) | 5:50 | 2025-11-14 | 2026-04-04 |
 | [Mucho Drama](https://open.spotify.com/track/76T5yoiiHKtZPmLFVkZMdk) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Spalla](https://open.spotify.com/album/3aN5rWhxOwIdELqK5qXA7b) | 2:22 | 2024-08-16 | 2024-10-05 |
 | [Musas en Mi](https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s) | 5:34 | 2025-08-22 | 2025-10-21 |
 | [Muérdeme](https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Muérdeme](https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt) | 3:04 | 2025-12-05 | 2026-01-15 |
@@ -634,7 +634,7 @@
 | [Otra Noche en L.A.](https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Otra Noche en L.A.](https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U) | 3:31 | 2022-02-04 | 2022-12-06 |
 | [Otra Vez \(One More Time\)](https://open.spotify.com/track/0nbxWA3JkDrg7x5fBFMnaj) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [Otra Vez \(One More Time\)](https://open.spotify.com/album/3sxPPMrXlaFD4ReBr9LUrM) | 3:13 | 2026-02-06 | 2026-03-07 |
 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 | 2024-10-11 | 2024-11-23 |
-| [Otro Como Tú](https://open.spotify.com/track/6TlPpf1alVVUy7AiCWmvRE) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Otro Como Tú](https://open.spotify.com/album/2ZwmjqtQMJg05epQreiV4S) | 3:22 | 2025-12-19 |  |
+| [Otro Como Tú](https://open.spotify.com/track/6TlPpf1alVVUy7AiCWmvRE) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Otro Como Tú](https://open.spotify.com/album/2ZwmjqtQMJg05epQreiV4S) | 3:22 | 2025-12-19 | 2026-04-04 |
 | [Otro Mood](https://open.spotify.com/track/3sBi1AWJPDLGGugGfhRR1v) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Otro Mood](https://open.spotify.com/album/02kufg8vQsGs63dvpyKYcX) | 2:50 | 2024-10-11 | 2024-11-23 |
 | [Pa Mis Muchachas \(feat\. Nathy Peluso\)](https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Pa Mis Muchachas \(feat\. Nathy Peluso\)](https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW) | 3:36 | 2022-02-04 | 2022-02-19 |
 | [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 | 2023-05-19 | 2023-06-24 |
@@ -919,6 +919,7 @@
 | [Yo No Te Olvido](https://open.spotify.com/track/0B1wfBxRDSUEYnzcyQYmyi) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Yo No Te Olvido](https://open.spotify.com/album/5TDXuO3jMxlrjoy3cmLMyo) | 2:42 | 2022-02-04 | 2022-03-19 |
 | [Yo Nunca Te Mentí](https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [COMO ARRUINARTE LA VIDA \(con una herida prohibida\)](https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc) | 3:16 | 2024-06-28 | 2024-08-24 |
 | [yo pr1mero](https://open.spotify.com/track/0O0kmHHBUG4YCqrKvMnmQy) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [yo pr1mero](https://open.spotify.com/album/0iD5NLijJ6vFTQO6OlEk7i) | 3:14 | 2023-02-03 | 2023-04-01 |
+| [Yo También](https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(posdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:24 | 2026-04-03 |  |
 | [Zona De Riesgo](https://open.spotify.com/track/27ppiaTtxfgezsVDEW8RlB) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Zona De Riesgo](https://open.spotify.com/album/1mosOMvw5GKh1nJAIzplmZ) | 3:33 | 2024-06-07 | 2024-09-21 |
 | [¿Cómo Haces?](https://open.spotify.com/track/1Ket5Fl0iPAIsSm7NsWNha) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Haces?](https://open.spotify.com/album/3NrDAYuFbUxQuHf4Oq6daH) | 2:51 | 2025-04-11 | 2025-05-03 |
 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 | 2024-11-15 | 2025-08-02 |

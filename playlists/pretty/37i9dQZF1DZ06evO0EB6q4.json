@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 263249,
+  "num_followers": 263303,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAEGRa6a4ym1KGz7460GAlp",
+  "snapshot_id": "ac2xgAAAAADXotiDfjwa2/G0LgA7Pzmb",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para los Dolidos",
-        "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 156403,
-      "name": "Para los Dolidos",
-      "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 246480,
       "name": "Me Da Lo Mismo",
       "url": "https://open.spotify.com/track/5Gd3xX8XfF0BtJifRndvRK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para los Dolidos",
+        "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 156403,
+      "name": "Para los Dolidos",
+      "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/6OvMtRnVQ8DmGU9AeBMmuu"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 177313,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/52KDBENtaXF2tlJdqXCLQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 313500,
       "name": "D\u00e9jame en Paz",
       "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/6OvMtRnVQ8DmGU9AeBMmuu"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 177313,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/52KDBENtaXF2tlJdqXCLQd"
     },
     {
       "added_at": null,
@@ -951,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+        "url": "https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+      "url": "https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -975,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-        "url": "https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-      "url": "https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Luna Me Dijo",
         "url": "https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r"
       },
@@ -1015,22 +1015,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A la antigua",
-        "url": "https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG"
+        "name": "Para terminar en nada",
+        "url": "https://open.spotify.com/album/6Sqnexw9tuOgEk8z0zT7UZ"
       },
       "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 162162,
-      "name": "A la antigua",
-      "url": "https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK"
+      "duration_ms": 165841,
+      "name": "Para terminar en nada",
+      "url": "https://open.spotify.com/track/3ZHF4Cvt5khSCrjOPOO7IM"
     }
   ],
   "unique_name": "This Is Nanpa B\u00e1sico",

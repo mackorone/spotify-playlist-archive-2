@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226356,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/2c2Q0qjA0m9me6Z043z9xd"
+    },
+    {
+      "album": {
         "name": "You Can\u2019t Kill Me",
         "url": "https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru"
       },

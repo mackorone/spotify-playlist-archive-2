@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,157 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,170 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 54 | [Gata Oficial](https://open.spotify.com/track/7hKVe53E4qYRGoRGk7tfYC) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Gata Oficial](https://open.spotify.com/album/2g3M1blidvaFb5seJsNLnZ) | 3:23 |
 | 55 | [EL STICKER](https://open.spotify.com/track/51fjeEQR84knHbPr7aLZNA) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [LA MORAL](https://open.spotify.com/album/2I4d4LqdDeCse8ZYiWHBGC) | 2:50 |
 
-Snapshot ID: `AAAAAH7FI9VrXYoNAuWq8fZsxDgBSuiC`
+Snapshot ID: `AAAAAE747Nstt8s7otClUKguOwUbpL7u`

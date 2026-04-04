@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Kasabian
 
-1,320 songs - 3 day 1 hr 49 min
+1,326 songs - 3 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-12 | 2025-08-08 |
 | [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 | 2025-08-07 | 2025-10-10 |
 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 | 2025-01-17 | 2025-04-04 |
+| [A.L.O.N.E.](https://open.spotify.com/track/27hYsmEv0oxDiCRtaePHHq) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [A.L.O.N.E.](https://open.spotify.com/album/1sDgdisZxO2s4AKt2TKUQf) | 3:24 | 2026-04-03 |  |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2023-03-08 | 2023-03-09 |
 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 | 2024-02-09 | 2024-04-26 |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-29 | 2024-05-03 |
@@ -426,6 +427,7 @@
 | [Fugazi](https://open.spotify.com/track/4zv0Q89ALcQ0PETBAXE3b6) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Fugazi](https://open.spotify.com/album/6SoyBjjhamAP31JxKYxhjm) | 2:40 | 2023-01-13 | 2023-02-03 |
 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 | 2024-09-12 | 2024-12-20 |
 | [fuzz](https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [fuzz](https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR) | 2:46 | 2023-03-03 | 2023-03-18 |
+| [G.O.D\. And The Broken Ribs](https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [G.O.D\. And The Broken Ribs / Derecho Demonico](https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR) | 3:43 | 2026-04-03 |  |
 | [GASLIGHT!](https://open.spotify.com/track/6OCbBpYhFHbBbfdnaoEsZ1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:28 | 2023-03-08 | 2023-03-09 |
 | [Gentleman](https://open.spotify.com/track/5qGlVj7q8E5kJRznWOD12a) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Gentleman](https://open.spotify.com/album/2rVHGc0YWHFfKTcrVhmeLn) | 2:16 | 2026-02-26 | 2026-03-27 |
 | [Get By Then Die](https://open.spotify.com/track/3RjrQZqMvyvsnFHsV9JXlx) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Get By Then Die](https://open.spotify.com/album/6bAjeZOa0tKK4CdeH8a2NR) | 3:31 | 2025-11-14 | 2026-01-16 |
@@ -1003,6 +1005,7 @@
 | [She's Got A Problem](https://open.spotify.com/track/3Zb7f6QvtFBqHPESnoRzso) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [She's Got A Problem](https://open.spotify.com/album/7Cg3VCLXK1aAwRlgWIgxfP) | 2:08 | 2024-10-24 | 2025-01-17 |
 | [SHE’S MY \(SEXI BOY\)](https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:16 | 2023-01-13 | 2023-02-03 |
 | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ) | 2:26 | 2023-12-15 | 2024-01-19 |
+| [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 | 2026-04-03 |  |
 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 | 2023-08-31 | 2023-11-24 |
 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-03-15 | 2024-03-22 |
 | [Shiver](https://open.spotify.com/track/4KQ9oQ7XR2eOzl6dEMLL7S) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Shiver](https://open.spotify.com/album/1v2NopRSJs7XJWzpLSsX5d) | 3:00 | 2024-01-19 | 2024-04-19 |
@@ -1043,6 +1046,7 @@
 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 | 2023-01-13 | 2023-03-03 |
 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 | 2023-07-13 | 2023-08-25 |
 | [Someone Who Can](https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Someone Who Can](https://open.spotify.com/album/7t914q200AnbbeomCdJU9L) | 3:45 | 2025-01-17 | 2025-04-04 |
+| [Song For Hal](https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:38 | 2026-04-02 |  |
 | [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 | 2026-02-20 |  |
 | [Song Of The Lake](https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Wild God](https://open.spotify.com/album/0TRr4JGEPJ4eAb5QKRaunf) | 3:36 | 2024-08-29 | 2024-11-01 |
 | [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 | 2025-03-13 | 2025-06-20 |
@@ -1254,6 +1258,7 @@
 | [War Pigs \- 2009 Remaster](https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 7:55 | 2025-07-24 | 2025-08-01 |
 | [WARZ0NE](https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [WARZ0NE](https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn) | 2:38 | 2024-02-16 | 2024-03-29 |
 | [Waste Your Love](https://open.spotify.com/track/2NKv60FHa0ECL0ISEcOIAS) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Waste Your Love](https://open.spotify.com/album/2GRXHiTOhtZ7FB8shj7Ib7) | 3:01 | 2025-07-17 | 2025-08-08 |
+| [Wasted](https://open.spotify.com/track/4vI5vmoRpxsEgEftEEBfUb) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Wasted](https://open.spotify.com/album/0K0bBhoK5Flh3cdYIS9iVP) | 3:18 | 2026-04-03 |  |
 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 | 2024-06-20 | 2024-10-04 |
 | [Watch You Walk Away](https://open.spotify.com/track/6NgR889pWoAtrAPtUtwGFd) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Mortal Primetime \(Deluxe\)](https://open.spotify.com/album/02osO9I4Ouuvmwdz6wQ7W5) | 2:46 | 2025-10-16 | 2026-03-27 |
 | [Waterboy](https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:58 | 2025-04-24 | 2025-07-11 |
@@ -1282,6 +1287,7 @@
 | [Where Does The Light Get In?](https://open.spotify.com/track/58eF1vpClUyeL5SfXN6N1x) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Where Does The Light Get In?](https://open.spotify.com/album/5iN0xqyvImRpLehFSWZhbx) | 3:08 | 2024-09-05 | 2024-12-13 |
 | [While I’m Still Young \- Single Edit](https://open.spotify.com/track/5rFyxdL6VIPaFElR9czbcR) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [While I’m Still Young](https://open.spotify.com/album/1dipK6oNOfTUt0qrXbaYUX) | 2:53 | 2024-02-23 | 2024-03-01 |
 | [Whiplash](https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Whiplash](https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3) | 3:46 | 2024-11-22 | 2025-01-17 |
+| [Whisper of a Dream](https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Whisper of a Dream](https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF) | 4:24 | 2026-04-03 |  |
 | [White Horses](https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn) | 4:29 | 2025-08-07 | 2025-10-03 |
 | [Who Do You Wanna Be?](https://open.spotify.com/track/0bIiZBC5B0Nbz4nus2LOOL) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:49 | 2023-06-08 | 2023-06-16 |
 | [Who Do You Wanna Be?](https://open.spotify.com/track/1mQYynQkyb5DPdS5xYauL2) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Who Do You Wanna Be?](https://open.spotify.com/album/3ijhS6VXxosq4hSTXlIaZs) | 3:49 | 2023-05-18 | 2023-06-12 |

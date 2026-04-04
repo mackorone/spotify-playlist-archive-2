@@ -2347,6 +2347,28 @@
     },
     {
       "album": {
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+    },
+    {
+      "album": {
         "name": "Chikibombon",
         "url": "https://open.spotify.com/album/0xQTaih46X0qY3JAhhOxUt"
       },
@@ -3260,7 +3282,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 185476,
       "name": "Dame Mas",
       "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
@@ -4024,7 +4046,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186729,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/6hRYhilZFq9XJtPnftuqvQ"
@@ -5972,6 +5994,32 @@
       "duration_ms": 207874,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/2y8QrLtyEbTSfGdEgEahec"
+    },
+    {
+      "album": {
+        "name": "Lo Mueve",
+        "url": "https://open.spotify.com/album/7Hxs3puTDbpnamjx0gpwzN"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152812,
+      "name": "Lo Mueve",
+      "url": "https://open.spotify.com/track/4gdGtQ5Apq80zuYzr5NJsM"
     },
     {
       "album": {

@@ -1549,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "\u7d75\u7a7a\u4e8b",
+        "url": "https://open.spotify.com/album/2HaGgGBHHrlLjBg8X7pIBR"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250484,
+      "name": "\u7d75\u7a7a\u4e8b",
+      "url": "https://open.spotify.com/track/1mblggzEWNTu31ttjPLsj6"
+    },
+    {
+      "album": {
         "name": "\u300e\u5287\u5834\u7248 \u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6 \u7d05\u84ee\u306e\u7d46\u7de8\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u8ee2\u751f\u3057\u305f\u3089\u6620\u753b\u306e\u97f3\u697d\u3060\u3063\u305f\u4ef6\u300d",
         "url": "https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1"
       },

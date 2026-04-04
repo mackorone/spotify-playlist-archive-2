@@ -2003,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "Pre: Prema",
+        "url": "https://open.spotify.com/album/1aslkAwn7kQ4HC9EkHTfaH"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202052,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT"
+    },
+    {
+      "album": {
         "name": "Itsumo",
         "url": "https://open.spotify.com/album/2oJB4zFLkIGgcV2Qk2jsL5"
       },

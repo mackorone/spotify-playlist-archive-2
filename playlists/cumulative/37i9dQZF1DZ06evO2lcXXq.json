@@ -1589,6 +1589,32 @@
     },
     {
       "album": {
+        "name": "You Lead Me",
+        "url": "https://open.spotify.com/album/26XQGLcx9C4eJYP4rezkXY"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "House Of David",
+          "url": "https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH"
+        },
+        {
+          "name": "Wonder Project",
+          "url": "https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254184,
+      "name": "You Lead Me",
+      "url": "https://open.spotify.com/track/2aDNgEU3yj4vUnh5ZWq4tD"
+    },
+    {
+      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sarah Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,970 likes - 87 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,019 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -5061,6 +5061,28 @@
     },
     {
       "album": {
+        "name": "Lock It",
+        "url": "https://open.spotify.com/album/5su5O4VTUXWkRpK56jHg96"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Lock It",
+      "url": "https://open.spotify.com/track/3Uzj3nb1oMb7gD7K7MKlQz"
+    },
+    {
+      "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364"
       },
@@ -5346,7 +5368,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 190400,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
@@ -5640,6 +5662,32 @@
       "duration_ms": 187561,
       "name": "Movement",
       "url": "https://open.spotify.com/track/629lfbX9FnjfRDHoIOgNao"
+    },
+    {
+      "album": {
+        "name": "Movement (Wooli & Kompany Remix)",
+        "url": "https://open.spotify.com/album/0cPBiyrMXCOssOWkiETUuw"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Movement - Wooli & Kompany Remix",
+      "url": "https://open.spotify.com/track/4nUr676TfZJbZ8Fva7LIU9"
     },
     {
       "album": {
@@ -7650,7 +7698,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 182000,
       "name": "Sacrificial",
       "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"

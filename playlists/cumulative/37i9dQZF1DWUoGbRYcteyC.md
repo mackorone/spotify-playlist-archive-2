@@ -4,7 +4,7 @@
 
 > Qué bonito se siente el amor\. 💘
 
-318 songs - 18 hr 10 min
+319 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [cuando viajas](https://open.spotify.com/track/1PYiR1w5DweGq9UhkfeO9J) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [amarcura](https://open.spotify.com/album/4WiIgth1UIs2eZwjsBpP0Q) | 3:10 | 2023-10-13 | 2023-10-15 |
 | [Cursi](https://open.spotify.com/track/3LCdO528GxAl5pRvaQgOZd) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Cursi](https://open.spotify.com/album/4fayUUgBEU2UgwsgBzheST) | 3:37 | 2021-12-06 | 2023-01-07 |
 | [Cuéntame](https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Cuéntame](https://open.spotify.com/album/2MJO9Nz9hPXJrpGaP6RQm7) | 2:41 | 2026-03-27 |  |
+| [D U L C E](https://open.spotify.com/track/5wJyNrj7pygsFIwqsO5jjX) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [D U L C E](https://open.spotify.com/album/6L9ASSKb4Y5vRmNTJqRfMV) | 3:12 | 2026-04-03 |  |
 | [dame un chicle](https://open.spotify.com/track/0UjGsHsnvr2kES5eMInxCb) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Un Día A La Vez](https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ) | 2:27 | 2021-12-06 | 2022-04-21 |
 | [De Antes](https://open.spotify.com/track/7JA0vuc0DHxLj9mnF6h1qW) | [Patrick Luna](https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy) | [De Antes](https://open.spotify.com/album/3hcjDPH1CkAwNaVFaKsqUF) | 2:35 | 2024-09-13 | 2024-11-09 |
 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 | 2023-10-13 | 2026-01-24 |
@@ -168,7 +169,7 @@
 | [Me Quiero Enamorar](https://open.spotify.com/track/2ae7jtHQeNWdPvs3HZ3kDi) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro?](https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq) | 3:58 | 2021-12-06 | 2023-10-14 |
 | [Medialuna](https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:27 | 2021-12-06 | 2026-01-24 |
 | [Mejores Amigos](https://open.spotify.com/track/7tQ24skemknA6PPh6gwFi1) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Mejores Amigos](https://open.spotify.com/album/4JFLZE2lAjETtE7uvms4Fo) | 3:25 | 2021-12-06 | 2023-02-11 |
-| [MI AMOR](https://open.spotify.com/track/1CSdu8EHZzV0DjYB6RNXbX) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:29 | 2026-01-23 |  |
+| [MI AMOR](https://open.spotify.com/track/1CSdu8EHZzV0DjYB6RNXbX) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:29 | 2026-01-23 | 2026-04-04 |
 | [Mi Bendición](https://open.spotify.com/track/5fF0fb0VFihGDHFshDLi2Z) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:08 | 2021-12-06 |  |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-10-13 |  |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4X4eypK7U3nCtOegosnciD) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso](https://open.spotify.com/album/5BegiOj46Ggq4dbLT1AK5d) | 5:10 | 2021-12-06 | 2022-07-29 |

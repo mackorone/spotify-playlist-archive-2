@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Baby Blue / When It Comes To Loving You",
+        "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171630,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
+    },
+    {
+      "album": {
         "name": "Pink Velvet Theatre",
         "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
       },
@@ -5614,7 +5632,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 181588,
       "name": "Don\u2019t Blame It On Me",
       "url": "https://open.spotify.com/track/5uXaxiobY7NILnt0GcbCZ4"
@@ -6209,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "Elizabeth Taylor",
+        "url": "https://open.spotify.com/album/71GTik4z9bbKKY2EmUvkDI"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/3AKV7Mvo2Mx4tb39iPvPlT"
+    },
+    {
+      "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb"
       },
@@ -6589,6 +6625,24 @@
     },
     {
       "album": {
+        "name": "EXCRUCIO",
+        "url": "https://open.spotify.com/album/3iUe0kbaOWkliEbuv4aBxC"
+      },
+      "artists": [
+        {
+          "name": "Ty Darling",
+          "url": "https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183514,
+      "name": "EXCRUCIO",
+      "url": "https://open.spotify.com/track/2YFSur3D9rTlawGh8TJdq6"
+    },
+    {
+      "album": {
         "name": "exes",
         "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
       },
@@ -6806,7 +6860,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 158980,
       "name": "Face Like Yours",
       "url": "https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM"
@@ -9972,7 +10026,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 128986,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
@@ -14810,7 +14864,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 189349,
       "name": "MY CITY - Radio edit",
       "url": "https://open.spotify.com/track/3XqEeUvPdYHtU8U3tYqcse"
@@ -15066,6 +15120,24 @@
       "duration_ms": 148597,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig"
+    },
+    {
+      "album": {
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238427,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"
     },
     {
       "album": {
@@ -15936,7 +16008,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 181364,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/40XiAOitWuV9bJKh4DHHpB"
@@ -17984,10 +18056,50 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 166760,
       "name": "Renn!",
       "url": "https://open.spotify.com/track/3uKAPZDXq6yE8Zqfhjbpp6"
+    },
+    {
+      "album": {
+        "name": "Whatever's Clever! (Expanded)",
+        "url": "https://open.spotify.com/album/71f3n5jsStploGblACtTRs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Reply To This",
+      "url": "https://open.spotify.com/track/3ytuqgUI0BNCDijjxC6jZg"
+    },
+    {
+      "album": {
+        "name": "Reputation (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
     },
     {
       "album": {
@@ -18074,7 +18186,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 226310,
       "name": "Rise",
       "url": "https://open.spotify.com/track/39AltzU5z8fAGQr6xGUkU7"
@@ -18236,7 +18348,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 234469,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/3DOcuiFDVd7eZqv8z8Ug91"
@@ -22432,7 +22544,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 168298,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x"
@@ -22760,6 +22872,24 @@
       "duration_ms": 181451,
       "name": "Turn On The Lights",
       "url": "https://open.spotify.com/track/4GisSucGmQ4UKjGSAPnLNQ"
+    },
+    {
+      "album": {
+        "name": "The Weight of the Woods",
+        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230418,
+      "name": "Turnstile",
+      "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"
     },
     {
       "album": {

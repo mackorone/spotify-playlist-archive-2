@@ -50879,6 +50879,24 @@
     },
     {
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143197,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy"
+    },
+    {
+      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -62937,7 +62955,7 @@
     },
     {
       "album": {
-        "name": "Lete Sound",
+        "name": "Lete Sound (Restore Local Sessions 001)",
         "url": "https://open.spotify.com/album/6RxCoZTc7ajcgAHcDvUZ4R"
       },
       "artists": [
@@ -62958,7 +62976,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182500,
-      "name": "Lete Sound",
+      "name": "Lete Sound (Restore Local Sessions 001)",
       "url": "https://open.spotify.com/track/0SU9TnI7NcHKxiPa7TGxOO"
     },
     {

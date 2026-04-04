@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: IRENE \(Red Velvet\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,843 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,930 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,23 +17,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 7 | [GO](https://open.spotify.com/track/3ZqbplDGd2MJOUgs6yY42I) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx) | 3:15 |
 | 8 | [Bad Girl](https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Bad Girl](https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH) | 3:34 |
 | 9 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
-| 10 | [NOT CUTE ANYMORE](https://open.spotify.com/track/3RsJLPvB5pGC9BaAVb4caC) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE \(Holiday Remixes\)](https://open.spotify.com/album/2T9oFW02VSegOMJvB5782U) | 2:11 |
-| 11 | [Too Bad](https://open.spotify.com/track/1trZK2rzKfvvI81APSf6Dq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [GOOD GIRL BUT NOT FOR YOU](https://open.spotify.com/album/4ER3z7bMjofTmhn2dMrWYu) | 2:49 |
-| 12 | [THAT’S A NO NO](https://open.spotify.com/track/2Zr9Wogx6N95V7meyHYGEj) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/3pYQvLHC7Lt12OhpXuTKhc) | 3:00 |
-| 13 | [Mono \(feat\. skaiwater\)](https://open.spotify.com/track/3VxmXJ4FdtbWI27p3Gx4Wh) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(feat\. skaiwater\)](https://open.spotify.com/album/7apkvREB31WMcanFwUdrls) | 2:50 |
-| 14 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 |
-| 15 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 |
-| 16 | [Bittersweet](https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [AFTER CRY](https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk) | 3:20 |
-| 17 | [Sky Runner](https://open.spotify.com/track/398peLdmJWtQ0XPdKn90ax) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [LIKE YOU BETTER \(Japanese ver.\)](https://open.spotify.com/album/14H2Ftdjr8CAwwd2XdeiUA) | 3:32 |
-| 18 | [Delulu](https://open.spotify.com/track/3BWXNAPGGWhCJwsOFolnBB) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:24 |
-| 19 | [Love All](https://open.spotify.com/track/5TJMwfgYTPAaatu11ncUuM) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Love All](https://open.spotify.com/album/72ZzIGJDD3OkniVAd19YJT) | 2:43 |
-| 20 | [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 |
-| 21 | [Best Match](https://open.spotify.com/track/1LbEG2MZGtZrfZj7MVzrbx) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Best Match](https://open.spotify.com/album/545WCfR93t46jPrAsI49Ab) | 2:55 |
-| 22 | [Ice Cream](https://open.spotify.com/track/5zd8462HQf1mxn0lTTuBny) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/67mVZdAnBrq7HSVbPPbgif) | 2:51 |
-| 23 | [Good Goodbye](https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Good Goodbye](https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu) | 3:43 |
-| 24 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |
-| 25 | [I DON'T BARGAIN](https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/4WUHzPCu7BEuTxnjICJqpy) | 2:50 |
-| 26 | [BLACKHOLE](https://open.spotify.com/track/2ytQFMxdreEFPPZTtyDdqM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 3:14 |
+| 10 | [Fashion](https://open.spotify.com/track/4VSNKUbDAxpuc5M3RDcr67) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Fashion](https://open.spotify.com/album/1J2prcjhlTgMHpgThVrBEw) | 2:08 |
+| 11 | [NOT CUTE ANYMORE](https://open.spotify.com/track/3RsJLPvB5pGC9BaAVb4caC) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE \(Holiday Remixes\)](https://open.spotify.com/album/2T9oFW02VSegOMJvB5782U) | 2:11 |
+| 12 | [Too Bad](https://open.spotify.com/track/1trZK2rzKfvvI81APSf6Dq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [GOOD GIRL BUT NOT FOR YOU](https://open.spotify.com/album/4ER3z7bMjofTmhn2dMrWYu) | 2:49 |
+| 13 | [THAT’S A NO NO](https://open.spotify.com/track/2Zr9Wogx6N95V7meyHYGEj) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/3pYQvLHC7Lt12OhpXuTKhc) | 3:00 |
+| 14 | [Mono \(feat\. skaiwater\)](https://open.spotify.com/track/3VxmXJ4FdtbWI27p3Gx4Wh) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(feat\. skaiwater\)](https://open.spotify.com/album/7apkvREB31WMcanFwUdrls) | 2:50 |
+| 15 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 |
+| 16 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 |
+| 17 | [Bittersweet](https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [AFTER CRY](https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk) | 3:20 |
+| 18 | [Sky Runner](https://open.spotify.com/track/398peLdmJWtQ0XPdKn90ax) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [LIKE YOU BETTER \(Japanese ver.\)](https://open.spotify.com/album/14H2Ftdjr8CAwwd2XdeiUA) | 3:32 |
+| 19 | [Delulu](https://open.spotify.com/track/3BWXNAPGGWhCJwsOFolnBB) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:24 |
+| 20 | [Love All](https://open.spotify.com/track/5TJMwfgYTPAaatu11ncUuM) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Love All](https://open.spotify.com/album/72ZzIGJDD3OkniVAd19YJT) | 2:43 |
+| 21 | [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 |
+| 22 | [Best Match](https://open.spotify.com/track/1LbEG2MZGtZrfZj7MVzrbx) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Best Match](https://open.spotify.com/album/545WCfR93t46jPrAsI49Ab) | 2:55 |
+| 23 | [Ice Cream](https://open.spotify.com/track/5zd8462HQf1mxn0lTTuBny) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/67mVZdAnBrq7HSVbPPbgif) | 2:51 |
+| 24 | [Good Goodbye](https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Good Goodbye](https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu) | 3:43 |
+| 25 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |
+| 26 | [I DON'T BARGAIN](https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/4WUHzPCu7BEuTxnjICJqpy) | 2:50 |
 | 27 | [Butterfly Doors](https://open.spotify.com/track/0oCeMmzRhlreWtTvxs11XS) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Butterfly Doors](https://open.spotify.com/album/6sF0p3FrNTeCy2S7TeM8Cw) | 2:51 |
 | 28 | [Sunday Morning](https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Sunday Morning](https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3) | 2:52 |
 | 29 | [Chance \~ switch on \~](https://open.spotify.com/track/0QqW5kG5GgHiu6E62k55rt) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Chance \~ switch on \~](https://open.spotify.com/album/6jNQ5W9wj5qPZjXKUzFa9T) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [iLy](https://open.spotify.com/track/4L43LBtfaYIFH1ECv3Xxyz) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/3fbsZjl86xqxaDmuXCDmV0) | 3:03 |
 | 80 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 
-Snapshot ID: `AAAAANiJjttAsJM+W1xkO5IJcYS8aFNz`
+Snapshot ID: `AAAAAPtRQ3JuYtw1ryGYnsf45xX6C9Wo`

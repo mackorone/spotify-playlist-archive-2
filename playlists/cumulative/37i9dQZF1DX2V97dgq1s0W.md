@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The voices shaping R&B\. Cover: Elmiene
+> The voices shaping R&B\. Cover: Lekan
 
-600 songs - 1 day 7 hr 58 min
+601 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,7 +590,7 @@
 | [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 | 2023-02-23 | 2023-05-15 |
 | [What You Waiting For](https://open.spotify.com/track/7M2DbRhTl0wHZzeHGVZvn6) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [What You Waiting For](https://open.spotify.com/album/2iKLXxZIGM4af8GBn2RC7K) | 3:53 | 2026-01-16 | 2026-03-27 |
 | [What's Luv?](https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [What's Luv?](https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp) | 2:46 | 2024-01-26 | 2024-04-26 |
-| [When In Rome](https://open.spotify.com/track/6gMQzn0SHgN2TKDwkJWShl) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [When In Rome](https://open.spotify.com/album/7MRkwU9BQrDoHYCLmbckKh) | 3:08 | 2025-10-09 |  |
+| [When In Rome](https://open.spotify.com/track/6gMQzn0SHgN2TKDwkJWShl) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [When In Rome](https://open.spotify.com/album/7MRkwU9BQrDoHYCLmbckKh) | 3:08 | 2025-10-09 | 2026-04-04 |
 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 | 2023-02-23 | 2023-10-28 |
 | [Where I Wanna Be](https://open.spotify.com/track/48Aaun4BxBWZFZbIJeAlpM) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Where I Wanna Be](https://open.spotify.com/album/4YifDTwEMK7yBB5vvR72yf) | 2:34 | 2025-02-07 | 2025-05-02 |
 | [Wherever I Go](https://open.spotify.com/track/6P76Ve1pRObGGpuUTbYwsA) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:01 | 2023-10-27 | 2024-11-01 |
@@ -599,6 +599,7 @@
 | [Whole New Wardrobe](https://open.spotify.com/track/0h8KtXkpdruN69pSj6Jeav) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Whole New Wardrobe](https://open.spotify.com/album/6pECjeAHgRpfrukDkAJd8P) | 2:00 | 2025-01-17 | 2025-07-11 |
 | [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 | 2024-11-29 | 2026-02-13 |
 | [Why \(Remix\)](https://open.spotify.com/track/4dZFTl643shQonFdi0jDmT) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [On The Bus](https://open.spotify.com/album/55vLlU2XBXuOkEOFV03XyF) | 2:41 | 2024-07-24 | 2025-02-28 |
+| [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 | 2026-04-03 |  |
 | [Wish You Well \(Hablot Brown Remix\)](https://open.spotify.com/track/3bo87BOzyCPK6ZsrhIatMq) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Wish You Well \(Hablot Brown Remix\)](https://open.spotify.com/album/2nUt6mPVMwCos2tLRVOxXU) | 2:48 | 2023-02-23 | 2023-05-15 |
 | [Wish You Were Here](https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:09 | 2024-04-19 | 2025-01-24 |
 | [Wish You Wouldn't](https://open.spotify.com/track/4C9QPaM63xlVh4u6cqW1V6) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Wish You Wouldn't](https://open.spotify.com/album/1C0fzrQke15VOfaSRcuzBD) | 3:17 | 2023-11-24 | 2025-01-31 |

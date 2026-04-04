@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczTjwuylBvs.md) - [plain]
 
 > All the best songs from your favorite classic Disney films, TV shows and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,125 likes - 119 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,197 likes - 119 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You've Got a Friend in Me](https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:04 |
-| 2 | [Reception At The Palace / So This Is Love](https://open.spotify.com/track/5R0oa0GOwH8pjWMYyDxQ9M) | [Ilene Woods](https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj), [Mike Douglas](https://open.spotify.com/artist/4lwnV2S8BCbclu9nqBPGvI) | [Cinderella Special Edition \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q) | 5:44 |
-| 3 | [It's Tough To Be a Bug \- From "It's Tough to Be a Bug"](https://open.spotify.com/track/7pDwsbaKgXOi7RqBONfdoI) | [George Wilkins](https://open.spotify.com/artist/1FpQePOviBLxEaMUfwd3AV), [Kevin Rafferty](https://open.spotify.com/artist/22W3HDtg9pLLD8PHmTIAHY) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 0:45 |
-| 4 | [Married Life](https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 4:10 |
+| 2 | [It's Tough To Be a Bug \- From "It's Tough to Be a Bug"](https://open.spotify.com/track/7pDwsbaKgXOi7RqBONfdoI) | [George Wilkins](https://open.spotify.com/artist/1FpQePOviBLxEaMUfwd3AV), [Kevin Rafferty](https://open.spotify.com/artist/22W3HDtg9pLLD8PHmTIAHY) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 0:45 |
+| 3 | [Married Life](https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 4:10 |
+| 4 | [So This Is Love \- From "Cinderella"](https://open.spotify.com/track/1EwRMgWXS9U8Oet39tlYwY) | [Ilene Woods](https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj), [Mike Douglas](https://open.spotify.com/artist/4lwnV2S8BCbclu9nqBPGvI) | [Disney Princess: The Ultimate Song Collection](https://open.spotify.com/album/1YlALay0y3WHzVz39xU3AJ) | 1:32 |
 | 5 | [Oo\-De\-Lally \- From "Robin Hood"](https://open.spotify.com/track/0mWXrr6HQZUhCQG4JMkT2e) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Oo\-De\-Lally \(From "Robin Hood"\)](https://open.spotify.com/album/3FzDiTKbUb1EBE5PM5tmGC) | 0:58 |
 | 6 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
 | 7 | [Part Of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/4UW8c9JSzoyjErfmmMkInw) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [We Love Disney](https://open.spotify.com/album/3VZhtobnayfWeRS5Nm2uSu) | 3:20 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczTjwuylBvs.md) - [plain]
 | 118 | [A Dream Is a Wish Your Heart Makes \- From "Cinderella"/Soundtrack Version](https://open.spotify.com/track/3uVkugZz6yCTw5Z8sDI19F) | [Ilene Woods](https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj), [Cinderella's Mice Chorus](https://open.spotify.com/artist/2CLqnyyWmenxxGYMagqlee) | [Disney's Greatest Volume 2](https://open.spotify.com/album/6KSC0FkAhdErc0azFDze0i) | 4:36 |
 | 119 | [The Ellie Badge](https://open.spotify.com/track/33riuTg9aVoiRhHTqm2Qq8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 1:30 |
 
-Snapshot ID: `AAAAAJ9wfVJf1W68CBjarinqxyRitprH`
+Snapshot ID: `AAAAAMo8Q0y6g/5/x7zS6JW5x6a0BxDO`

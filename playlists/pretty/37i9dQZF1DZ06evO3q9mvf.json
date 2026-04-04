@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3148,
+  "num_followers": 3151,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAEJrEKzHuJaMHcS37+atGa",
+  "snapshot_id": "ac2xgAAAAADMaOj7J/l1sEQcI6g2iZP1",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full moon",
-        "url": "https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI"
+        "name": "Revenge of the Killer Slits",
+        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 183960,
-      "name": "Full moon",
-      "url": "https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J"
+      "duration_ms": 200960,
+      "name": "Slits Tradition",
+      "url": "https://open.spotify.com/track/1MLv9M4DLMesS2ZmThPH0B"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge of the Killer Slits",
-        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
+        "name": "Full moon",
+        "url": "https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Slits Tradition",
-      "url": "https://open.spotify.com/track/1MLv9M4DLMesS2ZmThPH0B"
+      "duration_ms": 183960,
+      "name": "Full moon",
+      "url": "https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 263120,
-      "name": "Or What Is It?",
-      "url": "https://open.spotify.com/track/54D2wHoN72RXsDJql7bgD1"
+      "duration_ms": 267293,
+      "name": "Improperly Dressed",
+      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 267293,
-      "name": "Improperly Dressed",
-      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
+      "duration_ms": 400906,
+      "name": "Animal Space / Spacier",
+      "url": "https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 400906,
-      "name": "Animal Space / Spacier",
-      "url": "https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx"
+      "duration_ms": 263120,
+      "name": "Or What Is It?",
+      "url": "https://open.spotify.com/track/54D2wHoN72RXsDJql7bgD1"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skateboard Punk Hits",
-        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
-      },
-      "artists": [
-        {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Grapevine (Live)",
-      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge of the Killer Slits",
         "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 247666,
       "name": "Kill Them Wtih love",
       "url": "https://open.spotify.com/track/2knFpONwZuWfkSLhSw68PQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skateboard Punk Hits",
+        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Grapevine (Live)",
+      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
     },
     {
       "added_at": null,

@@ -1679,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/3fk1CkRCk9fCkbt5YHRGnl"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142106,
+      "name": "Spine",
+      "url": "https://open.spotify.com/track/581EaGsYGBSEEajYqSa9Au"
+    },
+    {
+      "album": {
         "name": "Welcome Home Armageddon",
         "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
       },

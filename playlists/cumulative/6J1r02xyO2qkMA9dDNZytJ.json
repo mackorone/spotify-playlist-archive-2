@@ -1849,6 +1849,32 @@
     },
     {
       "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/6vSWseGGfTHt2dhzmEBIVY"
+      },
+      "artists": [
+        {
+          "name": "Siege",
+          "url": "https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd"
+        },
+        {
+          "name": "Dario Nunez",
+          "url": "https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh"
+        },
+        {
+          "name": "I Jah",
+          "url": "https://open.spotify.com/artist/2zoDXV6Ko316CBoCnGLDoS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199069,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/3jh6cmf9fEdPafOPQvNACj"
+    },
+    {
+      "album": {
         "name": "High (Pasilda)",
         "url": "https://open.spotify.com/album/17GnRWpr6B8NxKI2IgrpwO"
       },

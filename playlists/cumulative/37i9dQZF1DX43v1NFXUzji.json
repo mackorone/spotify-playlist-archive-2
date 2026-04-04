@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 82500,
       "name": "AY LILY",
       "url": "https://open.spotify.com/track/63N1uMJ2GqTWkM4ZW7Zn5i"
@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 287179,
       "name": "BRUTA",
       "url": "https://open.spotify.com/track/1AQLTbX8amGpWshReAMxkS"
@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 193837,
       "name": "Cloniao",
       "url": "https://open.spotify.com/track/4SThCZl3NDMjRiuS57P6EN"
@@ -3990,7 +3990,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 136951,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC"
@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 142372,
       "name": "DELTAS",
       "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
@@ -4396,7 +4396,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
@@ -9448,7 +9448,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 159360,
       "name": "LVL",
       "url": "https://open.spotify.com/track/4DrtWtE0ljRCFVB5cMZhBb"
@@ -10229,6 +10229,28 @@
     },
     {
       "album": {
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
+    },
+    {
+      "album": {
         "name": "Trap Vibes",
         "url": "https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ"
       },
@@ -10292,7 +10314,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 140767,
       "name": "mi \u00faltimo peso",
       "url": "https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU"
@@ -12158,7 +12180,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 186248,
       "name": "PARANOIA.",
       "url": "https://open.spotify.com/track/4fbNiLNjjCTHZAIkcG5aIh"
@@ -12792,7 +12814,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 211250,
       "name": "Porque La Demora",
       "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
@@ -12930,6 +12952,40 @@
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "album": {
+        "name": "PUCHAINA",
+        "url": "https://open.spotify.com/album/0WSVBL4nSknPaDJcVFuDX8"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fox",
+          "url": "https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw"
+        },
+        {
+          "name": "Acrimonny",
+          "url": "https://open.spotify.com/artist/1VUwvtNZhfi9RwXCx9lgsP"
+        },
+        {
+          "name": "Da Silence",
+          "url": "https://open.spotify.com/artist/4iA8Dt60y18k0dCMpPdFJQ"
+        },
+        {
+          "name": "Dkey_",
+          "url": "https://open.spotify.com/artist/3M1ABMlIcy1v7eXMvqEoCa"
+        },
+        {
+          "name": "Damazta",
+          "url": "https://open.spotify.com/artist/0pTID1oOL03x64wSONmzjl"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175440,
+      "name": "PUCHAINA",
+      "url": "https://open.spotify.com/track/0YuON5Dv7TWnFRXJEVHom4"
     },
     {
       "album": {
@@ -13084,7 +13140,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 185244,
       "name": "Push",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
@@ -15712,7 +15768,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 216280,
       "name": "Te Lo Doy",
       "url": "https://open.spotify.com/track/1JKivZOBdmCbKgdu6P76E2"
@@ -16878,7 +16934,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 196285,
       "name": "Un Poquito M\u00e1s",
       "url": "https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU"
@@ -17406,7 +17462,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 120000,
       "name": "VITALICIO",
       "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
@@ -18012,6 +18068,24 @@
       "duration_ms": 194772,
       "name": "yo pr1mero",
       "url": "https://open.spotify.com/track/0O0kmHHBUG4YCqrKvMnmQy"
+    },
+    {
+      "album": {
+        "name": "FX De La Rose",
+        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118666,
+      "name": "Yo te conozco :):",
+      "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"
     },
     {
       "album": {

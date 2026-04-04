@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195402,
       "name": "GO",
       "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
@@ -6184,7 +6184,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 98453,
       "name": "No. 29",
       "url": "https://open.spotify.com/track/3plyGpDgzfrnZbpElpfioV"
@@ -6516,7 +6516,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 167589,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
@@ -6780,7 +6780,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 172796,
       "name": "Please",
       "url": "https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB"
@@ -9022,7 +9022,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 131097,
       "name": "THIS IS FOR",
       "url": "https://open.spotify.com/track/3598iBWrS4JhJqP5tHlpVK"
@@ -9536,7 +9536,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 208240,
       "name": "What is Love?",
       "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
@@ -11704,7 +11704,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 221952,
       "name": "\u55ae\u7a0b\u7968",
       "url": "https://open.spotify.com/track/3woBOD3Ldh81fAwpsnD8yC"
@@ -12022,6 +12022,24 @@
       "duration_ms": 220962,
       "name": "\u5931\u91cd\u524d\u5e78\u798f",
       "url": "https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224348,
+      "name": "\u5973\u5152\u6bbf\u4e0b",
+      "url": "https://open.spotify.com/track/2JkXcH32yqklFi6mzW2TGK"
     },
     {
       "album": {
@@ -12884,7 +12902,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 179022,
       "name": "\u611b\u4f60\u4f46\u8aaa\u4e0d\u51fa\u53e3",
       "url": "https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh"
@@ -13187,6 +13205,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u5c0d\u7de3\u5206\u5c0f\u5fc3\u7ffc\u7ffc (\u5287\u96c6\u300a\u9010\u7389\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/1sghudyFk3KX0L7Y2aCkQZ"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282320,
+      "name": "\u6211\u5c0d\u7de3\u5206\u5c0f\u5fc3\u7ffc\u7ffc (\u5287\u96c6\u300a\u9010\u7389\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/6pCp8j2MmywUs8vygmqNQ1"
+    },
+    {
+      "album": {
         "name": "\u95dc\u6389 / \u6253\u958b",
         "url": "https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN"
       },
@@ -13288,7 +13324,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 289066,
       "name": "\u6211\u61f7\u5ff5\u7684",
       "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
@@ -13692,7 +13728,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
@@ -14053,6 +14089,24 @@
     },
     {
       "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "\u6dd8\u91d1\u5c0f\u93ae",
+      "url": "https://open.spotify.com/track/6TK8UMYTqZ4ZIqRVLa8A0a"
+    },
+    {
+      "album": {
         "name": "\u6dda\u6a4b",
         "url": "https://open.spotify.com/album/1fftoYj9WigATga9iinkqr"
       },
@@ -14266,7 +14320,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 256333,
       "name": "\u73ca\u745a\u6d77",
       "url": "https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7"
@@ -14692,6 +14746,46 @@
       "duration_ms": 300215,
       "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
       "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "\u8056\u5f92",
+      "url": "https://open.spotify.com/track/1bpFHVwe2a3tKbaw0agIGk"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Gary Yang",
+          "url": "https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181356,
+      "name": "\u8056\u8a95\u661f",
+      "url": "https://open.spotify.com/track/74xnjSoKQjeKaj4zMH1s5T"
     },
     {
       "album": {
@@ -15288,7 +15382,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 209760,
       "name": "\u9047\u898b",
       "url": "https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6"
@@ -15448,6 +15542,24 @@
       "duration_ms": 248619,
       "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
       "url": "https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u4e4b\u5b50",
+        "url": "https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "\u9109\u9593\u7684\u8def",
+      "url": "https://open.spotify.com/track/2zGfjphwTvRKcQ8tunAmsa"
     },
     {
       "album": {

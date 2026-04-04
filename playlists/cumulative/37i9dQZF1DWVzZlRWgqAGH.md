@@ -2,9 +2,9 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Jordan Rakei and music for your soul.
+> TOBi and music for your soul.
 
-1,749 songs - 4 day 6 hr 43 min
+1,750 songs - 4 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 | 2021-03-14 | 2021-05-27 |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-14 | 2024-09-21 |
 | [Circles](https://open.spotify.com/track/1IbcX5yIsTavsZmZKr2OGR) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [A Constant Charade](https://open.spotify.com/album/60rPZxVWJo6Gy8RduvuKlY) | 2:44 | 2025-11-21 | 2026-03-14 |
+| [City Blues \(at Dreamhouse Studios\)](https://open.spotify.com/track/6a5N1UGOKDRsEWpyO1sI49) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [For Good Measure \(at Dreamhouse Studios\)](https://open.spotify.com/album/1v7bdNSS8V6FIg562qg01D) | 4:24 | 2026-04-03 |  |
 | [Claim To Fame](https://open.spotify.com/track/1QFzbzgffdy4XxxZvtxXAi) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Claim To Fame](https://open.spotify.com/album/787LMvGOkQv1Zx24FpscpJ) | 4:46 | 2026-03-13 |  |
 | [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-08-11 | 2023-10-14 |
 | [Climbing Trees](https://open.spotify.com/track/78V23YASIqpSZJbWb8GmNi) | [Takeleave](https://open.spotify.com/artist/3H4357cuK5CEmtrOB5lPv9) | [Climbing Trees](https://open.spotify.com/album/7xmqjjNLFHvbiHtuOpHyTQ) | 2:25 | 2019-12-14 | 2020-01-14 |
@@ -1208,7 +1209,7 @@
 | [Pixies](https://open.spotify.com/track/1y78egw78t5qPe6FuagEIe) | [Native Dancer](https://open.spotify.com/artist/1RFjZQDCgXCeSMcxxJMnMP) | [Pixies](https://open.spotify.com/album/4FKvandghhL8XtznUxO5jI) | 4:54 | 2020-09-18 | 2022-06-09 |
 | [Planet Nine](https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [1978](https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj) | 4:50 | 2024-04-05 | 2024-06-01 |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2022-10-21 | 2023-08-19 |
-| [Play This Song \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:44 | 2025-09-26 |  |
+| [Play This Song \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:44 | 2025-09-26 | 2026-04-04 |
 | [Playgroup](https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Order](https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX) | 6:55 | 2024-05-22 | 2024-06-29 |
 | [Please Don't Make Me Cry](https://open.spotify.com/track/46LXErxjs0JgFiaUshrSBI) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 5:14 | 2020-07-18 | 2020-08-25 |
 | [Please Don't Make Me Cry \- Jordan Rakei Remix](https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Please Don't Make Me Cry \(Jordan Rakei Remix\)](https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s) | 4:22 | 2020-08-25 | 2022-12-31 |

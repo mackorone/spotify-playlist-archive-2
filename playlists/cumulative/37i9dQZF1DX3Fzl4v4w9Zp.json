@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Tenille Townes",
+  "description": "Where roots meet what\u2019s next. Cover: Paul Cauthen",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -3704,6 +3704,24 @@
       "duration_ms": 254213,
       "name": "Dark Black Coal",
       "url": "https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR"
+    },
+    {
+      "album": {
+        "name": "Book of Paul",
+        "url": "https://open.spotify.com/album/7uaR8wefw8pU4eYJh0jMr2"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/43ZxkpfIAC4cfaVuNjFqrB"
     },
     {
       "album": {
@@ -9427,6 +9445,24 @@
     },
     {
       "album": {
+        "name": "Age of the Ram",
+        "url": "https://open.spotify.com/album/7qSbOinSadHKhs2OkjKvEP"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184383,
+      "name": "Lonesome Dove",
+      "url": "https://open.spotify.com/track/3ossErA68C3bYNofQgQDsB"
+    },
+    {
+      "album": {
         "name": "Lonesome Drifter",
         "url": "https://open.spotify.com/album/6zZyCNRv5LRBpM5Cqc2pFB"
       },
@@ -12758,7 +12794,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 207002,
       "name": "Richmond On The James",
       "url": "https://open.spotify.com/track/0xSyT5drjetDctC8DZuW89"
@@ -15070,7 +15106,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 252216,
       "name": "Tennessee Quick Cash",
       "url": "https://open.spotify.com/track/7zx68cuwvzYVwUl7cyIAXD"

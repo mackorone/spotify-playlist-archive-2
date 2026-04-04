@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 114042,
+  "num_followers": 114093,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPukdMF2C8cruG9EG2t092jvoQCh",
+  "snapshot_id": "AAAAADttNA+Qtin6MbrWep25XdwGYqOY",
   "tracks": [
     {
       "added_at": "2026-03-27 00:01:18",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
+        "name": "Uncle Pele / Sew-Tape",
+        "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
+      },
+      "artists": [
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Uncle Pele",
+      "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
+    },
+    {
+      "added_at": "2026-03-27 00:01:18",
+      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 181606,
       "name": "Titi",
       "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
-    },
-    {
-      "added_at": "2026-03-27 00:01:18",
-      "album": {
-        "name": "Uncle Pele / Sew-Tape",
-        "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
-      },
-      "artists": [
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Uncle Pele",
-      "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
     },
     {
       "added_at": "2026-03-27 00:01:18",
@@ -887,22 +887,22 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 133966,
-      "name": "disco",
-      "url": "https://open.spotify.com/track/6jcyiJ9pS1gkPvZvgl9ZO5"
+      "duration_ms": 218947,
+      "name": "Despacito (feat. FOLA)",
+      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
     },
     {
       "added_at": "2026-03-27 00:01:18",
@@ -927,42 +927,22 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
       "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
         {
           "name": "FOLA",
           "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 218947,
-      "name": "Despacito (feat. FOLA)",
-      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
-    },
-    {
-      "added_at": "2026-03-27 00:01:18",
-      "album": {
-        "name": "Hello Hello",
-        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
         },
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 155789,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+      "duration_ms": 133966,
+      "name": "disco",
+      "url": "https://open.spotify.com/track/6jcyiJ9pS1gkPvZvgl9ZO5"
     },
     {
       "added_at": "2026-03-27 00:01:18",
@@ -983,6 +963,26 @@
       "duration_ms": 130084,
       "name": "OFE NSALA",
       "url": "https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7"
+    },
+    {
+      "added_at": "2026-03-27 00:01:18",
+      "album": {
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
     },
     {
       "added_at": "2026-03-27 00:01:18",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
-        "name": "Na So",
-        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 214441,
-      "name": "Na So",
-      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
-    },
-    {
-      "added_at": "2026-03-27 00:01:18",
-      "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 165000,
       "name": "PITY THIS BOY (with Victony)",
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
+    },
+    {
+      "added_at": "2026-03-27 00:01:18",
+      "album": {
+        "name": "Na So",
+        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 214441,
+      "name": "Na So",
+      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
     },
     {
       "added_at": "2026-03-27 00:01:18",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
-        "name": "HOW FAR / SHIMA II",
-        "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
-      },
-      "artists": [
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        },
-        {
-          "name": "Ayjay bobo",
-          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
-        },
-        {
-          "name": "Monochrome",
-          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
-        }
-      ],
-      "duration_ms": 163327,
-      "name": "HOW FAR",
-      "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
-    },
-    {
-      "added_at": "2026-03-27 00:01:18",
-      "album": {
         "name": "JUJU (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
       },
@@ -1379,22 +1355,26 @@
     {
       "added_at": "2026-03-27 00:01:18",
       "album": {
-        "name": "Gaddem",
-        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
+        "name": "HOW FAR / SHIMA II",
+        "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
       },
       "artists": [
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
         },
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Ayjay bobo",
+          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
+        },
+        {
+          "name": "Monochrome",
+          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
         }
       ],
-      "duration_ms": 161454,
-      "name": "Gaddem",
-      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
+      "duration_ms": 163327,
+      "name": "HOW FAR",
+      "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
     },
     {
       "added_at": "2026-03-27 00:01:18",
@@ -1415,6 +1395,26 @@
       "duration_ms": 137000,
       "name": "Forex Boys",
       "url": "https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm"
+    },
+    {
+      "added_at": "2026-03-27 00:01:18",
+      "album": {
+        "name": "Gaddem",
+        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Gaddem",
+      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
     },
     {
       "added_at": "2026-03-27 00:01:18",

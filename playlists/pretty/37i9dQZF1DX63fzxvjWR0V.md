@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 
 > ¡VGLY y todo el crew están de regreso!  Disponible en HBO Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,642 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,657 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 | 5 | [sOi eia??](https://open.spotify.com/track/0cqM4xJvfeG5NGwaBqpyxT) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Triana](https://open.spotify.com/artist/1zZP5SRUyqK7QrAuDefawP) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 2:45 |
 | 6 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 7 | [Ave María](https://open.spotify.com/track/3ehtUkrSQwa8orjq0Zkqlc) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Juan Pablo Villa](https://open.spotify.com/artist/6y0HSYs6eoikiiC3PoilJu), [Coro infantil VM](https://open.spotify.com/artist/4958MU2Lksc8fOXt8bX9Km) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 1:18 |
-| 8 | [PERRO NEGRO](https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:42 |
+| 8 | [El Efecto](https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [El Efecto](https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r) | 3:37 |
 | 9 | [Perkos y Rivos](https://open.spotify.com/track/2YOZllybZ1fdTP0J3hhHc6) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Juan Pablo Villa](https://open.spotify.com/artist/6y0HSYs6eoikiiC3PoilJu), [Coro infantil VM](https://open.spotify.com/artist/4958MU2Lksc8fOXt8bX9Km) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 1:39 |
 | 10 | [PIÉNSALO](https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:00 |
 | 11 | [TEAMOTEXTRAÑO](https://open.spotify.com/track/5YtyauPmUam1mUfTicD5rC) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Trippy Bacha](https://open.spotify.com/artist/1pZPO8AZYa8tuRD1x975wN) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 2:45 |
-| 12 | [El Efecto](https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [El Efecto](https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r) | 3:37 |
+| 12 | [PERRO NEGRO](https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:42 |
 | 13 | [CAPOCAPOCAPO](https://open.spotify.com/track/4O0gP68kMFZlesjH8mCLVK) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 2:35 |
 | 14 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 15 | [Flow Violento](https://open.spotify.com/track/45uc6QtfcPAC8mp1VCqlmx) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 2:45 |

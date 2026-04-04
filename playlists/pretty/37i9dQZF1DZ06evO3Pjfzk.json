@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 109886,
+  "num_followers": 109924,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAACP2OCTrfGSU6An3mnJO15h",
+  "snapshot_id": "ac2xgAAAAAD04pXPu3RCrtHUGfhPmsXD",
   "tracks": [
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind (Deluxe)",
-        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Yesterday, All Day, Every Day",
-      "url": "https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Workin' Overtime",
         "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 197685,
       "name": "Workin' Overtime",
       "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind (Deluxe)",
+        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Yesterday, All Day, Every Day",
+      "url": "https://open.spotify.com/track/6g3b9wRGkNqxwWmhRkLc7O"
     },
     {
       "added_at": null,

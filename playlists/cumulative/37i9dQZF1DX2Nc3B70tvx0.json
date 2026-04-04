@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "A delicious mix of new songs in high rotation. Cover: James Blake",
+  "description": "A delicious mix of new songs in high rotation. Cover: Jungle",
   "name": "Indie's Top 50",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
@@ -4218,7 +4218,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 210945,
       "name": "Au Pays du Cocaine",
       "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
@@ -4630,6 +4630,24 @@
       "duration_ms": 177297,
       "name": "back again",
       "url": "https://open.spotify.com/track/320uyul8JpHgXnSRSLV9tP"
+    },
+    {
+      "album": {
+        "name": "Back in Love",
+        "url": "https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "Back in Love",
+      "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
     },
     {
       "album": {
@@ -5284,6 +5302,24 @@
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "album": {
+        "name": "Beams",
+        "url": "https://open.spotify.com/album/6Gjsdtw3nw3GV5IrwFmT4G"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219570,
+      "name": "Beams",
+      "url": "https://open.spotify.com/track/7AieCEz0Kpv2c8L63LXcWw"
     },
     {
       "album": {
@@ -8855,6 +8891,24 @@
     },
     {
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
+    },
+    {
+      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/1VZxGX1lzF1QjY5QofhC5r"
       },
@@ -9972,7 +10026,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 143415,
       "name": "Coast",
       "url": "https://open.spotify.com/track/51qSkFx8D2dyWERxGQ44My"

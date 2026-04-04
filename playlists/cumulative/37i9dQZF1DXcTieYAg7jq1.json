@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/1UA9keCcWY3lEOIKFFqYQg"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191870,
+      "name": "180",
+      "url": "https://open.spotify.com/track/2f7zdx2sNebdcSyuR55LnD"
+    },
+    {
+      "album": {
         "name": "20 Weeks",
         "url": "https://open.spotify.com/album/6q3foGDuNxly38t01i8KoD"
       },
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 288973,
       "name": "Bright (Fast)",
       "url": "https://open.spotify.com/track/1e5SVMJoqJAs6parbChLy8"
@@ -1994,6 +2012,24 @@
       "duration_ms": 199357,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
+    },
+    {
+      "album": {
+        "name": "Didn't See It Coming",
+        "url": "https://open.spotify.com/album/25K8JhVpKZFKck576ODtHp"
+      },
+      "artists": [
+        {
+          "name": "Connie Talbot",
+          "url": "https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184642,
+      "name": "Didn't See It Coming",
+      "url": "https://open.spotify.com/track/3BktKdXTbl1Zoip0I4s9gb"
     },
     {
       "album": {
@@ -6572,7 +6608,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 189129,
       "name": "Original",
       "url": "https://open.spotify.com/track/0OpVvLqe7KImD3RXXDizTt"

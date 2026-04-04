@@ -4249,6 +4249,24 @@
     },
     {
       "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "album": {
         "name": "In Your Grace",
         "url": "https://open.spotify.com/album/6VV7zn9Bjb1jqUFWZkvsmN"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3314,
+  "num_followers": 3316,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAACInn25/U+GIvLY7i8VnzZW",
+  "snapshot_id": "ac2xgAAAAAAeYLB7nK7gVLm2AkgzLXdw",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 167590,
-      "name": "Born for This",
-      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 175612,
       "name": "Good Morning, Beautiful You",
       "url": "https://open.spotify.com/track/3aqlTxMid4dpJoGjwS6TY8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 167590,
+      "name": "Born for This",
+      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 178166,
-      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
-      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
@@ -592,17 +576,29 @@
           "url": "https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN"
         },
         {
-          "name": "Dul\u00e9 Hill",
-          "url": "https://open.spotify.com/artist/4iLOFMymd0SD6ToHoSlZFo"
-        },
-        {
           "name": "Lulu Is a Rhinoceros",
           "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
         }
       ],
-      "duration_ms": 181644,
-      "name": "The Perfect Me (Finale)",
-      "url": "https://open.spotify.com/track/0RXgQc5EtRMQHs9jveAcPk"
+      "duration_ms": 148557,
+      "name": "Rhino Proof",
+      "url": "https://open.spotify.com/track/5ustWk7KMW0rryXpJfYI2i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 178166,
+      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
+      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
     },
     {
       "added_at": null,
@@ -651,6 +647,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
+        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Utkarsh Ambudkar",
+          "url": "https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN"
+        },
+        {
+          "name": "Dul\u00e9 Hill",
+          "url": "https://open.spotify.com/artist/4iLOFMymd0SD6ToHoSlZFo"
+        },
+        {
+          "name": "Lulu Is a Rhinoceros",
+          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
+        }
+      ],
+      "duration_ms": 181644,
+      "name": "The Perfect Me (Finale)",
+      "url": "https://open.spotify.com/track/0RXgQc5EtRMQHs9jveAcPk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hailey's On It! (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
       },
@@ -667,30 +691,6 @@
       "duration_ms": 88284,
       "name": "You Fit Me Perfectly",
       "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
-        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Utkarsh Ambudkar",
-          "url": "https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN"
-        },
-        {
-          "name": "Lulu Is a Rhinoceros",
-          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
-        }
-      ],
-      "duration_ms": 148557,
-      "name": "Rhino Proof",
-      "url": "https://open.spotify.com/track/5ustWk7KMW0rryXpJfYI2i"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Jordan Rakei and music for your soul.",
+  "description": "TOBi and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -5906,6 +5906,24 @@
       "duration_ms": 164479,
       "name": "Circles",
       "url": "https://open.spotify.com/track/1IbcX5yIsTavsZmZKr2OGR"
+    },
+    {
+      "album": {
+        "name": "For Good Measure (at Dreamhouse Studios)",
+        "url": "https://open.spotify.com/album/1v7bdNSS8V6FIg562qg01D"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264113,
+      "name": "City Blues (at Dreamhouse Studios)",
+      "url": "https://open.spotify.com/track/6a5N1UGOKDRsEWpyO1sI49"
     },
     {
       "album": {
@@ -24348,7 +24366,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 224788,
       "name": "Play This Song (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"

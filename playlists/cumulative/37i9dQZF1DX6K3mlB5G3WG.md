@@ -4,7 +4,7 @@
 
 > Levante, Serena Brancale e DELIA in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,903 songs - 6 day 5 hr 54 min
+2,904 songs - 6 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1240,6 +1240,7 @@
 | [IMPLOSION](https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [IMPLOSION](https://open.spotify.com/album/02uOUfa2VRpL4MMGH9fxU2) | 3:20 | 2025-11-20 | 2026-01-02 |
 | [Impossibile](https://open.spotify.com/track/0wdacellVNck0ukTn7aUh2) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Impossibile](https://open.spotify.com/album/5Fa1eainlT3WLze98FsaGk) | 3:29 | 2025-10-02 | 2025-10-24 |
 | [Imposter](https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Imposter](https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314) | 2:38 | 2026-01-23 | 2026-02-20 |
+| [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 | 2026-04-02 |  |
 | [IN A MOOD](https://open.spotify.com/track/7jq2d4lyn2WvP6m5v2Q4fD) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [IN A MOOD](https://open.spotify.com/album/5mW9cSLIMRs3QLz41HSGU8) | 2:50 | 2025-09-12 | 2025-10-04 |
 | [In Love](https://open.spotify.com/track/4KauSJM3ORpOHUMNPKq6H7) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [In Love](https://open.spotify.com/album/7zoNOdoJc2DJQMn87cta73) | 2:48 | 2025-08-21 | 2025-09-19 |
 | [In Love Today](https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [In Love Today](https://open.spotify.com/album/3dKHCgmYp0ZTtS3UAwtFmn) | 2:45 | 2025-03-06 | 2025-04-04 |

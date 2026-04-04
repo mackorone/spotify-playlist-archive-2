@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-412 songs - 1 day 1 hr 45 min
+413 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Need For Speed](https://open.spotify.com/track/7fjXIJeA3gxuZVJuGQT5Vs) | [Thomas Blug](https://open.spotify.com/artist/5u06pLBt7EpsyZRi2BcV44), [Martin Engelien](https://open.spotify.com/artist/1dQhTNS8uFmj2GfDCHQ7Iq), [Ben Granfelt](https://open.spotify.com/artist/43cECndNaXkIuR3VnHss5e) | [A Need For Speed](https://open.spotify.com/album/5y32mI5YjygYOgCtHiVuGQ) | 3:30 | 2025-09-22 | 2025-12-17 |
 | [A ralentí](https://open.spotify.com/track/5d9ZbyfXEKs5lErqOH23M8) | [Luis Mera Lucky](https://open.spotify.com/artist/629odbW6ae9N0hHdmtwbpP) | [Sereno y aislado \(El viaje del pirata\)](https://open.spotify.com/album/6UeRvfX3oTwQ5Z7i3b7Cw3) | 3:48 | 2025-12-08 |  |
 | [A tutti i Costi](https://open.spotify.com/track/3xLZkXAHPDbntmFG4XjD9v) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [A tutti i Costi](https://open.spotify.com/album/3FlJOwFJ9UvX9fJNI6xykJ) | 3:27 | 2025-11-28 | 2025-12-17 |
+| [A Wall of Amber](https://open.spotify.com/track/0zvjfyctKZS4ovfyuM3ElL) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Ink and Amber](https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL) | 4:17 | 2026-04-03 |  |
 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 | 2025-11-26 | 2025-12-17 |
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-24 | 2025-12-17 |
 | [Adicta a Mí](https://open.spotify.com/track/6ssOrkkoSG0pOhOyrfgIPK) | [José Vásquez ND7](https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE) | [Adicta a Mí](https://open.spotify.com/album/5hx182VgnljEq0k68B8DpL) | 4:06 | 2026-03-11 |  |

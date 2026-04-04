@@ -6,8 +6,48 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAapcHC3e33kmwUWo9PTyCy/2n0SzNc",
+  "snapshot_id": "AAAapxyZKWoP7CmqmRaSgIkIJIsEWnv3",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:00:45",
+      "album": {
+        "name": "Viva Colima (feat. Laylattice)",
+        "url": "https://open.spotify.com/album/6RYyN2KUu6wWopkqV731Wp"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "laylattice",
+          "url": "https://open.spotify.com/artist/5KOFMADPvNFrtVID0uxMdU"
+        }
+      ],
+      "duration_ms": 129230,
+      "name": "Viva Colima",
+      "url": "https://open.spotify.com/track/1q2nxGd0qoubvfBKZ4fbK6"
+    },
+    {
+      "added_at": "2026-04-03 04:00:45",
+      "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/6saCuLqCEpmNOHu2gWt0mt"
+      },
+      "artists": [
+        {
+          "name": "Antoine Delvig",
+          "url": "https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 188816,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/5F3FnQzZNX2ZeKYDoCHaMl"
+    },
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {

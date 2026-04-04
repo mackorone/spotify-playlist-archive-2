@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 228726,
+  "num_followers": 228752,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAqrf7XmsBaYW+ewrKmW2Kj",
+  "snapshot_id": "ac2xgAAAAABwvAMRHRslkGNPusFiLHqZ",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy Por El Sueno de Muchos",
-        "url": "https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 170770,
-      "name": "Vuelve (feat. MC Davo)",
-      "url": "https://open.spotify.com/track/7hwR6340SkyisqZWFkWErP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfQui\u00e9n Te Crees?",
         "url": "https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 185493,
       "name": "\u00bfQui\u00e9n Te Crees?",
       "url": "https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voy Por El Sueno de Muchos",
+        "url": "https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 170770,
+      "name": "Vuelve (feat. MC Davo)",
+      "url": "https://open.spotify.com/track/7hwR6340SkyisqZWFkWErP"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Tumbao",
-      "url": "https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marybel (Remix)",
         "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 234500,
       "name": "Round 1",
       "url": "https://open.spotify.com/track/7tD4XEfccqvsG7iUuDt0BB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE"
     },
     {
       "added_at": null,
@@ -1063,30 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miercolitros",
         "url": "https://open.spotify.com/album/1ACn7xjvgbj1pFtGUEfFT2"
       },
@@ -1107,6 +1083,30 @@
       "duration_ms": 194935,
       "name": "Miercolitros",
       "url": "https://open.spotify.com/track/1wWKyurZ9zQum4xmLD93yM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
     },
     {
       "added_at": null,

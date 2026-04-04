@@ -5434,7 +5434,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -9190,6 +9190,24 @@
       "duration_ms": 184194,
       "name": "Prende el Party",
       "url": "https://open.spotify.com/track/23IfleMgXhIkqdcelFaFZm"
+    },
+    {
+      "album": {
+        "name": "Presidente",
+        "url": "https://open.spotify.com/album/2p0M9l7nmqo4fBhhUdlK8z"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150783,
+      "name": "Presidente",
+      "url": "https://open.spotify.com/track/379EbsgApFcHYHvv6vrKgD"
     },
     {
       "album": {

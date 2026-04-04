@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1Puro sabor con Sof\u00eda Monroy en portada! \ud83c\udf3a ",
+  "description": "\u00a1Puro sabor con Alejandro Sanz y Yami Safdie en portada! \ud83c\udf3a ",
   "name": "tropipop",
   "tracks": [
     {
@@ -648,6 +648,24 @@
       "duration_ms": 249341,
       "name": "Born To Be Yours - Acoustic Version",
       "url": "https://open.spotify.com/track/2TyG4StdLQyrE4G4hV6pKO"
+    },
+    {
+      "album": {
+        "name": "BOTITAS",
+        "url": "https://open.spotify.com/album/7rUasUEfoC9BOjtKLfHA92"
+      },
+      "artists": [
+        {
+          "name": "Isa La Mexicana",
+          "url": "https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "BOTITAS",
+      "url": "https://open.spotify.com/track/2pCR8I7m7IaKIJoVR5eOOK"
     },
     {
       "album": {
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 238514,
       "name": "Cumbia fantasia",
       "url": "https://open.spotify.com/track/41IW719r1CuVwStSFcsY4k"
@@ -3746,7 +3764,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195103,
       "name": "Se Va Se Va",
       "url": "https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s"
@@ -4708,6 +4726,24 @@
       "duration_ms": 167441,
       "name": "X",
       "url": "https://open.spotify.com/track/6dJrnufNiYJxtd4ZX743bC"
+    },
+    {
+      "album": {
+        "name": "Ximenita",
+        "url": "https://open.spotify.com/album/3vWkXbHqZB5VmFMrBYjTk4"
+      },
+      "artists": [
+        {
+          "name": "La Corea\u00f1era",
+          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180927,
+      "name": "Ximenita",
+      "url": "https://open.spotify.com/track/3fdqrllIUypbdGv4x8GpXX"
     },
     {
       "album": {

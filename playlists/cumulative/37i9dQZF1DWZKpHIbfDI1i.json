@@ -4545,6 +4545,36 @@
     },
     {
       "album": {
+        "name": "BRAZIL",
+        "url": "https://open.spotify.com/album/7LNObuBTPKtOcm7ZF7GRRq"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Jrkv",
+          "url": "https://open.spotify.com/artist/6gtPHrlXI20tdloiCVrsMn"
+        },
+        {
+          "name": "NEOBUCHONISMO",
+          "url": "https://open.spotify.com/artist/6uwNBej1hJMyCg8q8EqdwI"
+        },
+        {
+          "name": "LP Ent",
+          "url": "https://open.spotify.com/artist/7d9CZuwUGhwVmGgUBAMwPm"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124878,
+      "name": "BRAZIL",
+      "url": "https://open.spotify.com/track/52jGzQHfgGrr6Y9hVaGM6R"
+    },
+    {
+      "album": {
         "name": "Dolido Pero No Arrepentido",
         "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
       },
@@ -4956,6 +4986,24 @@
       "duration_ms": 179813,
       "name": "Cabr\u00f3n",
       "url": "https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW"
+    },
+    {
+      "album": {
+        "name": "Cabr\u00f3n Y Medio",
+        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Cabr\u00f3n Y Medio",
+      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
     },
     {
       "album": {
@@ -11800,7 +11848,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 218000,
       "name": "Errante",
       "url": "https://open.spotify.com/track/6GbWqZbWu6Zh5RcjGref6W"
@@ -14512,7 +14560,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 181002,
       "name": "Juan el Descuartizador",
       "url": "https://open.spotify.com/track/7Dh45ouPTSqztckOTIJXNQ"
@@ -18663,6 +18711,24 @@
     },
     {
       "album": {
+        "name": "MAM\u00c1",
+        "url": "https://open.spotify.com/album/0bzB374WBUdseskQbfvBIY"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154100,
+      "name": "MAM\u00c1",
+      "url": "https://open.spotify.com/track/6iCDYz5bAAugTv8KiIrDsr"
+    },
+    {
+      "album": {
         "name": "Man In Black",
         "url": "https://open.spotify.com/album/0uqmhV6mZSKG83MroPzoa6"
       },
@@ -19931,6 +19997,28 @@
     },
     {
       "album": {
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
+    },
+    {
+      "album": {
         "name": "Mi Plan",
         "url": "https://open.spotify.com/album/77bkQC8g40qW1R5riKU7u6"
       },
@@ -20476,7 +20564,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 166693,
       "name": "MISI\u00d3N IMPOSIBLE",
       "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
@@ -22006,7 +22094,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 170670,
       "name": "No Basta Con Querernos M\u00e1s - Spotify Sessions (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka"
@@ -28310,7 +28398,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 180381,
       "name": "si me esperas",
       "url": "https://open.spotify.com/track/0SXCN08q2ixC3pgWYqLmn3"
@@ -29776,7 +29864,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 159157,
       "name": "T T T",
       "url": "https://open.spotify.com/track/3IKxbI6tQV2cAiheQqt410"
@@ -33868,6 +33956,28 @@
       "duration_ms": 224750,
       "name": "www.malcriadamusic.com",
       "url": "https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ"
+    },
+    {
+      "album": {
+        "name": "X Amores Ya No Muero",
+        "url": "https://open.spotify.com/album/1aiexqeuQDsUzIQGEmgqov"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "X Amores Ya No Muero",
+      "url": "https://open.spotify.com/track/2vxUkqTy3o9JD9bJwtoYy9"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696454,
+  "num_followers": 696490,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "ROZE | DJ TAO Turreo Sessions #22",
-        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 155291,
-      "name": "ROZE | DJ TAO Turreo Sessions #22",
-      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "En La Intimidad | CROSSOVER #1",
         "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "ROZE | DJ TAO Turreo Sessions #22",
+        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 155291,
+      "name": "ROZE | DJ TAO Turreo Sessions #22",
+      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -715,6 +715,26 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "P\u00c9GATE",
         "url": "https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 137331,
       "name": "P\u00c9GATE",
       "url": "https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "POSEIDON",
-        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 142234,
-      "name": "POSEIDON",
-      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Mala Costumbre",
         "url": "https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY"
       },
@@ -863,22 +847,18 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "No Aguanto M\u00e1s",
-        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
+        "name": "POSEIDON",
+        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
         }
       ],
-      "duration_ms": 194690,
-      "name": "No Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
+      "duration_ms": 142234,
+      "name": "POSEIDON",
+      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -895,6 +875,26 @@
       "duration_ms": 209414,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "No Aguanto M\u00e1s",
+        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "duration_ms": 194690,
+      "name": "No Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Se Fue Viral",
-        "url": "https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Se Fue Viral",
-      "url": "https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Tu Turrito",
         "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 164701,
       "name": "Tu Turrito",
       "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Se Fue Viral",
+        "url": "https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Se Fue Viral",
+      "url": "https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Los Cotizados",
-        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
-      },
-      "artists": [
-        {
-          "name": "Baby Rasta y Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Me Niegas",
-      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "DISCOTEKA (feat. Locura Mix)",
         "url": "https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "Los Cotizados",
+        "url": "https://open.spotify.com/album/0o3uVUoqS0U8obVUObNwr8"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Me Niegas",
+      "url": "https://open.spotify.com/track/1o6DL0otgQMsUebziSC7kA"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "Quiero Creer",
         "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 145054,
       "name": "Quiero Creer",
       "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "MUJERON",
+        "url": "https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv"
+      },
+      "artists": [
+        {
+          "name": "Reggi El Autentico",
+          "url": "https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "MUJERON",
+      "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1227,22 +1243,6 @@
       "duration_ms": 138000,
       "name": "Peipper | Mission 11",
       "url": "https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "MUJERON",
-        "url": "https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv"
-      },
-      "artists": [
-        {
-          "name": "Reggi El Autentico",
-          "url": "https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "MUJERON",
-      "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Que Locura Fue Enamorarme de Ti (Remix)",
         "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 141453,
       "name": "Que Locura Fue Enamorarme de Ti (Remix)",
       "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1743,30 +1743,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Guaracha, Vol. 1",
-        "url": "https://open.spotify.com/album/2lqhMjGO8U2yAIPpvpRMXW"
-      },
-      "artists": [
-        {
-          "name": "DJ Cuba",
-          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
-        },
-        {
-          "name": "DJ Pirata",
-          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
-        },
-        {
-          "name": "Pity DJ",
-          "url": "https://open.spotify.com/artist/5g97L1SY9pc0tHrgvDG29a"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Nunca Me Amo - Guaracha",
-      "url": "https://open.spotify.com/track/0K1QWo15h39YEYneBLzqJT"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "TRUCHO",
         "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
       },
@@ -1787,6 +1763,30 @@
       "duration_ms": 144000,
       "name": "TRUCHO",
       "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Guaracha, Vol. 1",
+        "url": "https://open.spotify.com/album/2lqhMjGO8U2yAIPpvpRMXW"
+      },
+      "artists": [
+        {
+          "name": "DJ Cuba",
+          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
+        },
+        {
+          "name": "DJ Pirata",
+          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
+        },
+        {
+          "name": "Pity DJ",
+          "url": "https://open.spotify.com/artist/5g97L1SY9pc0tHrgvDG29a"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Nunca Me Amo - Guaracha",
+      "url": "https://open.spotify.com/track/0K1QWo15h39YEYneBLzqJT"
     },
     {
       "added_at": "2026-02-20 03:00:09",

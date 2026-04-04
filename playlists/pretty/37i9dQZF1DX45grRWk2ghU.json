@@ -1,12 +1,12 @@
 {
   "description": "My name is pink ",
-  "num_followers": 817034,
+  "num_followers": 817391,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMuLl+acgpspHAzDkC3nVkmBvK1",
+  "snapshot_id": "AAAAAEUdF5Tn3D7kQcm/xjfj5VghymuI",
   "tracks": [
     {
       "added_at": "2026-01-23 05:00:26",
@@ -77,20 +77,20 @@
       "url": "https://open.spotify.com/track/5F7PjvRJWpaougysCAyN3n"
     },
     {
-      "added_at": "2026-03-24 14:54:10",
+      "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Bad Cherries",
-        "url": "https://open.spotify.com/album/3ZwhiueiZpJVMa4wtaVERe"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
       "artists": [
         {
-          "name": "Muki",
-          "url": "https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 159049,
-      "name": "Bad Cherries",
-      "url": "https://open.spotify.com/track/1OYbnkHajQqvBNbe1vYmR1"
+      "duration_ms": 251244,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
     },
     {
       "added_at": "2025-05-30 04:00:19",
@@ -179,42 +179,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 251244,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
-    },
-    {
-      "added_at": "2025-08-29 04:00:28",
-      "album": {
-        "name": "Achoo!",
-        "url": "https://open.spotify.com/album/1UExUKJ4h6YvTSd6O3yUr3"
-      },
-      "artists": [
-        {
-          "name": "ChiChi",
-          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
-        }
-      ],
-      "duration_ms": 141206,
-      "name": "Achoo!",
-      "url": "https://open.spotify.com/track/5otkWRY8FzQIE2IdIZQzU9"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -277,20 +241,20 @@
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
-      "added_at": "2024-08-03 15:31:45",
+      "added_at": "2026-04-03 04:00:22",
       "album": {
-        "name": "Oops!... I Did It Again",
-        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+        "name": "WHAT CAN I TELL U",
+        "url": "https://open.spotify.com/album/3hbjx9QSXlYmizj5cSULSA"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
         }
       ],
-      "duration_ms": 211160,
-      "name": "Oops!...I Did It Again",
-      "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
+      "duration_ms": 125024,
+      "name": "WRANGLER",
+      "url": "https://open.spotify.com/track/0DY8rIKn5G8rGyE8QMGGDQ"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -311,6 +275,22 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Oops!...I Did It Again",
+      "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "Christina Aguilera (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
@@ -323,22 +303,6 @@
       "duration_ms": 217573,
       "name": "Genie In a Bottle",
       "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -359,18 +323,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Bubblegum Bitch",
-      "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
+      "duration_ms": 238120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -387,6 +351,22 @@
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Bubblegum Bitch",
+      "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1163,22 +1143,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Lip Gloss (Main Version)",
-        "url": "https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5"
-      },
-      "artists": [
-        {
-          "name": "Lil Mama",
-          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "Lip Gloss",
-      "url": "https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "You Still Here, Ho ?",
         "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
@@ -1191,6 +1155,22 @@
       "duration_ms": 146854,
       "name": "Conceited",
       "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Lip Gloss (Main Version)",
+        "url": "https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5"
+      },
+      "artists": [
+        {
+          "name": "Lil Mama",
+          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "Lip Gloss",
+      "url": "https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1295,6 +1275,22 @@
       "duration_ms": 199179,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF"
+    },
+    {
+      "added_at": "2025-07-18 04:00:19",
+      "album": {
+        "name": "THIS IS FOR (DELUXE)",
+        "url": "https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 131097,
+      "name": "THIS IS FOR",
+      "url": "https://open.spotify.com/track/1GMGVYS12lGWK9UWMJ2iZP"
     }
   ],
   "unique_name": "Hot Pink",

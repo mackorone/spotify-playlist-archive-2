@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,247 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,256 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 43 | [Whiskey On You \- Acoustic](https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You \(Acoustic\)](https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr) | 2:59 |
 | 44 | [Small Town Hypocrite](https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Small Town Hypocrite](https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ) | 4:02 |
 | 45 | [Like It Ain't \- Stripped](https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Like It Ain't \(Stripped\)](https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm) | 2:36 |
-| 46 | [This City Remix \(feat\. Kane Brown\)](https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [This City Remix \(feat\. Kane Brown\)](https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF) | 3:14 |
+| 46 | [5 Foot 9 \- Acoustic](https://open.spotify.com/track/4tObgOBsBUpICU6mT4F3Uk) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9 \(Acoustic\)](https://open.spotify.com/album/5gJ69NdMNUqbxOBruy5IGy) | 3:14 |
 | 47 | [Burn It Down \- Live Acoustic](https://open.spotify.com/track/1zOFqMnCN7DUpwJmuc7GV1) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Burn It Down \(Live Acoustic\)](https://open.spotify.com/album/0njPZgMRssflpa2zicNaWf) | 3:46 |
-| 48 | [5 Foot 9 \- Acoustic](https://open.spotify.com/track/4tObgOBsBUpICU6mT4F3Uk) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9 \(Acoustic\)](https://open.spotify.com/album/5gJ69NdMNUqbxOBruy5IGy) | 3:14 |
+| 48 | [This City Remix \(feat\. Kane Brown\)](https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [This City Remix \(feat\. Kane Brown\)](https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF) | 3:14 |
 | 49 | [Half Of Me \- Acoustic](https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Half Of Me \(Acoustic\)](https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7) | 2:55 |
 | 50 | [Breakups \- Acoustic](https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups \(Acoustic\)](https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i) | 3:47 |
 | 51 | [One Percent \(Acoustic\)](https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent \(Acoustic\)](https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9) | 3:24 |
-| 52 | [Steady Heart \- Wedding Version](https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart \(Wedding Version\)](https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp) | 3:30 |
+| 52 | [We Got History \- Acoustic](https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [We Got History \(Acoustic\)](https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa) | 3:36 |
 | 53 | [Tucson Too Late \- Live Acoustic](https://open.spotify.com/track/27iEURX7ffTh0O6ULtqhRW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Tucson Too Late \(Live Acoustic\)](https://open.spotify.com/album/4fa2cd0EzHd4g92IY2fn5G) | 3:06 |
-| 54 | [We Got History \- Acoustic](https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [We Got History \(Acoustic\)](https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa) | 3:36 |
+| 54 | [Steady Heart \- Wedding Version](https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart \(Wedding Version\)](https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp) | 3:30 |
 | 55 | [Bluebird \- Acoustic](https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Bluebird \(Acoustic\)](https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB) | 3:40 |
 | 56 | [World on Fire \- Bonfire Version](https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [World on Fire \(Bonfire Version\)](https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR) | 3:05 |
 | 57 | [Dance With You \- Acoustic](https://open.spotify.com/track/4Hr2ypEKFXox6oxw9dTkSS) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You \(Acoustic\)](https://open.spotify.com/album/3XqasHAHTOSZkFUtX4frj0) | 3:10 |

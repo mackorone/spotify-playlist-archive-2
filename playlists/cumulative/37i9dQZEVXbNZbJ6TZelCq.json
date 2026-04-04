@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 132892,
       "name": "Aladam",
       "url": "https://open.spotify.com/track/0M1WfCxDACdVUqPYk4nCNf"
@@ -15294,7 +15294,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 174375,
       "name": "FATA DIN FAVELA",
       "url": "https://open.spotify.com/track/6nj14fIUcALDS3EadVnQHC"
@@ -18752,7 +18752,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 139008,
       "name": "Hai tu Maria",
       "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
@@ -22308,7 +22308,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 184160,
       "name": "Jamaica - Live",
       "url": "https://open.spotify.com/track/5fHDlsUJmzAtIPV7r7lGWu"
@@ -28223,6 +28223,28 @@
     },
     {
       "album": {
+        "name": "Mor dup\u0103 tine",
+        "url": "https://open.spotify.com/album/5j7cc5gjif5RQ46G0Cfp3K"
+      },
+      "artists": [
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        },
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "Mor dup\u0103 tine",
+      "url": "https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB"
+    },
+    {
+      "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi"
       },
@@ -29718,7 +29740,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 198720,
       "name": "Nikki Beach - Live",
       "url": "https://open.spotify.com/track/66aYG7OmvJIKZswacsI3qV"
@@ -30240,7 +30262,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 131368,
       "name": "Nu m\u0103 las\u0103 \u00een pace",
       "url": "https://open.spotify.com/track/4nswoiGHjYF3ufTPpr5SC9"
@@ -35808,7 +35830,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 157021,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
@@ -38432,7 +38454,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 142000,
       "name": "sexyZ",
       "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
@@ -42430,7 +42452,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 176386,
       "name": "Talentul ala fin",
       "url": "https://open.spotify.com/track/2ftaktO6DSSPwXkoZkf4dI"
@@ -44316,7 +44338,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 148474,
       "name": "Toat\u0103 seara",
       "url": "https://open.spotify.com/track/5G0qHzsdgZGoTROnafSKvp"
@@ -47070,7 +47092,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 196236,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/0X2G0m6hIXc0CohTLM92MJ"

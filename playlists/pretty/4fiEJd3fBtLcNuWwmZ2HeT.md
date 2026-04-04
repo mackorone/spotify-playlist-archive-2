@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 460 songs - 1 day 2 hr 25 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 461 songs - 1 day 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -468,5 +468,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 458 | [ギフト](https://open.spotify.com/track/39kz6zKYEDz4UAT3B1U5HN) | [内緒のピアス](https://open.spotify.com/artist/7qBT0UgBDfLt3ZpKLUzFBL) | [ギフト](https://open.spotify.com/album/0BtPWvguBmKExfERM49iIa) | 3:13 |
 | 459 | [Phantom Scratch](https://open.spotify.com/track/4U1rOllUWENIs7l2UjImfj) | [えもん](https://open.spotify.com/artist/45BgQUm7IMy2qR0H7MLayR), [歌愛ユキ](https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r) | [Phantom Scratch](https://open.spotify.com/album/2Wm6k33gLAGXXOFNMWXizF) | 2:10 |
 | 460 | [..](https://open.spotify.com/track/6T0uBvi0KwEVjFeUjWfHI2) | [subeteanatanoseidesu](https://open.spotify.com/artist/4Jgqs4jg9z7AkUduc66GEc) | [\. .\. ...](https://open.spotify.com/album/1b285BnzfH2WwwZ2zyLQkf) | 4:12 |
+| 461 | [Lower](https://open.spotify.com/track/2IuiI71CH2EGPGDsFDqkkF) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC2](https://open.spotify.com/album/1zg4XTpXBFeAltnyQPSDbV) | 3:50 |
 
-Snapshot ID: `AAAKDreUXkxMrPzvuJxxj0Wd+iqbyKw2`
+Snapshot ID: `AAAKDytWZRRVbedR/pECp7+ZmpZOrooU`

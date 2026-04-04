@@ -4,7 +4,7 @@
 
 > This is our playground 🪩  Cover: Keinemusik
 
-613 songs - 2 day 1 hr 58 min
+614 songs - 2 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,7 +551,7 @@
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/3lOIzDGjuWw1kXWNTML6px) | 3:09 | 2025-04-24 |  |
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 | 2024-11-11 | 2025-04-07 |
 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 | 2022-12-30 | 2026-01-23 |
-| [Tibet](https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tibet](https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm) | 3:39 | 2026-03-19 |  |
+| [Tibet](https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tibet](https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm) | 3:39 | 2026-03-19 | 2026-04-04 |
 | [TIKI](https://open.spotify.com/track/2JQqRkmssIH5s68Q4jY3FU) | [LOST AT SEA](https://open.spotify.com/artist/5RlbdlsOtgZL6szJONeRjG) | [TIKI](https://open.spotify.com/album/0AHiz3bYcgckYQymE6L2VT) | 3:00 | 2025-05-23 | 2025-08-21 |
 | [Till I Die \(feat\. Claudia Valentina\)](https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Till I Die \(feat\. Claudia Valentina\)](https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK) | 3:23 | 2025-11-13 |  |
 | [Time Is On My Side \- Anja Schneider Remix](https://open.spotify.com/track/6GwbK9nwsC1x6DkXym5HF1) | [M.A.N.D.Y.](https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Inga Humpe](https://open.spotify.com/artist/1LKxP07lONAgr8Yvr5YXSa), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Time Is On My Side](https://open.spotify.com/album/3nSLA2cy901OwKtkozeKnp) | 7:49 | 2022-05-20 | 2022-07-19 |
@@ -569,6 +569,7 @@
 | [Trust Me](https://open.spotify.com/track/3iMg2KqjHCDKoONLyNXzW8) | [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C), [MANTi](https://open.spotify.com/artist/2o8lhgWt1O53AhZxjnGBei), [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt), [Auggië](https://open.spotify.com/artist/5NExMFya2Tu4I4DlTHKOMe) | [Trust Me](https://open.spotify.com/album/3xdDbd9TpuQ5EVvVYR5DW0) | 5:08 | 2026-01-23 | 2026-02-10 |
 | [Trust the Process](https://open.spotify.com/track/00YMhO4tBg7dEvZI8ZJlhE) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Vision](https://open.spotify.com/album/0gYWHiu6d4Lcrf4a4xFL40) | 5:57 | 2022-04-15 | 2022-07-29 |
 | [Try](https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Try](https://open.spotify.com/album/78gnHm6vFBc1JoJABAtOeD) | 3:44 | 2025-07-10 |  |
+| [Try To Box Me](https://open.spotify.com/track/4nyaKx1PQjU27dYZlgdtgV) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Try To Box Me](https://open.spotify.com/album/56coCcoqsEh7h9QkOZHTye) | 3:01 | 2026-04-03 |  |
 | [Turn Around \- Âme Remix](https://open.spotify.com/track/5HBHjCETsFJP5bltmJ4BKs) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Turn Around](https://open.spotify.com/album/5SRRd1yaZsJbSiMSYOAqBY) | 8:03 | 2024-04-18 | 2024-08-22 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That](https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3) | 3:42 | 2024-12-16 | 2026-02-25 |
 | [ULM](https://open.spotify.com/track/4kC93I6ekm3jH02l7YPWaQ) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [ULM](https://open.spotify.com/album/55fpPhgzZxqTKQepGeCLDg) | 7:15 | 2022-04-15 | 2022-07-29 |

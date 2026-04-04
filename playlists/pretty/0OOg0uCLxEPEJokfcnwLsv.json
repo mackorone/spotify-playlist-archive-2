@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 853,
+  "num_followers": 861,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFnRvwQqXOXiBBQFn7xxbsqQ/WA/4N",
+  "snapshot_id": "AAAFn9hWXnP88yTMkSwtbE9imtxFs3AB",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1839,6 +1839,38 @@
       "duration_ms": 189635,
       "name": "Happiness and Being Smart",
       "url": "https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk"
+    },
+    {
+      "added_at": "2026-04-03 16:18:54",
+      "album": {
+        "name": "I Wanna Be 16 Again!",
+        "url": "https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr"
+      },
+      "artists": [
+        {
+          "name": "No Friends Left",
+          "url": "https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Lifeless",
+      "url": "https://open.spotify.com/track/39zRV9wo9QfVPAGOJhW5aI"
+    },
+    {
+      "added_at": "2026-04-03 16:21:44",
+      "album": {
+        "name": "TRUCKIN' EP",
+        "url": "https://open.spotify.com/album/6WXiAv8LsKlQHT26HAin7f"
+      },
+      "artists": [
+        {
+          "name": "TV Screams",
+          "url": "https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4"
+        }
+      ],
+      "duration_ms": 132469,
+      "name": "Runnin",
+      "url": "https://open.spotify.com/track/4OLphiU0dKvFTkIPSdOS5j"
     }
   ],
   "unique_name": "Unsigned Rock",

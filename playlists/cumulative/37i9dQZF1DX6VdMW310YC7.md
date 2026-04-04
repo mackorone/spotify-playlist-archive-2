@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,877 songs - 5 day 7 hr 33 min
+1,878 songs - 5 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Fondness](https://open.spotify.com/track/6imvrMl7lgBPWsl4P7gkdC) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Fondness](https://open.spotify.com/album/2wcnjCjXyIGM7huGhwNGfg) | 2:22 | 2020-03-16 | 2021-12-20 |
 | [Fool](https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP) | [Palisade](https://open.spotify.com/artist/51knFsooF002cLj6fRUJny), [Ophanim](https://open.spotify.com/artist/2YwyA5Urid8g7xLN5Gf52b), [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Fool](https://open.spotify.com/album/4NX1hljajlgXtjhMWFbNJb) | 3:54 | 2025-12-19 |  |
 | [Fooling Myself](https://open.spotify.com/track/46cuPz9v6oKpDlCrg4QaAw) | [Lakehouse](https://open.spotify.com/artist/3yF5PXUJ5XFfLIB0ByFLBK) | [Lakehouse](https://open.spotify.com/album/6cc1rvaVhvDMRnmG4GGog0) | 4:07 | 2020-03-16 | 2022-04-24 |
-| [For A Day](https://open.spotify.com/track/2LW1mCijFx9NqEF7nwiw1y) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Koppo](https://open.spotify.com/artist/7LfTKHf1ByHkl02oIeNRef), [Extra Special](https://open.spotify.com/artist/1ANEORYDjMsHrF42Du60CW) | [For A Day](https://open.spotify.com/album/0LfJvFH95Xhm0KH5u9nj5m) | 6:27 | 2026-03-20 |  |
+| [For A Day](https://open.spotify.com/track/2LW1mCijFx9NqEF7nwiw1y) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Koppo](https://open.spotify.com/artist/7LfTKHf1ByHkl02oIeNRef), [Extra Special](https://open.spotify.com/artist/1ANEORYDjMsHrF42Du60CW) | [For A Day](https://open.spotify.com/album/0LfJvFH95Xhm0KH5u9nj5m) | 6:27 | 2026-03-20 | 2026-04-04 |
 | [For The Weak \(with Freddii\)](https://open.spotify.com/track/6IVOIIsAZzJzZVMzPvngMl) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Freddii](https://open.spotify.com/artist/5FIydByYlH4IGhHWZP7E1m) | [For The Weak \(with Freddii\)](https://open.spotify.com/album/1KhCbHdbsF9XaYskU5HtM6) | 3:13 | 2021-12-17 | 2021-12-24 |
 | [Forever](https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Forever](https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2) | 4:13 | 2024-04-19 | 2024-09-07 |
 | [Forever \(feat\. Ben Stevenson\)](https://open.spotify.com/track/0f3VCprEO3u4j93FtHxTbj) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 3:49 | 2020-05-18 | 2020-07-03 |
@@ -1658,6 +1658,7 @@
 | [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 | 2022-12-16 |
 | [The Rope \(feat\. POLIÇA\)](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:55 | 2020-02-29\* | 2020-06-12 |
 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-10-01 | 2025-05-24 |
+| [The Sun Comes Up Tremendous](https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [The Sun Comes Up Tremendous](https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB) | 3:33 | 2026-04-03 |  |
 | [The Sun Will Come Again](https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Trampolines](https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk) | 4:02 | 2025-12-19 | 2026-03-21 |
 | [The Thought of You](https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [The Thought of You](https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD) | 4:22 | 2025-01-10 |  |
 | [The Voice Says \(feat\. Charlie Kim\)](https://open.spotify.com/track/05INdkUo3Fw9ojWbyuMOsR) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Charlie Kim](https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:45 | 2020-03-16 | 2022-04-19 |

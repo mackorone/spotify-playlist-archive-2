@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,111 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,122 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [KOMOLE](https://open.spotify.com/track/2xrb6kn0KcNbLg4eUXxzZe) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [KOMOLE](https://open.spotify.com/album/7pEY5InFd1bhQ8Mzbo5dMS) | 2:02 |
 | 60 | [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 |
 
-Snapshot ID: `AAAAAEHhEIxFJo3JDYoNmhrFSZ+DnHUe`
+Snapshot ID: `AAAAAC1F6Ukyx6kelFd9VVLZzzSGo6nm`

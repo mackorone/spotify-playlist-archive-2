@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-659 songs - 1 day 16 hr 25 min
+660 songs - 1 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 | 2025-06-27 |  |
 | [I Do \- Vandelux Remix](https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Do \(Vandelux Remix\)](https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif) | 3:16 | 2022-07-29 | 2026-03-31 |
 | [I Don't Think So](https://open.spotify.com/track/1BczdgS6s8ofRNMZPtbMF1) | [Ben Phipps](https://open.spotify.com/artist/4gdU6QYD0tktQA9AHdcNn4) | [I Don't Think So](https://open.spotify.com/album/4bfsgolAhKBm4BUrZBNx7P) | 3:05 | 2020-12-22 | 2022-04-18 |
+| [I Don't Wanna Stop](https://open.spotify.com/track/5mLybISpqBigKI2dXM3Yl5) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [I Don't Wanna Stop](https://open.spotify.com/album/1oMTheMSsGJrmkGr2NbrnZ) | 3:38 | 2026-04-03 |  |
 | [I Feel High \(with DRAMA\)](https://open.spotify.com/track/0OEuPpfFyTP90MmfSua2np) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [I Feel High \(with DRAMA\)](https://open.spotify.com/album/2W2SWNTnopIJ7kd5JBEWVt) | 2:52 | 2021-03-19 | 2022-07-29 |
 | [I Leave Again](https://open.spotify.com/track/4e9lUyz9lB7QRP9OLRpbbw) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/15yBff9ZnXVgnO3v6vfCw5) | 3:58 | 2020-12-22 | 2022-04-19 |
 | [I Really Want U To B Here](https://open.spotify.com/track/4OOCHC6IvwftKghx8VC45J) | [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [I Really Want U To B Here](https://open.spotify.com/album/642iuE6O4Lvxto9ekPVdDT) | 2:18 | 2021-03-19 | 2022-04-18 |
@@ -579,7 +580,7 @@
 | [The Way That I Found You](https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq), [Val Fritz](https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6) | [The Way That I Found You](https://open.spotify.com/album/6dHZdDeUlrfsMgPhrdPaKs) | 2:50 | 2025-06-20 | 2025-08-16 |
 | [These Days](https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [These Days](https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa) | 3:53 | 2020-12-22 | 2024-04-19 |
 | [These Days](https://open.spotify.com/track/4V5yUlL7t9DGErvIcD5bnw) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [These Days](https://open.spotify.com/album/0qIXlqFGn3opNxwgY5732H) | 3:53 | 2020-12-22 | 2022-07-21 |
-| [These Nights](https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [These Nights](https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7) | 4:39 | 2026-02-27 |  |
+| [These Nights](https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [These Nights](https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7) | 4:39 | 2026-02-27 | 2026-04-04 |
 | [This Way](https://open.spotify.com/track/4ZJXvZJ4W6L6Xm9uscpALi) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [How To Fly On The Ground](https://open.spotify.com/album/57UvRKHtmVsruKLf9MN1S2) | 2:48 | 2023-08-11 | 2023-09-20 |
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2020-12-22 |  |
 | [tiger balm \(magenta\)](https://open.spotify.com/track/5IG2YzPdNdKVZsHnyYQ7Z6) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [i can't make up my mind / tiger balm \(magenta\)](https://open.spotify.com/album/0cuV8xQGofIrpAECFzz4TA) | 2:26 | 2022-03-01 | 2022-07-29 |

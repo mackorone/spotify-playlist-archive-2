@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-775 songs - 1 day 15 hr 59 min
+775 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Aketesia](https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm) | [Cojo Rae](https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC) | [Aketesia](https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB) | 3:13 | 2026-02-06 |  |
 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 | 2024-01-15 | 2024-03-15 |
 | [Alhaji Popping](https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Alhaji Popping](https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ) | 2:36 | 2025-06-20 | 2026-03-20 |
+| [ALL FALL APART](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 2:51 | 2026-04-03 |  |
 | [All In](https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [All In](https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i) | 3:32 | 2023-10-17 | 2023-11-17 |
 | [All My Life](https://open.spotify.com/track/2utcd67JnYjlDaXQ92beai) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Vth 2](https://open.spotify.com/album/5BRuNa1MCmOQFc7164uNXd) | 2:14 | 2025-10-10 | 2025-12-08 |
 | [All On Me \- Spotify Singles](https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [All On Me \(Spotify Singles\)](https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7) | 3:04 | 2023-09-09 | 2023-09-15 |
@@ -704,7 +705,6 @@
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-03-30 | 2023-04-24 |
 | [Toxic](https://open.spotify.com/track/3sIksJyo81gKpR5GyT1c8m) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 4:01 | 2022-06-09 | 2022-08-30 |
 | [Toxic Relationship](https://open.spotify.com/track/4jcTly5eRO1DfGlQ4v9IJY) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [Toxic Relationship](https://open.spotify.com/album/0qtTsSO5vZej8tfvc3pn9v) | 2:46 | 2024-03-01 | 2024-03-15 |
-| [Track 5](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 0:00 | 2026-04-03 |  |
 | [Tracking You](https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Tracking You](https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6) | 3:03 | 2025-09-05 | 2026-03-17 |
 | [Trap](https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Trap](https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59) | 2:58 | 2024-03-08 | 2024-03-15 |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 | 2024-09-07 |

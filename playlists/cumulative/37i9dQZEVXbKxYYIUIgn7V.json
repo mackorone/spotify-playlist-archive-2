@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 173782,
       "name": "all that i can say",
       "url": "https://open.spotify.com/track/1LbbbqPu0xLOb87DhIb2lF"
@@ -12826,7 +12826,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 190714,
       "name": "Derindeyim",
       "url": "https://open.spotify.com/track/2gK0wpUQh5PZfcAyIiYyRQ"
@@ -14087,7 +14087,7 @@
       "artists": [
         {
           "name": "Maphra",
-          "url": "https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58"
+          "url": "https://open.spotify.com/artist/282n63G461lWZtO6jAWKT1"
         }
       ],
       "date_added": "2026-03-31",
@@ -14336,7 +14336,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -19020,6 +19020,28 @@
       "duration_ms": 210000,
       "name": "F\u00fchlst Du Das Auch",
       "url": "https://open.spotify.com/track/1En3PlNQnAKxrLY2QRgVbD"
+    },
+    {
+      "album": {
+        "name": "Giraffenaffen 9 - Weltreise",
+        "url": "https://open.spotify.com/album/20hBTS92YHvo2a1ctaNO4K"
+      },
+      "artists": [
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        },
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187946,
+      "name": "F\u00fchlst du die Musik",
+      "url": "https://open.spotify.com/track/3ep2TP8vOEH6dXJZZmj6YF"
     },
     {
       "album": {
@@ -24088,7 +24110,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 217320,
       "name": "Housebroken",
       "url": "https://open.spotify.com/track/1SIqYLTRjjZ3dSJCkqR1fK"
@@ -27360,6 +27382,24 @@
     {
       "album": {
         "name": "Jane!",
+        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
+    },
+    {
+      "album": {
+        "name": "Jane!",
         "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
       },
       "artists": [
@@ -27370,7 +27410,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
@@ -30112,7 +30152,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 134117,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
@@ -37600,7 +37640,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
@@ -37680,7 +37720,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 125153,
       "name": "Nicht alle M\u00e4nner",
       "url": "https://open.spotify.com/track/1EW65ROral0c7zxKuYwyP0"
@@ -42362,7 +42402,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 128659,
       "name": "Queen St",
       "url": "https://open.spotify.com/track/6o86CKQQc85ql8pMHrvJpo"
@@ -56172,7 +56212,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 188095,
       "name": "We Do What We Want - Edit",
       "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
@@ -57120,6 +57160,24 @@
     {
       "album": {
         "name": "When I Stand",
+        "url": "https://open.spotify.com/album/54CLIXUq8Gm8gGuXXda8BX"
+      },
+      "artists": [
+        {
+          "name": "Owen James",
+          "url": "https://open.spotify.com/artist/6kqeHxe4IG1RCR15nMT34L"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199738,
+      "name": "When I Stand",
+      "url": "https://open.spotify.com/track/1yXkHQ50wrNzslcUeVrnga"
+    },
+    {
+      "album": {
+        "name": "When I Stand",
         "url": "https://open.spotify.com/album/1ZZnKO1LCDBxjqdJ5n4EvT"
       },
       "artists": [
@@ -57130,32 +57188,10 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 199720,
       "name": "When I Stand",
       "url": "https://open.spotify.com/track/1GdddKSMtXbKovNOwlgGXd"
-    },
-    {
-      "album": {
-        "name": "Where Have You Been",
-        "url": "https://open.spotify.com/album/4mjdKbLjFJPtKCOHZx4pkY"
-      },
-      "artists": [
-        {
-          "name": "Bryan V",
-          "url": "https://open.spotify.com/artist/0UKwof7pq8Tz02TEnvcWJE"
-        },
-        {
-          "name": "RHEA",
-          "url": "https://open.spotify.com/artist/3iTqZTjeziB8WtVJeIUrLD"
-        }
-      ],
-      "date_added": "2026-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156923,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/4RlnD1zo3kAvARMvzhp4qa"
     },
     {
       "album": {
@@ -57174,6 +57210,28 @@
       "duration_ms": 179555,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/2tRirWLdP9kx8RkI7F3ZFI"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been (feat. RHEA)",
+        "url": "https://open.spotify.com/album/4mjdKbLjFJPtKCOHZx4pkY"
+      },
+      "artists": [
+        {
+          "name": "Bryan V",
+          "url": "https://open.spotify.com/artist/0UKwof7pq8Tz02TEnvcWJE"
+        },
+        {
+          "name": "RHEA",
+          "url": "https://open.spotify.com/artist/23qVgHxDZ8VK0kD9GKKoJs"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Where Have You Been (feat. RHEA)",
+      "url": "https://open.spotify.com/track/4RlnD1zo3kAvARMvzhp4qa"
     },
     {
       "album": {

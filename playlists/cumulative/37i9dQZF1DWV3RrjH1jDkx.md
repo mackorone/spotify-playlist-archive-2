@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra BLAKSTA, Bebe Rexha, vinni og mange flere!🎵
 
-10,213 songs - 22 day 2 hr 12 min
+10,216 songs - 22 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3371,6 +3371,7 @@
 | [Gina](https://open.spotify.com/track/6YRdakTXispOh34lIhJ7fO) | [Ella Marie](https://open.spotify.com/artist/6rYrNxnxJEZlhVnxR1c6C7) | [Gina](https://open.spotify.com/album/75K1RE3N9QMNcbBF0dJisA) | 2:25 | 2024-08-01 | 2024-08-09 |
 | [Ginger](https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Ginger](https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS) | 7:35 | 2025-08-01 | 2025-08-09 |
 | [Ginger](https://open.spotify.com/track/4j7m2rt1NTlZGpdgzm7kCu) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Ginger](https://open.spotify.com/album/5KCMGGVIX1Vn8iuGaLd3Af) | 2:33 | 2025-07-03 | 2025-07-11 |
+| [Ginger Lemonade](https://open.spotify.com/track/60XG382z7UHlLMXs0bOwRb) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Can We Hang Out Sometime?](https://open.spotify.com/album/2ude1QTWRjfCQYgpr5mc11) | 2:59 | 2026-04-02 |  |
 | [Giovanni Toccami](https://open.spotify.com/track/08Cfrl5QUF16ypWoax0wt8) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [Giovanni Toccami](https://open.spotify.com/album/4mPdlFySicrgf3URiCPZjn) | 2:14 | 2024-11-07 | 2024-11-15 |
 | [GIRA](https://open.spotify.com/track/3n0RiyLIm9Ep4I0qf6gmy5) | [Rasmus Thall](https://open.spotify.com/artist/2Brc3k9Io6Cb1gUMUocN31), [Oral Bee](https://open.spotify.com/artist/4QawfzCb5NbFRNn4BySXb1) | [GIRA](https://open.spotify.com/album/29fOIxfsGUjWqzOCqpEvnf) | 2:52 | 2024-05-23 | 2024-06-01 |
 | [GIRA](https://open.spotify.com/track/02FQL9VSSeOQ42urvBhDKX) | [Slam Dunk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ), [Trond](https://open.spotify.com/artist/54XZai0iCUSHoFSNmwuqj9), [UKA](https://open.spotify.com/artist/5ThQlNqGjRf9lRR1wcsR5v) | [GIRA](https://open.spotify.com/album/2JpAvBokzbthsU0AidhGPL) | 2:37 | 2025-07-10 | 2025-07-18 |
@@ -4285,6 +4286,7 @@
 | [Hypnotized](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-01-09 | 2025-01-17 |
 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 | 2025-02-20 | 2025-02-28 |
 | [HYSJ \(ICED\)](https://open.spotify.com/track/3JXoRVmB1XBRx28aP8OoRJ) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Krobbe](https://open.spotify.com/artist/7GXGB5x4GvnZpl7AnjM3Ej), [UGANG](https://open.spotify.com/artist/68NG7HHIQ3vm9DGnWE52gE) | [HYSJ \(ICED\)](https://open.spotify.com/album/5XfBIt784dpEj7JMVAmx81) | 2:28 | 2025-10-23 | 2025-10-31 |
+| [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 | 2026-04-02 |  |
 | [HYTT OG PINE](https://open.spotify.com/track/2tU43UZig0zAlJu9v9N1tF) | [BLAKSTA](https://open.spotify.com/artist/1durHwES7iW4UCtqeGtfFY) | [HYTT OG PINE](https://open.spotify.com/album/5aGlQYQRDEE08ti9FMlQBG) | 2:44 | 2026-03-05 | 2026-03-13 |
 | [Hämta mer](https://open.spotify.com/track/5LcaQhfIrbt38NAeile7VL) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI) | 4:41 | 2025-10-02 | 2025-10-10 |
 | [Här Ute](https://open.spotify.com/track/36dEa5E8tC0qkO24N8lOGz) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Här Ute](https://open.spotify.com/album/1nLn2bzWsyfv3osE7nlmKq) | 2:39 | 2025-02-06 | 2025-02-14 |
@@ -4617,6 +4619,7 @@
 | [Impatience, Magma](https://open.spotify.com/track/6wdrRE2iafc53qkcuFzbia) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [At Source](https://open.spotify.com/album/1khZjNAA8D8N1bO5yU4A1F) | 11:15 | 2026-02-26 | 2026-03-06 |
 | [IMPLOSION](https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [IMPLOSION](https://open.spotify.com/album/02uOUfa2VRpL4MMGH9fxU2) | 3:20 | 2025-11-20 | 2025-11-28 |
 | [IMPULSKONTROLL.wav](https://open.spotify.com/track/6hBIE2pxurmr4X73SGM74p) | [Symbiose Under Vann](https://open.spotify.com/artist/3IWFdemJdjPGQQUhjslUGx) | [IMPULSKONTROLL.wav](https://open.spotify.com/album/1P8Az4H8vyjzmkV7E6MgmF) | 2:24 | 2026-03-05 | 2026-03-13 |
+| [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 | 2026-04-02 |  |
 | [In Denial](https://open.spotify.com/track/67PNaFlQvixz8vm3TkEgPX) | [Bukkoy](https://open.spotify.com/artist/2AxWX6zdyCGXu35opfjh4q), [Otto Palmborg](https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc) | [In Denial](https://open.spotify.com/album/1WkigkGKp1osPhkhRzul1b) | 3:09 | 2025-09-18 | 2025-09-27 |
 | [In Emptiness](https://open.spotify.com/track/71HBJ1bkUQE2pZTuQiytJ9) | [William Hut](https://open.spotify.com/artist/3nIWLaC43CVlvVKAYHkEBc) | [In Emptiness](https://open.spotify.com/album/0aaH2kKv6WpHEJ6cmEyBax) | 2:20 | 2025-02-20 | 2025-02-28 |
 | [In Every Fear, a Friend](https://open.spotify.com/track/1bwcY6lMLFf93jVLa1xosR) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Retrotopia](https://open.spotify.com/album/28gQKOh88T1ZjodNxb6S2f) | 3:50 | 2024-10-03 | 2024-10-11 |

@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-133 songs - 6 hr 49 min
+136 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,8 @@
 | [BANG BANG](https://open.spotify.com/track/0eJSm2G0t3XX4SUuU1aSaH) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [BANG BANG](https://open.spotify.com/album/7eE2cLGRCyAMeCgzycZ2s2) | 2:18 | 2025-08-22 | 2025-09-13 |
 | [Be Mine](https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Be Mine](https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE) | 1:53 | 2026-03-13 |  |
 | [Be Mine](https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Be Mine](https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ) | 2:36 | 2025-07-04 | 2025-09-13 |
+| [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 | 2026-04-03 |  |
+| [Beautiful Life](https://open.spotify.com/track/15pViH8S6yor5SmFrV03ic) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Beautiful Life](https://open.spotify.com/album/2sGLInJA6FWZs6c8PeAG6i) | 2:57 | 2026-04-03 |  |
 | [Bij Mij](https://open.spotify.com/track/53aQnzOfx7tzK3fCTD0lx3) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN) | [Bij Mij](https://open.spotify.com/album/4pBYLtozCNQRpHvnumel2i) | 2:55 | 2025-07-18 | 2025-09-02 |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2025-07-04 |  |
 | [Black Out Days \(Stay Away\)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Black Out Days \(Stay Away\)](https://open.spotify.com/album/5tqjvPX88OX1OpVo1QGBYC) | 2:52 | 2025-09-01 |  |
@@ -55,6 +57,7 @@
 | [Galaxy](https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Galaxy](https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS) | 2:50 | 2026-01-09 |  |
 | [Get Away](https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Out Loud](https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY) | 4:28 | 2026-03-17 |  |
 | [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 | 2025-07-04 | 2026-03-28 |
+| [Ghost town...](https://open.spotify.com/track/38oXrd1MqNYOTdhIpgDYJ1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghost town...](https://open.spotify.com/album/2Fwcr34Ta0UdWAHtakPLdD) | 2:44 | 2026-04-03 |  |
 | [Golden \- David Guetta REM/X](https://open.spotify.com/track/5tVnzVWIKrmmuOPGbXUbT4) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Golden \[David Guetta REM/X \(from the Netflix film KPop Demon Hunters\)\]](https://open.spotify.com/album/5DLI2kMdzrauXjS5fB3OFv) | 2:56 | 2025-07-25 |  |
 | [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 | 2025-07-25 | 2025-09-13 |
 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 | 2025-07-04 |  |

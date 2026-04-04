@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iLHyU2xMyJ.md) - [plain]
 
 > From Annakili to Viduthalai \- all the essential tracks of Isaignani!
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,771 likes - 150 songs - 11 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,789 likes - 150 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iLHyU2xMyJ.md) - [plain]
 | 33 | [Oru Pattam Poochi](https://open.spotify.com/track/2Y0r28Onm7SCgtvSlQChtF) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [Palani Bharathi](https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb) | [Kadalukku Mariyadai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz) | 5:13 |
 | 34 | [Om Shiva Hom](https://open.spotify.com/track/77erMdZh4xXwtFs3HgPBBT) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Vaali](https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r) | [Naan Kadavul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kAj5WokSO4FziRRSaeu68) | 6:07 |
 | 35 | [Thalattudhe Vanam \- From "Kadal Meengal"](https://open.spotify.com/track/6CZ3IGaz6WPVsXrzUP5kBJ) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu), [Kannadasan](https://open.spotify.com/artist/0YLTEt48dwAEsoAR9CxhQB) | [Evergreen Tamil Hits](https://open.spotify.com/album/1omPvOrrsgsyIcEwGm2bZS) | 4:26 |
-| 36 | [Elangathu \- Duet](https://open.spotify.com/track/01yHYYvFwxQorNJTBwbvPn) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Palani Barathi](https://open.spotify.com/artist/2JJjUbg69KJOCyPufNOaWv), [Sriram Parthasarathy](https://open.spotify.com/artist/0Eyu7MSg0N3UtTb9NDDDsW) | [Pithamagan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/35zAHnITcgQeo5oFcawIMW) | 6:09 |
-| 37 | [Netru Indha Neram \- From "Tick Tick Tick"](https://open.spotify.com/track/0Rx44khCijmY8IIbqp3G8Q) | [Latha Rajinikanth](https://open.spotify.com/artist/67IdTh70oe61DC4D7UYoll) | [Evergreen Tamil Hits](https://open.spotify.com/album/1omPvOrrsgsyIcEwGm2bZS) | 4:19 |
+| 36 | [Netru Indha Neram \- From "Tick Tick Tick"](https://open.spotify.com/track/0Rx44khCijmY8IIbqp3G8Q) | [Latha Rajinikanth](https://open.spotify.com/artist/67IdTh70oe61DC4D7UYoll) | [Evergreen Tamil Hits](https://open.spotify.com/album/1omPvOrrsgsyIcEwGm2bZS) | 4:19 |
+| 37 | [Elangathu \- Duet](https://open.spotify.com/track/01yHYYvFwxQorNJTBwbvPn) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Palani Barathi](https://open.spotify.com/artist/2JJjUbg69KJOCyPufNOaWv), [Sriram Parthasarathy](https://open.spotify.com/artist/0Eyu7MSg0N3UtTb9NDDDsW) | [Pithamagan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/35zAHnITcgQeo5oFcawIMW) | 6:09 |
 | 38 | [Yerrikkarai Poonkatre](https://open.spotify.com/track/6Re5OyN7cXbzv0OrPuFgGe) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Thooral Ninnu Pochu](https://open.spotify.com/album/2ECc6XQUKbPwdT0jJDqJNG) | 3:41 |
 | 39 | [Ennoda Raasi](https://open.spotify.com/track/0IN08QvwijEZO2lW7SUNCi) | [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW) | [Mappillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ob4bN7Fg4q5y4BdqoFK9k) | 4:29 |
 | 40 | [Mayil Pola](https://open.spotify.com/track/5js5B8rgwlAhSKtAJww0nh) | [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4) | [Bharathi](https://open.spotify.com/album/2BEmX7YJnmjvBafJBBEopa) | 4:32 |

@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123680,
+  "num_followers": 123675,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
+        "name": "TO FEEL ALIVE EP",
+        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "i want war (BUT I NEED PEACE)",
+      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
+    },
+    {
+      "added_at": "2025-10-25 00:54:02",
+      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
-    },
-    {
-      "added_at": "2025-10-25 00:54:02",
-      "album": {
-        "name": "TO FEEL ALIVE EP",
-        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "i want war (BUT I NEED PEACE)",
-      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
     },
     {
       "added_at": "2025-10-25 00:54:02",

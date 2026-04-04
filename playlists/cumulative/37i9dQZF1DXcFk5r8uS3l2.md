@@ -2,9 +2,9 @@
 
 ### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
-> You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
+> You've come to the crossroads of soul, folk, and the blues\. Cover: Sons of Legion
 
-482 songs - 1 day 6 hr 13 min
+483 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Mercy](https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Mercy](https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57) | 3:40 | 2026-02-13 | 2026-03-11 |
 | [Mileage](https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 4:10 | 2024-08-23 |  |
 | [Mistakes](https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Side Pony](https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX) | 4:08 | 2021-12-17 | 2025-02-22 |
-| [Monsoon Lightning](https://open.spotify.com/track/2amxmJp83GsKX3tS3GkBFo) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3), [Tom Walbank](https://open.spotify.com/artist/6Ju4WiHeO57mAP7iEUFfCw) | [Monsoon Lightning](https://open.spotify.com/album/7ELb0B6hRV0GO0U4e7BBpN) | 4:23 | 2024-07-05 |  |
+| [Monsoon Lightning](https://open.spotify.com/track/2amxmJp83GsKX3tS3GkBFo) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3), [Tom Walbank](https://open.spotify.com/artist/6Ju4WiHeO57mAP7iEUFfCw) | [Monsoon Lightning](https://open.spotify.com/album/7ELb0B6hRV0GO0U4e7BBpN) | 4:23 | 2024-07-05 | 2026-04-04 |
 | [Mood](https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Mood](https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s) | 3:29 | 2022-10-21 | 2025-03-08 |
 | [Mood Swings](https://open.spotify.com/track/1gmkhItwZZ4hkcxr79g7XC) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7ErL1IFbEZr7Hz2FfelS3I) | 3:25 | 2024-02-09 | 2024-04-08 |
 | [Mood Swings](https://open.spotify.com/track/3j3AQiQEe24de1EcYqVxc3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa) | 3:25 | 2024-02-09 | 2024-04-19 |
@@ -476,6 +476,7 @@
 | [Who Needs the Weather](https://open.spotify.com/track/4yDo8iTBGJguFLp2gwl5pb) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Who Needs the Weather](https://open.spotify.com/album/39HxtzBfmt3AxY0TomYerH) | 3:06 | 2025-03-14 | 2026-03-30 |
 | [Whom I Adore](https://open.spotify.com/track/0KyEGhg4AcfSuMrgPjMdEc) | [Oliver Wood](https://open.spotify.com/artist/74evjLDRTaA6Fz6s2rHudU) | [Fat Cat Silhouette](https://open.spotify.com/album/1yfKoTH7qutAxGbjpZGHJs) | 2:55 | 2024-06-14 |  |
 | [Why Do I Cry Anymore](https://open.spotify.com/track/3gEHy9sxwFdv2dDXc8WB7P) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Why Do I Cry Anymore](https://open.spotify.com/album/5hldzbhEFzLqeT2WATFsZS) | 3:28 | 2022-05-13 | 2022-07-25 |
+| [Wishing Well](https://open.spotify.com/track/2tQTI8d2eXxMiXmgHjZWgQ) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Wishing Well](https://open.spotify.com/album/0qgadIcWUzFPNmVUfxyiDR) | 2:48 | 2026-04-03 |  |
 | [Worry](https://open.spotify.com/track/1hAIPXpzfpBGsWGYTf69MM) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Worry](https://open.spotify.com/album/4lsxhQoLG5OEUEfVlUgA9H) | 3:05 | 2021-12-17 | 2024-06-01 |
 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 | 2022-01-28 | 2024-04-19 |
 | [Wrestling Me](https://open.spotify.com/track/4gQDxDlkP4qLOnhM9XGHYp) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5), [Terminus Horns](https://open.spotify.com/artist/2ZY58aCTkYN1wZibSZNgQS) | [Wrestling Me](https://open.spotify.com/album/0iVylOcZFHmsl0s4NbQfIC) | 3:19 | 2022-07-15 | 2022-08-06 |

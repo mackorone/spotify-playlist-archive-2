@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Amor Bonito (Track #1)",
+        "url": "https://open.spotify.com/album/2D8ib3qZvL9fj3t6yQjmw5"
+      },
+      "artists": [
+        {
+          "name": "Luis Maum",
+          "url": "https://open.spotify.com/artist/3foPHZdyKBYpUgO62xaqE5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237729,
+      "name": "Amor Bonito (Track #1)",
+      "url": "https://open.spotify.com/track/2aPWnLUDJxaU7shcekwG02"
+    },
+    {
+      "album": {
         "name": "Amor de Bolero",
         "url": "https://open.spotify.com/album/7GQCGDiH41ovnH6yQJYr7G"
       },
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 185791,
       "name": "Boleros en Jap\u00f3n",
       "url": "https://open.spotify.com/track/7gD5wIAvbngekKZqvR3syb"
@@ -3109,6 +3127,28 @@
     },
     {
       "album": {
+        "name": "Hazy x Ti",
+        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        },
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213749,
+      "name": "Hazy x Ti",
+      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
+    },
+    {
+      "album": {
         "name": "Himitsu",
         "url": "https://open.spotify.com/album/3CqKTvQdxWuG7WLf9sn6dQ"
       },
@@ -3878,7 +3918,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"

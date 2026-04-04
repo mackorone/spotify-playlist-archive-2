@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Aterciopelados en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,493 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,502 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [Aviones de Papel](https://open.spotify.com/track/27KURlRxgWQwU6of0oXdY0) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Pie de Página](https://open.spotify.com/album/3MJVCKOU5rMFkKg4eVG16g) | 2:30 |
 | 50 | [El Juego](https://open.spotify.com/track/32JCK5B9YEYNVpDNdZKZ32) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [El Juego](https://open.spotify.com/album/2azntgtYhJNnQqjMNglofk) | 3:37 |
 
-Snapshot ID: `AAAAADDFQ9qCMU0s5aOkk45azPVUTclq`
+Snapshot ID: `AAAAAMwlWlbh5vMLorcD8s41vsHOWE0f`

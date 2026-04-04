@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, LOVE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,730 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,740 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 35 | [Love Is A Fight](https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Love Is A Fight](https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga) | 3:33 |
 | 36 | [Love Like Yours](https://open.spotify.com/track/1yGO7Kc6Aa8DF9R99zUE5X) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE) | [Love Like Yours](https://open.spotify.com/album/3Tli9YD4x5FeeywgJVdV2Y) | 2:19 |
 | 37 | [Better Man](https://open.spotify.com/track/7i4YoswtDTbiLd6AWc0Ep0) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? +](https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e) | 3:09 |
-| 38 | [Honey](https://open.spotify.com/track/3nlyxyjYTuGiJnUhgaKOuK) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Honey](https://open.spotify.com/album/2P0Z0KXswNhYOa1tayccnw) | 2:44 |
-| 39 | [I'll Wait For You](https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Brave](https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f) | 3:46 |
+| 38 | [I'll Wait For You](https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Brave](https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f) | 3:46 |
+| 39 | [Honey](https://open.spotify.com/track/3nlyxyjYTuGiJnUhgaKOuK) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Honey](https://open.spotify.com/album/2P0Z0KXswNhYOa1tayccnw) | 2:44 |
 | 40 | [Can't Help Falling In Love \- LIGHT](https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [brooke](https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng) | [Can't Help Falling In Love](https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y) | 2:51 |
-| 41 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 |
-| 42 | [Sweet Love](https://open.spotify.com/track/7qEuXmQkRZIAafaf8hmumR) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Sweet Love](https://open.spotify.com/album/0psbwte23wwXNyPWN6qxsX) | 3:32 |
+| 41 | [Sweet Love](https://open.spotify.com/track/7qEuXmQkRZIAafaf8hmumR) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Sweet Love](https://open.spotify.com/album/0psbwte23wwXNyPWN6qxsX) | 3:32 |
+| 42 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 |
 | 43 | [Falling At The Thought Of You](https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Falling At The Thought Of You](https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX) | 2:50 |
 | 44 | [All Over The World](https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [All Over The World](https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh) | 3:10 |
 | 45 | [Pray With](https://open.spotify.com/track/0ulQ3VwyPArwpy1ahM1gY8) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [Pray With](https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7) | 2:39 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 87 | [The One Out The Friendzone \- Kevin Aleksander Remix](https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Kevin Aleksander](https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ) | [The One Out The Friendzone \(Kevin Aleksander Remix\)](https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC) | 3:00 |
 | 88 | [Giving In](https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Giving In](https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm) | 3:27 |
 | 89 | [Free Fallin](https://open.spotify.com/track/0EWgI9kJgjGOlmfFkvbR2c) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [If I Were an R&B Singer](https://open.spotify.com/album/5Q7MUqwtF2LsoFCU0ZogH2) | 3:19 |
-| 90 | [Me + You = Pi](https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Me + You = Pi](https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p) | 2:49 |
-| 91 | [Holding On to You \- Single Version](https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g) | [Dan Stirling](https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Holding On To You](https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw) | 3:42 |
+| 90 | [Holding On to You \- Single Version](https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g) | [Dan Stirling](https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Holding On To You](https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw) | 3:42 |
+| 91 | [Me + You = Pi](https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Me + You = Pi](https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p) | 2:49 |
 | 92 | [I Do](https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [I Do](https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8) | 3:34 |
 | 93 | [On This Special Day \(Wedding Song\)](https://open.spotify.com/track/1mwVdUrh672eGb7rxnxgfm) | [Dave Kull](https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu) | [Love Songs](https://open.spotify.com/album/5v7DRYCe759w9lZ6zHN2Tt) | 3:05 |
 | 94 | [COME MY WAY](https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI) | [Jay Sanon](https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu), [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly) | [COME MY WAY](https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY) | 3:00 |

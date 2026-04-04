@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,269 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,279 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 24 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
 | 25 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
 | 26 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
-| 27 | [Something Feels Wrong](https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [To My Beloved Thief, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/73xC19YQk363A7KxR142sW) | 2:51 |
-| 28 | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn) | [Ryeojin](https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX) | 2:36 |
+| 27 | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn) | [Ryeojin](https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX) | 2:36 |
+| 28 | [Something Feels Wrong](https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [To My Beloved Thief, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/73xC19YQk363A7KxR142sW) | 2:51 |
 | 29 | [Hide & Seek](https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:33 |
 | 30 | [Still In Time](https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Spring Fever, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW) | 2:53 |
 | 31 | [HICCUP](https://open.spotify.com/track/6BMNPNij62XvOMQF5BPGym) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:15 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 43 | [Message \(with Gist\)](https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL) | [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Message \(with Gist\)](https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW) | 2:50 |
 | 44 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
 | 45 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
-| 46 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |
-| 47 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
+| 46 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
+| 47 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |
 | 48 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 |
-| 49 | [Same Days](https://open.spotify.com/track/4Rupjlu5lEdF9pv2rt7sJa) | [Toshi](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Same Days](https://open.spotify.com/album/4lZsj3u5XyFtEv3IS3HMqg) | 2:25 |
-| 50 | [my fave](https://open.spotify.com/track/6poejHjAalbDehuxJR1zsq) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [my fave](https://open.spotify.com/album/1FSSyUFTvCcIXDkfKtH4E7) | 2:45 |
+| 49 | [my fave](https://open.spotify.com/track/6poejHjAalbDehuxJR1zsq) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [my fave](https://open.spotify.com/album/1FSSyUFTvCcIXDkfKtH4E7) | 2:45 |
+| 50 | [Same Days](https://open.spotify.com/track/4Rupjlu5lEdF9pv2rt7sJa) | [Toshi](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Same Days](https://open.spotify.com/album/4lZsj3u5XyFtEv3IS3HMqg) | 2:25 |
 
 Snapshot ID: `AAAAALHlmMkKjceUO5H0fRftlZ3HLWeV`

@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "louis, this is for u",
+        "url": "https://open.spotify.com/album/66Mz7S5bGPRJ9gWE5upXjL"
+      },
+      "artists": [
+        {
+          "name": "louis, this is for u",
+          "url": "https://open.spotify.com/show/66Mz7S5bGPRJ9gWE5upXjL"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200341,
+      "name": "hold on, we're going home by alex",
+      "url": "https://open.spotify.com/episode/6Zut0QtyPNItirwEliKmzq"
+    },
+    {
+      "album": {
         "name": "Seventeen Going Under (Live Deluxe)",
         "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
       },

@@ -96417,6 +96417,24 @@
     },
     {
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/1LSQCWzjrdDCMPbx4gTAit"
+      },
+      "artists": [
+        {
+          "name": "BLACKBOOK",
+          "url": "https://open.spotify.com/artist/3gjygQY5Q2P3b5F1ZIP0Dj"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/5ttjzFX6tqoW4g3VqIA6O3"
+    },
+    {
+      "album": {
         "name": "Different Eyes",
         "url": "https://open.spotify.com/album/3xXkAcNspdg0TG7s3QY2rR"
       },
@@ -148451,6 +148469,24 @@
     },
     {
       "album": {
+        "name": "Good, Like It Should Be",
+        "url": "https://open.spotify.com/album/2LyI09qk1IMuLrpNAwA8cd"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "Give It All Away",
+      "url": "https://open.spotify.com/track/4xMPRwyHSj4XLWDBiYsORL"
+    },
+    {
+      "album": {
         "name": "Give It to Me",
         "url": "https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT"
       },
@@ -177199,6 +177235,24 @@
     },
     {
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143197,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy"
+    },
+    {
+      "album": {
         "name": "H\u00e4agen Dazs",
         "url": "https://open.spotify.com/album/5248MWBiMvgZQazAJKtO8d"
       },
@@ -190794,6 +190848,24 @@
       "duration_ms": 222805,
       "name": "In A Heartbeat",
       "url": "https://open.spotify.com/track/4iii6NeGlCaapoO06IsxGc"
+    },
+    {
+      "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
     },
     {
       "album": {
@@ -386614,42 +386686,6 @@
       "duration_ms": 200722,
       "name": "Traces",
       "url": "https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4"
-    },
-    {
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/1LSQCWzjrdDCMPbx4gTAit"
-      },
-      "artists": [
-        {
-          "name": "BLACKBOOK",
-          "url": "https://open.spotify.com/artist/3gjygQY5Q2P3b5F1ZIP0Dj"
-        }
-      ],
-      "date_added": "2026-04-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5ttjzFX6tqoW4g3VqIA6O3"
-    },
-    {
-      "album": {
-        "name": "Good, Like It Should Be",
-        "url": "https://open.spotify.com/album/2LyI09qk1IMuLrpNAwA8cd"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        }
-      ],
-      "date_added": "2026-04-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/4xMPRwyHSj4XLWDBiYsORL"
     },
     {
       "album": {

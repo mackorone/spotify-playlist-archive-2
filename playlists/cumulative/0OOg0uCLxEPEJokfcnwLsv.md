@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-411 songs - 1 day 1 hr 32 min
+413 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2025-12-04 | 2025-12-28 |
 | [Let's Make It Rock Tonight](https://open.spotify.com/track/18maw03KeLnbdf43RdvzUo) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [Let's Make It Rock Tonight](https://open.spotify.com/album/0ofGHU4AlfThKM5VpLci8L) | 3:55 | 2025-10-28 | 2025-11-22 |
 | [Letzter Kuss](https://open.spotify.com/track/24Y239nFAW5fky8A9BVH1r) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Letzter Kuss](https://open.spotify.com/album/1jevubVvUvW6JRZqiJgzMJ) | 4:01 | 2026-02-09 | 2026-03-04 |
+| [Lifeless](https://open.spotify.com/track/39zRV9wo9QfVPAGOJhW5aI) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:00 | 2026-04-03 |  |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 | 2026-01-21 |
 | [Light in the Darkness](https://open.spotify.com/track/4469akQ3sJ0BL8LO92RNmL) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Light in the Darkness](https://open.spotify.com/album/31cciFSZKFdJmpoYXIFFMi) | 3:59 | 2026-04-02 |  |
 | [Lighthouse](https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 4:48 | 2025-12-22 | 2026-01-21 |
@@ -280,6 +281,7 @@
 | [Rock it to the Moon](https://open.spotify.com/track/3m9eHbhkvGD4UHlqbACcW6) | [Closer To The Ocean](https://open.spotify.com/artist/2e5jnw0SFtu36T1XJZqKfK) | [Sure Shots](https://open.spotify.com/album/075jtCsaPqq2nvW4vjOJpa) | 2:41 | 2026-02-13 | 2026-03-04 |
 | [Rocking Gnossienne'25](https://open.spotify.com/track/1uj9DhkyZSGnYDljWAjWnS) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Gary Hayward](https://open.spotify.com/artist/71W5r0ihrkAoHc19RcmPNW) | [Rocking Gnossienne'25](https://open.spotify.com/album/2uLL5xhvVZXdYaNEJemWl6) | 3:05 | 2025-12-01 | 2025-12-28 |
 | [Rose Tinted Eyes](https://open.spotify.com/track/76fmIfIURZyrGgdq2qGmm8) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Rose Tinted Eyes](https://open.spotify.com/album/6Vfc9B57eWm1cfzCijhMhI) | 2:47 | 2025-12-13 | 2026-01-05 |
+| [Runnin](https://open.spotify.com/track/4OLphiU0dKvFTkIPSdOS5j) | [TV Screams](https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4) | [TRUCKIN' EP](https://open.spotify.com/album/6WXiAv8LsKlQHT26HAin7f) | 2:12 | 2026-04-03 |  |
 | [Saffron Desert](https://open.spotify.com/track/6KYCDti7qANpsQuyUpR5h5) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Saffron Desert](https://open.spotify.com/album/1JOu4mZyOanf5dpfaIGMm7) | 5:54 | 2026-01-07 | 2026-02-02 |
 | [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 | 2025-11-21 | 2025-12-12 |
 | [Satu](https://open.spotify.com/track/2zBjzjeCTUG0ThIqwhutl8) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [Satu](https://open.spotify.com/album/0k9XH2GEapyuRdAD6nH3Me) | 3:18 | 2025-11-02 | 2025-11-22 |

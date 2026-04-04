@@ -4,7 +4,7 @@
 
 > Glitter, glitch and gloss 👢 cover: Tiffany Day
 
-2,198 songs - 4 day 14 hr 2 min
+2,199 songs - 4 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,6 +904,7 @@
 | [Hurts Like This](https://open.spotify.com/track/0jitsmziKMI9MpzENnB0Tc) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Fallen Embers \(Deluxe Version\)](https://open.spotify.com/album/0KgcBsDY5uFt4EaG3roI3x) | 3:58 | 2021-10-23 | 2022-02-12 |
 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 | 2026-01-30 | 2026-03-07 |
 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-01-23 |  |
+| [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 | 2026-04-02 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-13 | 2022-12-17 |
 | [I AM](https://open.spotify.com/track/39ddanzSW3rVPvDBmwrV4e) | [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA), [Crybaby](https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET) | [I AM](https://open.spotify.com/album/3rAX3otFXuzYwYSMkKB6jA) | 3:28 | 2026-04-02 |  |
 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2023-11-10 | 2024-04-10 |

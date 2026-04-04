@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: manifest",
-  "num_followers": 577240,
+  "num_followers": 577373,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-04-02 21:00:25",
       "album": {
+        "name": "D\u00fcnya Yalan S\u00f6yl\u00fcyor",
+        "url": "https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7"
+      },
+      "artists": [
+        {
+          "name": "mor ve \u00f6tesi",
+          "url": "https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Cambaz",
+      "url": "https://open.spotify.com/track/3ZkA3JnqluUWzwr64BBkl4"
+    },
+    {
+      "added_at": "2026-04-02 21:00:25",
+      "album": {
         "name": "Bir \u00c7ift G\u00f6z",
         "url": "https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 207678,
       "name": "Bir \u00c7ift G\u00f6z",
       "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
-    },
-    {
-      "added_at": "2026-04-02 21:00:25",
-      "album": {
-        "name": "D\u00fcnya Yalan S\u00f6yl\u00fcyor",
-        "url": "https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7"
-      },
-      "artists": [
-        {
-          "name": "mor ve \u00f6tesi",
-          "url": "https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Cambaz",
-      "url": "https://open.spotify.com/track/3ZkA3JnqluUWzwr64BBkl4"
     },
     {
       "added_at": "2026-04-02 21:00:25",
@@ -431,18 +431,22 @@
     {
       "added_at": "2026-04-02 21:00:25",
       "album": {
-        "name": "Geri Ver",
-        "url": "https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw"
+        "name": "Eyvahlar Olsun",
+        "url": "https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk"
       },
       "artists": [
         {
-          "name": "Wegh",
-          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+          "name": "Emre Fel",
+          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
+        },
+        {
+          "name": "Funktakl",
+          "url": "https://open.spotify.com/artist/6QgQib1hYAs8Y9OhiSoGoW"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Geri Ver",
-      "url": "https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG"
+      "duration_ms": 215172,
+      "name": "Bir G\u00fcld\u00fcn",
+      "url": "https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg"
     },
     {
       "added_at": "2026-04-02 21:00:25",
@@ -491,22 +495,18 @@
     {
       "added_at": "2026-04-02 21:00:25",
       "album": {
-        "name": "Eyvahlar Olsun",
-        "url": "https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk"
+        "name": "Geri Ver",
+        "url": "https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw"
       },
       "artists": [
         {
-          "name": "Emre Fel",
-          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
-        },
-        {
-          "name": "Funktakl",
-          "url": "https://open.spotify.com/artist/6QgQib1hYAs8Y9OhiSoGoW"
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
         }
       ],
-      "duration_ms": 215172,
-      "name": "Bir G\u00fcld\u00fcn",
-      "url": "https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg"
+      "duration_ms": 169411,
+      "name": "Geri Ver",
+      "url": "https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG"
     },
     {
       "added_at": "2026-04-02 21:00:25",
@@ -655,6 +655,26 @@
     {
       "added_at": "2026-04-02 21:00:25",
       "album": {
+        "name": "\u00dcz\u00fclmedim Ki",
+        "url": "https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "duration_ms": 154402,
+      "name": "\u00dcz\u00fclmedim Ki",
+      "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"
+    },
+    {
+      "added_at": "2026-04-02 21:00:25",
+      "album": {
         "name": "BURADA SOKAKLAR",
         "url": "https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 139833,
       "name": "BURADA SOKAKLAR",
       "url": "https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4"
-    },
-    {
-      "added_at": "2026-04-02 21:00:25",
-      "album": {
-        "name": "\u00dcz\u00fclmedim Ki",
-        "url": "https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        },
-        {
-          "name": "B\u00fcken",
-          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
-        }
-      ],
-      "duration_ms": 154402,
-      "name": "\u00dcz\u00fclmedim Ki",
-      "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"
     },
     {
       "added_at": "2026-04-02 21:00:25",

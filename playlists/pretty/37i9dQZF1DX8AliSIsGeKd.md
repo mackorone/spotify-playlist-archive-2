@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Adriatique
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,533 likes - 90 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,737 likes - 90 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 30 | [Apéritif](https://open.spotify.com/track/4xHVUcx63SvAfzAgjRxVar) | [TwoSlice](https://open.spotify.com/artist/7tjeiMlhaZh3n8VqyNcMG1) | [All Night](https://open.spotify.com/album/0eLWjifEm4AOzjMQqqcK5u) | 3:21 |
 | 31 | [Gonna Get You](https://open.spotify.com/track/1n4UDm3wTIBjJfWMlDeL5f) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Gonna Get You](https://open.spotify.com/album/47xvThziJg8CfCfNkWqBxV) | 5:47 |
 | 32 | [Hold On](https://open.spotify.com/track/0K3GkjUfbt52ewJxopeQmA) | [not gonna lie](https://open.spotify.com/artist/34CgjSR3UnCPOtz2ORcbe6) | [Hold On](https://open.spotify.com/album/1kXNLkkqT66YUgla3ng7A4) | 3:39 |
-| 33 | [Track 1](https://open.spotify.com/track/3vTAO1ih47eeLEeQnKwxKr) | [Dodi Palese](https://open.spotify.com/artist/2JNZPGveOPu5gIw9o3V4pb) | [What Happens Then](https://open.spotify.com/album/1GJkF1OqPvGLnF8CNAv7DU) | 0:00 |
+| 33 | [What Happens Then](https://open.spotify.com/track/3vTAO1ih47eeLEeQnKwxKr) | [Dodi Palese](https://open.spotify.com/artist/2JNZPGveOPu5gIw9o3V4pb) | [What Happens Then](https://open.spotify.com/album/1GJkF1OqPvGLnF8CNAv7DU) | 4:59 |
 | 34 | [no cash](https://open.spotify.com/track/4uiNlx5Bcs11EFfm25Gg1h) | [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [no cash](https://open.spotify.com/album/1c5Rfb4ZXGxQ687ogtmcCG) | 3:20 |
 | 35 | [Twice Like Rice](https://open.spotify.com/track/4yy4cTnyZE63KA0HxlMjy8) | [Stevie Cox](https://open.spotify.com/artist/4KRVi6GzU2BCnXZMDFyWlr), [ansboy](https://open.spotify.com/artist/4w5Z0GPtnaafYGXnb3M5qb) | [Twice Like Rice](https://open.spotify.com/album/41AJb7eYHKFilqgvDLTZAo) | 5:41 |
 | 36 | [Bosky](https://open.spotify.com/track/2O7WjhPo6pV9zWfHLRtBw0) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Bosky](https://open.spotify.com/album/4BETqinA7K3vShwtubiFSF) | 4:50 |

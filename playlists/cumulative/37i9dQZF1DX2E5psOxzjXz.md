@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Natasha Humera Ejaz
 
-445 songs - 1 day 0 hr 27 min
+447 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Take Your Turn](https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d) | [Umair Ali](https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Take Your Turn](https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN) | 4:16 | 2021-12-06 | 2022-11-03 |
 | [Talking To My Heart](https://open.spotify.com/track/7pj46Hvk3pZPG3mzEWJ7Nq) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Kabeer Khan](https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt) | [Talking To My Heart](https://open.spotify.com/album/1O0ve8bN9wyIsJFVUKsNF2) | 2:34 | 2024-06-21 |  |
 | [Tamasha](https://open.spotify.com/track/4nX0hE5O7O5ssZ0RBnBRUf) | [The Tamaashbeens](https://open.spotify.com/artist/6dArdZ3NhrB1sbyo2s5poV) | [Tamasha](https://open.spotify.com/album/70R43DKN4pKOHBE7guBU6m) | 3:48 | 2024-10-04 | 2024-12-13 |
-| [tanha sahi](https://open.spotify.com/track/6w47A15XIxRHnBiljATzUa) | [Maliha J\. Khan](https://open.spotify.com/artist/63RTNEI59osbMZHgd9FUTl), [Daniyal Abid](https://open.spotify.com/artist/05YR7CqRwC120pSVQxkwtc) | [tanha sahi](https://open.spotify.com/album/7f0Wx9dQPe6D3wctYlGWIi) | 2:33 | 2026-02-06 |  |
+| [tanha sahi](https://open.spotify.com/track/6w47A15XIxRHnBiljATzUa) | [Maliha J\. Khan](https://open.spotify.com/artist/63RTNEI59osbMZHgd9FUTl), [Daniyal Abid](https://open.spotify.com/artist/05YR7CqRwC120pSVQxkwtc) | [tanha sahi](https://open.spotify.com/album/7f0Wx9dQPe6D3wctYlGWIi) | 2:33 | 2026-02-06 | 2026-04-04 |
 | [Taranay](https://open.spotify.com/track/2cKCPVpbbgAUGI0Tm0HRVr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Taranay](https://open.spotify.com/album/6PuDQxcgpBiErIu05qgR6V) | 3:49 | 2025-02-26 | 2025-05-19 |
 | [Taras](https://open.spotify.com/track/41Yk3zyCwtsQbaeRPVccgU) | [Emira Mir](https://open.spotify.com/artist/21LZ9LvFeqYYoZKGGt6VRv) | [Taras](https://open.spotify.com/album/6JHcBSeikADiPIYNnmKnGo) | 3:30 | 2024-09-13 | 2025-01-17 |
 | [Taray](https://open.spotify.com/track/7gO3kiAPcAf2HphgKcfxkb) | [Saad Hassan](https://open.spotify.com/artist/3mHp9Ih5L1ramMAddBND3T) | [Taray](https://open.spotify.com/album/15lRPoY6UJwWBdWase9Nyn) | 4:34 | 2025-10-20 | 2026-01-15 |
@@ -415,6 +415,7 @@
 | [Theek Hai](https://open.spotify.com/track/1Eo6rcjB5ktjM9n24mwudc) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Theek Hai](https://open.spotify.com/album/1ODNQyAJumdOCreKdrC183) | 2:22 | 2022-01-18 | 2023-04-09 |
 | [Tittar Bittar](https://open.spotify.com/track/1IEqKWSF7CIPAOG8fsBdi7) | [Enarsii](https://open.spotify.com/artist/1uMjEOhLtHOlPOcFsSrl70) | [Tittar Bittar](https://open.spotify.com/album/7Ch7CBPwb3pKALwumKVnhw) | 2:49 | 2025-02-26 | 2025-05-19 |
 | [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 | 2022-09-26 | 2023-12-31 |
+| [TRUTH](https://open.spotify.com/track/7bFHSNqvz9cMMrW5MYLA3Z) | [EL RASHID](https://open.spotify.com/artist/0GoJ9aPkKAfaXnAWiRC2yG) | [TRUTH](https://open.spotify.com/album/1pdOJunOhvGapGa6Vl7UUb) | 3:51 | 2026-04-03 |  |
 | [Tu](https://open.spotify.com/track/330TsHu0mlE6C6HUMonBsZ) | [Saif Altaf](https://open.spotify.com/artist/2dIHcU5M4hH1kv6xthhqnV) | [Tu](https://open.spotify.com/album/1bo7xoT51hozH458Dlen4O) | 3:18 | 2025-09-09 |  |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-11-02 | 2026-02-07 |
 | [Tu hai kahan](https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/5V2IsZkQDhgRrgNhyCOJHf) | 4:23 | 2024-04-12 | 2024-04-20 |
@@ -432,6 +433,7 @@
 | [We Met Again](https://open.spotify.com/track/25xhJNicABIUsDiJdXKkjR) | [Zouqan](https://open.spotify.com/artist/2IMwndXSonTHhlmMYpAlh6), [SQLN](https://open.spotify.com/artist/28HGPCdVbJ7ThQNDojdY3P) | [We Met Again](https://open.spotify.com/album/4xNKuiXY4bRhWwITT4ge2u) | 3:16 | 2025-06-26 | 2025-10-04 |
 | [Weli Ho](https://open.spotify.com/track/3xoeyCTIlvBaLuTmewPRwL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Weli Ho](https://open.spotify.com/album/7CgXTd6AhH7tNNBq8soFu7) | 3:20 | 2022-03-15 | 2023-01-11 |
 | [What a Man](https://open.spotify.com/track/5ChrWAc3mGRrRcKP3wBIPz) | [Niomí](https://open.spotify.com/artist/16rklq8X2KwUNb7D51VvhQ) | [What a Man](https://open.spotify.com/album/7kh5DqndbncrTfaoIeBmdk) | 4:22 | 2021-12-06 | 2022-03-05 |
+| [WHERE R U](https://open.spotify.com/track/15vcBRyEkUZkH8xpGs35xe) | [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [WHERE R U](https://open.spotify.com/album/0LvPT3BxK0v7hCkzHsnp5K) | 3:41 | 2026-04-03 |  |
 | [Why'd You Write Me One Last Time?](https://open.spotify.com/track/5NUaygcvFIrBuolRxFACh4) | [Ishtiaq Khatri](https://open.spotify.com/artist/4R3vKFdBAWHXeTgfAOiQqa) | [Why'd You Write Me One Last Time?](https://open.spotify.com/album/4dfF4BfxHFjlC3uZUA59Ty) | 3:03 | 2025-11-07 | 2026-01-03 |
 | [Wife You](https://open.spotify.com/track/5A7uVk7orEzrR9NA8ppFus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 4:16 | 2023-09-08 | 2025-06-30 |
 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 | 2023-09-15 |  |

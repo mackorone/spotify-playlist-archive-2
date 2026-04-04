@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-722 songs - 1 day 12 hr 20 min
+723 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,7 @@
 | [Nightly conversations](https://open.spotify.com/track/3V4CqyDYGNTUCwzqutFUma) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Nightly conversations](https://open.spotify.com/album/4RRMSsZtm1Qjf8eqUTJvHj) | 3:00 | 2024-05-10 | 2025-03-25 |
 | [No matter how](https://open.spotify.com/track/2eUWABMTqaKzOG6XfbC6yY) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [No matter how](https://open.spotify.com/album/6Tf3DIo5eOUDN8UmNeLjJm) | 3:16 | 2024-05-23 | 2025-07-24 |
 | [No More Talk](https://open.spotify.com/track/2a2BJiTnJrD0qnf6FtbiMW) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [No More Talk](https://open.spotify.com/album/6NB7QDJfD9DbmkoHKrSwA0) | 2:42 | 2025-07-01 |  |
-| [Nordic Dreams](https://open.spotify.com/track/1XRHb1rYnhKxoF0SzCgVjH) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Nordic Dreams](https://open.spotify.com/album/0VjnDOivugjQtCXeUEmW8H) | 3:46 | 2023-06-01 |  |
+| [Nordic Dreams](https://open.spotify.com/track/1XRHb1rYnhKxoF0SzCgVjH) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Nordic Dreams](https://open.spotify.com/album/0VjnDOivugjQtCXeUEmW8H) | 3:46 | 2023-06-01 | 2026-04-04 |
 | [Not the Same](https://open.spotify.com/track/7AGtPqaOJWHNN3VKEJGyO7) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [Not the Same](https://open.spotify.com/album/2yhsVxilsFdjCRscZSoxuG) | 2:10 | 2025-04-23 | 2025-07-24 |
 | [novak](https://open.spotify.com/track/3rZVAQpemoV95KJ7hvrSg8) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [novak](https://open.spotify.com/album/1ZLd1xk9RnVjL94hq4m3bM) | 2:10 | 2023-12-22 |  |
 | [Now\-empty](https://open.spotify.com/track/5Tfz82TMmH7gaqH7cvBXzJ) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Now\-empty](https://open.spotify.com/album/15nWsQs6zRJDlM58O9XF3t) | 1:49 | 2023-05-25 | 2023-08-26 |
@@ -706,6 +706,7 @@
 | [Whispers of jazz in the Wind](https://open.spotify.com/track/0GpaPE4QF3ROdwAMThhfVu) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [Whispers of jazz in the Wind](https://open.spotify.com/album/2J1cpf0a5F0zKdmDEW7c5x) | 2:20 | 2023-06-08 | 2025-03-04 |
 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 | 2022-04-12 | 2023-08-11 |
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2022-04-12 | 2022-10-07 |
+| [Windows Still Awake](https://open.spotify.com/track/6sgoGEIx5nSnpdsoeqdbWg) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Windows Still Awake](https://open.spotify.com/album/3xGyNqhZRvqynFDmV1b8lt) | 2:34 | 2026-04-03 |  |
 | [Winter of joy](https://open.spotify.com/track/6BEfVxOOOyLdhdvlwy6DHN) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [Winter of joy](https://open.spotify.com/album/1dEkqJcdg49KQ8GCk4LrDt) | 3:07 | 2024-11-25 | 2025-07-02 |
 | [Winter Rain](https://open.spotify.com/track/69xePlpTCzXwf4TD55hbNg) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Winter Rain](https://open.spotify.com/album/4p1Zc8YOCwXMeEAwqfERKC) | 2:14 | 2025-01-27 | 2026-03-19 |
 | [Witchcraft](https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Witchcraft](https://open.spotify.com/album/5TVrp07TaKr7yDNSHu1FHT) | 4:07 | 2022-08-10 | 2024-06-28 |

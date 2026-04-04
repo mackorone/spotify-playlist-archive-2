@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> Homegrown emerging pop ⛓️<br/>cover: Tsatamis
+> Homegrown emerging pop ⛓️<br/>cover: Tsatsamis
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,159 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,162 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 59 | [Can't Help Falling Out Of Love](https://open.spotify.com/track/29611npNQh1axCvcVR2wzt) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Can't Help Falling Out Of Love](https://open.spotify.com/album/4xZRmWBKj6uJm7TaTvN8lo) | 3:16 |
 | 60 | [I'd Do Anything](https://open.spotify.com/track/1Ff8iIGVvs5EMzoOYYI197) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [I'd Do Anything](https://open.spotify.com/album/6I7Cscx9NaCR5LjDQeEZcv) | 3:44 |
 
-Snapshot ID: `AAAAAF21yFOzkMd+XQNBFd+b6it/wkuN`
+Snapshot ID: `AAAAAO69ZU/RiUg3P2PX8337VJijbrbi`

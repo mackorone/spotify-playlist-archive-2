@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: Elmiene",
+  "description": "Where R&B lives. Cover: Ama & Brent Faiyaz",
   "name": "RNB X",
   "tracks": [
     {
@@ -5679,6 +5679,24 @@
     },
     {
       "album": {
+        "name": "sounds for someone",
+        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250152,
+      "name": "Honour",
+      "url": "https://open.spotify.com/track/3ZutfABtOFwuY0QTt1QVfi"
+    },
+    {
+      "album": {
         "name": "Hoodie",
         "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
       },
@@ -6508,7 +6526,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 271875,
       "name": "It Depends (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
@@ -9514,7 +9532,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 196270,
       "name": "NOT FAIR",
       "url": "https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW"
@@ -11029,6 +11047,24 @@
     },
     {
       "album": {
+        "name": "sounds for someone",
+        "url": "https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186416,
+      "name": "Reclusive",
+      "url": "https://open.spotify.com/track/2E3c3APiNL1g2syAGwBHCP"
+    },
+    {
+      "album": {
         "name": "Reclusive",
         "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
       },
@@ -11040,7 +11076,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186416,
       "name": "Reclusive",
       "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
@@ -11360,6 +11396,24 @@
       "duration_ms": 177886,
       "name": "Safe (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
+    },
+    {
+      "album": {
+        "name": "Safety",
+        "url": "https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198648,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66"
     },
     {
       "album": {
@@ -12764,7 +12818,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 180312,
       "name": "Sticky Situation",
       "url": "https://open.spotify.com/track/4OiiiFWunEzN8fn0fPmeRN"
@@ -14574,6 +14628,28 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "album": {
+        "name": "Waiting Room (feat. Jordan Ward)",
+        "url": "https://open.spotify.com/album/2vZiDHDvCpRC5VoC3mxNkK"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201854,
+      "name": "Waiting Room (feat. Jordan Ward)",
+      "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
     },
     {
       "album": {

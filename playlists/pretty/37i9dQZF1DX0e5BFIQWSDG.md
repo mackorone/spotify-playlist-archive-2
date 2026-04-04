@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: TOQUEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,103 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,099 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 48 | [Isos Isoun Kiria](https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4) | [Pantelis Pantelidis](https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3) | [Alkoolikes I Nihtes](https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4) | 3:04 |
 | 49 | [Xeiroteri Genia](https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [G.T.K.](https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la) | 3:38 |
 
-Snapshot ID: `AAAAAMv8qr3Foz5da48Xvysxr1P4CkIg`
+Snapshot ID: `AAAAAJrtkp57I6tYyETtlXsDM+CZSQwG`

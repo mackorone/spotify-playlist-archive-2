@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of best Prog Rock tracks\. Cover: Dream Theater
+> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,458 likes - 75 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,509 likes - 75 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 3 | [Objects Outlive Us](https://open.spotify.com/track/1hiuFbjNa7Q0x41EHUfC80) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [The Overview](https://open.spotify.com/album/3xOcExpIWzroZldcdc212q) | 23:19 |
 | 4 | [And You And I \- Live](https://open.spotify.com/track/5ayqc9RuUdYUUunKUaL4b8) | [Jon Anderson](https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u), [The Band Geeks](https://open.spotify.com/artist/5rSLeWi6nL5nfMNFa1vReS) | [And You And I \(Live\)](https://open.spotify.com/album/7dNEhTtxWmtHJNTWc1Liux) | 10:11 |
 | 5 | [Shine On You Crazy Diamond \- Pts\. 1\-9, New Stereo Mix](https://open.spotify.com/track/7Dw4ReVy2jfCQ9lzRoJ0yD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Shine On You Crazy Diamond \(Pts\. 1\-9, New Stereo Mix\)](https://open.spotify.com/album/4B1bOlJb3djUjSzrVYDAkh) | 25:25 |
-| 6 | [Track 1](https://open.spotify.com/track/10VkUmXJ4xPRnZeBvyrfxr) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Echoes](https://open.spotify.com/album/7yt6Mr11bLcISr3nP8Jm1d) | 0:00 |
+| 6 | [Echoes](https://open.spotify.com/track/10VkUmXJ4xPRnZeBvyrfxr) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Echoes](https://open.spotify.com/album/7yt6Mr11bLcISr3nP8Jm1d) | 1:09 |
 | 7 | [Fire in Ice](https://open.spotify.com/track/0SDjOtkzBWn86FgBojqEkQ) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [A Dark Poem, Part II: Sanguis](https://open.spotify.com/album/2GOYCUoz868WL0S3MR3iKZ) | 7:03 |
 | 8 | [Stone Age Tea](https://open.spotify.com/track/0HPegp1poSfXVlBzwsI4aK) | [Djabe](https://open.spotify.com/artist/246dgdCModBl8O3mZI5PNe), [Steve Hackett](https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ) | [Freya Arctic Jam](https://open.spotify.com/album/22aRQppnLVN2GY2UPlDl9h) | 6:46 |
 | 9 | [Comfortably Numb \- Live from the Luck and Strange Concerts](https://open.spotify.com/track/3c4qTWBG92uSqz8oCftVGl) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [The Luck and Strange Concerts](https://open.spotify.com/album/5HZzlB0LevBulZoKZtf4hH) | 8:52 |

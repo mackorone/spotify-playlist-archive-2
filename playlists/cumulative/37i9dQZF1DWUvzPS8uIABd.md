@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-940 songs - 1 day 22 hr 53 min
+940 songs - 1 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Päähenkilö](https://open.spotify.com/track/0GAhnbTVdovWR7jeYtmrba) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Päähenkilö](https://open.spotify.com/album/34LxRQtewXdydBT7d8wa0S) | 2:46 | 2024-11-21 | 2025-01-10 |
 | [Pääs Kii](https://open.spotify.com/track/0cR8kk0BKbJzgNNTEMJjqZ) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Pääs Kii](https://open.spotify.com/album/4BQz5hrEspZCCVBMqM2UAh) | 2:28 | 2024-11-14 | 2025-01-03 |
 | [Päästä varpaisiin](https://open.spotify.com/track/4FbBHuCdza6S4WODZAvaDb) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Keki](https://open.spotify.com/artist/2JQnbpN1Tvt1ew1H9q1qOm), [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [Päästä varpaisiin](https://open.spotify.com/album/47YDU0C9hk5d2rIoziYucD) | 3:19 | 2024-07-18 | 2024-08-23 |
+| [päättyy kyyneliin \(feat\. Tupe.\)](https://open.spotify.com/track/797DCnlbSHSBDT3TVsjuvp) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim), [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [mä oon vaan ihminen](https://open.spotify.com/album/4EYr93p8uqFv6GSkEQAz4v) | 2:41 | 2026-04-02 |  |
 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 | 2025-04-10 | 2025-06-06 |
 | [Radio pois](https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Radio pois](https://open.spotify.com/album/5hLxUUUYRUacrMaIwyOvXN) | 3:18 | 2025-04-03 | 2025-04-18 |
 | [Radio päälle](https://open.spotify.com/track/3BnuOAB4vQY2v7wB2ObAea) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Radio päälle](https://open.spotify.com/album/39ixk01uXbUgwHANdeY0kq) | 2:52 | 2026-01-08 | 2026-03-19 |
@@ -804,7 +805,6 @@
 | [Torille \(Amanda\)](https://open.spotify.com/track/7BI1mKphWiIELK1izr31r0) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Antero Mertaranta](https://open.spotify.com/artist/7k2IjAXssqab7nw3oAR4IH) | [Torille \(Amanda\)](https://open.spotify.com/album/2cYtXm4hUWOnyPYZrPl635) | 3:14 | 2025-04-24 | 2025-05-09 |
 | [Totuus sattuu](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 | 2025-09-26 |  |
 | [Toyboy](https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Toyboy](https://open.spotify.com/album/5m3yIBuAo3v75o0NgSIAMT) | 3:19 | 2025-10-23 | 2025-11-05 |
-| [Track 12](https://open.spotify.com/track/797DCnlbSHSBDT3TVsjuvp) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim) | [mä oon vaan ihminen](https://open.spotify.com/album/4EYr93p8uqFv6GSkEQAz4v) | 0:00 | 2026-04-02 |  |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-08-16 |
 | [Tranquilo](https://open.spotify.com/track/4jhpt0feTOokOBHfpDEtCm) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Tranquilo](https://open.spotify.com/album/6OTS11XRvkTc8eRQQsPzoL) | 3:07 | 2025-06-12 | 2025-08-29 |
 | [Trappist girl \(The night\)](https://open.spotify.com/track/2nCyU8ibpA1iAnRCVb3gs3) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV) | [Trappist girl \(The night\) / AITOMONSTERI](https://open.spotify.com/album/4Vofrrg3JJ7YwKYoggylMh) | 2:48 | 2025-09-18 | 2025-09-27 |

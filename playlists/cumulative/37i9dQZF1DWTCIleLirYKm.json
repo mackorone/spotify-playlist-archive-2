@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "a state of mind.",
+  "description": "a state of mind. Cover: Charley Crockett",
   "name": "Outlaw ",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 189053,
       "name": "16th Avenue",
       "url": "https://open.spotify.com/track/7tvoGy9Ou4Oe0Lu3Mv0WVX"
@@ -56,6 +56,28 @@
       "duration_ms": 177413,
       "name": "25 & Wastin' Time",
       "url": "https://open.spotify.com/track/0tIRswIxHkAXTF0cx2Eodb"
+    },
+    {
+      "album": {
+        "name": "Drought Flower",
+        "url": "https://open.spotify.com/album/6J4n3kDHvxsNrCNh333h7O"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        },
+        {
+          "name": "Zandi Holup",
+          "url": "https://open.spotify.com/artist/4nDqdCi31TxVG3j6cyMQtR"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199477,
+      "name": "A Town Near You",
+      "url": "https://open.spotify.com/track/3ajE00W2FzyPDWQqtV0lCJ"
     },
     {
       "album": {
@@ -310,7 +332,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 220796,
       "name": "Bonfire At Tina's",
       "url": "https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z"
@@ -1541,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Age of the Ram",
+        "url": "https://open.spotify.com/album/7qSbOinSadHKhs2OkjKvEP"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200446,
+      "name": "My Last Drink Of Wine",
+      "url": "https://open.spotify.com/track/3z5cIlHXa47eaa905sxo7Q"
+    },
+    {
+      "album": {
         "name": "Poets & Old Souls",
         "url": "https://open.spotify.com/album/6fN2WnQAXBxcV3cuRiGCh6"
       },
@@ -1834,7 +1874,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 283146,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/6XHJItDN9BGgMmaAAdvMZ9"
@@ -2062,6 +2102,24 @@
       "duration_ms": 280072,
       "name": "Tecumseh Valley",
       "url": "https://open.spotify.com/track/7eby7k1AaLr3YT8z9wE996"
+    },
+    {
+      "album": {
+        "name": "Book of Paul",
+        "url": "https://open.spotify.com/album/7uaR8wefw8pU4eYJh0jMr2"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155300,
+      "name": "Texas Gravel Road",
+      "url": "https://open.spotify.com/track/3VAb4wHuKb1GrTDOXpRNYT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-575 songs - 1 day 21 hr 56 min
+577 songs - 1 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Niffler](https://open.spotify.com/track/1UgC3l3kRvZSj1l94QnJ8b) | [Yilan](https://open.spotify.com/artist/7o1UX2zZS5cu7uwcQ5hVao), [Ren](https://open.spotify.com/artist/7J5Y3wpzYedPu0w7ZMrKgw) | [Suddenly I Am Falling](https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN) | 6:27 | 2021-10-06 | 2025-06-07 |
 | [Night Truths](https://open.spotify.com/track/1adKxjTGjk9h001b9WYLzD) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [Night Truths](https://open.spotify.com/album/2y3EuqREWThOAm8wSTeEPA) | 7:08 | 2026-01-16 |  |
 | [NLL561606933](https://open.spotify.com/track/1sxkvvUTGKcRoY3IYnKyRb) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Simulation](https://open.spotify.com/album/542oFPILAI1UiGnoHH8XyH) | 4:54 | 2021-10-06 | 2025-07-17 |
+| [No One Knows \- Mount XLR Remix](https://open.spotify.com/track/0YIdpQJvaY1AMhd9kQMxMp) | [Swoush](https://open.spotify.com/artist/2eFQDzvOlswU3yO7GTcoEm), [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [2FEET//IN \(Remixes\)](https://open.spotify.com/album/6A1svxcwCADA9iIQ1IR6da) | 4:18 | 2026-04-03 |  |
 | [No Pills U](https://open.spotify.com/track/7qqXGvIXJeQopPy8wAq2X2) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Steep Stims](https://open.spotify.com/album/0zL30K7hlasu2LygmuK5EA) | 2:13 | 2025-11-07 |  |
 | [Noise and Chaos](https://open.spotify.com/track/4Mj4o0nMhfznMyz9BqvIja) | [Motoki Hada](https://open.spotify.com/artist/32xdvQZnvp4noPsOArCpAI) | [Noise and Chaos](https://open.spotify.com/album/7uvU39cAr6tYbO72j3EGY9) | 5:46 | 2026-02-27 |  |
 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 | 2023-03-28 | 2025-06-21 |
@@ -346,6 +347,7 @@
 | [Odyssey](https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [El Caso Figo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/75YNOhNpjEsAG4ktyJjqLy) | 4:41 | 2022-08-31 | 2025-08-23 |
 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 | 2022-09-27 | 2025-07-17 |
 | [Old Organs](https://open.spotify.com/track/2ZtCst2Z5UNpMmTvqGPfT0) | [Tangents](https://open.spotify.com/artist/76rNPeXwFcvii9vnKMDnn0) | [Old Organs](https://open.spotify.com/album/2eM78Bk4UTo4eNbSj3RArV) | 6:35 | 2021-10-06 | 2025-07-17 |
+| [One Day \- Polygonia Remix](https://open.spotify.com/track/0IRh622wqPUllaAb74TEbO) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA), [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [One Day \(Polygonia Remix\)](https://open.spotify.com/album/2OTDiJyHtlGAFfr03R1wHD) | 5:29 | 2026-04-03 |  |
 | [Onyx](https://open.spotify.com/track/5FBtKWOHXlTbbrV8r86yDt) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Onyx](https://open.spotify.com/album/55xrsiUHPKRdZT4SMLqz0O) | 4:11 | 2023-10-13 | 2025-08-28 |
 | [Opak](https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Opak](https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz) | 5:37 | 2023-03-31 | 2023-05-24 |
 | [Opak](https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Verve EP](https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2) | 5:37 | 2023-03-31 | 2025-04-26 |
@@ -401,7 +403,7 @@
 | [Roaming](https://open.spotify.com/track/5q8EX29mKKA3epupwlxR64) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Roaming](https://open.spotify.com/album/6Ks5xAWcNa0hEfhdGriVI9) | 4:50 | 2021-10-06 | 2025-07-17 |
 | [Roaming](https://open.spotify.com/track/7t4uL4L6vYw2IpT8FGRodQ) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [On Hold](https://open.spotify.com/album/585bbNLL4KitR1jNWXvRxL) | 4:50 | 2021-10-06 | 2022-09-01 |
 | [Rodl Glide](https://open.spotify.com/track/3WJvzobOaCnAUlI7KsTP2W) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Rodl Glide](https://open.spotify.com/album/2tYX2ycoyGDBpsAcg409SC) | 6:05 | 2025-11-21 | 2026-03-07 |
-| [Roll 5321](https://open.spotify.com/track/2UZEdOZTpxTwJRXclZTHaj) | [lynyn](https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8) | [Ixona](https://open.spotify.com/album/3mA95rn89cJZdMsqDxUr5c) | 4:32 | 2025-09-15 |  |
+| [Roll 5321](https://open.spotify.com/track/2UZEdOZTpxTwJRXclZTHaj) | [lynyn](https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8) | [Ixona](https://open.spotify.com/album/3mA95rn89cJZdMsqDxUr5c) | 4:32 | 2025-09-15 | 2026-04-04 |
 | [Roses](https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Translate](https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od) | 1:48 | 2021-10-06 | 2025-07-17 |
 | [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 | 2021-10-06 | 2025-07-17 |
 | [Rotterdambi](https://open.spotify.com/track/7amYhgypF2tsCax09u80oF) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 2:17 | 2022-03-30 | 2025-07-17 |
@@ -547,7 +549,7 @@
 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 | 2021-10-06 | 2025-06-07 |
 | [Was Du Suchst](https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3) | [Was Du Suchst](https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc) | 7:30 | 2023-03-03 | 2025-07-26 |
 | [Waterways](https://open.spotify.com/track/0cn24Uv7Za2OJ9kAcmrwqA) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [A Rhythm Protects One](https://open.spotify.com/album/66anS96MISnHJV4K5H2y7M) | 8:25 | 2025-11-03 | 2026-03-19 |
-| [wavebeats \- dub](https://open.spotify.com/track/3OkRcIPK4wQwyHKShEncvp) | [Musicentrydelete](https://open.spotify.com/artist/1LM4iUWXAb1ZocvlVOAR7i) | [Selfless](https://open.spotify.com/album/5zZleQTvgmrr10C0KxhUMD) | 5:34 | 2025-11-28 |  |
+| [wavebeats \- dub](https://open.spotify.com/track/3OkRcIPK4wQwyHKShEncvp) | [Musicentrydelete](https://open.spotify.com/artist/1LM4iUWXAb1ZocvlVOAR7i) | [Selfless](https://open.spotify.com/album/5zZleQTvgmrr10C0KxhUMD) | 5:34 | 2025-11-28 | 2026-04-04 |
 | [Waxcap](https://open.spotify.com/track/4EqJGKB8ptzxBbbwFimdI3) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Under Tangled Silence](https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea) | 5:10 | 2025-11-30 |  |
 | [We Are All We Have](https://open.spotify.com/track/0NJHoc8onewG1Pr4mDJdwn) | [Anodyne](https://open.spotify.com/artist/46HAZTDJXaXL5dS9D5Jlwp) | [Decayed](https://open.spotify.com/album/18AMIcRykPQMNwQaBeca0a) | 6:24 | 2021-10-06 | 2022-07-27 |
 | [Weather the Storm](https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Weather the Storm](https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm) | 4:36 | 2021-10-06 | 2024-04-19 |

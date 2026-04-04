@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAACQK2Fafliby4zwMIvaxtAs",
+  "snapshot_id": "ac2xgAAAAADMAegP28pZ8NJzr5O3pHzZ",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 151053,
+      "name": "same squad",
+      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue Hunnids (feat. P-Lo) - Single",
         "url": "https://open.spotify.com/album/5PYpthagjwOjL17AqVxbKq"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 196905,
       "name": "Blue Hunnids",
       "url": "https://open.spotify.com/track/2BFeLCEDQBecReNuLbOHoQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 151053,
-      "name": "same squad",
-      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going To Work - Single",
+        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 197187,
+      "name": "Going To Work",
+      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kaseya",
         "url": "https://open.spotify.com/album/4OdeR2lheGeHaYOR8Mvnwn"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 143551,
       "name": "Kaseya",
       "url": "https://open.spotify.com/track/5ZZDpzdRyNC4fPdLXNwqfR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going To Work - Single",
-        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 197187,
-      "name": "Going To Work",
-      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
     },
     {
       "added_at": null,

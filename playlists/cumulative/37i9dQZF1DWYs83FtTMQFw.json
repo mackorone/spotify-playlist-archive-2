@@ -17108,7 +17108,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 156734,
       "name": "Last Drink",
       "url": "https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj"
@@ -20641,6 +20641,28 @@
     },
     {
       "album": {
+        "name": "SAME DIFFERENCE",
+        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206467,
+      "name": "MURAL (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/6mIiV28R5NjFBuSo31u2ER"
+    },
+    {
+      "album": {
         "name": "Murda",
         "url": "https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk"
       },
@@ -22146,7 +22168,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 211717,
       "name": "No Sharing (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
@@ -23880,7 +23902,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 167355,
       "name": "PARTYGYAL",
       "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
@@ -31125,6 +31147,28 @@
     },
     {
       "album": {
+        "name": "SAME DIFFERENCE",
+        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221354,
+      "name": "TAKE MY HEART (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5PLyTVY0zbqbJ2xiuxnpZ0"
+    },
+    {
+      "album": {
         "name": "Take My Life",
         "url": "https://open.spotify.com/album/50Ty1TpXpImACj1vL09dlc"
       },
@@ -31410,6 +31454,28 @@
       "duration_ms": 150651,
       "name": "TaTaTa (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
+    },
+    {
+      "album": {
+        "name": "TEACH YOU HOW TO LUH ME",
+        "url": "https://open.spotify.com/album/7DQF3OuLxkjvqDvzS1tBM5"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "TEACH YOU HOW TO LUH ME",
+      "url": "https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp"
     },
     {
       "album": {

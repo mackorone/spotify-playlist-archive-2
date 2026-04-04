@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷 La Furia del Bravo en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,372 likes - 78 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,390 likes - 78 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

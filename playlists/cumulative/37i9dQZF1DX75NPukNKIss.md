@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Cover: Don Toliver
 
-160 songs - 7 hr 24 min
+161 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Simone Biles \(feat\. LouGotCash\)](https://open.spotify.com/track/1sAswL8NGPFG4DHRnyTmGq) | [Leaf](https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Dreamgirl Deluxe](https://open.spotify.com/album/7JSMM5TyVzf3EMIBAGyCbK) | 2:19 | 2024-12-10 |  |
 | [Slizzy Flow](https://open.spotify.com/track/4bb24qJy1jwBwvHCe6bOyA) | [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Sexy Driller](https://open.spotify.com/album/4Lqc8XJpSSgvR0qoAu0K4g) | 2:29 | 2024-11-22 | 2025-10-11 |
 | [slizzyhunchodon \(feat\. Quavo & Don Toliver\)](https://open.spotify.com/track/4P3s7E8Qq0D6sjfqiy7TxJ) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 3:24 | 2024-10-25 | 2025-08-30 |
+| [So What Now](https://open.spotify.com/track/0rh6u2BWnjGaV4Z9Ow7Mpl) | [Reese LAFLARE](https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [So What Now](https://open.spotify.com/album/1L3fRGWg6v9yVQIzRuJM2Q) | 2:25 | 2026-04-03 |  |
 | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a) | 2:22 | 2025-08-29 |  |
 | [Sum'n Serious](https://open.spotify.com/track/1PHUD5Rt2q5ImvEBT4binc) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Hope She Hears This](https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW) | 2:17 | 2025-05-09 |  |
 | [SUMN PRETTY](https://open.spotify.com/track/6mMePkdSUNhOw8NexGiKFb) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [SUMN PRETTY](https://open.spotify.com/album/2ns4KibYyQnqiq1Eb7Garn) | 2:38 | 2024-10-25 |  |

@@ -707,6 +707,28 @@
     },
     {
       "album": {
+        "name": "Beautiful (with Joji)",
+        "url": "https://open.spotify.com/album/2CpahiICjXexEynp7scGe4"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215433,
+      "name": "Beautiful (with Joji)",
+      "url": "https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"
+    },
+    {
+      "album": {
         "name": "Bloodflame EP",
         "url": "https://open.spotify.com/album/2sX5EyFBtC1m0t2aSQlVZQ"
       },
@@ -948,6 +970,24 @@
       "duration_ms": 219047,
       "name": "Can You Feel It - Extended Mix",
       "url": "https://open.spotify.com/track/2tZmp9oqmWO07SVm3yN42H"
+    },
+    {
+      "album": {
+        "name": "Shepherd Moons",
+        "url": "https://open.spotify.com/album/6ZuPbMe6CvQKl1nvAy0nZm"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239586,
+      "name": "Caribbean Blue - 2009 Remaster",
+      "url": "https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk"
     },
     {
       "album": {
@@ -1413,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Crew",
+        "url": "https://open.spotify.com/album/3GrTuqiSNffx6e2sPdX8Uu"
+      },
+      "artists": [
+        {
+          "name": "HIGHLITE",
+          "url": "https://open.spotify.com/artist/5JLz9lhEIydGByUE1BZ5Bl"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230365,
+      "name": "Crew",
+      "url": "https://open.spotify.com/track/3f6YkXdCnCqs9vlUjUCwFo"
+    },
+    {
+      "album": {
         "name": "Healers Vol. 1",
         "url": "https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8"
       },
@@ -1866,7 +1924,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 152307,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1z6KDSVHP7QnNVCk2ZWcFQ"
@@ -2402,7 +2460,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 182884,
       "name": "First Time",
       "url": "https://open.spotify.com/track/1zFxisGM5LiotnMAgOTktY"
@@ -2476,6 +2534,28 @@
       "duration_ms": 159375,
       "name": "Fortuna (feat. Sevdaliza)",
       "url": "https://open.spotify.com/track/5pAmSfN53jyhPTDA0pvoCO"
+    },
+    {
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "album": {
@@ -2772,7 +2852,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 299728,
       "name": "Giza",
       "url": "https://open.spotify.com/track/0pl1A2U93iB8Y3HQ52WAgJ"
@@ -3615,6 +3695,24 @@
     },
     {
       "album": {
+        "name": "Seoul Bizarre",
+        "url": "https://open.spotify.com/album/3NDJ5uQQP5NYUmO9D7DgEj"
+      },
+      "artists": [
+        {
+          "name": "NECTA",
+          "url": "https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/4rYTg8mW6aGhJqZ070nyGx"
+    },
+    {
+      "album": {
         "name": "Land Of Heroes",
         "url": "https://open.spotify.com/album/4PEEAEwfRHYm6G623lwyhC"
       },
@@ -3805,6 +3903,36 @@
     },
     {
       "album": {
+        "name": "LET\u2019S GO",
+        "url": "https://open.spotify.com/album/1RhIFDYkjFE3cmZjcpbWFZ"
+      },
+      "artists": [
+        {
+          "name": "Tri/xon",
+          "url": "https://open.spotify.com/artist/7oFpeew5rSVQEUDcJ9y4F5"
+        },
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+        },
+        {
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        },
+        {
+          "name": "AUNTY RAYZOR",
+          "url": "https://open.spotify.com/artist/2Fn2ztLqyHRiJw53gXonuz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308315,
+      "name": "LET\u2019S GO",
+      "url": "https://open.spotify.com/track/3D5MnblL7m51JM4JHWcSts"
+    },
+    {
+      "album": {
         "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
         "url": "https://open.spotify.com/album/7xCa8dTNt8T0y3opjZK9ir"
       },
@@ -3904,7 +4032,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 194298,
       "name": "Love Hurt (feat. Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/24gsTM4mbRpRUoQgzax5iE"
@@ -4311,6 +4439,24 @@
     },
     {
       "album": {
+        "name": "That Total Age",
+        "url": "https://open.spotify.com/album/7wm0bknBmCO7Ienh7plPz4"
+      },
+      "artists": [
+        {
+          "name": "Nitzer Ebb",
+          "url": "https://open.spotify.com/artist/7EnAgffrVyerTWH628TJ6f"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305333,
+      "name": "Murderous - Instrumental",
+      "url": "https://open.spotify.com/track/2vs6zWOvp2jaOy2jNvxZk2"
+    },
+    {
+      "album": {
         "name": "My City's On Fire (Anyma & Cassian Remix)",
         "url": "https://open.spotify.com/album/7CrZ3IMVHng3uOXib7KFNU"
       },
@@ -4400,7 +4546,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 228750,
       "name": "Neo-Consciousness",
       "url": "https://open.spotify.com/track/33BoAepgYmpGoUIDALYtXo"
@@ -4532,7 +4678,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 181335,
       "name": "Neverland (From Japan) - HNTR Remix",
       "url": "https://open.spotify.com/track/2nPheWGaaYy9lsa5BPNr70"
@@ -4632,6 +4778,28 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
+    },
+    {
+      "album": {
+        "name": "No Hesitating (Max Dean Remix)",
+        "url": "https://open.spotify.com/album/1awnJYspbXb7Ge3hNDX0QK"
+      },
+      "artists": [
+        {
+          "name": "Joe Rol\u00e9t",
+          "url": "https://open.spotify.com/artist/3ASuunCWWOrj4XX3ZMeA6o"
+        },
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195243,
+      "name": "No Hesitating - Max Dean Remix",
+      "url": "https://open.spotify.com/track/4KlPVsyFKD3iUN3wzTu4eU"
     },
     {
       "album": {
@@ -4764,6 +4932,24 @@
       "duration_ms": 282191,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/7AsIHUJdG9CN7KXmYXUoON"
+    },
+    {
+      "album": {
+        "name": "Not Going Home",
+        "url": "https://open.spotify.com/album/5xmMohRmdN6r1DnOcnqNFC"
+      },
+      "artists": [
+        {
+          "name": "Rex The Dog",
+          "url": "https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209849,
+      "name": "Not Going Home",
+      "url": "https://open.spotify.com/track/0IZVjZNdDhjb1pXydPA6AU"
     },
     {
       "album": {
@@ -4956,6 +5142,32 @@
       "duration_ms": 214783,
       "name": "On The Low",
       "url": "https://open.spotify.com/track/1p4NbbxsvCLS7lE7NHBDO8"
+    },
+    {
+      "album": {
+        "name": "One More (feat. Ad-Apt) [Solomun Remix]",
+        "url": "https://open.spotify.com/album/0hWY6l251EFihf31JPnSbd"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Ad-Apt",
+          "url": "https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "One More (feat. Ad-Apt) - Solomun Remix",
+      "url": "https://open.spotify.com/track/7hOwCb0vcnpNRBQUoI5smE"
     },
     {
       "album": {
@@ -5857,6 +6069,24 @@
     },
     {
       "album": {
+        "name": "Kittenz And Thee Glitz",
+        "url": "https://open.spotify.com/album/3KuCjpjClMiEVZOK3N5yhR"
+      },
+      "artists": [
+        {
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280653,
+      "name": "Silver Screen (Shower Scene)",
+      "url": "https://open.spotify.com/track/65EBIxct6KqP1Tm5jrOzex"
+    },
+    {
+      "album": {
         "name": "Simulation",
         "url": "https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V"
       },
@@ -5920,7 +6150,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 173333,
       "name": "Simulation - Script Remix",
       "url": "https://open.spotify.com/track/0xyM1uWbjbreCxf3wG8VRW"
@@ -6792,6 +7022,24 @@
       "duration_ms": 359032,
       "name": "Tokyo Nights",
       "url": "https://open.spotify.com/track/5Qnlnqiq360QFO852tbYr0"
+    },
+    {
+      "album": {
+        "name": "Tranquilizer 2.0",
+        "url": "https://open.spotify.com/album/7bNIaugC1V2faSkAS23wnZ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Huntemann",
+          "url": "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438862,
+      "name": "Tranquilizer",
+      "url": "https://open.spotify.com/track/3FFASCZup9WBF9ENFg7RIr"
     },
     {
       "album": {

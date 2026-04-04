@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 85033,
+  "num_followers": 85066,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -403,46 +403,6 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "HOW FAR / SHIMA II",
-        "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
-      },
-      "artists": [
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        },
-        {
-          "name": "Ayjay bobo",
-          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
-        },
-        {
-          "name": "Monochrome",
-          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
-        }
-      ],
-      "duration_ms": 163327,
-      "name": "HOW FAR",
-      "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Porom Po",
-        "url": "https://open.spotify.com/album/2oZOfzUL66QT9eKUYZPlrv"
-      },
-      "artists": [
-        {
-          "name": "Logos olori",
-          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Porom Po",
-      "url": "https://open.spotify.com/track/2PloRGdzL1nJlxYZAfVRwL"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
         "name": "JUJU (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
       },
@@ -467,8 +427,24 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+        "name": "Porom Po",
+        "url": "https://open.spotify.com/album/2oZOfzUL66QT9eKUYZPlrv"
+      },
+      "artists": [
+        {
+          "name": "Logos olori",
+          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Porom Po",
+      "url": "https://open.spotify.com/track/2PloRGdzL1nJlxYZAfVRwL"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
       "artists": [
         {
@@ -476,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 151282,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
+      "duration_ms": 119954,
+      "name": "HAPPY SONG",
+      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -499,6 +475,30 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "HOW FAR / SHIMA II",
+        "url": "https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        },
+        {
+          "name": "Ayjay bobo",
+          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
+        },
+        {
+          "name": "Monochrome",
+          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
+        }
+      ],
+      "duration_ms": 163327,
+      "name": "HOW FAR",
+      "url": "https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 151282,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "Feel D Mood",
         "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 133172,
       "name": "Feel D Mood",
       "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 119954,
-      "name": "HAPPY SONG",
-      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Kese (Dance)",
-        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
         "name": "Kowope",
         "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Ikeja (No Go Thief)",
-        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+        "name": "Kese (Dance)",
+        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
       },
       "artists": [
         {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 116585,
-      "name": "Ikeja (No Go Thief)",
-      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -903,22 +887,6 @@
       "duration_ms": 179478,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
-      },
-      "artists": [
-        {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -943,6 +911,38 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
+        "name": "Ikeja (No Go Thief)",
+        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+      },
+      "artists": [
+        {
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+        }
+      ],
+      "duration_ms": 116585,
+      "name": "Ikeja (No Go Thief)",
+      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "Holiday / Reason You",
+        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "Jujupiano La Presido",
         "url": "https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 129231,
       "name": "Jujupiano",
       "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "Hi Hi",
         "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 135941,
       "name": "Hi Hi",
       "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Marhaba X We Must",
-        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 143187,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     }
   ],
   "unique_name": "Keep Fit Club ",

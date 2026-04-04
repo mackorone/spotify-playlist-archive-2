@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Emily A. Sprague",
-  "num_followers": 137382,
+  "num_followers": 137412,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADZjEmnczDEU1X4koVG3zIq5O9Ob",
+  "snapshot_id": "AAAAAE8UzHOchwGqoueMiF4WT0eXK10/",
   "tracks": [
     {
       "added_at": "2026-03-27 04:00:15",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "Exuvie",
-        "url": "https://open.spotify.com/album/5h9qY2VdgrO5zqZW0KB4OR"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9mi B\u00fcchi",
-          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
-        }
-      ],
-      "duration_ms": 230377,
-      "name": "beneath form",
-      "url": "https://open.spotify.com/track/00Yaz5X0kVZgjLOulCOc79"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "Vil'na",
         "url": "https://open.spotify.com/album/5QAfFgm7Tyh0LSEZXii909"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 284219,
       "name": "Anti-Drone Nets",
       "url": "https://open.spotify.com/track/0VzpuT3BU5QRvNzeO8rPES"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "Exuvie",
+        "url": "https://open.spotify.com/album/5h9qY2VdgrO5zqZW0KB4OR"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9mi B\u00fcchi",
+          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
+        }
+      ],
+      "duration_ms": 230377,
+      "name": "beneath form",
+      "url": "https://open.spotify.com/track/00Yaz5X0kVZgjLOulCOc79"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -619,6 +619,26 @@
       "duration_ms": 447000,
       "name": "25\u00b0C",
       "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "A Second is a Choir",
+        "url": "https://open.spotify.com/album/3tock7ZWYnbWqpUPoKCQwV"
+      },
+      "artists": [
+        {
+          "name": "Hara Alonso",
+          "url": "https://open.spotify.com/artist/4eQRBa0rDiIn1qsWegcM1i"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "A Second is a Choir",
+      "url": "https://open.spotify.com/track/6VLtQ4xqnSwrnVGxF3Iedf"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -671,26 +691,6 @@
       "duration_ms": 312000,
       "name": "Film Still / The Sea",
       "url": "https://open.spotify.com/track/7pDwKh76SxyY1t8a1i0nE6"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
-        "name": "A Second is a Choir",
-        "url": "https://open.spotify.com/album/3tock7ZWYnbWqpUPoKCQwV"
-      },
-      "artists": [
-        {
-          "name": "Hara Alonso",
-          "url": "https://open.spotify.com/artist/4eQRBa0rDiIn1qsWegcM1i"
-        },
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "A Second is a Choir",
-      "url": "https://open.spotify.com/track/6VLtQ4xqnSwrnVGxF3Iedf"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "Remind Me",
-        "url": "https://open.spotify.com/album/1XGhHihPW7J6V7Qeq303tL"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Remind Me",
-      "url": "https://open.spotify.com/track/6tWdCTHBtHUddPpgsA3iIm"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "Collected Pieces",
         "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 628736,
       "name": "Wawa by the Ocean",
       "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "Remind Me",
+        "url": "https://open.spotify.com/album/1XGhHihPW7J6V7Qeq303tL"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/6tWdCTHBtHUddPpgsA3iIm"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -1471,38 +1471,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "Promenades",
-        "url": "https://open.spotify.com/album/5SDFUtPuM3zHvutKLcnuDT"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/2a7P09jAVSEpktnyAEI4co"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
-        "name": "I'll Look For You In Others",
-        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 393479,
-      "name": "I'll Look for You in Others",
-      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
       },
@@ -1523,6 +1491,22 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
+        "name": "Promenades",
+        "url": "https://open.spotify.com/album/5SDFUtPuM3zHvutKLcnuDT"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/2a7P09jAVSEpktnyAEI4co"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
         "name": "mountain ascent at dusk",
         "url": "https://open.spotify.com/album/6EYbmOuioST5WE5u1S4wdD"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 391020,
       "name": "mountain ascent at dusk",
       "url": "https://open.spotify.com/track/1rStT63qB57xnAGY8GmSEF"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "I'll Look For You In Others",
+        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 393479,
+      "name": "I'll Look for You in Others",
+      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
-        "name": "T\u1ebft 41",
-        "url": "https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319554,
-      "name": "Gi\u00f3",
-      "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
         "name": "One Universal Breath",
         "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 277333,
       "name": "Lift Hands",
       "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
+        "name": "T\u1ebft 41",
+        "url": "https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319554,
+      "name": "Gi\u00f3",
+      "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
     },
     {
       "added_at": "2026-03-27 04:00:15",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2026-03-27 04:00:15",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/14Bw4U2d0aDlOS1pw4B2lR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "duration_ms": 80968,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"
+    },
+    {
+      "added_at": "2026-03-27 04:00:15",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/3A908hjy2xnvD9DuoF9t3j"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
-    },
-    {
-      "added_at": "2026-03-27 04:00:15",
-      "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     }
   ],
   "unique_name": "Women of Ambient",

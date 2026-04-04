@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-328 songs - 16 hr 56 min
+329 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Close To You](https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Close To You](https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM) | 3:23 | 2023-08-11 | 2023-10-11 |
 | [Closer](https://open.spotify.com/track/4dibWyQq6IHkuelC7aDSSP) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Closer](https://open.spotify.com/album/1PdOw0ls6KvOwLAWImZKef) | 2:04 | 2024-06-07 | 2024-08-18 |
 | [Come On Baddie Let's Go Party](https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Come On Baddie Let's Go Party](https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2) | 2:33 | 2025-02-14 |  |
+| [Coming In Heavy](https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Coming In Heavy](https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY) | 3:51 | 2026-04-03 |  |
 | [Concentrate](https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Concentrate](https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP) | 2:43 | 2024-05-17 | 2024-05-25 |
 | [Convivium](https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Convivium](https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv) | 2:13 | 2024-04-26 | 2024-08-17 |
 | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ) | 2:25 | 2024-06-07 |  |
@@ -152,7 +153,7 @@
 | [Just dance](https://open.spotify.com/track/4gzQJJ3rjXmnL0UhO8D29D) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1) | [Just dance](https://open.spotify.com/album/06XogB5Kpx7rRWMkGUhH0z) | 2:16 | 2025-10-24 | 2025-12-08 |
 | [Killa](https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Killa](https://open.spotify.com/album/7KBpd01fC9KhsxYDDmrXbB) | 5:34 | 2024-04-19 | 2024-08-26 |
 | [King Of My Castle](https://open.spotify.com/track/10KGEuBsD3RwUESCQsNabH) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB) | [King Of My Castle](https://open.spotify.com/album/08Cco6fITT6Z0SayN1u9pp) | 2:17 | 2024-03-08 | 2024-04-09 |
-| [Komodo](https://open.spotify.com/track/1ABRhft3atwd5itDELR0jD) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/1K4UbTRjbfTUR0Xh7NdRjy) | 3:21 | 2025-08-15 |  |
+| [Komodo](https://open.spotify.com/track/1ABRhft3atwd5itDELR0jD) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/1K4UbTRjbfTUR0Xh7NdRjy) | 3:21 | 2025-08-15 | 2026-04-04 |
 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 | 2023-09-08 | 2024-08-01 |
 | [Konye](https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Konye](https://open.spotify.com/album/5oFI4EwwA2PTziier9QY8z) | 2:44 | 2024-02-02 |  |
 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 | 2024-05-17 |  |

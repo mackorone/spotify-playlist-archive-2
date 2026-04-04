@@ -4,7 +4,7 @@
 
 > Perfect dinner playlist \| soulful music
 
-187 songs - 10 hr 46 min
+190 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Before You \- Acoustic](https://open.spotify.com/track/7IZUlRINfs6ggjYVW5ZZ1K) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Before You \(Acoustic\)](https://open.spotify.com/album/2h7DUSd7QzAsb6BYulrEAj) | 2:40 | 2025-07-16 | 2025-10-10 |
 | [Better Than Ever](https://open.spotify.com/track/2dm8fMEai4Q3CeTy46Wc8c) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Better Than Ever](https://open.spotify.com/album/3BiU05A1UuTOkcbIxltOPZ) | 3:06 | 2025-10-30 |  |
 | [Better Than Me](https://open.spotify.com/track/1t4KSsNCzrOT06Jm6aHuMA) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [More Moore Mixtape](https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av) | 3:45 | 2025-07-16 | 2025-09-16 |
-| [Black Magic](https://open.spotify.com/track/6atKugO0itgKT1S6Ty13XO) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [Cosmic Gold](https://open.spotify.com/album/57nFnn7qbMP2TD72wZuMBH) | 4:54 | 2025-07-16 |  |
+| [Black Magic](https://open.spotify.com/track/6atKugO0itgKT1S6Ty13XO) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [Cosmic Gold](https://open.spotify.com/album/57nFnn7qbMP2TD72wZuMBH) | 4:54 | 2025-07-16 | 2026-04-04 |
 | [Brand New Shoes](https://open.spotify.com/track/1aFglbwd4QJvUki3PGvKez) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Frou\-Frou](https://open.spotify.com/album/59uzeboKsP7t8MA7EnMPhe) | 3:42 | 2025-07-16 |  |
 | [Breathe](https://open.spotify.com/track/3exG2ufmyQlo2myNhMtFKo) | [Darlyn](https://open.spotify.com/artist/6epX2aWpqv4aTiL1bu4Na8) | [Breathe](https://open.spotify.com/album/6yZt8iJlMkF8JXTi8cGeiz) | 3:23 | 2025-07-16 | 2025-09-16 |
 | [Breathe Deep](https://open.spotify.com/track/5btaMofKOTnk47EEvotbVI) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [Breathe Deep](https://open.spotify.com/album/6oRgYfOjA2kDIVHZKeFNgd) | 3:44 | 2025-09-18 |  |
@@ -50,6 +50,7 @@
 | [End Of Me](https://open.spotify.com/track/2n6LotLcjjyG9NjNiypuxA) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [End Of Me](https://open.spotify.com/album/48HxShceUcdOOEWzX1uQBy) | 3:52 | 2025-10-17 |  |
 | [End of Time](https://open.spotify.com/track/2ue3TmvamovoPGDywzzYSj) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:46 | 2025-12-11 |  |
 | [Exile](https://open.spotify.com/track/5uVQDpZ8QBy5gBAxXTufHN) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Exile](https://open.spotify.com/album/41gsdwJILd5NLUgFvhjXl5) | 4:33 | 2025-07-16 | 2025-09-16 |
+| [Eyes On The Prize](https://open.spotify.com/track/1aVtm49BlMKcpOwaZM1FkX) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Eyes On The Prize](https://open.spotify.com/album/2JxdgGAnXfu3r6OH3xh0L1) | 3:12 | 2026-04-03 |  |
 | [Faith](https://open.spotify.com/track/2E4ImcUM9GrVevTrs3AqXI) | [More Ease](https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk) | [Faith](https://open.spotify.com/album/6mUtkNsbNHsMszmKpCoCZU) | 2:28 | 2025-07-16 | 2025-10-22 |
 | [Familiar Love \- Radio Edit](https://open.spotify.com/track/2sFw1i3lq7fUV7LdDoxXFU) | [Boogie Monster](https://open.spotify.com/artist/7f0mZeCsi8b1qMvMre72t4) | [Familiar Love](https://open.spotify.com/album/6IZ0UereWBxasy0E8S31N3) | 4:38 | 2025-07-16 | 2025-09-16 |
 | [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 | 2025-07-16 | 2026-01-16 |
@@ -104,6 +105,7 @@
 | [Mama Mia](https://open.spotify.com/track/4sDa4HFEVH2oqU98lJl14U) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Mama Mia](https://open.spotify.com/album/2mwppwDWQZRnyYL1AOM2OF) | 3:17 | 2025-07-16 |  |
 | [Memories](https://open.spotify.com/track/64ozgxrJ6rB3XEkzTL1oKo) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Memories](https://open.spotify.com/album/0WifEqnVNOXCDHGvSAbu4m) | 3:21 | 2025-07-16 | 2025-12-12 |
 | [Messy](https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS) | 4:44 | 2025-07-16 | 2026-02-04 |
+| [Messy](https://open.spotify.com/track/2RpUKNvbof9j97R7cvrT0Y) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Messy](https://open.spotify.com/album/2eZV5EjQQCWBgLulYgyMN5) | 3:15 | 2026-04-03 |  |
 | [Midnight Oil](https://open.spotify.com/track/4sTNEvndN8GJONJmbCRpuo) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Midnight Oil](https://open.spotify.com/album/1MnuQFfuMKUMHIphojuo9J) | 3:34 | 2025-07-16 |  |
 | [Miracle](https://open.spotify.com/track/2oU6JanR9OZ36p5AxHZaFS) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Miracle](https://open.spotify.com/album/5N41lN5HvoIPHYHkNxHroe) | 3:49 | 2025-09-01 |  |
 | [Misread](https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:08 | 2025-07-16 | 2025-10-22 |
@@ -143,7 +145,7 @@
 | [Simple Life](https://open.spotify.com/track/0whsD2YBS4Fhp0hft70Uls) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Simple Life](https://open.spotify.com/album/6laHWUm4LQpTPcHUa4YraE) | 1:33 | 2025-09-10 |  |
 | [Sinking Like a Stone](https://open.spotify.com/track/12OOKJeLg0Vd28oQii9UvY) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Sinking Like a Stone](https://open.spotify.com/album/4dvpeRYEohWv3OyrUXSOxu) | 2:45 | 2025-07-16 | 2025-10-22 |
 | [Slow Show](https://open.spotify.com/track/6vmvNj64lOYWs3Vs4vZbgv) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pG7mDkQhia2OyGE6fbkmJ) | 4:08 | 2025-07-16 | 2025-08-29 |
-| [Slowdown](https://open.spotify.com/track/47B6p4D2mzd0WJbtmy9QjW) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Slowdown](https://open.spotify.com/album/0dwNJ0jDiJuHbMrwzJwxwm) | 4:07 | 2025-07-16 |  |
+| [Slowdown](https://open.spotify.com/track/47B6p4D2mzd0WJbtmy9QjW) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Slowdown](https://open.spotify.com/album/0dwNJ0jDiJuHbMrwzJwxwm) | 4:07 | 2025-07-16 | 2026-04-04 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-30 |  |
 | [So Over Lust](https://open.spotify.com/track/5vSGrRXwcAvxmgtYczjMum) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [So Over Lust](https://open.spotify.com/album/4qiojveUrqcwxYQCf5ijWl) | 3:36 | 2025-08-28 |  |
 | [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 | 2025-07-16 | 2025-10-18 |
@@ -169,9 +171,10 @@
 | [Through The Echoes](https://open.spotify.com/track/11mmSxrDMiOV1nGakvDoOq) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Shine A Light](https://open.spotify.com/album/7b6ghBEIH75YC11a9bNQzA) | 3:41 | 2025-07-16 | 2025-10-22 |
 | [To Tomorrow](https://open.spotify.com/track/5jaXe7XBdv63xbyYUeZQ6k) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [To Tomorrow](https://open.spotify.com/album/2LmcsPdZ4hXQ9kNUoLLvJh) | 3:24 | 2025-07-16 | 2025-10-03 |
 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2025-07-16 | 2025-09-19 |
+| [Under the Silver Moon](https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Under the Silver Moon](https://open.spotify.com/album/578TviwpjNhqZBCWoxphbT) | 3:27 | 2026-04-03 |  |
 | [Upside Down](https://open.spotify.com/track/0OrBso7nCLzqYqzmyGwdwb) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Upside Down](https://open.spotify.com/album/3iUdMIUwthMnIdjLhbP1kT) | 3:37 | 2025-07-16 |  |
 | [Wait For Me](https://open.spotify.com/track/3UktGQO4TaIN3Jn7YtJoZr) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Wait For Me](https://open.spotify.com/album/4zqzaFoDBEm1iaM91taDCu) | 3:41 | 2025-07-16 | 2025-08-29 |
-| [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 | 2025-07-16 |  |
+| [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 | 2025-07-16 | 2026-04-04 |
 | [Wanderlust](https://open.spotify.com/track/6ytigxubOVOkboGnuxh0qT) | [Renata Louisa](https://open.spotify.com/artist/0cUWBPuAswbnFpYvzNAGfE) | [Mother](https://open.spotify.com/album/2uumVlEkCVNVaSHov6OyC5) | 3:47 | 2025-07-16 | 2026-01-15 |
 | [Wasting Time](https://open.spotify.com/track/59vUtjLVDKlFtemXHqzGhr) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Always On Time](https://open.spotify.com/album/3eVA8tg3rfoVPGIP4EwfdP) | 2:51 | 2026-03-03 |  |
 | [Weather The Storm](https://open.spotify.com/track/1nhpjqwvgg9chWuCgrrXE2) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Weather The Storm](https://open.spotify.com/album/0ckoLZt4Xb73Vebt8AxHTE) | 5:00 | 2025-08-08 |  |

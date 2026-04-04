@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Sublime",
+  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: U2",
   "name": "VOLUME",
   "tracks": [
     {
@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 227798,
       "name": "Big Deal",
       "url": "https://open.spotify.com/track/1tMn280xzYU4NdTe0kpPOh"
@@ -6569,6 +6569,24 @@
     },
     {
       "album": {
+        "name": "Cult of Celebrity",
+        "url": "https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133749,
+      "name": "Cult of Celebrity",
+      "url": "https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV"
+    },
+    {
+      "album": {
         "name": "Curse",
         "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
       },
@@ -7710,7 +7728,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 238813,
       "name": "Demonic Depression",
       "url": "https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V"
@@ -9451,6 +9469,28 @@
     },
     {
       "album": {
+        "name": "ENEMY",
+        "url": "https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189390,
+      "name": "ENEMY",
+      "url": "https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW"
+    },
+    {
+      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/4AZCeQb0Lo4JAkLr5jVA4C"
       },
@@ -10460,7 +10500,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186068,
       "name": "Fight Like A Girl - feat. K.Flay",
       "url": "https://open.spotify.com/track/6TUYOU8S2s5l8zgdHeVsjZ"
@@ -11285,6 +11325,24 @@
     },
     {
       "album": {
+        "name": "G.O.D. And The Broken Ribs / Derecho Demonico",
+        "url": "https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223762,
+      "name": "G.O.D. And The Broken Ribs",
+      "url": "https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU"
+    },
+    {
+      "album": {
         "name": "Gappetto",
         "url": "https://open.spotify.com/album/6zyIQEMSnpZnIjDlgLomiI"
       },
@@ -11738,7 +11796,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 201593,
       "name": "God Owes Me Money",
       "url": "https://open.spotify.com/track/6MmXxggQZ12nAVpeIeEXLT"
@@ -11836,7 +11894,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 130994,
       "name": "God\u2019s Eye",
       "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
@@ -12694,6 +12752,24 @@
       "duration_ms": 218250,
       "name": "Head Under Water (feat. REDDSTAR and Dan Sugarman of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/3wpyvgFi5zjTUbIVZS1NPr"
+    },
+    {
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/4THWniSbWSlVrQbV37XhGQ"
+      },
+      "artists": [
+        {
+          "name": "In Color",
+          "url": "https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169927,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/7G2u32iWqPhkg2u1z4WCZP"
     },
     {
       "album": {
@@ -14636,6 +14712,24 @@
       "duration_ms": 230635,
       "name": "Imposter Syndrome (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/64wbg9tWc1hKSB4qokoq0e"
+    },
+    {
+      "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
     },
     {
       "album": {
@@ -18516,7 +18610,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 272507,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
@@ -23717,6 +23811,24 @@
     },
     {
       "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275599,
+      "name": "Sarniezz",
+      "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
+    },
+    {
+      "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
       },
@@ -24584,6 +24696,24 @@
       "duration_ms": 178814,
       "name": "Shine",
       "url": "https://open.spotify.com/track/6JdD3rK5axIoA30Uao5pXu"
+    },
+    {
+      "album": {
+        "name": "Shine Again",
+        "url": "https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245564,
+      "name": "Shine Again",
+      "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
     },
     {
       "album": {
@@ -25530,6 +25660,24 @@
       "duration_ms": 214760,
       "name": "Sorry Not Sorry (with Slash) - Rock Version",
       "url": "https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y"
+    },
+    {
+      "album": {
+        "name": "SORRY! CRASH!",
+        "url": "https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "SORRY! CRASH!",
+      "url": "https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH"
     },
     {
       "album": {
@@ -27288,7 +27436,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 315786,
       "name": "The Air's on Fire",
       "url": "https://open.spotify.com/track/1hhr5qwlslKMdGtfzY8xLF"
@@ -28082,7 +28230,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 230386,
       "name": "The Golden Egg of Empathy (feat. WILLOW)",
       "url": "https://open.spotify.com/track/09gXus8q2otEFFILstY1G8"
@@ -31157,6 +31305,24 @@
     },
     {
       "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/0K0bBhoK5Flh3cdYIS9iVP"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198438,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/4vI5vmoRpxsEgEftEEBfUb"
+    },
+    {
+      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -32910,7 +33076,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 202757,
       "name": "Yellow Roses",
       "url": "https://open.spotify.com/track/71tJCENl05wzNpFLKVeYUl"

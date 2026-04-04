@@ -6573,6 +6573,28 @@
     },
     {
       "album": {
+        "name": "Go (Now It's Over Boy)",
+        "url": "https://open.spotify.com/album/6Yb1sWq5u0lMJ4n90835L2"
+      },
+      "artists": [
+        {
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
+        },
+        {
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170711,
+      "name": "Go (Crazy Cousinz Remix) [Radio Edit]",
+      "url": "https://open.spotify.com/track/6mPFZysBmfAlDI4hmdOt7o"
+    },
+    {
+      "album": {
         "name": "Go Shawty",
         "url": "https://open.spotify.com/album/3bGEmdL2XkICohy6Aoo5yw"
       },
@@ -8841,6 +8863,24 @@
     },
     {
       "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163874,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
+    },
+    {
+      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/0GJy6sx1TeHuniepvbrk6Y"
       },
@@ -10562,7 +10602,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
@@ -12306,7 +12346,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 187096,
       "name": "Need it Bad (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
@@ -19544,6 +19584,24 @@
     {
       "album": {
         "name": "When I Stand",
+        "url": "https://open.spotify.com/album/54CLIXUq8Gm8gGuXXda8BX"
+      },
+      "artists": [
+        {
+          "name": "Owen James",
+          "url": "https://open.spotify.com/artist/6kqeHxe4IG1RCR15nMT34L"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199738,
+      "name": "When I Stand",
+      "url": "https://open.spotify.com/track/1yXkHQ50wrNzslcUeVrnga"
+    },
+    {
+      "album": {
+        "name": "When I Stand",
         "url": "https://open.spotify.com/album/1ZZnKO1LCDBxjqdJ5n4EvT"
       },
       "artists": [
@@ -19554,7 +19612,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 199720,
       "name": "When I Stand",
       "url": "https://open.spotify.com/track/1GdddKSMtXbKovNOwlgGXd"
@@ -19579,7 +19637,7 @@
     },
     {
       "album": {
-        "name": "Where Have You Been",
+        "name": "Where Have You Been (feat. RHEA)",
         "url": "https://open.spotify.com/album/4mjdKbLjFJPtKCOHZx4pkY"
       },
       "artists": [
@@ -19589,14 +19647,14 @@
         },
         {
           "name": "RHEA",
-          "url": "https://open.spotify.com/artist/3iTqZTjeziB8WtVJeIUrLD"
+          "url": "https://open.spotify.com/artist/23qVgHxDZ8VK0kD9GKKoJs"
         }
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156923,
-      "name": "Where Have You Been",
+      "name": "Where Have You Been (feat. RHEA)",
       "url": "https://open.spotify.com/track/4RlnD1zo3kAvARMvzhp4qa"
     },
     {

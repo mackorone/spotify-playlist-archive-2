@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. ",
-  "num_followers": 2946,
+  "num_followers": 3003,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
+        "name": "home:so long",
+        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 85956,
+      "name": "home:so long",
+      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
         "name": "Makeup",
         "url": "https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 231925,
       "name": "Solid Door",
       "url": "https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
-        "name": "home:so long",
-        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 85956,
-      "name": "home:so long",
-      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
     },
     {
       "added_at": "2025-05-01 22:27:23",

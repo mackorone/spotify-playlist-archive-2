@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 41501,
+  "num_followers": 41509,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAfJwmfUPLMSZr679lFI6CY",
+  "snapshot_id": "ac2xgAAAAADMnz45W+komSNTSsAZuLBb",
   "tracks": [
     {
       "added_at": null,
@@ -484,33 +484,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 53488,
-      "name": "DEISDAZSEIS - Ao Vivo",
-      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gord\u00e3o Chefe",
-        "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
-      },
-      "artists": [
-        {
-          "name": "DBS Gord\u00e3o Chefe",
-          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
-        }
-      ],
-      "duration_ms": 331775,
-      "name": "Sinto Muito Baby",
-      "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
+      "duration_ms": 220709,
+      "name": "ZEROVINTEUM - Ao Vivo",
+      "url": "https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j"
     },
     {
       "added_at": null,
@@ -539,42 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "O Estranho Vizinho da Frente",
-      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 220709,
-      "name": "ZEROVINTEUM - Ao Vivo",
-      "url": "https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bambas & Biritas, Vol. 1",
         "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
@@ -595,6 +535,70 @@
       "duration_ms": 307253,
       "name": "Na Noite Se Resolve",
       "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "Somos o Mundo",
+      "url": "https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 53488,
+      "name": "DEISDAZSEIS - Ao Vivo",
+      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gord\u00e3o Chefe",
+        "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
+      },
+      "artists": [
+        {
+          "name": "DBS Gord\u00e3o Chefe",
+          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        }
+      ],
+      "duration_ms": 331775,
+      "name": "Sinto Muito Baby",
+      "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
     },
     {
       "added_at": null,
@@ -630,15 +634,11 @@
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 254769,
-      "name": "Somos o Mundo",
-      "url": "https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg"
+      "duration_ms": 176318,
+      "name": "O Estranho Vizinho da Frente",
+      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 4374,
+  "num_followers": 961,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Freek Like Me",
-        "url": "https://open.spotify.com/album/3w58vPtV09dITZTOIhjUz5"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Freek Like Me",
-      "url": "https://open.spotify.com/track/1NPmM6VERI6zEJOIoXBEuo"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Glad You Came",
         "url": "https://open.spotify.com/album/5EuYe9bOkj023Gk2sD2mZt"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 139250,
       "name": "Glad You Came",
       "url": "https://open.spotify.com/track/5qC4mPqxfp9LDPsO7GhseX"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Freek Like Me",
+        "url": "https://open.spotify.com/album/3w58vPtV09dITZTOIhjUz5"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Freek Like Me",
+      "url": "https://open.spotify.com/track/1NPmM6VERI6zEJOIoXBEuo"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Rapture (with Robert Falcon)",
-        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 174720,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Rapture (with Robert Falcon)",
+        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Pop Some Tags",
+        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+        }
+      ],
+      "duration_ms": 139183,
+      "name": "Pop Some Tags",
+      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/4UTHlrVzquErmNkkVfI1MM"
       },
@@ -1827,26 +1843,6 @@
       "duration_ms": 129242,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT"
     }
   ],
   "unique_name": "Dance Workout",

@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05e2\u05d3\u05df \u05d7\u05e1\u05d5\u05df ",
-  "num_followers": 25784,
+  "num_followers": 25783,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e9\u05d5\u05d1\u05e8 \u05d1\u05de\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU"
-      },
-      "artists": [
-        {
-          "name": "Full Trunk",
-          "url": "https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k"
-        }
-      ],
-      "duration_ms": 297983,
-      "name": "\u05e6\u05e8\u05d9\u05da \u05d0\u05d5\u05ea\u05da",
-      "url": "https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "PENNY LAME",
         "url": "https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 180352,
       "name": "PENNY LAME",
       "url": "https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05e9\u05d5\u05d1\u05e8 \u05d1\u05de\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU"
+      },
+      "artists": [
+        {
+          "name": "Full Trunk",
+          "url": "https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k"
+        }
+      ],
+      "duration_ms": 297983,
+      "name": "\u05e6\u05e8\u05d9\u05da \u05d0\u05d5\u05ea\u05da",
+      "url": "https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX"
     },
     {
       "added_at": "2026-01-16 15:38:53",

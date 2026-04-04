@@ -4,7 +4,7 @@
 
 > Nieuwe R&B releases \| Cover: Neema Nekesa
 
-730 songs - 1 day 13 hr 37 min
+731 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [5EVER](https://open.spotify.com/track/7wnnnbsAcvA4cpR9Bs9U3k) | [Julian](https://open.spotify.com/artist/4vYj7nah6DyidXoeKEDRy7) | [5EVER](https://open.spotify.com/album/6BJ9pXWmezQlJP1KuNDm2n) | 2:47 | 2021-12-16 | 2022-07-29 |
 | [90 percent](https://open.spotify.com/track/3sBwYK7ShSdnBS6EECgs5F) | [Rico Greene](https://open.spotify.com/artist/6mpb294qwS2LTTwSSONdWS) | [90 percent](https://open.spotify.com/album/5XQ1765TIYIa0slsGcR8re) | 3:53 | 2021-12-16 | 2023-01-13 |
 | [A Fair Exchange](https://open.spotify.com/track/4XqBXP047t8rUEv7GIIzoR) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [A Fair Exchange](https://open.spotify.com/album/6PWqRQavTZcpRrFBKWMZq0) | 2:20 | 2025-02-27 | 2026-02-27 |
+| [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 | 2026-04-03 |  |
 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 | 2024-11-21 | 2025-11-21 |
 | [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 | 2023-04-03 | 2023-09-29 |
 | [Acceptance](https://open.spotify.com/track/341gGzNSZumFnSnj88tUfG) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B) | [Grisaille Into Aurora](https://open.spotify.com/album/2X1HQP3bL0cygdxZ0qO62n) | 3:59 | 2026-01-15 | 2026-03-26 |
@@ -136,7 +137,7 @@
 | [Clueless](https://open.spotify.com/track/5jNiwsjNcve1qqpEaubXfe) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B) | [Clueless](https://open.spotify.com/album/3i0ahzjchFHOA34HA6uMWp) | 3:10 | 2023-11-16 | 2024-11-22 |
 | [Comfortable](https://open.spotify.com/track/7GZCvyXbdMq9mRhf5lNQgI) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Comfortable](https://open.spotify.com/album/2tJSVkMzgZxqP4GXHljomJ) | 2:29 | 2021-12-16 | 2022-01-21 |
 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 | 2024-09-27 | 2025-04-12 |
-| [Complicit](https://open.spotify.com/track/3MafQbJ6au0CsZAD0ftcwk) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Complicit](https://open.spotify.com/album/77FzzNEtt65KNobFAasmfM) | 2:37 | 2025-11-11 |  |
+| [Complicit](https://open.spotify.com/track/3MafQbJ6au0CsZAD0ftcwk) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Complicit](https://open.spotify.com/album/77FzzNEtt65KNobFAasmfM) | 2:37 | 2025-11-11 | 2026-04-04 |
 | [Connexion](https://open.spotify.com/track/5euRP53moGQyGCsq8aNjvo) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 3:16 | 2021-12-16 | 2023-05-13 |
 | [Control](https://open.spotify.com/track/049pAILMAf9ZLsESoBTpSV) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Control](https://open.spotify.com/album/7u17k9ZpKOlttpdfR49Hh0) | 2:55 | 2024-11-21 | 2025-08-15 |
 | [Control](https://open.spotify.com/track/73dizJioW3V6zacAOr1tg3) | [Paul Eckert](https://open.spotify.com/artist/1eoWfFa4fgWTTv212vn78R) | [Covers](https://open.spotify.com/album/3uuBQUwNStdBuJs2Xoidbs) | 4:01 | 2021-12-16 | 2023-01-13 |

@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-162 songs - 9 hr 18 min
+163 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [goodbye](https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [goodbye](https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq) | 2:50 | 2025-06-27 |  |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2025-06-27 |  |
 | [Grow Up](https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Grow Up](https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg) | 3:49 | 2025-10-31 |  |
+| [Guy From Outer Space](https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Guy From Outer Space](https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk) | 2:43 | 2026-03-30 |  |
 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 | 2026-03-23 |  |
 | [Happier \- Piano Version](https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Happier \(Piano Version\)](https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S) | 3:12 | 2025-06-27 |  |
 | [Have A Little Faith](https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Have A Little Faith](https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF) | 2:58 | 2025-06-27 |  |
@@ -84,7 +85,7 @@
 | [It's The First Time 2021](https://open.spotify.com/track/6Daq4m0QeSWUPBIsI0jNCM) | [Lois Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [It's The First Time 2021](https://open.spotify.com/album/7hVeYFdAOQpmueUQwrL95t) | 3:55 | 2025-06-27 | 2025-09-26 |
 | [Julianne](https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:51 | 2025-06-27 |  |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2025-06-27 | 2026-01-24 |
-| [Just Another Road](https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Just Another Road](https://open.spotify.com/album/6QhmM3FglBHKpZdYF6DQo6) | 3:00 | 2026-03-05 |  |
+| [Just Another Road](https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Just Another Road](https://open.spotify.com/album/6QhmM3FglBHKpZdYF6DQo6) | 3:00 | 2026-03-05 | 2026-04-04 |
 | [Just Say Aye](https://open.spotify.com/track/2FUWdMp90MAPCc1zV0CtQd) | [Daniel Docherty](https://open.spotify.com/artist/186gOhAX0pNXjYldk47D0F), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Just Say Aye](https://open.spotify.com/album/6aTtPR8tdR33NwAFJg9yyb) | 3:38 | 2025-06-27 | 2025-10-16 |
 | [Kind Of Love](https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Kind Of Love](https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ) | 3:54 | 2025-06-27 |  |
 | [Kiss Me](https://open.spotify.com/track/5J7FySNDIRY5uENT7PTCtJ) | [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Kiss Me](https://open.spotify.com/album/356rRG2NTWd2OAsQJwkdCi) | 2:25 | 2025-06-27 | 2025-11-12 |

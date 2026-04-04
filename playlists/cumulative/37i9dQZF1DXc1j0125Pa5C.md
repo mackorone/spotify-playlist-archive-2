@@ -4,7 +4,7 @@
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Renan Oliveira
 
-311 songs - 1 day 2 hr 51 min
+312 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Vacilão / Deixa a Vida Me Levar / Coração Em Desalinho \- Ao Vivo](https://open.spotify.com/track/0ZgQiCYAUJhlHnaMOPySn6) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Mixturadin 3 \(Ao Vivo\)](https://open.spotify.com/album/4uBtbtKEG21NIl1I6mx4UV) | 6:44 | 2025-02-07 | 2025-06-07 |
 | [Vai Me Dando Corda / Você Me Encantou Demais / Sorri, Sou Rei \- Ao Vivo](https://open.spotify.com/track/1EsZx3vqXTzEHYKLoIaj4w) | [Lance Solto](https://open.spotify.com/artist/4yTSTXLrgC3BnYmxojLyOl), [Vou Zuar](https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD) | [Vai Me Dando Corda / Você Me Encantou Demais / Sorri, Sou Rei \(Ao Vivo\)](https://open.spotify.com/album/7tQXf5lmVmAVQzQmW9ASa0) | 4:05 | 2024-06-28 | 2025-10-03 |
 | [Vai Que Cola / Faz Falta / Me Diz \(Por Favor\) \(feat\. Vitinho\) \- Ao Vivo](https://open.spotify.com/track/2NPWthQC6HGkCUPXEk3bFN) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Vai Que Cola / Faz Falta / Me Diz \(Por Favor\) \(feat\. Vitinho\) \[Ao Vivo\]](https://open.spotify.com/album/3OHIhtEem0Eblrz7J52jbu) | 5:00 | 2023-12-29 | 2024-07-06 |
+| [Vai Ter Que Aguentar / Pra Inveja É Tchau \- Ao Vivo](https://open.spotify.com/track/3UXem4ihc0laOYJRgHUEn4) | [Atitude Samba](https://open.spotify.com/artist/7HEcxDvIIHnF1ZLFGmBXHc) | [Vai Ter Que Aguentar / Pra Inveja É Tchau \(Ao Vivo\)](https://open.spotify.com/album/1didvvOAfBr284RW4FO7pl) | 4:13 | 2026-04-03 |  |
 | [Valeu Pra Aprender / Tá Louco Hein / Para Com Esse Papo \- Ao Vivo](https://open.spotify.com/track/0dgAIOgLZqtqwApiG2vC0x) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Valeu Pra Aprender / Tá Louco Hein / Para Com Esse Papo \(Ao Vivo\)](https://open.spotify.com/album/6FD5EgSXm4D2KBRMZpk6mN) | 5:01 | 2024-11-04 |  |
 | [Vambora / 24 Horas De Amor / Não Vai Voltar / Perfume \- Canta, Chocolate! 6, Ao Vivo](https://open.spotify.com/track/5wF0H0oKfzlzSh3CKuSAZk) | [Grupo Chocolate](https://open.spotify.com/artist/0yRgarxy0iN7x7U5VE6l7N), [Sambary](https://open.spotify.com/artist/0N9H6CD62lkgW2tYcEtqJo) | [Vambora / 24 Horas De Amor / Não Vai Voltar / Perfume \(Canta, Chocolate! 6, Ao Vivo\)](https://open.spotify.com/album/5Mgd3BxqQc41jDZ0BiTmt0) | 6:07 | 2025-11-14 | 2025-12-16 |
 | [Velho Camarada / Na Rua, Na Chuva, Na Fazenda \(Casinha De Sapê\) \- Ao Vivo](https://open.spotify.com/track/6QJEcEreYF8uUaHkyQ4uoz) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Tardezinha 10 Anos \(Ao Vivo\)](https://open.spotify.com/album/3UgYfwqy70pI8e01cJtNtp) | 4:27 | 2025-09-19 |  |

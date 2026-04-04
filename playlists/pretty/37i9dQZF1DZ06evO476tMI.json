@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 639841,
+  "num_followers": 639876,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAABGyDjz572lVgK4+XUWs66K",
+  "snapshot_id": "ac2xgAAAAAAtZjv0g5bJBGV3nS0PFZx6",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 341875,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6LuRPg5tHDwcyXvEvrtVxP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Preacher's Wife",
         "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 252533,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/5dEBcymDDG9TUjJnAouOPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 341875,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6LuRPg5tHDwcyXvEvrtVxP"
     },
     {
       "added_at": null,

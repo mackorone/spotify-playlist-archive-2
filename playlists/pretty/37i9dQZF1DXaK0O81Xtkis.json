@@ -1,13 +1,45 @@
 {
-  "description": "a little indie, a little pop, soda featuring Moody Joody",
-  "num_followers": 229319,
+  "description": "a little indie, a little pop, soda featuring Presley Regier",
+  "num_followers": 229344,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOw7qXmsNH4gNQMTJ8dAcUoi2Njq",
+  "snapshot_id": "AAAAAMPTlmy+dkqQ6hIbjbeq3d5Mwng1",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:03:26",
+      "album": {
+        "name": "Buy Me A Car",
+        "url": "https://open.spotify.com/album/2ypIqNDlVf9Ukfxt7guIxI"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 209841,
+      "name": "Buy Me A Car",
+      "url": "https://open.spotify.com/track/0F4FEE1cOzkp8tysmHfidR"
+    },
+    {
+      "added_at": "2026-04-03 04:03:26",
+      "album": {
+        "name": "Daredevil",
+        "url": "https://open.spotify.com/album/1GgeRqhrpX8WUXMOZx16Gr"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Daredevil",
+      "url": "https://open.spotify.com/track/2cvuYoAarEwjOoNcTVOFxJ"
+    },
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
@@ -43,6 +75,38 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-04-03 04:03:26",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5MO6DsF9EtUMjOZuD9uVs5"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "duration_ms": 207338,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/7BItTSeYIe9XNP9Z7b92m9"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
         "name": "Still Loiteringgg / 2000s Pop Punk Rnb",
         "url": "https://open.spotify.com/album/1PsPAevrYEFFoOwjezQ4LF"
       },
@@ -73,6 +137,22 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
+      "added_at": "2026-04-03 04:03:26",
+      "album": {
+        "name": "westside",
+        "url": "https://open.spotify.com/album/6AJNR5UT0Cf3xF1q1FaIsc"
+      },
+      "artists": [
+        {
+          "name": "sindr",
+          "url": "https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "westside",
+      "url": "https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj"
+    },
+    {
       "added_at": "2026-03-20 04:00:49",
       "album": {
         "name": "down under",
@@ -89,20 +169,20 @@
       "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
     },
     {
-      "added_at": "2026-03-27 04:00:20",
+      "added_at": "2026-04-03 04:03:26",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+        "name": "signs of life",
+        "url": "https://open.spotify.com/album/6CRgFmHNtmk7JIcvMeGASm"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "Harvey Brittain",
+          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 175696,
+      "name": "signs of life",
+      "url": "https://open.spotify.com/track/64NpFHuR72lUmwegiIxRjj"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -267,22 +347,6 @@
       "duration_ms": 228168,
       "name": "Do You Really Love Her",
       "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
-    },
-    {
-      "added_at": "2026-02-27 05:00:34",
-      "album": {
-        "name": "If I Was With You",
-        "url": "https://open.spotify.com/album/4hIcCrnVwbklpJy14UhCuN"
-      },
-      "artists": [
-        {
-          "name": "Presley Regier",
-          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
-        }
-      ],
-      "duration_ms": 205789,
-      "name": "If I Was With You",
-      "url": "https://open.spotify.com/track/5M19tUtR2VwhBNS3whND8m"
     },
     {
       "added_at": "2026-03-06 05:00:25",
@@ -737,22 +801,6 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
-      "added_at": "2025-11-21 05:00:23",
-      "album": {
-        "name": "Tracy",
-        "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
-      },
-      "artists": [
-        {
-          "name": "PASH",
-          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Tracy",
-      "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
-    },
-    {
       "added_at": "2026-01-16 16:23:10",
       "album": {
         "name": "Drama King",
@@ -767,54 +815,6 @@
       "duration_ms": 190901,
       "name": "Drama King",
       "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
-    },
-    {
-      "added_at": "2026-02-06 10:00:13",
-      "album": {
-        "name": "Out Of The Dark",
-        "url": "https://open.spotify.com/album/6H04GCoprTTplhVAcFIJYx"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 195209,
-      "name": "Out Of The Dark",
-      "url": "https://open.spotify.com/track/2o2toLWSPdp0HNTSbFbUBP"
-    },
-    {
-      "added_at": "2025-11-21 05:00:23",
-      "album": {
-        "name": "Kansas Anymore",
-        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 169974,
-      "name": "Writing's On The Wall",
-      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
-    },
-    {
-      "added_at": "2026-01-23 05:03:59",
-      "album": {
-        "name": "trying not to panic",
-        "url": "https://open.spotify.com/album/1bwJUNxQpND3xqgvUzWNz4"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 174744,
-      "name": "Hug Yourself",
-      "url": "https://open.spotify.com/track/0wxptU4oakoC1OfPWcqgDc"
     }
   ],
   "unique_name": "soda",

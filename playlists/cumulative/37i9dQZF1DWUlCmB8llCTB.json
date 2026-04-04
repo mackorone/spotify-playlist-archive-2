@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con J Balvin y Ryan Castro.",
+  "description": "Perreando toda la noche con Alvaro Diaz.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -1926,6 +1926,24 @@
       "duration_ms": 176470,
       "name": "BABY OTAKU",
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
+    },
+    {
+      "album": {
+        "name": "BABYRECORDS.",
+        "url": "https://open.spotify.com/album/5oYfMTdeFQLcBk4mh5cONj"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149345,
+      "name": "BABYRECORDS.",
+      "url": "https://open.spotify.com/track/7adWxffOcMRKBcRgOyX5vw"
     },
     {
       "album": {
@@ -16506,7 +16524,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 158053,
       "name": "Palgo",
       "url": "https://open.spotify.com/track/0Uoeajf2thrY0exQCvcoSX"
@@ -18469,6 +18487,24 @@
     },
     {
       "album": {
+        "name": "Presidente",
+        "url": "https://open.spotify.com/album/2p0M9l7nmqo4fBhhUdlK8z"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150783,
+      "name": "Presidente",
+      "url": "https://open.spotify.com/track/379EbsgApFcHYHvv6vrKgD"
+    },
+    {
+      "album": {
         "name": "RAWR",
         "url": "https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6"
       },
@@ -19440,7 +19476,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"

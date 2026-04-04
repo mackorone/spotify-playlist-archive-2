@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 167404,
       "name": "Almost, So Close, Maybe",
       "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 191476,
       "name": "Ankles",
       "url": "https://open.spotify.com/track/4VhbsGXRGDncpi79aiX8eE"
@@ -7809,6 +7809,24 @@
     },
     {
       "album": {
+        "name": "Dressin'",
+        "url": "https://open.spotify.com/album/6uL9jAno7bic63OfT8ZN2e"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146935,
+      "name": "Dressin'",
+      "url": "https://open.spotify.com/track/0fR98swBUtvJP3p8gyQAVR"
+    },
+    {
+      "album": {
         "name": "Drip Sweat (feat. Channel Tres)",
         "url": "https://open.spotify.com/album/5fEol7mRuY1Vn0G9rsO9eV"
       },
@@ -9266,7 +9284,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 216910,
       "name": "Feel Your Rain",
       "url": "https://open.spotify.com/track/07be0QUZ1uxxXDkarMiZe6"
@@ -11282,7 +11300,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 160146,
       "name": "Good Luck and Don\u2019t F%k It Up (Matt Pop Remix)",
       "url": "https://open.spotify.com/track/4AGBnT96qI3DlTheMSfWI8"
@@ -12423,6 +12441,28 @@
     },
     {
       "album": {
+        "name": "Hercules (Feat. Kyle Payne)",
+        "url": "https://open.spotify.com/album/5mM5z37G05fj11kRODtaUx"
+      },
+      "artists": [
+        {
+          "name": "Bentley Robles",
+          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
+        },
+        {
+          "name": "Kyle Payne",
+          "url": "https://open.spotify.com/artist/4RmbiG4n2o9miXl9UiHlU2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Hercules (Feat. Kyle Payne)",
+      "url": "https://open.spotify.com/track/7ulKyl1lIMubejYO0YRnBM"
+    },
+    {
+      "album": {
         "name": "Here To Dance",
         "url": "https://open.spotify.com/album/5x39VhgLcnKUQjekc0uZuC"
       },
@@ -12786,6 +12826,24 @@
       "duration_ms": 185026,
       "name": "Hold",
       "url": "https://open.spotify.com/track/6gHSghdESsKPS80t5DDYxb"
+    },
+    {
+      "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/0dkYcY21sT5qZ1cHkD8Llw"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228100,
+      "name": "Hold It For Her",
+      "url": "https://open.spotify.com/track/3x8ROvzmBSnxj6t1LELGwf"
     },
     {
       "album": {
@@ -16584,6 +16642,24 @@
       "duration_ms": 219140,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/1dH4rjcOt0AZ948RDnEFoc"
+    },
+    {
+      "album": {
+        "name": "Lemonade and Cyanide",
+        "url": "https://open.spotify.com/album/3VzTpNpktjZMwkpxI8scrk"
+      },
+      "artists": [
+        {
+          "name": "DEZI",
+          "url": "https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229466,
+      "name": "Lemonade and Cyanide",
+      "url": "https://open.spotify.com/track/71ZAwuJfQ6p1wCMLOqyh93"
     },
     {
       "album": {
@@ -25021,6 +25097,24 @@
     },
     {
       "album": {
+        "name": "Same Life",
+        "url": "https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198532,
+      "name": "Same Life",
+      "url": "https://open.spotify.com/track/10KS3LMV89Agd6NBLfnvHO"
+    },
+    {
+      "album": {
         "name": "SAND",
         "url": "https://open.spotify.com/album/4qvil8kYuHLOnW327paleO"
       },
@@ -30860,7 +30954,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 160963,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/0TtvBY2n755oxFqTGToXCd"

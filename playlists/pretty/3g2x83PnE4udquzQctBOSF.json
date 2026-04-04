@@ -6,8 +6,56 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAAR1++/60wT5YuzhfmyW0ldkVKUzLTJ",
+  "snapshot_id": "AAAR2tLVOU+vpgIwHx3mqHD6xD4bytmv",
   "tracks": [
+    {
+      "added_at": "2026-04-03 20:04:16",
+      "album": {
+        "name": "That Night the DJ Ruined My Life",
+        "url": "https://open.spotify.com/album/40YnshTmXMO7rlVOnndXni"
+      },
+      "artists": [
+        {
+          "name": "Leo Effe",
+          "url": "https://open.spotify.com/artist/190T5d0VosWDsjeUzIDR4M"
+        }
+      ],
+      "duration_ms": 187859,
+      "name": "That Night the DJ Ruined My Life",
+      "url": "https://open.spotify.com/track/0gg9TWdYGOqWyK0FAA4IBT"
+    },
+    {
+      "added_at": "2026-04-03 12:05:11",
+      "album": {
+        "name": "Aplysia",
+        "url": "https://open.spotify.com/album/5jK8fD4534sjltztJ8oMe7"
+      },
+      "artists": [
+        {
+          "name": "The Seadix",
+          "url": "https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB"
+        }
+      ],
+      "duration_ms": 234375,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/0I1p43mg1k4EoCDYYlhXkP"
+    },
+    {
+      "added_at": "2026-04-03 06:26:21",
+      "album": {
+        "name": "Symphonic house",
+        "url": "https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 233437,
+      "name": "En Medio de la Luz",
+      "url": "https://open.spotify.com/track/5nttFw9iY9q2b7JridWpRr"
+    },
     {
       "added_at": "2026-04-03 01:46:19",
       "album": {

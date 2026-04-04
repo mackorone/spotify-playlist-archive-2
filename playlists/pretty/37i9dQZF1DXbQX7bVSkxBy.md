@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,343 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,372 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 9 | [What A Beautiful Name](https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O) | 4:00 |
 | 10 | [Alive](https://open.spotify.com/track/3MwLu7gPqB81ql2AecxkFn) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r) | [Alive](https://open.spotify.com/album/22U2vWcz5CaxU9x6S9oehH) | 2:20 |
 | 11 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 |
-| 12 | [Track 9](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 0:00 |
+| 12 | [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 |
 | 13 | [Happiness Is Free](https://open.spotify.com/track/37ArjRef4CfvDMuQgTs1fx) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Happiness Is Free](https://open.spotify.com/album/6LFSxhcEU6ITOS3fGcxHoG) | 3:19 |
 | 14 | [No Man Dare](https://open.spotify.com/track/4sdffkRaBSsec5AARs5Vrd) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB) | [No Man Dare](https://open.spotify.com/album/7cgNPAL3Z467KaDRikPExt) | 3:01 |
 | 15 | [Cole Palmer](https://open.spotify.com/track/1Ow7vaOAp5ZXx6lMF6JBGI) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:48 |

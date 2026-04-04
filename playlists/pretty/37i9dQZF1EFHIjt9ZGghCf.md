@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834 likes - 137 songs - 15 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 835 likes - 137 songs - 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 99 | [Where Would I Be? \(feat\. Dante Bowe, Ryan Ofei & Brandon Lake\)](https://open.spotify.com/track/5zocauo5a4DJ01IA47OJGH) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 8:07 |
 | 100 | [real kind of love](https://open.spotify.com/track/3oufQfxtm0Kpos3oRzJv7f) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:49 |
 | 101 | [He Paid It All](https://open.spotify.com/track/0S5Nawa238QKWHOanpOitu) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [The Encounter](https://open.spotify.com/album/5QRPjd67zomlWLMcOwz8E6) | 4:00 |
-| 102 | [You're Beautiful \(feat\. Joe L Barnes\)](https://open.spotify.com/track/52VQIFX5974rO9MxhnDL2f) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 3:06 |
-| 103 | [We Are the Kingdom](https://open.spotify.com/track/0fwoTobE6n5lxdHUiGhzY7) | [Seacoast](https://open.spotify.com/artist/0x6XZndsBaAe2jNT5j3VHv), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [We Are the Kingdom](https://open.spotify.com/album/1ZXnvK9vnRdOsbocOM1TGH) | 4:31 |
+| 102 | [We Are the Kingdom](https://open.spotify.com/track/0fwoTobE6n5lxdHUiGhzY7) | [Seacoast](https://open.spotify.com/artist/0x6XZndsBaAe2jNT5j3VHv), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [We Are the Kingdom](https://open.spotify.com/album/1ZXnvK9vnRdOsbocOM1TGH) | 4:31 |
+| 103 | [You're Beautiful \(feat\. Joe L Barnes\)](https://open.spotify.com/track/52VQIFX5974rO9MxhnDL2f) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 3:06 |
 | 104 | [Home](https://open.spotify.com/track/6W2zW8pMHi9UJHhEmzQ6rY) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:04 |
 | 105 | [Get Back To The Well](https://open.spotify.com/track/0KoEDTYICyNnNjIh5mYTaJ) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Nate Moore](https://open.spotify.com/artist/6hxp9zz5Y5d8Htno5hpk66) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:44 |
 | 106 | [It's a Fire \(Come\)](https://open.spotify.com/track/4AGP1Cdc64VZpWTxkfHaJQ) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 5:13 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 136 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 137 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `AcNz6gAAAABHbryHLXh3bgQgxolkdam/`
+Snapshot ID: `AcN5igAAAADMDkPwpOtNf5HgH9uH6wff`

@@ -11991,6 +11991,28 @@
     },
     {
       "album": {
+        "name": "m\u00e4 oon vaan ihminen",
+        "url": "https://open.spotify.com/album/4EYr93p8uqFv6GSkEQAz4v"
+      },
+      "artists": [
+        {
+          "name": "whereismike",
+          "url": "https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim"
+        },
+        {
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161769,
+      "name": "p\u00e4\u00e4ttyy kyyneliin (feat. Tupe.)",
+      "url": "https://open.spotify.com/track/797DCnlbSHSBDT3TVsjuvp"
+    },
+    {
+      "album": {
         "name": "P\u00f6ll\u00f6ille kyyti\u00e4",
         "url": "https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89"
       },
@@ -15482,24 +15504,6 @@
       "duration_ms": 199466,
       "name": "Toyboy",
       "url": "https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI"
-    },
-    {
-      "album": {
-        "name": "m\u00e4 oon vaan ihminen",
-        "url": "https://open.spotify.com/album/4EYr93p8uqFv6GSkEQAz4v"
-      },
-      "artists": [
-        {
-          "name": "whereismike",
-          "url": "https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim"
-        }
-      ],
-      "date_added": "2026-04-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/797DCnlbSHSBDT3TVsjuvp"
     },
     {
       "album": {

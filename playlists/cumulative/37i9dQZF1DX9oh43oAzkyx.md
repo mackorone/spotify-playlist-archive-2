@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-455 songs - 22 hr 49 min
+456 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [25 million](https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:24 | 2021-12-17 | 2022-08-06 |
 | [25k jacket \(feat\. Lil Baby\)](https://open.spotify.com/track/0boodYr1uIpSVmGSP65Fmk) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:00 | 2022-01-07 | 2022-02-19 |
 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 | 2025-01-24 |  |
+| [600 Racks](https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [600 Racks](https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5) | 3:04 | 2026-04-03 |  |
 | [800 Karats](https://open.spotify.com/track/7GuyypFtmHPM16P0bWjqdP) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 2:04 | 2023-11-17 | 2023-11-25 |
 | [9 Bridge](https://open.spotify.com/track/2sHekv6OdEiO4htSjdB9j4) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [9 Bridge](https://open.spotify.com/album/0MKr6ZcGoEnkycOQTpDANu) | 2:27 | 2021-05-14 | 2022-06-11 |
 | [A Milli](https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III \(MTV Bonus Version\)](https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4) | 3:41 | 2021-01-04 | 2022-04-21 |
@@ -412,7 +413,7 @@
 | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj) | 3:08 | 2022-12-09 | 2023-02-18 |
 | [Toolie](https://open.spotify.com/track/05KKOI0SXutMpliFutgwOx) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Toolie](https://open.spotify.com/album/3ikkmlZKMLbi0JCPzRysJN) | 2:17 | 2021-10-29 | 2022-04-20 |
 | [Trauma Bond](https://open.spotify.com/track/4FBweKWPMAJyqjOqwlaxN9) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trauma Bond](https://open.spotify.com/album/6svobbo5wMTqnZX9D62c80) | 2:43 | 2026-03-23 |  |
-| [Trophies](https://open.spotify.com/track/1T0iAFb7dgP0hajkmYstFu) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:02 | 2025-09-19 |  |
+| [Trophies](https://open.spotify.com/track/1T0iAFb7dgP0hajkmYstFu) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:02 | 2025-09-19 | 2026-04-04 |
 | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B) | 3:43 | 2025-08-15 |  |
 | [TRYNA MAKE SURE](https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW) | 2:46 | 2024-05-05 | 2025-06-03 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-23 |  |

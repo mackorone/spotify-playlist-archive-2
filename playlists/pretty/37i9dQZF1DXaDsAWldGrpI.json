@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143210,
+  "num_followers": 143207,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-27 05:00:28",
       "album": {
-        "name": "Sounds Like The Radio (Live)",
-        "url": "https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD"
-      },
-      "artists": [
-        {
-          "name": "Zach Top",
-          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
-        }
-      ],
-      "duration_ms": 214561,
-      "name": "Sounds Like the Radio - Live",
-      "url": "https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO"
-    },
-    {
-      "added_at": "2026-02-27 05:00:28",
-      "album": {
         "name": "In Your Love (Live From Radio City Music Hall)",
         "url": "https://open.spotify.com/album/1I20hO7qTPRcHrjDaDaeI9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 242573,
       "name": "In Your Love - Live From Radio City Music Hall",
       "url": "https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio"
+    },
+    {
+      "added_at": "2026-02-27 05:00:28",
+      "album": {
+        "name": "Sounds Like The Radio (Live)",
+        "url": "https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "duration_ms": 214561,
+      "name": "Sounds Like the Radio - Live",
+      "url": "https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO"
     },
     {
       "added_at": "2026-02-27 05:00:28",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-27 05:00:28",
       "album": {
-        "name": "Johnny (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
-        "url": "https://open.spotify.com/album/3JeDwRiR07UuONRsAbWkCS"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 285626,
-      "name": "Johnny - Live At The Pinnacle, Nashville, TN / May 24, 2025",
-      "url": "https://open.spotify.com/track/4bhWLpeEEjriIwQAVNiD3Z"
-    },
-    {
-      "added_at": "2026-02-27 05:00:28",
-      "album": {
         "name": "Live EP 001",
         "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2026-02-27 05:00:28",
       "album": {
+        "name": "Johnny (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
+        "url": "https://open.spotify.com/album/3JeDwRiR07UuONRsAbWkCS"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 285626,
+      "name": "Johnny - Live At The Pinnacle, Nashville, TN / May 24, 2025",
+      "url": "https://open.spotify.com/track/4bhWLpeEEjriIwQAVNiD3Z"
+    },
+    {
+      "added_at": "2026-02-27 05:00:28",
+      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 197600,
       "name": "Landslide - Live from Nashville",
       "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
-    },
-    {
-      "added_at": "2026-02-27 05:00:28",
-      "album": {
-        "name": "FISHIN' IN THE DARK (Live from the Road)",
-        "url": "https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 202865,
-      "name": "FISHIN' IN THE DARK - Live from the Road",
-      "url": "https://open.spotify.com/track/2K7vNpvZO2QkGZVoG263im"
     },
     {
       "added_at": "2026-02-27 05:00:28",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2026-02-27 05:00:28",
       "album": {
+        "name": "FISHIN' IN THE DARK (Live from the Road)",
+        "url": "https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "duration_ms": 202865,
+      "name": "FISHIN' IN THE DARK - Live from the Road",
+      "url": "https://open.spotify.com/track/2K7vNpvZO2QkGZVoG263im"
+    },
+    {
+      "added_at": "2026-02-27 05:00:28",
+      "album": {
         "name": "Live in No Shoes Nation",
         "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-02-27 05:00:28",
       "album": {
-        "name": "No Horse To Ride (Live From Boston)",
-        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 226523,
-      "name": "No Horse To Ride - Live From Boston",
-      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
-    },
-    {
-      "added_at": "2026-02-27 05:00:28",
-      "album": {
         "name": "Next Thing You Know (Live From The O2 London)",
         "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 181034,
       "name": "Next Thing You Know - Live From The O2 London",
       "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
+    },
+    {
+      "added_at": "2026-02-27 05:00:28",
+      "album": {
+        "name": "No Horse To Ride (Live From Boston)",
+        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 226523,
+      "name": "No Horse To Ride - Live From Boston",
+      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
     },
     {
       "added_at": "2026-02-27 05:00:28",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-27 05:00:28",
       "album": {
-        "name": "Oh, Anna! (Live from the Opry)",
-        "url": "https://open.spotify.com/album/4DTQLzcwIych3iemPgt0li"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 264507,
-      "name": "Oh, Anna! - Live from the Opry",
-      "url": "https://open.spotify.com/track/2TvvudKzKJIhTPAjhTtfCo"
-    },
-    {
-      "added_at": "2026-02-27 05:00:28",
-      "album": {
         "name": "Hate How You Look (Live From London)",
         "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 203375,
       "name": "Hate How You Look - Live From London",
       "url": "https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo"
+    },
+    {
+      "added_at": "2026-02-27 05:00:28",
+      "album": {
+        "name": "Oh, Anna! (Live from the Opry)",
+        "url": "https://open.spotify.com/album/4DTQLzcwIych3iemPgt0li"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 264507,
+      "name": "Oh, Anna! - Live from the Opry",
+      "url": "https://open.spotify.com/track/2TvvudKzKJIhTPAjhTtfCo"
     },
     {
       "added_at": "2026-02-27 05:00:28",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-02-27 05:00:28",
       "album": {
-        "name": "Live from the 717",
-        "url": "https://open.spotify.com/album/4uZUIVFWNUjpImruvXfdiI"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "Pretty Little Poison - Live from the 717",
-      "url": "https://open.spotify.com/track/1ykQRCGrdVjkfXC8bSWYUs"
-    },
-    {
-      "added_at": "2026-02-27 05:00:28",
-      "album": {
         "name": "Still The One: Live From Vegas",
         "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 222093,
       "name": "Honey, I'm Home - Live",
       "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
+    },
+    {
+      "added_at": "2026-02-27 05:00:28",
+      "album": {
+        "name": "Live from the 717",
+        "url": "https://open.spotify.com/album/4uZUIVFWNUjpImruvXfdiI"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "Pretty Little Poison - Live from the 717",
+      "url": "https://open.spotify.com/track/1ykQRCGrdVjkfXC8bSWYUs"
     },
     {
       "added_at": "2026-02-27 05:00:28",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-02-27 05:00:28",
       "album": {
-        "name": "AMERICAN PALM: Live from the Road",
-        "url": "https://open.spotify.com/album/1gnGuzTSNvjdLdsXZk1qsJ"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "I LOVE THIS BEACH - Live from the Road",
-      "url": "https://open.spotify.com/track/4Fm0awAyWB46EP7zCgpuJY"
-    },
-    {
-      "added_at": "2026-02-27 05:00:28",
-      "album": {
         "name": "61 Days In Church Volume 1",
         "url": "https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 259758,
       "name": "Talladega - Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017",
       "url": "https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7"
+    },
+    {
+      "added_at": "2026-02-27 05:00:28",
+      "album": {
+        "name": "AMERICAN PALM: Live from the Road",
+        "url": "https://open.spotify.com/album/1gnGuzTSNvjdLdsXZk1qsJ"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "I LOVE THIS BEACH - Live from the Road",
+      "url": "https://open.spotify.com/track/4Fm0awAyWB46EP7zCgpuJY"
     },
     {
       "added_at": "2026-02-27 05:00:28",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-02-27 05:00:28",
       "album": {
+        "name": "Bleed On Paper (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
+        "url": "https://open.spotify.com/album/7JsgQ1vqBoUrtcuSuZ5qFH"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 347946,
+      "name": "Bleed On Paper - Live At The Pinnacle, Nashville, TN / May 24, 2025",
+      "url": "https://open.spotify.com/track/3HthvlnNlEfKWnDdIttKQa"
+    },
+    {
+      "added_at": "2026-02-27 05:00:28",
+      "album": {
         "name": "Live From Telluride",
         "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 292579,
       "name": "Woman, Amen - Live",
       "url": "https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85"
-    },
-    {
-      "added_at": "2026-02-27 05:00:28",
-      "album": {
-        "name": "Bleed On Paper (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
-        "url": "https://open.spotify.com/album/7JsgQ1vqBoUrtcuSuZ5qFH"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 347946,
-      "name": "Bleed On Paper - Live At The Pinnacle, Nashville, TN / May 24, 2025",
-      "url": "https://open.spotify.com/track/3HthvlnNlEfKWnDdIttKQa"
     },
     {
       "added_at": "2026-02-27 05:00:28",

@@ -567,12 +567,12 @@
     },
     {
       "album": {
-        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4\u3011",
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u591c\u685c\u3055\u3093\u3061\u306e\u5927\u4f5c\u6226\u3011",
         "url": "https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9"
       },
       "artists": [
         {
-          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4\u3011",
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u591c\u685c\u3055\u3093\u3061\u306e\u5927\u4f5c\u6226\u3011",
           "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
         }
       ],
@@ -1026,6 +1026,24 @@
       "duration_ms": 109266,
       "name": "\u30eb\u30d5\u30a3\u306e\u5922",
       "url": "https://open.spotify.com/track/1juDwtB0oyuiwhkoxmY201"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30df\u30ca\u30b9 - Luminous",
+        "url": "https://open.spotify.com/album/4N1jAPvr2Mf3WuWbogas36"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235777,
+      "name": "\u30eb\u30df\u30ca\u30b9 - Luminous",
+      "url": "https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"
     },
     {
       "album": {

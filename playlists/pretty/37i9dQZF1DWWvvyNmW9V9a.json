@@ -1,13 +1,101 @@
 {
-  "description": "My spotify wrapped in one photo",
-  "num_followers": 2095794,
+  "description": "weloveitweloveitweloveit",
+  "num_followers": 2095603,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPEvELtuZXnHjdFkAkNFl2Y51hhu",
+  "snapshot_id": "AAAAAJ1if6d+r71TXcBJfzVtkSEcgTIF",
   "tracks": [
+    {
+      "added_at": "2026-01-16 05:00:46",
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "added_at": "2026-04-03 04:01:00",
+      "album": {
+        "name": "Reputation (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
+    },
+    {
+      "added_at": "2026-03-27 04:19:28",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/3Jkm1bpLu02vfw8vIREcVY"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 228764,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/5ioB3LzMIXG31NYMXV685k"
+    },
+    {
+      "added_at": "2026-02-06 05:00:32",
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-04-03 04:01:00",
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 184788,
+      "name": "Night at the Opera",
+      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
+    },
     {
       "added_at": "2026-03-27 05:00:28",
       "album": {
@@ -23,6 +111,22 @@
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+    },
+    {
+      "added_at": "2026-04-03 04:01:00",
+      "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/43ofZlnNQdkShMzTJ1t8m4"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 175394,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/2CTcuej5JksGvIXcH7CkW6"
     },
     {
       "added_at": "2026-02-06 05:00:32",
@@ -61,26 +165,6 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-02-06 05:00:32",
-      "album": {
-        "name": "Dracula (Remix)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
       "added_at": "2026-02-27 05:00:35",
       "album": {
         "name": "Into You (Spotify Singles)",
@@ -97,20 +181,52 @@
       "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
     },
     {
-      "added_at": "2026-03-27 04:19:28",
+      "added_at": "2026-04-03 04:01:00",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/3Jkm1bpLu02vfw8vIREcVY"
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 228764,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/5ioB3LzMIXG31NYMXV685k"
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "added_at": "2026-02-16 15:24:33",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-04-03 04:25:30",
+      "album": {
+        "name": "Fort",
+        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "Fort",
+      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
     },
     {
       "added_at": "2026-03-27 04:19:28",
@@ -127,6 +243,54 @@
       "duration_ms": 206022,
       "name": "Steady",
       "url": "https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh"
+    },
+    {
+      "added_at": "2026-04-03 04:01:00",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 145710,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
+    },
+    {
+      "added_at": "2026-04-03 04:01:00",
+      "album": {
+        "name": "Daredevil",
+        "url": "https://open.spotify.com/album/1GgeRqhrpX8WUXMOZx16Gr"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Daredevil",
+      "url": "https://open.spotify.com/track/2cvuYoAarEwjOoNcTVOFxJ"
+    },
+    {
+      "added_at": "2026-03-27 04:19:28",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 192572,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
     },
     {
       "added_at": "2026-03-20 04:00:49",
@@ -177,54 +341,6 @@
       "url": "https://open.spotify.com/track/2h6ipaJ4usnWA8WwkSrnVI"
     },
     {
-      "added_at": "2026-02-16 15:24:33",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-03-27 04:19:28",
-      "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 192572,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
-    },
-    {
-      "added_at": "2026-03-16 19:52:07",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/0hYuQ5w39NwmJkC5JN6e9C"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 176413,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd"
-    },
-    {
       "added_at": "2026-03-20 04:00:49",
       "album": {
         "name": "Make It Out",
@@ -255,6 +371,22 @@
       "duration_ms": 248866,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
+    },
+    {
+      "added_at": "2026-04-03 04:01:00",
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR"
+      },
+      "artists": [
+        {
+          "name": "Sofia D'Angelo",
+          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -941,22 +1073,6 @@
       "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
     },
     {
-      "added_at": "2026-01-16 05:00:46",
-      "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
-    },
-    {
       "added_at": "2025-10-10 04:02:38",
       "album": {
         "name": "The Life of a Showgirl",
@@ -1021,22 +1137,6 @@
       "url": "https://open.spotify.com/track/2UJ5jlXlRkBx4dyVGIEGc0"
     },
     {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
-        "name": "the punisher",
-        "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 189107,
-      "name": "the punisher",
-      "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
-    },
-    {
       "added_at": "2026-02-13 05:00:48",
       "album": {
         "name": "DON\u2019T YOU SEE ME TRYING?",
@@ -1051,22 +1151,6 @@
       "duration_ms": 213887,
       "name": "DON\u2019T YOU SEE ME TRYING?",
       "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
-    },
-    {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
-        "name": "psychokiller / myself",
-        "url": "https://open.spotify.com/album/2IUOsRFVSNNxG5bbEfWMTB"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 113982,
-      "name": "psychokiller",
-      "url": "https://open.spotify.com/track/09V4HW3dQhhYrKYOQE2JIb"
     },
     {
       "added_at": "2025-11-21 05:00:32",
@@ -1445,22 +1529,6 @@
       "url": "https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg"
     },
     {
-      "added_at": "2026-02-06 05:00:32",
-      "album": {
-        "name": "Die For Me",
-        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 180147,
-      "name": "Die For Me",
-      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
-    },
-    {
       "added_at": "2026-01-30 05:00:51",
       "album": {
         "name": "Run My Way",
@@ -1475,74 +1543,6 @@
       "duration_ms": 164366,
       "name": "Run My Way",
       "url": "https://open.spotify.com/track/5vEdGoNQHH2FZT9y2wc2zr"
-    },
-    {
-      "added_at": "2026-01-01 03:00:08",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
-    },
-    {
-      "added_at": "2026-01-23 05:00:28",
-      "album": {
-        "name": "THE CORE - \u6838",
-        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "HYPNOTIZE",
-      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
-    },
-    {
-      "added_at": "2026-01-23 05:00:28",
-      "album": {
-        "name": "Little Miss (Misdemeanor)",
-        "url": "https://open.spotify.com/album/4N51uGCt5bGANnyPrLmFpC"
-      },
-      "artists": [
-        {
-          "name": "GIRLSET",
-          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 144357,
-      "name": "Little Miss (Misdemeanor)",
-      "url": "https://open.spotify.com/track/0mZh3bGsEvKJnBhppPp3f2"
-    },
-    {
-      "added_at": "2026-01-01 03:00:08",
-      "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 521866,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m"
     },
     {
       "added_at": "2025-12-19 05:00:41",
@@ -1575,22 +1575,6 @@
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2026-01-16 05:00:46",
-      "album": {
-        "name": "THE SIN : VANISH (English Ver.)",
-        "url": "https://open.spotify.com/album/4h3umvQDxwVMlZ7Adtc8Ad"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 139045,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/6zJ8WtlfwwXC6jPDj6jM05"
     },
     {
       "added_at": "2025-11-07 05:00:57",

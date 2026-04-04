@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: IRENE \(Red Velvet\)
 
-1,695 songs - 3 day 17 hr 36 min
+1,696 songs - 3 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Bitter Sweet](https://open.spotify.com/track/4c0eCpo9kJKSzGuLA7fO2u) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Bitter Sweet](https://open.spotify.com/album/3pZJO8WHkjxw1bsSlAvYHH) | 2:48 | 2026-01-15 |  |
 | [Bittersweet](https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [AFTER CRY](https://open.spotify.com/album/24QS9JAsso6CwnGe8TK9Rk) | 3:20 | 2026-03-24 |  |
 | [Black Eye](https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Black Eye](https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9) | 2:40 | 2022-12-22 | 2023-02-28 |
-| [BLACKHOLE](https://open.spotify.com/track/2ytQFMxdreEFPPZTtyDdqM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 3:14 | 2026-02-23 |  |
+| [BLACKHOLE](https://open.spotify.com/track/2ytQFMxdreEFPPZTtyDdqM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 3:14 | 2026-02-23 | 2026-04-04 |
 | [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:06 | 2022-09-20 | 2023-03-04 |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-10 | 2022-04-01 |
 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 | 2023-08-14 | 2023-10-11 |
@@ -460,6 +460,7 @@
 | [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 | 2025-07-15 | 2025-11-18 |
 | [Farewell](https://open.spotify.com/track/7rJZp1DVysX95a6lX9ThiP) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [Farewell](https://open.spotify.com/album/2Ub5QAeVor8nv2MvmedyJF) | 3:15 | 2024-07-19 | 2024-08-21 |
 | [Farewell for now!](https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:27 | 2025-07-14 | 2026-02-27 |
+| [Fashion](https://open.spotify.com/track/4VSNKUbDAxpuc5M3RDcr67) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Fashion](https://open.spotify.com/album/1J2prcjhlTgMHpgThVrBEw) | 2:08 | 2026-04-03 |  |
 | [Fast Forward](https://open.spotify.com/track/3azPgbRMHsmLSy3yGtPpou) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/4NgDkWmnklUhpnXi3sXWkp) | 2:40 | 2024-04-18 | 2024-04-27 |
 | [Fast Forward](https://open.spotify.com/track/4EsqgOzLn45dCHIDIhtg6W) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7BAwtfjDEyG6l2nFlNkkLy) | 2:40 | 2023-08-07 | 2023-08-11 |
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-10 | 2024-04-19 |

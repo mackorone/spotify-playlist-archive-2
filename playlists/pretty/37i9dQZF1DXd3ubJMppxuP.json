@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 86876,
+  "num_followers": 86895,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
-        "name": "Links, Rechts",
-        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
-      },
-      "artists": [
-        {
-          "name": "Arimann",
-          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
-        },
-        {
-          "name": "C-strike",
-          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Links, Rechts",
-      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
         "name": "Van Goes Tot Purmerend (Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix)",
         "url": "https://open.spotify.com/album/6eauvU44jAYmb66jXi3ZMS"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 150193,
       "name": "Van Goes Tot Purmerend - Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix",
       "url": "https://open.spotify.com/track/5M0ngOXI5ivJW4UJq5FwsS"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
+        "name": "Links, Rechts",
+        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
+      },
+      "artists": [
+        {
+          "name": "Arimann",
+          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
+        },
+        {
+          "name": "C-strike",
+          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Links, Rechts",
+      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
     },
     {
       "added_at": "2026-04-02 22:00:25",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-04-02 22:00:25",
       "album": {
+        "name": "Allez Allez Allez (Original Mix)",
+        "url": "https://open.spotify.com/album/4YMwHhq4OIzESqEAQ1bNZ3"
+      },
+      "artists": [
+        {
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        },
+        {
+          "name": "Buren Van De Brandweer",
+          "url": "https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB"
+        }
+      ],
+      "duration_ms": 215612,
+      "name": "Allez Allez Allez - Original Mix",
+      "url": "https://open.spotify.com/track/6h8Ycc0BdpEE0FkbRPygs3"
+    },
+    {
+      "added_at": "2026-04-02 22:00:25",
+      "album": {
         "name": "Doe Maar",
         "url": "https://open.spotify.com/album/1tZ2LLBIawSYfhcalfYDRv"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 139354,
       "name": "Doe Maar",
       "url": "https://open.spotify.com/track/29JcOMyinCk92BmIw1lBF5"
-    },
-    {
-      "added_at": "2026-04-02 22:00:25",
-      "album": {
-        "name": "Allez Allez Allez (Original Mix)",
-        "url": "https://open.spotify.com/album/4YMwHhq4OIzESqEAQ1bNZ3"
-      },
-      "artists": [
-        {
-          "name": "Bass Chaserz",
-          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
-        },
-        {
-          "name": "Buren Van De Brandweer",
-          "url": "https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB"
-        }
-      ],
-      "duration_ms": 215612,
-      "name": "Allez Allez Allez - Original Mix",
-      "url": "https://open.spotify.com/track/6h8Ycc0BdpEE0FkbRPygs3"
     },
     {
       "added_at": "2026-04-02 22:00:25",

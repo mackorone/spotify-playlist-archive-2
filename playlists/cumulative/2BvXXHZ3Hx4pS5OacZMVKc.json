@@ -8271,6 +8271,24 @@
     },
     {
       "album": {
+        "name": "the night",
+        "url": "https://open.spotify.com/album/4MW7BKPEtVBCwNkGpBVdCX"
+      },
+      "artists": [
+        {
+          "name": "joegarratt",
+          "url": "https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196521,
+      "name": "the night",
+      "url": "https://open.spotify.com/track/46zNu7e4pk9zACVfHARqkX"
+    },
+    {
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL"
       },

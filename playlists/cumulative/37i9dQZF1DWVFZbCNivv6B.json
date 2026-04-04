@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Eptos Uno en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Santa Fe Klan en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 252307,
       "name": "Bendita Calle",
       "url": "https://open.spotify.com/track/12teqUP6c6CeJDOqufvrXs"
@@ -4278,7 +4278,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 176326,
       "name": "CREED",
       "url": "https://open.spotify.com/track/3stduLq9wmMnajUbwIfQqj"
@@ -5544,6 +5544,28 @@
       "duration_ms": 165000,
       "name": "El 3",
       "url": "https://open.spotify.com/track/33AIdiKIDEjHB9lG3EtTOD"
+    },
+    {
+      "album": {
+        "name": "El Alma Pide Tregua",
+        "url": "https://open.spotify.com/album/6BkN6ssR0TA0szrb0Uq2yL"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        },
+        {
+          "name": "Astrosoul",
+          "url": "https://open.spotify.com/artist/6TKbONIcxUMlSzzl3WKowZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "El Alma Pide Tregua",
+      "url": "https://open.spotify.com/track/0pmAzbt5oo1IA1QkzWSNXN"
     },
     {
       "album": {
@@ -7228,7 +7250,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 138760,
       "name": "Filo",
       "url": "https://open.spotify.com/track/1bwyuEudsWNDH5kNiAmVsT"
@@ -11934,6 +11956,24 @@
       "duration_ms": 172800,
       "name": "Modo Placoson",
       "url": "https://open.spotify.com/track/0tDUlHQeq4jwu3cSNZDjIY"
+    },
+    {
+      "album": {
+        "name": "Modo Toro",
+        "url": "https://open.spotify.com/album/0ZfKLiEMyWX8sarNblKKUJ"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Modo Toro",
+      "url": "https://open.spotify.com/track/26yka8uT2cvtDaCQX4By1z"
     },
     {
       "album": {
@@ -18614,6 +18654,24 @@
       "duration_ms": 254210,
       "name": "Vasos Llenos",
       "url": "https://open.spotify.com/track/5Qe6UqKkCumprVxBsDgeB9"
+    },
+    {
+      "album": {
+        "name": "Velorios",
+        "url": "https://open.spotify.com/album/578mjv4Zfjl4ZP0CZaWmI9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166363,
+      "name": "Velorios",
+      "url": "https://open.spotify.com/track/3stp1Fb0YGmLDeDoaLw1cC"
     },
     {
       "album": {

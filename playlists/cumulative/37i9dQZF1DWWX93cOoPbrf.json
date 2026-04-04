@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Plan de Escape, Grupo Selectivo en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Lencho en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -328,7 +328,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195235,
       "name": "31",
       "url": "https://open.spotify.com/track/52iU8FRAZPz9wxalRkugYI"
@@ -372,6 +372,28 @@
       "duration_ms": 184750,
       "name": "43",
       "url": "https://open.spotify.com/track/67js9OWiJFxrlKfF8biyq6"
+    },
+    {
+      "album": {
+        "name": "TODO \u00d8 NADA",
+        "url": "https://open.spotify.com/album/3RtTWm3ks5SxtmpH1ZYTam"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        },
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156283,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/3ow0KDTn32H0MKskS6UkHI"
     },
     {
       "album": {
@@ -516,7 +538,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 183374,
       "name": "7",
       "url": "https://open.spotify.com/track/6dKDwvZWjxrAzOA57Phiik"
@@ -1040,7 +1062,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 170546,
       "name": "Agarrense De Los Pelos",
       "url": "https://open.spotify.com/track/3MTxzR8OFsf585RmAG4qPo"
@@ -1548,7 +1570,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 205032,
       "name": "AMANECIDO Y REGA\u00d1ADO",
       "url": "https://open.spotify.com/track/67BjeJkPgqHpkzlQveRoFh"
@@ -1726,7 +1748,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 196706,
       "name": "Amistades",
       "url": "https://open.spotify.com/track/5ZoWz5CRPRsxteUQpMnfAw"
@@ -2756,7 +2778,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 167029,
       "name": "BACKPACKBOYZ",
       "url": "https://open.spotify.com/track/3zk3QsN8oYaiQ4Yh42XbOI"
@@ -3470,6 +3492,24 @@
       "duration_ms": 162649,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
+    },
+    {
+      "album": {
+        "name": "Blue Label",
+        "url": "https://open.spotify.com/album/1GGuvWyx29pR7eAikrjBDj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ajedrez",
+          "url": "https://open.spotify.com/artist/0zQFDEHdNnqztZUHX5bzor"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "Blue Label",
+      "url": "https://open.spotify.com/track/6s0eQ3Qu012386r7mvKAyC"
     },
     {
       "album": {
@@ -5992,7 +6032,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 212678,
       "name": "CUANDO SE ACABE EL TIEMPO",
       "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
@@ -6594,7 +6634,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 221617,
       "name": "De Que Color Es La Suerte",
       "url": "https://open.spotify.com/track/2RhyI9fUK2bEn6blowOh9w"
@@ -7546,7 +7586,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 210016,
       "name": "DOPAMINA",
       "url": "https://open.spotify.com/track/6FZgPSk98dzmB0DKXl9pSD"
@@ -9216,7 +9256,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 174754,
       "name": "El Chaval\u00f3n",
       "url": "https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu"
@@ -9906,7 +9946,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 166954,
       "name": "El Cuadrito",
       "url": "https://open.spotify.com/track/75kjqC5yfd9ugvL93TF6vY"
@@ -15891,6 +15931,28 @@
     },
     {
       "album": {
+        "name": "En Pl\u00e1ticas (Los Hermanos)",
+        "url": "https://open.spotify.com/album/3EkbIuzFjc14Q4Ztynzggr"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225512,
+      "name": "En Pl\u00e1ticas (Los Hermanos)",
+      "url": "https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37"
+    },
+    {
+      "album": {
         "name": "En Preparaci\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/1x8RKVyxWp1SIDgudWc54v"
       },
@@ -17040,7 +17102,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 152711,
       "name": "FLP",
       "url": "https://open.spotify.com/track/3l4vG1hk9JEoafdJfvtdqt"
@@ -18350,7 +18412,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 187034,
       "name": "Haciendo Memoria",
       "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
@@ -18766,7 +18828,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 164990,
       "name": "Hombre Decente",
       "url": "https://open.spotify.com/track/5wRxQtDtsLYUPIREISJVR5"
@@ -19144,7 +19206,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 128176,
       "name": "INMORTAL - En Vivo",
       "url": "https://open.spotify.com/track/4jyvlg5WP1JRzXQBkETVrB"
@@ -19296,7 +19358,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 170786,
       "name": "Ja Ja Ja",
       "url": "https://open.spotify.com/track/19RSHNMecvp9ilGYt1AP4E"
@@ -20474,6 +20536,28 @@
       "duration_ms": 168806,
       "name": "La Casa De Balta",
       "url": "https://open.spotify.com/track/2dIlhCIUP8P9kAjs9qDgvE"
+    },
+    {
+      "album": {
+        "name": "La casa invita",
+        "url": "https://open.spotify.com/album/38EPwqC9fEIXMguiSL4Bqw"
+      },
+      "artists": [
+        {
+          "name": "Los Del Sombrero",
+          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202348,
+      "name": "La casa invita",
+      "url": "https://open.spotify.com/track/5Ouos7p0h5cznctDj4Zqes"
     },
     {
       "album": {
@@ -22428,7 +22512,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 172784,
       "name": "La Yoguriza",
       "url": "https://open.spotify.com/track/6Eezs4B0SeNyYJT5Y7bDUz"
@@ -24775,6 +24859,24 @@
     },
     {
       "album": {
+        "name": "MAM\u00c1",
+        "url": "https://open.spotify.com/album/0bzB374WBUdseskQbfvBIY"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154100,
+      "name": "MAM\u00c1",
+      "url": "https://open.spotify.com/track/6iCDYz5bAAugTv8KiIrDsr"
+    },
+    {
+      "album": {
         "name": "Mando 15",
         "url": "https://open.spotify.com/album/7eLDaLIfb0sjFtY5XWnGG6"
       },
@@ -25548,7 +25650,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 174572,
       "name": "Mente Diferente",
       "url": "https://open.spotify.com/track/4mA8ZTzAyoxIRMgRWEqeLn"
@@ -27674,7 +27776,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 149655,
       "name": "NO QUE NO",
       "url": "https://open.spotify.com/track/4jcRduigE9cWdQ4i8TLAy4"
@@ -28842,7 +28944,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 131283,
       "name": "Perd\u00f3name Madre",
       "url": "https://open.spotify.com/track/0ZKeHPeJL5R366BYufA7Eg"
@@ -28944,7 +29046,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 233568,
       "name": "PESO",
       "url": "https://open.spotify.com/track/11PDXMGdJ3fbRrWLvFfmfz"
@@ -30366,7 +30468,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 168172,
       "name": "Que Somos De Guerra",
       "url": "https://open.spotify.com/track/3HC7YpUGk9Q6rq1GLpyRqq"
@@ -33572,6 +33674,28 @@
       "duration_ms": 189880,
       "name": "SUR 99",
       "url": "https://open.spotify.com/track/0ZNH6BbpqLlxnO9zBUdB9T"
+    },
+    {
+      "album": {
+        "name": "S\u00faper Snake",
+        "url": "https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146104,
+      "name": "S\u00faper Snake",
+      "url": "https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam"
     },
     {
       "album": {

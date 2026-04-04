@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,489 songs - 3 day 22 hr 45 min
+2,490 songs - 3 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Allow It](https://open.spotify.com/track/4b6cxtbIeT6OwZSZkWUYuQ) | [Wizz Waxx](https://open.spotify.com/artist/3x0GWtlYHPByYQ4oHhu78v) | [Allow It](https://open.spotify.com/album/6J7qlSmP8puWinffn1sL2Q) | 2:36 | 2023-06-06 | 2025-12-13 |
 | [Almost there](https://open.spotify.com/track/0RnzyFuEQzW11TgQAgZDjS) | [LOFI LAND](https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe) | [Long nights](https://open.spotify.com/album/7rUoTdbIc3AwmKIZbjYlIc) | 2:00 | 2023-07-13 | 2023-10-06 |
 | [Alone In Town](https://open.spotify.com/track/3YSMxn9PMuLn25EXyBplpd) | [Gereoux](https://open.spotify.com/artist/1Euv0945nayOdRB6RTLDZz) | [Alone In Town](https://open.spotify.com/album/1cXiG685Ny0feXVwplO4XI) | 2:33 | 2022-04-15 | 2023-08-18 |
+| [alone with the moon.](https://open.spotify.com/track/2BA6LBNb0PWq6rb6Kn2TqW) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [alone with the moon.](https://open.spotify.com/album/3lBc2wGCbhf0SY5pI6iI4F) | 2:09 | 2026-04-03 |  |
 | [Alter Time](https://open.spotify.com/track/2uqowBnUT4KrCszpKiOLCH) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Alter Time](https://open.spotify.com/album/6vKh9udH7E3c4tqSJN9YUn) | 1:37 | 2022-04-15 | 2022-05-13 |
 | [Always be mine](https://open.spotify.com/track/3Llf4MEMJvO99Hv8yBJtVu) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Minecraft Thong](https://open.spotify.com/album/6I4a6SNWmypJbB7x74i0Hq) | 1:44 | 2022-04-15 | 2023-08-18 |
 | [Always June](https://open.spotify.com/track/56CgYH9CRH62m5qLC3qbB0) | [Reeve](https://open.spotify.com/artist/0OX3FCZUygSczPyekt9Ne3) | [Always June](https://open.spotify.com/album/6ddQFl7CIOw5FIFe6RT1Jg) | 2:18 | 2022-04-15 | 2022-07-15 |
@@ -691,7 +692,7 @@
 | [Eyes Closed](https://open.spotify.com/track/46vOrwK5aYq71BwwIAv1iO) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [Eyes Closed](https://open.spotify.com/album/75NgOVy1YHg0cff4XhUsYQ) | 2:12 | 2024-11-15 | 2025-01-18 |
 | [eyes closed, you're there](https://open.spotify.com/track/79f0bb3Ptsk7zMgrJaYzVG) | [SPUDB](https://open.spotify.com/artist/21zky5Q21cXOpPlec8XnM6) | [eyes closed, you're there](https://open.spotify.com/album/0gYoOACjMC3djvoKbgXTvo) | 2:14 | 2025-03-21 | 2025-04-15 |
 | [Eye´s on the Price](https://open.spotify.com/track/4BEk85p0hvQtzGzJbHxBHP) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Return of the Jack](https://open.spotify.com/album/3nTO2fsEvZmvfjIcoK7bDB) | 2:25 | 2023-03-08 | 2025-05-24 |
-| [Face](https://open.spotify.com/track/6jGCkbfRXslP7G9EOe9gwY) | [Volarie](https://open.spotify.com/artist/5cLs9WlHGvjnzJYGX5gAfY) | [Face](https://open.spotify.com/album/1LBhMYx62j5jQC4jxJtp5M) | 2:22 | 2026-02-27 |  |
+| [Face](https://open.spotify.com/track/6jGCkbfRXslP7G9EOe9gwY) | [Volarie](https://open.spotify.com/artist/5cLs9WlHGvjnzJYGX5gAfY) | [Face](https://open.spotify.com/album/1LBhMYx62j5jQC4jxJtp5M) | 2:22 | 2026-02-27 | 2026-04-04 |
 | [fade](https://open.spotify.com/track/1TAyi2YdPbbNYSULs0EXbP) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [fade](https://open.spotify.com/album/4jIA0uhC3mxgNyHCUk534m) | 2:27 | 2025-03-14 |  |
 | [Fade](https://open.spotify.com/track/5AOVlBVKca5uYJ18Q29U6D) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Fade](https://open.spotify.com/album/6IFb5yjI69X7igE69Gm2dY) | 3:05 | 2022-10-07 | 2025-07-03 |
 | [Fade Away](https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Fade Away](https://open.spotify.com/album/2evuwGsDHMb3h17P7v2Tc8) | 2:44 | 2022-04-15 | 2022-09-02 |

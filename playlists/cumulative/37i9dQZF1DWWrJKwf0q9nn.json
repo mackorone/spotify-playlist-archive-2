@@ -8389,6 +8389,24 @@
     },
     {
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143197,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy"
+    },
+    {
+      "album": {
         "name": "I Can Feel It",
         "url": "https://open.spotify.com/album/3sEZDPWtV4NHR9dtbiFTo4"
       },
@@ -9098,6 +9116,40 @@
       "duration_ms": 255426,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1UcSwc91w0QBondREndseA"
+    },
+    {
+      "album": {
+        "name": "Orchestral Selection I",
+        "url": "https://open.spotify.com/album/1IDX0S9zQMjjCh48YJzofO"
+      },
+      "artists": [
+        {
+          "name": "Symphony of Unity",
+          "url": "https://open.spotify.com/artist/3XgyPMGFzQghhrW2xJS8WG"
+        },
+        {
+          "name": "Ivan Gough",
+          "url": "https://open.spotify.com/artist/5aBWZE8TOaaA9O50ENS3EM"
+        },
+        {
+          "name": "Feenixpawl",
+          "url": "https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        },
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262556,
+      "name": "In My Mind - Symphony of Unity Orchestral Rework",
+      "url": "https://open.spotify.com/track/5q8NalPQ5KKffo1pjMPSkK"
     },
     {
       "album": {
@@ -10517,7 +10569,7 @@
     },
     {
       "album": {
-        "name": "Lete Sound",
+        "name": "Lete Sound (Restore Local Sessions 001)",
         "url": "https://open.spotify.com/album/6RxCoZTc7ajcgAHcDvUZ4R"
       },
       "artists": [
@@ -10538,7 +10590,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182500,
-      "name": "Lete Sound",
+      "name": "Lete Sound (Restore Local Sessions 001)",
       "url": "https://open.spotify.com/track/0SU9TnI7NcHKxiPa7TGxOO"
     },
     {
@@ -19160,24 +19212,6 @@
       "duration_ms": 183750,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD"
-    },
-    {
-      "album": {
-        "name": "Orchestral Selection I",
-        "url": "https://open.spotify.com/album/1IDX0S9zQMjjCh48YJzofO"
-      },
-      "artists": [
-        {
-          "name": "Symphony of Unity",
-          "url": "https://open.spotify.com/artist/3XgyPMGFzQghhrW2xJS8WG"
-        }
-      ],
-      "date_added": "2026-04-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/5q8NalPQ5KKffo1pjMPSkK"
     },
     {
       "album": {

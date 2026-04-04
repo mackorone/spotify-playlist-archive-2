@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 189451,
       "name": "ANIMALS",
       "url": "https://open.spotify.com/track/4FehQmnjOqHjfDdQkh5zzQ"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 324259,
       "name": "Another After-Break Up Song",
       "url": "https://open.spotify.com/track/5Kn0MelgROC2HH4ns360KI"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 148036,
       "name": "CC & Strawberries - Fast as F**k",
       "url": "https://open.spotify.com/track/0OQ4PerXyhp2EUAudOnJTD"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 213453,
       "name": "D Is For Dangerous",
       "url": "https://open.spotify.com/track/2w89uUFddutMqIZIw6FtcG"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 240233,
       "name": "Democracy Don't Die Quiet",
       "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 226240,
       "name": "Ellen",
       "url": "https://open.spotify.com/track/7ycnba4OL72xpjFXTMQWVo"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 111433,
       "name": "Flexrage Circuit",
       "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "hate u right back!",
+        "url": "https://open.spotify.com/album/6hPY79Bd6vKItp4LkzOyJw"
+      },
+      "artists": [
+        {
+          "name": "Kayla Madison",
+          "url": "https://open.spotify.com/artist/0yTXvoyz3V4lCaI5LpDkf5"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195724,
+      "name": "hate u right back!",
+      "url": "https://open.spotify.com/track/1ZA8CfB3mey8cITFAJBH2s"
+    },
+    {
+      "album": {
         "name": "Gold Medal (U.S. Version 83770)",
         "url": "https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF"
       },
@@ -2483,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "Hell and Everything Between",
+        "url": "https://open.spotify.com/album/3s2ZB1imsW0u5A3fPMH5s5"
+      },
+      "artists": [
+        {
+          "name": "Alison O'Brien",
+          "url": "https://open.spotify.com/artist/4pzM98QFfS36BLe5fzhUkn"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168855,
+      "name": "Hell and Everything Between",
+      "url": "https://open.spotify.com/track/48CWlDiqiNvbq2Uouin6FG"
+    },
+    {
+      "album": {
         "name": "Hell in a Halter Top",
         "url": "https://open.spotify.com/album/7e1LhCKIFl9NcDzib7YPzW"
       },
@@ -2530,7 +2566,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -2894,7 +2930,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 162124,
       "name": "I Can't",
       "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
@@ -3208,7 +3244,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -3226,7 +3262,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 213640,
       "name": "It's Not You",
       "url": "https://open.spotify.com/track/6RjSUGBSoURetoxEdJ5JPE"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 213480,
       "name": "It's Not You - SC Radio Mix",
       "url": "https://open.spotify.com/track/1gswIHZ2LUd4YYTo2Rw5CV"
@@ -3442,7 +3478,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -3662,7 +3698,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 313165,
       "name": "Light Years Away",
       "url": "https://open.spotify.com/track/1TqnTnk93eBaEivtvWHDxn"
@@ -3904,6 +3940,24 @@
       "duration_ms": 273769,
       "name": "Mariner Martyr",
       "url": "https://open.spotify.com/track/4ZGNrkCqvABwa99rnTOddZ"
+    },
+    {
+      "album": {
+        "name": "Maybe Probably Never",
+        "url": "https://open.spotify.com/album/1nEzYWr7QsFKH4fyFt1C5h"
+      },
+      "artists": [
+        {
+          "name": "Em Armstrong",
+          "url": "https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180469,
+      "name": "Maybe Probably Never",
+      "url": "https://open.spotify.com/track/5gHntCnSOT7o2kTPyvWEIC"
     },
     {
       "album": {
@@ -4152,7 +4206,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -5272,7 +5326,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 215850,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/1nvgo4zmHlLbVbpn3BQVF6"
@@ -5636,7 +5690,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -5708,7 +5762,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-26",
+      "date_removed": null,
       "duration_ms": 208266,
       "name": "Sweet Temptation (Hollow)",
       "url": "https://open.spotify.com/track/0P4Ne1Nzvf7wtcW5kdGuFF"
@@ -6292,7 +6346,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 74239,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/10SC9NmZ3umGmZc3AErkSS"
@@ -6526,7 +6580,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-23",
+      "date_removed": null,
       "duration_ms": 169173,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/5DDd2Gq55LpJYmmoRYLqqe"

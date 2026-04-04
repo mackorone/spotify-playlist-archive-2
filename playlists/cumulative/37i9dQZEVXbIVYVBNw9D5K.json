@@ -505,6 +505,28 @@
     },
     {
       "album": {
+        "name": "57",
+        "url": "https://open.spotify.com/album/7A4B937zdGSlOdZAc5oQCh"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128307,
+      "name": "57",
+      "url": "https://open.spotify.com/track/6n6Qy0b2bNrRsAS5bU1pqd"
+    },
+    {
+      "album": {
         "name": "6.4 MM",
         "url": "https://open.spotify.com/album/36fv58YTKRDS8gZS6Nqfjo"
       },
@@ -3312,7 +3334,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 275266,
       "name": "Bak",
       "url": "https://open.spotify.com/track/4zAy3I7Amhup6JeDLFkKhH"
@@ -4340,7 +4362,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 312000,
       "name": "Beni Hat\u0131rla",
       "url": "https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE"
@@ -10366,7 +10388,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 164869,
       "name": "Gel",
       "url": "https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu"
@@ -11584,6 +11606,32 @@
       "duration_ms": 146239,
       "name": "G\u00fcl\u015fen",
       "url": "https://open.spotify.com/track/6DI8vp0suhomDFI6ItyLzr"
+    },
+    {
+      "album": {
+        "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
+        "url": "https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO"
+      },
+      "artists": [
+        {
+          "name": "Ayse Hatun Onal",
+          "url": "https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS"
+        },
+        {
+          "name": "Onurr",
+          "url": "https://open.spotify.com/artist/3I3kGrPbyHSER6DIxsbsac"
+        },
+        {
+          "name": "Serhat Karadag",
+          "url": "https://open.spotify.com/artist/5lnel6i9CbZEYoWSyiYnEk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227428,
+      "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
+      "url": "https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI"
     },
     {
       "album": {
@@ -24106,7 +24154,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 149711,
       "name": "Snap",
       "url": "https://open.spotify.com/track/2mW1SMo4VbI2MFCTKOBZ6W"

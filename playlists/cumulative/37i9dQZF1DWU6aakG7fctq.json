@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Sofia Thompson",
+  "description": "Fresh Latin Indie you should know. Cover: CA7RIEL & Paco Amoroso",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1741,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Ataques en mi ciudad",
+        "url": "https://open.spotify.com/album/5Uf4QqRyjV8sVwzCGjDAcC"
+      },
+      "artists": [
+        {
+          "name": "Sakatumba",
+          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159095,
+      "name": "Ataques en mi ciudad",
+      "url": "https://open.spotify.com/track/5bPlBlbed488nYF8lWkvvX"
+    },
+    {
+      "album": {
         "name": "Atrapada",
         "url": "https://open.spotify.com/album/5MIfFyJ75UraxeBT9MV3us"
       },
@@ -2571,6 +2589,28 @@
     },
     {
       "album": {
+        "name": "buttermilk 2",
+        "url": "https://open.spotify.com/album/0GccnfPFtt5X1bmGlKUNZR"
+      },
+      "artists": [
+        {
+          "name": "GRLS",
+          "url": "https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam"
+        },
+        {
+          "name": "RIVVAA",
+          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210258,
+      "name": "buttermilk 2",
+      "url": "https://open.spotify.com/track/6SQgtVsmwZMIluNxdFICeM"
+    },
+    {
+      "album": {
         "name": "By Your Side / A T\u00fa Lado",
         "url": "https://open.spotify.com/album/1rDnhUpyp6uBabWr8JAGzj"
       },
@@ -3128,7 +3168,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 284644,
       "name": "CARRUSEL",
       "url": "https://open.spotify.com/track/479NIpJTkQaCyBpFTWicqa"
@@ -3388,7 +3428,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 190733,
       "name": "CHOQU\u00e9 LA GUAGUA",
       "url": "https://open.spotify.com/track/5xhu6SrNkJkzfciup14VI7"
@@ -3840,7 +3880,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 207652,
       "name": "Control Remoto",
       "url": "https://open.spotify.com/track/6Y7ZyDKzOVOaowCYDWGxoh"
@@ -4234,7 +4274,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 185246,
       "name": "Cu\u00e1nta Raz\u00f3n",
       "url": "https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe"
@@ -6871,6 +6911,24 @@
     },
     {
       "album": {
+        "name": "Eternamente ni\u00f1os",
+        "url": "https://open.spotify.com/album/0whSDJZEPjoCLppKo42YLG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207750,
+      "name": "Eternamente ni\u00f1os",
+      "url": "https://open.spotify.com/track/7y3C4FmCa2rqWL2O6zbhGt"
+    },
+    {
+      "album": {
         "name": "ETERNO RESPLANDOR",
         "url": "https://open.spotify.com/album/3xjKxy9YtsQ5wbcwGy7cqf"
       },
@@ -7946,7 +8004,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 230625,
       "name": "Helao",
       "url": "https://open.spotify.com/track/3aHhwk1a6w7E1l4c8Tz5sB"
@@ -8658,6 +8716,24 @@
       "duration_ms": 206250,
       "name": "Intro (no puedo ser la misma)",
       "url": "https://open.spotify.com/track/5Sr61HzJY1cTiJBUiWPsOK"
+    },
+    {
+      "album": {
+        "name": "Int\u00e9ntalo",
+        "url": "https://open.spotify.com/album/2kUWwA9GQuD2dalI2u1ko9"
+      },
+      "artists": [
+        {
+          "name": "Banowsky",
+          "url": "https://open.spotify.com/artist/4sF1djKUVkePyrhqoToewB"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173692,
+      "name": "Int\u00e9ntalo",
+      "url": "https://open.spotify.com/track/3E04BK5iDcAwmA5rQSxmdG"
     },
     {
       "album": {
@@ -12148,6 +12224,24 @@
       "duration_ms": 169079,
       "name": "Milanesa al Pan",
       "url": "https://open.spotify.com/track/6gE0pYDB5ndP0bSPeXktcL"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Para Abrir El Cielo: Act 2",
+        "url": "https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147423,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB"
     },
     {
       "album": {
@@ -16585,6 +16679,24 @@
     },
     {
       "album": {
+        "name": "rest of your life",
+        "url": "https://open.spotify.com/album/1XscY0FwDa414lJMdoJkGJ"
+      },
+      "artists": [
+        {
+          "name": "Victor Internet",
+          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138805,
+      "name": "rest of your life",
+      "url": "https://open.spotify.com/track/3RWJFWM0eTwfUYVZQmzHWa"
+    },
+    {
+      "album": {
         "name": "revivirlo",
         "url": "https://open.spotify.com/album/16NEAOjw6SYJ7lKsIjYr62"
       },
@@ -16882,6 +16994,24 @@
       "duration_ms": 168571,
       "name": "Salvaje oeste",
       "url": "https://open.spotify.com/track/3Svnj02fGFGjIDACeUFuiI"
+    },
+    {
+      "album": {
+        "name": "Saoco",
+        "url": "https://open.spotify.com/album/5yZQ3J82JuN7O3msXbhZSY"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120370,
+      "name": "Saoco",
+      "url": "https://open.spotify.com/track/0lJCj1r8i2sLsKqp6PfxB3"
     },
     {
       "album": {
@@ -19244,7 +19374,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 264597,
       "name": "Toda la vida, mi vida",
       "url": "https://open.spotify.com/track/5CFPUZof5bx3FZxn1sujxR"
@@ -21568,7 +21698,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 176035,
       "name": "\u00bfPARA QU\u00c9?",
       "url": "https://open.spotify.com/track/3sv8VRyQR79dTWK0cULtlP"

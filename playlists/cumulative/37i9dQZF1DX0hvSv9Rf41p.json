@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 featuring Zeds Dead, Subtronics, & Tape B",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 featuring Of The Trees & LYNY",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -792,7 +792,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 182325,
       "name": "Alien Base",
       "url": "https://open.spotify.com/track/5gTblOIiXXUU962sWyWUk3"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 208181,
       "name": "Answer All My Prayers (feat. Nick Smith)",
       "url": "https://open.spotify.com/track/5X45P7eCFuyC0Z1OVtRDwB"
@@ -2308,6 +2308,28 @@
       "duration_ms": 156065,
       "name": "Back From The Future",
       "url": "https://open.spotify.com/track/5nMDi53vEJa86XBrZC5Ti9"
+    },
+    {
+      "album": {
+        "name": "Second Opinion",
+        "url": "https://open.spotify.com/album/5BA7KTHsTBMHjiuhJMBO77"
+      },
+      "artists": [
+        {
+          "name": "SubDocta",
+          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+        },
+        {
+          "name": "AceMyth",
+          "url": "https://open.spotify.com/artist/3lx0iq7PFYTo4IW4vFQtYj"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212042,
+      "name": "Back In It",
+      "url": "https://open.spotify.com/track/7gKeRFpNRSZyWCzzsYGATM"
     },
     {
       "album": {
@@ -3862,7 +3884,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 189000,
       "name": "Blame Me",
       "url": "https://open.spotify.com/track/0rYUsakT4pHa7WM7IsTLVy"
@@ -4380,7 +4402,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 167441,
       "name": "Bonzi",
       "url": "https://open.spotify.com/track/5ujOoIhhCqra63JraGFTjv"
@@ -4402,6 +4424,36 @@
       "duration_ms": 225600,
       "name": "Boom",
       "url": "https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX"
+    },
+    {
+      "album": {
+        "name": "Booty Percolatin' (Wet Velvet & TCHiLT Remix)",
+        "url": "https://open.spotify.com/album/3NxePk1OrdOslD87m1ggX3"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        },
+        {
+          "name": "dj funk",
+          "url": "https://open.spotify.com/artist/6M0FCfVRUo5DUuziqLFjJ0"
+        },
+        {
+          "name": "Wet Velvet",
+          "url": "https://open.spotify.com/artist/2JfXPBTjqgt8gnZQqVG4Ch"
+        },
+        {
+          "name": "TCHiLT",
+          "url": "https://open.spotify.com/artist/7DzinyxXTg9W3v8s3OXVA5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Booty Percolatin' - Wet Velvet & TCHiLT Remix",
+      "url": "https://open.spotify.com/track/33WIJBqaaBWPjfdUBk4x0R"
     },
     {
       "album": {
@@ -4854,6 +4906,32 @@
       "duration_ms": 238566,
       "name": "Brightest Light (feat. Dotter)",
       "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
+    },
+    {
+      "album": {
+        "name": "Kill Safari",
+        "url": "https://open.spotify.com/album/2nmhNKAThhuizsnGdbFudJ"
+      },
+      "artists": [
+        {
+          "name": "Kill Safari",
+          "url": "https://open.spotify.com/artist/3c0nrfhZe6afmto5cvYodR"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Bro Safari",
+          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/3Yjv5Avygtqs4v0nYtkFna"
     },
     {
       "album": {
@@ -6508,7 +6586,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 205517,
       "name": "Circuit",
       "url": "https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg"
@@ -10394,7 +10472,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 132000,
       "name": "EMPURRA",
       "url": "https://open.spotify.com/track/4VKMrWdhJvNWcCZ8u8hT6R"
@@ -12902,6 +12980,28 @@
     {
       "album": {
         "name": "Free",
+        "url": "https://open.spotify.com/album/5Txy9di57y9Tz7gXE8jJtw"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154749,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7bXd8Z1o8UmP61E9CX59X8"
+    },
+    {
+      "album": {
+        "name": "Free",
         "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
       },
       "artists": [
@@ -13314,7 +13414,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 188571,
       "name": "fuze",
       "url": "https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH"
@@ -13622,7 +13722,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 243287,
       "name": "Get To You",
       "url": "https://open.spotify.com/track/4RSsnFYqVIyhmvQgM7gYFI"
@@ -15861,6 +15961,28 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L"
+    },
+    {
+      "album": {
         "name": "Hollow (with DeathbyRomy)",
         "url": "https://open.spotify.com/album/1fRAl9cLzdlHptJkaZdbuw"
       },
@@ -17429,6 +17551,28 @@
     },
     {
       "album": {
+        "name": "ORGANIC DUBSTEP EP",
+        "url": "https://open.spotify.com/album/7Cntu1kPNfvnBjA5Bw74mp"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        },
+        {
+          "name": "Modal Nodes",
+          "url": "https://open.spotify.com/artist/7IiQzwRO9HsEcSzTDT6OSS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168827,
+      "name": "INFECTED",
+      "url": "https://open.spotify.com/track/5V6Yx8L9ItQUOYq0REdFGj"
+    },
+    {
+      "album": {
         "name": "INFECTED",
         "url": "https://open.spotify.com/album/66lwm1ozaTGXjTiOhUg3N5"
       },
@@ -17690,6 +17834,24 @@
       "duration_ms": 262400,
       "name": "Into Space",
       "url": "https://open.spotify.com/track/1K347oLBkDEuhOJzzpcR21"
+    },
+    {
+      "album": {
+        "name": "Into U",
+        "url": "https://open.spotify.com/album/0vTDXZZRTehCqaJosHP9hT"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ush\u016bu",
+          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220824,
+      "name": "Into U",
+      "url": "https://open.spotify.com/track/7wi2gH9nsmatzDXs7Owitx"
     },
     {
       "album": {
@@ -18703,6 +18865,24 @@
     },
     {
       "album": {
+        "name": "lanadelrey",
+        "url": "https://open.spotify.com/album/39Li2oAsxCMhoJjwgSf0zV"
+      },
+      "artists": [
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "lanadelrey",
+      "url": "https://open.spotify.com/track/3kjYDRDhykMPFgkCkYhHrs"
+    },
+    {
+      "album": {
         "name": "Laserbeam",
         "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
       },
@@ -19358,7 +19538,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 188571,
       "name": "Light You Up ft. CREG",
       "url": "https://open.spotify.com/track/6fpwtsLQwN6CcJIyaSYosE"
@@ -19780,6 +19960,28 @@
       "duration_ms": 215172,
       "name": "Lock In",
       "url": "https://open.spotify.com/track/0A6IKTxklEXg3GhSZrudG7"
+    },
+    {
+      "album": {
+        "name": "Lock It",
+        "url": "https://open.spotify.com/album/5su5O4VTUXWkRpK56jHg96"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Lock It",
+      "url": "https://open.spotify.com/track/3Uzj3nb1oMb7gD7K7MKlQz"
     },
     {
       "album": {
@@ -21965,6 +22167,32 @@
     },
     {
       "album": {
+        "name": "Movement (Wooli & Kompany Remix)",
+        "url": "https://open.spotify.com/album/0cPBiyrMXCOssOWkiETUuw"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Movement - Wooli & Kompany Remix",
+      "url": "https://open.spotify.com/track/4nUr676TfZJbZ8Fva7LIU9"
+    },
+    {
+      "album": {
         "name": "MUCHO CA$H",
         "url": "https://open.spotify.com/album/3x1tILuV6U0qGu9W2OMQfU"
       },
@@ -23931,6 +24159,28 @@
     },
     {
       "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/1m7XvswwabGbeR72Lsbyeh"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
+    },
+    {
+      "album": {
         "name": "One Chance",
         "url": "https://open.spotify.com/album/4whZCf4KZinQmHApTpVCn9"
       },
@@ -24210,7 +24460,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 181718,
       "name": "Onslaught",
       "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
@@ -24356,7 +24606,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 188689,
       "name": "ORGANIC DUBSTEP",
       "url": "https://open.spotify.com/track/7sTVTmnmKO3aRD54h735RK"
@@ -28515,6 +28765,28 @@
     },
     {
       "album": {
+        "name": "Screen Time",
+        "url": "https://open.spotify.com/album/691JxW4iN7wupY8GAWJsOy"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159821,
+      "name": "Screen Time",
+      "url": "https://open.spotify.com/track/3ov53bBru8D5qoSi6bYylL"
+    },
+    {
+      "album": {
         "name": "SECONDS",
         "url": "https://open.spotify.com/album/5Xn6T5RsI175AieQ3amtEw"
       },
@@ -32142,7 +32414,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 121714,
       "name": "Table",
       "url": "https://open.spotify.com/track/5ugXVkNJs6i47gGNntUUNO"
@@ -33205,6 +33477,28 @@
     },
     {
       "album": {
+        "name": "THE SIGNAL",
+        "url": "https://open.spotify.com/album/5d0d21XekO3GZQJOjNeNMm"
+      },
+      "artists": [
+        {
+          "name": "SLUGZ",
+          "url": "https://open.spotify.com/artist/0yJq6jTRvp3btZyePfvuX9"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "THE SIGNAL",
+      "url": "https://open.spotify.com/track/29sFte6wzZpG1wciL9XPrZ"
+    },
+    {
+      "album": {
         "name": "The Stars Are Calling Me",
         "url": "https://open.spotify.com/album/6OWoTpAhlW4NqsuNfiLmMk"
       },
@@ -33690,7 +33984,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 137142,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/1eikreaPZfpVaUX69LwD6f"

@@ -1,12 +1,12 @@
 {
   "description": "This is Sam Fender. The essential tracks, all in one playlist.",
-  "num_followers": 241537,
+  "num_followers": 241625,
   "original_name": "This Is Sam Fender",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAC+88OlpuUIo1B0TxjQiYVb",
+  "snapshot_id": "ac2xgAAAAADS+Kamb62pIoI+0B+wqdpE",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Going Under (Live Deluxe)",
-        "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 130399,
-      "name": "Little Bull Of Blithe",
-      "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
+      "duration_ms": 263520,
+      "name": "Get You Down",
+      "url": "https://open.spotify.com/track/7wvo89jxI2T4coy9yIvZWM"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+        "name": "Seventeen Going Under (Live Deluxe)",
+        "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 263520,
-      "name": "Get You Down",
-      "url": "https://open.spotify.com/track/7wvo89jxI2T4coy9yIvZWM"
+      "duration_ms": 130399,
+      "name": "Little Bull Of Blithe",
+      "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
     },
     {
       "added_at": null,

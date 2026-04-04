@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Joss ML y Loyaltty en cover
 
-1,045 songs - 2 day 2 hr 42 min
+1,046 songs - 2 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Como Taka Taka \(feat\. Aguila DS\)](https://open.spotify.com/track/7iK4zVODfj8pgJZ1lrc17y) | [Dj Bryan Kingz](https://open.spotify.com/artist/7AGxtfqyUNkefJ3aUJ8Qoz), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv) | [Como Taka Taka \(feat\. Aguila DS\)](https://open.spotify.com/album/7brN8pzEPJFNnpSoWW5Kid) | 3:11 | 2024-01-19 | 2024-03-02 |
 | [Como Tony](https://open.spotify.com/track/5Toke9UgNrH6vsQQoIqBL1) | [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Como Tony](https://open.spotify.com/album/3xZKDTPtAokgxjVSeiMnVI) | 2:51 | 2025-07-25 | 2025-08-30 |
 | [Como Tú](https://open.spotify.com/track/6yWpPKvt3aJ22i2cpB2QTG) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [Como Tú](https://open.spotify.com/album/1uGYD7JyIY9FwNc0pFCB4b) | 2:59 | 2023-01-27 | 2023-04-22 |
+| [Como Yo](https://open.spotify.com/track/2Mfxxm32s5qwaxkRDNuxtz) | [Gweri B](https://open.spotify.com/artist/72t5NVrdGIrMDYeQclMveh), [Kapostik](https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [Como Yo](https://open.spotify.com/album/6ubI4MDrTTjEjo0RmIIWfM) | 2:03 | 2026-04-03 |  |
 | [Con To](https://open.spotify.com/track/7rQmsoj7jBk3vlJSSoDeFn) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Flow Nasty](https://open.spotify.com/artist/4PvWkqTuroZga3l4ms5wjy), [Andre Noriega](https://open.spotify.com/artist/7LjYPYI5Dbhd7ga2fTlNa2), [Oviña](https://open.spotify.com/artist/6q7odNXTIczDAs41y9FwMJ) | [Con To](https://open.spotify.com/album/5c4j8MHiR41yrmgLG6Z6Hj) | 2:12 | 2023-11-03 | 2024-05-09 |
 | [Con To \(feat\. Flow Nasty\)](https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Andre Noriega](https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam), [Flow Nasty](https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk) | [Con To \(feat\. Flow Nasty\)](https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf) | 2:12 | 2023-11-03 | 2024-04-19 |
 | [Conejita](https://open.spotify.com/track/1nmIcUYSRMfVqrrvrdT5WS) | [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Conejita](https://open.spotify.com/album/07FzfwpzOGxj5FCHxw0tv6) | 2:16 | 2025-06-13 | 2025-09-14 |

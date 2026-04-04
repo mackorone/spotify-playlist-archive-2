@@ -1,8 +1,38 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "nos fuimos de fiesta con Daddy Yankee & Bizarrap \ud83c\udf89",
+  "description": "nos fuimos de fiesta con 8onthebeat \ud83c\udf89",
   "name": "Fiesta",
   "tracks": [
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231791,
+      "name": "$UELTA GATITA $UELTA",
+      "url": "https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk"
+    },
     {
       "album": {
         "name": "+57",
@@ -610,7 +640,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 147533,
       "name": "Apambichao",
       "url": "https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV"
@@ -1119,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "BALON DE ORO",
+        "url": "https://open.spotify.com/album/3xS7brZ06aypsNwyAX4f1l"
+      },
+      "artists": [
+        {
+          "name": "Reggi El Autentico",
+          "url": "https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "BALON DE ORO",
+      "url": "https://open.spotify.com/track/1WzI6SIvVtuByyTjrpGoj3"
+    },
+    {
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/4BUEavk2XlFCnLZqseQISb"
       },
@@ -1370,7 +1422,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 182282,
       "name": "blackout \ud83e\uddca",
       "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
@@ -2063,6 +2115,28 @@
     },
     {
       "album": {
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+    },
+    {
+      "album": {
         "name": "Chica Ideal",
         "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
       },
@@ -2180,6 +2254,28 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5"
+    },
+    {
+      "album": {
+        "name": "Choque",
+        "url": "https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199456,
+      "name": "Choque",
+      "url": "https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt"
     },
     {
       "album": {
@@ -2712,10 +2808,40 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
+    },
+    {
+      "album": {
+        "name": "Cuando No Era Cantante (Remix)",
+        "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327488,
+      "name": "Cuando No Era Cantante - Remix",
+      "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
     },
     {
       "album": {
@@ -3736,7 +3862,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 163960,
       "name": "Dos Amores",
       "url": "https://open.spotify.com/track/4rhXrxG8eQn9Vc17r0xmIc"
@@ -4897,6 +5023,32 @@
     },
     {
       "album": {
+        "name": "Fiesta Loka",
+        "url": "https://open.spotify.com/album/2bfy34WWzB0vj9kGZo9MFh"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        },
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        },
+        {
+          "name": "Yuly",
+          "url": "https://open.spotify.com/artist/5ar3YDYjv6xryWHmhEVk8L"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142645,
+      "name": "Fiesta Loka",
+      "url": "https://open.spotify.com/track/1NeE1iCGAUdBYkqGX2aWzZ"
+    },
+    {
+      "album": {
         "name": "DEEP",
         "url": "https://open.spotify.com/album/4TD9rOjKVUN8CVhRlQ2Bgp"
       },
@@ -5911,6 +6063,28 @@
     },
     {
       "album": {
+        "name": "J Balvin: Bzrp Music Sessions, Vol. 62/66",
+        "url": "https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "J Balvin: Bzrp Music Sessions, Vol. 62/66",
+      "url": "https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC"
+    },
+    {
+      "album": {
         "name": "JACKPOT",
         "url": "https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N"
       },
@@ -6770,10 +6944,28 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5"
+    },
+    {
+      "album": {
+        "name": "LA PRIVADA",
+        "url": "https://open.spotify.com/album/3cG3fpMlggOHfQB8RMKyoj"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189168,
+      "name": "LA PRIVADA",
+      "url": "https://open.spotify.com/track/1ThjnXnbMupEDJuKMFmPx2"
     },
     {
       "album": {
@@ -6918,7 +7110,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 199846,
       "name": "la vuelta",
       "url": "https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD"
@@ -7036,7 +7228,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 172200,
       "name": "LAS XII",
       "url": "https://open.spotify.com/track/040CeSVj4n3aDCEsscMvJL"
@@ -7142,7 +7334,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 164307,
       "name": "Like A Cholo",
       "url": "https://open.spotify.com/track/29XFfrZ8TSbBJWRzuzRPxc"
@@ -7482,6 +7674,28 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (with J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/1f38Gx6xQz6r4H1jGVNBJo"
+    },
+    {
+      "album": {
+        "name": "Loco Loco",
+        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Loco Loco",
+      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
     },
     {
       "album": {
@@ -7953,6 +8167,28 @@
     },
     {
       "album": {
+        "name": "MARATHON",
+        "url": "https://open.spotify.com/album/41tuxJ0IDddpmnPkYWA3b1"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "elkan",
+          "url": "https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169823,
+      "name": "MARATHON",
+      "url": "https://open.spotify.com/track/0ozDE5jsTwKcPVygOCIlO9"
+    },
+    {
+      "album": {
         "name": "Mas Rica Que Ayer",
         "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
       },
@@ -8327,6 +8563,24 @@
     },
     {
       "album": {
+        "name": "MI FEO",
+        "url": "https://open.spotify.com/album/1iWHAVi1uKQdeGk1Kq7AMr"
+      },
+      "artists": [
+        {
+          "name": "Alevalen",
+          "url": "https://open.spotify.com/artist/1HhICZ4CIzbXKrd16k870U"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127680,
+      "name": "MI FEO",
+      "url": "https://open.spotify.com/track/7eeWrj60A5B660pNJQfwP7"
+    },
+    {
+      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
@@ -8596,7 +8850,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 238666,
       "name": "MIRAME REMIX",
       "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
@@ -9666,7 +9920,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 225933,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr"
@@ -10100,7 +10354,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
@@ -10324,6 +10578,28 @@
       "duration_ms": 123253,
       "name": "Perreito",
       "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "Perro",
+      "url": "https://open.spotify.com/track/2uQouxHB1f2HCtOC2iQPOx"
     },
     {
       "album": {
@@ -10670,7 +10946,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 166253,
       "name": "Prohibidox",
       "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
@@ -11685,6 +11961,32 @@
     },
     {
       "album": {
+        "name": "San Charly",
+        "url": "https://open.spotify.com/album/31Bc4KiyvpxhlHxps82U52"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174770,
+      "name": "San Charly",
+      "url": "https://open.spotify.com/track/7ghPrLoF9gcOm4jQpwzzMz"
+    },
+    {
+      "album": {
         "name": "SEND\u00c9",
         "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
       },
@@ -11864,7 +12166,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 131388,
       "name": "SELEDA.",
       "url": "https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO"
@@ -13413,6 +13715,24 @@
     },
     {
       "album": {
+        "name": "Un Poquito M\u00e1s",
+        "url": "https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "Un Poquito M\u00e1s",
+      "url": "https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU"
+    },
+    {
+      "album": {
         "name": "UN PREVIEW",
         "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
       },
@@ -13560,7 +13880,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 161951,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/0hm6AjreMiuTmSVHA2yxQL"

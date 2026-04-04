@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Banda MS, Los Plebes del Rancho en portada \ud83d\udcf8",
-  "num_followers": 1073012,
+  "num_followers": 1073129,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Un Vestido de Besos",
-      "url": "https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv"
-    },
-    {
-      "added_at": "2026-03-27 06:00:13",
-      "album": {
         "name": "Lo Mejor De Mi Vida",
         "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 156680,
       "name": "Deja",
       "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
+    },
+    {
+      "added_at": "2026-03-27 06:00:13",
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Un Vestido de Besos",
+      "url": "https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
-    },
-    {
-      "added_at": "2026-03-27 06:00:13",
-      "album": {
         "name": "La Mejor De Todas",
         "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 207000,
       "name": "La Mejor De Todas",
       "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
+    },
+    {
+      "added_at": "2026-03-27 06:00:13",
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2026-03-27 06:00:13",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-03-27 06:00:13",
       "album": {
-        "name": "No Tiene Precio",
-        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "Si Se Trata De Ti",
-      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
-    },
-    {
-      "added_at": "2026-03-27 06:00:13",
-      "album": {
         "name": "Br\u00fajula Perdida",
         "url": "https://open.spotify.com/album/2Mh76jMxpTljiHopuH1sPv"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 157959,
       "name": "Br\u00fajula Perdida",
       "url": "https://open.spotify.com/track/1j2hONUzQqmhmfr5zBLrrU"
+    },
+    {
+      "added_at": "2026-03-27 06:00:13",
+      "album": {
+        "name": "No Tiene Precio",
+        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "Si Se Trata De Ti",
+      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
     },
     {
       "added_at": "2026-03-27 06:00:13",

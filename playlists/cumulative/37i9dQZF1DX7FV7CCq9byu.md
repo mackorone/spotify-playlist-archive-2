@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,602 songs - 3 day 10 hr 8 min
+1,603 songs - 3 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [Hus utan speglar](https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Hus utan speglar](https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe) | 2:44 | 2024-06-27 | 2024-08-16 |
 | [Hush Baby, Hurry Slowly](https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [There’s Always More That I Could Say](https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir) | 2:44 | 2025-10-23 | 2026-01-15 |
 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-01-23 | 2026-03-06 |
+| [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 | 2026-04-02 |  |
 | [Hämta mer](https://open.spotify.com/track/5LcaQhfIrbt38NAeile7VL) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI) | 4:41 | 2025-10-02 | 2026-01-15 |
 | [Håll ihop](https://open.spotify.com/track/5a0VLC6tX0g45CZXU74dNK) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Håll ihop](https://open.spotify.com/album/4us1p9C9X5cldRFgwiU5Y7) | 2:46 | 2025-03-27 | 2025-05-02 |
 | [Håll käften](https://open.spotify.com/track/4R3XhLS8ozkyVPwaneQSkv) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Håll käften](https://open.spotify.com/album/6JxwMTYthxwIo7eVYow8uD) | 2:42 | 2025-03-27 | 2025-05-09 |

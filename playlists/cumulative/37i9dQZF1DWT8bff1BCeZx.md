@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-940 songs - 2 day 14 hr 13 min
+940 songs - 2 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,6 +769,7 @@
 | [Sweet Daddy](https://open.spotify.com/track/2PdoLVYn9z3ftewOJ9ztMh) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [Sweet Daddy](https://open.spotify.com/album/0zGtpFvyA14opPOGUJCsAJ) | 2:27 | 2025-01-24 | 2025-03-14 |
 | [Sweet To Me](https://open.spotify.com/track/6ozgeplqAyC6kxNGHMWAnb) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [Exploit Music](https://open.spotify.com/artist/3AZbgSiJKTULHcQAFZex4B) | [Sweet To Me](https://open.spotify.com/album/1ggCdgKIMCutzZ9mc9omhm) | 2:40 | 2025-02-14 | 2025-05-09 |
 | [Synergy](https://open.spotify.com/track/012NuMFPY9BBlfYfUIzGs4) | [StraTeGee](https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Synergy](https://open.spotify.com/album/4xc8SyumGUd12gji9kpWuo) | 2:44 | 2025-11-14 | 2026-01-15 |
+| [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 | 2026-04-03 |  |
 | [Taking Care \- Remix](https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Taking Care](https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd) | 3:42 | 2023-04-06 | 2025-02-28 |
 | [Taking Ground](https://open.spotify.com/track/4U1O2WXU6GMDDouM9j1f3V) | [Calvary MSC](https://open.spotify.com/artist/7BrnPIKwSstH6E0lIfrMyd), [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [Taking Ground](https://open.spotify.com/album/6Gvj313CtLtiEOSzy3jwcM) | 3:01 | 2025-05-09 | 2025-05-30 |
 | [Taking Over \- Live](https://open.spotify.com/track/1VDrYwWkx3XNCar9n2BoYU) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [3\-Mor46](https://open.spotify.com/album/54sOHbdEKH0HJpbdNKHDjz) | 2:05 | 2025-07-04 | 2025-08-08 |
@@ -827,7 +828,6 @@
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-11-14 |
 | [Tornado](https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J) | [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Tornado](https://open.spotify.com/album/6ZKtMQxxGlAbH9H2O9XMBo) | 2:49 | 2026-02-13 | 2026-03-13 |
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-02-28 |
-| [Track 9](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 0:00 | 2026-04-03 |  |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Tula](https://open.spotify.com/track/1ZMhq5I7bHDSPzpPU2BVmk) | [Tenacious Tj](https://open.spotify.com/artist/6DccTdAbcqIxBdN6VqVbS7), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Tula](https://open.spotify.com/album/12DT3SfaTFiUaaoUmcxjI0) | 3:21 | 2025-01-24 | 2025-02-28 |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2025-02-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Locus Noir, Lockjaw and more",
+  "description": "With AlligatorX, Lockjaw, MIK's Reaction and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 268000,
       "name": "Acid Lemon Sun",
       "url": "https://open.spotify.com/track/06FeoGENaSIpSKbK4mID6M"
@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Asinis gran\u012bt\u0101 deg",
+        "url": "https://open.spotify.com/album/6ShxAlw72PMT5ssnh3iHbt"
+      },
+      "artists": [
+        {
+          "name": "Salna",
+          "url": "https://open.spotify.com/artist/1lvYzJC1XYnL3ly5WrRyZc"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "Asinis gran\u012bt\u0101 deg",
+      "url": "https://open.spotify.com/track/3puivPPakeQ6HOsClj8Bx9"
+    },
+    {
+      "album": {
         "name": "Astronaut",
         "url": "https://open.spotify.com/album/4D8hddcmQ9mRPLJ9Ni0GLZ"
       },
@@ -356,6 +374,32 @@
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
+    },
+    {
+      "album": {
+        "name": "Aura Nera",
+        "url": "https://open.spotify.com/album/1TCYb9Empjv2uk72kEM98Y"
+      },
+      "artists": [
+        {
+          "name": "Christian Fetish",
+          "url": "https://open.spotify.com/artist/7D9WCHy7jCqUV2DWJTVT7j"
+        },
+        {
+          "name": "Medina Rekic",
+          "url": "https://open.spotify.com/artist/7ayCa7RTTajfLfFa19XBmA"
+        },
+        {
+          "name": "Mark Benecke",
+          "url": "https://open.spotify.com/artist/7hKEem0d5VKNiP840QjnCU"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298544,
+      "name": "Aura Nera - Dantes Inferno Version",
+      "url": "https://open.spotify.com/track/1buuiFT5VhvjRcZJuftz9O"
     },
     {
       "album": {
@@ -496,7 +540,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 188082,
       "name": "Beat The Stone",
       "url": "https://open.spotify.com/track/6mL1gFb4LJ1SePApbbcx3M"
@@ -1130,7 +1174,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 196573,
       "name": "Comfortably Numb",
       "url": "https://open.spotify.com/track/7sRuGGOjQ8fl43PYTZgfvJ"
@@ -1490,7 +1534,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 218090,
       "name": "Death Is On the Way",
       "url": "https://open.spotify.com/track/0rqvCzTbRnQTQLFpbg7Xbh"
@@ -1718,7 +1762,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 224919,
       "name": "Disarm",
       "url": "https://open.spotify.com/track/2m6rggLAMteu6mOULCbu9n"
@@ -2006,7 +2050,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 198458,
       "name": "Drunk Blue Eyes",
       "url": "https://open.spotify.com/track/2U3Cui7VgS5Qt2FudpVN7z"
@@ -2150,7 +2194,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 244013,
       "name": "El Teide",
       "url": "https://open.spotify.com/track/4u4SD3OKFu2u7W6mYAuB8r"
@@ -3084,7 +3128,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 208661,
       "name": "Greetings From The Half Life",
       "url": "https://open.spotify.com/track/5r89EqCofA1SbES6otsK4Z"
@@ -3304,7 +3348,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -3578,7 +3622,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 267391,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/1mPpngt6wY5CpcuCjodRGW"
@@ -3942,7 +3986,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 230952,
       "name": "Juicy Lucy",
       "url": "https://open.spotify.com/track/2p3uS5Tx2LcCYHXX3WT4Kh"
@@ -5184,7 +5228,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 211145,
       "name": "My Empire Of Fire - The Fire Trilogy Part II",
       "url": "https://open.spotify.com/track/5aBzAXo3q7DQQ7W1V75SjY"
@@ -5260,7 +5304,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 208064,
       "name": "My Way",
       "url": "https://open.spotify.com/track/5JtzIKPFgxpzcYPeeWOjLc"
@@ -5772,7 +5816,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -6184,6 +6228,28 @@
       "duration_ms": 209864,
       "name": "Polar Night",
       "url": "https://open.spotify.com/track/2Cz0WG2TBEERqEpz5DEJBh"
+    },
+    {
+      "album": {
+        "name": "Breakables",
+        "url": "https://open.spotify.com/album/2rEfTbbOFXynGBDWWpeSiY"
+      },
+      "artists": [
+        {
+          "name": "Eleanor Collides",
+          "url": "https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34"
+        },
+        {
+          "name": "Maira 3",
+          "url": "https://open.spotify.com/artist/2UEUYQRlIIibz5FJPAl8Ow"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383323,
+      "name": "Porcelain - White Remix",
+      "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
     },
     {
       "album": {
@@ -6772,7 +6838,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 205252,
       "name": "Seize The Moment",
       "url": "https://open.spotify.com/track/08NLz5Jy9sc91Kse1nRr0u"
@@ -6830,7 +6896,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 219333,
       "name": "Shadow Sun",
       "url": "https://open.spotify.com/track/6NxMk012STcCepEzfxDCOD"
@@ -7118,7 +7184,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 235600,
       "name": "Someone To Blame",
       "url": "https://open.spotify.com/track/20oaqbPxaXj5N8Ed8DWX2n"
@@ -8342,7 +8408,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 226166,
       "name": "The Weight - Barn Tapes 04",
       "url": "https://open.spotify.com/track/4vVfBSaHb51UlgDwu93FaE"
@@ -8418,7 +8484,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -8945,6 +9011,24 @@
     },
     {
       "album": {
+        "name": "Universal Law",
+        "url": "https://open.spotify.com/album/7psxvSaqg4PamfTcAFWWcN"
+      },
+      "artists": [
+        {
+          "name": "GlassEar",
+          "url": "https://open.spotify.com/artist/689FPOGevaLtlS2dyJMWCf"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Universal Law",
+      "url": "https://open.spotify.com/track/2NsUeiCavT6iKGkwthUUka"
+    },
+    {
+      "album": {
         "name": "Universo",
         "url": "https://open.spotify.com/album/6wRcdSekE5cB3JLihBXlCM"
       },
@@ -9064,7 +9148,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -9508,7 +9592,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 187409,
       "name": "Whisper in Storms",
       "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"
@@ -9544,7 +9628,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 252906,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/4fzB8eT3BjuYITkNHy0kG6"

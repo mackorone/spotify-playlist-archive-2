@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Aspirine Mangaya",
+        "url": "https://open.spotify.com/album/1Volbc5IlDYFKOnAsxlbV4"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449944,
+      "name": "Aspirine Mangaya",
+      "url": "https://open.spotify.com/track/0P5XaTOkccEHD0HFbTrgtF"
+    },
+    {
+      "album": {
         "name": "Assez",
         "url": "https://open.spotify.com/album/2HQPK4vEjaIGw0ljaPUooi"
       },
@@ -1156,10 +1174,28 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 246921,
       "name": "Bana Mayele",
       "url": "https://open.spotify.com/track/05hMeUX51NRrehza8QCqn0"
+    },
+    {
+      "album": {
+        "name": "Bandit chef",
+        "url": "https://open.spotify.com/album/42L6uuqhDyV6LVNsm42rWi"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "Bandit chef",
+      "url": "https://open.spotify.com/track/44A6TlpNKN3uuXfi2tdjnd"
     },
     {
       "album": {
@@ -2979,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "Corps \u00e0 Corps",
+        "url": "https://open.spotify.com/album/0eM5nAFiyxIPokSsdP8IpK"
+      },
+      "artists": [
+        {
+          "name": "Mwinda Mannekin",
+          "url": "https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140667,
+      "name": "Corps \u00e0 Corps",
+      "url": "https://open.spotify.com/track/0pDCPrK2MzBtLUfuYOzlSL"
+    },
+    {
+      "album": {
         "name": "AMBITION II",
         "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
       },
@@ -4512,7 +4566,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 144848,
       "name": "Et c'est OK",
       "url": "https://open.spotify.com/track/0bbTMG9s4X03MF1Natlhkl"
@@ -7594,7 +7648,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 166853,
       "name": "Location",
       "url": "https://open.spotify.com/track/0posvg5JIb7FD5xweBQ77R"
@@ -9062,7 +9116,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 210841,
       "name": "Mon Parcours",
       "url": "https://open.spotify.com/track/5bH8HsrNwVK3sdBpRf7dSJ"
@@ -14722,6 +14776,28 @@
       "duration_ms": 216933,
       "name": "Zigida",
       "url": "https://open.spotify.com/track/0VF1VyAiS0oRk3O22mv13k"
+    },
+    {
+      "album": {
+        "name": "\u00c0 la base",
+        "url": "https://open.spotify.com/album/5OPIWUXLwNq1rhYv9129qe"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131578,
+      "name": "\u00c0 la base",
+      "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"
     },
     {
       "album": {

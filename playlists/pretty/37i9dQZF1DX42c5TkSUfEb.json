@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 898202,
+  "num_followers": 898177,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Henry, come on",
         "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 311269,
       "name": "Henry, come on",
       "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 298880,
+      "name": "Shrike",
+      "url": "https://open.spotify.com/track/3ieUtb4ecQgEYxae8dzEUi"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
         "name": "Days Of Us",
         "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
       },
@@ -415,38 +431,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/3ieUtb4ecQgEYxae8dzEUi"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Street Bangerz Volume 6: Playhouse",
-        "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
-      },
-      "artists": [
-        {
-          "name": "Poldoore",
-          "url": "https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "But I Do",
-      "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "I Had a Dream She Took My Hand",
         "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 220291,
       "name": "I Had a Dream She Took My Hand",
       "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "Street Bangerz Volume 6: Playhouse",
+        "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
+      },
+      "artists": [
+        {
+          "name": "Poldoore",
+          "url": "https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "But I Do",
+      "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Road Trippin'",
-      "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Death of Love",
         "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 206028,
       "name": "Death of Love",
       "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Road Trippin'",
+      "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
+        "name": "brb",
+        "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 156478,
+      "name": "brb",
+      "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
         "name": "Toujours des fleurs",
         "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "brb",
-        "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
+        "name": "The Art Of Pretending To Swim",
+        "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
       },
       "artists": [
         {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 156478,
-      "name": "brb",
-      "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
+      "duration_ms": 248253,
+      "name": "A Trick of the Light",
+      "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -899,22 +915,6 @@
       "duration_ms": 209733,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
-        "name": "The Art Of Pretending To Swim",
-        "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 248253,
-      "name": "A Trick of the Light",
-      "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 257400,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
         "name": "Bloody Eyes",
         "url": "https://open.spotify.com/album/7x7YMbEy3FNKzoRPMa5hIU"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 257400,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/5YwXFDSgMW3FBGAES2Kud3"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 182254,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/3Ac7dP08nPVC9Ti6RcTmcQ"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "Colour Me Free",
+        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 306266,
+      "name": "4 And 20",
+      "url": "https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1083,22 +1099,6 @@
       "duration_ms": 194280,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
-        "name": "Colour Me Free",
-        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 306266,
-      "name": "4 And 20",
-      "url": "https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "failles",
-        "url": "https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk"
-      },
-      "artists": [
-        {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
-        }
-      ],
-      "duration_ms": 166401,
-      "name": "heureux",
-      "url": "https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 222373,
       "name": "Les jolies choses",
       "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "duration_ms": 166401,
+      "name": "heureux",
+      "url": "https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
+        "name": "Annabelle",
+        "url": "https://open.spotify.com/album/7wBZj4cGHvb0qjLknaiDsL"
+      },
+      "artists": [
+        {
+          "name": "Sons of Habit",
+          "url": "https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp"
+        }
+      ],
+      "duration_ms": 217669,
+      "name": "Annabelle",
+      "url": "https://open.spotify.com/track/31BnFQFi0VQ0prkeEYZ3Lp"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 208890,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
-        "name": "Annabelle",
-        "url": "https://open.spotify.com/album/7wBZj4cGHvb0qjLknaiDsL"
-      },
-      "artists": [
-        {
-          "name": "Sons of Habit",
-          "url": "https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp"
-        }
-      ],
-      "duration_ms": 217669,
-      "name": "Annabelle",
-      "url": "https://open.spotify.com/track/31BnFQFi0VQ0prkeEYZ3Lp"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Glory (Extended)",
-        "url": "https://open.spotify.com/album/5ybA8BfD2SVzJQ0rwWIcCz"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 302400,
-      "name": "Jamie",
-      "url": "https://open.spotify.com/track/1CixWJUzpYMzFWkViPYcri"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Sonatine",
         "url": "https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 233666,
       "name": "Sonatine",
       "url": "https://open.spotify.com/track/0A0QXR6AT2UuhlrrLhDMn0"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "Glory (Extended)",
+        "url": "https://open.spotify.com/album/5ybA8BfD2SVzJQ0rwWIcCz"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 302400,
+      "name": "Jamie",
+      "url": "https://open.spotify.com/track/1CixWJUzpYMzFWkViPYcri"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Beautiful Thingz",
-        "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
-      },
-      "artists": [
-        {
-          "name": "Cocoon",
-          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
-        }
-      ],
-      "duration_ms": 208031,
-      "name": "Beautiful Thingz",
-      "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Feel Myself / Wait For You",
         "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 164002,
       "name": "Feel Myself",
       "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "Beautiful Thingz",
+        "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
+      },
+      "artists": [
+        {
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+        }
+      ],
+      "duration_ms": 208031,
+      "name": "Beautiful Thingz",
+      "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "City Walls",
-        "url": "https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8"
-      },
-      "artists": [
-        {
-          "name": "Archive",
-          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "City Walls",
-      "url": "https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Cure for Emptiness (with Bello)",
         "url": "https://open.spotify.com/album/2j8F3cpZhOkAKUQ1KOaohT"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
+        "name": "City Walls",
+        "url": "https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8"
+      },
+      "artists": [
+        {
+          "name": "Archive",
+          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+        }
+      ],
+      "duration_ms": 311960,
+      "name": "City Walls",
+      "url": "https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 211027,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "safe & sound",
+        "url": "https://open.spotify.com/album/6RBQXB0TaQI3JfQINmZYzs"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 271662,
+      "name": "safe & sound",
+      "url": "https://open.spotify.com/track/6fWZFYQ1EMQz0JaOMqG6qV"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1655,22 +1671,6 @@
       "duration_ms": 185933,
       "name": "Clay",
       "url": "https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
-        "name": "safe & sound",
-        "url": "https://open.spotify.com/album/6RBQXB0TaQI3JfQINmZYzs"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 271662,
-      "name": "safe & sound",
-      "url": "https://open.spotify.com/track/6fWZFYQ1EMQz0JaOMqG6qV"
     }
   ],
   "unique_name": "Au calme",

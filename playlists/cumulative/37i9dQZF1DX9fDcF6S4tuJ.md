@@ -4,7 +4,7 @@
 
 > Embrace your inner Princess with your favorite Disney Princess songs.
 
-76 songs - 3 hr 44 min
+77 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Reflection \- From "Mulan" / Soundtrack Version](https://open.spotify.com/track/4ASPjY65S7crmZBHML0L8d) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 2:26 | 2022-10-07 |  |
 | [So This Is Love \- From "Cinderella"](https://open.spotify.com/track/1EwRMgWXS9U8Oet39tlYwY) | [Ilene Woods](https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj), [Mike Douglas](https://open.spotify.com/artist/4lwnV2S8BCbclu9nqBPGvI) | [Disney Princess: The Ultimate Song Collection](https://open.spotify.com/album/1YlALay0y3WHzVz39xU3AJ) | 1:32 | 2025-08-08 |  |
 | [So This Is Love \- From "Cinderella"/Vocal](https://open.spotify.com/track/0ZGsQUf2WaAGvn4xnwUR6o) | [Disney Pixar Duets Karaoke](https://open.spotify.com/artist/2mMWUlPIkYUJYsJQV28caf) | [Songs and Story: Cinderella](https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa) | 1:34 | 2022-10-07 | 2025-08-09 |
+| [Sofia the First Main Title Theme \- From "Sofia the First"](https://open.spotify.com/track/3dfpZwSuosIuFqksY0F6gT) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First](https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y) | 0:52 | 2026-04-03 |  |
 | [Some Day My Prince Will Come \- From "Snow White And The Seven Dwarfs" Soundtrack](https://open.spotify.com/track/3kLOBeuIpo1am7jpYQZhuq) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Disney Princess: The Ultimate Song Collection](https://open.spotify.com/album/1YlALay0y3WHzVz39xU3AJ) | 1:54 | 2022-10-07 |  |
 | [Something There](https://open.spotify.com/track/7qQDSdhFkh0MMAE1LO5c3K) | [Robby Benson](https://open.spotify.com/artist/3QcGV278a6mmLRTOK29WBP), [Jerry Orbach](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO), [Paige O'Hara](https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM), [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [David Ogden Stiers](https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:19 | 2022-10-07 |  |
 | [Special Spice \- Music from "Tiana's Bayou Adventure"](https://open.spotify.com/track/7LGJtP8tWWlRmm6nbMYDxQ) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Special Spice \(Music from "Tiana's Bayou Adventure"\)](https://open.spotify.com/album/0BqXf2ni7ncYz6IqlGacel) | 2:41 | 2024-08-16 |  |

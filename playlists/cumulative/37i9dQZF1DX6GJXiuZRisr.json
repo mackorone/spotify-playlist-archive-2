@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/66Blp0Mpyce1vXDhAOhwBd"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190471,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/5xO9FcxJkoE2Atgyv3t5bB"
+    },
+    {
+      "album": {
         "name": "Attraction (Marsh's Mix)",
         "url": "https://open.spotify.com/album/1DOvj0TbwyTUTlKzZJD18w"
       },
@@ -1876,7 +1898,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 255285,
       "name": "Caught in a Moment",
       "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
@@ -2070,7 +2092,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 245927,
       "name": "Children - Edit Mix",
       "url": "https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV"
@@ -4956,7 +4978,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 174705,
       "name": "Heard It All Before",
       "url": "https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2"
@@ -5216,6 +5238,32 @@
       "duration_ms": 204593,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
+    },
+    {
+      "album": {
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/7CjryF7qlLipaR7MARux2h"
+      },
+      "artists": [
+        {
+          "name": "Leena Punks",
+          "url": "https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt"
+        },
+        {
+          "name": "REYUS",
+          "url": "https://open.spotify.com/artist/1NIdGhCOxnpq5N8aNmGGVU"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206709,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/3FIPCLjzVPR51DL3OLDmpy"
     },
     {
       "album": {
@@ -6710,6 +6758,28 @@
       "duration_ms": 281951,
       "name": "Lavirra - Edit",
       "url": "https://open.spotify.com/track/4P0LVOqZiKdHObiWi2HhND"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/61A6dZGSpvZDxpsaJQzT97"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "TW3LVE",
+          "url": "https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205074,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/6izF0bFkoEj4VvzjiFsPK8"
     },
     {
       "album": {
@@ -9603,6 +9673,28 @@
     },
     {
       "album": {
+        "name": "Rapid Eye Movement",
+        "url": "https://open.spotify.com/album/2rBW203ctHHp1zc66o3Q08"
+      },
+      "artists": [
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295636,
+      "name": "Rapid Eye Movement",
+      "url": "https://open.spotify.com/track/7G8WLctUdoWyoO5LVyxvFg"
+    },
+    {
+      "album": {
         "name": "Rapture (with Robert Falcon)",
         "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
       },
@@ -10726,7 +10818,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 168904,
       "name": "Sirius",
       "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"

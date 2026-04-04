@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Beto Vega en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,883 likes - 150 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,957 likes - 150 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 149 | [El 602](https://open.spotify.com/track/01v0johTl8Ul7Czv3HShgU) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Grado 33](https://open.spotify.com/artist/0t2KfN3tEKfqVQA9SHguAO) | [El 602](https://open.spotify.com/album/2bsJcfaIJcA7DemqKPQttl) | 4:34 |
 | 150 | [La Gente De Durango](https://open.spotify.com/track/5SoFa549wQYFrsj7fxyyFh) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS) | [La Gente De Durango](https://open.spotify.com/album/2DHIwHFhWk5OP97yrkTCMn) | 2:24 |
 
-Snapshot ID: `AAAAAJpIk/QrWu8ELMopJOcUa+tMpjIp`
+Snapshot ID: `AAAAANMhBe2kwaEYWzFTVEhC4J8Vm9h5`

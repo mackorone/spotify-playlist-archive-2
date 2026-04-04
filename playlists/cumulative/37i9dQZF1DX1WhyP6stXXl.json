@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Therapy & Yoga",
+        "url": "https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166360,
+      "name": "Almost Over",
+      "url": "https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5"
+    },
+    {
+      "album": {
         "name": "Almost, So Close, Maybe",
         "url": "https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n"
       },
@@ -12661,6 +12679,24 @@
     },
     {
       "album": {
+        "name": "Good, Like It Should Be",
+        "url": "https://open.spotify.com/album/2LyI09qk1IMuLrpNAwA8cd"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "Give It All Away",
+      "url": "https://open.spotify.com/track/4xMPRwyHSj4XLWDBiYsORL"
+    },
+    {
+      "album": {
         "name": "Give Me Something (for Arknights Endfield)",
         "url": "https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB"
       },
@@ -16184,6 +16220,24 @@
       "duration_ms": 170625,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
+    },
+    {
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143197,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy"
     },
     {
       "album": {
@@ -34136,42 +34190,6 @@
       "duration_ms": 200722,
       "name": "Traces",
       "url": "https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4"
-    },
-    {
-      "album": {
-        "name": "Therapy & Yoga",
-        "url": "https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf"
-      },
-      "artists": [
-        {
-          "name": "JESSIA",
-          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
-        }
-      ],
-      "date_added": "2026-04-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5"
-    },
-    {
-      "album": {
-        "name": "Good, Like It Should Be",
-        "url": "https://open.spotify.com/album/2LyI09qk1IMuLrpNAwA8cd"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        }
-      ],
-      "date_added": "2026-04-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/4xMPRwyHSj4XLWDBiYsORL"
     },
     {
       "album": {

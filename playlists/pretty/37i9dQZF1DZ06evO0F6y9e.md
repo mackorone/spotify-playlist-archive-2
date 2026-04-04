@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,629 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,969 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Cuánto Cuesta](https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Cuánto Cuesta](https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf) | 2:54 |
 | 50 | [Porque Te Quiero](https://open.spotify.com/track/0BolcY8kbXvGy9P3Q1H0Ag) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Porque Te Quiero](https://open.spotify.com/album/2zAowlEsHrxclUyjeqGSVB) | 3:49 |
 
-Snapshot ID: `acxgAAAAAACYgX2qp5dCRF8/vvEVdO0K`
+Snapshot ID: `ac2xgAAAAAD6FpiuIN34oXtS0nccvLV5`

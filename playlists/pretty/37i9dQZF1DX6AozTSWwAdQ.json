@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60720,
+  "num_followers": 60719,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "Little Bit of Love",
+        "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 226268,
+      "name": "Little Bit of Love",
+      "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Little Bit of Love",
-        "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
+        "name": "NOT OK",
+        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
       },
       "artists": [
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 226268,
-      "name": "Little Bit of Love",
-      "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
+      "duration_ms": 206040,
+      "name": "NOT OK",
+      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -623,22 +639,6 @@
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "NOT OK",
-        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "NOT OK",
-      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "why are you here",
-        "url": "https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "why are you here",
-      "url": "https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
         "name": "How Do You Love Somebody",
         "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "why are you here",
+        "url": "https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "why are you here",
+      "url": "https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "Heart Attack (Rock Version)",
         "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "Troubled Waters",
-        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 197775,
-      "name": "Troubled Waters",
-      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -999,6 +983,22 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "Troubled Waters",
+        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197775,
+      "name": "Troubled Waters",
+      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "mama's boy",
         "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
         "name": "Soy Pablo",
         "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 197946,
       "name": "Feeling Lonely",
       "url": "https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Remind Me",
-        "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 211167,
-      "name": "Remind Me",
-      "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
         "name": "PMA (feat. Pale Waves)",
         "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 191757,
       "name": "PMA (feat. Pale Waves)",
       "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "Remind Me",
+        "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 211167,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1187,38 +1187,6 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "supercuts",
-        "url": "https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 206599,
-      "name": "supercuts",
-      "url": "https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "Blame It On You",
-        "url": "https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b"
-      },
-      "artists": [
-        {
-          "name": "Daniel Seavey",
-          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Blame It On You",
-      "url": "https://open.spotify.com/track/67sldfyOCTkXyhqzJTKiDD"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
         "name": "Halo (feat. PIA MARIA)",
         "url": "https://open.spotify.com/album/3IW2pdhIz1KqoJDr6sxe24"
       },
@@ -1235,6 +1203,22 @@
       "duration_ms": 159600,
       "name": "Halo (feat. PIA MARIA)",
       "url": "https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "supercuts",
+        "url": "https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 206599,
+      "name": "supercuts",
+      "url": "https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1275,6 +1259,22 @@
       "duration_ms": 205813,
       "name": "Bones (feat. OneRepublic)",
       "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "Blame It On You",
+        "url": "https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Blame It On You",
+      "url": "https://open.spotify.com/track/67sldfyOCTkXyhqzJTKiDD"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

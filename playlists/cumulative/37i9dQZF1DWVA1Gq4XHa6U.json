@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: T.I.",
+  "description": "Taking it way back! Cover: Drake",
   "name": "Gold School",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 299613,
       "name": "All Of The Lights",
       "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 242000,
       "name": "Back Like That",
       "url": "https://open.spotify.com/track/677QqBbO6jNmvtFCjOO7to"
@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241400,
+      "name": "Childs Play",
+      "url": "https://open.spotify.com/track/3NxAG2ni1lLa8RKL6a0INc"
+    },
+    {
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 213200,
       "name": "DEAD PRESIDENTS (ALBUM VERSION)",
       "url": "https://open.spotify.com/track/0nzLXQufkRxo1aslz36gJp"
@@ -2122,6 +2140,24 @@
       "duration_ms": 249560,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7u6Q36bDPiNegcQ7u69bKq"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135933,
+      "name": "Father Stretch My Hands Pt. 1",
+      "url": "https://open.spotify.com/track/1vO7XJH8q1LBzobiVwZ2qU"
     },
     {
       "album": {
@@ -2796,7 +2832,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 235986,
       "name": "Headlines",
       "url": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
@@ -2972,6 +3008,24 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
       "album": {
@@ -3792,7 +3846,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 277386,
       "name": "It's A Party (feat. Zhane) - 2021 Remaster",
       "url": "https://open.spotify.com/track/4ltNrVPEPUaK0A99bXOZxo"
@@ -5966,7 +6020,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 292093,
       "name": "POWER",
       "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
@@ -7269,6 +7323,24 @@
     },
     {
       "album": {
+        "name": "Summer Sixteen",
+        "url": "https://open.spotify.com/album/3DxEfEe94nVL6iXCT80rFv"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202450,
+      "name": "Summer Sixteen",
+      "url": "https://open.spotify.com/track/17Q87zeXgsAi9iQQbMu9v0"
+    },
+    {
+      "album": {
         "name": "U Gotta Feel Me",
         "url": "https://open.spotify.com/album/548NoYLgqSBDTNIYvlpDu5"
       },
@@ -7400,6 +7472,28 @@
       "duration_ms": 278800,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7aXXjA800sXYKpM8D9pCVT"
+    },
+    {
+      "album": {
+        "name": "My Ghetto Report Card",
+        "url": "https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Keak Da Sneak",
+          "url": "https://open.spotify.com/artist/1sPpJhevOYz54gNgeh2LaV"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "Tell Me When to Go (feat. Keak da Sneak)",
+      "url": "https://open.spotify.com/track/7eJ5kRpMNPAk7ccCDKywjH"
     },
     {
       "album": {
@@ -7676,6 +7770,24 @@
       "duration_ms": 193000,
       "name": "The Setup",
       "url": "https://open.spotify.com/track/6uzesxG4dlBg3faZmzL6Qs"
+    },
+    {
+      "album": {
+        "name": "Lasers",
+        "url": "https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239613,
+      "name": "The Show Goes On",
+      "url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew"
     },
     {
       "album": {
@@ -8069,6 +8181,32 @@
     },
     {
       "album": {
+        "name": "My Ghetto Report Card",
+        "url": "https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Kandi Girl",
+          "url": "https://open.spotify.com/artist/41TccBHnkaVhhgCgl83JU8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202720,
+      "name": "U and Dat (feat. T. Pain & Kandi Girl)",
+      "url": "https://open.spotify.com/track/7g7M96UGiA7OR79H86gV4m"
+    },
+    {
+      "album": {
         "name": "Black Reign",
         "url": "https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ"
       },
@@ -8102,6 +8240,24 @@
       "duration_ms": 265226,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/3NOq1Gpiy4KwDni8NhOmHQ"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7u6Q36bDPiNegcQ7u69bKq"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320666,
+      "name": "Ultralight Beam",
+      "url": "https://open.spotify.com/track/233zMH3IJcVKOUPCIaDSYt"
     },
     {
       "album": {
@@ -8652,7 +8808,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 215000,
       "name": "Why You Wanna",
       "url": "https://open.spotify.com/track/1g0oI97rPdYuWDIpkbtQdv"
@@ -8688,7 +8844,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 271746,
       "name": "Woo Hah!! Got You All in Check - 2021 Remaster",
       "url": "https://open.spotify.com/track/3HLxFEbFLDGxUoz0qYL2VT"

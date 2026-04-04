@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 9609,
+  "num_followers": 9612,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAADRDfAAT1FiVEVL/C6MKLcp",
+  "snapshot_id": "ac2xgAAAAAA6dPik/upDonyh0XSDrp75",
   "tracks": [
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas Del Corazon",
-        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 207640,
-      "name": "Como Esos Amantes",
-      "url": "https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo"
+      "duration_ms": 205797,
+      "name": "Cuando los Frijoles Bailan",
+      "url": "https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 205797,
-      "name": "Cuando los Frijoles Bailan",
-      "url": "https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY"
+      "duration_ms": 207640,
+      "name": "Como Esos Amantes",
+      "url": "https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo"
     },
     {
       "added_at": null,

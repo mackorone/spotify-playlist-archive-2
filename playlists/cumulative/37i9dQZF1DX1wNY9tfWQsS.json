@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Jill Scott",
+  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Mary J. Blige",
   "name": "Women of R&B",
   "tracks": [
     {
@@ -2186,7 +2186,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 172924,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk"
@@ -3780,6 +3780,24 @@
       "duration_ms": 215329,
       "name": "Wake Up Love",
       "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
+    },
+    {
+      "album": {
+        "name": "Want Love",
+        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200791,
+      "name": "Want Love",
+      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
     },
     {
       "album": {

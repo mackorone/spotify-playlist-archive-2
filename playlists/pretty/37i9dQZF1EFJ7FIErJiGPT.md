@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138 likes - 106 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 141 likes - 106 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 67 | [Dance For Me](https://open.spotify.com/track/04joSDzlMnx2hgZr2LNWHr) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/7FhItM1ikJEMstS8qtnuzf) | 3:05 |
 | 68 | [Heartbeat](https://open.spotify.com/track/74w3KQUxPOEJYmQHgmRVsh) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Heartbeat](https://open.spotify.com/album/6MAxLHsYH7uI7NM6w7A5Kb) | 2:48 |
 | 69 | [Stay Happy](https://open.spotify.com/track/6sjDl6Ed6ysoZaMPlEr7V3) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO) | [Stay Happy](https://open.spotify.com/album/24j1HTpNeOz6altCRbpgAa) | 2:48 |
-| 70 | [body in my bed](https://open.spotify.com/track/6fZv7ZDeC4pvtcbonRKqhN) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:23 |
-| 71 | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/track/1fqd7L51uCAPmy5WgHqirc) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/album/43zlvshjmVjXyUsKFgWocq) | 2:09 |
+| 70 | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/track/1fqd7L51uCAPmy5WgHqirc) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/album/43zlvshjmVjXyUsKFgWocq) | 2:09 |
+| 71 | [body in my bed](https://open.spotify.com/track/6fZv7ZDeC4pvtcbonRKqhN) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:23 |
 | 72 | [Hail Mary](https://open.spotify.com/track/1AsHFlfXTCgQMF3Mj71a9t) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Roses N Guns](https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx) | 3:13 |
 | 73 | [Dead Alive](https://open.spotify.com/track/0yjRyCmu3Oj8oU5fZ9cIwT) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Dead Alive](https://open.spotify.com/album/559sIaWsRUmd3uaGVhumjv) | 2:25 |
 | 74 | [The Tension](https://open.spotify.com/track/3TV87ai0hYuDa3W5Y5VWTB) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Umbrella Club \- EP](https://open.spotify.com/album/3GXmtYOUCWsp8nXwdYDrix) | 4:32 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 105 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 106 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcNzzAAAAABCNojhugoXC6MScIMZ04nQ`
+Snapshot ID: `AcN5bAAAAADJBn9GPMv+IWK9XzDfQ39g`

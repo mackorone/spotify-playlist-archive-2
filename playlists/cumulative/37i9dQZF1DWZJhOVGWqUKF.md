@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Weezer
 
-884 songs - 2 day 2 hr 11 min
+885 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Illusion](https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Illusion](https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08) | 4:02 | 2024-08-22 | 2024-10-28 |
 | [Imminent Redemption](https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Imminent Redemption](https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi) | 3:04 | 2024-07-25 | 2024-08-23 |
 | [Immortals](https://open.spotify.com/track/4d3a5WyZhMsqojMU0MHJ3k) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [Immortals](https://open.spotify.com/album/2vrXlMSOiUhVHnKqcUuHCD) | 2:53 | 2025-01-30 | 2025-02-07 |
+| [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 | 2026-04-02 |  |
 | [In Between](https://open.spotify.com/track/5xHdbgq8SD1NrxlJGy4uf0) | [Bird's View](https://open.spotify.com/artist/6JDFIEWzNXcsQqCOOd09mh) | [In Between](https://open.spotify.com/album/5n3zA3TTz9wsq0GcBdXATh) | 2:57 | 2025-11-27 | 2025-12-05 |
 | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom](https://open.spotify.com/album/4VJcxpnbkSGHr4h3R6fR1d) | 4:18 | 2025-04-03 | 2025-07-01 |
 | [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 | 2025-05-15 |  |
@@ -868,7 +869,7 @@
 | [where did you go?](https://open.spotify.com/track/5ZOcWbAXApsKHeQH6spuf0) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [where did you go?](https://open.spotify.com/album/3pctHU8ITALcpUmKyZcJfI) | 3:45 | 2025-07-31 | 2025-08-23 |
 | [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 | 2025-02-20 | 2025-05-31 |
 | [Whip](https://open.spotify.com/track/4YM7SjY7fMIUIIdYUdkOKH) | [Poppy Wizard](https://open.spotify.com/artist/1C6oYJnXAnkYy6et1TjzbL) | [Whip](https://open.spotify.com/album/3nVTpZq1ifnXoeQ4Jh19Db) | 4:16 | 2025-12-04 | 2025-12-12 |
-| [Whisper of a Dream](https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Whisper of a Dream](https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF) | 4:25 | 2026-04-02 |  |
+| [Whisper of a Dream](https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Whisper of a Dream](https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF) | 4:24 | 2026-04-02 |  |
 | [Who Wants To Live Forever?](https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 5:50 | 2025-09-18 | 2025-10-10 |
 | [Who'll Stand With Us?](https://open.spotify.com/track/7l7rmR8robHgvvKxxdCgiy) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Who'll Stand With Us?](https://open.spotify.com/album/43HNaHn8x5EEiydIJFZtWs) | 3:51 | 2025-06-05 | 2025-08-01 |
 | [Wild Ones](https://open.spotify.com/track/0Jt6jvNztmehl8yQ66ngvi) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Wild Ones](https://open.spotify.com/album/3sRejvJQPdligiHOLnsnMK) | 4:17 | 2025-06-05 | 2025-06-13 |

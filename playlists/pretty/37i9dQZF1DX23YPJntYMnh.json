@@ -1,13 +1,29 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 474261,
+  "num_followers": 474257,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO6r+WDORqvDbNm/SA8XuR7UQa9V",
+  "snapshot_id": "AAAAAHYXJjqOH2ef+Vm3VD+ULFwGgUcr",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:01:46",
+      "album": {
+        "name": "Jokes On You",
+        "url": "https://open.spotify.com/album/6B4QyvP8Bbq122hleD2QQm"
+      },
+      "artists": [
+        {
+          "name": "High Fade",
+          "url": "https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF"
+        }
+      ],
+      "duration_ms": 162513,
+      "name": "The Jokes On You",
+      "url": "https://open.spotify.com/track/301qRmALgPe2NZur3lRkPA"
+    },
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
@@ -1099,22 +1115,6 @@
       "duration_ms": 283026,
       "name": "Sever",
       "url": "https://open.spotify.com/track/1zBWVYRI8wPIazvRVHHFRO"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/7vCU9jvSESwQNQr6SB9JyS"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Sister Midnight",
-      "url": "https://open.spotify.com/track/7LzUOUXKmE6QdApk8T0XTc"
     },
     {
       "added_at": "2022-02-04 05:02:00",

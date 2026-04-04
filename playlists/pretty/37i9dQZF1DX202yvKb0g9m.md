@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,050 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,093 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 11 | [Do I Do \- Extended Mix](https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2) | [Do I Do](https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C) | 7:14 |
 | 12 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |
 | 13 | [Himmel & Hoelle](https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew) | [Thomas P\. Heckmann](https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m) | [Electronic Body Music](https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec) | 7:24 |
-| 14 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 |
-| 15 | [What Time Is Love / Time Of Love](https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u) | [K.l.f.s.](https://open.spotify.com/artist/0KlyyTMu0e8jWOmSfjt4Sj) | [What Time Is Love](https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7) | 6:15 |
+| 14 | [What Time Is Love / Time Of Love](https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u) | [K.l.f.s.](https://open.spotify.com/artist/0KlyyTMu0e8jWOmSfjt4Sj) | [What Time Is Love](https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7) | 6:15 |
+| 15 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 |
 | 16 | [Commuter](https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2) | [Ceephax Acid Crew](https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I) | [United Acid Emirates](https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb) | 5:31 |
 | 17 | [Miserablism](https://open.spotify.com/track/20GBfHqwta4csdKTDVjZ9F) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Alternative](https://open.spotify.com/album/7wNYJAljvvFXlbpkB120Aw) | 4:10 |
 | 18 | [Arrival](https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y) | [Sector II: Acid](https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U) | 7:45 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 26 | [At Night \- Peggy Gou's Acid Journey Remix](https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [At Night \(Remixes\)](https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8) | 7:11 |
 | 27 | [Rip It Up](https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F) | 5:20 |
 | 28 | [Can You Feel It](https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Washing Machine](https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I) | 5:44 |
-| 29 | [Winona](https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Winona](https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK) | 8:31 |
-| 30 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 |
+| 29 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 |
+| 30 | [Winona](https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Winona](https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK) | 8:31 |
 | 31 | [I Love Acid](https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/26q3SgrURehSidTag2eV0B) | 4:19 |
 | 32 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 |
 | 33 | [Smack My Bitch Up](https://open.spotify.com/track/3Ed5J0DKfPFEXZmv7zVgBa) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat Of The Land](https://open.spotify.com/album/1NNFxBa0nbBCSDItQhUuTc) | 5:42 |

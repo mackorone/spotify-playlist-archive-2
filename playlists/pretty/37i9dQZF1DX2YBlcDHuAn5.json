@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33917,
+  "num_followers": 33916,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJcEgdlup9MecUjA0mJsR0taoRMs",
+  "snapshot_id": "AAAAAJ5/qyaquOHDw/ZhhLNR2FSgFEQV",
   "tracks": [
     {
       "added_at": "2026-03-26 23:00:07",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
-        "name": "For Tomorrow's Sake",
-        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "For Tomorrow's Sake",
-      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
-    },
-    {
-      "added_at": "2026-03-26 23:00:07",
-      "album": {
         "name": "Nashville Dreaming",
         "url": "https://open.spotify.com/album/6G9a3scmgICG59VxLBj82P"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 234584,
       "name": "Nashville Dreaming",
       "url": "https://open.spotify.com/track/5kGwMLgKd2INKw2pIA52f6"
+    },
+    {
+      "added_at": "2026-03-26 23:00:07",
+      "album": {
+        "name": "For Tomorrow's Sake",
+        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "For Tomorrow's Sake",
+      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
     },
     {
       "added_at": "2026-03-26 23:00:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
-        "name": "Time Jumper",
-        "url": "https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25"
-      },
-      "artists": [
-        {
-          "name": "Waylon",
-          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "She Needs Lovin' Too",
-      "url": "https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z"
-    },
-    {
-      "added_at": "2026-03-26 23:00:07",
-      "album": {
         "name": "Wealthiest Man",
         "url": "https://open.spotify.com/album/1SW1cbceHsjMJjHvyniK0s"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 293215,
       "name": "Wealthiest Man",
       "url": "https://open.spotify.com/track/0m5RI0qThyYnZ3QX9WQk2O"
+    },
+    {
+      "added_at": "2026-03-26 23:00:07",
+      "album": {
+        "name": "Time Jumper",
+        "url": "https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25"
+      },
+      "artists": [
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "She Needs Lovin' Too",
+      "url": "https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z"
     },
     {
       "added_at": "2026-03-26 23:00:07",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-26 23:00:07",
       "album": {
-        "name": "Let's Get This Over With",
-        "url": "https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j"
-      },
-      "artists": [
-        {
-          "name": "Waylon",
-          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Let's Get This Over With",
-      "url": "https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF"
-    },
-    {
-      "added_at": "2026-03-26 23:00:07",
-      "album": {
         "name": "May",
         "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 193101,
       "name": "Dear Maria",
       "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
+    },
+    {
+      "added_at": "2026-03-26 23:00:07",
+      "album": {
+        "name": "Let's Get This Over With",
+        "url": "https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j"
+      },
+      "artists": [
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Let's Get This Over With",
+      "url": "https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF"
     }
   ],
   "unique_name": "Country & Americana",

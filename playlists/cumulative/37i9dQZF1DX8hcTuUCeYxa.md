@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Rikas
 
-2,675 songs - 6 day 9 hr 55 min
+2,676 songs - 6 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -869,6 +869,7 @@
 | [Getting Older](https://open.spotify.com/track/06nn3AJ4ZcmJIPccRtxlY8) | [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Getting Older](https://open.spotify.com/album/3PsXjGHUTazLOuLikoasRf) | 3:06 | 2024-12-05 | 2025-01-17 |
 | [ghost](https://open.spotify.com/track/3DxJKRsxIJjRzMcWRFNWhC) | [katyadotcom](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [ghost](https://open.spotify.com/album/1o46YOpK7tvVK41cIFjSuz) | 3:07 | 2026-03-12 |  |
 | [Ghosts & Aliens](https://open.spotify.com/track/4u1ig483YZjlNSAwARwr8P) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [Newborn Baby](https://open.spotify.com/album/7mLhH5cuNjKUmsF0L2JpeW) | 4:01 | 2025-03-20 | 2025-04-18 |
+| [Ginger Lemonade](https://open.spotify.com/track/60XG382z7UHlLMXs0bOwRb) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Can We Hang Out Sometime?](https://open.spotify.com/album/2ude1QTWRjfCQYgpr5mc11) | 2:59 | 2026-04-02 |  |
 | [Girl in a Band](https://open.spotify.com/track/17F1rDQyWwxxfG16TQNOhp) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 3:12 | 2024-09-05 | 2024-09-27 |
 | [GIRL IS A KNIFE](https://open.spotify.com/track/5ydaxJclktz93A13R2fveZ) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Do You Know Everything?](https://open.spotify.com/album/7sKoyAPsazCn5iqP4ZZtOw) | 2:56 | 2026-03-26 |  |
 | [Girl Loves Me](https://open.spotify.com/track/71KGM83UKceEG47pyDncFr) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Girl Loves Me](https://open.spotify.com/album/49QhQJJCqJEfwQ5eHS2HG0) | 3:46 | 2024-10-17 | 2024-11-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Unknown T, AJ Tracey
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,700 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,711 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 3 | [Gardener Flow](https://open.spotify.com/track/2BwY3JVjpZiCy9V3qfXkRN) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Gardener Flow](https://open.spotify.com/album/7M6UAXv5H20fL5QIJXUCvq) | 3:34 |
 | 4 | [SUNSHINE](https://open.spotify.com/track/0RdzunnFJPhsAUp1V4Xum2) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [SUNSHINE](https://open.spotify.com/album/0PHQcIYl4SuJCjIT4AJQ8O) | 2:46 |
 | 5 | [Change](https://open.spotify.com/track/1KmrL1QJABCiUNsqtfOLht) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Change](https://open.spotify.com/album/5Rgf6ssTodt5bMI85dkjP6) | 3:30 |
-| 6 | [Track 5](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 0:00 |
+| 6 | [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 |
 | 7 | [TUN](https://open.spotify.com/track/1ZZMnUVw6oGQpx8TQPTZz2) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [TUN](https://open.spotify.com/album/0JkE09AhoA564cEbsTtA3d) | 3:33 |
 | 8 | [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:35 |
 | 9 | [Favorite](https://open.spotify.com/track/4Aw9OJJDJFCbVlVBAb0EdM) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Favorite](https://open.spotify.com/album/7LcNdnjDCwb9SLjDxi2FPP) | 4:19 |

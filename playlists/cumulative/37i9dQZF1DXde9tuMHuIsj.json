@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: YOVNGCHIMI, JC Reyes",
+  "description": "The best of Latin Trap. Cover: Clarent",
   "name": "Trap Land",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 245933,
       "name": "2 K 1 6",
       "url": "https://open.spotify.com/track/6hXcH4KnoRgkFQDhvxo872"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
@@ -534,6 +534,24 @@
       "duration_ms": 144583,
       "name": "6PM EN MALLORCA",
       "url": "https://open.spotify.com/track/24k6OwxLtnJX0UaC4j5O8W"
+    },
+    {
+      "album": {
+        "name": "7 Digitos",
+        "url": "https://open.spotify.com/album/2vERFKrwRiqPdEBmtfgJci"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157959,
+      "name": "7 Digitos",
+      "url": "https://open.spotify.com/track/2uZgMi20fsdKdCyvi6anz5"
     },
     {
       "album": {
@@ -1061,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247930,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2VdDYSWijGCmLFzvjYYMZJ"
+    },
+    {
+      "album": {
         "name": "Anfetamina",
         "url": "https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n"
       },
@@ -1156,7 +1196,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 150153,
       "name": "ARENA",
       "url": "https://open.spotify.com/track/06PHdj3km2VkmqcKAwhGJN"
@@ -1546,6 +1586,24 @@
       "duration_ms": 180705,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4qTUbEQBrQOuw8fyTj4ZcX"
+    },
+    {
+      "album": {
+        "name": "Baddie Latina",
+        "url": "https://open.spotify.com/album/72u9kHvuknpsdY2VRA3DBO"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179851,
+      "name": "Baddie Latina",
+      "url": "https://open.spotify.com/track/0WFciB1uBAFiQQztgQUuSx"
     },
     {
       "album": {
@@ -3267,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "De Chamaquito",
+        "url": "https://open.spotify.com/album/7FZouWc2eApwNcehyFTXR6"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "De Chamaquito",
+      "url": "https://open.spotify.com/track/3Ftr6NITDE2yTPCpT5A1Nr"
+    },
+    {
+      "album": {
         "name": "CODA",
         "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
       },
@@ -3410,6 +3486,28 @@
       "duration_ms": 233999,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/4IxckZnv29DLN5ueIbFn8i"
+    },
+    {
+      "album": {
+        "name": "Despedida",
+        "url": "https://open.spotify.com/album/10LWVqGVmcAk96tF6208LZ"
+      },
+      "artists": [
+        {
+          "name": "Sinfonico",
+          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
+        },
+        {
+          "name": "Young Garcia",
+          "url": "https://open.spotify.com/artist/3kmTWKUVXkdOrL4q3hVHDY"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157959,
+      "name": "Despedida",
+      "url": "https://open.spotify.com/track/7stq8hGlGt6FjSnx8kSOWO"
     },
     {
       "album": {
@@ -3564,6 +3662,32 @@
       "duration_ms": 208615,
       "name": "Dos Mil 16",
       "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
+    },
+    {
+      "album": {
+        "name": "Do\u00f1a",
+        "url": "https://open.spotify.com/album/17aIdADszjb8jrOSz0S1OW"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        },
+        {
+          "name": "Siggy",
+          "url": "https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163466,
+      "name": "Do\u00f1a",
+      "url": "https://open.spotify.com/track/6C3m61bWSSdIIM1UHQDqwk"
     },
     {
       "album": {
@@ -5200,7 +5324,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 284878,
       "name": "GLIZZY GVNGSTER (feat. Slayter, SOMBRA PR & Ele d)",
       "url": "https://open.spotify.com/track/4RRZW1jOVHmualiLCQKghJ"
@@ -5720,7 +5844,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 125217,
       "name": "HERON PRESTON",
       "url": "https://open.spotify.com/track/2Cezxs5zPgiytWQs9Z9TtN"
@@ -6042,6 +6166,24 @@
       "duration_ms": 249599,
       "name": "IL Capo",
       "url": "https://open.spotify.com/track/7v12ia1PFVN9jSgU43rJnS"
+    },
+    {
+      "album": {
+        "name": "INCORREGIBLE",
+        "url": "https://open.spotify.com/album/1oIEhqqrkXU6rY9jEY6oh6"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "INCORREGIBLE",
+      "url": "https://open.spotify.com/track/0jmrsHG0pxBpotuLUAZgYQ"
     },
     {
       "album": {
@@ -7553,6 +7695,24 @@
     },
     {
       "album": {
+        "name": "LUXURY",
+        "url": "https://open.spotify.com/album/71eu7HW0xiX1CsPOjfTkfk"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166896,
+      "name": "LUXURY",
+      "url": "https://open.spotify.com/track/0Ss0QjKvNnuPDR5popsXcP"
+    },
+    {
+      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3"
       },
@@ -7923,6 +8083,28 @@
     },
     {
       "album": {
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7D23YDRGp0lkOgX6dWBwj5"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
+    },
+    {
+      "album": {
         "name": "Mi Vicio",
         "url": "https://open.spotify.com/album/1amIwstC3mDDvcgCiew7zB"
       },
@@ -8282,7 +8464,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 164210,
       "name": "M\u00c1S DE AH\u00cd",
       "url": "https://open.spotify.com/track/6m2G1v4Of1ioerAPTqoKsH"
@@ -9204,7 +9386,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 163361,
       "name": "Par De Panas",
       "url": "https://open.spotify.com/track/4lots1n04eEoSF2ftlHJZr"
@@ -9244,7 +9426,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 162795,
       "name": "Paris Hilton",
       "url": "https://open.spotify.com/track/7ed8tIVWqNumP9WtpT2c44"
@@ -9446,6 +9628,28 @@
       "duration_ms": 140293,
       "name": "PETITE",
       "url": "https://open.spotify.com/track/1eTmkqk4PHdtMYpjjR1ZWG"
+    },
+    {
+      "album": {
+        "name": "PIN",
+        "url": "https://open.spotify.com/album/2CD3IqfUkAlxtiDOURO1J0"
+      },
+      "artists": [
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "PIN",
+      "url": "https://open.spotify.com/track/6oPnlI69BFw388L0rx9jDT"
     },
     {
       "album": {
@@ -11578,7 +11782,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 225154,
       "name": "Trending Remix (with Myke Towers)",
       "url": "https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC"

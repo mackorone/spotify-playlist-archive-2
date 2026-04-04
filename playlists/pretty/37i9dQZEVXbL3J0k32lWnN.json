@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 237802,
+  "num_followers": 237819,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MWHUmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MWMmGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "Livsforladt",
         "url": "https://open.spotify.com/album/0TyjPYF8OsZe8sicrhZROq"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2aUYoSnTwdmAbeDEIyuGKo"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "VILD UNGDOM",
         "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
@@ -41,7 +41,43 @@
       "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "Bliv hvor du er (feat. Artigeardit)",
+        "url": "https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid"
+      },
+      "artists": [
+        {
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 172844,
+      "name": "Bliv hvor du er (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "D\u00e9t Der Udenfor",
+        "url": "https://open.spotify.com/album/7LPaE1fTTVQHFZxH4ZUX8e"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "D\u00e9t Der Udenfor",
+      "url": "https://open.spotify.com/track/1o0UmpUR0GcQLZ8LFY40b8"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "DEPRESSIV TANKEGANG",
         "url": "https://open.spotify.com/album/1vrA5yJlXA9g1GqNVCqM4M"
@@ -65,59 +101,7 @@
       "url": "https://open.spotify.com/track/6zt65jHkZGhMlpr8hmSFBS"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "Bliv hvor du er (feat. Artigeardit)",
-        "url": "https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid"
-      },
-      "artists": [
-        {
-          "name": "Rosa",
-          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
-        },
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 172844,
-      "name": "Bliv hvor du er (feat. Artigeardit)",
-      "url": "https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "D\u00e9t Der Udenfor",
-        "url": "https://open.spotify.com/album/7LPaE1fTTVQHFZxH4ZUX8e"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "D\u00e9t Der Udenfor",
-      "url": "https://open.spotify.com/track/1o0UmpUR0GcQLZ8LFY40b8"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "Ham Med Guitaren",
-        "url": "https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Ham Med Guitaren",
-      "url": "https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -133,7 +117,23 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "Ham Med Guitaren",
+        "url": "https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "Ham Med Guitaren",
+      "url": "https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "Vil du noget?",
         "url": "https://open.spotify.com/album/0ZjD0TJyuPL3H8bmF8rsVb"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/4BDFCtjvCP99vx5bhvsFH4"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "VILD UNGDOM",
         "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/2DfiEXI6QlqftaxJ1wv1sb"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
@@ -205,7 +205,39 @@
       "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "Kogeplade",
+        "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "duration_ms": 156086,
+      "name": "Kogeplade",
+      "url": "https://open.spotify.com/track/3CSmqvgWBYmGUnGqLeXYLC"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "Smelter Under M\u00e5nen",
+        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 198388,
+      "name": "Smelter Under M\u00e5nen",
+      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -225,55 +257,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "DEPRESSIV TANKEGANG",
-        "url": "https://open.spotify.com/album/1vrA5yJlXA9g1GqNVCqM4M"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 175817,
-      "name": "Galt Med Mig",
-      "url": "https://open.spotify.com/track/28iIrdveEs11h4ucqc6qc0"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "Kogeplade",
-        "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
-      },
-      "artists": [
-        {
-          "name": "Katinka",
-          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
-        }
-      ],
-      "duration_ms": 156086,
-      "name": "Kogeplade",
-      "url": "https://open.spotify.com/track/3CSmqvgWBYmGUnGqLeXYLC"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "Smelter Under M\u00e5nen",
-        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 198388,
-      "name": "Smelter Under M\u00e5nen",
-      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "(over)lever",
         "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
@@ -289,23 +273,7 @@
       "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "H\u00f8jt At Flyve Dybt At Falde",
         "url": "https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU"
@@ -325,27 +293,39 @@
       "url": "https://open.spotify.com/track/7d3A0GKJHATJuMxWh3fcc3"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
-        "name": "Er Vi Okay?",
-        "url": "https://open.spotify.com/album/509Kkx4BDbKvFbhqEdO0if"
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
       },
       "artists": [
         {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        },
-        {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 150057,
-      "name": "Er Vi Okay?",
-      "url": "https://open.spotify.com/track/6yNgksIvyLstd9w0HscPkz"
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "(over)lever",
         "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
@@ -365,7 +345,43 @@
       "url": "https://open.spotify.com/track/4XgxdK8qm0K6EVUmg7ROMl"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "DEPRESSIV TANKEGANG",
+        "url": "https://open.spotify.com/album/1vrA5yJlXA9g1GqNVCqM4M"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 175817,
+      "name": "Galt Med Mig",
+      "url": "https://open.spotify.com/track/28iIrdveEs11h4ucqc6qc0"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "Godaften",
         "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/2MOH9hDRMYCpNzmHzCRjPh"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "(over)lever",
         "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
@@ -417,43 +433,43 @@
       "url": "https://open.spotify.com/track/5rq9wIneeqXYPnohfYVzv7"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+        "name": "Skyklapper",
+        "url": "https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Skyklapper",
+      "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "Er Vi Okay?",
+        "url": "https://open.spotify.com/album/509Kkx4BDbKvFbhqEdO0if"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
         },
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+      "duration_ms": 150057,
+      "name": "Er Vi Okay?",
+      "url": "https://open.spotify.com/track/6yNgksIvyLstd9w0HscPkz"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "Minder Hos Andre Freestyle",
         "url": "https://open.spotify.com/album/1JSplYlnpcLBuZBFs8plGm"
@@ -473,31 +489,7 @@
       "url": "https://open.spotify.com/track/0TdCKUANcKOlMhHIaiE4ur"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "Sl\u00e5r Op",
-        "url": "https://open.spotify.com/album/17lxuKDVowv0NoWAloj8S7"
-      },
-      "artists": [
-        {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
-        },
-        {
-          "name": "Berg",
-          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
-        },
-        {
-          "name": "Svea S",
-          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
-        }
-      ],
-      "duration_ms": 199784,
-      "name": "Sl\u00e5r Op",
-      "url": "https://open.spotify.com/track/6HFZQd5vQvHJLKQGsOB6Xd"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -513,111 +505,7 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        },
-        {
-          "name": "Andre Troutman",
-          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
-        }
-      ],
-      "duration_ms": 229152,
-      "name": "ALL THE LOVE (feat. Andre Troutman)",
-      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "Skyklapper",
-        "url": "https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz"
-      },
-      "artists": [
-        {
-          "name": "Rosa",
-          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Skyklapper",
-      "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "kendt mig en uge",
-        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 186843,
-      "name": "kendt mig en uge",
-      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "White Keys",
-        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 144101,
-      "name": "White Keys",
-      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "Copenhagen City",
         "url": "https://open.spotify.com/album/51EJNl0CcgwWFFlmPmJAhq"
@@ -641,7 +529,95 @@
       "url": "https://open.spotify.com/track/5ePUy0MpnORgr9PQ897KJ0"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "Sl\u00e5r Op",
+        "url": "https://open.spotify.com/album/17lxuKDVowv0NoWAloj8S7"
+      },
+      "artists": [
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        },
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        },
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        }
+      ],
+      "duration_ms": 199784,
+      "name": "Sl\u00e5r Op",
+      "url": "https://open.spotify.com/track/6HFZQd5vQvHJLKQGsOB6Xd"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "kendt mig en uge",
+        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 186843,
+      "name": "kendt mig en uge",
+      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
@@ -657,71 +633,7 @@
       "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "Knuser Hjerter",
-        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 207020,
-      "name": "Knuser Hjerter",
-      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "AW",
-        "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 177385,
-      "name": "Brugt mine dage",
-      "url": "https://open.spotify.com/track/5hwr5cacuEkk1buZR99L0E"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "Luk Mig Ind",
-        "url": "https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Luk Mig Ind",
-      "url": "https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "Godaften",
         "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
@@ -741,23 +653,7 @@
       "url": "https://open.spotify.com/track/5fFVI2cNXckUEkttuVOumi"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "Infinity Action",
         "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
@@ -773,23 +669,31 @@
       "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Andre Troutman",
+          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+      "duration_ms": 229152,
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "Det Modsatte",
         "url": "https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8"
@@ -805,7 +709,87 @@
       "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "Knuser Hjerter",
+        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 207020,
+      "name": "Knuser Hjerter",
+      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "AW",
+        "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 177385,
+      "name": "Brugt mine dage",
+      "url": "https://open.spotify.com/track/5hwr5cacuEkk1buZR99L0E"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "N1YA",
         "url": "https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY"
@@ -821,7 +805,59 @@
       "url": "https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "Luk Mig Ind",
+        "url": "https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Luk Mig Ind",
+      "url": "https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "VILD UNGDOM",
+        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 207639,
+      "name": "Et sted hvor vi de f\u00f8rste",
+      "url": "https://open.spotify.com/track/2saoOMgzvDizi7CE8qxvyB"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
+      "album": {
+        "name": "Handler Ik' Om Dig Mer' (feat. Mille)",
+        "url": "https://open.spotify.com/album/05PzrQ8gIgnOIfk3kOC1KN"
+      },
+      "artists": [
+        {
+          "name": "Chris Burton",
+          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
+        },
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 196987,
+      "name": "Handler Ik' Om Dig Mer' (feat. Mille)",
+      "url": "https://open.spotify.com/track/0s2uT8uSd6cQ8ylAPSU7dT"
+    },
+    {
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
@@ -845,39 +881,7 @@
       "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "DEPRESSIV TANKEGANG",
-        "url": "https://open.spotify.com/album/1vrA5yJlXA9g1GqNVCqM4M"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 186439,
-      "name": "Begge To",
-      "url": "https://open.spotify.com/track/3tIruvvDqIYHQkpJkTBhZV"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
-      "album": {
-        "name": "CLEOPATRA",
-        "url": "https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "CLEOPATRA",
-      "url": "https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB"
-    },
-    {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
@@ -893,20 +897,20 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
-      "added_at": "2026-04-02 14:15:19",
+      "added_at": "2026-04-03 20:37:56",
       "album": {
-        "name": "VILD UNGDOM",
-        "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
+        "name": "Natsv\u00e6rmer",
+        "url": "https://open.spotify.com/album/0JpeM92lotMIZHFJUOs1mP"
       },
       "artists": [
         {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+          "name": "Rocazino",
+          "url": "https://open.spotify.com/artist/62ytrJr6FZ6W1boNI1Y0O3"
         }
       ],
-      "duration_ms": 207639,
-      "name": "Et sted hvor vi de f\u00f8rste",
-      "url": "https://open.spotify.com/track/2saoOMgzvDizi7CE8qxvyB"
+      "duration_ms": 214320,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/49clGe0PtbYUx3vB7tyk3A"
     }
   ],
   "unique_name": "Top 50 - Denmark",

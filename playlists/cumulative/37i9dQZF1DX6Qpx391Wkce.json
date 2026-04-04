@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 434000,
       "name": "1-Q - 2021 Remaster",
       "url": "https://open.spotify.com/track/33QXrJArKc2IgX7xIuUpOf"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 390280,
       "name": "Back To Earth - Rave Mix",
       "url": "https://open.spotify.com/track/13wGULWSLE2VjE1VXAOny8"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 472615,
       "name": "Bang the Acid - Original Mix",
       "url": "https://open.spotify.com/track/5UkWN23dIRYNyhyZMstllC"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 240000,
       "name": "Beats for Days",
       "url": "https://open.spotify.com/track/7dHPZYu3SXTpKFmqXZR4NC"
@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/2vMvXw2nF5KvEHuhGY3jiw"
+      },
+      "artists": [
+        {
+          "name": "Devid Dega",
+          "url": "https://open.spotify.com/artist/4joh8TLVd07bIDk68LJxte"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/5MXbWODgfuPMdXqwBeb4dn"
+    },
+    {
+      "album": {
         "name": "Break Night",
         "url": "https://open.spotify.com/album/4k0Sm7yG4yKx7wD0jAX1Ve"
       },
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 200514,
       "name": "Can't Stop Me",
       "url": "https://open.spotify.com/track/46G52oAp108BywIFJyzLtj"
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 398000,
       "name": "Decode",
       "url": "https://open.spotify.com/track/3v7LKY0KAEYjerbUti9iUy"
@@ -2774,7 +2792,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 222408,
       "name": "Elements - Kos:mo Remix",
       "url": "https://open.spotify.com/track/0Koe78ebVuRuT97Ip8TjAJ"
@@ -3543,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "Forsaken",
+        "url": "https://open.spotify.com/album/5EypxMBJYtG9CDlXUPNTJy"
+      },
+      "artists": [
+        {
+          "name": "Mario Ochoa",
+          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238222,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/0wwg3hxmNMX2askrmogOb8"
+    },
+    {
+      "album": {
         "name": "Sanctum EP",
         "url": "https://open.spotify.com/album/3QjGt7WzLDNg5siLv7RcM4"
       },
@@ -3806,7 +3842,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 359939,
       "name": "Geeks On Hubbard",
       "url": "https://open.spotify.com/track/30rZV8iT6jSXk5x1rC7gW0"
@@ -3962,7 +3998,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 265600,
       "name": "Gigolo",
       "url": "https://open.spotify.com/track/1oqKD9FYu3DJJcWJ5lPVmK"
@@ -4006,7 +4042,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 234125,
       "name": "Give It Back",
       "url": "https://open.spotify.com/track/2jV1Kkuy9a8GkKQ2ZHFbb4"
@@ -4592,7 +4628,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 493667,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
@@ -4887,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "In Berlin",
+        "url": "https://open.spotify.com/album/2xTlFb68oh7P3Uu2rD88hH"
+      },
+      "artists": [
+        {
+          "name": "Jody 6",
+          "url": "https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "In Berlin",
+      "url": "https://open.spotify.com/track/6PYkcjJAUpkR3p4iM3RvaE"
+    },
+    {
+      "album": {
         "name": "In From The Night (Reworks & Edits)",
         "url": "https://open.spotify.com/album/1jz8GumlTHOsApMmmSVaQH"
       },
@@ -5173,6 +5227,28 @@
     },
     {
       "album": {
+        "name": "Juego De Miradas",
+        "url": "https://open.spotify.com/album/2O7ZBHWdgc44t8O2irUA69"
+      },
+      "artists": [
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        },
+        {
+          "name": "ADRIANNA",
+          "url": "https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220888,
+      "name": "Juego De Miradas",
+      "url": "https://open.spotify.com/track/7bObnbxlL8erGQVZAB2MpL"
+    },
+    {
+      "album": {
         "name": "Kaltstrom",
         "url": "https://open.spotify.com/album/0DtmfjDnfBMXtxQ9tFpz6m"
       },
@@ -5202,7 +5278,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 505084,
       "name": "Keep Your Love - Extended Mix",
       "url": "https://open.spotify.com/track/7JDQZ0f10dTmcF8Bqa9LDq"
@@ -5382,6 +5458,28 @@
       "duration_ms": 380227,
       "name": "Late Phase - Clap Codex & Sabura Remix",
       "url": "https://open.spotify.com/track/2j485sySIwYjZEFG6zStaP"
+    },
+    {
+      "album": {
+        "name": "Latex (Mark Reeve Remix)",
+        "url": "https://open.spotify.com/album/0yyDq6SxWtSj41NeSkBXxB"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "Latex - Mark Reeve Remix",
+      "url": "https://open.spotify.com/track/0RfjtF4sIvvF4mEC2bqtyt"
     },
     {
       "album": {
@@ -5928,7 +6026,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 246221,
       "name": "Loca",
       "url": "https://open.spotify.com/track/7oJHO6r8Rh4PbDcQflvmOQ"
@@ -5976,6 +6074,36 @@
       "duration_ms": 716000,
       "name": "Loose Myself in U - Mathew Jonson Remix",
       "url": "https://open.spotify.com/track/5PhclPZlFPFi5WFk2bkg5s"
+    },
+    {
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/3xHItwayho3oovFjYJzQtW"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Reset Robot",
+          "url": "https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3"
+        },
+        {
+          "name": "HYBRD",
+          "url": "https://open.spotify.com/artist/379X6ZxgFs36f701RJwrhC"
+        },
+        {
+          "name": "Rawfox",
+          "url": "https://open.spotify.com/artist/0fIbSfGT21N4THLOmBk9LT"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191230,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/5cKPg6NyDPDBEQNldUfD0p"
     },
     {
       "album": {
@@ -6166,6 +6294,32 @@
       "duration_ms": 313500,
       "name": "Lust",
       "url": "https://open.spotify.com/track/3MCDgpQ2QV0tZf5v1z8f4Z"
+    },
+    {
+      "album": {
+        "name": "Luvsucka (Tantum Remix)",
+        "url": "https://open.spotify.com/album/21i4Xri8KeLYViya1guizT"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Voodooamt",
+          "url": "https://open.spotify.com/artist/0u4QLNTceYzzUQrv1dd5fu"
+        },
+        {
+          "name": "Tantum",
+          "url": "https://open.spotify.com/artist/1zOlzO4RI2iNEcO7JkVWuK"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382292,
+      "name": "Luvsucka - Tantum Remix",
+      "url": "https://open.spotify.com/track/5NIpKI61q4QfK2Ftu3FgSs"
     },
     {
       "album": {
@@ -8163,6 +8317,28 @@
     },
     {
       "album": {
+        "name": "Cold Burn",
+        "url": "https://open.spotify.com/album/6gOlvGLdz7QeGgTWTyjVqB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249999,
+      "name": "Prometheus",
+      "url": "https://open.spotify.com/track/668M0NLo7Qhobp3in9B7ot"
+    },
+    {
+      "album": {
         "name": "FORTE Remixes, Pt. 02",
         "url": "https://open.spotify.com/album/4eD5uM5pdy0HUIIqHb8ixX"
       },
@@ -9696,7 +9872,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 506300,
       "name": "Snowfall - Remastered",
       "url": "https://open.spotify.com/track/1YmesXY2Jx2ThEIO0GG8Hl"
@@ -9978,6 +10154,24 @@
       "duration_ms": 543459,
       "name": "Space Cowboys - Deetron Remix",
       "url": "https://open.spotify.com/track/4wWAcfa5LCyz9YXlOnJLrq"
+    },
+    {
+      "album": {
+        "name": "Space Sheriff",
+        "url": "https://open.spotify.com/album/15S8OxjcFIOQiJD4khUydW"
+      },
+      "artists": [
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187608,
+      "name": "Space Sheriff",
+      "url": "https://open.spotify.com/track/5xcpW0GNQnbclubBvNNSzy"
     },
     {
       "album": {
@@ -11078,7 +11272,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 364782,
       "name": "Timballe",
       "url": "https://open.spotify.com/track/60cY5llk1eegolarRcSNc6"

@@ -4,7 +4,7 @@
 
 > Intersection of R&B and afrobeats\. Cover:  Bridgette Blue
 
-550 songs - 1 day 4 hr 46 min
+550 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,8 +495,6 @@
 | [Touché coulé \(feat\. Louzio, Tazeboy & Team Paiya\)](https://open.spotify.com/track/6LX6p2kiEzDHBcIJFHQt15) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk) | [CYCLE](https://open.spotify.com/album/7iI0U5Wgr4GnDlzIKPzmYB) | 3:42 | 2026-03-13 | 2026-03-20 |
 | [TOXIC](https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:27 | 2022-03-11 | 2022-11-15 |
 | [Toxic Arms](https://open.spotify.com/track/4I2IFTF3PzcpnP3q6J2GHS) | [Itha](https://open.spotify.com/artist/6HWsERr2RidXDuGI1viKtD), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Let's Draw](https://open.spotify.com/album/3CdHQ0q84k7otucAHiUAPa) | 4:47 | 2026-03-06 | 2026-03-20 |
-| [Track 2](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 0:00 | 2026-04-03 |  |
-| [Track 5](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 0:00 | 2026-04-03 |  |
 | [True Love](https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [True Love](https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5) | 2:50 | 2023-11-07 | 2024-10-26 |
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 | 2023-04-20 | 2024-03-22 |
 | [Umbrella](https://open.spotify.com/track/0lx4Q2IDhEPu3z0fZQiPVH) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Ose](https://open.spotify.com/artist/4n5kiRbM5NtY5mYmxdxLiw) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:43 | 2024-06-28 | 2025-04-05 |
@@ -528,6 +526,7 @@
 | [Wetin \- Remix](https://open.spotify.com/track/58oOh7vBW4fXtZfmuNKRtT) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Wetin \(Remix\)](https://open.spotify.com/album/1tDDrZpSeQuI3CWNhYhfkE) | 2:00 | 2025-03-28 | 2025-04-26 |
 | [What Have You Done?](https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [What Have You Done?](https://open.spotify.com/album/3G7drc03HfTHoIVCUJ8m11) | 3:28 | 2023-05-25 | 2023-11-21 |
 | [What If](https://open.spotify.com/track/0UVfLdHAjqb6yHWqh3mE8F) | [Gabbae](https://open.spotify.com/artist/4PfHsJPWAK9UOCQ562F0Hx), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [What If](https://open.spotify.com/album/1F1xPCXUJz295NiQLMpiJ0) | 3:05 | 2026-04-03 |  |
+| [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 | 2026-04-03 |  |
 | [What You Need](https://open.spotify.com/track/1i2uHUxvikWIzvzFpSv207) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [What You Need](https://open.spotify.com/album/1WhSFf4nH91MNgp7wwcYY9) | 3:54 | 2026-03-20 |  |
 | [What you wanna do?](https://open.spotify.com/track/2IQFdoFocKF5kb8J6RNtbc) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [What you wanna do?](https://open.spotify.com/album/2HEe16IuFDnQOnb8dT3zam) | 4:27 | 2023-04-14 | 2023-05-20 |
 | [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 | 2024-10-03 | 2026-03-20 |
@@ -538,6 +537,7 @@
 | [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 | 2022-07-22 | 2023-02-24 |
 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 | 2022-07-22 | 2022-10-14 |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-25 | 2024-10-26 |
+| [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 | 2026-04-03 |  |
 | [Wildin'](https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 3:01 | 2023-10-20 | 2024-04-05 |
 | [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 | 2025-01-24 | 2025-11-14 |
 | [with u](https://open.spotify.com/track/5hyte9fMz1uZvfj1Vgz2rY) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [IV](https://open.spotify.com/album/1cs2NpUBHmIyG4eJTOyxYp) | 2:41 | 2022-07-22 | 2022-08-13 |

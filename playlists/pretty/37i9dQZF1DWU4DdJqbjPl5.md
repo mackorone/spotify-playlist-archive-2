@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > Intersection of R&B and afrobeats\. Cover:  Bridgette Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,698 likes - 55 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,736 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 6 | [Greedy](https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Greedy](https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1) | 2:45 |
 | 7 | [GIRLFRIEND](https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [GIRLFRIEND](https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy) | 4:19 |
 | 8 | [Passionate](https://open.spotify.com/track/6Wh1KqH2YOj6tzG5GMSt9a) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Passionate](https://open.spotify.com/album/4VN3enKsmXpCUgWSMmJEA9) | 1:43 |
-| 9 | [Track 2](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 0:00 |
+| 9 | [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 |
 | 10 | [robbery](https://open.spotify.com/track/3ORQAVMG2AUIeHdmdrl08p) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:44 |
 | 11 | [Higher](https://open.spotify.com/track/2Tzbw4crgP5K6npcQg7dy8) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Never Thought I Could \(Part 1\)](https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS) | 3:24 |
 | 12 | [Baggage](https://open.spotify.com/track/44A3D6wFzNHMBS5RenZRfe) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Baggage](https://open.spotify.com/album/1DOzQHmdMjRKcIpihuf89s) | 3:01 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 51 | [Lost & Found](https://open.spotify.com/track/7mlMJdmG49vYGTEH8CCpvm) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Never Thought I Could \(Part 1\)](https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS) | 2:35 |
 | 52 | [DEARLY](https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [DEARLY](https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w) | 3:01 |
 | 53 | [Slow \(feat\. Anaïs Cardot\)](https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:25 |
-| 54 | [Track 5](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 0:00 |
+| 54 | [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 |
 | 55 | [What If](https://open.spotify.com/track/0UVfLdHAjqb6yHWqh3mE8F) | [Gabbae](https://open.spotify.com/artist/4PfHsJPWAK9UOCQ562F0Hx), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [What If](https://open.spotify.com/album/1F1xPCXUJz295NiQLMpiJ0) | 3:05 |
 
 Snapshot ID: `AAAAAF3xD4BBhlRTnhSOkm8HzC1eF0al`

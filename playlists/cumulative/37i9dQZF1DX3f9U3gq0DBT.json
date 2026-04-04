@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Endless Healing Waves",
+        "url": "https://open.spotify.com/album/0tsZR7CHT4WCyTVyVgpogh"
+      },
+      "artists": [
+        {
+          "name": "Scallope",
+          "url": "https://open.spotify.com/artist/6qjzKyd1b3rjZVf0ol9Alc"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158630,
+      "name": "Endless Healing Waves",
+      "url": "https://open.spotify.com/track/7CBoa5w1UD3Ox4bbrOn6aX"
+    },
+    {
+      "album": {
         "name": "Nature Sleep",
         "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
       },
@@ -2392,7 +2410,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 270527,
       "name": "Sleepy Wave Crashes",
       "url": "https://open.spotify.com/track/6lrRldi6EPan1Wb32Zp8pW"

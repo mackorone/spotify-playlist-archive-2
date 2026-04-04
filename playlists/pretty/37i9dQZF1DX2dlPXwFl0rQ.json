@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Carolina Ross en portada \ud83d\udd25",
-  "num_followers": 7001,
+  "num_followers": 7031,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "El Cigarrillo",
-        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "El Cigarrillo",
-      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Yo Te Extra\u00f1ar\u00e9",
         "url": "https://open.spotify.com/album/39CrI0ILTQ6Ia0zHaBNpda"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 290487,
       "name": "Yo Te Extra\u00f1ar\u00e9",
       "url": "https://open.spotify.com/track/5eaoQpGpFBQrMUjWk3lruo"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "El Cigarrillo",
+        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "El Cigarrillo",
+      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
     },
     {
       "added_at": "2025-09-19 06:00:24",

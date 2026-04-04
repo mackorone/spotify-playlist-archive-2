@@ -2,9 +2,9 @@
 
 ### [New Rap Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX4pHb5aF7Ipw)
 
-> Fresh Punjabi Hip\-Hop Tracks by JP47 & More
+> Fresh Punjabi Hip\-Hop Tracks by Asim Riaz & More
 
-1,053 songs - 2 day 0 hr 40 min
+1,054 songs - 2 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Kikli](https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/16BiNUvVT8zdnr9QitdteN) | 2:53 | 2023-03-18 | 2024-08-28 |
 | [Kikli](https://open.spotify.com/track/752ZVuWP4QcOQNgxWaV4b4) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/4WCsDUqNWHK33Y6A9MvGUK) | 2:53 | 2024-01-24 | 2024-04-19 |
 | [Killin og](https://open.spotify.com/track/6Xm1o9U9YKereLcrvAp8bH) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Killin og](https://open.spotify.com/album/4YBgiDclonJSJOdZVKjR3R) | 2:34 | 2024-10-16 | 2024-12-27 |
+| [King](https://open.spotify.com/track/5vo7HuBC2PVypBkfYLRd6Y) | [DRUFF](https://open.spotify.com/artist/1trgpYDCtCp2ohqo7KlLS4), [Dark Soul Studioz](https://open.spotify.com/artist/3EZPIndtuKArWIo9IgLMwg) | [King](https://open.spotify.com/album/5jVBEToIiwL2uUru2aZ0RA) | 2:17 | 2026-04-03 |  |
 | [King](https://open.spotify.com/track/3o2GS3lgHVk0F4RYC0bIA0) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp) | [King](https://open.spotify.com/album/3RMcMUuJ0YiDz6zDeRnrCO) | 3:02 | 2024-12-16 | 2025-01-25 |
 | [King](https://open.spotify.com/track/3DCpJ4ItY62i4UoNcpAsko) | [Vicky Dhillon](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Sukh Bohanwala](https://open.spotify.com/artist/2tVAyhV9tSFiSgYOBxnUhL), [Acid](https://open.spotify.com/artist/1xEOhnps7IjqOQwOzk3qKB) | [Scars To Stars](https://open.spotify.com/album/2GHkgfjjrUM9X2du12hC8x) | 2:36 | 2025-07-03 | 2025-08-02 |
 | [Kingpin](https://open.spotify.com/track/43qJF4pC5rbLDUgmqWYOKu) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Kingpin](https://open.spotify.com/album/7a2Izhm8WcSsUJwwJ5hpEg) | 2:55 | 2023-03-18 | 2024-09-10 |
@@ -1012,7 +1013,7 @@
 | [WE COMIN](https://open.spotify.com/track/1lIgiCLe1uh83Q7diqv4ve) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ) | [WE COMIN](https://open.spotify.com/album/5VWb9LIu3gpoCHxEFxpMJY) | 3:08 | 2024-08-13 | 2024-09-21 |
 | [We Don't Call Cops](https://open.spotify.com/track/0iTi7Qh8JMNG7CLiUOBJ6a) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [We Don't Call Cops](https://open.spotify.com/album/74DhGcbKKRs8L8zIkxTeqg) | 2:31 | 2024-10-03 | 2024-11-22 |
 | [We Good](https://open.spotify.com/track/7GbvOvxgb24oGk2XHxs4pm) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Sir Manny](https://open.spotify.com/artist/3ZlRQatldojeb7wSXFEHxL) | [We Good](https://open.spotify.com/album/6MDbBkMVIw10O5xYT6qS4Q) | 2:27 | 2025-02-18 | 2025-04-05 |
-| [We Punjabi Stuff](https://open.spotify.com/track/1B7djXo2BfP2K462B0f1Sl) | [Savage](https://open.spotify.com/artist/5sQaJs2VoBxaLeaWQXlYr5), [Raw](https://open.spotify.com/artist/0NR08riH8j4lmCGXOmeEml) | [We Punjabi Stuff](https://open.spotify.com/album/6IzWWnxL2F6i5gD9XrDAMN) | 3:12 | 2026-03-03 |  |
+| [We Punjabi Stuff](https://open.spotify.com/track/1B7djXo2BfP2K462B0f1Sl) | [Savage](https://open.spotify.com/artist/5sQaJs2VoBxaLeaWQXlYr5), [Raw](https://open.spotify.com/artist/0NR08riH8j4lmCGXOmeEml) | [We Punjabi Stuff](https://open.spotify.com/album/6IzWWnxL2F6i5gD9XrDAMN) | 3:12 | 2026-03-03 | 2026-04-04 |
 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2024-04-12 | 2024-09-10 |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-18 | 2024-04-19 |
 | [Weapon](https://open.spotify.com/track/070cBDikZavnOAjFFmbx07) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [GurChahal](https://open.spotify.com/artist/2TWczcCVYPjaBv7JyzV2go), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Rap God](https://open.spotify.com/album/7BRIUafUOwCwNt5ERXFkVV) | 2:45 | 2025-06-20 | 2025-08-22 |

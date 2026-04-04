@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,773 likes - 134 songs - 8 hr 43 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,772 likes - 135 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,5 +142,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 132 | [Wilt](https://open.spotify.com/track/0w7KcJg2E5rId9GnWwt9eI) | [Hard Softee](https://open.spotify.com/artist/4F1IzLLPomRL7g3IlrefEy) | [Silent Screams and Little Things](https://open.spotify.com/album/3RxepldlbmSJa3XxKJ7Y52) | 2:50 |
 | 133 | [The Best of Me Belongs to You](https://open.spotify.com/track/311iEqzTpmxHiuyTBiv0hq) | [Lucas Orione](https://open.spotify.com/artist/3zMzklK5gKCsSKLvgDxZee) | [The Best of Me Belongs to You](https://open.spotify.com/album/2ZnfjQwHVqvdzQALylLElI) | 3:42 |
 | 134 | [High and Dry](https://open.spotify.com/track/3XaoMnrPzZUvkI9KBAILE2) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 3:30 |
+| 135 | [A Wall of Amber](https://open.spotify.com/track/0zvjfyctKZS4ovfyuM3ElL) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Ink and Amber](https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL) | 4:17 |
 
-Snapshot ID: `AAALAfFeR6Nl2EJIyi6Ih9gSEdvnVFEV`
+Snapshot ID: `AAALAp8AShIrXpi1gRh2HiLTq5PTJHl2`

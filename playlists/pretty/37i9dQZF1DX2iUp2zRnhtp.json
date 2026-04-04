@@ -535,22 +535,6 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
-        "name": "Die For Me",
-        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 180147,
-      "name": "Die For Me",
-      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
         "name": "Take My Mind",
         "url": "https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 171199,
       "name": "Take My Mind",
       "url": "https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
+        "name": "Die For Me",
+        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 180147,
+      "name": "Die For Me",
+      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
     },
     {
       "added_at": "2026-04-02 22:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
-        "name": "Wall of Sound",
-        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 144426,
-      "name": "Wall of Sound",
-      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
         "name": "Alle vil til himmelen",
         "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 145733,
       "name": "Alle vil til himmelen",
       "url": "https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
+        "name": "Wall of Sound",
+        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "Wall of Sound",
+      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
     },
     {
       "added_at": "2026-04-02 22:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
-        "name": "Maskulin",
-        "url": "https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX"
-      },
-      "artists": [
-        {
-          "name": "Ylva",
-          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Maskulin",
-      "url": "https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 169294,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
+        "name": "Maskulin",
+        "url": "https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX"
+      },
+      "artists": [
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Maskulin",
+      "url": "https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL"
     },
     {
       "added_at": "2026-04-02 22:01:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
-        "name": "Jeg tror Peter Pan hadde rett",
-        "url": "https://open.spotify.com/album/77oadxwGqKYq1QKLBqNfA8"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        }
-      ],
-      "duration_ms": 173533,
-      "name": "Jeg tror Peter Pan hadde rett",
-      "url": "https://open.spotify.com/track/0ELL7YctWJCX1UUby7btbJ"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 177118,
       "name": "Crush",
       "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
+        "name": "Jeg tror Peter Pan hadde rett",
+        "url": "https://open.spotify.com/album/77oadxwGqKYq1QKLBqNfA8"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "duration_ms": 173533,
+      "name": "Jeg tror Peter Pan hadde rett",
+      "url": "https://open.spotify.com/track/0ELL7YctWJCX1UUby7btbJ"
     },
     {
       "added_at": "2026-04-02 22:01:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
+        "name": "There\u2019s Always More That I Could Say",
+        "url": "https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 164303,
+      "name": "Hush Baby, Hurry Slowly",
+      "url": "https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
         "name": "Galopp",
         "url": "https://open.spotify.com/album/5Kc2vzQnDo9AInTgxixR4n"
       },
@@ -1631,6 +1647,22 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
+        "name": "Iskald",
+        "url": "https://open.spotify.com/album/6v3PN7saZUPDNcv9G76FZ6"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Iskald",
+      "url": "https://open.spotify.com/track/43h7tzAYc9VjlEZMjoraU6"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
         "name": "Smutsiga Tankar",
         "url": "https://open.spotify.com/album/6EJ8lf1o9Fhyv3MeHVQwRE"
       },
@@ -1647,38 +1679,6 @@
       "duration_ms": 120000,
       "name": "Smutsiga Tankar",
       "url": "https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
-        "name": "There\u2019s Always More That I Could Say",
-        "url": "https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 164303,
-      "name": "Hush Baby, Hurry Slowly",
-      "url": "https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
-        "name": "Iskald",
-        "url": "https://open.spotify.com/album/6v3PN7saZUPDNcv9G76FZ6"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Iskald",
-      "url": "https://open.spotify.com/track/43h7tzAYc9VjlEZMjoraU6"
     },
     {
       "added_at": "2026-04-02 22:01:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
-        "name": "Starry Eyed",
-        "url": "https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 136925,
-      "name": "Starry Eyed",
-      "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
         "name": "Strawberry Blonde",
         "url": "https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 190965,
       "name": "Trophy",
       "url": "https://open.spotify.com/track/2JHpFobSp0WktxCod6MEIy"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
+        "name": "Starry Eyed",
+        "url": "https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 136925,
+      "name": "Starry Eyed",
+      "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
     },
     {
       "added_at": "2026-04-02 22:01:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
+        "name": "Ps. Kanskje det g\u00e5r",
+        "url": "https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "Kanskje det g\u00e5r te helvete",
+      "url": "https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
         "name": "H\u00c6?",
         "url": "https://open.spotify.com/album/1Sbtt9rQIOdwNT2RxvstDp"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 167629,
       "name": "Ok rosa blomst",
       "url": "https://open.spotify.com/track/6Ikx1jpMAfYLbsWQrJfsWd"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
-        "name": "Ps. Kanskje det g\u00e5r",
-        "url": "https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "Kanskje det g\u00e5r te helvete",
-      "url": "https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs"
     },
     {
       "added_at": "2026-04-02 22:01:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
-        "name": "G\u00e5r det bra?",
-        "url": "https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 143314,
-      "name": "G\u00e5r det bra?",
-      "url": "https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
         "name": "Siste gang",
         "url": "https://open.spotify.com/album/2GyPGXCZc7YEWvjsuIV8qW"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 161906,
       "name": "Siste gang",
       "url": "https://open.spotify.com/track/0Vq1QtDAM6vU8HR253xP6q"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
+        "name": "G\u00e5r det bra?",
+        "url": "https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 143314,
+      "name": "G\u00e5r det bra?",
+      "url": "https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP"
     },
     {
       "added_at": "2026-04-02 22:01:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
-        "name": "Store gutter gr\u00e5ter ikke",
-        "url": "https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 208366,
-      "name": "Store gutter gr\u00e5ter ikke",
-      "url": "https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
         "name": "Voi Voi",
         "url": "https://open.spotify.com/album/3xYkAZCLQvvOwCAtLpFf7X"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 144251,
       "name": "Voi Voi",
       "url": "https://open.spotify.com/track/4aKjwqQh7BgS3dWuUth0PY"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
+        "name": "Store gutter gr\u00e5ter ikke",
+        "url": "https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 208366,
+      "name": "Store gutter gr\u00e5ter ikke",
+      "url": "https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7"
     },
     {
       "added_at": "2026-04-02 22:01:00",
@@ -2615,6 +2615,22 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
+        "name": "The Boy I Am",
+        "url": "https://open.spotify.com/album/6xz9QoMwSIVDSm2im3v1r9"
+      },
+      "artists": [
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "duration_ms": 154251,
+      "name": "The Boy I Am",
+      "url": "https://open.spotify.com/track/7uqtN4R6hcRI4Q4KPTH3SQ"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
         "name": "Superhero",
         "url": "https://open.spotify.com/album/2CMvDS3QKvYghNwzfWbAJL"
       },
@@ -2655,22 +2671,6 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
-        "name": "The Boy I Am",
-        "url": "https://open.spotify.com/album/6xz9QoMwSIVDSm2im3v1r9"
-      },
-      "artists": [
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
-        }
-      ],
-      "duration_ms": 154251,
-      "name": "The Boy I Am",
-      "url": "https://open.spotify.com/track/7uqtN4R6hcRI4Q4KPTH3SQ"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
         "name": "Steep Hills",
         "url": "https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS"
       },
@@ -2687,22 +2687,6 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
-        "name": "Galactical Love",
-        "url": "https://open.spotify.com/album/0WEI0pMBet6W86Q7YKCMHM"
-      },
-      "artists": [
-        {
-          "name": "Donkeyboy",
-          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
-        }
-      ],
-      "duration_ms": 174362,
-      "name": "Galactical Love",
-      "url": "https://open.spotify.com/track/6UiGhlQTe31XsVB83wBWNt"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
         "name": "Hvert \u00c5r",
         "url": "https://open.spotify.com/album/6HE9CnakRqPFCb4Ra36eQU"
       },
@@ -2715,6 +2699,22 @@
       "duration_ms": 184918,
       "name": "Hvert \u00c5r",
       "url": "https://open.spotify.com/track/6lCuJDgduRfAmgrFyStT3g"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
+        "name": "Galactical Love",
+        "url": "https://open.spotify.com/album/0WEI0pMBet6W86Q7YKCMHM"
+      },
+      "artists": [
+        {
+          "name": "Donkeyboy",
+          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
+        }
+      ],
+      "duration_ms": 174362,
+      "name": "Galactical Love",
+      "url": "https://open.spotify.com/track/6UiGhlQTe31XsVB83wBWNt"
     },
     {
       "added_at": "2026-04-02 22:01:00",
@@ -2939,6 +2939,22 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
+        "name": "Broken View",
+        "url": "https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 246562,
+      "name": "The More I Hope",
+      "url": "https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
         "name": "Leave It Beautiful",
         "url": "https://open.spotify.com/album/3iYbmLmaqBxDYP9ojETBnK"
       },
@@ -3067,6 +3083,22 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/7rlY3zUZPSl9T8CoqL0ABa"
+      },
+      "artists": [
+        {
+          "name": "EMMY",
+          "url": "https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu"
+        }
+      ],
+      "duration_ms": 163714,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/73tCN2QLa2z7BHibydqWsU"
+    },
+    {
+      "added_at": "2026-04-02 22:01:00",
+      "album": {
         "name": "L\u00e5t Mig Va",
         "url": "https://open.spotify.com/album/7DuBr9drXCvHzsNoiyiw8s"
       },
@@ -3083,22 +3115,6 @@
       "duration_ms": 172048,
       "name": "L\u00e5t Mig Va",
       "url": "https://open.spotify.com/track/7MnietXFwPdKk3QhlxzgwR"
-    },
-    {
-      "added_at": "2026-04-02 22:01:00",
-      "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/7rlY3zUZPSl9T8CoqL0ABa"
-      },
-      "artists": [
-        {
-          "name": "EMMY",
-          "url": "https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu"
-        }
-      ],
-      "duration_ms": 163714,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/73tCN2QLa2z7BHibydqWsU"
     },
     {
       "added_at": "2026-04-02 22:01:00",
@@ -3511,18 +3527,18 @@
     {
       "added_at": "2026-04-02 22:01:00",
       "album": {
-        "name": "Broken View",
-        "url": "https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg"
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 246562,
-      "name": "The More I Hope",
-      "url": "https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0"
+      "duration_ms": 143197,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy"
     }
   ],
   "unique_name": "Hits Don't Lie",

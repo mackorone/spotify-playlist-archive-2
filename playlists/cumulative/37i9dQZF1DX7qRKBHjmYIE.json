@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Mar\u00eda Isabel.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con maye.",
   "name": "Mixto",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195445,
       "name": "alg\u00fan d\u00eda - Spotify Sessions",
       "url": "https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl"
@@ -1432,6 +1432,28 @@
       "duration_ms": 110963,
       "name": "AUSENCIA",
       "url": "https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P"
+    },
+    {
+      "album": {
+        "name": "FREE SPIRITS",
+        "url": "https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181424,
+      "name": "Ay Ay Ay",
+      "url": "https://open.spotify.com/track/5XI7KiPx9gsgG0QkWlwUfz"
     },
     {
       "album": {
@@ -4525,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200710,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID"
+    },
+    {
+      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -4830,6 +4870,28 @@
       "duration_ms": 151856,
       "name": "Dirty Secrets",
       "url": "https://open.spotify.com/track/2sh23PpmUcfrxKaBRvqxig"
+    },
+    {
+      "album": {
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165110,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
     },
     {
       "album": {
@@ -5420,7 +5482,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 170038,
       "name": "EL D\u00cdA DEL AMIGO",
       "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
@@ -7440,7 +7502,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195008,
       "name": "Hasta Jes\u00fas Tuvo un Mal D\u00eda",
       "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
@@ -7832,7 +7894,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 180000,
       "name": "HOY NO TRABAJO",
       "url": "https://open.spotify.com/track/4wtpYqV7ZHXBmwRkWKsx7V"
@@ -11289,6 +11351,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica Para Abrir El Cielo: Act 2",
+        "url": "https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147423,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB"
+    },
+    {
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD"
       },
@@ -12364,7 +12444,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 184588,
       "name": "No Me Sirve M\u00e1s",
       "url": "https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ"
@@ -19040,7 +19120,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 192942,
       "name": "Y Yo Que Pensaba",
       "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"

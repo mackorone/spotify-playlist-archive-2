@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Marty Holoubek
 
-507 songs - 1 day 17 hr 17 min
+508 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Magnolia](https://open.spotify.com/track/1gwpEPHINRL2ctjAfZqTtm) | [村越葵](https://open.spotify.com/artist/2zJzXHBaFDFDBXFvExeVWN) | [Magnolia](https://open.spotify.com/album/5as5dlYqkkXVVIWAwy1jkH) | 5:13 | 2025-07-15 | 2025-08-06 |
 | [Maintenance](https://open.spotify.com/track/7zFQs84UC969WEkBeAz3kF) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Maintenance](https://open.spotify.com/album/6d1HQQNWz4hLYuGQh8u1V6) | 4:08 | 2026-03-17 |  |
 | [Mangalitza](https://open.spotify.com/track/7DWtk6QvKl0k9Bk0jvnEyl) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Mangalitza](https://open.spotify.com/album/6xN1h5RJ2NHtpETgnlGRul) | 3:03 | 2025-09-30 | 2025-11-18 |
+| [Manual](https://open.spotify.com/track/2Cj2tCgsjrdgOutPTgCtpS) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [Manual](https://open.spotify.com/album/0iux1rDoXgQVvhS84Dam4r) | 3:59 | 2026-03-31 |  |
 | [MASKS](https://open.spotify.com/track/0BbwksR9DdhuG1DbEbtiaA) | [Banksia Trio](https://open.spotify.com/artist/3xEsdwaU685TDQp5p02Q4L), [須川崇志バンクシアトリオ](https://open.spotify.com/artist/1FKyKFEwsa7NXshFJKKkc9), [須川 崇志](https://open.spotify.com/artist/7257spgBvb4Lfl74wregRN), [林正樹](https://open.spotify.com/artist/406asAfsZHb4zHPlw2wYq7), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [MASKS](https://open.spotify.com/album/28UHrz5XOC5YDE7VXq6ggu) | 5:16 | 2023-08-22 | 2023-09-13 |
 | [MASQUERADE!](https://open.spotify.com/track/7COeUxxiLP2GqTIzOvCZhK) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [MASQUERADE!](https://open.spotify.com/album/4Z7AfRdyvxpPPH837iTaXS) | 3:48 | 2022-09-06 | 2022-10-05 |
 | [Master Blaster \(Jammin'\)](https://open.spotify.com/track/79o3fOmpXxhcxMa7mikdhW) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Life / Master Blaster \(Jammin'\)](https://open.spotify.com/album/3KJOzHhk0troKxezPhNDuf) | 4:36 | 2024-08-06 | 2024-09-18 |
@@ -420,7 +421,7 @@
 | [Vortex](https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Vortex](https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI) | 2:53 | 2024-11-27 | 2025-01-13 |
 | [WAKABA](https://open.spotify.com/track/4bTr3UbZjM8inclL0gPq2r) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [WAKABA](https://open.spotify.com/album/1J09jgpvTOR0djVbAOHlmy) | 2:50 | 2025-09-30 | 2025-11-05 |
 | [Wander from place to place](https://open.spotify.com/track/23XzSHqcxpAjh0VFQ4Dmea) | [Morphine Desert \-trio acoustic\-](https://open.spotify.com/artist/4qNCHyjKwuZwKJucdokJ33) | [Tales Of the Desert](https://open.spotify.com/album/3JN76A0m4MiRxZexsmUDbQ) | 5:45 | 2022-12-06 | 2023-03-08 |
-| [Wanted](https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/56y2AKjPkkMxCLGurbRco3) | 7:12 | 2023-09-05 |  |
+| [Wanted](https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/56y2AKjPkkMxCLGurbRco3) | 7:12 | 2023-09-05 | 2026-04-04 |
 | [Wanted](https://open.spotify.com/track/5v0Nftz5zbMK2CZhpJWiND) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/4AwRYl2kRyCYaAkxHAklZ8) | 7:12 | 2023-10-03 | 2024-01-31 |
 | [water melon](https://open.spotify.com/track/1MoCrRPl7VmLqkuVPBuc8n) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [water melon](https://open.spotify.com/album/17xOXntWM5dpQPmNCl5y9A) | 3:51 | 2022-11-15 | 2023-01-11 |
 | [water of goddess](https://open.spotify.com/track/6yoA5AMvxjNd1RoykmbnAZ) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [water of goddess](https://open.spotify.com/album/6xN8qW4onF9aYvqZTx2XDt) | 3:38 | 2023-01-10 | 2023-02-28 |

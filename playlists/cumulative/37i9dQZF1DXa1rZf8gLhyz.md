@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-751 songs - 1 day 13 hr 22 min
+753 songs - 1 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/57vftsu5BB8muXDvzrMi0X) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Polka Dots And Moonbeams](https://open.spotify.com/album/5Zx45mRq599ivk5YMI55Gx) | 3:49 | 2023-03-30 | 2024-10-22 |
 | [Poor Butterfly](https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [My Blue Heaven](https://open.spotify.com/album/0gdVpIK1SWCHzpFSaO34Bf) | 2:21 | 2023-06-08 | 2024-11-26 |
 | [Pradayoo](https://open.spotify.com/track/6dpxiaunf6rT5tjr446YSd) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [Pradayoo](https://open.spotify.com/album/5mMOphduDFRZZsCE7HELJZ) | 2:10 | 2025-02-17 | 2026-02-28 |
+| [Praia Valsa](https://open.spotify.com/track/4qDDlcx8hmGSF6zc4pbxG8) | [James Auren](https://open.spotify.com/artist/7Ds0cZCPbFyORBS5NSvQaQ) | [Praia Valsa](https://open.spotify.com/album/0xfL2vpZGEJMgyTgRsTQV0) | 2:02 | 2026-04-03 |  |
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2021-12-07 | 2023-08-11 |
 | [Quebec](https://open.spotify.com/track/0JQjizdC8uucjdx8IogkZ3) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Quebec](https://open.spotify.com/album/7AfHXBL9mXhwptOXSXw0yz) | 2:50 | 2024-07-22 | 2025-11-11 |
 | [Quiet Bloom](https://open.spotify.com/track/1Tq8MLlGLqQhXvulBAjgcE) | [Honeysetts](https://open.spotify.com/artist/4lqVmQcjP5RmM49wXt2uP4) | [Quiet Bloom](https://open.spotify.com/album/47TCTUrZQBkn2AiY8BLhR9) | 2:09 | 2025-11-03 |  |
@@ -563,10 +564,11 @@
 | [Si nous vivons](https://open.spotify.com/track/5vtgdFd6HsxfCZaVfGElRP) | [Sholiha](https://open.spotify.com/artist/03bXfVH9PnjzravJ7UJpD4) | [Si nous vivons](https://open.spotify.com/album/1OFhNarYwv2I2Yig4xcwLT) | 3:56 | 2021-12-07 | 2023-05-12 |
 | [Silent Call](https://open.spotify.com/track/5rhov9NtT0zwqbLp7mcdba) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [Silent Call](https://open.spotify.com/album/0xLTLcBS1IsAcdxwfaaMbC) | 2:42 | 2024-02-09 | 2025-11-11 |
 | [Silent Embrace](https://open.spotify.com/track/5Xj4kCc0Y44LYNTjmWDKLz) | [George Dukenfield](https://open.spotify.com/artist/4akS51numAlJubBjlxT3gj) | [Silent Embrace](https://open.spotify.com/album/7ax8BH3rAFJT2boGbHj5Y0) | 2:30 | 2024-05-23 | 2026-01-24 |
+| [Silent Measure](https://open.spotify.com/track/1BYSgoRv2JAKdsZKCQ1GOA) | [Noa Emerson](https://open.spotify.com/artist/6L3ru0t3JBL8fGywpt7uD6) | [Silent Measure](https://open.spotify.com/album/5Y5qh5ubjJfqZBEbTunZUr) | 2:25 | 2026-04-03 |  |
 | [Skating in Central Park](https://open.spotify.com/track/5DL2qEB0QeLlMNFjcYfcDm) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Skating in Central Park](https://open.spotify.com/album/3dgfesW8kzGn0ePWdsZlMo) | 2:58 | 2023-01-05 | 2025-10-16 |
 | [Skylark](https://open.spotify.com/track/5XzlyI2iS6Km2SNsEQ4O91) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Skylark](https://open.spotify.com/album/6DEaWap07T8LIFfnHVSVIr) | 3:29 | 2021-12-07 | 2025-09-24 |
 | [Skyline](https://open.spotify.com/track/1eOYDB1NzYYHihk3u5VAsc) | [Eleanor Rivers](https://open.spotify.com/artist/0PZjFVd7k6PROjrjVtVFU2) | [Skyline](https://open.spotify.com/album/5JafOFZrDTHPUb6z8NuEQM) | 2:18 | 2024-02-09 | 2025-11-11 |
-| [Skógafoss](https://open.spotify.com/track/0yGxX6e3dXHreh1YXjQJxs) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Skógafoss](https://open.spotify.com/album/6mYArGcIpsQxuUXvVQ03qK) | 3:21 | 2025-04-04 |  |
+| [Skógafoss](https://open.spotify.com/track/0yGxX6e3dXHreh1YXjQJxs) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Skógafoss](https://open.spotify.com/album/6mYArGcIpsQxuUXvVQ03qK) | 3:21 | 2025-04-04 | 2026-04-04 |
 | [Sleep Warm](https://open.spotify.com/track/5lt4NedCUCfgU48VU25fTN) | [M\. Birkeland](https://open.spotify.com/artist/0JldzuwP5NF3nsxjnlLCTS) | [Sleep Warm](https://open.spotify.com/album/21JzK3UXvkY3Bq7TzuSnbi) | 2:25 | 2023-08-10 | 2025-10-16 |
 | [Slow Down](https://open.spotify.com/track/0smp1YZcD0pilQEGbc3KcS) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [Slow Down](https://open.spotify.com/album/34FnrbjzUSh4lJNmTANyTP) | 3:14 | 2024-08-06 | 2025-11-11 |
 | [Slowing Down](https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Slowing Down](https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt) | 3:28 | 2023-04-27 | 2025-09-24 |
@@ -734,7 +736,7 @@
 | [When the night was kind](https://open.spotify.com/track/6DicT5IHrKFy5AA7QWY0ro) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [When the night was kind](https://open.spotify.com/album/6e4ltPXfH6d6Xz3pzCXmP8) | 2:49 | 2026-02-13 |  |
 | [When We Meet Again](https://open.spotify.com/track/71vWUMeyrgikHr6MwkUpCv) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [When We Meet Again](https://open.spotify.com/album/6vOUy7BcO38Yzd8Sfepaqm) | 2:47 | 2021-12-07 | 2024-07-13 |
 | [When You Come Over](https://open.spotify.com/track/7LqhLEaSc6iREEYKWF3FRR) | [Julius Palladini](https://open.spotify.com/artist/3V5CZtQuix8ETHRNL7wjva) | [When You Come Over](https://open.spotify.com/album/2gos7UfVuuzx5mF0QIVy1s) | 3:00 | 2024-03-08 | 2026-02-14 |
-| [Where Dreams Go to Sleep](https://open.spotify.com/track/4KqBLedO4BQ90dLH1E2H94) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [Where Dreams Go to Sleep](https://open.spotify.com/album/2joqhs2irtfZ2kDRCCj9Ia) | 2:49 | 2025-05-09 |  |
+| [Where Dreams Go to Sleep](https://open.spotify.com/track/4KqBLedO4BQ90dLH1E2H94) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [Where Dreams Go to Sleep](https://open.spotify.com/album/2joqhs2irtfZ2kDRCCj9Ia) | 2:49 | 2025-05-09 | 2026-04-04 |
 | [Where Forever Starts](https://open.spotify.com/track/435mOmID4FlRSGQuzYdTu5) | [Degli Scalzi](https://open.spotify.com/artist/00SKXIqWJekH9XzXkpyAZp) | [Where Forever Starts](https://open.spotify.com/album/41triyWsGFj1RGBMAd0FXh) | 2:26 | 2026-02-13 |  |
 | [Where Oceans Meet](https://open.spotify.com/track/41ng9ZQDM3SPKMDT2OdZlq) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Where Oceans Meet](https://open.spotify.com/album/0DSaYTJggLCfKJnomLgKWY) | 2:26 | 2021-12-07 | 2025-10-16 |
 | [Where the Streetlights Blur](https://open.spotify.com/track/5AwApnUgMGh92Oc9UD5fNb) | [Paolo Biscottini](https://open.spotify.com/artist/6XTAgjCPixFSoiGjxVvDhN) | [Where the Streetlights Blur](https://open.spotify.com/album/3MV1uqxpaW9wBFPm7JYq4D) | 2:52 | 2026-03-27 |  |

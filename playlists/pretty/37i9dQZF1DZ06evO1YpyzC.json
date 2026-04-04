@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 266308,
+  "num_followers": 266311,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAABhKia1yF6MnPAYm+g9hqaY",
+  "snapshot_id": "ac2xgAAAAADCb0SdQGWvOoHQDkBasTLm",
   "tracks": [
     {
       "added_at": null,
@@ -670,15 +670,11 @@
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 182506,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida"
+      "duration_ms": 172933,
+      "name": "Fiddle in the Band",
+      "url": "https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO"
     },
     {
       "added_at": null,
@@ -750,11 +746,15 @@
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 172933,
-      "name": "Fiddle in the Band",
-      "url": "https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO"
+      "duration_ms": 182506,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida"
     },
     {
       "added_at": null,

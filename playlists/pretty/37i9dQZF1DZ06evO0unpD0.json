@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 13635,
+  "num_followers": 13638,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAATqbJEm7727Gr0KrBNL4+K",
+  "snapshot_id": "ac2xgAAAAADYJ9qISxuq8yqV/8vF337J",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 245320,
-      "name": "La diff\u00e9rence",
-      "url": "https://open.spotify.com/track/1cmteMwv4y3Gr7qerXiLuq"
+      "duration_ms": 299773,
+      "name": "Kuma",
+      "url": "https://open.spotify.com/track/5LFN2u1WNQyC25r37rOSpn"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 299773,
-      "name": "Kuma",
-      "url": "https://open.spotify.com/track/5LFN2u1WNQyC25r37rOSpn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
       },
@@ -360,9 +344,25 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 328080,
-      "name": "San Ka Na",
-      "url": "https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz"
+      "duration_ms": 245320,
+      "name": "La diff\u00e9rence",
+      "url": "https://open.spotify.com/track/1cmteMwv4y3Gr7qerXiLuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tal\u00e9",
+        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Tal\u00e9",
+      "url": "https://open.spotify.com/track/5Z279TzbPAtGQNRpcfxq32"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tal\u00e9",
-        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Tal\u00e9",
-      "url": "https://open.spotify.com/track/5Z279TzbPAtGQNRpcfxq32"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
       },
@@ -424,9 +408,25 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 364080,
-      "name": "Seydou",
-      "url": "https://open.spotify.com/track/4vYP9Vx5XvfIUMjnhzQJnC"
+      "duration_ms": 328080,
+      "name": "San Ka Na",
+      "url": "https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folon",
+        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 360200,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0zQ2Ojoj3K0LzgqR9xYcOO"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folon",
-        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 360200,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/0zQ2Ojoj3K0LzgqR9xYcOO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
       },
@@ -488,9 +472,25 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 429333,
-      "name": "Samigna",
-      "url": "https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR"
+      "duration_ms": 364080,
+      "name": "Seydou",
+      "url": "https://open.spotify.com/track/4vYP9Vx5XvfIUMjnhzQJnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 311666,
+      "name": "Tomorrow (Sadio)",
+      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
+        "name": "La Diff\u00e9rence",
+        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 311666,
-      "name": "Tomorrow (Sadio)",
-      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
+      "duration_ms": 429333,
+      "name": "Samigna",
+      "url": "https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
+        "name": "Un autre blanc",
+        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 254880,
-      "name": "Dj\u00e9l\u00e9",
-      "url": "https://open.spotify.com/track/3kxd8G6lLHwy3gtBYGXrXi"
+      "duration_ms": 304944,
+      "name": "Syrie",
+      "url": "https://open.spotify.com/track/7efKxNDq3rzhE1RQQ5mhMI"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un autre blanc",
-        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
+        "name": "La Diff\u00e9rence",
+        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 304944,
-      "name": "Syrie",
-      "url": "https://open.spotify.com/track/7efKxNDq3rzhE1RQQ5mhMI"
+      "duration_ms": 254880,
+      "name": "Dj\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/3kxd8G6lLHwy3gtBYGXrXi"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 361933,
+      "name": "Cono",
+      "url": "https://open.spotify.com/track/7cms6JQGv9q2iA2XN35V0n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tal\u00e9",
         "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 300466,
       "name": "C'est bon, c'est bon",
       "url": "https://open.spotify.com/track/3fXWcMsilfmKDVawJgnC83"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soro",
-        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 361933,
-      "name": "Cono",
-      "url": "https://open.spotify.com/track/7cms6JQGv9q2iA2XN35V0n"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Kono",
-        "url": "https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY"
+        "name": "Tassi",
+        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 327040,
-      "name": "Awa",
-      "url": "https://open.spotify.com/track/75G3E59I9CGpFQMgtdahOk"
+      "duration_ms": 283720,
+      "name": "Tassi",
+      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tassi",
-        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
+        "name": "So Kono",
+        "url": "https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 283720,
-      "name": "Tassi",
-      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
+      "duration_ms": 327040,
+      "name": "Awa",
+      "url": "https://open.spotify.com/track/75G3E59I9CGpFQMgtdahOk"
     },
     {
       "added_at": null,

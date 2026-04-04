@@ -4,7 +4,7 @@
 
 > New year, same Kitty\. Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-256 songs - 14 hr 28 min
+258 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [BIBI Vengeance](https://open.spotify.com/track/6cwfdl65DXd0VjQk5grYcv) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [BIBI Vengeance \(feat\. Baby Tate & with Princesa Alba\) \[Remix\]](https://open.spotify.com/album/3exzx1IVqyCAnrTsxq5X0r) | 2:45 | 2025-01-16 |  |
 | [Burning Power](https://open.spotify.com/track/38L2dkfgm78wDG30BpFoVz) | [Maka\`Maka](https://open.spotify.com/artist/3xuHnufu1QYfi9k0xzLkF8) | [Burning Power](https://open.spotify.com/album/33Brx6gd0wyfylMwmERw8b) | 3:30 | 2026-04-02 |  |
 | [Business as Usual](https://open.spotify.com/track/0XArODhmxQ85l3UiHsGUdp) | [John Chuck & the Class](https://open.spotify.com/artist/0vL5IeQO8wvyDAq7zu6N96) | [Business as Usual](https://open.spotify.com/album/45KJuEx7SHOmOyGjjntdYY) | 3:11 | 2023-05-18 |  |
+| [By My Side \(Original Song from XO, Kitty, Season 3\)](https://open.spotify.com/track/2Yn4bizRSaX3nCbImiYV9k) | [Saint Rene](https://open.spotify.com/artist/1T9t3nGi3dOXzjLeodRxKv) | [By My Side \(Original Song from XO, Kitty, Season 3\)](https://open.spotify.com/album/6d3tgSHXsGA04MAcMvSFW1) | 2:36 | 2026-04-03 |  |
 | [Camelia Lady](https://open.spotify.com/track/67fvhC073lacWUWyOfryxa) | [Choi JinHee](https://open.spotify.com/artist/29KAht9pk0BbgubOpH0nZ8) | [Golden Hit Album](https://open.spotify.com/album/3MqiHZXGbiM61LDZJE3Dag) | 3:07 | 2025-01-16 |  |
 | [Can I come home](https://open.spotify.com/track/4R10zxqi8oPauPbXBVYFAd) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Mother](https://open.spotify.com/album/206fFVgEESA7xFQMP6NlPh) | 5:42 | 2025-01-16 |  |
 | [Candy \(feat\. Ryan Chambers\)](https://open.spotify.com/track/1nArmVH4322LPDTPFVaL68) | [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz), [Ryan Chambers](https://open.spotify.com/artist/6O91ouSNeRUa0jdq0q5s07) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 2:16 | 2022-02-09 |  |
@@ -75,6 +76,7 @@
 | [Dream Girl](https://open.spotify.com/track/72wFB779XxTql3IQN2Nvya) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 2:31 | 2022-02-09 | 2022-07-29 |
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2023-05-18 |  |
 | [Eat Them Apples](https://open.spotify.com/track/7ofbhfuwvOfeG8yIKI9aeK) | [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 2:55 | 2022-02-09 |  |
+| [Euniq \(Original Song from XO, Kitty, Season 3\)](https://open.spotify.com/track/0rHklweNkglC0epfjauKdt) | [dv/sn](https://open.spotify.com/artist/2IGjOiTyvZdlRP8PCJ1EvS), [HanBi Ryu](https://open.spotify.com/artist/7iu8vDLagzU5h6kQGp2DMV) | [Euniq \(Original Song from XO, Kitty, Season 3\)](https://open.spotify.com/album/3Rk58pG0KkGdI1A0Y6arca) | 1:51 | 2026-04-03 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-02-09 |  |
 | [Everybody Wants To Rule The World \(From XO, Kitty\)](https://open.spotify.com/track/0PEI9t3QfzaOepAhYwJGdn) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY), [dv/sn](https://open.spotify.com/artist/2IGjOiTyvZdlRP8PCJ1EvS) | [Everybody Wants to Rule the World \(From XO, Kitty\)](https://open.spotify.com/album/2orBNQq9oB5FYTONCyIA2P) | 2:28 | 2023-05-30 |  |
 | [face to face](https://open.spotify.com/track/1nBwBd3W4tE9FEOUcrsv83) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [face to face](https://open.spotify.com/album/60URYT9rYS0qh5HrZREBf2) | 2:50 | 2025-01-16 |  |

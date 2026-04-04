@@ -1347,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/3EdsvSe5Kat47RB7PHeRQ4"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230115,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/7qXVWyhV26OV0yEFtIoZXU"
+    },
+    {
+      "album": {
         "name": "more than words",
         "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
@@ -1689,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Shoki no Sata",
+        "url": "https://open.spotify.com/album/1anRgM3EeUCUTbSlmFOER0"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208424,
+      "name": "Shoki no Sata",
+      "url": "https://open.spotify.com/track/6SP6xCCLL3SjDMDPokHium"
+    },
+    {
+      "album": {
         "name": "Shout Baby",
         "url": "https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf"
       },
@@ -1970,7 +2006,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 240166,
       "name": "THE REVO",
       "url": "https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h"
@@ -2442,7 +2478,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 243493,
       "name": "\u30a2\u30b6\u30ec\u30a2\u306e\u98a8",
       "url": "https://open.spotify.com/track/5YZ37RSEf6oOjUjVBKPj3Q"
@@ -2719,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
+        "url": "https://open.spotify.com/album/763UvrUoMGjPlFkgdpLFIH"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245893,
+      "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
+      "url": "https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
         "url": "https://open.spotify.com/album/1r3xpfEzgqu4bXgeTfLwby"
       },
@@ -2730,7 +2784,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 209427,
       "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
       "url": "https://open.spotify.com/track/6M410WEW7eCsU7z1BE3BJO"
@@ -3072,7 +3126,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 173292,
       "name": "\u30d5\u30eb\u30dc\u30b3",
       "url": "https://open.spotify.com/track/1gVV83GEtLV50vTzEMx4cJ"
@@ -4168,6 +4222,24 @@
       "duration_ms": 308213,
       "name": "\u9006\u5922",
       "url": "https://open.spotify.com/track/2tymuyImEjfqVCearVpYCf"
+    },
+    {
+      "album": {
+        "name": "\u900f\u660e",
+        "url": "https://open.spotify.com/album/4OD3PNAySdYTVqPHAdn3TD"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "\u900f\u660e",
+      "url": "https://open.spotify.com/track/4uGObz1zPMzNy6ZMUnaFNR"
     },
     {
       "album": {

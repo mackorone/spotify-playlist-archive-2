@@ -4259,6 +4259,28 @@
     },
     {
       "album": {
+        "name": "CHANGE",
+        "url": "https://open.spotify.com/album/5Gwn0C6YaMhqOMIycr43H4"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159111,
+      "name": "CHANGE",
+      "url": "https://open.spotify.com/track/2ilviyc5XdaEjBtwj3iHvG"
+    },
+    {
+      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -5347,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "TOP SPOT - ANOTHER DIMENSION",
+        "url": "https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE"
+      },
+      "artists": [
+        {
+          "name": "T.O.P",
+          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184069,
+      "name": "DESPERADO",
+      "url": "https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd"
+    },
+    {
+      "album": {
         "name": "Di Rho",
         "url": "https://open.spotify.com/album/57DgtjflGA7NpypLEd5Mod"
       },
@@ -6038,7 +6078,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 159000,
       "name": "D\u00c9SOL\u00c9E",
       "url": "https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS"
@@ -11779,6 +11819,24 @@
     },
     {
       "album": {
+        "name": "Machi M3ana",
+        "url": "https://open.spotify.com/album/0agRAP2CaWB8QEft37ijFx"
+      },
+      "artists": [
+        {
+          "name": "Shobee",
+          "url": "https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153595,
+      "name": "Machi M3ana",
+      "url": "https://open.spotify.com/track/7gD7d2dcr6kcftmLBHSZWs"
+    },
+    {
+      "album": {
         "name": "Mad About Merseyside",
         "url": "https://open.spotify.com/album/2zwnpgLQX3sCTu6VHwfSiE"
       },
@@ -15200,7 +15258,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 191590,
       "name": "PANGEA",
       "url": "https://open.spotify.com/track/2qmf7h3jh5kZUt7BNeIBSy"
@@ -18726,7 +18784,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 170723,
       "name": "SWEET LIKE SUGAR",
       "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"

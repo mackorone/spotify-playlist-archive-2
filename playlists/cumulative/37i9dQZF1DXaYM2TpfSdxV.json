@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Clear Air White Noise",
+        "url": "https://open.spotify.com/album/5bp4JgMQTQaTjVtgvsbcvE"
+      },
+      "artists": [
+        {
+          "name": "Picturesque Sound",
+          "url": "https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Clear Air White Noise",
+      "url": "https://open.spotify.com/track/7MfhmjpKujF5BDjz8TEzhj"
+    },
+    {
+      "album": {
         "name": "Restful White Noise",
         "url": "https://open.spotify.com/album/78gezcFabVfTrlIigNbB6p"
       },
@@ -776,6 +794,24 @@
       "duration_ms": 111473,
       "name": "Color Noise",
       "url": "https://open.spotify.com/track/3eQ9xvb1Xo4axVcjf4ewho"
+    },
+    {
+      "album": {
+        "name": "Constant White Noise Calm",
+        "url": "https://open.spotify.com/album/6X3SuFQWKvZPDwFZvXqWyx"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Constant White Noise Calm",
+      "url": "https://open.spotify.com/track/1I8dsMUNWwWbfPsRATCjAB"
     },
     {
       "album": {
@@ -1262,6 +1298,24 @@
       "duration_ms": 155933,
       "name": "Early Morning White Noise",
       "url": "https://open.spotify.com/track/2hV0wH6FkGxCugwOsjPaa2"
+    },
+    {
+      "album": {
+        "name": "Early Sky White Noise",
+        "url": "https://open.spotify.com/album/0rWkvNdGwqwG2jZ4Yuh2xH"
+      },
+      "artists": [
+        {
+          "name": "Breezy Noise",
+          "url": "https://open.spotify.com/artist/3CXGywpBBnCFYvsuILK9XA"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Early Sky White Noise",
+      "url": "https://open.spotify.com/track/6Zrn0yKAQZPvAazKfwUeV8"
     },
     {
       "album": {
@@ -4570,7 +4624,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 188500,
       "name": "The Deep White",
       "url": "https://open.spotify.com/track/0qaFcuTx3BEEu4ZSaKCfiu"
@@ -5920,7 +5974,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 125220,
       "name": "White Noise in der Grotte",
       "url": "https://open.spotify.com/track/2Qh0vgdqdOr0g5C1ysGMzg"
@@ -6082,7 +6136,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 135964,
       "name": "White Noise Low Frequency",
       "url": "https://open.spotify.com/track/0M8XcBsYL0Gm8ewxTPYXzQ"

@@ -4,7 +4,7 @@
 
 > The future hits of today\. Up Next: BHADMAYORS
 
-686 songs - 1 day 7 hr 48 min
+686 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Alchl](https://open.spotify.com/track/6s2Axyc8OgfFFlDMK3XtqZ) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [I Dream In Color](https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh) | 2:40 | 2025-02-28 | 2025-06-14 |
 | [Alhaji](https://open.spotify.com/track/5XrgPJask6SnYkoPDQAHQy) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Alhaji](https://open.spotify.com/album/70vdKrzZ5W8XqRj4YcbWyr) | 2:01 | 2024-12-06 | 2025-05-09 |
 | [Alhaji](https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Alhaji](https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm) | 2:23 | 2025-05-23 | 2025-09-20 |
+| [ALL FALL APART](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 2:51 | 2026-04-03 |  |
 | [All for You](https://open.spotify.com/track/1W6jbXrUrPQXHFbdiwPMmG) | [Boi Chase](https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb) | [All for You](https://open.spotify.com/album/2oRxw8c555SnVKZ3ljNDZQ) | 2:33 | 2026-03-27 |  |
 | [All My Enemies Are Suffering](https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [All My Enemies Are Suffering](https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg) | 3:14 | 2025-07-18 | 2025-09-05 |
 | [Allonsy](https://open.spotify.com/track/134ATgu95x349r7c83DWO5) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Allonsy](https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs) | 2:02 | 2026-01-14 |  |
@@ -618,7 +619,6 @@
 | [TRABAYE](https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS) | [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [OLORIN PACK](https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ) | 1:53 | 2026-04-03 |  |
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-28 | 2024-11-08 |
 | [TRABZ](https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [TRABZ](https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd) | 2:22 | 2026-02-27 | 2026-03-06 |
-| [Track 5](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 0:00 | 2026-04-03 |  |
 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-02-14 | 2025-04-08 |
 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 | 2024-06-28 | 2024-08-09 |
 | [Troubled Mind](https://open.spotify.com/track/6yIEi8mvrYSi2IgPhQ5Ym9) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:02 | 2025-02-19 | 2025-04-01 |

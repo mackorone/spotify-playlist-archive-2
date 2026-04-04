@@ -1,13 +1,29 @@
 {
   "description": "New music from Ravyn Lenae, Dominic Fike, 1119, IVE, and more!",
-  "num_followers": 73694,
+  "num_followers": 73786,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK/dfMhstOVoTaQXVSzpjIwSw7nx",
+  "snapshot_id": "AAAAAKhqTYqWyH9axblOiOOZyFnDluVE",
   "tracks": [
+    {
+      "added_at": "2026-04-03 09:00:07",
+      "album": {
+        "name": "TOP SPOT - ANOTHER DIMENSION",
+        "url": "https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE"
+      },
+      "artists": [
+        {
+          "name": "T.O.P",
+          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
+        }
+      ],
+      "duration_ms": 184069,
+      "name": "DESPERADO",
+      "url": "https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd"
+    },
     {
       "added_at": "2026-04-02 16:00:36",
       "album": {
@@ -137,6 +153,22 @@
       "url": "https://open.spotify.com/track/34kczquuUdb7gLHhZGR8jp"
     },
     {
+      "added_at": "2026-04-03 04:02:32",
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR"
+    },
+    {
       "added_at": "2026-04-02 16:00:36",
       "album": {
         "name": "Biggest Fan - The 1st Album",
@@ -185,6 +217,22 @@
       "url": "https://open.spotify.com/track/38LzWFA6AtLVoln4d4SI2S"
     },
     {
+      "added_at": "2026-04-03 04:02:32",
+      "album": {
+        "name": "Pre: Prema",
+        "url": "https://open.spotify.com/album/1aslkAwn7kQ4HC9EkHTfaH"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 202052,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT"
+    },
+    {
       "added_at": "2026-04-02 16:00:36",
       "album": {
         "name": "\u30eb\u30df\u30ca\u30b9 - Luminous",
@@ -199,6 +247,22 @@
       "duration_ms": 235777,
       "name": "\u30eb\u30df\u30ca\u30b9 - Luminous",
       "url": "https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"
+    },
+    {
+      "added_at": "2026-04-03 04:02:32",
+      "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
     },
     {
       "added_at": "2026-04-02 16:00:36",
@@ -391,6 +455,22 @@
       "duration_ms": 282544,
       "name": "\u6709\u7684\u4eba",
       "url": "https://open.spotify.com/track/4I3wYSqqjcmXwiyyGptond"
+    },
+    {
+      "added_at": "2026-04-03 04:02:32",
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 143197,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy"
     },
     {
       "added_at": "2026-04-02 16:00:36",
@@ -1215,6 +1295,26 @@
       "duration_ms": 200686,
       "name": "Rise",
       "url": "https://open.spotify.com/track/5hnNNixL8y7YIz8O2jyOZz"
+    },
+    {
+      "added_at": "2026-04-03 04:02:32",
+      "album": {
+        "name": "Pops",
+        "url": "https://open.spotify.com/album/68C9RgYAybkxqDZzdtt3ak"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Pops",
+      "url": "https://open.spotify.com/track/2OTJjxvUACGWALxdUDohBu"
     },
     {
       "added_at": "2026-04-02 16:00:36",

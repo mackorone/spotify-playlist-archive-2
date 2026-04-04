@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-379 songs - 1 day 3 hr 26 min
+380 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Afternoon Coastline](https://open.spotify.com/track/2DJzac0etyt8fnN0X7xUh7) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [slowdance​,​lowtide](https://open.spotify.com/album/7xomRNjiLs0yWQ6qemwMMA) | 6:08 | 2022-01-07 |  |
 | [Ake](https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk) | 2:07 | 2022-09-06 | 2023-04-22 |
 | [Alie 5.2](https://open.spotify.com/track/0fpGpTKzSEJZUGngNo4XpF) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Alie](https://open.spotify.com/album/5Nv5TTeUU0SDZu3rn1nhwY) | 3:15 | 2022-01-07 | 2023-04-22 |
+| [And Then](https://open.spotify.com/track/3jD4FYNB7LVpY3l8497P7P) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [And Then](https://open.spotify.com/album/427j5t0GFrC9U44zwGwmzs) | 3:08 | 2026-03-25 |  |
 | [Anohito](https://open.spotify.com/track/2AdZIcmVlDdnGKIu9QM9KA) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Ama](https://open.spotify.com/album/5tRiDmhSkJHwtoz1ZScCmS) | 3:08 | 2022-01-07 | 2022-02-23 |
 | [Anywhere](https://open.spotify.com/track/49xldL6I0FcKyrfKZoFF3J) | [Yoshiaki Ochi](https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo) | [NATURAL SONIC](https://open.spotify.com/album/5VRnb3N2f1wASaAnOJ1a89) | 5:06 | 2022-12-30 |  |
 | [arcana](https://open.spotify.com/track/78HCu6iZNOauXdfEGn6UjN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [arcana](https://open.spotify.com/album/6urZ7oJEzzS2QIFsWvSYLf) | 2:40 | 2024-11-30 | 2024-12-15 |
@@ -112,7 +113,7 @@
 | [Fog](https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Book of Life](https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR) | 4:24 | 2022-01-07 |  |
 | [Fold Air](https://open.spotify.com/track/53p4Twt4YkUlrYQwkuWrI4) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 2:48 | 2022-01-07 | 2023-09-01 |
 | [Forgetful Angel](https://open.spotify.com/track/3fjXCW8waY8YFu66jnT4BP) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/0wzOZrYgU9wrndydzgYOPX) | 2:57 | 2022-09-30 | 2025-09-24 |
-| [forsaken](https://open.spotify.com/track/2aQ8wbTd9yDiVJdOnfYCIo) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH) | [forsaken](https://open.spotify.com/album/0NxN5AVfWdOL45hmEgIb45) | 2:19 | 2023-09-22 |  |
+| [forsaken](https://open.spotify.com/track/2aQ8wbTd9yDiVJdOnfYCIo) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH) | [forsaken](https://open.spotify.com/album/0NxN5AVfWdOL45hmEgIb45) | 2:19 | 2023-09-22 | 2026-04-04 |
 | [FOSSIL OF FLAME／火の化石～FIFTY BELL\-TREES／五十鈴](https://open.spotify.com/track/3d1oTcXWsWdtfDrgGbbmCG) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE（マーキュリック・ダンス～躍動の踊り）](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 8:31 | 2022-12-30 | 2026-01-27 |
 | [Fragment](https://open.spotify.com/track/59Ky2k3xZhNnm1hSe6Oo8P) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Fragment](https://open.spotify.com/album/2wJX51pAtlSaypIYWFdWfu) | 2:59 | 2024-06-15 | 2025-02-23 |
 | [From a Distance](https://open.spotify.com/track/7g8a6a2UGRgsW2b083IKr4) | [marucoporoporo](https://open.spotify.com/artist/0XkAhjSQrr02YRiKbKKIMk) | [Conceive the Sea](https://open.spotify.com/album/01gkrRbIagn2PbpTRe5hD1) | 3:19 | 2025-02-11 |  |

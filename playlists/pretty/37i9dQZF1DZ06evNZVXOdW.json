@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9473,
+  "num_followers": 9472,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAADDH5Ox81zylUZ+kQt34UT8",
+  "snapshot_id": "ac2xgAAAAAC9h64E0hD5xfYDcyflLLRR",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 340400,
-      "name": "Aey Na Balam",
-      "url": "https://open.spotify.com/track/3yqeqSvhVZBfr7Jri53Jbq"
+      "duration_ms": 497293,
+      "name": "Man Kunto Maula",
+      "url": "https://open.spotify.com/track/3184CMyowuchbfDlpM1rop"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 497293,
-      "name": "Man Kunto Maula",
-      "url": "https://open.spotify.com/track/3184CMyowuchbfDlpM1rop"
+      "duration_ms": 340400,
+      "name": "Aey Na Balam",
+      "url": "https://open.spotify.com/track/3yqeqSvhVZBfr7Jri53Jbq"
     },
     {
       "added_at": null,
@@ -646,11 +646,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
+          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 185227,
-      "name": "Starling",
-      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
+      "duration_ms": 211248,
+      "name": "Abode",
+      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
     },
     {
       "added_at": null,
@@ -726,15 +730,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
-          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 211248,
-      "name": "Abode",
-      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
+      "duration_ms": 185227,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
     },
     {
       "added_at": null,

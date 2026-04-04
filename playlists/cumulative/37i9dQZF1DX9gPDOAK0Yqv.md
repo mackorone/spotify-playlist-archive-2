@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-883 songs - 2 day 17 hr 13 min
+884 songs - 2 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Cappella](https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [A Cappella](https://open.spotify.com/album/1iJ79Xqyq2BTpIQsfvKQiO) | 3:10 | 2024-03-15 | 2024-10-04 |
 | [A Feeling I Miss](https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [A Feeling I Miss](https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq) | 3:21 | 2026-02-06 |  |
 | [A Gira \(David Guetta Remix\)](https://open.spotify.com/track/2AZVoftjLl883aKfk8wSJn) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [A Gira \(David Guetta Remix\)](https://open.spotify.com/album/2AFJKP1Leyqf3hyxabUppZ) | 2:39 | 2025-05-29 |  |
-| [A Lot Like Heaven \- Space Motion Remix](https://open.spotify.com/track/2hT5X2DjHG7D6vmhTWBDsG) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [A Lot Like Heaven \(Space Motion Remix\)](https://open.spotify.com/album/7rS4CkomP9uq8l9J2GTmc7) | 4:48 | 2023-09-21 |  |
+| [A Lot Like Heaven \- Space Motion Remix](https://open.spotify.com/track/2hT5X2DjHG7D6vmhTWBDsG) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [A Lot Like Heaven \(Space Motion Remix\)](https://open.spotify.com/album/7rS4CkomP9uq8l9J2GTmc7) | 4:48 | 2023-09-21 | 2026-04-04 |
 | [A Thousand Knives \(Enamour Remix\) \- Edit](https://open.spotify.com/track/2nwzgfxFquLBgbx3LMdxWv) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [A Thousand Knives \(Enamour Remix\) \[Edit\]](https://open.spotify.com/album/5BQ5rQxDLVSi1tjzTQOZ35) | 4:49 | 2023-06-23 | 2023-07-14 |
 | [A Thousand Knives \(Enamour Remix\) \- Edit](https://open.spotify.com/track/37Zi74wmcWpaFGogWQipqx) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blood Moon \(Remixes\)](https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK) | 4:49 | 2023-08-04 | 2023-09-22 |
 | [Abidos](https://open.spotify.com/track/4SWIbyF0PCdc8S8Q3u3UTv) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Anunnakis](https://open.spotify.com/artist/558YA9OfxNMkjUzyRyGRmn) | [Abidos](https://open.spotify.com/album/7eExGeyD8PxIgh5IWLujHN) | 5:56 | 2024-04-25 | 2024-05-17 |
@@ -83,6 +83,7 @@
 | [BE ARTIST OF YOUR LIFE](https://open.spotify.com/track/2UXz0Tcg2THbgbYTvXqSEF) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [BE ARTIST OF YOUR LIFE](https://open.spotify.com/album/4ZqEV0pL6IxmnIq3dguj4g) | 6:12 | 2024-02-01 | 2024-03-01 |
 | [Be Somebody](https://open.spotify.com/track/3M7HvhoFGJghWokTkAGRUJ) | [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Be Somebody](https://open.spotify.com/album/613zFWp1InooghpidreFn3) | 3:52 | 2024-09-12 | 2024-10-04 |
 | [Be Strong](https://open.spotify.com/track/1rJCBWYDCZNIhk5eeDR4hg) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Be Strong](https://open.spotify.com/album/4ckg7FuJZLZqNgxNuZP4g5) | 3:59 | 2025-07-18 | 2025-09-05 |
+| [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 | 2026-04-02 |  |
 | [Before My Eyes](https://open.spotify.com/track/52UomKxHMuyhmkjgU82hdS) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Before My Eyes](https://open.spotify.com/album/6zjdCWAStwBTlwQaN3sJbx) | 3:47 | 2025-03-06 | 2025-03-14 |
 | [Before My Eyes \- Club Mix](https://open.spotify.com/track/7cB6udL2tVOJgC16ty7GfZ) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Before My Eyes](https://open.spotify.com/album/6zjdCWAStwBTlwQaN3sJbx) | 4:03 | 2025-03-13 | 2025-08-08 |
 | [Beograd](https://open.spotify.com/track/2ykSdsea5j5O4w6NescYdK) | [Tonco](https://open.spotify.com/artist/6Mj3FYNYZNcnSZI1yHq3l8) | [Beograd](https://open.spotify.com/album/2XNfXji0VdhNDR6KpLF1Pg) | 3:34 | 2023-09-21 | 2023-11-10 |

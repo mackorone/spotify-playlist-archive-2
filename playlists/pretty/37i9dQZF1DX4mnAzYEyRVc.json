@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: La Pegatina\n",
-  "num_followers": 69919,
+  "num_followers": 69937,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "Rudy Come Home",
+        "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
+      },
+      "artists": [
+        {
+          "name": "Death Of Guitar Pop",
+          "url": "https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id"
+        }
+      ],
+      "duration_ms": 240429,
+      "name": "Rudy Come Home",
+      "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/7HtUqG6QaSsbYJMd8nNpxk"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 171829,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5w67R0ltLrS5MNjydxteUw"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
-        "name": "Rudy Come Home",
-        "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
-      },
-      "artists": [
-        {
-          "name": "Death Of Guitar Pop",
-          "url": "https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id"
-        }
-      ],
-      "duration_ms": 240429,
-      "name": "Rudy Come Home",
-      "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Mind Your Business",
-        "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
-      },
-      "artists": [
-        {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
-        }
-      ],
-      "duration_ms": 141344,
-      "name": "Mind Your Business",
-      "url": "https://open.spotify.com/track/4RqtE3UJO7i605pg97IM3t"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Hard Band For Dead",
         "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 199560,
       "name": "2-Tone Army",
       "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Mind Your Business",
+        "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
+      },
+      "artists": [
+        {
+          "name": "James the Seventh",
+          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
+        }
+      ],
+      "duration_ms": 141344,
+      "name": "Mind Your Business",
+      "url": "https://open.spotify.com/track/4RqtE3UJO7i605pg97IM3t"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
+        "name": "Weit, weit weg",
+        "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
+      },
+      "artists": [
+        {
+          "name": "Sondaschule",
+          "url": "https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Weit, weit weg",
+      "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
         "name": "Don't Speak",
         "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Weit, weit weg",
-        "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
-      },
-      "artists": [
-        {
-          "name": "Sondaschule",
-          "url": "https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Weit, weit weg",
-      "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Tiempo Que Perd\u00ed",
         "url": "https://open.spotify.com/album/6ctUVAocVvSYL3xWNQ0EGL"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Return Of The Ugly",
-        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
-      },
-      "artists": [
-        {
-          "name": "Bad Manners",
-          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Ruder Than Rude",
         "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 177800,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Return Of The Ugly",
+        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
+      },
+      "artists": [
+        {
+          "name": "Bad Manners",
+          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
     },
     {
       "added_at": "2026-03-20 06:00:11",

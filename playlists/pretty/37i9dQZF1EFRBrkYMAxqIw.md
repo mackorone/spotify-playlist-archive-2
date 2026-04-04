@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 33 | [Don't Say You Love Me](https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Don't Say You Love Me](https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7) | 3:04 |
 | 34 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
 | 35 | [EGO](https://open.spotify.com/track/0kIhtDAUHCIw8V8vWC738L) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:35 |
-| 36 | [BALENCIAGA COVERED EYES](https://open.spotify.com/track/5UDfXflfkq6Zp9q0HqCo9S) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 4:06 |
-| 37 | [DNCR](https://open.spotify.com/track/1DUpt1ClyNZj3EbBjFtgCD) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:07 |
+| 36 | [DNCR](https://open.spotify.com/track/1DUpt1ClyNZj3EbBjFtgCD) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:07 |
+| 37 | [BALENCIAGA COVERED EYES](https://open.spotify.com/track/5UDfXflfkq6Zp9q0HqCo9S) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 4:06 |
 | 38 | [All Night & Every Day \(with Rêve\)](https://open.spotify.com/track/7MroW6hLGBS1Fgq9kQ7zL6) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Cutting Through Noise](https://open.spotify.com/album/0wVgIG352OHHFx0MiJh0aY) | 2:26 |
 | 39 | [On My Way \- Rain or Shine Remix](https://open.spotify.com/track/2z1QmtOJ2qC0XtVL8mMrf7) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Rain or Shine](https://open.spotify.com/artist/4HkboL1vsKz9DYa0EEX29g) | [On My Way \(Remixes\)](https://open.spotify.com/album/6XBNZbBJp0V0w2y9VAXR2n) | 4:00 |
 | 40 | [Body Language](https://open.spotify.com/track/2WeCFWSiGDlGHmksFpLyLs) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:44 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 137 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 138 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AcNz6gAAAAB4I/cnuurgFnGQOXqbW4cg`
+Snapshot ID: `AcN5igAAAABxAMdyNt5sEyei/kwXodte`

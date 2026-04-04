@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Weezer
 
-1,943 songs - 4 day 16 hr 42 min
+1,947 songs - 4 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,6 +673,7 @@
 | [Giant's Despair](https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 3:40 | 2024-05-23 | 2024-06-07 |
 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 | 2024-01-18 | 2024-03-01 |
 | [GIMME GIMME feat\. OKAMOTOSHO](https://open.spotify.com/track/5lkeIGCoo8LD87IcJlzjB0) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F), [OKAMOTOSHO](https://open.spotify.com/artist/31V4UmyRGvnSehtFbKWmtT) | [GIMME GIMME feat\. OKAMOTOSHO](https://open.spotify.com/album/7Ka0GIIBtlpdu3afHTab2y) | 2:49 | 2023-06-22 | 2023-07-07 |
+| [Ginger Lemonade](https://open.spotify.com/track/60XG382z7UHlLMXs0bOwRb) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Can We Hang Out Sometime?](https://open.spotify.com/album/2ude1QTWRjfCQYgpr5mc11) | 2:59 | 2026-04-03 |  |
 | [Girl 71](https://open.spotify.com/track/6percMBXinlT4Bbfm0fMrt) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Girl 71](https://open.spotify.com/album/12BmSRphKMU2iPx2aSFBQn) | 3:08 | 2024-02-22 | 2024-03-01 |
 | [Girl From The Record Shop](https://open.spotify.com/track/12vPIyLJmP1EtrZfcNPpPX) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Girl From The Record Shop](https://open.spotify.com/album/1r7JKGcc4QZ8Eb7wK1ysMr) | 1:46 | 2024-02-22 | 2024-03-01 |
 | [Girl On the Billboard](https://open.spotify.com/track/4k3F6QViEuPn6Kuvey5gtd) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Girl On the Billboard](https://open.spotify.com/album/5PYlLkZwqguKf2mQweYXW0) | 3:53 | 2023-07-20 | 2023-07-22 |
@@ -852,6 +853,7 @@
 | [Immortal](https://open.spotify.com/track/3CzoVCSPGjuxwUyC3Md3g2) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Moment You Find Your Flame](https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v) | 3:10 | 2023-08-17 | 2023-08-25 |
 | [Impose](https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Impose](https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR) | 4:23 | 2025-09-11 | 2026-03-13 |
 | [Imposter](https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Imposter](https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314) | 2:38 | 2026-01-22 |  |
+| [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 | 2026-04-03 |  |
 | [In Lieu Of Flowers](https://open.spotify.com/track/2unhGIxGgfLoRaMNohojiG) | [Aaron West and The Roaring Twenties](https://open.spotify.com/artist/59cc2f0IvGu6YVEtY4cS0p) | [In Lieu Of Flowers](https://open.spotify.com/album/4Yg0PZfWLX95iSQ0gP6bWn) | 4:25 | 2024-01-11 | 2024-01-19 |
 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 | 2023-03-16 | 2023-05-26 |
 | [In My Room](https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [PRESSURE](https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe) | 2:43 | 2026-03-19 |  |
@@ -1511,6 +1513,7 @@
 | [Son of a Gun](https://open.spotify.com/track/1R7bF2Oyyprr6BkMJhk9Yw) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Son of a Gun \(feat\. K.Flay\) / Starting Over](https://open.spotify.com/album/3ASVlbTNAtaWwROK1pK4u2) | 3:13 | 2023-11-09 | 2023-11-24 |
 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 | 2023-03-16 | 2023-05-19 |
 | [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-29 | 2025-06-17 |
+| [Song For Hal](https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:38 | 2026-04-03 |  |
 | [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 | 2026-02-19 |  |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-22 | 2024-03-01 |
 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/0sdDCmGW4QomnHcLvd3KCh) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Songs I'd Rather Not Sing](https://open.spotify.com/album/1g2lIajRkoTuD6NuEYp11X) | 2:44 | 2025-11-27 | 2026-01-15 |
@@ -1675,6 +1678,7 @@
 | [The Scene](https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Raspberry Moon](https://open.spotify.com/album/3MVdeSmUl32TTzLy6dFFtZ) | 2:21 | 2025-06-19 | 2025-08-22 |
 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-04 | 2025-11-09 |
 | [The Serpent and the King](https://open.spotify.com/track/2n09w41gAdEsJFp6bD0sBT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [The Serpent and the King](https://open.spotify.com/album/53T5pDi25DmqJiQgHdinBq) | 4:19 | 2024-02-22 | 2024-03-08 |
+| [The Show](https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 2:47 | 2026-04-03 |  |
 | [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-10 | 2023-08-18 |
 | [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 | 2025-07-10 | 2025-07-25 |
 | [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 | 2023-06-22 | 2024-05-03 |

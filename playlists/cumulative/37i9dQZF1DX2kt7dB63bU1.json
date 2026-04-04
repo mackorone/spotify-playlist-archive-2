@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "A Time For Love",
+        "url": "https://open.spotify.com/album/3I6j3dwMH8rMlsydFzu6cv"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285863,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/6jHtoIPI83lU0pZg4vPq3c"
+    },
+    {
+      "album": {
         "name": "A Voice",
         "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
       },
@@ -8916,7 +8934,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 214583,
       "name": "La Javanaise",
       "url": "https://open.spotify.com/track/7v7iwf9k5sI8go8rjlkIL2"
@@ -10969,6 +10987,28 @@
     },
     {
       "album": {
+        "name": "My Guy",
+        "url": "https://open.spotify.com/album/32xqwx0OjHWcnd47JXeT2F"
+      },
+      "artists": [
+        {
+          "name": "Joy Harjo",
+          "url": "https://open.spotify.com/artist/3icTrhX5pbx8Dlb399P8Tn"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137890,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/5N4ml3EVDQdah14gjIjtIy"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/7eVutr6kxKpRTsCS9Q12pE"
       },
@@ -12523,6 +12563,24 @@
     },
     {
       "album": {
+        "name": "Loads of Love",
+        "url": "https://open.spotify.com/album/2zgUoijQ2YPsqxXtQwkV4p"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183978,
+      "name": "Pour for the Hour",
+      "url": "https://open.spotify.com/track/46G8UvNyqy1YKlUxYxltIL"
+    },
+    {
+      "album": {
         "name": "Caity Gyorgy with Strings",
         "url": "https://open.spotify.com/album/6PKpGrf9KnW8VlfTvFrg6A"
       },
@@ -12538,7 +12596,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 177320,
       "name": "Pour for the Hour",
       "url": "https://open.spotify.com/track/4IM8Agsa5fDz7b2NqkQUkB"
@@ -14086,7 +14144,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 394640,
       "name": "Sparrow (feat. Angelique Kidjo)",
       "url": "https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8"

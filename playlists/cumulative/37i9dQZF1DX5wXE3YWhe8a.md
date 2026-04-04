@@ -4,7 +4,7 @@
 
 > bright and cozy beats to watch the world bloom, focus, study, or chill to.
 
-61 songs - 2 hr 13 min
+65 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Breezy Squeeze](https://open.spotify.com/track/04qKPUB4wx0ZmJ1C64RQ7x) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Breezy Squeeze](https://open.spotify.com/album/3CkhXqDtWlL967DyGiIUEO) | 2:29 | 2026-02-27 |  |
 | [bubblegum](https://open.spotify.com/track/2Sc8hpGvBjCIw7xQ2ZP0fG) | [Lush Lime](https://open.spotify.com/artist/6W3OIb36yf8ViP1vtpq6j9) | [bubblegum](https://open.spotify.com/album/1Uz1ZlcZLkylqzYfJkyRGY) | 1:52 | 2026-03-20 |  |
 | [by the sea](https://open.spotify.com/track/3bfXF2RYQVlsZfIMDs5iZQ) | [skyshapes](https://open.spotify.com/artist/6MMiMw3WzWnkSwK9KcvcD2) | [by the sea](https://open.spotify.com/album/66iscn3W2RDIKkOkvPWwkg) | 2:03 | 2026-02-27 |  |
+| [Candeia](https://open.spotify.com/track/6xCpGGZxLpB0WqMC6n2lwM) | [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Candeia](https://open.spotify.com/album/40tzdgzCqdCutinkoVe2IG) | 2:55 | 2026-04-03 |  |
 | [candy](https://open.spotify.com/track/5BYdebcMd59cC4uhrfXaRR) | [rosis.](https://open.spotify.com/artist/6U5KPUBAtm5dS5ukmj2mTb) | [candy](https://open.spotify.com/album/6us6mGjcBxMywXCUWZ7mTR) | 1:49 | 2026-02-27 |  |
 | [caught in yellow](https://open.spotify.com/track/0Tan63emaarh6MCrIlL5aQ) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [caught in yellow](https://open.spotify.com/album/2RNt0RIOgtSl0P12i5TNFw) | 1:53 | 2026-02-27 |  |
 | [Chop Block](https://open.spotify.com/track/5SaQyXZY4Zssc7AmGBkXQy) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [Chop Block](https://open.spotify.com/album/2kngXcMZvmr3KNz4QM3SYq) | 2:51 | 2026-02-27 |  |
@@ -33,8 +34,11 @@
 | [for real](https://open.spotify.com/track/3iDzhsXctKOLAmhL2brogX) | [agn3tic](https://open.spotify.com/artist/22Jx8EtnRgBjw15Er37uUz) | [for real](https://open.spotify.com/album/19ravPXTw4L3vPBoh2aS4R) | 2:11 | 2026-03-20 |  |
 | [half past monday](https://open.spotify.com/track/7hCsmNzkCZVV3ktT0ARAHE) | [Faded Amber](https://open.spotify.com/artist/77peTL3rXZCTebbHNcM3e2) | [half past monday](https://open.spotify.com/album/4SpX4y2jzVH3pB4CKZ0PUS) | 2:15 | 2026-02-27 |  |
 | [Hello, Good Morning!](https://open.spotify.com/track/6XFvaJB9C6DNsprLl7708B) | [HYYPNOTIC](https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM) | [Hello, Good Morning!](https://open.spotify.com/album/3hvSsFyDFI5qCjAtK1mY0L) | 2:25 | 2026-02-27 |  |
+| [Hummingbird](https://open.spotify.com/track/3iP4Dcf3tI57gVn7RrvuaN) | [Solar Body](https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb) | [Lofi Girl: Spring Collection 2026](https://open.spotify.com/album/5e3fEsTMjgicpjsPcBm8vv) | 2:07 | 2026-04-03 |  |
 | [i love u](https://open.spotify.com/track/2USao3lvvIv7SqWjxmImyV) | [G Sounds](https://open.spotify.com/artist/0C7tVaY5qlP5YgYh7DSUoJ) | [i love u](https://open.spotify.com/album/0UY0O01qnUYVIl3j2Yj9or) | 1:47 | 2026-02-27 |  |
 | [Lagoon](https://open.spotify.com/track/7Iq4EiDVxmeqHmzXxZiTgk) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [Lagoon](https://open.spotify.com/album/14clPbiCe8QEjmMwhnHcn4) | 2:22 | 2026-02-27 |  |
+| [Late Night Café Whispers](https://open.spotify.com/track/15YGE1PvfG8pIJeaSgkunj) | [cloudoris](https://open.spotify.com/artist/4a7JNhX95vhAsZrSOVLjBF) | [Late Night Café Whispers](https://open.spotify.com/album/0zt1QZS4b93mkCnkkY7VtS) | 2:19 | 2026-04-03 |  |
+| [letters never sent](https://open.spotify.com/track/79Nby6z1gEB3aK4CgPNLXd) | [Her Name is Sage](https://open.spotify.com/artist/6OVjImRqgRTTCRYi4vTHs9) | [letters never sent](https://open.spotify.com/album/2uUNzBZxFhDF0Ew0182lUw) | 2:20 | 2026-04-03 |  |
 | [lotus lullaby](https://open.spotify.com/track/2hLnS47GXY6F7K1tRIeKQb) | [Reve brumeux](https://open.spotify.com/artist/2ZlVEhVqWhxjhWl8awyoDY) | [lotus lullaby](https://open.spotify.com/album/2fVgpha9xp7HSIws6hl3yh) | 2:19 | 2026-02-27 |  |
 | [Medusa](https://open.spotify.com/track/5rrLLg7hNgVhWmpfOoOBpf) | [Modulus](https://open.spotify.com/artist/5V0QPPvoC4xK0m9aNYfXbb) | [Medusa](https://open.spotify.com/album/6bLBGvsxl6cg72pEQfytI4) | 2:03 | 2026-02-27 |  |
 | [moving mountains](https://open.spotify.com/track/1ye7e1fKT6Rfd9Rj8L26qD) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [moving mountains](https://open.spotify.com/album/4XVqMTpPB6QTj32XMfnC8e) | 2:28 | 2026-02-27 |  |

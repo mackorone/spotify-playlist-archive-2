@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A collection of best Prog Rock tracks. Cover: Dream Theater",
+  "description": "A collection of the best recent Prog Rock tracks. Cover: Weather Systems",
   "name": "Prog Rock",
   "tracks": [
     {
@@ -2074,6 +2074,24 @@
       "duration_ms": 972766,
       "name": "East Coast Racer - Live in London 2023",
       "url": "https://open.spotify.com/track/0PWj8BEqfzvJw7VS8k2e6N"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/7yt6Mr11bLcISr3nP8Jm1d"
+      },
+      "artists": [
+        {
+          "name": "Bernth",
+          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69600,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/10VkUmXJ4xPRnZeBvyrfxr"
     },
     {
       "album": {
@@ -9004,24 +9022,6 @@
       "duration_ms": 253280,
       "name": "Total Mass Retain - Steven Wilson Edit",
       "url": "https://open.spotify.com/track/4Xyd8c5iy4jqnAjlgPNbiT"
-    },
-    {
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/7yt6Mr11bLcISr3nP8Jm1d"
-      },
-      "artists": [
-        {
-          "name": "Bernth",
-          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
-        }
-      ],
-      "date_added": "2026-04-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/10VkUmXJ4xPRnZeBvyrfxr"
     },
     {
       "album": {

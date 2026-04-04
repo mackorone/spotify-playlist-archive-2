@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWqSrfwW8NAh>Bad Bunny</a>, <a href=spotify:playlist:37i9dQZF1EIUQEbzh0iqGG>Childish Gambino</a>, <a href=spotify:playlist:37i9dQZF1EIVKZrYlZnw71>SZA</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZk7yMCTnyOv>French Montana</a>, <a href=spotify:playlist:37i9dQZF1EIVSVBvHzTcKt>Tame Impala</a>, <a href=spotify:playlist:37i9dQZF1EIUFjCG9oFx2k>Gorillaz</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 197870,
       "name": "99 Steps",
       "url": "https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 150697,
       "name": "balearico",
       "url": "https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 248485,
       "name": "Besame Sin Sentir",
       "url": "https://open.spotify.com/track/6xP8vlX3SozwZTNDIrpUpG"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 248297,
       "name": "butterflies.",
       "url": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu"
@@ -4380,7 +4380,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -4456,7 +4456,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -4696,6 +4696,24 @@
       "duration_ms": 33339,
       "name": "Entry Four",
       "url": "https://open.spotify.com/track/1RM4jcne1iJXnxX1vuGJC0"
+    },
+    {
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138510,
+      "name": "ESCALOFR\u00cdOS",
+      "url": "https://open.spotify.com/track/5CVMsPYtSJ3l7UxYiI2lt7"
     },
     {
       "album": {
@@ -4996,7 +5014,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 222640,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
@@ -6858,7 +6876,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 198739,
       "name": "Hola Como Vas",
       "url": "https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW"
@@ -7814,7 +7832,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
@@ -8744,7 +8762,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 317293,
       "name": "Les",
       "url": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"
@@ -9976,7 +9994,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 179066,
       "name": "Me Olvid\u00e9 De Los 2",
       "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
@@ -10890,7 +10908,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 307151,
       "name": "Nights",
       "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
@@ -12880,7 +12898,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 214504,
       "name": "Roommates",
       "url": "https://open.spotify.com/track/5vPUv0xziXbV4lnWeVNXNq"
@@ -13654,7 +13672,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 180000,
       "name": "SIN MIRAR LAS SE\u00d1ALES",
       "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
@@ -13994,7 +14012,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 271733,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2"
@@ -16078,7 +16096,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
@@ -17240,7 +17258,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 233901,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
@@ -18454,7 +18472,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 223621,
       "name": "wrong faces.",
       "url": "https://open.spotify.com/track/0yYTRodDOWqZZ0AWa2qxHH"

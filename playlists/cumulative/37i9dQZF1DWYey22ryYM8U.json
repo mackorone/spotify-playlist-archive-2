@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Las m\u00e1s pegadas. Cover: Alleh & Yorghaki",
+  "description": "Las m\u00e1s pegadas. Cover: Ricky Martin, Los \u00c1ngeles Azules & TINI",
   "name": "Tropical Hits",
   "tracks": [
     {
@@ -442,6 +442,28 @@
       "duration_ms": 267346,
       "name": "Amor De Una Noche (feat. Julio Voltio) - Remix Version",
       "url": "https://open.spotify.com/track/6B9r2hH46YbSEvnivmeF5C"
+    },
+    {
+      "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147533,
+      "name": "Apambichao",
+      "url": "https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV"
     },
     {
       "album": {
@@ -2480,7 +2502,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 200827,
       "name": "Escasez de Besos",
       "url": "https://open.spotify.com/track/2kEC8t2FoGrN5H9FxnNBJn"
@@ -4301,6 +4323,24 @@
     },
     {
       "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
+    },
+    {
+      "album": {
         "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
         "url": "https://open.spotify.com/album/3BbpvRzauAdImL7I2hkML7"
       },
@@ -5138,7 +5178,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 171038,
       "name": "Que Me Quiera M\u00e1",
       "url": "https://open.spotify.com/track/5QHkVXsFE9f8WuQIReh8Fe"
@@ -6640,7 +6680,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 154800,
       "name": "UN SIGLO SIN TI",
       "url": "https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU"
@@ -7064,6 +7104,32 @@
       "duration_ms": 205090,
       "name": "Vuela Muy Alto",
       "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/53BSZEU1P0G9DICDS19Fdg"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211920,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4ON0spZpKuq6LfxITWgkcV"
     },
     {
       "album": {

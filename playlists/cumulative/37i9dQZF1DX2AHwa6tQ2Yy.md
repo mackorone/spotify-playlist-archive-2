@@ -4,7 +4,7 @@
 
 > Try a little tenderness\. Cover: ELIZA
 
-370 songs - 22 hr 57 min
+371 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Better With You](https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Better With You](https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v) | 2:17 | 2022-09-08 | 2024-04-19 |
 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/77nSU6xoiBDJZAMqBSxLav) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 3:56 | 2022-06-02 | 2022-07-29 |
 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 | 2022-07-28 | 2024-04-19 |
-| [Blue](https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Blue](https://open.spotify.com/album/3qi8b8jpTNKC7Z7NhxaiwZ) | 2:50 | 2026-02-19 |  |
+| [Blue](https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Blue](https://open.spotify.com/album/3qi8b8jpTNKC7Z7NhxaiwZ) | 2:50 | 2026-02-19 | 2026-04-04 |
 | [Bran Nue Wurld](https://open.spotify.com/track/0lGfVYcet164rdaRxzXU45) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [ORO, PLATA, MATA](https://open.spotify.com/album/6O8Q2Eqh9EKRUKrkdRZJpv) | 3:21 | 2023-03-23 | 2023-05-05 |
 | [Bran Nue Wurld](https://open.spotify.com/track/4OOkftDd4EKeNjKDqpegYZ) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [ORO, PLATA, MATA](https://open.spotify.com/album/4DiD3VBlFIJivBlzuLE6yk) | 3:21 | 2023-03-23 | 2023-04-02 |
 | [Brand New](https://open.spotify.com/track/1vjyekD56hO5NIsJAgjKgc) | [Mi\-kaisha](https://open.spotify.com/artist/2nDEgpZ9zmM7cqkdUab6Tr) | [Brand New](https://open.spotify.com/album/1oeBre4fMvcoLjbJ9tyvhW) | 3:09 | 2022-06-02 | 2022-09-09 |
@@ -133,6 +133,7 @@
 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 | 2025-07-11 | 2025-08-01 |
 | [Happily Drowning](https://open.spotify.com/track/1hCGFa8m9fpMyjKxw3DwJx) | [Moody](https://open.spotify.com/artist/1Vu6Ckzy4K3UIl8PH3Y2se) | [Happily Drowning](https://open.spotify.com/album/1W5NCoyBJKXJMDDVLTXDSg) | 3:39 | 2023-01-19 | 2023-04-21 |
 | [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 | 2023-06-29 | 2025-07-11 |
+| [Hard Way To Live](https://open.spotify.com/track/2jAsIjrkBfIs2hh2sqGBIs) | [Pratt & Moody](https://open.spotify.com/artist/1gz7rv5Nn1PgNg755QP2G6), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Hard Way To Live](https://open.spotify.com/album/1iiBEV5v0KMFyA0O2XsyZv) | 4:06 | 2026-04-03 |  |
 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 | 2025-07-11 | 2025-08-28 |
 | [Heal](https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Heal](https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh) | 4:16 | 2022-09-08 | 2023-02-24 |
 | [Heaven](https://open.spotify.com/track/6zTKXx4SE7FjwWx7CAzArx) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr) | [Coming In From The Dark](https://open.spotify.com/album/0tjAAn3o0FPW3Fmqxf8ogq) | 3:28 | 2022-06-02 | 2022-09-09 |

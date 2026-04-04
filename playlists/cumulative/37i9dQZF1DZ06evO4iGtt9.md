@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-127 songs - 6 hr 58 min
+128 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Hold Me Now \(Bonus\)](https://open.spotify.com/track/5ldHBe4cfQMNtH8mcITJmR) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 2:47 | 2021-12-28 | 2022-10-13 |
 | [I Can't Kill Myself](https://open.spotify.com/track/20MyQk60qEzkGVML0VMaCq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 | 2021-12-28 |  |
 | [I Concur](https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [I Concur](https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg) | 4:05 | 2021-12-28 | 2026-03-24 |
-| [I Concur](https://open.spotify.com/track/4g5RaTse6o02yFfRbd5hR1) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [I Concur](https://open.spotify.com/album/1pmLmpGmFyTsVQY7EyaE44) | 4:05 | 2026-03-24 |  |
+| [I Concur](https://open.spotify.com/track/4g5RaTse6o02yFfRbd5hR1) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [I Concur](https://open.spotify.com/album/1pmLmpGmFyTsVQY7EyaE44) | 4:05 | 2026-03-24 | 2026-04-04 |
+| [I Concur](https://open.spotify.com/track/1WSw2HVuMNzcGWEHvC0pk3) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [I Concur](https://open.spotify.com/album/6Mk1LUNK8jrQUaws9pDYvg) | 4:06 | 2026-04-04 |  |
 | [I Don Blow](https://open.spotify.com/track/0Mp8jkvCKwn0kR6YGt38wy) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Shayo Pisanta](https://open.spotify.com/artist/5ZuUI0UIaNU4Cglic3NbDa) | [Gift And Grace](https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb) | 4:39 | 2022-02-15 | 2022-02-18 |
 | [I Like The Way](https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [I Like The Way](https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz) | 3:19 | 2021-12-28 |  |
 | [Iberibe](https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:19 | 2021-12-28 |  |

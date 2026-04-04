@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 403993,
+  "num_followers": 404141,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 230164,
-      "name": "In Your Hands - Single Version",
-      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "The Wild Swan",
         "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 229226,
       "name": "She Burns",
       "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 230164,
+      "name": "In Your Hands - Single Version",
+      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 171662,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 265652,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 171662,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "You And I (Moon And Stars / Acoustic)",
-        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "You And I - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "You And I (Moon And Stars / Acoustic)",
+        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "You And I - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "blue jean",
-        "url": "https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 276611,
-      "name": "blue jean",
-      "url": "https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Every Shade of Blue",
         "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 213293,
       "name": "Every Shade of Blue",
       "url": "https://open.spotify.com/track/57z9G8G9978wYqpdnO8dW8"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "blue jean",
+        "url": "https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 276611,
+      "name": "blue jean",
+      "url": "https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Say I Love You",
-        "url": "https://open.spotify.com/album/52bFxlr4uEKLIIfOagpyHx"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 245180,
-      "name": "Say I Love You",
-      "url": "https://open.spotify.com/track/78CV9sLbLTKoneJXDW3q8u"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Early Morning Coffee Cups",
         "url": "https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 199853,
       "name": "Early Morning Coffee Cups",
       "url": "https://open.spotify.com/track/04TvtzVrd7FufnY5KJLXzO"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Say I Love You",
+        "url": "https://open.spotify.com/album/52bFxlr4uEKLIIfOagpyHx"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 245180,
+      "name": "Say I Love You",
+      "url": "https://open.spotify.com/track/78CV9sLbLTKoneJXDW3q8u"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "The Walls Are Way Too Thin",
         "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 222800,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/1u71gNzUwTjgfYmArCUD0m"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "LEMONS",
-        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "Walking Home to You",
-      "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 236133,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "LEMONS",
+        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "Walking Home to You",
+      "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 315680,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 256798,
       "name": "My City of Ruins",
       "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2609,22 +2609,6 @@
       "url": "https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W"
     },
     {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "Goodbye Mr Blue",
-        "url": "https://open.spotify.com/album/5gYexwkGmP2ViIlmCRP1Tf"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr Blue",
-      "url": "https://open.spotify.com/track/1aniGATumrmKFuYCKQ1pJ6"
-    },
-    {
       "added_at": "2026-03-13 14:52:14",
       "album": {
         "name": "Mud Blood Bone",
@@ -2643,18 +2627,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "All Around You",
-        "url": "https://open.spotify.com/album/1N2018a6LgCjSaZbuyTzSR"
+        "name": "Goodbye Mr Blue",
+        "url": "https://open.spotify.com/album/5gYexwkGmP2ViIlmCRP1Tf"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 193791,
-      "name": "All Around You",
-      "url": "https://open.spotify.com/track/5S1kM0JFOhktFalTjOZH0L"
+      "duration_ms": 300240,
+      "name": "Goodbye Mr Blue",
+      "url": "https://open.spotify.com/track/1aniGATumrmKFuYCKQ1pJ6"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2671,6 +2655,22 @@
       "duration_ms": 220637,
       "name": "Bluebird - Acoustic",
       "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "All Around You",
+        "url": "https://open.spotify.com/album/1N2018a6LgCjSaZbuyTzSR"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193791,
+      "name": "All Around You",
+      "url": "https://open.spotify.com/track/5S1kM0JFOhktFalTjOZH0L"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2727,18 +2727,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Sedona (The Voice Performance)",
-        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
       },
       "artists": [
         {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 205726,
-      "name": "Sedona - The Voice Performance",
-      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
+      "duration_ms": 226957,
+      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2759,18 +2759,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
+        "name": "Sedona (The Voice Performance)",
+        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
         }
       ],
-      "duration_ms": 226957,
-      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
+      "duration_ms": 205726,
+      "name": "Sedona - The Voice Performance",
+      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2871,6 +2871,22 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
+        "name": "rest in peace",
+        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 191910,
+      "name": "rest in peace",
+      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
         "name": "Hold Space (Live Acoustic)",
         "url": "https://open.spotify.com/album/5WVojDixFdPVRiiGq976S5"
       },
@@ -2891,22 +2907,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "rest in peace",
-        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 191910,
-      "name": "rest in peace",
-      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2ynSSRzU9VL57oGpPRsfAp"
       },
@@ -2919,6 +2919,22 @@
       "duration_ms": 288720,
       "name": "Home",
       "url": "https://open.spotify.com/track/4pRWY8xuHPi0ToEkt0saS8"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/1woKCA8dTokL647kKXySq6"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 200127,
+      "name": "The Open Road",
+      "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2939,22 +2955,6 @@
       "duration_ms": 143030,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/2QRxjT8nlYM2yystxTdz6L"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/1woKCA8dTokL647kKXySq6"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 200127,
-      "name": "The Open Road",
-      "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -2991,22 +2991,6 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Silver Deliverer",
-        "url": "https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 340402,
-      "name": "Lasso",
-      "url": "https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
         "name": "Fool For Waiting",
         "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
       },
@@ -3019,6 +3003,22 @@
       "duration_ms": 243200,
       "name": "Fool For Waiting",
       "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
+        "name": "Silver Deliverer",
+        "url": "https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 340402,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -3251,6 +3251,22 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+    },
+    {
+      "added_at": "2026-01-26 17:23:55",
+      "album": {
         "name": "State of the Heart",
         "url": "https://open.spotify.com/album/6ORYYsCi3iLOT3NHJAfclP"
       },
@@ -3283,18 +3299,18 @@
     {
       "added_at": "2026-01-26 17:23:55",
       "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+        "name": "a lighter shade of blue",
+        "url": "https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+      "duration_ms": 213766,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL"
     },
     {
       "added_at": "2026-01-26 17:23:55",
@@ -3311,22 +3327,6 @@
       "duration_ms": 254545,
       "name": "Way to the Way",
       "url": "https://open.spotify.com/track/2LU6SdGdA3faORkSDY6tw6"
-    },
-    {
-      "added_at": "2026-01-26 17:23:55",
-      "album": {
-        "name": "a lighter shade of blue",
-        "url": "https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 213766,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL"
     }
   ],
   "unique_name": "Morning Coffee",

@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart\.  Cover: Alex Warren
 
-201 songs - 11 hr 10 min
+202 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2023-01-04 | 2023-02-25 |
 | [I’m Good \- From The Movie “GOAT”](https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I’m Good \(From The Movie “GOAT”\)](https://open.spotify.com/album/45mBhso0bpjGCjrHoQ9Tpa) | 2:59 | 2026-01-23 |  |
 | [Jordans](https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Jordans](https://open.spotify.com/album/64iJpysspjOmBeNOoG0fRI) | 4:06 | 2024-09-13 | 2025-03-15 |
-| [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2023-01-04 |  |
+| [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 | 2023-01-04 | 2026-04-04 |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2023-01-04 | 2025-03-29 |
 | [Let Me Be](https://open.spotify.com/track/1hGDrKv13rCRaKXjsaHPx2) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Let Me Be](https://open.spotify.com/album/7HgOBdIBEgUIM0FfoVAQTu) | 3:31 | 2023-01-04 | 2025-03-22 |
 | [Let You Down](https://open.spotify.com/track/52RI8jJJ1OxtcfF5Af9zCL) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Let You Down](https://open.spotify.com/album/3UjGAY9p553Qy2blB4cMin) | 3:28 | 2023-09-03 | 2024-01-27 |
@@ -148,6 +148,7 @@
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-01-04 | 2023-04-25 |
 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 | 2023-01-04 |  |
 | [Saved My Life \(with R3HAB\)](https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Saved My Life \(with R3HAB\)](https://open.spotify.com/album/6deJd6SdTPGoCFwyzJk4L7) | 2:54 | 2023-01-04 | 2024-06-15 |
+| [Say So](https://open.spotify.com/track/29cQXi1TarDW44CxOKfjuc) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Say So](https://open.spotify.com/album/0J1PpB3vFKLxePGJNmxEgi) | 3:21 | 2026-04-03 |  |
 | [So Will I](https://open.spotify.com/track/2MH8nFkQQgVqwr6w6jEPIr) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [So Will I](https://open.spotify.com/album/1jz72j3JNoHfQfaN8QGKH3) | 2:53 | 2023-05-12 | 2026-03-07 |
 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 | 2023-03-10 | 2023-11-16 |
 | [Something I Could Never Be \(feat\. Wrabel\)](https://open.spotify.com/track/76xRTCRN9TqfvkEfRtz9Kk) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Something I Could Never Be \(feat\. Wrabel\)](https://open.spotify.com/album/1I50JGbfZdDfgBMJSx53mM) | 3:43 | 2023-09-15 |  |

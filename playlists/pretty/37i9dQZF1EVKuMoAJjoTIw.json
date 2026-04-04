@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a>, <a href=spotify:playlist:37i9dQZF1EIUnslPhwwdfa>Zach Bryan</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWkN17HuTXyC>Imagine Dragons</a>, <a href=spotify:playlist:37i9dQZF1EIVNN1WQoxAb6>Lady Gaga</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a> and more",
   "num_followers": 0,
   "original_name": "Moody Mix",
   "owner": {
@@ -11,34 +11,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 177506,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
       "added_at": null,
@@ -59,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
@@ -84,9 +72,9 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 247783,
-      "name": "A TU NOMBRE",
-      "url": "https://open.spotify.com/track/0ItgotO5txriRAp6lXMHJ7"
+      "duration_ms": 176749,
+      "name": "MI\u00c9NTELE",
+      "url": "https://open.spotify.com/track/77ewVGidVJETHhGtlNelrg"
     },
     {
       "added_at": null,
@@ -119,22 +107,6 @@
       "duration_ms": 170234,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duka",
-        "url": "https://open.spotify.com/album/3o6TXD0EcJJ099ieOM460j"
-      },
-      "artists": [
-        {
-          "name": "Last Child",
-          "url": "https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288"
-        }
-      ],
-      "duration_ms": 324649,
-      "name": "Duka",
-      "url": "https://open.spotify.com/track/3rXS2AEXNADrIFyuY3F6RJ"
     },
     {
       "added_at": null,
@@ -187,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u0645\u0639\u0627\u064a\u0627 \u0647\u062a\u0628\u062f\u0639",
-        "url": "https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF"
-      },
-      "artists": [
-        {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
-        }
-      ],
-      "duration_ms": 272433,
-      "name": "\u0644\u0645\u0627 \u0628\u064a\u0648\u062d\u0634\u0646\u064a",
-      "url": "https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My First Love",
         "url": "https://open.spotify.com/album/3zzIZJAYdeMttVROyFSUfN"
       },
@@ -219,38 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Etabelna",
-        "url": "https://open.spotify.com/album/5t9HH3TTtAh6faeuy2UOSR"
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
       "artists": [
         {
-          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
-          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 186233,
-      "name": "Etabelna",
-      "url": "https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SWAT",
-        "url": "https://open.spotify.com/album/4D9FbyngDN1YQM7otNAu1a"
-      },
-      "artists": [
-        {
-          "name": "overtonight throwaways",
-          "url": "https://open.spotify.com/artist/5d1xapXUqUmq0CpozCAhr7"
-        },
-        {
-          "name": "overtonight",
-          "url": "https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs"
-        }
-      ],
-      "duration_ms": 105437,
-      "name": "mirrors demo",
-      "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
+      "duration_ms": 217768,
+      "name": "HACIENDO QUE ME AMAS",
+      "url": "https://open.spotify.com/track/26QApq0cuO9brJigr0C0W4"
     },
     {
       "added_at": null,
@@ -271,50 +207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAD LOQUERON",
-        "url": "https://open.spotify.com/album/2mD22GXz3kqJVhl2vDe3Gm"
+        "name": "Etabelna",
+        "url": "https://open.spotify.com/album/5t9HH3TTtAh6faeuy2UOSR"
       },
       "artists": [
         {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
         }
       ],
-      "duration_ms": 259956,
-      "name": "SAD LOQUERON",
-      "url": "https://open.spotify.com/track/6glXSeNfi2H3caS76upMpY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 169247,
-      "name": "Si Estuvi\u00e9semos Juntos",
-      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ehsaas",
-        "url": "https://open.spotify.com/album/78dWUpazWAWyGPy6CFzUoQ"
-      },
-      "artists": [
-        {
-          "name": "Sheera Jasvir",
-          "url": "https://open.spotify.com/artist/7kcl4Cs88q6BfB0Qx5Vkil"
-        }
-      ],
-      "duration_ms": 306500,
-      "name": "Ehsaas",
-      "url": "https://open.spotify.com/track/5ULIvl0zduD2l9g6hdXnDo"
+      "duration_ms": 186233,
+      "name": "Etabelna",
+      "url": "https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr"
     },
     {
       "added_at": null,
@@ -335,22 +239,98 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "SAD LOQUERON",
+        "url": "https://open.spotify.com/album/2mD22GXz3kqJVhl2vDe3Gm"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
         }
       ],
-      "duration_ms": 231246,
-      "name": "LAGUNAS",
-      "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
+      "duration_ms": 259956,
+      "name": "SAD LOQUERON",
+      "url": "https://open.spotify.com/track/6glXSeNfi2H3caS76upMpY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "f\u00e1bula",
+        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 243724,
+      "name": "Sial",
+      "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winning 11",
+        "url": "https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Mengejar Mimpi",
+      "url": "https://open.spotify.com/track/7DYQu1YIeFbQtBXBEOLfC5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u0645\u0639\u0627\u064a\u0627 \u0647\u062a\u0628\u062f\u0639",
+        "url": "https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "duration_ms": 217787,
+      "name": "\u0628\u062a\u0641\u062a\u0643\u0631\u0646\u064a \u0633\u0627\u0639\u0627\u062a",
+      "url": "https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Small Town Boy (Track By Track)",
+        "url": "https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 144427,
+      "name": "DONDE SE APRENDE A QUERER?",
+      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
     },
     {
       "added_at": null,
@@ -387,98 +367,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winning 11",
-        "url": "https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc"
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
       "artists": [
         {
-          "name": "Yovie & Nuno",
-          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 248066,
-      "name": "Mengejar Mimpi",
-      "url": "https://open.spotify.com/track/7DYQu1YIeFbQtBXBEOLfC5"
+      "duration_ms": 232205,
+      "name": "RELOJ",
+      "url": "https://open.spotify.com/track/2DXK0YNGSqnaIEX5iaSIoK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 144427,
-      "name": "DONDE SE APRENDE A QUERER?",
-      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tegy Ntrahn",
-        "url": "https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq"
+        "name": "SWAT",
+        "url": "https://open.spotify.com/album/4D9FbyngDN1YQM7otNAu1a"
       },
       "artists": [
         {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
-        }
-      ],
-      "duration_ms": 282430,
-      "name": "Kan Mawdo3",
-      "url": "https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "23 Preguntas",
-        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
-      },
-      "artists": [
+          "name": "overtonight throwaways",
+          "url": "https://open.spotify.com/artist/5d1xapXUqUmq0CpozCAhr7"
+        },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "overtonight",
+          "url": "https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs"
         }
       ],
-      "duration_ms": 251221,
-      "name": "23 Preguntas",
-      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u0627\u0644\u062d\u0628 \u0639\u064a\u0628\u0646\u0627",
-        "url": "https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU"
-      },
-      "artists": [
-        {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "\u0627\u0644\u062d\u0628 \u0639\u064a\u0628\u0646\u0627",
-      "url": "https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct"
+      "duration_ms": 105437,
+      "name": "mirrors demo",
+      "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
     },
     {
       "added_at": null,
@@ -499,50 +439,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u064a\u0627 \u0648\u0627\u062d\u0634\u0646\u064a",
-        "url": "https://open.spotify.com/album/6JQv8gfhDLkDZ8CMUyeHA2"
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
       "artists": [
         {
-          "name": "Maha Ftouni",
-          "url": "https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn"
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
         }
       ],
-      "duration_ms": 158500,
-      "name": "\u064a\u0627 \u0648\u0627\u062d\u0634\u0646\u064a",
-      "url": "https://open.spotify.com/track/7HVcU4Vl4OYxnTfNaz419u"
+      "duration_ms": 169353,
+      "name": "Let Me Down Slowly",
+      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mesh Nadman",
-        "url": "https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
-          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 175911,
-      "name": "Mesh Nadman",
-      "url": "https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J"
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
       "artists": [
         {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/5CXIcaCtSSdMu8e53hWAr8"
+      "duration_ms": 169247,
+      "name": "Si Estuvi\u00e9semos Juntos",
+      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tegy Ntrahn",
+        "url": "https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "duration_ms": 282430,
+      "name": "Kan Mawdo3",
+      "url": "https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 398466,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
     },
     {
       "added_at": null,
@@ -567,70 +539,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mohabat",
-        "url": "https://open.spotify.com/album/3iaLLjl5QBpuYMljsK9fOr"
+        "name": "AMAR TE DUELE",
+        "url": "https://open.spotify.com/album/5nYI4FLiWm1kwCKkwbX2BL"
       },
       "artists": [
         {
-          "name": "Sucha Yaar",
-          "url": "https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ"
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Mohabat",
-      "url": "https://open.spotify.com/track/0aVpOPirZUdeJon1ikS9M5"
+      "duration_ms": 219642,
+      "name": "AMARTE DUELE",
+      "url": "https://open.spotify.com/track/1lJ5l1ZngiPnU8ppb3Bz1Z"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Chhad Dila",
-        "url": "https://open.spotify.com/album/2Gjjn3GOEf9z9ttoDeWLUN"
+        "name": "Pvta Luna",
+        "url": "https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa"
       },
       "artists": [
         {
-          "name": "Lehmber Hussainpuri",
-          "url": "https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 258225,
-      "name": "Chhad Dila",
-      "url": "https://open.spotify.com/track/75v90PN9FbhV1RC0ukWMWJ"
+      "duration_ms": 198058,
+      "name": "Pvta Luna",
+      "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+        "name": "\u0627\u0644\u062d\u0628 \u0639\u064a\u0628\u0646\u0627",
+        "url": "https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
         }
       ],
-      "duration_ms": 240613,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
+      "duration_ms": 236000,
+      "name": "\u0627\u0644\u062d\u0628 \u0639\u064a\u0628\u0646\u0627",
+      "url": "https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+        "name": "Mesh Nadman",
+        "url": "https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "duration_ms": 175911,
+      "name": "Mesh Nadman",
+      "url": "https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         },
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 232205,
-      "name": "RELOJ",
-      "url": "https://open.spotify.com/track/2DXK0YNGSqnaIEX5iaSIoK"
+      "duration_ms": 225812,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
     },
     {
       "added_at": null,
@@ -667,6 +655,110 @@
     {
       "added_at": null,
       "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 231246,
+      "name": "LAGUNAS",
+      "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "If You Want Love",
+      "url": "https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/5CXIcaCtSSdMu8e53hWAr8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Mi Buen Amor",
+      "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u064a\u0627 \u0648\u0627\u062d\u0634\u0646\u064a",
+        "url": "https://open.spotify.com/album/6JQv8gfhDLkDZ8CMUyeHA2"
+      },
+      "artists": [
+        {
+          "name": "Maha Ftouni",
+          "url": "https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "\u064a\u0627 \u0648\u0627\u062d\u0634\u0646\u064a",
+      "url": "https://open.spotify.com/track/7HVcU4Vl4OYxnTfNaz419u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TATTOO",
+        "url": "https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 167955,
+      "name": "TATTOO",
+      "url": "https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amorfoda",
         "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
       },
@@ -679,22 +771,6 @@
       "duration_ms": 153887,
       "name": "Amorfoda",
       "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Setengah Mati Merindu",
-        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
-      },
-      "artists": [
-        {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Aku Yang Tersakiti",
-      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
     },
     {
       "added_at": null,
@@ -731,98 +807,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habebna",
-        "url": "https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR"
+        "name": "Dolido Pero No Arrepentido",
+        "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
       },
       "artists": [
         {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 252053,
-      "name": "Law Tigi",
-      "url": "https://open.spotify.com/track/60zEl2cvjjtDhzF78snIYr"
+      "duration_ms": 161164,
+      "name": "OYE",
+      "url": "https://open.spotify.com/track/5D0N7a6vursEiO2jAC7dAF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u0645\u0639\u0627\u064a\u0627 \u0647\u062a\u0628\u062f\u0639",
-        "url": "https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF"
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
       "artists": [
         {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 217787,
-      "name": "\u0628\u062a\u0641\u062a\u0643\u0631\u0646\u064a \u0633\u0627\u0639\u0627\u062a",
-      "url": "https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FEMME FATALE",
-        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 219949,
-      "name": "Otra Noche de Llorar",
-      "url": "https://open.spotify.com/track/4oP6sZWbkC3fJghTsyOgkZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u0623\u0648\u0644 \u062d\u0628",
-        "url": "https://open.spotify.com/album/63ataOFd510uJ8XnLyW1WF"
-      },
-      "artists": [
-        {
-          "name": "Maha Ftouni",
-          "url": "https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn"
-        }
-      ],
-      "duration_ms": 232881,
-      "name": "\u0623\u0648\u0644 \u062d\u0628",
-      "url": "https://open.spotify.com/track/6m686JPy4eKbumXZ3Unf4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 270453,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tak Lekang Oleh Waktu",
-        "url": "https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d"
-      },
-      "artists": [
-        {
-          "name": "Kerispatih",
-          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
-        }
-      ],
-      "duration_ms": 272707,
-      "name": "Bila Rasaku Ini Rasamu",
-      "url": "https://open.spotify.com/track/5v3yHNK2lYzS3gMPlsugoP"
+      "duration_ms": 206338,
+      "name": "Que Te Vas",
+      "url": "https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ"
     }
   ],
   "unique_name": "Moody Mix",

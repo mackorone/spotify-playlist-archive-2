@@ -1,6 +1,6 @@
 {
   "description": "Beyond titles, beyond genre. Cover: Arlo Parks ",
-  "num_followers": 199251,
+  "num_followers": 199243,
   "original_name": "UNTITLED",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-04-02 23:00:15",
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 248100,
+      "name": "Bodyfeeling",
+      "url": "https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX"
+    },
+    {
+      "added_at": "2026-04-02 23:00:15",
+      "album": {
         "name": "EUSEXUA Afterglow",
         "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
       },
@@ -443,18 +459,18 @@
     {
       "added_at": "2026-04-02 23:00:15",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+        "name": "Anna Karenina",
+        "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
       },
       "artists": [
         {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 248100,
-      "name": "Bodyfeeling",
-      "url": "https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX"
+      "duration_ms": 315000,
+      "name": "Anna Karenina",
+      "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
     },
     {
       "added_at": "2026-04-02 23:00:15",
@@ -491,22 +507,6 @@
       "duration_ms": 194040,
       "name": "ThunderWave",
       "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
-    },
-    {
-      "added_at": "2026-04-02 23:00:15",
-      "album": {
-        "name": "Anna Karenina",
-        "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Anna Karenina",
-      "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
     },
     {
       "added_at": "2026-04-02 23:00:15",
@@ -579,6 +579,58 @@
     {
       "added_at": "2026-04-02 23:00:15",
       "album": {
+        "name": "Love You Right",
+        "url": "https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "Love You Right",
+      "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
+    },
+    {
+      "added_at": "2026-04-02 23:00:15",
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/2CqK5vwJHSe0ZHXryUAElT"
+    },
+    {
+      "added_at": "2026-04-02 23:00:15",
+      "album": {
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
+      "added_at": "2026-04-02 23:00:15",
+      "album": {
         "name": "Wall of Sound",
         "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
       },
@@ -611,38 +663,6 @@
     {
       "added_at": "2026-04-02 23:00:15",
       "album": {
-        "name": "2SIDED",
-        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "2SIDED",
-      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
-    },
-    {
-      "added_at": "2026-04-02 23:00:15",
-      "album": {
-        "name": "West End Girl",
-        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/2CqK5vwJHSe0ZHXryUAElT"
-    },
-    {
-      "added_at": "2026-04-02 23:00:15",
-      "album": {
         "name": "Jean",
         "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 184481,
       "name": "Earth, Wind & California",
       "url": "https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L"
-    },
-    {
-      "added_at": "2026-04-02 23:00:15",
-      "album": {
-        "name": "Love You Right",
-        "url": "https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "Love You Right",
-      "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
     },
     {
       "added_at": "2026-04-02 23:00:15",
@@ -767,6 +767,26 @@
     {
       "added_at": "2026-04-02 23:00:15",
       "album": {
+        "name": "you're a star",
+        "url": "https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "you're a star",
+      "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
+    },
+    {
+      "added_at": "2026-04-02 23:00:15",
+      "album": {
         "name": "Damascus (feat. Omar Souleyman and Yasiin Bey)",
         "url": "https://open.spotify.com/album/4mOVYvAg2d2vBaTMqBc1ot"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 244149,
       "name": "Damascus (feat. Omar Souleyman and Yasiin Bey)",
       "url": "https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7"
-    },
-    {
-      "added_at": "2026-04-02 23:00:15",
-      "album": {
-        "name": "you're a star",
-        "url": "https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "you're a star",
-      "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },
     {
       "added_at": "2026-04-02 23:00:15",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-04-02 23:00:15",
       "album": {
-        "name": "petal rock black",
-        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 258228,
-      "name": "ear to the cocoon",
-      "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
-    },
-    {
-      "added_at": "2026-04-02 23:00:15",
-      "album": {
         "name": "choke enough",
         "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 198587,
       "name": "blade bird",
       "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
+    },
+    {
+      "added_at": "2026-04-02 23:00:15",
+      "album": {
+        "name": "petal rock black",
+        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 258228,
+      "name": "ear to the cocoon",
+      "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
     },
     {
       "added_at": "2026-04-02 23:00:15",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-04-02 23:00:15",
       "album": {
-        "name": "HELP(2)",
-        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        },
-        {
-          "name": "War Child Records",
-          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
-        }
-      ],
-      "duration_ms": 194284,
-      "name": "Naboo",
-      "url": "https://open.spotify.com/track/2TjYrJGdFFLkldNrLZxlNi"
-    },
-    {
-      "added_at": "2026-04-02 23:00:15",
-      "album": {
         "name": "THE THING",
         "url": "https://open.spotify.com/album/3tMKgaUzzhqpoB7RxI5hDI"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 338120,
       "name": "THE THING",
       "url": "https://open.spotify.com/track/43EE1xyVwIskJP13cJZJ6j"
+    },
+    {
+      "added_at": "2026-04-02 23:00:15",
+      "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "duration_ms": 194284,
+      "name": "Naboo",
+      "url": "https://open.spotify.com/track/2TjYrJGdFFLkldNrLZxlNi"
     },
     {
       "added_at": "2026-04-02 23:00:15",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-04-02 23:00:15",
       "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 205863,
+      "name": "God, Protect Me from My Enemies",
+      "url": "https://open.spotify.com/track/0yCBRfjBgCjK0LBXOppEzW"
+    },
+    {
+      "added_at": "2026-04-02 23:00:15",
+      "album": {
         "name": "ICEY..FEISTY",
         "url": "https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 171764,
       "name": "..FEISTY",
       "url": "https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k"
-    },
-    {
-      "added_at": "2026-04-02 23:00:15",
-      "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 205863,
-      "name": "God, Protect Me from My Enemies",
-      "url": "https://open.spotify.com/track/0yCBRfjBgCjK0LBXOppEzW"
     },
     {
       "added_at": "2026-04-02 23:00:15",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2026-04-02 23:00:15",
       "album": {
-        "name": "Crumbs 2",
-        "url": "https://open.spotify.com/album/3bVyAHsbBLE7QetQnl0EE9"
+        "name": "Baby I Forgive You",
+        "url": "https://open.spotify.com/album/450Pj7mRcbv4yW3wWhesAw"
       },
       "artists": [
         {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+          "name": "Otha",
+          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
         }
       ],
-      "duration_ms": 107000,
-      "name": "Don't Cheese Me Off",
-      "url": "https://open.spotify.com/track/27uWMEs9zo3Yc2ZfgNvRKR"
+      "duration_ms": 159445,
+      "name": "Baby I Forgive You",
+      "url": "https://open.spotify.com/track/2jWOLxiICD1MVpUBSzBKdW"
     }
   ],
   "unique_name": "UNTITLED",

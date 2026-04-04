@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u795e\u4fdd\u5f70",
-  "num_followers": 32601,
+  "num_followers": 32602,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -151,18 +151,18 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+        "name": "Ovall",
+        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
       },
       "artists": [
         {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
         }
       ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+      "duration_ms": 205480,
+      "name": "Slow Motion Town",
+      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
     },
     {
       "added_at": "2026-03-25 17:18:03",
@@ -183,18 +183,18 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "Ovall",
-        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
       "artists": [
         {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
         }
       ],
-      "duration_ms": 205480,
-      "name": "Slow Motion Town",
-      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2026-03-25 17:18:03",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "Living Message",
-        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Blood is thicker than water",
-      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
-    },
-    {
-      "added_at": "2026-03-25 17:18:03",
-      "album": {
         "name": "\u30de\u30a4\u30fb\u30c7\u30a3\u30a2\u30fb\u30e9\u30a4\u30d5",
         "url": "https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 426600,
       "name": "\u30b5\u30d5\u30a1\u30ea",
       "url": "https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR"
+    },
+    {
+      "added_at": "2026-03-25 17:18:03",
+      "album": {
+        "name": "Living Message",
+        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Blood is thicker than water",
+      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
     },
     {
       "added_at": "2026-03-25 17:18:03",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "REAL KICKS",
-        "url": "https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL"
-      },
-      "artists": [
-        {
-          "name": "Calmera",
-          "url": "https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "\u72ac\u3001\u9003\u3052\u305f\u3002-ver. 2.0-",
-      "url": "https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX"
-    },
-    {
-      "added_at": "2026-03-25 17:18:03",
-      "album": {
         "name": "Oneself Likeness",
         "url": "https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 390680,
       "name": "Down In The Village",
       "url": "https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N"
+    },
+    {
+      "added_at": "2026-03-25 17:18:03",
+      "album": {
+        "name": "REAL KICKS",
+        "url": "https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL"
+      },
+      "artists": [
+        {
+          "name": "Calmera",
+          "url": "https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "\u72ac\u3001\u9003\u3052\u305f\u3002-ver. 2.0-",
+      "url": "https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX"
     },
     {
       "added_at": "2026-03-25 17:18:03",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 404426,
-      "name": "\u767d\u9ce5",
-      "url": "https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB"
-    },
-    {
-      "added_at": "2026-03-25 17:18:03",
-      "album": {
         "name": "Thrust",
         "url": "https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 267000,
       "name": "Thrust",
       "url": "https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2"
+    },
+    {
+      "added_at": "2026-03-25 17:18:03",
+      "album": {
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 404426,
+      "name": "\u767d\u9ce5",
+      "url": "https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB"
     },
     {
       "added_at": "2026-03-25 17:18:03",

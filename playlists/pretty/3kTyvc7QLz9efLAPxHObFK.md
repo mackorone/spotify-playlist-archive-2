@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,949 songs - 6 day 8 hr 27 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,951 songs - 6 day 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2957,5 +2957,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2947 | [On The Floor](https://open.spotify.com/track/4I5JMWgenN73sv5HSJsO0Y) | [Unturned](https://open.spotify.com/artist/2I1ObVEmRQU03CosR94l7s), [Gearbox Digital](https://open.spotify.com/artist/32Eil9DTJeGj6fnhyXn9L6) | [On The Floor](https://open.spotify.com/album/0aI7doPE51dlKGv8clywgi) | 2:07 |
 | 2948 | [I Like It Slow](https://open.spotify.com/track/4AVt3SBXzGZwisc4zZmQmN) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [I Like It Slow](https://open.spotify.com/album/25UlyGE9bWquDK2MEABFpN) | 2:30 |
 | 2949 | [Lose My Mind](https://open.spotify.com/track/5LMqNwIFZBPwTh2buKaHix) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Lose My Mind](https://open.spotify.com/album/5NK6a73PWXffL6PzUeMNIf) | 3:02 |
+| 2950 | [FCK YOU](https://open.spotify.com/track/3Ds37Sx7xXKzxPMIFLHjdW) | [Nik Sitz](https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm), [Luke Noize](https://open.spotify.com/artist/53lxtgbEknYya6RNLflSSQ) | [FCK YOU](https://open.spotify.com/album/60gFKjbEocQs7FQtmIoUwp) | 2:54 |
+| 2951 | [Make It Go Hard](https://open.spotify.com/track/3zsICALW6AOMc0DVoF1kji) | [Kaai](https://open.spotify.com/artist/2HLDW2RBW5x4fSjgok9N3c) | [Make It Go Hard & Whole Club Moving](https://open.spotify.com/album/7tKmcGSHsrHxwnQ3aYiJo9) | 3:40 |
 
-Snapshot ID: `AAAL2rwTbRikUrlxwiYj8KjkTwOkarEc`
+Snapshot ID: `AAAL3tZNt460tUCVKdEQmSG8n7zVhrcs`

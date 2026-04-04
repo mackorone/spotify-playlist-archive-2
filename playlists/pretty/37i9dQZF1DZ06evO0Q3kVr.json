@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAABjhdrC28tus51fEJIG/scC",
+  "snapshot_id": "ac2xgAAAAAC83Kb6NR8oqk7rJUXBb6+K",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 207772,
-      "name": "\u00c1ngeles de la Ciudad",
-      "url": "https://open.spotify.com/track/6JkK65mfQxvlgtzRRi7i9L"
+      "duration_ms": 174428,
+      "name": "\u00a1Ah! Eres Tu!",
+      "url": "https://open.spotify.com/track/4fD4QJ0P8FNuDQNOjQn2wB"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Camino",
-        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 146893,
-      "name": "Trata de Cambiar",
-      "url": "https://open.spotify.com/track/624BuUFBbatf2Fkq7fUXud"
+      "duration_ms": 367850,
+      "name": "Jesus de Nazareth",
+      "url": "https://open.spotify.com/track/1b9zxrKhOxANckyLwNTxB7"
     },
     {
       "added_at": null,
@@ -324,15 +324,15 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 174428,
-      "name": "\u00a1Ah! Eres Tu!",
-      "url": "https://open.spotify.com/track/4fD4QJ0P8FNuDQNOjQn2wB"
+      "duration_ms": 207772,
+      "name": "\u00c1ngeles de la Ciudad",
+      "url": "https://open.spotify.com/track/6JkK65mfQxvlgtzRRi7i9L"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 367850,
-      "name": "Jesus de Nazareth",
-      "url": "https://open.spotify.com/track/1b9zxrKhOxANckyLwNTxB7"
+      "duration_ms": 146893,
+      "name": "Trata de Cambiar",
+      "url": "https://open.spotify.com/track/624BuUFBbatf2Fkq7fUXud"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Camino",
-        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "S.O.S. de Amor",
-      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Pie de Guerra",
         "url": "https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 199738,
       "name": "El Sexo Opuesto y Su Realidad",
       "url": "https://open.spotify.com/track/33DP7d6lF7OZ1e9PFJm0mb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "S.O.S. de Amor",
+      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Camino",
-        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 241826,
-      "name": "El Vigilante",
-      "url": "https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 274226,
       "name": "Donde Estas Hermano",
       "url": "https://open.spotify.com/track/51LSobJfabBX2FeGpW0QgQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 241826,
+      "name": "El Vigilante",
+      "url": "https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
-        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 390240,
-      "name": "Exceso de Drogas - En Vivo",
-      "url": "https://open.spotify.com/track/6E9ImakW9sqDliFdc6OS5w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 201680,
       "name": "Redada",
       "url": "https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
+        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 390240,
+      "name": "Exceso de Drogas - En Vivo",
+      "url": "https://open.spotify.com/track/6E9ImakW9sqDliFdc6OS5w"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataca de Nuevo: En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Rateros Con Placas",
-      "url": "https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trascendencia",
         "url": "https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 285988,
       "name": "Que Facil",
       "url": "https://open.spotify.com/track/5WC1NftBsLtyyLTbdVGUf6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ataca de Nuevo: En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Rateros Con Placas",
+      "url": "https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataca de Nuevo: En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 432960,
-      "name": "Jes\u00fas de Nazaret",
-      "url": "https://open.spotify.com/track/3zCuGv2PsLWmYfvenD4CXz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Capturados",
         "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 191750,
       "name": "Maribel",
       "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ataca de Nuevo: En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 432960,
+      "name": "Jes\u00fas de Nazaret",
+      "url": "https://open.spotify.com/track/3zCuGv2PsLWmYfvenD4CXz"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trascendencia",
-        "url": "https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "La Rola De Jhony",
-      "url": "https://open.spotify.com/track/497VfiYZ0o95KXOAAC2fgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Capturados",
         "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 213623,
       "name": "Pandillero, Pt. 2",
       "url": "https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trascendencia",
+        "url": "https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "La Rola De Jhony",
+      "url": "https://open.spotify.com/track/497VfiYZ0o95KXOAAC2fgs"
     },
     {
       "added_at": null,

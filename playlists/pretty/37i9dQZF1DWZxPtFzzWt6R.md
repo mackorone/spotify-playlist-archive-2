@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,783 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,828 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 37 | [Você Vai Cantar](https://open.spotify.com/track/78QsKr83Ad4vEF8SCa9bSo) | [Samuel Vieira](https://open.spotify.com/artist/2DIcmBR96QHvBlN7eaE1Tu), [Gretter Records](https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP) | [Você Vai Cantar](https://open.spotify.com/album/6rBf8djwCqkcJsHC5iQoua) | 5:10 |
 | 38 | [Tudo](https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Tudo](https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK) | 4:31 |
 | 39 | [Quem Foi Que Me Tocou](https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Quem Foi Que Me Tocou](https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX) | 4:41 |
-| 40 | [Guerreiro Adorador](https://open.spotify.com/track/5DdPOo1lK5TBndXG24HFfw) | [Ismael Junior](https://open.spotify.com/artist/0vAXrZLvWdBJL1cxdL7JBy), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Guerreiro Adorador](https://open.spotify.com/album/4jRfEXevgeiyxCjXGZ6zz9) | 5:52 |
-| 41 | [Vencer É Preciso \- Voz e Violão](https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 1](https://open.spotify.com/album/6pwnl7jg7ZAnXF1PuD8I2c) | 4:55 |
-| 42 | [Encontrar Meu Jesus \- Ao Vivo](https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH), [Talita Dias](https://open.spotify.com/artist/2ii8I9jF45XSJ5kVV0oFee) | [Encontrar Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/4YYey6sjR3pzeW1JfWqGne) | 2:52 |
+| 40 | [Encontrar Meu Jesus \- Ao Vivo](https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH), [Talita Dias](https://open.spotify.com/artist/2ii8I9jF45XSJ5kVV0oFee) | [Encontrar Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/4YYey6sjR3pzeW1JfWqGne) | 2:52 |
+| 41 | [Guerreiro Adorador](https://open.spotify.com/track/5DdPOo1lK5TBndXG24HFfw) | [Ismael Junior](https://open.spotify.com/artist/0vAXrZLvWdBJL1cxdL7JBy), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Guerreiro Adorador](https://open.spotify.com/album/4jRfEXevgeiyxCjXGZ6zz9) | 5:52 |
+| 42 | [Vencer É Preciso \- Voz e Violão](https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 1](https://open.spotify.com/album/6pwnl7jg7ZAnXF1PuD8I2c) | 4:55 |
 | 43 | [Assim Como Deus Quer](https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Assim Como Deus Quer](https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD) | 2:43 |
 | 44 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 |
 | 45 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 |

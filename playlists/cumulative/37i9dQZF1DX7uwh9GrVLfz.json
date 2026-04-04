@@ -2987,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "FiVE TiMES DEAD (by my wallet)",
+        "url": "https://open.spotify.com/album/50RTZrrOcal2MouiLJAhiY"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204506,
+      "name": "FiVE TiMES DEAD (by my wallet)",
+      "url": "https://open.spotify.com/track/1P1oxa1cCrZwXutvmp0MQK"
+    },
+    {
+      "album": {
         "name": "flagship",
         "url": "https://open.spotify.com/album/21fI2KyTKCoUszbfw0GGtI"
       },
@@ -8172,7 +8190,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 72772,
       "name": "Sally the Witch",
       "url": "https://open.spotify.com/track/36P381075zGqGLHW62QEdR"

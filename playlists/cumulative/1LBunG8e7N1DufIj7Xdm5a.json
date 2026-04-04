@@ -73053,6 +73053,24 @@
     },
     {
       "album": {
+        "name": "We all live in a Fantasy",
+        "url": "https://open.spotify.com/album/5bT2StBoZlkx0WlM4d4KI3"
+      },
+      "artists": [
+        {
+          "name": "Archi Deep",
+          "url": "https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127892,
+      "name": "We all live in a Fantasy",
+      "url": "https://open.spotify.com/track/1utF6RyVi98fnKc0Du68uH"
+    },
+    {
+      "album": {
         "name": "We Are All Bots",
         "url": "https://open.spotify.com/album/4D82Mt4DCc6c70ByNtD1cK"
       },

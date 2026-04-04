@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:  OMAH LAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,849 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,349 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 12 | [WEATHER FOR 2](https://open.spotify.com/track/56qLZovBjCLJUBlGv1gER8) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [WEATHER FOR 2](https://open.spotify.com/album/6NxHxVF09p78d9qBXFvJyX) | 2:55 |
 | 13 | [Cinéma](https://open.spotify.com/track/6jJSZ1F8R6ZuRhQcJa8ZLR) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Cinéma](https://open.spotify.com/album/3qJgwLs2UUJ1FQphe75cXO) | 2:39 |
 | 14 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |
-| 15 | [Track 2](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 0:00 |
+| 15 | [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 |
 | 16 | [Touché coulé \(feat\. Louzio, Tazeboy & Team Paiya\)](https://open.spotify.com/track/6LX6p2kiEzDHBcIJFHQt15) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk) | [CYCLE](https://open.spotify.com/album/7iI0U5Wgr4GnDlzIKPzmYB) | 3:42 |
 | 17 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 |
-| 18 | [Track 4](https://open.spotify.com/track/7cKWe1vy5xWWQv8v68ZUE5) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Bye bye delali](https://open.spotify.com/album/4KLbbqc9VlbeteFLw9bFKp) | 0:00 |
+| 18 | [Bye bye delali](https://open.spotify.com/track/7cKWe1vy5xWWQv8v68ZUE5) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Bye bye delali](https://open.spotify.com/album/4KLbbqc9VlbeteFLw9bFKp) | 3:05 |
 | 19 | [Bchwiya](https://open.spotify.com/track/1h18aAS9JQxSWKjeg6ra0x) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [KAID](https://open.spotify.com/album/1hLGGWyMJ4yJ84c7CITrWC) | 2:28 |
 | 20 | [SKELEWU 2.0](https://open.spotify.com/track/563GFCtJaSubkZ2UogJib7) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV) | [SKELEWU 2.0](https://open.spotify.com/album/5btRO2s5gcspinktUWgqMi) | 2:11 |
 | 21 | [SAILOR \(with Oxlade\)](https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [SAILOR \(with Oxlade\)](https://open.spotify.com/album/70bcwlOQC9FKbbKovrL0MB) | 3:04 |

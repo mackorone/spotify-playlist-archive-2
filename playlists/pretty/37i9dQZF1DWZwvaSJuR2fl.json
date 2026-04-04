@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 81586,
+  "num_followers": 81610,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvo\u0159\u00e1k: String Quartet No. 12 in F Major, Op. 96 \"American\"",
-        "url": "https://open.spotify.com/album/2Q1JQspir0kJGijQtxGuTR"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Artemis Quartet",
-          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
-        }
-      ],
-      "duration_ms": 600620,
-      "name": "Dvo\u0159\u00e1k: String Quartet No. 12 in F Major, Op. 96, B. 179 \"American\": I. Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/5IFhWvF6LtCGih8QZnyYpF"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
         "name": "Dvo\u0159\u00e1k: Overtures & Orchestral Suites",
         "url": "https://open.spotify.com/album/4z6ieiSUTk7BjyhLmbtc4y"
       },
@@ -503,6 +483,26 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
+        "name": "Dvo\u0159\u00e1k: String Quartet No. 12 in F Major, Op. 96 \"American\"",
+        "url": "https://open.spotify.com/album/2Q1JQspir0kJGijQtxGuTR"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Artemis Quartet",
+          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
+        }
+      ],
+      "duration_ms": 600620,
+      "name": "Dvo\u0159\u00e1k: String Quartet No. 12 in F Major, Op. 96, B. 179 \"American\": I. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/5IFhWvF6LtCGih8QZnyYpF"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
         "name": "Borodin, Dvorak & Shostakovich String Quartets",
         "url": "https://open.spotify.com/album/57kXR3zqpL5ziZX64QYC6N"
       },
@@ -519,30 +519,6 @@
       "duration_ms": 225533,
       "name": "String Quartet No. 12 in F Major, \"American\", Op. 96: III. Molto Vivace",
       "url": "https://open.spotify.com/track/5uENn7jXv3ZSlElEJeu2VY"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
-        "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
-        "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Mariss Jansons",
-          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
-        },
-        {
-          "name": "Oslo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
-        }
-      ],
-      "duration_ms": 492266,
-      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
-      "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -567,6 +543,30 @@
       "duration_ms": 818293,
       "name": "The Noon Witch, Op. 108, B. 196",
       "url": "https://open.spotify.com/track/6t4UbRhVWEujHjheDfmkDd"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
+        "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
+        "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Mariss Jansons",
+          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
+        },
+        {
+          "name": "Oslo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
+        }
+      ],
+      "duration_ms": 492266,
+      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
+      "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -799,30 +799,6 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 3 in E-Flat Major, B. 34 & Symphony No. 7 in D Minor, B. 141",
-        "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Myung-Whun Chung",
-          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
-        }
-      ],
-      "duration_ms": 626999,
-      "name": "Symphony No. 3 in E-Flat Major, Op. 10, B. 34: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/5gkeiHx2YHUq4tmWKJ3Qmq"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
         "name": "Tchaikovsky: Serenade For Strings / Dvor\u00e1k: Serenade For Strings",
         "url": "https://open.spotify.com/album/2lf78D4V5E0khuU33D3qVZ"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 296000,
       "name": "Serenade for Strings in E Major, Op. 22, B. 52: I. Moderato",
       "url": "https://open.spotify.com/track/4Uk5HBXrc3bo5q0d2uqnhk"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Symphony No. 3 in E-Flat Major, B. 34 & Symphony No. 7 in D Minor, B. 141",
+        "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Myung-Whun Chung",
+          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
+        }
+      ],
+      "duration_ms": 626999,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 10, B. 34: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/5gkeiHx2YHUq4tmWKJ3Qmq"
     },
     {
       "added_at": "2025-12-22 11:34:49",

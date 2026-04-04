@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: サバシスター
 
-884 songs - 1 day 22 hr 41 min
+885 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Find You](https://open.spotify.com/track/0CLc9IYuyOoMkZK8lmS9yG) | [Your Last Diary](https://open.spotify.com/artist/3naxNIZotcqCdf2Q50oxgV) | [Zero Division Vol.02 \- Single](https://open.spotify.com/album/79a338u2eyram2On4ALARx) | 3:34 | 2022-05-12 | 2022-07-25 |
 | [Find Your Toy](https://open.spotify.com/track/5iOCpYeaWZmJCJk3UgLja2) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [Find Your Toy](https://open.spotify.com/album/4qXhMjhi2IYsLvSKQ2rfII) | 4:26 | 2022-06-14 | 2022-07-26 |
 | [Fire](https://open.spotify.com/track/2a5Mrsb0r8lzpHryHgumAv) | [G\-FREAK FACTORY](https://open.spotify.com/artist/6XPpGsWRFQG1bi0qscvotx) | [FLARE/Fire](https://open.spotify.com/album/3tCbroV4FrGUw59V6YNJs9) | 4:00 | 2022-05-12 | 2022-07-26 |
+| [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/track/1P1oxa1cCrZwXutvmp0MQK) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [FiVE TiMES DEAD \(by my wallet\)](https://open.spotify.com/album/50RTZrrOcal2MouiLJAhiY) | 3:24 | 2026-03-31 |  |
 | [flagship](https://open.spotify.com/track/0JJx4ACNhyKrrSVRMPXyzw) | [hificoffees](https://open.spotify.com/artist/1AqwM9YZhBOxQlSyiiYVMY) | [flagship](https://open.spotify.com/album/21fI2KyTKCoUszbfw0GGtI) | 3:46 | 2024-03-05 | 2024-04-19 |
 | [flagship](https://open.spotify.com/track/4a01VbAG5YGyQ6CBH7KzLA) | [ハイファイコーヒーズ](https://open.spotify.com/artist/3nfnWSg80zCxmZ9Q8sspKm) | [flagship](https://open.spotify.com/album/6sumXukVRgoHRce55kELGj) | 3:46 | 2024-03-05 | 2024-09-04 |
 | [Fledgling](https://open.spotify.com/track/5tvaEwIBqMrbKPIzfIRzMQ) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [Fledgling](https://open.spotify.com/album/4PW3M0r0Zs8msRppMWuNn9) | 2:24 | 2025-04-01 | 2026-03-11 |
@@ -456,7 +457,7 @@
 | [Sadness Is Over](https://open.spotify.com/track/2eT5hxlWXRal174NX8YrFA) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Sadness Is Over](https://open.spotify.com/album/5ZqzhJQEyLdHcPdtqDWUEx) | 2:43 | 2023-08-17 | 2023-09-13 |
 | [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 | 2022-07-21 | 2024-04-19 |
 | [SAKURA](https://open.spotify.com/track/7n7DT24H4RZGfMvyMC8Z2s) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R\(e\) BEST](https://open.spotify.com/album/3umPmPd8laHb83g0Wwrq8t) | 4:37 | 2022-06-14 | 2022-07-29 |
-| [Sally the Witch](https://open.spotify.com/track/36P381075zGqGLHW62QEdR) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [Sally the Witch](https://open.spotify.com/album/0lC6uiSWrcay97ky0AOeil) | 1:12 | 2026-01-27 |  |
+| [Sally the Witch](https://open.spotify.com/track/36P381075zGqGLHW62QEdR) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [Sally the Witch](https://open.spotify.com/album/0lC6uiSWrcay97ky0AOeil) | 1:12 | 2026-01-27 | 2026-04-04 |
 | [Sapphire](https://open.spotify.com/track/3b2zbCDgqGcddzZpE7wJ1E) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sapphire / Back in Action](https://open.spotify.com/album/4ukPyiibVLHwTY7oMTeliC) | 2:51 | 2022-05-12 | 2022-07-20 |
 | [Say My Name](https://open.spotify.com/track/1tCiCPvZYVdR5rIxokcqbj) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 1:48 | 2023-10-31 | 2024-04-19 |
 | [Say My Name](https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/0Z1B02ZtMcAtgluiIWZTMB) | 1:48 | 2023-10-10 | 2023-11-05 |

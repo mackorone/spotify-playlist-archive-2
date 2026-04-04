@@ -3829,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "MinistreDesAffaires",
+        "url": "https://open.spotify.com/album/2GhGBG7r2oSJzCKYWdAUPC"
+      },
+      "artists": [
+        {
+          "name": "sleepypierre",
+          "url": "https://open.spotify.com/artist/0TAxLQ3NNRtFzkg5ZDOmpN"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "MinistreDesAffaires",
+      "url": "https://open.spotify.com/track/0GewusghyHYrdtt71yfhpo"
+    },
+    {
+      "album": {
         "name": "Misu na misu",
         "url": "https://open.spotify.com/album/4kI0FPGAJdKHE7DEvfNv1i"
       },

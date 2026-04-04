@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 213024,
+  "num_followers": 213047,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAC47nRrf6AkkMGm0PAWgbKk",
+  "snapshot_id": "ac2xgAAAAABcPkoqqXiljsppu7vQ4a9E",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Order In Decline B-Sides",
-        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 240019,
-      "name": "Catching Fire (Acoustic)",
-      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skull Ring",
         "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Order In Decline B-Sides",
+        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 240019,
+      "name": "Catching Fire (Acoustic)",
+      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 199920,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT"
+      "duration_ms": 208120,
+      "name": "Reason To Believe",
+      "url": "https://open.spotify.com/track/4DJVmSP42li51r1C8zhURQ"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 208120,
-      "name": "Reason To Believe",
-      "url": "https://open.spotify.com/track/4DJVmSP42li51r1C8zhURQ"
+      "duration_ms": 199920,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT"
     },
     {
       "added_at": null,

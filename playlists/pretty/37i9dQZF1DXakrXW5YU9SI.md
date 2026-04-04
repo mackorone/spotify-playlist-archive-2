@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Błogie dźwięki na powitanie słonecznych dni 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,098 likes - 65 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,101 likes - 65 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,24 +46,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 36 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
 | 37 | [W to mi graj](https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [W to mi graj](https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc) | 3:09 |
 | 38 | [Miyazaki](https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Miyazaki](https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9) | 3:24 |
-| 39 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 |
-| 40 | [Decyzje](https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Decyzje](https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65) | 3:13 |
-| 41 | [Nie ucieknę](https://open.spotify.com/track/18qEhJZR4hnkq9p3duOErV) | [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Nie ucieknę](https://open.spotify.com/album/3FNrAC8JpdyitVzVTmGOxk) | 2:57 |
-| 42 | [Knife In The Heart](https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Knife In The Heart](https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A) | 2:57 |
-| 43 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 |
-| 44 | [Pamiętnik](https://open.spotify.com/track/6gKig3A8E0xpGDQNY858On) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Pamiętnik](https://open.spotify.com/album/5cxQxKUtuwTEiX2ehsNPzY) | 3:11 |
-| 45 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
+| 39 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
+| 40 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 |
+| 41 | [Decyzje](https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Decyzje](https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65) | 3:13 |
+| 42 | [Nie ucieknę](https://open.spotify.com/track/18qEhJZR4hnkq9p3duOErV) | [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Nie ucieknę](https://open.spotify.com/album/3FNrAC8JpdyitVzVTmGOxk) | 2:57 |
+| 43 | [Knife In The Heart](https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Knife In The Heart](https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A) | 2:57 |
+| 44 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 |
+| 45 | [Pamiętnik](https://open.spotify.com/track/6gKig3A8E0xpGDQNY858On) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Pamiętnik](https://open.spotify.com/album/5cxQxKUtuwTEiX2ehsNPzY) | 3:11 |
 | 46 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 |
-| 47 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 |
-| 48 | [Love You Right](https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Love You Right](https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks) | 2:45 |
+| 47 | [Love You Right](https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Love You Right](https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks) | 2:45 |
+| 48 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 |
 | 49 | [Trzy razy bardziej](https://open.spotify.com/track/6tYIWwVAC9xTnG9RaO7hG5) | [Hania Kuzimowicz](https://open.spotify.com/artist/2z0LDef08JN0VpXdzrZIvJ), [The Voice of Poland](https://open.spotify.com/artist/0tu7LpFeEMuCPewcudUKG4) | [Trzy razy bardziej](https://open.spotify.com/album/3HEVadnUPopLxU5O0Mhdbl) | 2:29 |
 | 50 | [Into You \- Spotify Singles](https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Into You \(Spotify Singles\)](https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM) | 4:06 |
 | 51 | [Darlin'](https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:28 |
 | 52 | [Czy wie?](https://open.spotify.com/track/4rTDbgvrOW9ICPoZjRCeTe) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Czy wie?](https://open.spotify.com/album/0AblF5iiP2DmnH08RjrVUF) | 2:57 |
 | 53 | [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 |
 | 54 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
-| 55 | [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 |
-| 56 | [To nie koniec](https://open.spotify.com/track/7u1mfYq6nRZmD4F9iumOy8) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [To nie koniec](https://open.spotify.com/album/7MJf5dvbXttoVqkcxWxDcM) | 3:11 |
+| 55 | [To nie koniec](https://open.spotify.com/track/7u1mfYq6nRZmD4F9iumOy8) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [To nie koniec](https://open.spotify.com/album/7MJf5dvbXttoVqkcxWxDcM) | 3:11 |
+| 56 | [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 |
 | 57 | [DROWN](https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:53 |
 | 58 | [pociąg bez ostatniej stacji](https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [pociąg bez ostatniej stacji](https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73) | 2:24 |
 | 59 | [ILU NAS JEST](https://open.spotify.com/track/1Oe9VmxzM7ErbPq8PrSKxV) | [Grubson](https://open.spotify.com/artist/7ChbI909duz2evHDqsYsSa) | [ILU NAS JEST](https://open.spotify.com/album/2spGZawF0CXXIlckgPsbS9) | 3:02 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 64 | [W snach](https://open.spotify.com/track/5FpxCMdHZTVGvHJVtrkBDk) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Pytania](https://open.spotify.com/album/6gDgbvpxYVyCTwJ1oLifF5) | 3:23 |
 | 65 | [Zakręty](https://open.spotify.com/track/0nQmwxn6lcTxehbPJELmHT) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Zakręty](https://open.spotify.com/album/483zNSprSHlPgrz7PNsxD9) | 3:26 |
 
-Snapshot ID: `AAAAACC9G2+muzytFxOzLfZQxI9omtAR`
+Snapshot ID: `AAAAAC27bWKt039NWIOeMAlTGUuh2PVU`

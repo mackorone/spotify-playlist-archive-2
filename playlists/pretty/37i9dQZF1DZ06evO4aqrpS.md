@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 
 > This is Silvana Estrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,674 likes - 44 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,704 likes - 44 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 8 | [Al Norte](https://open.spotify.com/track/5hBI1he3oDinoZPS2IaRIp) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA) | 3:19 |
 | 9 | [Para vivir](https://open.spotify.com/track/6SFt1kzei45M8plu3VVdtT) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cosas de los vivientes](https://open.spotify.com/album/00gE14v4P0wQj8Qicor3yu) | 3:42 |
 | 10 | [Para Siempre](https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ) | 3:21 |
-| 11 | [El Alma Mía](https://open.spotify.com/track/5m2P2Etjjy6W1AHyzLXVSJ) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 4:29 |
+| 11 | [Un Rayo De Luz](https://open.spotify.com/track/4FglsPNvL4avF0MWJIeZm8) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 4:37 |
 | 12 | [Sabré Olvidar](https://open.spotify.com/track/04rJsvvczPIxiyXVnOAytj) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA) | 4:07 |
 | 13 | [Peligrosamente Dark \(feat\. Silvana Estrada\)](https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 2:53 |
 | 14 | [Ser de Ti](https://open.spotify.com/track/1t7DZ1hrqkV1BVaxBPQwB1) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y) | 3:27 |
-| 15 | [Un Rayo De Luz](https://open.spotify.com/track/4FglsPNvL4avF0MWJIeZm8) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 4:37 |
+| 15 | [El Alma Mía](https://open.spotify.com/track/5m2P2Etjjy6W1AHyzLXVSJ) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 4:29 |
 | 16 | [Se Me Ocurre](https://open.spotify.com/track/7mMrfUbYLN06xqRbRDhx2E) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh) | 4:02 |
 | 17 | [Quisiera](https://open.spotify.com/track/7911y6Gdt4MwkJJj6lIU03) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Suspiros](https://open.spotify.com/album/3AAHNwEiwCZTtgE6PfnLnS) | 4:53 |
 | 18 | [Carta](https://open.spotify.com/track/18Blt113OMVGgPhkoOdBNX) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y) | 3:24 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 43 | [El Agua Y La Miel](https://open.spotify.com/track/6S32t8SspzeR7Pr9qQfe0U) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 4:38 |
 | 44 | [Lo Sagrado](https://open.spotify.com/track/6bhAUwtrHTPLuFRY2GYCdL) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 3:30 |
 
-Snapshot ID: `acxgAAAAAACvG3swMFkzOIN6JLT+7FPt`
+Snapshot ID: `ac2xgAAAAADxFZKaZW/hsMBxnspwv84g`

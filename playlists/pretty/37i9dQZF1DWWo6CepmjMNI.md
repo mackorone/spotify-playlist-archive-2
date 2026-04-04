@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Something Sweet
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: SOK
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,848 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,850 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/track/66GaGy5M98QcerWdWBDrZF) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/album/5vaYFcgmYuiwo8n6kQ5srY) | 3:38 |
-| 2 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |
-| 3 | [สมปรารถนา](https://open.spotify.com/track/3Qrr2iIBzsUxiN2iRgLxMu) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX) | [สมปรารถนา](https://open.spotify.com/album/3MfpyPBmw4TqD4fQbevTt4) | 4:03 |
-| 4 | [ช่างแม่ง](https://open.spotify.com/track/0UlZvGO3AsBbbtTMFH23xt) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ช่างแม่ง](https://open.spotify.com/album/74dkJju7FCX1N9cWGdk7jU) | 3:09 |
-| 5 | [สุขสันต์วันเลิกรา](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 |
-| 6 | [ต้องจากกันแล้วใช่ไหม](https://open.spotify.com/track/1WX6tFWTzaiZFeh4E59FRJ) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [ต้องจากกันแล้วใช่ไหม](https://open.spotify.com/album/1yqjeOdBa2GoZL5qyBLLET) | 4:07 |
-| 7 | [สิ่งดีดี](https://open.spotify.com/track/40LuIeGWNzSQnQVIicYDC7) | [gizzdear](https://open.spotify.com/artist/3P3Q12jeu49wXQ7GaL85gp) | [สิ่งดีดี](https://open.spotify.com/album/7CVh4hdg1GD0CzPzGwZZEV) | 3:52 |
-| 8 | [โดพามีน \(Dopamine\)](https://open.spotify.com/track/0jfldE751eWtWo2K1VXjHT) | [ANYSIDE](https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0) | [โดพามีน \(Dopamine\)](https://open.spotify.com/album/0rDyYO85nyHQ9k3lUzofeR) | 4:15 |
-| 9 | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/track/5AEAu3zGi43VzBfgiUJvzE) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/album/7bJKCarxScjCO7CWATzwpe) | 3:48 |
+| 1 | [โดพามีน \(Dopamine\)](https://open.spotify.com/track/0jfldE751eWtWo2K1VXjHT) | [ANYSIDE](https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0) | [โดพามีน \(Dopamine\)](https://open.spotify.com/album/0rDyYO85nyHQ9k3lUzofeR) | 4:15 |
+| 2 | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/track/5AEAu3zGi43VzBfgiUJvzE) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/album/7bJKCarxScjCO7CWATzwpe) | 3:48 |
+| 3 | [ไม่ทันบอกลา](https://open.spotify.com/track/3sMyAULEGLFPaeBOieYs2s) | [SOK](https://open.spotify.com/artist/2RcrQpcnnhqYCxJhul3mUa) | [ไม่ทันบอกลา](https://open.spotify.com/album/4QUYkCMmPL62aE2Ct3eBIV) | 6:00 |
+| 4 | [สุขสันต์วันเลิกรา](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 |
+| 5 | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/track/66GaGy5M98QcerWdWBDrZF) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/album/5vaYFcgmYuiwo8n6kQ5srY) | 3:38 |
+| 6 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |
+| 7 | [สมปรารถนา](https://open.spotify.com/track/3Qrr2iIBzsUxiN2iRgLxMu) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX) | [สมปรารถนา](https://open.spotify.com/album/3MfpyPBmw4TqD4fQbevTt4) | 4:03 |
+| 8 | [ช่างแม่ง](https://open.spotify.com/track/0UlZvGO3AsBbbtTMFH23xt) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ช่างแม่ง](https://open.spotify.com/album/74dkJju7FCX1N9cWGdk7jU) | 3:09 |
+| 9 | [ต้องจากกันแล้วใช่ไหม](https://open.spotify.com/track/1WX6tFWTzaiZFeh4E59FRJ) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [ต้องจากกันแล้วใช่ไหม](https://open.spotify.com/album/1yqjeOdBa2GoZL5qyBLLET) | 4:07 |
 | 10 | [คนเห็นแก่ตัว \(DOPE\)](https://open.spotify.com/track/2iSIPjNJqQHbPBqVU9seP9) | [YODSARUN](https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7) | [คนเห็นแก่ตัว \(DOPE\)](https://open.spotify.com/album/01Cg3LZd30LVxmkxGZWPLw) | 3:39 |
 | 11 | [คงไว้ \(with u\)](https://open.spotify.com/track/1XtuUyDmBFUnaaYewT9UFH) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [คงไว้ \(with u\)](https://open.spotify.com/album/5EwgUiIFNZPKXciJ3o6eZW) | 4:37 |
 | 12 | [เมื่อต้องรอ \(waiting eyes\)](https://open.spotify.com/track/4PZy9QErKbZ4AIa69A0vEJ) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [เมื่อต้องรอ \(waiting eyes\)](https://open.spotify.com/album/5ijHu5exfMHpotzb7jYiYc) | 5:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [ที่แล้วมาไม่เป็นไร](https://open.spotify.com/track/1LJiWvhU9PikSG5vUo5Vow) | [WWJ](https://open.spotify.com/artist/2v4Ft17lQrkbRUlw2oer4H) | [ที่แล้วมาไม่เป็นไร](https://open.spotify.com/album/3yBXxrmy6lqK9IuBpIYoGg) | 4:14 |
 | 50 | [เพียงรู้สึก](https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX) | [VELIKA](https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi) | [เพียงรู้สึก](https://open.spotify.com/album/1UTNXUb4lh0piWGAwp19ok) | 4:01 |
 
-Snapshot ID: `AAAAAJ98mmFk/NCh4tgBx9dO7eEo30Ie`
+Snapshot ID: `AAAAAKQwaZluNiNkAFw+JVsx7SxGGf8p`

@@ -24451,7 +24451,7 @@
       "artists": [
         {
           "name": "Maphra",
-          "url": "https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58"
+          "url": "https://open.spotify.com/artist/282n63G461lWZtO6jAWKT1"
         }
       ],
       "date_added": "2026-03-31",
@@ -42588,6 +42588,24 @@
     {
       "album": {
         "name": "Jane!",
+        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
+    },
+    {
+      "album": {
+        "name": "Jane!",
         "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
       },
       "artists": [
@@ -42598,7 +42616,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
@@ -44334,6 +44352,24 @@
       "duration_ms": 120000,
       "name": "Kaise Ab Kahein - From \"Gutar Gu\"",
       "url": "https://open.spotify.com/track/3eSm4iAkLsn3BeggfiQOH9"
+    },
+    {
+      "album": {
+        "name": "Kaka Pu Manis Bikin Sa Suka",
+        "url": "https://open.spotify.com/album/5Mm69LkIrGn67cMFM62Bal"
+      },
+      "artists": [
+        {
+          "name": "Zycan",
+          "url": "https://open.spotify.com/artist/0rxlJ4f4V06eCIpHWpA2pz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230183,
+      "name": "Kaka Pu Manis Bikin Sa Suka",
+      "url": "https://open.spotify.com/track/5SlJBdifn7dd8tIF6WMONj"
     },
     {
       "album": {
@@ -59830,7 +59866,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 187096,
       "name": "Need it Bad (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
@@ -72886,7 +72922,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 199600,
       "name": "RICHMAN",
       "url": "https://open.spotify.com/track/1Q1lQKlgXBXWF1Bb8eRvhq"
@@ -72904,7 +72940,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 199600,
       "name": "RICHMAN",
       "url": "https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I"

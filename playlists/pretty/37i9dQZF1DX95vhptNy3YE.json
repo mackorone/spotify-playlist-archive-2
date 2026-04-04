@@ -1,6 +1,6 @@
 {
   "description": "Matchola, 2ZDinizz e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 444166,
+  "num_followers": 444140,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -615,26 +615,22 @@
     {
       "added_at": "2026-03-27 19:30:16",
       "album": {
-        "name": "Como Descobrir",
-        "url": "https://open.spotify.com/album/2ovQQ83IF43peVUyEeLjra"
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },
       "artists": [
         {
-          "name": "Pitiko",
-          "url": "https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn"
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "OfcNgtl",
-          "url": "https://open.spotify.com/artist/6rsTqpNzgrRmUI9KMuWKKU"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Como Descobrir",
-      "url": "https://open.spotify.com/track/1epYqXNX0CfLidTDuVFuk8"
+      "duration_ms": 156500,
+      "name": "O que a Julia vai ser?",
+      "url": "https://open.spotify.com/track/7LzAlJ41rNAtvLJZC7xnks"
     },
     {
       "added_at": "2026-03-27 19:30:16",
@@ -659,22 +655,26 @@
     {
       "added_at": "2026-03-27 19:30:16",
       "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+        "name": "Como Descobrir",
+        "url": "https://open.spotify.com/album/2ovQQ83IF43peVUyEeLjra"
       },
       "artists": [
         {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+          "name": "Pitiko",
+          "url": "https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn"
         },
         {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+          "name": "OfcNgtl",
+          "url": "https://open.spotify.com/artist/6rsTqpNzgrRmUI9KMuWKKU"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 156500,
-      "name": "O que a Julia vai ser?",
-      "url": "https://open.spotify.com/track/7LzAlJ41rNAtvLJZC7xnks"
+      "duration_ms": 176000,
+      "name": "Como Descobrir",
+      "url": "https://open.spotify.com/track/1epYqXNX0CfLidTDuVFuk8"
     },
     {
       "added_at": "2026-03-27 19:30:16",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2026-03-27 19:30:16",
       "album": {
+        "name": "Interroga\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 171472,
+      "name": "Interroga\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0e91TwYBNqiEAHenznkari"
+    },
+    {
+      "added_at": "2026-03-27 19:30:16",
+      "album": {
         "name": "Novo Testamento",
         "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 156374,
       "name": "Sob a luz do seu olhar",
       "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
-    },
-    {
-      "added_at": "2026-03-27 19:30:16",
-      "album": {
-        "name": "Interroga\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        },
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 171472,
-      "name": "Interroga\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0e91TwYBNqiEAHenznkari"
     },
     {
       "added_at": "2026-03-27 19:30:16",

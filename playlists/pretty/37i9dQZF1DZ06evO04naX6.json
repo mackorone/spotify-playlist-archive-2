@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 178683,
+  "num_followers": 178715,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAADi+piVCF0juURVVr4Vk4fE",
+  "snapshot_id": "ac2xgAAAAADaNqfdgOEDZML7/WPdy5yO",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Expl\u00edcale (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 241551,
+      "name": "Nunca Me Olvides",
+      "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ay Mi Dios",
         "url": "https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO"
       },
@@ -111,22 +147,6 @@
       "duration_ms": 252003,
       "name": "Ay Mi Dios",
       "url": "https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 241551,
-      "name": "Nunca Me Olvides",
-      "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
     },
     {
       "added_at": null,
@@ -159,38 +179,6 @@
       "duration_ms": 217093,
       "name": "B\u00e1ilame - Remix",
       "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Expl\u00edcale (feat. Cosculluela & Brytiago) [Remix]",
-        "url": "https://open.spotify.com/album/4BQBdbRNXOJAV580HH1mr2"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 395666,
-      "name": "Expl\u00edcale (feat. Cosculluela & Brytiago) - Remix",
-      "url": "https://open.spotify.com/track/65n40RsQ9SObH7hNvVTHp0"
     },
     {
       "added_at": null,
@@ -623,42 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Fecha",
-      "url": "https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 150123,
-      "name": "Te Siento - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/1gUqfeb1jyfpRKJnOLbWBl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pierdo la Cabeza (Remix)",
         "url": "https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH"
       },
@@ -683,6 +635,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 150123,
+      "name": "Te Siento - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/1gUqfeb1jyfpRKJnOLbWBl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Fecha",
+      "url": "https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SEX AND LOVE",
         "url": "https://open.spotify.com/album/3lIHHrdS4kzUgqvMXgPEKP"
       },
@@ -703,70 +691,6 @@
       "duration_ms": 222666,
       "name": "Noche Y De Dia",
       "url": "https://open.spotify.com/track/1EeyW21hFIylGaCMGfCtqR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 208386,
-      "name": "No Digas Na",
-      "url": "https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 105491,
-      "name": "Bailame - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/6ucP1DGFUijHO2MEsKAP8D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alta Jerarquia (El Patr\u00f3n)",
-        "url": "https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "A Que No Te Atreves (Remix)",
-      "url": "https://open.spotify.com/track/1Yt5zFq14CsNug0YstbkfP"
     },
     {
       "added_at": null,
@@ -803,6 +727,70 @@
       "duration_ms": 322906,
       "name": "Bonita - Remix",
       "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 105491,
+      "name": "Bailame - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/6ucP1DGFUijHO2MEsKAP8D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 208386,
+      "name": "No Digas Na",
+      "url": "https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alta Jerarquia (El Patr\u00f3n)",
+        "url": "https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "A Que No Te Atreves (Remix)",
+      "url": "https://open.spotify.com/track/1Yt5zFq14CsNug0YstbkfP"
     },
     {
       "added_at": null,
@@ -979,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 237616,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goldstar Music La Familia Reggaeton Hits",
         "url": "https://open.spotify.com/album/69cVjPP0763yVDKiD0ZM49"
       },
@@ -1019,6 +991,22 @@
       "duration_ms": 293010,
       "name": "S\u00e1cala (feat. Don Omar, Wisin & Yandel)",
       "url": "https://open.spotify.com/track/2Y3jTsgosYHgOu9lVAskIe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 237616,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
     },
     {
       "added_at": null,

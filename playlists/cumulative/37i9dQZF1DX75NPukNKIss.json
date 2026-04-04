@@ -2647,6 +2647,28 @@
     },
     {
       "album": {
+        "name": "So What Now",
+        "url": "https://open.spotify.com/album/1L3fRGWg6v9yVQIzRuJM2Q"
+      },
+      "artists": [
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145584,
+      "name": "So What Now",
+      "url": "https://open.spotify.com/track/0rh6u2BWnjGaV4Z9Ow7Mpl"
+    },
+    {
+      "album": {
         "name": "Something Wrong (with Don Toliver)",
         "url": "https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a"
       },

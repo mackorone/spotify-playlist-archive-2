@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "2EAZY",
+        "url": "https://open.spotify.com/album/4mDcKwiEyYRpjdVgQAkLFx"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136651,
+      "name": "2EAZY",
+      "url": "https://open.spotify.com/track/109kqw1njTghISsOY8c1YF"
+    },
+    {
+      "album": {
         "name": "3am",
         "url": "https://open.spotify.com/album/7HKTDmDebceTzrFxiCAO1m"
       },
@@ -498,7 +516,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 171655,
       "name": "8PM",
       "url": "https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet"
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 180705,
       "name": "ATM",
       "url": "https://open.spotify.com/track/0FrESd7LNffZyGZ37VuSmH"
@@ -4368,6 +4386,24 @@
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
+    },
+    {
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153181,
+      "name": "E85",
+      "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
       "album": {
@@ -8146,7 +8182,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 207419,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/0irGuN2NqZ0E8BCutnfMKO"
@@ -11313,6 +11349,24 @@
     },
     {
       "album": {
+        "name": "POP DAT THANG",
+        "url": "https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138251,
+      "name": "POP DAT THANG",
+      "url": "https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG"
+    },
+    {
+      "album": {
         "name": "Pop It Off",
         "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
       },
@@ -13090,7 +13144,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 145707,
       "name": "Soft Girl Era",
       "url": "https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW"
@@ -13452,6 +13506,24 @@
       "duration_ms": 233085,
       "name": "STILL IN THE PAINT (with LAZER DIM 700 & Bktherula)",
       "url": "https://open.spotify.com/track/16yFuOEn0CrjQR7SZotv8B"
+    },
+    {
+      "album": {
+        "name": "Still Virgil",
+        "url": "https://open.spotify.com/album/1j0XqfL2CKaMI073ATSBRw"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147418,
+      "name": "Still Virgil",
+      "url": "https://open.spotify.com/track/4YXtodBrujUCJJlP2rjk3k"
     },
     {
       "album": {
@@ -14314,7 +14386,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 151611,
       "name": "Thootie (feat. Tokischa)",
       "url": "https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5"
@@ -14354,6 +14426,24 @@
       "duration_ms": 148159,
       "name": "Thought I Was Dead",
       "url": "https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB"
+    },
+    {
+      "album": {
+        "name": "THREESIXFIVE",
+        "url": "https://open.spotify.com/album/6GHD0yR26E6TDXRJwBvux6"
+      },
+      "artists": [
+        {
+          "name": "Chandler Jewels",
+          "url": "https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151265,
+      "name": "THREESIXFIVE",
+      "url": "https://open.spotify.com/track/5awriPtey6bIb1xqF87QCz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover: Childlike CiCi",
+  "description": "The best of Christian Hip Hop today.  Cover: indie tribe",
   "name": "The Flow",
   "tracks": [
     {
@@ -2907,6 +2907,40 @@
     },
     {
       "album": {
+        "name": "Big Girl Big God Remix (feat. Porsha Love, Tylynn, TuKool Tiff & Anike)",
+        "url": "https://open.spotify.com/album/6J4T4mOPxNcHcaWoRwS0xl"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        },
+        {
+          "name": "Porsha Love",
+          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
+        },
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        },
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        },
+        {
+          "name": "Tukool Tiff",
+          "url": "https://open.spotify.com/artist/31fWgNrRCySK9fxRmOWeqs"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289125,
+      "name": "Big Girl Big God Remix (feat. Porsha Love, Tylynn, Anike & TuKool Tiff) - Remix",
+      "url": "https://open.spotify.com/track/5aE5ps63kX9JTpx9BaYx7D"
+    },
+    {
+      "album": {
         "name": "BIG GOD",
         "url": "https://open.spotify.com/album/48WS9KBMnD32p4q3RFnvvS"
       },
@@ -4244,7 +4278,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 168311,
       "name": "CALLIN ON YOU",
       "url": "https://open.spotify.com/track/1URyFGnGG52rtklxLu8jfv"
@@ -5254,6 +5288,32 @@
       "duration_ms": 175089,
       "name": "Cold",
       "url": "https://open.spotify.com/track/30iuyOY3YZSAbb1KbMf7Gc"
+    },
+    {
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168389,
+      "name": "Cole Palmer",
+      "url": "https://open.spotify.com/track/1Ow7vaOAp5ZXx6lMF6JBGI"
     },
     {
       "album": {
@@ -9099,6 +9159,24 @@
     },
     {
       "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/4YoYxVsh1IMQv7jGVbXy81"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/17AWvqVloFAEVZ4veNQ3No"
+    },
+    {
+      "album": {
         "name": "God 1st",
         "url": "https://open.spotify.com/album/7a33DGV1r0RPgDLBDU2aez"
       },
@@ -9278,7 +9356,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 115250,
       "name": "GOD IS NEVER LATE",
       "url": "https://open.spotify.com/track/4qRWI5I9my6qx8fo0kwRaH"
@@ -10386,7 +10464,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 214256,
       "name": "He's Been Good",
       "url": "https://open.spotify.com/track/0cUvWCEqiqkNxmD43DJ0Kw"
@@ -11190,6 +11268,24 @@
       "duration_ms": 112592,
       "name": "Holy Flow",
       "url": "https://open.spotify.com/track/2AVFpcbFBquVEFZhcnnjIP"
+    },
+    {
+      "album": {
+        "name": "HOLY GIRLS! (WERK)",
+        "url": "https://open.spotify.com/album/20GX20u3QhSvaxxRgHHYcV"
+      },
+      "artists": [
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154857,
+      "name": "HOLY GIRLS! (WERK)",
+      "url": "https://open.spotify.com/track/35Mcvp5mlZY0r9fWxbnzvo"
     },
     {
       "album": {
@@ -13487,6 +13583,24 @@
     },
     {
       "album": {
+        "name": "I CAME IN GOD'S NAME",
+        "url": "https://open.spotify.com/album/7yYj0ksa1eURkx503HaxLM"
+      },
+      "artists": [
+        {
+          "name": "Fern",
+          "url": "https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "KINGS",
+      "url": "https://open.spotify.com/track/5TSAIjrJlvKvxEx5YJ8Ss9"
+    },
+    {
+      "album": {
         "name": "Kinna Wanna",
         "url": "https://open.spotify.com/album/1zPwfwHZaTH8qRg7NWhvTL"
       },
@@ -14578,6 +14692,40 @@
       "duration_ms": 230138,
       "name": "lo-feels",
       "url": "https://open.spotify.com/track/0SITJfmNyupAmSjADPRt7Y"
+    },
+    {
+      "album": {
+        "name": "WHO DO YOU SAY I AM?",
+        "url": "https://open.spotify.com/album/2mfT0T9OhSCrkMPTWBt2XS"
+      },
+      "artists": [
+        {
+          "name": "indie tribe",
+          "url": "https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "Mogli the Iceburg",
+          "url": "https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212374,
+      "name": "LOCATION!",
+      "url": "https://open.spotify.com/track/4FlzPhYUfmdrYVQY5cPIuX"
     },
     {
       "album": {
@@ -24349,6 +24497,28 @@
     },
     {
       "album": {
+        "name": "Somersville",
+        "url": "https://open.spotify.com/album/5ueiULfbrbjvOTc0XMgTjU"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Lul DreDay",
+          "url": "https://open.spotify.com/artist/3iJk6wDUly0uF53bdlBfvT"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154947,
+      "name": "THAT'S A BET (feat. Lul DreDay)",
+      "url": "https://open.spotify.com/track/15csjK219ZIK063yQ5MsGw"
+    },
+    {
+      "album": {
         "name": "That's a Lie",
         "url": "https://open.spotify.com/album/1o0PLj1iHIZC5NWpZmatDE"
       },
@@ -25100,7 +25270,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 129300,
       "name": "To the Limit",
       "url": "https://open.spotify.com/track/06ko2sxZL0JWpp6AQhBn6u"
@@ -25885,6 +26055,24 @@
     },
     {
       "album": {
+        "name": "UP",
+        "url": "https://open.spotify.com/album/6ZzdyrdjRGFBwUw9g98NU6"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/1Roo3bF04kvSaUHsUfQAAO"
+    },
+    {
+      "album": {
         "name": "Nobody's Mascot",
         "url": "https://open.spotify.com/album/2QzjowYhF6q9cWO3BQtKmq"
       },
@@ -26554,7 +26742,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 192844,
       "name": "WAY",
       "url": "https://open.spotify.com/track/0lRn3p4Vo8j6tzJ6m49sRA"
@@ -27054,7 +27242,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 208634,
       "name": "WELCOME TO THE TR!BE",
       "url": "https://open.spotify.com/track/6Hdv9CyGl0emiivINQ23es"
@@ -27276,7 +27464,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 152942,
       "name": "WHERE HE AT?",
       "url": "https://open.spotify.com/track/6uHYznjqZfD5DVfEC0VMKO"
@@ -28048,7 +28236,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 154630,
       "name": "YAH",
       "url": "https://open.spotify.com/track/1fhejtrdVabCphXSxMNyi9"

@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: CYRIL
 
-3,874 songs - 8 day 20 hr 7 min
+3,875 songs - 8 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1644,6 +1644,7 @@
 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-01-09 | 2025-02-14 |
 | [Hypnotized \(feat\. Ellie Goulding\) \- John Summit Remix](https://open.spotify.com/track/1VAVEYZlzBp7d8UlWJvaDD) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Hypnotized \(John Summit Remix\)](https://open.spotify.com/album/2eZyOgXmahrzJwNeYiilwQ) | 2:50 | 2025-02-27 | 2025-04-04 |
 | [Hypnotized \(with skaiwater\)](https://open.spotify.com/track/1QwoK3ypxUCpvyBqAkpFrn) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Disturb The Norm](https://open.spotify.com/album/578IaPD6aBApvHPtU3JKZA) | 1:59 | 2023-02-23 | 2023-03-18 |
+| [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 | 2026-04-02 |  |
 | [I Am Emotional](https://open.spotify.com/track/1Mk9wMRugr35Pq9rX2YVnk) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB) | [I Am Emotional](https://open.spotify.com/album/1hPeDGavQT3y27eU1bEGMt) | 2:40 | 2023-09-28 | 2023-10-20 |
 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-09 | 2023-12-02 |
 | [I Believe In Love Again \- Jex Opolis Remix Edit](https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [I Believe In Love Again \(Jex Opolis Remix\)](https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g) | 3:19 | 2023-12-01 | 2023-12-22 |

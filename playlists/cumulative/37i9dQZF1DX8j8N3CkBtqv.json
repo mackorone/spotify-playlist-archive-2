@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Raghav Meattle, Kamakshi Khanna, Bulli Bainbridge and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Neyhal, Samad Khan,  Zodiac Wave and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 170525,
       "name": "Aazmaati",
       "url": "https://open.spotify.com/track/0Q7yFAzSxQNDni4BJ5Pzr2"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 196213,
       "name": "Aise Na Humko",
       "url": "https://open.spotify.com/track/5PZyPpc0GfYfMTx6KmFK5i"
@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 121914,
       "name": "Anyayo",
       "url": "https://open.spotify.com/track/5yCOc1MOoekBjy56pCYZHS"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 192244,
       "name": "Cornucopia (ft. OAFF)",
       "url": "https://open.spotify.com/track/2xyqXpsCJg4sOZJbiPxB0I"
@@ -6092,7 +6092,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 205128,
       "name": "Diggi Bumba",
       "url": "https://open.spotify.com/track/5Mw91jYPnrCj49eF0O9CY9"
@@ -6674,7 +6674,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 148571,
       "name": "Dil Tera Hi Ho Gaya",
       "url": "https://open.spotify.com/track/0afYZUwHfUuYgi7JE6oQ0N"
@@ -7038,7 +7038,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 284407,
       "name": "Doob Jaane De",
       "url": "https://open.spotify.com/track/1rYeEKg74fv2vfaQASo665"
@@ -9831,6 +9831,32 @@
     },
     {
       "album": {
+        "name": "Hum Tum Miley",
+        "url": "https://open.spotify.com/album/0K0U5D15JUGzp3Vj4OptAc"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        },
+        {
+          "name": "Amaan Anjum",
+          "url": "https://open.spotify.com/artist/6i2OGAPggr2SpNnrzEjQG1"
+        },
+        {
+          "name": "Harshil Roy",
+          "url": "https://open.spotify.com/artist/0WLHgj66goZ8D71UhA0wvN"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171969,
+      "name": "Hum Tum Miley",
+      "url": "https://open.spotify.com/track/7GGUyCMipQJaORkMoPRw0d"
+    },
+    {
+      "album": {
         "name": "Hum Tumhare",
         "url": "https://open.spotify.com/album/2mBMNUSzTvDrp5DRFeLZw6"
       },
@@ -10862,6 +10888,32 @@
     {
       "album": {
         "name": "Jaane De",
+        "url": "https://open.spotify.com/album/4dXTmZORktHeXw7V3euM1e"
+      },
+      "artists": [
+        {
+          "name": "Neyhal",
+          "url": "https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31"
+        },
+        {
+          "name": "Bongoland",
+          "url": "https://open.spotify.com/artist/55OsvMBIhcIvhk2WFUiQgZ"
+        },
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197680,
+      "name": "Jaane De",
+      "url": "https://open.spotify.com/track/0QUo8XYVHtlRc2ampJMGFj"
+    },
+    {
+      "album": {
+        "name": "Jaane De",
         "url": "https://open.spotify.com/album/4BpXFS85OoEfYOMMFRyJ1b"
       },
       "artists": [
@@ -11518,7 +11570,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 287732,
       "name": "Jhini Jhini",
       "url": "https://open.spotify.com/track/1RI74apWIQoWdtK4qOmZUn"
@@ -17218,7 +17270,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 161739,
       "name": "Mere Maahiya",
       "url": "https://open.spotify.com/track/6uRD5I9a7bje38E3rmUUTf"
@@ -19270,7 +19322,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 238807,
       "name": "Not With You",
       "url": "https://open.spotify.com/track/4GDDcYPDKWiR51yqfjQxH6"
@@ -19920,6 +19972,28 @@
       "duration_ms": 178222,
       "name": "Patang (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda"
+    },
+    {
+      "album": {
+        "name": "Payaliyaan",
+        "url": "https://open.spotify.com/album/1TkOEs3apHXVPY5Fk3G6Sg"
+      },
+      "artists": [
+        {
+          "name": "Zodiac Wave",
+          "url": "https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy"
+        },
+        {
+          "name": "Hia",
+          "url": "https://open.spotify.com/artist/1QSqsXWlAEW0jnZzOesZ7y"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228754,
+      "name": "Payaliyaan",
+      "url": "https://open.spotify.com/track/5RjcZhJ9W13YckU17mX2ZO"
     },
     {
       "album": {
@@ -24566,7 +24640,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 171093,
       "name": "Sunbeam",
       "url": "https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G"
@@ -25344,6 +25418,32 @@
       "duration_ms": 222925,
       "name": "Tere Layi/ For You",
       "url": "https://open.spotify.com/track/7IFjJRwjmwGdsVIdltugtB"
+    },
+    {
+      "album": {
+        "name": "Tere Mere",
+        "url": "https://open.spotify.com/album/0msc5ueeBvXJARNJ0fzYEw"
+      },
+      "artists": [
+        {
+          "name": "Avish Jain",
+          "url": "https://open.spotify.com/artist/4SgxKzk9iYWRCpcpYFeJK5"
+        },
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Sagar Dhote",
+          "url": "https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199578,
+      "name": "Tere Mere",
+      "url": "https://open.spotify.com/track/7KvNcyY4r3CKFpCx6tq1ns"
     },
     {
       "album": {
@@ -27948,7 +28048,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 261000,
       "name": "Uss Dilnashi",
       "url": "https://open.spotify.com/track/3je1pOIzXhiWjuUKaWN4lc"

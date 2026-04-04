@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Gabi Suarez, Day & Lara",
+  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Bia Frazzo",
   "name": "Gera\u00e7\u00e3o Sertaneja",
   "tracks": [
     {
@@ -4043,6 +4043,24 @@
     },
     {
       "album": {
+        "name": "MELHORA",
+        "url": "https://open.spotify.com/album/2YV3JNX8w8psHLZNzCNOqf"
+      },
+      "artists": [
+        {
+          "name": "Bia Frazzo",
+          "url": "https://open.spotify.com/artist/4iT6fJ3MKoAJGORL59NAq1"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183843,
+      "name": "MELHORA",
+      "url": "https://open.spotify.com/track/65VEXIImum5TnOifiy8s4J"
+    },
+    {
+      "album": {
         "name": "menina durona",
         "url": "https://open.spotify.com/album/1PIQ7UHVnuXa0nYzxraT09"
       },
@@ -7148,7 +7166,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 172338,
       "name": "S\u00f3 Quero Sossego",
       "url": "https://open.spotify.com/track/6RuvcVpXzHriSfohWEANrv"

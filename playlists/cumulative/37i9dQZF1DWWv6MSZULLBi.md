@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Forest Blakk & Joy Williams
 
-1,552 songs - 3 day 21 hr 14 min
+1,552 songs - 3 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1401,7 +1401,6 @@
 | [Touch the Void](https://open.spotify.com/track/5PXpRaVbb7WsUrAzkdgWct) | [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [Touch the Void](https://open.spotify.com/album/092JOL9Fk1RgbqaqAaYMSb) | 3:57 | 2023-04-28 | 2023-10-28 |
 | [Tough Love](https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Tough Love](https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u) | 3:01 | 2023-07-21 | 2023-09-09 |
 | [tout ça](https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\(Lot 2\) consolation](https://open.spotify.com/album/7liNPWOvTHUYVg5ZhPLBvm) | 3:10 | 2023-02-10 | 2023-03-11 |
-| [Track 1](https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Evening Star](https://open.spotify.com/album/197taNYjpikHAPjkOWctWk) | 0:00 | 2026-04-02 |  |
 | [Traveler Of Swords](https://open.spotify.com/track/5ThAnXfWPVc8IoCwsuj0r7) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [In Lieu Of Light](https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z) | 4:16 | 2022-09-09 | 2023-03-18 |
 | [Treadmill](https://open.spotify.com/track/2WgHnskdhFJQLRK34T2ZR4) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Treadmill](https://open.spotify.com/album/68KXEVUovAaprYUksUU4Cc) | 4:53 | 2024-07-26 | 2025-01-18 |
 | [Treasure Hunt](https://open.spotify.com/track/2l8E8NGD1HycrJCvPRSuXP) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Treasure Hunt](https://open.spotify.com/album/65NK7opW4tOfm9pDemKWN1) | 3:22 | 2023-05-19 | 2023-06-17 |
@@ -1513,6 +1512,7 @@
 | [With You](https://open.spotify.com/track/56sDeGLrCYgn6ErQt9XWfr) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [With You](https://open.spotify.com/album/75yM5cCqKUclZgoZ6qkNMT) | 3:51 | 2022-05-13 | 2023-01-14 |
 | [Without A Leg To Stand On](https://open.spotify.com/track/31J0OSQnOjWtLBdrcD0rEm) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Without A Leg To Stand On](https://open.spotify.com/album/4hJ5xoH77zEDmqJONIxSGp) | 4:12 | 2024-10-04 | 2025-04-12 |
 | [Wolves of Worry](https://open.spotify.com/track/22LyAuD1vzB0sjJWDSYq3I) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Wolves of Worry](https://open.spotify.com/album/1jPBK8y3CHlUCM0z4sTCux) | 3:38 | 2025-08-22 | 2025-10-10 |
+| [Woman of the Hour](https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Evening Star](https://open.spotify.com/album/197taNYjpikHAPjkOWctWk) | 3:02 | 2026-04-02 |  |
 | [Wool \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:49 | 2023-11-17 | 2024-04-13 |
 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 | 2025-09-04 | 2025-11-07 |
 | [Workingman's Folk](https://open.spotify.com/track/4i3a34zfgc9TwOmC2DW4uF) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Workingman's Folk](https://open.spotify.com/album/3V61LCmUqHMGRF2xud8gwP) | 4:33 | 2025-08-01 | 2025-09-26 |

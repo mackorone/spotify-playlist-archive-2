@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Celebrando 5 años de EQUAL con el talento de las mujeres de los Andes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,075 likes - 53 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,080 likes - 53 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

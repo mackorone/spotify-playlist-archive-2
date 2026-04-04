@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-680 songs - 1 day 12 hr 36 min
+682 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,9 +387,10 @@
 | [Never, Never Be An Artist](https://open.spotify.com/track/0UR0jc3Ectk69m6WL9efyg) | [Original Broadway Cast Of Can\-Can](https://open.spotify.com/artist/4J0Aw897AsTHBGJeybM5O1) | [Can\-Can](https://open.spotify.com/album/39VLi8ZgqIH0chKZKk5ad9) | 2:56 | 2024-07-24 |  |
 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 | 2024-07-24 | 2025-06-28 |
 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 | 2024-07-24 |  |
+| [Night And Day](https://open.spotify.com/track/50TrPjhNyoeGwDvkRkOrhp) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Legendary Jazz Classics: The Best Jazz Standards](https://open.spotify.com/album/0mrF9Cvb4HN7CAodw8BGJN) | 3:01 | 2026-04-03 |  |
 | [Night And Day](https://open.spotify.com/track/2oLwWPVsmpZuMX515wU6Wd) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Pure Ella](https://open.spotify.com/album/1sVP1k1tw1hd95xkgiMj72) | 3:06 | 2026-02-12 | 2026-02-14 |
 | [Night And Day](https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:06 | 2024-07-24 | 2026-02-13 |
-| [Night and Day](https://open.spotify.com/track/2BVHtqY3mMd66EGPv4YmwX) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Greatest Collection](https://open.spotify.com/album/1fc0ofF6s4eSe0sxdUNFA3) | 3:07 | 2026-02-13 |  |
+| [Night and Day](https://open.spotify.com/track/2BVHtqY3mMd66EGPv4YmwX) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Greatest Collection](https://open.spotify.com/album/1fc0ofF6s4eSe0sxdUNFA3) | 3:07 | 2026-02-13 | 2026-04-04 |
 | [Nina](https://open.spotify.com/track/6TIYmlCmemux65j1gVSbdd) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI) | [Devin Dazzle & The Neon Fever](https://open.spotify.com/album/0ZjTr5xpR3qGdDL5HcOHfy) | 2:32 | 2025-06-27 | 2025-07-10 |
 | [Nina](https://open.spotify.com/track/285s2fExCvLqr2T1dNZ8TV) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Olé Tormé](https://open.spotify.com/album/6tCVZDvOYGYzaJ6jMkP5Td) | 2:33 | 2025-07-10 |  |
 | [Niña](https://open.spotify.com/track/7y4BwUn53YT56Zy4F0ca1n) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Lucho](https://open.spotify.com/artist/0Fh9nNdiSPLCwaKF1NV9De) | [Niña](https://open.spotify.com/album/7qdqiGQugGL4tcwB3DORRb) | 2:23 | 2024-07-24 | 2025-06-28 |
@@ -614,7 +615,8 @@
 | [What A Fair Thing Is A Woman](https://open.spotify.com/track/4vODJZxWzUoiNVFqW1fsww) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 4:12 | 2024-07-24 |  |
 | [What Do You Think About \- Radio Edit](https://open.spotify.com/track/11izjBmZj9dP8Z2QgbiGjW) | [2 Black](https://open.spotify.com/artist/7xdKYR7N2gDELPnlvUmOZ7) | [The Album](https://open.spotify.com/album/38ZcB4gvAcbmE7LHoB1NuM) | 3:00 | 2024-07-24 | 2025-06-28 |
 | [What Is the Soul of Man?](https://open.spotify.com/track/7oG6VgxTTP2B7uWzmdasak) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Up Above My Head](https://open.spotify.com/album/4I8sQwxcyWI979ZcYGPMf5) | 2:32 | 2025-06-27 |  |
-| [What Is This Thing Called Love?](https://open.spotify.com/track/1cmmNoABXBOJEeZFiEZBxT) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald: Legendary Recordings](https://open.spotify.com/album/1erT2mWZvvl0Ntdf0j1f2a) | 2:04 | 2026-03-23 |  |
+| [What Is This Thing Called Love](https://open.spotify.com/track/5nC6wIkhWrk5MN9BYQoYgc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Timeless Jazz Love Songs: 20 Romantic Classics](https://open.spotify.com/album/2N1j8Gyo4OFT8cixTgjZLa) | 1:58 | 2026-04-03 |  |
+| [What Is This Thing Called Love?](https://open.spotify.com/track/1cmmNoABXBOJEeZFiEZBxT) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald: Legendary Recordings](https://open.spotify.com/album/1erT2mWZvvl0Ntdf0j1f2a) | 2:04 | 2026-03-23 | 2026-04-04 |
 | [What Shall I Do?](https://open.spotify.com/track/7urY6ZZG2eES79I0cVj12r) | [Alberta Hunter](https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA) | [The London Sessions \- 1934](https://open.spotify.com/album/55Eg5wwt6GM94gsklJw7td) | 2:43 | 2024-07-24 | 2025-07-10 |
 | [What Shall I Do?](https://open.spotify.com/track/1GY2cVK5560DDDhIHAfeYW) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/7q81lXpJzqmVWcVaWUMr1D) | 5:11 | 2024-09-25 | 2025-07-10 |
 | [What Shall I Do?](https://open.spotify.com/track/6X3RuVm475liSLu6RalfRV) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/2zTb0nRwFBinCiZG8QgI3k) | 5:11 | 2024-07-24 | 2024-09-26 |

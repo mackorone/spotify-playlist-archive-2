@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-906 songs - 2 day 10 hr 39 min
+908 songs - 2 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Clarity In The Chaos \- VIP](https://open.spotify.com/track/3QEVd1bPWutogGgPsUxxt4) | [Josh Teed](https://open.spotify.com/artist/0m5NlhNMYQc0gUmvmRmVUS), [Julia Kahn](https://open.spotify.com/artist/2QwOKaXwgYtPBG99jbwc3L) | [Clarity In The Chaos \(VIP\)](https://open.spotify.com/album/6nzJP1lzhO8E5WnFLV3zrK) | 3:02 | 2024-05-24 |  |
 | [Classic Edition](https://open.spotify.com/track/3pF74ZpVjsyM5HnxhFQFfL) | [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [Classic Edition](https://open.spotify.com/album/6ET4gJmU2j1fzgMz93YhwF) | 4:46 | 2022-07-08 | 2024-04-19 |
 | [Classic Edition](https://open.spotify.com/track/4Rg2wslFWQYFNWFGC12MN9) | [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [Classic Edition](https://open.spotify.com/album/3DPgVg2jzRi7FNcqeGQnRD) | 4:46 | 2022-02-17 | 2022-07-29 |
-| [CLOSER](https://open.spotify.com/track/0tJRGWMmStr2wX4YTHYvZc) | [VANDA](https://open.spotify.com/artist/7ouNrGgk9tJR0pVolgQRWx) | [CLOSER](https://open.spotify.com/album/1w9PeuQ7Nar0LaSM6cWZXw) | 3:27 | 2025-01-29 |  |
+| [CLOSER](https://open.spotify.com/track/0tJRGWMmStr2wX4YTHYvZc) | [VANDA](https://open.spotify.com/artist/7ouNrGgk9tJR0pVolgQRWx) | [CLOSER](https://open.spotify.com/album/1w9PeuQ7Nar0LaSM6cWZXw) | 3:27 | 2025-01-29 | 2026-04-04 |
 | [CODED](https://open.spotify.com/track/6WcczRONbxiyYDh3c1EYY9) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv), [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [CODED](https://open.spotify.com/album/20ldLced0R5A8q3xhQ9ex2) | 4:04 | 2025-04-25 | 2026-02-14 |
 | [Cold Waters \- So Sus VIP](https://open.spotify.com/track/6h7AdG6j98SlzCzvPfymL6) | [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A), [Bouhi](https://open.spotify.com/artist/3ZQUoyYk8mIGWnJBdkabwc) | [Voices EP \(Remixes\)](https://open.spotify.com/album/2tRjQqTw3G4GuvMn7knVTb) | 2:48 | 2024-11-08 | 2025-05-08 |
 | [Coming Up \(Like That\)](https://open.spotify.com/track/6st1CVCUWkKgonMwm20BCD) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [Coming Up \(Like That\)](https://open.spotify.com/album/2W5kLnNnjmo4L3JyWZQEg3) | 2:46 | 2024-04-12 | 2026-03-07 |
@@ -280,6 +280,7 @@
 | [Fire Exit](https://open.spotify.com/track/2hZaN1NkoFZC3cAWAbNxmF) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [Fire Exit / Dark Vistas](https://open.spotify.com/album/5feUmqlFPkJlA9zuQHkiBd) | 3:46 | 2022-02-17 | 2022-04-09 |
 | [Firing Line \- Oddkut Remix](https://open.spotify.com/track/5FVvIGgGGha5CkcFaIk2ea) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp), [Oddkut](https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ) | [Firing Line \(The Remixes\)](https://open.spotify.com/album/2IxiUEyFkk17pyak0ArjfL) | 4:48 | 2022-10-14 | 2023-01-06 |
 | [First Kind](https://open.spotify.com/track/1nz3RaSoLW9gYOTuFK6BI4) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO) | [Gravity / First Kind](https://open.spotify.com/album/0wWaVJRlPR6Xgw2cIBCgUi) | 4:45 | 2022-02-17 | 2022-07-29 |
+| [flex!](https://open.spotify.com/track/28iwHQzDR2kvjFP8VnZUGB) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [flex!](https://open.spotify.com/album/5f0M0luk1ZVNZyK2MriD37) | 2:32 | 2026-04-03 |  |
 | [FLIP THE TRACK](https://open.spotify.com/track/6iON0fwD3aULNFGohMdxOg) | [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [FLIP THE TRACK](https://open.spotify.com/album/69ZdPy4TcIMtUv3xznL2gN) | 3:17 | 2024-04-05 | 2024-07-20 |
 | [Flute Song](https://open.spotify.com/track/1hGxadK7A3ho6ItaVZ5BrJ) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [Dubmedika EP](https://open.spotify.com/album/33SLTCwvEXpQ6CdFP2iQBH) | 4:41 | 2022-02-17 | 2022-07-29 |
 | [Flying Guillotine](https://open.spotify.com/track/1dLM34xbOSvhRfmlXTuakN) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [Flying Guillotine](https://open.spotify.com/album/3pbbSQUJcf2IFnNXIXY7j2) | 3:42 | 2026-02-20 |  |
@@ -300,6 +301,7 @@
 | [G Shit](https://open.spotify.com/track/0KE0pJOq71sJWqsO1FGfmH) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [XXIV Bit EP](https://open.spotify.com/album/44zt80xY9vVrpdBIS4cc9I) | 4:15 | 2022-07-08 | 2024-03-23 |
 | [G Shit](https://open.spotify.com/track/2S4MJ7mQM725upW6egRBwo) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [XXIV Bit EP](https://open.spotify.com/album/74E6fh2JCcfzCq0B7i1i07) | 4:15 | 2022-02-17 | 2022-07-29 |
 | [G\-WAGON](https://open.spotify.com/track/4giAQuDQ8hrWILDQMaOHYj) | [kLL sMTH](https://open.spotify.com/artist/5vKYp6eOOHPKfb8UX5nUXK) | [G\-WAGON](https://open.spotify.com/album/16PjiU1ektzaX9Qi6ByTAL) | 4:25 | 2024-03-22 | 2025-03-02 |
+| [Galaxy](https://open.spotify.com/track/2s5eXGqgGUlZNepQ2CJHDq) | [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A), [Vyhara](https://open.spotify.com/artist/0uxBvW7LTgKjr721ks2a6O) | [Wormholes & Wildflowers](https://open.spotify.com/album/4pj3wtnV76KkTTyP4cwyl3) | 2:51 | 2026-04-03 |  |
 | [Gassed Up \- IMANU Remix](https://open.spotify.com/track/4ewD29TNuL4ph7gCp2xdKP) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 2:58 | 2023-01-20 | 2025-01-29 |
 | [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 | 2022-12-16 | 2024-08-17 |
 | [Get Busy](https://open.spotify.com/track/4bMQZc9SiNDrlVXoExuiEd) | [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [Get Busy](https://open.spotify.com/album/7dONMtwQfWlzMvCx6ePzTC) | 3:44 | 2025-05-30 | 2025-09-21 |
@@ -719,7 +721,7 @@
 | [Slang Suffocate](https://open.spotify.com/track/4IrCLBdAohemmV1mPHKhJG) | [Mesck](https://open.spotify.com/artist/6GejZZjtZxiS7QHiYCCTcA) | [The Veil](https://open.spotify.com/album/4v1WEd25JZjbJb19b0F9zP) | 5:42 | 2022-02-17 | 2022-07-29 |
 | [Slang Suffocate](https://open.spotify.com/track/7LkWMVgeRc70gui7vKZynP) | [Mesck](https://open.spotify.com/artist/6GejZZjtZxiS7QHiYCCTcA) | [The Veil](https://open.spotify.com/album/1sE26pU2gB4uxai640rbcE) | 5:42 | 2022-07-08 | 2022-07-30 |
 | [Slayer](https://open.spotify.com/track/1bjCjA7LLvYfnsF1jhtDfQ) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Slayer](https://open.spotify.com/album/6a3WEKHVT6bRVSWqI1c8jU) | 2:11 | 2025-02-07 | 2025-07-12 |
-| [Sleepwalk](https://open.spotify.com/track/2V78A2XH5ubuhOSbfbVo5E) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Sleepwalk](https://open.spotify.com/album/2fnNChnTcxYGDOBLM2JnF2) | 3:43 | 2023-10-13 |  |
+| [Sleepwalk](https://open.spotify.com/track/2V78A2XH5ubuhOSbfbVo5E) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Sleepwalk](https://open.spotify.com/album/2fnNChnTcxYGDOBLM2JnF2) | 3:43 | 2023-10-13 | 2026-04-04 |
 | [Slow Waves](https://open.spotify.com/track/29SS6TB8ndmcr2YnyVuTF8) | [Khromi](https://open.spotify.com/artist/3rc9ONB9LXLOFeDSEqqwer) | [Slow Waves](https://open.spotify.com/album/04y570E9mDBEKHOMHvMSx6) | 4:20 | 2022-07-08 | 2024-04-19 |
 | [Slow Waves](https://open.spotify.com/track/73y7AadhKvqRT4rO5S1unG) | [Khromi](https://open.spotify.com/artist/2Z16P0b4CNXP1t8Gq6qYih) | [Your Favourite EDM](https://open.spotify.com/album/0w1tiwFFmei9D8URKpXvdA) | 4:20 | 2022-02-17 | 2022-07-29 |
 | [Smoking](https://open.spotify.com/track/2z4VFyovIQcbiS6naFjBd5) | [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR) | [Smoking](https://open.spotify.com/album/4LfauXFqfICUuZqHew5BBk) | 2:40 | 2025-09-19 | 2026-02-07 |

@@ -4,7 +4,7 @@
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-172 songs - 8 hr 37 min
+173 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Dockland Sunset Waves](https://open.spotify.com/track/1zOgdESmxPLNHqr5WNf04R) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Dockland Sunset Waves](https://open.spotify.com/album/4L8vYWebv1XnR16mbA5Q2T) | 2:11 | 2022-04-22 |  |
 | [Drifting Ocean Waves](https://open.spotify.com/track/2AihfjZhtfzwWsOn9OqZSD) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Drifting Ocean Waves](https://open.spotify.com/album/5CPqAWUy8kthNSCjFaFvX7) | 3:00 | 2025-02-18 |  |
 | [Emphatic Waves \- Ocean](https://open.spotify.com/track/2tTZ0umOeNzQssk04aO79H) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Landscape Serenity](https://open.spotify.com/album/1NKT2FI8CneNor8QEzmwAM) | 3:02 | 2023-06-19 |  |
+| [Endless Healing Waves](https://open.spotify.com/track/7CBoa5w1UD3Ox4bbrOn6aX) | [Scallope](https://open.spotify.com/artist/6qjzKyd1b3rjZVf0ol9Alc) | [Endless Healing Waves](https://open.spotify.com/album/0tsZR7CHT4WCyTVyVgpogh) | 2:38 | 2026-04-02 |  |
 | [Es Trenc Beach Samples](https://open.spotify.com/track/4uoNAb88yNTjEotalf06vw) | [Chill Bees](https://open.spotify.com/artist/317OsNvmAmolBVu7dLWhhD) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:06 | 2022-04-22 | 2024-03-26 |
 | [Finding Inner Peace Close to the Edge of the Sea](https://open.spotify.com/track/3OFBUO81026zPhA8b88MLB) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Contemplation by the Sea](https://open.spotify.com/album/0YLBgediglomrRmXQFsX3a) | 5:27 | 2022-04-22 | 2024-03-26 |
 | [Finding the Light](https://open.spotify.com/track/7pI5Hy6cpduETyWYS4fvI5) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Magic Water](https://open.spotify.com/album/3Ewgcu9Y9gbmxJurW4gvVs) | 3:06 | 2022-04-22 |  |
@@ -140,7 +141,7 @@
 | [Sitting By The Beach Then Jumping In](https://open.spotify.com/track/4ZRes6AFBBAFzV7VHuFWPd) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN) | 3:48 | 2022-04-22 | 2022-07-29 |
 | [Sleep TIme Waves](https://open.spotify.com/track/7KOxxqwcxwMZIFoCFHP41F) | [The Mindful](https://open.spotify.com/artist/5emKKqhb4oYf9k3sWw0At9) | [Good Night Nap Waves](https://open.spotify.com/album/0p8n8vwpJNu4r0w5ww1Xzb) | 2:59 | 2022-04-22 |  |
 | [Sleeping at the Calm Coast](https://open.spotify.com/track/67RbgGgHDNYiJKBGjCBvO6) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Echo of Waves](https://open.spotify.com/album/2A1V2bnCjWGXYrKKTAE7HV) | 3:15 | 2022-04-22 |  |
-| [Sleepy Wave Crashes](https://open.spotify.com/track/6lrRldi6EPan1Wb32Zp8pW) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Sleeping Sea](https://open.spotify.com/album/18ILKhH92zixHoHbWDwMUF) | 4:30 | 2022-11-22 |  |
+| [Sleepy Wave Crashes](https://open.spotify.com/track/6lrRldi6EPan1Wb32Zp8pW) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Sleeping Sea](https://open.spotify.com/album/18ILKhH92zixHoHbWDwMUF) | 4:30 | 2022-11-22 | 2026-04-04 |
 | [Slow Churning Waves](https://open.spotify.com/track/1nfIxmlozKXrdWq15ozay6) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Tropical Ocean Wave Dreams](https://open.spotify.com/album/4aW0CgnkvlMpfukTxLDb3u) | 3:05 | 2023-02-15 | 2026-04-03 |
 | [Slow Coast](https://open.spotify.com/track/2CMUq4tgUWERePRV84NBMp) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Cold Water Warmth](https://open.spotify.com/album/6wWoRDBPOJJdUFI2hgcM7K) | 2:44 | 2026-04-02 |  |
 | [Slow Laps Background Ocean](https://open.spotify.com/track/6ex0RelF7uGg4I8zoJlCTN) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Ocean's Edge](https://open.spotify.com/album/2XSyhlBiYtUsjuJ3gB0shQ) | 2:56 | 2022-11-22 | 2026-04-03 |

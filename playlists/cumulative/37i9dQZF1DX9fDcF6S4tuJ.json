@@ -1259,6 +1259,32 @@
     },
     {
       "album": {
+        "name": "Sofia the First",
+        "url": "https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52866,
+      "name": "Sofia the First Main Title Theme - From \"Sofia the First\"",
+      "url": "https://open.spotify.com/track/3dfpZwSuosIuFqksY0F6gT"
+    },
+    {
+      "album": {
         "name": "Disney Princess: The Ultimate Song Collection",
         "url": "https://open.spotify.com/album/1YlALay0y3WHzVz39xU3AJ"
       },

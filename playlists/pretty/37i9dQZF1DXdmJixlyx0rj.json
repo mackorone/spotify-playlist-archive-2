@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Kimmy gone)",
-  "num_followers": 35926,
+  "num_followers": 35939,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
-        "name": "Whiplash (English Version)",
-        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Whiplash (Steve Aoki Remix)",
-      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
         "name": "Billyeoon Goyangi (Do the Dance) (Remixes)",
         "url": "https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 195177,
       "name": "Billyeoon Goyangi (Do the Dance) (Snail's House Remix)",
       "url": "https://open.spotify.com/track/5PHwWZbsXcu5vjsV7EVrpl"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
+        "name": "Whiplash (English Version)",
+        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Whiplash (Steve Aoki Remix)",
+      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -843,30 +843,6 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
-        "name": "\ud76c / \ub178 / \uc560 / \ub77d",
-        "url": "https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf"
-      },
-      "artists": [
-        {
-          "name": "kimj",
-          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
-        },
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        },
-        {
-          "name": "audiogothh",
-          "url": "https://open.spotify.com/artist/1cTacypQyyzMQhsGmmKAyR"
-        }
-      ],
-      "duration_ms": 150956,
-      "name": "\ud76c (love type shit)",
-      "url": "https://open.spotify.com/track/18aWa24FoxzlPiRkBrGxgC"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
         "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
         "url": "https://open.spotify.com/album/4FJWDOLq0eiu0WGrJHqZfo"
       },
@@ -891,6 +867,30 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
+        "name": "\ud76c / \ub178 / \uc560 / \ub77d",
+        "url": "https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf"
+      },
+      "artists": [
+        {
+          "name": "kimj",
+          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
+        },
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "audiogothh",
+          "url": "https://open.spotify.com/artist/1cTacypQyyzMQhsGmmKAyR"
+        }
+      ],
+      "duration_ms": 150956,
+      "name": "\ud76c (love type shit)",
+      "url": "https://open.spotify.com/track/18aWa24FoxzlPiRkBrGxgC"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
         "name": "TOMBOY (R3HAB Remix)",
         "url": "https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 129677,
       "name": "TOMBOY (R3HAB Remix)",
       "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
-        "name": "firefly",
-        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 269222,
-      "name": "firefly",
-      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -947,6 +931,22 @@
       "duration_ms": 178000,
       "name": "DIRTY BOY (feat. JAMIE & UWA)",
       "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
+        "name": "firefly",
+        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 269222,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -983,34 +983,6 @@
       "duration_ms": 174000,
       "name": "Mushroom House",
       "url": "https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
-        "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 (Effie & Eurohead Remix)",
-        "url": "https://open.spotify.com/album/0aYO5sUYrc65edOubY9saN"
-      },
-      "artists": [
-        {
-          "name": "Dj Billybool",
-          "url": "https://open.spotify.com/artist/1WbYH0xbbvXsjbbkFL2T4k"
-        },
-        {
-          "name": "Varg\u00b2\u2122",
-          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
-        },
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        },
-        {
-          "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 - Effie & Eurohead Remix",
-      "url": "https://open.spotify.com/track/217pG31hswPFS8zFo2KONE"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1055,6 +1027,34 @@
       "duration_ms": 142285,
       "name": "Photon",
       "url": "https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
+        "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 (Effie & Eurohead Remix)",
+        "url": "https://open.spotify.com/album/0aYO5sUYrc65edOubY9saN"
+      },
+      "artists": [
+        {
+          "name": "Dj Billybool",
+          "url": "https://open.spotify.com/artist/1WbYH0xbbvXsjbbkFL2T4k"
+        },
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        },
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 - Effie & Eurohead Remix",
+      "url": "https://open.spotify.com/track/217pG31hswPFS8zFo2KONE"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
-        "name": "Love Crime",
-        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
-      },
-      "artists": [
-        {
-          "name": "Rockett",
-          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
-        }
-      ],
-      "duration_ms": 154712,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
         "name": "SPAZ",
         "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
       },
@@ -1227,6 +1211,26 @@
       "duration_ms": 169506,
       "name": "Bassister (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
+        "name": "iScreaM Vol.12 : Bad Boy Remixes",
+        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        }
+      ],
+      "duration_ms": 221667,
+      "name": "Bad Boy - PREP Remix",
+      "url": "https://open.spotify.com/track/4J40k24yd1m6D3TaKQsepp"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
-        "name": "iScreaM Vol.12 : Bad Boy Remixes",
-        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
+        "name": "Love Crime",
+        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+          "name": "Rockett",
+          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
         }
       ],
-      "duration_ms": 221667,
-      "name": "Bad Boy - PREP Remix",
-      "url": "https://open.spotify.com/track/4J40k24yd1m6D3TaKQsepp"
+      "duration_ms": 154712,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
+        "name": "iScreaM Vol.12 : Bad Boy Remixes",
+        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "Slom",
+          "url": "https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Bad Boy - Slom Remix",
+      "url": "https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
         "name": "eigensinn",
         "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 209656,
       "name": "My Bad (feat. SHAUN)",
       "url": "https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
-        "name": "iScreaM Vol.12 : Bad Boy Remixes",
-        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Slom",
-          "url": "https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Bad Boy - Slom Remix",
-      "url": "https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
         "name": "Iab",
         "url": "https://open.spotify.com/album/2fUQFQJIQwo14l0dUbH6Qr"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 190312,
       "name": "Iab",
       "url": "https://open.spotify.com/track/3uTfD1qpztCCQ55ifHJ982"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
         "name": "MOLLAK",
         "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 126000,
       "name": "Narak",
       "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        }
-      ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
-        "name": "iScreaM Vol.14 : Peaches Remixes",
-        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Peaches - SUMIN Remix",
-      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
         "name": "Falling In Love (feat. Natalie Major)",
         "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 214758,
       "name": "Falling In Love (feat. Natalie Major)",
       "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
+        "name": "iScreaM Vol.14 : Peaches Remixes",
+        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Peaches - SUMIN Remix",
+      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
     },
     {
       "added_at": "2026-04-01 11:05:43",
@@ -1871,6 +1871,26 @@
     {
       "added_at": "2026-04-01 11:05:43",
       "album": {
+        "name": "iScreaM Vol.25 : Red Flavor Remix",
+        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "MAR VISTA",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Red Flavor - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
+    },
+    {
+      "added_at": "2026-04-01 11:05:43",
+      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 146500,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5"
-    },
-    {
-      "added_at": "2026-04-01 11:05:43",
-      "album": {
-        "name": "iScreaM Vol.25 : Red Flavor Remix",
-        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "MAR VISTA",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Red Flavor - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     }
   ],
   "unique_name": "Electronii[K]",

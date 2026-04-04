@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 151948,
+  "num_followers": 151952,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAADn3lqB5E9rCZqlKmBTauAA",
+  "snapshot_id": "ac2xgAAAAAD0whuSjPMbSgzQaJ0zIMXq",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 226492,
+      "name": "Jesus, Take the Wheel",
+      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leave a Light On (Talk Away The Dark)",
         "url": "https://open.spotify.com/album/6Rhl0PXrNpvezhUrwXZnBa"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 186906,
       "name": "Leave a Light On (Talk Away The Dark)",
       "url": "https://open.spotify.com/track/05N2CVEkUbEd0slHLapdER"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 226492,
-      "name": "Jesus, Take the Wheel",
-      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
     },
     {
       "added_at": null,

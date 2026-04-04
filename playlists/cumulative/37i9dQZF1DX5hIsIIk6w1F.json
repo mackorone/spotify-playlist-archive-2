@@ -2517,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Bandidaje",
+        "url": "https://open.spotify.com/album/7ILe8FWf0oHQDfjVvud24K"
+      },
+      "artists": [
+        {
+          "name": "Young Wins",
+          "url": "https://open.spotify.com/artist/2k3LyLLMg09tVVL4s5bU9c"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "Bandidaje",
+      "url": "https://open.spotify.com/track/3gnpxzhfWuaRQw66ZbBA7m"
+    },
+    {
+      "album": {
         "name": "DE CAMINO A HERMES",
         "url": "https://open.spotify.com/album/5DLbv9HAIPWzqChpPxIAnc"
       },
@@ -5406,7 +5424,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 159412,
       "name": "Damelo Asi",
       "url": "https://open.spotify.com/track/14xm0tdNNcpqRlt2sxkjy4"
@@ -10587,6 +10605,48 @@
     },
     {
       "album": {
+        "name": "EXTRACTO",
+        "url": "https://open.spotify.com/album/3xzoLTrpWJL3TKykHl7ZmS"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        },
+        {
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/3n7sjffAzmx5iCvpSizuOs"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Sacra Mr Melody",
+          "url": "https://open.spotify.com/artist/03A4rAqMAxVwjkRIPZxZ9Y"
+        },
+        {
+          "name": "Ag Daddy",
+          "url": "https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277965,
+      "name": "LA POBLA (feat. Gino Mella, Sacra Mr Melody, Ag Daddy)",
+      "url": "https://open.spotify.com/track/7v5z68eTacs1yPoDi2DBVi"
+    },
+    {
+      "album": {
         "name": "La Primera Vez",
         "url": "https://open.spotify.com/album/4gqJDjOHYYGIr1Lcu5aysX"
       },
@@ -10812,7 +10872,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 136807,
       "name": "Lagunas Mentales",
       "url": "https://open.spotify.com/track/2AKUXVAk7f3lHC5qmG77kL"
@@ -15518,7 +15578,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 172710,
       "name": "no eres buena xika",
       "url": "https://open.spotify.com/track/5YHY8l2gurNPzUdsTHwAvP"
@@ -22951,6 +23011,28 @@
     },
     {
       "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/44izxZUWqG7SQzJQgSpgkX"
+      },
+      "artists": [
+        {
+          "name": "Varker",
+          "url": "https://open.spotify.com/artist/3t2fwZ5PQceTGj9SAUglmT"
+        },
+        {
+          "name": "SAIK",
+          "url": "https://open.spotify.com/artist/6KzEGajAgEtqQTn4eba3eh"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122038,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/51NxttUwi9h1txyWudssHE"
+    },
+    {
+      "album": {
         "name": "Toma",
         "url": "https://open.spotify.com/album/6FmTgEJo6aIR2oGpqlLrh0"
       },
@@ -24955,7 +25037,7 @@
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160473,
+      "duration_ms": 183789,
       "name": "Vuele",
       "url": "https://open.spotify.com/track/4ArEaGCWtc5NMRC8BAGToR"
     },

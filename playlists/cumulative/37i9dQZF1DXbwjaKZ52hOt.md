@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-330 songs - 10 hr 0 min
+331 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,8 +143,9 @@
 | [Jack Sprat](https://open.spotify.com/track/55mp4QQNvuIPnfKKhWUaTN) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:29 | 2022-02-25 |  |
 | [Jelly on a Plate](https://open.spotify.com/track/2xwD5QLZMXqHG8lPrpDH5T) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Action Songs](https://open.spotify.com/album/2N8I91bRV6WdvrHlSaN5Da) | 1:39 | 2022-02-25 | 2024-04-19 |
 | [Jelly on a Plate](https://open.spotify.com/track/4tvx5doXC1lw50HK3ZUvUj) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Action Songs](https://open.spotify.com/album/4E2rZ8JY1CaDdvwlCGq03B) | 1:39 | 2022-02-25 |  |
-| [John Jacob Jingleheimer Schmidt](https://open.spotify.com/track/39rcV2H8yMk2zfRfNkiS0r) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Nursery Rhymes](https://open.spotify.com/album/0VubFA5No9gVylojbWtyw9) | 1:36 | 2022-02-25 |  |
+| [John Jacob Jingleheimer Schmidt](https://open.spotify.com/track/39rcV2H8yMk2zfRfNkiS0r) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Nursery Rhymes](https://open.spotify.com/album/0VubFA5No9gVylojbWtyw9) | 1:36 | 2022-02-25 | 2026-04-04 |
 | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/track/0fwtBKg98AemijgyaN3xgI) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs \- 75 Nursery Rhymes](https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE) | 1:16 | 2022-02-25 | 2024-01-05 |
+| [John Jacob Jingleheimer Schmidt \- His Name Is My Name Too](https://open.spotify.com/track/6jClJoGhCavKB0ao6zMRGu) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [John Jacob Jingleheimer Schmidt \(His Name Is My Name Too\)](https://open.spotify.com/album/3sH9TeAkwquzvkCddGddLM) | 1:54 | 2026-04-03 |  |
 | [Johny Johny Yes Papa Grandma & Grandpa Song](https://open.spotify.com/track/7eYLIokneWcdbT1IAjkuGi) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1fYidXnWQLgapVmgxE9Bc9) | 1:57 | 2022-02-25 | 2023-04-14 |
 | [Johny Johny Yes Papa Grandma & Grandpa Song](https://open.spotify.com/track/73AwkdfctKAqcXteux4yV0) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1DNGcZk3osbuRUoGbV7NsE) | 1:57 | 2023-02-24 | 2024-01-05 |
 | [Johny Johny Yes Papa Nursery Rhyme](https://open.spotify.com/track/0L4pJJ7IFpFGncw5SH5Ubq) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChuTV Nursery Rhymes & Songs for Children, Vol\. 1](https://open.spotify.com/album/5VAhNC7AmHdWJhalTqvsnC) | 1:19 | 2023-02-24 | 2024-04-19 |

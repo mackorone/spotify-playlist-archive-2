@@ -1537,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/5vjZRodlfAwNbwtDcYR7ky"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198617,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/7860siLSwvRnGt63VOr7QT"
+    },
+    {
+      "album": {
         "name": "Fool's Gold",
         "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
       },
@@ -4094,7 +4112,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 167481,
       "name": "So Good",
       "url": "https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi"

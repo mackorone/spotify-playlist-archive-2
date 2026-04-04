@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Paloma Morphy y EMJAY en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Aitana en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 172013,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 174460,
       "name": "a la mitad",
       "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 201694,
       "name": "Al Mismo Kbrn (De Siempre)",
       "url": "https://open.spotify.com/track/5CmRpdPwcN9BK4KXNYAr0Z"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 153610,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 161503,
       "name": "a\u00fan piensas en m\u00ed?",
       "url": "https://open.spotify.com/track/1iDEbcuENi7uUSUmt5qoiE"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 194565,
       "name": "bachata m\u00eda",
       "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 187315,
       "name": "Baja California",
       "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 212852,
       "name": "Blanco Y Negro",
       "url": "https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 148636,
       "name": "BRAINCHEM",
       "url": "https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n"
@@ -1770,6 +1770,28 @@
       "duration_ms": 142822,
       "name": "Busc\u00e1ndote A Ti",
       "url": "https://open.spotify.com/track/0RJ9McwfcSScP4uurdSRtO"
+    },
+    {
+      "album": {
+        "name": "buttermilk 2",
+        "url": "https://open.spotify.com/album/0GccnfPFtt5X1bmGlKUNZR"
+      },
+      "artists": [
+        {
+          "name": "GRLS",
+          "url": "https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam"
+        },
+        {
+          "name": "RIVVAA",
+          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210258,
+      "name": "buttermilk 2",
+      "url": "https://open.spotify.com/track/6SQgtVsmwZMIluNxdFICeM"
     },
     {
       "album": {
@@ -2369,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "comovuelo!",
+        "url": "https://open.spotify.com/album/5CnJUzKgC6stByeH1AFARZ"
+      },
+      "artists": [
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171081,
+      "name": "comovuelo!",
+      "url": "https://open.spotify.com/track/6RNBad0IoUttcCdz94yQPb"
+    },
+    {
+      "album": {
         "name": "Conoci\u00e9ndome",
         "url": "https://open.spotify.com/album/4d4vWiugWk8EEh01llsyid"
       },
@@ -2490,6 +2530,28 @@
       "duration_ms": 208933,
       "name": "Conv\u00e9ncete (Remix)",
       "url": "https://open.spotify.com/track/4OA8RnYn0HIQMBDgIFnrJu"
+    },
+    {
+      "album": {
+        "name": "CORAZON PESAO",
+        "url": "https://open.spotify.com/album/3QLGJZGhvYRQOfEyOjCf7L"
+      },
+      "artists": [
+        {
+          "name": "Lua Lacruz",
+          "url": "https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142622,
+      "name": "CORAZON PESAO",
+      "url": "https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE"
     },
     {
       "album": {
@@ -6018,7 +6080,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 189838,
       "name": "Ley universal",
       "url": "https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ"
@@ -6062,7 +6124,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
@@ -6484,7 +6546,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 183760,
       "name": "MALVAS",
       "url": "https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H"
@@ -8345,6 +8407,24 @@
     },
     {
       "album": {
+        "name": "Otra Vez (Vol. 1)",
+        "url": "https://open.spotify.com/album/0b4VElQYfmR48jOBIcsNeo"
+      },
+      "artists": [
+        {
+          "name": "CD9",
+          "url": "https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172104,
+      "name": "Paisajes",
+      "url": "https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9"
+    },
+    {
+      "album": {
         "name": "palacio <3",
         "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
       },
@@ -8757,6 +8837,28 @@
     },
     {
       "album": {
+        "name": "perd\u00f3n",
+        "url": "https://open.spotify.com/album/1QPQxjapxAx5xLuZcfRtap"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        },
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203750,
+      "name": "perd\u00f3n",
+      "url": "https://open.spotify.com/track/1YG7bHHeVlHZ1LadFlMNlj"
+    },
+    {
+      "album": {
         "name": "Pereza",
         "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
       },
@@ -8830,7 +8932,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 142523,
       "name": "PERSONAL",
       "url": "https://open.spotify.com/track/0LDPHN32Xc3q4AvA6SGNIp"
@@ -9036,7 +9138,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 216569,
       "name": "Prefiero Que Me Duela",
       "url": "https://open.spotify.com/track/1tkoq5jwdEpYsUdfqDqOIA"
@@ -10601,6 +10703,24 @@
     },
     {
       "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "album": {
         "name": "SUPERFUME",
         "url": "https://open.spotify.com/album/2EnEclbA3ZSBTEnWMpcFg9"
       },
@@ -11176,7 +11296,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 180648,
       "name": "Tengamos Pasado",
       "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
@@ -12404,7 +12524,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 193342,
       "name": "\u00bfEs En Serio?",
       "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
@@ -12422,7 +12542,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 189693,
       "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
       "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,653 likes - 150 songs - 8 hr 0 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,652 likes - 150 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 2 | [Garage Do Brasil](https://open.spotify.com/track/16WvSVD1h7LZ7ogJw9UWTb) | [Damian Clarke](https://open.spotify.com/artist/76vfiinPOoRvOVOJOVQThQ), [Nick Selter](https://open.spotify.com/artist/117oVt9fhuJ4M0IlJwin2U) | [Garage Do Brasil](https://open.spotify.com/album/4CywzsvDHrlPfXzFG2mTfW) | 2:51 |
 | 3 | [Invincible](https://open.spotify.com/track/2ovZAk5eRSGmG6Bxx0cDN7) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Invincible](https://open.spotify.com/album/5ZEtRGpaiwtL5QnqN3Je98) | 3:04 |
 | 4 | [Desert Eagle](https://open.spotify.com/track/6yO0dfklsvVLs729HyYEg8) | [OTIOT](https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF) | [Desert Eagle \- Oud and Roll](https://open.spotify.com/album/7BwW4L29b1T0ECxxA1DwBm) | 4:25 |
-| 5 | [Oud and Roll](https://open.spotify.com/track/4B4OK2yW6Hwv35xgrvEyH6) | [OTIOT](https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF) | [Desert Eagle \- Oud and Roll](https://open.spotify.com/album/7BwW4L29b1T0ECxxA1DwBm) | 5:00 |
-| 6 | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/track/0M4PMD5RpCgtCt7sWffJbh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/album/55sBLTngKmRxlB4giUYxw1) | 2:40 |
-| 7 | [Into The Sun \(feat\. Brieanna Grace\)](https://open.spotify.com/track/4FIFylQf9hYh440pXpBkmD) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Into The Sun \(feat\. Brieanna Grace\)](https://open.spotify.com/album/6Hul57nelgR1a4iHRnstpa) | 3:17 |
-| 8 | [Electro](https://open.spotify.com/track/0MlZydbIcFuhWMI88PRcc3) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [Electro](https://open.spotify.com/album/45md8PcuVfwjfR0XiWca9x) | 2:53 |
+| 5 | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/track/0M4PMD5RpCgtCt7sWffJbh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Not A Place \(feat\. Oaks\)](https://open.spotify.com/album/55sBLTngKmRxlB4giUYxw1) | 2:40 |
+| 6 | [Into The Sun \(feat\. Brieanna Grace\)](https://open.spotify.com/track/4FIFylQf9hYh440pXpBkmD) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Into The Sun \(feat\. Brieanna Grace\)](https://open.spotify.com/album/6Hul57nelgR1a4iHRnstpa) | 3:17 |
+| 7 | [Electro](https://open.spotify.com/track/0MlZydbIcFuhWMI88PRcc3) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [Electro](https://open.spotify.com/album/45md8PcuVfwjfR0XiWca9x) | 2:53 |
+| 8 | [Oud and Roll](https://open.spotify.com/track/4B4OK2yW6Hwv35xgrvEyH6) | [OTIOT](https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF) | [Desert Eagle \- Oud and Roll](https://open.spotify.com/album/7BwW4L29b1T0ECxxA1DwBm) | 5:00 |
 | 9 | [Pull Me Away](https://open.spotify.com/track/6Tee5H62YsZdE7tBIH3Nql) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pull Me Away](https://open.spotify.com/album/59br7b2e3MO4Lw8ClkdjKo) | 2:33 |
 | 10 | [On Your Mind](https://open.spotify.com/track/7IytoKzQql1GldRX9vgLE1) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [On Your Mind](https://open.spotify.com/album/4MPhN02Pi6NpO9qcDdsGHf) | 3:00 |
 | 11 | [Wide Awake](https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Tom Did It](https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ) | [Wide Awake](https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe) | 4:16 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 149 | [Like A Drug](https://open.spotify.com/track/4OPpaJNuTo0j6XyvwDhrxF) | [Ben Wood](https://open.spotify.com/artist/2iDVKvq83UePPjZlTivOcR) | [Like A Drug](https://open.spotify.com/album/6D2mnM4kzrffNbSjNHPaRG) | 2:16 |
 | 150 | [Addicted To Our Chemistry](https://open.spotify.com/track/2Fekdhq7wnbSp8uk8EtkE8) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR) | [Addicted To Our Chemistry](https://open.spotify.com/album/2mwUICka1TnVDUyBwUELYg) | 2:44 |
 
-Snapshot ID: `AAAvql6MKESlHqvM5/3t5rqZWTGhQm2Y`
+Snapshot ID: `AAAvr9SgulVVCZv8++QSqEtnqoghZrrj`

@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Gini
 
-287 songs - 16 hr 24 min
+288 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 | 2021-12-06 | 2022-07-14 |
 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 | 2024-08-09 |  |
 | [Sukoon](https://open.spotify.com/track/3DwDpL9QpO5gqPFuHZXUx9) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN) | [Sukoon](https://open.spotify.com/album/1b43QbuhfXPgBGU6lDxn0I) | 3:04 | 2021-12-06 | 2023-02-25 |
+| [sun saawariya](https://open.spotify.com/track/0dnsJ8W8k4ncYstIsrz5pY) | [Accha Insaan](https://open.spotify.com/artist/5kTO2lNG7ub2Bed7CF8zpH), [AtharvaMusic](https://open.spotify.com/artist/689wgdJ8FExzGjaiehjfTS), [Yaani Karnawat](https://open.spotify.com/artist/2DQRnUEWF0YPw4vXHgJzq8) | [sun saawariya](https://open.spotify.com/album/6TsxNWUu5OwoS11OORzoWy) | 2:39 | 2026-04-03 |  |
 | [Sunday](https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:24 | 2024-01-12 |  |
 | [Sunrise](https://open.spotify.com/track/3zMiWxjsnyByaxmPm7Irlf) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Sunrise](https://open.spotify.com/album/3zfkbTXoeZiKLPfkXNYRmn) | 2:54 | 2021-12-06 | 2022-09-06 |
 | [Tabia](https://open.spotify.com/track/1zDAkehGGqrvTqwJBzTzEi) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [Tabia](https://open.spotify.com/album/1jRZBBkRgLqg390sko1E3B) | 2:26 | 2021-12-06 | 2022-01-06 |
@@ -280,7 +281,7 @@
 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2022-01-05 | 2023-10-19 |
 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 | 2024-10-05 | 2025-09-13 |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2021-12-06 | 2022-02-05 |
-| [Unse Jaake Kehdo](https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Unse Jaake Kehdo](https://open.spotify.com/album/6fl0XZZ3Prg5rfGSjdsgAV) | 2:57 | 2025-07-18 |  |
+| [Unse Jaake Kehdo](https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Unse Jaake Kehdo](https://open.spotify.com/album/6fl0XZZ3Prg5rfGSjdsgAV) | 2:57 | 2025-07-18 | 2026-04-04 |
 | [Wagairah Wagairah](https://open.spotify.com/track/5GcjIiSS47T64N1DFxn1UK) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [The Ghalat Family](https://open.spotify.com/artist/2TOUVQAEhJJDSvqjLS4X7x) | [Side A](https://open.spotify.com/album/4y3rYukqA7L8aPmkCaMj5P) | 3:37 | 2021-12-06 | 2022-03-17 |
 | [Waqt Ki Baatein](https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein](https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO) | 4:03 | 2022-07-25 | 2024-04-19 |
 | [Waqt Ki Baatein](https://open.spotify.com/track/1lIYP8fDGGnp91OMTUnwjV) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein \- Single](https://open.spotify.com/album/0SH6gTE06saGgjmvsDWIba) | 4:03 | 2021-12-06 |  |

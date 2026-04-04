@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Central Cee, Joyner Lucas, Mike WiLL Made-It and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Meek Mill, K-Trap, Ye and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -244,6 +244,24 @@
       "duration_ms": 182325,
       "name": "54321",
       "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
+    },
+    {
+      "album": {
+        "name": "600 Racks",
+        "url": "https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184383,
+      "name": "600 Racks",
+      "url": "https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6"
     },
     {
       "album": {
@@ -950,7 +968,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 159440,
       "name": "Bellingham",
       "url": "https://open.spotify.com/track/5ADKlijj1VChfluBVbK7WG"
@@ -1960,6 +1978,28 @@
       "duration_ms": 157714,
       "name": "Chanel Boy",
       "url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
+    },
+    {
+      "album": {
+        "name": "CHANGE",
+        "url": "https://open.spotify.com/album/5Gwn0C6YaMhqOMIycr43H4"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159111,
+      "name": "CHANGE",
+      "url": "https://open.spotify.com/track/2ilviyc5XdaEjBtwj3iHvG"
     },
     {
       "album": {
@@ -4547,6 +4587,28 @@
     },
     {
       "album": {
+        "name": "HEAR DAT STYL",
+        "url": "https://open.spotify.com/album/2620Z94qXgeOqSH0x6nDvV"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "HEAR DAT STYL",
+      "url": "https://open.spotify.com/track/1BtH6sE4Q5HFWwQl9FJ0QH"
+    },
+    {
+      "album": {
         "name": "Heaterz",
         "url": "https://open.spotify.com/album/6WRkgezvMJYr3bkSFUCPqU"
       },
@@ -5884,7 +5946,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 191053,
       "name": "LETTER TO MY YN",
       "url": "https://open.spotify.com/track/2BKojtQhgJSOoPVQgl8zgl"
@@ -6745,6 +6807,36 @@
     },
     {
       "album": {
+        "name": "AREA 41",
+        "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188652,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/1L7324QK3osE201YXxrrrl"
+    },
+    {
+      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -7582,7 +7674,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 202815,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua"
@@ -11306,7 +11398,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 160533,
       "name": "Walk Down (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr"

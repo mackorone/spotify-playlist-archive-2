@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-154 songs - 9 hr 16 min
+158 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-08-24 |  |
 | [Boogieman](https://open.spotify.com/track/1BO2XRaBKzRxdFTA9Uu4fP) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni) | 3:36 | 2025-12-16 |  |
 | [Breathe In Breathe Out](https://open.spotify.com/track/4KFY4EEv9CN6ivrzD6vEvg) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 4:06 | 2025-08-16 |  |
+| [Ca$ino](https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 4:20 | 2026-04-03 |  |
 | [Can't Tell Me Nothing](https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 4:31 | 2026-01-15 |  |
 | [Caskets](https://open.spotify.com/track/17vv44Grd1z9E78FkUoSsG) | [Nehruviandoom](https://open.spotify.com/artist/0ZWQOiDsRVjQXoSljCxraD), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [NEHRUVIANDOOM](https://open.spotify.com/album/152CETYdkMTfchUyFtCDZu) | 4:51 | 2025-02-05 | 2025-09-27 |
 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2025-03-22 | 2025-05-06 |
@@ -74,6 +75,7 @@
 | [Guv'nor](https://open.spotify.com/track/430jlohskTwNSYIfDCKWoG) | [JJ DOOM](https://open.spotify.com/artist/5BxMS9rhKHbSagaYFBICun), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Jneiro Jarel](https://open.spotify.com/artist/2EDnVAZ8Ha0eOeMtMinniB) | [Key to the Kuffs](https://open.spotify.com/album/3AEeWRPtSMeqoXL8xNcSbe) | 3:03 | 2025-03-03 | 2025-05-09 |
 | [Hacker](https://open.spotify.com/track/7y8X0Z04gJCKtfrnSAMywJ) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 4:35 | 2025-03-10 | 2025-06-22 |
 | [Heard 'Em Say](https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:23 | 2025-10-10 |  |
+| [HIGHS AND LOWS](https://open.spotify.com/track/565G1vHZu2xoxrnTyF06Qw) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:51 | 2026-04-03 |  |
 | [Hoe Cakes](https://open.spotify.com/track/4b82tXj35SycILuILcgBQ6) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 3:54 | 2023-10-05 |  |
 | [Hustle Bones](https://open.spotify.com/track/5PXyH5bb5fbVfO8LjByhBb) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:12 | 2025-03-10 | 2025-09-27 |
 | [i](https://open.spotify.com/track/3ODXRUPL44f04cCacwiCLC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:36 | 2025-03-22 |  |
@@ -102,7 +104,9 @@
 | [Next Levels](https://open.spotify.com/track/58MeeOMk6PMQxXWY9YCNPD) | [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa), [John Robinson](https://open.spotify.com/artist/2vyB0oUbcyIaoBVgUwhxZL), [Stahhr](https://open.spotify.com/artist/6wkhmi47U2W7idLK5sl91l), [Stacy Epps](https://open.spotify.com/artist/59liBbbghYBWqX9dN68XYH), [Invizible Handz](https://open.spotify.com/artist/4O8gN5lYpDVo6wGzmC14mq) | [Take Me To Your Leader](https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t) | 3:49 | 2025-03-06 |  |
 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 | 2025-10-13 |  |
 | [Nights Like This](https://open.spotify.com/track/6c0rii1TOf2fvq3hhqqExW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:52 | 2025-02-16 | 2025-09-27 |
+| [No Blame](https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 2:46 | 2026-04-03 |  |
 | [No More Hiding](https://open.spotify.com/track/3obGrchYRmtO5rk4O2ZtLZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:42 | 2025-10-09 |  |
+| [No Security](https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 1:58 | 2026-04-03 |  |
 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 | 2025-03-10 | 2025-04-30 |
 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 | 2025-12-09 |  |
 | [On Sight](https://open.spotify.com/track/1gqkRc9WtOpnGIqxf2Hvzr) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 2:36 | 2025-04-18 |  |

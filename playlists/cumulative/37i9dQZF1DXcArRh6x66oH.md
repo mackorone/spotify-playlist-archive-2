@@ -2,7 +2,7 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Sam Barber
+> roots run deep with Max McNown
 
 439 songs - 1 day 2 hr 11 min
 

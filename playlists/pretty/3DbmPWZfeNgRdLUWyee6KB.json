@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAASciAxY//l363nhcL1FvGhlhkJxWRy",
+  "snapshot_id": "AAASdjR38xkUr19Q1m/VwVpezqf7u6P9",
   "tracks": [
     {
       "added_at": "2026-03-05 23:06:18",
@@ -59,6 +59,38 @@
       "duration_ms": 278850,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5zV93GRdQUXmqWWXW5HCz2"
+    },
+    {
+      "added_at": "2026-04-03 09:50:44",
+      "album": {
+        "name": "Wine Sunrise (Guitar solo)",
+        "url": "https://open.spotify.com/album/4q3G7faYU8YG9cZAuCRgsO"
+      },
+      "artists": [
+        {
+          "name": "Manaus",
+          "url": "https://open.spotify.com/artist/58tdStq1hsnF7s0AtKfc4z"
+        }
+      ],
+      "duration_ms": 178350,
+      "name": "Wine Sunrise - Guitar solo",
+      "url": "https://open.spotify.com/track/6OUZpdoDA8pC488uUkRfAr"
+    },
+    {
+      "added_at": "2026-04-03 09:51:40",
+      "album": {
+        "name": "Ask time for time",
+        "url": "https://open.spotify.com/album/5dXVOGDqHXTrBN76GJ19i1"
+      },
+      "artists": [
+        {
+          "name": "The Inked Path",
+          "url": "https://open.spotify.com/artist/6mH0wRSH6wrNnG2K0YSWnM"
+        }
+      ],
+      "duration_ms": 176227,
+      "name": "Ask time for time",
+      "url": "https://open.spotify.com/track/248MtYAcY8RoGI6HK9YanG"
     },
     {
       "added_at": "2026-03-22 09:02:48",

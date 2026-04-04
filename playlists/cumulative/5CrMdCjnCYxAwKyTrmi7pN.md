@@ -4,7 +4,7 @@
 
 > Geniett van het zonnetje met deze lijst vol lente vibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 
-330 songs - 18 hr 17 min
+332 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [I'm Not so Tough](https://open.spotify.com/track/0QlDzeI31sMoBzGAyB0Olm) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [World Of Hurt](https://open.spotify.com/album/4cfMqW4uICDNhkn58pPH4r) | 4:27 | 2026-01-13 | 2026-02-03 |
 | [If Not Now Then When](https://open.spotify.com/track/0Ke6qURuzrJYBmPGzOGm9k) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [If Not Now Then When](https://open.spotify.com/album/78xmj94oXbrHsZdmMO29kv) | 3:20 | 2025-11-17 |  |
 | [Immortal Love](https://open.spotify.com/track/0cD8sJCbcePOMpTTVWN1pM) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Immortal Love](https://open.spotify.com/album/0zwbJ10ZAvQQrsFOcp7DWm) | 2:56 | 2026-01-23 | 2026-02-21 |
+| [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 | 2026-04-03 |  |
 | [in love with us](https://open.spotify.com/track/2oqn2SM8KnJeYIQMTboKAX) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [in love with us](https://open.spotify.com/album/0IlLTDo99PpMqQKMnvLN3f) | 2:40 | 2025-07-18 | 2025-09-23 |
 | [in love with us](https://open.spotify.com/track/44onYrHxP7S8kIrv779m6H) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [in love with us](https://open.spotify.com/album/6o1OUM1A0nCVCYD7QGFsld) | 2:40 | 2025-08-11 | 2025-09-23 |
 | [In My World](https://open.spotify.com/track/2R4mhwY1OCrsOgC3EYrcj7) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [In My World](https://open.spotify.com/album/157mdFtAohLLC8NWhXdgTU) | 3:35 | 2026-01-23 | 2026-02-21 |
@@ -242,7 +243,7 @@
 | [So Incredible](https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Incredible](https://open.spotify.com/album/3GSt8EeN0cZ9hjssIowCeA) | 2:57 | 2026-01-23 | 2026-02-13 |
 | [somebody you're supposed to love](https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS \(DELUXE\)](https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU) | 3:10 | 2026-02-13 | 2026-03-25 |
 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-09-22 | 2026-02-14 |
-| [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 | 2026-02-19 |  |
+| [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 | 2026-02-19 | 2026-04-04 |
 | [Sonnentanz \- Sun Don't Shine](https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Netzwerk](https://open.spotify.com/album/0CoiuzFtZVRk9imDnfate2) | 3:58 | 2025-07-17 | 2025-09-23 |
 | [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:11 | 2026-01-23 | 2026-02-13 |
 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 | 2025-10-31 |  |
@@ -298,6 +299,7 @@
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2025-09-22 | 2026-03-25 |
 | [Too Far](https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Too Far](https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4) | 3:00 | 2025-11-21 | 2026-02-03 |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-26 | 2026-02-03 |
+| [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 | 2026-04-03 |  |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2026-01-23 |  |
 | [Unhinged](https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Unhinged](https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA) | 3:04 | 2026-01-23 | 2026-02-21 |
 | [Unsteady](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:17 | 2025-10-10 | 2025-10-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 701578,
+  "num_followers": 701647,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAACO8W2C6E4IDb7qS2K7MllC",
+  "snapshot_id": "ac2xgAAAAADXyiIDz3+wRXgFFsL5JoCC",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebration (Deluxe Version)",
-        "url": "https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1AyCx0WQX2pRFTQdbicwcK"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 285093,
+      "duration_ms": 283848,
       "name": "Into the Groove",
-      "url": "https://open.spotify.com/track/5hfpYZ8eQ5BXTAuKPKMKT4"
+      "url": "https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebration (Deluxe Version)",
-        "url": "https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP"
+        "name": "Hung Up (Remixes)",
+        "url": "https://open.spotify.com/album/5tlf5Grqk3ywZqvkEoECd3"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 238360,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/55vHakozxvDmLT7smkEYCN"
+      "duration_ms": 202720,
+      "name": "Hung Up - Radio Version",
+      "url": "https://open.spotify.com/track/1Mo3b48tkMoOqSqguVrlC6"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
       "duration_ms": 280973,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebration (Deluxe Version)",
+        "url": "https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/55vHakozxvDmLT7smkEYCN"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hung Up (Remixes)",
-        "url": "https://open.spotify.com/album/5tlf5Grqk3ywZqvkEoECd3"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "Hung Up - Radio Version",
-      "url": "https://open.spotify.com/track/1Mo3b48tkMoOqSqguVrlC6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 267345,
       "name": "Nothing Really Matters",
       "url": "https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 263813,
-      "name": "I'll Remember (Theme from the Motion Picture With Honors)",
-      "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 263813,
+      "name": "I'll Remember (Theme from the Motion Picture With Honors)",
+      "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
       },
@@ -667,6 +667,26 @@
       "duration_ms": 273533,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Chris Lord-Alge",
+          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/5g7xZ7eoCpNt4Zm2UbE2U5"
     },
     {
       "added_at": null,
@@ -699,26 +719,6 @@
       "duration_ms": 310266,
       "name": "This Used to Be My Playground",
       "url": "https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Chris Lord-Alge",
-          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/5g7xZ7eoCpNt4Zm2UbE2U5"
     },
     {
       "added_at": null,

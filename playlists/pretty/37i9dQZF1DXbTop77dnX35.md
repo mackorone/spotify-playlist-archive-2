@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Omah Lay, Mavo,  Didi B, Trafitti, Lekan, Kelvyn Boy  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,881 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,884 likes - 54 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 2 | [Shy Lover](https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shy Lover](https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I) | 2:43 |
 | 3 | [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 |
 | 4 | [TE WO II](https://open.spotify.com/track/2FWdDRfkf1lfGxZnShMjpU) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [TE WO II](https://open.spotify.com/album/7rorWGbmVSTdyuZVPFXv93) | 2:21 |
-| 5 | [Track 2](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 0:00 |
+| 5 | [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 |
 | 6 | [KING](https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:06 |
 | 7 | [WEATHER FOR 2](https://open.spotify.com/track/56qLZovBjCLJUBlGv1gER8) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [WEATHER FOR 2](https://open.spotify.com/album/6NxHxVF09p78d9qBXFvJyX) | 2:55 |
 | 8 | [Show Me](https://open.spotify.com/track/4gK4aMkLAoqLsBq1jtrRhp) | [Shaiboy](https://open.spotify.com/artist/6XXxjNL1EhbvGiGTTj7IX9), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Show Me](https://open.spotify.com/album/200r1lFv3jZPypoZK0YEsP) | 2:59 |
 | 9 | [Especially You](https://open.spotify.com/track/3M8g7vcyQ62hqcosQjpVAP) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Especially You](https://open.spotify.com/album/495XGaY3Jw7DdqqeA3L1V0) | 2:24 |
-| 10 | [ITALAWA](https://open.spotify.com/track/0iEBX5KTMJBTTeDo1UfJRQ) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [ITALAWA](https://open.spotify.com/album/35MZvjHcda1RlLX01GijE5) | 2:33 |
+| 10 | [ITALAWA](https://open.spotify.com/track/0iEBX5KTMJBTTeDo1UfJRQ) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [ITALAWA](https://open.spotify.com/album/35MZvjHcda1RlLX01GijE5) | 2:22 |
 | 11 | [Balek](https://open.spotify.com/track/6FyIByL10DzsD0xMKsa4hL) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [404](https://open.spotify.com/album/5lESmBN5EOU20VvvBu6vJD) | 2:57 |
 | 12 | [Konkonsa](https://open.spotify.com/track/0rTqf5iHyoX1mRYPTmeALp) | [ANNY](https://open.spotify.com/artist/4jFYJxnO6fjK8ZGc6JUyUw), [Ghanaian Stallion](https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF) | [Konkonsa](https://open.spotify.com/album/1sMeUS8M66dmnJf7PZ7HnW) | 3:04 |
-| 13 | [Track 5](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 0:00 |
+| 13 | [ALL FALL APART](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 2:51 |
 | 14 | [ar1gato 2 you](https://open.spotify.com/track/0F6r2VkKSiHn9i8p3tZJJS) | [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [2 l1t](https://open.spotify.com/album/4auxhB5qT1Wsp2CqYvV3E4) | 1:57 |
 | 15 | [Set Me Free](https://open.spotify.com/track/44BnVxLWwuuxVylFGb104G) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 3:55 |
 | 16 | [Of Course](https://open.spotify.com/track/07g4rBsJAXS0GXvc0IR6kk) | [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Of Course](https://open.spotify.com/album/4eb1Vf93F0qgJOo8vOBphV) | 3:18 |

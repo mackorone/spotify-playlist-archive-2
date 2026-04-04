@@ -9440,7 +9440,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -14810,10 +14810,28 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 200927,
       "name": "\u05d1\u05d9\u05ea \u05de\u05d6\u05db\u05d5\u05db\u05d9\u05ea",
       "url": "https://open.spotify.com/track/1cAVtw64dnLHV6WYQiRFqg"
+    },
+    {
+      "album": {
+        "name": "30 - \u05d7\u05dc\u05e7 \u05d2'",
+        "url": "https://open.spotify.com/album/609trRWI08zPu1XE8Cz0lL"
+      },
+      "artists": [
+        {
+          "name": "Eyal Golan",
+          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200927,
+      "name": "\u05d1\u05d9\u05ea \u05de\u05d6\u05db\u05d5\u05db\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/6jDEgEonMe0G9ysCeJH5eh"
     },
     {
       "album": {
@@ -16418,7 +16436,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 188591,
       "name": "\u05d4\u05de\u05d1\u05d8 \u05d1\u05e2\u05d9\u05e0\u05d9\u05da",
       "url": "https://open.spotify.com/track/6VYbnnpUYShqFn22MERtmP"
@@ -25196,7 +25214,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 178409,
       "name": "\u05e8\u05d5\u05e7\u05d3 \u05dc\u05d9 \u05e2\u05dc \u05d4\u05e2\u05e6\u05d1",
       "url": "https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe"
@@ -25304,7 +25322,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 203437,
       "name": "\u05e8\u05d9\u05d5 \u05d3\u05d4 \u05d6'\u05e0\u05e8\u05d5",
       "url": "https://open.spotify.com/track/4PQDzCTyZkCW5o4FueSJaa"

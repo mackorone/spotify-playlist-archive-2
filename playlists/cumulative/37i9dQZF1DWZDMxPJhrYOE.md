@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,021 songs - 2 day 5 hr 18 min
+1,022 songs - 2 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -792,7 +792,7 @@
 | [Skabt Til At Være To](https://open.spotify.com/track/2wilyl40E4klJdChkOcMNu) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Skabt Til At Være To](https://open.spotify.com/album/31iCNzDfpH8dlBBLWaDetq) | 3:23 | 2025-11-06 | 2025-11-21 |
 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 | 2025-11-27 | 2026-03-13 |
 | [Skyfall \(feat\. Young Thug\)](https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 5:14 | 2024-08-22 | 2024-11-08 |
-| [Skyggebokser](https://open.spotify.com/track/281VeLp2LfugJG336oFYwC) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Skyggebokser](https://open.spotify.com/album/1JnCki83OeAUhA12R9yuGI) | 2:24 | 2026-02-19 |  |
+| [Skyggebokser](https://open.spotify.com/track/281VeLp2LfugJG336oFYwC) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Skyggebokser](https://open.spotify.com/album/1JnCki83OeAUhA12R9yuGI) | 2:24 | 2026-02-19 | 2026-04-04 |
 | [Slip Slip \(feat\. MAS\)](https://open.spotify.com/track/3zdVETKMMylugccTBGOZ53) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Slip Slip \(feat\. MAS\)](https://open.spotify.com/album/6thF95qMO200DQlzCuHCGw) | 2:33 | 2026-02-19 | 2026-03-14 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-07-01 | 2024-08-01 |
 | [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 | 2024-11-15 | 2025-01-22 |
@@ -848,6 +848,7 @@
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-13 | 2025-05-11 |
 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 | 2025-03-27 | 2025-06-27 |
 | [Superlim](https://open.spotify.com/track/4BwPT0pILUhY4wUdv0NLLT) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Superlim](https://open.spotify.com/album/5KbJT01tNLb2HenQ5Unp6R) | 3:05 | 2026-03-13 | 2026-03-27 |
+| [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 | 2026-03-27 |  |
 | [Superman](https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Superman](https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P) | 3:08 | 2025-05-08 | 2025-08-08 |
 | [Supernova \(feat\. Noah Carter\)](https://open.spotify.com/track/7lVulCaDsVV36C9IsaerEg) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Supernova](https://open.spotify.com/album/5vbJhFQh6zShDRuWIlaFbg) | 2:11 | 2025-02-06 | 2025-03-01 |
 | [superstar](https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [superstar](https://open.spotify.com/album/2r7vK3RnYfofnAkMruYhSI) | 2:49 | 2025-10-09 | 2026-01-15 |

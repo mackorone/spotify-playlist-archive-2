@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Tom & Collins en portada.",
-  "num_followers": 71231,
+  "num_followers": 71257,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -307,26 +307,18 @@
     {
       "added_at": "2026-03-27 06:00:18",
       "album": {
-        "name": "DOMPERI",
-        "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
+        "name": "La Diabla (Electro Remix)",
+        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
       },
       "artists": [
         {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "AXL",
-          "url": "https://open.spotify.com/artist/5F1lZDYOxfcsSMEHF28hdH"
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
         }
       ],
-      "duration_ms": 125747,
-      "name": "DOMPERI",
-      "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
+      "duration_ms": 136477,
+      "name": "La Diabla (Electro Remix)",
+      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
     },
     {
       "added_at": "2026-03-27 06:00:18",
@@ -371,18 +363,26 @@
     {
       "added_at": "2026-03-27 06:00:18",
       "album": {
-        "name": "La Diabla (Electro Remix)",
-        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
+        "name": "DOMPERI",
+        "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
       },
       "artists": [
         {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "AXL",
+          "url": "https://open.spotify.com/artist/5F1lZDYOxfcsSMEHF28hdH"
         }
       ],
-      "duration_ms": 136477,
-      "name": "La Diabla (Electro Remix)",
-      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
+      "duration_ms": 125747,
+      "name": "DOMPERI",
+      "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
     },
     {
       "added_at": "2026-03-27 06:00:18",
@@ -407,22 +407,22 @@
     {
       "added_at": "2026-03-27 06:00:18",
       "album": {
-        "name": "MOPUS",
-        "url": "https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO"
+        "name": "FFM",
+        "url": "https://open.spotify.com/album/5y4XajsaCPAp3EhBMk0CHQ"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Coronel",
-          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
         },
         {
-          "name": "Marcos Villalobos",
-          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
         }
       ],
-      "duration_ms": 133124,
-      "name": "MOPUS",
-      "url": "https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY"
+      "duration_ms": 193770,
+      "name": "FFM",
+      "url": "https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ"
     },
     {
       "added_at": "2026-03-27 06:00:18",
@@ -451,22 +451,22 @@
     {
       "added_at": "2026-03-27 06:00:18",
       "album": {
-        "name": "FFM",
-        "url": "https://open.spotify.com/album/5y4XajsaCPAp3EhBMk0CHQ"
+        "name": "MOPUS",
+        "url": "https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO"
       },
       "artists": [
         {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
         },
         {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
         }
       ],
-      "duration_ms": 193770,
-      "name": "FFM",
-      "url": "https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ"
+      "duration_ms": 133124,
+      "name": "MOPUS",
+      "url": "https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY"
     },
     {
       "added_at": "2026-03-27 06:00:18",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-03-27 06:00:18",
       "album": {
-        "name": "Hell",
-        "url": "https://open.spotify.com/album/1yMvWiFfOAGWAPzE2G6IUu"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "Jordy Medina",
-          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
-        }
-      ],
-      "duration_ms": 232542,
-      "name": "Of The Void",
-      "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
-    },
-    {
-      "added_at": "2026-03-27 06:00:18",
-      "album": {
         "name": "B\u00e1ilalo",
         "url": "https://open.spotify.com/album/36w0XaGcOAAh6FbO4ekujM"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 137903,
       "name": "B\u00e1ilalo",
       "url": "https://open.spotify.com/track/03nYOCm9SqBZhXO5EMtl95"
+    },
+    {
+      "added_at": "2026-03-27 06:00:18",
+      "album": {
+        "name": "Hell",
+        "url": "https://open.spotify.com/album/1yMvWiFfOAGWAPzE2G6IUu"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Jordy Medina",
+          "url": "https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX"
+        }
+      ],
+      "duration_ms": 232542,
+      "name": "Of The Void",
+      "url": "https://open.spotify.com/track/1FAj2NPpH9xyKGEqmH3xtQ"
     },
     {
       "added_at": "2026-03-27 06:00:18",
@@ -1019,42 +1019,6 @@
     {
       "added_at": "2026-03-27 06:00:18",
       "album": {
-        "name": "Prende y Pasa",
-        "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Prende y Pasa",
-      "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
-    },
-    {
-      "added_at": "2026-03-27 06:00:18",
-      "album": {
-        "name": "Alucina2",
-        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
-      },
-      "artists": [
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 133793,
-      "name": "Alucina2",
-      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
-    },
-    {
-      "added_at": "2026-03-27 06:00:18",
-      "album": {
         "name": "Derecha la Flecha",
         "url": "https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp"
       },
@@ -1075,6 +1039,42 @@
       "duration_ms": 200454,
       "name": "Derecha la Flecha",
       "url": "https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz"
+    },
+    {
+      "added_at": "2026-03-27 06:00:18",
+      "album": {
+        "name": "Alucina2",
+        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
+      },
+      "artists": [
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 133793,
+      "name": "Alucina2",
+      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+    },
+    {
+      "added_at": "2026-03-27 06:00:18",
+      "album": {
+        "name": "Prende y Pasa",
+        "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Prende y Pasa",
+      "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
     },
     {
       "added_at": "2026-03-27 06:00:18",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2026-03-27 06:00:18",
       "album": {
-        "name": "LXBVBV",
-        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "LXBVBV",
-      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
-    },
-    {
-      "added_at": "2026-03-27 06:00:18",
-      "album": {
         "name": "NOCHE FRIA",
         "url": "https://open.spotify.com/album/5pSLDdzSk6qgadsklb8VIN"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 176000,
       "name": "NOCHE FRIA",
       "url": "https://open.spotify.com/track/5hXBT9Mfo3SqlevuDRpmjG"
+    },
+    {
+      "added_at": "2026-03-27 06:00:18",
+      "album": {
+        "name": "LXBVBV",
+        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "LXBVBV",
+      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
     },
     {
       "added_at": "2026-03-27 06:00:18",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-03-27 06:00:18",
       "album": {
-        "name": "TUCU",
-        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "TUCU",
-      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
-    },
-    {
-      "added_at": "2026-03-27 06:00:18",
-      "album": {
         "name": "Tomala (Se Mueve Se Siente)",
         "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 160600,
       "name": "Tomala (Se Mueve Se Siente)",
       "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
+    },
+    {
+      "added_at": "2026-03-27 06:00:18",
+      "album": {
+        "name": "TUCU",
+        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "TUCU",
+      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
     },
     {
       "added_at": "2026-03-27 06:00:18",

@@ -1,12 +1,12 @@
 {
   "description": "Feeling dramatic? All eyes on you. Cover: Haute & Freddy",
-  "num_followers": 561016,
+  "num_followers": 561086,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALd2IGAt418ZYXQHNSDx8tPalFLB",
+  "snapshot_id": "AAAAAE6wnxSOIU/52Q2+spe1vfQTEm9w",
   "tracks": [
     {
       "added_at": "2026-03-13 00:00:08",
@@ -23,6 +23,22 @@
       "duration_ms": 238664,
       "name": "Symphony For A Queen",
       "url": "https://open.spotify.com/track/3FiyxlxC6t1PX0DE74z5ig"
+    },
+    {
+      "added_at": "2026-04-03 04:01:43",
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 184788,
+      "name": "Night at the Opera",
+      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
     },
     {
       "added_at": "2026-02-27 05:00:49",
@@ -71,6 +87,22 @@
       "duration_ms": 179160,
       "name": "Army Dreamers - 2018 Remaster",
       "url": "https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN"
+    },
+    {
+      "added_at": "2026-04-03 04:01:43",
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/0k8RXtTwCrqs9ofCFAUNQX"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/5OkXA7ru3aZrY92m800aSc"
     },
     {
       "added_at": "2026-03-27 04:00:08",
@@ -147,6 +179,22 @@
       "duration_ms": 104427,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX"
+    },
+    {
+      "added_at": "2026-04-03 04:01:43",
+      "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
     },
     {
       "added_at": "2026-03-20 04:00:49",
@@ -685,22 +733,6 @@
       "url": "https://open.spotify.com/track/1QOjSg4LVUTFtLJba1SWha"
     },
     {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Stormy Weather",
-        "url": "https://open.spotify.com/album/7xMXAX8IEa8HqGu7fWNUNc"
-      },
-      "artists": [
-        {
-          "name": "Nom\u00e9 Naku",
-          "url": "https://open.spotify.com/artist/2Wssey2jP3QMFRsAFnCgXI"
-        }
-      ],
-      "duration_ms": 237473,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/0usnbmsaSfk79DfrRiRnV1"
-    },
-    {
       "added_at": "2025-12-12 05:00:48",
       "album": {
         "name": "12 years",
@@ -835,22 +867,6 @@
       "duration_ms": 187582,
       "name": "Circe",
       "url": "https://open.spotify.com/track/1y0aVfbxp1NAhQ5Z4Jhz0o"
-    },
-    {
-      "added_at": "2025-09-28 03:50:52",
-      "album": {
-        "name": "Fire and Ice",
-        "url": "https://open.spotify.com/album/0KfAqTp8Fljtk4Hqi7NhuB"
-      },
-      "artists": [
-        {
-          "name": "Alexandria",
-          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
-        }
-      ],
-      "duration_ms": 140094,
-      "name": "Fire and Ice",
-      "url": "https://open.spotify.com/track/49oZ3BaOpa7zr3bVVD9Cbf"
     },
     {
       "added_at": "2025-09-22 16:38:25",
@@ -1219,22 +1235,6 @@
       "duration_ms": 223013,
       "name": "ODE TO A BLACK HOLE",
       "url": "https://open.spotify.com/track/7jiKUb6Gras1SjfhB01uzu"
-    },
-    {
-      "added_at": "2025-03-31 17:03:33",
-      "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M"
-      },
-      "artists": [
-        {
-          "name": "Jace June",
-          "url": "https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP"
-        }
-      ],
-      "duration_ms": 168001,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb"
     },
     {
       "added_at": "2025-01-10 05:00:43",

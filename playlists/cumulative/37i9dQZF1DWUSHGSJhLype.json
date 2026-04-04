@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 155852,
       "name": "Boombox",
       "url": "https://open.spotify.com/track/6dj6PBjdQcwSndefuXfenL"
@@ -8226,7 +8226,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 192272,
       "name": "O Ara N\u00e3o Para",
       "url": "https://open.spotify.com/track/3l0zI1XtdiCwQchIYwGlaT"
@@ -10870,6 +10870,24 @@
       "duration_ms": 148548,
       "name": "SOLTEIROU - Ao Vivo",
       "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
+    },
+    {
+      "album": {
+        "name": "CONTE\u00daDO SENS\u00cdVEL",
+        "url": "https://open.spotify.com/album/436SYZgdUkwR3fJoFqp4rt"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122217,
+      "name": "Some",
+      "url": "https://open.spotify.com/track/1V10F8afY9h6VTTOusg7pK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Tayc
 
-675 songs - 1 day 7 hr 53 min
+676 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [Pas Trouvé](https://open.spotify.com/track/6hXM94JroC6WK9Ahcx3Ats) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Pas Trouvé](https://open.spotify.com/album/4BWyIVXIgF3lyj9iZ2bxnK) | 2:40 | 2026-01-22 |  |
 | [Passionné](https://open.spotify.com/track/1rd6wE2cYNkudR3CSXTCpW) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Passionné](https://open.spotify.com/album/5jLAtJNOtIRTOfe0DEPjyX) | 2:33 | 2024-08-29 | 2024-10-04 |
 | [PCC](https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [PCC](https://open.spotify.com/album/55PrfWXIgP0ppjgbMbKFnr) | 2:32 | 2024-05-02 | 2024-10-25 |
+| [peau ébène](https://open.spotify.com/track/3bAgxrPb4XB8gKtto2TNdY) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [peau ébène](https://open.spotify.com/album/1RJaNVtJRJVWKd45EfxVSS) | 1:56 | 2026-04-02 |  |
 | [Perdu dans tes jeux](https://open.spotify.com/track/4g1HfSI1Lb7OfEThLjQrRt) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT), [Terence G](https://open.spotify.com/artist/3QiQ4OVxpefbpoqUSDDrQK) | [Perdu dans tes jeux](https://open.spotify.com/album/7G6465SbMJGkaKe7xYDT3I) | 3:33 | 2025-10-16 | 2025-11-07 |
 | [Pervers narcissique](https://open.spotify.com/track/4lwX9GAOcRsCl3WXyLO5vs) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Pervers narcissique](https://open.spotify.com/album/5WZ0HDVic3khelXu0bQu4B) | 4:17 | 2022-11-24 | 2023-02-10 |
 | [Petit Bateau](https://open.spotify.com/track/04QT11kHiwh9SXVLnnuO8o) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Amaya](https://open.spotify.com/album/3cp9iXga7okjn8jR4U8OIg) | 2:58 | 2025-05-08 | 2025-11-14 |

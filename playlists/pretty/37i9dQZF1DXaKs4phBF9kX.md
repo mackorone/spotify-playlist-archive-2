@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,789 likes - 70 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,825 likes - 70 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 54 | [Shakedown](https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits 2](https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j) | 4:01 |
 | 55 | [Magic](https://open.spotify.com/track/7z8k6KAvjHX3RtkYNhIC9B) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City](https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO) | 3:57 |
 | 56 | [Since You've Been Gone](https://open.spotify.com/track/3BWOEIkW9H7tCr8wwjzOyf) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Bangin'](https://open.spotify.com/album/0WJGoINjEKdeRpN30M5R88) | 4:46 |
-| 57 | [Here I Go Again \- 2018 Remaster](https://open.spotify.com/track/6Nd6ntkzr4t8o1FKPGOSMt) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/70uPhkIhXTXM6MNNsMjAHx) | 4:35 |
-| 58 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Nothing But A Good Time](https://open.spotify.com/album/41zwJpZ2Xw6o5P0OHHGE5t) | 3:43 |
+| 57 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Nothing But A Good Time](https://open.spotify.com/album/41zwJpZ2Xw6o5P0OHHGE5t) | 3:43 |
+| 58 | [Here I Go Again \- 2018 Remaster](https://open.spotify.com/track/6Nd6ntkzr4t8o1FKPGOSMt) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/70uPhkIhXTXM6MNNsMjAHx) | 4:35 |
 | 59 | [Lay Your Hands On Me](https://open.spotify.com/track/7yJYnyb2Hx4G1i12DVpead) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/0VfHA0sk3N4Y1NqmC1iIaZ) | 3:49 |
 | 60 | [Cuddly Toy](https://open.spotify.com/track/5LXdVAUaoRxM9ud6lVk13Z) | [Roachford](https://open.spotify.com/artist/5S3EbUETKlfsBRUiBKnqer) | [Roachford \(Expanded Edition\)](https://open.spotify.com/album/6dF7fcowcdm0UhWUEDMfIH) | 3:48 |
 | 61 | [Suzanne](https://open.spotify.com/track/1ek2BBY1US8xQlNsb8os3P) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Raised On Radio](https://open.spotify.com/album/0o61yZjH9JNYjfQXQkdJFq) | 3:38 |

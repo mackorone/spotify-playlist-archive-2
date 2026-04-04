@@ -1,13 +1,81 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Jungle",
-  "num_followers": 1799950,
+  "description": "Sit back and relax to the chillest pop.  Cover: ZAYN",
+  "num_followers": 1799797,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOJNcXUllvZIerY743IDFB2W2Qes",
+  "snapshot_id": "AAAAAPSKW0/uvc1V88NIrbG/k8qw3BPX",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:01:40",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 192572,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
+    },
+    {
+      "added_at": "2026-03-13 04:00:45",
+      "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
+    },
+    {
+      "added_at": "2026-04-03 04:01:40",
+      "album": {
+        "name": "Reputation (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
+    },
+    {
+      "added_at": "2026-03-27 04:00:28",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 145710,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
+    },
     {
       "added_at": "2026-03-27 04:00:28",
       "album": {
@@ -23,6 +91,22 @@
       "duration_ms": 168767,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
+    },
+    {
+      "added_at": "2026-04-03 04:01:40",
+      "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-03-27 04:00:28",
@@ -41,6 +125,22 @@
       "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
     },
     {
+      "added_at": "2026-03-13 04:00:45",
+      "album": {
+        "name": "Soft 2",
+        "url": "https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 230521,
+      "name": "When Did You Stop Loving Me?",
+      "url": "https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk"
+    },
+    {
       "added_at": "2026-03-20 04:00:39",
       "album": {
         "name": "Don't Say That",
@@ -57,6 +157,86 @@
       "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
     },
     {
+      "added_at": "2026-04-03 04:01:40",
+      "album": {
+        "name": "Daredevil",
+        "url": "https://open.spotify.com/album/1GgeRqhrpX8WUXMOZx16Gr"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Daredevil",
+      "url": "https://open.spotify.com/track/2cvuYoAarEwjOoNcTVOFxJ"
+    },
+    {
+      "added_at": "2026-04-03 04:01:40",
+      "album": {
+        "name": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
+        "url": "https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
+      "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
+    },
+    {
+      "added_at": "2026-04-03 04:01:40",
+      "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/1UA9keCcWY3lEOIKFFqYQg"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 191870,
+      "name": "180",
+      "url": "https://open.spotify.com/track/2f7zdx2sNebdcSyuR55LnD"
+    },
+    {
+      "added_at": "2026-03-13 04:00:45",
+      "album": {
+        "name": "The Fix",
+        "url": "https://open.spotify.com/album/1dKHQpelvSeobwcDxgxdmj"
+      },
+      "artists": [
+        {
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "The Fix",
+      "url": "https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR"
+    },
+    {
+      "added_at": "2026-04-03 04:01:40",
+      "album": {
+        "name": "Stars and Teeth",
+        "url": "https://open.spotify.com/album/5kcHMWjStxSfaii3tLcc8V"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 191454,
+      "name": "My Kind of Freak",
+      "url": "https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0"
+    },
+    {
       "added_at": "2026-03-27 04:00:28",
       "album": {
         "name": "Waiting For The Dawn",
@@ -71,22 +251,6 @@
       "duration_ms": 235555,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/7ICTrKc2uZHhppHRygXf0b"
-    },
-    {
-      "added_at": "2026-03-27 04:00:28",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 145710,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
     },
     {
       "added_at": "2026-03-20 04:00:39",
@@ -125,6 +289,22 @@
       "url": "https://open.spotify.com/track/3cq2IfK8NOuXDlc0cogY2K"
     },
     {
+      "added_at": "2026-04-03 04:01:40",
+      "album": {
+        "name": "I Don't Wanna Be",
+        "url": "https://open.spotify.com/album/5ClhMHsRNjJ81rlCFZwmos"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 196133,
+      "name": "I Don't Wanna Be",
+      "url": "https://open.spotify.com/track/2Nv65jwceq5LhmapNS2RXK"
+    },
+    {
       "added_at": "2026-03-27 04:00:28",
       "album": {
         "name": "Back in Love",
@@ -157,20 +337,20 @@
       "url": "https://open.spotify.com/track/5SnAkhrhPXKRSCuvGjCM1s"
     },
     {
-      "added_at": "2026-03-13 04:00:45",
+      "added_at": "2026-04-03 04:01:40",
       "album": {
-        "name": "The Visitor",
-        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+        "name": "juniper ring",
+        "url": "https://open.spotify.com/album/37SvCCNjOG3zMe2OH6xPVw"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
         }
       ],
-      "duration_ms": 228908,
-      "name": "The Visitor",
-      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
+      "duration_ms": 208997,
+      "name": "collagen",
+      "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
       "added_at": "2026-03-20 04:00:39",
@@ -205,22 +385,6 @@
       "url": "https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz"
     },
     {
-      "added_at": "2026-03-13 04:00:45",
-      "album": {
-        "name": "The Fix",
-        "url": "https://open.spotify.com/album/1dKHQpelvSeobwcDxgxdmj"
-      },
-      "artists": [
-        {
-          "name": "Baby J",
-          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "The Fix",
-      "url": "https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR"
-    },
-    {
       "added_at": "2026-03-27 04:00:28",
       "album": {
         "name": "down the line",
@@ -251,22 +415,6 @@
       "duration_ms": 173988,
       "name": "picky choosy",
       "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
-    },
-    {
-      "added_at": "2026-03-13 04:00:45",
-      "album": {
-        "name": "Soft 2",
-        "url": "https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 230521,
-      "name": "When Did You Stop Loving Me?",
-      "url": "https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk"
     },
     {
       "added_at": "2026-03-27 04:00:28",
@@ -337,6 +485,22 @@
       "url": "https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r"
     },
     {
+      "added_at": "2025-11-14 21:24:15",
+      "album": {
+        "name": "Big city life",
+        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 271583,
+      "name": "You got time and I got money",
+      "url": "https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S"
+    },
+    {
       "added_at": "2026-02-27 18:35:08",
       "album": {
         "name": "Flowers - Spotify Singles",
@@ -399,6 +563,30 @@
       "duration_ms": 242287,
       "name": "LOVE, LOVE, LOVE",
       "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
+    },
+    {
+      "added_at": "2025-11-08 16:45:50",
+      "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Ojos Tristes (with The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0"
     },
     {
       "added_at": "2026-02-27 18:35:08",
@@ -465,6 +653,22 @@
       "url": "https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5"
     },
     {
+      "added_at": "2025-11-08 16:45:50",
+      "album": {
+        "name": "Olivia Dean - Spotify Live Room",
+        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
+    },
+    {
       "added_at": "2026-01-09 05:00:49",
       "album": {
         "name": "Choosin' Texas",
@@ -527,6 +731,22 @@
       "duration_ms": 219866,
       "name": "How I Get",
       "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
+    },
+    {
+      "added_at": "2025-11-08 16:45:50",
+      "album": {
+        "name": "Something In The Heavens",
+        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 198028,
+      "name": "Something In The Heavens",
+      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     },
     {
       "added_at": "2026-03-09 17:05:34",
@@ -595,6 +815,22 @@
       "duration_ms": 257733,
       "name": "Sweet To Me",
       "url": "https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y"
+    },
+    {
+      "added_at": "2025-11-08 16:45:50",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 187130,
+      "name": "Picture You",
+      "url": "https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T"
     },
     {
       "added_at": "2026-01-30 00:00:09",
@@ -675,22 +911,6 @@
       "duration_ms": 211669,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
-    },
-    {
-      "added_at": "2026-02-13 05:00:47",
-      "album": {
-        "name": "Try Again",
-        "url": "https://open.spotify.com/album/4vacitZKKjz1PBOtTwWkp2"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 175285,
-      "name": "Try Again",
-      "url": "https://open.spotify.com/track/2deosh9uwwwECK6Z20YOCK"
     },
     {
       "added_at": "2026-02-13 05:00:47",
@@ -1221,22 +1441,6 @@
       "url": "https://open.spotify.com/track/32X0giiWhSwrgJdyiFOqr1"
     },
     {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "IS THERE A WORLD?",
-        "url": "https://open.spotify.com/album/5SCes4ZPjdPch5Dge1nChl"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "IS THERE A WORLD?",
-      "url": "https://open.spotify.com/track/0RX7ZR2qX13rNJkFyI1THV"
-    },
-    {
       "added_at": "2025-12-05 05:05:38",
       "album": {
         "name": "Death Wish",
@@ -1301,54 +1505,6 @@
       "url": "https://open.spotify.com/track/58RHoDGCpfke4frcBzdGIN"
     },
     {
-      "added_at": "2026-01-09 05:00:49",
-      "album": {
-        "name": "Emilia",
-        "url": "https://open.spotify.com/album/4nN2PaGJN9ehOtJ3ZMQyhy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        }
-      ],
-      "duration_ms": 185117,
-      "name": "Emilia",
-      "url": "https://open.spotify.com/track/6vh92OvP2gcsUM0p9V6wf1"
-    },
-    {
-      "added_at": "2025-11-21 05:00:24",
-      "album": {
-        "name": "Say My Name In Your Sleep",
-        "url": "https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "Say My Name In Your Sleep",
-      "url": "https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7"
-    },
-    {
-      "added_at": "2026-01-09 18:49:15",
-      "album": {
-        "name": "At The Beach, In Every Life",
-        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 303698,
-      "name": "Sugar Water",
-      "url": "https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7"
-    },
-    {
       "added_at": "2025-11-14 05:00:32",
       "album": {
         "name": "WHEN A GIRL CRIES",
@@ -1363,22 +1519,6 @@
       "duration_ms": 124590,
       "name": "use me!!!!!!!",
       "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
-    },
-    {
-      "added_at": "2025-12-05 05:05:38",
-      "album": {
-        "name": "Girl In A Bottle",
-        "url": "https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176383,
-      "name": "Sunday My Heart Hurts",
-      "url": "https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda"
     },
     {
       "added_at": "2025-11-08 16:45:50",
@@ -1465,22 +1605,6 @@
       "url": "https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70"
     },
     {
-      "added_at": "2025-11-14 21:24:15",
-      "album": {
-        "name": "Big city life",
-        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 271583,
-      "name": "You got time and I got money",
-      "url": "https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S"
-    },
-    {
       "added_at": "2025-11-08 16:45:50",
       "album": {
         "name": "WANTCHU",
@@ -1511,22 +1635,6 @@
       "duration_ms": 232771,
       "name": "If The World Burns Down",
       "url": "https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Witching Hour",
-        "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Underworld",
-      "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
     },
     {
       "added_at": "2025-11-08 16:45:50",
@@ -1563,94 +1671,6 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 187130,
-      "name": "Picture You",
-      "url": "https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Something In The Heavens",
-        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 198028,
-      "name": "Something In The Heavens",
-      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "coming around",
-        "url": "https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq"
-      },
-      "artists": [
-        {
-          "name": "fliss",
-          "url": "https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "coming around",
-      "url": "https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Olivia Dean - Spotify Live Room",
-        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
-      "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "I Said I Love You First",
-        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Ojos Tristes (with The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0"
     }
   ],
   "unique_name": "Chill Pop",

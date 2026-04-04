@@ -1,6 +1,6 @@
 {
   "description": "deep dark ambient and half-remembered hypnagogic soundscapes. ",
-  "num_followers": 194062,
+  "num_followers": 194119,
   "original_name": "hauntology",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Gate of Grief",
-        "url": "https://open.spotify.com/album/2laic9BwkaHT1kXWrIt28p"
-      },
-      "artists": [
-        {
-          "name": "White Ring",
-          "url": "https://open.spotify.com/artist/64AV09dDdCGBGv11QlGOJN"
-        }
-      ],
-      "duration_ms": 158813,
-      "name": "Leprosy",
-      "url": "https://open.spotify.com/track/6Fdhk6Xp0ER0mvftQPNBzU"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Filosofem",
         "url": "https://open.spotify.com/album/2XQwZUu0MM9ECgwHbcc8qR"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 472866,
       "name": "Gebrechlichkeit II",
       "url": "https://open.spotify.com/track/1eFBN4P6hzn4bjfbHHQXzw"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Gate of Grief",
+        "url": "https://open.spotify.com/album/2laic9BwkaHT1kXWrIt28p"
+      },
+      "artists": [
+        {
+          "name": "White Ring",
+          "url": "https://open.spotify.com/artist/64AV09dDdCGBGv11QlGOJN"
+        }
+      ],
+      "duration_ms": 158813,
+      "name": "Leprosy",
+      "url": "https://open.spotify.com/track/6Fdhk6Xp0ER0mvftQPNBzU"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Under the Skin",
-        "url": "https://open.spotify.com/album/1AwRkRCdw9qAKRtzwKUYcC"
-      },
-      "artists": [
-        {
-          "name": "Mica Levi",
-          "url": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Creation",
-      "url": "https://open.spotify.com/track/4CKpAiTlrc5S7hDEQ2LXeg"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Other Channels",
         "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 207866,
       "name": "Sundial",
       "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Under the Skin",
+        "url": "https://open.spotify.com/album/1AwRkRCdw9qAKRtzwKUYcC"
+      },
+      "artists": [
+        {
+          "name": "Mica Levi",
+          "url": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Creation",
+      "url": "https://open.spotify.com/track/4CKpAiTlrc5S7hDEQ2LXeg"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1255,30 +1255,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Heat Ray: The Archimedes Project",
-        "url": "https://open.spotify.com/album/26jUvZEETVKfAZQe7XwygQ"
-      },
-      "artists": [
-        {
-          "name": "Will Gregory Moog Ensemble",
-          "url": "https://open.spotify.com/artist/6DTcZj1lWLJB690Y65Aa9l"
-        },
-        {
-          "name": "Will Gregory",
-          "url": "https://open.spotify.com/artist/32KmawYmxJ5tcL7Qkbegff"
-        },
-        {
-          "name": "BBC National Orchestra Of Wales",
-          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
-        }
-      ],
-      "duration_ms": 219427,
-      "name": "Young Archimedes (feat. BBC National Orchestra Of Wales)",
-      "url": "https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Across The Meridian",
         "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
       },
@@ -1311,18 +1287,26 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Endless Echo",
-        "url": "https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18"
+        "name": "Heat Ray: The Archimedes Project",
+        "url": "https://open.spotify.com/album/26jUvZEETVKfAZQe7XwygQ"
       },
       "artists": [
         {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+          "name": "Will Gregory Moog Ensemble",
+          "url": "https://open.spotify.com/artist/6DTcZj1lWLJB690Y65Aa9l"
+        },
+        {
+          "name": "Will Gregory",
+          "url": "https://open.spotify.com/artist/32KmawYmxJ5tcL7Qkbegff"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
         }
       ],
-      "duration_ms": 272173,
-      "name": "Decision Point",
-      "url": "https://open.spotify.com/track/1WnTdKCaXBWVGppcN8xttt"
+      "duration_ms": 219427,
+      "name": "Young Archimedes (feat. BBC National Orchestra Of Wales)",
+      "url": "https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1339,6 +1323,22 @@
       "duration_ms": 283786,
       "name": "The Willows",
       "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Endless Echo",
+        "url": "https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 272173,
+      "name": "Decision Point",
+      "url": "https://open.spotify.com/track/1WnTdKCaXBWVGppcN8xttt"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Sky Hooks",
-        "url": "https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 363483,
-      "name": "Sky Hooks",
-      "url": "https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Gone Away",
         "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 176973,
       "name": "Mogadon Coffee Morning",
       "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Sky Hooks",
+        "url": "https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 363483,
+      "name": "Sky Hooks",
+      "url": "https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Director",
-        "url": "https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL"
-      },
-      "artists": [
-        {
-          "name": "Chrome Canyon",
-          "url": "https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T"
-        }
-      ],
-      "duration_ms": 129953,
-      "name": "Broken Theme",
-      "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Elektrik Karousel",
         "url": "https://open.spotify.com/album/4JvqNOHhRlmmRedc3NK7v8"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 144543,
       "name": "Kinky Korner Klub",
       "url": "https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Director",
+        "url": "https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL"
+      },
+      "artists": [
+        {
+          "name": "Chrome Canyon",
+          "url": "https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T"
+        }
+      ],
+      "duration_ms": 129953,
+      "name": "Broken Theme",
+      "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
     },
     {
       "added_at": "2025-11-14 17:00:34",

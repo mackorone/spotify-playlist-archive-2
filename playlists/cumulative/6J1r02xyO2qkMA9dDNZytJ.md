@@ -4,7 +4,7 @@
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-231 songs - 11 hr 45 min
+232 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Gotta Have Your Love](https://open.spotify.com/track/5Ly0zRp3UFDKsULP6Vkbas) | [Ethan James](https://open.spotify.com/artist/5qkqZBIInFV7BJoZFlMNMW) | [Gotta Have Your Love](https://open.spotify.com/album/4R5RYusMmJDk99DSkkKXeW) | 2:12 | 2025-10-24 | 2026-03-21 |
 | [Gypsy Woman](https://open.spotify.com/track/2nto3uwHdsC2XQIBePrpDT) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [Holly Jaz](https://open.spotify.com/artist/7ARY5Ps825SlBAjXJKHp0J) | [Gypsy Woman](https://open.spotify.com/album/7fQL0HY8oDcUQJU1O1TRnL) | 2:58 | 2025-12-01 |  |
 | [H2DAIZZO](https://open.spotify.com/track/4Z4FundUbHXd31UDSZ0G4c) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [H2DAIZZO](https://open.spotify.com/album/3lAzVR1ZomRbfuXwsxHlWg) | 6:34 | 2025-05-30 | 2025-08-23 |
+| [Heat](https://open.spotify.com/track/3jh6cmf9fEdPafOPQvNACj) | [Siege](https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd), [Dario Nunez](https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh), [I Jah](https://open.spotify.com/artist/2zoDXV6Ko316CBoCnGLDoS) | [Heat](https://open.spotify.com/album/6vSWseGGfTHt2dhzmEBIVY) | 3:19 | 2026-04-03 |  |
 | [High \(Pasilda\)](https://open.spotify.com/track/6kUcrshUDUKXkcFLydyBiA) | [Tyler West](https://open.spotify.com/artist/165bIKzQkxaVQfgrDFsncH) | [High \(Pasilda\)](https://open.spotify.com/album/17GnRWpr6B8NxKI2IgrpwO) | 3:36 | 2025-06-27 | 2025-08-23 |
 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-06-20 | 2025-11-08 |
 | [Hoeish](https://open.spotify.com/track/7tSCarWiqwqurm1qRbYrCG) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB), [Adrian Hour](https://open.spotify.com/artist/6eBe6zD6bYfdYUjwB1YStj) | [Hoeish](https://open.spotify.com/album/0YFlDQFEnomXChxub4eeT1) | 3:03 | 2025-12-12 |  |

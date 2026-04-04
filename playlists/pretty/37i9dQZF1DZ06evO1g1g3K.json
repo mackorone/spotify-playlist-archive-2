@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 6952,
+  "num_followers": 6953,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAFltjagNB3L7GUPVjob3aP",
+  "snapshot_id": "ac2xgAAAAAA5odWUOzqpGiCIKxO91+Ef",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 173605,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Fail Are We Still Cool?",
         "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 173605,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 243930,
       "name": "Vacancy (feat. Just Liv)",
       "url": "https://open.spotify.com/track/0CS4UnPB1EoMWGB0DFjUy4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raw In Amsterdam (Live)",
-        "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
-      },
-      "artists": [
-        {
-          "name": "Philip Lassiter",
-          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 291053,
-      "name": "Bump The Man - Live",
-      "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
     },
     {
       "added_at": null,
@@ -875,22 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "speedrun",
-        "url": "https://open.spotify.com/album/29ZCjRcwhInToOIopeI2Bk"
+        "name": "Raw In Amsterdam (Live)",
+        "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
       },
       "artists": [
         {
-          "name": "Solomon Fox",
-          "url": "https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj"
+          "name": "Philip Lassiter",
+          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
         },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 78778,
-      "name": "on the way",
-      "url": "https://open.spotify.com/track/3JDNeF55NncbrcyUpD1VNk"
+      "duration_ms": 291053,
+      "name": "Bump The Man - Live",
+      "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
     },
     {
       "added_at": null,
@@ -919,6 +899,26 @@
       "duration_ms": 224915,
       "name": "Brick by Brick - Durand Bernarr Version",
       "url": "https://open.spotify.com/track/7p9tm4Z4JZm7FsvoyyR9sT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "speedrun",
+        "url": "https://open.spotify.com/album/29ZCjRcwhInToOIopeI2Bk"
+      },
+      "artists": [
+        {
+          "name": "Solomon Fox",
+          "url": "https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 78778,
+      "name": "on the way",
+      "url": "https://open.spotify.com/track/3JDNeF55NncbrcyUpD1VNk"
     }
   ],
   "unique_name": "This Is Durand Bernarr",

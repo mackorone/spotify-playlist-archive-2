@@ -872,7 +872,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 171035,
       "name": "Believe It",
       "url": "https://open.spotify.com/track/0a3lhwW1nJ3Ud9Un2kFunh"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 134808,
       "name": "Bite The Bullet",
       "url": "https://open.spotify.com/track/0XHHQWWgSWNCyE3Hfbfy8a"
@@ -3887,6 +3887,24 @@
     },
     {
       "album": {
+        "name": "Good Girls Go To Heaven",
+        "url": "https://open.spotify.com/album/7MI1Ua9xTPZk3uIzoW3yJP"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155957,
+      "name": "Good Girls Go To Heaven",
+      "url": "https://open.spotify.com/track/3oQgpTQNgoz4PbdEfiPIZA"
+    },
+    {
+      "album": {
         "name": "Good Torture (with Elyanna)",
         "url": "https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr"
       },
@@ -4596,6 +4614,24 @@
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "album": {
+        "name": "I Want You Back",
+        "url": "https://open.spotify.com/album/0RduEW1uFQjiR2J25MmG3H"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/2uT340YoNU82MQmG7fgKk0"
     },
     {
       "album": {
@@ -8202,7 +8238,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 165479,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0"
@@ -8380,6 +8416,24 @@
       "duration_ms": 164571,
       "name": "Shut up My Moms Calling",
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
+    },
+    {
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192572,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
     },
     {
       "album": {

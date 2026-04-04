@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Shuta Hasunuma
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,232 likes - 152 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,306 likes - 152 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 151 | [part i \- altar](https://open.spotify.com/track/7GnKvXEuN9XSdRhZR3MAI8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F) | [RITUAL](https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7) | 4:43 |
 | 152 | [Pray Play](https://open.spotify.com/track/0g31cCYqMBC6tBudGdPlZx) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Fantastic](https://open.spotify.com/album/3USJbLcVYAPEbcRkXz7fYX) | 3:03 |
 
-Snapshot ID: `AAAAAP1Os0tidbgbZ+TJoO5E9yMIL+Dq`
+Snapshot ID: `AAAAAHVyuaUNoUwQirH3jKcUYfRngYkx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: Sleeping With Sirens",
+  "description": "For full-volume lovers. Cover:",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 200558,
       "name": "Anywhere But Here",
       "url": "https://open.spotify.com/track/59zuxuMunHtFDKYPq1EtR0"
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 218002,
       "name": "Awaken",
       "url": "https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 171758,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/0OyQeWMNYlKh4wDZawQJvq"
@@ -5844,7 +5844,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 238813,
       "name": "Demonic Depression",
       "url": "https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V"
@@ -7368,6 +7368,28 @@
       "duration_ms": 144857,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/6uw93PQ8gHcceraxPfCFUp"
+    },
+    {
+      "album": {
+        "name": "ENEMY",
+        "url": "https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189390,
+      "name": "ENEMY",
+      "url": "https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW"
     },
     {
       "album": {
@@ -9478,7 +9500,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 190230,
       "name": "Gladrags",
       "url": "https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG"
@@ -18977,6 +18999,24 @@
     },
     {
       "album": {
+        "name": "Playing God",
+        "url": "https://open.spotify.com/album/6dfOj4hxw8X5HOhUUxjJx1"
+      },
+      "artists": [
+        {
+          "name": "Arankai",
+          "url": "https://open.spotify.com/artist/1KVSyARbnZN9IGoISqxSDX"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177818,
+      "name": "Playing God",
+      "url": "https://open.spotify.com/track/4phe0AvLkThMWdjXi2W3GP"
+    },
+    {
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr"
       },
@@ -20966,7 +21006,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186453,
       "name": "SAVIOR",
       "url": "https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7"
@@ -24766,7 +24806,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 241480,
       "name": "The Real You",
       "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
@@ -28302,7 +28342,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 174428,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"

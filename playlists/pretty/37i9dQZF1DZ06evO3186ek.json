@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 165017,
+  "num_followers": 165034,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAACSzMPDpuotnERy3Hcrqw5q",
+  "snapshot_id": "ac2xgAAAAAClYRE7Apx1Yhmzj+at+UuK",
   "tracks": [
     {
       "added_at": null,
@@ -1035,6 +1035,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Instrumental Worship Collection",
+        "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "The Prayer Project",
+          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
+        },
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        },
+        {
+          "name": "Calm Worship Collective",
+          "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
+        }
+      ],
+      "duration_ms": 191236,
+      "name": "How Great Is Our God - Instrumental Worship",
+      "url": "https://open.spotify.com/track/266Q3N5AMAWAqNg0ABxRMy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAVHOUSE",
         "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
@@ -1115,34 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instrumental Worship Collection",
-        "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "The Prayer Project",
-          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
-        },
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        },
-        {
-          "name": "Calm Worship Collective",
-          "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
-        }
-      ],
-      "duration_ms": 301760,
-      "name": "Trust In God - Instrumental Worship",
-      "url": "https://open.spotify.com/track/0MsduWkDk18iIFAIV6v10C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breathe - EP",
         "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
       },
@@ -1175,6 +1175,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Instrumental Worship Collection",
+        "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "The Prayer Project",
+          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
+        },
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        },
+        {
+          "name": "Calm Worship Collective",
+          "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
+        }
+      ],
+      "duration_ms": 301760,
+      "name": "Trust In God - Instrumental Worship",
+      "url": "https://open.spotify.com/track/0MsduWkDk18iIFAIV6v10C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simple Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
       },
@@ -1195,26 +1223,6 @@
       "duration_ms": 515963,
       "name": "Mi Oraci\u00f3n (La Ni\u00f1a de Tus Ojos) [feat. Melody Adorno]",
       "url": "https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Majesty Rose",
-          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
-        }
-      ],
-      "duration_ms": 629316,
-      "name": "You Keep on Getting Better (feat. Majesty Rose)",
-      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
     }
   ],
   "unique_name": "This Is Maverick City Music",

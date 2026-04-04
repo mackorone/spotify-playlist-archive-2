@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 134206,
+  "num_followers": 134227,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Guitarra y Canto del Ande",
-        "url": "https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1"
-      },
-      "artists": [
-        {
-          "name": "Manuelcha Prado",
-          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
-        }
-      ],
-      "duration_ms": 341210,
-      "name": "Panorama ayacuchano",
-      "url": "https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Alpamayo: Music From Peru and Ecuador",
         "url": "https://open.spotify.com/album/1dxPMheXy9f4e4qdanfuVK"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 244000,
       "name": "La lluvia (The Rain)",
       "url": "https://open.spotify.com/track/5AzMb8M8OP7gzY4eoofKsX"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Guitarra y Canto del Ande",
+        "url": "https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1"
+      },
+      "artists": [
+        {
+          "name": "Manuelcha Prado",
+          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+        }
+      ],
+      "duration_ms": 341210,
+      "name": "Panorama ayacuchano",
+      "url": "https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -739,18 +739,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Ceguera",
-        "url": "https://open.spotify.com/album/37VzZiemzFQd77eZo9kOfv"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx"
       },
       "artists": [
         {
-          "name": "Lucas Hill",
-          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 259306,
-      "name": "Ceguera",
-      "url": "https://open.spotify.com/track/2mlqxHbOJ0hzBZjNfRj0ZN"
+      "duration_ms": 254815,
+      "name": "Corazon de Rubi",
+      "url": "https://open.spotify.com/track/4ZNIMDo5YS5blN6MsN0tL9"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -767,6 +771,22 @@
       "duration_ms": 212172,
       "name": "Hasta Donde Mande el Cuerpo",
       "url": "https://open.spotify.com/track/6ma9Cak9JkUiA4uSHnfEm7"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Ceguera",
+        "url": "https://open.spotify.com/album/37VzZiemzFQd77eZo9kOfv"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "Ceguera",
+      "url": "https://open.spotify.com/track/2mlqxHbOJ0hzBZjNfRj0ZN"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -835,22 +855,6 @@
       "duration_ms": 242493,
       "name": "Pajarillo Negro",
       "url": "https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Caminar en Belleza",
-        "url": "https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu"
-      },
-      "artists": [
-        {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
-        }
-      ],
-      "duration_ms": 219297,
-      "name": "Caminar en Belleza",
-      "url": "https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ"
     }
   ],
   "unique_name": "Entre los Andes",

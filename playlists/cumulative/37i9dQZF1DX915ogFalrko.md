@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-207 songs - 12 hr 11 min
+208 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [JET LAGGED](https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [JET LAGGED](https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV) | 3:15 | 2025-11-14 | 2026-02-22 |
 | [Jupiter and Mars](https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Jupiter and Mars](https://open.spotify.com/album/3tjShrUyBljsaAdh7Wfhtz) | 3:13 | 2026-01-22 |  |
 | [Just Around the Corner](https://open.spotify.com/track/5Mxmje3T8MAEGBnIEl0k1b) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN) | 3:13 | 2025-07-18 | 2025-08-22 |
-| [Keyring](https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [Keyring](https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl) | 3:18 | 2025-11-28 |  |
+| [Keyring](https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD) | [Keyring](https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl) | 3:18 | 2025-11-28 | 2026-04-04 |
 | [l'aéroport](https://open.spotify.com/track/4EFbN1gvoa0GDVBKmnzr1c) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [l'aéroport](https://open.spotify.com/album/5yjNvkDFAQcFRTwVrHDilF) | 2:24 | 2026-01-30 | 2026-02-14 |
 | [l.o.v.e](https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [l.o.v.e](https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL) | 2:59 | 2025-10-02 | 2025-12-22 |
 | [La Californie](https://open.spotify.com/track/1g7tqO5lzjQIQxdVZapBwf) | [Souleance](https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD) | [La Beat Tape](https://open.spotify.com/album/78QxpVLxXgG7rvYQUXDOfe) | 2:56 | 2025-07-18 | 2025-09-13 |
@@ -188,6 +188,7 @@
 | [The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:37 | 2025-07-18 |  |
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2025-07-18 |  |
 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-04 |  |
+| [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 | 2026-04-02 |  |
 | [There's Just Something About Her](https://open.spotify.com/track/6XzSqyhtKa4uJT6O1ZjMe8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [There's Just Something About Her](https://open.spotify.com/album/7qfhRZlEHzCmdgoHnEJuar) | 3:12 | 2025-09-25 | 2025-12-05 |
 | [These Nights](https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [These Nights](https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7) | 4:39 | 2026-02-19 |  |
 | [This Is The World \(I Made It For You\)](https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [This Is The World \(I Made It For You\) / Nice Day](https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf) | 4:41 | 2025-11-14 |  |

@@ -1,13 +1,109 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9087,
+  "num_followers": 9089,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAPzJKktOlPvhBZqpUFtketzK1SgNPo",
+  "snapshot_id": "AAAP2QTC2to4CUFDyVxF/u6PxCNffMDf",
   "tracks": [
+    {
+      "added_at": "2026-04-03 17:49:07",
+      "album": {
+        "name": "Gigantic Parasite Tongue",
+        "url": "https://open.spotify.com/album/3Hq9OZHYIsZYrpitjtO9EH"
+      },
+      "artists": [
+        {
+          "name": "The Callous Daoboys",
+          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
+        }
+      ],
+      "duration_ms": 257246,
+      "name": "Gigantic Parasite Tongue",
+      "url": "https://open.spotify.com/track/4Bv4jUCR08CSoDQRqhIPdT"
+    },
+    {
+      "added_at": "2026-04-03 17:49:18",
+      "album": {
+        "name": "Hum of Hurt",
+        "url": "https://open.spotify.com/album/0JkbUpT8mQlPTz0TVMa5s5"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        }
+      ],
+      "duration_ms": 215277,
+      "name": "Hum of Hurt",
+      "url": "https://open.spotify.com/track/4KtVa02qhJM36lG1sxh9Wi"
+    },
+    {
+      "added_at": "2026-04-03 17:48:58",
+      "album": {
+        "name": "Give Me A Seam & I'll Show You The Meaning",
+        "url": "https://open.spotify.com/album/2FbJproR1e4D2eTu9OYJO9"
+      },
+      "artists": [
+        {
+          "name": "TheBoyShadow",
+          "url": "https://open.spotify.com/artist/5NHMr4vHuykwWbL8sZA6oB"
+        }
+      ],
+      "duration_ms": 130014,
+      "name": "Give Me A Seam & I'll Show You The Meaning",
+      "url": "https://open.spotify.com/track/1dly4ZjIVt6GOwkxXvr1HS"
+    },
+    {
+      "added_at": "2026-04-03 17:49:40",
+      "album": {
+        "name": "Mr. God",
+        "url": "https://open.spotify.com/album/18I6V64mNbcuXVsHjJlezv"
+      },
+      "artists": [
+        {
+          "name": "Periphery",
+          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Mr. God",
+      "url": "https://open.spotify.com/track/6rlhXazIKGZCMnfrbSMr0Y"
+    },
+    {
+      "added_at": "2026-04-03 17:49:55",
+      "album": {
+        "name": "You Get One",
+        "url": "https://open.spotify.com/album/45mqk7FIJfOKGmxIf5DQ1j"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 180403,
+      "name": "You Get One",
+      "url": "https://open.spotify.com/track/27FTxVOBjgkv8Ox47iNftf"
+    },
+    {
+      "added_at": "2026-04-03 17:49:28",
+      "album": {
+        "name": "You Bastard",
+        "url": "https://open.spotify.com/album/3Dr4mWBqu9z9c2gEXjjoze"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 259321,
+      "name": "You Bastard",
+      "url": "https://open.spotify.com/track/4ohvO7swB3BaaCaRFcjTr8"
+    },
     {
       "added_at": "2026-03-27 19:09:38",
       "album": {

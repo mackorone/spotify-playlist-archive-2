@@ -4293,6 +4293,32 @@
     },
     {
       "album": {
+        "name": "Como Yo",
+        "url": "https://open.spotify.com/album/6ubI4MDrTTjEjo0RmIIWfM"
+      },
+      "artists": [
+        {
+          "name": "Gweri B",
+          "url": "https://open.spotify.com/artist/72t5NVrdGIrMDYeQclMveh"
+        },
+        {
+          "name": "Kapostik",
+          "url": "https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3"
+        },
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123877,
+      "name": "Como Yo",
+      "url": "https://open.spotify.com/track/2Mfxxm32s5qwaxkRDNuxtz"
+    },
+    {
+      "album": {
         "name": "Con To",
         "url": "https://open.spotify.com/album/5c4j8MHiR41yrmgLG6Z6Hj"
       },

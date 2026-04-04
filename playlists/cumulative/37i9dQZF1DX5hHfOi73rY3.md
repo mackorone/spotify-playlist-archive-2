@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-282 songs - 19 hr 7 min
+283 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Lost Without You](https://open.spotify.com/track/1vEJxn8P40cRIcQKjDbjLG) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [FLETCH](https://open.spotify.com/artist/5HkPQOedMse24M2meekew4) | [Lost Without You](https://open.spotify.com/album/3V3hTM37yS2cGt7JrQfVBM) | 3:32 | 2025-08-07 | 2025-10-04 |
 | [LOVE DESIRE](https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [LOVE DESIRE](https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3) | 2:51 | 2025-05-16 | 2026-03-23 |
 | [love has come again](https://open.spotify.com/track/3kbZzQlb5eGnbvVGRwEdC6) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [love has come again](https://open.spotify.com/album/5EzYeY5OweurlSgqoYj3QR) | 5:09 | 2025-10-23 | 2025-11-28 |
-| [Love Is The Dance](https://open.spotify.com/track/1T9Ba7q9aC1LjGzvpVURMl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Is The Dance](https://open.spotify.com/album/6eQYhX0jCvUqez4COgvcmv) | 4:12 | 2026-03-13 |  |
+| [Love Is The Dance](https://open.spotify.com/track/1T9Ba7q9aC1LjGzvpVURMl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Is The Dance](https://open.spotify.com/album/6eQYhX0jCvUqez4COgvcmv) | 4:12 | 2026-03-13 | 2026-04-04 |
 | [Low Frequency \- Radio Edit](https://open.spotify.com/track/6BllD3i0p0CuCP0MmkNmv9) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Low Frequency \(Radio Edit\)](https://open.spotify.com/album/4LxCVPvUgub106lO5CKw5J) | 7:15 | 2020-11-06 | 2022-07-10 |
 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-05-16 |  |
 | [Make It Hot](https://open.spotify.com/track/6pdgjp4LLvSPXGPOLRN9oo) | [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [JOSÉPHINE](https://open.spotify.com/artist/12pfYeZ791ghFuc59SZOf7) | [Make It Hot](https://open.spotify.com/album/6jbtfprot9CSfANCq9R0Eq) | 2:57 | 2024-02-02 | 2024-05-17 |
@@ -247,6 +247,7 @@
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2024-01-12 | 2025-05-17 |
 | [Tension](https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Tension](https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC) | 2:28 | 2025-10-03 | 2026-02-06 |
 | [That Sound \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [That Sound \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj) | 2:46 | 2024-03-22 | 2025-02-14 |
+| [That's Right](https://open.spotify.com/track/34bvypiveNLMCrB0iGWviM) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [That's Right](https://open.spotify.com/album/5pkd3bdFVLqSUBGbYda4gU) | 3:39 | 2026-03-27 |  |
 | [The Don](https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z), [Gabi'el](https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN) | [The Don](https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV) | 2:46 | 2024-09-06 | 2025-05-19 |
 | [The Groovy Cat](https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [The Groovy Cat](https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz) | 4:32 | 2020-11-06 | 2025-05-17 |
 | [The Jam](https://open.spotify.com/track/3eEStD7Va1vlaN5NBEbQmf) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [The Jam](https://open.spotify.com/album/6wpCBPI0iVsZFycthRIXSH) | 3:12 | 2020-11-06 | 2023-11-16 |

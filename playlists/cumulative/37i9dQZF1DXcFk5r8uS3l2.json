@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Tedeschi Trucks Band",
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
   "name": "Blues Roots",
   "tracks": [
     {
@@ -5044,7 +5044,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 263277,
       "name": "Monsoon Lightning",
       "url": "https://open.spotify.com/track/2amxmJp83GsKX3tS3GkBFo"
@@ -8830,6 +8830,24 @@
       "duration_ms": 208362,
       "name": "Why Do I Cry Anymore",
       "url": "https://open.spotify.com/track/3gEHy9sxwFdv2dDXc8WB7P"
+    },
+    {
+      "album": {
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/0qgadIcWUzFPNmVUfxyiDR"
+      },
+      "artists": [
+        {
+          "name": "Sons of Legion",
+          "url": "https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168176,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/2tQTI8d2eXxMiXmgHjZWgQ"
     },
     {
       "album": {

@@ -794,7 +794,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 193288,
       "name": "24Hrs",
       "url": "https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av"
@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 148646,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/4baCpqXOivYqROUNMrfUCC"
@@ -7144,7 +7144,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 156149,
       "name": "BOAT REMIX (feat. Pooh Shiesty) SLIMEY EDITION",
       "url": "https://open.spotify.com/track/2H6gkx5JlvwWER9CwELggP"
@@ -10087,6 +10087,28 @@
     },
     {
       "album": {
+        "name": "CHR\u00d6ME (feat. slayr)",
+        "url": "https://open.spotify.com/album/3qJ91i2zamDYcJ91J7PNHs"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222204,
+      "name": "CHR\u00d6ME (feat. slayr)",
+      "url": "https://open.spotify.com/track/13bMRD7SZJCqbx4fSGHK0Y"
+    },
+    {
+      "album": {
         "name": "MEMENTO",
         "url": "https://open.spotify.com/album/5wKEjEjxFRClAAL2j9bWHR"
       },
@@ -12780,7 +12802,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 229000,
       "name": "Die Bout It (feat. Rio Da Yung Og)",
       "url": "https://open.spotify.com/track/5PS8HIkRIdt9hpNWexgdlk"
@@ -14306,6 +14328,28 @@
       "duration_ms": 142680,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3r4myCRyUHfTc8joUS3st5"
+    },
+    {
+      "album": {
+        "name": "Born To Stunt",
+        "url": "https://open.spotify.com/album/6KKau0Ln7rroVVt07O1E76"
+      },
+      "artists": [
+        {
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158100,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1kq6BFrLkZE7FMReMFIpIp"
     },
     {
       "album": {
@@ -16744,7 +16788,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 145026,
       "name": "First Round Pick",
       "url": "https://open.spotify.com/track/6peG4yF5frFHeEhqiaPWIa"
@@ -31376,7 +31420,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 95840,
       "name": "Motion Party",
       "url": "https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9"
@@ -32023,6 +32067,36 @@
     },
     {
       "album": {
+        "name": "AREA 41",
+        "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188652,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/1L7324QK3osE201YXxrrrl"
+    },
+    {
+      "album": {
         "name": "Migo In America",
         "url": "https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw"
       },
@@ -32096,7 +32170,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 101725,
       "name": "MVP",
       "url": "https://open.spotify.com/track/4LilDeaE1G6Y2fGhtzYub2"
@@ -34824,6 +34898,24 @@
       "duration_ms": 118049,
       "name": "Not Your Average",
       "url": "https://open.spotify.com/track/1ND2hKqNoCpzNiGGg0jKzR"
+    },
+    {
+      "album": {
+        "name": "Nothin Like Me",
+        "url": "https://open.spotify.com/album/7HHWvtqaJyUfIcnojnZb8v"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132200,
+      "name": "Nothin Like Me",
+      "url": "https://open.spotify.com/track/0Lztp0wEBoch8sPiZxKUi9"
     },
     {
       "album": {
@@ -41190,7 +41282,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 228676,
       "name": "Ri0T",
       "url": "https://open.spotify.com/track/5Rw4P3f2hGrtlMwd14cQkL"
@@ -41436,6 +41528,24 @@
       "duration_ms": 172500,
       "name": "Rich Talking (feat. BabyTron)",
       "url": "https://open.spotify.com/track/4smtHPDOwSpkqx2BN5QSwr"
+    },
+    {
+      "album": {
+        "name": "Rich Thang",
+        "url": "https://open.spotify.com/album/4RerkY1vycajymaulzsGhA"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137369,
+      "name": "Rich Thang",
+      "url": "https://open.spotify.com/track/6rW8WmRDCFvhuYt9lsaJFz"
     },
     {
       "album": {
@@ -44361,6 +44471,24 @@
     },
     {
       "album": {
+        "name": "Sid Vicious",
+        "url": "https://open.spotify.com/album/7E0AOtyfRT9YjrVDlMai4d"
+      },
+      "artists": [
+        {
+          "name": "Kee Nola",
+          "url": "https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142250,
+      "name": "Sid Vicious",
+      "url": "https://open.spotify.com/track/3jYdlvaxBOHG7Rl4yvJXji"
+    },
+    {
+      "album": {
         "name": "i5u5we5",
         "url": "https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d"
       },
@@ -46754,6 +46882,24 @@
       "duration_ms": 152951,
       "name": "Still Thuggin (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1hwCcLZYjOj8kK21Uefxnl"
+    },
+    {
+      "album": {
+        "name": "Still Virgil",
+        "url": "https://open.spotify.com/album/1j0XqfL2CKaMI073ATSBRw"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147418,
+      "name": "Still Virgil",
+      "url": "https://open.spotify.com/track/4YXtodBrujUCJJlP2rjk3k"
     },
     {
       "album": {
@@ -51990,6 +52136,24 @@
       "duration_ms": 150312,
       "name": "vitamins n minerals",
       "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
+    },
+    {
+      "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/0JOapIHLzCzmqCAZf8OYy1"
+      },
+      "artists": [
+        {
+          "name": "Nine Vicious",
+          "url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244339,
+      "name": "Vivienne Westwood / RIP",
+      "url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
     },
     {
       "album": {

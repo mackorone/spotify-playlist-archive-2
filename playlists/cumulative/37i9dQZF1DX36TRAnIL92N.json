@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 408669,
       "name": "Believe",
       "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 251138,
       "name": "Cathedral",
       "url": "https://open.spotify.com/track/6xqpsapUDne75YlKSfVgPA"
@@ -1286,6 +1286,24 @@
       "duration_ms": 432380,
       "name": "Dirty Dicer - Hk:22 Remix",
       "url": "https://open.spotify.com/track/5iiw4eOqKAhOygedGT2zqr"
+    },
+    {
+      "album": {
+        "name": "44024",
+        "url": "https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf"
+      },
+      "artists": [
+        {
+          "name": "Ueberrest",
+          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230427,
+      "name": "Disturbing Paradise",
+      "url": "https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY"
     },
     {
       "album": {
@@ -3954,6 +3972,24 @@
       "duration_ms": 259023,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
+    },
+    {
+      "album": {
+        "name": "Problema",
+        "url": "https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz"
     },
     {
       "album": {

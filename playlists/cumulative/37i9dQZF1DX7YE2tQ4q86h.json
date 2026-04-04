@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/200LAacp5mXwgFAr490iKq"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 148937,
       "name": "Away With The Fairies",
       "url": "https://open.spotify.com/track/7avTegY5ObMuQM5N32kPxz"
@@ -3196,7 +3214,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 177500,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2"
@@ -5137,6 +5155,24 @@
     },
     {
       "album": {
+        "name": "COMING OF AGE",
+        "url": "https://open.spotify.com/album/44XxuIv80nwbm3TfqBXmek"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248506,
+      "name": "COMING OF AGE",
+      "url": "https://open.spotify.com/track/7nAguwk4MKZQL6dvQOEUdH"
+    },
+    {
+      "album": {
         "name": "Coming Your Way (with Anne-Marie & Becky G)",
         "url": "https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg"
       },
@@ -5538,7 +5574,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 156874,
       "name": "crybby blue",
       "url": "https://open.spotify.com/track/6VvLMqlEMs3BOzBc2YOnXs"
@@ -5962,7 +5998,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 219986,
       "name": "Dance The Pain Away",
       "url": "https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD"
@@ -11177,6 +11213,24 @@
     },
     {
       "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/3kL5C1jmhxaXsveehx1S79"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191408,
+      "name": "Hall of Fame",
+      "url": "https://open.spotify.com/track/0J0s3wgpcUAsrszrr0vfb9"
+    },
+    {
+      "album": {
         "name": "HANDS UP",
         "url": "https://open.spotify.com/album/2owkehm0t0op4QvgMouB9L"
       },
@@ -13725,6 +13779,24 @@
     },
     {
       "album": {
+        "name": "WOR$T GIRL IN AMERICA",
+        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156344,
+      "name": "I'M ACTUALLY KINDA FAMOUS",
+      "url": "https://open.spotify.com/track/0FnvAn6pU9CjIUaBH82tCO"
+    },
+    {
+      "album": {
         "name": "I'm Free (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2"
       },
@@ -14526,6 +14598,24 @@
       "duration_ms": 176410,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/2P24C0BPEvAu4e5CZ86OyS"
+    },
+    {
+      "album": {
+        "name": "Sexistential",
+        "url": "https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218086,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/0rv6JbGN1bJoD2Il4UXZxk"
     },
     {
       "album": {
@@ -19343,6 +19433,24 @@
     },
     {
       "album": {
+        "name": "My Mouth Is Lonely For You (from Mother Mary)",
+        "url": "https://open.spotify.com/album/2RLA4dsSG3M7rIcXWeaTvy"
+      },
+      "artists": [
+        {
+          "name": "Anne Hathaway",
+          "url": "https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244962,
+      "name": "My Mouth Is Lonely For You (from Mother Mary)",
+      "url": "https://open.spotify.com/track/2X5WidXHsjamq3ICtOmW9o"
+    },
+    {
+      "album": {
         "name": "My Oh My",
         "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
       },
@@ -19604,7 +19712,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 217649,
       "name": "Never Be Me (M\u2605therf\u2605cker)",
       "url": "https://open.spotify.com/track/0RCaDuYsW4d5dtsx6G2u1K"
@@ -23654,7 +23762,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 162917,
       "name": "Serious (feat. The Teenagers)",
       "url": "https://open.spotify.com/track/2CcSPtMgQrDK9Hr4Al0wYT"
@@ -24913,6 +25021,24 @@
     },
     {
       "album": {
+        "name": "SPEAKERS",
+        "url": "https://open.spotify.com/album/4C4Ch6Q9D4yaQLKdTzuQxn"
+      },
+      "artists": [
+        {
+          "name": "XKYLAR",
+          "url": "https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128955,
+      "name": "SPEAKERS",
+      "url": "https://open.spotify.com/track/4tx15QkA8AHM8dah902HAm"
+    },
+    {
+      "album": {
         "name": "Speed Drive (From Barbie The Album)",
         "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
       },
@@ -24928,6 +25054,24 @@
       "duration_ms": 117809,
       "name": "Speed Drive (From Barbie The Album)",
       "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "album": {
+        "name": "SpiceKick",
+        "url": "https://open.spotify.com/album/58PCIgUueFleyunThXBdf4"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149174,
+      "name": "SpiceKick",
+      "url": "https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX"
     },
     {
       "album": {
@@ -25966,7 +26110,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186106,
       "name": "SuperDrug",
       "url": "https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO"
@@ -27850,7 +27994,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 168298,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x"

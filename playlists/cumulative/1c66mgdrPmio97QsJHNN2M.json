@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 176814,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA"
@@ -3246,7 +3246,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 252145,
       "name": "Bosun",
       "url": "https://open.spotify.com/track/3KbrMcw3NcxDZ8yRh60wc5"
@@ -3568,7 +3568,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 263702,
       "name": "Brothers and Sisters (Stop the Hate)",
       "url": "https://open.spotify.com/track/4Iyy0mLEmGAYgnHUJ6vdnz"
@@ -4920,10 +4920,28 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 225321,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/1ar3gYsWn4lgL6OLGm37HU"
+    },
+    {
+      "album": {
+        "name": "Confidence (Instrumental Version)",
+        "url": "https://open.spotify.com/album/549gF5UsGYbQw84t52F3sS"
+      },
+      "artists": [
+        {
+          "name": "Anything's Possible",
+          "url": "https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225321,
+      "name": "Confidence (Instrumental Version)",
+      "url": "https://open.spotify.com/track/6NBkVWpvbTXxKBZY33cQib"
     },
     {
       "album": {
@@ -7748,7 +7766,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 186294,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5VroSh6kn4T4jqLb2uW8T8"
@@ -7896,6 +7914,24 @@
       "duration_ms": 199915,
       "name": "Except You",
       "url": "https://open.spotify.com/track/3ZlsmpFpgBZ3ivWLloHErK"
+    },
+    {
+      "album": {
+        "name": "Explore (Me)",
+        "url": "https://open.spotify.com/album/76JOPtgekvZZM2Ym7YPy5A"
+      },
+      "artists": [
+        {
+          "name": "ItsRosieQuartz",
+          "url": "https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202564,
+      "name": "Explore (Me)",
+      "url": "https://open.spotify.com/track/0QlgCZaQDT2St7r0iA21Ks"
     },
     {
       "album": {
@@ -9511,6 +9547,28 @@
     },
     {
       "album": {
+        "name": "Gethsemane",
+        "url": "https://open.spotify.com/album/7DY89utDSJ98TOfcPFiUsC"
+      },
+      "artists": [
+        {
+          "name": "Alex Walker",
+          "url": "https://open.spotify.com/artist/4jWBiHXMRhQ9ymY2QyuozG"
+        },
+        {
+          "name": "Scott and Annie McKinnon",
+          "url": "https://open.spotify.com/artist/4yTARaUWR79Ak1Z5LZPiao"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280746,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/3uhCqQ9jiGNuAkGKv70lUP"
+    },
+    {
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/6t6Nxv3J2rc93ovAUfi1Jv"
       },
@@ -10362,7 +10420,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 286594,
       "name": "Happy Heart",
       "url": "https://open.spotify.com/track/6nFbQuu4DxjT6FjieiboT2"
@@ -11474,7 +11532,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 118536,
       "name": "i chose (you)",
       "url": "https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc"
@@ -12260,6 +12318,24 @@
       "duration_ms": 202285,
       "name": "If You Know Me By Now",
       "url": "https://open.spotify.com/track/34tGrIctuSwSPyeYVRu5c6"
+    },
+    {
+      "album": {
+        "name": "If You Let Me",
+        "url": "https://open.spotify.com/album/2foc6UscWTV9HPibHGLyeK"
+      },
+      "artists": [
+        {
+          "name": "Dancing Armadillo",
+          "url": "https://open.spotify.com/artist/7b2rS7Tg0w7BvZPyGpx1mt"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "If You Let Me",
+      "url": "https://open.spotify.com/track/1syWpmueH60w2BCBFZHwXB"
     },
     {
       "album": {
@@ -14018,7 +14094,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 231916,
       "name": "Life's Good",
       "url": "https://open.spotify.com/track/2h9mFYqMemc0hAgqfks6Bx"
@@ -14836,7 +14912,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 183263,
       "name": "Love Is a Stranger",
       "url": "https://open.spotify.com/track/3hs7FZwopRhxMeyVVohWP9"
@@ -14970,7 +15046,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 234082,
       "name": "Love, Cherish and Laugh",
       "url": "https://open.spotify.com/track/0R7Bou9pgg2rECHa4SPWFN"
@@ -15270,7 +15346,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 192088,
       "name": "Make a Wish",
       "url": "https://open.spotify.com/track/5JdFTfVOnTgoUXeHRmN0nS"
@@ -16252,7 +16328,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 270159,
       "name": "More Cowbell",
       "url": "https://open.spotify.com/track/2g74g7KPBdoCYKoSfwGszj"
@@ -18451,6 +18527,24 @@
     },
     {
       "album": {
+        "name": "Out of here (la la song)",
+        "url": "https://open.spotify.com/album/1sOZHkysXwM5JzpHOQtKYZ"
+      },
+      "artists": [
+        {
+          "name": "Mary Lou",
+          "url": "https://open.spotify.com/artist/1Ndek8c7r79Cuhq7QfeIuW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192042,
+      "name": "Out of here (la la song)",
+      "url": "https://open.spotify.com/track/4KnVj4ebAVl2q6Q2XzlzrY"
+    },
+    {
+      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/3lsQEPVmrgV0r7pCYL62j5"
       },
@@ -19743,6 +19837,24 @@
     },
     {
       "album": {
+        "name": "Quiet Gravity",
+        "url": "https://open.spotify.com/album/1wXxdveZn0GCVBOtrfIGuF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Page",
+          "url": "https://open.spotify.com/artist/6GvTDTYAruHYlweHng8W4j"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143813,
+      "name": "Quiet Gravity",
+      "url": "https://open.spotify.com/track/6ObIRXR4rhHpRBexO43aqq"
+    },
+    {
+      "album": {
         "name": "Quiet Saloon",
         "url": "https://open.spotify.com/album/2meMt3MT71KqnIDpNLYLqB"
       },
@@ -20730,7 +20842,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 211698,
       "name": "Roar (Instrumental)",
       "url": "https://open.spotify.com/track/5Pu3DsBzhrdr33ZV7oHxzB"
@@ -20784,7 +20896,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 222754,
       "name": "Rollercoaster (Life Is A Rollercoaster)",
       "url": "https://open.spotify.com/track/7rp1lXXfooQnfaQMhicOhR"
@@ -20874,7 +20986,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 202534,
       "name": "Runnin' For Your Love",
       "url": "https://open.spotify.com/track/1C7wICvYkOIU8ZunwAL1b2"
@@ -21478,6 +21590,28 @@
       "duration_ms": 156747,
       "name": "SERENDIPITOUS",
       "url": "https://open.spotify.com/track/3M3w9GI2kkWRgQ439AjvNq"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/1Qnf5SlhCxEJOUEuhn3Emv"
+      },
+      "artists": [
+        {
+          "name": "NETT",
+          "url": "https://open.spotify.com/artist/4EaqIwQs166l4iduLUBpiN"
+        },
+        {
+          "name": "puremind",
+          "url": "https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196030,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4RwruAzSqNb8E7kQx6ndA4"
     },
     {
       "album": {
@@ -22774,7 +22908,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 272839,
       "name": "Spectator Sport",
       "url": "https://open.spotify.com/track/0JK3UsC0sjyXpiGNENm5NP"
@@ -23250,7 +23384,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 179352,
       "name": "Stroll in the Sun",
       "url": "https://open.spotify.com/track/17sI3RmSvGBraRrRnbeArO"
@@ -24109,6 +24243,24 @@
     },
     {
       "album": {
+        "name": "The Angels and Flutes",
+        "url": "https://open.spotify.com/album/4GepKdmM76MiexKL2PPrbS"
+      },
+      "artists": [
+        {
+          "name": "Anything's Possible",
+          "url": "https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264568,
+      "name": "The Angels and Flutes",
+      "url": "https://open.spotify.com/track/5hmAJzeiCkq718PYr14Zmy"
+    },
+    {
+      "album": {
         "name": "Not The End?",
         "url": "https://open.spotify.com/album/05Klqv95GuBa8jKESQYY4t"
       },
@@ -24156,7 +24308,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 254321,
       "name": "The Black Hole (Instrumental)",
       "url": "https://open.spotify.com/track/2C0z0Z6UiY6A6HveJhMm7P"
@@ -24812,7 +24964,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 218344,
       "name": "The Space Race",
       "url": "https://open.spotify.com/track/0dUVQTaUGr4gxpLgmjk0UM"
@@ -24920,7 +25072,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 243234,
       "name": "The Twerking Song",
       "url": "https://open.spotify.com/track/2rcpN2VorTLV76EZwtgjKc"
@@ -25104,7 +25256,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 187253,
       "name": "There will always be after",
       "url": "https://open.spotify.com/track/5478pnFiz0w1Tki1rNOZDL"
@@ -26572,6 +26724,24 @@
       "duration_ms": 201600,
       "name": "Venom Kiss",
       "url": "https://open.spotify.com/track/7GGmuMh2OzjN1ZSvJbN7YT"
+    },
+    {
+      "album": {
+        "name": "Vergiss mich nicht",
+        "url": "https://open.spotify.com/album/2WnGLfIifrsspvokafFQwE"
+      },
+      "artists": [
+        {
+          "name": "Marc Aviano",
+          "url": "https://open.spotify.com/artist/07X0BAHJwXOLVyfwkwE2mU"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202679,
+      "name": "Vergiss mich nicht",
+      "url": "https://open.spotify.com/track/0FMIcDx2tNOch4kqDgmLqI"
     },
     {
       "album": {
@@ -28956,7 +29126,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 145777,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/4TRKKukS2KrNNLdwbU2CTo"

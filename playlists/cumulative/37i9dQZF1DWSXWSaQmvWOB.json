@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-03-25",
-  "description": "New soul-infused music! Cover: Jalen Ngonda",
+  "description": "New soul-infused music! Cover: Bnnyhunna",
   "name": "Soul 'n' the City",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 177791,
       "name": "3 on E",
       "url": "https://open.spotify.com/track/51wj3WPLWSi23OIqGRFyAh"
+    },
+    {
+      "album": {
+        "name": "365 Flavors",
+        "url": "https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238410,
+      "name": "365 Flavors",
+      "url": "https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH"
     },
     {
       "album": {
@@ -1823,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190779,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ"
+    },
+    {
+      "album": {
         "name": "Better Than Ever",
         "url": "https://open.spotify.com/album/433n2VsgKPwC6znMcFfTWN"
       },
@@ -2658,7 +2698,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 263986,
       "name": "Burning daylight",
       "url": "https://open.spotify.com/track/6wfrySLKgLeyGTjh21xvWI"
@@ -2836,6 +2876,24 @@
       "duration_ms": 194388,
       "name": "Call Me by Your Name",
       "url": "https://open.spotify.com/track/39VIEVOuZRwjlqvef4uWVL"
+    },
+    {
+      "album": {
+        "name": "Call Me Crazy",
+        "url": "https://open.spotify.com/album/1mmKk0mfNOj48gzkYMWRE4"
+      },
+      "artists": [
+        {
+          "name": "Gregory Ackerman",
+          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279271,
+      "name": "Call Me Crazy",
+      "url": "https://open.spotify.com/track/4S7zxt4SMDVUW4Fd91jlcZ"
     },
     {
       "album": {
@@ -7792,6 +7850,28 @@
       "duration_ms": 190506,
       "name": "Good Good Good",
       "url": "https://open.spotify.com/track/6FcO64uFdevo392PvgRu4j"
+    },
+    {
+      "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/7KZbPMVX1MIgaamombQinf"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/6QtcGEyLF3SPMoR8i5bsKI"
     },
     {
       "album": {
@@ -13525,6 +13605,28 @@
     },
     {
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/199hyVqmka83Ubpm9Qs8jx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363791,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
+    },
+    {
+      "album": {
         "name": "Mood For You",
         "url": "https://open.spotify.com/album/7tTUyw3Tmd3PWNSwtaaZjv"
       },
@@ -13598,7 +13700,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 246413,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/26m3a6jjutoB86efXGO2dP"
@@ -13824,6 +13926,36 @@
       "duration_ms": 215416,
       "name": "Motorway",
       "url": "https://open.spotify.com/track/4x1wEZiMblCHTpsO3HviGV"
+    },
+    {
+      "album": {
+        "name": "Movin'",
+        "url": "https://open.spotify.com/album/0oXtQl9dM4b0iqRenoRWDV"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        },
+        {
+          "name": "The Gallands",
+          "url": "https://open.spotify.com/artist/3V7kDBsTTCHub0FQBPCzMm"
+        },
+        {
+          "name": "St\u00e9phane Galland",
+          "url": "https://open.spotify.com/artist/1tj1I6guCFUOGJdhB3f5j6"
+        },
+        {
+          "name": "Elvin Galland",
+          "url": "https://open.spotify.com/artist/2cnAbjaRyAYlMqqhcvvppP"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167960,
+      "name": "Movin'",
+      "url": "https://open.spotify.com/track/6U0LFxNdqo8F2oXgGDgR2E"
     },
     {
       "album": {
@@ -14860,7 +14992,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 222534,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis"
@@ -19176,7 +19308,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 157374,
       "name": "Somewhere You Can Fly",
       "url": "https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl"
@@ -22895,6 +23027,28 @@
     },
     {
       "album": {
+        "name": "PSALM FUNK",
+        "url": "https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "Sheila Maurice-Grey",
+          "url": "https://open.spotify.com/artist/6213qnwAKa0wEJBVXxfOdC"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188751,
+      "name": "Walk with Me (feat. Sheila Maurice Grey)",
+      "url": "https://open.spotify.com/track/7hPIbQs1P227dUuXM2lO3v"
+    },
+    {
+      "album": {
         "name": "Wandering Attention",
         "url": "https://open.spotify.com/album/1tLG077EQXcQpzcyuNblBc"
       },
@@ -23248,7 +23402,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 164605,
       "name": "What It Gave Me",
       "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
@@ -23646,6 +23800,24 @@
       "duration_ms": 213327,
       "name": "Where U Are",
       "url": "https://open.spotify.com/track/40HvHeoFbttxvxn8JLNLXh"
+    },
+    {
+      "album": {
+        "name": "Whip The Wind",
+        "url": "https://open.spotify.com/album/7kFr4bhFs9b3fUuYRGbmrR"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263025,
+      "name": "Whip The Wind",
+      "url": "https://open.spotify.com/track/77nWzREV6lPcV6lSGFUpxN"
     },
     {
       "album": {
@@ -24506,6 +24678,24 @@
       "duration_ms": 159200,
       "name": "Young Hearts",
       "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
+    },
+    {
+      "album": {
+        "name": "Your Love (What I'm Dying From)",
+        "url": "https://open.spotify.com/album/0Z1nSosP9Oq9Dfh6ni54wF"
+      },
+      "artists": [
+        {
+          "name": "Lee Lewis",
+          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171508,
+      "name": "Your Love (What I'm Dying From)",
+      "url": "https://open.spotify.com/track/0jg5fwPdpm5n1lfyMkrC1D"
     },
     {
       "album": {

@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 95454,
       "name": "$101.17",
       "url": "https://open.spotify.com/track/110CKFcZyyPLrJ4dYOLvwM"
@@ -2946,7 +2946,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 187951,
       "name": "before",
       "url": "https://open.spotify.com/track/0sCMpAVa1zUomDJBsiwW1Q"
@@ -3374,7 +3374,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 161258,
       "name": "Bitterness",
       "url": "https://open.spotify.com/track/33S5R4m52NhtO8L0WALM8b"
@@ -5595,6 +5595,24 @@
     },
     {
       "album": {
+        "name": "If Nevermore (Anhedonia)",
+        "url": "https://open.spotify.com/album/0oKF6VnD3mToLu2ruXuNcF"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123555,
+      "name": "Chemical Coffins",
+      "url": "https://open.spotify.com/track/6GJ1CQ2MnZLUmDSxKmgisH"
+    },
+    {
+      "album": {
         "name": "Cherry Pie",
         "url": "https://open.spotify.com/album/03AS1bEWhA46PWdpT3EFxt"
       },
@@ -6560,6 +6578,24 @@
       "duration_ms": 182597,
       "name": "Confidant",
       "url": "https://open.spotify.com/track/05rg3mS0oYnjjasNBxRXGv"
+    },
+    {
+      "album": {
+        "name": "confidential",
+        "url": "https://open.spotify.com/album/75kidfdjtLJVGDFX1YPn3u"
+      },
+      "artists": [
+        {
+          "name": "Souly Had",
+          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114874,
+      "name": "confidential",
+      "url": "https://open.spotify.com/track/5fLkKFtiX8PYip7il8b3QH"
     },
     {
       "album": {
@@ -10156,7 +10192,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 129860,
       "name": "Faye",
       "url": "https://open.spotify.com/track/47ym2apEPQYsntkjeFUiQp"
@@ -10378,6 +10414,24 @@
       "duration_ms": 129487,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/0txlDJFyFsaJUmIyepnlbw"
+    },
+    {
+      "album": {
+        "name": "FIGURE IT OUT",
+        "url": "https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC"
+      },
+      "artists": [
+        {
+          "name": "ZEP",
+          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "FIGURE IT OUT",
+      "url": "https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1"
     },
     {
       "album": {
@@ -11240,6 +11294,28 @@
       "duration_ms": 214760,
       "name": "Funky",
       "url": "https://open.spotify.com/track/1Sov7OQevNqkPxNNEpjt6z"
+    },
+    {
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
     },
     {
       "album": {
@@ -16039,6 +16115,28 @@
     },
     {
       "album": {
+        "name": "IMPATIENCE",
+        "url": "https://open.spotify.com/album/66WVBb35yrJHRxckDaaVHe"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140048,
+      "name": "IMPATIENCE",
+      "url": "https://open.spotify.com/track/2ZVORu23jX56c0ZHzxMDQh"
+    },
+    {
+      "album": {
         "name": "How Do You Sleep At Night?",
         "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
       },
@@ -16931,6 +17029,24 @@
     },
     {
       "album": {
+        "name": "KICK IT DOWN",
+        "url": "https://open.spotify.com/album/5lnKDSVZeY8uOjC7ibDLqB"
+      },
+      "artists": [
+        {
+          "name": "MUTTLEE",
+          "url": "https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124482,
+      "name": "KICK IT DOWN",
+      "url": "https://open.spotify.com/track/0HCw0y6iuRbNVvfq9CMe5T"
+    },
+    {
+      "album": {
         "name": "DOA",
         "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
       },
@@ -17556,7 +17672,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 67875,
       "name": "leech",
       "url": "https://open.spotify.com/track/2BJB0nZh8FeDBovo9zoMGX"
@@ -19844,7 +19960,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 167945,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/2bPwkeahjE6gpcgP3n3a0p"
@@ -25808,7 +25924,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 151413,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/3ElJ5DOaqQEshMnejsX0VQ"
@@ -34097,6 +34213,28 @@
     },
     {
       "album": {
+        "name": "wasted time",
+        "url": "https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ"
+      },
+      "artists": [
+        {
+          "name": "proderics",
+          "url": "https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI"
+        },
+        {
+          "name": "melodybloom",
+          "url": "https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133270,
+      "name": "wasted time",
+      "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
+    },
+    {
+      "album": {
         "name": "Wasteland",
         "url": "https://open.spotify.com/album/551B6d3BS2HjQJsCBD409l"
       },
@@ -35348,6 +35486,24 @@
       "duration_ms": 168246,
       "name": "YOU COULDN'T LOVE IF YOU WANTED TO",
       "url": "https://open.spotify.com/track/4KvtOkGgCkZoGAKQpef5nB"
+    },
+    {
+      "album": {
+        "name": "You Look Good",
+        "url": "https://open.spotify.com/album/4TvglpkSnYc2Qnqe3w9aRZ"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150898,
+      "name": "You Look Good",
+      "url": "https://open.spotify.com/track/0emfAytOoEUXLiKvk38ENU"
     },
     {
       "album": {

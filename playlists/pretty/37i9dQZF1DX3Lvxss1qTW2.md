@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: BHADMAYORS
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,691 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,778 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guide](https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Guide](https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q) | 2:07 |
-| 2 | [Track 5](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 0:00 |
+| 2 | [ALL FALL APART](https://open.spotify.com/track/7KSTOKgxMocwexxcEigwSy) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [Pain Made Us](https://open.spotify.com/album/03jMUPLY0Zx6rZTt5aVr2Y) | 2:51 |
 | 3 | [Realize](https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Realize](https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH) | 2:10 |
 | 4 | [LAPOPIANO](https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [LAPOPIANO](https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim) | 2:19 |
 | 5 | [Lameda](https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [LAMEDA / AWAY](https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky) | 2:16 |

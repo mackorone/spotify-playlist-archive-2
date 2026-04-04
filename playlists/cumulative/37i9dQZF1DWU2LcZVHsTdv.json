@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Cowgirl's Prayer",
+        "url": "https://open.spotify.com/album/1hYeAlSgqtocS7UjFXpy3U"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229883,
+      "name": "Cowgirl's Prayer",
+      "url": "https://open.spotify.com/track/7zK7A1WPsnCaBZ2j2z1ELK"
+    },
+    {
+      "album": {
         "name": "boom.",
         "url": "https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe"
       },
@@ -4695,6 +4713,28 @@
     },
     {
       "album": {
+        "name": "The Jesus I Know Now",
+        "url": "https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213771,
+      "name": "The Jesus I Know Now",
+      "url": "https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE"
+    },
+    {
+      "album": {
         "name": "The Life in Your Years",
         "url": "https://open.spotify.com/album/2SOIjoUJQcUMwi8trSxFs5"
       },
@@ -5368,6 +5408,24 @@
       "duration_ms": 214346,
       "name": "When I Meet My Maker",
       "url": "https://open.spotify.com/track/27AP9jXtfbNJ68atuOkvjc"
+    },
+    {
+      "album": {
+        "name": "When The Kingdom Comes",
+        "url": "https://open.spotify.com/album/3VlrT7tpwfMMPbweY4Clp0"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "When The Kingdom Comes",
+      "url": "https://open.spotify.com/track/3LINos46sYoZPunSUgW26Q"
     },
     {
       "album": {

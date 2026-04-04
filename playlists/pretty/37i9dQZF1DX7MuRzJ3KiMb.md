@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > aquí están las joyas escondidas del 2025, elegidas por tus editores 🙂‍↕️
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,859 likes - 115 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,852 likes - 115 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 23 | [Heavenly](https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:25 |
 | 24 | [MODELO V](https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [MODELO V](https://open.spotify.com/album/4n2TsxlpT6TNsxebUYZCRd) | 3:10 |
 | 25 | [lençóis maranhenses](https://open.spotify.com/track/111uhRMDaHfXYFygLW3Zc3) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [lençóis maranhenses](https://open.spotify.com/album/1jWDSryfstq5Jt82QB7Dew) | 2:39 |
-| 26 | [Un Afrito](https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Un Afrito](https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7) | 2:07 |
-| 27 | [EAVEMARÍA](https://open.spotify.com/track/4hsCp1AwBQwLgrV4qQNE21) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [EAVEMARÍA](https://open.spotify.com/album/4HihmUvifnIJeOcJVnxeBq) | 2:18 |
+| 26 | [EAVEMARÍA](https://open.spotify.com/track/4hsCp1AwBQwLgrV4qQNE21) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [EAVEMARÍA](https://open.spotify.com/album/4HihmUvifnIJeOcJVnxeBq) | 2:18 |
+| 27 | [Un Afrito](https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Un Afrito](https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7) | 2:07 |
 | 28 | [Me Tocó Perder](https://open.spotify.com/track/0PVDEaIjTCC7NDeLfnxQi4) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 2:50 |
 | 29 | [Tus Labios](https://open.spotify.com/track/2TH1PC40oO9mXbLTOUBnJ8) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Jheral](https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E) | [Tus Labios](https://open.spotify.com/album/4WDgotfIeCmw83TOWFDwBa) | 2:44 |
 | 30 | [Eres](https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Eres](https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr) | 3:15 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 82 | [centro aLt](https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM), [S.3.R](https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ) | [centro aLt](https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47) | 2:54 |
 | 83 | [Aurora \- Remix](https://open.spotify.com/track/1NwEZJ25OmqyDdzPJGrzWF) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [Aurora \(Remix\)](https://open.spotify.com/album/6wEUiMr0TmgW4ibsAOXybW) | 3:08 |
 | 84 | [D E G E N E R E](https://open.spotify.com/track/2kExxNj5EBo8HUww2l72xo) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 3:12 |
-| 85 | [OKUPAS](https://open.spotify.com/track/580QOzbFWDJKi6LtNpt7PT) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [OKUPAS](https://open.spotify.com/album/1tQ0olB3rAM8es83lc55i7) | 2:44 |
-| 86 | [RIDÍCULO](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [RIDÍCULO](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 |
+| 85 | [RIDÍCULO](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [RIDÍCULO](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 |
+| 86 | [OKUPAS](https://open.spotify.com/track/580QOzbFWDJKi6LtNpt7PT) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [OKUPAS](https://open.spotify.com/album/1tQ0olB3rAM8es83lc55i7) | 2:44 |
 | 87 | [piso 20](https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:21 |
 | 88 | [PERTENECER](https://open.spotify.com/track/3ahgcq09Cc7CXwDkYQxOfq) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [LOVE BUSINESS](https://open.spotify.com/album/3jO5lAAkeEWUzPF9TWyUeM) | 3:27 |
 | 89 | [qué triste, qué desastre \(bolero\)](https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [nomeolvides](https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT) | 2:59 |

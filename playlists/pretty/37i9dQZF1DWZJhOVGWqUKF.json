@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Weezer",
-  "num_followers": 339558,
+  "num_followers": 339541,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -36,7 +36,7 @@
           "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 265681,
+      "duration_ms": 264248,
       "name": "Whisper of a Dream",
       "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
     },
@@ -111,6 +111,22 @@
       "duration_ms": 223762,
       "name": "G.O.D. And The Broken Ribs",
       "url": "https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -383,22 +399,6 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "Song Of The Future",
-      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
         "name": "Big Ole Album Vol. 1",
         "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 181806,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "Song Of The Future",
+      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -511,18 +527,18 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/70OLK4vLOoljMTDM6ZDFx4"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
         }
       ],
-      "duration_ms": 188062,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
+      "duration_ms": 229227,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3KmFFR1CInXTFKMvZiAmgL"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -543,18 +559,18 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/70OLK4vLOoljMTDM6ZDFx4"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
       },
       "artists": [
         {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 229227,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3KmFFR1CInXTFKMvZiAmgL"
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -571,6 +587,22 @@
       "duration_ms": 216884,
       "name": "An Ending In Itself",
       "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/1VDav7H7kW9fgkpf54rLUD"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 207344,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/7KLFCXhioKvErGSF0qD1Ag"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -595,22 +627,6 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
-        "name": "Die For You",
-        "url": "https://open.spotify.com/album/1VDav7H7kW9fgkpf54rLUD"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 207344,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/7KLFCXhioKvErGSF0qD1Ag"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
         "name": "Idols (Complete)",
         "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
       },
@@ -623,26 +639,6 @@
       "duration_ms": 279798,
       "name": "Suburban Requiem",
       "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
-        "name": "Nightmare Tripping (Feat. Nickelback)",
-        "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        },
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 321106,
-      "name": "Nightmare Tripping (Feat. Nickelback)",
-      "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -663,6 +659,26 @@
       "duration_ms": 222721,
       "name": "We're Onto Something (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
+        "name": "Nightmare Tripping (Feat. Nickelback)",
+        "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        },
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 321106,
+      "name": "Nightmare Tripping (Feat. Nickelback)",
+      "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -799,18 +815,18 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
-        "name": "Frozen Lake",
-        "url": "https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB"
+        "name": "Wake Up Calling",
+        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
       },
       "artists": [
         {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 209600,
-      "name": "Frozen Lake",
-      "url": "https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ"
+      "duration_ms": 229977,
+      "name": "Wake Up Calling",
+      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
-        "name": "Wake Up Calling",
-        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
+        "name": "Frozen Lake",
+        "url": "https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
         }
       ],
-      "duration_ms": 229977,
-      "name": "Wake Up Calling",
-      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
+      "duration_ms": 209600,
+      "name": "Frozen Lake",
+      "url": "https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
-        "name": "Born To Kill",
-        "url": "https://open.spotify.com/album/1NqTkg2rUSAGF6KOSTUgqW"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Born To Kill",
-      "url": "https://open.spotify.com/track/2dar1QSaBJKGCPXJQsef0J"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
         "name": "Drive Myself Home",
         "url": "https://open.spotify.com/album/4EHBw2Nv87XerwlcvJxiXx"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 219935,
       "name": "Drive Myself Home",
       "url": "https://open.spotify.com/track/5qy96tWV5WWgJLiXuinD7e"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
+        "name": "Born To Kill",
+        "url": "https://open.spotify.com/album/1NqTkg2rUSAGF6KOSTUgqW"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "Born To Kill",
+      "url": "https://open.spotify.com/track/2dar1QSaBJKGCPXJQsef0J"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -1131,6 +1147,22 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
+        "name": "Violent Nature",
+        "url": "https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 191531,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
         "name": "CHASING SHADOWS",
         "url": "https://open.spotify.com/album/74CUUOQcJqtAVFO0U8zRQT"
       },
@@ -1143,6 +1175,22 @@
       "duration_ms": 222785,
       "name": "CHASING SHADOWS",
       "url": "https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
+        "name": "Unshatter",
+        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Unshatter",
+      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -1175,38 +1223,6 @@
       "duration_ms": 235906,
       "name": "F.T.W. 84",
       "url": "https://open.spotify.com/track/4DJDtYrUMZl1WteQCSKEBX"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
-        "name": "Violent Nature",
-        "url": "https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 191531,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
-        "name": "Unshatter",
-        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Unshatter",
-      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
-        "name": "(I'm a) Rock \"N\" Roller",
-        "url": "https://open.spotify.com/album/3kNZlzBdkvkscSUmz7Mg9p"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "(I'm a) Rock \"N\" Roller",
-      "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
         "name": "Sad Generation",
         "url": "https://open.spotify.com/album/2uRvaixaz6XJp0f3c2ZTEh"
       },
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
+        "name": "(I'm a) Rock \"N\" Roller",
+        "url": "https://open.spotify.com/album/3kNZlzBdkvkscSUmz7Mg9p"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "(I'm a) Rock \"N\" Roller",
+      "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
         "name": "Futique",
         "url": "https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF"
       },
@@ -1395,70 +1411,6 @@
       "duration_ms": 218159,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/31MkFKvAwHESUpmJz4haPw"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
-        "name": "Is This The Real You",
-        "url": "https://open.spotify.com/album/2Q1bLXsasqdgn864pu4B1l"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 226728,
-      "name": "Is This The Real You",
-      "url": "https://open.spotify.com/track/2F8KQC2xIsA9tdP7UJIH9h"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
-        "name": "Hole In The Ground",
-        "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 224532,
-      "name": "Hole In The Ground",
-      "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
-        "name": "Hello Heaven, Hello",
-        "url": "https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 546385,
-      "name": "Hello Heaven, Hello",
-      "url": "https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
-        "name": "God's Eye",
-        "url": "https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 130994,
-      "name": "God\u2019s Eye",
-      "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -1487,6 +1439,70 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
+        "name": "Is This The Real You",
+        "url": "https://open.spotify.com/album/2Q1bLXsasqdgn864pu4B1l"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 226728,
+      "name": "Is This The Real You",
+      "url": "https://open.spotify.com/track/2F8KQC2xIsA9tdP7UJIH9h"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
+        "name": "Hello Heaven, Hello",
+        "url": "https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 546385,
+      "name": "Hello Heaven, Hello",
+      "url": "https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
+        "name": "Hole In The Ground",
+        "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 224532,
+      "name": "Hole In The Ground",
+      "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
+        "name": "INERTIA",
+        "url": "https://open.spotify.com/album/5WQ2aXsGMKlakBEoHFyOqk"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 217292,
+      "name": "MASTERS OF WAR",
+      "url": "https://open.spotify.com/track/0EJlSUNoYL931cYAQspN5i"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
         "name": "WE\u2019RE IN THIS TOGETHER",
         "url": "https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5"
       },
@@ -1499,6 +1515,22 @@
       "duration_ms": 252128,
       "name": "WE\u2019RE IN THIS TOGETHER",
       "url": "https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
+        "name": "God's Eye",
+        "url": "https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 130994,
+      "name": "God\u2019s Eye",
+      "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -1535,22 +1567,6 @@
       "duration_ms": 165970,
       "name": "Good Enough (feat. Caskets)",
       "url": "https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
-        "name": "INERTIA",
-        "url": "https://open.spotify.com/album/5WQ2aXsGMKlakBEoHFyOqk"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 217292,
-      "name": "MASTERS OF WAR",
-      "url": "https://open.spotify.com/track/0EJlSUNoYL931cYAQspN5i"
     },
     {
       "added_at": "2026-04-02 22:01:55",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2026-04-02 22:01:55",
       "album": {
-        "name": "Into Hell",
-        "url": "https://open.spotify.com/album/6AxUaiBdDS6y50kkvjnOrS"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 192210,
-      "name": "Into Hell",
-      "url": "https://open.spotify.com/track/6kESVt7m9Wn2WcS1OGOOmC"
-    },
-    {
-      "added_at": "2026-04-02 22:01:55",
-      "album": {
         "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
         "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
       },
@@ -1639,6 +1639,22 @@
       "duration_ms": 221000,
       "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
       "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
+    },
+    {
+      "added_at": "2026-04-02 22:01:55",
+      "album": {
+        "name": "Into Hell",
+        "url": "https://open.spotify.com/album/6AxUaiBdDS6y50kkvjnOrS"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 192210,
+      "name": "Into Hell",
+      "url": "https://open.spotify.com/track/6kESVt7m9Wn2WcS1OGOOmC"
     },
     {
       "added_at": "2026-04-02 22:01:55",

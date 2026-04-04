@@ -122,7 +122,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 309701,
       "name": "Ajnabi",
       "url": "https://open.spotify.com/track/7BFWKCDCb0Y4jWTxz7Hv5q"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 147800,
       "name": "Chashme Badoor",
       "url": "https://open.spotify.com/track/05dKfHUSODo2y9aF8QEltf"
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 351250,
       "name": "Mere Humsafar (Original Score) [Female Version]",
       "url": "https://open.spotify.com/track/4BoFJMLSO3ZoD48KgnslSe"
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 169411,
       "name": "Saddiyan",
       "url": "https://open.spotify.com/track/0qoORzqrSxpIvREz58ugkW"
@@ -2916,7 +2916,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 255764,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx"
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186122,
       "name": "Teray Naam",
       "url": "https://open.spotify.com/track/4dBRaBEild4wQPztOuV2EU"
@@ -3088,6 +3088,28 @@
       "duration_ms": 225120,
       "name": "Udh Chaliye",
       "url": "https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI"
+    },
+    {
+      "album": {
+        "name": "WHERE R U",
+        "url": "https://open.spotify.com/album/0LvPT3BxK0v7hCkzHsnp5K"
+      },
+      "artists": [
+        {
+          "name": "Alistair Alvin",
+          "url": "https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221935,
+      "name": "WHERE R U",
+      "url": "https://open.spotify.com/track/15vcBRyEkUZkH8xpGs35xe"
     },
     {
       "album": {

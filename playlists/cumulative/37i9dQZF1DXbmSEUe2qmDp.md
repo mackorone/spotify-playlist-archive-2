@@ -2,9 +2,9 @@
 
 ### [Geração Sertaneja](https://open.spotify.com/playlist/37i9dQZF1DXbmSEUe2qmDp)
 
-> Conheça as novas vozes da música sertaneja! Foto: Gabi Suarez, Day & Lara
+> Conheça as novas vozes da música sertaneja! Foto: Bia Frazzo
 
-399 songs - 19 hr 2 min
+400 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Me Deixe Só / Cigana \(Vou Te Amar\) \- Acústico, Ao Vivo](https://open.spotify.com/track/4osUa4XdE1qEjQnYJ0wZlj) | [Henrique e Gabriel](https://open.spotify.com/artist/4lpgfxrSaYHTNXHzgJk8Dw), [William Couto e Adriano](https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY) | [Me Deixe Só / Cigana \(Vou Te Amar\) \[Acústico, Ao Vivo\]](https://open.spotify.com/album/6PaWLTovBKbA2QrCmydwFy) | 4:20 | 2025-01-31 | 2025-04-12 |
 | [Melhor Que Nada](https://open.spotify.com/track/3AO9yY4VXDs0lXkqjhUCVh) | [William Couto e Adriano](https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY) | [Melhor Que Nada](https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx) | 2:11 | 2026-03-06 |  |
 | [Melhor Terminar](https://open.spotify.com/track/5l0dxtmRP6WScVzWf8iWoK) | [Rafael Garcez](https://open.spotify.com/artist/3lwHsx9Dt9Th00WtxIhAth), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [É Melhor Terminar](https://open.spotify.com/album/5E7iilM3EROsuJaq9luMeR) | 2:39 | 2024-09-27 | 2025-03-14 |
+| [MELHORA](https://open.spotify.com/track/65VEXIImum5TnOifiy8s4J) | [Bia Frazzo](https://open.spotify.com/artist/4iT6fJ3MKoAJGORL59NAq1) | [MELHORA](https://open.spotify.com/album/2YV3JNX8w8psHLZNzCNOqf) | 3:03 | 2026-04-03 |  |
 | [menina durona](https://open.spotify.com/track/3p3SvFut1bQXsdGScEDILQ) | [Heitor](https://open.spotify.com/artist/2lsdgjL6txMw2GFNFJLzIW) | [menina durona](https://open.spotify.com/album/1PIQ7UHVnuXa0nYzxraT09) | 2:57 | 2024-07-19 | 2024-09-06 |
 | [Menino de Quebra](https://open.spotify.com/track/2OMjxEBDD0ZDkTp3XXNLb1) | [Thiago Castelli](https://open.spotify.com/artist/0ROprJwPDQ1NleWURpFgFj) | [Menino de Quebra](https://open.spotify.com/album/63bAwW07lBPcVm1rwzi7cF) | 3:38 | 2024-12-06 | 2025-04-12 |
 | [Mensagem de Paz \- Ao Vivo](https://open.spotify.com/track/1P2KMn60eCaNGW3qMIsBA6) | [William Couto e Adriano](https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY) | [Mensagem de Paz \(Ao Vivo\)](https://open.spotify.com/album/3mdhsoMHXIPxM45R47y6HO) | 2:58 | 2024-07-12 | 2024-11-08 |
@@ -360,7 +361,7 @@
 | [Só Bebida Molha \- Ao Vivo](https://open.spotify.com/track/3coLDO2BLp2EDM5qIHVzQs) | [Guto Ferreira](https://open.spotify.com/artist/6Kc6ZoYipesoUruoqxadUI) | [Único Ao Vivo](https://open.spotify.com/album/6ps90hY9JUSMaFqofyDoF1) | 2:53 | 2024-06-28 | 2024-10-12 |
 | [Só Disse que Amou \- Ao Vivo](https://open.spotify.com/track/2DlgzO5JQ5aCGzaCvTCfpJ) | [Alex & Medina](https://open.spotify.com/artist/19kz4jwLOVYjW1ReTInsNh), [Juntô Deu Moda](https://open.spotify.com/artist/0ErXaGpo4jhtoNv38bBWyk) | [Juntô Deu Moda, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0BgGNhtdZMjNJu7RV7aATL) | 2:37 | 2025-11-28 | 2026-03-14 |
 | [Só prestasse um pouquinho](https://open.spotify.com/track/5eYqWbotORpF60ujhtpT6a) | [Nauilan](https://open.spotify.com/artist/4hW6zSUVV1GeYYuojk3uSj), [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Só prestasse um pouquinho](https://open.spotify.com/album/2w1sfk9oaK4ADQ6I4fSgih) | 2:37 | 2025-02-07 | 2025-09-30 |
-| [Só Quero Sossego](https://open.spotify.com/track/6RuvcVpXzHriSfohWEANrv) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv) | [Só Quero Sossego](https://open.spotify.com/album/7cNHP25LJRI9nN3tCarDTl) | 2:52 | 2025-10-25 |  |
+| [Só Quero Sossego](https://open.spotify.com/track/6RuvcVpXzHriSfohWEANrv) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv) | [Só Quero Sossego](https://open.spotify.com/album/7cNHP25LJRI9nN3tCarDTl) | 2:52 | 2025-10-25 | 2026-04-04 |
 | [Só Você Não Vê / Amanhã Talvez](https://open.spotify.com/track/4M05cOsYLa0xhzO4MUbMX2) | [Rick & Rangel](https://open.spotify.com/artist/1yL5nPC7Rfwdj7o9QoObS4) | [Acústico \(Vol\. 1\)](https://open.spotify.com/album/6K5olspA1ptYAUbquQrZi9) | 4:09 | 2024-09-20 | 2025-02-14 |
 | [Tanto Faz \- Ao Vivo](https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr) | [Nando Moreno](https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t) | [Nando Moreno na Cavalgada, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ) | 2:46 | 2026-03-06 |  |
 | [te esquecendo \(lembrei de você\)](https://open.spotify.com/track/4aaMkoUy0Oht3LIdo63EJf) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN) | [te esquecendo \(lembrei de você\)](https://open.spotify.com/album/0vgbZVASnI7QO16oDWiXZX) | 3:05 | 2025-06-13 | 2025-08-16 |

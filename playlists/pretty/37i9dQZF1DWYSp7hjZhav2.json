@@ -1,18 +1,18 @@
 {
   "description": "<a href=\"spotify:artist:4iBwchw0U0GZv5RfVYSMxN\">Anyma</a>'s favorite tracks. Updated regularly. Curated by Anyma. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 108539,
+  "num_followers": 108555,
   "original_name": "Anyma's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPqusM5AWmXxphabbOXBK+Xm0xqD",
+  "snapshot_id": "AAAAAA3uvHkZFFvo6VDoTdzgR52OR9M7",
   "tracks": [
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
-        "name": "The End Of Genesys (Deluxe)",
-        "url": "https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT"
+        "name": "Beautiful (with Joji)",
+        "url": "https://open.spotify.com/album/2CpahiICjXexEynp7scGe4"
       },
       "artists": [
         {
@@ -20,16 +20,48 @@
           "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 194298,
-      "name": "Love Hurt (feat. Bipolar Sunshine)",
-      "url": "https://open.spotify.com/track/24gsTM4mbRpRUoQgzax5iE"
+      "duration_ms": 215433,
+      "name": "Beautiful (with Joji)",
+      "url": "https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "That Total Age",
+        "url": "https://open.spotify.com/album/7wm0bknBmCO7Ienh7plPz4"
+      },
+      "artists": [
+        {
+          "name": "Nitzer Ebb",
+          "url": "https://open.spotify.com/artist/7EnAgffrVyerTWH628TJ6f"
+        }
+      ],
+      "duration_ms": 305333,
+      "name": "Murderous - Instrumental",
+      "url": "https://open.spotify.com/track/2vs6zWOvp2jaOy2jNvxZk2"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "\u0f6c\u0277\u053e\u314d \ua27a\u10da\u0f3d\u0f3c\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2\u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u0627\u2981\u207e\u207d\u0619\u06dc\u0616\u0621\u061e\u0ae3\u0fc6\u02dc\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2",
+        "url": "https://open.spotify.com/album/4JVptmFyeFIg4ySbyK7kO2"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "duration_ms": 343384,
+      "name": "\u0f6c\u0277\u053e\u314d \ua27a\u10da\u0f3d\u0f3c\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2\u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u0627\u2981\u207e\u207d\u0619\u06dc\u0616\u0621\u061e\u0ae3\u0fc6\u02dc\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2",
+      "url": "https://open.spotify.com/track/3FzWdB7uUfmPsgmCdQhNEU"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Till I Die (feat. Claudia Valentina)",
         "url": "https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK"
@@ -53,23 +85,31 @@
       "url": "https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
-        "name": "\u0f6c\u0277\u053e\u314d \ua27a\u10da\u0f3d\u0f3c\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2\u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u0627\u2981\u207e\u207d\u0619\u06dc\u0616\u0621\u061e\u0ae3\u0fc6\u02dc\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2",
-        "url": "https://open.spotify.com/album/4JVptmFyeFIg4ySbyK7kO2"
+        "name": "One More (feat. Ad-Apt) [Solomun Remix]",
+        "url": "https://open.spotify.com/album/0hWY6l251EFihf31JPnSbd"
       },
       "artists": [
         {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Ad-Apt",
+          "url": "https://open.spotify.com/artist/4IjVi2fLGbBTpnxXfGoatD"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         }
       ],
-      "duration_ms": 343384,
-      "name": "\u0f6c\u0277\u053e\u314d \ua27a\u10da\u0f3d\u0f3c\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2\u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u0627\u2981\u207e\u207d\u0619\u06dc\u0616\u0621\u061e\u0ae3\u0fc6\u02dc\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2",
-      "url": "https://open.spotify.com/track/3FzWdB7uUfmPsgmCdQhNEU"
+      "duration_ms": 199384,
+      "name": "One More (feat. Ad-Apt) - Solomun Remix",
+      "url": "https://open.spotify.com/track/7hOwCb0vcnpNRBQUoI5smE"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/0R6E19xuHfcWBuUX5VC5rg"
@@ -89,7 +129,7 @@
       "url": "https://open.spotify.com/track/6DJc0UvXBsVJpvK3XwQgQq"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "The End Of Genesys (Deluxe)",
         "url": "https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT"
@@ -105,95 +145,35 @@
       "url": "https://open.spotify.com/track/0bW0Gbh2Ni7IeiIj3In67g"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
-        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-        "url": "https://open.spotify.com/album/7xCa8dTNt8T0y3opjZK9ir"
+        "name": "LET\u2019S GO",
+        "url": "https://open.spotify.com/album/1RhIFDYkjFE3cmZjcpbWFZ"
       },
       "artists": [
         {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+          "name": "Tri/xon",
+          "url": "https://open.spotify.com/artist/7oFpeew5rSVQEUDcJ9y4F5"
         },
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
         },
         {
-          "name": "Salom\u00e9 Das",
-          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        },
+        {
+          "name": "AUNTY RAYZOR",
+          "url": "https://open.spotify.com/artist/2Fn2ztLqyHRiJw53gXonuz"
         }
       ],
-      "duration_ms": 172314,
-      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-      "url": "https://open.spotify.com/track/2UtuOyOQ0VxF2sNZU12H3y"
+      "duration_ms": 308315,
+      "name": "LET\u2019S GO",
+      "url": "https://open.spotify.com/track/3D5MnblL7m51JM4JHWcSts"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "Quantum Echoes, Pt. I",
-        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Adam Sellouk",
-          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
-        },
-        {
-          "name": "CARLA",
-          "url": "https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ"
-        }
-      ],
-      "duration_ms": 133848,
-      "name": "Girls MIA",
-      "url": "https://open.spotify.com/track/0WHINYuRlFPt4WrXPBeCvo"
-    },
-    {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "Born Like That",
-        "url": "https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        },
-        {
-          "name": "Jast",
-          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
-        }
-      ],
-      "duration_ms": 225892,
-      "name": "Born Like That",
-      "url": "https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN"
-    },
-    {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "The End Of Genesys (Deluxe)",
-        "url": "https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "19:26",
-          "url": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
-        }
-      ],
-      "duration_ms": 299728,
-      "name": "Giza",
-      "url": "https://open.spotify.com/track/0pl1A2U93iB8Y3HQ52WAgJ"
-    },
-    {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Quantum Echoes, Pt. I",
         "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
@@ -217,23 +197,67 @@
       "url": "https://open.spotify.com/track/0LwKAX0JzRSYvOreNvSQzN"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
-        "name": "Dreamachine",
-        "url": "https://open.spotify.com/album/2KJ8G7agmKdJK89xPrcrMN"
+        "name": "Crew",
+        "url": "https://open.spotify.com/album/3GrTuqiSNffx6e2sPdX8Uu"
       },
       "artists": [
         {
-          "name": "Hiver",
-          "url": "https://open.spotify.com/artist/5bbog2TKLmx1kqzNER54ZI"
+          "name": "HIGHLITE",
+          "url": "https://open.spotify.com/artist/5JLz9lhEIydGByUE1BZ5Bl"
         }
       ],
-      "duration_ms": 306093,
-      "name": "Dreamachine",
-      "url": "https://open.spotify.com/track/2OJbaIqQgRaqe4qxN41AJV"
+      "duration_ms": 230365,
+      "name": "Crew",
+      "url": "https://open.spotify.com/track/3f6YkXdCnCqs9vlUjUCwFo"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "Born Like That",
+        "url": "https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Jast",
+          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
+        }
+      ],
+      "duration_ms": 225892,
+      "name": "Born Like That",
+      "url": "https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "Quantum Echoes, Pt. I",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "CARLA",
+          "url": "https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ"
+        }
+      ],
+      "duration_ms": 133848,
+      "name": "Girls MIA",
+      "url": "https://open.spotify.com/track/0WHINYuRlFPt4WrXPBeCvo"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "At Night (Anyma x Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/0pOs24vzDeIobtd78HbZjS"
@@ -257,31 +281,39 @@
       "url": "https://open.spotify.com/track/01A16AjdJ0dKGixfZa0Ugd"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
-        "name": "The End Of Genesys (Deluxe)",
-        "url": "https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT"
+        "name": "Kittenz And Thee Glitz",
+        "url": "https://open.spotify.com/album/3KuCjpjClMiEVZOK3N5yhR"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Simulation - Script Remix",
-      "url": "https://open.spotify.com/track/0xyM1uWbjbreCxf3wG8VRW"
+      "duration_ms": 280653,
+      "name": "Silver Screen (Shower Scene)",
+      "url": "https://open.spotify.com/track/65EBIxct6KqP1Tm5jrOzex"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "Dreamachine",
+        "url": "https://open.spotify.com/album/2KJ8G7agmKdJK89xPrcrMN"
+      },
+      "artists": [
+        {
+          "name": "Hiver",
+          "url": "https://open.spotify.com/artist/5bbog2TKLmx1kqzNER54ZI"
+        }
+      ],
+      "duration_ms": 306093,
+      "name": "Dreamachine",
+      "url": "https://open.spotify.com/track/2OJbaIqQgRaqe4qxN41AJV"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Your Mind (Massano & Doriann Remix)",
         "url": "https://open.spotify.com/album/0aJt5gGBHIQi8aD4ehWayG"
@@ -309,31 +341,31 @@
       "url": "https://open.spotify.com/track/4FHYmTjR5Koj50mLPTp7hR"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
-        "name": "The End Of Genesys (Deluxe)",
-        "url": "https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT"
+        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+        "url": "https://open.spotify.com/album/7xCa8dTNt8T0y3opjZK9ir"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
         },
         {
-          "name": "Baset",
-          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
         },
         {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
         }
       ],
-      "duration_ms": 181335,
-      "name": "Neverland (From Japan) - HNTR Remix",
-      "url": "https://open.spotify.com/track/2nPheWGaaYy9lsa5BPNr70"
+      "duration_ms": 172314,
+      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+      "url": "https://open.spotify.com/track/2UtuOyOQ0VxF2sNZU12H3y"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Quantum Echoes, Pt. I",
         "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/0nxkp7rYH6d9aJnEIGQesL"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "To This Day",
         "url": "https://open.spotify.com/album/5rTV7nsg4Ty4Nr3kBPTSSQ"
@@ -373,27 +405,7 @@
       "url": "https://open.spotify.com/track/5aBV6yiidlaNDayn20iQkH"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "The End Of Genesys (Deluxe)",
-        "url": "https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "HILLS",
-          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1z6KDSVHP7QnNVCk2ZWcFQ"
-    },
-    {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Do For Your Love",
         "url": "https://open.spotify.com/album/3bXzAamzshpdQlDn3ijyCT"
@@ -409,43 +421,7 @@
       "url": "https://open.spotify.com/track/3kg6XwcUY1eRJ3ntWvZeSY"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "The End Of Genesys (Deluxe)",
-        "url": "https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 182884,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/1zFxisGM5LiotnMAgOTktY"
-    },
-    {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "567AM",
-        "url": "https://open.spotify.com/album/0ekpmMf9L0YDnR6tuGFY95"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        }
-      ],
-      "duration_ms": 128111,
-      "name": "567AM",
-      "url": "https://open.spotify.com/track/1Ib3NLoWJ5yev5BVzHLQHA"
-    },
-    {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Quantum Echoes, Pt. I",
         "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
@@ -465,27 +441,43 @@
       "url": "https://open.spotify.com/track/5JNHMsnjSkx7LUiHuD1RZY"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
-        "name": "The End Of Genesys (Deluxe)",
-        "url": "https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT"
+        "name": "567AM",
+        "url": "https://open.spotify.com/album/0ekpmMf9L0YDnR6tuGFY95"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
         }
       ],
-      "duration_ms": 228750,
-      "name": "Neo-Consciousness",
-      "url": "https://open.spotify.com/track/33BoAepgYmpGoUIDALYtXo"
+      "duration_ms": 128111,
+      "name": "567AM",
+      "url": "https://open.spotify.com/track/1Ib3NLoWJ5yev5BVzHLQHA"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Gate / Masterplan",
         "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
@@ -505,7 +497,7 @@
       "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "The End Of Genesys (Deluxe)",
         "url": "https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT"
@@ -525,7 +517,7 @@
       "url": "https://open.spotify.com/track/7GX6nuYYW39aQpvCeBtMQu"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "viscus (feat. FKA twigs)",
         "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
@@ -545,7 +537,7 @@
       "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "At the Moment",
         "url": "https://open.spotify.com/album/2FKP0qmJPGV92c08LsgE5d"
@@ -561,7 +553,23 @@
       "url": "https://open.spotify.com/track/0Ap4y5EoEPewWCTmJqXKu8"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "Not Going Home",
+        "url": "https://open.spotify.com/album/5xmMohRmdN6r1DnOcnqNFC"
+      },
+      "artists": [
+        {
+          "name": "Rex The Dog",
+          "url": "https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC"
+        }
+      ],
+      "duration_ms": 209849,
+      "name": "Not Going Home",
+      "url": "https://open.spotify.com/track/0IZVjZNdDhjb1pXydPA6AU"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Viento EP",
         "url": "https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV"
@@ -577,7 +585,7 @@
       "url": "https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "My City's On Fire (Anyma & Cassian Remix)",
         "url": "https://open.spotify.com/album/7CrZ3IMVHng3uOXib7KFNU"
@@ -601,7 +609,7 @@
       "url": "https://open.spotify.com/track/30sR2mBD6VIUk1w93XDMOL"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
@@ -629,7 +637,23 @@
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "Shepherd Moons",
+        "url": "https://open.spotify.com/album/6ZuPbMe6CvQKl1nvAy0nZm"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Caribbean Blue - 2009 Remaster",
+      "url": "https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "See the Light EP",
         "url": "https://open.spotify.com/album/34ACNktULW1LwHS5fQjwh3"
@@ -649,7 +673,7 @@
       "url": "https://open.spotify.com/track/6N6xKPteDcH5iUkVEasuHy"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Quantum Echoes, Pt. I",
         "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
@@ -665,7 +689,7 @@
       "url": "https://open.spotify.com/track/1zlxe6aLcK8bIrPvFkYdMN"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Finding Home",
         "url": "https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk"
@@ -689,7 +713,7 @@
       "url": "https://open.spotify.com/track/37P8rMUWZgXtqTPWSIOEHz"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "The End Of Genesys",
         "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
@@ -713,7 +737,7 @@
       "url": "https://open.spotify.com/track/5qzyfGzhUm5YoruJeQRtiI"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Magik",
         "url": "https://open.spotify.com/album/2MvPX4GMBd92aIny5uLIVa"
@@ -737,7 +761,7 @@
       "url": "https://open.spotify.com/track/0ot0oFflo5Z5PGWRP4ltxi"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Quantum Echoes, Pt. I",
         "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
@@ -757,7 +781,27 @@
       "url": "https://open.spotify.com/track/6fPkKnzWCeAM6O7XQ6UYPQ"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "tell me more",
+        "url": "https://open.spotify.com/album/3hE3y22MI6neF7zblWOBZ4"
+      },
+      "artists": [
+        {
+          "name": "AFAR",
+          "url": "https://open.spotify.com/artist/3RISmAgVwF5b24BjC8OsYZ"
+        },
+        {
+          "name": "Jonathan Kaspar",
+          "url": "https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0"
+        }
+      ],
+      "duration_ms": 477472,
+      "name": "low high - Jonathan Kaspar Remix",
+      "url": "https://open.spotify.com/track/14aThy41jGtwYWZWe2xEU8"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Midnight Creepers Remixes",
         "url": "https://open.spotify.com/album/46Dlj3CMrNam6aPWuK9B5z"
@@ -777,7 +821,7 @@
       "url": "https://open.spotify.com/track/1v1fNoS1h5KGwOopD03JbG"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Alone (Four Tet Remix)",
         "url": "https://open.spotify.com/album/4NeAALY2Y5w5UnEaVmqjgp"
@@ -797,7 +841,7 @@
       "url": "https://open.spotify.com/track/33gpxTp8FlcGTyj9ksswGe"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Galaxy",
         "url": "https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS"
@@ -821,7 +865,7 @@
       "url": "https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Chaleur EP",
         "url": "https://open.spotify.com/album/2XEvG3lEJlb9o30TCnxkop"
@@ -837,7 +881,7 @@
       "url": "https://open.spotify.com/track/0HBUq9Ixk7kHZhyAHqrBKd"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "A Spark",
         "url": "https://open.spotify.com/album/47RxIpRGUtNkaGcoXInBaf"
@@ -853,27 +897,7 @@
       "url": "https://open.spotify.com/track/6lvQvKFGIfCPqUjS1lUWCI"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "tell me more",
-        "url": "https://open.spotify.com/album/3hE3y22MI6neF7zblWOBZ4"
-      },
-      "artists": [
-        {
-          "name": "AFAR",
-          "url": "https://open.spotify.com/artist/3RISmAgVwF5b24BjC8OsYZ"
-        },
-        {
-          "name": "Jonathan Kaspar",
-          "url": "https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0"
-        }
-      ],
-      "duration_ms": 477472,
-      "name": "low high - Jonathan Kaspar Remix",
-      "url": "https://open.spotify.com/track/14aThy41jGtwYWZWe2xEU8"
-    },
-    {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Kompakt: Total 25",
         "url": "https://open.spotify.com/album/6f9xOpwXeupwzm5BDQBa6Q"
@@ -889,7 +913,7 @@
       "url": "https://open.spotify.com/track/0J3PMFrRJrqYDx6MwQhWRI"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Indifferent",
         "url": "https://open.spotify.com/album/1nkXDUfwWHb8MAHaxqJbVT"
@@ -905,7 +929,7 @@
       "url": "https://open.spotify.com/track/6vZ3YlHYhu5ylbZb18LvGT"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "A Playground for the Crowd",
         "url": "https://open.spotify.com/album/34VInAQFW3dMRBKx0MvSNE"
@@ -921,7 +945,7 @@
       "url": "https://open.spotify.com/track/15nax71s9sDzdOd5tPBWzJ"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Utility",
         "url": "https://open.spotify.com/album/5F3YJdIjGHhnUVuD96G1mz"
@@ -937,7 +961,7 @@
       "url": "https://open.spotify.com/track/3X4dCNeVxPCqiRfyB5hJeH"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
+      "added_at": "2026-04-03 13:55:34",
       "album": {
         "name": "Einfluss",
         "url": "https://open.spotify.com/album/3UNzfV1VqrqTBTHLa3flUd"
@@ -955,6 +979,58 @@
       "duration_ms": 241773,
       "name": "Black White Felt",
       "url": "https://open.spotify.com/track/5n1HBXOeeKzEfdlEMJ6Tmm"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "No Hesitating (Max Dean Remix)",
+        "url": "https://open.spotify.com/album/1awnJYspbXb7Ge3hNDX0QK"
+      },
+      "artists": [
+        {
+          "name": "Joe Rol\u00e9t",
+          "url": "https://open.spotify.com/artist/3ASuunCWWOrj4XX3ZMeA6o"
+        },
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 195243,
+      "name": "No Hesitating - Max Dean Remix",
+      "url": "https://open.spotify.com/track/4KlPVsyFKD3iUN3wzTu4eU"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "Tranquilizer 2.0",
+        "url": "https://open.spotify.com/album/7bNIaugC1V2faSkAS23wnZ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Huntemann",
+          "url": "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
+        }
+      ],
+      "duration_ms": 438862,
+      "name": "Tranquilizer",
+      "url": "https://open.spotify.com/track/3FFASCZup9WBF9ENFg7RIr"
+    },
+    {
+      "added_at": "2026-04-03 13:55:34",
+      "album": {
+        "name": "Seoul Bizarre",
+        "url": "https://open.spotify.com/album/3NDJ5uQQP5NYUmO9D7DgEj"
+      },
+      "artists": [
+        {
+          "name": "NECTA",
+          "url": "https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/4rYTg8mW6aGhJqZ070nyGx"
     }
   ],
   "unique_name": "Anyma's track IDs",

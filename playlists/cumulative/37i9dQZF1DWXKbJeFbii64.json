@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 184663,
       "name": "Humble Rain",
       "url": "https://open.spotify.com/track/1rBaNXCbOoEii6z7fhFXnS"
@@ -2048,6 +2048,24 @@
       "duration_ms": 208000,
       "name": "Sleepy Storm",
       "url": "https://open.spotify.com/track/0gXGs4OoIwCEEDdKCwsOJE"
+    },
+    {
+      "album": {
+        "name": "Slumber Night Rains",
+        "url": "https://open.spotify.com/album/5iLDsc7sxuvHGhkEmTzOuj"
+      },
+      "artists": [
+        {
+          "name": "Nature Advisor",
+          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147769,
+      "name": "Slumber Night Rains",
+      "url": "https://open.spotify.com/track/5D3Qv60Pfpt01xIxizpT6l"
     },
     {
       "album": {

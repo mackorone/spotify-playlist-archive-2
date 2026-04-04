@@ -692,7 +692,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 246240,
       "name": "3 \u0412 1",
       "url": "https://open.spotify.com/track/0eMGY2LlWkgklI8WhHjR0y"
@@ -7366,7 +7366,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 180725,
       "name": "Choke Me",
       "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
@@ -10269,7 +10269,7 @@
       "artists": [
         {
           "name": "Maphra",
-          "url": "https://open.spotify.com/artist/6jEt1BKNPShxqV4aHj2l58"
+          "url": "https://open.spotify.com/artist/282n63G461lWZtO6jAWKT1"
         }
       ],
       "date_added": "2026-03-31",
@@ -11050,6 +11050,24 @@
       "duration_ms": 153181,
       "name": "E85",
       "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
+    },
+    {
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
       "album": {
@@ -12914,7 +12932,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -31808,7 +31826,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -31826,7 +31844,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -32248,7 +32266,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 210275,
       "name": "Sana Ra\u011fmen",
       "url": "https://open.spotify.com/track/6p17lQApoPFY2vBGccMzFH"
@@ -36710,7 +36728,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 240446,
       "name": "Te Khelas",
       "url": "https://open.spotify.com/track/26vk0Xdt4Z9bCqgOLRt4MG"
@@ -37970,7 +37988,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 250493,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/4lXjz5k4Rij3LTj6O0mgOO"
@@ -39903,6 +39921,24 @@
     },
     {
       "album": {
+        "name": "Wild Wild East",
+        "url": "https://open.spotify.com/album/6lpB8KoEYKfVUTj4vBp8pb"
+      },
+      "artists": [
+        {
+          "name": "Dubioza kolektiv",
+          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231893,
+      "name": "USA",
+      "url": "https://open.spotify.com/track/3AjZd2FYElRKklkiXIKTx6"
+    },
+    {
+      "album": {
         "name": "Uykusuz Geceler",
         "url": "https://open.spotify.com/album/0Q1QG5BzoGjAPGZGxdUh5F"
       },
@@ -41077,6 +41113,24 @@
     },
     {
       "album": {
+        "name": "We Do What We Want (Edit)",
+        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188095,
+      "name": "We Do What We Want - Edit",
+      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
+    },
+    {
+      "album": {
         "name": "We Fell Apart",
         "url": "https://open.spotify.com/album/3JyuOXGEoGuRSgJDDxwOCO"
       },
@@ -41660,6 +41714,24 @@
     {
       "album": {
         "name": "When I Stand",
+        "url": "https://open.spotify.com/album/54CLIXUq8Gm8gGuXXda8BX"
+      },
+      "artists": [
+        {
+          "name": "Owen James",
+          "url": "https://open.spotify.com/artist/6kqeHxe4IG1RCR15nMT34L"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199738,
+      "name": "When I Stand",
+      "url": "https://open.spotify.com/track/1yXkHQ50wrNzslcUeVrnga"
+    },
+    {
+      "album": {
+        "name": "When I Stand",
         "url": "https://open.spotify.com/album/1ZZnKO1LCDBxjqdJ5n4EvT"
       },
       "artists": [
@@ -41670,7 +41742,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 199720,
       "name": "When I Stand",
       "url": "https://open.spotify.com/track/1GdddKSMtXbKovNOwlgGXd"
@@ -49728,7 +49800,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 196216,
       "name": "\u0425\u0430\u0432\u0442\u0435",
       "url": "https://open.spotify.com/track/5iCLHJvzPT0X0IjNEjgO6A"

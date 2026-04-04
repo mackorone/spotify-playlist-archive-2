@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  <a href=\"spotify:artist:60LfX8q7jliswygVxBPIL4\">Rita Wilson</a> ",
+  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  <a href=\"spotify:playlist:37i9dQZF1EFxFD4d1Adk5m\">Maegan Cottone</a> ",
   "name": "Created by Women",
   "tracks": [
     {
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
@@ -3332,7 +3332,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 155892,
       "name": "CRTA",
       "url": "https://open.spotify.com/track/69XrlW287UIsCRrqP8Ntzo"
@@ -3960,7 +3960,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 133259,
       "name": "die!",
       "url": "https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU"
@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 191389,
       "name": "Fear, Uncertainty, Doubt",
       "url": "https://open.spotify.com/track/1qlqqnNweNXfZPKvr0xcNE"
@@ -5583,6 +5583,24 @@
     },
     {
       "album": {
+        "name": "Triple Shooting Star",
+        "url": "https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238641,
+      "name": "Fuck Up",
+      "url": "https://open.spotify.com/track/2VqTaE9U6JIbOMXuHYyCYT"
+    },
+    {
+      "album": {
         "name": "FUCK YO FRIENDS",
         "url": "https://open.spotify.com/album/2PjEKH7XIg5dZ8U74C0VZU"
       },
@@ -5756,7 +5774,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 192533,
       "name": "Get the Party Started",
       "url": "https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW"
@@ -5918,7 +5936,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 221080,
       "name": "Gladly",
       "url": "https://open.spotify.com/track/145xZcFMv1ccyKBgEMtV3y"
@@ -6196,7 +6214,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 243733,
       "name": "Grandma's Song",
       "url": "https://open.spotify.com/track/4lMybtvZLyN4Zogl7DoWNu"
@@ -7118,7 +7136,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 158111,
       "name": "House Party",
       "url": "https://open.spotify.com/track/3ZtKu3bvdoZY65UmB7oAq4"
@@ -8913,6 +8931,24 @@
     },
     {
       "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/3oL1oPIowhBU9A0hL6Qrgz"
+      },
+      "artists": [
+        {
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151254,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/2ZXHh2fow12ziw45GhNJf4"
+    },
+    {
+      "album": {
         "name": "Jenny",
         "url": "https://open.spotify.com/album/59SSjg6MrGAdshKUtOTmdV"
       },
@@ -9976,7 +10012,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186622,
       "name": "Lost You Again",
       "url": "https://open.spotify.com/track/1gg8yb0bUGrE58OyOg1WJa"
@@ -10824,7 +10860,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 178064,
       "name": "More",
       "url": "https://open.spotify.com/track/2U0xhn59OdwhnvQwrijjHr"
@@ -11546,6 +11582,28 @@
       "duration_ms": 196000,
       "name": "No, I'll Do It",
       "url": "https://open.spotify.com/track/3Furv9rz2FAG2S03t17Yj2"
+    },
+    {
+      "album": {
+        "name": "Nobody Loves Me (feat. ELIO)",
+        "url": "https://open.spotify.com/album/65uQzQ8mRTTSEYhawsn1ZY"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        },
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150763,
+      "name": "Nobody Loves Me (feat. ELIO)",
+      "url": "https://open.spotify.com/track/40CyjWHnex920T67TMP5zO"
     },
     {
       "album": {
@@ -13516,7 +13574,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 300840,
       "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
@@ -14740,7 +14798,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -14780,7 +14838,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 215789,
       "name": "Summer Fling",
       "url": "https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5"
@@ -15086,7 +15144,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 150733,
       "name": "Tennis",
       "url": "https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR"
@@ -15414,7 +15472,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 356673,
       "name": "The Moment I Said It",
       "url": "https://open.spotify.com/track/3SERdbOHjPhVpurcwBC8Wo"
@@ -15794,7 +15852,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 190561,
       "name": "Three More Glasses",
       "url": "https://open.spotify.com/track/670sw63HwvyUVZyj2bFvXN"
@@ -16054,6 +16112,24 @@
       "duration_ms": 196093,
       "name": "too high",
       "url": "https://open.spotify.com/track/6bk6LnJA5MsK9E5kWFxfSG"
+    },
+    {
+      "album": {
+        "name": "100% HER Contemporary Songs",
+        "url": "https://open.spotify.com/album/3dhsJaOxFtezDOVzPoLRkY"
+      },
+      "artists": [
+        {
+          "name": "Olive",
+          "url": "https://open.spotify.com/artist/4d4czVhvwZ2vTH0fdsoSVF"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191311,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/3gY8vdYyXNS3k4Ffr2xWIy"
     },
     {
       "album": {

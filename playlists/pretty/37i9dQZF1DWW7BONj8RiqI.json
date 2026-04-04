@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 245183,
+  "num_followers": 245219,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -1155,34 +1155,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Rock It",
-        "url": "https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP"
-      },
-      "artists": [
-        {
-          "name": "Baron",
-          "url": "https://open.spotify.com/artist/2sRsSGDTIpVs0r5UQ4OA3p"
-        },
-        {
-          "name": "Shurwayne Winchester",
-          "url": "https://open.spotify.com/artist/2dqzb4OvhCxwr9ogGBEsQx"
-        },
-        {
-          "name": "Yung Bredda",
-          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        },
-        {
-          "name": "The KVG",
-          "url": "https://open.spotify.com/artist/34ElLOqbMNKj5XkHsaFUx2"
-        }
-      ],
-      "duration_ms": 164409,
-      "name": "Rock It",
-      "url": "https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "ESKIMO (Remix)",
         "url": "https://open.spotify.com/album/6nyKtPtSwlci3g0BeQDvqt"
       },
@@ -1219,6 +1191,34 @@
       "duration_ms": 180272,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP"
+      },
+      "artists": [
+        {
+          "name": "Baron",
+          "url": "https://open.spotify.com/artist/2sRsSGDTIpVs0r5UQ4OA3p"
+        },
+        {
+          "name": "Shurwayne Winchester",
+          "url": "https://open.spotify.com/artist/2dqzb4OvhCxwr9ogGBEsQx"
+        },
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        },
+        {
+          "name": "The KVG",
+          "url": "https://open.spotify.com/artist/34ElLOqbMNKj5XkHsaFUx2"
+        }
+      ],
+      "duration_ms": 164409,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Retro Fete Riddim",
-        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
-      },
-      "artists": [
-        {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        }
-      ],
-      "duration_ms": 152624,
-      "name": "Party Nice",
-      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 167019,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Retro Fete Riddim",
+        "url": "https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "Party Nice",
+      "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
     },
     {
       "added_at": "2026-02-12 17:24:55",

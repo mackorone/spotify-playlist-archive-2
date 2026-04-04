@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,109 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,120 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 36 | [Purvayi \(feat\. Papon\)](https://open.spotify.com/track/2FBsVowygJJv4lg32ZHk5l) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/4Gi91Mb6apBXFFq0kIqQJ7) | 5:10 |
 | 37 | [Mahadeva](https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM), [Gaurav Chati](https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP), [Rstarjazz](https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7) | [Mahadeva](https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f) | 3:30 |
 | 38 | [Aisi Mhari Preet \(Eternal Love\) \- Sabr](https://open.spotify.com/track/4k7feahPXeSdkUf5aZXBCp) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7) | [Aisi Mhari Preet \(Eternal Love\) \[Sabr\]](https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND) | 5:32 |
-| 39 | [Mauj Kasheer](https://open.spotify.com/track/4DVz2TzPa5Oi8zngm53vHk) | [ĀDAM](https://open.spotify.com/artist/045CvZOttpV5fYta0MrCE3), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Shivani Matyal](https://open.spotify.com/artist/7mDEXPflEFqaHkJFnv77NH) | [Mauj Kasheer](https://open.spotify.com/album/2JXBaRO4HVReZ8IW0aumtj) | 4:08 |
-| 40 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 |
+| 39 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 |
+| 40 | [Mauj Kasheer](https://open.spotify.com/track/4DVz2TzPa5Oi8zngm53vHk) | [ĀDAM](https://open.spotify.com/artist/045CvZOttpV5fYta0MrCE3), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Shivani Matyal](https://open.spotify.com/artist/7mDEXPflEFqaHkJFnv77NH) | [Mauj Kasheer](https://open.spotify.com/album/2JXBaRO4HVReZ8IW0aumtj) | 4:08 |
 | 41 | [Mannde Ji Mala](https://open.spotify.com/track/1Wf25igBukyJcb684oEYvY) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Vela Ghana Bhil](https://open.spotify.com/artist/2riag1dR98hqvRbTagutOg), [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc) | [Mannde Ji Mala](https://open.spotify.com/album/7JDF0aiEXvmMQ63Gvll3qh) | 5:29 |
 | 42 | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/track/5ZY6Tet68fX8ea0R0D80T5) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Gulzar Ahmad Ganaie](https://open.spotify.com/artist/4gB0ajRtDQXc2Vdp02A1pJ) | [Jaanaan \(From "Bhoomi 2024"\)](https://open.spotify.com/album/1FxmcvIwRD99bcNLNdoRDH) | 5:06 |
 | 43 | [Ghat Ghat](https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3) | [Kabir Cafe Live](https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 49 | [Dwarika Darbaar \(From "Bhoomi 2025"\)](https://open.spotify.com/track/5l9EwrB0WVAJ1T4EErBe0m) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7), [Parth Tarpara](https://open.spotify.com/artist/1dC9LMLRmhqgIxnBXi0Var) | [Dwarika Darbaar \(From "Bhoomi 2025"\)](https://open.spotify.com/album/2LurX1DIo5jyBNjGbBgKhr) | 5:05 |
 | 50 | [Kashmir](https://open.spotify.com/track/0HvV5HHt99F8DCoN8RlAvq) | [Rahul Deshpande](https://open.spotify.com/artist/05TsqmnjBF2zgaB11M5tlT), [Amarjeet Prabhudesai](https://open.spotify.com/artist/6FhXjfNhE71lOKnFKDHWkW), [Shripad Nadkarni](https://open.spotify.com/artist/0x0Y7neKeFahTEo5UKdLah) | [Kashmir](https://open.spotify.com/album/1KHX5QuVXdKemj3i7mp1LV) | 4:44 |
 
-Snapshot ID: `AAAAAPtEYL5PLYIS2VrTXmL5EFDGifwD`
+Snapshot ID: `AAAAAAy3tgFFftZMyglQu9fsTCa220Vq`

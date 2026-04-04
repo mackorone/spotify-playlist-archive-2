@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 364522,
+  "num_followers": 364562,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "How Did You Love",
+        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 185955,
+      "name": "How Did You Love - Acoustic",
+      "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "mainstream sellout (life in pink deluxe)",
         "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 174991,
       "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
       "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "How Did You Love",
-        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 185955,
-      "name": "How Did You Love - Acoustic",
-      "url": "https://open.spotify.com/track/4bUbgl5yiMEfGFy8CQNnXB"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
-      "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Nothing Matters (Acoustic)",
         "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 183673,
       "name": "Nothing Matters - Acoustic",
       "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "go",
+        "url": "https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
+      "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Deep End (Stripped)",
-        "url": "https://open.spotify.com/album/5EZxyWXfsI6eJWuCvGNynA"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 210929,
-      "name": "Deep End - Stripped",
-      "url": "https://open.spotify.com/track/0S5h1Dk10b2UK2ssQE4AsO"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Can You Hear Me (Acoustic)",
         "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 174124,
       "name": "Can You Hear Me - Acoustic",
       "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Deep End (Stripped)",
+        "url": "https://open.spotify.com/album/5EZxyWXfsI6eJWuCvGNynA"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 210929,
+      "name": "Deep End - Stripped",
+      "url": "https://open.spotify.com/track/0S5h1Dk10b2UK2ssQE4AsO"
     },
     {
       "added_at": "2024-07-05 19:40:49",

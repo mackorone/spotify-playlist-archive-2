@@ -3217,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "ULTRAPANIC2",
+        "url": "https://open.spotify.com/album/1zg4XTpXBFeAltnyQPSDbV"
+      },
+      "artists": [
+        {
+          "name": "nulut",
+          "url": "https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Lower",
+      "url": "https://open.spotify.com/track/2IuiI71CH2EGPGDsFDqkkF"
+    },
+    {
+      "album": {
         "name": "Lunatic Crazy",
         "url": "https://open.spotify.com/album/2vAmVOCw26noicE9CmBQsE"
       },

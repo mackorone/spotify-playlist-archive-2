@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 
 > You know em, you love em, these are indie pop hits\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,086 likes - 125 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,167 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

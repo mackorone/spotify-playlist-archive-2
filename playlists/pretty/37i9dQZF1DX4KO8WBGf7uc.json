@@ -1,6 +1,6 @@
 {
   "description": "Lo que suena en la noche.",
-  "num_followers": 363950,
+  "num_followers": 364004,
   "original_name": "Andando De Noche",
   "owner": {
     "name": "Spotify",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-03-20 03:00:27",
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 189826,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/464uJVLmr0fDJGXOnciaDe"
+    },
+    {
+      "added_at": "2026-03-20 03:00:27",
+      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 267109,
       "name": "Vuelva A Ver (Remix)",
       "url": "https://open.spotify.com/track/0GrGfs8ldZRWOrksG5uraH"
-    },
-    {
-      "added_at": "2026-03-20 03:00:27",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 189826,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/464uJVLmr0fDJGXOnciaDe"
     },
     {
       "added_at": "2026-03-20 03:00:27",

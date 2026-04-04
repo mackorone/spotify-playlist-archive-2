@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 602804,
+  "num_followers": 602790,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 195613,
       "name": "Amores",
       "url": "https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -831,26 +831,6 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "No tenemos prisa",
-        "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
-      },
-      "artists": [
-        {
-          "name": "Silvia & Karmen",
-          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
-        },
-        {
-          "name": "Eleonor",
-          "url": "https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "Como una punzada",
-      "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
         "name": "Tu Amor No Vale un Bolero",
         "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 206710,
       "name": "Tu Amor No Vale un Bolero",
       "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
+        "name": "No tenemos prisa",
+        "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
+      },
+      "artists": [
+        {
+          "name": "Silvia & Karmen",
+          "url": "https://open.spotify.com/artist/0j9vq9tNfWPsdhl9sKCpEK"
+        },
+        {
+          "name": "Eleonor",
+          "url": "https://open.spotify.com/artist/4hBaD396LwLdZZyFOtm3xW"
+        }
+      ],
+      "duration_ms": 238847,
+      "name": "Como una punzada",
+      "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
         "name": "Hace Tiempo",
         "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 197862,
       "name": "Sabor a M\u00ed - Amuzgo",
       "url": "https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2025-01-10 16:11:48",

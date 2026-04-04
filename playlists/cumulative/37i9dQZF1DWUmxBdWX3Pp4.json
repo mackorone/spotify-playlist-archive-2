@@ -1135,6 +1135,28 @@
     },
     {
       "album": {
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247930,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2VdDYSWijGCmLFzvjYYMZJ"
+    },
+    {
+      "album": {
         "name": "ANGOLA",
         "url": "https://open.spotify.com/album/3n0U3Rlyjpd9OOgsLzdFO0"
       },
@@ -1438,6 +1460,24 @@
       "duration_ms": 444631,
       "name": "Babymama - Remix",
       "url": "https://open.spotify.com/track/1d3mQY9cJeyx0EMxBkXORn"
+    },
+    {
+      "album": {
+        "name": "Baddie Latina",
+        "url": "https://open.spotify.com/album/72u9kHvuknpsdY2VRA3DBO"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179851,
+      "name": "Baddie Latina",
+      "url": "https://open.spotify.com/track/0WFciB1uBAFiQQztgQUuSx"
     },
     {
       "album": {
@@ -5400,7 +5440,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 147846,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/1Turm6pOZBCx8xst3fA5kT"
@@ -5690,7 +5730,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 196986,
       "name": "Inmortal",
       "url": "https://open.spotify.com/track/0KFtEhso9Km1ViLz0hIPBC"
@@ -5708,7 +5748,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 97500,
       "name": "INMORTAL",
       "url": "https://open.spotify.com/track/4czmBSmYZaGg6fNKN0vj0B"
@@ -10241,6 +10281,28 @@
     },
     {
       "album": {
+        "name": "PIN",
+        "url": "https://open.spotify.com/album/2CD3IqfUkAlxtiDOURO1J0"
+      },
+      "artists": [
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "PIN",
+      "url": "https://open.spotify.com/track/6oPnlI69BFw388L0rx9jDT"
+    },
+    {
+      "album": {
         "name": "Pininfarina (Remix)",
         "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
       },
@@ -11282,6 +11344,32 @@
       "duration_ms": 133300,
       "name": "Samuleto",
       "url": "https://open.spotify.com/track/0T0VYY4LsTHNPqs5BtPdD7"
+    },
+    {
+      "album": {
+        "name": "Saquen Las Botellas",
+        "url": "https://open.spotify.com/album/0qBKYqgWvqJtBLItZg35xv"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Los Compas",
+          "url": "https://open.spotify.com/artist/0p7iJs5QwLKfKmA2f7XRIg"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157666,
+      "name": "Saquen Las Botellas",
+      "url": "https://open.spotify.com/track/1q1uYNdwVkXXyow2EN6m5S"
     },
     {
       "album": {

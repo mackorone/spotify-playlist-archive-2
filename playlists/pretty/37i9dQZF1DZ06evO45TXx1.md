@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,777 likes - 48 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,776 likes - 48 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 47 | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ) | 2:27 |
 | 48 | [SERENATA](https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:49 |
 
-Snapshot ID: `acxgAAAAAAAQqBBSAJ3KCYiiJUFYAJwJ`
+Snapshot ID: `ac2xgAAAAAAxPWkp5dEC/krxr8PBALWR`

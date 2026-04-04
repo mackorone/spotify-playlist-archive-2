@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 181714,
       "name": "asian linen.",
       "url": "https://open.spotify.com/track/6GxsJUQxLphKHiDSG2sDVU"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 157186,
       "name": "Come Live With Me",
       "url": "https://open.spotify.com/track/3YT2vdLbvfcjfCiNR4DsKT"
@@ -2523,6 +2523,28 @@
     },
     {
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/199hyVqmka83Ubpm9Qs8jx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363791,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
+    },
+    {
+      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/37MYEQeiuDvLm9aDPj9wvB"
       },
@@ -3078,6 +3100,28 @@
       "duration_ms": 225400,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
+    },
+    {
+      "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
     },
     {
       "album": {

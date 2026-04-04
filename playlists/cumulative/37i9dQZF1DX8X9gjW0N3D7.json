@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Arielle Soucy",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Choses Sauvages",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -280,6 +280,28 @@
       "duration_ms": 178872,
       "name": "Another Tangerine",
       "url": "https://open.spotify.com/track/6UEMQY0nHWOgXG9VvLNZzm"
+    },
+    {
+      "album": {
+        "name": "APPELLE-MOI TARD",
+        "url": "https://open.spotify.com/album/7pX3l7FOGSbaJFlKnpBPU2"
+      },
+      "artists": [
+        {
+          "name": "Lexotik",
+          "url": "https://open.spotify.com/artist/7kGFkoiwiCqh6KPZfp9aa7"
+        },
+        {
+          "name": "Thomas Laplante",
+          "url": "https://open.spotify.com/artist/2EpJkVB0j0lkqTaRjdT6Ze"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122250,
+      "name": "APPELLE-MOI TARD",
+      "url": "https://open.spotify.com/track/624RYE1uQSFLxyXoImOyTr"
     },
     {
       "album": {
@@ -1279,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/5ZBZ0cDomdZ9bacYd8KV1P"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219032,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/1wXFabrBrlDTr7SJclT1v5"
+    },
+    {
+      "album": {
         "name": "Y fait froid tout l'tour de la lune",
         "url": "https://open.spotify.com/album/5HqFB4TW4PHH0ESuqgQSWl"
       },
@@ -1498,6 +1538,24 @@
       "duration_ms": 220375,
       "name": "Dans les marguerites",
       "url": "https://open.spotify.com/track/4u3t4HNinQtSWsjUfs26Nm"
+    },
+    {
+      "album": {
+        "name": "Dans l\u2019temps",
+        "url": "https://open.spotify.com/album/4kyxM6cCGRQFRDfHxik3gn"
+      },
+      "artists": [
+        {
+          "name": "Sara Dufour",
+          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187198,
+      "name": "Dans l\u2019temps",
+      "url": "https://open.spotify.com/track/1vFup6NBDo6yL5ubgErCo9"
     },
     {
       "album": {
@@ -1814,6 +1872,24 @@
       "duration_ms": 167773,
       "name": "Dixie Diamond",
       "url": "https://open.spotify.com/track/4m2Qn0sOEeUQkrHX9Yb0nQ"
+    },
+    {
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7"
+      },
+      "artists": [
+        {
+          "name": "Edward Rogers",
+          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183275,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe"
     },
     {
       "album": {
@@ -2294,6 +2370,24 @@
       "duration_ms": 288232,
       "name": "Fond d'pichet sale de sangria",
       "url": "https://open.spotify.com/track/38wAAOl772w3M2u4H7wCY3"
+    },
+    {
+      "album": {
+        "name": "Freestyle Brooklyn",
+        "url": "https://open.spotify.com/album/6eDZPKR32jgfNoRfkazHg0"
+      },
+      "artists": [
+        {
+          "name": "em & I",
+          "url": "https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233413,
+      "name": "Freestyle Brooklyn",
+      "url": "https://open.spotify.com/track/1pEMEX6sM4S95nf8NoQtip"
     },
     {
       "album": {
@@ -2832,7 +2926,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 207006,
       "name": "J'ai tout foutu en l'air",
       "url": "https://open.spotify.com/track/4lpOQ8uuQyIIJiyKvigj0B"
@@ -3514,6 +3608,28 @@
       "duration_ms": 216586,
       "name": "L'usine",
       "url": "https://open.spotify.com/track/35kpLsbkfjiza5VLsPwYfM"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9cart du monde",
+        "url": "https://open.spotify.com/album/7xu4TXHEEnrF101ZaCtsf7"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Jensen",
+          "url": "https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq"
+        },
+        {
+          "name": "Paul Cargnello",
+          "url": "https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163555,
+      "name": "L'\u00e9cart du monde",
+      "url": "https://open.spotify.com/track/0GKJRmX43xqj6h6WiVUI3T"
     },
     {
       "album": {
@@ -4900,7 +5016,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195250,
       "name": "Mens pas",
       "url": "https://open.spotify.com/track/2wYC86oY3XekF4VEMTMS4p"
@@ -4922,7 +5038,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 262828,
       "name": "Mercy Street",
       "url": "https://open.spotify.com/track/0XL9JM8tWkiu0XofYYqpmU"
@@ -5850,7 +5966,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 117970,
       "name": "Plan b",
       "url": "https://open.spotify.com/track/2H8MxsbjCX1rGsNkGHinZa"
@@ -5934,6 +6050,24 @@
       "duration_ms": 176392,
       "name": "Pour que tu m'aimes",
       "url": "https://open.spotify.com/track/5BMhYj3GsMuI7esiL5FGAT"
+    },
+    {
+      "album": {
+        "name": "pourquoi",
+        "url": "https://open.spotify.com/album/27WLdbSsQYZhLGjac8p9zS"
+      },
+      "artists": [
+        {
+          "name": "William Gravel",
+          "url": "https://open.spotify.com/artist/0d5FjYRJhQ9GSIphJgbsd4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292173,
+      "name": "pourquoi",
+      "url": "https://open.spotify.com/track/1F5vx3A1XQMAiJGQ9F1TCJ"
     },
     {
       "album": {
@@ -6619,6 +6753,24 @@
     },
     {
       "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/3veZxdSOEopgxyOxouEvXj"
+      },
+      "artists": [
+        {
+          "name": "Choses Sauvages",
+          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214618,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I"
+    },
+    {
+      "album": {
         "name": "Shalala",
         "url": "https://open.spotify.com/album/46aFUJDVycrvzzrdXdEbZt"
       },
@@ -6836,6 +6988,24 @@
       "duration_ms": 236826,
       "name": "St. Denis",
       "url": "https://open.spotify.com/track/6ISDvrYhDFXJfvG4uk4b1n"
+    },
+    {
+      "album": {
+        "name": "Still You Love Me",
+        "url": "https://open.spotify.com/album/4S37RmMOM74DrU0PW0U0AG"
+      },
+      "artists": [
+        {
+          "name": "2120",
+          "url": "https://open.spotify.com/artist/0VsoloLwSIiLZ3AeoYjWSR"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198683,
+      "name": "Still You Love Me",
+      "url": "https://open.spotify.com/track/0matJgxZBlEDf4ACbMSBYx"
     },
     {
       "album": {

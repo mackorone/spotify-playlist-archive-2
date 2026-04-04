@@ -1,28 +1,48 @@
 {
-  "description": "Chill r&b. Cover: Jozzy",
-  "num_followers": 2369403,
+  "description": "Chill r&b. Cover: Jacquees",
+  "num_followers": 2369380,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKYymZqTsVNsNWfyzqMJXrEYw0jv",
+  "snapshot_id": "AAAAAPSpGqniTCViwg1eJnKSwXvqIgmF",
   "tracks": [
     {
-      "added_at": "2026-03-27 05:14:49",
+      "added_at": "2026-03-13 05:52:52",
       "album": {
-        "name": "Soundtrack 2 Get Her Back",
-        "url": "https://open.spotify.com/album/5XaX9juZsbuhbK3JcgKJZE"
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd"
       },
       "artists": [
         {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         }
       ],
-      "duration_ms": 171147,
-      "name": "True 2 Me",
-      "url": "https://open.spotify.com/track/42eUx35cp7oi3fGM8WAzF1"
+      "duration_ms": 232114,
+      "name": "Physical (feat.Tink)",
+      "url": "https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7"
+    },
+    {
+      "added_at": "2026-03-06 05:40:26",
+      "album": {
+        "name": "TABOO",
+        "url": "https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 165558,
+      "name": "TABOO",
+      "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
     },
     {
       "added_at": "2026-02-15 17:48:14",
@@ -41,20 +61,20 @@
       "url": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu"
     },
     {
-      "added_at": "2026-03-06 05:40:26",
+      "added_at": "2026-04-03 04:59:09",
       "album": {
-        "name": "TABOO",
-        "url": "https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10"
+        "name": "For All The Right Reasons Vol. 1",
+        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
       },
       "artists": [
         {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 165558,
-      "name": "TABOO",
-      "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
+      "duration_ms": 198648,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/3imanCE92X8HlLyFKMy3cT"
     },
     {
       "added_at": "2025-11-21 09:24:23",
@@ -145,22 +165,6 @@
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
     },
     {
-      "added_at": "2026-03-13 05:52:52",
-      "album": {
-        "name": "Safety",
-        "url": "https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 198648,
-      "name": "Safety",
-      "url": "https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66"
-    },
-    {
       "added_at": "2026-03-27 05:14:49",
       "album": {
         "name": "sounds for someone",
@@ -233,26 +237,6 @@
       "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
     },
     {
-      "added_at": "2026-03-13 05:52:52",
-      "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 232114,
-      "name": "Physical (feat.Tink)",
-      "url": "https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7"
-    },
-    {
       "added_at": "2026-02-06 07:07:56",
       "album": {
         "name": "Do You Still Love Me?",
@@ -305,74 +289,6 @@
       "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
     },
     {
-      "added_at": "2026-02-13 05:00:49",
-      "album": {
-        "name": "To Whom This May Concern",
-        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 270833,
-      "name": "To B Honest",
-      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
-    },
-    {
-      "added_at": "2026-03-20 15:58:14",
-      "album": {
-        "name": "When The City Sleeps",
-        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 209302,
-      "name": "Maybe Again",
-      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
-    },
-    {
-      "added_at": "2026-01-23 07:39:49",
-      "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 284997,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/5x1dCNl5oITrYHTytJdqup"
-    },
-    {
-      "added_at": "2026-02-27 07:03:38",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 236559,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
-    },
-    {
       "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Fly",
@@ -421,140 +337,72 @@
       "url": "https://open.spotify.com/track/1BC5ICKgJQiFbIWRqTsDV0"
     },
     {
-      "added_at": "2026-03-27 05:14:49",
+      "added_at": "2026-04-03 06:35:41",
       "album": {
-        "name": "Cry In Front Of You",
-        "url": "https://open.spotify.com/album/1SmsJFgdbWcnvjMXdX8phO"
+        "name": "At Least She's Beautiful",
+        "url": "https://open.spotify.com/album/1vf84Ai74VCCS3PGiKiHVT"
       },
       "artists": [
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
         }
       ],
-      "duration_ms": 183668,
-      "name": "Cry In Front Of You",
-      "url": "https://open.spotify.com/track/1W8h992dgBTLC4VEO7WTsY"
+      "duration_ms": 156000,
+      "name": "At Least She's Beautiful",
+      "url": "https://open.spotify.com/track/4jvRnPkFE4752PQjZH2dlu"
     },
     {
-      "added_at": "2026-02-06 07:07:56",
+      "added_at": "2026-02-27 07:03:38",
       "album": {
-        "name": "PRAY FOR ME",
-        "url": "https://open.spotify.com/album/3yZEEszzCOqgfBvehBC2Zs"
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
       "artists": [
         {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 195687,
-      "name": "96 Camry",
-      "url": "https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF"
+      "duration_ms": 236559,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
     },
     {
-      "added_at": "2026-02-01 01:44:28",
+      "added_at": "2026-01-23 07:39:49",
       "album": {
-        "name": "BACKWARD",
-        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 172524,
-      "name": "CHANGE OF SCENERY",
-      "url": "https://open.spotify.com/track/1FSIvc9mVlodIvzFLzAci3"
-    },
-    {
-      "added_at": "2026-01-16 05:00:35",
-      "album": {
-        "name": "Honey Water",
-        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 183002,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/5eISFKZXelPjYW4qZTDBo9"
-    },
-    {
-      "added_at": "2026-02-06 07:07:56",
-      "album": {
-        "name": "ACT II",
-        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "heal something",
-      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
-    },
-    {
-      "added_at": "2026-03-13 05:52:52",
-      "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 195516,
-      "name": "Prague",
-      "url": "https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ"
+      "duration_ms": 284997,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/5x1dCNl5oITrYHTytJdqup"
     },
     {
       "added_at": "2026-02-13 05:00:49",
       "album": {
-        "name": "Icon",
-        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+        "name": "To Whom This May Concern",
+        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 223621,
-      "name": "wrong faces.",
-      "url": "https://open.spotify.com/track/0yYTRodDOWqZZ0AWa2qxHH"
-    },
-    {
-      "added_at": "2026-03-27 05:14:49",
-      "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
         },
         {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "BunnaB",
-          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m"
+      "duration_ms": 270833,
+      "name": "To B Honest",
+      "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
     },
     {
       "added_at": "2026-03-13 05:52:52",
@@ -573,20 +421,116 @@
       "url": "https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I"
     },
     {
-      "added_at": "2026-02-13 05:00:49",
+      "added_at": "2026-04-03 04:59:09",
       "album": {
-        "name": "w.t.a.",
-        "url": "https://open.spotify.com/album/37GWgZAdzbzzVm81jpIC6M"
+        "name": "DND",
+        "url": "https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs"
       },
       "artists": [
         {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
         }
       ],
-      "duration_ms": 202564,
-      "name": "w.t.a.",
-      "url": "https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH"
+      "duration_ms": 153654,
+      "name": "S.I.M.P.L.E",
+      "url": "https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb"
+    },
+    {
+      "added_at": "2026-02-06 07:07:56",
+      "album": {
+        "name": "PRAY FOR ME",
+        "url": "https://open.spotify.com/album/3yZEEszzCOqgfBvehBC2Zs"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 195687,
+      "name": "96 Camry",
+      "url": "https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF"
+    },
+    {
+      "added_at": "2026-03-27 05:14:49",
+      "album": {
+        "name": "Soundtrack 2 Get Her Back",
+        "url": "https://open.spotify.com/album/5XaX9juZsbuhbK3JcgKJZE"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 171147,
+      "name": "True 2 Me",
+      "url": "https://open.spotify.com/track/42eUx35cp7oi3fGM8WAzF1"
+    },
+    {
+      "added_at": "2026-04-03 06:35:41",
+      "album": {
+        "name": "LUber",
+        "url": "https://open.spotify.com/album/5S6j5rGzzXNZDiXViRQcEE"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "LUber",
+      "url": "https://open.spotify.com/track/08xEJQb6PB0vxxEpdlhT0o"
+    },
+    {
+      "added_at": "2026-01-16 05:00:35",
+      "album": {
+        "name": "Honey Water",
+        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 183002,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5eISFKZXelPjYW4qZTDBo9"
+    },
+    {
+      "added_at": "2026-02-01 01:44:28",
+      "album": {
+        "name": "BACKWARD",
+        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 172524,
+      "name": "CHANGE OF SCENERY",
+      "url": "https://open.spotify.com/track/1FSIvc9mVlodIvzFLzAci3"
+    },
+    {
+      "added_at": "2026-02-06 07:07:56",
+      "album": {
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "heal something",
+      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
     },
     {
       "added_at": "2026-02-13 05:00:49",
@@ -625,20 +569,68 @@
       "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
     },
     {
-      "added_at": "2026-02-27 17:48:18",
+      "added_at": "2026-04-03 04:59:09",
       "album": {
-        "name": "badman",
-        "url": "https://open.spotify.com/album/7HryhBfvpRhVRzcWF2SH8W"
+        "name": "I Want You Back",
+        "url": "https://open.spotify.com/album/0RduEW1uFQjiR2J25MmG3H"
       },
       "artists": [
         {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
         }
       ],
-      "duration_ms": 218918,
-      "name": "raindance",
-      "url": "https://open.spotify.com/track/4iri2wi0oBPowVHazsOzIO"
+      "duration_ms": 198720,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/2uT340YoNU82MQmG7fgKk0"
+    },
+    {
+      "added_at": "2026-03-13 05:52:52",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 195516,
+      "name": "Prague",
+      "url": "https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:49",
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 223621,
+      "name": "wrong faces.",
+      "url": "https://open.spotify.com/track/0yYTRodDOWqZZ0AWa2qxHH"
+    },
+    {
+      "added_at": "2026-04-03 04:59:09",
+      "album": {
+        "name": "For All The Right Reasons Vol. 1",
+        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "What They Want?",
+      "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"
     },
     {
       "added_at": "2026-02-27 07:03:38",
@@ -655,6 +647,142 @@
       "duration_ms": 250152,
       "name": "Honour",
       "url": "https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r"
+    },
+    {
+      "added_at": "2025-09-19 06:30:11",
+      "album": {
+        "name": "I Wish I Didn\u2019t Waste Your Time",
+        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "I Wish I Didn\u2019t Waste Your Time",
+      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
+    },
+    {
+      "added_at": "2026-02-27 17:48:18",
+      "album": {
+        "name": "badman",
+        "url": "https://open.spotify.com/album/7HryhBfvpRhVRzcWF2SH8W"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 218918,
+      "name": "raindance",
+      "url": "https://open.spotify.com/track/4iri2wi0oBPowVHazsOzIO"
+    },
+    {
+      "added_at": "2026-02-27 17:48:18",
+      "album": {
+        "name": "Tricks Are For Kids",
+        "url": "https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        }
+      ],
+      "duration_ms": 140259,
+      "name": "Tricks Are For Kids",
+      "url": "https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw"
+    },
+    {
+      "added_at": "2026-04-03 04:59:09",
+      "album": {
+        "name": "Rain On Me",
+        "url": "https://open.spotify.com/album/3hgnBTDyDAvWoQ6SNqUqgy"
+      },
+      "artists": [
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        }
+      ],
+      "duration_ms": 180313,
+      "name": "Rain On Me",
+      "url": "https://open.spotify.com/track/3sx0w5R8ypSstoSBseVERN"
+    },
+    {
+      "added_at": "2026-03-20 15:58:14",
+      "album": {
+        "name": "When The City Sleeps",
+        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "Maybe Again",
+      "url": "https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO"
+    },
+    {
+      "added_at": "2026-03-27 05:14:49",
+      "album": {
+        "name": "Cry In Front Of You",
+        "url": "https://open.spotify.com/album/1SmsJFgdbWcnvjMXdX8phO"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 183668,
+      "name": "Cry In Front Of You",
+      "url": "https://open.spotify.com/track/1W8h992dgBTLC4VEO7WTsY"
+    },
+    {
+      "added_at": "2026-03-27 05:14:49",
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m"
+    },
+    {
+      "added_at": "2026-02-13 05:00:49",
+      "album": {
+        "name": "w.t.a.",
+        "url": "https://open.spotify.com/album/37GWgZAdzbzzVm81jpIC6M"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 202564,
+      "name": "w.t.a.",
+      "url": "https://open.spotify.com/track/0E0A9dqRSYlXufh90ZMrxH"
     },
     {
       "added_at": "2026-03-06 05:40:26",
@@ -831,22 +959,6 @@
       "duration_ms": 195107,
       "name": "desire.",
       "url": "https://open.spotify.com/track/2A4NtpYcvffYdNi2PwR5hh"
-    },
-    {
-      "added_at": "2026-02-27 17:48:18",
-      "album": {
-        "name": "Tricks Are For Kids",
-        "url": "https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO"
-      },
-      "artists": [
-        {
-          "name": "rjtheweirdo",
-          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
-        }
-      ],
-      "duration_ms": 140259,
-      "name": "Tricks Are For Kids",
-      "url": "https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw"
     },
     {
       "added_at": "2026-02-27 07:03:38",
@@ -3097,22 +3209,6 @@
       "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
     },
     {
-      "added_at": "2025-10-24 08:57:48",
-      "album": {
-        "name": "Scene 2",
-        "url": "https://open.spotify.com/album/5ncjT7Skxpg5qKSB89PBye"
-      },
-      "artists": [
-        {
-          "name": "Maz B",
-          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Scene 2",
-      "url": "https://open.spotify.com/track/24RXVWpfzaAyWgm4Estifw"
-    },
-    {
       "added_at": "2025-10-10 08:45:03",
       "album": {
         "name": "Can't Explain It (with Girlfriend)",
@@ -3235,22 +3331,6 @@
       "duration_ms": 123770,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6"
-    },
-    {
-      "added_at": "2025-09-19 06:30:11",
-      "album": {
-        "name": "I Wish I Didn\u2019t Waste Your Time",
-        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "I Wish I Didn\u2019t Waste Your Time",
-      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
     },
     {
       "added_at": "2025-07-18 04:51:03",
@@ -3475,22 +3555,6 @@
       "duration_ms": 195454,
       "name": "move it along (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
-    },
-    {
-      "added_at": "2025-08-29 19:03:11",
-      "album": {
-        "name": "Miss Black America",
-        "url": "https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "Bettadaze",
-      "url": "https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP"
     },
     {
       "added_at": "2025-08-22 04:00:21",
@@ -3845,22 +3909,6 @@
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
     },
     {
-      "added_at": "2025-08-01 05:01:28",
-      "album": {
-        "name": "CEDAR'S TAPE",
-        "url": "https://open.spotify.com/album/6Tu3Qz3GgYtPeZgVFpBYSJ"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "HERO",
-      "url": "https://open.spotify.com/track/5rF0aJCoL9eDCy2R99y2yi"
-    },
-    {
       "added_at": "2025-07-18 04:51:03",
       "album": {
         "name": "Oakland Baby",
@@ -3991,26 +4039,6 @@
       "duration_ms": 291046,
       "name": "Idea 5 (Call My Name) [feat. LULU.]",
       "url": "https://open.spotify.com/track/0H9K4Ul9aFjf2RV14K5Xzf"
-    },
-    {
-      "added_at": "2025-03-28 04:00:48",
-      "album": {
-        "name": "SEARCHING",
-        "url": "https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 150038,
-      "name": "SEARCHING",
-      "url": "https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w"
     },
     {
       "added_at": "2025-01-31 10:12:57",
@@ -4191,42 +4219,6 @@
       "duration_ms": 173875,
       "name": "act right",
       "url": "https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO"
-    },
-    {
-      "added_at": "2025-05-09 04:00:20",
-      "album": {
-        "name": "FROM FLORIDA'S FINEST",
-        "url": "https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 150560,
-      "name": "BELLY",
-      "url": "https://open.spotify.com/track/7vbWVpYEK2rhBdmLf5DZf9"
-    },
-    {
-      "added_at": "2025-05-09 04:00:20",
-      "album": {
-        "name": "HARD TRUTHS",
-        "url": "https://open.spotify.com/album/0fuIOqcLppUGvtS9sVssCF"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 146908,
-      "name": "HARD TRUTHS",
-      "url": "https://open.spotify.com/track/2kkRW9QXMQ6shaneQWqCgB"
     },
     {
       "added_at": "2025-04-25 06:19:53",

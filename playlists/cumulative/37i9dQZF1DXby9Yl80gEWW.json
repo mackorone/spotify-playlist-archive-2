@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "Big Daddy Rabbit",
+        "url": "https://open.spotify.com/album/0WLM0wv3Im5ICb0tEa4ezB"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Nathan Livers",
+          "url": "https://open.spotify.com/artist/0iUQ223R2ZueKqseWEWo3e"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264840,
+      "name": "Big Daddy Rabbit",
+      "url": "https://open.spotify.com/track/0rIpjFDkOQTK1gVILP01NO"
+    },
+    {
+      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -4054,7 +4076,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186826,
       "name": "No. 444",
       "url": "https://open.spotify.com/track/62UxY8jTCQIOJglkZl2QuW"

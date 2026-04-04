@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. el Xava Drago por siempre ",
-  "num_followers": 574219,
+  "num_followers": 574238,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Aqui",
-        "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198560,
-      "name": "De Mis Pasos",
-      "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Viva El Rock Latino 2015",
         "url": "https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 322040,
       "name": "Nasty Sex",
       "url": "https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "Aqui",
+        "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198560,
+      "name": "De Mis Pasos",
+      "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
+        "name": "Rock Milenium",
+        "url": "https://open.spotify.com/album/2AusEMAvDewcPfe635W38x"
+      },
+      "artists": [
+        {
+          "name": "La Lupita",
+          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
+        }
+      ],
+      "duration_ms": 167226,
+      "name": "Paquita Disco",
+      "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
         "name": "Sufro Sufro Sufro",
         "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 249506,
       "name": "Nos Tragamos",
       "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
-        "name": "Sobre Natural",
-        "url": "https://open.spotify.com/album/4plALexvYJjioZhfvh47PA"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Sobre Natural",
-      "url": "https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf"
     }
   ],
   "unique_name": "Iconos del Rock Mexicano",

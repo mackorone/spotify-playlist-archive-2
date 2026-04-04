@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,660 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,729 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 53 | [Don't Let No One Get You Down](https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 4:00 |
 | 54 | [I Do Love You](https://open.spotify.com/track/75FAk9JQHHLecKEZ8OZxpK) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Disco Nights \(Expanded Edition\)](https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum) | 4:48 |
 | 55 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |
-| 56 | [I'm So Proud](https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Never Ending Impressions](https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF) | 2:51 |
-| 57 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
+| 56 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
+| 57 | [I'm So Proud](https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Never Ending Impressions](https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF) | 2:51 |
 | 58 | [On A Sunday Afternoon](https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb) | [Lighter Shade Of Brown](https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2) | [Frost Presents...Raza Radio](https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj) | 3:32 |
 | 59 | [Eighteen With A Bullet](https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz) | [Pete Wingfield](https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb) | [Breakfast Special](https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb) | 3:31 |
 | 60 | [Sad Girl](https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:00 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 86 | [Thee Only One](https://open.spotify.com/track/3T7nX7qDSC7LDPC18lWOku) | [Trish Toledo](https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah), [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Thee Only One](https://open.spotify.com/album/4ztSd9IONvZJ1kq4sdDkVp) | 3:36 |
 | 87 | [Oh What A Nite](https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Dreams Of Contentment \(Special Deluxe Collection\)](https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI) | 2:56 |
 | 88 | [Laughing Boy](https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Two Lovers](https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL) | 2:50 |
-| 89 | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE) | [The Vanguards](https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW) | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6) | 3:51 |
-| 90 | [I Belong To You](https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Number Ones](https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky) | 3:49 |
+| 89 | [I Belong To You](https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Number Ones](https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky) | 3:49 |
+| 90 | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE) | [The Vanguards](https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW) | [Somebody Please \(Stereo Mix 2019\)](https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6) | 3:51 |
 | 91 | [Strange Feeling](https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 2:13 |
 | 92 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/1jHnZTRWg5xRHV4SeyUiQz) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 2:28 |
 | 93 | [What Love Has Joined Together \- Single Version](https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Looking Back 1961\-1964](https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX) | 2:57 |

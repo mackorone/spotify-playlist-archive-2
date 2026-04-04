@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-605 songs - 1 day 13 hr 33 min
+608 songs - 1 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [El Baile de Carlito](https://open.spotify.com/track/6E8VN9DP3RzSv5R8m0K0UM) | [Carlito](https://open.spotify.com/artist/3nZReQzzyTIXP692DUqhxD) | [El Baile de Carlito](https://open.spotify.com/album/7qWXaz2mgOMsomrpwAzcgT) | 2:03 | 2026-03-10 |  |
 | [El Mundo \- The Cube Guys Radio Edit](https://open.spotify.com/track/2E95UxSc3sbPymFdUKF2AB) | [Chicca Leaf](https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ), [Mess](https://open.spotify.com/artist/6ZgLX6dxeYh2VCXlZBHp17), [Kenzo \(ITA\)](https://open.spotify.com/artist/3OCNLDaUydg5VsX811Zod3), [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [El Mundo \(The Cube Guys Mix\)](https://open.spotify.com/album/211GpUDZSpVWGOd47XSaRY) | 2:01 | 2026-02-25 |  |
 | [El Perdón](https://open.spotify.com/track/6gPLVEwgM1b7ro9uZ0OD5r) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [Por Eso Que Me Amas EP](https://open.spotify.com/album/63Nu1PeMnLSvmWGQrcPVlU) | 3:26 | 2023-04-23 | 2023-05-23 |
+| [En Medio de la Luz](https://open.spotify.com/track/5nttFw9iY9q2b7JridWpRr) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Symphonic house](https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ) | 3:53 | 2026-04-03 |  |
 | [Endless Bliss](https://open.spotify.com/track/3MFp3iT64O44kvRuDXlVnN) | [Viaggi Sonori](https://open.spotify.com/artist/2Rmp2ArNd8rvmEJ3QBNe3Q), [Mark Sunrise](https://open.spotify.com/artist/0OpqRkBzUOzMFT0ilUvOqw), [Jolie](https://open.spotify.com/artist/4h6P5BOsf2pPJQwhderv6Z) | [Endless Bliss](https://open.spotify.com/album/2Vde3eMCZfYoM6BjP7WwNz) | 3:38 | 2026-02-24 |  |
 | [Energy](https://open.spotify.com/track/68fHIJayqhaS5aQCNKKkA2) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Energy](https://open.spotify.com/album/1jEg0Zcl5ydrt9EVXBP1w6) | 3:13 | 2023-03-31 | 2023-04-24 |
 | [Energy](https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Energy](https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb) | 3:02 | 2023-03-26 | 2023-04-17 |
@@ -393,6 +394,7 @@
 | [NVRBE](https://open.spotify.com/track/5VhcagXIZLl89yVBMKXcdX) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [Again](https://open.spotify.com/album/3UfZC0DQt2irfvnUWQ8yhW) | 5:25 | 2023-08-06 | 2023-09-26 |
 | [Off Your Bracket](https://open.spotify.com/track/492WSHQhv8dgMkj59ofKgG) | [Lumiere](https://open.spotify.com/artist/3Yty2Yiw88iHcVEyzZSWhj) | [Off Your Bracket](https://open.spotify.com/album/2McCPdam3WOCIYPnXHr4M0) | 6:03 | 2026-01-19 | 2026-02-23 |
 | [OLD SYNTH](https://open.spotify.com/track/3quOoZcZIjbutAAgUwcof7) | [PakoLP](https://open.spotify.com/artist/7hXA9Gsz23oiXjZ25UyZta), [Pasquale Licito](https://open.spotify.com/artist/4gtyf1Bf2sFWTQH1HdtEiU) | [OLD SYNTH](https://open.spotify.com/album/7rW2c90KeYeTNAu11D5KVA) | 5:02 | 2026-01-27 | 2026-02-23 |
+| [On My Way](https://open.spotify.com/track/0I1p43mg1k4EoCDYYlhXkP) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [Aplysia](https://open.spotify.com/album/5jK8fD4534sjltztJ8oMe7) | 3:54 | 2026-04-03 |  |
 | [ON YA MARK](https://open.spotify.com/track/70CWkjPF4ETV62o5Hu82SD) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [ON YA MARK](https://open.spotify.com/album/2LTSKqCad4wS9IAWkswsFe) | 6:31 | 2024-04-14 | 2024-07-08 |
 | [One is Loose](https://open.spotify.com/track/5d66qwcjHhhnvPzTRFwk8T) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Afterhours: Cinematic Techno \(Vol\. 1\)](https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa) | 4:29 | 2026-03-22 |  |
 | [Only Love Matters \- Part 1 \- London](https://open.spotify.com/track/6P45k6uEzsbuXlL6t1qEha) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only Love Matters \(Part 1 \- London\)](https://open.spotify.com/album/0nlGjAwuEminR5Nd1i6Cij) | 2:17 | 2025-12-12 | 2026-01-03 |
@@ -530,6 +532,7 @@
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-04-30 | 2023-05-23 |
 | [Terrace Express \- Original Mix](https://open.spotify.com/track/1k0pziWBAbZtH2V2CoVrR6) | [Marco Basile](https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B), [ALEX NEURET](https://open.spotify.com/artist/1Yd4LQK4Efy0H2Ui6SdtTV) | [Terrace Express](https://open.spotify.com/album/3oqrimZKe9RS07nxEfPVqF) | 5:56 | 2026-02-23 |  |
 | [Tether Mouth\-Shape](https://open.spotify.com/track/5HAGEG6Ac0WOg7SW9kNR3J) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Afterhours: Cinematic Techno \(Vol\. 1\)](https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa) | 4:10 | 2026-03-22 |  |
+| [That Night the DJ Ruined My Life](https://open.spotify.com/track/0gg9TWdYGOqWyK0FAA4IBT) | [Leo Effe](https://open.spotify.com/artist/190T5d0VosWDsjeUzIDR4M) | [That Night the DJ Ruined My Life](https://open.spotify.com/album/40YnshTmXMO7rlVOnndXni) | 3:07 | 2026-04-03 |  |
 | [The Biznes](https://open.spotify.com/track/5DCSFGxrLMYYio1NKPNEO6) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Rave Grave](https://open.spotify.com/album/5h4wJIZVn43IZVTJxMsete) | 3:27 | 2023-07-02 | 2023-07-31 |
 | [The Chant](https://open.spotify.com/track/5YgEBkuwbKpSU14XiVkG59) | [Danner \(US\)](https://open.spotify.com/artist/3AuIQd8biRyI5g4FiwO8AI) | [The Chant](https://open.spotify.com/album/5y0nLRNNz8vBAHueIu6gsx) | 2:51 | 2023-01-29 | 2023-02-20 |
 | [The Feeling](https://open.spotify.com/track/3rDHqwEaW1imPZrNngMJaY) | [Joax](https://open.spotify.com/artist/6ZVtX2xT5iMoNqDrKZDy1R) | [The Feeling](https://open.spotify.com/album/48V4icljZR1aRguBSyKNU8) | 3:43 | 2026-01-14 | 2026-02-23 |

@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-549 songs - 1 day 19 hr 30 min
+549 songs - 1 day 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Surely Goodness \(feat\. Phil Thompson\)](https://open.spotify.com/track/5p8eebjG6L3AS5JxGA6fSg) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Surely Goodness](https://open.spotify.com/album/7JPu2axcCxxcXhu3PDVnZY) | 4:48 | 2025-04-25 | 2025-05-16 |
 | [Take all the Praise](https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Take all the Praise](https://open.spotify.com/album/7M4bQLCG8KzBmhiMy9aW70) | 6:31 | 2024-06-29 | 2024-08-16 |
 | [Take It](https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl) | [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Take It](https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ) | 2:35 | 2023-04-20 | 2023-06-23 |
+| [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 | 2026-04-03 |  |
 | [Take It All Back](https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt) | 3:13 | 2023-12-29 | 2025-10-03 |
 | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD) | 2:56 | 2023-12-29 | 2025-02-14 |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-15 | 2023-10-23 |
@@ -482,7 +483,6 @@
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2024-03-29 | 2024-04-05 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-04-07 | 2024-04-19 |
 | [Too Faithful](https://open.spotify.com/track/4VAX2Vu5fpGYxgUqfcFiNX) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/0c86R9zB5csfesL1jn7E0s) | 6:10 | 2023-12-15 | 2025-10-17 |
-| [Track 9](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 0:00 | 2026-04-03 |  |
 | [True Love](https://open.spotify.com/track/64g7yZSdEEU5EctgNSXoat) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [True Love](https://open.spotify.com/album/0fysW24DQvmfDWN1WFxpNE) | 2:30 | 2024-02-08 | 2024-02-16 |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Trusted](https://open.spotify.com/track/2PRebsAfb6LBVYLr5mKMlt) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Trusted](https://open.spotify.com/album/7cZ7nXWQsrE2VoFXErZWVN) | 3:04 | 2024-01-19 | 2024-02-16 |

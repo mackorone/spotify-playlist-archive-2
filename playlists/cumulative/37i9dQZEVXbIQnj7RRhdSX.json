@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 127499,
       "name": "7ELEVEN",
       "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 193614,
       "name": "ACQUARIO",
       "url": "https://open.spotify.com/track/0P0GZSQTYSdCPzQar8Rbqf"
@@ -4750,7 +4750,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 193667,
       "name": "ARCOBALENO (feat. Anuel AA)",
       "url": "https://open.spotify.com/track/7os93Vpc5gJ40Fm0QC48a8"
@@ -21020,7 +21020,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 224767,
       "name": "FOTOGRAFIA",
       "url": "https://open.spotify.com/track/09tzv8qfDEXeQsOMx5SUAk"
@@ -22668,6 +22668,24 @@
       "duration_ms": 166299,
       "name": "Giovane re",
       "url": "https://open.spotify.com/track/2UdBmBTG6AEG5UJrm5QBAc"
+    },
+    {
+      "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168342,
+      "name": "Giovani Re",
+      "url": "https://open.spotify.com/track/7aNsNTpMq7D4fffUiYKXNR"
     },
     {
       "album": {
@@ -55422,7 +55440,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 172200,
       "name": "Superclassico",
       "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
@@ -59768,7 +59786,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 217458,
       "name": "uomo che cade",
       "url": "https://open.spotify.com/track/04D9HzwC1Re1anayHhJNKb"
@@ -62022,7 +62040,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"

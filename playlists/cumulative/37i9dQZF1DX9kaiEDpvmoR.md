@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-531 songs - 1 day 7 hr 20 min
+532 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [ICONIC](https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [ICONIC](https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7) | 2:41 | 2025-06-12 | 2025-11-21 |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Discomforts](https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs) | 2:48 | 2024-09-26 | 2025-04-25 |
 | [If You Lose Her, You're A Loser](https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [I'm Not Dead Yet](https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM) | 3:19 | 2024-08-22 | 2024-10-11 |
+| [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 | 2026-04-02 |  |
 | [In Your Grace](https://open.spotify.com/track/6mpZzSwKvQxgYtQ0cEBvtx) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [In Your Grace](https://open.spotify.com/album/6VV7zn9Bjb1jqUFWZkvsmN) | 5:27 | 2026-02-12 |  |
 | [Ingen annan](https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Sånger om dig](https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz) | 2:54 | 2024-09-12 | 2025-04-25 |
 | [Ingen så nära inpå](https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Ingen så nära inpå](https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP) | 3:57 | 2024-08-08 | 2024-10-06 |

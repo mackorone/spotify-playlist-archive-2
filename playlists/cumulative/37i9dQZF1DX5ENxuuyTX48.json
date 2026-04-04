@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "After all, we are all siblings \ud83c\uddee\ud83c\udde9 \ud83c\uddf2\ud83c\uddfe\ud83c\uddf8\ud83c\uddec  Cover: Amir Jahari",
+  "description": "After all, we are all siblings \ud83c\uddee\ud83c\udde9 \ud83c\uddf2\ud83c\uddfe\ud83c\uddf8\ud83c\uddec  Cover: Farrel Hilal",
   "name": "mantap vibes",
   "tracks": [
     {
@@ -810,7 +810,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 203809,
       "name": "Aduh Gak Kuat",
       "url": "https://open.spotify.com/track/4rCqe8yZVf8XiO2k4rHHZN"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 258148,
       "name": "Angin Rindu",
       "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
@@ -9232,7 +9232,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 242500,
       "name": "Demi Nama Cinta",
       "url": "https://open.spotify.com/track/3qgRIWLa3QW9bv4FrvfMiV"
@@ -9723,6 +9723,24 @@
     },
     {
       "album": {
+        "name": "Di Tepi Lamunan (Original Soundtrack from \u2018Para Perasuk\u2019)",
+        "url": "https://open.spotify.com/album/3Fn9WrozjuRkGNhe2CTCDA"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234674,
+      "name": "Di Tepi Lamunan - Original Soundtrack from \u2018Para Perasuk\u2019",
+      "url": "https://open.spotify.com/track/0DX9GrFmZw6tiUnFR29J4K"
+    },
+    {
+      "album": {
         "name": "Di Ujung Hari",
         "url": "https://open.spotify.com/album/6EKeNdmZmzZpZanXKYA5wY"
       },
@@ -9846,7 +9864,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 184218,
       "name": "DIAM!",
       "url": "https://open.spotify.com/track/12Up29VqU3Eym1pDUGPu1l"
@@ -10052,10 +10070,28 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 156684,
       "name": "DM",
       "url": "https://open.spotify.com/track/0SwdKgpwRUviyJ4RQU75An"
+    },
+    {
+      "album": {
+        "name": "Do All Good Things End?",
+        "url": "https://open.spotify.com/album/7y4PblINmGHAcOcS7vEyZ3"
+      },
+      "artists": [
+        {
+          "name": "Emily Sie",
+          "url": "https://open.spotify.com/artist/1LPneWzGLQJfLoEHhgzUL6"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175788,
+      "name": "Do All Good Things End?",
+      "url": "https://open.spotify.com/track/2LqC5WVDd5g15sMh9Fut0N"
     },
     {
       "album": {
@@ -12020,6 +12056,24 @@
       "duration_ms": 135737,
       "name": "Gather Round",
       "url": "https://open.spotify.com/track/6OAJLsHM8GE5eePPTwbRXH"
+    },
+    {
+      "album": {
+        "name": "GayA idup",
+        "url": "https://open.spotify.com/album/3sO5r43XRgmABUrDUEf8aC"
+      },
+      "artists": [
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110163,
+      "name": "GayA idup",
+      "url": "https://open.spotify.com/track/5rQCvrRGZJgAQwFG7WSps9"
     },
     {
       "album": {
@@ -14147,6 +14201,24 @@
     },
     {
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/7e0QvZS2PRY4WiPAJfasBV"
+      },
+      "artists": [
+        {
+          "name": "supercatkei",
+          "url": "https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195405,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/2z4CjUPlmxlTperrWnuqAr"
+    },
+    {
+      "album": {
         "name": "i don't blame you",
         "url": "https://open.spotify.com/album/7mfM71zt3V33kq7YMI2jxz"
       },
@@ -15180,7 +15252,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 245497,
       "name": "Infiniti - Kita Up - With PUBG MOBILE",
       "url": "https://open.spotify.com/track/31z3l66d3BsegFeUdqLGYU"
@@ -15520,7 +15592,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 180476,
       "name": "Irfan",
       "url": "https://open.spotify.com/track/0ANsTemtWnAQEJhj79RV3u"
@@ -18283,6 +18355,24 @@
     },
     {
       "album": {
+        "name": "Keliling",
+        "url": "https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179225,
+      "name": "Keliling",
+      "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
+    },
+    {
+      "album": {
         "name": "Kelopak Mata",
         "url": "https://open.spotify.com/album/6m5ojqmoLZn1Tq8iUhfFRC"
       },
@@ -19294,7 +19384,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 277700,
       "name": "kota ini tak sama tanpamu - Orchestra Version",
       "url": "https://open.spotify.com/track/1KuosMMOJ6Ow6snWbMdgl5"
@@ -23768,7 +23858,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 251298,
       "name": "Menunggumu Sampai Akhir Hidup",
       "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
@@ -24308,7 +24398,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 205080,
       "name": "More Time",
       "url": "https://open.spotify.com/track/1eFYjbLIN7ifJFiyn6uGfg"
@@ -24384,7 +24474,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 216000,
       "name": "Ms. I Thrift Everything",
       "url": "https://open.spotify.com/track/1x61J9jICZFEoB3FFu1jH6"
@@ -25526,6 +25616,42 @@
       "duration_ms": 247105,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh"
+    },
+    {
+      "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/5Mr6MbTtZyob5BwcyRsPsN"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155688,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/2KPZkOawYOjB0LCY6pcTrx"
+    },
+    {
+      "album": {
+        "name": "Nobody's Home",
+        "url": "https://open.spotify.com/album/0gvOTt48rnmkinMlxOSVHP"
+      },
+      "artists": [
+        {
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/4jhoqChqIHofAFV4KauA6v"
     },
     {
       "album": {
@@ -28974,7 +29100,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 185911,
       "name": "RACKS",
       "url": "https://open.spotify.com/track/2m2aqiJQsJbNWXJafM4NrI"
@@ -29350,6 +29476,24 @@
       "duration_ms": 216439,
       "name": "Rasa Sayang Sayang",
       "url": "https://open.spotify.com/track/6QlxjFqx0ntOi7KEmVb757"
+    },
+    {
+      "album": {
+        "name": "PISSED ME OFF / BORED ME TO DEATH",
+        "url": "https://open.spotify.com/album/1ZVS7kg3oUYwmdnETa3ujT"
+      },
+      "artists": [
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "RATHER BE / IN HELL",
+      "url": "https://open.spotify.com/track/0lVgwDVMGiCUa9tSWo56Oq"
     },
     {
       "album": {
@@ -29942,7 +30086,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195217,
       "name": "Ridin' in My Car",
       "url": "https://open.spotify.com/track/1Al0oRPSWznrW4EWyLsKRR"
@@ -31600,7 +31744,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 244534,
       "name": "Seandainya",
       "url": "https://open.spotify.com/track/6UDgmrLSS7f4f3PJDGFnMG"
@@ -31810,7 +31954,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 211636,
       "name": "Sebuah Puisi",
       "url": "https://open.spotify.com/track/6ruVNtweuLJKcjiS9N4kX7"
@@ -32718,6 +32862,24 @@
       "duration_ms": 234193,
       "name": "Sempurnakan Aku",
       "url": "https://open.spotify.com/track/2q5ALstTObricA6x4T9Qeb"
+    },
+    {
+      "album": {
+        "name": "Sempurnanya Aku",
+        "url": "https://open.spotify.com/album/3rq58ZVUSgptnwT3aqqqKR"
+      },
+      "artists": [
+        {
+          "name": "NPD",
+          "url": "https://open.spotify.com/artist/1TyOcqrycLx6L5U9ULfW40"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228851,
+      "name": "Sempurnanya Aku",
+      "url": "https://open.spotify.com/track/0JfmPdTQbvJpD6ngsCLgR5"
     },
     {
       "album": {
@@ -35634,7 +35796,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 281856,
       "name": "TAGULING-GULING",
       "url": "https://open.spotify.com/track/3kpyfir8JelHtZosulYtBm"
@@ -40028,7 +40190,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 185994,
       "name": "wasteland",
       "url": "https://open.spotify.com/track/4nU7tSVX06D8JOZ08oUecQ"

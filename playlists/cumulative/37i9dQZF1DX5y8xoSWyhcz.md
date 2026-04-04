@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,582 songs - 3 day 10 hr 14 min
+1,585 songs - 3 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Corporate Social Responsibility](https://open.spotify.com/track/02djVZOUYpmsy369ybJHXb) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Corporate Social Responsibility](https://open.spotify.com/album/04TzObDDVscU6Br4eMKofx) | 3:35 | 2021-04-24 | 2021-07-17 |
 | [Cotton Candy](https://open.spotify.com/track/0RLIUOXaZUvZub2Qn7NHqh) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Cotton Candy](https://open.spotify.com/album/1hVCtTKZ96eJByKOEjKsbz) | 1:33 | 2020-10-29\* | 2021-03-14 |
 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 | 2020-10-29\* | 2021-02-13 |
-| [Could Never Be Famous](https://open.spotify.com/track/6weW7uE4YM5HAfoEYJ5X5w) | [Louis Sévigny](https://open.spotify.com/artist/4evX9XxTZkPxY4LH0gRR5M) | [Could Never Be Famous](https://open.spotify.com/album/0jw8F644dvnZQvFOoZjv29) | 2:21 | 2025-11-21 |  |
+| [Could Never Be Famous](https://open.spotify.com/track/6weW7uE4YM5HAfoEYJ5X5w) | [Louis Sévigny](https://open.spotify.com/artist/4evX9XxTZkPxY4LH0gRR5M) | [Could Never Be Famous](https://open.spotify.com/album/0jw8F644dvnZQvFOoZjv29) | 2:21 | 2025-11-21 | 2026-04-04 |
 | [Count on Me](https://open.spotify.com/track/0PJXUpD6Og6jy5gMv14knO) | [earth2zoe](https://open.spotify.com/artist/4weid71nei8BXt61GNFZiQ) | [Count on Me](https://open.spotify.com/album/1iMsm7bddlthQjZr1STePf) | 3:03 | 2022-07-08 | 2023-10-14 |
 | [Coupe Deville](https://open.spotify.com/track/5z6U78oEM7vyyCjX2zk2pX) | [Ben Key](https://open.spotify.com/artist/6ahbzis67kc7w27o9K0lia) | [Coupe Deville](https://open.spotify.com/album/5qJPfDfdQRdZddSQmTdMPD) | 3:29 | 2026-02-20 |  |
 | [Cowboy](https://open.spotify.com/track/1bR0if1jm3ZEbKYr0wTUFD) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Highway](https://open.spotify.com/album/2DNRfz3BaPR4rvOkNJBEX1) | 3:26 | 2022-10-07 | 2023-08-12 |
@@ -372,6 +372,7 @@
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2021-10-30 | 2022-02-26 |
 | [Dog](https://open.spotify.com/track/1ReHqNFQ2HfJcWzajkDx8g) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:52 | 2023-09-28 | 2024-04-19 |
 | [Dog](https://open.spotify.com/track/3wfaRiR52nrk5G3cJ66KM1) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/5Y4yrUzwEuyAbytsdKFqpc) | 3:52 | 2024-04-19 | 2025-05-24 |
+| [Dog Bite](https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Virgin Lake](https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs) | 4:25 | 2026-04-03 |  |
 | [Dog Years](https://open.spotify.com/track/1RBvwJPleRo3d7WfF9TDSc) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Middle School](https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB) | [Dog Years](https://open.spotify.com/album/4megnFiZjiLR6kAefLXQvg) | 2:14 | 2021-06-19 | 2021-07-17 |
 | [Don't Be A Fool](https://open.spotify.com/track/5blpjo0tFAlmc7CmnCWa4T) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Don't Be A Fool](https://open.spotify.com/album/1IVQNLAsFmahMc8r10feQB) | 3:26 | 2020-12-07 | 2021-04-17 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-04-16 |
@@ -532,6 +533,7 @@
 | [gimme all ur luv](https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF) | 2:53 | 2022-11-18 | 2023-05-27 |
 | [gimme all ur luv](https://open.spotify.com/track/2G7Jmx6mrz2doZ8YaEmVAv) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/2rDmBDlIwIFtcV6TM8lD5l) | 2:54 | 2023-05-17 | 2023-10-02 |
 | [GIN N JUICE](https://open.spotify.com/track/7IeF3GYiOqsKQ97cchFod3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GIN N JUICE](https://open.spotify.com/album/31tl4xCfME9LBkMdCg0p0U) | 1:41 | 2020-11-03 | 2020-11-04 |
+| [Ginger Lemonade](https://open.spotify.com/track/60XG382z7UHlLMXs0bOwRb) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Can We Hang Out Sometime?](https://open.spotify.com/album/2ude1QTWRjfCQYgpr5mc11) | 2:59 | 2026-04-03 |  |
 | [GIRL ON TV](https://open.spotify.com/track/6SnE7mmmYVpvd3QRkpKyXe) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [GIRL ON TV](https://open.spotify.com/album/1ysjIPMr2enaVZYn7HxMdA) | 3:12 | 2020-11-14 | 2021-01-30 |
 | [girlfriend](https://open.spotify.com/track/1VvHMWM4x5KNNIkeDfepKg) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [girlfriend](https://open.spotify.com/album/20QM71c1VvCaBb8uO2IWUo) | 2:14 | 2021-02-27 | 2021-05-08 |
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2021-10-09 | 2022-02-12 |
@@ -1292,7 +1294,7 @@
 | [Stormy](https://open.spotify.com/track/1s0aL4BY3G10EErdkYQJ9b) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Stormy](https://open.spotify.com/album/4hmWk2YrCRkx1euv2mv42I) | 2:16 | 2020-10-29\* | 2020-11-07 |
 | [Straight Drop](https://open.spotify.com/track/0Cjt8hJJNnnWPsIUC8nXxr) | [cootie catcher](https://open.spotify.com/artist/46ufOtURSipSKdxoz8KZzu) | [Straight Drop](https://open.spotify.com/album/7fgdm50GYconlGoD5F00Xb) | 2:38 | 2025-12-19 | 2026-03-07 |
 | [Strange](https://open.spotify.com/track/2OYlUNbq7xpgEI3qVC2j3W) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Strange](https://open.spotify.com/album/1yzvGSDCzaFQ2GOOlfXKDO) | 2:33 | 2022-06-17 | 2022-11-19 |
-| [Strange People](https://open.spotify.com/track/52pJ8X8qEmVfzn6VCBUe9n) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Strange People](https://open.spotify.com/album/5uhIcBNfZsjwbsQp3Js9AV) | 3:04 | 2025-10-24 |  |
+| [Strange People](https://open.spotify.com/track/52pJ8X8qEmVfzn6VCBUe9n) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Strange People](https://open.spotify.com/album/5uhIcBNfZsjwbsQp3Js9AV) | 3:04 | 2025-10-24 | 2026-04-04 |
 | [Strawberries & Cigarettes](https://open.spotify.com/track/7nvGBUAF4m89IIF3hU89Aa) | [Tyler Budd](https://open.spotify.com/artist/0Am0VMEdgyxdeTnh6HX8ns) | [Strawberries & Cigarettes](https://open.spotify.com/album/5s6KuX3jQKyHxq3kRMq0J0) | 3:00 | 2021-02-20 | 2021-05-03 |
 | [Strawberry Milkshake](https://open.spotify.com/track/4g5mBZlc1cvT7eeruIYQ3W) | [Rosemary Fairweather](https://open.spotify.com/artist/4I4taY0pRzBIGmIgsBqcrE) | [Strawberry Milkshake](https://open.spotify.com/album/5GXmmcPfoJeFsIsXRpGN2o) | 3:32 | 2021-07-31 | 2021-08-28 |
 | [Strawberry Sunscreen \- Rework](https://open.spotify.com/track/5LSev9AjbhsyKGUzKeJQzd) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2), [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Strawberry Sunscreen \(Rework\)](https://open.spotify.com/album/5P1LSFAUdYU1osK8IPBC1t) | 2:08 | 2022-08-05 | 2023-10-28 |
@@ -1494,6 +1496,7 @@
 | [voicemail](https://open.spotify.com/track/5CsdNmE7ESC2bZnRwgmiUt) | [DAVIN](https://open.spotify.com/artist/09RjELlXo48h84xDdXzvlP) | [voicemail](https://open.spotify.com/album/3fTVzf17JB0xuCcqj2W09g) | 2:23 | 2021-07-04 | 2021-10-16 |
 | [Voodoo](https://open.spotify.com/track/0XEdjeDM3U9bFCDppETpev) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Barely Speaking English](https://open.spotify.com/album/3hmHNG7LbHgQngJOsi3A19) | 2:25 | 2021-11-13 | 2022-02-19 |
 | [W.O.W.Y.](https://open.spotify.com/track/0cPe1dk3g5AiNXmZ122sSF) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [W.O.W.Y.](https://open.spotify.com/album/2fc71wTzm1Ddun26yslWG1) | 3:17 | 2024-07-26 | 2024-11-23 |
+| [Waiting In Line](https://open.spotify.com/track/2fGjus14Nunys4nQxGulqY) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Waiting In Line](https://open.spotify.com/album/3oCxkN7IrNLVXWFpez7FIL) | 3:33 | 2026-04-03 |  |
 | [Walk Backwards](https://open.spotify.com/track/4HtwantcVnMCOzGmiyeGmT) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Walk Backwards](https://open.spotify.com/album/0ti1WWYsz8tMMYupwHag7b) | 2:33 | 2021-02-13 | 2021-04-24 |
 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 | 2020-10-29\* | 2021-02-13 |
 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 | 2021-06-05 | 2022-05-14 |

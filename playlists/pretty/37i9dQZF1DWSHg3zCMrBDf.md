@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: Black Sherif
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,238 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,337 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [Bad Habits](https://open.spotify.com/track/4UUh6WPTCy0l3BY6pvMOcL) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Bad Habits](https://open.spotify.com/album/6qsQ0MJsBfRYuG8lTz7ncT) | 2:51 |
 | 50 | [BADMAN GANGSTA](https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BADMAN GANGSTA](https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01) | 2:23 |
 
-Snapshot ID: `AAAAANQNUx7sUrw9Ft5zXtFaBpYu7LGA`
+Snapshot ID: `AAAAANXW64PN/Khv7hfQ/Dj5hAwdRU43`

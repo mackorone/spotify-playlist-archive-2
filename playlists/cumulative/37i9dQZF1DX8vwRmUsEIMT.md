@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Chris Stussy
 
-3,653 songs - 8 day 6 hr 24 min
+3,654 songs - 8 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1525,6 +1525,7 @@
 | [Hypnotic](https://open.spotify.com/track/1ulorUgFxDQdshBrtzgYRK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Hypnotic](https://open.spotify.com/album/4pYBgkBcpcqhEOfrLCBKWc) | 2:58 | 2025-09-11 | 2025-10-17 |
 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-01-23 | 2026-03-13 |
 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-01-10 | 2025-02-07 |
+| [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 | 2026-04-02 |  |
 | [I <3 YOU](https://open.spotify.com/track/7DNTmEFMARpxeSFY82wZiw) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER](https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU) | 3:36 | 2025-06-05 | 2025-07-04 |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-17 | 2025-05-23 |
 | [I Ain't No Cowboy](https://open.spotify.com/track/5OcF4vawklKyNnFs4eWX0o) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Ain't No Cowboy](https://open.spotify.com/album/0yx1Y4gQni0WqCbBfietQv) | 3:13 | 2026-03-13 |  |

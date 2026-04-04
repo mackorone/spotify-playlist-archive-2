@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-658 songs - 1 day 12 hr 15 min
+659 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Crushing Me \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/3jcUMe0q7KTHfJsGaWU8Oa) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [Tricia Fukuhara](https://open.spotify.com/artist/4SSnp3DgxryeD7ZaBwarod), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 1:47 | 2024-02-27 | 2026-01-30 |
 | [Dale](https://open.spotify.com/track/5gIrzty4t9tM098RBCLV7L) | [Andros](https://open.spotify.com/artist/08jQoikJvooOOukUGTlF1f) | [Dale](https://open.spotify.com/album/3tyu4VTOFNXSty2cuoAeND) | 3:06 | 2024-02-27 | 2026-01-30 |
 | [Dance Again](https://open.spotify.com/track/5sK3o66yupTNIK6gWgzGjf) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 2:50 | 2024-02-27 | 2026-01-30 |
+| [Dance Floor](https://open.spotify.com/track/69BOns2gFCc9OdXNt0Hv4V) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Dance Floor](https://open.spotify.com/album/5lW7TM78fTvDCiu8S5jBum) | 2:48 | 2026-04-03 |  |
 | [Dark Bird](https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Dark Bird](https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41) | 3:37 | 2024-02-27 | 2026-01-30 |
 | [Darkness and Light \(feat\. Brittany Howard\)](https://open.spotify.com/track/4jBPWUAtvIbj7trXEg9QPJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [DARKNESS AND LIGHT](https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O) | 3:50 | 2024-02-27 | 2025-06-28 |
 | [Daylight](https://open.spotify.com/track/5OGZ2Mx4Cs6RCndDRycGBJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/52O89bnT0vPNtrzF1AtWJ2) | 3:32 | 2025-05-09 | 2025-12-21 |

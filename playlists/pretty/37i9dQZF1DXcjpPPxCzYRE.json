@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 439308,
+  "num_followers": 439351,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-03-26 23:00:21",
       "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
-    },
-    {
-      "added_at": "2026-03-26 23:00:21",
-      "album": {
         "name": "brb",
         "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 156478,
       "name": "brb",
       "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
+    },
+    {
+      "added_at": "2026-03-26 23:00:21",
+      "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2026-03-26 23:00:21",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-03-26 23:00:21",
       "album": {
+        "name": "Even In The Quiet",
+        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 212861,
+      "name": "Even In The Quiet",
+      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
+    },
+    {
+      "added_at": "2026-03-26 23:00:21",
+      "album": {
         "name": "Marvin The Album - 21st Anniversary Edition",
         "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 326206,
       "name": "I Don't Want to Change You",
       "url": "https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq"
-    },
-    {
-      "added_at": "2026-03-26 23:00:21",
-      "album": {
-        "name": "Even In The Quiet",
-        "url": "https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 212861,
-      "name": "Even In The Quiet",
-      "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
     },
     {
       "added_at": "2026-03-26 23:00:21",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-03-26 23:00:21",
       "album": {
+        "name": "Collar",
+        "url": "https://open.spotify.com/album/1RrDIJxt64MMRhJ6c2uPIb"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "duration_ms": 346500,
+      "name": "Collar",
+      "url": "https://open.spotify.com/track/2pTybbfIVMwtgQNArFb1ca"
+    },
+    {
+      "added_at": "2026-03-26 23:00:21",
+      "album": {
         "name": "Pictures",
         "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 236000,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
-    },
-    {
-      "added_at": "2026-03-26 23:00:21",
-      "album": {
-        "name": "Collar",
-        "url": "https://open.spotify.com/album/1RrDIJxt64MMRhJ6c2uPIb"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
-        }
-      ],
-      "duration_ms": 346500,
-      "name": "Collar",
-      "url": "https://open.spotify.com/track/2pTybbfIVMwtgQNArFb1ca"
     },
     {
       "added_at": "2026-03-26 23:00:21",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-03-26 23:00:21",
       "album": {
-        "name": "Voy a pensar en ti",
-        "url": "https://open.spotify.com/album/34PqcFBUnb8OYk1tNvvfoV"
-      },
-      "artists": [
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
-        },
-        {
-          "name": "Mundo Prestigio",
-          "url": "https://open.spotify.com/artist/440S5SUBOxAKr28buL99Xw"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "Voy a pensar en ti",
-      "url": "https://open.spotify.com/track/7j0X2ye2TMNaa8gIrVoN89"
-    },
-    {
-      "added_at": "2026-03-26 23:00:21",
-      "album": {
         "name": "DESAYUNO",
         "url": "https://open.spotify.com/album/6HHvcp0vkHkmyDJOmiNBp2"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 178434,
       "name": "Fuegos Artificiales",
       "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
+    },
+    {
+      "added_at": "2026-03-26 23:00:21",
+      "album": {
+        "name": "Voy a pensar en ti",
+        "url": "https://open.spotify.com/album/34PqcFBUnb8OYk1tNvvfoV"
+      },
+      "artists": [
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        },
+        {
+          "name": "Mundo Prestigio",
+          "url": "https://open.spotify.com/artist/440S5SUBOxAKr28buL99Xw"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "Voy a pensar en ti",
+      "url": "https://open.spotify.com/track/7j0X2ye2TMNaa8gIrVoN89"
     },
     {
       "added_at": "2026-03-26 23:00:21",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-03-26 23:00:21",
       "album": {
-        "name": "Pladur",
-        "url": "https://open.spotify.com/album/26IiZG99hRsi2Ut7jexoNm"
-      },
-      "artists": [
-        {
-          "name": "Paco Moreno",
-          "url": "https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux"
-        }
-      ],
-      "duration_ms": 162750,
-      "name": "Pladur",
-      "url": "https://open.spotify.com/track/4NZwZYP1ZLdyenCTO7UFsI"
-    },
-    {
-      "added_at": "2026-03-26 23:00:21",
-      "album": {
         "name": "El Vac\u00edo",
         "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 154187,
       "name": "El Vac\u00edo",
       "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
+    },
+    {
+      "added_at": "2026-03-26 23:00:21",
+      "album": {
+        "name": "Pladur",
+        "url": "https://open.spotify.com/album/26IiZG99hRsi2Ut7jexoNm"
+      },
+      "artists": [
+        {
+          "name": "Paco Moreno",
+          "url": "https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux"
+        }
+      ],
+      "duration_ms": 162750,
+      "name": "Pladur",
+      "url": "https://open.spotify.com/track/4NZwZYP1ZLdyenCTO7UFsI"
     },
     {
       "added_at": "2026-03-26 23:00:21",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-03-26 23:00:21",
       "album": {
+        "name": "Misma Liga",
+        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        }
+      ],
+      "duration_ms": 167750,
+      "name": "Misma Liga",
+      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
+    },
+    {
+      "added_at": "2026-03-26 23:00:21",
+      "album": {
         "name": "Hoguera",
         "url": "https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 203003,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
-    },
-    {
-      "added_at": "2026-03-26 23:00:21",
-      "album": {
-        "name": "Misma Liga",
-        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
-      },
-      "artists": [
-        {
-          "name": "Hnos Munoz",
-          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
-        }
-      ],
-      "duration_ms": 167750,
-      "name": "Misma Liga",
-      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
     },
     {
       "added_at": "2026-03-26 23:00:21",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2026-03-26 23:00:21",
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
-      },
-      "artists": [
-        {
-          "name": "Calequi y Las Panteras",
-          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
-        }
-      ],
-      "duration_ms": 212958,
-      "name": "La herida que prefiero",
-      "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
-    },
-    {
-      "added_at": "2026-03-26 23:00:21",
-      "album": {
         "name": "A la muerte",
         "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 295500,
       "name": "A la muerte",
       "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
+    },
+    {
+      "added_at": "2026-03-26 23:00:21",
+      "album": {
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
+      },
+      "artists": [
+        {
+          "name": "Calequi y Las Panteras",
+          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
+        }
+      ],
+      "duration_ms": 212958,
+      "name": "La herida que prefiero",
+      "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
     },
     {
       "added_at": "2026-03-26 23:00:21",

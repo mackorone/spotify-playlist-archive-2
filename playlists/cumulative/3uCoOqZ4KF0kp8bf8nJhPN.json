@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303920,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
+    },
+    {
+      "album": {
         "name": "MWAH! (B SIDE)",
         "url": "https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4"
       },
@@ -678,6 +696,28 @@
       "duration_ms": 173406,
       "name": "BRB!",
       "url": "https://open.spotify.com/track/4GosLecj1wCrAdmRBVD337"
+    },
+    {
+      "album": {
+        "name": "Break This The Breaking Point 2",
+        "url": "https://open.spotify.com/album/43JCLCZathutygyC6Fhjok"
+      },
+      "artists": [
+        {
+          "name": "Vertigoaway",
+          "url": "https://open.spotify.com/artist/3QkzcRNHg1pCeifBUZGmb6"
+        },
+        {
+          "name": "Schizoscriptures",
+          "url": "https://open.spotify.com/artist/64LYhSAUT9Qa6vetuexsfQ"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447566,
+      "name": "Break This The Breaking Point 2",
+      "url": "https://open.spotify.com/track/0lUHAZHS5h2dbBfNtlrVOJ"
     },
     {
       "album": {
@@ -816,6 +856,24 @@
       "duration_ms": 223200,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV"
+    },
+    {
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230066,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
     },
     {
       "album": {
@@ -3873,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216760,
+      "name": "She Hates Me",
+      "url": "https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n"
+    },
+    {
+      "album": {
         "name": "Promo '21",
         "url": "https://open.spotify.com/album/3mjHlfaqth04YhzLunD4hN"
       },
@@ -4088,6 +4164,24 @@
       "duration_ms": 103861,
       "name": "stfu.",
       "url": "https://open.spotify.com/track/78oBJ5afRt9xibIv5Tsfnq"
+    },
+    {
+      "album": {
+        "name": "fuck.",
+        "url": "https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78645,
+      "name": "strangers that don't hate eachother anymore.",
+      "url": "https://open.spotify.com/track/5Gn2xMBNpAjNgvgDXDySpy"
     },
     {
       "album": {
@@ -5054,7 +5148,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 151977,
       "name": "young",
       "url": "https://open.spotify.com/track/1f0Ar8UYiDo3pI2AWhQRLw"

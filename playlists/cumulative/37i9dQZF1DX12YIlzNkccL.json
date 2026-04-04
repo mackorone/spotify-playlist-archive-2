@@ -3675,6 +3675,36 @@
     },
     {
       "album": {
+        "name": "Beethoven: Violin Concerto; \"Kreutzer\" Sonata",
+        "url": "https://open.spotify.com/album/5GLH37zGL6yhyiC346f6Ae"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Vadim Repin",
+          "url": "https://open.spotify.com/artist/5AU4WeTDl2uf1jFw2w9FQT"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "date_added": "2021-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1527680,
+      "name": "Violin Concerto in D Major, Op. 61: I. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/1btQUVMuLy6Sw4ysYHAOlY"
+    },
+    {
+      "album": {
         "name": "Violin Concerto in D Major, Op. 61: II. Larghetto",
         "url": "https://open.spotify.com/album/3rWvlpOXpbx8ELWoPAKDpy"
       },
@@ -3744,10 +3774,6 @@
           "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "Fritz Kreisler",
-          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
-        },
-        {
           "name": "Vadim Repin",
           "url": "https://open.spotify.com/artist/5AU4WeTDl2uf1jFw2w9FQT"
         },
@@ -3763,9 +3789,9 @@
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 1527680,
-      "name": "Violin Concerto In D, Op. 61: 1. Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/1btQUVMuLy6Sw4ysYHAOlY"
+      "duration_ms": 619386,
+      "name": "Violin Concerto in D Major, Op. 61: III. Rondo. Allegro",
+      "url": "https://open.spotify.com/track/66hvITACAbv34aYv8ZcxYp"
     },
     {
       "album": {
@@ -3898,40 +3924,6 @@
       "duration_ms": 619386,
       "name": "Violin Concerto In D, Op. 61: 3. Rondo (Allegro)",
       "url": "https://open.spotify.com/track/1vdsg7bpYBNArEx0dnCtku"
-    },
-    {
-      "album": {
-        "name": "Beethoven: Violin Concerto; \"Kreutzer\" Sonata",
-        "url": "https://open.spotify.com/album/5GLH37zGL6yhyiC346f6Ae"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Fritz Kreisler",
-          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
-        },
-        {
-          "name": "Vadim Repin",
-          "url": "https://open.spotify.com/artist/5AU4WeTDl2uf1jFw2w9FQT"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        }
-      ],
-      "date_added": "2021-06-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 619386,
-      "name": "Violin Concerto In D, Op. 61: 3. Rondo (Allegro)",
-      "url": "https://open.spotify.com/track/66hvITACAbv34aYv8ZcxYp"
     },
     {
       "album": {

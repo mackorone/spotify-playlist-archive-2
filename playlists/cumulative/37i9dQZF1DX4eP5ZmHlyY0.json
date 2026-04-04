@@ -3415,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "TOP SPOT - ANOTHER DIMENSION",
+        "url": "https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE"
+      },
+      "artists": [
+        {
+          "name": "T.O.P",
+          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184069,
+      "name": "DESPERADO",
+      "url": "https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd"
+    },
+    {
+      "album": {
         "name": "DESTINY",
         "url": "https://open.spotify.com/album/0FXu3ayLqHqxUsXNdJMO2g"
       },
@@ -5744,7 +5762,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186737,
       "name": "growing pains",
       "url": "https://open.spotify.com/track/6zl7XKVQYzfSbNEMSfPpi3"
@@ -5953,6 +5971,24 @@
     },
     {
       "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/1kQVnTWbUXu9xQ1zqczj06"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239324,
+      "name": "heal",
+      "url": "https://open.spotify.com/track/34kczquuUdb7gLHhZGR8jp"
+    },
+    {
+      "album": {
         "name": "HEART",
         "url": "https://open.spotify.com/album/0MD6Tt34i6Gb1dGbYPmvSP"
       },
@@ -6094,6 +6130,24 @@
       "duration_ms": 175000,
       "name": "Highlights (Twilight Remix)",
       "url": "https://open.spotify.com/track/0RSazMPFPTxeLgwdxhp7tb"
+    },
+    {
+      "album": {
+        "name": "Unpiltered",
+        "url": "https://open.spotify.com/album/3kty6WKxv7NDe3qZkPtqUG"
+      },
+      "artists": [
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/3YCLoxizfJ9CFenVAAyuOK"
     },
     {
       "album": {
@@ -13556,7 +13610,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 241567,
       "name": "TERMINAL",
       "url": "https://open.spotify.com/track/4lrHntVNvwyoT0jFwPbH8f"
@@ -17108,7 +17162,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 292266,
       "name": "\u672c\u5fc3",
       "url": "https://open.spotify.com/track/462L8gr5XOHZrjim67Qx09"

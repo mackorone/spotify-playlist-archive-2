@@ -4,7 +4,7 @@
 
 > Sabrina Carpenter\. Period.
 
-601 songs - 1 day 8 hr 49 min
+602 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 | 2022-02-03 | 2022-11-13 |
 | [La Di Da](https://open.spotify.com/track/2YyvWje3cEYyqgYhNUIaBJ) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Love, me](https://open.spotify.com/album/3OIuzwZjpwUwyvFhSHYjj6) | 3:29 | 2019-07-29\* | 2021-12-07 |
 | [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 | 2022-12-09 | 2023-01-20 |
+| [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 | 2026-04-03 |  |
 | [Lease On Life](https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Lease On Life](https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK) | 2:48 | 2021-07-18 | 2022-07-29 |
 | [Lease On Life](https://open.spotify.com/track/763ynRN90zLEp9hrNNINjl) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Lease On Life](https://open.spotify.com/album/7hJy0WLlvp7OnfLRD3tE1O) | 2:48 | 2021-08-02 | 2021-08-03 |
 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-06-06 | 2025-09-14 |
@@ -340,7 +341,7 @@
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2022-07-21 | 2023-08-29 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-20 |  |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-18 |  |
-| [MARATHON](https://open.spotify.com/track/0ozDE5jsTwKcPVygOCIlO9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [elkan](https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe) | [MARATHON](https://open.spotify.com/album/41tuxJ0IDddpmnPkYWA3b1) | 2:49 | 2026-03-27 |  |
+| [MARATHON](https://open.spotify.com/track/0ozDE5jsTwKcPVygOCIlO9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [elkan](https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe) | [MARATHON](https://open.spotify.com/album/41tuxJ0IDddpmnPkYWA3b1) | 2:49 | 2026-03-27 | 2026-04-04 |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2022-09-26 | 2026-03-06 |
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-04-29 | 2023-08-05 |
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/4Sib57MmYGJzSvkW84jTwh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) | [ME!](https://open.spotify.com/album/0WGakTFs8cnggcYsHjIhgy) | 3:13 | 2019-07-29\* | 2022-07-29 |

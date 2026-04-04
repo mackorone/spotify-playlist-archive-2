@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Trim",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -3306,6 +3306,28 @@
       "duration_ms": 108630,
       "name": "Christmas List",
       "url": "https://open.spotify.com/track/1otneYXhRPhMFXeFDj9qtj"
+    },
+    {
+      "album": {
+        "name": "CHR\u00d6ME (feat. slayr)",
+        "url": "https://open.spotify.com/album/3qJ91i2zamDYcJ91J7PNHs"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222204,
+      "name": "CHR\u00d6ME (feat. slayr)",
+      "url": "https://open.spotify.com/track/13bMRD7SZJCqbx4fSGHK0Y"
     },
     {
       "album": {
@@ -9914,7 +9936,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 68666,
       "name": "NO HOOK",
       "url": "https://open.spotify.com/track/2bQQV9oDgqBjU3wnKQtyCk"
@@ -10894,6 +10916,24 @@
       "duration_ms": 118356,
       "name": "PEPPER",
       "url": "https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE"
+    },
+    {
+      "album": {
+        "name": "Peppermint Patty",
+        "url": "https://open.spotify.com/album/0fm0qdYgX8kZ5e9ock5cA2"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97702,
+      "name": "Peppermint Patty",
+      "url": "https://open.spotify.com/track/06ts6KVUM43IVlrZHcg0sR"
     },
     {
       "album": {
@@ -14076,7 +14116,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 151611,
       "name": "Thootie (feat. Tokischa)",
       "url": "https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5"

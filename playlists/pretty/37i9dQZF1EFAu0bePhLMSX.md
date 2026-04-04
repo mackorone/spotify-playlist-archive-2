@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673 likes - 167 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 674 likes - 167 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 75 | [Lullaby](https://open.spotify.com/track/6IMGVh9priO0YVmm1rojXx) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh), [KIZ](https://open.spotify.com/artist/3crmckhd0fPjJaLRDPigKk) | [Fires](https://open.spotify.com/album/1wDMuC10nqI6bCnjf1lzrZ) | 3:54 |
 | 76 | [Ritual](https://open.spotify.com/track/0jzeYeb1z29rtQ0BuOXN5T) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon \(Deluxe Version\)](https://open.spotify.com/album/2Y7n3jwZIsfi4m5udDY2vg) | 3:50 |
 | 77 | [Just A Day](https://open.spotify.com/track/7dlDAQNbVBBQpTK7LvB63p) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just A Day](https://open.spotify.com/album/5oPJdG33gRgFxHhI6rSWUf) | 3:25 |
-| 78 | [Loving Days](https://open.spotify.com/track/09pDDFlNY1wkw67ci85RZl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 4:26 |
-| 79 | [Bitch Get Out My Car](https://open.spotify.com/track/4O5lLmu32GcqTsNM8CTL0L) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Bitch Get Out My Car](https://open.spotify.com/album/7wBWhre9MI2woi5fLq24W1) | 2:15 |
+| 78 | [Bitch Get Out My Car](https://open.spotify.com/track/4O5lLmu32GcqTsNM8CTL0L) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Bitch Get Out My Car](https://open.spotify.com/album/7wBWhre9MI2woi5fLq24W1) | 2:15 |
+| 79 | [Loving Days](https://open.spotify.com/track/09pDDFlNY1wkw67ci85RZl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 4:26 |
 | 80 | [Invincible](https://open.spotify.com/track/1rc5A1wnFlP6MwBPI8grzV) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:12 |
 | 81 | [Hearts Collide](https://open.spotify.com/track/6wZLtBO9bH2cpsQrm6udm0) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 3:45 |
 | 82 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 117 | [Letters](https://open.spotify.com/track/5tikJjAd6xvubeZXLhDGHL) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Letters \(Deluxe Edition\)](https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8) | 4:26 |
 | 118 | [Something In The Air](https://open.spotify.com/track/7ayhNtdSjboMp6Dq8vQDL6) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 4:10 |
 | 119 | [Beat of a Breaking Heart](https://open.spotify.com/track/3kFZuuFY2CkL54TZ15S5ev) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Letters \(Deluxe Edition\)](https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8) | 3:51 |
-| 120 | [No Big Deal](https://open.spotify.com/track/4vMNMYn2Bz0nqtZxccAORL) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 4:34 |
-| 121 | [You're The Reason](https://open.spotify.com/track/0P4el0JBYiO4LQKuqZmzL9) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Born To Be Free](https://open.spotify.com/album/4CzXGZ95nDYwUolrYUfres) | 3:45 |
+| 120 | [You're The Reason](https://open.spotify.com/track/0P4el0JBYiO4LQKuqZmzL9) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Born To Be Free](https://open.spotify.com/album/4CzXGZ95nDYwUolrYUfres) | 3:45 |
+| 121 | [No Big Deal](https://open.spotify.com/track/4vMNMYn2Bz0nqtZxccAORL) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 4:34 |
 | 122 | [Over You](https://open.spotify.com/track/4GWO6Pla2VYQ0AbY6aSVZB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 4:21 |
 | 123 | [Paper Planes](https://open.spotify.com/track/3hSva4mXv3c2Cf63onTgiK) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:41 |
 | 124 | [Only You](https://open.spotify.com/track/0SElZqWjPYLsOub9h4VpGK) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes \(Deluxe Edition\)](https://open.spotify.com/album/5UO8gsaqNUoFrKBBQBEoVn) | 4:11 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 166 | [Rettungsschwimmer](https://open.spotify.com/track/20n7znKJtjth2aRVoTD3OS) | [Kinderfete](https://open.spotify.com/artist/3T6CmDs4rszGZqlL7PClxC) | [Kinderfetenhits \(Die Kinder Fetenhits\)](https://open.spotify.com/album/2DZgdqZL5j6x3JpTbV07E5) | 2:45 |
 | 167 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `AcNz6gAAAADF+CfzDo+89lw+Z+K45o28`
+Snapshot ID: `AcN5igAAAADaS5hXdw47PEejCtBP3bAc`

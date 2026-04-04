@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 
 > This is Laurie Spiegel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479 likes - 20 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 481 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 | 11 | [Where Do We Go](https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:38 |
 | 12 | [FlyBy](https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Prsnt](https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4) | 0:35 |
 | 13 | [From a Harmonic Algorithm](https://open.spotify.com/track/7pICSb5Mx7hSa0PPS2TYpk) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 2:55 |
-| 14 | [Pentachrome](https://open.spotify.com/track/4PD6tbRB8w1F4Jnc08CTzw) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 7:18 |
+| 14 | [A Folk Study](https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 2:03 |
 | 15 | [Heliopause](https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:54 |
-| 16 | [Two Archetypes: Hurricane's Eye – II](https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:35 |
-| 17 | [A Folk Study](https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 2:03 |
+| 16 | [Three Sonic Spaces II](https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:22 |
+| 17 | [Pentachrome](https://open.spotify.com/track/4PD6tbRB8w1F4Jnc08CTzw) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 7:18 |
 | 18 | [Sparks](https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 3:38 |
-| 19 | [Three Sonic Spaces II](https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:22 |
-| 20 | [Appalachian Grove I](https://open.spotify.com/track/58ODorNYopmxNhZnWdjQjO) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 5:22 |
+| 19 | [Two Archetypes: Hurricane's Eye – II](https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:35 |
+| 20 | [Appalachian Grove III](https://open.spotify.com/track/79qnW6PocozamltQqh8In9) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 3:14 |
 
-Snapshot ID: `acxgAAAAAABSqcH4OyQKoSqFCPNS6ALc`
+Snapshot ID: `ac2xgAAAAAB75Eq6ZPBpdb/XqSdnHfCW`

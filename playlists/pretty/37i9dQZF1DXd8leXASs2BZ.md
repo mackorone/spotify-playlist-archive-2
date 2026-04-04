@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POP YOURS DAY1】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: NEW COMER SHOT LIVE
+> 【POP YOURS DAY2】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: NEW COMER SHOT LIVE
 
 [Spotify](https://open.spotify.com/user/spotify) - 6,179 likes - 100 songs - 4 hr 41 min
 
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Fxxk High School](https://open.spotify.com/track/1VR4UIYAA4HzMwTm3hYQdS) | [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5) | [Fxxk High School](https://open.spotify.com/album/0OAkTtpi8oFGk2RG2fc9xT) | 2:32 |
 | 100 | [Sawajiri Erika](https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 2:07 |
 
-Snapshot ID: `AAAAANnIdordYg8pnllS4EpkjVMhC78m`
+Snapshot ID: `AAAAAHp69HGJjhqkx/sLLJwZUb0etmjC`

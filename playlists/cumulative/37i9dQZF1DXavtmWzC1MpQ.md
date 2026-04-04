@@ -4,7 +4,7 @@
 
 > 
 
-81 songs - 4 hr 3 min
+83 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Flying South \(Nature\)](https://open.spotify.com/track/5j49xdRfVVXfrH0oi6UkKv) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Flying South \(Nature\)](https://open.spotify.com/album/1vhivmFoFcs1WRHLwWA70R) | 3:00 | 2026-04-02 |  |
 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 | 2023-06-19 |  |
 | [Forest of Calamity](https://open.spotify.com/track/1ZOWaxy3FBZd10a2YTqIYD) | [FX Makers](https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:05 | 2023-06-19 | 2024-11-11 |
+| [Forest Path Rain](https://open.spotify.com/track/71XK20gRx6drD3M2VIH1q0) | [Hayden Ball](https://open.spotify.com/artist/3QxIQABLndsIIpNMwllbGs) | [Soft Rain](https://open.spotify.com/album/5n24EJXwP5gq45z1kSYeJ4) | 1:47 | 2026-04-02 |  |
 | [Forest Rain](https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8) | [Rain Recordings](https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID) | [Peaceful Rain Recordings](https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM) | 2:50 | 2023-06-19 |  |
 | [Forest Veil of Calm](https://open.spotify.com/track/713cxL8jFho2xjv1quABDd) | [Natures Acoustics](https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1) | [Forest Veil of Calm](https://open.spotify.com/album/1MbpUJe6fX7UK9oSiZm5GL) | 2:53 | 2026-04-02 |  |
 | [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 | 2023-06-19 | 2026-04-03 |
@@ -77,7 +78,7 @@
 | [Suburban Forest Rain 2](https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:09 | 2023-06-19 |  |
 | [Summmer Forest](https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 4:03 | 2023-06-19 | 2026-02-09 |
 | [Sunny Windy Day](https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Sunny Windy Day](https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g) | 4:08 | 2025-09-23 |  |
-| [Temperate Rainforest Sounds](https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr) | [Zen Sound Bath](https://open.spotify.com/artist/5doBUpyyFeJlgY7LakBaGE) | [Temperate Rainforest Sounds](https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou) | 3:11 | 2024-12-03 |  |
+| [Temperate Rainforest Sounds](https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr) | [Zen Sound Bath](https://open.spotify.com/artist/5doBUpyyFeJlgY7LakBaGE) | [Temperate Rainforest Sounds](https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou) | 3:11 | 2024-12-03 | 2026-04-04 |
 | [The Millpond XI](https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond XI](https://open.spotify.com/album/26YJnlSqCFh2jdkCql4hMh) | 2:05 | 2026-04-02 |  |
 | [The Singing Birds](https://open.spotify.com/track/5bT75sYxgRTGyFE9bMdeEI) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Nectar Rain](https://open.spotify.com/album/3hDnVO9C6LWboK7VP3GnBD) | 2:32 | 2023-06-19 | 2026-04-03 |
 | [Thunderous Amazon](https://open.spotify.com/track/4Xy4EQyJWS01SEERqnfrkn) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Thunderous Relaxation](https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu) | 3:09 | 2023-06-19 | 2024-03-27 |
@@ -85,9 +86,10 @@
 | [Tropical wet forest in Columbia](https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Tropical wet forest in Columbia](https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp) | 2:06 | 2024-12-03 |  |
 | [Trópico](https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 3:04 | 2024-12-03 |  |
 | [Unaltered Rain](https://open.spotify.com/track/6lBKEeemzxQ4lWGFW9EfTi) | [Organic Nature](https://open.spotify.com/artist/51pWYHXlT0KXM8zYZ6IhRa) | [Organic Rain](https://open.spotify.com/album/683UAPLzNPkJg8K2tQQPdN) | 3:20 | 2023-06-19 | 2026-04-03 |
-| [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 | 2023-06-19 |  |
+| [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 | 2023-06-19 | 2026-04-04 |
 | [Warm Rain](https://open.spotify.com/track/4jFPb0mUf0fVaooBRAYqxg) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Amazon Rain](https://open.spotify.com/album/3dWd2DplPM06y5XnUU8h9f) | 3:28 | 2023-06-19 | 2024-03-27 |
 | [Wave Foam](https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Waves](https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87) | 4:09 | 2023-06-19 | 2025-09-24 |
+| [Woodland Drops](https://open.spotify.com/track/6yHL4GvpL9m5JqToTuG014) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Woodland Drops](https://open.spotify.com/album/716VqOhfwuYQ8dwRpudU2d) | 2:18 | 2026-04-02 |  |
 | [Zen Nature Sounds](https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj) | [The Rainforest Collective](https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:45 | 2023-06-19 | 2025-03-18 |
 
 \*This playlist was first scraped on 2023-10-23. Prior content cannot be recovered.

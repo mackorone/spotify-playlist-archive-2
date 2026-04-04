@@ -2,7 +2,7 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Sardar Khehra
+> Best of Punjabi Hip\-Hop! Cover:  Sukha
 
 327 songs - 16 hr 8 min
 

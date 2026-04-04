@@ -11,6 +11,250 @@
     {
       "added_at": null,
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/2NneSQCbKUuZfHwzlGvUmk"
+      },
+      "artists": [
+        {
+          "name": "Tommy J",
+          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
+        },
+        {
+          "name": "Jocke Wallgren",
+          "url": "https://open.spotify.com/artist/3yOu8VFdxs6dKm3BWDMsfm"
+        }
+      ],
+      "duration_ms": 189047,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5URsT6B9lcgk0M8av28q4u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 169330,
+      "name": "FATHER (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wachse & Welke",
+        "url": "https://open.spotify.com/album/289KotPVCQcG7axPOWDU5l"
+      },
+      "artists": [
+        {
+          "name": "Raboose",
+          "url": "https://open.spotify.com/artist/2OgPE6kqtZSazg61kiNIm3"
+        },
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 144956,
+      "name": "Adieu, Adieu",
+      "url": "https://open.spotify.com/track/14QVLPaPqpuQ6bNrBgjLDV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRIUMPH (Samurai Version)",
+        "url": "https://open.spotify.com/album/6xBTCcNk3ZyN1TVUcQe3xY"
+      },
+      "artists": [
+        {
+          "name": "Thonio",
+          "url": "https://open.spotify.com/artist/6O7fmTtWVciwx0wZ9DzJXD"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Naehollowz",
+          "url": "https://open.spotify.com/artist/6AHJcXllA9izwRmFQ0C6mn"
+        },
+        {
+          "name": "Johnny Dangerus",
+          "url": "https://open.spotify.com/artist/4su7Rmt7PWEtYR2xShN30z"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "TRIUMPH - Samurai Version",
+      "url": "https://open.spotify.com/track/1S21HwScGjSutBF5LHCoqf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Assassins II",
+        "url": "https://open.spotify.com/album/2E18SgeWUyFGYgqpV9eTYb"
+      },
+      "artists": [
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "When The Fat Lady Sings",
+      "url": "https://open.spotify.com/track/3jiJa8iROPRh40Ihmb4aVS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6Ekli9ETj33GZhYmZ8ht4G"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        },
+        {
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+        }
+      ],
+      "duration_ms": 241053,
+      "name": "ATLAS",
+      "url": "https://open.spotify.com/track/6eexx60SxFCVqNQopwqA5k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For the Moment",
+        "url": "https://open.spotify.com/album/5suKEs2vKyyUjrSu544D7f"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 196475,
+      "name": "For the Moment",
+      "url": "https://open.spotify.com/track/07JkhmwQcuzNWimW094kHe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What's Shakin'",
+        "url": "https://open.spotify.com/album/2T5zHA3AG9OOyXGFkbq6Xr"
+      },
+      "artists": [
+        {
+          "name": "Rhyme",
+          "url": "https://open.spotify.com/artist/1i3GiHbXswfBdthna2DjvG"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 138287,
+      "name": "What's Shakin'",
+      "url": "https://open.spotify.com/track/6M2CUiBb7BNL2BlqQ99a3L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beams",
+        "url": "https://open.spotify.com/album/6Gjsdtw3nw3GV5IrwFmT4G"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 219570,
+      "name": "Beams",
+      "url": "https://open.spotify.com/track/7AieCEz0Kpv2c8L63LXcWw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome To My Light",
+        "url": "https://open.spotify.com/album/7rOHnI9S7ON90hBsvUXIEx"
+      },
+      "artists": [
+        {
+          "name": "Declaime",
+          "url": "https://open.spotify.com/artist/0IWhrIU65vvKiggTlWKDZw"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 187943,
+      "name": "The Carousel",
+      "url": "https://open.spotify.com/track/2jzzA8t8lJiC4fP2PG6fVN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home on the Range // Back Home",
+        "url": "https://open.spotify.com/album/5FMSAdmLudQYXyLWLfoya7"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "duration_ms": 97874,
+      "name": "Home on the Range",
+      "url": "https://open.spotify.com/track/4QiWYpCnD5TipN2AycUy2i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Nameless",
         "url": "https://open.spotify.com/album/5fbpUCiC8JH1ZlnGj7q6D0"
       },
@@ -27,326 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't be a Lion in the Jungle",
-        "url": "https://open.spotify.com/album/5rOLxoqTaqoT7TF3u6qjOV"
-      },
-      "artists": [
-        {
-          "name": "8bfr",
-          "url": "https://open.spotify.com/artist/127tw52iDXr7BvgB0IGG2x"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Shyheim",
-          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
-        },
-        {
-          "name": "James J Siburt",
-          "url": "https://open.spotify.com/artist/0QYktf9jEBxqA2xysjlr9I"
-        }
-      ],
-      "duration_ms": 265682,
-      "name": "Don't be a Lion in the Jungle",
-      "url": "https://open.spotify.com/track/3VBqKTpfixYN6IYq0bVBU1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es brennt...",
-        "url": "https://open.spotify.com/album/1Wcfig1Ikjt80b0jHUtNyC"
-      },
-      "artists": [
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        }
-      ],
-      "duration_ms": 215102,
-      "name": "Es brennt...",
-      "url": "https://open.spotify.com/track/38AzvJEeLenRNOj48xUZxM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop Counting My Poccets",
-        "url": "https://open.spotify.com/album/3Xre7HVyyD1iakfWLhyJ0G"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 123866,
-      "name": "Stop Counting My Poccets",
-      "url": "https://open.spotify.com/track/4POZ7rt05ZOcZCO8MwNDDa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whatever's Clever!",
-        "url": "https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        },
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 197046,
-      "name": "Love In Exile (feat. Michael McDonald & Kenny Loggins)",
-      "url": "https://open.spotify.com/track/3SfgUB5bltOecirPxcevPM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MIMS",
-        "url": "https://open.spotify.com/album/3RIjBmlJi6Y3jLEKXYG4DA"
-      },
-      "artists": [
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        },
-        {
-          "name": "Heno.",
-          "url": "https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD"
-        }
-      ],
-      "duration_ms": 203497,
-      "name": "MIMS",
-      "url": "https://open.spotify.com/track/4km7ONTotwgPoeUoPp8SoP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 251861,
-      "name": "Echo From The Flames",
-      "url": "https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deep Harbour",
-        "url": "https://open.spotify.com/album/6ThSdkaaJHvh36xnm3TCyT"
-      },
-      "artists": [
-        {
-          "name": "Commodo",
-          "url": "https://open.spotify.com/artist/2ZUJPPIpRK31hReRC22ZmT"
-        },
-        {
-          "name": "Anz",
-          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
-        },
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 272423,
-      "name": "Deep Harbour - Anz Defensive Mix",
-      "url": "https://open.spotify.com/track/6eQUx4zfABBernRRPoUT8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Former Site Of",
-        "url": "https://open.spotify.com/album/10Ehvbp6eFc4X4D84aOxhc"
-      },
-      "artists": [
-        {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
-        }
-      ],
-      "duration_ms": 398320,
-      "name": "The Former Site Of",
-      "url": "https://open.spotify.com/track/73NSR0zuF1CgdeICZMNPaM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen II",
-        "url": "https://open.spotify.com/album/1HFobzrUk120xHeop7rC5D"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 372773,
-      "name": "Father To Son - Backing Track",
-      "url": "https://open.spotify.com/track/3lJfrrGjBxTmKgTLn63ER1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loyalty & Respect",
-        "url": "https://open.spotify.com/album/6ryt4ZF9A3ZucynLRt9SlO"
-      },
-      "artists": [
-        {
-          "name": "Solar Soundz",
-          "url": "https://open.spotify.com/artist/5LYkuE1woVjAO0OluiFjmB"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 117561,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/62NuXWjEBRgQXshCYBliwh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HADES",
-        "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 196371,
-      "name": "UNCANNY VALLEY",
-      "url": "https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leadbelly (feat. MIKE)",
-        "url": "https://open.spotify.com/album/3y6xpGcglPjbrpUZAMymiI"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "SURF GANG",
-          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
-        }
-      ],
-      "duration_ms": 152349,
-      "name": "Leadbelly - feat. MIKE",
-      "url": "https://open.spotify.com/track/3VzXDNlINnvGTYWXtQlQr1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When It's Cold I'd Like to Die (SWIM Remix)",
-        "url": "https://open.spotify.com/album/13iO6tKzplqWUhWJ8egyUM"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
-        }
-      ],
-      "duration_ms": 263111,
-      "name": "When It's Cold I'd Like to Die - SWIM Remix",
-      "url": "https://open.spotify.com/track/3z13fq2dgfpW96atwtcGjh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "elsewhere",
-        "url": "https://open.spotify.com/album/0rNzYCP7UGy2n5vH4NRcbQ"
-      },
-      "artists": [
-        {
-          "name": "aja monet",
-          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 288375,
-      "name": "elsewhere",
-      "url": "https://open.spotify.com/track/4S56Igb4jNtyRs2ckvKSpO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My System",
-        "url": "https://open.spotify.com/album/6PYZFFjjDpS8CP7OA1GjHg"
-      },
-      "artists": [
-        {
-          "name": "Tommy J",
-          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
-        }
-      ],
-      "duration_ms": 217993,
-      "name": "My System",
-      "url": "https://open.spotify.com/track/1u96uCrk4oYmp21SEw9cjW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ThunderWave",
-        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "ThunderWave",
-      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Men",
         "url": "https://open.spotify.com/album/6q3v9zzohy1h00iPvPeR4L"
       },
@@ -359,6 +283,22 @@
       "duration_ms": 221643,
       "name": "The Men",
       "url": "https://open.spotify.com/track/6afshpOjSY8Ya91rF8Vsyo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Screamin' Jay Hawkins",
+        "url": "https://open.spotify.com/album/2TONFDLecLruaVcnwDQvfb"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        }
+      ],
+      "duration_ms": 191304,
+      "name": "Screamin' Jay Hawkins",
+      "url": "https://open.spotify.com/track/4RdPkZzD9fo0EEd8JHnl6R"
     },
     {
       "added_at": null,
@@ -391,54 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screamin' Jay Hawkins",
-        "url": "https://open.spotify.com/album/2TONFDLecLruaVcnwDQvfb"
+        "name": "MIMS",
+        "url": "https://open.spotify.com/album/3RIjBmlJi6Y3jLEKXYG4DA"
       },
       "artists": [
         {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Heno.",
+          "url": "https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD"
         }
       ],
-      "duration_ms": 191304,
-      "name": "Screamin' Jay Hawkins",
-      "url": "https://open.spotify.com/track/4RdPkZzD9fo0EEd8JHnl6R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Will Tell",
-        "url": "https://open.spotify.com/album/1ZRIMN4dY5suvh4XkMTiHb"
-      },
-      "artists": [
-        {
-          "name": "Joey Cool",
-          "url": "https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Rittz",
-          "url": "https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY"
-        },
-        {
-          "name": "King Iso",
-          "url": "https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle"
-        },
-        {
-          "name": "X-Raided",
-          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
-        },
-        {
-          "name": "Matt Phoenix",
-          "url": "https://open.spotify.com/artist/2mpOeCZ7fAzhQmeXKQU8u8"
-        }
-      ],
-      "duration_ms": 296004,
-      "name": "Set It Off",
-      "url": "https://open.spotify.com/track/0YpbWmV6A7kiGv9XE4xyEa"
+      "duration_ms": 203497,
+      "name": "MIMS",
+      "url": "https://open.spotify.com/track/4km7ONTotwgPoeUoPp8SoP"
     },
     {
       "added_at": null,
@@ -467,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stop Counting My Poccets",
+        "url": "https://open.spotify.com/album/3Xre7HVyyD1iakfWLhyJ0G"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 123866,
+      "name": "Stop Counting My Poccets",
+      "url": "https://open.spotify.com/track/4POZ7rt05ZOcZCO8MwNDDa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FREE SPIRITS",
         "url": "https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo"
       },
@@ -487,18 +411,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 to 12 (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/52EW4YADVnFcUIXoxtVsUG"
+        "name": "Es brennt...",
+        "url": "https://open.spotify.com/album/1Wcfig1Ikjt80b0jHUtNyC"
       },
       "artists": [
         {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
         }
       ],
-      "duration_ms": 241573,
-      "name": "12 to 12 - triple j Like A Version",
-      "url": "https://open.spotify.com/track/6bbWS27e099GTDcbpcbM9X"
+      "duration_ms": 215102,
+      "name": "Es brennt...",
+      "url": "https://open.spotify.com/track/38AzvJEeLenRNOj48xUZxM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whatever's Clever!",
+        "url": "https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        },
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 197046,
+      "name": "Love In Exile (feat. Michael McDonald & Kenny Loggins)",
+      "url": "https://open.spotify.com/track/3SfgUB5bltOecirPxcevPM"
     },
     {
       "added_at": null,
@@ -519,38 +467,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opalite",
-        "url": "https://open.spotify.com/album/6TkTPQbbrUEQlmQkzRIx3D"
+        "name": "Deep Harbour",
+        "url": "https://open.spotify.com/album/6ThSdkaaJHvh36xnm3TCyT"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Commodo",
+          "url": "https://open.spotify.com/artist/2ZUJPPIpRK31hReRC22ZmT"
+        },
+        {
+          "name": "Anz",
+          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 233400,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/5SHuniMPqbGcQdEWkCJekN"
+      "duration_ms": 272423,
+      "name": "Deep Harbour - Anz Defensive Mix",
+      "url": "https://open.spotify.com/track/6eQUx4zfABBernRRPoUT8Y"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Last Pupil's Revenge",
-        "url": "https://open.spotify.com/album/2JZrjSJeE2WCBEhnbJzYGl"
+        "name": "12 to 12 (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/52EW4YADVnFcUIXoxtVsUG"
       },
       "artists": [
         {
-          "name": "Blacklovefresh",
-          "url": "https://open.spotify.com/artist/70ygKaX8FRoaJ4He1VOddf"
-        },
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
         }
       ],
-      "duration_ms": 135175,
-      "name": "Wu Plaster",
-      "url": "https://open.spotify.com/track/3xiujSFqUixaWXr7nJwVv3"
+      "duration_ms": 241573,
+      "name": "12 to 12 - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6bbWS27e099GTDcbpcbM9X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All For The Love Of Sunshine: 25 Greatest Songs",
+        "url": "https://open.spotify.com/album/0nnjrfF8s3kwbxyKflXcjC"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        },
+        {
+          "name": "Mike Curb Congregation",
+          "url": "https://open.spotify.com/artist/3Ngmu4UfpEPwwnfEcIRz1t"
+        }
+      ],
+      "duration_ms": 138398,
+      "name": "I Fought The Law",
+      "url": "https://open.spotify.com/track/3BwrtVcTok9h2L3VxVw74O"
     },
     {
       "added_at": null,
@@ -567,70 +539,6 @@
       "duration_ms": 242373,
       "name": "Caught In The Echo",
       "url": "https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Rythyms",
-        "url": "https://open.spotify.com/album/5NsPCjgjfT0XQgJzxzjU9L"
-      },
-      "artists": [
-        {
-          "name": "Gemini Salter",
-          "url": "https://open.spotify.com/artist/1xxhduxcvZcPVX9kJCRt5j"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Benny Stacka",
-          "url": "https://open.spotify.com/artist/53C1N4aFPd6AEahUeWT5L0"
-        }
-      ],
-      "duration_ms": 210181,
-      "name": "Playaz",
-      "url": "https://open.spotify.com/track/6pygwIeDOuvWXd31zTlygl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maison vide",
-        "url": "https://open.spotify.com/album/09Dn2l3vOvnqwC4qgHzeXl"
-      },
-      "artists": [
-        {
-          "name": "Dinaa",
-          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
-        },
-        {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Chanson triste",
-      "url": "https://open.spotify.com/track/2YhsSXzPhXPWYXIg4MehMA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feature Presentation 2025",
-        "url": "https://open.spotify.com/album/4b4OiSr351NzdTBaQavxrO"
-      },
-      "artists": [
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 198447,
-      "name": "The Omerta - Original",
-      "url": "https://open.spotify.com/track/7LXhgXeTveJArOTfX5dRXg"
     },
     {
       "added_at": null,
@@ -659,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Opalite",
+        "url": "https://open.spotify.com/album/6TkTPQbbrUEQlmQkzRIx3D"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/5SHuniMPqbGcQdEWkCJekN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Focus On Your Goals",
         "url": "https://open.spotify.com/album/55QraY1RNO4Di4PJrlGHjm"
       },
@@ -675,30 +599,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "R3SET",
-        "url": "https://open.spotify.com/album/1rhnav9zlFHm5zbyVIy2jR"
+        "name": "Feature Presentation 2025",
+        "url": "https://open.spotify.com/album/4b4OiSr351NzdTBaQavxrO"
       },
       "artists": [
         {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
         },
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Young Dro",
-          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 202500,
-      "name": "MON3Y TALK$",
-      "url": "https://open.spotify.com/track/2XSyQmSJU26Gq1CzgDQ1Uz"
+      "duration_ms": 198447,
+      "name": "The Omerta - Original",
+      "url": "https://open.spotify.com/track/7LXhgXeTveJArOTfX5dRXg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Former Site Of",
+        "url": "https://open.spotify.com/album/10Ehvbp6eFc4X4D84aOxhc"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "duration_ms": 398320,
+      "name": "The Former Site Of",
+      "url": "https://open.spotify.com/track/73NSR0zuF1CgdeICZMNPaM"
     },
     {
       "added_at": null,
@@ -739,58 +671,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Go",
-        "url": "https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ"
+        "name": "R3SET",
+        "url": "https://open.spotify.com/album/1rhnav9zlFHm5zbyVIy2jR"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         }
       ],
-      "duration_ms": 202196,
-      "name": "Get Go",
-      "url": "https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"
+      "duration_ms": 202500,
+      "name": "MON3Y TALK$",
+      "url": "https://open.spotify.com/track/2XSyQmSJU26Gq1CzgDQ1Uz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Four Women (DESIREE Remix)",
-        "url": "https://open.spotify.com/album/0eHZsn0A8VZXHJ0vRf4hLe"
+        "name": "Night Rythyms",
+        "url": "https://open.spotify.com/album/5NsPCjgjfT0XQgJzxzjU9L"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Gemini Salter",
+          "url": "https://open.spotify.com/artist/1xxhduxcvZcPVX9kJCRt5j"
         },
         {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Benny Stacka",
+          "url": "https://open.spotify.com/artist/53C1N4aFPd6AEahUeWT5L0"
         }
       ],
-      "duration_ms": 248290,
-      "name": "Four Women - DESIREE Remix",
-      "url": "https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ"
+      "duration_ms": 210181,
+      "name": "Playaz",
+      "url": "https://open.spotify.com/track/6pygwIeDOuvWXd31zTlygl"
     },
     {
       "added_at": null,
       "album": {
-        "name": "All For The Love Of Sunshine: 25 Greatest Songs",
-        "url": "https://open.spotify.com/album/0nnjrfF8s3kwbxyKflXcjC"
+        "name": "Queen II",
+        "url": "https://open.spotify.com/album/1HFobzrUk120xHeop7rC5D"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        },
-        {
-          "name": "Mike Curb Congregation",
-          "url": "https://open.spotify.com/artist/3Ngmu4UfpEPwwnfEcIRz1t"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 138398,
-      "name": "I Fought The Law",
-      "url": "https://open.spotify.com/track/3BwrtVcTok9h2L3VxVw74O"
+      "duration_ms": 372773,
+      "name": "Father To Son - Backing Track",
+      "url": "https://open.spotify.com/track/3lJfrrGjBxTmKgTLn63ER1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 251861,
+      "name": "Echo From The Flames",
+      "url": "https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7"
     },
     {
       "added_at": null,
@@ -815,22 +775,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schoenberg: Verkl\u00e4rte Nacht, Op. 4 (Arr. Guittart for Piano Trio): I. Grave (Bar 1)",
-        "url": "https://open.spotify.com/album/6Hhnj84JNh0484JiiMwoIb"
+        "name": "When It's Cold I'd Like to Die (SWIM Remix)",
+        "url": "https://open.spotify.com/album/13iO6tKzplqWUhWJ8egyUM"
       },
       "artists": [
         {
-          "name": "Arnold Schoenberg",
-          "url": "https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         },
         {
-          "name": "Amsterdam Piano Trio",
-          "url": "https://open.spotify.com/artist/7h6Mm6h0pH5l89RJHo03DD"
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
         }
       ],
-      "duration_ms": 282333,
-      "name": "Verkl\u00e4rte Nacht, Op. 4 (Arr. Guittart for Piano Trio): I. Grave (Bar 1)",
-      "url": "https://open.spotify.com/track/7vFwUgLjNnPpSOJBlCMczy"
+      "duration_ms": 263111,
+      "name": "When It's Cold I'd Like to Die - SWIM Remix",
+      "url": "https://open.spotify.com/track/3z13fq2dgfpW96atwtcGjh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Four Women (DESIREE Remix)",
+        "url": "https://open.spotify.com/album/0eHZsn0A8VZXHJ0vRf4hLe"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "duration_ms": 248290,
+      "name": "Four Women - DESIREE Remix",
+      "url": "https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ"
     },
     {
       "added_at": null,
@@ -851,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HADES",
+        "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 196371,
+      "name": "UNCANNY VALLEY",
+      "url": "https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When The City Sleeps",
         "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
       },
@@ -867,6 +863,26 @@
       "duration_ms": 235789,
       "name": "PCH",
       "url": "https://open.spotify.com/track/38xyu3Hk627vMbXLmgQvsT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Schoenberg: Verkl\u00e4rte Nacht, Op. 4 (Arr. Guittart for Piano Trio): I. Grave (Bar 1)",
+        "url": "https://open.spotify.com/album/6Hhnj84JNh0484JiiMwoIb"
+      },
+      "artists": [
+        {
+          "name": "Arnold Schoenberg",
+          "url": "https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9"
+        },
+        {
+          "name": "Amsterdam Piano Trio",
+          "url": "https://open.spotify.com/artist/7h6Mm6h0pH5l89RJHo03DD"
+        }
+      ],
+      "duration_ms": 282333,
+      "name": "Verkl\u00e4rte Nacht, Op. 4 (Arr. Guittart for Piano Trio): I. Grave (Bar 1)",
+      "url": "https://open.spotify.com/track/7vFwUgLjNnPpSOJBlCMczy"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

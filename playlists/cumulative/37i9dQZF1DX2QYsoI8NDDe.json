@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Viviann Baeza & Mar\u00eda Le\u00f3n \ud83d\udcf8",
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Loreto & Las Mar\u00edas \ud83d\udd25",
   "name": "Women of M\u00fasica Mexicana",
   "tracks": [
     {
@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "BOTITAS",
+        "url": "https://open.spotify.com/album/7rUasUEfoC9BOjtKLfHA92"
+      },
+      "artists": [
+        {
+          "name": "Isa La Mexicana",
+          "url": "https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "BOTITAS",
+      "url": "https://open.spotify.com/track/2pCR8I7m7IaKIJoVR5eOOK"
+    },
+    {
+      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/3vEE0iDumS43v1DyGyZSAS"
       },
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 234374,
       "name": "Deja Que Salga La Luna",
       "url": "https://open.spotify.com/track/7I8Y1UM2J2IDqXxpSjfrJB"
@@ -4173,6 +4191,28 @@
     },
     {
       "album": {
+        "name": "Hazy x Ti",
+        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        },
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213749,
+      "name": "Hazy x Ti",
+      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
+    },
+    {
+      "album": {
         "name": "Hermoso Cari\u00f1o",
         "url": "https://open.spotify.com/album/5uTeLCilSTEQg0Tq3olugY"
       },
@@ -4690,7 +4730,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 210065,
       "name": "La Hembra Que Soy",
       "url": "https://open.spotify.com/track/6ZZhzA0fE9eqLr5MJ5ASV5"
@@ -5823,6 +5863,24 @@
     },
     {
       "album": {
+        "name": "Me Acost\u00e9 Con Otro",
+        "url": "https://open.spotify.com/album/1syBSmGIPpAbMdmxjafVzW"
+      },
+      "artists": [
+        {
+          "name": "Olga Valkiria",
+          "url": "https://open.spotify.com/artist/6AkGdw07a7wxybz7y4pMj4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200928,
+      "name": "Me Acost\u00e9 Con Otro",
+      "url": "https://open.spotify.com/track/1K9jcV0q1ptUH9FlPc8k4O"
+    },
+    {
+      "album": {
         "name": "MEXICANA: EN VIVO (Live)",
         "url": "https://open.spotify.com/album/2vhsyZLikuL3F9qTKD5yPQ"
       },
@@ -6348,6 +6406,24 @@
       "duration_ms": 232321,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
+    },
+    {
+      "album": {
+        "name": "Canciones Sin Tiempo",
+        "url": "https://open.spotify.com/album/0uKJ1IJ62Bx0xvy4pdXD1y"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179649,
+      "name": "Mi M\u00e9xico (Radio Edit)",
+      "url": "https://open.spotify.com/track/2Ba99BWC1xQ0sVn2TP5lAf"
     },
     {
       "album": {
@@ -8672,7 +8748,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 205609,
       "name": "Primer Lugar",
       "url": "https://open.spotify.com/track/39OvoV1jMK3GdrGbvKixXp"
@@ -9602,7 +9678,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 124966,
       "name": "Santa Claus Lleg\u00f3 a la Ciudad",
       "url": "https://open.spotify.com/track/0ip9TvhqsZDH0BnHY34Lf8"

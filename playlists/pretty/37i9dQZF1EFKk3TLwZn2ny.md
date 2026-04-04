@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 23 | [In a Way](https://open.spotify.com/track/2716XnQDivAHzu3nAae4zz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 2:36 |
 | 24 | [Meet Me](https://open.spotify.com/track/4uSBMtugk4a1CFPuXjUyQ4) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Pain and Paradise](https://open.spotify.com/album/6ksW47wezzWZiHcQbSYTAJ) | 3:14 |
 | 25 | [For Sport](https://open.spotify.com/track/1oxThJ5QQGQE3HyKxypz5U) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/03HklFofKBkibQz7t0SPzt) | 2:26 |
-| 26 | [Under My Skin](https://open.spotify.com/track/290neMpuBxv2NHCSHvH50Q) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Peace and Offerings](https://open.spotify.com/album/0RXHqLpusmEwqffP21ngRy) | 3:18 |
-| 27 | [My Little Alien \- From 'SCOOB!' The Album](https://open.spotify.com/track/5OOilaEpdWL5f6LtbPJZoG) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [My Little Alien](https://open.spotify.com/album/3iQxgtiisxFuz2wb6MoSbh) | 3:05 |
-| 28 | [Phone Sex](https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Phone Sex](https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ) | 2:58 |
+| 26 | [Phone Sex](https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Phone Sex](https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ) | 2:58 |
+| 27 | [Under My Skin](https://open.spotify.com/track/290neMpuBxv2NHCSHvH50Q) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Peace and Offerings](https://open.spotify.com/album/0RXHqLpusmEwqffP21ngRy) | 3:18 |
+| 28 | [My Little Alien \- From 'SCOOB!' The Album](https://open.spotify.com/track/5OOilaEpdWL5f6LtbPJZoG) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [My Little Alien](https://open.spotify.com/album/3iQxgtiisxFuz2wb6MoSbh) | 3:05 |
 | 29 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 |
 | 30 | [Who Gon Love You](https://open.spotify.com/track/244cX8u7OwVyiW2z6uaD3C) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [HOFFA](https://open.spotify.com/album/1xYcF3T1DnGQ7M5BdzJppi) | 4:13 |
 | 31 | [Us](https://open.spotify.com/track/34nLVuz4g575sZjxi9gm3H) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Electric Honey](https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67) | 3:02 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 68 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 | 69 | [Loose](https://open.spotify.com/track/5XNK0HZfoTf7hhivBgmeUh) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Loose \[ALT\]](https://open.spotify.com/album/6iE7hjTGriBjRuzCl2kOYS) | 2:58 |
 
-Snapshot ID: `AcNzzAAAAACGDx4oMdHEi6lQaiVUEODl`
+Snapshot ID: `AcN5bAAAAAChV1lcww1DyJai6trKVQpj`

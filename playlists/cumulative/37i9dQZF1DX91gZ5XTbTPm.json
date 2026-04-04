@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: MAF Teeski",
+  "description": "The Midwest is always on time. Cover: Skilla Baby and 42 Dugg",
   "name": "CST",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 157917,
       "name": "2 The Hard Way (First Day Out)",
       "url": "https://open.spotify.com/track/3Lvh395dcDoIKcc85zKT0B"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 141933,
       "name": "3 SMRS STR8",
       "url": "https://open.spotify.com/track/2LarOWlYuiZvHJfnBOSEAa"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 170109,
       "name": "Back innat Mode again",
       "url": "https://open.spotify.com/track/5EXLc69ubIkjLnDUXyUoWW"
@@ -3946,6 +3946,32 @@
       "duration_ms": 143647,
       "name": "Blow Yo Gun",
       "url": "https://open.spotify.com/track/3fwTyCzc5OGodnTnHEJof4"
+    },
+    {
+      "album": {
+        "name": "Blow Your Advance",
+        "url": "https://open.spotify.com/album/35SH7nlUHuBxNqkuM1S1tM"
+      },
+      "artists": [
+        {
+          "name": "Lulrose",
+          "url": "https://open.spotify.com/artist/48CddloOYfdA7opCAtxdhD"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236434,
+      "name": "Blow Your Advance",
+      "url": "https://open.spotify.com/track/3zZRn6uetoMYmbCZtIS0NJ"
     },
     {
       "album": {
@@ -11196,7 +11222,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 335586,
       "name": "Harry Potter",
       "url": "https://open.spotify.com/track/0wiEf8greUbMFJTu3UU3qo"
@@ -11936,7 +11962,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 128953,
       "name": "Homework",
       "url": "https://open.spotify.com/track/35Tqgkg7EfDM2rAvNs6YWu"
@@ -18154,7 +18180,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 117443,
       "name": "no dreads",
       "url": "https://open.spotify.com/track/03S9MO1uTXYLpomfwNllD9"
@@ -18554,6 +18580,28 @@
       "duration_ms": 224470,
       "name": "Not a Drill",
       "url": "https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl"
+    },
+    {
+      "album": {
+        "name": "Not Friendly",
+        "url": "https://open.spotify.com/album/0I52JJWvsh7IuKjb5xwjK5"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181821,
+      "name": "Not Friendly",
+      "url": "https://open.spotify.com/track/5LUYSbvpy83r3WvV8n7MZy"
     },
     {
       "album": {
@@ -19652,6 +19700,28 @@
       "duration_ms": 129018,
       "name": "Pape Talk",
       "url": "https://open.spotify.com/track/1fInVZhQmpopTKTkZnLvwG"
+    },
+    {
+      "album": {
+        "name": "Paperbag Boy",
+        "url": "https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191059,
+      "name": "Paperbag Boy",
+      "url": "https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP"
     },
     {
       "album": {
@@ -20918,7 +20988,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 139439,
       "name": "ProdbyFxce",
       "url": "https://open.spotify.com/track/08xaNKeBvk68l44WLXI74b"
@@ -21686,6 +21756,24 @@
       "duration_ms": 145920,
       "name": "Rich Junkie (feat. Skilla Baby)",
       "url": "https://open.spotify.com/track/1YJ1ZgksxlYQEBy6cfhV7h"
+    },
+    {
+      "album": {
+        "name": "Rich Thang",
+        "url": "https://open.spotify.com/album/4RerkY1vycajymaulzsGhA"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137369,
+      "name": "Rich Thang",
+      "url": "https://open.spotify.com/track/6rW8WmRDCFvhuYt9lsaJFz"
     },
     {
       "album": {
@@ -22614,6 +22702,28 @@
       "duration_ms": 178285,
       "name": "Rucci",
       "url": "https://open.spotify.com/track/4XXEXmKXKWYhyfkKh6tprO"
+    },
+    {
+      "album": {
+        "name": "Run (feat. VonOff1700)",
+        "url": "https://open.spotify.com/album/1MpqmkL0UWjqEZ4gbzCuJA"
+      },
+      "artists": [
+        {
+          "name": "Lil Twin",
+          "url": "https://open.spotify.com/artist/0FCkJPfpzEx5T0GriSusOA"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "Run (feat. VonOff1700)",
+      "url": "https://open.spotify.com/track/75vBVmjIApeIQz7MpTKLVP"
     },
     {
       "album": {
@@ -27566,7 +27676,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 163738,
       "name": "TIL THE WHOLE WORLD ZOO",
       "url": "https://open.spotify.com/track/3bZCjtlUHjvg30YbvKDBGz"
@@ -29054,6 +29164,28 @@
       "duration_ms": 272785,
       "name": "Voicemail (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/4ROfJ7JAeConXVWe6S3Iyv"
+    },
+    {
+      "album": {
+        "name": "Wack 'Em",
+        "url": "https://open.spotify.com/album/11TnbPnAGCvspY5331O3YV"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160009,
+      "name": "Wack 'Em",
+      "url": "https://open.spotify.com/track/7vRlf8jNeRQQORDKw5a2tn"
     },
     {
       "album": {
@@ -30554,7 +30686,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 184864,
       "name": "World Boss",
       "url": "https://open.spotify.com/track/0gC6ZI3cFxHP7Hor3nMO3b"

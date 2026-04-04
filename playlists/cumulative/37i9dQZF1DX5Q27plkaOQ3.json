@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring beastboi.",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring Zeds Dead, Subtronics, & Tape B",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 180413,
       "name": "agenda",
       "url": "https://open.spotify.com/track/64KkzUjlOCjtKeGgur0Vjz"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 217714,
       "name": "Around The World (La La La)",
       "url": "https://open.spotify.com/track/1Ob2xtKYCrDW8DAdW31BDV"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 260689,
       "name": "Aura Farming",
       "url": "https://open.spotify.com/track/54iy8ooDbrHeuSOeYL0pkC"
@@ -1684,6 +1684,28 @@
       "duration_ms": 239586,
       "name": "Back 2 The Rave",
       "url": "https://open.spotify.com/track/1SXRoogCywl9bDdRQL2BHd"
+    },
+    {
+      "album": {
+        "name": "Second Opinion",
+        "url": "https://open.spotify.com/album/5BA7KTHsTBMHjiuhJMBO77"
+      },
+      "artists": [
+        {
+          "name": "SubDocta",
+          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+        },
+        {
+          "name": "AceMyth",
+          "url": "https://open.spotify.com/artist/3lx0iq7PFYTo4IW4vFQtYj"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212042,
+      "name": "Back In It",
+      "url": "https://open.spotify.com/track/7gKeRFpNRSZyWCzzsYGATM"
     },
     {
       "album": {
@@ -2610,7 +2632,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 203611,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2bEio1Ygvk5ejx6gaFNVE2"
@@ -3676,6 +3698,32 @@
       "duration_ms": 220800,
       "name": "Break Sh*t",
       "url": "https://open.spotify.com/track/5f2biYeIAqyEFdgH5jXJJt"
+    },
+    {
+      "album": {
+        "name": "Kill Safari",
+        "url": "https://open.spotify.com/album/2nmhNKAThhuizsnGdbFudJ"
+      },
+      "artists": [
+        {
+          "name": "Kill Safari",
+          "url": "https://open.spotify.com/artist/3c0nrfhZe6afmto5cvYodR"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Bro Safari",
+          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/3Yjv5Avygtqs4v0nYtkFna"
     },
     {
       "album": {
@@ -4936,7 +4984,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 146086,
       "name": "Chasm",
       "url": "https://open.spotify.com/track/1Evh2OWoESQAefl99XpFf4"
@@ -5955,6 +6003,28 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/6ds4c90F7yuFG7KWZquDGm"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225103,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/3HaRFJZ3QSjn3ffXN1f0Cl"
+    },
+    {
+      "album": {
         "name": "Crush (VIP)",
         "url": "https://open.spotify.com/album/2IdrcmtQZbqPqdNDS4uwpi"
       },
@@ -5974,6 +6044,24 @@
       "duration_ms": 270400,
       "name": "Crush - VIP",
       "url": "https://open.spotify.com/track/4BiF66d4NFyRBCSFAwTucJ"
+    },
+    {
+      "album": {
+        "name": "CRYSTAL CORRUPTION",
+        "url": "https://open.spotify.com/album/0e9VFVjfDOzhhJ81tOAw96"
+      },
+      "artists": [
+        {
+          "name": "THE RESISTANCE",
+          "url": "https://open.spotify.com/artist/4VU3TBTKad327N0Ql1P1ew"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "CRYSTAL CORRUPTION",
+      "url": "https://open.spotify.com/track/3RYIdM8PvcnV8ileUzKZMP"
     },
     {
       "album": {
@@ -6982,7 +7070,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 207887,
       "name": "DIAMONDS",
       "url": "https://open.spotify.com/track/0w1pczzsvV3CmYY9VlyeoO"
@@ -7230,7 +7318,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 174879,
       "name": "DIRTY SOUTH",
       "url": "https://open.spotify.com/track/0Fj8IYC9a7dVMXq3j0wOn9"
@@ -7498,6 +7586,28 @@
       "duration_ms": 180845,
       "name": "DO OR DIE",
       "url": "https://open.spotify.com/track/6gkakK2eAlnJYLCroD2xgP"
+    },
+    {
+      "album": {
+        "name": "DOMAIN",
+        "url": "https://open.spotify.com/album/6bxY1d3DvnKcHidbDnbJ1A"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "VLCN",
+          "url": "https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "DOMAIN",
+      "url": "https://open.spotify.com/track/4yVHIc6FXkBj40FkVAywkb"
     },
     {
       "album": {
@@ -9618,7 +9728,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 140571,
       "name": "Feral",
       "url": "https://open.spotify.com/track/1yZgzSN91yXeiGkkqvV3hj"
@@ -9900,7 +10010,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 294857,
       "name": "Fire Linking Curse",
       "url": "https://open.spotify.com/track/2WAjBoUbqzIBES1l2DfmW1"
@@ -9970,6 +10080,28 @@
       "duration_ms": 166400,
       "name": "FLAMES",
       "url": "https://open.spotify.com/track/0LEIDdz54zBe9QoyZKaF9q"
+    },
+    {
+      "album": {
+        "name": "Doctor P & Flux Pavilion",
+        "url": "https://open.spotify.com/album/3EJlixmzm4hZd4OyUD5xm1"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/63ZSvQjMKRnk8Gea15vymN"
     },
     {
       "album": {
@@ -10358,7 +10490,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 234482,
       "name": "Frames of Infinity",
       "url": "https://open.spotify.com/track/6nTBvVuBaYu6s4aYnpA0oV"
@@ -10780,6 +10912,28 @@
       "duration_ms": 275156,
       "name": "GALACTICAL",
       "url": "https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ"
+    },
+    {
+      "album": {
+        "name": "Wormholes & Wildflowers",
+        "url": "https://open.spotify.com/album/4pj3wtnV76KkTTyP4cwyl3"
+      },
+      "artists": [
+        {
+          "name": "So Sus",
+          "url": "https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A"
+        },
+        {
+          "name": "Vyhara",
+          "url": "https://open.spotify.com/artist/0uxBvW7LTgKjr721ks2a6O"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/2s5eXGqgGUlZNepQ2CJHDq"
     },
     {
       "album": {
@@ -11742,7 +11896,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 258206,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/0GtRKN7450m543ES4tBwbG"
@@ -12815,6 +12969,24 @@
     },
     {
       "album": {
+        "name": "Devil in the Jungle",
+        "url": "https://open.spotify.com/album/4ukGMKSHfAK3bulwnaWBlz"
+      },
+      "artists": [
+        {
+          "name": "Midnight Tyrannosaurus",
+          "url": "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211718,
+      "name": "Hunter Killer",
+      "url": "https://open.spotify.com/track/7bCFbHgbJw3XQYFpApUZdr"
+    },
+    {
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/7CUMWsuL3VBhlDaJXZGmX7"
       },
@@ -13621,6 +13793,28 @@
     },
     {
       "album": {
+        "name": "ORGANIC DUBSTEP EP",
+        "url": "https://open.spotify.com/album/7Cntu1kPNfvnBjA5Bw74mp"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        },
+        {
+          "name": "Modal Nodes",
+          "url": "https://open.spotify.com/artist/7IiQzwRO9HsEcSzTDT6OSS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168827,
+      "name": "INFECTED",
+      "url": "https://open.spotify.com/track/5V6Yx8L9ItQUOYq0REdFGj"
+    },
+    {
+      "album": {
         "name": "Infernal Noises",
         "url": "https://open.spotify.com/album/2XN6XrW387IKmiFzcdBLTb"
       },
@@ -14194,7 +14388,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 168000,
       "name": "JUMPJUMPJUMP",
       "url": "https://open.spotify.com/track/5qr6XkFTvEWX3JnxZJJG3L"
@@ -15195,6 +15389,24 @@
     },
     {
       "album": {
+        "name": "Light One Up",
+        "url": "https://open.spotify.com/album/3eYtupiNHvlxl3oBHLCf47"
+      },
+      "artists": [
+        {
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Light One Up",
+      "url": "https://open.spotify.com/track/0RmIAP5IdT7cAf4YyoCYBG"
+    },
+    {
+      "album": {
         "name": "Light You Up ft. CREG",
         "url": "https://open.spotify.com/album/3HrdBuP0BdSDTEoxdKKSHG"
       },
@@ -15932,7 +16144,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 281600,
       "name": "MandelBrock",
       "url": "https://open.spotify.com/track/1Ptnrndbn8iPp4YXFj6VpL"
@@ -16794,6 +17006,32 @@
       "duration_ms": 192004,
       "name": "Movement",
       "url": "https://open.spotify.com/track/6cXZ5xkPNb9P5C6Z9564Cx"
+    },
+    {
+      "album": {
+        "name": "Movement (Wooli & Kompany Remix)",
+        "url": "https://open.spotify.com/album/0cPBiyrMXCOssOWkiETUuw"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Movement - Wooli & Kompany Remix",
+      "url": "https://open.spotify.com/track/4nUr676TfZJbZ8Fva7LIU9"
     },
     {
       "album": {
@@ -18172,7 +18410,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 198002,
       "name": "ON JOB",
       "url": "https://open.spotify.com/track/0QgRQ5uxzGcRFcjXU0bt9L"
@@ -20945,6 +21183,28 @@
     },
     {
       "album": {
+        "name": "Ricky",
+        "url": "https://open.spotify.com/album/3uGZONCJpG9t4QhK7lGJyJ"
+      },
+      "artists": [
+        {
+          "name": "Distinct Motive",
+          "url": "https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM"
+        },
+        {
+          "name": "Wraz.",
+          "url": "https://open.spotify.com/artist/67b5TsLqAzMdmtWZCy2k7D"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "Ricky",
+      "url": "https://open.spotify.com/track/7w4DFvXo5mDu6qArZ7lgpD"
+    },
+    {
+      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/2AL4UN6t5eXk3NPyj7Ei5H"
       },
@@ -21875,6 +22135,28 @@
     },
     {
       "album": {
+        "name": "Screen Time",
+        "url": "https://open.spotify.com/album/691JxW4iN7wupY8GAWJsOy"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159821,
+      "name": "Screen Time",
+      "url": "https://open.spotify.com/track/3ov53bBru8D5qoSi6bYylL"
+    },
+    {
+      "album": {
         "name": "Screwface",
         "url": "https://open.spotify.com/album/7lYpECzfqUQ7U4elNfPFSf"
       },
@@ -22442,7 +22724,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 174400,
       "name": "Shatter",
       "url": "https://open.spotify.com/track/45V3yB2jw22n8UxHuY2Rjj"
@@ -23420,7 +23702,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 128571,
       "name": "Soundcheck",
       "url": "https://open.spotify.com/track/4yfBWFGg46U5zE3WfFst3h"
@@ -25733,6 +26015,28 @@
     },
     {
       "album": {
+        "name": "THE SIGNAL",
+        "url": "https://open.spotify.com/album/5d0d21XekO3GZQJOjNeNMm"
+      },
+      "artists": [
+        {
+          "name": "SLUGZ",
+          "url": "https://open.spotify.com/artist/0yJq6jTRvp3btZyePfvuX9"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "THE SIGNAL",
+      "url": "https://open.spotify.com/track/29sFte6wzZpG1wciL9XPrZ"
+    },
+    {
+      "album": {
         "name": "The Takeover",
         "url": "https://open.spotify.com/album/4iaLkyelNjYfqcQlan0zVl"
       },
@@ -26619,6 +26923,24 @@
     },
     {
       "album": {
+        "name": "Tricky",
+        "url": "https://open.spotify.com/album/651OCnDwo6H7rYvlcfgY7n"
+      },
+      "artists": [
+        {
+          "name": "VESHZA",
+          "url": "https://open.spotify.com/artist/6aMEvSHegl6e5oOkmqafBz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110638,
+      "name": "Tricky",
+      "url": "https://open.spotify.com/track/0NDvNAuLfWu96r8HIwkKDL"
+    },
+    {
+      "album": {
         "name": "cloudburst",
         "url": "https://open.spotify.com/album/6WIpvItr5vm7mJSSeLnyAP"
       },
@@ -27340,7 +27662,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 267428,
       "name": "Ups and Downs",
       "url": "https://open.spotify.com/track/4H3lfEQqrv1Kh3CXVYmMwW"
@@ -28467,6 +28789,24 @@
     },
     {
       "album": {
+        "name": "WILTED CULTURE",
+        "url": "https://open.spotify.com/album/1LtSHrk61r0umZ840pIMrr"
+      },
+      "artists": [
+        {
+          "name": "MUERTE",
+          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "WILTED CULTURE",
+      "url": "https://open.spotify.com/track/6Zt1IPpRDuHRr3Qn8ejjBl"
+    },
+    {
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/6xOIqG0yH0Ejwg6wROcPDc"
       },
@@ -28562,6 +28902,32 @@
       "duration_ms": 216888,
       "name": "Won't Back Down",
       "url": "https://open.spotify.com/track/51CvI6GzSkPpeInPgjs998"
+    },
+    {
+      "album": {
+        "name": "Word Scramble",
+        "url": "https://open.spotify.com/album/5jlmxWMzxDMG3KifltzpSJ"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Word Scramble",
+      "url": "https://open.spotify.com/track/080hAFjUF8vlrqr45hXQHd"
     },
     {
       "album": {

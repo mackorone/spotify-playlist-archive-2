@@ -4,7 +4,7 @@
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-174 songs - 9 hr 5 min
+175 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Endless Nights \(feat\. Gunna\)](https://open.spotify.com/track/6k8pPJi8jbFSopEQA0rffn) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 2:38 | 2025-11-05 | 2026-01-15 |
 | [Enemies](https://open.spotify.com/track/4KYf8TBVU4QHZlSnVOn7u8) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Enemies](https://open.spotify.com/album/0AnyKXm0HB8OhBXqkJNHeF) | 3:01 | 2026-03-02 |  |
 | [Feelin' Peachy](https://open.spotify.com/track/2cv6XK6H0imQqD16uvHMOS) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Feelin' Peachy](https://open.spotify.com/album/4hmAVd9JpGlVurESrULRTh) | 3:11 | 2022-10-28 | 2022-10-31 |
-| [FIELD TRIP](https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [FIELD TRIP](https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK) | 2:43 | 2024-08-07 |  |
+| [FIELD TRIP](https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [FIELD TRIP](https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK) | 2:43 | 2024-08-07 | 2026-04-04 |
 | [FLORIDA FLOW](https://open.spotify.com/track/4vqwVaEqLNWo3UXhQi5IFH) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 5:28 | 2025-07-16 | 2025-11-07 |
 | [Follow Me](https://open.spotify.com/track/21jCQLUNNLIdlcPkRInJNm) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 3:00 | 2023-06-11 | 2023-06-17 |
 | [Freezing My Pinky](https://open.spotify.com/track/1Gc2CfplXLMVbR1WxzTeXm) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:19 | 2022-12-27 | 2023-01-22 |
@@ -79,6 +79,7 @@
 | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K) | 2:53 | 2023-03-26 | 2023-11-11 |
 | [I Wish](https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 2:45 | 2022-10-28 | 2024-11-07 |
 | [I.M.Y \(Miss You\)](https://open.spotify.com/track/4ljFgxQtSqphJtLnqGt0UG) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 2:48 | 2024-05-10 | 2024-06-08 |
+| [Identity Theft](https://open.spotify.com/track/48KTGG6wBPpleE5KsTuiwy) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:07 | 2026-04-04 |  |
 | [If I'm Lyin', I'm Flyin'](https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:10 | 2022-10-28 |  |
 | [If You Ever](https://open.spotify.com/track/0V21OKHI5LkeRKCxfFkHUN) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 3:37 | 2022-10-31 | 2023-01-19 |
 | [Ima Be Real](https://open.spotify.com/track/6waqKeC17KOoOXcFUlzeva) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dieuson Octave](https://open.spotify.com/album/5MMgxR8kqI7CFzQRvGiKHj) | 2:48 | 2024-11-10 | 2024-11-27 |

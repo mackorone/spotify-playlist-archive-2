@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 3월의 노래를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,939 likes - 42 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,038 likes - 42 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 | 41 | [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 |
 | 42 | [Coming Up \(It’s Dare\)](https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Coming Up \(It’s Dare\)](https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq) | 3:00 |
 
-Snapshot ID: `AAAAAM0Sh4udsL6VIwaEnS9XbmFJ1YZk`
+Snapshot ID: `AAAAAGNmLEW2rDkttgQv/EplmZbj9DeL`

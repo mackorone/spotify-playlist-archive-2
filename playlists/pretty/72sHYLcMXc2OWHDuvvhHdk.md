@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,471 songs - 6 day 0 hr 27 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,482 songs - 6 day 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2479,5 +2479,16 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2469 | [Soledad](https://open.spotify.com/track/6rIAEIWjZEtlRm4dmZRgyJ) | [Jorge Trez](https://open.spotify.com/artist/1QblYNIinirun9slUCO1Gq) | [Amor Imposible](https://open.spotify.com/album/2F6Mp4cFVoDYn8VZamya5A) | 3:07 |
 | 2470 | [GIRLS](https://open.spotify.com/track/2WquMdtFVpyJv5U4kJMDSJ) | [TAKY](https://open.spotify.com/artist/21HEtny7SdsVUIjviGpGrY) | [GIRLS](https://open.spotify.com/album/63PULggAWg0TS3V72invPp) | 2:24 |
 | 2471 | [Unafraid \- Remastered 2026](https://open.spotify.com/track/2A0jKp2bkr7LKTgv2SnLDw) | [Andrew Spice](https://open.spotify.com/artist/5ZnQOkwMsUYXfrnTNFtcgY) | [Pretty Demons \(Remastered 2026\)](https://open.spotify.com/album/5BGpZwnoZzUBKGLuNsSklb) | 3:16 |
+| 2472 | [Wildfire \(Reprise\)](https://open.spotify.com/track/2qFh4i5Gu6xDLRIWMenMMi) | [Trapper Schoepp](https://open.spotify.com/artist/1FC9UcdlFDyATpXi1IFvLS) | [Osborne](https://open.spotify.com/album/5SYqIWrKL299SmgNaf43gM) | 1:10 |
+| 2473 | [and ecstasy](https://open.spotify.com/track/53FVzJA8HMkkbaOdghutTv) | [THE POLAROID TIDE](https://open.spotify.com/artist/0cTjXzp3f9NAcGcexOS5gz) | [I now see in 8mm](https://open.spotify.com/album/1PPVcyGNB1V5CIbyw6Tt0h) | 3:07 |
+| 2474 | [Wings of Light I \(The Call\)](https://open.spotify.com/track/28dFV1MPUO9TJJmh35pKME) | [thidebrito](https://open.spotify.com/artist/38nFnSRQtd7Nslr5PSlCBq) | [UNPLUGGED FACTORY I](https://open.spotify.com/album/2qeFryggB80ccjG9MkWVvR) | 3:49 |
+| 2475 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 |
+| 2476 | [Blue days](https://open.spotify.com/track/4GiqBOkQBvnaaJ2frmYG3R) | [Sergio Serravalle](https://open.spotify.com/artist/5dyqjLOIgvbO0accI1bBmy) | [For a friend](https://open.spotify.com/album/6MOPJF1c5B6lFkk11G21VQ) | 5:56 |
+| 2477 | [Not Today](https://open.spotify.com/track/6Eig2xIw2ybJQgH9jVddCG) | [Big Band of Boom](https://open.spotify.com/artist/7o6iEBryMY6xMmVwBCGNFA) | [Big Band of Boom](https://open.spotify.com/album/76Fw8uNsaqJFA5JMBKzaBZ) | 2:57 |
+| 2478 | [Bo w Bieszczadach](https://open.spotify.com/track/1UsHwcufibLBONx6HSvDoj) | [Całkiem OK](https://open.spotify.com/artist/3vRdqhM7eqi4z2bCI6C43Z) | [Bo w Bieszczadach](https://open.spotify.com/album/4aepGUDbCy4sBqpIJWvX2c) | 2:48 |
+| 2479 | [soaring](https://open.spotify.com/track/5drlA8ixLmNTHECqb2QFjZ) | [어진별](https://open.spotify.com/artist/5QETmGfK7lgx4LrLaUrDZi), [bergamots](https://open.spotify.com/artist/3DtgbqGZ6tqMaUugQSHgnb) | [soaring](https://open.spotify.com/album/44pWYztcN896sHlN95qRkl) | 3:51 |
+| 2480 | [In Your Dreams](https://open.spotify.com/track/1fmX0jToR2dVaY4fTWqM2B) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [In Your Dreams](https://open.spotify.com/album/5MclxDMknVlBLyhy1Fjx77) | 2:17 |
+| 2481 | [Cruz de caminos](https://open.spotify.com/track/66DeNfPf59jLNqICHWlEN1) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 6:34 |
+| 2482 | [Home Sweet Home](https://open.spotify.com/track/6mpGwpWSUsO6QZPObHTKCm) | [Re:becca](https://open.spotify.com/artist/19034iB1bsfmukRgR3bJFR) | [No Heroes](https://open.spotify.com/album/6rMYq68zsflfLRq2GEOzW3) | 4:50 |
 
-Snapshot ID: `AAAKPqwATX5P08NkHftWHmrPUQ1DanFF`
+Snapshot ID: `AAAKSXLrzcWgY1/7PaO40Y3WihMvjU0H`

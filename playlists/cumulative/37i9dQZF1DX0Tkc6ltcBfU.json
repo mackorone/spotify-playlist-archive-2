@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the South. Cover: Lil Baby\n",
+  "description": "The hottest out the South. Cover: Bossman Dlow\n",
   "name": "No Cap",
   "tracks": [
     {
@@ -532,7 +532,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 193288,
       "name": "24Hrs",
       "url": "https://open.spotify.com/track/0AlTIOiF5u0sHdsEvBU2av"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 136127,
       "name": "3am",
       "url": "https://open.spotify.com/track/43oBNdp6W1Z9YDu1svX1hl"
@@ -2306,6 +2306,28 @@
       "duration_ms": 223806,
       "name": "Ain't Tha Truth",
       "url": "https://open.spotify.com/track/26wh8LuATljb51e9VJPweT"
+    },
+    {
+      "album": {
+        "name": "The Trippy Tapes Vol. 1",
+        "url": "https://open.spotify.com/album/7qXn3yCmCiQMQ6kKxDQdDu"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "DJ Scream",
+          "url": "https://open.spotify.com/artist/45h71dCVZaNAqP3YwQH6ER"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177112,
+      "name": "Ain\u2019t No Way",
+      "url": "https://open.spotify.com/track/2Q9fF6Tn9HUAzHqatnXQeg"
     },
     {
       "album": {
@@ -4170,7 +4192,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 128026,
       "name": "BACK UP",
       "url": "https://open.spotify.com/track/3NHDEScXnHVLlvxPhfRsyi"
@@ -4888,7 +4910,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 123076,
       "name": "Beautiful Nightmares",
       "url": "https://open.spotify.com/track/3fXKyGKcF6Mb35YMidgr2L"
@@ -9062,7 +9084,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 165657,
       "name": "Chances In Your Life",
       "url": "https://open.spotify.com/track/0QuELjwcdspNqAPKJgDtoA"
@@ -9614,6 +9636,28 @@
       "duration_ms": 136615,
       "name": "chronic",
       "url": "https://open.spotify.com/track/58GldQh13wzqsHuT09jIAv"
+    },
+    {
+      "album": {
+        "name": "CHR\u00d6ME (feat. slayr)",
+        "url": "https://open.spotify.com/album/3qJ91i2zamDYcJ91J7PNHs"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222204,
+      "name": "CHR\u00d6ME (feat. slayr)",
+      "url": "https://open.spotify.com/track/13bMRD7SZJCqbx4fSGHK0Y"
     },
     {
       "album": {
@@ -13463,6 +13507,28 @@
     },
     {
       "album": {
+        "name": "Born To Stunt",
+        "url": "https://open.spotify.com/album/6KKau0Ln7rroVVt07O1E76"
+      },
+      "artists": [
+        {
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158100,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1kq6BFrLkZE7FMReMFIpIp"
+    },
+    {
+      "album": {
         "name": "Dreidel Bop",
         "url": "https://open.spotify.com/album/28gqEZY9Gne8LSugkaoKIR"
       },
@@ -13628,7 +13694,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 209600,
       "name": "Drive Alone",
       "url": "https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS"
@@ -14311,6 +14377,24 @@
     },
     {
       "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/2kK6RThDAK9VO8Bnov9vpd"
+      },
+      "artists": [
+        {
+          "name": "Jay Montana",
+          "url": "https://open.spotify.com/artist/0VZ8xEb6CWeTe3swY7qcxw"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/0yYDa9Zuu7qM9MZO2cbK4Y"
+    },
+    {
+      "album": {
         "name": "After TTBR",
         "url": "https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa"
       },
@@ -14462,7 +14546,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 183928,
       "name": "EVIL J0RDAN",
       "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
@@ -15478,7 +15562,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 152658,
       "name": "Feet On Land",
       "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
@@ -20092,7 +20176,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 146267,
       "name": "Have My Back",
       "url": "https://open.spotify.com/track/5sdJJ2vMNXO1MXAADOgTOM"
@@ -22350,7 +22434,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 132413,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5NSfiECxpfraZssmB9TKvK"
@@ -22902,6 +22986,24 @@
       "duration_ms": 206582,
       "name": "I'm A Dog - Remix",
       "url": "https://open.spotify.com/track/1IJktgqBOGN7CjUYZQQdIb"
+    },
+    {
+      "album": {
+        "name": "I'm Cool",
+        "url": "https://open.spotify.com/album/3oqnAcH47r4miT410UMBzr"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160104,
+      "name": "I'm Cool",
+      "url": "https://open.spotify.com/track/3nSBqvFmPh2jlS1zwfD4nG"
     },
     {
       "album": {
@@ -26250,7 +26352,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 181448,
       "name": "Legends (with Lil Baby)",
       "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
@@ -26428,7 +26530,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 202162,
       "name": "Let's Do It (feat. Playboi Carti & Skooly)",
       "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
@@ -27318,6 +27420,24 @@
       "duration_ms": 114191,
       "name": "LMAO",
       "url": "https://open.spotify.com/track/4tL7cu2Ta3r4FZKtSumlMS"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2MrAeXVF8AF8jb3LSK4TIM"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/2LIHIN3N3WK5psQzKtqfMW"
     },
     {
       "album": {
@@ -29812,7 +29932,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 180064,
       "name": "Mo Chicken (feat. French Montana)",
       "url": "https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn"
@@ -30964,7 +31084,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 116972,
       "name": "MY HOOD",
       "url": "https://open.spotify.com/track/3eEyvB02dMFanH2QirNdfx"
@@ -31328,7 +31448,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 179400,
       "name": "Need That",
       "url": "https://open.spotify.com/track/5Q4dKMJnW3TOOTuxyTTjDJ"
@@ -32102,6 +32222,28 @@
       "duration_ms": 179200,
       "name": "No Bih",
       "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
+    },
+    {
+      "album": {
+        "name": "SAME DIFFERENCE",
+        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316097,
+      "name": "NO CALL NO SHOW (feat. NAV)",
+      "url": "https://open.spotify.com/track/48AgSXjkND0Ufv0sOCAhPi"
     },
     {
       "album": {
@@ -33190,6 +33332,24 @@
       "duration_ms": 216541,
       "name": "Not Your Speed",
       "url": "https://open.spotify.com/track/7AjZot2LL9EgJx1TBV1G3D"
+    },
+    {
+      "album": {
+        "name": "Nothin Like Me",
+        "url": "https://open.spotify.com/album/7HHWvtqaJyUfIcnojnZb8v"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132200,
+      "name": "Nothin Like Me",
+      "url": "https://open.spotify.com/track/0Lztp0wEBoch8sPiZxKUi9"
     },
     {
       "album": {
@@ -35624,7 +35784,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 120000,
       "name": "Passenger Seat",
       "url": "https://open.spotify.com/track/48qkdSZk6gJ5bQ6qUGlYDA"
@@ -36935,6 +37095,28 @@
     },
     {
       "album": {
+        "name": "Pops",
+        "url": "https://open.spotify.com/album/68C9RgYAybkxqDZzdtt3ak"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "Pops",
+      "url": "https://open.spotify.com/track/2OTJjxvUACGWALxdUDohBu"
+    },
+    {
+      "album": {
         "name": "Port Antonio",
         "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
       },
@@ -37602,7 +37784,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 123404,
       "name": "PROOF IN THE PUDDIN\u2019",
       "url": "https://open.spotify.com/track/5kO0LKcVAVVH1NL2IdF0JU"
@@ -38918,7 +39100,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186503,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/4UXo9V0HvFdeoauwzI12cQ"
@@ -39074,7 +39256,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 228676,
       "name": "Ri0T",
       "url": "https://open.spotify.com/track/5Rw4P3f2hGrtlMwd14cQkL"
@@ -41361,6 +41543,28 @@
     },
     {
       "album": {
+        "name": "OMERT\u00c1",
+        "url": "https://open.spotify.com/album/2EPcZ737eZNXCddY7PVU2h"
+      },
+      "artists": [
+        {
+          "name": "Nino Breeze",
+          "url": "https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7LvH9xGcyHqy1pS9QbliW3"
+    },
+    {
+      "album": {
         "name": "Shit Crazy Remix (feat. BIG30, Sett, Mac Critter)",
         "url": "https://open.spotify.com/album/6QqTgZD1V2VOM7UVPYwyqg"
       },
@@ -41806,6 +42010,24 @@
       "duration_ms": 164373,
       "name": "Shrimp & Grits (feat. Young Nudy)",
       "url": "https://open.spotify.com/track/04yFP7f0TBeeIKs34TXvAP"
+    },
+    {
+      "album": {
+        "name": "Sid Vicious",
+        "url": "https://open.spotify.com/album/7E0AOtyfRT9YjrVDlMai4d"
+      },
+      "artists": [
+        {
+          "name": "Kee Nola",
+          "url": "https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142250,
+      "name": "Sid Vicious",
+      "url": "https://open.spotify.com/track/3jYdlvaxBOHG7Rl4yvJXji"
     },
     {
       "album": {
@@ -42594,6 +42816,28 @@
       "duration_ms": 125352,
       "name": "So What",
       "url": "https://open.spotify.com/track/1vT1EeOWGRyk7EFeZtIDhx"
+    },
+    {
+      "album": {
+        "name": "So What Now",
+        "url": "https://open.spotify.com/album/1L3fRGWg6v9yVQIzRuJM2Q"
+      },
+      "artists": [
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145584,
+      "name": "So What Now",
+      "url": "https://open.spotify.com/track/0rh6u2BWnjGaV4Z9Ow7Mpl"
     },
     {
       "album": {
@@ -43538,7 +43782,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 108000,
       "name": "Statpadder",
       "url": "https://open.spotify.com/track/0RxeEHBtttv0opttowvA1X"
@@ -44118,6 +44362,24 @@
       "duration_ms": 180427,
       "name": "STILL TALK\u2019N THAT SHIT",
       "url": "https://open.spotify.com/track/5XK3BD1z7Yg0NlEwy4TT97"
+    },
+    {
+      "album": {
+        "name": "Still Virgil",
+        "url": "https://open.spotify.com/album/1j0XqfL2CKaMI073ATSBRw"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147418,
+      "name": "Still Virgil",
+      "url": "https://open.spotify.com/track/4YXtodBrujUCJJlP2rjk3k"
     },
     {
       "album": {
@@ -46221,6 +46483,24 @@
     },
     {
       "album": {
+        "name": "That's It",
+        "url": "https://open.spotify.com/album/02tMEYuLcCGE10byHNBiXz"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116818,
+      "name": "That's It",
+      "url": "https://open.spotify.com/track/0nAoQKpq9CpkHw3vyAMJRy"
+    },
+    {
+      "album": {
         "name": "That's Not Gangsta",
         "url": "https://open.spotify.com/album/69psY4QqtEkU3pQERMFAdB"
       },
@@ -46374,6 +46654,24 @@
       "duration_ms": 135419,
       "name": "The End",
       "url": "https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3"
+    },
+    {
+      "album": {
+        "name": "SAME DIFFERENCE",
+        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "THE GOSPEL",
+      "url": "https://open.spotify.com/track/4RF4iHAWjpMgZlYKTUKG3L"
     },
     {
       "album": {
@@ -48369,6 +48667,28 @@
     },
     {
       "album": {
+        "name": "Tuition Remix (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/1nWomZQimTLQBhDUfcg3WG"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Tuition Remix (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/65ljzAo3PFVv1VFArQbA1k"
+    },
+    {
+      "album": {
         "name": "For Her 2 (Deluxe)",
         "url": "https://open.spotify.com/album/2fRG5C3SgmOjtFJHMbvF9E"
       },
@@ -49742,6 +50062,24 @@
       "duration_ms": 150312,
       "name": "vitamins n minerals",
       "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
+    },
+    {
+      "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/0JOapIHLzCzmqCAZf8OYy1"
+      },
+      "artists": [
+        {
+          "name": "Nine Vicious",
+          "url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244339,
+      "name": "Vivienne Westwood / RIP",
+      "url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
     },
     {
       "album": {
@@ -53198,7 +53536,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 133333,
       "name": "You Mad",
       "url": "https://open.spotify.com/track/5R7XiF3Wgn2nE2zhYSvdig"

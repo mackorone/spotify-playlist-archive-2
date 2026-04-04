@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96225,
+  "num_followers": 96227,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAA1i/AmptHtkhx3G4ZTzXkU",
+  "snapshot_id": "ac2xgAAAAAAAhTuEoBiOwe7REisgOByH",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "YOU (FT DON TOLIVER)",
-      "url": "https://open.spotify.com/track/6cvbYMdlVhoAXIpQDmrcIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fall Back (feat. NAV)",
         "url": "https://open.spotify.com/album/7suwBb7PlZ6zupyHE1PYwP"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 160055,
       "name": "Fall Back (feat. NAV)",
       "url": "https://open.spotify.com/track/2P2t2ligxAF1B562FDYrDu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 184619,
+      "name": "Don't Need Friends (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4x3mum2YGHtIBrgUKiNt4F"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
       },
       "artists": [
         {
@@ -388,13 +388,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 184619,
-      "name": "Don't Need Friends (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/4x3mum2YGHtIBrgUKiNt4F"
+      "duration_ms": 183973,
+      "name": "YOU (FT DON TOLIVER)",
+      "url": "https://open.spotify.com/track/6cvbYMdlVhoAXIpQDmrcIf"
     },
     {
       "added_at": null,
@@ -987,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "6AM Thoughts",
-        "url": "https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx"
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
       "artists": [
         {
@@ -996,17 +996,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 200933,
-      "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
-      "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
+      "duration_ms": 177026,
+      "name": "Perfect Timing (Intro)",
+      "url": "https://open.spotify.com/track/5Od0M7jp6IODTPW0cygHgu"
     }
   ],
   "unique_name": "This Is NAV",

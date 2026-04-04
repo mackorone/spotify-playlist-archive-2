@@ -10901,6 +10901,24 @@
     },
     {
       "album": {
+        "name": "New Wine (Live)",
+        "url": "https://open.spotify.com/album/79MOPYNVUE6yG90CnyyhHT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 888860,
+      "name": "Praise The Lord - Live",
+      "url": "https://open.spotify.com/track/5k9ILrXNbOOaaJUQkVtYSd"
+    },
+    {
+      "album": {
         "name": "Praise You",
         "url": "https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV"
       },
@@ -12255,6 +12273,24 @@
     },
     {
       "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210150,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw"
+    },
+    {
+      "album": {
         "name": "Take It All (Live in Abuja)",
         "url": "https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio"
       },
@@ -13194,42 +13230,6 @@
       "duration_ms": 734000,
       "name": "Too Oiled",
       "url": "https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR"
-    },
-    {
-      "album": {
-        "name": "New Wine (Live)",
-        "url": "https://open.spotify.com/album/79MOPYNVUE6yG90CnyyhHT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "date_added": "2026-04-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5k9ILrXNbOOaaJUQkVtYSd"
-    },
-    {
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi"
-      },
-      "artists": [
-        {
-          "name": "Toby Grey",
-          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
-        }
-      ],
-      "date_added": "2026-04-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw"
     },
     {
       "album": {

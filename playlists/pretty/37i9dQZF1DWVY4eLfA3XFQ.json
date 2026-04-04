@@ -1,13 +1,29 @@
 {
-  "description": "50% techno, 50% house \ud83d\udd2b Tech house operators, featuring CID",
-  "num_followers": 703741,
+  "description": "50% techno, 50% house \ud83d\udc08\u200d\u2b1b Tech house operators, featuring ACRAZE",
+  "num_followers": 703795,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABG2ftRA2kTmA4axNVsJ75ilX1xW",
+  "snapshot_id": "AAAAAHcrQXECs9FmIkFH0OvgtOPjwhlU",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:01:37",
+      "album": {
+        "name": "Whatcha Do To Me",
+        "url": "https://open.spotify.com/album/1FPuoX8VWiPV0p1iUYkgU5"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 262153,
+      "name": "Whatcha Do To Me",
+      "url": "https://open.spotify.com/track/2B6NPa5xN0ktAoEFXC7Ar9"
+    },
     {
       "added_at": "2026-03-27 04:00:18",
       "album": {
@@ -41,6 +57,46 @@
       "url": "https://open.spotify.com/track/0KDWgkllpxZtcy5fNQOzwO"
     },
     {
+      "added_at": "2026-04-03 04:01:37",
+      "album": {
+        "name": "Too Bright",
+        "url": "https://open.spotify.com/album/6PjvdJpbSe7iBxkN3bNm6m"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        },
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        }
+      ],
+      "duration_ms": 213977,
+      "name": "Too Bright",
+      "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
+    },
+    {
+      "added_at": "2026-03-27 04:00:18",
+      "album": {
+        "name": "Don't Want None",
+        "url": "https://open.spotify.com/album/5sBW99TgrdXm3NPbvLjnzS"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Dale Move",
+          "url": "https://open.spotify.com/artist/6F3eahZ7vKboOqmPMIoGoh"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Don't Want None",
+      "url": "https://open.spotify.com/track/5HDMa2OmaEQht0QpQ9XRgk"
+    },
+    {
       "added_at": "2026-03-20 04:00:45",
       "album": {
         "name": "Professor X",
@@ -59,6 +115,38 @@
       "duration_ms": 165343,
       "name": "Professor X feat. Rusko",
       "url": "https://open.spotify.com/track/0xWW3NqCTSZUN1DNVtqxBj"
+    },
+    {
+      "added_at": "2026-04-03 04:01:37",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/3Y6FmzdCqUdeIy1IHFhBF8"
+      },
+      "artists": [
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/7k8T2aK5vHPiP6HExfFOI3"
+    },
+    {
+      "added_at": "2026-04-01 19:39:09",
+      "album": {
+        "name": "This Is Not The James Brown",
+        "url": "https://open.spotify.com/album/0QuREiAzmpoU18fJQhdNfF"
+      },
+      "artists": [
+        {
+          "name": "Vinter",
+          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
+        }
+      ],
+      "duration_ms": 144375,
+      "name": "This Is Not The James Brown",
+      "url": "https://open.spotify.com/track/1E17lM70NcSvMdDfeAaFJP"
     },
     {
       "added_at": "2026-03-13 04:00:46",
@@ -97,60 +185,20 @@
       "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
     },
     {
-      "added_at": "2026-03-27 04:00:18",
+      "added_at": "2026-04-03 04:01:37",
       "album": {
-        "name": "Don't Want None",
-        "url": "https://open.spotify.com/album/5sBW99TgrdXm3NPbvLjnzS"
+        "name": "Girl On The Beat",
+        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
       },
       "artists": [
         {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "Dale Move",
-          "url": "https://open.spotify.com/artist/6F3eahZ7vKboOqmPMIoGoh"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Don't Want None",
-      "url": "https://open.spotify.com/track/5HDMa2OmaEQht0QpQ9XRgk"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "No Lames",
-        "url": "https://open.spotify.com/album/3ElEMTFQpVwIpYuSDtTt1U"
-      },
-      "artists": [
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        },
-        {
-          "name": "Pedroz",
-          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
-        }
-      ],
-      "duration_ms": 185347,
-      "name": "No Lames",
-      "url": "https://open.spotify.com/track/1SbDWaKSqQz3RjjINLUgI0"
-    },
-    {
-      "added_at": "2026-03-27 04:00:18",
-      "album": {
-        "name": "Make Me Ugh",
-        "url": "https://open.spotify.com/album/1LweJwiQczuq1kAaB7SMX9"
-      },
-      "artists": [
-        {
-          "name": "DREYA V",
-          "url": "https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P"
-        }
-      ],
-      "duration_ms": 173433,
-      "name": "Make Me Ugh",
-      "url": "https://open.spotify.com/track/3K0HKQTEMO8tPkJh6uYgn4"
+      "duration_ms": 160029,
+      "name": "Girl On The Beat",
+      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
     },
     {
       "added_at": "2026-03-27 17:44:58",
@@ -171,6 +219,22 @@
       "duration_ms": 184453,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/4ME9AYOzN7H0owfNDPPeR4"
+    },
+    {
+      "added_at": "2026-03-27 04:00:18",
+      "album": {
+        "name": "Simulate",
+        "url": "https://open.spotify.com/album/6oFid8H74EyjAOslgduKtx"
+      },
+      "artists": [
+        {
+          "name": "KASIA",
+          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "Simulate",
+      "url": "https://open.spotify.com/track/0QBerdsjOmIdSCAKgKr5HP"
     },
     {
       "added_at": "2026-03-13 04:00:46",
@@ -217,22 +281,6 @@
       "url": "https://open.spotify.com/track/1oeljccOyFQGPOY8gaVnnH"
     },
     {
-      "added_at": "2026-04-01 19:39:09",
-      "album": {
-        "name": "This Is Not The James Brown",
-        "url": "https://open.spotify.com/album/0QuREiAzmpoU18fJQhdNfF"
-      },
-      "artists": [
-        {
-          "name": "Vinter",
-          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
-        }
-      ],
-      "duration_ms": 144375,
-      "name": "This Is Not The James Brown",
-      "url": "https://open.spotify.com/track/1E17lM70NcSvMdDfeAaFJP"
-    },
-    {
       "added_at": "2026-03-06 05:00:13",
       "album": {
         "name": "Addicted To Bass (Dom Dolla Relapse)",
@@ -253,20 +301,72 @@
       "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
     },
     {
-      "added_at": "2026-03-27 04:00:18",
+      "added_at": "2026-04-03 04:01:37",
       "album": {
-        "name": "Simulate",
-        "url": "https://open.spotify.com/album/6oFid8H74EyjAOslgduKtx"
+        "name": "House Mentality",
+        "url": "https://open.spotify.com/album/0Q6T89Fkb4FJFCErQPWPyg"
       },
       "artists": [
         {
-          "name": "KASIA",
-          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
         }
       ],
-      "duration_ms": 200620,
-      "name": "Simulate",
-      "url": "https://open.spotify.com/track/0QBerdsjOmIdSCAKgKr5HP"
+      "duration_ms": 156923,
+      "name": "House Mentality - Radio Edit",
+      "url": "https://open.spotify.com/track/1pPz86QiMJvGN6Gkt7uonE"
+    },
+    {
+      "added_at": "2026-03-27 04:00:18",
+      "album": {
+        "name": "Make Me Ugh",
+        "url": "https://open.spotify.com/album/1LweJwiQczuq1kAaB7SMX9"
+      },
+      "artists": [
+        {
+          "name": "DREYA V",
+          "url": "https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P"
+        }
+      ],
+      "duration_ms": 173433,
+      "name": "Make Me Ugh",
+      "url": "https://open.spotify.com/track/3K0HKQTEMO8tPkJh6uYgn4"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "No Lames",
+        "url": "https://open.spotify.com/album/3ElEMTFQpVwIpYuSDtTt1U"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        },
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        }
+      ],
+      "duration_ms": 185347,
+      "name": "No Lames",
+      "url": "https://open.spotify.com/track/1SbDWaKSqQz3RjjINLUgI0"
+    },
+    {
+      "added_at": "2026-03-27 04:00:18",
+      "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/6jVysJUSRFQnpCzWmfVWkC"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/5Iedc3D20KJoj95uQRp5p0"
     },
     {
       "added_at": "2026-03-20 04:00:45",
@@ -321,6 +421,26 @@
       "url": "https://open.spotify.com/track/32vgCNk9P3LqD8Fx9UEfOt"
     },
     {
+      "added_at": "2026-04-03 04:01:37",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/7s8WlFWiBy4X2mO7DK4r3x"
+      },
+      "artists": [
+        {
+          "name": "BadComppany",
+          "url": "https://open.spotify.com/artist/0JUTYsTdhSaFdXuigAMcPE"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 273230,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/6wJdOp5YA0e8JV0bIZEUrW"
+    },
+    {
       "added_at": "2026-03-20 04:00:45",
       "album": {
         "name": "Get Stupid",
@@ -335,6 +455,26 @@
       "duration_ms": 190153,
       "name": "Get Stupid",
       "url": "https://open.spotify.com/track/4SlGZwTjgOXjOK7Pqw7xGW"
+    },
+    {
+      "added_at": "2026-04-01 19:39:09",
+      "album": {
+        "name": "Dirty Nights",
+        "url": "https://open.spotify.com/album/453cvZPcPl5mjZdxbMRcs7"
+      },
+      "artists": [
+        {
+          "name": "AZZO",
+          "url": "https://open.spotify.com/artist/6DL4qpNTDTyOzON50XOgUX"
+        },
+        {
+          "name": "Lo Fachini",
+          "url": "https://open.spotify.com/artist/6tNrzfPAkQ6zQB9BtoNXD5"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Dirty Nights",
+      "url": "https://open.spotify.com/track/3sWETonCYEc2wIR2J4d1cx"
     },
     {
       "added_at": "2026-03-20 04:00:45",
@@ -413,22 +553,6 @@
       "url": "https://open.spotify.com/track/7hOwCb0vcnpNRBQUoI5smE"
     },
     {
-      "added_at": "2026-03-27 04:00:18",
-      "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/7tpL70OEQCNTunTga3l8a7"
-      },
-      "artists": [
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 185233,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/3KyoqNgmHE4uSp8PKXqhlL"
-    },
-    {
       "added_at": "2026-03-04 00:25:45",
       "album": {
         "name": "Ain\u2019t Nobody Remix EP",
@@ -453,6 +577,46 @@
       "url": "https://open.spotify.com/track/41BP9oPAIS8sWWSH362V8Y"
     },
     {
+      "added_at": "2026-03-27 04:00:18",
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/7tpL70OEQCNTunTga3l8a7"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 185233,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3KyoqNgmHE4uSp8PKXqhlL"
+    },
+    {
+      "added_at": "2026-04-03 04:01:37",
+      "album": {
+        "name": "Bite It",
+        "url": "https://open.spotify.com/album/7eN3sPeZDx20vvcfnz782A"
+      },
+      "artists": [
+        {
+          "name": "Millero",
+          "url": "https://open.spotify.com/artist/1g3D0SFLbUx6nuGgLSuegX"
+        },
+        {
+          "name": "Derun",
+          "url": "https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo"
+        },
+        {
+          "name": "The Anahit",
+          "url": "https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Bite It",
+      "url": "https://open.spotify.com/track/3fokbMXkxwEYOSn9eyv4To"
+    },
+    {
       "added_at": "2026-03-06 05:00:13",
       "album": {
         "name": "Side To Side",
@@ -467,26 +631,6 @@
       "duration_ms": 185500,
       "name": "Side To Side",
       "url": "https://open.spotify.com/track/29OC90AImALwo1LTvh5Zhf"
-    },
-    {
-      "added_at": "2026-04-01 19:39:09",
-      "album": {
-        "name": "Dirty Nights",
-        "url": "https://open.spotify.com/album/453cvZPcPl5mjZdxbMRcs7"
-      },
-      "artists": [
-        {
-          "name": "AZZO",
-          "url": "https://open.spotify.com/artist/6DL4qpNTDTyOzON50XOgUX"
-        },
-        {
-          "name": "Lo Fachini",
-          "url": "https://open.spotify.com/artist/6tNrzfPAkQ6zQB9BtoNXD5"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Dirty Nights",
-      "url": "https://open.spotify.com/track/3sWETonCYEc2wIR2J4d1cx"
     },
     {
       "added_at": "2026-03-13 04:00:46",
@@ -583,22 +727,6 @@
       "duration_ms": 225230,
       "name": "Acid Britney",
       "url": "https://open.spotify.com/track/0BrT12hdMJx2ypBjEAnCEo"
-    },
-    {
-      "added_at": "2026-03-27 04:00:18",
-      "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/6jVysJUSRFQnpCzWmfVWkC"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/5Iedc3D20KJoj95uQRp5p0"
     },
     {
       "added_at": "2026-03-20 04:00:45",
@@ -1065,26 +1193,6 @@
       "url": "https://open.spotify.com/track/3UNDlKHSwL0jzBcizsyHzu"
     },
     {
-      "added_at": "2026-03-04 02:29:15",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/2p1NJOBxUbwSljyvVC01BY"
-      },
-      "artists": [
-        {
-          "name": "Locky",
-          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
-        },
-        {
-          "name": "Mad.Again",
-          "url": "https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V"
-        }
-      ],
-      "duration_ms": 164055,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/4xXqzlCnVukSusVHLAnYc9"
-    },
-    {
       "added_at": "2026-02-27 05:00:49",
       "album": {
         "name": "Daddy's Got A Gun",
@@ -1139,22 +1247,6 @@
       "duration_ms": 163384,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:49",
-      "album": {
-        "name": "Feel The Energy",
-        "url": "https://open.spotify.com/album/1ILqYzC4VX3IW3eh7gudSM"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dent",
-          "url": "https://open.spotify.com/artist/3V6IeJyXSj7ApMbvv1ZqWE"
-        }
-      ],
-      "duration_ms": 189864,
-      "name": "Feel The Energy",
-      "url": "https://open.spotify.com/track/6StJR1CqkEDGm8T8u4K8QD"
     },
     {
       "added_at": "2026-03-13 04:00:46",
@@ -1239,22 +1331,6 @@
       "duration_ms": 202500,
       "name": "New Life",
       "url": "https://open.spotify.com/track/2TnVXWgbqE4h5DSqeumZUk"
-    },
-    {
-      "added_at": "2026-01-27 22:33:36",
-      "album": {
-        "name": "Picture: Volkoder Part 1",
-        "url": "https://open.spotify.com/album/5AA55B0S08IQx9qp4BPVq1"
-      },
-      "artists": [
-        {
-          "name": "Volkoder",
-          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY"
     },
     {
       "added_at": "2026-02-27 05:00:49",
@@ -1513,22 +1589,6 @@
       "url": "https://open.spotify.com/track/44Td8ZrWgOVUUGPuNc60ZL"
     },
     {
-      "added_at": "2026-02-20 05:00:49",
-      "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/1mqBB0tiMPokLwVyGAt6r7"
-      },
-      "artists": [
-        {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        }
-      ],
-      "duration_ms": 180003,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/5arUbuxt5SmwdiRwsjfCPW"
-    },
-    {
       "added_at": "2026-02-06 05:00:30",
       "album": {
         "name": "Impressive",
@@ -1603,42 +1663,6 @@
       "duration_ms": 169308,
       "name": "Loose Pt. 3",
       "url": "https://open.spotify.com/track/2YIG7QIUOKs35C590rmxSE"
-    },
-    {
-      "added_at": "2026-02-13 05:00:36",
-      "album": {
-        "name": "Activate",
-        "url": "https://open.spotify.com/album/5xMB9NEfwoWIdoL00KX8Wj"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "Activate",
-      "url": "https://open.spotify.com/track/5AA3QcxRWrdJmvrfUdGFlV"
-    },
-    {
-      "added_at": "2026-01-30 05:00:45",
-      "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Jocelyn Enriquez",
-          "url": "https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB"
-        }
-      ],
-      "duration_ms": 182947,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE"
     },
     {
       "added_at": "2026-01-09 17:15:25",
@@ -1995,22 +2019,6 @@
       "duration_ms": 228188,
       "name": "Funk It",
       "url": "https://open.spotify.com/track/3yFovGJTvTbV1JlbWhvh1y"
-    },
-    {
-      "added_at": "2025-12-19 05:00:34",
-      "album": {
-        "name": "Push the Tempo",
-        "url": "https://open.spotify.com/album/1Aavg2DMSIlLovA3bYlQX2"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        }
-      ],
-      "duration_ms": 192461,
-      "name": "Push the Tempo",
-      "url": "https://open.spotify.com/track/2zPeSu6oGJb1zBQON9VWxu"
     },
     {
       "added_at": "2026-01-16 05:00:33",

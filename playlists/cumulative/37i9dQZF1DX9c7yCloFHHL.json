@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new, contemporary Ambient, Atmospheric & Neo-Classical \ud83e\ude90 Cover: Hara Alonso\n",
+  "description": "The cutting edge in new, contemporary Ambient, Atmospheric & Neo-Classical \ud83e\ude90 Cover: Gigi Masin\n",
   "name": "New Ambient",
   "tracks": [
     {
@@ -324,6 +324,28 @@
       "duration_ms": 209000,
       "name": "1:17 PM",
       "url": "https://open.spotify.com/track/7sX3ulXwDyyE5q5g8z3yUN"
+    },
+    {
+      "album": {
+        "name": "1:35pm w/ analog_mannequin",
+        "url": "https://open.spotify.com/album/5X6l3vz05bwNHouxxo5w9k"
+      },
+      "artists": [
+        {
+          "name": "picture frames",
+          "url": "https://open.spotify.com/artist/51WT46WehARoAplZeWn7gZ"
+        },
+        {
+          "name": "analog_mannequin",
+          "url": "https://open.spotify.com/artist/5BnokxEB4VXeS1359upGtH"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103546,
+      "name": "1:35pm w/ analog_mannequin",
+      "url": "https://open.spotify.com/track/2ir2hrpQx3FQvniCTkDDNw"
     },
     {
       "album": {
@@ -2648,7 +2670,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 357759,
       "name": "Appalaches",
       "url": "https://open.spotify.com/track/4pp3JvHsuAeIR6agOUU1iP"
@@ -3684,7 +3706,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 104893,
       "name": "BEAMS",
       "url": "https://open.spotify.com/track/4ITZWlrroLXgMj9K3jvZPG"
@@ -3880,6 +3902,24 @@
       "duration_ms": 161259,
       "name": "believe",
       "url": "https://open.spotify.com/track/3sC9JwhFLEIWkYedvhPLTG"
+    },
+    {
+      "album": {
+        "name": "Still Human",
+        "url": "https://open.spotify.com/album/3KmHCzl813NCu5jiHw4Pad"
+      },
+      "artists": [
+        {
+          "name": "Velt",
+          "url": "https://open.spotify.com/artist/4PlpRJa8q0CVyvDQnIym7p"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231517,
+      "name": "Bells",
+      "url": "https://open.spotify.com/track/13alm9cGdlu1rb4VkTmPvf"
     },
     {
       "album": {
@@ -5007,6 +5047,24 @@
     },
     {
       "album": {
+        "name": "Full Moon Over Monument Valley",
+        "url": "https://open.spotify.com/album/7z52h4ZNFzfRXQwmjPgSnd"
+      },
+      "artists": [
+        {
+          "name": "Brannan Lane",
+          "url": "https://open.spotify.com/artist/0IbEbzrygi9id1ye5pfHp5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189826,
+      "name": "Buttes Sunrise",
+      "url": "https://open.spotify.com/track/0lfPRMoArsWTTKATwQhnui"
+    },
+    {
+      "album": {
         "name": "by my side",
         "url": "https://open.spotify.com/album/37DgWI3XMaQI1FNtZlRsNj"
       },
@@ -6108,6 +6166,32 @@
       "duration_ms": 234760,
       "name": "Circle 62",
       "url": "https://open.spotify.com/track/7sTlbp7rJMI1k5KBXMSwC3"
+    },
+    {
+      "album": {
+        "name": "Circle 64",
+        "url": "https://open.spotify.com/album/4j3I9e40gYkBJVLNqFD6Bo"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Peia",
+          "url": "https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Circle 64",
+      "url": "https://open.spotify.com/track/0pDXlKuA4JG6eNTvwZFEvV"
     },
     {
       "album": {
@@ -7716,7 +7800,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 444000,
       "name": "Death, Reverb and Decay",
       "url": "https://open.spotify.com/track/3BZJ6Uqy7z1s2izOjUs2ci"
@@ -9689,6 +9773,24 @@
     },
     {
       "album": {
+        "name": "Polaroid Piano 15th Anniversary Edition",
+        "url": "https://open.spotify.com/album/0XJkpOnx4Kpu1ulhnZl1vf"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Enough Grace",
+      "url": "https://open.spotify.com/track/1j1IknlvyqlWymlU0utvxz"
+    },
+    {
+      "album": {
         "name": "Entrance",
         "url": "https://open.spotify.com/album/4c0B46pCSc9p0j2vJE254Q"
       },
@@ -10217,6 +10319,32 @@
     },
     {
       "album": {
+        "name": "Ever After (Kaitlyn Aurelia Smith Remix)",
+        "url": "https://open.spotify.com/album/5ZljxZo0pRyquhvyFTND3d"
+      },
+      "artists": [
+        {
+          "name": "David Handler",
+          "url": "https://open.spotify.com/artist/08Fcb9z6im2paE2zIUDvmV"
+        },
+        {
+          "name": "Ensemble LPR",
+          "url": "https://open.spotify.com/artist/5ttPpmPK0kmMEJP9epHZEj"
+        },
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163773,
+      "name": "Ever After (Kaitlyn Aurelia Smith Remix)",
+      "url": "https://open.spotify.com/track/4h5nJLwbFKdfOD3mGyc99A"
+    },
+    {
+      "album": {
         "name": "Ever Shrinking World",
         "url": "https://open.spotify.com/album/7waHvHsh3Vx7vDfmZDY6WC"
       },
@@ -10742,7 +10870,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 250619,
       "name": "Few And Far Between",
       "url": "https://open.spotify.com/track/2NXnBy4nrWocvjMCH8rHlV"
@@ -12847,6 +12975,32 @@
     },
     {
       "album": {
+        "name": "Gone Before Us (In Remembrance Of Chris)",
+        "url": "https://open.spotify.com/album/1sqdomxuEKrtQrNBBYgCii"
+      },
+      "artists": [
+        {
+          "name": "Patrick Spatz",
+          "url": "https://open.spotify.com/artist/7pwGeErkrXg5N40Cw8ytid"
+        },
+        {
+          "name": "inamomentimalive",
+          "url": "https://open.spotify.com/artist/36im0ei483DaMGXlbkTYUT"
+        },
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186391,
+      "name": "Gone Before Us (In Remembrance Of Chris)",
+      "url": "https://open.spotify.com/track/1fyARgr2gRDyOQRBpqjP8y"
+    },
+    {
+      "album": {
         "name": "good morning, harrison, it\u2019s time to go",
         "url": "https://open.spotify.com/album/6P8N6YlPkuWW90TBba6kx2"
       },
@@ -13600,6 +13754,28 @@
       "duration_ms": 116650,
       "name": "Hideaway - Julien Marchal Remix",
       "url": "https://open.spotify.com/track/1W1oG50BEmDhtvN1TF2c4S"
+    },
+    {
+      "album": {
+        "name": "highest form (roygbiv)",
+        "url": "https://open.spotify.com/album/5pymI8J1xohwsxPjp4wsr2"
+      },
+      "artists": [
+        {
+          "name": "Weareforests",
+          "url": "https://open.spotify.com/artist/6hp6bAatsGOLg6L2p4LF0A"
+        },
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "highest form (roygbiv)",
+      "url": "https://open.spotify.com/track/52mec5yAxDR9QVMuzw5g30"
     },
     {
       "album": {
@@ -14566,7 +14742,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 436000,
       "name": "Idyll",
       "url": "https://open.spotify.com/track/67R9g8USeok4tSctlB98dN"
@@ -14908,7 +15084,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 200000,
       "name": "In a Pattern Like a Shell",
       "url": "https://open.spotify.com/track/5ZGAi4JreAkebNHt7xWrqN"
@@ -15440,7 +15616,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 120000,
       "name": "Interlude: Bardo",
       "url": "https://open.spotify.com/track/1LtYVYlgo9FtRBIifMYnAU"
@@ -17387,6 +17563,28 @@
     },
     {
       "album": {
+        "name": "Log 25",
+        "url": "https://open.spotify.com/album/2dBINPgwBrKDbZw94bwCBQ"
+      },
+      "artists": [
+        {
+          "name": "LOG by MIYAUCHI YURI",
+          "url": "https://open.spotify.com/artist/1zS6dLtfwaLylWF4oX40GW"
+        },
+        {
+          "name": "Miyauchi Yuri",
+          "url": "https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Log_20251231",
+      "url": "https://open.spotify.com/track/7F71wfQqecWXwfqgR0Yggj"
+    },
+    {
+      "album": {
         "name": "Erased Dreams",
         "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
       },
@@ -17596,6 +17794,24 @@
       "duration_ms": 590360,
       "name": "Loop Only: Wind On Water Reversed",
       "url": "https://open.spotify.com/track/0U7tcnpYe0ZU8W4O2fc8ll"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/4A6GPQTSjb6qoNCYDuanwl"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326423,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2DuasMw3GCPD60hqpx0QGU"
     },
     {
       "album": {
@@ -17856,6 +18072,24 @@
       "duration_ms": 215454,
       "name": "Lull",
       "url": "https://open.spotify.com/track/3uCZe9N9aPq5eyxkCsosCI"
+    },
+    {
+      "album": {
+        "name": "Lips",
+        "url": "https://open.spotify.com/album/3UtPbex4PDom5Up7AfMHZZ"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107546,
+      "name": "LULL",
+      "url": "https://open.spotify.com/track/6hSrJKrASONXLrLekOg6Kc"
     },
     {
       "album": {
@@ -18847,6 +19081,24 @@
     },
     {
       "album": {
+        "name": "Milford",
+        "url": "https://open.spotify.com/album/52eQeJbPZ2IlnUjs6iztj0"
+      },
+      "artists": [
+        {
+          "name": "Wess Meets West",
+          "url": "https://open.spotify.com/artist/2tHWI5RIQ3PKLtIV2iaaJQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "Milford",
+      "url": "https://open.spotify.com/track/69yWdFgFzywzl8NVvlcrqO"
+    },
+    {
+      "album": {
         "name": "FRKWYS Vol. 12 - We Know Each Other Somehow",
         "url": "https://open.spotify.com/album/4ncD4cYn7gssNrzPBgzPEK"
       },
@@ -18990,7 +19242,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 166151,
       "name": "mistakes",
       "url": "https://open.spotify.com/track/3gjdmPVfGP02Pl5CjPSyHt"
@@ -21838,6 +22090,24 @@
       "duration_ms": 191405,
       "name": "Orphangene - Soundtrack from the motion picture \"Mondocane\"",
       "url": "https://open.spotify.com/track/7B5qaGsOU0b4CktM6oK5NN"
+    },
+    {
+      "album": {
+        "name": "Greenfield Park",
+        "url": "https://open.spotify.com/album/06F6yvdZzSqE8zcKGrg67X"
+      },
+      "artists": [
+        {
+          "name": "Doc No",
+          "url": "https://open.spotify.com/artist/0RTNTHxxhRz2BQbPYHY7SC"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151197,
+      "name": "Orvis Spring 1969",
+      "url": "https://open.spotify.com/track/2ybdcOoateEK4da1LCR6pQ"
     },
     {
       "album": {
@@ -25304,7 +25574,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 197672,
       "name": "Riksarkivet",
       "url": "https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit"
@@ -25652,6 +25922,28 @@
       "duration_ms": 284415,
       "name": "R\u00e9gate",
       "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
+    },
+    {
+      "album": {
+        "name": "Sad Note (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/37qkYfcsFueVoWkqQmIkLR"
+      },
+      "artists": [
+        {
+          "name": "Yerli Media",
+          "url": "https://open.spotify.com/artist/72FynTk1jrcRiwZ2QylXM8"
+        },
+        {
+          "name": "Duygu Yank\u0131s\u0131",
+          "url": "https://open.spotify.com/artist/4Q58tHWofE8aRLjsW5bWVY"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Sad Note - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/7aGo018t9VBiaH7lWAjFrG"
     },
     {
       "album": {
@@ -26310,7 +26602,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 106198,
       "name": "See You Tomorrow - Rework",
       "url": "https://open.spotify.com/track/2vPTUN13VzU05fV4awfP8B"
@@ -27660,7 +27952,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 228196,
       "name": "Soft Euphoria (Circle 57)",
       "url": "https://open.spotify.com/track/4jQAteI4qRrq3CFBDa03FN"
@@ -27844,7 +28136,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 784015,
       "name": "Something Heavy (Sleep Version)",
       "url": "https://open.spotify.com/track/5sOmzfjXWt9NuAkGRlISBt"
@@ -29780,7 +30072,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 213333,
       "name": "Temporary Passenger",
       "url": "https://open.spotify.com/track/1A89j6HJH3SJixiHb4TXLl"
@@ -31136,7 +31428,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 267173,
       "name": "There's A Storm Coming",
       "url": "https://open.spotify.com/track/5bYoJAlvV61y5qzthZkDHV"
@@ -31162,6 +31454,24 @@
       "duration_ms": 108269,
       "name": "therefore i am (solitude), but it's nightcore",
       "url": "https://open.spotify.com/track/5zdptv0CusO0UzN4OYYlqg"
+    },
+    {
+      "album": {
+        "name": "this far",
+        "url": "https://open.spotify.com/album/60BFFZTalMlsyeLxQ2rhB9"
+      },
+      "artists": [
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120882,
+      "name": "this far",
+      "url": "https://open.spotify.com/track/4YYUBxForZ26DuOXCfiqHd"
     },
     {
       "album": {
@@ -32754,7 +33064,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 327146,
       "name": "Unspoken Truth",
       "url": "https://open.spotify.com/track/0pHdCUW06lnBjgxfqVRbbC"
@@ -33562,7 +33872,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 272514,
       "name": "Walrus",
       "url": "https://open.spotify.com/track/2BRUjifFHb7ghFSo84F79V"
@@ -34381,6 +34691,24 @@
     },
     {
       "album": {
+        "name": "When Things Collide",
+        "url": "https://open.spotify.com/album/7KpvAhkle8uj3QIdMxzS4H"
+      },
+      "artists": [
+        {
+          "name": "Linus Alberg",
+          "url": "https://open.spotify.com/artist/24M9LoqYZywKPDQCDd8AnL"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "When Things Collide",
+      "url": "https://open.spotify.com/track/68LN4W54hY7Emdl4Pq1utx"
+    },
+    {
+      "album": {
         "name": "when will i see her again?",
         "url": "https://open.spotify.com/album/5dSaOxiuS0MBVgifMcQCs4"
       },
@@ -34510,6 +34838,36 @@
       "duration_ms": 189044,
       "name": "Where Water Wells",
       "url": "https://open.spotify.com/track/4JOz4Fn6mIDXYdrMgCfAyK"
+    },
+    {
+      "album": {
+        "name": "Interwoven",
+        "url": "https://open.spotify.com/album/0T9fsB9gx7gTBrAzkyZ4Uc"
+      },
+      "artists": [
+        {
+          "name": "aus isoda",
+          "url": "https://open.spotify.com/artist/7s3VfUpUHI84BUZsLYRxaT"
+        },
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        },
+        {
+          "name": "Kenichiro Isoda",
+          "url": "https://open.spotify.com/artist/5kUr7ReGZPQYssNxaKjyAC"
+        },
+        {
+          "name": "\u78ef\u7530\u5065\u4e00\u90ce",
+          "url": "https://open.spotify.com/artist/3rFwskAbReckTSOvClgBCt"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237750,
+      "name": "White Eye",
+      "url": "https://open.spotify.com/track/0xPDQFesN5FNXSFs8QjEya"
     },
     {
       "album": {

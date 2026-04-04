@@ -2,9 +2,9 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\. Cover: Shenseea
+> A melting pot of Caribbean culture\. Cover: 450 & Weekday
 
-338 songs - 16 hr 33 min
+339 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Boom \(feat\. Tokischa\)](https://open.spotify.com/track/0OCdChh8IoBCIm3kVGY3GN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Boom \(feat\. Tokischa\)](https://open.spotify.com/album/4Liw2H1qC6Nq3ojx8wQBOB) | 2:12 | 2024-08-29 | 2025-08-09 |
 | [Born in Jamaica](https://open.spotify.com/track/5S7rhnNkFFfUcLWhsvv9L8) | [Friends Only](https://open.spotify.com/artist/0EF4AfflaI8N4XDajX10pA), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [MediSun](https://open.spotify.com/artist/0IsmvNH84dS9wcMSCPC5UM), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Born in Jamaica](https://open.spotify.com/album/3cjWNe9LWwJ9d2GLDFyGqb) | 4:04 | 2025-07-11 | 2026-01-24 |
 | [BOSS UP](https://open.spotify.com/track/458u353fkPaERY2SoOGPl3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BOSS UP](https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn) | 2:31 | 2025-10-24 |  |
+| [Bounce](https://open.spotify.com/track/6gBThFhnhTl3gf5KKWVzlY) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Bounce](https://open.spotify.com/album/2kINW1AylHJXbip4jDmDFm) | 2:43 | 2026-04-03 |  |
 | [Brain Freeze](https://open.spotify.com/track/5h7UTFQiHqJxK7lLzMnS6S) | [Leadpipe](https://open.spotify.com/artist/1AkeQ2eSrkcRQmaGGa5EAY), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V) | [Brain Freeze](https://open.spotify.com/album/7Aej7C4X2G1TcuIdCe6i9j) | 3:28 | 2024-08-29 |  |
 | [Brick by Brick \- Remix](https://open.spotify.com/track/3hwwN0Z0QFMZQ2Hrc71sQp) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [DJ Puffy](https://open.spotify.com/artist/4YbipEAtJgAbKrZvdFEeTr), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Brick by Brick \(Remix\)](https://open.spotify.com/album/3wxJ6j3TaJkRr15tGbXGcW) | 3:15 | 2025-06-27 | 2025-07-05 |
 | [Bring It](https://open.spotify.com/track/16ibXHvBc5Ahikg0qhcuVi) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Bring It](https://open.spotify.com/album/48WRCIKE9nz0txvGdVOnGE) | 2:50 | 2024-09-17 | 2025-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,722 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,723 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 | 42 | [Wild Forever](https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Familia](https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6) | 4:21 |
 | 43 | [If You Go](https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:25 |
 | 44 | [Beyond the Universe](https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg) | 4:13 |
-| 45 | [Do You Remember the First Time? \- Live](https://open.spotify.com/track/3H4eDzeAiETLAviW8KY2nz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 4:13 |
-| 46 | [Magic](https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 4:33 |
+| 45 | [Magic](https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 4:33 |
+| 46 | [Do You Remember the First Time? \- Live](https://open.spotify.com/track/3H4eDzeAiETLAviW8KY2nz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 4:13 |
 | 47 | [China Heart](https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:42 |
 | 48 | [Everything is Sweet](https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg) | 4:49 |
 | 49 | [The Deer & the Wolf](https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Wanderlust](https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO) | 3:54 |
 | 50 | [Love is You \- Bonus Track](https://open.spotify.com/track/2rZCEshgpUSYaNYb8JbBj1) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [The Song Diaries](https://open.spotify.com/album/7J5Nw52aulA1Db3x5SfP7V) | 3:15 |
 
-Snapshot ID: `acxgAAAAAABlPe3QJGvu4E5nhjNyIEGA`
+Snapshot ID: `ac2xgAAAAAAP5ejxC9m+e6k2u+46zH7T`

@@ -4,7 +4,7 @@
 
 > 
 
-2,956 songs - 6 day 8 hr 51 min
+2,958 songs - 6 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,6 +863,7 @@
 | [Fatal Bass](https://open.spotify.com/track/6Qaqql3O9KQrUiwZKqnFGu) | [Spitfire](https://open.spotify.com/artist/0R24GpElISFAat9cNHEPLw) | [Fatal Bass](https://open.spotify.com/album/2xHiggsK0C8xxa4oRbx6Xu) | 2:28 | 2025-09-15 |  |
 | [FCK DAT!](https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [FCK DAT!](https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62) | 2:47 | 2023-06-09 |  |
 | [FCK SHIII UP](https://open.spotify.com/track/2ezEFgJAqX01MNNY7ciYt9) | [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [FCK SHIII UP](https://open.spotify.com/album/7mb0xl2i9aMNOVnh6ckXCg) | 3:05 | 2025-02-11 |  |
+| [FCK YOU](https://open.spotify.com/track/3Ds37Sx7xXKzxPMIFLHjdW) | [Nik Sitz](https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm), [Luke Noize](https://open.spotify.com/artist/53lxtgbEknYya6RNLflSSQ) | [FCK YOU](https://open.spotify.com/album/60gFKjbEocQs7FQtmIoUwp) | 2:54 | 2026-04-03 |  |
 | [FCKN JUMP](https://open.spotify.com/track/5BorbYUvZnnAWWLg1Kn9sm) | [MJU](https://open.spotify.com/artist/67mfEI3l2eiyhmTPHf4YcY), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [FCKN JUMP](https://open.spotify.com/album/62bYRuwbANWYMIoVfx1Oub) | 2:53 | 2026-03-03 |  |
 | [FCKN W MY GANG ?! \- Official FCKNYE Anthem](https://open.spotify.com/track/0i4neMAfxXXCTQGHfPra50) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Sandy Warez](https://open.spotify.com/artist/1oZ7OpE1SHjyUjXgYKaLpM) | [FCKN W MY GANG ?! \(Official FCKNYE Anthem\)](https://open.spotify.com/album/4pXEC5SVjhHAPws6ErANpj) | 2:26 | 2023-12-30 |  |
 | [FE!N \- Techno Mix](https://open.spotify.com/track/1rz52YWnHHqfRbebAH1L8p) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [Sefa Taskin](https://open.spotify.com/artist/4k0nPiLcFU0ZM1PdL7iE1x) | [FE!N \(Techno Mix\)](https://open.spotify.com/album/7b7hoTDEi1N2drSYmzNDYz) | 2:22 | 2026-02-28 |  |
@@ -1659,6 +1660,7 @@
 | [Mainstream Suckerz](https://open.spotify.com/track/32pyjqA49DdjJP5CnrIk74) | [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j), [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Mainstream Suckerz](https://open.spotify.com/album/7n6jmN59u2BzXAnlJNQHai) | 2:20 | 2025-04-13 |  |
 | [Make A Move](https://open.spotify.com/track/4YZbhg5xO4SNFXB08ly0p2) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp), [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd) | [Make A Move](https://open.spotify.com/album/4Qz1bnZeyvFcI5OuO3s6fy) | 2:06 | 2024-09-07 |  |
 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 | 2024-06-17 |  |
+| [Make It Go Hard](https://open.spotify.com/track/3zsICALW6AOMc0DVoF1kji) | [Kaai](https://open.spotify.com/artist/2HLDW2RBW5x4fSjgok9N3c) | [Make It Go Hard & Whole Club Moving](https://open.spotify.com/album/7tKmcGSHsrHxwnQ3aYiJo9) | 3:40 | 2026-04-03 |  |
 | [Make Me Lose Control \- Radio Edit](https://open.spotify.com/track/3sJwfcZLzL7iwq9o5RjInB) | [BPM BUNNY](https://open.spotify.com/artist/6HnXeGWhLv6Q3XCvdVpary) | [Make Me Lose Control \(Radio Edit\)](https://open.spotify.com/album/5ORu5ixQtkXHiewXaPQ8ct) | 3:36 | 2023-05-11 |  |
 | [Make Up Your World \(feat\. Ci\-chan & Rapbit\)](https://open.spotify.com/track/64Wv7WBg5wYHsYI1eDZg8n) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt), [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0), [Ci\-chan](https://open.spotify.com/artist/1byJdYf1Madc1HfOACHT5I), [Rapbit](https://open.spotify.com/artist/7qtLoCkVxJO9Kykqnpngi1) | [Make Up Your World \(feat\. Ci\-chan & Rapbit\)](https://open.spotify.com/album/0QS6TpDlj3gv2auHoAOgEN) | 3:16 | 2023-05-12 |  |
 | [Make You Bounce](https://open.spotify.com/track/1ZtmsPp8VeByj5Lh8lLig6) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Make You Bounce](https://open.spotify.com/album/0GHwZHVNtxMdR8w1P93rri) | 2:49 | 2024-05-10 |  |

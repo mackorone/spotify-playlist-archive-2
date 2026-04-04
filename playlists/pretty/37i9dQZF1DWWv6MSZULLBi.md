@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Forest Blakk & Joy Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,084 likes - 149 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,074 likes - 149 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You’ll Be The Proof \(feat\. Joy Williams\)](https://open.spotify.com/track/3IC5qtXccheQyYw27oSSD4) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [You’ll Be The Proof \(feat\. Joy Williams\)](https://open.spotify.com/album/4QQj3QOSKqEEuJ1RdhJiAf) | 3:26 |
-| 2 | [Track 1](https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Evening Star](https://open.spotify.com/album/197taNYjpikHAPjkOWctWk) | 0:00 |
+| 2 | [Woman of the Hour](https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Evening Star](https://open.spotify.com/album/197taNYjpikHAPjkOWctWk) | 3:02 |
 | 3 | [Horizon \- Rework](https://open.spotify.com/track/3jMDGbZ3UoLiMfQgvV2wWo) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Horizon \(Rework\)](https://open.spotify.com/album/6QjDPepKKxAiSey7oagThh) | 3:45 |
 | 4 | [Somehow Made It Out](https://open.spotify.com/track/3squeOqGJzGz3x2WyTJSD3) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Somehow Made It Out](https://open.spotify.com/album/2WK7bpbUtyKCqIedCqNI3B) | 3:42 |
 | 5 | [Set The Record Straight](https://open.spotify.com/track/1CbNmVLSMFTBmkOfAZEpKN) | [Alex Coley & Afterlove](https://open.spotify.com/artist/33LX3IFolOGYJGiF7mgTmE) | [Set The Record Straight](https://open.spotify.com/album/039iDjSz795RXrHgp1SG60) | 4:03 |

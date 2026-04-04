@@ -194,7 +194,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 178533,
       "name": "ALICANTE",
       "url": "https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 190066,
       "name": "Ben\u00e9",
       "url": "https://open.spotify.com/track/00X2yv2vrtritPt2CZnUTZ"
@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "C'est Fort",
+        "url": "https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159719,
+      "name": "C'est Fort",
+      "url": "https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3"
+    },
+    {
+      "album": {
         "name": "Ar\u00e8s",
         "url": "https://open.spotify.com/album/7lN0D0jbfIEyvkk9cw0wKL"
       },
@@ -558,7 +580,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 160628,
       "name": "CARR\u00c9 OK",
       "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
@@ -584,6 +606,36 @@
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "album": {
+        "name": "Franchement !",
+        "url": "https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "MC YOSHI",
+          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155189,
+      "name": "Charger",
+      "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
     },
     {
       "album": {
@@ -1170,7 +1222,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 232986,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
@@ -1472,7 +1524,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN"
@@ -1680,6 +1732,28 @@
       "duration_ms": 154110,
       "name": "Parabellum",
       "url": "https://open.spotify.com/track/4bBRs90EOLh9ydBDsH3mgu"
+    },
+    {
+      "album": {
+        "name": "PARISIENNE",
+        "url": "https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158859,
+      "name": "PARISIENNE",
+      "url": "https://open.spotify.com/track/3igbfkHq3s5wGMvC8iAscj"
     },
     {
       "album": {
@@ -2319,6 +2393,28 @@
     },
     {
       "album": {
+        "name": "Toute la nuit",
+        "url": "https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS"
+      },
+      "artists": [
+        {
+          "name": "GP Explorer",
+          "url": "https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O"
+        },
+        {
+          "name": "Anyme023",
+          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Toute la nuit",
+      "url": "https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV"
+    },
+    {
+      "album": {
         "name": "MANIA",
         "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
       },
@@ -2462,6 +2558,28 @@
       "duration_ms": 241160,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/5QowMIujytktMDC8pktNXH"
+    },
+    {
+      "album": {
+        "name": "ENCORE / VIANO",
+        "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111764,
+      "name": "VIANO",
+      "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Wekelijkse update! Cover: Chris Stussy",
-  "num_followers": 156027,
+  "num_followers": 156050,
   "original_name": "New Dance 2026",
   "owner": {
     "name": "Spotify",
@@ -38,10 +38,26 @@
         {
           "name": "Symphony of Unity",
           "url": "https://open.spotify.com/artist/3XgyPMGFzQghhrW2xJS8WG"
+        },
+        {
+          "name": "Ivan Gough",
+          "url": "https://open.spotify.com/artist/5aBWZE8TOaaA9O50ENS3EM"
+        },
+        {
+          "name": "Feenixpawl",
+          "url": "https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        },
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 10",
+      "duration_ms": 262556,
+      "name": "In My Mind - Symphony of Unity Orchestral Rework",
       "url": "https://open.spotify.com/track/5q8NalPQ5KKffo1pjMPSkK"
     },
     {
@@ -163,7 +179,23 @@
     {
       "added_at": "2026-04-02 22:02:04",
       "album": {
-        "name": "Lete Sound",
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 143197,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy"
+    },
+    {
+      "added_at": "2026-04-02 22:02:04",
+      "album": {
+        "name": "Lete Sound (Restore Local Sessions 001)",
         "url": "https://open.spotify.com/album/6RxCoZTc7ajcgAHcDvUZ4R"
       },
       "artists": [
@@ -181,7 +213,7 @@
         }
       ],
       "duration_ms": 182500,
-      "name": "Lete Sound",
+      "name": "Lete Sound (Restore Local Sessions 001)",
       "url": "https://open.spotify.com/track/0SU9TnI7NcHKxiPa7TGxOO"
     },
     {

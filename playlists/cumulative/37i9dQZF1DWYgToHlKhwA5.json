@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Midnight Thunder",
+        "url": "https://open.spotify.com/album/7Gl8BL86YWRVIFspHfyOzg"
+      },
+      "artists": [
+        {
+          "name": "Biologique",
+          "url": "https://open.spotify.com/artist/0DudONxjyhGIoLDd0o17f1"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132462,
+      "name": "City Stormy Night",
+      "url": "https://open.spotify.com/track/4MIWH7F44rmKGfMMnNWUHI"
+    },
+    {
+      "album": {
         "name": "Bad Weather",
         "url": "https://open.spotify.com/album/3j478bPDiacEeOFexch1lY"
       },
@@ -4414,7 +4432,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 281618,
       "name": "Rain & Distant Thunder",
       "url": "https://open.spotify.com/track/4LH3hYpqzwfX22Au9ghCPU"
@@ -5674,7 +5692,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 216000,
       "name": "Sky Is Rumbling",
       "url": "https://open.spotify.com/track/3rxnLHNAstvd01Yw7rTdkX"
@@ -5768,6 +5786,24 @@
       "duration_ms": 159388,
       "name": "Sleeping To Thunder",
       "url": "https://open.spotify.com/track/3caqSbL4x6qyteDy6H4uor"
+    },
+    {
+      "album": {
+        "name": "Tropic Thunders",
+        "url": "https://open.spotify.com/album/28RqLfbY07yZdUiJ3acTmT"
+      },
+      "artists": [
+        {
+          "name": "Las Vientas",
+          "url": "https://open.spotify.com/artist/3HzI9Zvsqx2AMuLlikzXTT"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142217,
+      "name": "Sleepless Night Thunder",
+      "url": "https://open.spotify.com/track/7ca0jkTcSKAYEYhFKBepi4"
     },
     {
       "album": {
@@ -6016,7 +6052,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 144149,
       "name": "Soothing White Noise",
       "url": "https://open.spotify.com/track/1T0C4DveHbOHeRPpkhRsRx"
@@ -7139,6 +7175,24 @@
     },
     {
       "album": {
+        "name": "Thunder Bloom",
+        "url": "https://open.spotify.com/album/3jVtRRrHawnoAXyAkcs2jn"
+      },
+      "artists": [
+        {
+          "name": "Lunacy",
+          "url": "https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142561,
+      "name": "Thunder Bloom",
+      "url": "https://open.spotify.com/track/3fXFYWhqRLFEnKFnJQtqwe"
+    },
+    {
+      "album": {
         "name": "Thunder & Lightning",
         "url": "https://open.spotify.com/album/69xOVLNyb5CJaDhmFJDrLp"
       },
@@ -7330,7 +7384,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 158250,
       "name": "Thunder Nights",
       "url": "https://open.spotify.com/track/5TexsAXp4ms15voj66r02X"
@@ -7370,6 +7424,24 @@
       "duration_ms": 208000,
       "name": "Thunder Rain",
       "url": "https://open.spotify.com/track/2pDK60CgXRz5uwKMI74sKx"
+    },
+    {
+      "album": {
+        "name": "Thunder Rainfall",
+        "url": "https://open.spotify.com/album/1zVVHDMvcFmhf0rSai1RPD"
+      },
+      "artists": [
+        {
+          "name": "Nature Advisor",
+          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209285,
+      "name": "Thunder Rainfall",
+      "url": "https://open.spotify.com/track/40Zf8PY526CdfE3V2Va8fI"
     },
     {
       "album": {

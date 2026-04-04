@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Ink and Amber",
+        "url": "https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL"
+      },
+      "artists": [
+        {
+          "name": "Billy Zain",
+          "url": "https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257755,
+      "name": "A Wall of Amber",
+      "url": "https://open.spotify.com/track/0zvjfyctKZS4ovfyuM3ElL"
+    },
+    {
+      "album": {
         "name": "About a Girl",
         "url": "https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB"
       },

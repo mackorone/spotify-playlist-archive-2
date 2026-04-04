@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23050,
+  "num_followers": 23057,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-03-27 19:24:36",
       "album": {
+        "name": "Chakra",
+        "url": "https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul"
+      },
+      "artists": [
+        {
+          "name": "Mim\u00ec",
+          "url": "https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1"
+        }
+      ],
+      "duration_ms": 144625,
+      "name": "Chakra",
+      "url": "https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6"
+    },
+    {
+      "added_at": "2026-03-27 19:24:36",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
-    },
-    {
-      "added_at": "2026-03-27 19:24:36",
-      "album": {
-        "name": "Chakra",
-        "url": "https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul"
-      },
-      "artists": [
-        {
-          "name": "Mim\u00ec",
-          "url": "https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1"
-        }
-      ],
-      "duration_ms": 144625,
-      "name": "Chakra",
-      "url": "https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6"
     },
     {
       "added_at": "2026-03-27 19:24:36",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-03-27 19:24:36",
       "album": {
+        "name": "PILLOW",
+        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 125672,
+      "name": "PILLOW",
+      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
+    },
+    {
+      "added_at": "2026-03-27 19:24:36",
+      "album": {
         "name": "Caninana",
         "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 190105,
       "name": "Caninana",
       "url": "https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz"
-    },
-    {
-      "added_at": "2026-03-27 19:24:36",
-      "album": {
-        "name": "PILLOW",
-        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 125672,
-      "name": "PILLOW",
-      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
     },
     {
       "added_at": "2026-03-27 19:24:36",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-03-27 19:24:36",
       "album": {
+        "name": "M\u00fasicas Para Mulheres, Vol. 1",
+        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
+      },
+      "artists": [
+        {
+          "name": "Dash Foreal",
+          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
+        }
+      ],
+      "duration_ms": 167876,
+      "name": "S\u00f3 pra voc\u00ea",
+      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
+    },
+    {
+      "added_at": "2026-03-27 19:24:36",
+      "album": {
         "name": "Desacelera",
         "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 164007,
       "name": "Desacelera",
       "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
-    },
-    {
-      "added_at": "2026-03-27 19:24:36",
-      "album": {
-        "name": "M\u00fasicas Para Mulheres, Vol. 1",
-        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
-      },
-      "artists": [
-        {
-          "name": "Dash Foreal",
-          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
-        }
-      ],
-      "duration_ms": 167876,
-      "name": "S\u00f3 pra voc\u00ea",
-      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
     }
   ],
   "unique_name": "pique afrobeats",

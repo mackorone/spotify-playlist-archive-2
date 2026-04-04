@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-443 songs - 22 hr 46 min
+444 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [The Garden](https://open.spotify.com/track/1WrSQnq6Y8e6jITQ6gG7Jq) | [Lochlainn](https://open.spotify.com/artist/3wgU0KqfQuUNIjqe2ZjOVh) | [The Garden](https://open.spotify.com/album/4notA2r4MNd7pHSxWPdPEN) | 2:54 | 2022-02-03 | 2023-08-11 |
 | [The Light](https://open.spotify.com/track/6j0xFTxOxYlSGMZketPIGp) | [Tetrix Bass](https://open.spotify.com/artist/7wqWpJmkmXr5e8dcXdbrC6), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [The Light](https://open.spotify.com/album/784IbHRH7ccOeGUKh16Cc2) | 3:04 | 2023-08-10 | 2023-09-01 |
 | [The Nameless](https://open.spotify.com/track/7uZZvD4xQjHdznIiq5c8fg) | [Elliot Berger](https://open.spotify.com/artist/3DVo02zCQ7iZKujFgRLMXL) | [The Nameless](https://open.spotify.com/album/33DUx1nXaCU5m6QYbWRn5s) | 3:56 | 2023-08-10 | 2023-11-03 |
+| [the night](https://open.spotify.com/track/46zNu7e4pk9zACVfHARqkX) | [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [the night](https://open.spotify.com/album/4MW7BKPEtVBCwNkGpBVdCX) | 3:16 | 2026-04-03 |  |
 | [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 | 2022-12-29 | 2023-08-11 |
 | [The Path](https://open.spotify.com/track/2ijSdxRsWpBjMpZ7HNQD3U) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw), [Agassi](https://open.spotify.com/artist/6Ts1uqQmSrpQ9YedHKrreu) | [The Path](https://open.spotify.com/album/74bnjTLKVFndWnu0gRASDj) | 4:03 | 2022-06-02 | 2023-08-11 |
 | [The Rage](https://open.spotify.com/track/46rsDvRdmRS4gT0B3FjYtO) | [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Awon](https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [The Rage](https://open.spotify.com/album/3BVuOvZv08198bgIlFe9u7) | 2:46 | 2023-08-10 |  |

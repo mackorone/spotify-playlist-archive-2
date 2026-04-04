@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,251 songs - 2 day 6 hr 4 min
+1,252 songs - 2 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1074,6 +1074,7 @@
 | [Taste Of Love](https://open.spotify.com/track/1P8590fpfk24mzC8lctMlq) | [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Taste Of Love](https://open.spotify.com/album/1FgnaZU9wemKUFhvEfQzBC) | 2:45 | 2025-03-02 | 2025-06-23 |
 | [Tattoo On The Heart](https://open.spotify.com/track/2tfJCSTwAIaAGXA2wvSpfl) | [MKJ](https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Tattoo On The Heart](https://open.spotify.com/album/6a5mz511I8dWF6kaF9lvAe) | 2:41 | 2025-11-16 | 2025-12-08 |
 | [Teenage Dream](https://open.spotify.com/track/6mSJPeIzfqbQH83qkMBS7I) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Teenage Dream](https://open.spotify.com/album/5wZOs9KxbL30axtsoIoe2p) | 2:33 | 2024-06-09 | 2024-07-09 |
+| [Tell Me](https://open.spotify.com/track/5UlCJFwQQCC0ikDkIme0KG) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Léa Vlaeminck](https://open.spotify.com/artist/7hdmJosOpKCCtrXdfeZerx), [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ) | [Tell Me](https://open.spotify.com/album/5UwHxr71b6bVaJuQa86dwI) | 2:43 | 2026-04-03 |  |
 | [Tell Me](https://open.spotify.com/track/67Nwm3LhBAZzAxzeKobQ8y) | [LVNDS](https://open.spotify.com/artist/5SaQ29VtpoxNKFZZt4D3DT), [Skylet](https://open.spotify.com/artist/5uhspOrIjx5ZHNBsWBiWZT), [Dust Walker](https://open.spotify.com/artist/3Dj1zDJzdeLQSVyrT0VZiy) | [Tell Me](https://open.spotify.com/album/74H8L38EGLHwZ9T0jZefLI) | 2:40 | 2026-03-08 |  |
 | [Tell Me You Love Me](https://open.spotify.com/track/7lak0WdbGJiJDbyBiZcLgH) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [AALLAR](https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1), [Che'Nelle](https://open.spotify.com/artist/7zVOa12T0RhNRzpbwZ4OCt) | [Tell Me You Love Me](https://open.spotify.com/album/4Kt5Ph2XYQTBjqP9988Vqo) | 2:42 | 2023-11-26 | 2024-01-28 |
 | [Thank You](https://open.spotify.com/track/0jiLjpGnWrgjSM7PD3MJaZ) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Deeplow](https://open.spotify.com/artist/1YXMM18basqFdnqGzLNyQ7) | [Thank You](https://open.spotify.com/album/6YhB4nJIdNAta2zhbad4c3) | 2:21 | 2025-04-06 | 2025-09-08 |

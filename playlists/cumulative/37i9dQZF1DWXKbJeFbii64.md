@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-197 songs - 9 hr 23 min
+198 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Heavy Thunderstorm](https://open.spotify.com/track/2FdcQ9lycbLNjjxjZobvzT) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:07 | 2022-10-28 |  |
 | [Hometown Thunders](https://open.spotify.com/track/6bgUoT7qJnDPKZi6uopxwR) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Hometown](https://open.spotify.com/album/2oJvTwCJsPFgAJPci0XKGR) | 2:31 | 2022-10-28 |  |
 | [Horizon Thunder](https://open.spotify.com/track/7MpssP0i3rwo245yYlwKjf) | [The Sound Of Thunder](https://open.spotify.com/artist/1px8jMPOnlvPZPT1yYpKbX) | [Horizon Thunder](https://open.spotify.com/album/6uspTHWpqBH4b8enl30Zjn) | 4:31 | 2025-12-19 |  |
-| [Humble Rain](https://open.spotify.com/track/1rBaNXCbOoEii6z7fhFXnS) | [ANCIENT RAIN](https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff) | [Rain On The Canopy](https://open.spotify.com/album/3Uvi3QF8vqzcQYnryt2T0d) | 3:04 | 2023-09-20 |  |
+| [Humble Rain](https://open.spotify.com/track/1rBaNXCbOoEii6z7fhFXnS) | [ANCIENT RAIN](https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff) | [Rain On The Canopy](https://open.spotify.com/album/3Uvi3QF8vqzcQYnryt2T0d) | 3:04 | 2023-09-20 | 2026-04-04 |
 | [In the Wetlands](https://open.spotify.com/track/5huG3zZi91V8SJKbs0slkz) | [Edy Ocean](https://open.spotify.com/artist/7sOklRxvbi5j2XYKzytqiM) | [In the Wetlands](https://open.spotify.com/album/1NxzCzqznp5TCMkQMA7cYU) | 3:10 | 2025-07-23 |  |
 | [Lake Rain With Thunder](https://open.spotify.com/track/4yuc0tswxfh6DgaPTGXnA0) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [The Wet Forest](https://open.spotify.com/album/3lK8bIdeNTajiIBuBW9NP6) | 2:20 | 2022-10-28 |  |
 | [Le Tonnerre Claquant](https://open.spotify.com/track/4GHMe27LwEBBkIgqhi12cJ) | [Olivia Ange](https://open.spotify.com/artist/2TVCzUqzhVvdSIezkeY7Ok) | [Le Tonnerre Claquant](https://open.spotify.com/album/7iW8QcSoivasuL51LbO4Ri) | 2:38 | 2023-09-20 | 2025-11-12 |
@@ -121,6 +121,7 @@
 | [Sky Thunder](https://open.spotify.com/track/5QrXyHPlJOtT8quR4URGa7) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Sky Thunder](https://open.spotify.com/album/27Ub2XPbYDlVVnA1zXsz1O) | 2:50 | 2022-10-28 |  |
 | [Sleepless Night Thunder](https://open.spotify.com/track/7ca0jkTcSKAYEYhFKBepi4) | [Las Vientas](https://open.spotify.com/artist/3HzI9Zvsqx2AMuLlikzXTT) | [Tropic Thunders](https://open.spotify.com/album/28RqLfbY07yZdUiJ3acTmT) | 2:22 | 2026-04-01 |  |
 | [Sleepy Storm](https://open.spotify.com/track/0gXGs4OoIwCEEDdKCwsOJE) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
+| [Slumber Night Rains](https://open.spotify.com/track/5D3Qv60Pfpt01xIxizpT6l) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Slumber Night Rains](https://open.spotify.com/album/5iLDsc7sxuvHGhkEmTzOuj) | 2:27 | 2026-04-01 |  |
 | [Soft Rain Carrying Strong Lightnings](https://open.spotify.com/track/0qTxu9veqYjT7qCJJtaMQr) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 2:16 | 2022-10-28 |  |
 | [Soft Thunder And Rain](https://open.spotify.com/track/1H37bsmMNq6wK8NC1GimU2) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Rainforest Afternoon](https://open.spotify.com/album/6Hp8Uf0ee1Lin70MMD9JRK) | 2:56 | 2023-09-20 | 2025-05-05 |
 | [Soft Thunders](https://open.spotify.com/track/0ru1Q1p2CUz9fuc0yNLpHw) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [By The Window](https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL) | 2:05 | 2023-01-13 |  |

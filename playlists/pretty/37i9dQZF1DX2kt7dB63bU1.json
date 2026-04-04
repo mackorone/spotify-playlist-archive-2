@@ -1,13 +1,45 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 167186,
+  "num_followers": 167249,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEkkF9Mgy5FAdsaYvSDI/3fdcYfV",
+  "snapshot_id": "AAAAAGEPhUfwPCg/5nrTIbBKQzMhJ5tS",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:00:10",
+      "album": {
+        "name": "Loads of Love",
+        "url": "https://open.spotify.com/album/2zgUoijQ2YPsqxXtQwkV4p"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 183978,
+      "name": "Pour for the Hour",
+      "url": "https://open.spotify.com/track/46G8UvNyqy1YKlUxYxltIL"
+    },
+    {
+      "added_at": "2026-04-03 04:00:10",
+      "album": {
+        "name": "A Time For Love",
+        "url": "https://open.spotify.com/album/3I6j3dwMH8rMlsydFzu6cv"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 285863,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/6jHtoIPI83lU0pZg4vPq3c"
+    },
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
@@ -39,6 +71,26 @@
       "duration_ms": 294866,
       "name": "Help Me - Radio Edit",
       "url": "https://open.spotify.com/track/1GWkU0AJTucewGLsfaOEQk"
+    },
+    {
+      "added_at": "2026-04-03 04:00:10",
+      "album": {
+        "name": "My Guy",
+        "url": "https://open.spotify.com/album/32xqwx0OjHWcnd47JXeT2F"
+      },
+      "artists": [
+        {
+          "name": "Joy Harjo",
+          "url": "https://open.spotify.com/artist/3icTrhX5pbx8Dlb399P8Tn"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "duration_ms": 137890,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/5N4ml3EVDQdah14gjIjtIy"
     },
     {
       "added_at": "2026-03-20 04:00:30",
@@ -235,22 +287,6 @@
       "duration_ms": 181280,
       "name": "Next Spring",
       "url": "https://open.spotify.com/track/0rChXlI7M5KqjzQ2rgs8S0"
-    },
-    {
-      "added_at": "2026-02-13 05:00:20",
-      "album": {
-        "name": "La Javanaise",
-        "url": "https://open.spotify.com/album/6fORZEa1FLJDyK6E8H5Nes"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 214583,
-      "name": "La Javanaise",
-      "url": "https://open.spotify.com/track/7v7iwf9k5sI8go8rjlkIL2"
     },
     {
       "added_at": "2026-02-06 05:00:24",
@@ -631,26 +667,6 @@
       "duration_ms": 217500,
       "name": "All I Ever Needed",
       "url": "https://open.spotify.com/track/4SayifPw2LFaHxGCzIuJKv"
-    },
-    {
-      "added_at": "2025-08-22 04:00:09",
-      "album": {
-        "name": "Caity Gyorgy with Strings",
-        "url": "https://open.spotify.com/album/6PKpGrf9KnW8VlfTvFrg6A"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Pour for the Hour",
-      "url": "https://open.spotify.com/track/4IM8Agsa5fDz7b2NqkQUkB"
     },
     {
       "added_at": "2025-08-22 04:00:09",
@@ -1819,26 +1835,6 @@
       "duration_ms": 228840,
       "name": "Without A Chance",
       "url": "https://open.spotify.com/track/0VUEGVGAi8GaHRCkxBM4ww"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/1bm8lycQzE0Hx7w0dgPOKW"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 394640,
-      "name": "Sparrow (feat. Angelique Kidjo)",
-      "url": "https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8"
     }
   ],
   "unique_name": "Vocal Jazz",

@@ -42,6 +42,24 @@
     {
       "album": {
         "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/2yiyfnLwYMjmWd5YaSiLay"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/3u07aCTSie9xd3hYy0l4Gj"
+    },
+    {
+      "album": {
+        "name": "Do You Still Love Me?",
         "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
       },
       "artists": [
@@ -52,7 +70,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 234608,
       "name": "100",
       "url": "https://open.spotify.com/track/7IETxxCKv2VFvcJJbZly8X"

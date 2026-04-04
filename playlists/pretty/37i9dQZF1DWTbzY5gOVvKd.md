@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,869 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296,909 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 49 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
 | 50 | [There Is No Greater Love](https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 5:29 |
 | 51 | [A Song For You](https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Here's To You \- Songs For Shirley Horn](https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3) | 5:01 |
-| 52 | [The Man I Love](https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W) | [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [On Holiday](https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4) | 4:45 |
-| 53 | [Stop Searching for Love \(feat\. Kate Ceberano\)](https://open.spotify.com/track/7yi1OPcs7d2nfIQVPYAkky) | [Jake Mason Trio](https://open.spotify.com/artist/2qsUIL8cjpY7fO2ucmTaXP), [Kate Ceberano](https://open.spotify.com/artist/6E4eoLJTZYyIC5cZVg6fDx) | [Stop Searching for Love \(feat\. Kate Ceberano\)](https://open.spotify.com/album/6s063r0rmt7nFgsyobzQvr) | 5:06 |
+| 52 | [Stop Searching for Love \(feat\. Kate Ceberano\)](https://open.spotify.com/track/7yi1OPcs7d2nfIQVPYAkky) | [Jake Mason Trio](https://open.spotify.com/artist/2qsUIL8cjpY7fO2ucmTaXP), [Kate Ceberano](https://open.spotify.com/artist/6E4eoLJTZYyIC5cZVg6fDx) | [Stop Searching for Love \(feat\. Kate Ceberano\)](https://open.spotify.com/album/6s063r0rmt7nFgsyobzQvr) | 5:06 |
+| 53 | [The Man I Love](https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W) | [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [On Holiday](https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4) | 4:45 |
 | 54 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 |
 | 55 | [Fools Rush In \(Where Angels Fear To Tread\)](https://open.spotify.com/track/4mxR3iB1bvDEUsSuFLeIWF) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Simon Thorpe](https://open.spotify.com/artist/73R87wFxKX8jZu9zdfFSmm), [Steve Brown](https://open.spotify.com/artist/7DLSRkdZGUdCN98UT44PAd) | [Love Is..\. The Tender Trap](https://open.spotify.com/album/0BnOXskh6wArTePmqEGIfs) | 4:43 |
 | 56 | [From This Moment On](https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm), [Stefon Harris](https://open.spotify.com/artist/4FDlrSZ3mEv5Jvn482sCbZ), [Aaron Diehl](https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4), [Ali Jackson](https://open.spotify.com/artist/5tFHD1Y400oLuqNwWYICkD) | [Bria](https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N) | 5:56 |

@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover:  Mavo
 
-938 songs - 1 day 21 hr 34 min
+938 songs - 1 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,7 +849,6 @@
 | [Touch Me](https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Touch Me](https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN) | 2:25 | 2024-08-25 | 2024-11-16 |
 | [Toxic](https://open.spotify.com/track/3sIksJyo81gKpR5GyT1c8m) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 4:01 | 2022-04-21 | 2022-08-15 |
 | [Toxic Love](https://open.spotify.com/track/09YR7RkTuIjWl6vKwFGTe5) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Toxic Love](https://open.spotify.com/album/1UFB4rx4pD2A93XxU1Ff5w) | 2:15 | 2022-02-10 | 2022-02-14 |
-| [Track 2](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 0:00 | 2026-04-03 |  |
 | [Track 3](https://open.spotify.com/track/0DIRNsqKK3Vng8f4B23BAF) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Next Rated](https://open.spotify.com/album/7kw7JdzgwwbvKPjznLpabZ) | 3:52 | 2023-10-27 | 2023-11-03 |
 | [Trobul](https://open.spotify.com/track/3mitop70iyN03AreLNsit4) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Trobul](https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS) | 4:02 | 2021-10-14 | 2022-07-27 |
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-10-20 | 2023-04-21 |
@@ -893,6 +892,7 @@
 | [Wetin Dey](https://open.spotify.com/track/2ahhGbBXPQEREZ35ISS5Yl) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Wetin Dey](https://open.spotify.com/album/4Av9RRnoNcAMjXdmkjC6FM) | 2:27 | 2025-11-28 | 2025-12-05 |
 | [WHAT HAVE YOU DONE](https://open.spotify.com/track/7s7kxVXd3l1vDHrBe8YtYC) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [WHEN NOBODY IS WATCHING](https://open.spotify.com/album/7wupiYO6dV8M4Ghs3dWljJ) | 2:38 | 2025-05-09 | 2025-06-13 |
 | [What Have You Done?](https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [What Have You Done?](https://open.spotify.com/album/3G7drc03HfTHoIVCUJ8m11) | 3:28 | 2023-05-26 | 2023-06-03 |
+| [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 | 2026-04-03 |  |
 | [What's Poppin](https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam) | 3:15 | 2023-08-10 | 2023-11-04 |
 | [What's Poppin](https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw) | 3:15 | 2023-11-03 | 2023-11-17 |
 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 | 2026-03-20 |  |

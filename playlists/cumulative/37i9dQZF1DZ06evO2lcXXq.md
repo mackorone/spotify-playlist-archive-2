@@ -4,7 +4,7 @@
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 37 min
+87 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 | 2023-03-10 |  |
 | [You Are So Beautiful \- Live Acoustic](https://open.spotify.com/track/7i6DvJgOTuVV1nOP7FfT5u) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Sessions](https://open.spotify.com/album/4Y4ntagypPMlqa71YLaDsA) | 2:50 | 2024-08-26 | 2024-11-17 |
 | [You Have My Surrender \(Live\)](https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Alive: Live from the CentricWorship Retreat](https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12) | 3:45 | 2023-03-10 |  |
+| [You Lead Me](https://open.spotify.com/track/2aDNgEU3yj4vUnh5ZWq4tD) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [House Of David](https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH), [Wonder Project](https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2) | [You Lead Me](https://open.spotify.com/album/26XQGLcx9C4eJYP4rezkXY) | 4:14 | 2026-04-04 |  |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2023-03-10 |  |
 | [You Say \- Live Acoustic](https://open.spotify.com/track/6VjrZ2uTnynHzFaQuHBmcq) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Sessions](https://open.spotify.com/album/4Y4ntagypPMlqa71YLaDsA) | 4:19 | 2024-08-18 | 2024-09-14 |
 | [You're All I'll Take With Me \- Live Acoustic](https://open.spotify.com/track/6N6Pn9vCqy22eVaYIGlDN5) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Sessions](https://open.spotify.com/album/4Y4ntagypPMlqa71YLaDsA) | 3:26 | 2024-09-02 | 2024-11-06 |

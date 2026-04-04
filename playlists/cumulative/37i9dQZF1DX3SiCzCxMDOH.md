@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-1,025 songs - 2 day 12 hr 2 min
+1,027 songs - 2 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Alice Corner](https://open.spotify.com/track/5vNmKXDjOHMuLmwEzFzRCs) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [Alice Corner](https://open.spotify.com/album/27cypFRKmPqno5giELZOyT) | 3:49 | 2026-01-08 |  |
 | [Alice In Wonderland](https://open.spotify.com/track/3I7ITtodK56QgpwLT7bMd2) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Alice In Wonderland](https://open.spotify.com/album/3HSDUYPQA61e3cMP6msC8l) | 4:04 | 2022-10-13 | 2023-03-25 |
 | [Alive](https://open.spotify.com/track/2sHJ4oiPb8XWveU2aqOw4m) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Alive](https://open.spotify.com/album/2aXlJtP2pqXUcm8d7WwMWJ) | 3:20 | 2023-08-10 | 2025-07-24 |
+| [Aliya](https://open.spotify.com/track/5TZVhJmVVLUQIxEKr7JLTy) | [Third Coast Echo](https://open.spotify.com/artist/6L4AEX9CqQULzoOz3lN5CP) | [Aliya](https://open.spotify.com/album/7AxJlS7aDUiJRnUjxHCkYA) | 3:37 | 2026-04-03 |  |
 | [All Good](https://open.spotify.com/track/0NJL3lxVCJKyoiExs8GiTG) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [All Good](https://open.spotify.com/album/5ppmDplZFPBmfAmwFYgwCX) | 3:25 | 2023-08-10 | 2025-08-20 |
 | [All Hands On Deck!](https://open.spotify.com/track/44U31ReufqAcif83U3ACf1) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [All Hands On Deck!](https://open.spotify.com/album/0k10IRpaCJf3Ql8gOfrvob) | 3:13 | 2023-03-02 | 2025-08-20 |
 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-24 | 2025-07-24 |
@@ -481,6 +482,7 @@
 | [Late Night Serenade](https://open.spotify.com/track/335m1wcXqBuTOnGkHvQLKE) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Late Night Serenade](https://open.spotify.com/album/0vgWnvmrW0MKhqM0x47EoG) | 3:15 | 2023-04-13 | 2025-07-24 |
 | [Late Nights Falling](https://open.spotify.com/track/1AkIosHinV25iLUh0Ll0oH) | [Voluntary Dreamers](https://open.spotify.com/artist/42xc9e1Cs3WxkcZ517zNMD) | [Late Nights Falling](https://open.spotify.com/album/5CRUQSqFsIFPHNvz1Au5Zb) | 2:40 | 2025-04-04 |  |
 | [Late Reflections](https://open.spotify.com/track/76RWGx3zZ46aIY4WPjsLuo) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Late Reflections](https://open.spotify.com/album/2iJH0ujIwbtlQ41b3CBcaO) | 3:41 | 2023-04-13 | 2025-08-20 |
+| [Late Terminal](https://open.spotify.com/track/30WMcRYFfoMpNQ6sVVOZEP) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Late Terminal](https://open.spotify.com/album/208ydPDNnowWM3Rt3XQFUx) | 3:11 | 2026-04-03 |  |
 | [Later And Later](https://open.spotify.com/track/2odZfZZd36vPy5nfuaLCmw) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Later And Later](https://open.spotify.com/album/1jfvvjvxU4HCh2UCTAt7i8) | 6:48 | 2023-12-08 | 2024-11-12 |
 | [Laura](https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Laura](https://open.spotify.com/album/53Vz2jcWzo7abWsSzjBWrj) | 4:04 | 2022-08-30 | 2023-02-24 |
 | [Le jardin de l'espoir](https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Le jardin de l'espoir](https://open.spotify.com/album/2zrDkiN2AW9emd4IBDRCkv) | 4:23 | 2023-02-23 | 2025-01-15 |
@@ -851,7 +853,7 @@
 | [The Good, the Bad and the Beautiful](https://open.spotify.com/track/2jyBwy9QA5ogIP1Uz89xZk) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [The Good, the Bad and the Beautiful](https://open.spotify.com/album/0NVA4D16ko7RtYF9URQG8b) | 3:39 | 2024-01-12 | 2025-01-08 |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-04-11 | 2024-05-11 |
 | [The Lights](https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa) | [Anthony Hide Trio](https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av) | [The Lights](https://open.spotify.com/album/51rjVgDAsjL0BFbhnbo7a4) | 3:35 | 2024-03-22 |  |
-| [The Man I Love](https://open.spotify.com/track/2mcGiXMNYUcfm9hcLvTBES) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [The Man I Love](https://open.spotify.com/album/6kqXqeoBmN9TeE2Wj9THXH) | 3:16 | 2025-02-03 |  |
+| [The Man I Love](https://open.spotify.com/track/2mcGiXMNYUcfm9hcLvTBES) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [The Man I Love](https://open.spotify.com/album/6kqXqeoBmN9TeE2Wj9THXH) | 3:16 | 2025-02-03 | 2026-04-04 |
 | [The Masquerade Is Over](https://open.spotify.com/track/3Sg76cvYesfYDtHcMQ2fxn) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [The Masquerade Is Over](https://open.spotify.com/album/0A7QiAU3NJBMHzlZliGrKp) | 4:05 | 2022-04-11 | 2023-01-06 |
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-02-16 | 2025-07-24 |
 | [The Midnight Sun Never Sets](https://open.spotify.com/track/4uyCtvsYBPz8nE7yA5sbnl) | [Webb Trio](https://open.spotify.com/artist/2sCB8fxXchR8s1mnHghn6y) | [The Midnight Sun Never Sets](https://open.spotify.com/album/19ThYZTl9MmtvEvqSGfv3h) | 3:59 | 2024-05-10 | 2024-10-02 |
@@ -941,7 +943,7 @@
 | [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 | 2022-10-13 | 2025-01-08 |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 | 2025-01-08 |
 | [Violet](https://open.spotify.com/track/1eH1braLVAu6MdyeaUpSoG) | [Hamilton Reed Quartet](https://open.spotify.com/artist/5wrghSelzLqPiapSBx7fsu) | [Violet](https://open.spotify.com/album/20megDenCZJIgfLYe1VWpb) | 2:42 | 2025-02-03 |  |
-| [Violets for Your Furs](https://open.spotify.com/track/27ZdIE8SGlkYVLua15ASGD) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Violets for Your Furs](https://open.spotify.com/album/37DeQ1VHFSoKkl8Rj7P3qB) | 3:11 | 2026-03-06 |  |
+| [Violets for Your Furs](https://open.spotify.com/track/27ZdIE8SGlkYVLua15ASGD) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Violets for Your Furs](https://open.spotify.com/album/37DeQ1VHFSoKkl8Rj7P3qB) | 3:11 | 2026-03-06 | 2026-04-04 |
 | [Waiting](https://open.spotify.com/track/1EPcmwgKuXclBG0fiWmiH6) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [Waiting](https://open.spotify.com/album/7hNxS9E1smQnmOBfDQ7UBk) | 3:20 | 2023-11-24 | 2025-09-24 |
 | [Waiting](https://open.spotify.com/track/3LTZWlerXvIG5w5bRPXe0J) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Waiting](https://open.spotify.com/album/0Y36HrqDhG2FiVQlNzkgRD) | 3:21 | 2022-09-20 | 2023-03-10 |
 | [Walk Beside Me](https://open.spotify.com/track/7eyXx9ngV1jkChWMPuR6al) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Walk Beside Me](https://open.spotify.com/album/2dNuBRAlgAWOXFyw3w6GOA) | 3:20 | 2024-05-10 | 2025-05-06 |

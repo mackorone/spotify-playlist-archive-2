@@ -2,7 +2,7 @@
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> Homegrown emerging pop ⛓️<br/>cover: Tsatamis
+> Homegrown emerging pop ⛓️<br/>cover: Tsatsamis
 
 1,087 songs - 2 day 7 hr 51 min
 

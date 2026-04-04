@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,094 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,158 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 57 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
 | 58 | [Quiero Conocerte](https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 2:00 |
 | 59 | [Pensando En Ti](https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Pensando En Ti](https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK) | 2:42 |
-| 60 | [Nochecita](https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT) | [El Negro Peregrino Y Su Trio](https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9) | [Personalidad \- Los Grandes Trios](https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb) | 2:38 |
-| 61 | [Cariñito Azucarado](https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Inspiraciones de Siempre](https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI) | 2:47 |
+| 60 | [Cariñito Azucarado](https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Inspiraciones de Siempre](https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI) | 2:47 |
+| 61 | [Nochecita](https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT) | [El Negro Peregrino Y Su Trio](https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9) | [Personalidad \- Los Grandes Trios](https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb) | 2:38 |
 | 62 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
 | 63 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
 | 64 | [Tú me acostumbraste](https://open.spotify.com/track/52Aq1nC36rW66K6VbADJKc) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [100th Birthday Celebration](https://open.spotify.com/album/5XP2Fpd4tu3ihRLH7tmocf) | 2:43 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 88 | [Ya Te Olvide](https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Ya Te Olvide](https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ) | 2:28 |
 | 89 | [Conozco La Verdad](https://open.spotify.com/track/08Bc5JzkGuMS53ZkDSgHsg) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL), [Johnny Rodriguez Y Su Trio](https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka) | [Grandes Éxitos De Carmen Delia Dipiní](https://open.spotify.com/album/4sOd7sSRarWnDiDLmeOlm7) | 2:50 |
 | 90 | [Espumas](https://open.spotify.com/track/3nSV1I5ZVv4vI8nU7Kl6zW) | [Yolanda Y Su Trio Perla Negra](https://open.spotify.com/artist/3qTLA5L6rj3bA14H3QQJKG) | [15 Creaciones De Yolanda Y Su Trio Perla Negra \- Versiones Originales](https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe) | 2:33 |
-| 91 | [Señora tentación](https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG) | [Hermanas Aguila](https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv) | [Antología\. \. .Hermanas Aguila](https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi) | 3:30 |
+| 91 | [Voy Gritando Por La Calle](https://open.spotify.com/track/1N8bDOEWUwfZZ9X2GbwGI3) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Tríos Del Mundo : 40 Éxitos](https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg) | 2:52 |
 | 92 | [Mi Negra Linda](https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
-| 93 | [Voy Gritando Por La Calle](https://open.spotify.com/track/1N8bDOEWUwfZZ9X2GbwGI3) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Tríos Del Mundo : 40 Éxitos](https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg) | 2:52 |
+| 93 | [Señora tentación](https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG) | [Hermanas Aguila](https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv) | [Antología\. \. .Hermanas Aguila](https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi) | 3:30 |
 | 94 | [Despierta](https://open.spotify.com/track/6ipKZL678L6S4L93oBmqtz) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:45 |
 | 95 | [La Copa Rota](https://open.spotify.com/track/5Q4qhAdlqwuQcvDXDHG6lo) | [Trio Vegabajeño](https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB) | [50 Exitos del Fonógrafo y Sus Recuerdos](https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs) | 3:07 |
 | 96 | [Ansiedad](https://open.spotify.com/track/1LRMRPhC8ZEniqe16Rzlkm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:52 |

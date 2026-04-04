@@ -971,6 +971,28 @@
     },
     {
       "album": {
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+    },
+    {
+      "album": {
         "name": "Clandestina (Cocaina Remix)",
         "url": "https://open.spotify.com/album/06IeiiR0ZXsBmrBxJ35t82"
       },
@@ -2308,7 +2330,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 232734,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/3Lvl7l2EY2yWXPO2HqFLZN"
@@ -3582,6 +3604,24 @@
       "duration_ms": 196044,
       "name": "Like Wooh Wooh",
       "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
+    },
+    {
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb"
+      },
+      "artists": [
+        {
+          "name": "Alaia & Gallo",
+          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK"
     },
     {
       "album": {
@@ -6014,7 +6054,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 150660,
       "name": "Tambora",
       "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"

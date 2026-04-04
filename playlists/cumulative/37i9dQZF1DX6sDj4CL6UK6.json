@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "English songs from Indian artists\nCover: Kiara Chettri",
+  "description": "English songs from Indian artists\nCover: Prateek Kuhad",
   "name": "Indian Indie English",
   "tracks": [
     {
@@ -406,6 +406,32 @@
       "duration_ms": 153000,
       "name": "Asymmetrical",
       "url": "https://open.spotify.com/track/4Wi8LAUHkE2fWjGvrelJ4h"
+    },
+    {
+      "album": {
+        "name": "593, Vol. I",
+        "url": "https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I"
+      },
+      "artists": [
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        },
+        {
+          "name": "Clifr",
+          "url": "https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14"
+        },
+        {
+          "name": "Issamood",
+          "url": "https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Attached",
+      "url": "https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL"
     },
     {
       "album": {
@@ -1123,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "cold/mess",
+        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281218,
+      "name": "cold/mess",
+      "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
+    },
+    {
+      "album": {
         "name": "Nyima, Vol. 1",
         "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
       },
@@ -1562,6 +1606,24 @@
       "duration_ms": 208746,
       "name": "Desert Island",
       "url": "https://open.spotify.com/track/4v4lyqBQuvFyIzPkrVX1xQ"
+    },
+    {
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1Gtpf8VgbXJtjYNpOStP1X"
+      },
+      "artists": [
+        {
+          "name": "Second Sight",
+          "url": "https://open.spotify.com/artist/7Gj4NjNVPzzn00yDDVmrla"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179812,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/4Y9pVTAamWwZn4p4e2vBmw"
     },
     {
       "album": {
@@ -2206,7 +2268,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 131290,
       "name": "Flying",
       "url": "https://open.spotify.com/track/25PEjBqc1LAsalXVeTrjbl"
@@ -2416,6 +2478,28 @@
       "duration_ms": 248320,
       "name": "Give Up",
       "url": "https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu"
+    },
+    {
+      "album": {
+        "name": "Glimpses",
+        "url": "https://open.spotify.com/album/1sPxlbBKXOEEpaf6tCYuY1"
+      },
+      "artists": [
+        {
+          "name": "Nida",
+          "url": "https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs"
+        },
+        {
+          "name": "Derric D'souza",
+          "url": "https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213675,
+      "name": "Glimpses",
+      "url": "https://open.spotify.com/track/45mn7PSl1pgVo23ufjcGjT"
     },
     {
       "album": {
@@ -3201,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/3TzceoIMgAeXLi4iFljGbO"
+      },
+      "artists": [
+        {
+          "name": "Akhil Sahni",
+          "url": "https://open.spotify.com/artist/0s1Ya2nFCfTMXpsWbq6UPj"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Ignorance",
+      "url": "https://open.spotify.com/track/6ogsXVG78tnwJj2clGZnDx"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/4bpvbIUSnxOGTlYt4iazyz"
       },
@@ -3416,6 +3518,28 @@
       "duration_ms": 163478,
       "name": "I\u2019m On Your Side",
       "url": "https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ"
+    },
+    {
+      "album": {
+        "name": "I\u2019ve Found My Dream",
+        "url": "https://open.spotify.com/album/5O0dauJDdN7vYqhw8MgSOT"
+      },
+      "artists": [
+        {
+          "name": "Abdon Mech",
+          "url": "https://open.spotify.com/artist/7GY6RgfJdJDs2euNW5Scv4"
+        },
+        {
+          "name": "Keneisenuo Sorhie",
+          "url": "https://open.spotify.com/artist/1doOhXEzDcQ4s1oSpYHC1S"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192050,
+      "name": "I\u2019ve Found My Dream",
+      "url": "https://open.spotify.com/track/51yljhTTXyrINXyHhwm1b6"
     },
     {
       "album": {
@@ -3670,6 +3794,28 @@
       "duration_ms": 198612,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
+    },
+    {
+      "album": {
+        "name": "Kindergarten Juliet",
+        "url": "https://open.spotify.com/album/71UxutgcpGPi7IvNc4d8sk"
+      },
+      "artists": [
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        },
+        {
+          "name": "Timothy Thampy",
+          "url": "https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174625,
+      "name": "Kindergarten Juliet",
+      "url": "https://open.spotify.com/track/5hpvF3zigqgwOicVeeyMoX"
     },
     {
       "album": {
@@ -4879,6 +5025,28 @@
     },
     {
       "album": {
+        "name": "omg (Stripped Version)",
+        "url": "https://open.spotify.com/album/5AfeQ52MnzIkoMGXCrvKkN"
+      },
+      "artists": [
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        },
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206956,
+      "name": "omg - Stripped Version",
+      "url": "https://open.spotify.com/track/4HIr0vK4N4YQgLUZE3aQ80"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/3IpkOKy7xlKRyJ8TNZGOz0"
       },
@@ -5233,6 +5401,24 @@
     },
     {
       "album": {
+        "name": "People Never Change",
+        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "People Never Change - Radio Edit",
+      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
+    },
+    {
+      "album": {
         "name": "Perfect Life",
         "url": "https://open.spotify.com/album/2qX6H9xdwN6uBmdzPqrdk5"
       },
@@ -5284,7 +5470,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Pink Blue",
       "url": "https://open.spotify.com/track/3dBnKADF2MmLXM9IopV9Bt"
@@ -5523,6 +5709,46 @@
     },
     {
       "album": {
+        "name": "Epilogue One",
+        "url": "https://open.spotify.com/album/2KvQJaq8CeVuTGLVIp1Frf"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Maskey",
+          "url": "https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph"
+        },
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254281,
+      "name": "Return to Sender",
+      "url": "https://open.spotify.com/track/1BOZEfrcvYQ9INFLxXvQFW"
+    },
+    {
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/25aob4c9VgfF6LwCN0G45D"
+      },
+      "artists": [
+        {
+          "name": "Savera",
+          "url": "https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237647,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/2VB5XN4H1tfwAkYWi2pRHX"
+    },
+    {
+      "album": {
         "name": "Run Away Fade Away",
         "url": "https://open.spotify.com/album/5ITni3RafLU4NmygkabTYM"
       },
@@ -5728,7 +5954,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 209554,
       "name": "Semi Automatic Butane",
       "url": "https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi"
@@ -6449,6 +6675,24 @@
     },
     {
       "album": {
+        "name": "Symmetries",
+        "url": "https://open.spotify.com/album/2qVKoJDlyCSpPh90SB5HEK"
+      },
+      "artists": [
+        {
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215862,
+      "name": "Symmetries",
+      "url": "https://open.spotify.com/track/33mzjdQtc2y0So7dVMcKMd"
+    },
+    {
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l"
       },
@@ -6654,6 +6898,28 @@
       "duration_ms": 198000,
       "name": "The Hills Know Of You",
       "url": "https://open.spotify.com/track/0iDuVPiWspI7lcWRrFJ9LC"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/3b3V9Xrmq468GwoZuiuTRG"
+      },
+      "artists": [
+        {
+          "name": "The Western Ghats",
+          "url": "https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv"
+        },
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/1NZcWNXk2ZsMSiiFen25nN"
     },
     {
       "album": {
@@ -6872,7 +7138,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 151531,
       "name": "Unicorn and the Sheep",
       "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"

@@ -4769,6 +4769,28 @@
     },
     {
       "album": {
+        "name": "Her Name Is Love",
+        "url": "https://open.spotify.com/album/0KNJKCYUKi9hK5ztsLmbAp"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193990,
+      "name": "Please (with Lola Brooke)",
+      "url": "https://open.spotify.com/track/2i5Vn140b0apLArzWX8m0X"
+    },
+    {
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },

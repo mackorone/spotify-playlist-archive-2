@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Les Lunatiques",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Babyteeth",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 160866,
       "name": "2h15",
       "url": "https://open.spotify.com/track/0JYHRy1wawAjPTox171Rt6"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 196266,
       "name": "5052",
       "url": "https://open.spotify.com/track/0I9j1LvGc5IaLDBzd6JJJo"
@@ -474,6 +474,24 @@
       "duration_ms": 177413,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
+    },
+    {
+      "album": {
+        "name": "Gimmicks",
+        "url": "https://open.spotify.com/album/52wMgE8YgsyAQDUD79H89s"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194100,
+      "name": "Ang\u00e9lisme",
+      "url": "https://open.spotify.com/track/0O0grOKJeLmixkkvYQsnuI"
     },
     {
       "album": {
@@ -860,7 +878,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 244521,
       "name": "Better Watch Your Step",
       "url": "https://open.spotify.com/track/4VyZQTTT2qpJTRWibQ8KZS"
@@ -1037,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Burn Bitch",
+        "url": "https://open.spotify.com/album/58I2LUej6dWEyy2KJNc3tL"
+      },
+      "artists": [
+        {
+          "name": "Beautiful Hotnes",
+          "url": "https://open.spotify.com/artist/3O7qHWRBG6Z6jlYMgYDXWD"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157731,
+      "name": "Burn Bitch",
+      "url": "https://open.spotify.com/track/4rg0ALCMc07i3kpx8USk8U"
+    },
+    {
+      "album": {
         "name": "Butane",
         "url": "https://open.spotify.com/album/71pFQF3pkQhCDGkHmuxBFd"
       },
@@ -1192,7 +1228,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 336453,
       "name": "Ce qu'il reste de nous",
       "url": "https://open.spotify.com/track/1IQ65ML4nBZiyIHs3ooirm"
@@ -1734,7 +1770,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 173692,
       "name": "CURSED",
       "url": "https://open.spotify.com/track/4BDqShv44FR6XAk7kEmQrj"
@@ -1810,6 +1846,24 @@
       "duration_ms": 281645,
       "name": "Daystar",
       "url": "https://open.spotify.com/track/7rPtb0wNOQo3nX0OAikFRV"
+    },
+    {
+      "album": {
+        "name": "Il m'arrive parfois d'oublier qui je suis",
+        "url": "https://open.spotify.com/album/4lCuOPu5DTWbqvRlqEWtAs"
+      },
+      "artists": [
+        {
+          "name": "RAATS",
+          "url": "https://open.spotify.com/artist/5M9u6MMjJYC7rGVi9KZ2B8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216475,
+      "name": "Death And Water",
+      "url": "https://open.spotify.com/track/3dQNeyPnep4zbd0tSO65H4"
     },
     {
       "album": {
@@ -2220,7 +2274,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 212967,
       "name": "D\u00e9d\u00e9",
       "url": "https://open.spotify.com/track/2sEwZXzTTm0kPrEgiMDsah"
@@ -2782,7 +2836,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 181766,
       "name": "Funny People",
       "url": "https://open.spotify.com/track/4rB1P6Rfdf3QEhMxDk0Tfx"
@@ -2962,7 +3016,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 286771,
       "name": "Hedgesitting",
       "url": "https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY"
@@ -2980,7 +3034,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 161794,
       "name": "Here for you",
       "url": "https://open.spotify.com/track/4Tz7wP2iuP5LiomCRq3ugE"
@@ -3038,6 +3092,24 @@
       "duration_ms": 258611,
       "name": "Holiday Lights",
       "url": "https://open.spotify.com/track/2NHbN0nzXfdydrt7hxCDMD"
+    },
+    {
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6KnywI6lBE2r7a4MsPPXCn"
+      },
+      "artists": [
+        {
+          "name": "Babyteeth",
+          "url": "https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148860,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/3XRqYhWxKdArkEunQwzBfK"
     },
     {
       "album": {
@@ -3598,7 +3670,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 212335,
       "name": "Jusque-l\u00e0",
       "url": "https://open.spotify.com/track/0f33FoL0WZ6yTnXa0ENU5r"
@@ -3912,7 +3984,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 243593,
       "name": "La journ\u00e9e va \u00eatre chaude",
       "url": "https://open.spotify.com/track/1V0jQDyRSPfdfYwADDkCQt"
@@ -4189,6 +4261,24 @@
     },
     {
       "album": {
+        "name": "Le mentor",
+        "url": "https://open.spotify.com/album/2tVLPshzDAglfg4Bv3urO1"
+      },
+      "artists": [
+        {
+          "name": "FUUDGE",
+          "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Le mentor",
+      "url": "https://open.spotify.com/track/7s3nBEwqvALj5cbWP3OC2h"
+    },
+    {
+      "album": {
         "name": "Le Monstre",
         "url": "https://open.spotify.com/album/7rtHoWvUA7jRdzpSvw83Yi"
       },
@@ -4398,7 +4488,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 201299,
       "name": "Let's Go for a Walk",
       "url": "https://open.spotify.com/track/6OL4e8sO8U1olrKpl83F04"
@@ -4470,7 +4560,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 216520,
       "name": "LO",
       "url": "https://open.spotify.com/track/2KWwluiKtSS8qtWiLlWALH"
@@ -4888,7 +4978,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 179067,
       "name": "Mind in the Gutter",
       "url": "https://open.spotify.com/track/5fnRFygUlIdSf0grBkJT4l"
@@ -6405,6 +6495,24 @@
     },
     {
       "album": {
+        "name": "Sad Songs",
+        "url": "https://open.spotify.com/album/6VvS5rvL8PGgKM1fLmkenj"
+      },
+      "artists": [
+        {
+          "name": "The Same Sky",
+          "url": "https://open.spotify.com/artist/6SmBVQ2iCQr31JQ61Fs1qk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187390,
+      "name": "Sad Songs",
+      "url": "https://open.spotify.com/track/3ZTZmgdt9KYjsClKor706F"
+    },
+    {
+      "album": {
         "name": "sadguitar_V777.wav",
         "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
       },
@@ -6474,6 +6582,24 @@
       "duration_ms": 175459,
       "name": "Sans soleil",
       "url": "https://open.spotify.com/track/0OF84e7RhmShtWnaqlsn18"
+    },
+    {
+      "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275599,
+      "name": "Sarniezz",
+      "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
     },
     {
       "album": {
@@ -6564,6 +6690,24 @@
       "duration_ms": 213892,
       "name": "Sentiments nouveaux",
       "url": "https://open.spotify.com/track/6LM0rvYTRtleOizjQEmkQH"
+    },
+    {
+      "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/3veZxdSOEopgxyOxouEvXj"
+      },
+      "artists": [
+        {
+          "name": "Choses Sauvages",
+          "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214618,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I"
     },
     {
       "album": {
@@ -6676,6 +6820,24 @@
       "duration_ms": 150923,
       "name": "SIMULATION FREESTYLE",
       "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
+    },
+    {
+      "album": {
+        "name": "Snack City",
+        "url": "https://open.spotify.com/album/3QRN1gHK5WI23AUTwcOz5b"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175346,
+      "name": "Snack City",
+      "url": "https://open.spotify.com/track/27MkDUroI7F6gJdpy4U4gp"
     },
     {
       "album": {
@@ -7930,6 +8092,24 @@
       "duration_ms": 186402,
       "name": "You Can Let Go",
       "url": "https://open.spotify.com/track/4hB9ZXHn35AS2oZaS7oeKl"
+    },
+    {
+      "album": {
+        "name": "You Look Good",
+        "url": "https://open.spotify.com/album/4TvglpkSnYc2Qnqe3w9aRZ"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150898,
+      "name": "You Look Good",
+      "url": "https://open.spotify.com/track/0emfAytOoEUXLiKvk38ENU"
     },
     {
       "album": {

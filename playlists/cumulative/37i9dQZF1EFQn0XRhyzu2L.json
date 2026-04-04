@@ -2225,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Dance Floor",
+        "url": "https://open.spotify.com/album/5lW7TM78fTvDCiu8S5jBum"
+      },
+      "artists": [
+        {
+          "name": "Shea Diamond",
+          "url": "https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168484,
+      "name": "Dance Floor",
+      "url": "https://open.spotify.com/track/69BOns2gFCc9OdXNt0Hv4V"
+    },
+    {
+      "album": {
         "name": "Dark Bird",
         "url": "https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41"
       },

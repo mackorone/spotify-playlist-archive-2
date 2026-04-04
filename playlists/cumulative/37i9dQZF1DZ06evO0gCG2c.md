@@ -4,7 +4,7 @@
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-133 songs - 8 hr 11 min
+134 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Loco](https://open.spotify.com/track/1hlsiFaPUGNDXcKfTYf0Ol) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Afro Freak](https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B) | 2:37 | 2023-10-01 | 2023-11-11 |
 | [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 | 2021-12-28 |  |
 | [Lonely \- MTG Remix](https://open.spotify.com/track/2GU2UiCjZ7tKxfCJHg6TgU) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Trouble: The MTG Remixes](https://open.spotify.com/album/0f7ff2GMRuXVvqOtrvHloI) | 3:08 | 2025-02-07 | 2025-04-27 |
+| [Love Riddim \- Remix](https://open.spotify.com/track/2OYE8xM8919n4ArdfCLhpr) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Beauty of Becoming](https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7) | 3:39 | 2026-04-04 |  |
 | [Ma p'tite prison](https://open.spotify.com/track/1ajuXHjr4xLmr0h73GCuf1) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:53 | 2025-12-08 |  |
 | [Moonshine](https://open.spotify.com/track/71Flk3ZlAs3lLCLbxMKpcu) | [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Moonshine](https://open.spotify.com/album/4RGNV1d5LVskVxfjhIapsb) | 5:03 | 2022-10-26 | 2022-11-02 |
 | [More Than That \- Afro Remix](https://open.spotify.com/track/0jkgud5L47jRzVpGljRfES) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [AMIRROR](https://open.spotify.com/artist/1A5W3vIrct237pEN1UfFqD) | [Afro Freak](https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B) | 3:12 | 2023-10-04 | 2023-10-11 |
@@ -122,7 +123,7 @@
 | [Slow Motion \- Remix](https://open.spotify.com/track/4zqwDTsmKL0joINbJDVym2) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Afro Freak](https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B) | 2:49 | 2023-10-04 | 2023-11-11 |
 | [Smack That](https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:32 | 2022-03-14 |  |
 | [Smack That](https://open.spotify.com/track/3qKGvSu1inEZKwYQnMavNA) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Konvicted](https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S) | 3:32 | 2021-12-28 | 2022-03-15 |
-| [Snitch](https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr) | [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Second Rounds On Me](https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5) | 4:01 | 2021-12-28 |  |
+| [Snitch](https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr) | [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Second Rounds On Me](https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5) | 4:01 | 2021-12-28 | 2026-04-04 |
 | [So Rough](https://open.spotify.com/track/3SjxnBy7kUL8HT6Rle4bwq) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Jahvor](https://open.spotify.com/artist/6Iqo4GihxRL5ULiITVuMv0) | [Afro Freak](https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B) | 3:22 | 2023-08-26 | 2023-11-11 |
 | [Sorry, Blame It On Me](https://open.spotify.com/track/6m5jURnwGHY1pVw0sJqBBq) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/0qAQvB9Ffg2IEMo9W6nTZO) | 4:55 | 2021-12-28 | 2022-03-19 |
 | [Sorry, Blame It On Me](https://open.spotify.com/track/61BqwgSRTyWH9M4uPjsC3B) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 4:55 | 2022-03-18 |  |

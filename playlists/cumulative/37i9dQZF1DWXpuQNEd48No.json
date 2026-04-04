@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 147100,
       "name": "Desi Aagaye",
       "url": "https://open.spotify.com/track/7xlrGQrGR4QaLRBDQgGcuc"
@@ -5739,6 +5739,32 @@
     },
     {
       "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/3yYB4AxRF3rBr2yK2Fz8dL"
+      },
+      "artists": [
+        {
+          "name": "AKM",
+          "url": "https://open.spotify.com/artist/6I9V31CkSd3D582e1v71Le"
+        },
+        {
+          "name": "Kavleen",
+          "url": "https://open.spotify.com/artist/2oNSJK1qgcuoIkyr4XCmyV"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205625,
+      "name": "In Famous",
+      "url": "https://open.spotify.com/track/5qJMde5gPPR5dWUdySAlYX"
+    },
+    {
+      "album": {
         "name": "Infamous",
         "url": "https://open.spotify.com/album/4M7gNYa6IkNZlB7d8NQT2v"
       },
@@ -6948,7 +6974,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 245869,
       "name": "KMJ",
       "url": "https://open.spotify.com/track/3qXtnNJRMUyPO7Q53VIgs5"
@@ -8760,6 +8786,28 @@
       "duration_ms": 251428,
       "name": "Nobody Came",
       "url": "https://open.spotify.com/track/2HMVgVLQmZYK9eTY9DrqUx"
+    },
+    {
+      "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/3yYB4AxRF3rBr2yK2Fz8dL"
+      },
+      "artists": [
+        {
+          "name": "AKM",
+          "url": "https://open.spotify.com/artist/6I9V31CkSd3D582e1v71Le"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/0ZKbn9UR4c6UeNwvZKZKne"
     },
     {
       "album": {
@@ -11966,7 +12014,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 159066,
       "name": "UP15",
       "url": "https://open.spotify.com/track/30zkvswHdRxIuAWA2GKNKC"
@@ -11996,6 +12044,28 @@
       "duration_ms": 178142,
       "name": "Vaastav Flow",
       "url": "https://open.spotify.com/track/1HqhcSGw5D5VfECNIXNcxF"
+    },
+    {
+      "album": {
+        "name": "Valiant",
+        "url": "https://open.spotify.com/album/4BMJxgkpKE4XgkHU1xy34R"
+      },
+      "artists": [
+        {
+          "name": "Vin Malik",
+          "url": "https://open.spotify.com/artist/0KNQeVow53JFx3TzTeSL0g"
+        },
+        {
+          "name": "Dopevibe",
+          "url": "https://open.spotify.com/artist/16FUi8xdvWrsJH08z9bKKr"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193695,
+      "name": "Valiant",
+      "url": "https://open.spotify.com/track/6ERMfl8EyqXbGSnXjjl5ZP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 晚安莉莉
 
-1,648 songs - 3 day 21 hr 15 min
+1,649 songs - 3 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1012,6 +1012,7 @@
 | [UP IN MY MIND](https://open.spotify.com/track/1qKq8cxDgJzDWibAn7cEK1) | [Kei Valentine](https://open.spotify.com/artist/62N80uNLvKhiVGKX9V7G87) | [UP IN MY MIND](https://open.spotify.com/album/6PDtE4OofONGU9x7rKWCuW) | 2:30 | 2024-02-22 | 2024-05-10 |
 | [Urchin](https://open.spotify.com/track/2YXe2Nb5I7lC8pMR8GdFSe) | [The Crush](https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb) | [Urchin](https://open.spotify.com/album/3LCIMotaZUsdSpNTDkE1Hr) | 4:45 | 2025-10-09 |  |
 | [USE](https://open.spotify.com/track/7qLc278qge2t34PrvsqhZr) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [130k across the highway](https://open.spotify.com/album/1Ce0uQijUbWZ130GVqGWif) | 2:34 | 2023-10-05 | 2024-01-05 |
+| [Vacation \- band ver\. / Studio Live](https://open.spotify.com/track/0wa32CS0sL6NvNTqweqpeH) | [Le Shing](https://open.spotify.com/artist/3pD1EyHbEmPbGXMiLgpda2) | ["23" Band Session \(Studio Live\)](https://open.spotify.com/album/10wqSCGzg2qYG2grQJsITM) | 2:46 | 2026-04-02 |  |
 | [Voodoo](https://open.spotify.com/track/4FXyCbM9p5MG7W77fx8aoP) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Eric Sisco](https://open.spotify.com/artist/3CrVovDwDm5J4T5Ql8ludA), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [Voodoo](https://open.spotify.com/album/7H9iqUhpuBNriCSnYi1yp9) | 2:43 | 2024-10-10 | 2025-02-14 |
 | [waiting for you](https://open.spotify.com/track/6SQlsmneR2rMN11QyfwnQh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [waiting for you](https://open.spotify.com/album/3zCjzqYdYy9gjZRZ6JiLQQ) | 2:48 | 2024-04-04 | 2024-11-15 |
 | [WALKED](https://open.spotify.com/track/1AEJsCgZiaCyicipEX8Jrs) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [WALKED](https://open.spotify.com/album/28EWcaIX12mjAi2xUeAtVG) | 2:46 | 2025-08-28 | 2026-01-23 |

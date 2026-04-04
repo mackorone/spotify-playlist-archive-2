@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: U2",
+  "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: Sepultura",
   "name": "Volume M\u00e1ximo",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 188035,
       "name": "Abuse Me (ft. L'exquisite Douleur)",
       "url": "https://open.spotify.com/track/7kgppSWLikBRTcyuCs1hfC"
+    },
+    {
+      "album": {
+        "name": "Acidentes",
+        "url": "https://open.spotify.com/album/4nABOfypBU26fAxDh0xEGo"
+      },
+      "artists": [
+        {
+          "name": "Samwise",
+          "url": "https://open.spotify.com/artist/7KqhoeXWSDhooCkwLriy5T"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177058,
+      "name": "Acidentes",
+      "url": "https://open.spotify.com/track/3C6qyKPtQbEiZ7zSRKKSfX"
     },
     {
       "album": {
@@ -620,6 +638,24 @@
       "duration_ms": 257969,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT"
+    },
+    {
+      "album": {
+        "name": "Beyond the Dream",
+        "url": "https://open.spotify.com/album/4RbdRqdEwnWjcTGeYKUNz1"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244794,
+      "name": "Beyond the Dream",
+      "url": "https://open.spotify.com/track/2TJn2Jgac1U5a2gIb66gKL"
     },
     {
       "album": {
@@ -1472,7 +1508,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 189507,
       "name": "Daddy's Coming Home",
       "url": "https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH"
@@ -3210,6 +3246,24 @@
       "duration_ms": 185908,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/7oTImlbBuKpTLi8hokqYR1"
+    },
+    {
+      "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
     },
     {
       "album": {
@@ -5225,6 +5279,24 @@
     },
     {
       "album": {
+        "name": "Shine Again",
+        "url": "https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245564,
+      "name": "Shine Again",
+      "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
+    },
+    {
+      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
       },
@@ -5308,7 +5380,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 228119,
       "name": "Slow Me",
       "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
@@ -5420,7 +5492,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 245099,
       "name": "Soul On Fire",
       "url": "https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf"
@@ -5818,7 +5890,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 274437,
       "name": "Talk Sick",
       "url": "https://open.spotify.com/track/01SBf2gcEx65tfMmuGdycy"

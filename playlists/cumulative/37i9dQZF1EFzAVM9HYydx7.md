@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-350 songs - 21 hr 31 min
+351 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Peace](https://open.spotify.com/track/2B7YRWYjNCgNTHf3P6CNp0) | [Cassidy](https://open.spotify.com/artist/3WilJWdCNLSU7fpYjiKb7v) | [C.A.S.H.](https://open.spotify.com/album/03ItwKduulIYzzMNMkrlI2) | 5:14 | 2024-11-23 | 2024-11-25 |
 | [Pink Birthday](https://open.spotify.com/track/70M5FBXSs1b1tJF2zywHyP) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:08 | 2024-06-15 |  |
 | [PLANET BEAM](https://open.spotify.com/track/39e9hkMX40YCILJqWEyBKp) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 6:22 | 2023-12-13 |  |
+| [Please \(with Lola Brooke\)](https://open.spotify.com/track/2i5Vn140b0apLArzWX8m0X) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Her Name Is Love](https://open.spotify.com/album/0KNJKCYUKi9hK5ztsLmbAp) | 3:13 | 2026-04-03 |  |
 | [Pop Style](https://open.spotify.com/track/5mPSyjLatqB00IkPqRlbTE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:32 | 2023-12-13 |  |
 | [Pound Cake / Paris Morton Music 2](https://open.spotify.com/track/4RI9eX7jNcdaQOJifn7t6z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 7:13 | 2023-12-13 |  |
 | [Pray For Me](https://open.spotify.com/track/6wOCaV1MY8CN2ujNJSfr5z) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [The Beautiful & Damned](https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b) | 3:27 | 2023-12-13 |  |

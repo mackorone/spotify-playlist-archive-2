@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Tombochio.",
+  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Grupo Firme.",
   "name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Cabr\u00f3n Y Medio",
+        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Cabr\u00f3n Y Medio",
+      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
+    },
+    {
+      "album": {
         "name": "Cabrones y Vagos",
         "url": "https://open.spotify.com/album/4eWWlUpqJlgTbsb36yTQZj"
       },
@@ -3540,7 +3558,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 201367,
       "name": "Cuando No Estas Conmigo",
       "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
@@ -4520,7 +4538,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 185326,
       "name": "dopamina",
       "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
@@ -6244,6 +6262,28 @@
       "duration_ms": 162795,
       "name": "En Paris",
       "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
+    },
+    {
+      "album": {
+        "name": "En Pl\u00e1ticas (Los Hermanos)",
+        "url": "https://open.spotify.com/album/3EkbIuzFjc14Q4Ztynzggr"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225512,
+      "name": "En Pl\u00e1ticas (Los Hermanos)",
+      "url": "https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37"
     },
     {
       "album": {
@@ -8172,6 +8212,28 @@
       "duration_ms": 184981,
       "name": "La Capital",
       "url": "https://open.spotify.com/track/6nTPS5QcEz1AZ1IOfIOxbR"
+    },
+    {
+      "album": {
+        "name": "La casa invita",
+        "url": "https://open.spotify.com/album/38EPwqC9fEIXMguiSL4Bqw"
+      },
+      "artists": [
+        {
+          "name": "Los Del Sombrero",
+          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202348,
+      "name": "La casa invita",
+      "url": "https://open.spotify.com/track/5Ouos7p0h5cznctDj4Zqes"
     },
     {
       "album": {
@@ -13922,7 +13984,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 192978,
       "name": "Por Qui\u00e9n Me Dejas (En vivo)",
       "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"

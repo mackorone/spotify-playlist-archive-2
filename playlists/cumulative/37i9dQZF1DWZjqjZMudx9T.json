@@ -7502,7 +7502,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 164848,
       "name": "LUNA LLENA",
       "url": "https://open.spotify.com/track/0AtTKV18YKraZeKeVZRnkx"
@@ -10690,6 +10690,24 @@
       "duration_ms": 146285,
       "name": "PPCP",
       "url": "https://open.spotify.com/track/2HxZAed6QC9yJZuyaJJSz0"
+    },
+    {
+      "album": {
+        "name": "Presidente",
+        "url": "https://open.spotify.com/album/2p0M9l7nmqo4fBhhUdlK8z"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150783,
+      "name": "Presidente",
+      "url": "https://open.spotify.com/track/379EbsgApFcHYHvv6vrKgD"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 249818,
+  "num_followers": 249826,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAA2MXWOaCoKt/U9/tQs7xIu",
+  "snapshot_id": "ac2xgAAAAADEV11ZWjFvY1K5RXGGJe1i",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 202053,
-      "name": "MAYBE I'M WRONG",
-      "url": "https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H"
+      "duration_ms": 177746,
+      "name": "NEVER CAME BACK",
+      "url": "https://open.spotify.com/track/1y8Cn036pPqrbkNJQVywuz"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 177746,
-      "name": "NEVER CAME BACK",
-      "url": "https://open.spotify.com/track/1y8Cn036pPqrbkNJQVywuz"
+      "duration_ms": 202053,
+      "name": "MAYBE I'M WRONG",
+      "url": "https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever & Again (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7"
+        "name": "APEROL SPRITZ",
+        "url": "https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 139410,
-      "name": "Forever & Again (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x"
+      "duration_ms": 130265,
+      "name": "APEROL SPRITZ",
+      "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "APEROL SPRITZ",
-        "url": "https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv"
+        "name": "Forever & Again (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 130265,
-      "name": "APEROL SPRITZ",
-      "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
+      "duration_ms": 139410,
+      "name": "Forever & Again (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x"
     },
     {
       "added_at": null,

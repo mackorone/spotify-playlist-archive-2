@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273600,
+      "name": "Mary Jane's Last Dance",
+      "url": "https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6"
+    },
+    {
+      "album": {
         "name": "90s Mixtape",
         "url": "https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL"
       },

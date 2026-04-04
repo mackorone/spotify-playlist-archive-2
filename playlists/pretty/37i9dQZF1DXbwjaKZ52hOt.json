@@ -1,13 +1,29 @@
 {
   "description": "The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.",
-  "num_followers": 53799,
+  "num_followers": 53815,
   "original_name": "Nursery Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK4nxXVOWeHictEUdGILuthuKiLx",
+  "snapshot_id": "AAAAAGhLpaaj970DI9mZqE0Iim8vb8gX",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:01:40",
+      "album": {
+        "name": "John Jacob Jingleheimer Schmidt (His Name Is My Name Too)",
+        "url": "https://open.spotify.com/album/3sH9TeAkwquzvkCddGddLM"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 114920,
+      "name": "John Jacob Jingleheimer Schmidt - His Name Is My Name Too",
+      "url": "https://open.spotify.com/track/6jClJoGhCavKB0ao6zMRGu"
+    },
     {
       "added_at": "2026-02-20 05:00:33",
       "album": {
@@ -515,22 +531,6 @@
       "duration_ms": 179734,
       "name": "Going On A Lion Hunt",
       "url": "https://open.spotify.com/track/5KD4HwGFWS0YWrL6weBkCt"
-    },
-    {
-      "added_at": "2023-04-26 14:21:34",
-      "album": {
-        "name": "Blippi's Nursery Rhymes",
-        "url": "https://open.spotify.com/album/0VubFA5No9gVylojbWtyw9"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        }
-      ],
-      "duration_ms": 96703,
-      "name": "John Jacob Jingleheimer Schmidt",
-      "url": "https://open.spotify.com/track/39rcV2H8yMk2zfRfNkiS0r"
     },
     {
       "added_at": "2023-04-26 14:21:34",

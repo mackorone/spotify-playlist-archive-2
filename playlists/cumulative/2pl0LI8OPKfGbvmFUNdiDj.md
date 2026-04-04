@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-409 songs - 22 hr 59 min
+410 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(Can I?\) Love myself](https://open.spotify.com/track/6bvXoNZVVMQTsWUTelbS8J) | [Xada](https://open.spotify.com/artist/5diCtzsJj7orehU5EMytKj) | [\(Can I?\) Love myself](https://open.spotify.com/album/2XRRVlWacz4t6AS5SBKn5g) | 3:41 | 2025-11-01 | 2025-12-01 |
 | [1.5](https://open.spotify.com/track/70K8CBH1RBfFLAGNt1xZB5) | [Court Lee](https://open.spotify.com/artist/4EUdpZKUAlErxveFMeqZVD) | [1.5](https://open.spotify.com/album/26yjewkMIBbSlh59MojuSJ) | 2:56 | 2025-12-24 | 2026-01-15 |
 | [2 0 4 5](https://open.spotify.com/track/3mS5wAqw8WxYGw4Hdc0hag) | [Wyatt Leach](https://open.spotify.com/artist/6Rl58oDVByLhttQgFkTTW1) | [2 0 4 5](https://open.spotify.com/album/1NXZMjp4olFbvITfoegqea) | 2:21 | 2025-11-30 | 2026-01-05 |
+| [40](https://open.spotify.com/track/0efLMYEhoCsvPEjMTug7cY) | [The Katawicks](https://open.spotify.com/artist/3hqty8aRn2EImLsrckK6mk) | [For The Seasons](https://open.spotify.com/album/7dDWirfVw0eWCOovuiREaa) | 3:10 | 2026-04-03 |  |
 | [A Better Man](https://open.spotify.com/track/1qJ46HmbyOpBtb3vpRb4an) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [A Better Man](https://open.spotify.com/album/3fYEKBdWP2srmsbqsJzSlf) | 4:02 | 2025-12-26 | 2026-01-15 |
 | [A mani vuote](https://open.spotify.com/track/7GbUksy2hbn9Y4in8VU8rN) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [A mani vuote](https://open.spotify.com/album/5KOYdCWPstaraOwRpsK2xK) | 3:12 | 2025-11-22 | 2026-01-05 |
 | [A Merry Jingle](https://open.spotify.com/track/31csQY8zl1aJGe8VISxq9e) | [Forge Hounds](https://open.spotify.com/artist/6528HmKaqCaf9tu3qdj70d) | [A Merry Jingle](https://open.spotify.com/album/4ZoDxu4sPUzk4QCqTwk8Qp) | 3:08 | 2025-12-23 | 2026-01-15 |

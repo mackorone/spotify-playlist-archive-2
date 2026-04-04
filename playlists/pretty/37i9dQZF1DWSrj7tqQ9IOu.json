@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402475,
+  "num_followers": 402484,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mars 2026",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-03-31 22:00:12",
       "album": {
-        "name": "Trying Times",
-        "url": "https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 273805,
-      "name": "Trying Times",
-      "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
-    },
-    {
-      "added_at": "2026-03-31 22:00:12",
-      "album": {
         "name": "WOR$T GIRL IN AMERICA",
         "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
       },
@@ -211,18 +195,18 @@
     {
       "added_at": "2026-03-31 22:00:12",
       "album": {
-        "name": "Knife In The Heart",
-        "url": "https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A"
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 177592,
-      "name": "Knife In The Heart",
-      "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
+      "duration_ms": 273805,
+      "name": "Trying Times",
+      "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
     },
     {
       "added_at": "2026-03-31 22:00:12",
@@ -239,6 +223,22 @@
       "duration_ms": 251861,
       "name": "Echo From The Flames",
       "url": "https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7"
+    },
+    {
+      "added_at": "2026-03-31 22:00:12",
+      "album": {
+        "name": "Knife In The Heart",
+        "url": "https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 177592,
+      "name": "Knife In The Heart",
+      "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
     },
     {
       "added_at": "2026-03-31 22:00:12",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-03-31 22:00:12",
       "album": {
-        "name": "Written into Changes",
-        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 233113,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
-    },
-    {
-      "added_at": "2026-03-31 22:00:12",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/199hyVqmka83Ubpm9Qs8jx"
       },
@@ -359,6 +343,38 @@
       "duration_ms": 363791,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
+    },
+    {
+      "added_at": "2026-03-31 22:00:12",
+      "album": {
+        "name": "Written into Changes",
+        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 233113,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
+    },
+    {
+      "added_at": "2026-03-31 22:00:12",
+      "album": {
+        "name": "The Sun Comes Up Tremendous",
+        "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 213284,
+      "name": "The Sun Comes Up Tremendous",
+      "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
     },
     {
       "added_at": "2026-03-31 22:00:12",
@@ -411,18 +427,18 @@
     {
       "added_at": "2026-03-31 22:00:12",
       "album": {
-        "name": "The Sun Comes Up Tremendous",
-        "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
+        "name": "Postinternetfame / Self Tape",
+        "url": "https://open.spotify.com/album/34pUJjYymPU7jioThphtiR"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
         }
       ],
-      "duration_ms": 213284,
-      "name": "The Sun Comes Up Tremendous",
-      "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
+      "duration_ms": 141864,
+      "name": "Postinternetfame",
+      "url": "https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh"
     },
     {
       "added_at": "2026-03-31 22:00:12",
@@ -443,22 +459,6 @@
       "duration_ms": 159506,
       "name": "Things",
       "url": "https://open.spotify.com/track/5ntTeuCMmKeTzjLk5f4hK3"
-    },
-    {
-      "added_at": "2026-03-31 22:00:12",
-      "album": {
-        "name": "Postinternetfame / Self Tape",
-        "url": "https://open.spotify.com/album/34pUJjYymPU7jioThphtiR"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 141864,
-      "name": "Postinternetfame",
-      "url": "https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh"
     },
     {
       "added_at": "2026-03-31 22:00:12",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-03-31 22:00:12",
       "album": {
+        "name": "MAMAN M'A DIT NON",
+        "url": "https://open.spotify.com/album/0yAHn2c8wQZHnO70o4xNvQ"
+      },
+      "artists": [
+        {
+          "name": "LinLin",
+          "url": "https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n"
+        }
+      ],
+      "duration_ms": 114946,
+      "name": "MAMAN M'A DIT NON",
+      "url": "https://open.spotify.com/track/5CR23EycKSh9W9LG7XaEZL"
+    },
+    {
+      "added_at": "2026-03-31 22:00:12",
+      "album": {
         "name": "Bleu",
         "url": "https://open.spotify.com/album/33Zk8TkJpJBKx58OYNQfRg"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 137013,
       "name": "AMOUR IMMENSE",
       "url": "https://open.spotify.com/track/1MlRa0GirgpGJbCx9R6wsO"
-    },
-    {
-      "added_at": "2026-03-31 22:00:12",
-      "album": {
-        "name": "MAMAN M'A DIT NON",
-        "url": "https://open.spotify.com/album/0yAHn2c8wQZHnO70o4xNvQ"
-      },
-      "artists": [
-        {
-          "name": "LinLin",
-          "url": "https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n"
-        }
-      ],
-      "duration_ms": 114946,
-      "name": "MAMAN M'A DIT NON",
-      "url": "https://open.spotify.com/track/5CR23EycKSh9W9LG7XaEZL"
     },
     {
       "added_at": "2026-03-31 22:00:12",

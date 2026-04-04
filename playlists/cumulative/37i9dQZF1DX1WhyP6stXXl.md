@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Ravyn Lenae, Dominic Fike
 
-2,033 songs - 4 day 7 hr 21 min
+2,034 songs - 4 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Allez! Touché!](https://open.spotify.com/track/13s86KfJggu0QBQW4HoYDh) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Parler Français](https://open.spotify.com/album/2jhjGUrHKtd9xZJ3roaee2) | 3:07 | 2024-11-14 | 2024-12-13 |
 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2025-10-23 | 2025-11-21 |
 | [almost killed me](https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:11 | 2024-07-25 | 2024-08-23 |
+| [Almost Over](https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf) | 2:46 | 2026-04-02 |  |
 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 | 2025-02-28 | 2025-03-28 |
 | [Alright](https://open.spotify.com/track/2haMyzKGv0uOfV4vCObmYq) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [wanna be friends?](https://open.spotify.com/album/1GfChrfO2dg92W5W7FGj6O) | 2:35 | 2024-11-07 | 2024-12-06 |
 | [Alright](https://open.spotify.com/track/3lxLYA80tPMvpni048At5z) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Alright](https://open.spotify.com/album/6MNH5j7RV1tvYBIhPBR76x) | 2:23 | 2024-07-18 | 2024-08-16 |
@@ -686,6 +687,7 @@
 | [girls will b girls](https://open.spotify.com/track/1fnwW4qRPdAPkhRqncgh5o) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [girls will b girls](https://open.spotify.com/album/2dAEsiFQQXwJDiTnJcrC5y) | 2:29 | 2025-07-10 | 2025-08-09 |
 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 | 2025-01-30 | 2025-02-28 |
 | [GIRLY THINGS](https://open.spotify.com/track/48cXEIfH7qSMcQI8NjrM1Y) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [GIRLY THINGS](https://open.spotify.com/album/686V8VI748RY2dT21nq4dE) | 2:20 | 2026-03-13 | 2026-04-03 |
+| [Give It All Away](https://open.spotify.com/track/4xMPRwyHSj4XLWDBiYsORL) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Good, Like It Should Be](https://open.spotify.com/album/2LyI09qk1IMuLrpNAwA8cd) | 3:14 | 2026-04-02 |  |
 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-11 | 2026-01-16 |
 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-07-10 | 2025-08-09 |
 | [Gloria](https://open.spotify.com/track/7uguYtHdK6qwuxiUlzgrU1) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Gloria](https://open.spotify.com/album/6ZD3guVXCEBQbqZntbxiHP) | 3:41 | 2025-05-08 | 2025-06-06 |
@@ -875,6 +877,7 @@
 | [Hush Baby, Hurry Slowly](https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [There’s Always More That I Could Say](https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir) | 2:44 | 2025-10-23 | 2025-11-21 |
 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 | 2024-12-05 | 2025-01-10 |
 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-01-23 | 2026-02-20 |
+| [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 | 2026-04-02 |  |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-17 | 2025-05-16 |
 | [I AM](https://open.spotify.com/track/3SP86A20TPRFJnOksCgke7) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [I AM](https://open.spotify.com/album/16PMPA18bWzRcard7KzueH) | 2:41 | 2024-09-06 | 2024-09-27 |
 | [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 | 2025-07-17 | 2025-08-16 |
@@ -1835,8 +1838,6 @@
 | [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-12 | 2025-07-04 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-10 |
 | [Traces](https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Traces](https://open.spotify.com/album/0BY5Jbqjlr2cobJaTIScsM) | 3:20 | 2025-10-31 | 2025-11-28 |
-| [Track 1](https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf) | 0:00 | 2026-04-02 |  |
-| [Track 7](https://open.spotify.com/track/4xMPRwyHSj4XLWDBiYsORL) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Good, Like It Should Be](https://open.spotify.com/album/2LyI09qk1IMuLrpNAwA8cd) | 0:00 | 2026-04-02 |  |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-18 | 2025-10-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-16 | 2025-02-14 |
 | [Trapped in the Middle](https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Trapped in the Middle](https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw) | 2:18 | 2025-09-25 | 2025-10-24 |

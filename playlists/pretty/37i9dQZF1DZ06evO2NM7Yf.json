@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAlKEtFeIrjNqDCWXQII6jX",
+  "snapshot_id": "ac2xgAAAAAA4uV6ZfEAQeC35CTjvQ0mw",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosebleeds: Encore",
-        "url": "https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36"
+        "name": "...but i'd miss you too much!",
+        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
       },
       "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164213,
-      "name": "Sideways (feat. Meg Smith)",
-      "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
+      "duration_ms": 178301,
+      "name": "...but i'd miss you too much!",
+      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
     },
     {
       "added_at": null,
@@ -191,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "...but i'd miss you too much!",
-        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
+        "name": "Nosebleeds: Encore",
+        "url": "https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36"
       },
       "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 178301,
-      "name": "...but i'd miss you too much!",
-      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
+      "duration_ms": 164213,
+      "name": "Sideways (feat. Meg Smith)",
+      "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop Drama",
         "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 220647,
       "name": "HRDCR",
       "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D"
     },
     {
       "added_at": null,

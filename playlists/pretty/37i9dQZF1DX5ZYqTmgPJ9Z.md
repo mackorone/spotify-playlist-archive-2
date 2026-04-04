@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 
 > Grab a drink and let us help you see off the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,136 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,147 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 29 | [Not Today](https://open.spotify.com/track/0La1VlmPQNwvTyJD3qIxGL) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 3:06 |
 | 30 | [Got To Be Good](https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Got To Be Good](https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e) | 2:39 |
 | 31 | [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 3:49 |
-| 32 | [S3NS](https://open.spotify.com/track/67T58XZZvKtjfzUd8rvedH) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [S3NS](https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo) | 4:59 |
-| 33 | [Poeira Cosmica](https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Poeira Cosmica](https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn) | 4:13 |
+| 32 | [Poeira Cosmica](https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Poeira Cosmica](https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn) | 4:13 |
+| 33 | [S3NS](https://open.spotify.com/track/67T58XZZvKtjfzUd8rvedH) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [S3NS](https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo) | 4:59 |
 | 34 | [Deeper Dark](https://open.spotify.com/track/3cvKUJL7vSRgV5cWh7czXW) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Deeper Dark](https://open.spotify.com/album/6W9FWE4TcPOa3cdIk6F7ny) | 3:09 |
 | 35 | [Favourite Kind Of Girl](https://open.spotify.com/track/0dnEIYy2AhUkLO7JIjaF0O) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Flikka](https://open.spotify.com/artist/58NhC3elOj4PRVbqDviKJc) | [Favourite Kind Of Girl](https://open.spotify.com/album/7qtJSgzNGaSIxNWaL4aTxo) | 4:37 |
 | 36 | [Ready When You Are](https://open.spotify.com/track/6YdWqo5fvo8VXRcELskCfK) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y), [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Ready When You Are](https://open.spotify.com/album/47sSqdqjxUwfqhfW6nNpdI) | 2:58 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 44 | [Best For You and Me](https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Best For You and Me](https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G) | 3:05 |
 | 45 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 |
 | 46 | [Probably Sorry](https://open.spotify.com/track/72VSo5LGhQz24MlULSh2G7) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Probably Sorry](https://open.spotify.com/album/143RT46s3JeoVZR8agkqQu) | 2:45 |
-| 47 | [Malibu Jane](https://open.spotify.com/track/4NbOXgHL0Gu5ga0qD6z2WN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:38 |
-| 48 | [Nostalgia](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 |
+| 47 | [Nostalgia](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 |
+| 48 | [Malibu Jane](https://open.spotify.com/track/4NbOXgHL0Gu5ga0qD6z2WN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:38 |
 | 49 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 |
 | 50 | [FANGIRL](https://open.spotify.com/track/4BccVn6kKm4wX8D57vTgRt) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [FANGIRL](https://open.spotify.com/album/1bruKTjK85F2sl068NDB9Y) | 4:48 |
 | 51 | [Are You Waiting?](https://open.spotify.com/track/2fLYnFeaVotT1ApBoDfkLZ) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [From Here](https://open.spotify.com/album/5XXLPt0MNFWzAMvSE4c9ZT) | 3:10 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 85 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 |
 | 86 | [Blume](https://open.spotify.com/track/3y1cSOZebGaS2IbEYLOiZ4) | [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Blume](https://open.spotify.com/album/7JmSCHwa1C3EpuODQlVl8Z) | 2:46 |
 | 87 | [Too Much to Ask](https://open.spotify.com/track/3HZdXuLPyLlSYLImD4z7V8) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/0qsZRpvWYP6fkuosOaGo0D) | 3:47 |
-| 88 | [Sud Pour Toi](https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 4:46 |
+| 88 | [Inward](https://open.spotify.com/track/6Xt50HBqLpImH1NkwlxsHr) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Inward](https://open.spotify.com/album/7KImaY2ikHc9JvhvBrO1Yx) | 3:02 |
 | 89 | [Pigeon Park](https://open.spotify.com/track/0knziThQwlD4Q4qL4zmZTx) | [parthenope](https://open.spotify.com/artist/6GjXQmzl9dSNUpYpyFJKY0) | [Go Somewhere Alone](https://open.spotify.com/album/4yZseWXhqhU4n2G9kgnnwQ) | 2:40 |
-| 90 | [Inward](https://open.spotify.com/track/6Xt50HBqLpImH1NkwlxsHr) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Inward](https://open.spotify.com/album/7KImaY2ikHc9JvhvBrO1Yx) | 3:02 |
+| 90 | [Sud Pour Toi](https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 4:46 |
 | 91 | [Found You](https://open.spotify.com/track/7ym383h5MQfBNVLG92d5fh) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Found You](https://open.spotify.com/album/6GCdFbDYs475UfiHP4rnKX) | 3:20 |
 | 92 | [YOUR TIME](https://open.spotify.com/track/5CL1TTzZgQOmoQYsqATA69) | [Willow Newman](https://open.spotify.com/artist/4fehG12QmJ1wBVh9fW9Y3O), [Hana](https://open.spotify.com/artist/4xSqqiE4WmenAA3PHgfdlS) | [YOUR TIME](https://open.spotify.com/album/7IjOcqKt8gwd8A2QzJIgIB) | 2:54 |
 | 93 | [Deception](https://open.spotify.com/track/5sw2ThXRRmV7GzP2Lq87Ho) | [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [Deception](https://open.spotify.com/album/58LxxzRjLOZ86pSFZw2tz0) | 3:17 |

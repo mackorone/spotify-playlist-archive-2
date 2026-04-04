@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: Fred again.., Jamie T
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,533 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,563 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 56 | [Insomnia](https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Insomnia](https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq) | 2:45 |
 | 57 | [Seasoning \(feat\. 2b.Frank\)](https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS) | [Seasoning](https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI) | 3:23 |
 | 58 | [Pressure](https://open.spotify.com/track/1ubTFuP9rXCYzYQM7jUoWM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Pressure](https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7) | 4:39 |
-| 59 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
-| 60 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
+| 59 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
+| 60 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
 | 61 | [Retrograde](https://open.spotify.com/track/1Snept69jtJ8foNZsUrmQm) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Joseph Obaidi](https://open.spotify.com/artist/3B7v0zb1J46lSGeqdCXrue), [Alex Condliffe](https://open.spotify.com/artist/3dFqyBhsezU3bAXdcZZbtP), [Noah Booth](https://open.spotify.com/artist/5bmlm898bu8tqbAAlt3TCh) | [Retrograde](https://open.spotify.com/album/0WDRptbH0eIqZ0Fzx1EhQE) | 2:55 |
 | 62 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
 | 63 | [Better Let It Go](https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Curses Broken](https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY) | 4:37 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 66 | [So Low](https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [So Low](https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV) | 2:45 |
 | 67 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 |
 | 68 | [Ah Ya](https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Ah Ya](https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG) | 4:13 |
-| 69 | [Soulseek](https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Soltera](https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do) | [Soulseek](https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK) | 5:11 |
-| 70 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
+| 69 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
+| 70 | [Soulseek](https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Soltera](https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do) | [Soulseek](https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK) | 5:11 |
 
 Snapshot ID: `AAAAAGhT3Q0teX5m1LwE22rYvmIzGobo`

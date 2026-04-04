@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Unknown T, AJ Tracey
 
-635 songs - 1 day 6 hr 59 min
+635 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,7 +578,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-02-27 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 | 2026-03-20 |
-| [Track 5](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 0:00 | 2026-04-02 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-27 |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 | 2026-02-20 | 2026-02-27 |
@@ -630,6 +629,7 @@
 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 | 2025-10-23 | 2025-10-31 |
 | [WHY YOU WATCHING ME 2.0](https://open.spotify.com/track/22uvB4ofwU2T0TL6oADF3U) | [Yizzy](https://open.spotify.com/artist/4uCUBeUgVSrYFwLDeklA7g), [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [GRIME 2.0 EP \(Deluxe\)](https://open.spotify.com/album/44T4h2x6t4nHjRDnodP33J) | 2:12 | 2026-01-09 | 2026-01-23 |
 | [WID IT](https://open.spotify.com/track/4geco0FqSze6GLQxnNCxzf) | [JM7](https://open.spotify.com/artist/5JlMu1K8bFk1Q62SRUVckm) | [WID IT](https://open.spotify.com/album/2j1351u0B3Sm4wHl65VtT1) | 3:42 | 2026-01-09 | 2026-01-23 |
+| [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 | 2026-04-02 |  |
 | [Without You](https://open.spotify.com/track/10XHA4AVC8qfg5AUKt097S) | [Sym](https://open.spotify.com/artist/0F05OcSI8dBsO4UufWUIXa) | [Without You](https://open.spotify.com/album/5BAiPRWe1RHTDdRsspQDfO) | 3:10 | 2026-02-27 | 2026-03-06 |
 | [Without You \(with Skillibeng\)](https://open.spotify.com/track/0ycJKH5LaMsTfFZIDt8rps) | [Cholita](https://open.spotify.com/artist/6v1frZGIbqJEs7UKRFdFbe), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Without You \(with Skillibeng\)](https://open.spotify.com/album/5dqiHFlnv1VHJmFSrAdtgw) | 3:28 | 2025-11-21 | 2025-12-05 |
 | [WORSHIP](https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [WORSHIP](https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi) | 2:43 | 2026-03-20 | 2026-04-03 |

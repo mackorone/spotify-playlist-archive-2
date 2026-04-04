@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Drug Church",
-  "num_followers": 494203,
+  "num_followers": 494168,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
+        "name": "Destroy Me",
+        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "Destroy Me",
+      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
         "name": "Nightmare Tripping (Feat. Nickelback)",
         "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 321106,
       "name": "Nightmare Tripping (Feat. Nickelback)",
       "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
-        "name": "Destroy Me",
-        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "Destroy Me",
-      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269433,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "Wake Up Calling",
         "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 229977,
       "name": "Wake Up Calling",
       "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269433,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
+        "name": "METAL FORTH",
+        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 200698,
+      "name": "My Queen (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
         "name": "Crossing the Rubicon (feat. NOTHING MORE)",
         "url": "https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 204400,
       "name": "Crossing the Rubicon (feat. NOTHING MORE)",
       "url": "https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
-        "name": "METAL FORTH",
-        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 200698,
-      "name": "My Queen (feat. Spiritbox)",
-      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "The New Flesh",
-        "url": "https://open.spotify.com/album/1cTxv3R4nOPQnR7et4cFkz"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 235760,
-      "name": "Spared From The Guillotine",
-      "url": "https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "Nice Guy (feat. Ekoh)",
         "url": "https://open.spotify.com/album/6USpargOEBNeYfcXzn9dJe"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Puppet Parade",
-        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
+        "name": "The New Flesh",
+        "url": "https://open.spotify.com/album/1cTxv3R4nOPQnR7et4cFkz"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
         }
       ],
-      "duration_ms": 280924,
-      "name": "Puppet Parade",
-      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
+      "duration_ms": 235760,
+      "name": "Spared From The Guillotine",
+      "url": "https://open.spotify.com/track/2xcQzoMgFfbvCjhVaQRNo4"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1011,6 +995,38 @@
       "duration_ms": 226500,
       "name": "Cold - 2025 VERSION",
       "url": "https://open.spotify.com/track/3iJD97o04av0fRPMmciboH"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Puppet Parade",
+        "url": "https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Our Parting Ways",
+        "url": "https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL"
+      },
+      "artists": [
+        {
+          "name": "156/Silence",
+          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Our Parting Ways",
+      "url": "https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1043,22 +1059,6 @@
       "duration_ms": 218813,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
-        "name": "Our Parting Ways",
-        "url": "https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL"
-      },
-      "artists": [
-        {
-          "name": "156/Silence",
-          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Our Parting Ways",
-      "url": "https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "duration_ms": 273696,
+      "name": "Wrath",
+      "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
         "name": "Hype Man",
         "url": "https://open.spotify.com/album/2Gmcj6USDIZh2tGg0Z3068"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Wrath",
-        "url": "https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb"
+        "name": "human props",
+        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
       },
       "artists": [
         {
-          "name": "Gore.",
-          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
         }
       ],
-      "duration_ms": 273696,
-      "name": "Wrath",
-      "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
+      "duration_ms": 236273,
+      "name": "human props",
+      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1323,22 +1339,6 @@
       "duration_ms": 177333,
       "name": "This Is The Sound",
       "url": "https://open.spotify.com/track/5u3LQf7tg1eS2AEGyguDPa"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
-        "name": "human props",
-        "url": "https://open.spotify.com/album/5hfpwOhdaXA3vOAaN7c4v0"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 236273,
-      "name": "human props",
-      "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Broken and Blind",
-        "url": "https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj"
-      },
-      "artists": [
-        {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
-        }
-      ],
-      "duration_ms": 192125,
-      "name": "Broken and Blind",
-      "url": "https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "DENIAL",
         "url": "https://open.spotify.com/album/6ELFIMa34IPv08f6s1iuNj"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 205000,
       "name": "DENIAL",
       "url": "https://open.spotify.com/track/1CD1nPQZfclZTzbEjy5PkU"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Broken and Blind",
+        "url": "https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "duration_ms": 192125,
+      "name": "Broken and Blind",
+      "url": "https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "NO LIES.",
-        "url": "https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh"
-      },
-      "artists": [
-        {
-          "name": "paradise fell.",
-          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
-        }
-      ],
-      "duration_ms": 206811,
-      "name": "NO LIES.",
-      "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
-    },
-    {
-      "added_at": "2026-03-13 14:04:55",
-      "album": {
         "name": "Labyrinthine",
         "url": "https://open.spotify.com/album/3WOLRTjNMQBPzHB1wgFYev"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "GASOLINE",
-        "url": "https://open.spotify.com/album/2ZL64l82SA1HN5EX06b4Kg"
+        "name": "NO LIES.",
+        "url": "https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh"
       },
       "artists": [
         {
-          "name": "As Everything Unfolds",
-          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
+          "name": "paradise fell.",
+          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
         }
       ],
-      "duration_ms": 188684,
-      "name": "GASOLINE",
-      "url": "https://open.spotify.com/track/4HGEwC9WRC2NMVtIkaC5ye"
+      "duration_ms": 206811,
+      "name": "NO LIES.",
+      "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Thoroughbreds",
-        "url": "https://open.spotify.com/album/5RhKFclwguoGY9QTRmKA0g"
+        "name": "GASOLINE",
+        "url": "https://open.spotify.com/album/2ZL64l82SA1HN5EX06b4Kg"
       },
       "artists": [
         {
-          "name": "Poison The Well",
-          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+          "name": "As Everything Unfolds",
+          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
         }
       ],
-      "duration_ms": 204773,
-      "name": "Thoroughbreds",
-      "url": "https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q"
+      "duration_ms": 188684,
+      "name": "GASOLINE",
+      "url": "https://open.spotify.com/track/4HGEwC9WRC2NMVtIkaC5ye"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1599,6 +1583,22 @@
       "duration_ms": 222720,
       "name": "Bloodsport",
       "url": "https://open.spotify.com/track/66wM8T14qRselu34qFBhC2"
+    },
+    {
+      "added_at": "2026-03-13 14:04:55",
+      "album": {
+        "name": "Thoroughbreds",
+        "url": "https://open.spotify.com/album/5RhKFclwguoGY9QTRmKA0g"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "Thoroughbreds",
+      "url": "https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q"
     },
     {
       "added_at": "2026-03-13 14:04:55",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-03-13 14:04:55",
       "album": {
-        "name": "Punks And Demons",
-        "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 157106,
-      "name": "Punks And Demons",
-      "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
+      "duration_ms": 199617,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
     }
   ],
   "unique_name": "The Pit",

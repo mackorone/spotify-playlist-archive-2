@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 224507,
       "name": "Baby Pink Noise",
       "url": "https://open.spotify.com/track/2Wvu7DIWPWfObjM4ozMi5h"
@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Pink Noise Stream",
+        "url": "https://open.spotify.com/album/5lD2c8RfuAy3w8o4pu9UQ3"
+      },
+      "artists": [
+        {
+          "name": "Les Ilaries",
+          "url": "https://open.spotify.com/artist/2rX8QY2bKuh5TN7cpqzJtM"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184303,
+      "name": "Blush Night Static",
+      "url": "https://open.spotify.com/track/35sewSI63MUfdcSydAnyIA"
+    },
+    {
+      "album": {
         "name": "Blushed Air",
         "url": "https://open.spotify.com/album/7DYNNvys6FGGHg0ioTB8e9"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 170007,
       "name": "Caf\u00e9 Noir Pink Noise",
       "url": "https://open.spotify.com/track/2pj6IND2HYaiJ201ZVQYUl"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 170001,
       "name": "Catabatic Pink Noise",
       "url": "https://open.spotify.com/track/0GwM3x4FH6sYLmv3nQCBug"
@@ -470,6 +488,24 @@
       "duration_ms": 164300,
       "name": "Clouds of Pink",
       "url": "https://open.spotify.com/track/1li0WHMIRXN6PCLjT5CWf6"
+    },
+    {
+      "album": {
+        "name": "Colorburst of Pink Noise",
+        "url": "https://open.spotify.com/album/1TICYg1auITRw5UOkFwlSI"
+      },
+      "artists": [
+        {
+          "name": "Time Capsule Dreams",
+          "url": "https://open.spotify.com/artist/5CHgkJ2ylCxdgzBUV4fvm9"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225721,
+      "name": "Colorburst of Pink Noise",
+      "url": "https://open.spotify.com/track/7LSnuJeA58VkymI0snUXB3"
     },
     {
       "album": {
@@ -1600,7 +1636,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 158000,
       "name": "Low Turbulence Pink Noise",
       "url": "https://open.spotify.com/track/4fbznolxv9dbvfnDqUYY96"
@@ -2057,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Pink Cradle Noise",
+        "url": "https://open.spotify.com/album/4ecniV7KZ73LNY9HQxJXXd"
+      },
+      "artists": [
+        {
+          "name": "Dreams Made",
+          "url": "https://open.spotify.com/artist/0hGBfohzgZXOnLuYHG9CQ0"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162471,
+      "name": "Pink Cradle Noise",
+      "url": "https://open.spotify.com/track/46plmXJjcK0U9uYOjVxQVf"
+    },
+    {
+      "album": {
         "name": "Pink Distribution",
         "url": "https://open.spotify.com/album/7mvpsXoNeRD5FPOZpRO5Fh"
       },
@@ -2198,6 +2252,42 @@
       "duration_ms": 181172,
       "name": "Pink Frequencies",
       "url": "https://open.spotify.com/track/2MMcXLXf5s3mOZhgRZhmQH"
+    },
+    {
+      "album": {
+        "name": "Pink Horizon",
+        "url": "https://open.spotify.com/album/5jhlrLbMmZb3QJ2NOA63Aj"
+      },
+      "artists": [
+        {
+          "name": "Frequencie float",
+          "url": "https://open.spotify.com/artist/6an3M3X9av3a8bZLPUsl6w"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259459,
+      "name": "Pink Horizon",
+      "url": "https://open.spotify.com/track/4XOqrPfTf7rxVNtUwrqBXm"
+    },
+    {
+      "album": {
+        "name": "Pink Night Focus",
+        "url": "https://open.spotify.com/album/0xmnDt79aJ755PAxCZ7UJb"
+      },
+      "artists": [
+        {
+          "name": "HemiPhase",
+          "url": "https://open.spotify.com/artist/4gblQGZXbgoGn2iCTNGuyO"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147501,
+      "name": "Pink Horizon Sleep",
+      "url": "https://open.spotify.com/track/7yUM4IUr05sXsWmpFXGgLw"
     },
     {
       "album": {
@@ -3814,7 +3904,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 151865,
       "name": "Pink Serenity Sleep",
       "url": "https://open.spotify.com/track/5t65D9bJYDf7ytFBzfGJHl"

@@ -513,6 +513,28 @@
     },
     {
       "album": {
+        "name": "GOAT (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "Brought The Family",
+      "url": "https://open.spotify.com/track/4VupP9RJdJYb3G1pf0UyS7"
+    },
+    {
+      "album": {
         "name": "World Music Radio",
         "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
       },
@@ -2082,7 +2104,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ"

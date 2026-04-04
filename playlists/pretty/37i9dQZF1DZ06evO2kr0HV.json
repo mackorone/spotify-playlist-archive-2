@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 41612,
+  "num_followers": 41617,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAACMbQjxqax/wIL+cV3zZUAu",
+  "snapshot_id": "ac2xgAAAAAAEMnLpLmHzr7ZLoZpYtks0",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/4HmFVZq4fT2Q74ljHHCVw8"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 181909,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/2OQUE4MtsLQ5S49MQmaVLe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Noa Noa (Remix)",
         "url": "https://open.spotify.com/album/6GKgeat1bQOZgkUok74F5Q"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 204400,
       "name": "El Noa Noa - Remix",
       "url": "https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
     },
     {
       "added_at": null,
@@ -967,6 +967,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailando Por Ti",
         "url": "https://open.spotify.com/album/7ismWpgWee343IgwBx0oyI"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 165000,
       "name": "Bailando Por Ti",
       "url": "https://open.spotify.com/track/40gWTnjJgkpYENBrPVKSgN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00e8me Brul\u00e9e (Bilingual Version)",
-        "url": "https://open.spotify.com/album/3uIjoRjR87BnCINBObzo6h"
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC"
       },
       "artists": [
         {
-          "name": "David Archuleta",
-          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
-        },
-        {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
         }
       ],
-      "duration_ms": 179045,
-      "name": "Cr\u00e8me Brul\u00e9e - Bilingual Version",
-      "url": "https://open.spotify.com/track/0GxYjgg8r1ar9khGsk5YSW"
+      "duration_ms": 195913,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
     }
   ],
   "unique_name": "This Is Esteman",

@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 186945,
+  "num_followers": 186967,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-04-02 22:02:21",
       "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-04-02 22:02:21",
-      "album": {
         "name": "Bleed (feat. Omar Apollo)",
         "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 179373,
       "name": "Bleed (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
+    },
+    {
+      "added_at": "2026-04-02 22:02:21",
+      "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-04-02 22:02:21",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-04-02 22:02:21",
       "album": {
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Electric Soul",
+      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
+    },
+    {
+      "added_at": "2026-04-02 22:02:21",
+      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 212532,
       "name": "Save a Little Love for Me",
       "url": "https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l"
-    },
-    {
-      "added_at": "2026-04-02 22:02:21",
-      "album": {
-        "name": "Somewhere In Between",
-        "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Electric Soul",
-      "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
     },
     {
       "added_at": "2026-04-02 22:02:21",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-04-02 22:02:21",
       "album": {
-        "name": "uplifters",
-        "url": "https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 212213,
-      "name": "couleur menthe \u00e0 l'eau",
-      "url": "https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0"
-    },
-    {
-      "added_at": "2026-04-02 22:02:21",
-      "album": {
         "name": "Southern Belle",
         "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 185400,
       "name": "Southern Belle",
       "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
+    },
+    {
+      "added_at": "2026-04-02 22:02:21",
+      "album": {
+        "name": "uplifters",
+        "url": "https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "duration_ms": 212213,
+      "name": "couleur menthe \u00e0 l'eau",
+      "url": "https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0"
     },
     {
       "added_at": "2026-04-02 22:02:21",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-04-02 22:02:21",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+        "name": "Dream House",
+        "url": "https://open.spotify.com/album/6ztAmj7OoaQHdyqzaDK9pZ"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
         }
       ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
+      "duration_ms": 174200,
+      "name": "Dream House",
+      "url": "https://open.spotify.com/track/04kUzwSMwCIsuXoxqeaZ75"
     },
     {
       "added_at": "2026-04-02 22:02:21",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-04-02 22:02:21",
       "album": {
-        "name": "Dream House",
-        "url": "https://open.spotify.com/album/6ztAmj7OoaQHdyqzaDK9pZ"
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
       },
       "artists": [
         {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 174200,
-      "name": "Dream House",
-      "url": "https://open.spotify.com/track/04kUzwSMwCIsuXoxqeaZ75"
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2026-04-02 22:02:21",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-04-02 22:02:21",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
-    },
-    {
-      "added_at": "2026-04-02 22:02:21",
-      "album": {
         "name": "Hot Freaks Forever",
         "url": "https://open.spotify.com/album/4D7dYPMpxbMcyN16qUHvlL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 202920,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/6YCwQYs9osECgiOtfrHT7f"
+    },
+    {
+      "added_at": "2026-04-02 22:02:21",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
     },
     {
       "added_at": "2026-04-02 22:02:21",
@@ -1235,6 +1235,22 @@
       "duration_ms": 237913,
       "name": "Paradis bleu",
       "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
+    },
+    {
+      "added_at": "2026-04-02 22:02:21",
+      "album": {
+        "name": "Montgomery Ricky (Plus 3)",
+        "url": "https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 205652,
+      "name": "Some Kind of Man",
+      "url": "https://open.spotify.com/track/0Ci9ch7w390MXYK9kr84Ma"
     },
     {
       "added_at": "2026-04-02 22:02:21",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-04-02 22:02:21",
       "album": {
-        "name": "davina mccall",
-        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 227794,
-      "name": "davina mccall",
-      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
-    },
-    {
-      "added_at": "2026-04-02 22:02:21",
-      "album": {
         "name": "lucius lullaby",
         "url": "https://open.spotify.com/album/3p4K1H438e9kFylbQkdSLr"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 183013,
       "name": "weirdness",
       "url": "https://open.spotify.com/track/0Z14ueqgvLP39oCdTCDyOT"
+    },
+    {
+      "added_at": "2026-04-02 22:02:21",
+      "album": {
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
     },
     {
       "added_at": "2026-04-02 22:02:21",
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2026-04-02 22:02:21",
       "album": {
-        "name": "Jupiter and Mars",
-        "url": "https://open.spotify.com/album/3tjShrUyBljsaAdh7Wfhtz"
+        "name": "No Dawn To Wake",
+        "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
       },
       "artists": [
         {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+          "name": "Wax Tailor",
+          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
         }
       ],
-      "duration_ms": 193604,
-      "name": "Jupiter and Mars",
-      "url": "https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88"
+      "duration_ms": 180011,
+      "name": "No Dawn To Wake",
+      "url": "https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp"
     },
     {
       "added_at": "2026-04-02 22:02:21",
@@ -1459,34 +1475,18 @@
     {
       "added_at": "2026-04-02 22:02:21",
       "album": {
-        "name": "No Dawn To Wake",
-        "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
+        "name": "Jupiter and Mars",
+        "url": "https://open.spotify.com/album/3tjShrUyBljsaAdh7Wfhtz"
       },
       "artists": [
         {
-          "name": "Wax Tailor",
-          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
         }
       ],
-      "duration_ms": 180011,
-      "name": "No Dawn To Wake",
-      "url": "https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp"
-    },
-    {
-      "added_at": "2026-04-02 22:02:21",
-      "album": {
-        "name": "Montgomery Ricky (Plus 3)",
-        "url": "https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 205652,
-      "name": "Some Kind of Man",
-      "url": "https://open.spotify.com/track/0Ci9ch7w390MXYK9kr84Ma"
+      "duration_ms": 193604,
+      "name": "Jupiter and Mars",
+      "url": "https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88"
     },
     {
       "added_at": "2026-04-02 22:02:21",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-04-02 22:02:21",
       "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2026-04-02 22:02:21",
+      "album": {
         "name": "Livin Alright",
         "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
       },
@@ -1603,42 +1619,6 @@
       "duration_ms": 176543,
       "name": "Livin Alright",
       "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
-    },
-    {
-      "added_at": "2026-04-02 22:02:21",
-      "album": {
-        "name": "Celestial Strut",
-        "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
-      },
-      "artists": [
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        },
-        {
-          "name": "Kuyen",
-          "url": "https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b"
-        }
-      ],
-      "duration_ms": 349257,
-      "name": "Found Your Love",
-      "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
-    },
-    {
-      "added_at": "2026-04-02 22:02:21",
-      "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2026-04-02 22:02:21",
@@ -1675,6 +1655,42 @@
     {
       "added_at": "2026-04-02 22:02:21",
       "album": {
+        "name": "Celestial Strut",
+        "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
+      },
+      "artists": [
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        },
+        {
+          "name": "Kuyen",
+          "url": "https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b"
+        }
+      ],
+      "duration_ms": 349257,
+      "name": "Found Your Love",
+      "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
+    },
+    {
+      "added_at": "2026-04-02 22:02:21",
+      "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
+    },
+    {
+      "added_at": "2026-04-02 22:02:21",
+      "album": {
         "name": "Hopes",
         "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 164500,
       "name": "Hopes",
       "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
-    },
-    {
-      "added_at": "2026-04-02 22:02:21",
-      "album": {
-        "name": "Keyring",
-        "url": "https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl"
-      },
-      "artists": [
-        {
-          "name": "CODY JON",
-          "url": "https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD"
-        }
-      ],
-      "duration_ms": 198155,
-      "name": "Keyring",
-      "url": "https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY"
     }
   ],
   "unique_name": "D\u00eener entre amis",

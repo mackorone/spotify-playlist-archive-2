@@ -1395,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Get Outta My Head",
+        "url": "https://open.spotify.com/album/4IXPVKy739ap5syrDJguG5"
+      },
+      "artists": [
+        {
+          "name": "TV Screams",
+          "url": "https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158521,
+      "name": "Get Outta My Head",
+      "url": "https://open.spotify.com/track/7hKZGgTrWm2S8jvGLs9Pdl"
+    },
+    {
+      "album": {
         "name": "MMXXII",
         "url": "https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN"
       },

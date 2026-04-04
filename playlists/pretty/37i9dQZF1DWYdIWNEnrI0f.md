@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,236 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,276 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 49 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 |
 | 50 | [迷いの森](https://open.spotify.com/track/5hyzs0L6FPxvdJIZLN5eyn) | [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH), [CHANNY D](https://open.spotify.com/artist/23FsJf4Uv89b1kPtqqsUFr) | [迷いの森](https://open.spotify.com/album/1xaXJ6OxH8fYZ00wMiwZT7) | 5:26 |
 
-Snapshot ID: `AAAAAEXvHH2Uam/c9ugriDaeoVyAyJuK`
+Snapshot ID: `AAAAAJj0tj3GL9sWautCH9WUBBfKxsxq`

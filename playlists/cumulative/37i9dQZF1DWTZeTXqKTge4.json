@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Souldia",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Obia le Chef",
   "name": "Rap qu\u00e9b",
   "tracks": [
+    {
+      "album": {
+        "name": "#mesfanms.",
+        "url": "https://open.spotify.com/album/0ZYCyHUDsd32RzN0BqRTZh"
+      },
+      "artists": [
+        {
+          "name": "oyedevklok!",
+          "url": "https://open.spotify.com/artist/6XC3zfgWucV8Ak3Rk2c5II"
+        },
+        {
+          "name": "Jujuu",
+          "url": "https://open.spotify.com/artist/5fvHBSU91u5pF0WWOO8ZkF"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158267,
+      "name": "#mesfanms.",
+      "url": "https://open.spotify.com/track/0o7bRWIC2BLaelCitsr8ia"
+    },
     {
       "album": {
         "name": "-20",
@@ -647,6 +669,32 @@
     },
     {
       "album": {
+        "name": "4L",
+        "url": "https://open.spotify.com/album/2HMn9RAztMm6Taj5vmHlby"
+      },
+      "artists": [
+        {
+          "name": "Monsi",
+          "url": "https://open.spotify.com/artist/0ibqn4D8ETh0ZSmdqGw002"
+        },
+        {
+          "name": "Monzo!",
+          "url": "https://open.spotify.com/artist/3TEuxSjKu6jSSVxB2uroC6"
+        },
+        {
+          "name": "8ruki",
+          "url": "https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "4L",
+      "url": "https://open.spotify.com/track/0yKf9vJOavXu0kz7HyubzT"
+    },
+    {
+      "album": {
         "name": "5 Boutes",
         "url": "https://open.spotify.com/album/1krhIqOQSjNmLEOAfRf6jP"
       },
@@ -1228,7 +1276,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 180760,
       "name": "Ambroisie",
       "url": "https://open.spotify.com/track/6eEMNcKE7EscKTjtJIqGUd"
@@ -1330,6 +1378,28 @@
       "duration_ms": 179560,
       "name": "Angle obtus",
       "url": "https://open.spotify.com/track/1nKh1iLM6TSPdacLG2dCel"
+    },
+    {
+      "album": {
+        "name": "Anim\u00e9",
+        "url": "https://open.spotify.com/album/7svBxfA5JAYFqkQrZCFGMv"
+      },
+      "artists": [
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172725,
+      "name": "Anim\u00e9",
+      "url": "https://open.spotify.com/track/4MbMTqxXgmjZXhdKU6NReX"
     },
     {
       "album": {
@@ -1476,7 +1546,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 123000,
       "name": "Ask About Me",
       "url": "https://open.spotify.com/track/7cCrl4SgP50t2QAbpLnbtc"
@@ -1836,7 +1906,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 154866,
       "name": "b.b notaroundyou",
       "url": "https://open.spotify.com/track/0Fa4gGeCKJ6Y5RSF2DQU7e"
@@ -2220,6 +2290,32 @@
       "duration_ms": 158000,
       "name": "BE U",
       "url": "https://open.spotify.com/track/0Dda3qDMBqfXyh5r4euLL0"
+    },
+    {
+      "album": {
+        "name": "BEAUTIFUL HUMAN / \u0634\u0648 \u0628\u062d\u0628\u0643 (feat. P-Thugg)",
+        "url": "https://open.spotify.com/album/4h7tCm9bnWGxX0W93QL6Vo"
+      },
+      "artists": [
+        {
+          "name": "NARCY",
+          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+        },
+        {
+          "name": "Thanks Joey",
+          "url": "https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk"
+        },
+        {
+          "name": "P-Thugg",
+          "url": "https://open.spotify.com/artist/1ko8KQozuKxFGVXRmKMEjZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120759,
+      "name": "BEAUTIFUL HUMAN / \u0634\u0648 \u0628\u062d\u0628\u0643 (feat. P-Thugg)",
+      "url": "https://open.spotify.com/track/69ZFy5ZMpU04FT1aSt2Anf"
     },
     {
       "album": {
@@ -5002,7 +5098,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 251379,
       "name": "Coup de Minuit",
       "url": "https://open.spotify.com/track/3YhxtGNPImwILVJKS8oBPx"
@@ -5986,7 +6082,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 143906,
       "name": "Dilemme",
       "url": "https://open.spotify.com/track/6kTQgSlbEJJO9Ttz6V5ftR"
@@ -6504,6 +6600,24 @@
       "duration_ms": 180550,
       "name": "D\u00e9cibel - Remix",
       "url": "https://open.spotify.com/track/7CfGqrGBeyiwiwYK4O3RqR"
+    },
+    {
+      "album": {
+        "name": "D\u00e9conne",
+        "url": "https://open.spotify.com/album/4McQpZ5bK70sz6PQoKIy2R"
+      },
+      "artists": [
+        {
+          "name": "Jay Jay",
+          "url": "https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "D\u00e9conne",
+      "url": "https://open.spotify.com/track/5MSxanoFaDzYZf99yxYRBA"
     },
     {
       "album": {
@@ -7316,6 +7430,24 @@
       "duration_ms": 191947,
       "name": "Fais PT",
       "url": "https://open.spotify.com/track/4I3BHwCCXqstiDXU49qziN"
+    },
+    {
+      "album": {
+        "name": "FAIT TROP FROID",
+        "url": "https://open.spotify.com/album/6qPMpuopNNYhCKFGmngQNb"
+      },
+      "artists": [
+        {
+          "name": "MEHB",
+          "url": "https://open.spotify.com/artist/2xi5FtbD2NEwZ9Gy60ITJ3"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "FAIT TROP FROID",
+      "url": "https://open.spotify.com/track/1bszsOPWN2uJJ7GgEmiQ3u"
     },
     {
       "album": {
@@ -9016,6 +9148,24 @@
       "duration_ms": 118400,
       "name": "HEART ATTACK",
       "url": "https://open.spotify.com/track/6OyNzYUgLap7BD5ZcpqWia"
+    },
+    {
+      "album": {
+        "name": "HIER",
+        "url": "https://open.spotify.com/album/1ldvxOX2HFgmQt5kKEQYgg"
+      },
+      "artists": [
+        {
+          "name": "Playbe",
+          "url": "https://open.spotify.com/artist/26rIuyFJ8XZDDEMjihm2BI"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107664,
+      "name": "HIER",
+      "url": "https://open.spotify.com/track/5RYU3VYtWqoG6apobXQmZR"
     },
     {
       "album": {
@@ -13607,6 +13757,24 @@
     },
     {
       "album": {
+        "name": "Mon bro est back",
+        "url": "https://open.spotify.com/album/1jRYnOKIhWtCnCLJgL0drj"
+      },
+      "artists": [
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208285,
+      "name": "Mon bro est back",
+      "url": "https://open.spotify.com/track/6DQW3b8k2vMR35rwTMh2RN"
+    },
+    {
+      "album": {
         "name": "Mon Canon",
         "url": "https://open.spotify.com/album/04H677dyIFAcFLyTogZnmo"
       },
@@ -16244,7 +16412,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 124166,
       "name": "PLUS JAMAIS BROKE",
       "url": "https://open.spotify.com/track/1Lf4PXnMAvhowUR3TgASAA"
@@ -19523,6 +19691,32 @@
     },
     {
       "album": {
+        "name": "1885",
+        "url": "https://open.spotify.com/album/0IDj5J43h7hcqK4KzKNAwd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Savage",
+          "url": "https://open.spotify.com/artist/1yG7xAkT8v6Ora2dBdkrgq"
+        },
+        {
+          "name": "KaMa",
+          "url": "https://open.spotify.com/artist/3rblgHbQPHtt6CKgR9ykrH"
+        },
+        {
+          "name": "Faire les Choses",
+          "url": "https://open.spotify.com/artist/03HhpNxb5lzCo52TsP33FE"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189206,
+      "name": "STRATOS",
+      "url": "https://open.spotify.com/track/7g0Dr2T6AoxfrLwlqf5L1J"
+    },
+    {
+      "album": {
         "name": "Suis mes pas",
         "url": "https://open.spotify.com/album/6mFhy2gP9jazJNyAX0vW0a"
       },
@@ -19674,7 +19868,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 128785,
       "name": "SUR MOI",
       "url": "https://open.spotify.com/track/5QoAyEU98raTjuVfNo9Ue0"
@@ -19860,7 +20054,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 136280,
       "name": "TARD LA NIGHT",
       "url": "https://open.spotify.com/track/06tngcjkeWG93uyXhqZosc"
@@ -22038,7 +22232,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 280000,
       "name": "YOU DID!",
       "url": "https://open.spotify.com/track/0EtEiT6r534GV2FpGspdV5"

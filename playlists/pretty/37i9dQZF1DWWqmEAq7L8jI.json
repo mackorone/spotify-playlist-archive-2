@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Santi Celli & Ale Sergi",
-  "num_followers": 279086,
+  "num_followers": 279095,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-03-27 03:00:33",
       "album": {
-        "name": "ser humano",
-        "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Plan",
-      "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
-    },
-    {
-      "added_at": "2026-03-27 03:00:33",
-      "album": {
         "name": "Los Tragos",
         "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 171000,
       "name": "Los Tragos",
       "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
+    },
+    {
+      "added_at": "2026-03-27 03:00:33",
+      "album": {
+        "name": "ser humano",
+        "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Plan",
+      "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
     },
     {
       "added_at": "2026-03-27 03:00:33",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-03-27 03:00:33",
       "album": {
+        "name": "Si T\u00fa La Quieres",
+        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Si T\u00fa La Quieres",
+      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
+    },
+    {
+      "added_at": "2026-03-27 03:00:33",
+      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 214527,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
-    },
-    {
-      "added_at": "2026-03-27 03:00:33",
-      "album": {
-        "name": "Ojos Noche (feat. Carla Morrison)",
-        "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 254929,
-      "name": "Ojos Noche (feat. Carla Morrison)",
-      "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
     },
     {
       "added_at": "2026-03-27 03:00:33",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2026-03-27 03:00:33",
       "album": {
-        "name": "Si T\u00fa La Quieres",
-        "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
+        "name": "Ojos Noche (feat. Carla Morrison)",
+        "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         },
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 224761,
-      "name": "Si T\u00fa La Quieres",
-      "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
+      "duration_ms": 254929,
+      "name": "Ojos Noche (feat. Carla Morrison)",
+      "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
     },
     {
       "added_at": "2026-03-27 03:00:33",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-03-27 03:00:33",
       "album": {
-        "name": "Querida Yo",
-        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 157194,
-      "name": "Amor Aburrido",
-      "url": "https://open.spotify.com/track/1obViPsBiBhsZY2fuBPLD0"
-    },
-    {
-      "added_at": "2026-03-27 03:00:33",
-      "album": {
         "name": "Indios y Vaqueros",
         "url": "https://open.spotify.com/album/2t9PxUaBK9Jk2G9vPOaqy5"
       },
@@ -1511,22 +1495,18 @@
     {
       "added_at": "2026-03-27 03:00:33",
       "album": {
-        "name": "Mu\u00e9rdeme",
-        "url": "https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt"
+        "name": "Querida Yo",
+        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Mu\u00e9rdeme",
-      "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"
+      "duration_ms": 157194,
+      "name": "Amor Aburrido",
+      "url": "https://open.spotify.com/track/1obViPsBiBhsZY2fuBPLD0"
     },
     {
       "added_at": "2026-03-27 03:00:33",
@@ -1551,6 +1531,26 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
+    },
+    {
+      "added_at": "2026-03-27 03:00:33",
+      "album": {
+        "name": "Mu\u00e9rdeme",
+        "url": "https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Mu\u00e9rdeme",
+      "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"
     },
     {
       "added_at": "2026-03-27 03:00:33",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2026-03-27 03:00:33",
       "album": {
-        "name": "Quiromancia",
-        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
+        "name": "Me Diste la Espalda",
+        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 212106,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX"
+      "duration_ms": 202492,
+      "name": "Me Diste la Espalda",
+      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
     }
   ],
   "unique_name": "Radio Pop",

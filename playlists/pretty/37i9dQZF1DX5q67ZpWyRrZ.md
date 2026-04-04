@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Best of the Indian Indie scene\. Cover \- Gini
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,728 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,240 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 20 | [bargad](https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl) | [sufr](https://open.spotify.com/artist/0H2Xt7XJQyDItXNN3j7F1F), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [bargad](https://open.spotify.com/album/5BnxT8zqiWLJTzSPouJd1n) | 2:55 |
 | 21 | [Banda Kaam Ka](https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Banda Kaam Ka](https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t) | 4:08 |
 | 22 | [Tum Se](https://open.spotify.com/track/1QNI17b6WjGs8WEfjYMwep) | [OutStation](https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH) | [Tum Se](https://open.spotify.com/album/6Uvvd29SK7zATTBKFRs5mD) | 3:52 |
-| 23 | [Unse Jaake Kehdo](https://open.spotify.com/track/0dIx5mpqRNeddiezetQH1X) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Unse Jaake Kehdo](https://open.spotify.com/album/6fl0XZZ3Prg5rfGSjdsgAV) | 2:57 |
+| 23 | [sun saawariya](https://open.spotify.com/track/0dnsJ8W8k4ncYstIsrz5pY) | [Accha Insaan](https://open.spotify.com/artist/5kTO2lNG7ub2Bed7CF8zpH), [AtharvaMusic](https://open.spotify.com/artist/689wgdJ8FExzGjaiehjfTS), [Yaani Karnawat](https://open.spotify.com/artist/2DQRnUEWF0YPw4vXHgJzq8) | [sun saawariya](https://open.spotify.com/album/6TsxNWUu5OwoS11OORzoWy) | 2:39 |
 | 24 | [Aaoge Tum Kabhi](https://open.spotify.com/track/5ivRSlOhVIXN2QMzqgsX0s) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 5:13 |
 | 25 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 |
 | 26 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 74 | [Mazaak](https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU) | 3:32 |
 | 75 | [Waqt Ki Baatein](https://open.spotify.com/track/1lIYP8fDGGnp91OMTUnwjV) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein \- Single](https://open.spotify.com/album/0SH6gTE06saGgjmvsDWIba) | 4:03 |
 
-Snapshot ID: `AAAAAFp2wBLxAlym8hNcllDmtNH4z10v`
+Snapshot ID: `AAAAAIPGVthTUK+cmURMfXvvZKrJUfrk`

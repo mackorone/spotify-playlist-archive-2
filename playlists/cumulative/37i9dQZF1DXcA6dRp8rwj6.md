@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Central Cee\)
 
-3,351 songs - 7 day 0 hr 53 min
+3,352 songs - 7 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2233,6 +2233,7 @@
 | [POP OUT](https://open.spotify.com/track/3j3SfV4hAcR4XjCvW393Gr) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:41 | 2025-03-14 | 2025-05-30 |
 | [Pop Yo Shit](https://open.spotify.com/track/2JgLe7DD0kkeWddkTxVipY) | [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Pop Yo Shit](https://open.spotify.com/album/4Bh06WzdV5FoT8aMXzg8uJ) | 3:12 | 2025-10-23 | 2025-12-19 |
 | [Poppin](https://open.spotify.com/track/6fPD92TEq6KsEV7L7nmhZ3) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Poppin](https://open.spotify.com/album/2vWmskQ93na9eB8RqsvvUR) | 2:46 | 2025-01-17 | 2025-02-22 |
+| [Pops](https://open.spotify.com/track/2OTJjxvUACGWALxdUDohBu) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Pops](https://open.spotify.com/album/68C9RgYAybkxqDZzdtt3ak) | 4:49 | 2026-04-02 |  |
 | [Porzingis](https://open.spotify.com/track/1DJfkN0ZZigRHzNFNycKRi) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:45 | 2025-05-02 | 2025-06-14 |
 | [Possible](https://open.spotify.com/track/3oRw742NgNMMe3rpWqEWJz) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [Possible](https://open.spotify.com/album/2Ian1Tx1ByNQTQOcIavgH0) | 5:13 | 2022-06-23 | 2022-07-29 |
 | [POWER](https://open.spotify.com/track/1HEPfv1KllCYnVC1VmcpgD) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/6CfIObHVEN5OBcx7mqVnem) | 2:23 | 2024-10-31 | 2024-12-14 |

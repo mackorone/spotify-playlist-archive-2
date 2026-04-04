@@ -1647,6 +1647,28 @@
     },
     {
       "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA"
+      },
+      "artists": [
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228387,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w"
+    },
+    {
+      "album": {
         "name": "ASA",
         "url": "https://open.spotify.com/album/2luwSaYCJk1SRCYkhkZs88"
       },
@@ -2850,7 +2872,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 259514,
       "name": "Big Mouth",
       "url": "https://open.spotify.com/track/78k9qKc7z34nuPGesONAJ4"
@@ -4956,7 +4978,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 196000,
       "name": "Dark Sky",
       "url": "https://open.spotify.com/track/3JjBiD8tBhmWYHJWdgC55D"
@@ -5520,7 +5542,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 227511,
       "name": "Don Rosado",
       "url": "https://open.spotify.com/track/2njSVgEXEDk8MFEPbu6ofn"
@@ -7949,6 +7971,24 @@
     },
     {
       "album": {
+        "name": "GROOVINU",
+        "url": "https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166162,
+      "name": "GROOVINU",
+      "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
+    },
+    {
+      "album": {
         "name": "Guessing Game",
         "url": "https://open.spotify.com/album/0tw983Hdo6I70OPeu8FBNi"
       },
@@ -8860,6 +8900,24 @@
       "duration_ms": 211202,
       "name": "H\u00e9roe de M\u00e9xico",
       "url": "https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ"
+    },
+    {
+      "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192419,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
     },
     {
       "album": {
@@ -11227,6 +11285,28 @@
     },
     {
       "album": {
+        "name": "Let's Get Down",
+        "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Supafly",
+          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Let's Get Down",
+      "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
+    },
+    {
+      "album": {
         "name": "Let's Pretend",
         "url": "https://open.spotify.com/album/7vFNsn1Tp7f5r0w1ntL35K"
       },
@@ -12376,7 +12456,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 163066,
       "name": "Mafwe (with Kwando's Mafwe)",
       "url": "https://open.spotify.com/track/2GpcdHzc7FZC5wtA7BWe4C"
@@ -18338,7 +18418,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 188975,
       "name": "Shabah",
       "url": "https://open.spotify.com/track/201vzKAqmvbOxDrm2SBmOO"
@@ -23274,7 +23354,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 228000,
       "name": "Without You (feat. Clubhouse)",
       "url": "https://open.spotify.com/track/4fEuHMxWChgRlF7HBLi0oz"

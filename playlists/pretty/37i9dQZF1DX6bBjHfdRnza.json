@@ -1,13 +1,49 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring Jackyboom. Curated by human Spotify editors. \n",
-  "num_followers": 211479,
+  "description": "The best new dance tracks from independent artists & labels. Featuring Osmosis Jones. Curated by human Spotify editors. \n",
+  "num_followers": 211527,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFVp1nqttDcPcueuavxiIwxFGwjI",
+  "snapshot_id": "AAAAAN0oK72KEffGRdjdnNWF6yquTsRQ",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:02:29",
+      "album": {
+        "name": "All The Money In The World",
+        "url": "https://open.spotify.com/album/3cMXPuYSRoIhNCGLGDVAz0"
+      },
+      "artists": [
+        {
+          "name": "Osmosis Jones",
+          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
+        }
+      ],
+      "duration_ms": 225984,
+      "name": "All The Money In The World",
+      "url": "https://open.spotify.com/track/56kEN75zpdmdlprv6VlejQ"
+    },
+    {
+      "added_at": "2026-04-03 15:07:52",
+      "album": {
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/6ThBelfuz9hYQLrF2rGKrV"
+      },
+      "artists": [
+        {
+          "name": "Jeno",
+          "url": "https://open.spotify.com/artist/6a6RDE2aXu0ZPQPxpllNps"
+        },
+        {
+          "name": "Wempe",
+          "url": "https://open.spotify.com/artist/55DlXvQEA1caP9xf39DSlW"
+        }
+      ],
+      "duration_ms": 216785,
+      "name": "In The Air",
+      "url": "https://open.spotify.com/track/0QfHRJwzVFgNLQwZmMpUfz"
+    },
     {
       "added_at": "2026-04-01 16:59:55",
       "album": {
@@ -23,6 +59,22 @@
       "duration_ms": 150857,
       "name": "Jump In",
       "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
+    },
+    {
+      "added_at": "2026-04-03 04:02:29",
+      "album": {
+        "name": "TU",
+        "url": "https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI"
+      },
+      "artists": [
+        {
+          "name": "fromclay",
+          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "TU",
+      "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"
     },
     {
       "added_at": "2026-04-01 16:59:55",
@@ -789,34 +841,6 @@
       "url": "https://open.spotify.com/track/2gP0oGwwCef1i4lOQesUj2"
     },
     {
-      "added_at": "2026-02-27 16:35:52",
-      "album": {
-        "name": "FOCUS",
-        "url": "https://open.spotify.com/album/6nKI0eexIovx0Xd8BwC54p"
-      },
-      "artists": [
-        {
-          "name": "Dr. Chaii",
-          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
-        },
-        {
-          "name": "KARABA",
-          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
-        },
-        {
-          "name": "Emily Apollo",
-          "url": "https://open.spotify.com/artist/7x9mpQNiBxVDLeJjtmXqyw"
-        },
-        {
-          "name": "KMNI",
-          "url": "https://open.spotify.com/artist/2YXjkO5I6QIGTBMAHWLvL2"
-        }
-      ],
-      "duration_ms": 220343,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/3WfWhh0UEe9AaLdUDqv70P"
-    },
-    {
       "added_at": "2026-02-11 21:59:45",
       "album": {
         "name": "Can\u2019t Take It",
@@ -831,22 +855,6 @@
       "duration_ms": 218536,
       "name": "Can\u2019t Take It",
       "url": "https://open.spotify.com/track/55cT6CQVoS4vsBo7sUcInf"
-    },
-    {
-      "added_at": "2026-02-11 21:59:45",
-      "album": {
-        "name": "feel better",
-        "url": "https://open.spotify.com/album/1FnoWPchv5eoz5fTlhhR2A"
-      },
-      "artists": [
-        {
-          "name": "MAPLO",
-          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
-        }
-      ],
-      "duration_ms": 190222,
-      "name": "feel better",
-      "url": "https://open.spotify.com/track/4tMdePOkrariLOyFXe1KnD"
     },
     {
       "added_at": "2026-02-18 20:21:45",
@@ -1083,26 +1091,6 @@
       "duration_ms": 402879,
       "name": "Certi",
       "url": "https://open.spotify.com/track/6EyRHhZ1V743RzWfiZcak2"
-    },
-    {
-      "added_at": "2026-01-30 05:01:11",
-      "album": {
-        "name": "NutDo",
-        "url": "https://open.spotify.com/album/4vSGiHQ3cF3klH0QKlVZNX"
-      },
-      "artists": [
-        {
-          "name": "Ogasawara",
-          "url": "https://open.spotify.com/artist/6mTSdS8yN21WFsI7oDbeP6"
-        },
-        {
-          "name": "Save Me The Trouble",
-          "url": "https://open.spotify.com/artist/3qRE812oXiyzvUZyo7csj7"
-        }
-      ],
-      "duration_ms": 285547,
-      "name": "NutDo",
-      "url": "https://open.spotify.com/track/7DRhxqacpYaWDLKnq3mOAc"
     },
     {
       "added_at": "2026-01-21 18:53:17",

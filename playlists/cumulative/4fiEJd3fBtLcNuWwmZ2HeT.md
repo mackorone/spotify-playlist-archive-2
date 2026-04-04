@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-483 songs - 1 day 4 hr 10 min
+484 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 | 2022-05-05 |  |
 | [Love I Need](https://open.spotify.com/track/1pvjgrDx35jAt5FOcdrsuT) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Love I Need](https://open.spotify.com/album/7oQqmAf8OR0zfW5wbZIVH4) | 3:12 | 2022-08-04 |  |
 | [LoveXposer](https://open.spotify.com/track/21HFzQoAX8BQdJncyeY9R0) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Nostalzia](https://open.spotify.com/album/1rS3kndeYmd17NDCKHW1Pj) | 2:29 | 2025-12-16 |  |
+| [Lower](https://open.spotify.com/track/2IuiI71CH2EGPGDsFDqkkF) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC2](https://open.spotify.com/album/1zg4XTpXBFeAltnyQPSDbV) | 3:50 | 2026-04-03 |  |
 | [Lunatic Crazy](https://open.spotify.com/track/14miRMV78M1iWIr4hIUlel) | [lapix](https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC), [Zekk](https://open.spotify.com/artist/6ImFfiM17Sg4T56akzOnu1), [PANXI](https://open.spotify.com/artist/3Qk3X6M4odVeDUv8rr7arJ) | [Lunatic Crazy](https://open.spotify.com/album/2vAmVOCw26noicE9CmBQsE) | 3:06 | 2024-06-05 |  |
 | [Ma Chérie](https://open.spotify.com/track/2O4LWfEyyuOl4QYXzycM0r) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Ma Chérie](https://open.spotify.com/album/0R46cDVpHKEJn5VkVnjpEN) | 5:23 | 2025-08-28 | 2026-02-13 |
 | [Machina in the brain \(feat\. KAFU\)](https://open.spotify.com/track/41IgLoZErPsZzAixZ8Mk7s) | [Folicca](https://open.spotify.com/artist/5XIRgaAF0uYvbtnKQNPOoW), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [City in the Brain](https://open.spotify.com/album/5W9zumOT376LaVx9Dj23wR) | 2:24 | 2024-07-01 |  |

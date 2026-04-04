@@ -4,7 +4,7 @@
 
 > Recent hits from all your favorite Christian Rock artists!  Cover: Emerson Day
 
-107 songs - 6 hr 46 min
+108 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Great & Glorious](https://open.spotify.com/track/6EfWQ6yGH0eR8LaBWjgsoy) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Iron Lung](https://open.spotify.com/album/0aWcnFRgnB0HDMgCB7pr2t) | 5:34 | 2021-04-10 | 2024-04-19 |
 | [Holding Me Up](https://open.spotify.com/track/5hWtMn99mB2ckaLubacTuZ) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Divided Frame Of Mind](https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy) | 2:57 | 2024-07-04 | 2024-11-30 |
 | [Hollowed Out](https://open.spotify.com/track/23jSwzxet90GsYoKdmlMS6) | [As Cities Burn](https://open.spotify.com/artist/7eJA8CZoXCETi9axIfBFGT) | [Hollowed Out](https://open.spotify.com/album/2Y9kDOy6g5dUdMCEyMNOLj) | 3:14 | 2021-04-10 | 2024-07-04 |
+| [Holy Forever](https://open.spotify.com/track/3DKhJAdyjssQhYVjJUJUqt) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Thy Kingdom Come](https://open.spotify.com/album/5BdXHH1gfAfyHOxzcxTAYP) | 4:35 | 2026-04-03 |  |
 | [I Get Wicked \- Reignited](https://open.spotify.com/track/6X0sPx7iFn3xeZOZz8I2V5) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [I Get Wicked](https://open.spotify.com/album/1UIXC237ONFCTd5RE2011V) | 3:33 | 2024-07-04 |  |
 | [I Need You](https://open.spotify.com/track/6zd8T1PBe9JFHmuVnurdRp) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Unseen: The Lion And The Lamb \(Deluxe Edition\)](https://open.spotify.com/album/0LhYYU14RU6IPQ9vVMu3Yk) | 3:50 | 2021-04-10 | 2024-07-04 |
 | [I Won't Look Back](https://open.spotify.com/track/5llksYcJ2Q7eL5HaCMZdvE) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [I Won't Look Back](https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn) | 3:20 | 2021-04-10 | 2025-12-06 |
@@ -69,7 +70,7 @@
 | [Nightmare](https://open.spotify.com/track/0qn0EGCOwcRTYM6oI1X8CL) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Nightmare](https://open.spotify.com/album/5o6miCyzka5xeGZ9iHPGfU) | 6:21 | 2024-07-04 |  |
 | [No Survivors](https://open.spotify.com/track/4rjFbBwvAOkBWFqGPcqmJF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [No Survivors](https://open.spotify.com/album/40HxW3w0otYnlVSd6tiJU9) | 2:20 | 2026-02-07 |  |
 | [Not a Victim](https://open.spotify.com/track/5Gr1c6N9fG6IjhPBhcFYzz) | [Cross the Divide](https://open.spotify.com/artist/4X2Ybhr3DI3uOVEE190lSK) | [Not a Victim](https://open.spotify.com/album/6OBJTOj43YxrPFkHZLNYdz) | 4:25 | 2021-04-10 |  |
-| [Not Afraid](https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:13 | 2024-11-29 |  |
+| [Not Afraid](https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:13 | 2024-11-29 | 2026-04-04 |
 | [not by sight](https://open.spotify.com/track/2u9kBiQyov0ZI03JT7vvzZ) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [not by sight](https://open.spotify.com/album/7CTzi5vHveROnPfswOJBmW) | 2:54 | 2024-11-29 |  |
 | [Not Dead Yet](https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [Not Dead Yet](https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO) | 3:36 | 2021-04-10 |  |
 | [On Becoming Willing](https://open.spotify.com/track/1ULg0fndzG1Xmicwm8dT0u) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [The Awakening](https://open.spotify.com/album/3JEASvlJsm2J6vSKrYRxJv) | 2:44 | 2025-08-04 | 2026-03-24 |

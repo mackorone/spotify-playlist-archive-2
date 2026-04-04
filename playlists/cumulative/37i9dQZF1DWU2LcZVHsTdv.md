@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-296 songs - 17 hr 57 min
+299 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Come Jesus Come](https://open.spotify.com/track/4vmQAoHIdNzaUp94XD62E9) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Come Jesus Come](https://open.spotify.com/album/6YKWF9Q2UyHEFBB1xctZLI) | 4:51 | 2025-04-25 |  |
 | [Country Boy's Prayer](https://open.spotify.com/track/2Pnw07JGKNZYta0UrHox5X) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:44 | 2022-08-26 |  |
 | [Cowboy Amen](https://open.spotify.com/track/59jOEV2zHNXIIDWxoJ20Bh) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Cowboy Amen](https://open.spotify.com/album/3UzARTHtTqFD3ffs4X2ToZ) | 2:44 | 2023-02-10 |  |
+| [Cowgirl's Prayer](https://open.spotify.com/track/7zK7A1WPsnCaBZ2j2z1ELK) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Cowgirl's Prayer](https://open.spotify.com/album/1hYeAlSgqtocS7UjFXpy3U) | 3:49 | 2026-04-03 |  |
 | [Craig](https://open.spotify.com/track/6YmWSu43kuuKGoYYgHrb1r) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [boom.](https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe) | 3:10 | 2022-05-06 | 2025-06-30 |
 | [Day with Jesus](https://open.spotify.com/track/4ciThdLjICgN7HzeBaLrSw) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Day with Jesus](https://open.spotify.com/album/3KGAeln42pur213kCU0iHH) | 4:02 | 2021-12-10 |  |
 | [Dear Jesus](https://open.spotify.com/track/2VjYbrcNOqPM8VfckFsCi0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [The Low Light Sessions](https://open.spotify.com/album/6UMZCXdMMgh4q5nKtGiKKC) | 3:43 | 2022-04-15 |  |
@@ -251,6 +252,7 @@
 | [The Distance](https://open.spotify.com/track/2y4pN2wraqU3JOJbv68EiR) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [The Distance](https://open.spotify.com/album/4LCkyZl9VAaO2TBjpnvtxO) | 3:24 | 2021-12-10 | 2025-06-30 |
 | [The Distance](https://open.spotify.com/track/6j5M0J8g1pfRnJ9wWwrvFP) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:24 | 2022-07-15 | 2024-04-19 |
 | [The Heaven I'm Headed To](https://open.spotify.com/track/48TO77FBMrQl7hU1aGGwm5) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Long Trip Alone](https://open.spotify.com/album/2xONRhFNwgzkxM26JK9YI6) | 4:29 | 2021-12-10 | 2024-12-14 |
+| [The Jesus I Know Now](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 | 2026-04-03 |  |
 | [The Life in Your Years](https://open.spotify.com/track/6oP512iJ1bv2Neu892FODz) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [The Life in Your Years](https://open.spotify.com/album/2SOIjoUJQcUMwi8trSxFs5) | 3:00 | 2025-01-17 |  |
 | [The Old Man Said](https://open.spotify.com/track/11YK2L3U5Yr4SepKwX1yiE) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 3:39 | 2022-08-20 |  |
 | [The Old Rugged Cross](https://open.spotify.com/track/436rdO5fgKVH3HhjA0VyFQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 3:30 | 2021-12-10 |  |
@@ -287,6 +289,7 @@
 | [When A Cowboy Prays \- with Cody Johnson](https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [When A Cowboy Prays \(with Cody Johnson\)](https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn) | 3:57 | 2026-01-09 |  |
 | [When I Get Where I'm Going \(feat\. Dolly Parton\)](https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:08 | 2021-12-10 |  |
 | [When I Meet My Maker](https://open.spotify.com/track/27AP9jXtfbNJ68atuOkvjc) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 3:34 | 2021-12-10 |  |
+| [When The Kingdom Comes](https://open.spotify.com/track/3LINos46sYoZPunSUgW26Q) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [When The Kingdom Comes](https://open.spotify.com/album/3VlrT7tpwfMMPbweY4Clp0) | 2:43 | 2026-04-03 |  |
 | [Where I Find God](https://open.spotify.com/track/1kczRjh9aT7N82jtCYbkqF) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [4th of July](https://open.spotify.com/album/78gK94dhgh6ol8WkfX0L6f) | 4:09 | 2022-11-04 | 2022-11-13 |
 | [Where I Find God](https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Where I Find God](https://open.spotify.com/album/26pbiUILSs4FA7boHlB3QY) | 4:09 | 2021-12-10 |  |
 | [Where I Find God](https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 4:09 | 2022-07-15 | 2024-04-19 |

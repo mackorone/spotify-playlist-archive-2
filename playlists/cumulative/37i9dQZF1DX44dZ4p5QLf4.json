@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 204058,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4WqG4yMCX2QbjQc8SBaDyt"
@@ -2783,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "droook",
+        "url": "https://open.spotify.com/album/5Im5wTrQjU6AN9WkicfSQE"
+      },
+      "artists": [
+        {
+          "name": "theo artz",
+          "url": "https://open.spotify.com/artist/3eiT9L7vDW31nH9ufEL7Nb"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187075,
+      "name": "droook",
+      "url": "https://open.spotify.com/track/60yHE7YrMcdDqpASoRsVCB"
+    },
+    {
+      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -3024,6 +3042,68 @@
       "duration_ms": 246624,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/6ExaJyKDD0Jaq7KTTe3b1Q"
+    },
+    {
+      "album": {
+        "name": "Eyes On The Prize",
+        "url": "https://open.spotify.com/album/2JxdgGAnXfu3r6OH3xh0L1"
+      },
+      "artists": [
+        {
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192882,
+      "name": "Eyes On The Prize",
+      "url": "https://open.spotify.com/track/1aVtm49BlMKcpOwaZM1FkX"
+    },
+    {
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/5vvUiMWXTW3RucMqDYN7K2"
+      },
+      "artists": [
+        {
+          "name": "Felix Hien",
+          "url": "https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ"
+        },
+        {
+          "name": "Greedo",
+          "url": "https://open.spotify.com/artist/23o3FXVfRj8CZIy1fGidqm"
+        },
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199968,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3Ov4CEy8XiZ7Pj33KoKbSn"
+    },
+    {
+      "album": {
+        "name": "Fallen Angels",
+        "url": "https://open.spotify.com/album/1dronIYa4y1p9BNHOC9LpC"
+      },
+      "artists": [
+        {
+          "name": "ROSEYE",
+          "url": "https://open.spotify.com/artist/5OgVIGurum64YtfpEjicYy"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260810,
+      "name": "Fallen Angels",
+      "url": "https://open.spotify.com/track/3BlYetXXRSqm5ncpxSsm4R"
     },
     {
       "album": {
@@ -3927,6 +4007,28 @@
     },
     {
       "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/7KZbPMVX1MIgaamombQinf"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/6QtcGEyLF3SPMoR8i5bsKI"
+    },
+    {
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2BQlDB6YRNp88euumKdHG2"
       },
@@ -4793,6 +4895,24 @@
     },
     {
       "album": {
+        "name": "Humble",
+        "url": "https://open.spotify.com/album/4A4WlSzQnX102wvX7Ahukg"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223568,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/23I0i2MXMFtkDwRHRiHTlX"
+    },
+    {
+      "album": {
         "name": "Hurray",
         "url": "https://open.spotify.com/album/1hSEGYKjYidrzq8xXnxgu7"
       },
@@ -5394,7 +5514,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 245893,
       "name": "In The End",
       "url": "https://open.spotify.com/track/6E8vEr5MN0GH7xMW2jN8SD"
@@ -6996,7 +7116,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195000,
       "name": "Messy",
       "url": "https://open.spotify.com/track/2RpUKNvbof9j97R7cvrT0Y"
@@ -7272,7 +7392,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 214265,
       "name": "MORE THAN A HOMIE",
       "url": "https://open.spotify.com/track/4LRzUc9qsLTwHhzXd8WaTI"
@@ -9931,6 +10051,28 @@
     },
     {
       "album": {
+        "name": "So Bad (bonus track)",
+        "url": "https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92"
+      },
+      "artists": [
+        {
+          "name": "Robyn Florence",
+          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
+        },
+        {
+          "name": "DAVIES",
+          "url": "https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120593,
+      "name": "So Bad - bonus track",
+      "url": "https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe"
+    },
+    {
+      "album": {
         "name": "So Cool",
         "url": "https://open.spotify.com/album/0WTexgyWemY3YVYS3VE8Qk"
       },
@@ -10218,7 +10360,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 231213,
       "name": "Souls x Mates",
       "url": "https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo"
@@ -11829,6 +11971,28 @@
     },
     {
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/3YT79msB3OrgU1qvd7vyot"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118731,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/4umymn6Qc9NZkoloGbEDgr"
+    },
+    {
+      "album": {
         "name": "Too Good",
         "url": "https://open.spotify.com/album/5HVN2gkgSGbY91XQ1sNKab"
       },
@@ -12261,6 +12425,28 @@
     },
     {
       "album": {
+        "name": "PSALM FUNK",
+        "url": "https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        },
+        {
+          "name": "Sheila Maurice-Grey",
+          "url": "https://open.spotify.com/artist/6213qnwAKa0wEJBVXxfOdC"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188751,
+      "name": "Walk with Me (feat. Sheila Maurice Grey)",
+      "url": "https://open.spotify.com/track/7hPIbQs1P227dUuXM2lO3v"
+    },
+    {
+      "album": {
         "name": "Walking Away",
         "url": "https://open.spotify.com/album/3pEXZXFDbuQlwvrUB0rnnn"
       },
@@ -12290,7 +12476,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 152083,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/1jD16HoA2HqZvi4UR9COqA"

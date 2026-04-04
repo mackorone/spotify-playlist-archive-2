@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Iceage",
-  "num_followers": 80832,
+  "num_followers": 82462,
   "original_name": "Editors' Picks: Best Songs of March",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/2z8hz5tjxXR3TrmVBD6mBw"
-      },
-      "artists": [
-        {
-          "name": "slayr",
-          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
-        }
-      ],
-      "duration_ms": 153617,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/1EtOaxATYj7RVYUJyaTS5d"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
         "name": "WOR$T GIRL IN AMERICA",
         "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
       },
@@ -263,18 +247,18 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "Knife In The Heart",
-        "url": "https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A"
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/2z8hz5tjxXR3TrmVBD6mBw"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
         }
       ],
-      "duration_ms": 177592,
-      "name": "Knife In The Heart",
-      "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
+      "duration_ms": 153617,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/1EtOaxATYj7RVYUJyaTS5d"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -299,6 +283,22 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
+        "name": "Knife In The Heart",
+        "url": "https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 177592,
+      "name": "Knife In The Heart",
+      "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
       },
@@ -311,22 +311,6 @@
       "duration_ms": 145710,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 248100,
-      "name": "Bodyfeeling",
-      "url": "https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -347,6 +331,22 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 248100,
+      "name": "Bodyfeeling",
+      "url": "https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
         "name": "barquito (bonus track)",
         "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 204974,
       "name": "barquito - bonus track",
       "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -395,22 +411,6 @@
       "duration_ms": 184481,
       "name": "Earth, Wind & California",
       "url": "https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
-        "name": "\u00d6",
-        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 177173,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
         "name": "NOISE",
         "url": "https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A"
+        "name": "Safety",
+        "url": "https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 177173,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh"
+      "duration_ms": 198648,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -587,22 +603,6 @@
       "duration_ms": 216637,
       "name": "Light as a Feather",
       "url": "https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
-        "name": "Safety",
-        "url": "https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 198648,
-      "name": "Safety",
-      "url": "https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
+        "name": "Aren't You Curious?",
+        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
+      },
+      "artists": [
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/3M9w4YSLJbRKaBITj8OqNd"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 135767,
       "name": "oooshxt!",
       "url": "https://open.spotify.com/track/5g7ekg0eed42JuSCUEuSEe"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
-        "name": "Aren't You Curious?",
-        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
-      },
-      "artists": [
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 184294,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
     },
     {
       "added_at": "2026-04-02 14:51:09",

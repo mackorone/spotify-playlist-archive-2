@@ -1,6 +1,6 @@
 {
   "description": "Uutta musaa tarjoilevat Olavi Uusivirta, Jami Faltin, Lordi, Vilma Alina... ja moni muu  \ud83c\udfb6",
-  "num_followers": 106177,
+  "num_followers": 106257,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -102,10 +102,14 @@
         {
           "name": "whereismike",
           "url": "https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim"
+        },
+        {
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 12",
+      "duration_ms": 161769,
+      "name": "p\u00e4\u00e4ttyy kyyneliin (feat. Tupe.)",
       "url": "https://open.spotify.com/track/797DCnlbSHSBDT3TVsjuvp"
     },
     {
@@ -367,6 +371,22 @@
     {
       "added_at": "2026-04-02 21:00:14",
       "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "added_at": "2026-04-02 21:00:14",
+      "album": {
         "name": "The Weight of the Woods",
         "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
       },
@@ -487,6 +507,22 @@
       "duration_ms": 189264,
       "name": "Kakkosvaihtoehto",
       "url": "https://open.spotify.com/track/2HoK1PftJvFfvcwQ6oXu2U"
+    },
+    {
+      "added_at": "2026-04-02 21:00:14",
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 143197,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy"
     },
     {
       "added_at": "2026-04-02 21:00:14",
@@ -1224,8 +1260,8 @@
           "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 166360,
+      "name": "Almost Over",
       "url": "https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5"
     },
     {

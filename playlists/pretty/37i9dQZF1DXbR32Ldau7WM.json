@@ -1,6 +1,6 @@
 {
   "description": "J-Rock acts who have broken the border and are making global impact.   Cover: Novelbright",
-  "num_followers": 303027,
+  "num_followers": 303046,
   "original_name": "Rock Strike Japan",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-03-31 18:39:11",
       "album": {
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "\u3084\u3063\u3066\u307f\u3088\u3046",
+      "url": "https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz"
+    },
+    {
+      "added_at": "2026-03-31 18:39:11",
+      "album": {
         "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
         "url": "https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 185566,
       "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
       "url": "https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv"
-    },
-    {
-      "added_at": "2026-03-31 18:39:11",
-      "album": {
-        "name": "Everybody!!",
-        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "\u3084\u3063\u3066\u307f\u3088\u3046",
-      "url": "https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz"
     },
     {
       "added_at": "2026-03-31 18:39:11",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-03-31 18:39:11",
       "album": {
-        "name": "TAIDADA",
-        "url": "https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 226026,
-      "name": "TAIDADA",
-      "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
-    },
-    {
-      "added_at": "2026-03-31 18:39:11",
-      "album": {
         "name": "\u7f8e\u3057\u3044\u9c2d",
         "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 209777,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
+    },
+    {
+      "added_at": "2026-03-31 18:39:11",
+      "album": {
+        "name": "TAIDADA",
+        "url": "https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 226026,
+      "name": "TAIDADA",
+      "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
     },
     {
       "added_at": "2026-03-31 18:39:11",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-03-31 18:39:11",
       "album": {
-        "name": "HOWL",
-        "url": "https://open.spotify.com/album/3srKYd89n0gITowdlh268j"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "HOWL",
-      "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
-    },
-    {
-      "added_at": "2026-03-31 18:39:11",
-      "album": {
         "name": "\u7b2c\u30bc\u30ed\u611f",
         "url": "https://open.spotify.com/album/7hUGSAApToftQu366lqPVf"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2026-03-31 18:39:11",
       "album": {
+        "name": "HOWL",
+        "url": "https://open.spotify.com/album/3srKYd89n0gITowdlh268j"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "HOWL",
+      "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
+    },
+    {
+      "added_at": "2026-03-31 18:39:11",
+      "album": {
         "name": "DETOX",
         "url": "https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 208666,
       "name": "Tropical Therapy",
       "url": "https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK"
+    },
+    {
+      "added_at": "2026-03-31 18:39:11",
+      "album": {
+        "name": "\u7523\u58f0",
+        "url": "https://open.spotify.com/album/3HzOxCdVJCvRxpKRqqzmuo"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "\u30ad\u30f3\u30b0\u30b9\u30cd\u30fc\u30af\u306e\u6182\u9b31",
+      "url": "https://open.spotify.com/track/05C9CerCZPIjF1TFrgex95"
     },
     {
       "added_at": "2026-03-31 18:39:11",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2026-03-31 18:39:11",
       "album": {
-        "name": "\u7523\u58f0",
-        "url": "https://open.spotify.com/album/3HzOxCdVJCvRxpKRqqzmuo"
-      },
-      "artists": [
-        {
-          "name": "Mr.Children",
-          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "\u30ad\u30f3\u30b0\u30b9\u30cd\u30fc\u30af\u306e\u6182\u9b31",
-      "url": "https://open.spotify.com/track/05C9CerCZPIjF1TFrgex95"
-    },
-    {
-      "added_at": "2026-03-31 18:39:11",
-      "album": {
         "name": "\u30ad\u30e9\u30fc\u30d1\u30b9",
         "url": "https://open.spotify.com/album/541MeMwAFGkHslqZMrp0aW"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-03-31 18:39:11",
       "album": {
-        "name": "\u3042\u306b\u3085\u30fc",
-        "url": "https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "\u30ef\u30fc\u30eb\u30c9\u30a8\u30f3\u30c9\u30ac\u30fc\u30eb\u30d5\u30ec\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C"
-    },
-    {
-      "added_at": "2026-03-31 18:39:11",
-      "album": {
         "name": "Delusion:All",
         "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 184909,
       "name": "Delusion:All",
       "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
+    },
+    {
+      "added_at": "2026-03-31 18:39:11",
+      "album": {
+        "name": "\u3042\u306b\u3085\u30fc",
+        "url": "https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "\u30ef\u30fc\u30eb\u30c9\u30a8\u30f3\u30c9\u30ac\u30fc\u30eb\u30d5\u30ec\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C"
     },
     {
       "added_at": "2026-03-31 18:39:11",

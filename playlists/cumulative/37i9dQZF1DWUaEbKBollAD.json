@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 224210,
       "name": "Peruvian Bounce",
       "url": "https://open.spotify.com/track/57j8aqFe82TJmJPgSzWvXT"
@@ -2307,6 +2307,32 @@
     },
     {
       "album": {
+        "name": "The Final Chapter",
+        "url": "https://open.spotify.com/album/3fPKtayucX2AynTWEhSRE0"
+      },
+      "artists": [
+        {
+          "name": "ACIDBOY",
+          "url": "https://open.spotify.com/artist/6GPDattbUr4eWnlOEICTt3"
+        },
+        {
+          "name": "Regal",
+          "url": "https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E"
+        },
+        {
+          "name": "AEREA",
+          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251832,
+      "name": "Ruido",
+      "url": "https://open.spotify.com/track/0CC1OTd1zrA3k7NyOqyYN1"
+    },
+    {
+      "album": {
         "name": "Ruler Vibes",
         "url": "https://open.spotify.com/album/7As2FWjonk7ZWSrA8aVMB4"
       },
@@ -2340,6 +2366,24 @@
       "duration_ms": 387591,
       "name": "RUMI",
       "url": "https://open.spotify.com/track/6iavauFQooqU4SQq48IdYB"
+    },
+    {
+      "album": {
+        "name": "Safe Space",
+        "url": "https://open.spotify.com/album/3wN33HPpnOsEG11w0TaEZd"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126030,
+      "name": "Safe Space",
+      "url": "https://open.spotify.com/track/1yYqQ8pEjysJtmTropetF8"
     },
     {
       "album": {
@@ -3014,6 +3058,24 @@
       "duration_ms": 345610,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5X0Jg0pte4sHFIaSHa1sXL"
+    },
+    {
+      "album": {
+        "name": "Evolver",
+        "url": "https://open.spotify.com/album/18OCMkjcuhGbymrhmZt44O"
+      },
+      "artists": [
+        {
+          "name": "Chris Liebing",
+          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Unfold",
+      "url": "https://open.spotify.com/track/42jrwZa5W3WJmIQJUJ0KNh"
     },
     {
       "album": {

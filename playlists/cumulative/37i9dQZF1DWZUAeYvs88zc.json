@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Therapy & Yoga",
+        "url": "https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166360,
+      "name": "Almost Over",
+      "url": "https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5"
+    },
+    {
+      "album": {
         "name": "Am I Alright",
         "url": "https://open.spotify.com/album/3b68VqtD6JXCG5NlVo0QTH"
       },
@@ -330,6 +348,24 @@
       "duration_ms": 260893,
       "name": "Angeleyes",
       "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
+    },
+    {
+      "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/200LAacp5mXwgFAr490iKq"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7"
     },
     {
       "album": {
@@ -1126,7 +1162,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 194038,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe"
@@ -8060,7 +8096,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 236026,
       "name": "Reunite",
       "url": "https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q"
@@ -8564,6 +8600,24 @@
       "duration_ms": 192413,
       "name": "Secret",
       "url": "https://open.spotify.com/track/77Gfhrr1Uh9Pv57MUUmVuY"
+    },
+    {
+      "album": {
+        "name": "Male Validation and Other Drugs",
+        "url": "https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220833,
+      "name": "Sex, Etc.",
+      "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"
     },
     {
       "album": {
@@ -9080,7 +9134,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 185660,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb"

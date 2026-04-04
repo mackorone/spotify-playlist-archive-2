@@ -2,9 +2,9 @@
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of best Prog Rock tracks\. Cover: Dream Theater
+> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-523 songs - 1 day 22 hr 27 min
+523 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Drone](https://open.spotify.com/track/5f0S8MYAve5k02OJaiOnv7) | [Karnivool](https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um) | [Drone](https://open.spotify.com/album/7x0fnd4CBbRgf00jWks3ID) | 4:59 | 2025-06-27 | 2025-07-19 |
 | [Duchess \(And The Proverbial Mind Spread\) \- Live from the Mann Music Center, Philadelphia, PA](https://open.spotify.com/track/1UHt517B4QztYZ6MfnXV00) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Duchess \(And The Proverbial Mind Spread\) \[Live from the Mann Music Center, Philadelphia, PA\]](https://open.spotify.com/album/3srhf6FHOq2LuR4JIOv8PI) | 4:50 | 2025-06-27 | 2025-08-02 |
 | [East Coast Racer \- Live in London 2023](https://open.spotify.com/track/0PWj8BEqfzvJw7VS8k2e6N) | [Big Big Train](https://open.spotify.com/artist/68VJJPVAVNAmwsDDf1i70g) | [A Flare On The Lens \(Live\)](https://open.spotify.com/album/73v44ExX2MnFSbPQWRoLGt) | 16:12 | 2024-09-19 | 2025-02-15 |
+| [Echoes](https://open.spotify.com/track/10VkUmXJ4xPRnZeBvyrfxr) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Echoes](https://open.spotify.com/album/7yt6Mr11bLcISr3nP8Jm1d) | 1:09 | 2026-04-02 |  |
 | [Echoes \- Part 1 \- Edit \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/4cneE6tz6nHEcX2ChM8ISO) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Echoes \- Part 1 \- Edit \(Live at Pompeii \- MCMLXXII \- 2025 Mix\)](https://open.spotify.com/album/6RhYZ6GtyfKczfaGs8QAUj) | 5:50 | 2025-02-28 | 2025-06-28 |
 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/2B3D38o8GaXnZo6DnTyZ2m) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw) | 5:50 | 2022-11-17 | 2024-04-19 |
 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 5:50 | 2022-11-17 | 2025-02-15 |
@@ -485,7 +486,6 @@
 | [Top Down Foot Down \- Live](https://open.spotify.com/track/65XtVjvAjf27yluTmaRzrg) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Top Down Foot Down \(Live\)](https://open.spotify.com/album/7meCfXCtrfaGlq5TJdAKfH) | 1:40 | 2025-02-14 | 2025-03-01 |
 | [Torn Apart \- From "Bleach"](https://open.spotify.com/track/1ZrNwseUVVkTmFyJiJgZgd) | [Gabriele Motta](https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ) | [Torn Apart \(From "Bleach"\)](https://open.spotify.com/album/0A9b5otbPvl7KKhjID5gnQ) | 2:18 | 2025-01-17 | 2025-04-12 |
 | [Total Mass Retain \- Steven Wilson Edit](https://open.spotify.com/track/4Xyd8c5iy4jqnAjlgPNbiT) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Total Mass Retain \(Steven Wilson Edit\)](https://open.spotify.com/album/5y3oH86U5qHY9InIjuSRRa) | 4:13 | 2025-02-14 | 2025-03-01 |
-| [Track 1](https://open.spotify.com/track/10VkUmXJ4xPRnZeBvyrfxr) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Echoes](https://open.spotify.com/album/7yt6Mr11bLcISr3nP8Jm1d) | 0:00 | 2026-04-02 |  |
 | [Triangulation \(feat\. John Petrucci\)](https://open.spotify.com/track/2MoGL0GCj3NiaAZB9a5pHi) | [Steve Morse Band](https://open.spotify.com/artist/4RvfPm4uzNgEzeAxBOAQZK), [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Triangulation](https://open.spotify.com/album/56G7p9w4Ob1AQMq8ltWqRE) | 4:50 | 2025-11-14 | 2025-12-13 |
 | [Two Way Mirror](https://open.spotify.com/track/0es5LEWVEDfHXu2CEzxhZG) | [Amplifier](https://open.spotify.com/artist/1lCspmd05bYpPS814xw5nl) | [Hologram](https://open.spotify.com/album/4Ug7LiX8vOnTbMR0cf85jY) | 5:30 | 2024-10-18 | 2025-01-25 |
 | [Tyranny](https://open.spotify.com/track/2mz6JLo0HtACeHmghEexMT) | [Earthside](https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg), [Pritam Adhikary](https://open.spotify.com/artist/5DvZ3udrammWERVbyTftco) | [Let The Truth Speak](https://open.spotify.com/album/2E39lOAEkghDFoa6tAzJjG) | 8:39 | 2024-10-18 | 2025-02-15 |

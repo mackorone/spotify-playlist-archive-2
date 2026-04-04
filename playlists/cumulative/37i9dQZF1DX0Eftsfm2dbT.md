@@ -2,7 +2,7 @@
 
 ### [+81 Connect: J\-HipHop 最新注目曲](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> 【POP YOURS DAY1】J\-Hip Hopの最新注目曲をまとめてチェック cover: LANA \*水曜更新。マイライブラリに保存して毎週チェックしよう
+> 【POP YOURS DAY2】J\-Hip Hopの最新注目曲をまとめてチェック cover: 千葉雄喜 \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
 2,398 songs - 5 day 0 hr 48 min
 
@@ -1681,7 +1681,7 @@
 | [SHIBUKI BOY](https://open.spotify.com/track/1Aj5xn9cHByP8NmXbvI8me) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [SHIBUKI BOY](https://open.spotify.com/album/2gNtzHZ7UNQWj3EKe5aKKW) | 2:37 | 2023-10-03 | 2023-11-29 |
 | [Shibuya](https://open.spotify.com/track/3bXhUkVq9kh7pWuh3prLPD) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [Shibuya](https://open.spotify.com/album/5aARgJUvKBGbYtOrTG77AY) | 2:09 | 2026-01-15 | 2026-02-04 |
 | [Shinjiteru](https://open.spotify.com/track/2EoMQ0QqUoTaWSdGceO1wG) | [shuto](https://open.spotify.com/artist/7GDEHYe4fzouanlgVi3ZkE) | [Shinjiteru](https://open.spotify.com/album/5AYQ1FvgMDct6z0UQI2dup) | 3:02 | 2025-05-13 | 2025-08-13 |
-| [Shinpai Muyou](https://open.spotify.com/track/1susvnKQ4rmj5AyAC1YuPR) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [Shinpai Muyou](https://open.spotify.com/album/7rhrrRBda7xj3rLEZ9jzcJ) | 2:45 | 2025-07-10 | 2025-11-05 |
+| [Shinpai Muyou](https://open.spotify.com/track/1susvnKQ4rmj5AyAC1YuPR) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [Shinpai Muyou](https://open.spotify.com/album/7rhrrRBda7xj3rLEZ9jzcJ) | 2:45 | 2025-07-10 |  |
 | [Shinpin](https://open.spotify.com/track/29Yp2wENSifXKNGnLIbSgC) | [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Shinpin](https://open.spotify.com/album/0q5BWTrFIxP1NVUZB96Q5b) | 2:20 | 2025-07-01 | 2025-07-30 |
 | [SHINUHODO](https://open.spotify.com/track/69IMWw9QRc46zDz9GhGBoW) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [SHINUHODO](https://open.spotify.com/album/1oCxkPibqcgXKPBXqrvNyn) | 2:42 | 2023-12-06 | 2024-01-24 |
 | [SHOGUN](https://open.spotify.com/track/0PVBLPcCCVVXekGUlfFWfU) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Braxton Knight](https://open.spotify.com/artist/6UJNjW9qNBTqn1Z5g8TKs6), [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [SHOGUN](https://open.spotify.com/album/5Ym6p309IArL8Dj3b0wOnl) | 3:31 | 2025-07-08 | 2025-07-30 |

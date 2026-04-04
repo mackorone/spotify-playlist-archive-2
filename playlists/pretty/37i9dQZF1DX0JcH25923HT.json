@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 583623,
+  "num_followers": 583783,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "You're Welcome",
-        "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sigo Fresh",
-      "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Illuminati (Remix)",
         "url": "https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 290666,
       "name": "Illuminati - Remix",
       "url": "https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sigo Fresh",
+      "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
     },
     {
       "added_at": "2024-03-08 16:14:30",

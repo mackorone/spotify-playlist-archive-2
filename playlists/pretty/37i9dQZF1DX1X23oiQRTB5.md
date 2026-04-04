@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > La Rvfleuze au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,611,781 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,611,855 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Retour aux pyramides](https://open.spotify.com/track/6LN1NUnuny49b7tpNRDt43) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [Retour aux pyramides](https://open.spotify.com/album/75Z8HLG5dKEvcmdueJ4vED) | 3:05 |
 | 40 | [JACK HONEY](https://open.spotify.com/track/7xr5N76go3yqgihOkHfCjz) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [TOUT DROIT](https://open.spotify.com/album/1dQqqh5dopbGCLSzHt5dYl) | 2:21 |
 
-Snapshot ID: `AAAAACcCXLhs8i5gUOkg8nCP1L1r8SOd`
+Snapshot ID: `AAAAACpzkRcEowKjl75c42s1w/p3w84Z`

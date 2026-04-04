@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Dan Sanchez y Kidd Keo en portada.",
+  "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Gweri B en portada.",
   "name": "El Barrio MP3 ",
   "tracks": [
     {
@@ -224,6 +224,28 @@
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
+    },
+    {
+      "album": {
+        "name": "4 2 0 FRISTAIL",
+        "url": "https://open.spotify.com/album/7M81qe3BhSXGG42o3fLS9v"
+      },
+      "artists": [
+        {
+          "name": "Zeta Uno",
+          "url": "https://open.spotify.com/artist/1GybYOecaoK4DX6WdgtQf0"
+        },
+        {
+          "name": "Salon Sandunga",
+          "url": "https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133586,
+      "name": "4 2 0 FRISTAIL",
+      "url": "https://open.spotify.com/track/7JnKynCa2mFZ7fyrBwi7ge"
     },
     {
       "album": {
@@ -1088,7 +1110,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 164010,
       "name": "Aqu\u00ed Voy A Seguir",
       "url": "https://open.spotify.com/track/7iwUq6KORIU3YPaYvqVnkq"
@@ -1276,7 +1298,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 183809,
       "name": "Bad Company (feat. BlocBoy JB)",
       "url": "https://open.spotify.com/track/3ZYwSDF9knZI0RVlKR4PHC"
@@ -2686,6 +2708,32 @@
       "duration_ms": 143661,
       "name": "Como Pancho Villa",
       "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
+    },
+    {
+      "album": {
+        "name": "Como Yo",
+        "url": "https://open.spotify.com/album/6ubI4MDrTTjEjo0RmIIWfM"
+      },
+      "artists": [
+        {
+          "name": "Gweri B",
+          "url": "https://open.spotify.com/artist/72t5NVrdGIrMDYeQclMveh"
+        },
+        {
+          "name": "Kapostik",
+          "url": "https://open.spotify.com/artist/7abYZTZ9ewdRuVUSJbowO3"
+        },
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123877,
+      "name": "Como Yo",
+      "url": "https://open.spotify.com/track/2Mfxxm32s5qwaxkRDNuxtz"
     },
     {
       "album": {
@@ -4228,7 +4276,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 249153,
       "name": "El D\u00eda Que Me Vaya",
       "url": "https://open.spotify.com/track/4aPtoiPFFNv9rkTY5f0360"
@@ -7274,7 +7322,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 163378,
       "name": "Lamine Yamal",
       "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
@@ -8060,7 +8108,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 160208,
       "name": "Matraca",
       "url": "https://open.spotify.com/track/0cbzCMGRj9PomKcISNayLc"
@@ -8882,6 +8930,24 @@
       "duration_ms": 194823,
       "name": "M\u00fasica Mexa",
       "url": "https://open.spotify.com/track/4yOi3U3ItUcRckpjjuVPEJ"
+    },
+    {
+      "album": {
+        "name": "Nalguita y Teta",
+        "url": "https://open.spotify.com/album/0jwalP0wios13VlRWKILbC"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187764,
+      "name": "Nalguita y Teta",
+      "url": "https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ"
     },
     {
       "album": {
@@ -9724,6 +9790,24 @@
       "duration_ms": 243472,
       "name": "Pensamientos Grandes",
       "url": "https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW"
+    },
+    {
+      "album": {
+        "name": "Perfume Carolina",
+        "url": "https://open.spotify.com/album/6qpHpQ5g9swZhwCOGwMoQj"
+      },
+      "artists": [
+        {
+          "name": "Los 2R",
+          "url": "https://open.spotify.com/artist/74XsIoc8avUfeIRwLi2BEv"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Perfume Carolina",
+      "url": "https://open.spotify.com/track/7MaJCfVezozeViFEp3EFxo"
     },
     {
       "album": {
@@ -11480,6 +11564,32 @@
       "duration_ms": 146511,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/4jLmZzlR6qJy6V9CBEHE5D"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa Te Vas",
+        "url": "https://open.spotify.com/album/7iFxKNfX3GYlA1mKiK77XC"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Yulios Kumbia",
+          "url": "https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH"
+        },
+        {
+          "name": "La Clase Loka",
+          "url": "https://open.spotify.com/artist/22nSnChdvEoslVuyfY2pHf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243863,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/7GdzfFo6cTW4OkLpU8ZHgn"
     },
     {
       "album": {
@@ -13495,6 +13605,28 @@
     },
     {
       "album": {
+        "name": "X Amores Ya No Muero",
+        "url": "https://open.spotify.com/album/1aiexqeuQDsUzIQGEmgqov"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "X Amores Ya No Muero",
+      "url": "https://open.spotify.com/track/2vxUkqTy3o9JD9bJwtoYy9"
+    },
+    {
+      "album": {
         "name": "XClusive",
         "url": "https://open.spotify.com/album/4I0e6Oe4UIc6GpcTcHityz"
       },
@@ -13694,7 +13826,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186000,
       "name": "ZUMBANDO",
       "url": "https://open.spotify.com/track/0eyQrJBitRm6DZfdQ7Ssnc"

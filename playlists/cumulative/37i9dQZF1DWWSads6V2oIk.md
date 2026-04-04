@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-158 songs - 9 hr 35 min
+160 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Forest River Sounds](https://open.spotify.com/track/6tKfI7fERNz2Og8VnmrvBT) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 3:04 | 2021-12-22 |  |
 | [Forest Stream and Ambience](https://open.spotify.com/track/7rl0hWyHYElIiRhIeSI9C9) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Sounds of the Forest](https://open.spotify.com/album/0ErLNh7mCQang53en2wYVV) | 3:05 | 2021-12-22 | 2026-04-03 |
 | [Forest Therapy](https://open.spotify.com/track/1o5wI9xAk3n5SVXBbdAEf3) | [INDAYA](https://open.spotify.com/artist/3UzYsKmyzyiSLGVC7RXlvw) | [Nature Heritage](https://open.spotify.com/album/3i29jHWl0L3sa276ySSsos) | 3:16 | 2021-12-22 |  |
+| [Forest Veil of Calm](https://open.spotify.com/track/713cxL8jFho2xjv1quABDd) | [Natures Acoustics](https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1) | [Forest Veil of Calm](https://open.spotify.com/album/1MbpUJe6fX7UK9oSiZm5GL) | 2:53 | 2026-04-02 |  |
 | [Frogs and Rain near the River](https://open.spotify.com/track/6e5HVs8ctp5QxGShtMlEMY) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:20 | 2023-06-20 | 2026-02-22 |
 | [Gentle Waters \(Rain\)](https://open.spotify.com/track/5DKlfLW5p13tBiuetBLWNX) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:16 | 2021-12-22 |  |
 | [Ghosts of the Woods](https://open.spotify.com/track/2Z3NZCHCW05TxANQYPyuYj) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Evening Soundscapes](https://open.spotify.com/album/0JPQTfhNspilaTkduVToOf) | 2:31 | 2024-03-27 | 2025-07-08 |
@@ -105,7 +106,7 @@
 | [Rain Falling On Tree](https://open.spotify.com/track/0obt0uwGoJXkktxoSylXVz) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5W5jd58bjWGTReUGzbJzG1) | 3:23 | 2021-12-22 | 2026-01-21 |
 | [Rain Forest Ambience with Medium Distant Bird Chirps and Crickets with Sporadic Close up Exotic Bird Calls and Distant Howler Monkey](https://open.spotify.com/track/2znPXY4YpOqHMrmEUlcTL1) | [The Hollywood Edge Sound Effects Library](https://open.spotify.com/artist/45dR66czwTjbWT4VaTNP8l) | [Nature Ambiences, Vol\. 2](https://open.spotify.com/album/5e7gIIAYQGCJEoMHjUZYAs) | 2:51 | 2021-12-22 | 2026-03-23 |
 | [Rain Forest Birds](https://open.spotify.com/track/0CB5yrOeZ2ZRTM13sruVcI) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 3:05 | 2021-12-22 | 2025-09-05 |
-| [Rain Forest Birds](https://open.spotify.com/track/2IYxIeTZCkcjWrXOAZ7QFc) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Autumn Rain](https://open.spotify.com/album/7tjr0VEI6SgRVK8VB1UmhI) | 3:12 | 2021-12-22 |  |
+| [Rain Forest Birds](https://open.spotify.com/track/2IYxIeTZCkcjWrXOAZ7QFc) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Autumn Rain](https://open.spotify.com/album/7tjr0VEI6SgRVK8VB1UmhI) | 3:12 | 2021-12-22 | 2026-04-04 |
 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 | 2021-12-22 | 2024-03-28 |
 | [Rain In The Forest](https://open.spotify.com/track/59qpYkbZNKjClf9lm4EPyw) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Rain In The Forest](https://open.spotify.com/album/4gxhbBMd0f76hxLXPOZsvZ) | 2:38 | 2026-04-02 |  |
 | [Rain In The Rainforest](https://open.spotify.com/track/7709cD193A9ASewVfJ849M) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Nature Living](https://open.spotify.com/album/7v6f0Qzdn4U2kLXX43D0fW) | 2:23 | 2021-12-22 |  |
@@ -113,7 +114,7 @@
 | [Rain with Distant Birds](https://open.spotify.com/track/4Mx3Zc9sXgZVGpdGwnkqWT) | [Summer Showers](https://open.spotify.com/artist/5WaXjTT6fmL7qkGEIHPNAX) | [Rain is Beautiful](https://open.spotify.com/album/1y3pf7GrykIehQ2oIUy0Aq) | 1:32 | 2021-12-22 | 2023-06-21 |
 | [Rainbirds In The Night](https://open.spotify.com/track/6NBsSdXls9zmJ4VeBAY30x) | [Wide Noises](https://open.spotify.com/artist/7eKxML2Je6bPrWXH80s8as) | [Rainbirds In The Night](https://open.spotify.com/album/0XqWwqOOTEHZA8xUWDY7tp) | 2:23 | 2022-05-24 | 2025-01-25 |
 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 | 2021-12-22 |  |
-| [Rainforest Dreaming](https://open.spotify.com/track/1SrBrcJ4GfJqabZyM8WoNo) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Out in Myeik](https://open.spotify.com/album/0DUnBjceNZZisaUMFxQz39) | 3:32 | 2023-02-20 |  |
+| [Rainforest Dreaming](https://open.spotify.com/track/1SrBrcJ4GfJqabZyM8WoNo) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Out in Myeik](https://open.spotify.com/album/0DUnBjceNZZisaUMFxQz39) | 3:32 | 2023-02-20 | 2026-04-04 |
 | [Rainforest During The Night](https://open.spotify.com/track/166UFdIQFu7c7DKJy0bu6F) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Myanmar Rain](https://open.spotify.com/album/47NVh2pWSGVJLL860oCXxR) | 3:28 | 2022-02-25 |  |
 | [Rainforest Rain](https://open.spotify.com/track/7G9By80TKqAtNRPdBiSTpg) | [Wp Sounds](https://open.spotify.com/artist/28wXAxbwofL7K6bsmHnD6k) | [Rain Sounds](https://open.spotify.com/album/71OA2dK48YdLK22Q2ZKrkL) | 2:41 | 2021-12-22 | 2022-05-25 |
 | [Rainy Day In Forest](https://open.spotify.com/track/6dQBw0A8STk3ssr9NyVadt) | [HD Nature Sound Library](https://open.spotify.com/artist/2JdsJhCSbNc4C9CR56k1ju) | [In The Rain](https://open.spotify.com/album/51N5TreaHoU7z7WRT28q56) | 3:03 | 2021-12-22 |  |
@@ -134,6 +135,7 @@
 | [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 | 2026-04-02 |  |
 | [Soft Evening Chorus for Relaxation](https://open.spotify.com/track/3REB3iIG1OGeMQyauiKe5m) | [Outdoor Sound Makers](https://open.spotify.com/artist/1ZvH1asTCMDD0RgCUNOpVM) | [Mystic Forest Flow](https://open.spotify.com/album/7egQQWJKYpZD9xGbhV4re5) | 2:26 | 2025-07-21 | 2026-04-03 |
 | [Soft Rain in the Amazonas](https://open.spotify.com/track/2eUw9Ihwluy1kKKwFNI8JU) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 4:00 | 2023-06-20 | 2024-02-10 |
+| [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 | 2026-04-02 |  |
 | [Soothing Sounds Of The Forest](https://open.spotify.com/track/66i2MpxMRrYegF4Ca68egW) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 | 2023-02-20 |  |
 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 | 2022-02-25 |  |
 | [Storm in the Distance](https://open.spotify.com/track/0SlsmPh8FGXhfdR3fCb14g) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Lost in the Rainforest](https://open.spotify.com/album/2xpTsNAzRb56XKfQbvx9Z8) | 3:30 | 2021-12-22 |  |

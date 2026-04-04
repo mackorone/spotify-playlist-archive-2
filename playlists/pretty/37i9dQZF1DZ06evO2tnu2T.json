@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 1969,
+  "num_followers": 1982,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAACyc1ett4SA8DAovcUuCr9t",
+  "snapshot_id": "ac2xgAAAAAAwZoxFzqAURP1nEjm1UPir",
   "tracks": [
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 161524,
-      "name": "Symphony",
-      "url": "https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R"
+      "duration_ms": 211010,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 211010,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso"
+      "duration_ms": 161524,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R"
     },
     {
       "added_at": null,

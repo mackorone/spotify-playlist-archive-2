@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-741 songs - 1 day 11 hr 49 min
+741 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,7 +662,6 @@
 | [Touché](https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Moneybag](https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao) | 2:14 | 2023-10-20 | 2023-10-27 |
 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 | 2024-01-08 | 2024-03-22 |
 | [TOYL \(Time Of Your Life\)](https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [TOYL \(Time Of Your Life\)](https://open.spotify.com/album/1ad4lbzO6ZSQsTHMxNbvTN) | 3:45 | 2024-09-27 | 2025-01-30 |
-| [Track 2](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 0:00 | 2026-04-03 |  |
 | [Trobul](https://open.spotify.com/track/3mitop70iyN03AreLNsit4) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Trobul](https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS) | 4:02 | 2022-06-09 | 2023-12-08 |
 | [Tropicana](https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Palmwine Music 2](https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5) | 4:15 | 2022-06-09 | 2023-12-02 |
 | [Tropicana](https://open.spotify.com/track/1wTupR6XF1y1yduWbrBa1x) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C), [9roovy](https://open.spotify.com/artist/1vcTEePkCTv3XMyuVNSAMy) | [Tropicana](https://open.spotify.com/album/3iESACtNvFj9ow5aQOTicl) | 2:27 | 2026-03-20 |  |
@@ -703,6 +702,7 @@
 | [Weep, No More](https://open.spotify.com/track/6dzICV2gDRl8SjPeqLnOQv) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Weep, No More](https://open.spotify.com/album/2nw55c24zEeo0RAhQhkWxB) | 2:21 | 2023-02-10 | 2023-03-04 |
 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 | 2023-01-29 | 2023-03-04 |
 | [Wetin \- Remix](https://open.spotify.com/track/58oOh7vBW4fXtZfmuNKRtT) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Wetin \(Remix\)](https://open.spotify.com/album/1tDDrZpSeQuI3CWNhYhfkE) | 2:00 | 2025-03-28 | 2025-05-17 |
+| [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 | 2026-04-03 |  |
 | [What To Expect When Expecting](https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [What To Expect When Expecting](https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf) | 2:48 | 2022-09-09 | 2022-10-14 |
 | [What's Poppin](https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam) | 3:15 | 2023-08-10 | 2023-11-04 |
 | [What's Poppin](https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw) | 3:15 | 2023-11-03 | 2024-04-19 |

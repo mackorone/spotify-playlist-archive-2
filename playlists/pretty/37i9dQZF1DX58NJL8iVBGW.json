@@ -1,12 +1,12 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 808547,
+  "num_followers": 808684,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAddSY7t6/+0HiC3RkFq9mGkyIW3",
+  "snapshot_id": "AAAAAHwM7dLXNas4G6PMUW4VFtD+trul",
   "tracks": [
     {
       "added_at": "2026-03-27 00:00:34",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "When the River Took Flight",
         "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
       },
@@ -647,18 +663,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
+        "name": "Six Shades of Grey",
+        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
       },
       "artists": [
         {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+          "name": "Lindsey Troy",
+          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
+        },
+        {
+          "name": "Deap Vally",
+          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
+      "duration_ms": 203757,
+      "name": "Six Shades of Grey",
+      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -691,26 +711,6 @@
       "duration_ms": 331908,
       "name": "Shake off Your Flesh",
       "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Six Shades of Grey",
-        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Troy",
-          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
-        },
-        {
-          "name": "Deap Vally",
-          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
-        }
-      ],
-      "duration_ms": 203757,
-      "name": "Six Shades of Grey",
-      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 193866,
       "name": "O Death (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
-      },
-      "artists": [
-        {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
-        }
-      ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
-      },
-      "artists": [
-        {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Little Wing",
         "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 175960,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Look Homeward",
+        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
+      },
+      "artists": [
+        {
+          "name": "Look Homeward",
+          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Sister Death",
+      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Hawk",
+        "url": "https://open.spotify.com/album/0cSyiBaPRl6MG4lMuKYL97"
+      },
+      "artists": [
+        {
+          "name": "Isobel Campbell",
+          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
+        },
+        {
+          "name": "Mark Lanegan",
+          "url": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "Snake Song",
+      "url": "https://open.spotify.com/track/0ki12WtT63xUQCYkVpRZGZ"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Beat the Devil's Tattoo",
         "url": "https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP"
       },
@@ -1631,22 +1651,6 @@
       "duration_ms": 346333,
       "name": "Filthy Dirty South",
       "url": "https://open.spotify.com/track/74Fd1uz6wiTaqDXyWK7AXl"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Ashkelon",
-        "url": "https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 313867,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9"
     }
   ],
   "unique_name": "Southern Gothic",

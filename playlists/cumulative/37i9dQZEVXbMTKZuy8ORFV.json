@@ -8415,6 +8415,24 @@
     },
     {
       "album": {
+        "name": "Cicada",
+        "url": "https://open.spotify.com/album/1ThsXj0KW5WpOAu7MLyZRc"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166955,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/6BlEdTeWLngROHBvh1rWaJ"
+    },
+    {
+      "album": {
         "name": "Mentira La Verdad",
         "url": "https://open.spotify.com/album/6MYRm0FnvxfQVxc2U6IVPA"
       },
@@ -10334,7 +10352,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 214920,
       "name": "Cuando quieres",
       "url": "https://open.spotify.com/track/502iJvcXNph5p8oPqjg0M8"
@@ -12128,7 +12146,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 194815,
       "name": "Dispuesta",
       "url": "https://open.spotify.com/track/1dS0SXE49xmnfnmJTg8yca"
@@ -20562,7 +20580,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2"
@@ -21018,6 +21036,24 @@
     {
       "album": {
         "name": "Jane!",
+        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
+    },
+    {
+      "album": {
+        "name": "Jane!",
         "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
       },
       "artists": [
@@ -21028,7 +21064,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
@@ -23876,7 +23912,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 138897,
       "name": "Loop",
       "url": "https://open.spotify.com/track/0OD0jZsRWsC8FwKektKyA4"
@@ -23916,7 +23952,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 134071,
       "name": "Looping the Rooms (feat. HATSUNE MIKU)",
       "url": "https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI"
@@ -24352,7 +24388,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -24934,7 +24970,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 150812,
       "name": "Machista",
       "url": "https://open.spotify.com/track/2jJ5gHhgrCiKlZJamIB9mY"
@@ -26452,7 +26488,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 139400,
       "name": "MHM",
       "url": "https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI"
@@ -34781,6 +34817,28 @@
     },
     {
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181599,
+      "name": "PREACHER MAN",
+      "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ"
+    },
+    {
+      "album": {
         "name": "Predador de Perereca",
         "url": "https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM"
       },
@@ -37182,7 +37240,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -42522,7 +42580,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 211022,
       "name": "Termonuclear",
       "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"
@@ -48868,7 +48926,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 118666,
       "name": "Yo te conozco :):",
       "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"
@@ -49432,7 +49490,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 218248,
       "name": "\u00bfC\u00f3mo se ama?",
       "url": "https://open.spotify.com/track/0aEIAGgFPbtWe9HX4lSEPk"

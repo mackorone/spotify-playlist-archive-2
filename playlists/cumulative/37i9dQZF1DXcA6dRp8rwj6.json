@@ -48199,6 +48199,28 @@
     },
     {
       "album": {
+        "name": "Pops",
+        "url": "https://open.spotify.com/album/68C9RgYAybkxqDZzdtt3ak"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "Pops",
+      "url": "https://open.spotify.com/track/2OTJjxvUACGWALxdUDohBu"
+    },
+    {
+      "album": {
         "name": "Good Music Hypnotizes",
         "url": "https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ"
       },

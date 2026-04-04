@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 40038,
+  "num_followers": 40049,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAlH5r1G/RBg/ccIitVpksU",
+  "snapshot_id": "ac2xgAAAAADEeMKDr7WqykugCNptGWYY",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen of Da Souf",
-        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Muwop (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/231WYcXWUxYSx79tuPtzBk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COMING HOME",
         "url": "https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 212575,
       "name": "A-Town Girl",
       "url": "https://open.spotify.com/track/2FPn9y8gvvrp9gydZmGpvT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Muwop (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/231WYcXWUxYSx79tuPtzBk"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You For Believing",
-        "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 168019,
-      "name": "5'5 (feat. Latto)",
-      "url": "https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Play With It (feat. Latto & Yung Miami) [Remix]",
         "url": "https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 179533,
       "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
       "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You For Believing",
+        "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 168019,
+      "name": "5'5 (feat. Latto)",
+      "url": "https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ"
     },
     {
       "added_at": null,

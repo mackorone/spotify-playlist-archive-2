@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: The Philharmonik
 
-502 songs - 1 day 5 hr 18 min
+503 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [In My Bones](https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [In My Bones](https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp) | 3:37 | 2023-07-14 | 2025-02-01 |
 | [In The Morning](https://open.spotify.com/track/5VJYx5pWH1Xqc3ZYf18L4E) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [In The Morning](https://open.spotify.com/album/0npcY0CbZwg7I7xyHZSmQf) | 4:00 | 2024-05-03 |  |
 | [Into the Night](https://open.spotify.com/track/7GStnyZffPUZaJpe27bmDx) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF) | [Into the Night](https://open.spotify.com/album/5rX9FsDuGiUXGdZnklcgQn) | 3:53 | 2024-08-09 | 2025-01-11 |
+| [IRL](https://open.spotify.com/track/3RlATEbGvl4bvoBgeksryg) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [IRL](https://open.spotify.com/album/1zkAiB0psHVIZB8JiQvdSX) | 3:31 | 2026-04-03 |  |
 | [Is There Any Love](https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Twin Shadow](https://open.spotify.com/album/4QZCgxTBUhyILi8vxR4fYU) | 3:27 | 2021-07-09 | 2022-11-05 |
 | [It Feels Good To Write A Song](https://open.spotify.com/track/467adj5oe7iFD39MbA0VV6) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [It Feels Good To Write A Song](https://open.spotify.com/album/6Tn91A0aDiM5tHmgEG4Nai) | 2:58 | 2024-04-26 |  |
 | [It Won't Get Ya](https://open.spotify.com/track/53KuZto0guJ4qCSoNHgFfW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:38 | 2021-06-04 | 2022-01-29 |
@@ -418,7 +419,7 @@
 | [SUPERPOWERS](https://open.spotify.com/track/717vo5eln3dMd1mOSdGQMr) | [Stee Moglie](https://open.spotify.com/artist/5koldNtStAQ8R6emPcSE51), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [SUPERPOWERS](https://open.spotify.com/album/4oIKEETxNWLpwlxZHEyx7R) | 2:58 | 2023-09-22 | 2024-07-13 |
 | [Surrender](https://open.spotify.com/track/2Waa8KOIfBo9o45OeHGtBN) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Surrender](https://open.spotify.com/album/4u68OSxlNIVgNXuoOpGL9U) | 3:41 | 2024-06-07 |  |
 | [Sweatshirt](https://open.spotify.com/track/3CHbzJ5OIbVc46A7wignsd) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [Sweatshirt](https://open.spotify.com/album/6nT2iz80WNAVjUHmfqUlau) | 3:19 | 2023-03-24 | 2024-02-17 |
-| [Sweet Escape feat\. ひかり \- Jafunk Remix](https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\) \[Jafunk Remix\]](https://open.spotify.com/album/48YB5mSWFYupUc0NbKkKie) | 3:37 | 2023-07-28 |  |
+| [Sweet Escape feat\. ひかり \- Jafunk Remix](https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\) \[Jafunk Remix\]](https://open.spotify.com/album/48YB5mSWFYupUc0NbKkKie) | 3:37 | 2023-07-28 | 2026-04-04 |
 | [Sweet Tooth](https://open.spotify.com/track/2PSissBzTet0WdjuFXU6A5) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT) | [Sweet Tooth](https://open.spotify.com/album/45CGUxginHlvey2BY8E2pE) | 4:10 | 2022-08-26 | 2023-02-25 |
 | [Take Me Higher](https://open.spotify.com/track/4ORp5huJChm7E6QZpA1482) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Take Me Higher](https://open.spotify.com/album/3rJ1uoo2TS4CqPE49XOzeT) | 4:04 | 2021-01-22 | 2022-05-20 |
 | [Talk To Me](https://open.spotify.com/track/1vGANe8vFo5A0y3P7XNhFS) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Talk To Me](https://open.spotify.com/album/2rMfKJjaLsupaBD3kkF78e) | 4:04 | 2024-03-29 |  |

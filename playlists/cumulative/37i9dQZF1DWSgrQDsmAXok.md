@@ -4,7 +4,7 @@
 
 > The all\-timers from a rising singer\-songwriter from Japan, Fujii Kaze\. 藤井 風の代表曲をひとつのプレイリストで。
 
-68 songs - 4 hr 50 min
+69 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Hedemo Ne\-Yo \- LASA edit](https://open.spotify.com/track/4Lrz9Fg8L1yncuCjjKjD4D) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:08 | 2023-11-02 | 2024-04-19 |
 | [I Need U Back](https://open.spotify.com/track/2D7Bqzfa2pJqa0LUftrVgx) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:06 | 2025-09-05 |  |
 | [It Ain't Over](https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:59 | 2025-09-05 |  |
+| [It's Alright](https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Pre: Prema](https://open.spotify.com/album/1aslkAwn7kQ4HC9EkHTfaH) | 3:22 | 2026-04-03 |  |
 | [Kaerou](https://open.spotify.com/track/26e8ujjSpBAHhIY2ymLUT1) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 4:44 | 2023-11-02 | 2024-04-19 |
 | [Kazeyo](https://open.spotify.com/track/5cpOWNmI84MuUCeciETO64) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 4:44 | 2023-11-02 | 2024-04-19 |
 | [Kirari \- Daul Remix](https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [DAUL](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 4:05 | 2023-11-02 |  |

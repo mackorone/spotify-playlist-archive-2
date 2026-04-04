@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 223000,
       "name": "Brown 50 Hz",
       "url": "https://open.spotify.com/track/3ez3vUUPb1y7MZDiGWzUps"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 216024,
       "name": "Brown Noise 743Hz",
       "url": "https://open.spotify.com/track/4hbUmOmvkhmmGahzjEBdGT"
@@ -992,6 +992,24 @@
       "duration_ms": 224000,
       "name": "Brown Noise Cold Plunge",
       "url": "https://open.spotify.com/track/6WSgIpFD161LgTUw5t0NcW"
+    },
+    {
+      "album": {
+        "name": "Brown Noise Continuum",
+        "url": "https://open.spotify.com/album/6VGXBqCCNNbhkahElV4OAC"
+      },
+      "artists": [
+        {
+          "name": "Bona Nochy",
+          "url": "https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Brown Noise Continuum",
+      "url": "https://open.spotify.com/track/2k34sNbQDrC0fGCGd0P4qx"
     },
     {
       "album": {
@@ -5258,6 +5276,24 @@
       "duration_ms": 200000,
       "name": "Sweet Sleep Brown Noise",
       "url": "https://open.spotify.com/track/48IAfxqW01o5oTwP3YCbgZ"
+    },
+    {
+      "album": {
+        "name": "Hidden Highway Noise",
+        "url": "https://open.spotify.com/album/4HtmYbhdWYkp5tn562W2Gi"
+      },
+      "artists": [
+        {
+          "name": "Nebularity",
+          "url": "https://open.spotify.com/artist/41SRniyeD8nJ7HDfSRm92m"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Swell Brown Tone",
+      "url": "https://open.spotify.com/track/5vfolDqi83bunkDaYVBOob"
     },
     {
       "album": {

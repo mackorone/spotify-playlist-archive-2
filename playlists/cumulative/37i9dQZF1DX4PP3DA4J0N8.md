@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-226 songs - 10 hr 50 min
+228 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 | 2023-09-20 |  |
 | [Dawn Birds near the River](https://open.spotify.com/track/1z60VwPt22jll8r46NAphF) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Dawn Birds near the River](https://open.spotify.com/album/3Houzr9zjYd97R8GyT6Eiq) | 4:09 | 2025-11-11 |  |
 | [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 | 2022-03-25 | 2022-04-29 |
-| [dense leaf canopy](https://open.spotify.com/track/03iPmLyIVO7H74oPOnOP4G) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 3:03 | 2025-07-24 |  |
+| [dense leaf canopy](https://open.spotify.com/track/03iPmLyIVO7H74oPOnOP4G) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 3:03 | 2025-07-24 | 2026-04-04 |
 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 | 2022-03-25 | 2024-03-27 |
 | [Down Stream](https://open.spotify.com/track/7x50aLAvwia2rd5YX5Jz2a) | [Drifting Streams](https://open.spotify.com/artist/7GdXNgwObAO7mvdQcDT0Yo) | [Down Stream](https://open.spotify.com/album/51pQpU9fLo5xTjSBQ4NwtP) | 5:14 | 2022-03-25 |  |
 | [Drifting Through Birdsong](https://open.spotify.com/track/6VvQIvgcal9w3tOgd76blm) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Drifting Through Birdsong](https://open.spotify.com/album/6P490oFAW66ie6kcwq7PDH) | 2:50 | 2025-09-23 |  |
@@ -97,7 +97,7 @@
 | [Gentle Rain](https://open.spotify.com/track/1U5tJubfZ9KQ7mLiOnXx0g) | [Deszcz](https://open.spotify.com/artist/7mc60Wf7K9edgiJL0FQ6vz) | [Coffee & Rainy days](https://open.spotify.com/album/5D9WRlINa7DWtIiAl6YGtZ) | 3:32 | 2022-03-25 |  |
 | [Gentle Rainbirds](https://open.spotify.com/track/0AGWvztor0iPJq37Xgmkng) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Gentle Rainbirds](https://open.spotify.com/album/1DkvjWbicH3Mk6YWLxAIiU) | 2:24 | 2024-03-26 | 2026-03-04 |
 | [Gentle Rainforest](https://open.spotify.com/track/43jrfv5hZem5HTlxYiWaan) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Gentle Rainforest](https://open.spotify.com/album/6hBWOWpY7PLvcXscEIt1kM) | 2:41 | 2025-11-11 |  |
-| [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 | 2022-03-25 |  |
+| [Gentle River Sounds](https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y) | [Sound and Waves](https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY) | [Ocean Stream](https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT) | 3:16 | 2022-03-25 | 2026-04-04 |
 | [Gently Raining](https://open.spotify.com/track/3CfHJQAXuloLdm727vtocG) | [R 4 Rain](https://open.spotify.com/artist/78RCzQmpEq3y4F1bfZvtHr) | [R 4 Rain](https://open.spotify.com/album/0aIDb23b9ff6xgOOqR5N6P) | 1:12 | 2022-03-25 | 2023-06-20 |
 | [Hidden Birds of the Jungle](https://open.spotify.com/track/7bYZLycurOWi4nyO5bfOAy) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Hidden Birds of the Jungle](https://open.spotify.com/album/0CxJTq7RjtuaSEsw7D8EGt) | 3:03 | 2026-04-02 |  |
 | [Highway Birds](https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk) | [Betweetle](https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl) | [Highway Birds](https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC) | 1:47 | 2023-03-03 | 2023-06-20 |
@@ -230,8 +230,10 @@
 | [Whispering Trees and Babbling Brook](https://open.spotify.com/track/0SYnQvruMZppHDRaT9cK6k) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Serene Forest Ambience](https://open.spotify.com/album/3c2hy7hLvWrYylWdIjkewS) | 1:40 | 2023-09-20 | 2023-10-12 |
 | [Wildlife Paradise](https://open.spotify.com/track/4qcjA5Vy7HwEmgkFPbt51A) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Circle of Earth](https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE) | 2:47 | 2022-04-29 |  |
 | [Wildwood Meditation](https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 3:56 | 2023-09-20 |  |
+| [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 1:56 | 2026-04-02 |  |
 | [Windy Green Noise](https://open.spotify.com/track/7vTHgLyabM4wWJDy6S81d1) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Windy Green Noise](https://open.spotify.com/album/0UaYMl1fr54ct0cZe8Z8g7) | 2:30 | 2025-07-21 |  |
 | [With Gentle Forest Sounds I](https://open.spotify.com/track/76pDWgR9MSvLAUvRz51R7n) | [Relaxing The Mind](https://open.spotify.com/artist/44wFi6rFvY5u6U69UNnwSr) | [With Gentle Forest Sounds I](https://open.spotify.com/album/57c9YKnCRzzG2iLTiVKq5k) | 2:38 | 2025-11-11 |  |
+| [Woodland Drops](https://open.spotify.com/track/6yHL4GvpL9m5JqToTuG014) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Woodland Drops](https://open.spotify.com/album/716VqOhfwuYQ8dwRpudU2d) | 2:18 | 2026-04-02 |  |
 | [Woodland Reverie](https://open.spotify.com/track/3QwgHRh1IO6EztjJBgL0jq) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Woodland Reverie](https://open.spotify.com/album/0Ml0x9lt98lmMXyrsHJuQv) | 2:21 | 2024-12-03 | 2026-04-01 |
 | [Zen Forest Serenade](https://open.spotify.com/track/7I4BBYAPTQZqdX6aPXxRtg) | [Touch of Spades](https://open.spotify.com/artist/1YWkdQMBdIM1QiiYiiTdil) | [Melodic Nature Chorus](https://open.spotify.com/album/0VwWFLflpeb6ayLAdcwi6i) | 4:32 | 2023-09-20 |  |
 

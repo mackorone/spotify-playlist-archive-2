@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 853 likes - 114 songs - 6 hr 59 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 861 likes - 116 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 112 | [Wings to go back](https://open.spotify.com/track/6Xn61zWFMyCP6U8977UTXM) | [SOAVE](https://open.spotify.com/artist/67OEL9vCpXIheb7L9WpPCG) | [Wings to go back](https://open.spotify.com/album/59zHfQ01fPeXk15jkFSG4G) | 3:53 |
 | 113 | [Something About You](https://open.spotify.com/track/1W2eU1ISQAJkjiIgb9e9va) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Love Hotel](https://open.spotify.com/album/62Bxt91D7ef7SJKnHZ0BxM) | 3:19 |
 | 114 | [Happiness and Being Smart](https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:09 |
+| 115 | [Lifeless](https://open.spotify.com/track/39zRV9wo9QfVPAGOJhW5aI) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:00 |
+| 116 | [Runnin](https://open.spotify.com/track/4OLphiU0dKvFTkIPSdOS5j) | [TV Screams](https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4) | [TRUCKIN' EP](https://open.spotify.com/album/6WXiAv8LsKlQHT26HAin7f) | 2:12 |
 
-Snapshot ID: `AAAFnRvwQqXOXiBBQFn7xxbsqQ/WA/4N`
+Snapshot ID: `AAAFn9hWXnP88yTMkSwtbE9imtxFs3AB`

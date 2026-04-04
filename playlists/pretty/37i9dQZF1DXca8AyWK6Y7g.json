@@ -1,12 +1,12 @@
 {
   "description": "on repeat for a reason. cover: Mira Housey",
-  "num_followers": 1551993,
+  "num_followers": 1551868,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFeHYV5iJz76Yh/5PMYdKm9hwiB8",
+  "snapshot_id": "AAAAACOjod7aXy4I/Q9ZWRZ1fSutGE3C",
   "tracks": [
     {
       "added_at": "2026-01-23 05:34:57",
@@ -39,6 +39,22 @@
       "duration_ms": 220833,
       "name": "Sex, Etc.",
       "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"
+    },
+    {
+      "added_at": "2026-04-03 04:03:41",
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 184788,
+      "name": "Night at the Opera",
+      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -75,6 +91,54 @@
     {
       "added_at": "2026-03-27 05:09:53",
       "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "added_at": "2026-03-20 04:00:49",
+      "album": {
+        "name": "Aren't You Curious?",
+        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
+      },
+      "artists": [
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
+    },
+    {
+      "added_at": "2026-04-03 04:03:41",
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/5vjZRodlfAwNbwtDcYR7ky"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 198617,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/7860siLSwvRnGt63VOr7QT"
+    },
+    {
+      "added_at": "2026-03-27 05:09:53",
+      "album": {
         "name": "better late than not at all",
         "url": "https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu"
       },
@@ -87,6 +151,42 @@
       "duration_ms": 177862,
       "name": "if i'm lucky",
       "url": "https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v"
+    },
+    {
+      "added_at": "2026-04-03 04:33:53",
+      "album": {
+        "name": "Reputation / Bobby",
+        "url": "https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL"
+    },
+    {
+      "added_at": "2026-04-03 04:03:41",
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/0Z6GDq6vic09cDKt4LVoKR"
+      },
+      "artists": [
+        {
+          "name": "Sofia D'Angelo",
+          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk"
     },
     {
       "added_at": "2026-03-27 05:09:53",
@@ -107,18 +207,18 @@
     {
       "added_at": "2026-03-20 04:00:49",
       "album": {
-        "name": "Aren't You Curious?",
-        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
+        "name": "Is It Fun Or Is It Over?",
+        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
       },
       "artists": [
         {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
         }
       ],
-      "duration_ms": 184294,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
+      "duration_ms": 160020,
+      "name": "Is It Fun Or Is It Over?",
+      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
     },
     {
       "added_at": "2026-03-27 05:09:53",
@@ -137,36 +237,20 @@
       "url": "https://open.spotify.com/track/3bm0yuIdIcyh5XCTxa7Ee8"
     },
     {
-      "added_at": "2026-03-27 05:09:53",
+      "added_at": "2026-04-03 04:03:41",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+        "name": "Daredevil",
+        "url": "https://open.spotify.com/album/1GgeRqhrpX8WUXMOZx16Gr"
       },
       "artists": [
         {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
         }
       ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
-    },
-    {
-      "added_at": "2026-03-20 04:00:49",
-      "album": {
-        "name": "Is It Fun Or Is It Over?",
-        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 160020,
-      "name": "Is It Fun Or Is It Over?",
-      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
+      "duration_ms": 256000,
+      "name": "Daredevil",
+      "url": "https://open.spotify.com/track/2cvuYoAarEwjOoNcTVOFxJ"
     },
     {
       "added_at": "2026-03-27 05:09:53",
@@ -247,6 +331,22 @@
       "duration_ms": 189588,
       "name": "The Way We Touch",
       "url": "https://open.spotify.com/track/0fVrUsHbkqg7ISVKufGoLm"
+    },
+    {
+      "added_at": "2026-04-03 04:03:41",
+      "album": {
+        "name": "American Wedding",
+        "url": "https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 191943,
+      "name": "American Wedding",
+      "url": "https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942"
     },
     {
       "added_at": "2026-03-27 05:09:53",
@@ -475,22 +575,6 @@
       "duration_ms": 139666,
       "name": "Can't Wait",
       "url": "https://open.spotify.com/track/4aFsz8k1nk9uqHJnq0ff9A"
-    },
-    {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
-        "name": "picky choosy",
-        "url": "https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 173988,
-      "name": "picky choosy",
-      "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
     },
     {
       "added_at": "2026-03-27 05:09:53",
@@ -915,22 +999,6 @@
     {
       "added_at": "2026-02-20 05:20:43",
       "album": {
-        "name": "Casual Lady",
-        "url": "https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 194429,
-      "name": "Casual Lady",
-      "url": "https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs"
-    },
-    {
-      "added_at": "2026-02-20 05:20:43",
-      "album": {
         "name": "Blame it on You",
         "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
       },
@@ -993,22 +1061,6 @@
       "url": "https://open.spotify.com/track/2ZhGio1HmhJWHI4D4B9FET"
     },
     {
-      "added_at": "2026-02-13 18:02:30",
-      "album": {
-        "name": "I've Never Met Her",
-        "url": "https://open.spotify.com/album/2hy0Ft7jAKtWtiqMDC59Za"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 187254,
-      "name": "I've Never Met Her",
-      "url": "https://open.spotify.com/track/0fWLWBuDo8v6GnAwHOFQyY"
-    },
-    {
       "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "DON\u2019T YOU SEE ME TRYING?",
@@ -1057,22 +1109,6 @@
       "url": "https://open.spotify.com/track/5kePuQb32DnG04KanvphDW"
     },
     {
-      "added_at": "2026-01-30 05:00:51",
-      "album": {
-        "name": "I Hope You Don't Remember Me",
-        "url": "https://open.spotify.com/album/4iwwNDtoPunaFnao5lXJAH"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "I Hope You Don't Remember Me",
-      "url": "https://open.spotify.com/track/0H1iIWraMgzBMIQglJQXvJ"
-    },
-    {
       "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "Go For Broke",
@@ -1103,22 +1139,6 @@
       "duration_ms": 180117,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
-    },
-    {
-      "added_at": "2026-02-16 22:37:20",
-      "album": {
-        "name": "stardust",
-        "url": "https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4"
-      },
-      "artists": [
-        {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
-        }
-      ],
-      "duration_ms": 173474,
-      "name": "petty",
-      "url": "https://open.spotify.com/track/287bhecKV9kCdFxVnUUUeT"
     },
     {
       "added_at": "2026-02-06 05:00:47",
@@ -1377,22 +1397,6 @@
       "url": "https://open.spotify.com/track/0vjwvjTIr3xicvWyDbMRLm"
     },
     {
-      "added_at": "2025-10-17 04:01:00",
-      "album": {
-        "name": "So Sad So Hot",
-        "url": "https://open.spotify.com/album/1s2QItOpAFagmxy1vMEDzA"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 171014,
-      "name": "So Sad So Hot",
-      "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
-    },
-    {
       "added_at": "2026-01-16 05:00:42",
       "album": {
         "name": "Wish I Didn't",
@@ -1535,22 +1539,6 @@
       "duration_ms": 208226,
       "name": "All My Songs",
       "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
-    },
-    {
-      "added_at": "2025-09-12 04:00:25",
-      "album": {
-        "name": "Vodka Cranberry",
-        "url": "https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 245664,
-      "name": "Vodka Cranberry",
-      "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
     },
     {
       "added_at": "2026-01-02 05:00:14",

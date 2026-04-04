@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-550 songs - 1 day 13 hr 0 min
+551 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Escape](https://open.spotify.com/track/2Wr9h3vLxezbmjSe7PcKBQ) | [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Not Defeated](https://open.spotify.com/album/4DAXqEoaWtsawroUt0mx6b) | 4:30 | 2025-08-08 |  |
 | [Everyone's Invited](https://open.spotify.com/track/5XsA2lri15tlZmRPYWQy3X) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [I Was Wrong](https://open.spotify.com/album/3sDjzJO62PTyeEXspT2LUX) | 3:52 | 2025-06-20 |  |
 | [Everything You Got](https://open.spotify.com/track/2qnPC8AZ3vfCjF7hHBWi93) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Everything You Got](https://open.spotify.com/album/5LD4eZGB8oCNCQ4eztNQvl) | 3:22 | 2022-08-05 | 2022-09-10 |
-| [Evil No More](https://open.spotify.com/track/72nKlhl1q9s7yCuP5DixYc) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Evil No More](https://open.spotify.com/album/40KojEJo2Z7pgCuQQeGuxg) | 2:47 | 2024-05-24 |  |
+| [Evil No More](https://open.spotify.com/track/72nKlhl1q9s7yCuP5DixYc) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Evil No More](https://open.spotify.com/album/40KojEJo2Z7pgCuQQeGuxg) | 2:47 | 2024-05-24 | 2026-04-04 |
 | [Fear Is My New Roommate](https://open.spotify.com/track/1VzGzUf768FvZtPTl1j61D) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Fear Is My New Roommate](https://open.spotify.com/album/3Rd6lTBLanAa7xIYRC20Rq) | 3:33 | 2024-05-24 | 2026-03-28 |
 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 | 2022-06-03 | 2024-08-17 |
 | [Fire It Up](https://open.spotify.com/track/5OK7CvtAqKcJoYXFmqUDvB) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/3C44xpr836MfZSVu7cwpel) | 3:02 | 2021-03-12 | 2022-04-23 |
@@ -165,6 +165,7 @@
 | [Funky Music](https://open.spotify.com/track/6P1ymqtnLK8fhgss4wSAV4) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Funky Music](https://open.spotify.com/album/0liLs1akeHQRHkvmLWGuEi) | 4:10 | 2024-03-08 | 2024-04-27 |
 | [Further](https://open.spotify.com/track/3e11gcdBWpIPpgDsHuJ1K3) | [Dwight & Nicole](https://open.spotify.com/artist/4F8E2YPeiWp9ncA3xJlxv0) | [Further](https://open.spotify.com/album/5YU8wpgoWdOkiRrjuJCeNo) | 2:57 | 2021-10-08 | 2023-06-17 |
 | [Further On Up The Road](https://open.spotify.com/track/0D1CV2GEWYrtsV1MSagoFv) | [Solomon Hicks](https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k) | [Further On Up The Road](https://open.spotify.com/album/7yZVOOsYS2rZB9mowwb56x) | 4:18 | 2025-09-26 | 2025-11-22 |
+| [Gaslight](https://open.spotify.com/track/2YN68c2uZ5b5aipZJtul4u) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Gaslight](https://open.spotify.com/album/48M5raydjk0czvX1C9yw6I) | 4:15 | 2026-04-03 |  |
 | [Gee Baby Ain't I Good To You](https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Gee Baby Ain't I Good To You](https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk) | 3:51 | 2023-01-06 | 2023-09-16 |
 | [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 | 2022-04-29 | 2022-06-11 |
 | [Get Down](https://open.spotify.com/track/3EHUAF57hi6zS7LS9QKzGJ) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/3cBmAwjBX1csLooXbuwHhr) | 3:27 | 2021-06-25 | 2022-07-29 |

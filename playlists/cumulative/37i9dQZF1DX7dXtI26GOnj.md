@@ -4,7 +4,7 @@
 
 > Todo o calor latino está aqui! 🔥  foto: Shakira, Belée
 
-555 songs - 1 day 4 hr 36 min
+556 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-12-31 | 2022-12-10 |
 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 | 2021-12-31 | 2023-05-06 |
 | [Perfecta \(Versión 2023\)](https://open.spotify.com/track/6ABLjztDyv49ZSZYDexYtc) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perfecta \(Versión 2023\)](https://open.spotify.com/album/66H0ONEidLsiliImzsMkeM) | 3:41 | 2023-04-24 | 2024-06-22 |
-| [PERVERSA](https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [ASTRO](https://open.spotify.com/album/2HCiLvEdZuHb8iDweMZwDG) | 2:12 | 2025-05-30 |  |
+| [PERVERSA](https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [ASTRO](https://open.spotify.com/album/2HCiLvEdZuHb8iDweMZwDG) | 2:12 | 2025-05-30 | 2026-04-04 |
 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 | 2023-06-02 | 2023-07-08 |
 | [pessoa certa hora errada](https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [pessoa certa hora errada](https://open.spotify.com/album/7fdrjXirtCLGb1l9oX9psZ) | 2:44 | 2021-12-31 | 2022-04-09 |
 | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF) | 3:18 | 2022-02-09 | 2022-03-05 |
@@ -556,6 +556,7 @@
 | [XQTECE?](https://open.spotify.com/track/3Snm7CC9FhqAOeGa3RuFNN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Omarcito Glock](https://open.spotify.com/artist/5hanOusf1zrEPAXTWJtvMD), [Zalo La Z](https://open.spotify.com/artist/0kBypOF0SIMAhMYaNb4Etn), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [XQTECE?](https://open.spotify.com/album/2e5r2q49amYBcZBPDnxAoK) | 3:54 | 2025-02-21 | 2025-04-19 |
 | [YA NO TE EXTRAÑO](https://open.spotify.com/track/70XGqzcK8c7GdVbr5begBH) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [YA NO TE EXTRAÑO](https://open.spotify.com/album/4RO9yfmO1QjZUklszKC4Ts) | 3:10 | 2023-12-08 | 2024-01-13 |
 | [YIN YAN](https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:09 | 2021-12-31 | 2022-01-15 |
+| [Yo También](https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(posdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:24 | 2026-04-03 |  |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-02-09 | 2022-03-26 |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-12-31 | 2023-05-20 |
 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-12 | 2025-07-19 |

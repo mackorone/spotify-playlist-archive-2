@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. Arkangel Musical de Tierra Caliente en portada. ",
-  "num_followers": 92173,
+  "num_followers": 92232,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Con Cartitas y Palabras",
-        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
-      },
-      "artists": [
-        {
-          "name": "Gabino y su Banda Chica",
-          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
-        }
-      ],
-      "duration_ms": 145124,
-      "name": "Con Cartitas y Palabras",
-      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "El Potosino y El Cocho",
         "url": "https://open.spotify.com/album/6Fmej7TWDGwwtQG3fFHYg5"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 200936,
       "name": "El Potosino y El Cocho",
       "url": "https://open.spotify.com/track/627QWPTPkNwbOwso8RnBem"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "Con Cartitas y Palabras",
+        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
+      },
+      "artists": [
+        {
+          "name": "Gabino y su Banda Chica",
+          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
+        }
+      ],
+      "duration_ms": 145124,
+      "name": "Con Cartitas y Palabras",
+      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Era Casada",
-        "url": "https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv"
-      },
-      "artists": [
-        {
-          "name": "Triny La Leyenda",
-          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "El Rey De Oros",
-      "url": "https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "Mal Amor",
         "url": "https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 168120,
       "name": "Mal Amor",
       "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "Era Casada",
+        "url": "https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv"
+      },
+      "artists": [
+        {
+          "name": "Triny La Leyenda",
+          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "El Rey De Oros",
+      "url": "https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "El Arroyito (Los Creadores del Sacadito)",
-        "url": "https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5"
-      },
-      "artists": [
-        {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Ya Est\u00e1n Cantando los Gallos",
-      "url": "https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 213866,
       "name": "Si Tengo A Mi Madre",
       "url": "https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "El Arroyito (Los Creadores del Sacadito)",
+        "url": "https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Ya Est\u00e1n Cantando los Gallos",
+      "url": "https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
-      },
-      "artists": [
-        {
-          "name": "Banda Roja",
-          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
-        }
-      ],
-      "duration_ms": 230706,
-      "name": "Aunque Est\u00e9s Lejos De M\u00ed",
-      "url": "https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "Cu\u00e9ntale a la Gente (feat. La Leyenda De Servando Montalva)",
         "url": "https://open.spotify.com/album/0gJoiSwS7poTKJJSDUQwEC"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 202083,
       "name": "Inolvidables",
       "url": "https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
+      },
+      "artists": [
+        {
+          "name": "Banda Roja",
+          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "Aunque Est\u00e9s Lejos De M\u00ed",
+      "url": "https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Como Lo Hice Yo",
-        "url": "https://open.spotify.com/album/26CM1WtFNPMMIMKlTou43y"
-      },
-      "artists": [
-        {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Como Lo Hice Yo",
-      "url": "https://open.spotify.com/track/4RgnIVqKYEuGot3yDrtikf"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "Ojitos Negros",
         "url": "https://open.spotify.com/album/2kQa0zqGpte9V3BepV3ChO"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 151074,
       "name": "Ojitos Negros",
       "url": "https://open.spotify.com/track/5pcL0RKxKYjfk6aCUT6QnL"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "Como Lo Hice Yo",
+        "url": "https://open.spotify.com/album/26CM1WtFNPMMIMKlTou43y"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Como Lo Hice Yo",
+      "url": "https://open.spotify.com/track/4RgnIVqKYEuGot3yDrtikf"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Exitos en Vivo (En Vivo)",
-        "url": "https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO"
+        "name": "No Volvere",
+        "url": "https://open.spotify.com/album/74ALNbkjAkpXDuuOERdVAV"
       },
       "artists": [
         {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
         }
       ],
-      "duration_ms": 102609,
-      "name": "Carga Fina - En Vivo",
-      "url": "https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D"
+      "duration_ms": 176160,
+      "name": "No Volvere",
+      "url": "https://open.spotify.com/track/0D0ji05klGhTc63FeyXDsU"
     }
   ],
   "unique_name": "Tierra Caliente",

@@ -4,7 +4,7 @@
 
 > Boots on the ground, head in the stars
 
-206 songs - 13 hr 10 min
+208 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Send The Sun](https://open.spotify.com/track/2IUwZ8LaYyx102qKk3KQdI) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 2:57 | 2021-12-15 |  |
 | [Send The Sun](https://open.spotify.com/track/3elR7QAPM98BgNv08Y4sUC) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/3OZVgu6jFzr2N045WTLWa3) | 2:57 | 2024-03-22 | 2024-04-19 |
 | [She \- 2002 Remaster](https://open.spotify.com/track/7DK9shWJm361lm1ks32axt) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [GP](https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf) | 5:01 | 2021-12-15 |  |
+| [Sienna Life](https://open.spotify.com/track/0xeNNG32LMlIixfeyQL2Tk) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O) | [Sienna Life EP](https://open.spotify.com/album/07D5FVofw2tKiZZfnl8gP7) | 3:10 | 2026-04-03 |  |
 | [Sinner](https://open.spotify.com/track/78T4zsLpaocBw4d5BSkggL) | [Leslie Stevens](https://open.spotify.com/artist/2QFJpQcoOMr1A2m8socQKF) | [Sinner](https://open.spotify.com/album/5kMQ7VRHWqXmsFoGoVHKWl) | 4:22 | 2021-12-15 |  |
 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 | 2021-12-15 |  |
 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 | 2023-07-11 | 2024-04-19 |
@@ -181,6 +182,7 @@
 | [Toshiba Sky](https://open.spotify.com/track/0BAmbyXYoRTP0Pf9SkPUjr) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/54g5o5xaRVed25fqwz7QEO) | 3:16 | 2021-12-15 | 2023-04-30 |
 | [Toshiba Sky](https://open.spotify.com/track/2xmNUTjFh6DeZIXgc6CfU1) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/1THPaJ3KhIRPBpAvCaG163) | 3:16 | 2021-12-15 | 2026-03-07 |
 | [Toshiba Sky](https://open.spotify.com/track/72LxGUlBbiJIAnUGXBPNAv) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [Toshiba Sky](https://open.spotify.com/album/1mpy274fg96Cu5cvhNStzh) | 3:16 | 2023-05-12 | 2024-04-14 |
+| [Tracing](https://open.spotify.com/track/7IHV2P4b0hGefOUkZoDU2o) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Tracing](https://open.spotify.com/album/1gQFuNe8kz0G5fVIZmqo5i) | 4:29 | 2026-04-03 |  |
 | [Track 1](https://open.spotify.com/track/3MCL9D4nelPpNMLTT4fKC4) | [Infinite River](https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm) | [Prequel](https://open.spotify.com/album/79cEd6PLap7uBwJrPeSW4s) | 11:56 | 2024-08-23 |  |
 | [Turn on the Dark](https://open.spotify.com/track/4w3onFNS34k4XqMEBdlCt8) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Turn on the Dark](https://open.spotify.com/album/6ifEePgVw8lxcOpH6InUvz) | 4:22 | 2021-12-15 |  |
 | [Turn on the Dark](https://open.spotify.com/track/5HV810LjKwzNg61eHL0RzH) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Home on the Rage](https://open.spotify.com/album/4O4dpDZFNMWRSaJaUZcDTm) | 4:22 | 2021-12-15 | 2022-11-01 |

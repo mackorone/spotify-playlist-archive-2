@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:4s4sHVaj6CRcClZ7SFSKzE\">MARIS</a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: Harry Paynter",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 202414,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 284137,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
@@ -936,6 +936,24 @@
       "duration_ms": 280680,
       "name": "Contaminated",
       "url": "https://open.spotify.com/track/4tJi4dodnpJ0MSKj2w6OkP"
+    },
+    {
+      "album": {
+        "name": "CUT IT OFF!",
+        "url": "https://open.spotify.com/album/3IIyOoNvKVHS2FpweEmMKj"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177464,
+      "name": "CUT IT OFF!",
+      "url": "https://open.spotify.com/track/1KadoakLQSvHKLPldMSOlm"
     },
     {
       "album": {
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 182925,
       "name": "HOTBOX",
       "url": "https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9"
@@ -1919,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Kiss & Drive",
+        "url": "https://open.spotify.com/album/5sfL8CEVRtaVjrMC3qbmw9"
+      },
+      "artists": [
+        {
+          "name": "Nadia Loren",
+          "url": "https://open.spotify.com/artist/7JjDgRpOWRxMdqijlOoNU1"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171740,
+      "name": "It's Whatever",
+      "url": "https://open.spotify.com/track/1DqJXlOFXHE8FHmByoRryL"
+    },
+    {
+      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/5PLNFCrdaoInB5NU92M38x"
       },
@@ -1948,7 +1984,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 150000,
       "name": "JOYRIDE.",
       "url": "https://open.spotify.com/track/5oOZGQnZZToIHI55lw2E97"
@@ -1988,6 +2024,24 @@
       "duration_ms": 169421,
       "name": "Lacrema",
       "url": "https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw"
+    },
+    {
+      "album": {
+        "name": "Kiss & Drive",
+        "url": "https://open.spotify.com/album/5sfL8CEVRtaVjrMC3qbmw9"
+      },
+      "artists": [
+        {
+          "name": "Nadia Loren",
+          "url": "https://open.spotify.com/artist/7JjDgRpOWRxMdqijlOoNU1"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165998,
+      "name": "Laundrette",
+      "url": "https://open.spotify.com/track/0rjSTxHoUfllU4zJelDAOK"
     },
     {
       "album": {
@@ -2558,7 +2612,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 182400,
       "name": "Pretty Words",
       "url": "https://open.spotify.com/track/2CzPV6BQsDX3UXoi4w7hyj"
@@ -2739,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Fashionably Late",
+        "url": "https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH"
+      },
+      "artists": [
+        {
+          "name": "XO",
+          "url": "https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136537,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/1ZRZf9i4o2swEVddRGqXOf"
+    },
+    {
+      "album": {
         "name": "Safe & Holy",
         "url": "https://open.spotify.com/album/7KE9yecpVvacSNKH4cEw30"
       },
@@ -2822,7 +2894,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 226440,
       "name": "Scrambled Eggs",
       "url": "https://open.spotify.com/track/3BpU2XEMvN0XicImzJxLD7"
@@ -2880,6 +2952,28 @@
       "duration_ms": 193253,
       "name": "Somewhere With You",
       "url": "https://open.spotify.com/track/5qDzMkr3H14W0j6XAT5Mjl"
+    },
+    {
+      "album": {
+        "name": "SOS XOX (ft. vi0let)",
+        "url": "https://open.spotify.com/album/6tyUrFJViUo8l93eqpn2Wh"
+      },
+      "artists": [
+        {
+          "name": "MARiMARi",
+          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
+        },
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139710,
+      "name": "SOS XOX (ft. vi0let)",
+      "url": "https://open.spotify.com/track/1reCHfsIleI81FSbGvcHBN"
     },
     {
       "album": {
@@ -3450,6 +3544,28 @@
       "duration_ms": 223933,
       "name": "U Move, I Move (feat. Jhene Aiko)",
       "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
+    },
+    {
+      "album": {
+        "name": "Underland",
+        "url": "https://open.spotify.com/album/0MBhIUtweWyYukeGzrnyBU"
+      },
+      "artists": [
+        {
+          "name": "Anin Rose",
+          "url": "https://open.spotify.com/artist/40YIcMaOtKhlVIMiKXyQnx"
+        },
+        {
+          "name": "SATCH",
+          "url": "https://open.spotify.com/artist/3eRiF3UWMVaePVZe8gShIF"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173980,
+      "name": "Underland",
+      "url": "https://open.spotify.com/track/72la8q6h1BQNNno4xPMOex"
     },
     {
       "album": {

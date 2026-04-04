@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-83 songs - 4 hr 34 min
+84 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Traumada](https://open.spotify.com/track/0fMQSHQBLUNHgBPofQyeGt) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Traumada \(Official Video\)](https://open.spotify.com/album/33qJKxx7ICKDtAbcmqGhlr) | 2:36 | 2023-12-19 | 2024-02-02 |
 | [Turquoise Cowboy](https://open.spotify.com/track/4BZSY7v7z0uOrcOQ2vU9GA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:13 | 2025-10-05 |  |
 | [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 | 2025-07-26 | 2025-10-06 |
+| [Vegas](https://open.spotify.com/track/2c2Q0qjA0m9me6Z043z9xd) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32) | 3:46 | 2026-04-03 |  |
 | [Vibrations](https://open.spotify.com/track/76RRoxiQ5u5wAuyLr3VIqR) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:41 | 2024-10-17 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

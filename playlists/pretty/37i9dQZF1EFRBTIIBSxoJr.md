@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 877 likes - 140 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 876 likes - 140 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 39 | [Never Did This Before](https://open.spotify.com/track/27skPro3ahG0esoPhkNEs4) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5) | [Never Did This Before](https://open.spotify.com/album/1UcbXv32GuCvEFo9A2t1Qr) | 3:25 |
 | 40 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 |
 | 41 | [Beautiful World](https://open.spotify.com/track/69WehikArL9eByV3BFgC9A) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:01 |
-| 42 | [Broken Arrow](https://open.spotify.com/track/4ETuk7bkreL9gkDOZQ4djV) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up \(Louder\)](https://open.spotify.com/album/75EDt9qc7jTgyoi8K4SyJn) | 3:39 |
-| 43 | [Remedy](https://open.spotify.com/track/5caMleOQ7qtqKZA34x9vSA) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [At Your Inconvenience](https://open.spotify.com/album/1DrD9yINGa4J2xb37dGZ8u) | 3:15 |
+| 42 | [Remedy](https://open.spotify.com/track/5caMleOQ7qtqKZA34x9vSA) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [At Your Inconvenience](https://open.spotify.com/album/1DrD9yINGa4J2xb37dGZ8u) | 3:15 |
+| 43 | [Broken Arrow](https://open.spotify.com/track/4ETuk7bkreL9gkDOZQ4djV) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up \(Louder\)](https://open.spotify.com/album/75EDt9qc7jTgyoi8K4SyJn) | 3:39 |
 | 44 | [What You’re Made Of \(feat\. Kiesza\) \(From “Azur Lane” Original Video Game Soundtrack\)](https://open.spotify.com/track/7zCeOOhtMzxlBRdVJ4KwgG) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [What You’re Made Of \(feat\. Kiesza\) \[Azur Lane Soundtrack\]](https://open.spotify.com/album/3M0OxNR7sHtrA4I42ETvjI) | 3:26 |
 | 45 | [G Train](https://open.spotify.com/track/0vYIpioP94c4gwxOyopklE) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Searching](https://open.spotify.com/album/7pjWbCevZabqDKwm26ggKd) | 3:35 |
 | 46 | [No Place Like Home](https://open.spotify.com/track/4L5meqHGYtxZnVMtcLvMrE) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:56 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 48 | [Liquid](https://open.spotify.com/track/3kz2zSK5RjbFdmH6jvdlu3) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:43 |
 | 49 | [Do It \(feat\. Becky G & Raquel Castro\)](https://open.spotify.com/track/1dZPKmuRXygzVKmoQk4gPW) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Raquel Castro](https://open.spotify.com/artist/1FOw6qIycSqShZV57QtDIX) | [Empire: Music From 'Without A Country'](https://open.spotify.com/album/6klL39wpPDD7Ojnin5DtyU) | 3:15 |
 | 50 | [On And On](https://open.spotify.com/track/65j4tmIraduYx8J0AqlQ0A) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 4:49 |
-| 51 | [Proud](https://open.spotify.com/track/2P6pcE74d5TMQLy4fn6TqD) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:00 |
-| 52 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
+| 51 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
+| 52 | [Proud](https://open.spotify.com/track/2P6pcE74d5TMQLy4fn6TqD) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:00 |
 | 53 | [Stronger](https://open.spotify.com/track/40IYwvYNbAtCpVIGFTAVBi) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 4:11 |
 | 54 | [Feel The Same](https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Feel The Same \(feat\. RuthAnne\)](https://open.spotify.com/album/1BvIg5jWpKM73SY0YQYieB) | 2:50 |
 | 55 | [She Do](https://open.spotify.com/track/7cJWV4gJVR78HFLvosMhcb) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:20 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 139 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 140 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AcN0CAAAAAAC9mLtFM1E2Vu0OyK+3mhZ`
+Snapshot ID: `AcN5bAAAAADbTdEJpznOvXPd7xDaPb9D`

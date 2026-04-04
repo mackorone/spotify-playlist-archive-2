@@ -8618,7 +8618,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 132727,
       "name": "PERVERSA",
       "url": "https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB"
@@ -10577,7 +10577,7 @@
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 91750,
+      "duration_ms": 91749,
       "name": "Telefone",
       "url": "https://open.spotify.com/track/7rIeU9DvfVAz2hroqBAiuV"
     },
@@ -12058,6 +12058,24 @@
       "duration_ms": 189475,
       "name": "YIN YAN",
       "url": "https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs"
+    },
+    {
+      "album": {
+        "name": "IDGAF ERA (posdata)",
+        "url": "https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144720,
+      "name": "Yo Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e"
     },
     {
       "album": {

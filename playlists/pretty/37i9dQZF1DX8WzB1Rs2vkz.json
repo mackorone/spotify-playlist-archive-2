@@ -1,6 +1,6 @@
 {
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
-  "num_followers": 195458,
+  "num_followers": 195535,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-02-13 22:15:12",
       "album": {
-        "name": "K.O.B. Live",
-        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Mi Corazoncito",
-      "url": "https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78"
-    },
-    {
-      "added_at": "2026-02-13 22:15:12",
-      "album": {
         "name": "Bailando Bachata",
         "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 170809,
       "name": "Bailando Bachata",
       "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
+    },
+    {
+      "added_at": "2026-02-13 22:15:12",
+      "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Mi Corazoncito",
+      "url": "https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78"
     },
     {
       "added_at": "2026-02-13 22:15:12",

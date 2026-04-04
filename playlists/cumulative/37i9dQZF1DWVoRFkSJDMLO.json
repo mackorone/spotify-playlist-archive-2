@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "World music from the continent, to the islands with Dave.",
+  "description": "The latest in world music. From the continent, to the islands with Omah Lay.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -2044,6 +2044,28 @@
       "duration_ms": 172628,
       "name": "Awuke",
       "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
+    },
+    {
+      "album": {
+        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
     },
     {
       "album": {
@@ -4720,6 +4742,28 @@
       "duration_ms": 175714,
       "name": "Bouff Daddy",
       "url": "https://open.spotify.com/track/3KZeA0zfdbh4wyAT5SjIPp"
+    },
+    {
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2kINW1AylHJXbip4jDmDFm"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        },
+        {
+          "name": "Weekday",
+          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/6gBThFhnhTl3gf5KKWVzlY"
     },
     {
       "album": {
@@ -8200,7 +8244,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 181942,
       "name": "DON'T LOVE ME",
       "url": "https://open.spotify.com/track/3JTKIKcLjpteIOQ1M5d5nm"
@@ -12097,6 +12141,24 @@
     },
     {
       "album": {
+        "name": "Gunshot",
+        "url": "https://open.spotify.com/album/4ALsDE8QoiB8SvSodvjcnE"
+      },
+      "artists": [
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Gunshot",
+      "url": "https://open.spotify.com/track/4mD1XPHleoO8bG3rJk0Zjt"
+    },
+    {
+      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -13529,6 +13591,24 @@
     },
     {
       "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192419,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
+    },
+    {
+      "album": {
         "name": "I Believe In Better",
         "url": "https://open.spotify.com/album/5JEpbiNqmy1IfsdrM8SQks"
       },
@@ -14938,6 +15018,28 @@
       "duration_ms": 175000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5483pcvbfX7Ii7gO5JGUpF"
+    },
+    {
+      "album": {
+        "name": "Joy (feat. Jux)",
+        "url": "https://open.spotify.com/album/3a2w2RtqfDtsZ0fAw9Q9uE"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219619,
+      "name": "Joy (feat. Jux)",
+      "url": "https://open.spotify.com/track/5rdXPdk1QvAeoopHdtPkNF"
     },
     {
       "album": {
@@ -22356,6 +22458,32 @@
       "duration_ms": 192000,
       "name": "Paper - Tumelo_za & SjavasDaDeejay Remix",
       "url": "https://open.spotify.com/track/29frpkDeEsRdG81FRRl0nO"
+    },
+    {
+      "album": {
+        "name": "Y2K Dancehall Gold (Paranoid Riddim)",
+        "url": "https://open.spotify.com/album/4xpzGwgcdCCGAWzkiCur9w"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        },
+        {
+          "name": "Tony Matterhorn",
+          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243449,
+      "name": "Paranoid Riddim - Brawta Mini Mix",
+      "url": "https://open.spotify.com/track/4rxs0CmzPD7MMLGxHcszWO"
     },
     {
       "album": {
@@ -32149,6 +32277,24 @@
     },
     {
       "album": {
+        "name": "WE JUS CHILLIN",
+        "url": "https://open.spotify.com/album/0PU0q4665CcVBcDRG5aEnS"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149162,
+      "name": "WE JUS CHILLIN",
+      "url": "https://open.spotify.com/track/3jaRYEhFhFZncOx5gjPOEa"
+    },
+    {
+      "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
       },
@@ -32368,7 +32514,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 194716,
       "name": "Wet",
       "url": "https://open.spotify.com/track/0TTaBySJwPj4E6ov1eh60G"

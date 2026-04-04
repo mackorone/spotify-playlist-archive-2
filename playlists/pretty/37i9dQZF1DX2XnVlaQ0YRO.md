@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,435 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,426 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 28 | [Winter Vibin'](https://open.spotify.com/track/3iYC7w2rOQav3BQlibwJqp) | [Little Squares](https://open.spotify.com/artist/4OnLBUEcEzKVUJP3hsP3Tk) | [A Christmas Present For You](https://open.spotify.com/album/43APl6GrPHaOG3zxXHhJ41) | 2:11 |
 | 29 | [Last Train Home](https://open.spotify.com/track/3nf9nlsB1rQjsrH4NrU9ic) | [reOrder](https://open.spotify.com/artist/1cAsz5HmLWJ2GWwinTnBG2), [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ) | [Last Train Home](https://open.spotify.com/album/1Qi82bk3Id0Je9aVf0BZnh) | 1:58 |
 | 30 | [This Christmas](https://open.spotify.com/track/6rJShaAAmTUaJ3lLZHQTpv) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [This Christmas](https://open.spotify.com/album/2Lcs7tNaM7reSGgfU9pi0g) | 3:34 |
-| 31 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2e2k2BOVoEqvMRVj7B6tFE) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0rkxBtWwoutWGPDItsVnia) | 2:05 |
-| 32 | [Snowman](https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Snowman](https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB) | 2:19 |
+| 31 | [Snowman](https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Snowman](https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB) | 2:19 |
+| 32 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2e2k2BOVoEqvMRVj7B6tFE) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0rkxBtWwoutWGPDItsVnia) | 2:05 |
 | 33 | [My Only Wish \(This Year\)](https://open.spotify.com/track/37gBHhtzdh7PSvgyTCwLWs) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3bA2BJC4ZbXNGHXj0bapKz) | 2:59 |
 | 34 | [rudolfs beat](https://open.spotify.com/track/5DGMWOsbwnttCV4h8Zp2BP) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [rudolfs beat](https://open.spotify.com/album/1cgH2L5MZmfB5roLS15dNa) | 2:21 |
 | 35 | [O Come, All Ye Faithful](https://open.spotify.com/track/1Eq5DU2LAofEYtYP5ODxHw) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [O Come, All Ye Faithful](https://open.spotify.com/album/4FUbvkzXMGyqMxKr9K6JVg) | 1:34 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 89 | [O holy night](https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO) | [muni.](https://open.spotify.com/artist/0rCtkH6uwwmKN8XotEwo5u) | [O holy night](https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5) | 2:27 |
 | 90 | [Winter Wonderland](https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Winter Wonderland](https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe) | 2:25 |
 | 91 | [The Night Before](https://open.spotify.com/track/5ZIU60WNqPE6tJxhzJio4f) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [The Night Before](https://open.spotify.com/album/1yITIVwWWZxjIXufJ6Vxkp) | 1:51 |
-| 92 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 |
-| 93 | [Jazz Christmas](https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56) | [Grakch](https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw) | [Jazz Christmas](https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B) | 1:53 |
+| 92 | [Jazz Christmas](https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56) | [Grakch](https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw) | [Jazz Christmas](https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B) | 1:53 |
+| 93 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 |
 | 94 | [Portal De Belen](https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Portal De Belen](https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh) | 2:41 |
 | 95 | [Let it Snow](https://open.spotify.com/track/7H9dIO8amBy9ZipeovDK5C) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Let it Snow](https://open.spotify.com/album/57NjLRggkOYTDTz7HGW3I9) | 2:14 |
 | 96 | [The Lonely Elf](https://open.spotify.com/track/2AlpsYQFj9EW3h4o8gEMv7) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [The Lonely Elf](https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT) | 1:42 |

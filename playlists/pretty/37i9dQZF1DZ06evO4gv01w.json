@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30191,
+  "num_followers": 30190,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAqakUkbgyDL/YIbpdOumzy",
+  "snapshot_id": "ac2xgAAAAAA731mY6jUvIMouJygatT7m",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mileage",
-        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
       },
       "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 159306,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW"
+      "duration_ms": 184173,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
     },
     {
       "added_at": null,
@@ -347,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+        "name": "Mileage",
+        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
       },
       "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 184173,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
+      "duration_ms": 159306,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 246472,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0zC6UhoAauAwCJ4vaEtcA9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God's Gonna Cut You Down (From 'Queen of the Ring - Music From The Motion Picture')",
         "url": "https://open.spotify.com/album/70DyKgYERaRL0Ja1gnT5oB"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 246472,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/0zC6UhoAauAwCJ4vaEtcA9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 201526,
       "name": "In The Air Tonight",
       "url": "https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloom + An Acoustic Companion Vol. 2",
+        "url": "https://open.spotify.com/album/0L0XzJmgfnbWySSgLcRet4"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 244399,
+      "name": "You Are the River - Unplugged",
+      "url": "https://open.spotify.com/track/18cIqZB3aW2uibIqGPf1MS"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloom + An Acoustic Companion Vol. 2",
-        "url": "https://open.spotify.com/album/0L0XzJmgfnbWySSgLcRet4"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 244399,
-      "name": "You Are the River - Unplugged",
-      "url": "https://open.spotify.com/track/18cIqZB3aW2uibIqGPf1MS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 190306,
       "name": "Crown of Fire",
       "url": "https://open.spotify.com/track/3KVficEsEWertaGcY4r5ij"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193063,
+      "name": "Hard Time Killing Floor Blues",
+      "url": "https://open.spotify.com/track/1AuhOJ7slCC49R7eWsNITV"
     },
     {
       "added_at": null,
@@ -748,49 +764,17 @@
           "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
         },
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 226013,
-      "name": "Rosetta",
-      "url": "https://open.spotify.com/track/1EW75a4rh00F4NIuY7bLhn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193063,
-      "name": "Hard Time Killing Floor Blues",
-      "url": "https://open.spotify.com/track/1AuhOJ7slCC49R7eWsNITV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 220796,
-      "name": "Every Bird That Flies",
-      "url": "https://open.spotify.com/track/5wdwFApcuvdek4GNxFo9js"
+      "duration_ms": 217000,
+      "name": "String Theory",
+      "url": "https://open.spotify.com/track/2ZtOqWd72Bt9hOlSvkiKjI"
     },
     {
       "added_at": null,
@@ -815,26 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look Up",
-        "url": "https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
       },
       "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 217000,
-      "name": "String Theory",
-      "url": "https://open.spotify.com/track/2ZtOqWd72Bt9hOlSvkiKjI"
+      "duration_ms": 220796,
+      "name": "Every Bird That Flies",
+      "url": "https://open.spotify.com/track/5wdwFApcuvdek4GNxFo9js"
     },
     {
       "added_at": null,
@@ -851,6 +827,30 @@
       "duration_ms": 204106,
       "name": "Look Away",
       "url": "https://open.spotify.com/track/6AWlFTa6XGzIEaElHohT1V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "Rosetta",
+      "url": "https://open.spotify.com/track/1EW75a4rh00F4NIuY7bLhn"
     },
     {
       "added_at": null,

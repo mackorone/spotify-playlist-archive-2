@@ -2,9 +2,9 @@
 
 ### [tropipop](https://open.spotify.com/playlist/37i9dQZF1DXa0xldXwsLda)
 
-> ¡Puro sabor con Sofía Monroy en portada! 🌺
+> ¡Puro sabor con Alejandro Sanz y Yami Safdie en portada! 🌺
 
-242 songs - 13 hr 55 min
+244 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 | 2022-03-28 | 2026-02-14 |
 | [Bolero Triste](https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Triste](https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0) | 4:00 | 2023-01-16 | 2025-02-28 |
 | [Born To Be Yours \- Acoustic Version](https://open.spotify.com/track/2TyG4StdLQyrE4G4hV6pKO) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Born To Be Yours](https://open.spotify.com/album/7gAsbwcqVhQJSDk7uypt8x) | 4:09 | 2022-03-28 | 2023-01-17 |
+| [BOTITAS](https://open.spotify.com/track/2pCR8I7m7IaKIJoVR5eOOK) | [Isa La Mexicana](https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK) | [BOTITAS](https://open.spotify.com/album/7rUasUEfoC9BOjtKLfHA92) | 2:46 | 2026-04-03 |  |
 | [Boys Don't Cry](https://open.spotify.com/track/2orxzsGKBr5wI7W1bY6g1A) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Nineteeneighties](https://open.spotify.com/album/4TnqhYlH5FEJzjBdU96III) | 3:46 | 2022-03-28 | 2026-02-14 |
 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 | 2022-03-28 | 2026-02-14 |
 | [Burbujas De Amor](https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Burbujas De Amor](https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq) | 4:03 | 2022-03-28 | 2026-02-14 |
@@ -73,7 +74,7 @@
 | [Cuando Nos Volvamos a Encontrar \(feat\. Marc Anthony\)](https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 4:38 | 2022-03-28 | 2023-01-17 |
 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 | 2022-03-28 | 2026-02-14 |
 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 | 2022-03-28 | 2026-02-14 |
-| [Cumbia fantasia](https://open.spotify.com/track/41IW719r1CuVwStSFcsY4k) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia fantasia](https://open.spotify.com/album/3EIuPAt9DW7PQNg3A3hSws) | 3:58 | 2026-02-27 |  |
+| [Cumbia fantasia](https://open.spotify.com/track/41IW719r1CuVwStSFcsY4k) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia fantasia](https://open.spotify.com/album/3EIuPAt9DW7PQNg3A3hSws) | 3:58 | 2026-02-27 | 2026-04-04 |
 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 | 2022-03-28 | 2026-02-14 |
 | [Dame Más](https://open.spotify.com/track/27aV7d1dkIOu8Kcvm2doiQ) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Dame Más](https://open.spotify.com/album/5ZLtypx1R8IcO16B3wijpd) | 3:33 | 2026-03-13 |  |
 | [DESPEDIDA](https://open.spotify.com/track/4pTsCmLk3zEOSxjmznXVNI) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DESPEDIDA](https://open.spotify.com/album/3EpvmjKJlGBOwcSv2p4wVb) | 3:33 | 2026-03-20 |  |
@@ -197,7 +198,7 @@
 | [San Charly](https://open.spotify.com/track/7ghPrLoF9gcOm4jQpwzzMz) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ), [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [San Charly](https://open.spotify.com/album/31Bc4KiyvpxhlHxps82U52) | 2:54 | 2026-03-06 |  |
 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 | 2022-03-28 | 2026-02-14 |
 | [Se Fue \- Con Ximena Sariñana y Elsa y Elmar](https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Se Fue \(Con Ximena Sariñana y Elsa y Elmar\)](https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K) | 4:07 | 2026-02-13 |  |
-| [Se Va Se Va](https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh) | [Se Va Se Va](https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE) | 3:15 | 2026-02-27 |  |
+| [Se Va Se Va](https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh) | [Se Va Se Va](https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE) | 3:15 | 2026-02-27 | 2026-04-04 |
 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 | 2022-03-28 | 2023-01-17 |
 | [Si Ella Se Va](https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ) | [Si Ella Se Va](https://open.spotify.com/album/6xKegFA0uFcks5W2dTWgrE) | 2:52 | 2022-03-28 | 2026-02-14 |
 | [Since U Been Gone \- Acoustic Version](https://open.spotify.com/track/4iObEYRE4FLm0D90gmZFef) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Since U Been Gone](https://open.spotify.com/album/1aF6m76ZjCEH8tN6W9W9Uk) | 3:41 | 2022-03-28 | 2023-01-17 |
@@ -247,6 +248,7 @@
 | [What Do You Mean? \- Acoustic](https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:23 | 2022-03-28 | 2026-02-14 |
 | [Without Me](https://open.spotify.com/track/7zsC3MRs9FgcloMoctORr9) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [Without Me](https://open.spotify.com/album/46TA2IQDWrJWKRrcGYgMim) | 2:10 | 2022-03-28 | 2026-02-14 |
 | [X](https://open.spotify.com/track/6dJrnufNiYJxtd4ZX743bC) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [X](https://open.spotify.com/album/14Hh7K8YnTp9Pk1fvECEPL) | 2:47 | 2022-03-28 | 2022-07-29 |
+| [Ximenita](https://open.spotify.com/track/3fdqrllIUypbdGv4x8GpXX) | [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Ximenita](https://open.spotify.com/album/3vWkXbHqZB5VmFMrBYjTk4) | 3:00 | 2026-04-03 |  |
 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 | 2023-01-16 | 2026-02-14 |
 | [Yo No Sé Mañana](https://open.spotify.com/track/54uBpRpdpMx96JAk1OyHez) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/6Wj3lonowRLlI6zxh2a45d) | 4:19 | 2026-02-13 |  |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2022-03-28 | 2026-02-14 |

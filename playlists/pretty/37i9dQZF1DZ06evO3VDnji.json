@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 75437,
+  "num_followers": 75433,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAA0xHoOripSFWk5BWvt/W82",
+  "snapshot_id": "ac2xgAAAAAAbzaBeOe3v2Y4CiC/QMdxb",
   "tracks": [
     {
       "added_at": null,
@@ -179,38 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/5JQNO0rhJUdOevWVvSWjro"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "El Due\u00f1o De Tu Amor",
-      "url": "https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUSTANCIAS EN MI CORAZON",
         "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
       },
@@ -231,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "YA NO EST\u00c1S",
-        "url": "https://open.spotify.com/album/7KgIRu2wQh0z8S3x41KnK6"
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
       },
       "artists": [
         {
@@ -240,9 +208,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 262310,
-      "name": "YA NO EST\u00c1S",
-      "url": "https://open.spotify.com/track/60nOmFyaDvEeb8v8D6Y6gx"
+      "duration_ms": 225000,
+      "name": "El Due\u00f1o De Tu Amor",
+      "url": "https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB"
     },
     {
       "added_at": null,
@@ -256,15 +224,15 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Tristeza Y Traicion",
-      "url": "https://open.spotify.com/track/3otr23EypFovRCjnPODejZ"
+      "duration_ms": 171000,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/5JQNO0rhJUdOevWVvSWjro"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+        "name": "YA NO EST\u00c1S",
+        "url": "https://open.spotify.com/album/7KgIRu2wQh0z8S3x41KnK6"
       },
       "artists": [
         {
@@ -272,9 +240,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Me Haces Falta",
-      "url": "https://open.spotify.com/track/0m5Dhug5ODIpxkBxsStjw3"
+      "duration_ms": 262310,
+      "name": "YA NO EST\u00c1S",
+      "url": "https://open.spotify.com/track/60nOmFyaDvEeb8v8D6Y6gx"
     },
     {
       "added_at": null,
@@ -299,6 +267,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/0m5Dhug5ODIpxkBxsStjw3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Tristeza Y Traicion",
+      "url": "https://open.spotify.com/track/3otr23EypFovRCjnPODejZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 229500,
-      "name": "Ense\u00f1ame",
-      "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+      "duration_ms": 229500,
+      "name": "Ense\u00f1ame",
+      "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb"
+      "duration_ms": 286500,
+      "name": "Falsos Sentimientos",
+      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 286500,
-      "name": "Falsos Sentimientos",
-      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
+      "duration_ms": 237000,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEYENDA",
-        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "no_pasa_nada_demo.wav",
-      "url": "https://open.spotify.com/track/1Ww2IlYffQX3Ci9JJYGNfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love </3",
         "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 211500,
       "name": "Nuestro Pasado",
       "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEYENDA",
+        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "no_pasa_nada_demo.wav",
+      "url": "https://open.spotify.com/track/1Ww2IlYffQX3Ci9JJYGNfA"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Junto A Ti",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193922,
+      "name": "Junto A Ti",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Distinto",
         "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 165110,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Junto A Ti",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A Ti",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL HOMBRE PERFECTO",
-        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "EL HOMBRE PERFECTO",
-      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lluvia Y Sol",
         "url": "https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 222191,
       "name": "Me Voy Contigo",
       "url": "https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL HOMBRE PERFECTO",
+        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "EL HOMBRE PERFECTO",
+      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
     },
     {
       "added_at": null,

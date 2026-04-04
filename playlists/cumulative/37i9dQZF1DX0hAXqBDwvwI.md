@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-833 songs - 2 day 5 hr 53 min
+835 songs - 2 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [HOME](https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME](https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d) | 4:51 | 2022-06-14 | 2022-07-02 |
 | [Honto](https://open.spotify.com/track/7e3ofxCHCU9ef4OKIWUXr1) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Honto](https://open.spotify.com/album/2jePhGriZgRyomj52o8hIV) | 3:42 | 2026-04-02 |  |
 | [HORIZON](https://open.spotify.com/track/0jNd21lxSmPCjSmtTyoNiG) | [TEAM SHACHI](https://open.spotify.com/artist/6PWtv6Ry0vlA2WkbFcQfro) | [HORIZON](https://open.spotify.com/album/27KWr8ETlrdCAR9doDdhSX) | 4:17 | 2022-06-24 | 2022-07-19 |
-| [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 | 2025-10-02 |  |
+| [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 | 2025-10-02 | 2026-04-04 |
 | [Howling](https://open.spotify.com/track/2twCEq28Qw7FcsznfX4HNv) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Howling](https://open.spotify.com/album/2XJrLMBNy1Ln56nHrW1Uic) | 4:09 | 2022-06-03 | 2022-07-25 |
 | [HUGs](https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HUGs](https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv) | 5:33 | 2025-10-21 |  |
 | [I](https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [I](https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr) | 4:06 | 2026-01-16 |  |
@@ -369,6 +369,7 @@
 | [Strangers](https://open.spotify.com/track/0S94H0JHLS3P9C5sgofjIj) | [TRD](https://open.spotify.com/artist/6uLJZQnkE2LOdY4iitog1A) | [Strangers](https://open.spotify.com/album/77uZoegjsuyArwPIFFlVRY) | 3:54 | 2022-07-14 | 2022-07-20 |
 | [Super Bright Shining Girl "Chika"](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-07-14 | 2022-07-18 |
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2023-03-06 | 2024-04-19 |
+| [Sweet Magic](https://open.spotify.com/track/3gXskkBRvFvHaOnKtl1hv9) | [F/ACE](https://open.spotify.com/artist/2Q2n3SjKioZBzV7Tp3CPfl) | [Sweet Magic](https://open.spotify.com/album/78LCPKft8LKOxit0PPfBk6) | 3:45 | 2026-04-03 |  |
 | [SWEET MOONLIGHT](https://open.spotify.com/track/4Xc5dFjD5ceLgRKKLI3D7L) | [BREAKERZ](https://open.spotify.com/artist/1U1oKFcjwl8Tb3b3APG9lE) | [SWEET MOONLIGHT](https://open.spotify.com/album/0mMRdHKZwUomD5L4r12LF9) | 3:06 | 2022-07-14 | 2022-07-27 |
 | [Synthetic Sympathy](https://open.spotify.com/track/4j3Pltbaj60JQJGKqsXkkb) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [wyxt.](https://open.spotify.com/album/0ob5CzODkCFV3LSZjIRmmb) | 3:06 | 2022-06-03 | 2022-06-13 |
 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 | 2025-01-14 |  |
@@ -515,6 +516,7 @@
 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 | 2022-06-03 | 2024-03-13 |
 | [カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV) | 4:11 | 2024-01-25 | 2024-04-19 |
 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-10-25 |  |
+| [カーマイン](https://open.spotify.com/track/2JXkpytEoAymsaa7JtAPgd) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [カーマイン](https://open.spotify.com/album/6ZeNJFTGFDNHUoqGyiTu7c) | 3:24 | 2026-04-03 |  |
 | [ガムシャラ](https://open.spotify.com/track/3D9yweVjHsSyfINp2Kbyx8) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ガムシャラ](https://open.spotify.com/album/5xSqBRiOF07Ho37CzrdxoS) | 3:17 | 2022-06-03 | 2025-08-22 |
 | [キズアトがキズナとなる](https://open.spotify.com/track/5ySFq8N2HUO45hM7Z2lzOO) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99) | [キズアトがキズナとなる](https://open.spotify.com/album/4OUkSxmENUJXnvqtyrsMkB) | 4:11 | 2022-06-24 | 2022-07-05 |
 | [キミがいたしるし](https://open.spotify.com/track/1sjGycrfx7Fru2aezbqS1N) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [キミがいたしるし](https://open.spotify.com/album/4pDyNpKYsjejt8N5JD6hGg) | 3:52 | 2022-06-03 | 2022-06-11 |
@@ -732,7 +734,7 @@
 | [深夜センチメンタル](https://open.spotify.com/track/1VFiqzQ8xiq7fdbM9q4kxN) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 3:31 | 2022-07-26 | 2022-07-28 |
 | [満月とシルエットの夜](https://open.spotify.com/track/2UtllBFFQrnojIsmdfAiDq) | [坊ちゃん\(CV\. 花江夏樹\)&アリス\(CV\. 真野あゆみ\)](https://open.spotify.com/artist/2nSUURdvjiprGxZyBaSAl5) | [満月とシルエットの夜/夜想曲](https://open.spotify.com/album/4Eysd0KMOS9vTNCUXRrpRK) | 3:57 | 2022-06-24 | 2022-07-09 |
 | [滲む錆色](https://open.spotify.com/track/3TdwgamHOHZxahOUKNRsIM) | [眩暈SIREN](https://open.spotify.com/artist/6ABm54B8crQszQAJDoxEVo) | [滲む錆色/紫陽花](https://open.spotify.com/album/1Ho4sW1V2JsXLIuISVG3ZX) | 3:13 | 2022-07-07 | 2022-07-15 |
-| [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 | 2025-07-14 |  |
+| [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 | 2025-07-14 | 2026-04-04 |
 | [火炎](https://open.spotify.com/track/3ci0yvrzssec1bqDzMkXuu) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/3cYIIURFYUIyn7UTsqCVzD) | 3:35 | 2022-06-03 | 2022-07-14 |
 | [火炎](https://open.spotify.com/track/3xVCQGla5LLhrwqNS2FcHo) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [Fire \(Full Edition\)](https://open.spotify.com/album/74Ml5uN949WSHheLQxgaeB) | 3:35 | 2022-07-28 | 2022-09-16 |
 | [火炎](https://open.spotify.com/track/4k2GMy34pt5rQT9aVEzEwq) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/6DdJGNawJYKpYq6A9hwcfp) | 3:35 | 2024-01-09 | 2024-04-19 |

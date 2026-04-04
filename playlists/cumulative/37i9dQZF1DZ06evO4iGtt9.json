@@ -1290,10 +1290,32 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 245960,
       "name": "I Concur",
       "url": "https://open.spotify.com/track/4g5RaTse6o02yFfRbd5hR1"
+    },
+    {
+      "album": {
+        "name": "I Concur",
+        "url": "https://open.spotify.com/album/6Mk1LUNK8jrQUaws9pDYvg"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246224,
+      "name": "I Concur",
+      "url": "https://open.spotify.com/track/1WSw2HVuMNzcGWEHvC0pk3"
     },
     {
       "album": {

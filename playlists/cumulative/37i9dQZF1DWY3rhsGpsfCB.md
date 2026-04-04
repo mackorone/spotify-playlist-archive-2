@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-913 songs - 1 day 22 hr 57 min
+913 songs - 1 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,7 +842,6 @@
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-03-30 | 2023-05-14 |
 | [Touché](https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Moneybag](https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao) | 2:14 | 2023-10-20 | 2023-11-17 |
 | [TOYL \(Time Of Your Life\)](https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [TOYL \(Time Of Your Life\)](https://open.spotify.com/album/1ad4lbzO6ZSQsTHMxNbvTN) | 3:45 | 2024-09-27 | 2024-10-13 |
-| [Track 2](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 0:00 | 2026-04-03 |  |
 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 | 2023-11-17 | 2023-11-24 |
 | [Treadmill](https://open.spotify.com/track/6T3HOUBEDRj4t0SvoH27MY) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Treadmill](https://open.spotify.com/album/2VpmjAt37m8FzNIOs9rtkD) | 2:27 | 2024-01-12 | 2024-01-26 |
 | [Trouble](https://open.spotify.com/track/3Dw2KQ25px8I1pFVyKDVVO) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Trouble](https://open.spotify.com/album/3c6unOML6k41c3dkN9pxDe) | 3:28 | 2025-04-04 | 2025-05-30 |
@@ -882,6 +881,7 @@
 | [Weep, No More](https://open.spotify.com/track/6dzICV2gDRl8SjPeqLnOQv) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Weep, No More](https://open.spotify.com/album/2nw55c24zEeo0RAhQhkWxB) | 2:21 | 2023-02-10 | 2023-04-28 |
 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 | 2023-01-29 | 2023-09-29 |
 | [What Is Love?](https://open.spotify.com/track/2BSIFZLVJ8QIUWvIToGQzb) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [What Is Love?](https://open.spotify.com/album/5uaX4Bh833hXKXRldxi1uD) | 2:33 | 2023-03-03 | 2023-03-31 |
+| [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 | 2026-04-03 |  |
 | [What You Need \- A COLORS SHOW](https://open.spotify.com/track/49ceA6VvdgxF5LmXRPeIFA) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [What You Need \- A COLORS SHOW](https://open.spotify.com/album/2QCIt3Hun6RkRBug3DIz27) | 3:51 | 2026-01-30 |  |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-02-23 | 2024-06-28 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-09-19 |  |

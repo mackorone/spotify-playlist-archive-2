@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAACcIyx2weQNwMfehGLfvXwt",
+  "snapshot_id": "ac2xgAAAAAABg+je6mb9OeUuEF3GUncK",
   "tracks": [
     {
       "added_at": null,
@@ -531,30 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
-        }
-      ],
-      "duration_ms": 202351,
-      "name": "Chamba",
-      "url": "https://open.spotify.com/track/6wsThRu35S56XQhbeslTzm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3 de La Ma\u00f1ana (con Sebasti\u00e1n Yatra & Mora)",
         "url": "https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 220773,
       "name": "3 de La Ma\u00f1ana - con Sebasti\u00e1n Yatra & Mora",
       "url": "https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        }
+      ],
+      "duration_ms": 202351,
+      "name": "Chamba",
+      "url": "https://open.spotify.com/track/6wsThRu35S56XQhbeslTzm"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Gran D\u00eda",
-      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malcriado",
         "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 174353,
       "name": "Biling\u00fces",
       "url": "https://open.spotify.com/track/6MUUIuJAgulhbQRmYGlVWH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Gran D\u00eda",
+      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
     },
     {
       "added_at": null,

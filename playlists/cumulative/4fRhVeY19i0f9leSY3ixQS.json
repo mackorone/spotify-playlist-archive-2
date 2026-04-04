@@ -1645,6 +1645,28 @@
     },
     {
       "album": {
+        "name": "Before It's Too Late",
+        "url": "https://open.spotify.com/album/5IMxv9leayaxEaPw3swLWr"
+      },
+      "artists": [
+        {
+          "name": "Melexo",
+          "url": "https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM"
+        },
+        {
+          "name": "JET",
+          "url": "https://open.spotify.com/artist/6mIbZws8iW0fnafaUnlNJz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177726,
+      "name": "Before It's Too Late",
+      "url": "https://open.spotify.com/track/6IdxAzlM1h5wkM6JRztFUh"
+    },
+    {
+      "album": {
         "name": "The Codes In The Stones",
         "url": "https://open.spotify.com/album/2fLJyG7Tm4sETaSLdkZFkL"
       },
@@ -3376,7 +3398,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 239616,
       "name": "Child of Light",
       "url": "https://open.spotify.com/track/4F8kVapLmZlBI6JF8VJcgJ"
@@ -4003,6 +4025,24 @@
     },
     {
       "album": {
+        "name": "Crowned",
+        "url": "https://open.spotify.com/album/6ctZD4a26o1JQciJ9g5mW7"
+      },
+      "artists": [
+        {
+          "name": "Hurakan",
+          "url": "https://open.spotify.com/artist/5w35Gt5153qhoSwR4MVtEU"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114600,
+      "name": "Crowned",
+      "url": "https://open.spotify.com/track/0tyZM3OawPGQc0heX67clL"
+    },
+    {
+      "album": {
         "name": "Too Many Clunkers",
         "url": "https://open.spotify.com/album/6n7HB9DwrPxFZUsRyoUruy"
       },
@@ -4356,7 +4396,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 224705,
       "name": "Dead of Night",
       "url": "https://open.spotify.com/track/4UjscNQZWEKeMR5lanSAOW"
@@ -9360,7 +9400,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 184529,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/2ntUrJmw1Vsvv342JF9HAj"
@@ -9432,7 +9472,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 313253,
       "name": "I'd Rather Fly",
       "url": "https://open.spotify.com/track/6Opjh4EIfuSHjuI3QU2nxG"
@@ -9760,7 +9800,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 193846,
       "name": "In The Playground",
       "url": "https://open.spotify.com/track/7yhLykpDOQ0Psoc3hIFWoR"
@@ -9872,7 +9912,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 83869,
       "name": "INSANE",
       "url": "https://open.spotify.com/track/5zIvaDDVmix3RrE79Ifw6b"
@@ -12908,7 +12948,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 179959,
       "name": "Need you tonight",
       "url": "https://open.spotify.com/track/1pxgunJjVloRx07csdcdsy"
@@ -14876,7 +14916,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 163866,
       "name": "Prize",
       "url": "https://open.spotify.com/track/2oUJ5XjUVk8Ickyz8QgG9r"
@@ -16016,6 +16056,24 @@
       "duration_ms": 203476,
       "name": "Safe",
       "url": "https://open.spotify.com/track/3wbOkE8aQSGTCDpDFCJruX"
+    },
+    {
+      "album": {
+        "name": "Bruxism",
+        "url": "https://open.spotify.com/album/2lvi2hoZk7WDIfgTXRE7l8"
+      },
+      "artists": [
+        {
+          "name": "Grandma's Ashes",
+          "url": "https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202705,
+      "name": "Saints Kiss",
+      "url": "https://open.spotify.com/track/3rBfqEyvLEthsS26sGHpbO"
     },
     {
       "album": {
@@ -17407,6 +17465,24 @@
     },
     {
       "album": {
+        "name": "Somebody Better",
+        "url": "https://open.spotify.com/album/7gbPQEUfxR5cH7s2dAMzZJ"
+      },
+      "artists": [
+        {
+          "name": "Enjoy Less",
+          "url": "https://open.spotify.com/artist/4ghXiXTuhVBizmDdrR7W5x"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240653,
+      "name": "Somebody Better",
+      "url": "https://open.spotify.com/track/6Z8QO6fM6aUyqYdMOA47uC"
+    },
+    {
+      "album": {
         "name": "Somebody's Watching Me",
         "url": "https://open.spotify.com/album/1pbcDjPtVg9KGvFMvJ2P2U"
       },
@@ -18154,6 +18230,24 @@
       "duration_ms": 222213,
       "name": "Street Sweeper",
       "url": "https://open.spotify.com/track/3cimcG8WmincuoSjdizhRB"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/5cjxDenutIFsdXTJ10m61f"
+      },
+      "artists": [
+        {
+          "name": "The Lovekiller",
+          "url": "https://open.spotify.com/artist/3XTgWLoxDGFr3VLC5Wq4j2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282437,
+      "name": "Stripped",
+      "url": "https://open.spotify.com/track/6vorScXqRtKXUm6czL5qh5"
     },
     {
       "album": {
@@ -21980,7 +22074,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 161441,
       "name": "Wojtek prawdziwy cudak",
       "url": "https://open.spotify.com/track/31hRqJxAQK5KEjBANvllvA"
@@ -22106,7 +22200,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 113024,
       "name": "WORTH DYING FOR",
       "url": "https://open.spotify.com/track/7ftDs6tnh6O7wTnlFwbgVk"
@@ -22560,6 +22654,24 @@
       "duration_ms": 206506,
       "name": "Your Web Of Lies",
       "url": "https://open.spotify.com/track/5oac3BCTHhfNKWKIzpxef8"
+    },
+    {
+      "album": {
+        "name": "Archive",
+        "url": "https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH"
+      },
+      "artists": [
+        {
+          "name": "Vann's Nebula",
+          "url": "https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178502,
+      "name": "Zenith",
+      "url": "https://open.spotify.com/track/6OrjMdW9uD4sDkJueoK3Jh"
     },
     {
       "album": {

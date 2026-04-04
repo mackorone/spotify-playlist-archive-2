@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Ruzzi",
-  "num_followers": 137189,
+  "num_followers": 137182,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
+        "name": "Uno de nosotros (feat. Javiera Mena)",
+        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 249518,
+      "name": "Unx de nosotrxs (feat. Javiera Mena)",
+      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
-        "name": "Uno de nosotros (feat. Javiera Mena)",
-        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 249518,
-      "name": "Unx de nosotrxs (feat. Javiera Mena)",
-      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "Nobody Got It",
-        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
+        "name": "As\u00ed Me Siento Hoy",
+        "url": "https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe"
       },
       "artists": [
         {
-          "name": "Poe Leos",
-          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
         }
       ],
-      "duration_ms": 168071,
-      "name": "Nobody Got It",
-      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
+      "duration_ms": 155159,
+      "name": "me gusta que me gustes",
+      "url": "https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "As\u00ed Me Siento Hoy",
-        "url": "https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe"
+        "name": "Nobody Got It",
+        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
       },
       "artists": [
         {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
         }
       ],
-      "duration_ms": 155159,
-      "name": "me gusta que me gustes",
-      "url": "https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM"
+      "duration_ms": 168071,
+      "name": "Nobody Got It",
+      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
     },
     {
       "added_at": "2026-02-13 05:00:43",

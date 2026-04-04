@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: KELS",
-  "num_followers": 437196,
+  "num_followers": 437322,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQJCj1Iu9MM4s7skYAcyNVwVghW",
+  "snapshot_id": "AAAAAGi3nsgvN0AyDi3sR1vcsuyn67hC",
   "tracks": [
     {
       "added_at": "2026-03-20 04:00:32",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
     },
     {
+      "added_at": "2026-04-03 04:58:46",
+      "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/1UA9keCcWY3lEOIKFFqYQg"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 191870,
+      "name": "180",
+      "url": "https://open.spotify.com/track/2f7zdx2sNebdcSyuR55LnD"
+    },
+    {
       "added_at": "2026-03-13 04:00:38",
       "album": {
         "name": "Love Bites Back",
@@ -215,6 +231,22 @@
       "duration_ms": 168284,
       "name": "Phone Sick",
       "url": "https://open.spotify.com/track/0LYwys0V2rejdfZ1LrEiun"
+    },
+    {
+      "added_at": "2026-04-03 04:58:46",
+      "album": {
+        "name": "Didn't See It Coming",
+        "url": "https://open.spotify.com/album/25K8JhVpKZFKck576ODtHp"
+      },
+      "artists": [
+        {
+          "name": "Connie Talbot",
+          "url": "https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um"
+        }
+      ],
+      "duration_ms": 184642,
+      "name": "Didn't See It Coming",
+      "url": "https://open.spotify.com/track/3BktKdXTbl1Zoip0I4s9gb"
     },
     {
       "added_at": "2026-02-27 05:00:42",
@@ -703,22 +735,6 @@
       "duration_ms": 178400,
       "name": "20 Weeks",
       "url": "https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr"
-    },
-    {
-      "added_at": "2026-01-09 05:00:48",
-      "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/2ffPAuQMKRWs4vOoeonRuo"
-      },
-      "artists": [
-        {
-          "name": "Connie Talbot",
-          "url": "https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um"
-        }
-      ],
-      "duration_ms": 189129,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/0OpVvLqe7KImD3RXXDizTt"
     },
     {
       "added_at": "2025-11-21 05:00:33",
@@ -1591,50 +1607,6 @@
       "duration_ms": 148898,
       "name": "Whoops",
       "url": "https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk"
-    },
-    {
-      "added_at": "2024-05-10 17:08:48",
-      "album": {
-        "name": "Stereophonic (Original Cast Recording)",
-        "url": "https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB"
-      },
-      "artists": [
-        {
-          "name": "Original Cast of Stereophonic",
-          "url": "https://open.spotify.com/artist/7mWF9KLJnw7RBibAnNOSB9"
-        },
-        {
-          "name": "Sarah Pidgeon",
-          "url": "https://open.spotify.com/artist/5CHHfbhxEXG1z77bbj4ila"
-        },
-        {
-          "name": "Will Brill",
-          "url": "https://open.spotify.com/artist/5J7cdiHUhj1czoAsBFG4dd"
-        },
-        {
-          "name": "Juliana Canfield",
-          "url": "https://open.spotify.com/artist/6Q2PaUxhasOg5BZWUDvWAK"
-        },
-        {
-          "name": "Tom Pecinka",
-          "url": "https://open.spotify.com/artist/2rjaQ9SW19AqHuD5d8vyJz"
-        },
-        {
-          "name": "Chris Stack",
-          "url": "https://open.spotify.com/artist/3fE1pLoa2o2aejSTzBc9ag"
-        },
-        {
-          "name": "Will Butler",
-          "url": "https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp"
-        },
-        {
-          "name": "Justin Craig",
-          "url": "https://open.spotify.com/artist/7vEryrK6GxnOKI3sGyPjHN"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "Bright (Fast)",
-      "url": "https://open.spotify.com/track/1e5SVMJoqJAs6parbChLy8"
     },
     {
       "added_at": "2024-05-10 04:01:00",

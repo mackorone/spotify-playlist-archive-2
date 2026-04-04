@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
@@ -1706,6 +1706,24 @@
       "duration_ms": 115846,
       "name": "Baby Eu Tava na Rua da \u00c1gua",
       "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
+    },
+    {
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
       "album": {
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 314880,
       "name": "Chat\u00e3o",
       "url": "https://open.spotify.com/track/7MgQdSpQLrrobRreaqSUzP"
@@ -5405,6 +5423,36 @@
     },
     {
       "album": {
+        "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
+        "url": "https://open.spotify.com/album/1nJFHpaSmVAKbLMrzWOdwz"
+      },
+      "artists": [
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "DJ GORDINHO DA VF",
+          "url": "https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217845,
+      "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
+      "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
+    },
+    {
+      "album": {
         "name": "Repert\u00f3rio Fim de Ano",
         "url": "https://open.spotify.com/album/1lgnxbdljukcNXswFLN4LX"
       },
@@ -6316,10 +6364,28 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 179215,
       "name": "Ignora (Ao Vivo)",
       "url": "https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC"
+    },
+    {
+      "album": {
+        "name": "Velhos H\u00e1bitos, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179215,
+      "name": "Ignora (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7dNXSf4lS30n1lBfFavQK5"
     },
     {
       "album": {
@@ -6422,7 +6488,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 227660,
       "name": "Into the Sun",
       "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
@@ -8874,7 +8940,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 98453,
       "name": "No. 29",
       "url": "https://open.spotify.com/track/3plyGpDgzfrnZbpElpfioV"
@@ -9624,7 +9690,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 145491,
       "name": "OLHO MARROM - Ao Vivo em Lisboa",
       "url": "https://open.spotify.com/track/1I6TdHxz61Kf9EFje0dQvg"
@@ -13826,7 +13892,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 156923,
       "name": "Toma Gostosona",
       "url": "https://open.spotify.com/track/7G8V8LiyyqwzSlsQLiaitN"

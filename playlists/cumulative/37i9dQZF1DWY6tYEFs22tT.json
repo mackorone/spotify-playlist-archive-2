@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Kanye West, Central Cee, Yeat, Latto, Baby Keem and Chief Keef.",
+  "description": "Today's Hip-Hop with Central Cee, Kanye West, Swae Lee, YG and Meek Mill.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -818,6 +818,24 @@
       "duration_ms": 110526,
       "name": "5k for the Draco",
       "url": "https://open.spotify.com/track/2ynkjghe47nb0fQvAgEvBI"
+    },
+    {
+      "album": {
+        "name": "600 Racks",
+        "url": "https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184383,
+      "name": "600 Racks",
+      "url": "https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6"
     },
     {
       "album": {
@@ -2973,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "Bazooka",
+        "url": "https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L"
+      },
+      "artists": [
+        {
+          "name": "Miami XO",
+          "url": "https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108121,
+      "name": "Bazooka",
+      "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
+    },
+    {
+      "album": {
         "name": "BE WHAT IT BE (feat. NorthsideBenji)",
         "url": "https://open.spotify.com/album/1SX5Gwg6FJHkdeTZPeLuNq"
       },
@@ -3398,7 +3434,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 236666,
       "name": "Big Dawgs (Remix) [with A$AP Rocky]",
       "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
@@ -12494,7 +12530,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 165288,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn"
@@ -12814,7 +12850,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 241335,
       "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
       "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
@@ -14242,7 +14278,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186000,
       "name": "ICEMAN FREESTYLE",
       "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
@@ -14268,6 +14304,24 @@
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "album": {
+        "name": "idk idk",
+        "url": "https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "idk idk",
+      "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
     },
     {
       "album": {
@@ -15140,7 +15194,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 123520,
       "name": "just say dat",
       "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
@@ -15454,7 +15508,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 170498,
       "name": "KICK OUT",
       "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
@@ -15976,7 +16030,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 181600,
       "name": "Let King Tonka Talk",
       "url": "https://open.spotify.com/track/0r1YhuTLqxybeKSQjIP0Gs"
@@ -17208,7 +17262,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 169090,
       "name": "Made It On Our Own",
       "url": "https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs"
@@ -18306,6 +18360,24 @@
       "duration_ms": 143147,
       "name": "Motion God",
       "url": "https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS"
+    },
+    {
+      "album": {
+        "name": "Motion Party",
+        "url": "https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95840,
+      "name": "Motion Party",
+      "url": "https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9"
     },
     {
       "album": {
@@ -21217,6 +21289,28 @@
     },
     {
       "album": {
+        "name": "Paperbag Boy",
+        "url": "https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191059,
+      "name": "Paperbag Boy",
+      "url": "https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP"
+    },
+    {
+      "album": {
         "name": "Paris to Tokyo",
         "url": "https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U"
       },
@@ -22006,6 +22100,24 @@
       "duration_ms": 290346,
       "name": "Poor Thang",
       "url": "https://open.spotify.com/track/1nhNz1tWU8p5WvFAAgFW2h"
+    },
+    {
+      "album": {
+        "name": "POP DAT THANG",
+        "url": "https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138251,
+      "name": "POP DAT THANG",
+      "url": "https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG"
     },
     {
       "album": {
@@ -23051,6 +23163,32 @@
     },
     {
       "album": {
+        "name": "Real Ones (feat. Albee Al & Harrd Luck)",
+        "url": "https://open.spotify.com/album/743b8a7tq2VwGvomAr4l9b"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Albee Al",
+          "url": "https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd"
+        },
+        {
+          "name": "Harrd Luck",
+          "url": "https://open.spotify.com/artist/68TTDOuDAwyCZaGpoDyVAU"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224031,
+      "name": "Real Ones (feat. Albee Al & Harrd Luck)",
+      "url": "https://open.spotify.com/track/7lS7ZAnlb0Vl3xnRhXIQt5"
+    },
+    {
+      "album": {
         "name": "Real Shit",
         "url": "https://open.spotify.com/album/4CvXQ6bvjOiA9N5PYMJOrn"
       },
@@ -24086,6 +24224,28 @@
       "duration_ms": 147692,
       "name": "Rush Hour Freestyle",
       "url": "https://open.spotify.com/track/6qJzLnyBXtq4XMuX98chkI"
+    },
+    {
+      "album": {
+        "name": "R3SET",
+        "url": "https://open.spotify.com/album/1rhnav9zlFHm5zbyVIy2jR"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "RUSSIAN ROULETT3",
+      "url": "https://open.spotify.com/track/4wiNxNXwnhVdwvxedo40FK"
     },
     {
       "album": {
@@ -25950,7 +26110,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 183886,
       "name": "STATE OF EMERGENCY",
       "url": "https://open.spotify.com/track/1hpFu5ZQQGi7vDipedBcXy"
@@ -27377,6 +27537,28 @@
     },
     {
       "album": {
+        "name": "TEACH YOU HOW TO LUH ME",
+        "url": "https://open.spotify.com/album/7DQF3OuLxkjvqDvzS1tBM5"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "TEACH YOU HOW TO LUH ME",
+      "url": "https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp"
+    },
+    {
+      "album": {
         "name": "Strictly For My Fans 2.0",
         "url": "https://open.spotify.com/album/4frcIfQQ6ojSPN1oZMcmtd"
       },
@@ -27666,6 +27848,24 @@
       "duration_ms": 155076,
       "name": "The God Hour",
       "url": "https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC"
+    },
+    {
+      "album": {
+        "name": "SAME DIFFERENCE",
+        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "THE GOSPEL",
+      "url": "https://open.spotify.com/track/4RF4iHAWjpMgZlYKTUKG3L"
     },
     {
       "album": {
@@ -29056,7 +29256,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 163658,
       "name": "Trauma Bond",
       "url": "https://open.spotify.com/track/4FBweKWPMAJyqjOqwlaxN9"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 8 hr 0 min
+147 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [DON'T LEAVE](https://open.spotify.com/track/5gXD4exv3XSwYh4BFQ0phf) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:28 | 2025-12-17 |  |
 | [Dumb Shit](https://open.spotify.com/track/7jet0y1TxW6Jfyst9rWWYY) | [Good Girl](https://open.spotify.com/artist/7LmBaPNWiMSVoBawL30uQR) | [Good Girl](https://open.spotify.com/album/3ZvHNWQl5vzUPO15UkRaqk) | 2:57 | 2024-01-29 |  |
 | [Earth Girls](https://open.spotify.com/track/4fFW2R6sfxi83VumhTuKDa) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Bartholomew](https://open.spotify.com/album/4DCQ1KDwnkPgh5Yj1eMQGz) | 4:09 | 2024-01-29 |  |
+| [Em\(oceans\)](https://open.spotify.com/track/3z29ud4LY6tsBUYd9m8HyO) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [In Between](https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA) | 3:17 | 2026-04-03 |  |
 | [Envious](https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 | 2024-01-29 |  |
 | [Every Day Is Christmas](https://open.spotify.com/track/6u5unFrPKFPSjcwo3qURbG) | [The Braxtons](https://open.spotify.com/artist/1hO5XbzrgqZIwurIDuB3i2) | [Braxton Family Christmas](https://open.spotify.com/album/3YicC3ePV7Ys1aOxP0NjAD) | 3:06 | 2024-01-29 |  |
 | [Fade to Black](https://open.spotify.com/track/3NIawwPGF6X5Hjz9UUJ6tO) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 1:57 | 2024-01-29 |  |

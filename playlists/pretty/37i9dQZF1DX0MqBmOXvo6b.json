@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 434247,
+  "num_followers": 434260,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
+        "name": "Even So",
+        "url": "https://open.spotify.com/album/3yB40PziBfQh2P1XfpBkrU"
+      },
+      "artists": [
+        {
+          "name": "Naskal",
+          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
+        }
+      ],
+      "duration_ms": 150569,
+      "name": "Even So",
+      "url": "https://open.spotify.com/track/6pZ2qQUbm6p8sBwx2gHKWk"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
         "name": "Hivon",
         "url": "https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI"
       },
@@ -299,18 +315,18 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Even So",
-        "url": "https://open.spotify.com/album/3yB40PziBfQh2P1XfpBkrU"
+        "name": "Schatze",
+        "url": "https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4"
       },
       "artists": [
         {
-          "name": "Naskal",
-          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
+          "name": "Franz Ewer",
+          "url": "https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu"
         }
       ],
-      "duration_ms": 150569,
-      "name": "Even So",
-      "url": "https://open.spotify.com/track/6pZ2qQUbm6p8sBwx2gHKWk"
+      "duration_ms": 155097,
+      "name": "Schatze",
+      "url": "https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -327,22 +343,6 @@
       "duration_ms": 179682,
       "name": "Alder",
       "url": "https://open.spotify.com/track/2TuPzUCUfmhh1d3lqn0DWJ"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
-        "name": "Schatze",
-        "url": "https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4"
-      },
-      "artists": [
-        {
-          "name": "Franz Ewer",
-          "url": "https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu"
-        }
-      ],
-      "duration_ms": 155097,
-      "name": "Schatze",
-      "url": "https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "My love",
-        "url": "https://open.spotify.com/album/2Z9vPeJtT5Y9S0iNoytxMC"
-      },
-      "artists": [
-        {
-          "name": "Maxime Verdoni",
-          "url": "https://open.spotify.com/artist/5jKR9zUiwVSlHO8N5JYu6e"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "My love",
-      "url": "https://open.spotify.com/track/0BsgEGGkpLtMnbp8z0LnRF"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Flower Wings",
         "url": "https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 138187,
       "name": "Flower Wings",
       "url": "https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "My love",
+        "url": "https://open.spotify.com/album/2Z9vPeJtT5Y9S0iNoytxMC"
+      },
+      "artists": [
+        {
+          "name": "Maxime Verdoni",
+          "url": "https://open.spotify.com/artist/5jKR9zUiwVSlHO8N5JYu6e"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "My love",
+      "url": "https://open.spotify.com/track/0BsgEGGkpLtMnbp8z0LnRF"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -699,18 +699,18 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Aperetif",
-        "url": "https://open.spotify.com/album/441Vp8czTgLjVLFPPZxHxP"
+        "name": "Warm Embrace",
+        "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
       },
       "artists": [
         {
-          "name": "Linior",
-          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+          "name": "Ann Hildering",
+          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
         }
       ],
-      "duration_ms": 153378,
-      "name": "Aperetif",
-      "url": "https://open.spotify.com/track/0gTbCfoGn1ZHru7ZfBk0x3"
+      "duration_ms": 163072,
+      "name": "Warm Embrace",
+      "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Warm Embrace",
-        "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
+        "name": "Aperetif",
+        "url": "https://open.spotify.com/album/441Vp8czTgLjVLFPPZxHxP"
       },
       "artists": [
         {
-          "name": "Ann Hildering",
-          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
         }
       ],
-      "duration_ms": 163072,
-      "name": "Warm Embrace",
-      "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
+      "duration_ms": 153378,
+      "name": "Aperetif",
+      "url": "https://open.spotify.com/track/0gTbCfoGn1ZHru7ZfBk0x3"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "The Seventh Wave",
-        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
-      },
-      "artists": [
-        {
-          "name": "Colias Fieldii",
-          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
-        }
-      ],
-      "duration_ms": 128088,
-      "name": "The Seventh Wave",
-      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Lost to memories",
         "url": "https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 134056,
       "name": "Lost to memories",
       "url": "https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "The Seventh Wave",
+        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "duration_ms": 128088,
+      "name": "The Seventh Wave",
+      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Ing\u00e9nue",
-        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
-      },
-      "artists": [
-        {
-          "name": "Nino Carl",
-          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
-        }
-      ],
-      "duration_ms": 147639,
-      "name": "Ing\u00e9nue",
-      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Shadows On The Lawn",
         "url": "https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN"
       },
@@ -1179,34 +1163,18 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Au matin du magicien",
-        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+        "name": "Ing\u00e9nue",
+        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
       },
       "artists": [
         {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
         }
       ],
-      "duration_ms": 122560,
-      "name": "Au matin du magicien",
-      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
-        "name": "Sound Of Mind",
-        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
-      },
-      "artists": [
-        {
-          "name": "Macan Moreira",
-          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Sound Of Mind",
-      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
+      "duration_ms": 147639,
+      "name": "Ing\u00e9nue",
+      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1223,6 +1191,22 @@
       "duration_ms": 141298,
       "name": "Home Beyond The Stars",
       "url": "https://open.spotify.com/track/2pwAMyYNW1jLjgnGXRSpzR"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Au matin du magicien",
+        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 122560,
+      "name": "Au matin du magicien",
+      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1255,6 +1239,22 @@
       "duration_ms": 174471,
       "name": "Amenable",
       "url": "https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
+      },
+      "artists": [
+        {
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+        }
+      ],
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "The Only One",
-        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
-      },
-      "artists": [
-        {
-          "name": "Aron E. Ross",
-          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
-        }
-      ],
-      "duration_ms": 176137,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Into the Unknown",
         "url": "https://open.spotify.com/album/38EOJDVjA48a1OsabohitZ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 159739,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/6xhu6te5zJFLn4sgavp5Xz"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
+      },
+      "artists": [
+        {
+          "name": "Aron E. Ross",
+          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
+        }
+      ],
+      "duration_ms": 176137,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
+        "name": "Quietude",
+        "url": "https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA"
+      },
+      "artists": [
+        {
+          "name": "Naskal",
+          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
+        }
+      ],
+      "duration_ms": 156405,
+      "name": "Quietude",
+      "url": "https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 192000,
       "name": "Daffodils",
       "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
-        "name": "Quietude",
-        "url": "https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA"
-      },
-      "artists": [
-        {
-          "name": "Naskal",
-          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
-        }
-      ],
-      "duration_ms": 156405,
-      "name": "Quietude",
-      "url": "https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
-      },
-      "artists": [
-        {
-          "name": "Kyo Himura",
-          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
-        }
-      ],
-      "duration_ms": 146073,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Black coal of dream",
         "url": "https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 125160,
       "name": "Black coal of dream",
       "url": "https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
+      },
+      "artists": [
+        {
+          "name": "Kyo Himura",
+          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
+        }
+      ],
+      "duration_ms": 146073,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Memoirs",
-        "url": "https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652"
-      },
-      "artists": [
-        {
-          "name": "Gunnel Boek",
-          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Memoirs",
-      "url": "https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Within Reach",
         "url": "https://open.spotify.com/album/0tu8xdyVBnJLHC1irTvhog"
       },
@@ -2183,22 +2167,6 @@
       "duration_ms": 153301,
       "name": "Within Reach",
       "url": "https://open.spotify.com/track/22WL29LGZvVsIYC64cP1ai"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
-        "name": "Beckoning",
-        "url": "https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a"
-      },
-      "artists": [
-        {
-          "name": "Con Alma",
-          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
-        }
-      ],
-      "duration_ms": 120795,
-      "name": "Beckoning",
-      "url": "https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2219,6 +2187,38 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
+        "name": "Memoirs",
+        "url": "https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652"
+      },
+      "artists": [
+        {
+          "name": "Gunnel Boek",
+          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Memoirs",
+      "url": "https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Beckoning",
+        "url": "https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a"
+      },
+      "artists": [
+        {
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
+        }
+      ],
+      "duration_ms": 120795,
+      "name": "Beckoning",
+      "url": "https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
         "name": "Lik Eit Tre (Ps.1)",
         "url": "https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE"
       },
@@ -2231,6 +2231,22 @@
       "duration_ms": 154844,
       "name": "Lik Eit Tre - Ps.1",
       "url": "https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Hudson",
+        "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
+      },
+      "artists": [
+        {
+          "name": "Lluvio",
+          "url": "https://open.spotify.com/artist/1kzkKhacDbiz7kbMewpWLV"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Hudson",
+      "url": "https://open.spotify.com/track/4X21nr52GfvHOUgN25yUC5"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2263,22 +2279,6 @@
       "duration_ms": 167844,
       "name": "The Magic of a Piano",
       "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
-        "name": "Hudson",
-        "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
-      },
-      "artists": [
-        {
-          "name": "Lluvio",
-          "url": "https://open.spotify.com/artist/1kzkKhacDbiz7kbMewpWLV"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Hudson",
-      "url": "https://open.spotify.com/track/4X21nr52GfvHOUgN25yUC5"
     },
     {
       "added_at": "2026-01-06 14:26:54",

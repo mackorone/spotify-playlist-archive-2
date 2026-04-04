@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-465 songs - 1 day 1 hr 34 min
+467 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 | 2025-04-24 | 2025-09-05 |
 | [Friends](https://open.spotify.com/track/1pwyINL3fwBKV95x0l4A1n) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Friends](https://open.spotify.com/album/6I8YtUNtTpKIU2SJPRVfId) | 3:28 | 2026-01-08 |  |
 | [Frisco Blues](https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Frisco Blues](https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF) | 4:07 | 2023-10-12 | 2023-12-01 |
+| [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:35 | 2026-04-02 |  |
 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 | 2024-09-19 | 2024-11-22 |
 | [Gasoline](https://open.spotify.com/track/4fQ8T6FrEKDCcKULjCyE9t) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:39 | 2025-06-27 | 2025-11-07 |
 | [Get Ready](https://open.spotify.com/track/5DhIBpQpEMyrVa95R7AGSc) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Get Ready](https://open.spotify.com/album/3SnHhdCpWinISvVLHjFgHM) | 3:29 | 2024-06-27 | 2024-10-25 |
@@ -157,7 +158,7 @@
 | [Happy Customers](https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Happy Customers](https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ) | 2:50 | 2024-03-14 | 2024-05-17 |
 | [Hard \(feat\. Hanni El Khatib\)](https://open.spotify.com/track/0QHZomqI7eXhkkljkXMpEr) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B), [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Hard \(feat\. Hanni El Khatib\)](https://open.spotify.com/album/4EZjQSyZOGk0SLt2JqVOae) | 2:46 | 2024-11-21 | 2025-02-14 |
 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 | 2025-04-17 | 2025-08-22 |
-| [Hear Me Out](https://open.spotify.com/track/1BfgpUJslvd4JJI1Hz49ZQ) | [AFTER GEOGRAPHY](https://open.spotify.com/artist/1foySkXTahyUyQ1ojNowrI) | [A Hundred Mixed Emotions](https://open.spotify.com/album/14XI796MhuPowz8BubR7Cb) | 4:17 | 2026-03-26 |  |
+| [Hear Me Out](https://open.spotify.com/track/1BfgpUJslvd4JJI1Hz49ZQ) | [AFTER GEOGRAPHY](https://open.spotify.com/artist/1foySkXTahyUyQ1ojNowrI) | [A Hundred Mixed Emotions](https://open.spotify.com/album/14XI796MhuPowz8BubR7Cb) | 4:17 | 2026-03-26 | 2026-04-04 |
 | [Heart By Heart](https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Heart By Heart](https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU) | 3:10 | 2025-04-24 | 2025-08-29 |
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-09-28 | 2023-11-17 |
 | [Hello Lonely](https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Hello Lonely](https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr) | 3:31 | 2024-04-18 | 2024-06-14 |
@@ -406,7 +407,7 @@
 | [Take Me Back](https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Take Me Back](https://open.spotify.com/album/3sbuWV2U4lcyfx64Se1YXK) | 2:33 | 2024-06-27 | 2024-08-23 |
 | [Take What's Given](https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What's Given](https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F) | 2:54 | 2024-02-08 | 2024-03-30 |
 | [Tangerine Skies](https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Tangerine Skies](https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5) | 3:12 | 2024-08-29 | 2025-01-10 |
-| [That Girl](https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [The Meeting \(Deluxe\)](https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde) | 2:53 | 2025-11-20 |  |
+| [That Girl](https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [The Meeting \(Deluxe\)](https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde) | 2:53 | 2025-11-20 | 2026-04-04 |
 | [That's Life](https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:43 | 2024-08-22 | 2024-12-20 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 | 2025-02-14 |
 | [The Deceiving](https://open.spotify.com/track/3GXVVxYAL6sTG8ICC6pD9R) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [The Deceiving](https://open.spotify.com/album/32AeGVho713wI8Wm6jdgni) | 2:47 | 2023-11-23 | 2024-03-08 |
@@ -419,6 +420,7 @@
 | [the one](https://open.spotify.com/track/5CVH4yjJy1Nhr1G51UBG7e) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [the one](https://open.spotify.com/album/6Vqi6HvrkjM1MgdiZUfn6P) | 2:26 | 2026-01-15 |  |
 | [The Power](https://open.spotify.com/track/4difawHT7Gzi9q7l9qUcZi) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Departures & Arrivals: Adventures of Captain Curt](https://open.spotify.com/album/6kslXkHCr5rcOpf07Ss37k) | 3:41 | 2026-01-29 |  |
 | [The Universe](https://open.spotify.com/track/24Fp8b0mG0ePB91X7fmnvu) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Hit Parade](https://open.spotify.com/album/6TrMvKGGUdJZv1eWbSM63U) | 4:05 | 2023-09-28 | 2023-11-24 |
+| [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 | 2026-04-02 |  |
 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-09-28 | 2023-11-08 |
 | [The World](https://open.spotify.com/track/5tVq3U1jHqxLmE5EbF7Ly9) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 3:06 | 2023-09-28 | 2023-10-27 |
 | [The world of yesterday](https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The world of yesterday](https://open.spotify.com/album/3j2tB7H1Ez1HHP8dO1e5nr) | 3:32 | 2024-10-10 | 2025-01-10 |

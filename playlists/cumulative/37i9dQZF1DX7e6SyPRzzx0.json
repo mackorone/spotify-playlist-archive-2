@@ -1277,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "God's Time",
+        "url": "https://open.spotify.com/album/5wtfGYkBENiyeiPZ8Ci9Ve"
+      },
+      "artists": [
+        {
+          "name": "Melly Mike",
+          "url": "https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156177,
+      "name": "God's Time",
+      "url": "https://open.spotify.com/track/0oEvPOea1YuOMNipjZ07kq"
+    },
+    {
+      "album": {
         "name": "gold",
         "url": "https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW"
       },
@@ -1889,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Fully Loaded",
+        "url": "https://open.spotify.com/album/0XoJlVEGM9R0t6py51jkae"
+      },
+      "artists": [
+        {
+          "name": "Che",
+          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136068,
+      "name": "Kittens",
+      "url": "https://open.spotify.com/track/6z8bgsZktppOfBkCEGzTMN"
+    },
+    {
+      "album": {
         "name": "Mafia Musik",
         "url": "https://open.spotify.com/album/3S9jhXK2F3LMMKFWFs5MEU"
       },
@@ -1954,7 +1990,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 88605,
       "name": "listen!",
       "url": "https://open.spotify.com/track/12eAtj918bpsB4Vts8pCMu"
@@ -2602,7 +2638,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 150895,
       "name": "Not An Option",
       "url": "https://open.spotify.com/track/1197AvSs0lMg5kNIGaeENm"
@@ -2867,6 +2903,28 @@
     },
     {
       "album": {
+        "name": "Paperbag Boy",
+        "url": "https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191059,
+      "name": "Paperbag Boy",
+      "url": "https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP"
+    },
+    {
+      "album": {
         "name": "Homixide Lifestyle 2",
         "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
       },
@@ -2966,7 +3024,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 187496,
       "name": "President (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
@@ -3002,7 +3060,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 109745,
       "name": "Pwned",
       "url": "https://open.spotify.com/track/5wlv6qNr4sBuoEfRwV00RD"
@@ -3708,6 +3766,24 @@
       "duration_ms": 198333,
       "name": "VICE CITY",
       "url": "https://open.spotify.com/track/0AUoWq5xvZL6vW7u4dZmJO"
+    },
+    {
+      "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/0JOapIHLzCzmqCAZf8OYy1"
+      },
+      "artists": [
+        {
+          "name": "Nine Vicious",
+          "url": "https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244339,
+      "name": "Vivienne Westwood / RIP",
+      "url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
     },
     {
       "album": {

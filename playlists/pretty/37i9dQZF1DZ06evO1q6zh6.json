@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 183303,
+  "num_followers": 183316,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAABQqVYHcQFw7r+osCX2lDWC",
+  "snapshot_id": "ac2xgAAAAACtExFw44N3XnF5U8QtYvi/",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming For Vengeance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 283120,
-      "name": "Screaming for Vengeance",
-      "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
+      "duration_ms": 263973,
+      "name": "Never The Heroes",
+      "url": "https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 263973,
-      "name": "Never The Heroes",
-      "url": "https://open.spotify.com/track/2dyoAUok3JghK7dQQeQ2lU"
+      "duration_ms": 283120,
+      "name": "Screaming for Vengeance",
+      "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
     },
     {
       "added_at": null,

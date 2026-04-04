@@ -1,12 +1,12 @@
 {
   "description": "Viral, trending and taking off.",
-  "num_followers": 4219979,
+  "num_followers": 4219900,
   "original_name": "Viral Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIpY2FsCp2iAFgTj5hVJsLKFXPOh",
+  "snapshot_id": "AAAAAHkDEGpg2O16DpyPNixszxhpM3ds",
   "tracks": [
     {
       "added_at": "2026-03-27 04:00:23",
@@ -829,24 +829,20 @@
       "url": "https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP"
     },
     {
-      "added_at": "2026-01-16 05:00:43",
+      "added_at": "2026-04-03 19:11:06",
       "album": {
-        "name": "Please Me",
-        "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
+        "name": "WANT",
+        "url": "https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
         }
       ],
-      "duration_ms": 200889,
-      "name": "Please Me",
-      "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
+      "duration_ms": 199600,
+      "name": "RICHMAN",
+      "url": "https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I"
     },
     {
       "added_at": "2025-05-02 04:00:37",

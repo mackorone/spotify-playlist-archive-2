@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1456192,
+  "num_followers": 1456587,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAACAHYx6d5P5dqzCkB4NGlkz",
+  "snapshot_id": "ac2xgAAAAABZzwOxuIYryH5cN97fcaeo",
   "tracks": [
     {
       "added_at": null,
@@ -24,13 +24,13 @@
           "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Andre Troutman",
+          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
         }
       ],
-      "duration_ms": 169330,
-      "name": "FATHER (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
+      "duration_ms": 229152,
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
     },
     {
       "added_at": null,
@@ -104,13 +104,13 @@
           "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
         },
         {
-          "name": "Andre Troutman",
-          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 229152,
-      "name": "ALL THE LOVE (feat. Andre Troutman)",
-      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
+      "duration_ms": 169330,
+      "name": "FATHER (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
         }
       ],
-      "duration_ms": 126868,
-      "name": "KING",
-      "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
+      "duration_ms": 119272,
+      "name": "WHATEVER WORKS",
+      "url": "https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
         }
       ],
-      "duration_ms": 119272,
-      "name": "WHATEVER WORKS",
-      "url": "https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU"
+      "duration_ms": 126868,
+      "name": "KING",
+      "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JESUS IS KING",
-        "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 104591,
-      "name": "Follow God",
-      "url": "https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 111477,
       "name": "BURN",
       "url": "https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JESUS IS KING",
+        "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 104591,
+      "name": "Follow God",
+      "url": "https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h"
     },
     {
       "added_at": null,

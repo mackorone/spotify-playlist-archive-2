@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Aliya",
+        "url": "https://open.spotify.com/album/7AxJlS7aDUiJRnUjxHCkYA"
+      },
+      "artists": [
+        {
+          "name": "Third Coast Echo",
+          "url": "https://open.spotify.com/artist/6L4AEX9CqQULzoOz3lN5CP"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217166,
+      "name": "Aliya",
+      "url": "https://open.spotify.com/track/5TZVhJmVVLUQIxEKr7JLTy"
+    },
+    {
+      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/5ppmDplZFPBmfAmwFYgwCX"
       },
@@ -8579,6 +8597,24 @@
     },
     {
       "album": {
+        "name": "Late Terminal",
+        "url": "https://open.spotify.com/album/208ydPDNnowWM3Rt3XQFUx"
+      },
+      "artists": [
+        {
+          "name": "Belleville",
+          "url": "https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191454,
+      "name": "Late Terminal",
+      "url": "https://open.spotify.com/track/30WMcRYFfoMpNQ6sVVOZEP"
+    },
+    {
+      "album": {
         "name": "Later And Later",
         "url": "https://open.spotify.com/album/1jfvvjvxU4HCh2UCTAt7i8"
       },
@@ -15266,7 +15302,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 196000,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/2mcGiXMNYUcfm9hcLvTBES"
@@ -16886,7 +16922,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 191500,
       "name": "Violets for Your Furs",
       "url": "https://open.spotify.com/track/27ZdIE8SGlkYVLua15ASGD"

@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 172160,
       "name": "CAN'T GO HOME",
       "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
@@ -1108,6 +1108,24 @@
       "duration_ms": 231040,
       "name": "Caroline (Hold Tight)",
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
+    },
+    {
+      "album": {
+        "name": "Everything Glows",
+        "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
     },
     {
       "album": {
@@ -2898,6 +2916,24 @@
       "duration_ms": 236307,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/4ElhB6q5C4ugz6owedGbQZ"
+    },
+    {
+      "album": {
+        "name": "GROOVINU",
+        "url": "https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166162,
+      "name": "GROOVINU",
+      "url": "https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH"
     },
     {
       "album": {
@@ -7512,7 +7548,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 227214,
       "name": "Swiss Sensation",
       "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"

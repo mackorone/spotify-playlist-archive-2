@@ -2,7 +2,7 @@
 
 ### [Gospel Christmas](https://open.spotify.com/playlist/37i9dQZF1DWSnpLW9iux5M)
 
-> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Jonathan McReynolds
+> Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Yolanda Adams
 
 207 songs - 13 hr 24 min
 
@@ -205,8 +205,8 @@
 | [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 | 2022-11-26 |  |
 | [What Christmas Really Means](https://open.spotify.com/track/0ADx1ssYtTWJODfaTAfL8O) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [What Christmas Really Means](https://open.spotify.com/album/4ZNkaeKVTxeVewNBM9fLLw) | 4:07 | 2021-12-24 |  |
 | [What Is Christmas Without You](https://open.spotify.com/track/1HYW69lkHD3HXLsipXbUr8) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [What Is Christmas Without You](https://open.spotify.com/album/1kFeM5XI4ISUVpixpdMmkY) | 3:20 | 2025-11-28 |  |
-| [When Was Jesus Born?](https://open.spotify.com/track/5z0XBkinFlgjmpbKou7pjc) | [Liz McComb](https://open.spotify.com/artist/1GlVll15lXMHTvvJiUQaAB) | [Merry Christmas](https://open.spotify.com/album/24IoAKBtORiFhOt6Po1B2n) | 1:58 | 2021-12-24 | 2025-11-11 |
-| [Winter Wonderland](https://open.spotify.com/track/08wpq3prs1o1DLQyNukmjB) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI), [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW) | [White Christmas](https://open.spotify.com/album/1Bep3JEfFFmVL8EA2Fugvz) | 3:01 | 2021-12-24 |  |
+| [When Was Jesus Born?](https://open.spotify.com/track/5z0XBkinFlgjmpbKou7pjc) | [Liz McComb](https://open.spotify.com/artist/1GlVll15lXMHTvvJiUQaAB) | [Merry Christmas](https://open.spotify.com/album/24IoAKBtORiFhOt6Po1B2n) | 1:58 | 2021-12-24 |  |
+| [Winter Wonderland](https://open.spotify.com/track/08wpq3prs1o1DLQyNukmjB) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI), [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW) | [White Christmas](https://open.spotify.com/album/1Bep3JEfFFmVL8EA2Fugvz) | 3:01 | 2021-12-24 | 2026-04-04 |
 | [With Us \(Oh Emmanuel\)](https://open.spotify.com/track/3xizrkWnSm5XHZ9HAatpbq) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 3:55 | 2021-12-24 | 2025-05-08 |
 | [With You](https://open.spotify.com/track/4BznHfap3hfVeO0IFrL7hP) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [With You](https://open.spotify.com/album/2tqCyigpNgCWJYJsFcukyY) | 2:39 | 2024-11-17 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/1eDJEL8bpj88WReUBTaYxb) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Like A Child](https://open.spotify.com/album/16grvtJnFp58G4sS7rt7K9) | 2:52 | 2023-11-03 |  |

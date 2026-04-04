@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Tommy Royale",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Belen Losa & Alex Zurdo",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -3405,6 +3405,28 @@
     },
     {
       "album": {
+        "name": "Contigo Padre",
+        "url": "https://open.spotify.com/album/5HKrA3byrdzpcEqmy2mibb"
+      },
+      "artists": [
+        {
+          "name": "Belen Losa",
+          "url": "https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258556,
+      "name": "Contigo Padre",
+      "url": "https://open.spotify.com/track/1qKlNxxYJkFjJdYIRyiEsa"
+    },
+    {
+      "album": {
         "name": "contigo todo lo encontr\u00e9",
         "url": "https://open.spotify.com/album/7y0DzBQWcUgZsT85DT8TPI"
       },
@@ -6060,7 +6082,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 168217,
       "name": "EL TOQUE",
       "url": "https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G"
@@ -12924,7 +12946,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 246732,
       "name": "Paso Lento",
       "url": "https://open.spotify.com/track/1LPYmt2TiKGVUPlcYHEAXG"
@@ -14267,6 +14289,24 @@
     },
     {
       "album": {
+        "name": "RESUCIT\u00d3",
+        "url": "https://open.spotify.com/album/4HTd4yZhdfjXuwoQfasoFi"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262466,
+      "name": "RESUCIT\u00d3",
+      "url": "https://open.spotify.com/track/0JHF91AC5uRDwB6sPjC4y6"
+    },
+    {
+      "album": {
         "name": "Reverencia - En Vivo",
         "url": "https://open.spotify.com/album/7neNi57EJukhjPqVrP81zt"
       },
@@ -14646,7 +14686,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 177191,
       "name": "SALVAVIDAS",
       "url": "https://open.spotify.com/track/33SW3qjHKgyIYU7QJ8wRUR"
@@ -16600,6 +16640,28 @@
       "duration_ms": 426768,
       "name": "Toda lengua y toda naci\u00f3n",
       "url": "https://open.spotify.com/track/7peTmtAnLDHaraSDxe2tS4"
+    },
+    {
+      "album": {
+        "name": "Nueva Era",
+        "url": "https://open.spotify.com/album/2po1xCUI5uKV1mTxBpug0N"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194611,
+      "name": "Toda Mi Alma",
+      "url": "https://open.spotify.com/track/6j081dz8YMlE4ieKNwLDxC"
     },
     {
       "album": {

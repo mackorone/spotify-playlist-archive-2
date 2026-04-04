@@ -24210,6 +24210,32 @@
     {
       "album": {
         "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5UwHxr71b6bVaJuQa86dwI"
+      },
+      "artists": [
+        {
+          "name": "Calm Springs",
+          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
+        },
+        {
+          "name": "L\u00e9a Vlaeminck",
+          "url": "https://open.spotify.com/artist/7hdmJosOpKCCtrXdfeZerx"
+        },
+        {
+          "name": "blue my mind",
+          "url": "https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163401,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/5UlCJFwQQCC0ikDkIme0KG"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
         "url": "https://open.spotify.com/album/74H8L38EGLHwZ9T0jZefLI"
       },
       "artists": [

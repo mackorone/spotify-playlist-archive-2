@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,241 songs - 3 day 5 hr 46 min
+1,247 songs - 3 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,9 @@
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-05-12 | 2024-02-03 |
 | [Ghost Ride](https://open.spotify.com/track/6erjczeLxFxCOrSpJ98Zij) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Light as a Feather](https://open.spotify.com/album/5tBdfLoUvMkjpIKvPGRvfx) | 4:10 | 2023-09-15 | 2024-02-03 |
 | [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 | 2025-05-02 |  |
+| [Gigantic Parasite Tongue](https://open.spotify.com/track/4Bv4jUCR08CSoDQRqhIPdT) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Gigantic Parasite Tongue](https://open.spotify.com/album/3Hq9OZHYIsZYrpitjtO9EH) | 4:17 | 2026-04-03 |  |
 | [Give Blood](https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Give Blood](https://open.spotify.com/album/6TNhU5xuppWcHNSvDEBpsv) | 4:22 | 2024-12-06 | 2025-04-11 |
+| [Give Me A Seam & I'll Show You The Meaning](https://open.spotify.com/track/1dly4ZjIVt6GOwkxXvr1HS) | [TheBoyShadow](https://open.spotify.com/artist/5NHMr4vHuykwWbL8sZA6oB) | [Give Me A Seam & I'll Show You The Meaning](https://open.spotify.com/album/2FbJproR1e4D2eTu9OYJO9) | 2:10 | 2026-04-03 |  |
 | [Give Me The Painkiller](https://open.spotify.com/track/29W2lycHz4sExfoA11Yiph) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Give Me The Painkiller](https://open.spotify.com/album/5rzdkiqUZ7hmK2G8Em2sAh) | 2:44 | 2024-07-12 | 2025-04-11 |
 | [Give Them Death](https://open.spotify.com/track/07ixxw8UpxZuEptb6fX57W) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Give Them Death](https://open.spotify.com/album/2Qu0FrgnsXqkJ644o69qcJ) | 3:37 | 2024-07-19 | 2025-04-11 |
 | [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2R1jLZ4CV3nh9pT5GIJkDs) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/4Rq0ZN8Thuzx1HkRyXyJjh) | 3:53 | 2023-04-13 | 2024-02-03 |
@@ -486,6 +488,7 @@
 | [Hot Pursuit, One and Nothing](https://open.spotify.com/track/1SPG8e9iIZXXHy874Nk1XO) | [XCOMM](https://open.spotify.com/artist/5cpYeQPUGJh6KsQhnd6P8T) | [Hot Pursuit, One and Nothing](https://open.spotify.com/album/4lBNv22hxf2H4hFFOBHZSN) | 4:21 | 2026-02-27 |  |
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-07-29 | 2023-07-15 |
 | [House of Light](https://open.spotify.com/track/1BIyul1y6fqWuRnPJQnIE3) | [Rivers of Nihil](https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN) | [House of Light](https://open.spotify.com/album/4GklCdOqG4VgCS4Fwne3wX) | 5:49 | 2025-02-07 |  |
+| [Hum of Hurt](https://open.spotify.com/track/4KtVa02qhJM36lG1sxh9Wi) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Hum of Hurt](https://open.spotify.com/album/0JkbUpT8mQlPTz0TVMa5s5) | 3:35 | 2026-04-03 |  |
 | [Human](https://open.spotify.com/track/042GkzRN9bEVHPUqLqk5vi) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Human](https://open.spotify.com/album/3Ey6TMfMxIJ64mv9LEMkIb) | 3:44 | 2024-06-21 | 2025-04-11 |
 | [Human Condition Above Human Opinion](https://open.spotify.com/track/1cmk1UlPbRIyrIThQudaLa) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Human Condition Above Human Opinion](https://open.spotify.com/album/7s4krYYgyLUIl6m4lxWI3t) | 2:39 | 2022-05-06 | 2023-07-15 |
 | [Human Disdain](https://open.spotify.com/track/4d8ntpM9o8y9QTiYQ73osG) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Human Disdain](https://open.spotify.com/album/1gD6vlx23EQLoMJCLERpqi) | 2:58 | 2024-05-03 | 2025-04-11 |
@@ -662,6 +665,7 @@
 | [Moss Covered Bones on the Altar of the Moon](https://open.spotify.com/track/0De00dygLOh4RPiHiUxxXX) | [Blackbraid](https://open.spotify.com/artist/47nBZhrImXWXTWVSWt09MY) | [Moss Covered Bones on the Altar of the Moon](https://open.spotify.com/album/3roLrZFABeRPIVKWvntYZU) | 13:30 | 2023-05-05 | 2024-02-03 |
 | [Mother Fucking Liar](https://open.spotify.com/track/2iu3j0Gumnc0aTUhuGjJAR) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Mother Fucking Liar](https://open.spotify.com/album/5rIBeueszVxOFNhXulxiwb) | 3:12 | 2022-04-29 | 2023-07-15 |
 | [Move](https://open.spotify.com/track/6r8xg4vDHIPBDjCFb70uWn) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Move](https://open.spotify.com/album/3JhCDiTZ095MaNxc6zXrEX) | 2:29 | 2022-06-10 | 2023-07-15 |
+| [Mr\. God](https://open.spotify.com/track/6rlhXazIKGZCMnfrbSMr0Y) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Mr\. God](https://open.spotify.com/album/18I6V64mNbcuXVsHjJlezv) | 2:58 | 2026-04-03 |  |
 | [My Creator](https://open.spotify.com/track/6KCa6PR3lmRFrOTzG7hkNr) | [Anklebiter](https://open.spotify.com/artist/3RyxShZKZfWVtCaAxmgEDg) | [Demo 2022](https://open.spotify.com/album/0UvDfUynydvwHXS4DSGKqE) | 1:20 | 2022-06-03 | 2023-07-15 |
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-11 |  |
 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 | 2025-08-08 |  |
@@ -1238,6 +1242,8 @@
 | [YES ALL MEN](https://open.spotify.com/track/4Lz2uH0ywXpEg5XWI99cwn) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [YES ALL MEN](https://open.spotify.com/album/2sijNGBuZIOSGzSreKHVZg) | 2:23 | 2023-03-31 | 2024-02-03 |
 | [You And Me](https://open.spotify.com/track/2yy0YCSswjOTc9mexfMEyC) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [You And Me](https://open.spotify.com/album/0UlZ9xS2gir6JfRee7jYwd) | 2:28 | 2023-08-18 | 2024-02-03 |
 | [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 | 2023-05-05 | 2024-02-03 |
+| [You Bastard](https://open.spotify.com/track/4ohvO7swB3BaaCaRFcjTr8) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [You Bastard](https://open.spotify.com/album/3Dr4mWBqu9z9c2gEXjjoze) | 4:19 | 2026-04-03 |  |
+| [You Get One](https://open.spotify.com/track/27FTxVOBjgkv8Ox47iNftf) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [You Get One](https://open.spotify.com/album/45mqk7FIJfOKGmxIf5DQ1j) | 3:00 | 2026-04-03 |  |
 | [You're Gonna Have To Kill Me](https://open.spotify.com/track/0EOX4S6BJLixT61KRika3H) | [Blood For Blood](https://open.spotify.com/artist/1x61OF80wiXb3qawWTGUDA) | [You're Gonna Have To Kill Me](https://open.spotify.com/album/1LLMdiKtf5rmffV9bhhSm7) | 2:52 | 2025-12-12 |  |
 | [You're On The List \(minus one\)](https://open.spotify.com/track/0hKmeXmY7wJSfEUqrL7pTD) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [You're On The List \(minus one\)](https://open.spotify.com/album/1NlppsZ2UrWiYjwWGgoXk8) | 3:01 | 2023-05-19 | 2024-02-03 |
 | [Your Flowers](https://open.spotify.com/track/1f6jZXsVuoSb2imgfJ91Vx) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Your Flowers](https://open.spotify.com/album/5IF7a6vg9C8HbltPfq0giv) | 3:10 | 2025-06-20 |  |

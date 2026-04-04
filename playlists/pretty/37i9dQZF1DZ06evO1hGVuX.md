@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 
 > This is Ana Roxanne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193 likes - 23 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 194 likes - 23 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 | 3 | [Fallen Angel](https://open.spotify.com/track/4QOiPaaNTDXqk4SAVWGFDV) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 4:00 |
 | 4 | [Keepsake](https://open.spotify.com/track/4V179yjVt1dZNemsd6487f) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Keepsake](https://open.spotify.com/album/2GMrnxW0ZcLdTZyxaBKaP5) | 4:38 |
 | 5 | [\- \- \-](https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:15 |
-| 6 | [I'm Every Sparkly Woman](https://open.spotify.com/track/1wJl3JYS0rwr6vzghouw43) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 2:23 |
+| 6 | [Nocturne](https://open.spotify.com/track/1qNiEBMZVAuygzLYYLG7Rv) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:36 |
 | 7 | [Untitled II](https://open.spotify.com/track/2IJtB1A5xzjaWKB2fbuIuf) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Untitled II](https://open.spotify.com/album/6ZUGwc1dAb5rWYZuXenOIk) | 6:24 |
 | 8 | [Clear](https://open.spotify.com/track/4avwTdJWkAQIX2ZpK4n75k) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:04 |
 | 9 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
-| 10 | [Nocturne](https://open.spotify.com/track/1qNiEBMZVAuygzLYYLG7Rv) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:36 |
+| 10 | [I'm Every Sparkly Woman](https://open.spotify.com/track/1wJl3JYS0rwr6vzghouw43) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 2:23 |
 | 11 | [Wicked Game](https://open.spotify.com/track/4nOhr4lOjFc5vZhAVTIBa7) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Wicked Game](https://open.spotify.com/album/4MJUtAW4841s91OHlSbUsu) | 4:22 |
 | 12 | [The Veil II](https://open.spotify.com/track/2PlhiLwlhVstW2Ajgg6wiR) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:29 |
 | 13 | [A Study in Vastness](https://open.spotify.com/track/2efXjd2d8PRQPFkoiPwwyS) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 6:50 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 | 22 | [In a Small Valley](https://open.spotify.com/track/5ZLqOeBBYZFIl6xjKlPKLg) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:24 |
 | 23 | [Sword](https://open.spotify.com/track/1lKZkmMQwx6Fdy4MKBdi8q) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:05 |
 
-Snapshot ID: `acxgAAAAAAATPFjaY0NoxsdtZ5d1Rnwy`
+Snapshot ID: `ac2xgAAAAAB7zVswdBKV8naNBYmQTBnM`

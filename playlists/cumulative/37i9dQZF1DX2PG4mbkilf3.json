@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 156000,
       "name": "Angels",
       "url": "https://open.spotify.com/track/3BCcONCqfKFuF2RtRLZj0V"
@@ -5089,6 +5089,24 @@
     },
     {
       "album": {
+        "name": "St Lucie Drive",
+        "url": "https://open.spotify.com/album/1IYftRXeA2HwqaHaxhTgk2"
+      },
+      "artists": [
+        {
+          "name": "Kwncy",
+          "url": "https://open.spotify.com/artist/2aT09ZalHh3kwFg0ig4vj9"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111304,
+      "name": "comfort zone",
+      "url": "https://open.spotify.com/track/1u6Uxl0nxl1k7H8BMuAsg1"
+    },
+    {
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -5574,6 +5592,24 @@
       "duration_ms": 151041,
       "name": "Crown",
       "url": "https://open.spotify.com/track/2Ia9EoSjHDx1bN37rayUJm"
+    },
+    {
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/1OHA5vEJCCD6ryIz2HDkju"
+      },
+      "artists": [
+        {
+          "name": "Maurice Moore",
+          "url": "https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/2eVvWWghhpZ4AYynqTX3nl"
     },
     {
       "album": {
@@ -7296,7 +7332,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 151000,
       "name": "DROWN",
       "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
@@ -8469,6 +8505,24 @@
     },
     {
       "album": {
+        "name": "For Good Measure (at Dreamhouse Studios)",
+        "url": "https://open.spotify.com/album/1v7bdNSS8V6FIg562qg01D"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107907,
+      "name": "Feel (voice memo)",
+      "url": "https://open.spotify.com/track/4Pv1J0zwHfKGJYh6ffKMo5"
+    },
+    {
+      "album": {
         "name": "Waves Of Love Vol 2",
         "url": "https://open.spotify.com/album/0nF6Edna9j21yUmCqAHotI"
       },
@@ -8780,6 +8834,24 @@
       "duration_ms": 174864,
       "name": "First48",
       "url": "https://open.spotify.com/track/3RW4fUoc9x4F12sxEFTCiU"
+    },
+    {
+      "album": {
+        "name": "Flashing Lights",
+        "url": "https://open.spotify.com/album/1VKOOOqY9fkl14iWCOxKVC"
+      },
+      "artists": [
+        {
+          "name": "Notifi",
+          "url": "https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160034,
+      "name": "Flashing Lights",
+      "url": "https://open.spotify.com/track/7m9M5YdkVYaGveDumEBwLd"
     },
     {
       "album": {
@@ -11402,6 +11474,28 @@
       "duration_ms": 146979,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/5pqG9n8GviAw4bKXL6iF5q"
+    },
+    {
+      "album": {
+        "name": "Hooked On",
+        "url": "https://open.spotify.com/album/6NM9vVJcg0MxIjfiRoz5bd"
+      },
+      "artists": [
+        {
+          "name": "JRDN",
+          "url": "https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs"
+        },
+        {
+          "name": "Lane Hall",
+          "url": "https://open.spotify.com/artist/2ZfKm6iXzDQqNBmotXFoAc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171677,
+      "name": "Hooked On",
+      "url": "https://open.spotify.com/track/0xnDhi7ehA9Y21gAUirwlZ"
     },
     {
       "album": {
@@ -28054,7 +28148,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 167544,
       "name": "Top Of The Charts",
       "url": "https://open.spotify.com/track/59rKd4nyOmFUrF1LwulcRs"
@@ -29922,7 +30016,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 156036,
       "name": "When I'm Home",
       "url": "https://open.spotify.com/track/0HHrQ8epB7SisDFTZe1nmO"
@@ -30038,7 +30132,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 202536,
       "name": "Who Gives A Funk!?",
       "url": "https://open.spotify.com/track/3NLy3Qy6xWOs5blWZzEfRS"

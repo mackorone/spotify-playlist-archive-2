@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38124,
+  "num_followers": 38125,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAADhstZyBNDRpBPg4hyLgTUv",
+  "snapshot_id": "ac2xgAAAAABUa+dzLURjSDSw/93Rq0Mq",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+        "name": "Nothing More to Say",
+        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
       },
       "artists": [
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "BC Kingdom",
-          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
         }
       ],
-      "duration_ms": 232374,
-      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
-      "url": "https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo"
+      "duration_ms": 325307,
+      "name": "Nothing More to Say - Dub",
+      "url": "https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N"
     },
     {
       "added_at": null,
@@ -235,18 +227,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing More to Say",
-        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
       "artists": [
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
         }
       ],
-      "duration_ms": 325307,
-      "name": "Nothing More to Say - Dub",
-      "url": "https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N"
+      "duration_ms": 232374,
+      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
+      "url": "https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo"
     },
     {
       "added_at": null,
@@ -467,22 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever (SOPHIE Remix)",
-        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
       },
       "artists": [
         {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
         },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 219212,
-      "name": "Forever - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
+      "duration_ms": 187320,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
     },
     {
       "added_at": null,
@@ -511,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunscreen",
-        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
+        "name": "Forever (SOPHIE Remix)",
+        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
       },
       "artists": [
         {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 187320,
-      "name": "Sunscreen",
-      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
+      "duration_ms": 219212,
+      "name": "Forever - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
     },
     {
       "added_at": null,

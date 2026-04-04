@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQcRzCHVFhv/zUhTqeYw3HdO2fG",
+  "snapshot_id": "AAAAAL+4tfm1Lw0kJiOs2b8M6DVjFHq3",
   "tracks": [
     {
       "added_at": "2026-03-27 10:14:06",
       "album": {
-        "name": "Left Right",
-        "url": "https://open.spotify.com/album/5ZbcUxEusiRkTT8T5Db8Ii"
+        "name": "Pasoori",
+        "url": "https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h"
       },
       "artists": [
         {
@@ -20,21 +20,33 @@
           "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
         },
         {
-          "name": "Abdullah Siddiqui",
-          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
-        },
-        {
-          "name": "Maanu",
-          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
-        },
-        {
           "name": "Shae Gill",
           "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
         }
       ],
-      "duration_ms": 196250,
-      "name": "Left Right",
-      "url": "https://open.spotify.com/track/4eIomBCLTXbjrkrSHnqlgK"
+      "duration_ms": 224146,
+      "name": "Pasoori",
+      "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
+    },
+    {
+      "added_at": "2026-04-03 04:01:59",
+      "album": {
+        "name": "WHERE R U",
+        "url": "https://open.spotify.com/album/0LvPT3BxK0v7hCkzHsnp5K"
+      },
+      "artists": [
+        {
+          "name": "Alistair Alvin",
+          "url": "https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "duration_ms": 221935,
+      "name": "WHERE R U",
+      "url": "https://open.spotify.com/track/15vcBRyEkUZkH8xpGs35xe"
     },
     {
       "added_at": "2026-03-27 10:14:06",
@@ -159,6 +171,34 @@
       "duration_ms": 180000,
       "name": "ALL WE HAD (feat. Asim Azhar & Annural Khalid)",
       "url": "https://open.spotify.com/track/1s3R9uVmrUaqiWluVc1RR6"
+    },
+    {
+      "added_at": "2026-03-27 10:14:06",
+      "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/5ZbcUxEusiRkTT8T5Db8Ii"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        },
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/4eIomBCLTXbjrkrSHnqlgK"
     },
     {
       "added_at": "2026-03-27 10:14:06",
@@ -607,22 +647,6 @@
     {
       "added_at": "2026-03-27 10:14:06",
       "album": {
-        "name": "Chashme Badoor",
-        "url": "https://open.spotify.com/album/10s72shVzavpDIKRvgyreQ"
-      },
-      "artists": [
-        {
-          "name": "Rap Demon",
-          "url": "https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Chashme Badoor",
-      "url": "https://open.spotify.com/track/05dKfHUSODo2y9aF8QEltf"
-    },
-    {
-      "added_at": "2026-03-27 10:14:06",
-      "album": {
         "name": "ROCKSTAR WITHOUT A GUITAR",
         "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
       },
@@ -643,26 +667,6 @@
       "duration_ms": 197142,
       "name": "COME THROUGH (feat. Abdullah Maharvi & Talha Anjum)",
       "url": "https://open.spotify.com/track/4yNtO1F3flXZ4v3Ry1MzuP"
-    },
-    {
-      "added_at": "2026-03-27 10:14:06",
-      "album": {
-        "name": "Pasoori",
-        "url": "https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        },
-        {
-          "name": "Shae Gill",
-          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
-        }
-      ],
-      "duration_ms": 224146,
-      "name": "Pasoori",
-      "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
     },
     {
       "added_at": "2026-03-27 10:14:06",
@@ -719,30 +723,6 @@
       "duration_ms": 189357,
       "name": "Joona",
       "url": "https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs"
-    },
-    {
-      "added_at": "2026-03-27 10:14:06",
-      "album": {
-        "name": "Saddiyan",
-        "url": "https://open.spotify.com/album/6g27JelkjIlYYVfGY3Jbaq"
-      },
-      "artists": [
-        {
-          "name": "Soch the Band",
-          "url": "https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp"
-        },
-        {
-          "name": "Rabi Ahmed",
-          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
-        },
-        {
-          "name": "Adnan Dhool",
-          "url": "https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Saddiyan",
-      "url": "https://open.spotify.com/track/0qoORzqrSxpIvREz58ugkW"
     },
     {
       "added_at": "2026-03-27 10:14:06",
@@ -1499,86 +1479,6 @@
       "duration_ms": 206117,
       "name": "Cold Hours",
       "url": "https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1"
-    },
-    {
-      "added_at": "2026-03-27 10:14:06",
-      "album": {
-        "name": "Mere Humsafar (Original Score) [Female Version]",
-        "url": "https://open.spotify.com/album/1xT6hChxAkSLclY5Jvl65M"
-      },
-      "artists": [
-        {
-          "name": "Yashal Shahid",
-          "url": "https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53"
-        }
-      ],
-      "duration_ms": 351250,
-      "name": "Mere Humsafar (Original Score) [Female Version]",
-      "url": "https://open.spotify.com/track/4BoFJMLSO3ZoD48KgnslSe"
-    },
-    {
-      "added_at": "2026-03-27 10:14:06",
-      "album": {
-        "name": "Maybe, It's Love",
-        "url": "https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6"
-      },
-      "artists": [
-        {
-          "name": "Hasan Raheem",
-          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
-        },
-        {
-          "name": "Shahrukh",
-          "url": "https://open.spotify.com/artist/02yAoSmsqYASF4Wb45bRlJ"
-        },
-        {
-          "name": "Raftaar",
-          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
-        }
-      ],
-      "duration_ms": 186122,
-      "name": "Teray Naam",
-      "url": "https://open.spotify.com/track/4dBRaBEild4wQPztOuV2EU"
-    },
-    {
-      "added_at": "2026-03-27 10:14:06",
-      "album": {
-        "name": "Sukoon",
-        "url": "https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB"
-      },
-      "artists": [
-        {
-          "name": "Hassan & Roshaan",
-          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
-        },
-        {
-          "name": "Shae Gill",
-          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
-        }
-      ],
-      "duration_ms": 255764,
-      "name": "Sukoon",
-      "url": "https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx"
-    },
-    {
-      "added_at": "2026-03-27 10:14:06",
-      "album": {
-        "name": "SIXER",
-        "url": "https://open.spotify.com/album/2a3XGSWu6eSquIaKlz3FRb"
-      },
-      "artists": [
-        {
-          "name": "Hassan & Roshaan",
-          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
-        },
-        {
-          "name": "Amna Riaz",
-          "url": "https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl"
-        }
-      ],
-      "duration_ms": 309701,
-      "name": "Ajnabi",
-      "url": "https://open.spotify.com/track/7BFWKCDCb0Y4jWTxz7Hv5q"
     }
   ],
   "unique_name": "RADAR PAKISTAN",

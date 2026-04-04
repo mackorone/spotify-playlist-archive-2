@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov,  Enjambre en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov,  Ladrones en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "Ay Ay Ay",
+        "url": "https://open.spotify.com/album/5SIzBNK2TOYizzkc6PriUu"
+      },
+      "artists": [
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227686,
+      "name": "Ay Ay Ay",
+      "url": "https://open.spotify.com/track/5WpfJrnqAtUqoGIRjJ8e7l"
+    },
+    {
+      "album": {
         "name": "Bajo la Luna",
         "url": "https://open.spotify.com/album/5x2yu1WZBvHROOW7p1iGCU"
       },
@@ -540,7 +558,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 343826,
       "name": "Botas Negras",
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 271733,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 172285,
       "name": "Estoy en Paz",
       "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
@@ -2727,6 +2745,32 @@
     },
     {
       "album": {
+        "name": "Juan el Descuartizador",
+        "url": "https://open.spotify.com/album/4wXmyG5vYdxGVlvkIBxm7S"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Jos\u00e9 Andr\u00eba",
+          "url": "https://open.spotify.com/artist/3gxND003R6Jf4U41ODfMFJ"
+        },
+        {
+          "name": "Kabr\u00f6nes",
+          "url": "https://open.spotify.com/artist/7daRDWS4dMeyuIeieB6oSS"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181002,
+      "name": "Juan el Descuartizador",
+      "url": "https://open.spotify.com/track/7Dh45ouPTSqztckOTIJXNQ"
+    },
+    {
+      "album": {
         "name": "Juguete",
         "url": "https://open.spotify.com/album/1SEsHTEsKqNHVogHOV96xT"
       },
@@ -2872,7 +2916,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 247958,
       "name": "LA CUMBIA DEL GALLO NEGRO",
       "url": "https://open.spotify.com/track/66wYFtRtE3tzrdPnreJscS"
@@ -2920,7 +2964,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 165322,
       "name": "LA GUERRA SE CANTA",
       "url": "https://open.spotify.com/track/2KK3iBGEmQPtDwwvX5mRAt"
@@ -3530,7 +3574,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 232921,
       "name": "Maldita Sea",
       "url": "https://open.spotify.com/track/1KV5PNt8p3P0BN6VjL5vfE"
@@ -3592,7 +3636,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 193493,
       "name": "Mandar Obedeciendo",
       "url": "https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO"
@@ -6044,7 +6088,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 148600,
       "name": "S\u00e3o Paulo Motoboy",
       "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"

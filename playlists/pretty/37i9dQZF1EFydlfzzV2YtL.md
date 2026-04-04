@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 132 | [Baram X 3](https://open.spotify.com/track/0DdbiN1gW1t4MU7tQ91eTW) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Something New \- The 3rd Mini Album](https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx) | 3:28 |
 | 133 | [Plastic Therapy](https://open.spotify.com/track/5GLjjwjiMBoDIn0Dx0uDos) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Don’t Call Me](https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V) | 2:32 |
 | 134 | [Leave It Beautiful](https://open.spotify.com/track/466pvheuy2AO0SFEFgTpZ9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Leave It Beautiful](https://open.spotify.com/album/03Q0yM29DQVoPbja9aMq0X) | 3:04 |
-| 135 | [Into The Blue](https://open.spotify.com/track/2xYZtNV1Mn9pPc6nYSzg1Z) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Rationale](https://open.spotify.com/album/6H9qymov6q3LpGwjhaSLsn) | 3:21 |
-| 136 | [Bread](https://open.spotify.com/track/7uEbRqAcg5EX3Y8k1rH1Jp) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:08 |
+| 135 | [Bread](https://open.spotify.com/track/7uEbRqAcg5EX3Y8k1rH1Jp) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:08 |
+| 136 | [Into The Blue](https://open.spotify.com/track/2xYZtNV1Mn9pPc6nYSzg1Z) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Rationale](https://open.spotify.com/album/6H9qymov6q3LpGwjhaSLsn) | 3:21 |
 | 137 | [Never Be The One](https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Never Be The One](https://open.spotify.com/album/3SRCDfQSwLNwCoBcYznuNg) | 3:21 |
 | 138 | [Pass the Love Around](https://open.spotify.com/track/4CgWKazo7xiS2DYURJt3Cg) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/0VVo05bIhweXFjUo1uGvfm) | 3:18 |
 | 139 | [Symmetry](https://open.spotify.com/track/6ARrdbSTFuwxE6meFUFUtI) | [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Symmetry](https://open.spotify.com/album/5B6eeJRAFwN03R9sUNat3r) | 3:18 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 183 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 | 184 | [Paper Cuts](https://open.spotify.com/track/25oDwHzFC3coKT3jcPAbJC) | [Alec Chambers](https://open.spotify.com/artist/3weLeY2Bu0Eij4k0tQ4EzJ) | [Paper Cuts](https://open.spotify.com/album/6KhZJNPMnHT7ypOhgNAekF) | 2:53 |
 
-Snapshot ID: `AcNz1gAAAAAE+L2n4SdkL3ZFLnFvcGo9`
+Snapshot ID: `AcN5dgAAAABf9GaybY/3O9LYpUhuBqlW`

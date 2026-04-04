@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,200 likes - 46 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,265 likes - 46 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 45 | [Use My Voice](https://open.spotify.com/track/1Buo891X2sWO0mFEr0VAmm) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:01 |
 | 46 | [Overture](https://open.spotify.com/track/4Kmipg6Y3gfA5UIS8MVUt9) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Synthesis](https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF) | 0:57 |
 
-Snapshot ID: `acxgAAAAAADf6JOGiBLm2zGSzkzB61aD`
+Snapshot ID: `ac2xgAAAAABVqwpSrni7pYevLhx1BHll`

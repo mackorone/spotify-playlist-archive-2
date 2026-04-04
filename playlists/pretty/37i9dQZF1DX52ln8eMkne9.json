@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 216651,
+  "num_followers": 216690,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 213010,
+      "name": "Join Me in a Dream",
+      "url": "https://open.spotify.com/track/7uNgFlcMfpYMt3bbqREIE3"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 164866,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 213010,
-      "name": "Join Me in a Dream",
-      "url": "https://open.spotify.com/track/7uNgFlcMfpYMt3bbqREIE3"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
-        "name": "nobody cares",
-        "url": "https://open.spotify.com/album/5ItxKy6H9PzuG7gGHxCq71"
-      },
-      "artists": [
-        {
-          "name": "natalie jinju",
-          "url": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "letters to my lover",
-      "url": "https://open.spotify.com/track/4TnM1esvGsvK9XpP88aGNN"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
         "name": "Love Is Here To Stay",
         "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 170186,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
+        "name": "nobody cares",
+        "url": "https://open.spotify.com/album/5ItxKy6H9PzuG7gGHxCq71"
+      },
+      "artists": [
+        {
+          "name": "natalie jinju",
+          "url": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "letters to my lover",
+      "url": "https://open.spotify.com/track/4TnM1esvGsvK9XpP88aGNN"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
-        "name": "Lumi\u00e9re",
-        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
-      },
-      "artists": [
-        {
-          "name": "Emily Sage",
-          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Lumi\u00e9re",
-      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
+        "name": "Lumi\u00e9re",
+        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
+      },
+      "artists": [
+        {
+          "name": "Emily Sage",
+          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Lumi\u00e9re",
+      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/59KxExoW3T9ExZ15kFEs1h"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 321182,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/22YphPVmER6mRK4ADu0QWy"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
         "name": "Tis Autumn",
         "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 171949,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/59KxExoW3T9ExZ15kFEs1h"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 321182,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/22YphPVmER6mRK4ADu0QWy"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
+        "name": "How Deep Is The Ocean",
+        "url": "https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 318280,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
         "name": "Lonely Waltz",
         "url": "https://open.spotify.com/album/1O5FU2y0MJNOnPjFVicYfJ"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 194973,
       "name": "Lonely Waltz",
       "url": "https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
-        "name": "How Deep Is The Ocean",
-        "url": "https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 318280,
-      "name": "How Deep Is The Ocean",
-      "url": "https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
-        "name": "Colours",
-        "url": "https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O"
-      },
-      "artists": [
-        {
-          "name": "Ksenia Parkhatskaya",
-          "url": "https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy"
-        }
-      ],
-      "duration_ms": 275687,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 310106,
       "name": "Where Are You?",
       "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O"
+      },
+      "artists": [
+        {
+          "name": "Ksenia Parkhatskaya",
+          "url": "https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy"
+        }
+      ],
+      "duration_ms": 275687,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
-        "name": "Say It",
-        "url": "https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
         "name": "In Her Words",
         "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 267160,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
+        "name": "Old Folks",
+        "url": "https://open.spotify.com/album/5PyV1gUA62TLpYi5GLFANW"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 259143,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/6AUm1XcBjqzzszJ4AQ2gc9"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
         "name": "Birdsong",
         "url": "https://open.spotify.com/album/7oVJbVW9q9pPmZehgFwz4Q"
       },
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
-        "name": "Old Folks",
-        "url": "https://open.spotify.com/album/5PyV1gUA62TLpYi5GLFANW"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        },
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 259143,
-      "name": "Old Folks",
-      "url": "https://open.spotify.com/track/6AUm1XcBjqzzszJ4AQ2gc9"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
         "name": "Spark Bird",
         "url": "https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN"
       },
@@ -1607,26 +1607,6 @@
       "duration_ms": 246672,
       "name": "Little Jazz Bird",
       "url": "https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
-        "name": "Perhaps You\u2019ll Wonder Why",
-        "url": "https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 285306,
-      "name": "Perhaps You'll Wonder Why",
-      "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -1655,6 +1635,26 @@
       "duration_ms": 309568,
       "name": "Pollara",
       "url": "https://open.spotify.com/track/6zt2jsiRTnZfMsy3aq0Kou"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
+        "name": "Perhaps You\u2019ll Wonder Why",
+        "url": "https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "duration_ms": 285306,
+      "name": "Perhaps You'll Wonder Why",
+      "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
-      },
-      "artists": [
-        {
-          "name": "Deelee Dube",
-          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
-        }
-      ],
-      "duration_ms": 338822,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
         "name": "I Get Along Without You Very Well (Except Sometimes)",
         "url": "https://open.spotify.com/album/2HNuKazWWpITcaIGmdAu2L"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 202143,
       "name": "I Get Along Without You Very Well (Except Sometimes)",
       "url": "https://open.spotify.com/track/2ZQ21MPZqj1LrAnQIH3T2D"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
+      },
+      "artists": [
+        {
+          "name": "Deelee Dube",
+          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+        }
+      ],
+      "duration_ms": 338822,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -2175,34 +2175,6 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
-        "name": "The Art of Jazz with Ben Besiakov",
-        "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
-      },
-      "artists": [
-        {
-          "name": "Ben Besiakov",
-          "url": "https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4"
-        },
-        {
-          "name": "Johan Leijonhufvud",
-          "url": "https://open.spotify.com/artist/5Yi3IqFxacxCW5bP62Zhg4"
-        },
-        {
-          "name": "Johnny \u00c5man",
-          "url": "https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 319955,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
         "name": "Anita O'Day And The Three Sounds",
         "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
       },
@@ -2259,6 +2231,34 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
+        "name": "The Art of Jazz with Ben Besiakov",
+        "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
+      },
+      "artists": [
+        {
+          "name": "Ben Besiakov",
+          "url": "https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4"
+        },
+        {
+          "name": "Johan Leijonhufvud",
+          "url": "https://open.spotify.com/artist/5Yi3IqFxacxCW5bP62Zhg4"
+        },
+        {
+          "name": "Johnny \u00c5man",
+          "url": "https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 319955,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/7fb7qwGqfdxJH1fKegVMTr"
       },
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Sometimes I'm Happy",
-      "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
         "name": "SEED",
         "url": "https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 328176,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 359000,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -2351,26 +2351,6 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
-        "name": "Easy Living",
-        "url": "https://open.spotify.com/album/49lLd8uoYVBPA8qFtlKqFi"
-      },
-      "artists": [
-        {
-          "name": "Tea Lundgren",
-          "url": "https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc"
-        },
-        {
-          "name": "Gustav Lundgren",
-          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
-        }
-      ],
-      "duration_ms": 163823,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/2tB0GT4kh6NY9F2zqvHXdW"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
         "name": "The Uptown Shuffle",
         "url": "https://open.spotify.com/album/4vC9hAFFswlA2MeIq7DF7A"
       },
@@ -2387,38 +2367,22 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+        "name": "Easy Living",
+        "url": "https://open.spotify.com/album/49lLd8uoYVBPA8qFtlKqFi"
       },
       "artists": [
         {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 359000,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/2UcfJYKN2HaU3eUAzcQtif"
-      },
-      "artists": [
-        {
-          "name": "Georgia Mancio",
-          "url": "https://open.spotify.com/artist/7dZ9DyEqGCUqf50Lk7Eriw"
+          "name": "Tea Lundgren",
+          "url": "https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc"
         },
         {
-          "name": "Alan Broadbent",
-          "url": "https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1"
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
         }
       ],
-      "duration_ms": 166506,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/66lXU76DwetHysKwFyLLQd"
+      "duration_ms": 163823,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/2tB0GT4kh6NY9F2zqvHXdW"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -2443,6 +2407,42 @@
       "duration_ms": 278045,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/1SZpjQdXuce3k12qfx6xJ1"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Sometimes I'm Happy",
+      "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2UcfJYKN2HaU3eUAzcQtif"
+      },
+      "artists": [
+        {
+          "name": "Georgia Mancio",
+          "url": "https://open.spotify.com/artist/7dZ9DyEqGCUqf50Lk7Eriw"
+        },
+        {
+          "name": "Alan Broadbent",
+          "url": "https://open.spotify.com/artist/702XoGfJJgkpPDzJffMiY1"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/66lXU76DwetHysKwFyLLQd"
     },
     {
       "added_at": "2026-03-09 10:07:42",
@@ -2643,6 +2643,22 @@
     {
       "added_at": "2026-03-09 10:07:42",
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/1XuPX5tHV71SXdBW0qOZ7S"
+      },
+      "artists": [
+        {
+          "name": "Jody Sternberg",
+          "url": "https://open.spotify.com/artist/5e54vDDW4xAxgz6Z0HfOdv"
+        }
+      ],
+      "duration_ms": 245706,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/4vzYYM4Ck6oLJYJMH4PjYQ"
+    },
+    {
+      "added_at": "2026-03-09 10:07:42",
+      "album": {
         "name": "Voces Veladas, Vol.2-Un Homenaje a Letristas e Int\u00e9rpretes de Jazz",
         "url": "https://open.spotify.com/album/68Zzm6yDNA2CUBGA5rsjbe"
       },
@@ -2675,22 +2691,6 @@
       "duration_ms": 317800,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/13IsFI2oDwC0CNR2hLAKeS"
-    },
-    {
-      "added_at": "2026-03-09 10:07:42",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/1XuPX5tHV71SXdBW0qOZ7S"
-      },
-      "artists": [
-        {
-          "name": "Jody Sternberg",
-          "url": "https://open.spotify.com/artist/5e54vDDW4xAxgz6Z0HfOdv"
-        }
-      ],
-      "duration_ms": 245706,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/4vzYYM4Ck6oLJYJMH4PjYQ"
     },
     {
       "added_at": "2026-03-09 10:07:42",

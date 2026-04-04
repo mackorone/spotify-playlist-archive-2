@@ -4,7 +4,7 @@
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
-327 songs - 18 hr 55 min
+328 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Better When I'm Dancin'](https://open.spotify.com/track/151pHp99ciTnpmdPCvgLbe) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(10th Anniversary Edition\)](https://open.spotify.com/album/4UAaN9ifmJueH9wBtuz2f4) | 2:56 | 2026-03-31 |  |
 | [Better With You](https://open.spotify.com/track/2eIiQ5mf0EEYWSfN5Pzxki) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Better With You](https://open.spotify.com/album/2hCIK1s0jAD2s9LBzXusT4) | 3:20 | 2023-03-24 | 2023-04-29 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2026-03-31 |  |
-| [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2026-03-31 |  |
+| [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2026-03-31 | 2026-04-04 |
 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-05-19 | 2023-08-06 |
 | [Both Ways](https://open.spotify.com/track/41T3MlsYqfYPoG3znrppVU) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Satellites](https://open.spotify.com/album/1ie2aXQFGvAsxusB7c4Yb5) | 3:06 | 2024-09-06 | 2026-04-01 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-22 | 2023-03-11 |
@@ -235,6 +235,7 @@
 | [Pure Shores](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Pure Shores](https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2) | 3:59 | 2025-05-02 | 2025-08-09 |
 | [Put A Light On Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2022-12-12 | 2023-05-27 |
 | [Quiet Moves](https://open.spotify.com/track/0j9NwInrDBtkHBkpp6H6Is) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Quiet Moves](https://open.spotify.com/album/7gI7A0xBXpxTWd6cOBFPZU) | 3:58 | 2023-03-10 | 2023-08-06 |
+| [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 | 2026-04-03 |  |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2022-06-07 |  |
 | [Rewrite The Stars \(with James Arthur & Anne\-Marie\)](https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Rewrite The Stars \(with James Arthur & Anne\-Marie\)](https://open.spotify.com/album/4i7GEsKuuCtECD5l0VUctL) | 3:38 | 2022-06-07 |  |
 | [Rhythm Is A Dancer \- 7" Edit](https://open.spotify.com/track/087fGGq27BXXpxKAlbBwNM) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [90s Snap! Hits](https://open.spotify.com/album/5Zcq9W0x0SNbuN9oGp52ub) | 3:45 | 2023-01-03 | 2023-01-18 |

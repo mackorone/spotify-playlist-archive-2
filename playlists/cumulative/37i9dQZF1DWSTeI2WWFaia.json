@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Curren$y, The Alchemist & Larry June",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Kota The Friend",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -5558,7 +5558,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 97109,
       "name": "Earth",
       "url": "https://open.spotify.com/track/7xBNU6Bp2Wvebc66R4Qqg8"
@@ -8088,6 +8088,28 @@
       "duration_ms": 227245,
       "name": "HOLY ____",
       "url": "https://open.spotify.com/track/0QpX5ZqHAhtRVQKLJz0RVG"
+    },
+    {
+      "album": {
+        "name": "Home on the Range // Back Home",
+        "url": "https://open.spotify.com/album/5FMSAdmLudQYXyLWLfoya7"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97874,
+      "name": "Home on the Range",
+      "url": "https://open.spotify.com/track/4QiWYpCnD5TipN2AycUy2i"
     },
     {
       "album": {
@@ -13228,7 +13250,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 229654,
       "name": "Parisian Nights",
       "url": "https://open.spotify.com/track/3NI8cI2ZPZA9ruFj6O2LXS"
@@ -13834,6 +13856,28 @@
       "duration_ms": 180588,
       "name": "Polish Jazz",
       "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
+    },
+    {
+      "album": {
+        "name": "Pops",
+        "url": "https://open.spotify.com/album/68C9RgYAybkxqDZzdtt3ak"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "Pops",
+      "url": "https://open.spotify.com/track/2OTJjxvUACGWALxdUDohBu"
     },
     {
       "album": {
@@ -15992,7 +16036,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 193883,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
@@ -19092,6 +19136,24 @@
       "duration_ms": 189384,
       "name": "Unapologetic",
       "url": "https://open.spotify.com/track/4AUJexwwUwEf6Wi1kHV5iC"
+    },
+    {
+      "album": {
+        "name": "Unapologetic",
+        "url": "https://open.spotify.com/album/1oLtD7t1FlyuKIdH8pgKkR"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Unapologetic",
+      "url": "https://open.spotify.com/track/2UVnxfCRYPysZ1V8s1XICt"
     },
     {
       "album": {

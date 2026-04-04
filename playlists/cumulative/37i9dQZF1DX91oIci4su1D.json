@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 181874,
       "name": "Blast from the Past",
       "url": "https://open.spotify.com/track/3IqaRh5S6GctUfCv1Q9xIg"
@@ -6460,6 +6460,28 @@
       "duration_ms": 252173,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/41n2LjHSyjiBtc0wV6GPpn"
+    },
+    {
+      "album": {
+        "name": "Eclipsed By You",
+        "url": "https://open.spotify.com/album/6GXYZFNGrahhCloUbWFpC5"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236521,
+      "name": "Eclipsed By You",
+      "url": "https://open.spotify.com/track/2Kv90dB4Bc0nXScJcQVc2C"
     },
     {
       "album": {
@@ -15957,6 +15979,28 @@
     },
     {
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6DbyYxyurqb5YewqKcIE1J"
+      },
+      "artists": [
+        {
+          "name": "ANDATA",
+          "url": "https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ"
+        },
+        {
+          "name": "2HOT2PLAY",
+          "url": "https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Never Gonna Stop",
+      "url": "https://open.spotify.com/track/0UA1A8nG9nxwOdvDJ0KLO0"
+    },
+    {
+      "album": {
         "name": "Never Let You Go",
         "url": "https://open.spotify.com/album/7xK22UbmrlEmO8t85xNwYL"
       },
@@ -21748,7 +21792,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 210857,
       "name": "Stimulate",
       "url": "https://open.spotify.com/track/6AUmM0g0XAyClwGtZdQUig"

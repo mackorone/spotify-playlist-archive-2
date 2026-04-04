@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16235,
+  "num_followers": 16241,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAACw9LKzXK4j+34a2Ej+gLN1",
+  "snapshot_id": "ac2xgAAAAADkY/lO18mfP6E426NSdG5S",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+        "name": "See Her Again - Single",
+        "url": "https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 218146,
-      "name": "Every Little Thing (feat. Fiji)",
-      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
+      "duration_ms": 189677,
+      "name": "See Her Again",
+      "url": "https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid"
     },
     {
       "added_at": null,
@@ -219,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "See Her Again - Single",
-        "url": "https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV"
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 189677,
-      "name": "See Her Again",
-      "url": "https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid"
+      "duration_ms": 218146,
+      "name": "Every Little Thing (feat. Fiji)",
+      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hustlin' Riddim",
+        "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
+      },
+      "artists": [
+        {
+          "name": "Bost & Bim",
+          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Coldest Zone",
+      "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/06IOHmRGlqKmHWXd3cKOKl"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 210070,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6lwJuS0Jk7x0L5TEAjlNeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hustlin' Riddim",
-        "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
-      },
-      "artists": [
-        {
-          "name": "Bost & Bim",
-          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Coldest Zone",
-      "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 199516,
+      "name": "Beautiful Woman",
+      "url": "https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 220909,
       "name": "Break Us Apart",
       "url": "https://open.spotify.com/track/7o3rG4WBwROoE8USJMS5Xc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 199516,
-      "name": "Beautiful Woman",
-      "url": "https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB"
     },
     {
       "added_at": null,
@@ -987,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 203664,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
+      "duration_ms": 234166,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/2dvgA0ZiRqWngN6HlrXvci"
     }
   ],
   "unique_name": "This Is J Boog",

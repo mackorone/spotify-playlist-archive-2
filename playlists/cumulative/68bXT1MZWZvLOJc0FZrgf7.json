@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Dance to your favorite electronic hits \ud83e\udea9 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Icona Pop, Daya",
+  "description": "Dance to your favorite electronic hits \ud83e\udea9 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Frank Walker &amp; salem ilese",
   "name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2026 EDM",
   "tracks": [
     {
@@ -376,6 +376,28 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "album": {
+        "name": "All Cried Out",
+        "url": "https://open.spotify.com/album/5ZFTkQX5WhU0xKQau9x9xo"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201481,
+      "name": "All Cried Out",
+      "url": "https://open.spotify.com/track/7MrxCW1dD1GatsnCqsj25F"
     },
     {
       "album": {
@@ -1010,7 +1032,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 290851,
       "name": "Beacon",
       "url": "https://open.spotify.com/track/0iRbA22uWG9J0AtvADzyP9"
@@ -2662,7 +2684,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186014,
       "name": "Choose",
       "url": "https://open.spotify.com/track/1zweSaoWJ0N7wSwMIxFFQN"
@@ -7435,6 +7457,28 @@
     },
     {
       "album": {
+        "name": "i need u",
+        "url": "https://open.spotify.com/album/2t6Ie2kxapG2kMs4hxRJmt"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225017,
+      "name": "i need u",
+      "url": "https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L"
+    },
+    {
+      "album": {
         "name": "I See You (with Marc E. Bassy)",
         "url": "https://open.spotify.com/album/0R5neGxstfsw1hZpjFSHcm"
       },
@@ -8339,6 +8383,28 @@
     },
     {
       "album": {
+        "name": "kompa bailar",
+        "url": "https://open.spotify.com/album/3dDNHY2rg2NRBrxboG1sjs"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "G3O",
+          "url": "https://open.spotify.com/artist/1DzSz3orlMPP7VTFJxkGzs"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89078,
+      "name": "kompa bailar",
+      "url": "https://open.spotify.com/track/7D3DFAxOY8tfLNbi6O0mwZ"
+    },
+    {
+      "album": {
         "name": "FROZELAND",
         "url": "https://open.spotify.com/album/7fW54XbAXzXIQ0nwudoqs2"
       },
@@ -9036,6 +9102,32 @@
       "duration_ms": 184103,
       "name": "Living Without You",
       "url": "https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG"
+    },
+    {
+      "album": {
+        "name": "Lo Mueve",
+        "url": "https://open.spotify.com/album/7Hxs3puTDbpnamjx0gpwzN"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152812,
+      "name": "Lo Mueve",
+      "url": "https://open.spotify.com/track/4gdGtQ5Apq80zuYzr5NJsM"
     },
     {
       "album": {
@@ -13390,7 +13482,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 307977,
       "name": "Runaways (feat. Bonnie McKee) - Instrumental",
       "url": "https://open.spotify.com/track/3iaQa94oI8YKSixyursWbV"
@@ -16362,7 +16454,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 140573,
       "name": "Touch Touch",
       "url": "https://open.spotify.com/track/0Rn7DkVnVtKzqG2mcZditT"

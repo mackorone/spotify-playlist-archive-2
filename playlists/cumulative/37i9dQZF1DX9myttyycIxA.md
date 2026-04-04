@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Girl Scout
 
-1,868 songs - 4 day 11 hr 54 min
+1,870 songs - 4 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -927,7 +927,7 @@
 | [Johnny](https://open.spotify.com/track/6YLpAwojDuQzW15zjJIFdf) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [BLUE SUPER LOVE \(DELUXE\)](https://open.spotify.com/album/3lz6rls9zNIRyO5QWsdtxZ) | 3:36 | 2025-04-04 | 2025-07-05 |
 | [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 | 2023-01-27 | 2023-04-10 |
 | [Joiner](https://open.spotify.com/track/3rybnmLVOm9ZOi0mte3VBj) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:59 | 2023-01-27 | 2023-06-16 |
-| [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 | 2026-01-09 |  |
+| [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 | 2026-01-09 | 2026-04-04 |
 | [Judy](https://open.spotify.com/track/7aiMbRTTmHBTkm2MWXXhIB) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Judy / Jeremy's Wedding](https://open.spotify.com/album/28bMFSMKFsWPLsJfgaQlB3) | 2:32 | 2021-03-05 | 2022-04-29 |
 | [Judy Gnarland](https://open.spotify.com/track/1Wy3EOJ8GrXC1XuYfdNJBk) | [Stevie Zita](https://open.spotify.com/artist/799k56wbyqhZaDazBF8bNY) | [Judy Gnarland](https://open.spotify.com/album/6KmgHZ5aSYu1gS807MYQ3K) | 2:52 | 2022-12-09 | 2022-12-15 |
 | [Judy Living Daylights](https://open.spotify.com/track/6Xfti0mHFpSJP7FNh1SY6h) | [Godcaster](https://open.spotify.com/artist/0Vk7eJGOn9jys3qDnSPzaZ) | [Judy Living Daylights](https://open.spotify.com/album/5cibS6kLdMhKG74z0T1v0G) | 2:16 | 2025-03-07 | 2025-04-26 |
@@ -1022,7 +1022,7 @@
 | [Loaded Gun](https://open.spotify.com/track/7mH0fZKktrJ5Hbijrnp7OF) | [Quinn Christopherson](https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j) | [I Am Bubblegum](https://open.spotify.com/album/45YoZEm1LM9BkOFKTBsjM3) | 3:42 | 2023-03-31 | 2023-06-16 |
 | [Loaded Painted Red](https://open.spotify.com/track/3vzm8VDNwqxJbQHQLvZVv9) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Loaded Painted Red](https://open.spotify.com/album/4AzwB5nkoGoyATPe5v5M8C) | 5:38 | 2025-06-20 | 2026-01-17 |
 | [Locket](https://open.spotify.com/track/0DKeB7jEvtKNoNgNhyJi81) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Locket](https://open.spotify.com/album/5uijemnh4nVq5ZXeAtf79R) | 2:53 | 2023-04-14 | 2023-06-16 |
-| [Locket](https://open.spotify.com/track/2rOtwM70C32oaSKhVUVUah) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Locket](https://open.spotify.com/album/3fxFIGIq1oPhqh2GQHFTUU) | 4:14 | 2026-03-06 |  |
+| [Locket](https://open.spotify.com/track/2rOtwM70C32oaSKhVUVUah) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Locket](https://open.spotify.com/album/3fxFIGIq1oPhqh2GQHFTUU) | 4:14 | 2026-03-06 | 2026-04-04 |
 | [lol](https://open.spotify.com/track/2utxWoF5jto0lrLh5MtTSG) | [Edgehill](https://open.spotify.com/artist/0lzGqksyREdfUObGjLYLcT) | [lol](https://open.spotify.com/album/46k5Epqbq76HGNZJFRAeMa) | 3:07 | 2025-09-19 | 2026-01-31 |
 | [Lone Wolf](https://open.spotify.com/track/5FAuqoOHFI1jvdJ6Cpo2L8) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Lone Wolf](https://open.spotify.com/album/4Tz9RZF4sb0WYh5v44HoZ6) | 4:51 | 2025-07-11 | 2025-08-09 |
 | [Lonely](https://open.spotify.com/track/4AS90Bmd19h087YiA1xnv4) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Lonely](https://open.spotify.com/album/5Rcadhergn7V5fLo9ejYoA) | 2:42 | 2023-05-19 | 2023-06-10 |
@@ -1444,6 +1444,7 @@
 | [Sleep In](https://open.spotify.com/track/7xAh188KXyqSqxisi0HL2j) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y), [Small Crush](https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq) | [Sleep In](https://open.spotify.com/album/22TydprUERlmijzweFcqpb) | 3:28 | 2022-07-22 | 2022-09-29 |
 | [Sleeping Away My Prime](https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Sleeping Away My Prime](https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK) | 2:33 | 2025-10-17 | 2025-12-06 |
 | [Sleeping on the Ground](https://open.spotify.com/track/0mEB7kL6nknUILQyD3pzMW) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Sleeping on the Ground](https://open.spotify.com/album/4aJ3DahrixMsErIem1NFM9) | 3:03 | 2022-03-04 | 2022-04-21 |
+| [Sliced by a Fingernail](https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sliced by a Fingernail](https://open.spotify.com/album/2C5iuOZxurGiklNlB2PSG1) | 4:08 | 2026-04-03 |  |
 | [Slide's Getting Shorter](https://open.spotify.com/track/4x5QG3BeA9agfFb7bsvLQ0) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Slide's Getting Shorter](https://open.spotify.com/album/40voTLKXch9Rge7BlKR56z) | 2:19 | 2022-01-28 | 2022-04-17 |
 | [Slow Angel](https://open.spotify.com/track/7CEvfOY6Sx35SGoareC0eV) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Slow Angel](https://open.spotify.com/album/1KhhUiMSUdbyZC2WgOp4Nf) | 2:32 | 2021-03-05 | 2022-04-12 |
 | [slow sinkin \(feat\. Field Medic\)](https://open.spotify.com/track/7s6Maouf6pW0dSxGFVDUFk) | [beaming](https://open.spotify.com/artist/3CXe43s6Cq1U4ycpcxFvui), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [slow sinkin \(feat\. Field Medic\)](https://open.spotify.com/album/0vNma0IDL5KpDU02j3eLDV) | 3:25 | 2025-03-21 | 2025-06-07 |
@@ -1575,6 +1576,7 @@
 | [Sweet Lilac](https://open.spotify.com/track/4AvzyTw47aX8JW04H33O1i) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 2:48 | 2024-05-24 | 2024-11-23 |
 | [Sweet Nothings](https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Watch It Ache and Bleed](https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE) | 3:23 | 2024-10-18 | 2025-04-05 |
 | [Sweetgreen](https://open.spotify.com/track/1vE7VkxO8nIvtidcZTf1yy) | [Gabbo](https://open.spotify.com/artist/1RSDS6LlCTScYAfJivL0Cw) | [Sweetgreen](https://open.spotify.com/album/5vheKIiwAA69WtWQT67DWs) | 4:16 | 2021-07-16 | 2022-04-12 |
+| [Swimming](https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Swimming](https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV) | 4:21 | 2026-04-03 |  |
 | [Switch Over](https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Switch Over](https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR) | 3:05 | 2025-01-17 | 2025-03-15 |
 | [T\-Shirt](https://open.spotify.com/track/4nbUCgADOoOzz8bU8SXkk0) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [T\-Shirt](https://open.spotify.com/album/4xxjiWgYKD5P1g0SFKBqNh) | 2:47 | 2023-11-17 | 2024-05-03 |
 | [Table](https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Table](https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID) | 2:00 | 2023-10-27 | 2024-01-27 |

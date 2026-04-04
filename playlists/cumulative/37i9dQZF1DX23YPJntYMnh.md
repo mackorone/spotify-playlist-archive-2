@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-134 songs - 9 hr 19 min
+135 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Sexy Tonight](https://open.spotify.com/track/2nuAMryuRuixKZbk4Jmfes) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Like It on Top](https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8) | 3:35 | 2022-02-04 |  |
 | [Shakey Ground](https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx](https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y) | 3:44 | 2020-01-08 |  |
 | [Show Me Your Soul](https://open.spotify.com/track/7eCYyli4U6ZuOxHiT5NqxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [What Hits!?](https://open.spotify.com/album/2tPDuNTakdxcbfhHSi7Rc6) | 4:23 | 2020-01-08 |  |
-| [Sister Midnight](https://open.spotify.com/track/7LzUOUXKmE6QdApk8T0XTc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/7vCU9jvSESwQNQr6SB9JyS) | 4:19 | 2020-01-08 |  |
+| [Sister Midnight](https://open.spotify.com/track/7LzUOUXKmE6QdApk8T0XTc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/7vCU9jvSESwQNQr6SB9JyS) | 4:19 | 2020-01-08 | 2026-04-04 |
 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 | 2022-02-04 | 2024-04-19 |
 | [So Many Millions](https://open.spotify.com/track/0iXIEH3MpE2jJby5fAdczW) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Reality Of My Surroundings](https://open.spotify.com/album/40M114gHgnKCmUQh2xaTzt) | 5:48 | 2020-01-08 | 2023-09-09 |
 | [Something in the Water](https://open.spotify.com/track/6gsDzEHPRTzviRlh8x9oRP) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva) | [Break on Free](https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM) | 5:17 | 2022-03-18 | 2024-04-19 |
@@ -117,6 +117,7 @@
 | [Thatch](https://open.spotify.com/track/33uwLfWs1uu8oj5ercdX99) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Thatch](https://open.spotify.com/album/1Ln1otwRV5Cw4E8y7kxgWI) | 6:40 | 2025-04-11 |  |
 | [The Devil](https://open.spotify.com/track/0Oo8Aa1ENUC78J2Vl7T7TP) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12), [John Popper](https://open.spotify.com/artist/2r8UpAivBMWpM96XTb4zaI) | [The Devil](https://open.spotify.com/album/5nksS055u8VN76qS1A54j9) | 3:07 | 2022-02-25 |  |
 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-14 | 2023-10-28 |
+| [The Jokes On You](https://open.spotify.com/track/301qRmALgPe2NZur3lRkPA) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Jokes On You](https://open.spotify.com/album/6B4QyvP8Bbq122hleD2QQm) | 2:42 | 2026-04-03 |  |
 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 | 2022-07-01 |  |
 | [The Shape I'm Takin'](https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Shape I'm Takin'](https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp) | 3:35 | 2022-11-25 |  |
 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 | 2020-01-08 |  |

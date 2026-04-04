@@ -1,12 +1,12 @@
 {
   "description": "Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
-  "num_followers": 104639,
+  "num_followers": 104683,
   "original_name": "Beach Lounge 2026 \ud83c\udf34 IBIZA Summer Chillout",
   "owner": {
     "name": "j-dosch",
     "url": "https://open.spotify.com/user/j-dosch"
   },
-  "snapshot_id": "AABRFZCF1fiWoW65q5RVpdh6WNHs7mR1",
+  "snapshot_id": "AABRGLytTVSOfeyjOBBNR2L9r43JCtmN",
   "tracks": [
     {
       "added_at": "2023-09-22 10:40:16",
@@ -649,6 +649,30 @@
       "url": "https://open.spotify.com/track/6cWY6Pf6zFEvp0wODVAlfy"
     },
     {
+      "added_at": "2026-04-03 11:30:46",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5UwHxr71b6bVaJuQa86dwI"
+      },
+      "artists": [
+        {
+          "name": "Calm Springs",
+          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
+        },
+        {
+          "name": "L\u00e9a Vlaeminck",
+          "url": "https://open.spotify.com/artist/7hdmJosOpKCCtrXdfeZerx"
+        },
+        {
+          "name": "blue my mind",
+          "url": "https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ"
+        }
+      ],
+      "duration_ms": 163401,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/5UlCJFwQQCC0ikDkIme0KG"
+    },
+    {
       "added_at": "2026-02-13 07:48:15",
       "album": {
         "name": "no time to waste",
@@ -679,30 +703,6 @@
       "duration_ms": 158400,
       "name": "Never Get Over You",
       "url": "https://open.spotify.com/track/42tZW3Qcb9iVIFvkVSyQqG"
-    },
-    {
-      "added_at": "2026-04-01 10:39:37",
-      "album": {
-        "name": "Run To You",
-        "url": "https://open.spotify.com/album/3PZ6yupy1KwN5PqKkZsRkE"
-      },
-      "artists": [
-        {
-          "name": "ElSchacko",
-          "url": "https://open.spotify.com/artist/1JWreSMob6umLV7tASOkDD"
-        },
-        {
-          "name": "Gabriel Summer",
-          "url": "https://open.spotify.com/artist/5RvQBdIhGuwlH4Xl7bfHSt"
-        },
-        {
-          "name": "R\u00c6",
-          "url": "https://open.spotify.com/artist/4Tyf5eR5dtPiPFM2WaME4h"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/238afnxbWyFu1kct3GMufx"
     },
     {
       "added_at": "2025-11-30 20:21:58",
@@ -1239,6 +1239,30 @@
       "duration_ms": 154891,
       "name": "Making Waves",
       "url": "https://open.spotify.com/track/5FKWFoyXLM9rrnp3RJWjV5"
+    },
+    {
+      "added_at": "2026-04-01 10:39:37",
+      "album": {
+        "name": "Run To You",
+        "url": "https://open.spotify.com/album/3PZ6yupy1KwN5PqKkZsRkE"
+      },
+      "artists": [
+        {
+          "name": "ElSchacko",
+          "url": "https://open.spotify.com/artist/1JWreSMob6umLV7tASOkDD"
+        },
+        {
+          "name": "Gabriel Summer",
+          "url": "https://open.spotify.com/artist/5RvQBdIhGuwlH4Xl7bfHSt"
+        },
+        {
+          "name": "R\u00c6",
+          "url": "https://open.spotify.com/artist/4Tyf5eR5dtPiPFM2WaME4h"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/238afnxbWyFu1kct3GMufx"
     },
     {
       "added_at": "2025-10-03 09:38:10",

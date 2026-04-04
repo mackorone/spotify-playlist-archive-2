@@ -1,13 +1,89 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Jim Legxacy",
-  "num_followers": 1327115,
+  "description": "Genre-less. Quality first always. Cover: Thundercat",
+  "num_followers": 1327134,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0vw311ZcRudf0Z7xETn9YDHezf",
+  "snapshot_id": "AAAAAFG5+W7Ff55mnum/OY0tUWt8Yirj",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:01:39",
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
+    },
+    {
+      "added_at": "2026-04-03 04:01:39",
+      "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62"
+      },
+      "artists": [
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        },
+        {
+          "name": "Lapgan",
+          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
+        }
+      ],
+      "duration_ms": 81944,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII"
+    },
+    {
+      "added_at": "2026-04-03 04:01:39",
+      "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+    },
+    {
+      "added_at": "2026-04-03 04:01:39",
+      "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/6TcqhHCbNpDXDY0CA6KyuG"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/25jvcrDD3TbvgOpn3MUYbF"
+    },
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
@@ -25,20 +101,24 @@
       "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
     },
     {
-      "added_at": "2026-03-27 04:00:20",
+      "added_at": "2026-04-03 04:01:39",
       "album": {
-        "name": "\u00d6",
-        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+        "name": "50KWTTS",
+        "url": "https://open.spotify.com/album/4yMBeYLgk0aO0O8EbQ6j58"
       },
       "artists": [
         {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        },
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
+      "duration_ms": 219013,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/7CdKgelWaFAubv36vIUNPA"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -55,6 +135,22 @@
       "duration_ms": 104354,
       "name": "ALENA(\u12a3\u1208\u1293)PARADISE LOST",
       "url": "https://open.spotify.com/track/2Y05SQlUbQSHsf6xKWerru"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1661,54 +1757,6 @@
       "url": "https://open.spotify.com/track/0MPEX4Y7YK6QfWcL9oU685"
     },
     {
-      "added_at": "2025-12-05 05:00:23",
-      "album": {
-        "name": "sankofa",
-        "url": "https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3"
-      },
-      "artists": [
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "pray 4 me",
-      "url": "https://open.spotify.com/track/60XwT8x654biUkHCInrZau"
-    },
-    {
-      "added_at": "2025-11-21 05:00:39",
-      "album": {
-        "name": "Unforgiven",
-        "url": "https://open.spotify.com/album/2a0rNOt4wqvjUcGKnjsdTi"
-      },
-      "artists": [
-        {
-          "name": "doggone",
-          "url": "https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Unforgiven",
-      "url": "https://open.spotify.com/track/4nVpEwdqM0aaAQSqqSM7cH"
-    },
-    {
-      "added_at": "2025-12-05 05:00:23",
-      "album": {
-        "name": "Acoustics & Hood Psychedelia",
-        "url": "https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl"
-      },
-      "artists": [
-        {
-          "name": "Bav\u00e9",
-          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
-        }
-      ],
-      "duration_ms": 168947,
-      "name": "Lover's Rock",
-      "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
-    },
-    {
       "added_at": "2025-11-07 05:00:53",
       "album": {
         "name": "A Hundred Alibis",
@@ -1727,66 +1775,6 @@
       "duration_ms": 242000,
       "name": "Loveseat",
       "url": "https://open.spotify.com/track/3XBycqVB8UDEtEboLU9iJT"
-    },
-    {
-      "added_at": "2025-11-21 05:00:39",
-      "album": {
-        "name": "A Constant Charade",
-        "url": "https://open.spotify.com/album/60rPZxVWJo6Gy8RduvuKlY"
-      },
-      "artists": [
-        {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        }
-      ],
-      "duration_ms": 164479,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/1IbcX5yIsTavsZmZKr2OGR"
-    },
-    {
-      "added_at": "2025-11-14 00:00:24",
-      "album": {
-        "name": "Secular Music Vol. 1",
-        "url": "https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "i am an island",
-          "url": "https://open.spotify.com/artist/2ih06jCvzYsW24ZfcWe41w"
-        }
-      ],
-      "duration_ms": 257101,
-      "name": "Blistered",
-      "url": "https://open.spotify.com/track/73if759NUTI8amyCTiDZRB"
-    },
-    {
-      "added_at": "2025-11-07 05:00:53",
-      "album": {
-        "name": "SNOEY",
-        "url": "https://open.spotify.com/album/4ODxsdra6AfxaVFf51UkMs"
-      },
-      "artists": [
-        {
-          "name": "Zack Villere",
-          "url": "https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh"
-        },
-        {
-          "name": "Roy Blair",
-          "url": "https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67"
-        },
-        {
-          "name": "Papo2oo4",
-          "url": "https://open.spotify.com/artist/4S7E6TrfOatG9H3YuYV4V2"
-        }
-      ],
-      "duration_ms": 177050,
-      "name": "Public Opinion",
-      "url": "https://open.spotify.com/track/3ORsrd6XBeO8BhE0zYRtgE"
     }
   ],
   "unique_name": "POLLEN",

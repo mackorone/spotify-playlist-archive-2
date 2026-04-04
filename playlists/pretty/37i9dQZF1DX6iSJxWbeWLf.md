@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 
 > White noise for studying and concentration
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,595 likes - 101 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,706 likes - 101 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

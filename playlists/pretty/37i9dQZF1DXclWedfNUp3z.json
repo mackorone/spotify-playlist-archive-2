@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 273456,
+  "num_followers": 273512,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,18 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Liminal",
-        "url": "https://open.spotify.com/album/3QK5hLGy1mKrKVGVlIDqjS"
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Beatie Wolfe",
-          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         }
       ],
-      "duration_ms": 200783,
-      "name": "Procession",
-      "url": "https://open.spotify.com/track/4VvOuaF9jGzbXMgBUKOXJu"
+      "duration_ms": 312000,
+      "name": "Mt Baker",
+      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -487,18 +483,22 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/3QK5hLGy1mKrKVGVlIDqjS"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Mt Baker",
-      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
+      "duration_ms": 200783,
+      "name": "Procession",
+      "url": "https://open.spotify.com/track/4VvOuaF9jGzbXMgBUKOXJu"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "- - -",
-      "url": "https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 279935,
       "name": "searching",
       "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "Because of a Flower",
+        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "- - -",
+      "url": "https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
+        "name": "Sea Of Colors",
+        "url": "https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI"
+      },
+      "artists": [
+        {
+          "name": "Airship Express",
+          "url": "https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Sea Of Colors",
+      "url": "https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
         "name": "Bloom: Living World - Single",
         "url": "https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 334205,
       "name": "Bloom: Small World",
       "url": "https://open.spotify.com/track/6lbaoGKwwS0BZsihiJMkA6"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
-        "name": "Sea Of Colors",
-        "url": "https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI"
-      },
-      "artists": [
-        {
-          "name": "Airship Express",
-          "url": "https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Sea Of Colors",
-      "url": "https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "I Miss The Way You Swim",
-        "url": "https://open.spotify.com/album/6frTDuQZ8NQsvCUxJkqcQ7"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 584013,
-      "name": "I Miss The Way You Swim",
-      "url": "https://open.spotify.com/track/3o27wTPGWQaxzPiU3D3BiG"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "Good Places",
         "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
+        "name": "I Miss The Way You Swim",
+        "url": "https://open.spotify.com/album/6frTDuQZ8NQsvCUxJkqcQ7"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 584013,
+      "name": "I Miss The Way You Swim",
+      "url": "https://open.spotify.com/track/3o27wTPGWQaxzPiU3D3BiG"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
         "name": "Yo No Soy Marinero",
         "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
       },
@@ -1247,26 +1247,6 @@
       "duration_ms": 153249,
       "name": "La Cuna del Cisne",
       "url": "https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
-        "name": "ocean tales",
-        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
-      },
-      "artists": [
-        {
-          "name": "santpoort",
-          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
-        },
-        {
-          "name": "Tennyson",
-          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
-        }
-      ],
-      "duration_ms": 152901,
-      "name": "eons away",
-      "url": "https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1303,6 +1283,26 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
+        "name": "ocean tales",
+        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
+      },
+      "artists": [
+        {
+          "name": "santpoort",
+          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
+        },
+        {
+          "name": "Tennyson",
+          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+        }
+      ],
+      "duration_ms": 152901,
+      "name": "eons away",
+      "url": "https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
         "name": "Meditations for Woods & Winds",
         "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Yo Soy",
-        "url": "https://open.spotify.com/album/747s4RXgjofySu3dDtvfdn"
-      },
-      "artists": [
-        {
-          "name": "Carope",
-          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
-        }
-      ],
-      "duration_ms": 444800,
-      "name": "Yo Soy - (Versi\u00f3n Instrumental)",
-      "url": "https://open.spotify.com/track/6ysjsGCJYUsGSXN6F47jbV"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "Atlantic Diva",
         "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/747s4RXgjofySu3dDtvfdn"
+      },
+      "artists": [
+        {
+          "name": "Carope",
+          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
+        }
+      ],
+      "duration_ms": 444800,
+      "name": "Yo Soy - (Versi\u00f3n Instrumental)",
+      "url": "https://open.spotify.com/track/6ysjsGCJYUsGSXN6F47jbV"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG"
-      },
-      "artists": [
-        {
-          "name": "Marc Van Mourik",
-          "url": "https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H"
-        }
-      ],
-      "duration_ms": 259042,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "NONAGE",
         "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 435070,
       "name": "Parallel 9",
       "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG"
+      },
+      "artists": [
+        {
+          "name": "Marc Van Mourik",
+          "url": "https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H"
+        }
+      ],
+      "duration_ms": 259042,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1647,30 +1647,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "OFFAIR: from the forest floor",
-        "url": "https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0"
-      },
-      "artists": [
-        {
-          "name": "Jenny Owen Youngs",
-          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
-        },
-        {
-          "name": "John Mark Nelson",
-          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
-        },
-        {
-          "name": "Hrishikesh Hirway",
-          "url": "https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf"
-        }
-      ],
-      "duration_ms": 182528,
-      "name": "ambrosia",
-      "url": "https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "Nausea",
         "url": "https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj"
       },
@@ -1699,6 +1675,30 @@
       "duration_ms": 219820,
       "name": "Melodica",
       "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "OFFAIR: from the forest floor",
+        "url": "https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
+        },
+        {
+          "name": "Hrishikesh Hirway",
+          "url": "https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf"
+        }
+      ],
+      "duration_ms": 182528,
+      "name": "ambrosia",
+      "url": "https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9"
     }
   ],
   "unique_name": "Music for Plants",

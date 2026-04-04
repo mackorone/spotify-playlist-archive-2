@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \uc528\uc57c (SEEYA) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 416583,
+  "num_followers": 416567,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
-    },
-    {
-      "added_at": "2026-03-31 03:54:31",
-      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "added_at": "2026-03-31 03:54:31",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
     },
     {
       "added_at": "2026-03-31 03:54:31",
@@ -803,22 +803,18 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "LEE MU JIN",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Bye Bye (Feat. LEE MU JIN)",
-      "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
+      "duration_ms": 234000,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
     },
     {
       "added_at": "2026-03-31 03:54:31",
@@ -847,18 +843,22 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "LEE MU JIN",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+      "duration_ms": 268000,
+      "name": "Bye Bye (Feat. LEE MU JIN)",
+      "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
     },
     {
       "added_at": "2026-03-31 03:54:31",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "SOUL FOOD",
-        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
-      },
-      "artists": [
-        {
-          "name": "BMK",
-          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
-        }
-      ],
-      "duration_ms": 284106,
-      "name": "When flowering spring comes",
-      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
-    },
-    {
-      "added_at": "2026-03-31 03:54:31",
-      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 233813,
       "name": "I Will",
       "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
+    },
+    {
+      "added_at": "2026-03-31 03:54:31",
+      "album": {
+        "name": "SOUL FOOD",
+        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
+        }
+      ],
+      "duration_ms": 284106,
+      "name": "When flowering spring comes",
+      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
     },
     {
       "added_at": "2026-03-31 03:54:31",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "Jay Park Season 1",
-        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219742,
-      "name": "Your/My",
-      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
-    },
-    {
-      "added_at": "2026-03-31 03:54:31",
-      "album": {
         "name": "Moving Away",
         "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 264069,
       "name": "Moving Away",
       "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
+    },
+    {
+      "added_at": "2026-03-31 03:54:31",
+      "album": {
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
       "added_at": "2026-03-31 03:54:31",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 288046,
-      "name": "All Our Days",
-      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
-    },
-    {
-      "added_at": "2026-03-31 03:54:31",
-      "album": {
         "name": "HOSPITAL PLAYLIST Season2, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 256314,
       "name": "It\u2032s My Life",
       "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+    },
+    {
+      "added_at": "2026-03-31 03:54:31",
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 288046,
+      "name": "All Our Days",
+      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
     },
     {
       "added_at": "2026-03-31 03:54:31",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-03-31 03:54:31",
       "album": {
-        "name": "Tell The World",
-        "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tell The World",
-      "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
-    },
-    {
-      "added_at": "2026-03-31 03:54:31",
-      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 236000,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+    },
+    {
+      "added_at": "2026-03-31 03:54:31",
+      "album": {
+        "name": "Tell The World",
+        "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tell The World",
+      "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
     }
   ],
   "unique_name": "v o K a l",

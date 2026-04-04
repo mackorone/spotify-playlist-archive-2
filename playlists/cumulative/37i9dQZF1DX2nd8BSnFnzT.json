@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Beyond the Dream",
+        "url": "https://open.spotify.com/album/4RbdRqdEwnWjcTGeYKUNz1"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244794,
+      "name": "Beyond the Dream",
+      "url": "https://open.spotify.com/track/2TJn2Jgac1U5a2gIb66gKL"
+    },
+    {
+      "album": {
         "name": "Billy Dog",
         "url": "https://open.spotify.com/album/5lYmZUIPKwHfnrsZ9UduIb"
       },
@@ -5542,7 +5560,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 230630,
       "name": "Mais uma vez",
       "url": "https://open.spotify.com/track/79VJmKsxklamRPSDusWmms"
@@ -6964,7 +6982,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 308640,
       "name": "N\u00e3o \u00e9 Normal - Ao Vivo",
       "url": "https://open.spotify.com/track/0KFnlMH2qIzpAr2daxGXVa"
@@ -8006,7 +8024,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 234400,
       "name": "Pegasus Fantasy",
       "url": "https://open.spotify.com/track/5ljfOnPqCGc6iXqdIE0eN7"
@@ -8852,6 +8870,28 @@
       "duration_ms": 216255,
       "name": "QUEM NUNCA??",
       "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
+    },
+    {
+      "album": {
+        "name": "Quem Sou Eu?",
+        "url": "https://open.spotify.com/album/7zrIW55BwrhgiRjB9rszrS"
+      },
+      "artists": [
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147229,
+      "name": "Quem Sou Eu?",
+      "url": "https://open.spotify.com/track/2Le0PY8DyyaJ0vGLGtEUK4"
     },
     {
       "album": {
@@ -10662,6 +10702,24 @@
       "duration_ms": 194220,
       "name": "Tudo O Que Eu Sempre Quis",
       "url": "https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM"
+    },
+    {
+      "album": {
+        "name": "Prel\u00fadio",
+        "url": "https://open.spotify.com/album/6OKgt0A7OuJWiixvcyqDBk"
+      },
+      "artists": [
+        {
+          "name": "Gloria",
+          "url": "https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236563,
+      "name": "Tudo o Que Restou",
+      "url": "https://open.spotify.com/track/5TsTThSny1hH1Tq2iDWzwc"
     },
     {
       "album": {

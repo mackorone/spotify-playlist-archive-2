@@ -5873,6 +5873,28 @@
     },
     {
       "album": {
+        "name": "CHR\u00d6ME (feat. slayr)",
+        "url": "https://open.spotify.com/album/3qJ91i2zamDYcJ91J7PNHs"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222204,
+      "name": "CHR\u00d6ME (feat. slayr)",
+      "url": "https://open.spotify.com/track/13bMRD7SZJCqbx4fSGHK0Y"
+    },
+    {
+      "album": {
         "name": "Bryson Tiller",
         "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
       },
@@ -9398,7 +9420,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 224125,
       "name": "Face The Flam\u00eb",
       "url": "https://open.spotify.com/track/5WTG3IGRkPoOj03HC4wT9v"
@@ -11550,7 +11572,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 133276,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/4Qob1cIOK2ENw20RHPf9xT"
@@ -17177,6 +17199,24 @@
     },
     {
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2MrAeXVF8AF8jb3LSK4TIM"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/2LIHIN3N3WK5psQzKtqfMW"
+    },
+    {
+      "album": {
         "name": "Baby Tate Presents - Sexploration: The Musical",
         "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
       },
@@ -18989,6 +19029,36 @@
     },
     {
       "album": {
+        "name": "AREA 41",
+        "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188652,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/1L7324QK3osE201YXxrrrl"
+    },
+    {
+      "album": {
         "name": "Migo In America",
         "url": "https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw"
       },
@@ -19984,7 +20054,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 124878,
       "name": "No Compadre",
       "url": "https://open.spotify.com/track/2IzcwHQ6uv1geOvCszrO4P"
@@ -20522,6 +20592,28 @@
       "duration_ms": 129981,
       "name": "Nostalgia (feat. Gray Hawken)",
       "url": "https://open.spotify.com/track/2G07BuQr57cyd92Xu74VFS"
+    },
+    {
+      "album": {
+        "name": "Not Friendly",
+        "url": "https://open.spotify.com/album/0I52JJWvsh7IuKjb5xwjK5"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181821,
+      "name": "Not Friendly",
+      "url": "https://open.spotify.com/track/5LUYSbvpy83r3WvV8n7MZy"
     },
     {
       "album": {
@@ -21880,6 +21972,28 @@
       "duration_ms": 187527,
       "name": "Paper",
       "url": "https://open.spotify.com/track/58njyEW0iRoGKUy9xyPukJ"
+    },
+    {
+      "album": {
+        "name": "Paperbag Boy",
+        "url": "https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191059,
+      "name": "Paperbag Boy",
+      "url": "https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP"
     },
     {
       "album": {
@@ -25850,7 +25964,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 201856,
       "name": "Shotta Flow 8",
       "url": "https://open.spotify.com/track/0o1OygFF2qOOh5e3s7rNd1"
@@ -29095,6 +29209,24 @@
     },
     {
       "album": {
+        "name": "That's It",
+        "url": "https://open.spotify.com/album/02tMEYuLcCGE10byHNBiXz"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116818,
+      "name": "That's It",
+      "url": "https://open.spotify.com/track/0nAoQKpq9CpkHw3vyAMJRy"
+    },
+    {
+      "album": {
         "name": "The Biggest Pt. 2",
         "url": "https://open.spotify.com/album/3eUutraxnRY36Wnmp61feO"
       },
@@ -30598,7 +30730,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 153617,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/1EtOaxATYj7RVYUJyaTS5d"
@@ -31578,7 +31710,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 158579,
       "name": "Video Shoot",
       "url": "https://open.spotify.com/track/4Z0LJAvYFlDIW26qGAjSuW"

@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: RAYE
 
-947 songs - 2 day 19 hr 38 min
+947 songs - 2 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Lullaby for Constance](https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa) | [Olivier Temime](https://open.spotify.com/artist/1Qv2LZLDnuCJwSZWXmRtYK) | [Inner Songs](https://open.spotify.com/album/3bHRe5o2d25MQm0M2LLhfA) | 5:19 | 2023-03-09 | 2023-06-23 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-19 | 2023-12-01 |
 | [A Nightingale Sang in Berkeley Square](https://open.spotify.com/track/2Q7xtSxYk9wNFs5lGVhb8w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [A Nightingale Sang in Berkeley Square](https://open.spotify.com/album/61WnLVI6BAd9DcsVOVXaF5) | 3:05 | 2022-04-14 | 2022-08-19 |
+| [A Time For Love](https://open.spotify.com/track/6jHtoIPI83lU0pZg4vPq3c) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [A Time For Love](https://open.spotify.com/album/3I6j3dwMH8rMlsydFzu6cv) | 4:45 | 2026-04-02 |  |
 | [A World Without Love](https://open.spotify.com/track/2zFCLeBkn4s1iO4wYHNQf7) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Eva Mikhailovna](https://open.spotify.com/artist/48Y0Z3ONtqljq0GPRy3F2F), [Eva and the Vagabond Tales](https://open.spotify.com/artist/12liNL6Nr66VXAew05JCw8) | [A World Without Love](https://open.spotify.com/album/12n0c6H7dBP5A4UyYP6ocL) | 3:47 | 2023-02-09 | 2023-05-26 |
 | [Above & Beyond](https://open.spotify.com/track/2ntMpEEmxmXRg5CEbPgado) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te), [Zack Auslander](https://open.spotify.com/artist/7e3tekOeW2rBUv26KculLT), [Shoubun](https://open.spotify.com/artist/6Njr7u2DN3BIbhq9N8Pwxv) | [Soundtype 2](https://open.spotify.com/album/5jyTBzM5t8qI3f4cerBnp2) | 5:21 | 2025-11-20 | 2026-03-20 |
 | [Add Fiction](https://open.spotify.com/track/0QdXmMtJWdY0sCdjyKNOtw) | [Rémi Panossian Trio](https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh) | [Happy Birthdé](https://open.spotify.com/album/7vhIGT8Ks6L3xEHSUc9Drx) | 5:28 | 2022-04-21 | 2022-08-26 |
@@ -854,7 +855,6 @@
 | [Tomorrow](https://open.spotify.com/track/2OmKfDdY4wSdvTB9YuCJ4t) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [The Return of Slick](https://open.spotify.com/album/1t2kpu4LHR0O5PsQLxSQnp) | 3:19 | 2025-10-16 | 2026-02-06 |
 | [Top Hat, White Tie and Tails \- Live](https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella At The Hollywood Bowl: The Irving Berlin Songbook \(Live\)](https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x) | 2:46 | 2022-06-23 | 2022-08-26 |
 | [Top of My Head \(Live\)](https://open.spotify.com/track/3MNiy7awkWDXeJ8C4CiUdY) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Roy Hargrove: Live at KNKX](https://open.spotify.com/album/5YP0b8AebeLSJJyMJFwnVC) | 6:37 | 2026-02-05 |  |
-| [Track 6](https://open.spotify.com/track/6jHtoIPI83lU0pZg4vPq3c) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [A Time For Love](https://open.spotify.com/album/3I6j3dwMH8rMlsydFzu6cv) | 0:00 | 2026-04-02 |  |
 | [Transe](https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Transe](https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL) | 6:23 | 2023-07-20 | 2023-10-13 |
 | [Transformation](https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY) | [Pamina Beroff](https://open.spotify.com/artist/5o2LIkj5gUj33wuzmyiE7M), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Unfolding](https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f) | 3:58 | 2022-12-22 | 2023-03-03 |
 | [Trop beau pour être vrai](https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 2:32 | 2023-11-02 | 2023-11-24 |

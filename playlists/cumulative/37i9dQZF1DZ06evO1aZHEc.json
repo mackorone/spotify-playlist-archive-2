@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "a heavenly touch",
+        "url": "https://open.spotify.com/album/7aCRkYxkwloBzHpnL9yIME"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "going home",
+      "url": "https://open.spotify.com/track/2YCubAqWhA0xekkAbsNWBI"
+    },
+    {
+      "album": {
         "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
         "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
       },
@@ -570,7 +588,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 54963,
       "name": "i couldn't find the light",
       "url": "https://open.spotify.com/track/5syBPbqWzsKM26e9YeurA5"
@@ -926,7 +944,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 118286,
       "name": "Sad Gondola",
       "url": "https://open.spotify.com/track/7iqfr6tzyzTl1KKrrAk5MQ"
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 344819,
       "name": "somehow",
       "url": "https://open.spotify.com/track/4jlnTiyJ1C70se3odtDHBU"
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 37000,
       "name": "swipe",
       "url": "https://open.spotify.com/track/6XJD626FozKijPwvjYd5PU"
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 268134,
       "name": "Tuufuhhoowaah",
       "url": "https://open.spotify.com/track/4Ib1aQhVD5SeIgFE0ycCBZ"
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 210000,
       "name": "viii",
       "url": "https://open.spotify.com/track/2MU8lq5k3Rebay4tvQtlX6"
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "xi",
       "url": "https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5"

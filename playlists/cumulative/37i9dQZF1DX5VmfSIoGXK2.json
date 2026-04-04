@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "Blazing Sun",
+        "url": "https://open.spotify.com/album/5Qq7BVraUnIqDmrC0JLAwW"
+      },
+      "artists": [
+        {
+          "name": "DAWSON",
+          "url": "https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02"
+        },
+        {
+          "name": "HIGH H\u00d8\u00d8PS",
+          "url": "https://open.spotify.com/artist/4awgEb2pQYbDOC6OFuPy9x"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224667,
+      "name": "Blazing Sun",
+      "url": "https://open.spotify.com/track/0xIWvMGKcg7HX1onH3g7nf"
+    },
+    {
+      "album": {
         "name": "Blowfish",
         "url": "https://open.spotify.com/album/0RQXcwL88odlEhRiT7S6Kn"
       },
@@ -426,7 +448,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 238139,
       "name": "Boleta",
       "url": "https://open.spotify.com/track/52ei2hcLKXEZd7MRDKqyLZ"
@@ -1264,7 +1286,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 185428,
       "name": "Glass Walls",
       "url": "https://open.spotify.com/track/12KAzEuVYaPNzWMcfn0veK"
@@ -2428,7 +2450,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 144358,
       "name": "More Than Ever",
       "url": "https://open.spotify.com/track/2itHRm1HyxvHYShw5hsbPZ"
@@ -3213,6 +3235,28 @@
     },
     {
       "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/2E9As6XKHDGXfihFuF2KQB"
+      },
+      "artists": [
+        {
+          "name": "Juando",
+          "url": "https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv"
+        },
+        {
+          "name": "Pablo Narea",
+          "url": "https://open.spotify.com/artist/5p8jrSEwzfpHlBrGlYgDIo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339960,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/6W645HND6UgMEumwYAm94M"
+    },
+    {
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/38cSJDqR52DWEufIBNfpqe"
       },
@@ -3814,6 +3858,24 @@
       "duration_ms": 255822,
       "name": "Unity Jazz",
       "url": "https://open.spotify.com/track/3ucM5eRZYNIzJTlUPI9i4T"
+    },
+    {
+      "album": {
+        "name": "Up To You",
+        "url": "https://open.spotify.com/album/0AzeZpOlv0Nfd63wnZdATv"
+      },
+      "artists": [
+        {
+          "name": "Maple Syrup",
+          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Up To You",
+      "url": "https://open.spotify.com/track/22naV1kLkISKMUDhxxHjm9"
     },
     {
       "album": {

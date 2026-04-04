@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 709739,
+  "num_followers": 709946,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "Half The Perfect World",
-        "url": "https://open.spotify.com/album/5OomYDbQatByUYt4aXXVwH"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "The Summer Wind",
-      "url": "https://open.spotify.com/track/4mp28AMgYCgrkfJMSYtl3C"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 219080,
       "name": "I Will Wait for You",
       "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "Half The Perfect World",
+        "url": "https://open.spotify.com/album/5OomYDbQatByUYt4aXXVwH"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "The Summer Wind",
+      "url": "https://open.spotify.com/track/4mp28AMgYCgrkfJMSYtl3C"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/66kSq3nyISTG4FcTeeOpe2"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "Balm in Gilead",
         "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 180493,
       "name": "The Moon Is Made of Gold",
       "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/66kSq3nyISTG4FcTeeOpe2"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "Soul Eyes",
-        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 224460,
-      "name": "Place To Hide",
-      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 176013,
       "name": "One for My Baby (And One More for the Road)",
       "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 224460,
+      "name": "Place To Hide",
+      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
       "artists": [
         {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
         }
       ],
-      "duration_ms": 168755,
-      "name": "Oh My Love",
-      "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
+      "duration_ms": 221832,
+      "name": "I've Drawn Your Face",
+      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 168755,
+      "name": "Oh My Love",
+      "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
         "name": "Nat \"King\" Cole & Me (Deluxe)",
         "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 257533,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 221832,
-      "name": "I've Drawn Your Face",
-      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "Lumi\u00e9re",
-        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
-      },
-      "artists": [
-        {
-          "name": "Emily Sage",
-          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Lumi\u00e9re",
-      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "Lumi\u00e9re",
+        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
+      },
+      "artists": [
+        {
+          "name": "Emily Sage",
+          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Lumi\u00e9re",
+      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 257680,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "Take on Me",
         "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 270000,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 257680,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "Do You Know What It Means to Miss New Orleans",
-        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 253386,
-      "name": "Do You Know What It Means to Miss New Orleans",
-      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 236367,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "Do You Know What It Means to Miss New Orleans",
+        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 253386,
+      "name": "Do You Know What It Means to Miss New Orleans",
+      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -1907,22 +1907,6 @@
       "duration_ms": 279159,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/62SIDT5kuZ7whlVegVGkrT"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
-        "name": "The World in You",
-        "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Wright",
-          "url": "https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "The World in You",
-      "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -1975,6 +1959,22 @@
       "duration_ms": 221241,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "The World in You",
+        "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Wright",
+          "url": "https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "The World in You",
+      "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
     },
     {
       "added_at": "2026-02-27 12:29:52",

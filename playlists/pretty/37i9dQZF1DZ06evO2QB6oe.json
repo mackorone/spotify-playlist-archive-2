@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70521,
+  "num_followers": 70519,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAfA0pLtrdFaknc6+yh/FYH",
+  "snapshot_id": "ac2xgAAAAAAX6guzrxHHNeEyPuaKo3XT",
   "tracks": [
     {
       "added_at": null,
@@ -442,19 +442,11 @@
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
         }
       ],
-      "duration_ms": 206414,
-      "name": "Aprender a Vivir",
-      "url": "https://open.spotify.com/track/3qKiIjv5OSH6OfgcMcgbzi"
+      "duration_ms": 158241,
+      "name": "Aqu\u00ed Estar\u00e9",
+      "url": "https://open.spotify.com/track/2zCgdzlotsYpFcfh7Sn83E"
     },
     {
       "added_at": null,
@@ -530,11 +522,19 @@
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
         }
       ],
-      "duration_ms": 158241,
-      "name": "Aqu\u00ed Estar\u00e9",
-      "url": "https://open.spotify.com/track/2zCgdzlotsYpFcfh7Sn83E"
+      "duration_ms": 206414,
+      "name": "Aprender a Vivir",
+      "url": "https://open.spotify.com/track/3qKiIjv5OSH6OfgcMcgbzi"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 173310,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
+      "duration_ms": 205959,
+      "name": "La Neta",
+      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
     },
     {
       "added_at": null,
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 205959,
-      "name": "La Neta",
-      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
+      "duration_ms": 173310,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
     },
     {
       "added_at": null,

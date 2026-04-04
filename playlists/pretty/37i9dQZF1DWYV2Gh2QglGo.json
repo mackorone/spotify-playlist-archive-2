@@ -1,28 +1,60 @@
 {
   "description": "The home of Canadian country music. Cover: Kalsey Kulyk",
-  "num_followers": 83713,
+  "num_followers": 83718,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADZIJeLtZYV3OQnG/xBitjFQkM3N",
+  "snapshot_id": "AAAAALxO56XalHX3GUSZLANM2a/gXZmB",
   "tracks": [
     {
-      "added_at": "2026-03-27 04:01:06",
+      "added_at": "2026-04-03 04:04:15",
       "album": {
-        "name": "Her Rodeo",
-        "url": "https://open.spotify.com/album/0WaztXTUiIN1CS8Ebx4bxe"
+        "name": "Give 'Er Hell",
+        "url": "https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj"
       },
       "artists": [
         {
-          "name": "Kalsey Kulyk",
-          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 170752,
-      "name": "Cut Him Loose",
-      "url": "https://open.spotify.com/track/0muNW8rIdKibQ53jYZtntK"
+      "duration_ms": 201468,
+      "name": "Give 'Er Hell",
+      "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
+    },
+    {
+      "added_at": "2026-04-03 04:04:15",
+      "album": {
+        "name": "honey, have i lost my mind?",
+        "url": "https://open.spotify.com/album/25WQgU0mYJeGZ59SgGjXPm"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "duration_ms": 193228,
+      "name": "honey, have i lost my mind?",
+      "url": "https://open.spotify.com/track/5je62XgKGO5LLHklklRR3l"
+    },
+    {
+      "added_at": "2026-04-03 04:04:15",
+      "album": {
+        "name": "COWBOY UP",
+        "url": "https://open.spotify.com/album/5jk2AaNZOeSd7GhpoS7ReR"
+      },
+      "artists": [
+        {
+          "name": "Elyse Saunders",
+          "url": "https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk"
+        }
+      ],
+      "duration_ms": 192625,
+      "name": "COWBOY UP",
+      "url": "https://open.spotify.com/track/3ZCZ9lfSSjhLl9E1FJwrWK"
     },
     {
       "added_at": "2026-03-27 04:01:06",
@@ -41,20 +73,148 @@
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
     },
     {
-      "added_at": "2026-03-27 04:01:06",
+      "added_at": "2026-04-03 04:04:15",
       "album": {
-        "name": "Easy Come Easy Go",
-        "url": "https://open.spotify.com/album/2kh6bZ5lk20RFFqW3n0iS1"
+        "name": "The Truth We Hold",
+        "url": "https://open.spotify.com/album/4ZECwfb4wwu830xgPnTk52"
       },
       "artists": [
         {
-          "name": "The Redhill Valleys",
-          "url": "https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ"
+          "name": "Amanda Rheaume",
+          "url": "https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ"
         }
       ],
-      "duration_ms": 240683,
-      "name": "Easy Come Easy Go",
-      "url": "https://open.spotify.com/track/2JAKlqhXl9SdQj72sNjhM5"
+      "duration_ms": 222933,
+      "name": "One Of These Days",
+      "url": "https://open.spotify.com/track/1ll5HKOjeWDnRlVpk4r0np"
+    },
+    {
+      "added_at": "2026-03-13 04:01:34",
+      "album": {
+        "name": "In The Feeling",
+        "url": "https://open.spotify.com/album/2fukn0TC7ea6nOs7ALTjyl"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 250998,
+      "name": "In The Feeling",
+      "url": "https://open.spotify.com/track/6O88XHRzbDCOB4Ov30qW8C"
+    },
+    {
+      "added_at": "2026-04-03 04:04:15",
+      "album": {
+        "name": "Alternate Ending",
+        "url": "https://open.spotify.com/album/1imXHb4yzZBWR5ZEZZVaRJ"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 190550,
+      "name": "Alternate Ending",
+      "url": "https://open.spotify.com/track/4ARFJVAoSfB6pw5lZ9AnAI"
+    },
+    {
+      "added_at": "2026-04-03 04:04:15",
+      "album": {
+        "name": "Dans l\u2019temps",
+        "url": "https://open.spotify.com/album/4kyxM6cCGRQFRDfHxik3gn"
+      },
+      "artists": [
+        {
+          "name": "Sara Dufour",
+          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
+        }
+      ],
+      "duration_ms": 187198,
+      "name": "Dans l\u2019temps",
+      "url": "https://open.spotify.com/track/1vFup6NBDo6yL5ubgErCo9"
+    },
+    {
+      "added_at": "2026-04-03 04:04:15",
+      "album": {
+        "name": "Jesus Drank Whiskey",
+        "url": "https://open.spotify.com/album/2zRtC3ctcX4AMfFd2Hdfyx"
+      },
+      "artists": [
+        {
+          "name": "Julia Vos",
+          "url": "https://open.spotify.com/artist/0dW8yOcvW7yg5U3d4g2bBB"
+        }
+      ],
+      "duration_ms": 237159,
+      "name": "Jesus Drank Whiskey",
+      "url": "https://open.spotify.com/track/7yl4Bp8Ts63yKChjst8AGD"
+    },
+    {
+      "added_at": "2026-03-27 04:01:06",
+      "album": {
+        "name": "Her Rodeo",
+        "url": "https://open.spotify.com/album/0WaztXTUiIN1CS8Ebx4bxe"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "duration_ms": 170752,
+      "name": "Cut Him Loose",
+      "url": "https://open.spotify.com/track/0muNW8rIdKibQ53jYZtntK"
+    },
+    {
+      "added_at": "2026-03-20 04:01:39",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/2WERKp67qBnuJ1H8hMT0Y4"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/48KR896jmozh3qJImcytaJ"
+    },
+    {
+      "added_at": "2026-04-03 04:04:15",
+      "album": {
+        "name": "Springsteen",
+        "url": "https://open.spotify.com/album/6OAS2XMhnVr3z0NyqNsMc0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sevier",
+          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
+        }
+      ],
+      "duration_ms": 190539,
+      "name": "Springsteen",
+      "url": "https://open.spotify.com/track/0ZaO9StpzY9hRGYHoGeu89"
+    },
+    {
+      "added_at": "2026-03-27 04:01:06",
+      "album": {
+        "name": "If I Go Missin\u2019",
+        "url": "https://open.spotify.com/album/2g0zHOLzQcbsxYw8TlE7XJ"
+      },
+      "artists": [
+        {
+          "name": "Tim & The Glory Boys",
+          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "If I Go Missin\u2019",
+      "url": "https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk"
     },
     {
       "added_at": "2026-03-27 04:01:06",
@@ -75,18 +235,34 @@
     {
       "added_at": "2026-03-27 04:01:06",
       "album": {
-        "name": "If I Go Missin\u2019",
-        "url": "https://open.spotify.com/album/2g0zHOLzQcbsxYw8TlE7XJ"
+        "name": "Easy Come Easy Go",
+        "url": "https://open.spotify.com/album/2kh6bZ5lk20RFFqW3n0iS1"
       },
       "artists": [
         {
-          "name": "Tim & The Glory Boys",
-          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
+          "name": "The Redhill Valleys",
+          "url": "https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ"
         }
       ],
-      "duration_ms": 220200,
-      "name": "If I Go Missin\u2019",
-      "url": "https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk"
+      "duration_ms": 240683,
+      "name": "Easy Come Easy Go",
+      "url": "https://open.spotify.com/track/2JAKlqhXl9SdQj72sNjhM5"
+    },
+    {
+      "added_at": "2026-04-03 04:04:15",
+      "album": {
+        "name": "plays GWYH/CLAWS IN ME",
+        "url": "https://open.spotify.com/album/1PnbW8HmRFNJmltMVXwIcp"
+      },
+      "artists": [
+        {
+          "name": "Skinny Dyck",
+          "url": "https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "GWYH",
+      "url": "https://open.spotify.com/track/5QxnG4nH3YRFLepPt6Jyh2"
     },
     {
       "added_at": "2026-03-20 04:01:39",
@@ -135,38 +311,6 @@
       "duration_ms": 200807,
       "name": "Right Side of Over You",
       "url": "https://open.spotify.com/track/2tKE0JqeZaFfhbwBXHkXzj"
-    },
-    {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/2WERKp67qBnuJ1H8hMT0Y4"
-      },
-      "artists": [
-        {
-          "name": "Tyler Joe Miller",
-          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/48KR896jmozh3qJImcytaJ"
-    },
-    {
-      "added_at": "2026-03-13 04:01:34",
-      "album": {
-        "name": "In The Feeling",
-        "url": "https://open.spotify.com/album/2fukn0TC7ea6nOs7ALTjyl"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 250998,
-      "name": "In The Feeling",
-      "url": "https://open.spotify.com/track/6O88XHRzbDCOB4Ov30qW8C"
     },
     {
       "added_at": "2026-03-20 04:01:39",

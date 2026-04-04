@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 12989,
+  "num_followers": 12995,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAACDasTHWN8+Qyj40vrLIvtG",
+  "snapshot_id": "ac2xgAAAAAAd1Tci7KN6s97N9PooKHSU",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 244780,
-      "name": "Constantly",
-      "url": "https://open.spotify.com/track/1CZXdJLXpC5ZwFl2caa3sV"
+      "duration_ms": 252567,
+      "name": "Let It Begin",
+      "url": "https://open.spotify.com/track/3dd7wLbejZqli43R7MBalG"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 252567,
-      "name": "Let It Begin",
-      "url": "https://open.spotify.com/track/3dd7wLbejZqli43R7MBalG"
+      "duration_ms": 244780,
+      "name": "Constantly",
+      "url": "https://open.spotify.com/track/1CZXdJLXpC5ZwFl2caa3sV"
     },
     {
       "added_at": null,
@@ -415,18 +415,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Begin",
-        "url": "https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ"
+        "name": "Lifesongs: A Celebration of the First 20 Years",
+        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
       },
       "artists": [
         {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
         }
       ],
-      "duration_ms": 231213,
-      "name": "Louder Than The Lies",
-      "url": "https://open.spotify.com/track/2DHvfbdpLowMAsbfxDoiJR"
+      "duration_ms": 243917,
+      "name": "If We Are The Body (feat. Hannah Kerr)",
+      "url": "https://open.spotify.com/track/12AUzHL6cmZNCKZT3HZIMN"
     },
     {
       "added_at": null,
@@ -463,26 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifesongs: A Celebration of the First 20 Years",
-        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
+        "name": "Let It Begin",
+        "url": "https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        },
-        {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        },
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
         }
       ],
-      "duration_ms": 243917,
-      "name": "If We Are The Body (feat. Hannah Kerr)",
-      "url": "https://open.spotify.com/track/12AUzHL6cmZNCKZT3HZIMN"
+      "duration_ms": 231213,
+      "name": "Louder Than The Lies",
+      "url": "https://open.spotify.com/track/2DHvfbdpLowMAsbfxDoiJR"
     },
     {
       "added_at": null,
@@ -583,38 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "I Will Go",
-      "url": "https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let It Begin",
-        "url": "https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 287143,
-      "name": "Have Your Way",
-      "url": "https://open.spotify.com/track/4hmBFGpaTLXrUqedsgzNCp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
       },
@@ -635,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Life Would Be Like",
-        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+        "name": "Let It Begin",
+        "url": "https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ"
       },
       "artists": [
         {
@@ -644,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 281000,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/70KZlDFmyd2OGigiLGwOwd"
+      "duration_ms": 287143,
+      "name": "Have Your Way",
+      "url": "https://open.spotify.com/track/4hmBFGpaTLXrUqedsgzNCp"
     },
     {
       "added_at": null,
@@ -660,9 +628,25 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 262079,
-      "name": "I Belong To God",
-      "url": "https://open.spotify.com/track/6K2xpBy3l8RvmhD7xBQqS9"
+      "duration_ms": 214933,
+      "name": "I Will Go",
+      "url": "https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/70KZlDFmyd2OGigiLGwOwd"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "I Belong To God",
+      "url": "https://open.spotify.com/track/6K2xpBy3l8RvmhD7xBQqS9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When The Light Comes",
         "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 261921,
       "name": "I Want To Tell The World",
       "url": "https://open.spotify.com/track/57RNAiMB8QPGim8gwqiyGa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD"
     },
     {
       "added_at": null,
@@ -747,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "In Christ",
-      "url": "https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Life Would Be Like",
         "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 258440,
       "name": "Revive Us Again",
       "url": "https://open.spotify.com/track/1gDz3147BMHrVz772aYTwn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "In Christ",
+      "url": "https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc"
     },
     {
       "added_at": null,

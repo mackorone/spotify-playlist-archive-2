@@ -1,6 +1,6 @@
 {
   "description": "\u00a1PUEEERTAAAAAAAAS! ",
-  "num_followers": 258190,
+  "num_followers": 258232,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Sin Piedras en el Camino",
-        "url": "https://open.spotify.com/album/06wXnFdsS18w3n24C1spcw"
-      },
-      "artists": [
-        {
-          "name": "Banda La Joya De Antequera",
-          "url": "https://open.spotify.com/artist/4ccI2lCNhsfm48C4Dcgfnt"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "El Colibr\u00ed",
-      "url": "https://open.spotify.com/track/2OhS3LM0iZnr55gpv78q8R"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 151291,
       "name": "Chilito Piqu\u00edn",
       "url": "https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Sin Piedras en el Camino",
+        "url": "https://open.spotify.com/album/06wXnFdsS18w3n24C1spcw"
+      },
+      "artists": [
+        {
+          "name": "Banda La Joya De Antequera",
+          "url": "https://open.spotify.com/artist/4ccI2lCNhsfm48C4Dcgfnt"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "El Colibr\u00ed",
+      "url": "https://open.spotify.com/track/2OhS3LM0iZnr55gpv78q8R"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Los \u00danicos del Huapango Michoacano",
-        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
-      },
-      "artists": [
-        {
-          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
-          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Lucesita",
-      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
         "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 183177,
       "name": "Recuerdos a Hern\u00e1n",
       "url": "https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Los \u00danicos del Huapango Michoacano",
+        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
+      },
+      "artists": [
+        {
+          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
+          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
+        }
+      ],
+      "duration_ms": 148375,
+      "name": "Lucesita",
+      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Nuevos Rumbos - La Herencia del Rey (En Vivo)",
-        "url": "https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Cruz De La Candelaria",
-          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
-        }
-      ],
-      "duration_ms": 274038,
-      "name": "El Jaripeo el Jaripeo / La Iguana / Ofelia - En Vivo",
-      "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 119560,
       "name": "El Gusto",
       "url": "https://open.spotify.com/track/0g4J2Kw7nnXJqzGhac1tPG"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Nuevos Rumbos - La Herencia del Rey (En Vivo)",
+        "url": "https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Cruz De La Candelaria",
+          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
+        }
+      ],
+      "duration_ms": 274038,
+      "name": "El Jaripeo el Jaripeo / La Iguana / Ofelia - En Vivo",
+      "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
     },
     {
       "added_at": "2025-09-01 20:36:31",

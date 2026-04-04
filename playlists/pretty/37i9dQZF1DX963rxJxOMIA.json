@@ -1,48 +1,36 @@
 {
-  "description": "Fino y elegante, como Aria Vega. ",
-  "num_followers": 221175,
+  "description": "Fino y elegante, como Kris R, Westcol y Ovy On The Drums.",
+  "num_followers": 221189,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKsRROinK4TOEuVqFxfjkzD1ts9o",
+  "snapshot_id": "AAAAAHrzrIk9ilUYzi5nE0K8d08awByQ",
   "tracks": [
     {
-      "added_at": "2026-03-06 04:59:28",
+      "added_at": "2026-03-26 18:21:05",
       "album": {
-        "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
-        "url": "https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50"
+        "name": "Pico Y Chao (W Sound 08)",
+        "url": "https://open.spotify.com/album/1Iq7XMp1PGJEczCOcnDKHJ"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 189223,
-      "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
-      "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
-    },
-    {
-      "added_at": "2026-03-27 04:59:29",
-      "album": {
-        "name": "Pal Agua",
-        "url": "https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
         },
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 206296,
-      "name": "Pal Agua",
-      "url": "https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0"
+      "duration_ms": 202803,
+      "name": "Pico Y Chao (W Sound 08)",
+      "url": "https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS"
     },
     {
       "added_at": "2026-03-26 18:21:05",
@@ -85,28 +73,20 @@
       "url": "https://open.spotify.com/track/3fhrXxnWnFiKShE8RNUWwU"
     },
     {
-      "added_at": "2026-03-26 18:21:05",
+      "added_at": "2026-04-03 04:59:15",
       "album": {
-        "name": "Pico Y Chao (W Sound 08)",
-        "url": "https://open.spotify.com/album/1Iq7XMp1PGJEczCOcnDKHJ"
+        "name": "LUXURY",
+        "url": "https://open.spotify.com/album/71eu7HW0xiX1CsPOjfTkfk"
       },
       "artists": [
         {
-          "name": "W Sound",
-          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
         }
       ],
-      "duration_ms": 202803,
-      "name": "Pico Y Chao (W Sound 08)",
-      "url": "https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS"
+      "duration_ms": 166896,
+      "name": "LUXURY",
+      "url": "https://open.spotify.com/track/0Ss0QjKvNnuPDR5popsXcP"
     },
     {
       "added_at": "2026-03-26 18:21:05",
@@ -127,6 +107,42 @@
       "duration_ms": 180000,
       "name": "RIKA",
       "url": "https://open.spotify.com/track/7iyPqbBpTxb1Ayfyat4M7g"
+    },
+    {
+      "added_at": "2026-03-27 04:59:29",
+      "album": {
+        "name": "Pal Agua",
+        "url": "https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 206296,
+      "name": "Pal Agua",
+      "url": "https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0"
+    },
+    {
+      "added_at": "2026-03-06 04:59:28",
+      "album": {
+        "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
+        "url": "https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 189223,
+      "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
+      "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
     },
     {
       "added_at": "2026-03-26 18:21:05",
@@ -731,26 +747,6 @@
     {
       "added_at": "2026-03-26 18:21:05",
       "album": {
-        "name": "mi refe",
-        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 159404,
-      "name": "mi refe",
-      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
-    },
-    {
-      "added_at": "2026-03-26 18:21:05",
-      "album": {
         "name": "SE ME OLVIDA",
         "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
       },
@@ -963,26 +959,6 @@
     {
       "added_at": "2026-03-26 18:21:05",
       "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 170365,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
-    },
-    {
-      "added_at": "2026-03-26 18:21:05",
-      "album": {
         "name": "DEPORTIVO",
         "url": "https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs"
       },
@@ -1119,26 +1095,6 @@
     {
       "added_at": "2026-03-26 18:21:05",
       "album": {
-        "name": "Solcito",
-        "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Solcito",
-      "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
-    },
-    {
-      "added_at": "2026-03-26 18:21:05",
-      "album": {
         "name": "Te Pintaron Pajaritos",
         "url": "https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E"
       },
@@ -1155,26 +1111,6 @@
       "duration_ms": 172558,
       "name": "Te Pintaron Pajaritos",
       "url": "https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4"
-    },
-    {
-      "added_at": "2026-03-26 18:21:05",
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 188887,
-      "name": "Hasta Aqu\u00ed Llegu\u00e9",
-      "url": "https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP"
     },
     {
       "added_at": "2026-03-26 18:21:05",

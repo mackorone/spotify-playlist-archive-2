@@ -1,6 +1,6 @@
 {
   "description": "Sortez les pantalons pattes d\u2018eph et les chemises en satin !",
-  "num_followers": 141268,
+  "num_followers": 141271,
   "original_name": "Disco Club",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Born to Be Alive (The Original)",
-        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
-      },
-      "artists": [
-        {
-          "name": "Patrick Hernandez",
-          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Born to Be Alive - The Original",
-      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "Ring My Bell",
         "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 491933,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Born to Be Alive (The Original)",
+        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hernandez",
+          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Born to Be Alive - The Original",
+      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "A Taste Of Honey",
-        "url": "https://open.spotify.com/album/2WDP1yNTx3cBR9LBE4Ribh"
-      },
-      "artists": [
-        {
-          "name": "A Taste Of Honey",
-          "url": "https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl"
-        }
-      ],
-      "duration_ms": 338133,
-      "name": "Boogie Oogie Oogie - Single Version 2 / Remastered 1999",
-      "url": "https://open.spotify.com/track/0y0QpmcF1G3F79rjk3fjUx"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "Searching to Find the One",
         "url": "https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 413573,
       "name": "I Hear Music in the Streets - Fran\u00e7ois Kevorkian Mix",
       "url": "https://open.spotify.com/track/5HgE5eXfu0An2moseSM635"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "A Taste Of Honey",
+        "url": "https://open.spotify.com/album/2WDP1yNTx3cBR9LBE4Ribh"
+      },
+      "artists": [
+        {
+          "name": "A Taste Of Honey",
+          "url": "https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl"
+        }
+      ],
+      "duration_ms": 338133,
+      "name": "Boogie Oogie Oogie - Single Version 2 / Remastered 1999",
+      "url": "https://open.spotify.com/track/0y0QpmcF1G3F79rjk3fjUx"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Wordy Rappinghood",
-        "url": "https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3"
-      },
-      "artists": [
-        {
-          "name": "Tom Tom Club",
-          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
-        }
-      ],
-      "duration_ms": 335000,
-      "name": "Genius Of Love",
-      "url": "https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "Something For The Weekend",
         "url": "https://open.spotify.com/album/4dnOon8AzLu1CyBUjXErI5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 437626,
       "name": "Do What You Wanna Do",
       "url": "https://open.spotify.com/track/4ADW3HBraqvlFcxRlcRyoK"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Wordy Rappinghood",
+        "url": "https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "duration_ms": 335000,
+      "name": "Genius Of Love",
+      "url": "https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ"
     },
     {
       "added_at": "2025-08-29 16:41:35",

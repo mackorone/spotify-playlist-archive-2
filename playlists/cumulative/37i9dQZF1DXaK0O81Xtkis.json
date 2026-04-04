@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Moody Joody",
+  "description": "a little indie, a little pop, soda featuring Presley Regier",
   "name": "soda",
   "tracks": [
     {
@@ -3749,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "Buy Me A Car",
+        "url": "https://open.spotify.com/album/2ypIqNDlVf9Ukfxt7guIxI"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209841,
+      "name": "Buy Me A Car",
+      "url": "https://open.spotify.com/track/0F4FEE1cOzkp8tysmHfidR"
+    },
+    {
+      "album": {
         "name": "Bittersweet 16",
         "url": "https://open.spotify.com/album/5NrdpIaUiVzSp9dfPxMPO5"
       },
@@ -6200,6 +6218,24 @@
       "duration_ms": 158647,
       "name": "Dangerous Game",
       "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
+    },
+    {
+      "album": {
+        "name": "Daredevil",
+        "url": "https://open.spotify.com/album/1GgeRqhrpX8WUXMOZx16Gr"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Daredevil",
+      "url": "https://open.spotify.com/track/2cvuYoAarEwjOoNcTVOFxJ"
     },
     {
       "album": {
@@ -9317,6 +9353,24 @@
     },
     {
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5MO6DsF9EtUMjOZuD9uVs5"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207338,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/7BItTSeYIe9XNP9Z7b92m9"
+    },
+    {
+      "album": {
         "name": "Getting Better",
         "url": "https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz"
       },
@@ -11734,7 +11788,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 174744,
       "name": "Hug Yourself",
       "url": "https://open.spotify.com/track/0wxptU4oakoC1OfPWcqgDc"
@@ -13130,7 +13184,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 205789,
       "name": "If I Was With You",
       "url": "https://open.spotify.com/track/5M19tUtR2VwhBNS3whND8m"
@@ -18798,7 +18852,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195209,
       "name": "Out Of The Dark",
       "url": "https://open.spotify.com/track/2o2toLWSPdp0HNTSbFbUBP"
@@ -21648,6 +21702,24 @@
       "duration_ms": 164213,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
+    },
+    {
+      "album": {
+        "name": "signs of life",
+        "url": "https://open.spotify.com/album/6CRgFmHNtmk7JIcvMeGASm"
+      },
+      "artists": [
+        {
+          "name": "Harvey Brittain",
+          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175696,
+      "name": "signs of life",
+      "url": "https://open.spotify.com/track/64NpFHuR72lUmwegiIxRjj"
     },
     {
       "album": {
@@ -25874,7 +25946,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 140952,
       "name": "Tracy",
       "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
@@ -27191,6 +27263,24 @@
     },
     {
       "album": {
+        "name": "westside",
+        "url": "https://open.spotify.com/album/6AJNR5UT0Cf3xF1q1FaIsc"
+      },
+      "artists": [
+        {
+          "name": "sindr",
+          "url": "https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "westside",
+      "url": "https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj"
+    },
+    {
+      "album": {
         "name": "What Am I Missing?",
         "url": "https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg"
       },
@@ -28154,7 +28244,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 169974,
       "name": "Writing's On The Wall",
       "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"

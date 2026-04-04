@@ -4,7 +4,7 @@
 
 > 🍾
 
-277 songs - 15 hr 46 min
+278 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [L'intranquillité](https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [L'intranquillité](https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ) | 4:20 | 2025-04-10 |  |
 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 | 2022-12-08 | 2023-09-23 |
 | [La grenade](https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:14 | 2022-12-08 | 2023-01-05 |
-| [La2](https://open.spotify.com/track/2jGgMQVMd5k1r3T7zr6J2F) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [La2](https://open.spotify.com/album/19BZpYYCzIumql4eLapP7V) | 2:37 | 2025-12-18 |  |
+| [La2](https://open.spotify.com/track/2jGgMQVMd5k1r3T7zr6J2F) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [La2](https://open.spotify.com/album/19BZpYYCzIumql4eLapP7V) | 2:37 | 2025-12-18 | 2026-04-04 |
 | [Le sud](https://open.spotify.com/track/2vMGqqKHCtb6bizCVXb1IR) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Le sud](https://open.spotify.com/album/4VHOG1STEduIRSNw6oj0n2) | 3:11 | 2022-12-08 | 2023-09-23 |
 | [Le temps est bon](https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:23 | 2023-01-04 | 2024-02-10 |
 | [Le temps est bon](https://open.spotify.com/track/4WBDVbKHiNHmFpPLuBHYdu) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/06wUYwI8FuobA5RoDopEOF) | 3:30 | 2022-12-08 | 2023-01-28 |
@@ -169,6 +169,7 @@
 | [Morning Light \(feat\. Andreya Triana\)](https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Dancing While Falling](https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng) | 3:31 | 2023-12-01 | 2025-01-17 |
 | [Move Me](https://open.spotify.com/track/7hLvlEgz9LoAuWcIoxxVCm) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Move Me](https://open.spotify.com/album/5xDEpaaXahmBHthMV414GK) | 3:59 | 2022-12-08 | 2023-09-23 |
 | [Mr\. Plastic](https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Mr\. Plastic](https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ) | 2:11 | 2025-09-11 |  |
+| [My Temptations](https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [My Temptations](https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU) | 3:11 | 2026-04-03 |  |
 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 | 2022-12-08 | 2023-09-23 |
 | [Nanaman](https://open.spotify.com/track/60x9cVQ3agMY2tNtzisgVK) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Nanaman](https://open.spotify.com/album/4ytEbWBXLTrrgfu9plJhr8) | 3:11 | 2025-08-14 | 2025-09-19 |
 | [Never Forget You](https://open.spotify.com/track/3xxmjMvJsSR3L7mUOxP9QA) | [Noisettes](https://open.spotify.com/artist/6oX4tx055oEFYM3ahDTyOD) | [Wild Young Hearts](https://open.spotify.com/album/0xobW2Yg1TBQ53ybxYAlyA) | 3:12 | 2022-12-08 | 2023-09-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 25521,
+  "num_followers": 25527,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-03-25 17:12:30",
       "album": {
+        "name": "MORIAGE",
+        "url": "https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Young Vision",
+          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
+        }
+      ],
+      "duration_ms": 250588,
+      "name": "MORIAGE",
+      "url": "https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1"
+    },
+    {
+      "added_at": "2026-03-25 17:12:30",
+      "album": {
         "name": "KAWASAKI (with Felip & th\u1ee7y)",
         "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 130666,
       "name": "KAWASAKI (with Felip & th\u1ee7y)",
       "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
-    },
-    {
-      "added_at": "2026-03-25 17:12:30",
-      "album": {
-        "name": "MORIAGE",
-        "url": "https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Young Vision",
-          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
-        }
-      ],
-      "duration_ms": 250588,
-      "name": "MORIAGE",
-      "url": "https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1"
     },
     {
       "added_at": "2026-03-25 17:12:30",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-03-25 17:12:30",
       "album": {
-        "name": "KAWASAKI (with Big Sean)",
-        "url": "https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H"
-      },
-      "artists": [
-        {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 126935,
-      "name": "KAWASAKI (with Big Sean)",
-      "url": "https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5"
-    },
-    {
-      "added_at": "2026-03-25 17:12:30",
-      "album": {
         "name": "\u6fc0\u30a2\u30c4",
         "url": "https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 241089,
       "name": "\u30d8\u30d3\u30fc (feat. DADA & Watson)",
       "url": "https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK"
+    },
+    {
+      "added_at": "2026-03-25 17:12:30",
+      "album": {
+        "name": "KAWASAKI (with Big Sean)",
+        "url": "https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 126935,
+      "name": "KAWASAKI (with Big Sean)",
+      "url": "https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5"
     },
     {
       "added_at": "2026-03-25 17:12:30",

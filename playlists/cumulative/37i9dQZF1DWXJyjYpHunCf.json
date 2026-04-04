@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Noah Kahan",
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: STELLA LEFTY",
   "name": "Folk Pop",
   "tracks": [
     {
@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "album": {
         "name": "Sean McConnell",
         "url": "https://open.spotify.com/album/2tyu30t35j4LpB5GNLrsFG"
       },
@@ -2414,6 +2432,24 @@
       "duration_ms": 172086,
       "name": "Doppelg\u00e4nger",
       "url": "https://open.spotify.com/track/1q9jh0Ov1tk9aaxFVaYzkC"
+    },
+    {
+      "album": {
+        "name": "down the line",
+        "url": "https://open.spotify.com/album/5BAV9sBLtbtw6Dj9yZJxc8"
+      },
+      "artists": [
+        {
+          "name": "Jake Marsh",
+          "url": "https://open.spotify.com/artist/5K6IfB5Ntc1cPrLY1WE9Ao"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176600,
+      "name": "down the line",
+      "url": "https://open.spotify.com/track/0zoYQ34bq09BhbkidNy2hA"
     },
     {
       "album": {
@@ -4221,6 +4257,24 @@
     },
     {
       "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/3WBn304BBr459QVLs7rdnD"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192627,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/2VXMJvygwZzJsNPfFdxDN6"
+    },
+    {
+      "album": {
         "name": "Homesick (with Sam Fender)",
         "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
@@ -5227,6 +5281,24 @@
     },
     {
       "album": {
+        "name": "Kingdom of Fear",
+        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161075,
+      "name": "Kingdom of Fear",
+      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+    },
+    {
+      "album": {
         "name": "Klonopin",
         "url": "https://open.spotify.com/album/1Dtuh9lt1CozWmuCS1iF5r"
       },
@@ -5900,7 +5972,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 157200,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
@@ -7034,7 +7106,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 254230,
       "name": "rain",
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
@@ -7818,7 +7890,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 176519,
       "name": "Sleepwalking (feat. Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/24BsZ8lMbzHz1C2QjuP6Pd"
@@ -9792,7 +9864,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 191768,
       "name": "Weight",
       "url": "https://open.spotify.com/track/3li8bYr29vc2Md6QvKrmra"

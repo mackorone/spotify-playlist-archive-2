@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,795 likes - 105 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,813 likes - 105 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 20 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [SpotLite Nation](https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 |
 | 21 | [Melody](https://open.spotify.com/track/2vVlG7FMaL2TYLW4k7DMEO) | [Chinedu Ndubueze](https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Melody](https://open.spotify.com/album/70HYqjOCDRy4wAiWiPpGQy) | 3:49 |
 | 22 | [God Dey 2](https://open.spotify.com/track/4vsztLGXcb6rntiTMqT0J7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Gospel Force](https://open.spotify.com/artist/00M1UkoSlitGAaMN2ng5kh) | [God Dey 2](https://open.spotify.com/album/5DLvmyPdGCBK9MSTEm0yTR) | 7:12 |
-| 23 | [Track 9](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 0:00 |
+| 23 | [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 |
 | 24 | [Jugular Jugular](https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Jugular Jugular](https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn) | 4:35 |
 | 25 | [With My Name](https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [With My Name](https://open.spotify.com/album/5TjR8fM9WlOCcikQzHQXCB) | 3:41 |
 | 26 | [looking for You](https://open.spotify.com/track/2pwzpvKhbiz67yu6QZpVXJ) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [looking for You](https://open.spotify.com/album/09JJYTEAPsuiG15YXBUXGL) | 2:33 |

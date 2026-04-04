@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAA6+h2yIn0B8zlTwCX9vnyx",
+  "snapshot_id": "ac2xgAAAAAAV638EymWvxAWB7mgi9SjH",
   "tracks": [
     {
       "added_at": null,
@@ -374,11 +374,15 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 250480,
-      "name": "Hizuki",
-      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+      "duration_ms": 212520,
+      "name": "Perfect Divide",
+      "url": "https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv"
     },
     {
       "added_at": null,
@@ -450,15 +454,11 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 212520,
-      "name": "Perfect Divide",
-      "url": "https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv"
+      "duration_ms": 250480,
+      "name": "Hizuki",
+      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
     },
     {
       "added_at": null,
@@ -715,30 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BARE SUGAR",
-        "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        },
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 164045,
-      "name": "july (feat. Tiana Major9 & Venna)",
-      "url": "https://open.spotify.com/track/2eRYY2aDP2VOWwL6bIcakY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 181935,
       "name": "Perfect Peace",
       "url": "https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BARE SUGAR",
+        "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        },
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 164045,
+      "name": "july (feat. Tiana Major9 & Venna)",
+      "url": "https://open.spotify.com/track/2eRYY2aDP2VOWwL6bIcakY"
     },
     {
       "added_at": null,

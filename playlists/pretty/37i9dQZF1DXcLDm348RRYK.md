@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,156 likes - 72 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,113 likes - 72 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 68 | [Star of the Country Down](https://open.spotify.com/track/2UbPd0NRDK4C0GydEDIQfk) | [Pat Kirtley](https://open.spotify.com/artist/4wQGu2sZibDxvZIPxEOCr3) | [Ramble to Cashel](https://open.spotify.com/album/14ouePxlOLsGjeptH8lIBC) | 3:21 |
 | 69 | [Movement I \- Awakening](https://open.spotify.com/track/63y9PsKjVQWxvx4yZ4QMdL) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [The Lamaj Movement](https://open.spotify.com/album/6zFlPueRXz2QG5HnfFvem1) | 3:55 |
 | 70 | [Altalenanze](https://open.spotify.com/track/5UpCLtzvTE8uNbDzTVSAnc) | [Stefano Barone](https://open.spotify.com/artist/3SkmDmTvx0USL6SaL8uDs6) | [Danze Altalenanze](https://open.spotify.com/album/60pGj9J2Z0vjn2d9kzZzsW) | 3:54 |
-| 71 | [Rylynn](https://open.spotify.com/track/5hN8B7iH9FsMgZFkyJtVcC) | [Don Ross](https://open.spotify.com/artist/3NQRIqPwnKZJ4KLKGSkl2Y), [Andy McKee](https://open.spotify.com/artist/0X73orYGQwzjF9lSYSE3Aj) | [The Thing That Came From Somewhere](https://open.spotify.com/album/4xrdRzR1WRxZjtLGxR1Pt0) | 5:54 |
+| 71 | [Rylynn](https://open.spotify.com/track/5hN8B7iH9FsMgZFkyJtVcC) | [Don Ross](https://open.spotify.com/artist/3NQRIqPwnKZJ4KLKGSkl2Y), [Andy McKee](https://open.spotify.com/artist/59T0qdTmDGZ1g0slfSbPfy) | [The Thing That Came From Somewhere](https://open.spotify.com/album/4xrdRzR1WRxZjtLGxR1Pt0) | 5:54 |
 | 72 | [Blinded by Sunshine](https://open.spotify.com/track/2LdMVnYJrvDL2HGajCDzXa) | [Casper Esmann](https://open.spotify.com/artist/6HAdDbfnR8PXoiGqU5cJeD) | [Blinded by Sunshine](https://open.spotify.com/album/6fZrrNfreBmXblDjliOTB1) | 3:00 |
 
 Snapshot ID: `AAAAAPg/4GI3RsapSP/DvhUQF9K2Fd8r`

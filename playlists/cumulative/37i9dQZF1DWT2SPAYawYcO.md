@@ -4,10 +4,11 @@
 
 > Brand new music from Ravyn Lenae, Dominic Fike, FISHER, Tones And I, The Temper Trap, Sam Barber + more
 
-12,442 songs - 28 day 5 hr 24 min
+12,445 songs - 28 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["Nobody" Land](https://open.spotify.com/track/6MRQPKK0fuRNzCKwnZF6nZ) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [LOL : SLUTTY BASS](https://open.spotify.com/album/4kADGUOhhfRSKoGdEH28ob) | 3:41 | 2026-04-02 |  |
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-27 | 2023-11-03 |
 | [\#RICHAXXHAITIAN](https://open.spotify.com/track/5Jl0mQEHMn82Ed0SBuEdu8) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [\#RICHAXXHAITIAN](https://open.spotify.com/album/1ieee5ixJ8UZUyVAlPk6QQ) | 2:47 | 2024-05-09 | 2024-05-17 |
 | [$$$$](https://open.spotify.com/track/2qpaF08CjieNZtUU4DmfTi) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [$$$$](https://open.spotify.com/album/0JcZZ5rceNRasPUJA3Zyvv) | 2:30 | 2023-07-27 | 2023-08-04 |
@@ -5151,6 +5152,7 @@
 | [Hypnotize](https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Hypnotize EP](https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu) | 2:33 | 2024-05-09 | 2024-05-17 |
 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-01-22 | 2026-01-30 |
 | [Hypnotized](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 | 2025-01-09 | 2025-01-17 |
+| [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 | 2026-04-02 |  |
 | [Hysterical](https://open.spotify.com/track/5g4vssDDnSjf4EnhLkMyrm) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Hysterical](https://open.spotify.com/album/5CkEBTUYgoIT9aJCba5liK) | 3:30 | 2025-04-10 | 2025-04-18 |
 | [I <3 YOU](https://open.spotify.com/track/7DNTmEFMARpxeSFY82wZiw) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER](https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU) | 3:36 | 2025-06-05 | 2025-06-13 |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-17 | 2025-04-25 |
@@ -5709,6 +5711,7 @@
 | [It's All Over You](https://open.spotify.com/track/7hw3AFHSYdOFtVdplMWaIl) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Chasing Nirvana](https://open.spotify.com/album/6508WBT3t0ON8b5KBQL37m) | 2:56 | 2023-11-09 | 2023-11-17 |
 | [It's Already Done](https://open.spotify.com/track/1VJkzEQkPT3NqKlUQ0kSUR) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [It's Already Done](https://open.spotify.com/album/6hy67KXd4wqgspfnzmXa93) | 2:51 | 2025-04-11 | 2025-04-18 |
 | [it's alright](https://open.spotify.com/track/2vjfEviD9tg3vHcVxeqzEs) | [Brooke x Starce](https://open.spotify.com/artist/1Td0BYkjml67dZzC42d6wC) | [it's alright](https://open.spotify.com/album/3ZpbekpZyqcC1XRwg2OtB8) | 2:50 | 2025-01-09 | 2025-01-17 |
+| [It's Alright](https://open.spotify.com/track/2jytVzmZdqPLy6wKgMMTfT) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Pre: Prema](https://open.spotify.com/album/1aslkAwn7kQ4HC9EkHTfaH) | 3:22 | 2026-04-02 |  |
 | [IT'S ALRIGHT](https://open.spotify.com/track/0LKAbdXTieXQrjuImr9B9u) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [IT'S ALRIGHT](https://open.spotify.com/album/3NiRKK6MNFyeUWzGz57oXq) | 2:20 | 2023-11-16 | 2023-11-24 |
 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-02-20 | 2025-02-28 |
 | [IT'S FINE/SOJU ON THE MOON](https://open.spotify.com/track/25kixQ6iLsK5kCj12YC0wm) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [SUNDER](https://open.spotify.com/album/5tR8MekrszJ4Z99OsQaLo5) | 2:44 | 2025-05-08 | 2025-05-16 |
@@ -10090,6 +10093,7 @@
 | [Still Sweet](https://open.spotify.com/track/4kR1H437UieRbDAcz2s8IP) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [Still Sweet](https://open.spotify.com/album/3BSPrmpXFlCu3OoLSK7Ue8) | 3:01 | 2025-07-24 | 2025-08-01 |
 | [Still The Same](https://open.spotify.com/track/3MIo7ob9Rg1XqVeRiHAQp2) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Still The Same](https://open.spotify.com/album/2aobNbBUhYIm9TB98BH2Yv) | 3:24 | 2025-02-27 | 2025-03-07 |
 | [Still The Same](https://open.spotify.com/track/1ALggh912tizrjndhRLY63) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Still The Same](https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4) | 3:14 | 2024-09-19 | 2024-09-27 |
+| [Still Virgil](https://open.spotify.com/track/4YXtodBrujUCJJlP2rjk3k) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Still Virgil](https://open.spotify.com/album/1j0XqfL2CKaMI073ATSBRw) | 2:27 | 2026-04-02 |  |
 | [Still Want U](https://open.spotify.com/track/6v5UIyYs09xGRHNtYuB3zJ) | [Ivana Ilic](https://open.spotify.com/artist/0HzMAe7Vj2QMQ3IhDmvImO) | [Still Want U](https://open.spotify.com/album/78c4cl3XA1J0YWbiI45M8b) | 3:54 | 2023-12-14 | 2023-12-22 |
 | [Still Young](https://open.spotify.com/track/7fezOJX0vwzGYoUvdbBVLn) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Still Young](https://open.spotify.com/album/6rrFkvxymdBSoeJZsYfLcg) | 3:11 | 2025-01-02 | 2025-01-10 |
 | [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 | 2024-02-29 | 2024-03-08 |
@@ -11256,7 +11260,6 @@
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-23 | 2023-06-30 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-07-31 | 2025-08-08 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-05-24 |
-| [Track 13](https://open.spotify.com/track/6MRQPKK0fuRNzCKwnZF6nZ) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [LOL : SLUTTY BASS](https://open.spotify.com/album/4kADGUOhhfRSKoGdEH28ob) | 0:00 | 2026-04-02 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-20 |
 | [TRAFFIC](https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TRAFFIC](https://open.spotify.com/album/76FsZpoyeFy6sH4nccj2HL) | 4:00 | 2026-01-29 | 2026-02-06 |

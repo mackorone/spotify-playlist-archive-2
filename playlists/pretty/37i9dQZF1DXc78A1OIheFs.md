@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,343 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,341 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 33 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
 | 34 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
 | 35 | [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 |
-| 36 | [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 |
-| 37 | [State of Mind](https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 5:37 |
+| 36 | [State of Mind](https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 5:37 |
+| 37 | [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 |
 | 38 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
 | 39 | [Light Up](https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Sean Rii](https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k) | [Light Up](https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6) | 2:52 |
 | 40 | [DEATH COMES FROM THE SKY](https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [CURSE](https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41) | 2:28 |
 | 41 | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt) | 2:32 |
-| 42 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
-| 43 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 |
+| 42 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 |
+| 43 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
 | 44 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 |
 | 45 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 |
 | 46 | [Letting Love Die](https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g) | [Heidi Simpson](https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9) | [Letting Love Die](https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG) | 2:59 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 59 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
 | 60 | [pinky girl](https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky girl](https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR) | 3:54 |
 | 61 | [Chantilly](https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Chantilly](https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1) | 3:33 |
-| 62 | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k) | [A.R.T](https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU) | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf) | 2:36 |
-| 63 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
-| 64 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 |
-| 65 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 |
-| 66 | [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 |
+| 62 | [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 |
+| 63 | [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 |
+| 64 | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k) | [A.R.T](https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU) | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf) | 2:36 |
+| 65 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
+| 66 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 |
 | 67 | [Didn't Change A Thing](https://open.spotify.com/track/2OgPwHAA08O8gPkX2S6ujL) | [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [Didn't Change A Thing](https://open.spotify.com/album/7q6gFymoUw39CUBeDQJTkr) | 2:44 |
-| 68 | [Ghost in Your Bed](https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Ghost in Your Bed](https://open.spotify.com/album/4hCnWA3vA8bpwHzNcC4u7J) | 2:48 |
-| 69 | [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 |
+| 68 | [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 |
+| 69 | [Ghost in Your Bed](https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Ghost in Your Bed](https://open.spotify.com/album/4hCnWA3vA8bpwHzNcC4u7J) | 2:48 |
 | 70 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 |
 | 71 | [Holding Your Hand](https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Holding Your Hand](https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ) | 2:32 |
 | 72 | [Older](https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE](https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9) | 2:56 |
 | 73 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 |
 | 74 | [I Want More](https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH) | [I Want More](https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD) | 2:57 |
-| 75 | [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 |
+| 75 | [Problem](https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Problem](https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD) | 3:58 |
 
-Snapshot ID: `AAAAAIXQtGSbtKWrkmq5z7rpcoyYYx3P`
+Snapshot ID: `AAAAAFmz7YU1BDj7TXVNbZd2/sQIbl+C`

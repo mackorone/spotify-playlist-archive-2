@@ -122,7 +122,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 237426,
       "name": "A Smile With Scars",
       "url": "https://open.spotify.com/track/13kE6kjKyOjLhW0QxFtnaL"
@@ -3502,7 +3502,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 324155,
       "name": "Kumeleli",
       "url": "https://open.spotify.com/track/5KSuwgDnzR9t7ld4cFMgyb"
@@ -3644,7 +3644,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 189853,
       "name": "LET ME BE",
       "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
@@ -6637,6 +6637,24 @@
     },
     {
       "album": {
+        "name": "Souvenir d'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5PQ4lJmSFC4Y1fatHMnkKE"
+      },
+      "artists": [
+        {
+          "name": "Tom Kha",
+          "url": "https://open.spotify.com/artist/7Jx4jOIIdp8GeoR2sA32fY"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132660,
+      "name": "Souvenir d'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/1hUGh06fIOnMnx8iAa1AtX"
+    },
+    {
+      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/4IDityJPrbAPBQe53fb90X"
       },
@@ -7383,6 +7401,24 @@
     },
     {
       "album": {
+        "name": "The Sun Comes Up Tremendous",
+        "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213284,
+      "name": "The Sun Comes Up Tremendous",
+      "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
+    },
+    {
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/6eryNpfVWsLGm36OeISOaY"
       },
@@ -7562,6 +7598,28 @@
       "duration_ms": 293773,
       "name": "Tropical Kiss",
       "url": "https://open.spotify.com/track/78waP1PSbA0QPX7GIfD8AE"
+    },
+    {
+      "album": {
+        "name": "TROUBLE MAKER",
+        "url": "https://open.spotify.com/album/2GW1CABDRKm27GqySqL51c"
+      },
+      "artists": [
+        {
+          "name": "Nathan Daisy",
+          "url": "https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf"
+        },
+        {
+          "name": "Taras Bazeev",
+          "url": "https://open.spotify.com/artist/3tUuyM5RyjpHXGOJ2w83xA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185808,
+      "name": "TROUBLE MAKER",
+      "url": "https://open.spotify.com/track/2za0rJlyOtqKjYEsZcDUnC"
     },
     {
       "album": {

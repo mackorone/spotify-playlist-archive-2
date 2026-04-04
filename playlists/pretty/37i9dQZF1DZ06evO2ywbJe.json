@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 7753,
+  "num_followers": 7771,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAADf0i+5fo1PgohsHd3pfgCW",
+  "snapshot_id": "ac2xgAAAAADG8yE8wVEeYyqZh8UtToOP",
   "tracks": [
     {
       "added_at": null,
@@ -490,15 +490,11 @@
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         }
       ],
-      "duration_ms": 214187,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/5VNKIfEcwpb6zcU28V0GNP"
+      "duration_ms": 165063,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P"
     },
     {
       "added_at": null,
@@ -543,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Son of a Widow",
-        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
       },
@@ -579,6 +555,26 @@
       "duration_ms": 223531,
       "name": "Killin Dem (feat. Zlatan)",
       "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Son of a Widow",
+        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 148375,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
     },
     {
       "added_at": null,
@@ -739,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killin Dem",
-        "url": "https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220884,
-      "name": "Killin Dem",
-      "url": "https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -775,6 +751,26 @@
       "duration_ms": 173333,
       "name": "BAD TILL ETERNITY (feat. Zlatan)",
       "url": "https://open.spotify.com/track/6vGIf9ajywvcQzIdQVGnwG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killin Dem",
+        "url": "https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220884,
+      "name": "Killin Dem",
+      "url": "https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk"
     },
     {
       "added_at": null,

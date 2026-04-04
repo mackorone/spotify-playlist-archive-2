@@ -9107,6 +9107,24 @@
     },
     {
       "album": {
+        "name": "peau \u00e9b\u00e8ne",
+        "url": "https://open.spotify.com/album/1RJaNVtJRJVWKd45EfxVSS"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "peau \u00e9b\u00e8ne",
+      "url": "https://open.spotify.com/track/3bAgxrPb4XB8gKtto2TNdY"
+    },
+    {
+      "album": {
         "name": "Perdu dans tes jeux",
         "url": "https://open.spotify.com/album/7G6465SbMJGkaKe7xYDT3I"
       },

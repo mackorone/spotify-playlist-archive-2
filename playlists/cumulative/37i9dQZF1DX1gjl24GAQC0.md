@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: 원필 \(WONPIL\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-842 songs - 1 day 21 hr 36 min
+843 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [DDARA](https://open.spotify.com/track/5ZGWNNcE2q3v8phEw0ZWci) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [DDARA](https://open.spotify.com/album/7vYhvCOcaB9udeX2oK5QMX) | 3:45 | 2022-03-22 | 2022-04-19 |
 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-08 | 2024-07-23 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-03 |  |
+| [DESPERADO](https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd) | [T.O.P](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [TOP SPOT \- ANOTHER DIMENSION](https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE) | 3:04 | 2026-04-03 |  |
 | [Devil](https://open.spotify.com/track/2jkZgKoNK8dKxs7FGb9c42) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6) | 3:36 | 2022-03-31 | 2022-04-03 |
 | [Dive](https://open.spotify.com/track/1QRgdZiZAj2EfRMLBVu9af) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [i DECIDE](https://open.spotify.com/album/0wOlHVp82SZuQisxdigqkP) | 3:10 | 2021-12-08 | 2022-06-16 |
 | [Do 4 Me](https://open.spotify.com/track/3T8rgnYVr3k4KxtEeP0H2o) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [2nd EP Album ‘Bipolar Pt.2 Prelude of Love’](https://open.spotify.com/album/2OndukzviEZGXIZuZ2c6CL) | 3:19 | 2022-03-22 | 2022-07-23 |
@@ -616,7 +617,7 @@
 | [Rock Steady](https://open.spotify.com/track/5vUJ7PG0aY89m04btGQPih) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [YOUNI\-T](https://open.spotify.com/album/6rTNYVHdejHf1dAdtvMr9t) | 3:15 | 2025-04-24 | 2025-05-16 |
 | [ROCK THANG](https://open.spotify.com/track/19Rqlm7wniVmb2XejSVlE9) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [Kick\-START](https://open.spotify.com/album/3mL42aTQDuu8MxM4gkdzvy) | 3:02 | 2024-04-24 | 2024-05-10 |
 | [ROCK THE NATION](https://open.spotify.com/track/5eUqyBKFdnSDjaljStvIbC) | [WHIB](https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb) | [ROCK THE NATION](https://open.spotify.com/album/2TjwZqt5ndVe6sQTNrS6bF) | 2:34 | 2026-02-01 | 2026-02-10 |
-| [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-08 |  |
+| [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-08 | 2026-04-04 |
 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 | 2023-04-30 | 2023-05-10 |
 | [ROOMBADOOMBA](https://open.spotify.com/track/41bu1PGsfhCY8G2RCGJwwb) | [DAILY:DIRECTION](https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7) | [FIRST:DELIVERY](https://open.spotify.com/album/5CxAYLAw5dgSZLmCqOmoS6) | 2:28 | 2026-02-23 | 2026-03-05 |
 | [ROSES](https://open.spotify.com/track/6u0b2IZ23RxH18ZsvGRbme) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ROSES](https://open.spotify.com/album/3bIZ5FREocfX2tLIUnnOdr) | 2:21 | 2026-01-23 | 2026-02-05 |

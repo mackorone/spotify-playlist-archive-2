@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-562 songs - 1 day 3 hr 53 min
+563 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Hvor mange ganger må jeg make it?](https://open.spotify.com/track/0TMzSem4dRj3oSTK5FpHwR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw) | [Hvor mange ganger må jeg make it?](https://open.spotify.com/album/1hZ9QwOWUVj0grPwCd4IWs) | 2:44 | 2026-01-08 |  |
 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-01-22 |  |
 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 | 2025-05-12 | 2025-05-23 |
+| [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 | 2026-04-02 |  |
 | [HÆ?](https://open.spotify.com/track/2q5ndRxFsCsDMUY0MjbXAZ) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [HÆ?](https://open.spotify.com/album/1Sbtt9rQIOdwNT2RxvstDp) | 2:32 | 2025-10-16 |  |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-17 | 2025-11-28 |
 | [I Could Miss You Forever](https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [I Could Miss You Forever](https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx) | 3:37 | 2025-12-11 |  |

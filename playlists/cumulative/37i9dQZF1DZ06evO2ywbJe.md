@@ -4,7 +4,7 @@
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 40 min
+73 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 | 2025-07-12 |  |
 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 | 2025-07-12 |  |
 | [Demons](https://open.spotify.com/track/1o40BKnO6xqV1ul2YUOWeF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Demons](https://open.spotify.com/album/0YJON4FqskJ7Zp5W5Xaug0) | 3:34 | 2025-10-05 | 2025-10-19 |
-| [Demons](https://open.spotify.com/track/5VNKIfEcwpb6zcU28V0GNP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:34 | 2025-10-19 |  |
+| [Demons](https://open.spotify.com/track/5VNKIfEcwpb6zcU28V0GNP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:34 | 2025-10-19 | 2026-04-04 |
 | [DREAMS II](https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [DREAMS II](https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo) | 3:57 | 2025-07-12 |  |
 | [El Sucio Guapo](https://open.spotify.com/track/4q81vRYZVQnL818YhWghzn) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 3:47 | 2025-10-12 | 2026-02-01 |
 | [Elon Musk \(Remix\)](https://open.spotify.com/track/2AARxK7bhm2PNL08d0FHto) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Elon Musk \(Remix\)](https://open.spotify.com/album/5payO4dC3cuMZryiZ5pFdd) | 3:24 | 2025-07-12 |  |
@@ -47,6 +47,7 @@
 | [Guide](https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Guide](https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q) | 2:07 | 2026-03-07 |  |
 | [Hallelu](https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Hallelu](https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM) | 3:33 | 2025-07-12 |  |
 | [Happy Day](https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Happy Day](https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz) | 2:45 | 2025-07-12 | 2025-10-27 |
+| [Happy Day](https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:45 | 2026-04-04 |  |
 | [Hip Hop Messiah](https://open.spotify.com/track/3TOmsQ0PrHgM6WMYKpj0nO) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:19 | 2025-10-19 |  |
 | [Hustle](https://open.spotify.com/track/5IMibq46O9uX2m0wog6eus) | [Leczy](https://open.spotify.com/artist/58mxed076t8Hn7mAdxtLzT), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [THE GENESIS](https://open.spotify.com/album/17yWmoY733ymMQm4zhmicN) | 2:26 | 2025-07-12 | 2025-07-13 |
 | [IDK \(feat\. Zlatan\)](https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:00 | 2025-07-12 |  |

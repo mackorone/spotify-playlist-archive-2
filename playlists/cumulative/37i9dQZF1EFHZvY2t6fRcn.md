@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-205 songs - 11 hr 9 min
+207 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,10 +205,12 @@
 | [WHEN THE NIGHT ENDS](https://open.spotify.com/track/7GXr0fdO5T1Jkn8VeAP08Z) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [SAVIOR](https://open.spotify.com/album/2afZJyF23lPcludJxSR8Tg) | 3:10 | 2025-08-05 |  |
 | [WHEREVER YOU ARE](https://open.spotify.com/track/56UFnN1OLTcOiH1hjquSZe) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 3:45 | 2023-12-13 | 2026-01-30 |
 | [WHEREVER YOU ARE](https://open.spotify.com/track/6hZ7ijGtCywQGARDHKKAFB) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/6RGawt7sBZg1mMrb9nZEdE) | 3:45 | 2026-01-29 |  |
+| [Wife Pleaser](https://open.spotify.com/track/6ycr3zIBS4GUFl6hDC83K4) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Wife Pleaser](https://open.spotify.com/album/0BdKOEmcTTPKq5XGI01hep) | 2:52 | 2026-04-03 |  |
 | [Wine & Dine](https://open.spotify.com/track/1Wr9QgovQwIrdRleNJb3on) | [Safa Gaw](https://open.spotify.com/artist/2P5nu6GCjVReV48szUvmE1) | [Wine & Dine](https://open.spotify.com/album/4qWUEL2Fdje8N6C9MEb8NO) | 2:25 | 2024-08-09 |  |
 | [Wish You Well](https://open.spotify.com/track/6uPEY1yrE8gu9Rdcs07Ngv) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Anti Romantica](https://open.spotify.com/album/0eKLypqjx8bQQyVeTRBAa9) | 2:28 | 2024-10-06 |  |
 | [World We Created](https://open.spotify.com/track/330XRmK286D8DTBlhtuZn5) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/6A4gPuP784SSVFz0Hwiom3) | 3:13 | 2023-02-04 | 2023-02-22 |
 | [World We Created](https://open.spotify.com/track/51Ful1v7b81FchIFFTAQ05) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:13 | 2021-12-27 |  |
+| [You Make Me \(feat\. George Riley\)](https://open.spotify.com/track/6bfd0BhPt55eSmeBMK3GfB) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 3:56 | 2026-04-03 |  |
 | [You Must Be Crazy Too](https://open.spotify.com/track/3m204CzQHq1rftQgi4mPgC) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/0wlHdQIQOfVMzD83Lvpjkj) | 2:25 | 2025-11-09 |  |
 | [You Must Be Crazy Too](https://open.spotify.com/track/5Sy3BynuE4fKlxoIh2rCmd) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:25 | 2024-06-08 | 2025-11-10 |
 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 | 2023-12-13 |  |

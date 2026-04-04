@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🥃
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,838 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,827 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 39 | [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 |
 | 40 | [Baxter \(these are my friends\)](https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O) | [Baxter \(these are my friends\)](https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz) | 4:04 |
 | 41 | [Eple](https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Melody A.M.](https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0) | 3:38 |
-| 42 | [Roches blanches](https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj) | [Mizmo](https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV) | [Roches blanches](https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d) | 2:36 |
+| 42 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
 | 43 | [Ubuhle \(feat\. Bukeka\)](https://open.spotify.com/track/63xAXgMQNh3RSG1wV1VS51) | [Whitney Mkok](https://open.spotify.com/artist/5U2I7kRpTglDqTHy5Uehmu), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV) | [Ubuhle \(feat\. Bukeka\)](https://open.spotify.com/album/4U7ETvlOj3fohJiJdkffey) | 4:46 |
-| 44 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
+| 44 | [Roches blanches](https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj) | [Mizmo](https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV) | [Roches blanches](https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d) | 2:36 |
 | 45 | [Falling for You](https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Falling for You](https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA) | 3:10 |
 | 46 | [First Light Falling](https://open.spotify.com/track/0ZocjCzNp403Gmy6pEkuD9) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [First Light Falling](https://open.spotify.com/album/2PaB13NTijH8mj8Z9U1jt9) | 2:52 |
 | 47 | [Várias Queixas \- Radio Edit](https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Várias Queixas \(Radio Edit\)](https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz) | 2:35 |
 | 48 | [Bloom](https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH) | [Lazare](https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd) | [Bloom](https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo) | 2:30 |
 | 49 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
-| 50 | [Medicine](https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Medicine](https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO) | 2:34 |
-| 51 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 |
+| 50 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 |
+| 51 | [Medicine](https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Medicine](https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO) | 2:34 |
 | 52 | [Il Sogno \- House Mix](https://open.spotify.com/track/4dR5z9BXbCWYeicagTa93o) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatronic](https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7) | 2:41 |
 | 53 | [Instant Need](https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Time for a Change](https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb) | 4:30 |
 | 54 | [Rah That's A Mad Question](https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Rah That's A Mad Question](https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI) | 3:47 |

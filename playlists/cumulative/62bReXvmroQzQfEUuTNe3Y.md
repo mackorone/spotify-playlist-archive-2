@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-561 songs - 1 day 6 hr 52 min
+562 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Our Love](https://open.spotify.com/track/7wRzG4NhH6Vb6HvGkjM07I) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Our Love](https://open.spotify.com/album/19x0llDICOhN8uxi7kOHLF) | 3:29 | 2020-12-05 | 2023-12-14 |
 | [Out of Body](https://open.spotify.com/track/5K9YMRGK7E9oaTpiQYor5F) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [le moon](https://open.spotify.com/artist/7pAX1Z7RQzZzTzKJFFgBhU), [soleil](https://open.spotify.com/artist/7ETxY27poBqP3kbCYJEXlN) | [Out of Body](https://open.spotify.com/album/2cHkRV7WUHzsVr6b7NKV3f) | 2:25 | 2022-09-09 | 2023-04-01 |
 | [Out of My Head](https://open.spotify.com/track/1e0V7CMEcXaPAMtL4b5VtV) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [Out of My Head](https://open.spotify.com/album/6yj3YyNMLt3fEKRcsVr31Z) | 2:42 | 2021-08-06 | 2022-08-06 |
+| [Out of Reach](https://open.spotify.com/track/3IWxVPHeBIZgrPuLIa0Avy) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [Dreams](https://open.spotify.com/album/62fcNzdsDoMhmzkv4vtlId) | 2:39 | 2026-04-03 |  |
 | [Out Of Time](https://open.spotify.com/track/51cgJEFd8FPzkUZeXyV1rp) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Out Of Time](https://open.spotify.com/album/1iJBdf1kJWRMDewaQG5CbV) | 3:47 | 2022-12-02 | 2023-02-04 |
 | [Outta Time](https://open.spotify.com/track/17K2RsIj5xRgVsUlZurwB3) | [Julian Collet](https://open.spotify.com/artist/7cJOqT5WeCAwIbL8NKtWkC), [Jakob Oschmann](https://open.spotify.com/artist/7x81rTKIpNGOeTNaUBDLvJ) | [Outta Time](https://open.spotify.com/album/3RHmRUm9MZ7Cwg0QTGVJrr) | 5:27 | 2021-03-06 | 2021-06-12 |
 | [Over My Shoulder](https://open.spotify.com/track/0PZMLgwtacSHiNwAkH2A9B) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Over My Shoulder](https://open.spotify.com/album/5i4kFt6MXHt2O5PLpIluHd) | 2:40 | 2022-03-10 | 2025-10-25 |

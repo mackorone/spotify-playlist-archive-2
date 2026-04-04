@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "BABYRECORDS.",
+        "url": "https://open.spotify.com/album/5oYfMTdeFQLcBk4mh5cONj"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149345,
+      "name": "BABYRECORDS.",
+      "url": "https://open.spotify.com/track/7adWxffOcMRKBcRgOyX5vw"
+    },
+    {
+      "album": {
         "name": "Cosmo",
         "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
       },
@@ -5822,7 +5840,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 192600,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/5YoITs1m0q8UOQ4AW7N5ga"
@@ -11585,6 +11603,24 @@
     },
     {
       "album": {
+        "name": "Presidente",
+        "url": "https://open.spotify.com/album/2p0M9l7nmqo4fBhhUdlK8z"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150783,
+      "name": "Presidente",
+      "url": "https://open.spotify.com/track/379EbsgApFcHYHvv6vrKgD"
+    },
+    {
+      "album": {
         "name": "PRIMER AVISO",
         "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
       },
@@ -14334,7 +14370,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 160000,
       "name": "Texteando",
       "url": "https://open.spotify.com/track/3rKpnMQ8ko9X116yIj5V9S"

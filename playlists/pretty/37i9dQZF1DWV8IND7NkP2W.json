@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 529194,
+  "num_followers": 529189,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
         "name": "meraki / cosmogyral",
         "url": "https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 148125,
       "name": "meraki",
       "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1067,8 +1067,8 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Entering the Golden Gai",
-        "url": "https://open.spotify.com/album/79ZWhnZpiCFpL85460vemv"
+        "name": "Ch\u014dchin",
+        "url": "https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn"
       },
       "artists": [
         {
@@ -1076,13 +1076,13 @@
           "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
         },
         {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+          "name": "Loafy Building",
+          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
         }
       ],
-      "duration_ms": 178536,
-      "name": "Entering the Golden Gai",
-      "url": "https://open.spotify.com/track/4XgqM3v3F5O88zY9LW0eDl"
+      "duration_ms": 185676,
+      "name": "Ch\u014dchin",
+      "url": "https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "MAR",
-        "url": "https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 169894,
-      "name": "MAR",
-      "url": "https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
         "name": "Peach Fizz",
         "url": "https://open.spotify.com/album/4jQWHVwLAdYE9kUib4sThc"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 155250,
       "name": "Peach Fizz",
       "url": "https://open.spotify.com/track/4KCqWbH9Oa8Rj5z0CBTaYM"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
+        "name": "MAR",
+        "url": "https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 169894,
+      "name": "MAR",
+      "url": "https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Ch\u014dchin",
-        "url": "https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn"
+        "name": "Entering the Golden Gai",
+        "url": "https://open.spotify.com/album/79ZWhnZpiCFpL85460vemv"
       },
       "artists": [
         {
@@ -1160,13 +1160,13 @@
           "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
         },
         {
-          "name": "Loafy Building",
-          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
         }
       ],
-      "duration_ms": 185676,
-      "name": "Ch\u014dchin",
-      "url": "https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps"
+      "duration_ms": 178536,
+      "name": "Entering the Golden Gai",
+      "url": "https://open.spotify.com/track/4XgqM3v3F5O88zY9LW0eDl"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Gentle Pulse",
-        "url": "https://open.spotify.com/album/3ID1KnL5W5u4Q3y59oymBy"
-      },
-      "artists": [
-        {
-          "name": "KH",
-          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
-        }
-      ],
-      "duration_ms": 150484,
-      "name": "Gentle Pulse",
-      "url": "https://open.spotify.com/track/5dA2ncuY1kKpuqWBV6YuXG"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
         "name": "Leave Behind",
         "url": "https://open.spotify.com/album/5JEHpQDD5ytKRIwDLuSMY0"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 119082,
       "name": "Leave Behind",
       "url": "https://open.spotify.com/track/1BrETPp4kfh0cuYpTRfrk2"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
+        "name": "Gentle Pulse",
+        "url": "https://open.spotify.com/album/3ID1KnL5W5u4Q3y59oymBy"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+        }
+      ],
+      "duration_ms": 150484,
+      "name": "Gentle Pulse",
+      "url": "https://open.spotify.com/track/5dA2ncuY1kKpuqWBV6YuXG"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
-      },
-      "artists": [
-        {
-          "name": "DisHand",
-          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
-        },
-        {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
-        }
-      ],
-      "duration_ms": 123658,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
         "name": "Sublimation",
         "url": "https://open.spotify.com/album/4uwsRa5RZaw5Mib2Sgf9Al"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 168224,
       "name": "Points of light",
       "url": "https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
+      },
+      "artists": [
+        {
+          "name": "DisHand",
+          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
+        },
+        {
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+        }
+      ],
+      "duration_ms": 123658,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1519,22 +1519,18 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1Kh0ONnkKKM6gEFeuH2hHH"
+        "name": "Expanse",
+        "url": "https://open.spotify.com/album/7h0QT4XlpxL7pvmKjArHHa"
       },
       "artists": [
         {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
-        },
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/05HJO5WOraCXeBBwoeN8np"
+      "duration_ms": 182093,
+      "name": "Expanse",
+      "url": "https://open.spotify.com/track/4edUbFHJYBYqV5RYEAuEfG"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1555,18 +1551,38 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Expanse",
-        "url": "https://open.spotify.com/album/7h0QT4XlpxL7pvmKjArHHa"
+        "name": "Afternoon Sadness",
+        "url": "https://open.spotify.com/album/7Ggz41Az7k6v112r6HRHkU"
       },
       "artists": [
         {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Expanse",
-      "url": "https://open.spotify.com/track/4edUbFHJYBYqV5RYEAuEfG"
+      "duration_ms": 130533,
+      "name": "Afternoon Sadness",
+      "url": "https://open.spotify.com/track/5wSrtDbksTDsWaFyFvDIKL"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1Kh0ONnkKKM6gEFeuH2hHH"
+      },
+      "artists": [
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        },
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/05HJO5WOraCXeBBwoeN8np"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1583,38 +1599,6 @@
       "duration_ms": 201000,
       "name": "SICK",
       "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 199363,
-      "name": "Dance",
-      "url": "https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
-        "name": "Afternoon Sadness",
-        "url": "https://open.spotify.com/album/7Ggz41Az7k6v112r6HRHkU"
-      },
-      "artists": [
-        {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
-        }
-      ],
-      "duration_ms": 130533,
-      "name": "Afternoon Sadness",
-      "url": "https://open.spotify.com/track/5wSrtDbksTDsWaFyFvDIKL"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "\u85e4\u6ca2 2021",
-        "url": "https://open.spotify.com/album/07SvPzoAEe8PMZBMSbfhCV"
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq"
       },
       "artists": [
         {
-          "name": "Dengaryu",
-          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
         }
       ],
-      "duration_ms": 150000,
-      "name": "\u30aa\u30c0\u30a4\u30b8\u30f3",
-      "url": "https://open.spotify.com/track/2ivbGvD2opRsm9tGfubQ7E"
+      "duration_ms": 199363,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1671,6 +1655,22 @@
       "duration_ms": 170370,
       "name": "Oak",
       "url": "https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
+        "name": "\u85e4\u6ca2 2021",
+        "url": "https://open.spotify.com/album/07SvPzoAEe8PMZBMSbfhCV"
+      },
+      "artists": [
+        {
+          "name": "Dengaryu",
+          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "\u30aa\u30c0\u30a4\u30b8\u30f3",
+      "url": "https://open.spotify.com/track/2ivbGvD2opRsm9tGfubQ7E"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Awesome City",
-        "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
-      },
-      "artists": [
-        {
-          "name": "DJ FRIP a.k.a. BeatLab",
-          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Awesome City",
-      "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
         "name": "Cross the Bridge",
         "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 138913,
       "name": "Cross the Bridge",
       "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
+        "name": "Awesome City",
+        "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
+      },
+      "artists": [
+        {
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+        }
+      ],
+      "duration_ms": 160840,
+      "name": "Awesome City",
+      "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
     },
     {
       "added_at": "2026-03-25 16:39:20",

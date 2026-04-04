@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-612 songs - 2 day 2 hr 24 min
+613 songs - 2 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Earth Loop](https://open.spotify.com/track/2JSld8pCWOocc1SHrIzH2F) | [Florian T M Zeisig](https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv), [Cathal Berkeley](https://open.spotify.com/artist/4UsICmM9hJUe13eTyJ46qJ) | [A New Life](https://open.spotify.com/album/25GytFPwqK2zbCo5hMrs4l) | 1:44 | 2025-09-04 |  |
 | [Earthship](https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce) | [LAV](https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW), [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Earth and Beyond](https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR) | 9:56 | 2022-01-28 | 2025-01-18 |
 | [East Sea 동해 \- Original Mix](https://open.spotify.com/track/3s9V7qhZDffaiuLh211fPn) | [Inhmost](https://open.spotify.com/artist/1uWXjDzaMktZ4GukbKxX9O) | [Seven Moves Later](https://open.spotify.com/album/3UGCNJ6MqgimLaSVU9EOHC) | 7:50 | 2023-11-14 | 2025-04-12 |
+| [Ebb And Flow](https://open.spotify.com/track/40zauhSW2YyiCBoZvYhtg7) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Ebb And Flow](https://open.spotify.com/album/5hMxgKbuFVSUfvu3JL1aPq) | 4:00 | 2026-04-03 |  |
 | [Echoes](https://open.spotify.com/track/5ZWE6rRHqJEjhDVrzp7uYD) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Echoes](https://open.spotify.com/album/5Xx89ofB5B6buMboyWDleR) | 3:06 | 2026-02-20 |  |
 | [Elastica I](https://open.spotify.com/track/4EUEvuDcWv3gsllj7jCgZj) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Sentir Que No Sabes](https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l) | 1:59 | 2025-01-09 | 2025-04-26 |
 | [Elusive Nature](https://open.spotify.com/track/4Kaw3KyIaiG77duUjjmxHZ) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [The Wyrding Way](https://open.spotify.com/album/1NgfMA8jjeUpSZ7bZaINjm) | 3:12 | 2025-10-17 |  |
@@ -572,7 +573,7 @@
 | [Untitled 2](https://open.spotify.com/track/186loHqzmLS5hdB0ocZ84S) | [Pavel Milyakov](https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Pavel Milyakov & Bendik Giske](https://open.spotify.com/album/4r1Py7hk842cwcK8eZ8tEx) | 3:10 | 2022-07-15 | 2023-08-12 |
 | [Untitled 2](https://open.spotify.com/track/5n9ml1SgCn0CLLYoHr7RlI) | [Pavel Milyakov](https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Untitled 2](https://open.spotify.com/album/7to5FqMorIUPoGe1Dpla1G) | 3:10 | 2021-12-26 | 2022-07-28 |
 | [Valley Candle](https://open.spotify.com/track/4Hgz6gl0LnuNrLJI6QFELb) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [Patrick Shiroishi](https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2) | [Wants a Diamond Pivot Bright](https://open.spotify.com/album/2xs94fBaqCFtaf3zNmLvhC) | 2:57 | 2021-12-26 | 2023-08-12 |
-| [Valleys and Peaks](https://open.spotify.com/track/4C7OdKOOVSGEn2DXfa8N9r) | [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [My Heart, My Beloved](https://open.spotify.com/album/5P0MRVUbfhR3HhzMRy0tFa) | 4:22 | 2025-05-12 |  |
+| [Valleys and Peaks](https://open.spotify.com/track/4C7OdKOOVSGEn2DXfa8N9r) | [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU) | [My Heart, My Beloved](https://open.spotify.com/album/5P0MRVUbfhR3HhzMRy0tFa) | 4:22 | 2025-05-12 | 2026-04-04 |
 | [VCDB](https://open.spotify.com/track/1AyFY68bV6nIaO6E8Arcyp) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4) | [Undulations and Aberrations](https://open.spotify.com/album/6MX6ANSOwS8BTL6RtP7Ffg) | 6:53 | 2023-07-13 | 2025-10-11 |
 | [Vernal Fall](https://open.spotify.com/track/2HKX28kTIoBXpnjOJHhcst) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 3:43 | 2025-03-14 | 2025-05-13 |
 | [Vespera](https://open.spotify.com/track/4AaprdeMMgEgo2iIOQAztk) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Vespera](https://open.spotify.com/album/5J3DHxWVjqENguNOG5jsgj) | 6:01 | 2021-12-26 | 2023-08-12 |

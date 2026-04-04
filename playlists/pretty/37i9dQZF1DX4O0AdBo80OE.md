@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Suaaaaaaave 📸 Alemán
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,706 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,711 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 49 | [Grave](https://open.spotify.com/track/1eZRt5tq5JxhPiXykoAAA0) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [:\) EP](https://open.spotify.com/album/3t8S3ys8jKDpDSRaOM0hx7) | 3:54 |
 | 50 | [METALLICA](https://open.spotify.com/track/4XeqABCbUqyznqTgB8Ckzj) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [El Plugg 2](https://open.spotify.com/album/71zTvjTLSXaNb97Xitozwg) | 3:48 |
 
-Snapshot ID: `AAAAAApMzZuU9fS6t590N5KdGQnQWiEr`
+Snapshot ID: `AAAAACjeQodbb3PaXejZ7KDmfRwsK5Lh`

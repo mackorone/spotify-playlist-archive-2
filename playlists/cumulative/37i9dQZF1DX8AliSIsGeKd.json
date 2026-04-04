@@ -121219,24 +121219,6 @@
     },
     {
       "album": {
-        "name": "What Happens Then",
-        "url": "https://open.spotify.com/album/1GJkF1OqPvGLnF8CNAv7DU"
-      },
-      "artists": [
-        {
-          "name": "Dodi Palese",
-          "url": "https://open.spotify.com/artist/2JNZPGveOPu5gIw9o3V4pb"
-        }
-      ],
-      "date_added": "2026-04-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3vTAO1ih47eeLEeQnKwxKr"
-    },
-    {
-      "album": {
         "name": "Track Your Steps",
         "url": "https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ"
       },
@@ -129620,6 +129602,24 @@
       "duration_ms": 265500,
       "name": "What Do U Know - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/6LXtkmZS7XCKgGnKyJRIaV"
+    },
+    {
+      "album": {
+        "name": "What Happens Then",
+        "url": "https://open.spotify.com/album/1GJkF1OqPvGLnF8CNAv7DU"
+      },
+      "artists": [
+        {
+          "name": "Dodi Palese",
+          "url": "https://open.spotify.com/artist/2JNZPGveOPu5gIw9o3V4pb"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299756,
+      "name": "What Happens Then",
+      "url": "https://open.spotify.com/track/3vTAO1ih47eeLEeQnKwxKr"
     },
     {
       "album": {

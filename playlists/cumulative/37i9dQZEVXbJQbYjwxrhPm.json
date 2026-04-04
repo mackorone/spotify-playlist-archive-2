@@ -122,7 +122,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 246240,
       "name": "3 \u0412 1",
       "url": "https://open.spotify.com/track/0eMGY2LlWkgklI8WhHjR0y"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 167751,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ"
@@ -446,6 +446,32 @@
       "duration_ms": 148053,
       "name": "ALL RED",
       "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
+    },
+    {
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Andre Troutman",
+          "url": "https://open.spotify.com/artist/1EpaJyg2sMnPqKRsjjcG7R"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229152,
+      "name": "ALL THE LOVE (feat. Andre Troutman)",
+      "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
     },
     {
       "album": {
@@ -908,7 +934,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -1056,7 +1082,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 184354,
       "name": "Bez teb",
       "url": "https://open.spotify.com/track/3zZ1efLexshtTkHLRBbgDh"
@@ -1074,7 +1100,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 184354,
       "name": "Bez teb",
       "url": "https://open.spotify.com/track/3zlH4fylzmEq4QX6zjn3Ny"
@@ -2749,6 +2775,32 @@
     },
     {
       "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169330,
+      "name": "FATHER (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl (Track by Track Version)",
         "url": "https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm"
       },
@@ -3410,7 +3462,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 201573,
       "name": "Halkata",
       "url": "https://open.spotify.com/track/4D9xZqswwIE1WR0d8RpuTb"
@@ -3722,7 +3774,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -4450,7 +4502,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 199000,
       "name": "Kasay",
       "url": "https://open.spotify.com/track/7qGwlBQIbgpv8Mj54sgFIk"
@@ -4722,7 +4774,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 189746,
       "name": "Like Animals",
       "url": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP"
@@ -5258,7 +5310,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 229855,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU"
@@ -5674,7 +5726,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 213913,
       "name": "Ne me zasluzhavash",
       "url": "https://open.spotify.com/track/4apCbBmGlsVy3VM2EeN2t6"
@@ -5696,7 +5748,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 213913,
       "name": "Ne me zasluzhavash",
       "url": "https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O"
@@ -5910,7 +5962,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -5946,7 +5998,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 220016,
       "name": "Notarialno zaveren",
       "url": "https://open.spotify.com/track/7tJCzGC2zIWUYm4gQ3oaqi"
@@ -6058,7 +6110,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 167589,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
@@ -6164,7 +6216,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 204923,
       "name": "OPA OPA",
       "url": "https://open.spotify.com/track/7Lnx7UuA0rf3o8G0VtZzP5"
@@ -7206,7 +7258,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 252893,
       "name": "S men da varvish",
       "url": "https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt"
@@ -9309,6 +9361,24 @@
     },
     {
       "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
+    },
+    {
+      "album": {
         "name": "Which One",
         "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
       },
@@ -9732,7 +9802,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 184186,
       "name": "\u0411\u0435\u0437 \u043a\u043e\u0437",
       "url": "https://open.spotify.com/track/2mFSFpS0LqeTMfuD6X8KVo"
@@ -9922,7 +9992,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 190632,
       "name": "\u0412\u0441\u0435 \u043f\u043e \u0436\u0438\u0432\u043e\u0442\u0430",
       "url": "https://open.spotify.com/track/0S708VDmTF0V7y6HIfPVNq"
@@ -11106,7 +11176,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 224571,
       "name": "\u041c\u0430\u043d\u0438\u0430\u043a",
       "url": "https://open.spotify.com/track/4kbhl4YnKVwN0ElFNm3TdW"
@@ -11186,7 +11256,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 175813,
       "name": "\u041c\u0438\u0441\u043b\u0438 \u043c\u0443",
       "url": "https://open.spotify.com/track/2Exu33bEQ8U2ZSCwLXJ2I5"
@@ -11490,7 +11560,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 211427,
       "name": "\u041d\u044f\u043c\u0430 \u0434\u0430 \u0441\u0435 \u0434\u0430\u043c",
       "url": "https://open.spotify.com/track/54hppWwHq3YvBsrIGxvemX"
@@ -11658,6 +11728,24 @@
       "duration_ms": 213333,
       "name": "\u041e\u0445\u0440\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/6PkOUoY60U1LoXu231uz3D"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0430-\u041f\u0430-\u041f\u0430",
+        "url": "https://open.spotify.com/album/1AbFcZyfjpnkvhlis41DwY"
+      },
+      "artists": [
+        {
+          "name": "Sasha SANDRA",
+          "url": "https://open.spotify.com/artist/1W5trZX8YL2XnhQHGGOxyG"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176926,
+      "name": "\u041f\u0430-\u041f\u0430-\u041f\u0430",
+      "url": "https://open.spotify.com/track/2ppKa7AjDeUDQp1DlArXQj"
     },
     {
       "album": {
@@ -12080,7 +12168,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 250884,
       "name": "\u0421 \u043c\u0435\u043d \u0434\u0430 \u0432\u044a\u0440\u0432\u0438\u0448",
       "url": "https://open.spotify.com/track/19nkJXLnVH1WtINrTZ2wl6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,754 likes - 60 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,804 likes - 60 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 3 | [New Blues](https://open.spotify.com/track/3QOaxOWCkhmkBFbUW2kKrK) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS), [Raphael Pannier](https://open.spotify.com/artist/7yrHz9SmURRYmWNkaZecl4), [Jean\-Yves Jung](https://open.spotify.com/artist/00kgpmXSQTGbYsgMbzQfqP), [William Brunard](https://open.spotify.com/artist/2CKHnbBFpiHF2Uw9Wu2rCy) | [Elegant People](https://open.spotify.com/album/40QTmaCuYt1qXgrrGY4WwZ) | 4:11 |
 | 4 | [Gloria](https://open.spotify.com/track/13aT9WTZ033VUF8HqObaRL) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [The Guesthouse](https://open.spotify.com/album/4uraylBy6aqbY4yJ3Co6wz) | 3:24 |
 | 5 | [Moon to Dry](https://open.spotify.com/track/7xac3WDBVnUnLbhiHZSMTC) | [Ben Flocks](https://open.spotify.com/artist/57Ce6izcYKvFOFlhsUFzLJ), [Jacksonport](https://open.spotify.com/artist/5WDHcjQUDXBkjoIL9qBkgL) | [Moon to Dry](https://open.spotify.com/album/6H004xz47ju5coUQUd8OdP) | 5:22 |
-| 6 | [Track 6](https://open.spotify.com/track/6jHtoIPI83lU0pZg4vPq3c) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [A Time For Love](https://open.spotify.com/album/3I6j3dwMH8rMlsydFzu6cv) | 0:00 |
+| 6 | [A Time For Love](https://open.spotify.com/track/6jHtoIPI83lU0pZg4vPq3c) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [A Time For Love](https://open.spotify.com/album/3I6j3dwMH8rMlsydFzu6cv) | 4:45 |
 | 7 | [Lookie](https://open.spotify.com/track/0FRGC4Qk2RlVVorFg1uUqP) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Lookie](https://open.spotify.com/album/04HsNmVtCaxxTACAV2lz9R) | 4:58 |
 | 8 | [Prisoner of Love](https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Prisoner of Love](https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF) | 2:23 |
 | 9 | [Wonderful Thing](https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Wonderful Thing](https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px) | 2:14 |

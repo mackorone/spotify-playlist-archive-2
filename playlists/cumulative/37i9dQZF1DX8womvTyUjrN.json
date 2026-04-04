@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 157000,
       "name": "(favorito)",
       "url": "https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 172903,
       "name": "BAJO CERO",
       "url": "https://open.spotify.com/track/4vM7jPhNtOKihPksD0nw3L"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 153176,
       "name": "BES4ME",
       "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
@@ -3894,7 +3894,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 207853,
       "name": "Cimarr\u00f3n",
       "url": "https://open.spotify.com/track/03E4111ppLF3qUQme0Sw70"
@@ -4998,7 +4998,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 153903,
       "name": "CUCARACHEO",
       "url": "https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW"
@@ -5056,6 +5056,28 @@
       "duration_ms": 142021,
       "name": "Cur\u00e1ndote",
       "url": "https://open.spotify.com/track/4AJlSjQppatiHS61OrZJd8"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/2MJO9Nz9hPXJrpGaP6RQm7"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161249,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM"
     },
     {
       "album": {
@@ -5172,6 +5194,24 @@
       "duration_ms": 144009,
       "name": "D Pic",
       "url": "https://open.spotify.com/track/6bbajYIBOhfzx6fppjqSZq"
+    },
+    {
+      "album": {
+        "name": "D U L C E",
+        "url": "https://open.spotify.com/album/6L9ASSKb4Y5vRmNTJqRfMV"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192195,
+      "name": "D U L C E",
+      "url": "https://open.spotify.com/track/5wJyNrj7pygsFIwqsO5jjX"
     },
     {
       "album": {
@@ -11209,6 +11249,24 @@
     },
     {
       "album": {
+        "name": "IDGAF ERA (posdata)",
+        "url": "https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161826,
+      "name": "Lo Bueno y Lo Malo",
+      "url": "https://open.spotify.com/track/1pOmmOjExecXVlLvg2iC6P"
+    },
+    {
+      "album": {
         "name": "Lo Contrario",
         "url": "https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8"
       },
@@ -13226,6 +13284,24 @@
       "duration_ms": 186373,
       "name": "mimos",
       "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Para Abrir El Cielo: Act 2",
+        "url": "https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147423,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB"
     },
     {
       "album": {

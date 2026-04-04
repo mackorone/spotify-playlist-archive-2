@@ -7379,6 +7379,24 @@
     },
     {
       "album": {
+        "name": "Legendary Jazz Classics: The Best Jazz Standards",
+        "url": "https://open.spotify.com/album/0mrF9Cvb4HN7CAodw8BGJN"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181298,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/50TrPjhNyoeGwDvkRkOrhp"
+    },
+    {
+      "album": {
         "name": "Pure Ella",
         "url": "https://open.spotify.com/album/1sVP1k1tw1hd95xkgiMj72"
       },
@@ -7426,7 +7444,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 187933,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/2BVHtqY3mMd66EGPv4YmwX"
@@ -11909,6 +11927,24 @@
     },
     {
       "album": {
+        "name": "Timeless Jazz Love Songs: 20 Romantic Classics",
+        "url": "https://open.spotify.com/album/2N1j8Gyo4OFT8cixTgjZLa"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118883,
+      "name": "What Is This Thing Called Love",
+      "url": "https://open.spotify.com/track/5nC6wIkhWrk5MN9BYQoYgc"
+    },
+    {
+      "album": {
         "name": "Ella Fitzgerald: Legendary Recordings",
         "url": "https://open.spotify.com/album/1erT2mWZvvl0Ntdf0j1f2a"
       },
@@ -11920,7 +11956,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 124693,
       "name": "What Is This Thing Called Love?",
       "url": "https://open.spotify.com/track/1cmmNoABXBOJEeZFiEZBxT"

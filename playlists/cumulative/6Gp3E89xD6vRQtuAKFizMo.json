@@ -529,6 +529,28 @@
     },
     {
       "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/6saCuLqCEpmNOHu2gWt0mt"
+      },
+      "artists": [
+        {
+          "name": "Antoine Delvig",
+          "url": "https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188816,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/5F3FnQzZNX2ZeKYDoCHaMl"
+    },
+    {
+      "album": {
         "name": "Back To Us",
         "url": "https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3"
       },
@@ -11026,6 +11048,28 @@
       "duration_ms": 163404,
       "name": "Villainy (feat. Gold & Mikey Rotten)",
       "url": "https://open.spotify.com/track/3279d3UVvnvJGhZOHj5Mtq"
+    },
+    {
+      "album": {
+        "name": "Viva Colima (feat. Laylattice)",
+        "url": "https://open.spotify.com/album/6RYyN2KUu6wWopkqV731Wp"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "laylattice",
+          "url": "https://open.spotify.com/artist/5KOFMADPvNFrtVID0uxMdU"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129230,
+      "name": "Viva Colima",
+      "url": "https://open.spotify.com/track/1q2nxGd0qoubvfBKZ4fbK6"
     },
     {
       "album": {

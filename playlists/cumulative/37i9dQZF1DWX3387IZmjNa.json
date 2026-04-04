@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Dave & Tems",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Gunna",
   "name": "B.A.E.",
   "tracks": [
     {
@@ -6320,7 +6320,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 207344,
       "name": "How Would U Feel",
       "url": "https://open.spotify.com/track/59LXSAmZEoeVrASeoAS63B"
@@ -6568,7 +6568,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 138918,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/7uS0IXnejH0uwSZbgYmgaJ"
@@ -14213,6 +14213,28 @@
     },
     {
       "album": {
+        "name": "TEACH YOU HOW TO LUH ME",
+        "url": "https://open.spotify.com/album/7DQF3OuLxkjvqDvzS1tBM5"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "TEACH YOU HOW TO LUH ME",
+      "url": "https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp"
+    },
+    {
+      "album": {
         "name": "Built Different (Deluxe)",
         "url": "https://open.spotify.com/album/1qOwMIpYZ6Cu0kcMxO3HHE"
       },
@@ -14982,6 +15004,28 @@
       "duration_ms": 184615,
       "name": "Trying - Remix",
       "url": "https://open.spotify.com/track/6wnxSlwXdqPD5nUyOIxyKu"
+    },
+    {
+      "album": {
+        "name": "Tuition Remix (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/1nWomZQimTLQBhDUfcg3WG"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Tuition Remix (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/65ljzAo3PFVv1VFArQbA1k"
     },
     {
       "album": {

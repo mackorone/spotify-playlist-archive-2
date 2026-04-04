@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 114212,
+  "num_followers": 114228,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "LA BELLAVITA",
-        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
+        "name": "Moulaga",
+        "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 176000,
-      "name": "SOGNO AMERICANO",
-      "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"
+      "duration_ms": 179868,
+      "name": "Moulaga",
+      "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -207,22 +211,18 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Moulaga",
-        "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
       },
       "artists": [
         {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 179868,
-      "name": "Moulaga",
-      "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
+      "duration_ms": 176000,
+      "name": "SOGNO AMERICANO",
+      "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "BIANCA (feat. Kid Yugi)",
-        "url": "https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0"
-      },
-      "artists": [
-        {
-          "name": "RRARI DAL TACCO",
-          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 160282,
-      "name": "BIANCA (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Mafia Slime 2",
         "url": "https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 183000,
       "name": "Wop Wop (feat. Shiva)",
       "url": "https://open.spotify.com/track/7LjhTVncMxoH9X6KMWECgq"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "BIANCA (feat. Kid Yugi)",
+        "url": "https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 160282,
+      "name": "BIANCA (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -671,30 +671,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
-      "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 148148,
       "name": "VRP",
       "url": "https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
+      "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Going Hard 3",
-        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Codeine (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Serio",
         "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 218769,
       "name": "Serio (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Codeine (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Club Dogo",
-        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 185041,
-      "name": "Milly (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "WAO",
         "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 149464,
       "name": "WAO",
       "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 185041,
+      "name": "Milly (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Going Hard 3",
-        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
       },
       "artists": [
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Tutti i giorni",
-      "url": "https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA"
+      "duration_ms": 157168,
+      "name": "Fino All'Alba",
+      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1263,6 +1267,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Tutti i giorni",
+      "url": "https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "I CAN FLY",
         "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 164705,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "Fino All'Alba",
-      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1315,30 +1315,6 @@
       "duration_ms": 176000,
       "name": "ON FIRE - paid in full",
       "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Anno Fantastico (feat. Shiva, Tony Boy)",
-      "url": "https://open.spotify.com/track/5PML6KBG7m6NVjpiYBLB8S"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1463,6 +1439,30 @@
       "duration_ms": 155133,
       "name": "Mollami Pt.2",
       "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Anno Fantastico (feat. Shiva, Tony Boy)",
+      "url": "https://open.spotify.com/track/5PML6KBG7m6NVjpiYBLB8S"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "Petit Fou Fou (feat. ANNA)",
         "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 113737,
       "name": "Petit Fou Fou (feat. ANNA)",
       "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1799,30 +1799,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "In Piazza",
-        "url": "https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Kermit",
-          "url": "https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK"
-        }
-      ],
-      "duration_ms": 183801,
-      "name": "In Piazza",
-      "url": "https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Non Lo So",
         "url": "https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa"
       },
@@ -1847,6 +1823,30 @@
       "duration_ms": 142718,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "In Piazza",
+        "url": "https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK"
+        }
+      ],
+      "duration_ms": 183801,
+      "name": "In Piazza",
+      "url": "https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw"
     },
     {
       "added_at": "2026-02-12 23:01:39",

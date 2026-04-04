@@ -1,6 +1,6 @@
 {
   "description": "Tremendo vacil\u00f3n. Los \u00e9xitos del merengue de todos los tiempos.",
-  "num_followers": 95271,
+  "num_followers": 95340,
   "original_name": "Radio Merengue",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-08-22 15:49:49",
       "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
-    },
-    {
-      "added_at": "2025-08-22 15:49:49",
-      "album": {
         "name": "Ilegales",
         "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 264160,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
+    },
+    {
+      "added_at": "2025-08-22 15:49:49",
+      "album": {
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
     },
     {
       "added_at": "2025-08-22 15:49:49",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-08-22 15:49:49",
       "album": {
-        "name": "El Hombre Merengue",
-        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
-      },
-      "artists": [
-        {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
-        }
-      ],
-      "duration_ms": 283866,
-      "name": "Cachamba",
-      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
-    },
-    {
-      "added_at": "2025-08-22 15:49:49",
-      "album": {
         "name": "La Orquesta Que Impone El Ritmo",
         "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 243840,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+    },
+    {
+      "added_at": "2025-08-22 15:49:49",
+      "album": {
+        "name": "El Hombre Merengue",
+        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
+      },
+      "artists": [
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        }
+      ],
+      "duration_ms": 283866,
+      "name": "Cachamba",
+      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
     },
     {
       "added_at": "2025-08-22 15:49:49",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-08-22 15:49:49",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9"
-      },
-      "artists": [
-        {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "El Baile del Sua Sua",
-      "url": "https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne"
-    },
-    {
-      "added_at": "2025-08-22 15:49:49",
-      "album": {
         "name": "Con Arena Nueva",
         "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 262133,
       "name": "Ella es Tan Bella",
       "url": "https://open.spotify.com/track/2dg5usl6OJasRbjvUHOlcF"
+    },
+    {
+      "added_at": "2025-08-22 15:49:49",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9"
+      },
+      "artists": [
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "El Baile del Sua Sua",
+      "url": "https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne"
     },
     {
       "added_at": "2025-08-22 15:49:49",

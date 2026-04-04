@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195862,
       "name": "Great American Bitch",
       "url": "https://open.spotify.com/track/2NaNUij0c1fBiFabH2LakC"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 210188,
       "name": "Home",
       "url": "https://open.spotify.com/track/3Y6TrexjQryeW8U9UN5kzn"
@@ -2580,6 +2580,32 @@
       "duration_ms": 333154,
       "name": "My Shot",
       "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
+    },
+    {
+      "album": {
+        "name": "Two Strangers (Carry A Cake Across New York) [Original Broadway Cast Recording]",
+        "url": "https://open.spotify.com/album/2VCk6ZJ6r08eBszCToxbxO"
+      },
+      "artists": [
+        {
+          "name": "Two Strangers (Carry A Cake Across New York)",
+          "url": "https://open.spotify.com/artist/0f35iPjkC8ECxz4szceGSN"
+        },
+        {
+          "name": "Sam Tutty",
+          "url": "https://open.spotify.com/artist/5xrGqeeyTEVVfBWj8hItfB"
+        },
+        {
+          "name": "Christiani Pitts",
+          "url": "https://open.spotify.com/artist/0mxLeFr2sWSejRUKBT3Oyd"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198659,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/2TxozelS2QOxZUKNFwCdIn"
     },
     {
       "album": {

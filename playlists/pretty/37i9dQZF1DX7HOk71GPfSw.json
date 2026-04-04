@@ -1,13 +1,29 @@
 {
-  "description": "This playlist features Dylan Brady, underscores, and more good hyperpop music",
-  "num_followers": 496767,
+  "description": "Tiffany Day.... you dropped this \ud83d\udc51",
+  "num_followers": 496888,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK/ONBK7wGCaG14bygJAfZbhrJDS",
+  "snapshot_id": "AAAAADDkTLmvSlKfKn7jEhhSxUXoTHn7",
   "tracks": [
+    {
+      "added_at": "2026-04-03 17:24:19",
+      "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "EVERYTHING I'VE EVER WANTED",
+      "url": "https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN"
+    },
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
@@ -23,86 +39,6 @@
       "duration_ms": 294857,
       "name": "Hollywood Forever",
       "url": "https://open.spotify.com/track/3TpzJRU45jUPloLx6LKWcj"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Needle Guy",
-        "url": "https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/0He9B1l2riXW9P1BvBJyxO"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "START OVER",
-        "url": "https://open.spotify.com/album/6JzeTEulNDFMqji6Jq6JY4"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 170381,
-      "name": "START OVER",
-      "url": "https://open.spotify.com/track/23iKYWszFScsU02y1HJb92"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "one4u",
-        "url": "https://open.spotify.com/album/7GzKdWFhCzGI7atbZglKuF"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 255428,
-      "name": "one4u",
-      "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Bad Love",
-        "url": "https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "nothing's ever enough",
-        "url": "https://open.spotify.com/album/0Gfx6x8T7g7MolfxEswtj3"
-      },
-      "artists": [
-        {
-          "name": "u.r.trax",
-          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "nothing's ever enough",
-      "url": "https://open.spotify.com/track/3xuhhCYvXbh6Wy1odwzk16"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -123,6 +59,90 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "one4u",
+        "url": "https://open.spotify.com/album/7GzKdWFhCzGI7atbZglKuF"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 255428,
+      "name": "one4u",
+      "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "nothing's ever enough",
+        "url": "https://open.spotify.com/album/0Gfx6x8T7g7MolfxEswtj3"
+      },
+      "artists": [
+        {
+          "name": "u.r.trax",
+          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "nothing's ever enough",
+      "url": "https://open.spotify.com/track/3xuhhCYvXbh6Wy1odwzk16"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Needle Guy",
+        "url": "https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/0He9B1l2riXW9P1BvBJyxO"
+    },
+    {
+      "added_at": "2026-04-03 17:24:19",
+      "album": {
+        "name": "magic",
+        "url": "https://open.spotify.com/album/7Hhd8WM9WqX0kxXMFqvZpS"
+      },
+      "artists": [
+        {
+          "name": "girl_irl",
+          "url": "https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "magic",
+      "url": "https://open.spotify.com/track/3AvL90uEQrYKH5WbuPyKGY"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
         "name": "Fake Denim / Shutting Up",
         "url": "https://open.spotify.com/album/0iZPJncmI2J0XZ6wUuxEaL"
       },
@@ -139,8 +159,8 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "SAME LA",
-        "url": "https://open.spotify.com/album/196LXZ6rQkJEwMrysIbSms"
+        "name": "START OVER",
+        "url": "https://open.spotify.com/album/6JzeTEulNDFMqji6Jq6JY4"
       },
       "artists": [
         {
@@ -148,9 +168,25 @@
           "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
         }
       ],
-      "duration_ms": 224661,
-      "name": "SAME LA",
-      "url": "https://open.spotify.com/track/6dycPSQglCA4tZEU2UdLf8"
+      "duration_ms": 170381,
+      "name": "START OVER",
+      "url": "https://open.spotify.com/track/23iKYWszFScsU02y1HJb92"
+    },
+    {
+      "added_at": "2026-04-03 17:24:19",
+      "album": {
+        "name": "Deja a tu novia",
+        "url": "https://open.spotify.com/album/2kdPU9e2uoss2FFxHLHYUV"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 117432,
+      "name": "Deja a tu novia",
+      "url": "https://open.spotify.com/track/5XX7ssVKWgbkgifbcAXPXY"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -219,6 +255,22 @@
       "duration_ms": 146351,
       "name": "Red Horse",
       "url": "https://open.spotify.com/track/7C36qjso9lFwADSdoOU0gj"
+    },
+    {
+      "added_at": "2026-04-03 17:24:19",
+      "album": {
+        "name": "LANDSLIDE",
+        "url": "https://open.spotify.com/album/4WzbZWDaq8rEshuzfxTtGn"
+      },
+      "artists": [
+        {
+          "name": "murdermart",
+          "url": "https://open.spotify.com/artist/29mB5AIM7WGd2tZLIuDmUi"
+        }
+      ],
+      "duration_ms": 158700,
+      "name": "LANDSLIDE",
+      "url": "https://open.spotify.com/track/6FKSlnhS5u3pzetulq9KXJ"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -295,6 +347,54 @@
       "duration_ms": 164636,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/1VvVql8oUrOLpZTw1X62sb"
+    },
+    {
+      "added_at": "2026-04-03 17:24:19",
+      "album": {
+        "name": "Discotek",
+        "url": "https://open.spotify.com/album/6Xam821id0yjnlZhzCsvgr"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        }
+      ],
+      "duration_ms": 184277,
+      "name": "Discotek",
+      "url": "https://open.spotify.com/track/3IlZ0mCuvYfYErPpnHwfuc"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "SAME LA",
+        "url": "https://open.spotify.com/album/196LXZ6rQkJEwMrysIbSms"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 224661,
+      "name": "SAME LA",
+      "url": "https://open.spotify.com/track/6dycPSQglCA4tZEU2UdLf8"
+    },
+    {
+      "added_at": "2026-04-03 17:24:19",
+      "album": {
+        "name": "let you go",
+        "url": "https://open.spotify.com/album/0Bc94zjMjJv16Fc4cy0ks1"
+      },
+      "artists": [
+        {
+          "name": "fyl",
+          "url": "https://open.spotify.com/artist/40VJ0ejUdeu8sKeW6cR38T"
+        }
+      ],
+      "duration_ms": 165790,
+      "name": "let you go",
+      "url": "https://open.spotify.com/track/7scbOLfXpWNXjuSzNecZ9K"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -443,6 +543,22 @@
       "duration_ms": 198400,
       "name": "4DS (feat. Nakamura Minami, echo & valknee)",
       "url": "https://open.spotify.com/track/5ehrxCzfQfZOuwLloI2um5"
+    },
+    {
+      "added_at": "2026-04-03 17:24:19",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5gTyaXE1ejkyunjflGWN2S"
+      },
+      "artists": [
+        {
+          "name": "Cold Court",
+          "url": "https://open.spotify.com/artist/0p2iWhKSNA2FX3ZaB0IoM0"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/5prgfIfsQG2azmWloIBiOr"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1015,22 +1131,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "slut for the dj",
-        "url": "https://open.spotify.com/album/4OwU91pl4OEW1k0hhYLM1K"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        }
-      ],
-      "duration_ms": 165117,
-      "name": "slut for the dj",
-      "url": "https://open.spotify.com/track/3TePjhnsBXPFpPZ7yqo0cl"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "Midnight Princess",
         "url": "https://open.spotify.com/album/1hNFYpGOf97vcwfBf0EE6y"
       },
@@ -1219,22 +1319,6 @@
       "duration_ms": 296834,
       "name": "2026",
       "url": "https://open.spotify.com/track/0H03dWs6Z1RkvDsbmmuDFl"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "SiiMP",
-        "url": "https://open.spotify.com/album/2lDZpLP9gatrBqPwM8wBMO"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 135103,
-      "name": "SiiMP",
-      "url": "https://open.spotify.com/track/67QBCvKf89W0L84beo3beo"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1623,38 +1707,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "K1",
-        "url": "https://open.spotify.com/album/6f7CThvZW0bwczICdR0yHV"
-      },
-      "artists": [
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        }
-      ],
-      "duration_ms": 188962,
-      "name": "Aired out",
-      "url": "https://open.spotify.com/track/2Tu8F5S1Y6UCRunCRkeLex"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "RX",
-        "url": "https://open.spotify.com/album/3VzjCNbQzgONho2DClsF3q"
-      },
-      "artists": [
-        {
-          "name": "Roxie",
-          "url": "https://open.spotify.com/artist/2XJkmabVTYtWUEBn2Rs2PH"
-        }
-      ],
-      "duration_ms": 109050,
-      "name": "throwin up blood",
-      "url": "https://open.spotify.com/track/3bLSPh1fLmyaOnJP0rsCeN"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "DAYCLUB",
         "url": "https://open.spotify.com/album/4RBGOO7pNVe76lC1ecS3hw"
       },
@@ -1755,22 +1807,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/57ejm8LV7fv2RwbFr30cLm"
-      },
-      "artists": [
-        {
-          "name": "heffy",
-          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
-        }
-      ],
-      "duration_ms": 171710,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0vSEPZquodg03rWxq18wUa"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "Again? Fuck.",
         "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
       },
@@ -1843,22 +1879,6 @@
       "duration_ms": 147316,
       "name": "1-800-FUCKOFF",
       "url": "https://open.spotify.com/track/3A5sIu67YXUs2vVqczLUEP"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "K1",
-        "url": "https://open.spotify.com/album/6f7CThvZW0bwczICdR0yHV"
-      },
-      "artists": [
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        }
-      ],
-      "duration_ms": 172544,
-      "name": "Don't be like mouse",
-      "url": "https://open.spotify.com/track/0aNdtLrUvMMSKZ2EqEFYJK"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -2175,22 +2195,6 @@
       "duration_ms": 208270,
       "name": "i don't feel the same",
       "url": "https://open.spotify.com/track/1vd6qhQmfy8rqWQxuMnla2"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "All I Wanna Do Is Party",
-        "url": "https://open.spotify.com/album/10R5dYwWPAFm8oXGqB3jUx"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 218354,
-      "name": "All I Wanna Do Is Party",
-      "url": "https://open.spotify.com/track/0SD1bXMTZ9t0Fsg5oYAi1n"
     },
     {
       "added_at": "2026-03-27 04:00:20",

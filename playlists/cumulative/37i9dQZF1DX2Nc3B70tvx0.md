@@ -2,9 +2,9 @@
 
 ### [Indie's Top 50](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> A delicious mix of new songs in high rotation\. Cover: James Blake
+> A delicious mix of new songs in high rotation\. Cover: Jungle
 
-3,066 songs - 7 day 17 hr 18 min
+3,069 songs - 7 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 | 2022-02-18 | 2022-04-09 |
 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2021-12-02 | 2022-04-21 |
 | [2much](https://open.spotify.com/track/0ShhMU4mTH4zvBnjmHuMmi) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [2much](https://open.spotify.com/album/3WCaort7R4Y798LmjsuLeL) | 3:58 | 2020-03-21 | 2020-10-13 |
-| [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-01-16 |  |
+| [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 | 2026-01-16 | 2026-04-04 |
 | [3 AM \- Toro Y Moi Remix](https://open.spotify.com/track/48NBnp8BYSX6FlVsl5Laa9) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [3am \(Toro Y Moi Remix\)](https://open.spotify.com/album/0a9PTaBkAKBni7c9J8o2rB) | 3:13 | 2020-12-22 | 2021-10-03 |
 | [33°](https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [33°](https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX) | 4:30 | 2025-02-07 | 2025-04-12 |
 | [37th](https://open.spotify.com/track/1Zw5s7JEokiF5OchgnRB0t) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:15 | 2022-11-25 | 2023-01-21 |
@@ -233,7 +233,7 @@
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-08-17 | 2022-09-01 |
 | [Atomic Vomit](https://open.spotify.com/track/3YBfHJTZPHn5DqgMnD6g5g) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:30 | 2020-12-22 | 2021-05-28 |
 | [Attaway](https://open.spotify.com/track/3HErXAS9DiVd8C9x6CJTYd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 4:00 | 2024-10-25 | 2025-01-16 |
-| [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 | 2025-10-03 |  |
+| [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 | 2025-10-03 | 2026-04-04 |
 | [AUATC](https://open.spotify.com/track/2X1PJ3l0wM4D42EiEdVh5W) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/22PYhoWaopcOplvKR6o5BA) | 2:22 | 2020-09-04 | 2021-03-22 |
 | [Aubade](https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:31 | 2021-11-10 | 2022-04-08 |
 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 | 2024-09-21 | 2024-10-19 |
@@ -256,6 +256,7 @@
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2022-01-14 | 2022-01-15 |
 | [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 | 2024-10-17 | 2025-01-16 |
 | [back again](https://open.spotify.com/track/320uyul8JpHgXnSRSLV9tP) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [back again](https://open.spotify.com/album/41KpLsxeDOANYaRenwCf6U) | 2:57 | 2025-02-28 | 2025-04-12 |
+| [Back in Love](https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Back in Love](https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce) | 3:14 | 2026-04-03 |  |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-01 | 2024-01-25 |
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-28 | 2023-09-13 |
 | [Back on the Fence](https://open.spotify.com/track/4l9ySYsdTRMiUZdNfI0iLR) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM), [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Back on the Fence](https://open.spotify.com/album/2GHFkUpqWavyXAVfy6xwLF) | 3:51 | 2020-12-22 | 2021-03-16 |
@@ -291,6 +292,7 @@
 | [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm) | 5:33 | 2026-02-20 |  |
 | [Beach House](https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Beach House](https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt) | 3:17 | 2024-05-24 | 2024-09-11 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-16 | 2024-10-11 |
+| [Beams](https://open.spotify.com/track/7AieCEz0Kpv2c8L63LXcWw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Beams](https://open.spotify.com/album/6Gjsdtw3nw3GV5IrwFmT4G) | 3:39 | 2026-04-03 |  |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-19 | 2024-02-23 |
 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 | 2025-11-14 | 2026-01-31 |
 | [Becoming All Alone](https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Becoming All Alone](https://open.spotify.com/album/4tJzSc9zVi8PVjS50Yrq9n) | 4:18 | 2022-03-03 | 2022-05-09 |
@@ -483,6 +485,7 @@
 | [Carpenter](https://open.spotify.com/track/51NHBYYoBLDqgp5COax2JC) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Carpenter](https://open.spotify.com/album/4xi4w7FjmZVR3UAvmotbAE) | 3:19 | 2023-01-20 | 2023-01-28 |
 | [Carried Away](https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:27 | 2025-05-09 | 2025-08-23 |
 | [Carry Me Away](https://open.spotify.com/track/2ua2zMl11JGJuLyzkhLTxP) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [24 Hr Sports](https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC) | 2:23 | 2025-09-12 | 2025-10-17 |
+| [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 | 2026-04-03 |  |
 | [Casio](https://open.spotify.com/track/33wUd3GgaRf2rux2aJ71yb) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/1VZxGX1lzF1QjY5QofhC5r) | 3:54 | 2019-05-26\* | 2019-08-13 |
 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 | 2021-09-15 | 2022-01-26 |
 | [Cassette Beat](https://open.spotify.com/track/3k473mHQJ3JQCjOzYYHbs6) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Cassette Beat / Human Nature](https://open.spotify.com/album/68RjIGSVioKjpvW1dRCNrG) | 4:00 | 2020-08-07 | 2021-03-06 |
@@ -542,7 +545,7 @@
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2021-01-30 | 2022-04-09 |
 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 | 2021-04-20 | 2021-10-16 |
 | [Clueless](https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Clueless](https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3) | 3:28 | 2024-10-04 | 2024-12-18 |
-| [Coast](https://open.spotify.com/track/51qSkFx8D2dyWERxGQ44My) | [Snocaps](https://open.spotify.com/artist/6kYyxNv4xNafn6AMAt6qTE), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Allison Crutchfield](https://open.spotify.com/artist/1zIiCQLbCV0la5eLdT0FIj) | [Snocaps](https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad) | 2:23 | 2025-10-31 |  |
+| [Coast](https://open.spotify.com/track/51qSkFx8D2dyWERxGQ44My) | [Snocaps](https://open.spotify.com/artist/6kYyxNv4xNafn6AMAt6qTE), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Allison Crutchfield](https://open.spotify.com/artist/1zIiCQLbCV0la5eLdT0FIj) | [Snocaps](https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad) | 2:23 | 2025-10-31 | 2026-04-04 |
 | [Coasting On Fumes](https://open.spotify.com/track/2ugm5xrknLV6xum8cN5zGb) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [What's For Breakfast?](https://open.spotify.com/album/5RajJfvtUHabxaMY0YCJp3) | 3:46 | 2024-02-16 | 2024-04-19 |
 | [Coasting On Fumes](https://open.spotify.com/track/77wuyG9tm96JXMRegiDf2j) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Coasting On Fumes](https://open.spotify.com/album/1qoYoRgVcg7bdx41TQjJ0z) | 3:46 | 2024-02-16 | 2024-05-18 |
 | [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 | 2025-09-26 | 2025-10-04 |

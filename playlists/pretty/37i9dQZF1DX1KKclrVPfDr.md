@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,577 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,578 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 29 | [Senurwa Singar Hokhela](https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET) | [Ankush Raja](https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu) | [Senurwa Singar Hokhela](https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5) | 3:40 |
 | 30 | [Banal Rahe Amar Suhag](https://open.spotify.com/track/0SyhsuQ8PGJRt52qFV4oTK) | [Alka Singh Pahadiya](https://open.spotify.com/artist/7AwxuWU9ebCFwBl7cltEPH) | [Banal Rahe Amar Suhag](https://open.spotify.com/album/1nWL4bSG5mk2Ut8eSAbGrh) | 4:28 |
 | 31 | [Vivah Geet \(From "Hawa Mein Udta Jaye Mera Lal Dupatta Malmal Ka"\)](https://open.spotify.com/track/3CR3vrJDFpikRoEitIxOCB) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 15:17 |
-| 32 | [Senura Chhodave La Gaon](https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e) | [Priyanka Singh](https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M) | [Senura Chhodave La Gaon](https://open.spotify.com/album/3xNSBgYyybfL3GvmueMqzv) | 5:21 |
-| 33 | [CHALNI KE CHALAL DULHA](https://open.spotify.com/track/0iDQnB8DpnYxIYWqFf91bF) | [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Nikhil Mahadev Jha](https://open.spotify.com/artist/6TJ7A6sHeJcOiZBltd9Bbo) | [CHALNI KE CHALAL DULHA](https://open.spotify.com/album/6RxeSlE552Lce1IyBU3ALw) | 2:27 |
-| 34 | [Aaja Balam Leke Doli](https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Mahua Tapke Chunariya Mein](https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ) | 7:29 |
+| 32 | [Aaja Balam Leke Doli](https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Mahua Tapke Chunariya Mein](https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ) | 7:29 |
+| 33 | [Senura Chhodave La Gaon](https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e) | [Priyanka Singh](https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M) | [Senura Chhodave La Gaon](https://open.spotify.com/album/3xNSBgYyybfL3GvmueMqzv) | 5:21 |
+| 34 | [CHALNI KE CHALAL DULHA](https://open.spotify.com/track/0iDQnB8DpnYxIYWqFf91bF) | [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Nikhil Mahadev Jha](https://open.spotify.com/artist/6TJ7A6sHeJcOiZBltd9Bbo) | [CHALNI KE CHALAL DULHA](https://open.spotify.com/album/6RxeSlE552Lce1IyBU3ALw) | 2:27 |
 | 35 | [BIYAH WALI GAARI 4](https://open.spotify.com/track/0JQoXV8FpAoEk3y76Ijtd5) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Stuti Sinha](https://open.spotify.com/artist/3wEyqO1YSZgsVq8GZGbLjI), [Nikita Rai](https://open.spotify.com/artist/2QfXJZBwgrkWDaiQ9bI89k) | [BIYAH WALI GAARI 4](https://open.spotify.com/album/0T6JdIksx9g5fBmdfs6n0j) | 2:57 |
 | 36 | [MEHANDI LAGAI KE](https://open.spotify.com/track/2n4TZqdfDGUAIu7lT61s39) | [Harsh Veer Indi](https://open.spotify.com/artist/6hdJobpagBZObbX9JvgYpy), [Gauri Mishra](https://open.spotify.com/artist/2RaSX5rCSHlfO8bUxGmhDr) | [MEHANDI LAGAI KE](https://open.spotify.com/album/0Zim1wh8FtCPUH5Stm8X5J) | 3:10 |
 | 37 | [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 |

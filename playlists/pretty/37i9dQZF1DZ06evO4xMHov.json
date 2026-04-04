@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63430,
+  "num_followers": 63434,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAADziNv8RC63HR11s87k/LkJ",
+  "snapshot_id": "ac2xgAAAAAAqqAocyYiJWM+U4anv6PDP",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 307533,
+      "name": "N\u00e3o Seremos Abalados - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RrmHqUvREa3cBt5W854kw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9s Bem-Vindo \u00e0 Mesa",
         "url": "https://open.spotify.com/album/4ioorezz2X36sfmQmQ6C8N"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 538285,
       "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
       "url": "https://open.spotify.com/track/0KN0dOhQJaO4zXwNgi6ypB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 307533,
-      "name": "N\u00e3o Seremos Abalados - Ao Vivo",
-      "url": "https://open.spotify.com/track/2RrmHqUvREa3cBt5W854kw"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reino de Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 471733,
       "name": "Que Se Abram os C\u00e9us - Ao Vivo",
       "url": "https://open.spotify.com/track/6uIv3xIpgKduBWy350T5ty"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reina Sobre Mim",
+        "url": "https://open.spotify.com/album/23nFUCxOBdQu13XZrYDcsL"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 388200,
+      "name": "Reina Sobre Mim",
+      "url": "https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jireh",
         "url": "https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 575587,
       "name": "Jireh",
       "url": "https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reina Sobre Mim",
-        "url": "https://open.spotify.com/album/23nFUCxOBdQu13XZrYDcsL"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 388200,
-      "name": "Reina Sobre Mim",
-      "url": "https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rei do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 360085,
-      "name": "Rei do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Digno de Tudo + Te Exaltamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/5cU4w3ateIMCsm8aFneNuB"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 546346,
       "name": "Digno de Tudo + Te Exaltamos - Ao Vivo",
       "url": "https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rei do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 360085,
+      "name": "Rei do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sangue de Jesus",
+        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 275260,
+      "name": "Sangue de Jesus",
+      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre",
         "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 279826,
       "name": "Dependo de Ti (feat. N\u00edvea Soares)",
       "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sangue de Jesus",
-        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 275260,
-      "name": "Sangue de Jesus",
-      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
     },
     {
       "added_at": null,

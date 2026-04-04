@@ -4,7 +4,7 @@
 
 > pink bows, spilled secrets, deep feels, and main character dreams
 
-80 songs - 4 hr 49 min
+81 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [imperfect for you](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:02 | 2025-08-18 |  |
 | [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/track/0HFOCcewLjTDEJsmyJubYG) | [Natalie Madigan](https://open.spotify.com/artist/0VqERH28tjwguO9olLjkJd) | [Is A Woman’s Body Not A Ritual?](https://open.spotify.com/album/7LtmQnN6io8NnwN2ggLjHt) | 3:29 | 2025-11-21 |  |
 | [Know You Forever](https://open.spotify.com/track/5l9u3FymQxGg9vdRXI7tLQ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Early Twenties Torture](https://open.spotify.com/album/6HNDL6my8XFprSf8KRwaf8) | 3:12 | 2025-10-24 |  |
-| [Knowing](https://open.spotify.com/track/79xIJDjvkuq7Ya34PITFLD) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Knowing](https://open.spotify.com/album/5Y6ZiopsWTP46syvirfYK0) | 3:40 | 2026-01-06 |  |
+| [Knowing](https://open.spotify.com/track/79xIJDjvkuq7Ya34PITFLD) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Knowing](https://open.spotify.com/album/5Y6ZiopsWTP46syvirfYK0) | 3:40 | 2026-01-06 | 2026-04-04 |
 | [Lady Lady](https://open.spotify.com/track/2dmBAIjIfisvCG7G9YEh0g) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:29 | 2025-10-24 |  |
 | [Laid Down My Arms](https://open.spotify.com/track/2vzj3ueNzwFsJKo18UAOSo) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Laid Down My Arms](https://open.spotify.com/album/4N9HQlTBjCcpCSFuJAcNQL) | 4:29 | 2025-08-18 | 2026-02-28 |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2025-08-18 |  |
@@ -71,6 +71,7 @@
 | [Sex and the city](https://open.spotify.com/track/05e0Tkr6tpxbktIei9q8Mw) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:49 | 2025-12-05 |  |
 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 | 2025-08-18 |  |
 | [Sleeping Dogs](https://open.spotify.com/track/1AXf936Ys3VSuGQMvCFQvD) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Sleeping Dogs](https://open.spotify.com/album/2HupVyLf54am3GFxjFZWnn) | 3:34 | 2026-02-27 |  |
+| [Smile More](https://open.spotify.com/track/3cvxnOEMYkOWKKi3yJbZ1Y) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Smile More](https://open.spotify.com/album/641fN8nipBqleoXvyebEYl) | 3:48 | 2026-04-03 |  |
 | [Snow White](https://open.spotify.com/track/45mmAFhB2L79faaul6n8If) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/0fPlfyidFYMTYn14faHYl9) | 3:13 | 2025-08-18 | 2025-12-06 |
 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-02-27 |  |
 | [Sugar Water](https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 5:03 | 2026-01-06 |  |

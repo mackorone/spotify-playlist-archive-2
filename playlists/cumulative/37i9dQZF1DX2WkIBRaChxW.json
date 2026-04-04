@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 172506,
       "name": "Break Me In",
       "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
@@ -5882,7 +5882,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 211669,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 194113,
       "name": "Distance",
       "url": "https://open.spotify.com/track/41gGYveHrgZoUIHmxRcif8"
@@ -7289,6 +7289,24 @@
     },
     {
       "album": {
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/7LcNdnjDCwb9SLjDxi2FPP"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259352,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/4Aw9OJJDJFCbVlVBAb0EdM"
+    },
+    {
+      "album": {
         "name": "Trouble In Paradise",
         "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
       },
@@ -7612,7 +7630,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 165251,
       "name": "Fine Shyt (feat. Jacob Latimore) [Remix]",
       "url": "https://open.spotify.com/track/4rh6pvTVRN7w6IH3ygZJwH"
@@ -10655,6 +10673,24 @@
     },
     {
       "album": {
+        "name": "I Love You Out Loud",
+        "url": "https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213023,
+      "name": "I Love You Out Loud",
+      "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
+    },
+    {
+      "album": {
         "name": "I Need",
         "url": "https://open.spotify.com/album/6FfWbCQ2pXt4BCUbaltCAv"
       },
@@ -11684,7 +11720,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 294816,
       "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
       "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
@@ -12220,6 +12256,24 @@
       "duration_ms": 236133,
       "name": "Keep From Falling",
       "url": "https://open.spotify.com/track/2J1iMDApDGF5akWEl1spZQ"
+    },
+    {
+      "album": {
+        "name": "For Good Measure (at Dreamhouse Studios)",
+        "url": "https://open.spotify.com/album/1v7bdNSS8V6FIg562qg01D"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134812,
+      "name": "Keep From Falling (at Dreamhouse Studios)",
+      "url": "https://open.spotify.com/track/5PiWtMdtOMfEmLtiegcn1h"
     },
     {
       "album": {
@@ -16601,6 +16655,24 @@
     },
     {
       "album": {
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
+    },
+    {
+      "album": {
         "name": "Drunken Wordz Sober Thoughtz (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4ue2Bx2IiCQ7LoQQJ2gmaM"
       },
@@ -17904,7 +17976,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 301576,
       "name": "Over (feat. Yebba)",
       "url": "https://open.spotify.com/track/2tGruyXi5FsyP9c5yGh9gz"
@@ -18754,7 +18826,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 175820,
       "name": "POSSESSED",
       "url": "https://open.spotify.com/track/2vQvq4W6IFWqe3UN9iwn4W"
@@ -20290,6 +20362,24 @@
       "duration_ms": 196852,
       "name": "Ruined Me",
       "url": "https://open.spotify.com/track/6EPxltlaBzRzoe2tQtsyvb"
+    },
+    {
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153654,
+      "name": "S.I.M.P.L.E",
+      "url": "https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb"
     },
     {
       "album": {
@@ -26079,6 +26169,24 @@
     },
     {
       "album": {
+        "name": "Want Love",
+        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200791,
+      "name": "Want Love",
+      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
+    },
+    {
+      "album": {
         "name": "roses are red, tears are blue \u2014 A Fountain Baby Extended Play",
         "url": "https://open.spotify.com/album/7zgIcnbeNavZHeaTuVd6Po"
       },
@@ -27162,6 +27270,24 @@
       "duration_ms": 264000,
       "name": "Wild Side (feat. KAYTRANADA) - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/2smDPFcFsLTxDrckkOL2gR"
+    },
+    {
+      "album": {
+        "name": "For All The Right Reasons Vol. 1",
+        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191809,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc"
     },
     {
       "album": {

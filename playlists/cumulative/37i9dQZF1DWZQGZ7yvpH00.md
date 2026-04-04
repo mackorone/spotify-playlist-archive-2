@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Arsenal Efectivo en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Christian Ortega en portada.
 
-619 songs - 1 day 10 hr 5 min
+621 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [NO HAY SEÑAL](https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [NO HAY SEÑAL](https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph) | 2:41 | 2024-01-26 | 2024-03-09 |
 | [No Me Compares](https://open.spotify.com/track/2HidEcnta7nkdKZkmiyC4q) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [No Me Compares](https://open.spotify.com/album/2bSUzObbvvrMDyxxc6e0PB) | 3:44 | 2026-02-06 | 2026-03-21 |
 | [No Nos Tocaba](https://open.spotify.com/track/4ExNmJ5ng48ZIE5VG4Qdrk) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [No Nos Tocaba](https://open.spotify.com/album/6Oj9y1fLCIlSVRzNZjrFkE) | 3:28 | 2025-10-24 | 2026-01-24 |
-| [No Pasa Nada](https://open.spotify.com/track/7FbPMf2BoNVfpPG5Yv2hIe) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [No Pasa Nada](https://open.spotify.com/album/1ZIKJLkZXQwteGXiwfzwkR) | 2:26 | 2025-10-31 |  |
+| [No Pasa Nada](https://open.spotify.com/track/7FbPMf2BoNVfpPG5Yv2hIe) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [No Pasa Nada](https://open.spotify.com/album/1ZIKJLkZXQwteGXiwfzwkR) | 2:26 | 2025-10-31 | 2026-04-04 |
 | [NO PIERDO LA VIDA](https://open.spotify.com/track/44zZM2dn9AcOUt5XKUMNJ3) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [NO PIERDO LA VIDA](https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2) | 2:48 | 2024-09-13 | 2024-11-16 |
 | [No Podremos Ser Amigos](https://open.spotify.com/track/4DJwntLe5GWgAyRW1W4NLS) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [No Podremos Ser Amigos](https://open.spotify.com/album/4HpslmBkkHeTauk4yZiiQ8) | 3:08 | 2026-03-20 |  |
 | [No Se Puede Decir Adiós](https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [No Se Puede Decir Adiós / Nuestra Canción](https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29) | 2:44 | 2023-03-31 | 2023-06-10 |
@@ -369,6 +369,7 @@
 | [OLVIDARME DE TI](https://open.spotify.com/track/7ajARmOc5ljCK0cRtep8fn) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [NAZTEÑO](https://open.spotify.com/album/05Se92qmfLxWoVYAg4vKcQ) | 3:49 | 2025-09-12 | 2026-03-07 |
 | [OOTD](https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [OOTD](https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU) | 2:49 | 2024-06-28 | 2024-08-10 |
 | [Otra Noche](https://open.spotify.com/track/5aUcRdeMllzipglMOSi5JX) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Otra Noche](https://open.spotify.com/album/1cbZXUpP2kswCktpR1hnTa) | 3:21 | 2023-12-22 | 2024-02-17 |
+| [Otra Vez](https://open.spotify.com/track/7CdoGE5Kprr9nFiYLMivrf) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Otra Vez](https://open.spotify.com/album/3KJQfNQxV6Nrncg7UXoKt9) | 4:06 | 2026-04-03 |  |
 | [OTRAS 24 HORAS](https://open.spotify.com/track/0pDnaflKbJcMj1TVbDDcH0) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras De Noche II](https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0) | 3:42 | 2025-03-28 | 2026-03-14 |
 | [pa que \(feat\. Ed Maverick\)](https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [pa que \(feat\. Ed Maverick\)](https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd) | 3:16 | 2026-03-27 |  |
 | [Pa Que Me Enamoraste \- Remix](https://open.spotify.com/track/2S2zGH6GD0MRn0sgnk2hTu) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estilo Bropza \(Deluxe\)](https://open.spotify.com/album/3X0MaMl8ue8BC14CAD4mws) | 2:59 | 2026-02-20 |  |
@@ -580,6 +581,7 @@
 | [Una Peda](https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:56 | 2022-04-08 | 2022-06-25 |
 | [Una Semana](https://open.spotify.com/track/1UUimiQLOO4pyS2pRUeXSA) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Una Semana](https://open.spotify.com/album/4QuVImSzXeKG40qXi9PzuL) | 3:23 | 2024-08-09 | 2024-10-26 |
 | [Una Vez Más](https://open.spotify.com/track/2mw2HxgWWgI5SktIxNO43z) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Una Vez Más](https://open.spotify.com/album/60v1tRIYwWeu1DSqNQYVhR) | 2:38 | 2024-05-17 | 2024-07-19 |
+| [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 | 2026-04-03 |  |
 | [Va Pa' Largo](https://open.spotify.com/track/5hUUPFyteR0Fdiewtwj3EP) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Va Pa' Largo](https://open.spotify.com/album/1zedRAmOvIjof8CUNCNFog) | 2:43 | 2025-10-10 | 2025-12-06 |
 | [Vaciando Botellas](https://open.spotify.com/track/7bQwMC8m9vtcEMJ8qZyJ4r) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Vaciando Botellas](https://open.spotify.com/album/27oHZjpItCLVaag882oPuk) | 3:36 | 2025-03-21 | 2025-05-03 |
 | [VALLE DE $OMBRA$](https://open.spotify.com/track/2Frs0BjYgm78lYI9nbal46) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:47 | 2026-02-13 | 2026-02-28 |
@@ -623,7 +625,7 @@
 | [ZAFIRO \(feat\. Pablo Hurtado\)](https://open.spotify.com/track/4ExKTOgyWHR60KXwYprRf0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Pablo Hurtado](https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54) | [ZAFIRO \(feat\. Pablo Hurtado\)](https://open.spotify.com/album/6QhFGkdPQHDgUmD5g7dMxJ) | 3:53 | 2023-07-07 | 2023-12-02 |
 | [Zaguf Roma](https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Beyond The Limit](https://open.spotify.com/album/5KwiZ0Ly7gpV8t7uvX7ZvT) | 3:07 | 2022-04-29 | 2025-05-03 |
 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 | 2023-12-01 | 2024-01-06 |
-| [¿QUÉ SUCEDIÓ?](https://open.spotify.com/track/0RO1LmzydqUm7bNLJFiBQo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA DELUXE](https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU) | 4:19 | 2025-11-14 |  |
+| [¿QUÉ SUCEDIÓ?](https://open.spotify.com/track/0RO1LmzydqUm7bNLJFiBQo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA DELUXE](https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU) | 4:19 | 2025-11-14 | 2026-04-04 |
 | [ÁREA 51 V1](https://open.spotify.com/track/6okYMF49yT9YKC56hhmkFg) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 3:41 | 2025-05-30 | 2025-06-21 |
 | [éramos perfectos \(with Eddy\)](https://open.spotify.com/track/2BDzHfd33PMXYWQk0zQzTN) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [éramos perfectos \(with Eddy\)](https://open.spotify.com/album/2Y0UAZ7bHZvLGjBDO8rd5e) | 3:06 | 2026-02-27 |  |
 | [⁠⁠NO MIRES ATRÁS](https://open.spotify.com/track/00FJssZnKKOfxLdbeGLdsW) | [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [CENIZA](https://open.spotify.com/album/1AjtnhnSYiPViX0d9XdGSS) | 2:56 | 2026-03-27 |  |

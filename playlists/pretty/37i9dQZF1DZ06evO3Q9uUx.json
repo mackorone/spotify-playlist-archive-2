@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15980,
+  "num_followers": 15990,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "acxgAAAAAAAN+25aFR/3rPhWIN9AWc8g",
+  "snapshot_id": "ac2xgAAAAAA/i4mIFECU/6K8zOolsBfl",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 243864,
-      "name": "Miami (feat. BIA)",
-      "url": "https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 232727,
       "name": "ICEY..",
       "url": "https://open.spotify.com/track/2lzWxjcHX7RibjHX9UE5lN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 243864,
+      "name": "Miami (feat. BIA)",
+      "url": "https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE"
     },
     {
       "added_at": null,
@@ -723,6 +723,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIKI",
+        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Labels. (ft. Moneybagg Yo, BIA)",
+      "url": "https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "moo",
         "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
       },
@@ -759,30 +783,6 @@
       "duration_ms": 198352,
       "name": "LIGHTS OUT",
       "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Labels. (ft. Moneybagg Yo, BIA)",
-      "url": "https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w"
     },
     {
       "added_at": null,

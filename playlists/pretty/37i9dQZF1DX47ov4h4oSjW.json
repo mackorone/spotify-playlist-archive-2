@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 99689,
+  "num_followers": 99686,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Cygne Noir",
-        "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
-      },
-      "artists": [
-        {
-          "name": "North Connolly",
-          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
-        }
-      ],
-      "duration_ms": 178634,
-      "name": "Cygne Noir",
-      "url": "https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "50 Masterworks - Arthur Rubinstein",
         "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Cygne Noir",
+        "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
+      },
+      "artists": [
+        {
+          "name": "North Connolly",
+          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
+        }
+      ],
+      "duration_ms": 178634,
+      "name": "Cygne Noir",
+      "url": "https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "So Flows The Current",
-        "url": "https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj"
-      },
-      "artists": [
-        {
-          "name": "Patrick O'Hearn",
-          "url": "https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ"
-        }
-      ],
-      "duration_ms": 289280,
-      "name": "Beyond This Moment",
-      "url": "https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 157979,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "So Flows The Current",
+        "url": "https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj"
+      },
+      "artists": [
+        {
+          "name": "Patrick O'Hearn",
+          "url": "https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ"
+        }
+      ],
+      "duration_ms": 289280,
+      "name": "Beyond This Moment",
+      "url": "https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Box of Memories",
-        "url": "https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Box of Memories",
-      "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Man Made Object",
         "url": "https://open.spotify.com/album/3EhWiub8XqFk3nQbYcJq4o"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 201880,
       "name": "GBFISYSIH",
       "url": "https://open.spotify.com/track/0P6rmbD8668dVimhlX1afA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Box of Memories",
+        "url": "https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Box of Memories",
+      "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Beyond The Sun",
-        "url": "https://open.spotify.com/album/1ZzfWQIwgAn0AHZVATRg6V"
+        "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
       },
       "artists": [
         {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
         }
       ],
-      "duration_ms": 224705,
-      "name": "For A Lifetime",
-      "url": "https://open.spotify.com/track/2kLoezsd7CkFEpQ3rMmczk"
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Nocturnes op.3",
-        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+        "name": "Beyond The Sun",
+        "url": "https://open.spotify.com/album/1ZzfWQIwgAn0AHZVATRg6V"
       },
       "artists": [
         {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
         }
       ],
-      "duration_ms": 154714,
-      "name": "Nocturnes op.3",
-      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+      "duration_ms": 224705,
+      "name": "For A Lifetime",
+      "url": "https://open.spotify.com/track/2kLoezsd7CkFEpQ3rMmczk"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
-      },
-      "artists": [
-        {
-          "name": "Ruben Galloway",
-          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
-        }
-      ],
-      "duration_ms": 202357,
-      "name": "The Inner World",
-      "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Starry Sky",
         "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 140000,
       "name": "Starry Sky",
       "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
+      },
+      "artists": [
+        {
+          "name": "Ruben Galloway",
+          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+        }
+      ],
+      "duration_ms": 202357,
+      "name": "The Inner World",
+      "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Ocean And 17th",
-        "url": "https://open.spotify.com/album/4YEDcRREGpiZpyziVG4jIh"
-      },
-      "artists": [
-        {
-          "name": "Lummus Park",
-          "url": "https://open.spotify.com/artist/6aLdEQv4u2nemqw1v3cQmH"
-        }
-      ],
-      "duration_ms": 189401,
-      "name": "Ocean And 17th",
-      "url": "https://open.spotify.com/track/2IUuk04dZVG8KRBJpcrpzt"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Whirling sky",
         "url": "https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 169874,
       "name": "Whirling sky",
       "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Ocean And 17th",
+        "url": "https://open.spotify.com/album/4YEDcRREGpiZpyziVG4jIh"
+      },
+      "artists": [
+        {
+          "name": "Lummus Park",
+          "url": "https://open.spotify.com/artist/6aLdEQv4u2nemqw1v3cQmH"
+        }
+      ],
+      "duration_ms": 189401,
+      "name": "Ocean And 17th",
+      "url": "https://open.spotify.com/track/2IUuk04dZVG8KRBJpcrpzt"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Amuse Bouche",
-        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
       },
       "artists": [
         {
-          "name": "Yao Chen",
-          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
+          "name": "Rand Aldo",
+          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
         }
       ],
-      "duration_ms": 197750,
-      "name": "Is it Over",
-      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
+      "duration_ms": 145533,
+      "name": "Dream in Eb",
+      "url": "https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
+        "name": "Amuse Bouche",
+        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
       },
       "artists": [
         {
-          "name": "Rand Aldo",
-          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
+          "name": "Yao Chen",
+          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
         }
       ],
-      "duration_ms": 145533,
-      "name": "Dream in Eb",
-      "url": "https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir"
+      "duration_ms": 197750,
+      "name": "Is it Over",
+      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1091,38 +1091,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Sirenomelia",
-        "url": "https://open.spotify.com/album/2eub0pcDgKBJkAiKZsMHbr"
-      },
-      "artists": [
-        {
-          "name": "Isobel Noble",
-          "url": "https://open.spotify.com/artist/36XAjwbcbVkRdcd2uEuVTq"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Sirenomelia",
-      "url": "https://open.spotify.com/track/5M7jRqLKDMoOGPeVp1TslS"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Cassiopeia",
-        "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
-      },
-      "artists": [
-        {
-          "name": "S.A. Karl",
-          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
-        }
-      ],
-      "duration_ms": 168833,
-      "name": "Cassiopeia",
-      "url": "https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Chopin: The Complete Preludes",
         "url": "https://open.spotify.com/album/1rBvFJvaHtmVmMdBFO8Te7"
       },
@@ -1143,6 +1111,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Sirenomelia",
+        "url": "https://open.spotify.com/album/2eub0pcDgKBJkAiKZsMHbr"
+      },
+      "artists": [
+        {
+          "name": "Isobel Noble",
+          "url": "https://open.spotify.com/artist/36XAjwbcbVkRdcd2uEuVTq"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Sirenomelia",
+      "url": "https://open.spotify.com/track/5M7jRqLKDMoOGPeVp1TslS"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Amorzinho (Piano Version)",
         "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Seven Days Walking (Day 7)",
-        "url": "https://open.spotify.com/album/4GEcFHTB7y9N8ciFFDIikp"
+        "name": "Cassiopeia",
+        "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
       },
       "artists": [
         {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+          "name": "S.A. Karl",
+          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
         }
       ],
-      "duration_ms": 324620,
-      "name": "Seven Days Walking / Day 7: Ascent",
-      "url": "https://open.spotify.com/track/5iZJK7w5mgHwOC8Sjs3eaT"
+      "duration_ms": 168833,
+      "name": "Cassiopeia",
+      "url": "https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1187,6 +1171,22 @@
       "duration_ms": 186595,
       "name": "In the Stillness",
       "url": "https://open.spotify.com/track/3chX0o1istmZdfm53dCksb"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Seven Days Walking (Day 7)",
+        "url": "https://open.spotify.com/album/4GEcFHTB7y9N8ciFFDIikp"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 324620,
+      "name": "Seven Days Walking / Day 7: Ascent",
+      "url": "https://open.spotify.com/track/5iZJK7w5mgHwOC8Sjs3eaT"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Truly Yours",
-        "url": "https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7"
+        "name": "Pour Vous",
+        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
       },
       "artists": [
         {
-          "name": "Eamonn Watt",
-          "url": "https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7"
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
         }
       ],
-      "duration_ms": 185775,
-      "name": "Truly Yours",
-      "url": "https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia"
+      "duration_ms": 211000,
+      "name": "Exhibitions",
+      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Truly Yours",
+        "url": "https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7"
+      },
+      "artists": [
+        {
+          "name": "Eamonn Watt",
+          "url": "https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7"
+        }
+      ],
+      "duration_ms": 185775,
+      "name": "Truly Yours",
+      "url": "https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 135253,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/6NM48j8dLlbd5EekSoKOyX"
-      },
-      "artists": [
-        {
-          "name": "Noel Aspensen",
-          "url": "https://open.spotify.com/artist/33JlJ8VUoATb9ZCiKkVV7K"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/2DFNIBOHGJ1jKF3qLahfEt"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1343,34 +1343,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Midnight Musette",
-        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/6NM48j8dLlbd5EekSoKOyX"
       },
       "artists": [
         {
-          "name": "De Maynes",
-          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
+          "name": "Noel Aspensen",
+          "url": "https://open.spotify.com/artist/33JlJ8VUoATb9ZCiKkVV7K"
         }
       ],
-      "duration_ms": 197084,
-      "name": "Midnight Musette",
-      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Automne",
-        "url": "https://open.spotify.com/album/6KjNkS21n7ICAQRmUVrCK7"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 192230,
-      "name": "Morph\u00e9e",
-      "url": "https://open.spotify.com/track/2ewd25cXIdZvLxbgGh5eYA"
+      "duration_ms": 228000,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/2DFNIBOHGJ1jKF3qLahfEt"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1391,6 +1375,38 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Automne",
+        "url": "https://open.spotify.com/album/6KjNkS21n7ICAQRmUVrCK7"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 192230,
+      "name": "Morph\u00e9e",
+      "url": "https://open.spotify.com/track/2ewd25cXIdZvLxbgGh5eYA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Midnight Musette",
+        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
+      },
+      "artists": [
+        {
+          "name": "De Maynes",
+          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
+        }
+      ],
+      "duration_ms": 197084,
+      "name": "Midnight Musette",
+      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 165902,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Pour Vous",
-        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
-      },
-      "artists": [
-        {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Exhibitions",
-      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
+        "name": "One Note",
+        "url": "https://open.spotify.com/album/6PcYUvCdYLZvlzGjRlnoYP"
       },
       "artists": [
         {
-          "name": "Denise Santoz",
-          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
+          "name": "Alberto Giurioli",
+          "url": "https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU"
         }
       ],
-      "duration_ms": 226500,
-      "name": "Palette",
-      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
+      "duration_ms": 285326,
+      "name": "One Note",
+      "url": "https://open.spotify.com/track/67BpLH4eIEogEooSJk8eua"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "One Note",
-        "url": "https://open.spotify.com/album/6PcYUvCdYLZvlzGjRlnoYP"
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY"
       },
       "artists": [
         {
-          "name": "Alberto Giurioli",
-          "url": "https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU"
+          "name": "Denise Santoz",
+          "url": "https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp"
         }
       ],
-      "duration_ms": 285326,
-      "name": "One Note",
-      "url": "https://open.spotify.com/track/67BpLH4eIEogEooSJk8eua"
+      "duration_ms": 226500,
+      "name": "Palette",
+      "url": "https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Way Back Home",
-        "url": "https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh"
-      },
-      "artists": [
-        {
-          "name": "Algoth Holmes",
-          "url": "https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Winter Birds",
-      "url": "https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Donde Nadas",
         "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Way Back Home",
+        "url": "https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh"
+      },
+      "artists": [
+        {
+          "name": "Algoth Holmes",
+          "url": "https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Winter Birds",
+      "url": "https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Sintra",
         "url": "https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 204090,
       "name": "Sintra",
       "url": "https://open.spotify.com/track/5JlzdloHUjgYWByeCgtFSx"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
-      },
-      "artists": [
-        {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
-        }
-      ],
-      "duration_ms": 186270,
-      "name": "The Mystery",
-      "url": "https://open.spotify.com/track/3gfSAm2i7oussW6eMVm8ME"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1647,6 +1631,22 @@
       "duration_ms": 137889,
       "name": "Lambent",
       "url": "https://open.spotify.com/track/66V61iygZxgWc9x9q4NFfS"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Secrets of the Earth",
+        "url": "https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK"
+      },
+      "artists": [
+        {
+          "name": "Lama House",
+          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
+        }
+      ],
+      "duration_ms": 149156,
+      "name": "Wish of the Progeny",
+      "url": "https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit"
     }
   ],
   "unique_name": "Piano Study",

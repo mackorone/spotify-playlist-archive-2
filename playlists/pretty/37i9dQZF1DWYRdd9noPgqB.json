@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299087,
+  "num_followers": 299078,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,26 @@
     {
       "added_at": "2026-04-02 22:01:21",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 144501,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
+    },
+    {
+      "added_at": "2026-04-02 22:01:21",
+      "album": {
         "name": "PHOLKS",
         "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
       },
@@ -71,22 +91,6 @@
       "duration_ms": 165599,
       "name": "My Muse",
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
-    },
-    {
-      "added_at": "2026-04-02 22:01:21",
-      "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-04-02 22:01:21",
@@ -107,22 +111,18 @@
     {
       "added_at": "2026-04-02 22:01:21",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 144501,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-04-02 22:01:21",
@@ -155,22 +155,6 @@
       "duration_ms": 253350,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
-    },
-    {
-      "added_at": "2026-04-02 22:01:21",
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 251861,
-      "name": "Echo From The Flames",
-      "url": "https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7"
     },
     {
       "added_at": "2026-04-02 22:01:21",
@@ -215,6 +199,22 @@
     {
       "added_at": "2026-04-02 22:01:21",
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 251861,
+      "name": "Echo From The Flames",
+      "url": "https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7"
+    },
+    {
+      "added_at": "2026-04-02 22:01:21",
+      "album": {
         "name": "Yellow Eyes",
         "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 162096,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
-    },
-    {
-      "added_at": "2026-04-02 22:01:21",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
     },
     {
       "added_at": "2026-04-02 22:01:21",
@@ -275,6 +259,22 @@
       "duration_ms": 201766,
       "name": "how do you dance?",
       "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
+    },
+    {
+      "added_at": "2026-04-02 22:01:21",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
     },
     {
       "added_at": "2026-04-02 22:01:21",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-04-02 22:01:21",
       "album": {
-        "name": "un th\u00e9?",
-        "url": "https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 152659,
-      "name": "un th\u00e9?",
-      "url": "https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP"
-    },
-    {
-      "added_at": "2026-04-02 22:01:21",
-      "album": {
         "name": "Everything Glows",
         "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 216000,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa"
+    },
+    {
+      "added_at": "2026-04-02 22:01:21",
+      "album": {
+        "name": "un th\u00e9?",
+        "url": "https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 152659,
+      "name": "un th\u00e9?",
+      "url": "https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP"
     },
     {
       "added_at": "2026-04-02 22:01:21",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-02 22:01:21",
       "album": {
-        "name": "the one",
-        "url": "https://open.spotify.com/album/6Vqi6HvrkjM1MgdiZUfn6P"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 146361,
-      "name": "the one",
-      "url": "https://open.spotify.com/track/5CVH4yjJy1Nhr1G51UBG7e"
-    },
-    {
-      "added_at": "2026-04-02 22:01:21",
-      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 279183,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
+    },
+    {
+      "added_at": "2026-04-02 22:01:21",
+      "album": {
+        "name": "the one",
+        "url": "https://open.spotify.com/album/6Vqi6HvrkjM1MgdiZUfn6P"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 146361,
+      "name": "the one",
+      "url": "https://open.spotify.com/track/5CVH4yjJy1Nhr1G51UBG7e"
     },
     {
       "added_at": "2026-04-02 22:01:21",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-04-02 22:01:21",
       "album": {
-        "name": "Here We Go Again",
-        "url": "https://open.spotify.com/album/4THNExkJ80NtafCGJADvar"
-      },
-      "artists": [
-        {
-          "name": "Pacific Avenue",
-          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
-        }
-      ],
-      "duration_ms": 251718,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz"
-    },
-    {
-      "added_at": "2026-04-02 22:01:21",
-      "album": {
         "name": "Give Me More",
         "url": "https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 190745,
       "name": "Give Me More",
       "url": "https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ"
+    },
+    {
+      "added_at": "2026-04-02 22:01:21",
+      "album": {
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/4THNExkJ80NtafCGJADvar"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "duration_ms": 251718,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz"
     },
     {
       "added_at": "2026-04-02 22:01:21",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-04-02 22:01:21",
       "album": {
-        "name": "Kicking My Feet",
-        "url": "https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5"
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
       },
       "artists": [
         {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 174751,
-      "name": "Not What\u2019s Going On",
-      "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-04-02 22:01:21",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-04-02 22:01:21",
       "album": {
+        "name": "Kicking My Feet",
+        "url": "https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 174751,
+      "name": "Not What\u2019s Going On",
+      "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
+    },
+    {
+      "added_at": "2026-04-02 22:01:21",
+      "album": {
         "name": "Divinations (Outtakes Edition)",
         "url": "https://open.spotify.com/album/0H7Ygy8UZ1FBz5N2LKRpjq"
       },
@@ -899,6 +915,42 @@
       "duration_ms": 173680,
       "name": "Lonestar",
       "url": "https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y"
+    },
+    {
+      "added_at": "2026-04-02 22:01:21",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
+    },
+    {
+      "added_at": "2026-04-02 22:01:21",
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
     },
     {
       "added_at": "2026-04-02 22:01:21",
@@ -919,18 +971,18 @@
     {
       "added_at": "2026-04-02 22:01:21",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Marie Sarah",
+          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
         }
       ],
-      "duration_ms": 159078,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
+      "duration_ms": 196360,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5"
     },
     {
       "added_at": "2026-04-02 22:01:21",
@@ -959,22 +1011,6 @@
     {
       "added_at": "2026-04-02 22:01:21",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA"
-      },
-      "artists": [
-        {
-          "name": "Marie Sarah",
-          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5"
-    },
-    {
-      "added_at": "2026-04-02 22:01:21",
-      "album": {
         "name": "viens on part",
         "url": "https://open.spotify.com/album/7xSHTYnwyFVUONUoKILwgp"
       },
@@ -987,38 +1023,6 @@
       "duration_ms": 165000,
       "name": "viens on part",
       "url": "https://open.spotify.com/track/0Jur8kJXfTdBwhJoNMEGgb"
-    },
-    {
-      "added_at": "2026-04-02 22:01:21",
-      "album": {
-        "name": "The Meeting (Deluxe)",
-        "url": "https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde"
-      },
-      "artists": [
-        {
-          "name": "Astels",
-          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
-        }
-      ],
-      "duration_ms": 173172,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"
-    },
-    {
-      "added_at": "2026-04-02 22:01:21",
-      "album": {
-        "name": "A Hundred Mixed Emotions",
-        "url": "https://open.spotify.com/album/14XI796MhuPowz8BubR7Cb"
-      },
-      "artists": [
-        {
-          "name": "AFTER GEOGRAPHY",
-          "url": "https://open.spotify.com/artist/1foySkXTahyUyQ1ojNowrI"
-        }
-      ],
-      "duration_ms": 257609,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/1BfgpUJslvd4JJI1Hz49ZQ"
     }
   ],
   "unique_name": "Feel Good",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,561 likes - 104 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,611 likes - 104 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 103 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
 | 104 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
 
-Snapshot ID: `AAAAAAMCrl12sBA54JleCucTXtEcNIvb`
+Snapshot ID: `AAAAAKeGTyxuxAqjp/y/vJyCkLPQc5wQ`

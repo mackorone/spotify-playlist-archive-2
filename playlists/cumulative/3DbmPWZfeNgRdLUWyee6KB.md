@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-878 songs - 2 day 3 hr 33 min
+880 songs - 2 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Artificial](https://open.spotify.com/track/7BVRXrSgMOoLDEkan3atza) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Artificial](https://open.spotify.com/album/2Pdekk6nPnMEf0d2hcOEgP) | 4:13 | 2026-03-16 |  |
 | [Arvuli ammenzu ‘u mari \(Live\) \[feat\. Gregorio Caimi, Dario Li Voti, Gianluca Pantaleo, Natale Montalto, Maria Luisa Pala & Debora Messina\]](https://open.spotify.com/track/4Spq0XhihpaxhhF00um0AN) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp), [Dario Li Voti](https://open.spotify.com/artist/5bket0QkDAVSDCPkIK5Usq), [Debora Messina](https://open.spotify.com/artist/0lZRolUkkfKgmf12uQfMGv), [Gianluca Pantaleo](https://open.spotify.com/artist/3AXe5qW407STyjTnzy27ON), [Gregorio Caimi](https://open.spotify.com/artist/2bxPYh5xhc4Bb6F2GQXlpT), [Maria Luisa Pala](https://open.spotify.com/artist/1h3ot8MBr2Fmbt54VieSh6), [Natale Montalto](https://open.spotify.com/artist/3Bh0o4sqKg8gigYxUkjE2D) | [Dieci Live](https://open.spotify.com/album/5vX1PXH1ILW7G5TBKVPSZ1) | 4:15 | 2023-04-20 | 2025-11-29 |
 | [Arvuli ammezzu 'u mari \- Live](https://open.spotify.com/track/2NnTAOGXuMREv5dbDPEjo2) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 4:15 | 2023-04-27 | 2025-11-29 |
+| [Ask time for time](https://open.spotify.com/track/248MtYAcY8RoGI6HK9YanG) | [The Inked Path](https://open.spotify.com/artist/6mH0wRSH6wrNnG2K0YSWnM) | [Ask time for time](https://open.spotify.com/album/5dXVOGDqHXTrBN76GJ19i1) | 2:56 | 2026-04-03 |  |
 | [Assalamu Alikum \(Remastered\)](https://open.spotify.com/track/0ORlq8U5LhIOyQMkLs23o2) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:50 | 2023-04-20 | 2025-11-29 |
 | [At The Resale Shop](https://open.spotify.com/track/02M5kJSLOOhvcre8f4iioV) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Color Me Singing](https://open.spotify.com/album/0nmUzhPQJT1TjPfH59CpYm) | 3:24 | 2026-03-03 | 2026-03-25 |
 | [Atardece](https://open.spotify.com/track/6ZoIVFXievvmKj8Mjz0dai) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Atardece / Beben Sangre](https://open.spotify.com/album/2oE9ftWsPX9rumd8LuIBuq) | 4:05 | 2026-01-19 | 2026-02-20 |
@@ -852,6 +853,7 @@
 | [Wide Awake](https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Wide Awake](https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq) | 3:33 | 2025-11-11 | 2025-12-21 |
 | [Wildflower](https://open.spotify.com/track/6x4AHO4gGPobqEmgkspSfj) | [Katherine Winston](https://open.spotify.com/artist/3EEDivClbmPwyqrMpTaRIP) | [Something Special, Nothing Fancy](https://open.spotify.com/album/6PNV3MFwwKLOi5fsV3CTKV) | 4:21 | 2026-01-07 | 2026-02-03 |
 | [Wine](https://open.spotify.com/track/0y1bwmgoGdG8DvryqmBR3K) | [Ou Yu](https://open.spotify.com/artist/5qPvi8fvZMu4sJGSoA6nH6), [framesound](https://open.spotify.com/artist/2rc2L0vG15AyrlJrIhsIXs) | [Wine](https://open.spotify.com/album/23Saj01VUpK7zGkcDX3mrd) | 2:51 | 2025-12-27 | 2026-01-24 |
+| [Wine Sunrise \- Guitar solo](https://open.spotify.com/track/6OUZpdoDA8pC488uUkRfAr) | [Manaus](https://open.spotify.com/artist/58tdStq1hsnF7s0AtKfc4z) | [Wine Sunrise \(Guitar solo\)](https://open.spotify.com/album/4q3G7faYU8YG9cZAuCRgsO) | 2:58 | 2026-04-03 |  |
 | [Winner](https://open.spotify.com/track/7GFa54KAJEeIMqBTyJR3kn) | [Giga.Ent](https://open.spotify.com/artist/55akrV4qDuxFAITQwKuuBV) | [Joy & Pain](https://open.spotify.com/album/1IrdB9gDE5vWsC2WUNjljN) | 2:19 | 2026-02-15 | 2026-03-15 |
 | [With You](https://open.spotify.com/track/7LLHGsm4xICcdq84TIYvF4) | [TS Chris](https://open.spotify.com/artist/57Ui8J7CkhuIdZELypG3Vv) | [With You](https://open.spotify.com/album/0PKRfRbbVawBDRcjGKtJeH) | 3:35 | 2025-10-21 | 2025-11-29 |
 | [Without Job](https://open.spotify.com/track/3bUTxynnmrhvaevvDvB7n7) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Without Job](https://open.spotify.com/album/5oryg8dV3hsmDHTum90UTg) | 2:59 | 2026-03-30 |  |

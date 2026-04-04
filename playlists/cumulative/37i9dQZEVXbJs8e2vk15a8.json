@@ -784,7 +784,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 211200,
       "name": "2mil16",
       "url": "https://open.spotify.com/track/5Srgr3zxu0KPuDAm86VIE4"
@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 145882,
       "name": "ALO",
       "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
@@ -34950,6 +34950,24 @@
     {
       "album": {
         "name": "Jane!",
+        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
+    },
+    {
+      "album": {
+        "name": "Jane!",
         "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
       },
       "artists": [
@@ -34960,7 +34978,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
@@ -39840,7 +39858,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 222318,
       "name": "LO QUE TU PIDAS",
       "url": "https://open.spotify.com/track/5fKb9vC0HYr636KQnRAEUq"
@@ -41244,6 +41262,24 @@
     {
       "album": {
         "name": "Love Without Disguises",
+        "url": "https://open.spotify.com/album/2XugAC7ToYWSLu47cP4j4Y"
+      },
+      "artists": [
+        {
+          "name": "Warren Roob",
+          "url": "https://open.spotify.com/artist/0iUilg0v4jsKoxUPw9YbB4"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186680,
+      "name": "Love Without Disguises",
+      "url": "https://open.spotify.com/track/1Ghsz0gso8z3dyJ4OwqIFV"
+    },
+    {
+      "album": {
+        "name": "Love Without Disguises",
         "url": "https://open.spotify.com/album/19H6A6oMv9paBkyycuRouA"
       },
       "artists": [
@@ -41254,7 +41290,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 186680,
       "name": "Love Without Disguises",
       "url": "https://open.spotify.com/track/4UH8HyU5HJnyQEcVT4rfcx"
@@ -59128,7 +59164,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 223863,
       "name": "Que Hace Con El",
       "url": "https://open.spotify.com/track/1pvfO12SyprY7NR11F1Wk5"
@@ -69147,6 +69183,32 @@
     },
     {
       "album": {
+        "name": "TAKA LA DENTRO",
+        "url": "https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE"
+      },
+      "artists": [
+        {
+          "name": "SEKIMANE",
+          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
+        },
+        {
+          "name": "shonci",
+          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89809,
+      "name": "TAKA LA DENTRO",
+      "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
+    },
+    {
+      "album": {
         "name": "Take Me to the Beach (feat. Ado)",
         "url": "https://open.spotify.com/album/42qtC6akiL6crX1i4Sf4yJ"
       },
@@ -70798,7 +70860,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 211022,
       "name": "Termonuclear",
       "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Jim Legxacy",
+  "description": "Genre-less. Quality first always. Cover: Thundercat",
   "name": "POLLEN",
   "tracks": [
     {
@@ -7512,7 +7512,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 257101,
       "name": "Blistered",
       "url": "https://open.spotify.com/track/73if759NUTI8amyCTiDZRB"
@@ -11482,7 +11482,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 164479,
       "name": "Circles",
       "url": "https://open.spotify.com/track/1IbcX5yIsTavsZmZKr2OGR"
@@ -22332,6 +22332,28 @@
       "duration_ms": 214760,
       "name": "Funky",
       "url": "https://open.spotify.com/track/2KZVQQfBRgAYkFqlr3GRqv"
+    },
+    {
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
     },
     {
       "album": {
@@ -35880,7 +35902,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 168947,
       "name": "Lover's Rock",
       "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
@@ -46012,7 +46034,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 195942,
       "name": "pray 4 me",
       "url": "https://open.spotify.com/track/60XwT8x654biUkHCInrZau"
@@ -46530,7 +46552,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 177050,
       "name": "Public Opinion",
       "url": "https://open.spotify.com/track/3ORsrd6XBeO8BhE0zYRtgE"
@@ -48931,6 +48953,28 @@
     },
     {
       "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62"
+      },
+      "artists": [
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        },
+        {
+          "name": "Lapgan",
+          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81944,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/0UofsT4hEZ7qeYPXkzDiII"
+    },
+    {
+      "album": {
         "name": "Romance ESL / The Heavy Loop",
         "url": "https://open.spotify.com/album/4UtoGTX21JaNiGgFLLOFYB"
       },
@@ -50742,6 +50786,28 @@
       "duration_ms": 179561,
       "name": "SENEGAMBIA",
       "url": "https://open.spotify.com/track/2Yxi5xjzYw28541eY5xlNu"
+    },
+    {
+      "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
     },
     {
       "album": {
@@ -59577,6 +59643,24 @@
     },
     {
       "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/6TcqhHCbNpDXDY0CA6KyuG"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/25jvcrDD3TbvgOpn3MUYbF"
+    },
+    {
+      "album": {
         "name": "To trust you",
         "url": "https://open.spotify.com/album/55OpcIldEWmmgvg6rmmE98"
       },
@@ -61162,7 +61246,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-04",
       "duration_ms": 201230,
       "name": "Unforgiven",
       "url": "https://open.spotify.com/track/4nVpEwdqM0aaAQSqqSM7cH"
@@ -62772,6 +62856,28 @@
       "duration_ms": 220311,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
+    },
+    {
+      "album": {
+        "name": "50KWTTS",
+        "url": "https://open.spotify.com/album/4yMBeYLgk0aO0O8EbQ6j58"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        },
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219013,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/7CdKgelWaFAubv36vIUNPA"
     },
     {
       "album": {

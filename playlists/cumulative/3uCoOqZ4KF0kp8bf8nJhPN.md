@@ -4,7 +4,7 @@
 
 > 
 
-312 songs - 12 hr 14 min
+317 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,10 @@
 | [blow my brains out](https://open.spotify.com/track/6ifraZfdjd8qWmjcJ1HwYA) | [akoge](https://open.spotify.com/artist/42hqB8RQixQXhyxGqm1moL) | [blow my brains out](https://open.spotify.com/album/3iZCLuZloIL9W11BRduvvC) | 2:23 | 2025-04-11 | 2025-05-28 |
 | [Blueberry Faygo](https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Certified Hitmaker](https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ) | 2:42 | 2025-06-23 | 2025-07-10 |
 | [Blur](https://open.spotify.com/track/1CBy3jD5S8MDEI1dRyvoiu) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:23 | 2025-03-11 |  |
+| [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 | 2026-04-04 |  |
 | [BOREDOM!](https://open.spotify.com/track/5dTAODGBAaEjfmyzaReN3Y) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 2:09 | 2024-12-06 |  |
 | [BRB!](https://open.spotify.com/track/4GosLecj1wCrAdmRBVD337) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [BRB!](https://open.spotify.com/album/0MA5nkZTEFn9tT4adIjfyX) | 2:53 | 2024-12-08 |  |
+| [Break This The Breaking Point 2](https://open.spotify.com/track/0lUHAZHS5h2dbBfNtlrVOJ) | [Vertigoaway](https://open.spotify.com/artist/3QkzcRNHg1pCeifBUZGmb6), [Schizoscriptures](https://open.spotify.com/artist/64LYhSAUT9Qa6vetuexsfQ) | [Break This The Breaking Point 2](https://open.spotify.com/album/43JCLCZathutygyC6Fhjok) | 7:27 | 2026-04-04 |  |
 | [Breathing!](https://open.spotify.com/track/74Dqn3jSYcihyBmGzumyUN) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Breathing!](https://open.spotify.com/album/7007az12IqoNjw9Ouid8aW) | 1:34 | 2025-05-28 |  |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2025-03-01 | 2025-09-30 |
 | [C WUT I B!](https://open.spotify.com/track/1mRuLm9uwirKqG58G5Sx6b) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [C WUT I B!](https://open.spotify.com/album/6a3YLl2Py8i6DsOmSrdJfT) | 2:34 | 2024-12-08 |  |
@@ -51,6 +53,7 @@
 | [Caroline](https://open.spotify.com/track/1QihdrOippsltEK1LqdbPI) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:32 | 2025-03-14 |  |
 | [COME GET UR MANZ!](https://open.spotify.com/track/7FLjMlLRCwhMGXfSqxXKes) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [COME GET UR MANZ!](https://open.spotify.com/album/5jLOkfL9CXuI7qalnW1gDD) | 2:25 | 2025-01-16 |  |
 | [Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 3:43 | 2025-05-20 |  |
+| [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 | 2026-04-04 |  |
 | [could you care less?](https://open.spotify.com/track/1G4YZUPeJ4qpPcUbggoPeE) | [threedimensionsapart](https://open.spotify.com/artist/70NihY4U5ZPHsbgeD1EJoE) | [bliss](https://open.spotify.com/album/6I9fLhZ7IUK5uO63pSAWqH) | 1:55 | 2025-07-06 | 2025-11-04 |
 | [crashed](https://open.spotify.com/track/10yGK9L3lAjcBh4HniEzfq) | [Jades](https://open.spotify.com/artist/5cpCYa1BaBS52GrkmLob1u) | [crashed](https://open.spotify.com/album/1VRG1LmrW2i6ODuZLcu2cf) | 2:28 | 2025-07-26 |  |
 | [Crawling](https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:28 | 2025-01-16 |  |
@@ -212,6 +215,7 @@
 | [RUNNITUP!](https://open.spotify.com/track/7v1aan5oWUIg3NWkqDMypW) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:08 | 2025-03-24 |  |
 | [S33K H3LP](https://open.spotify.com/track/18fdn0a52Pn7HRW716uMaz) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [S33K H3LP](https://open.spotify.com/album/3mEC2cKX35nyU8DJJHek0i) | 0:54 | 2025-03-04 | 2025-04-11 |
 | [Safe And Sound](https://open.spotify.com/track/5p6LF52hf7Vu89rnQd0Q1B) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Safe And Sound](https://open.spotify.com/album/0QPgqLJiQi4dHrvmS4qYbi) | 2:28 | 2025-07-25 |  |
+| [She Hates Me](https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:36 | 2026-04-04 |  |
 | [Shed](https://open.spotify.com/track/175lpKNwpd62TOw2ZvO1xG) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [Promo '21](https://open.spotify.com/album/3mjHlfaqth04YhzLunD4hN) | 3:58 | 2025-03-11 |  |
 | [Skamming Shit](https://open.spotify.com/track/0cwyO6cv3du1bYdqmThzr9) | [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Ugly Muzik, Vol\. 1](https://open.spotify.com/album/3bxRsBmefXN737C1D4CSAf) | 1:40 | 2026-01-06 |  |
 | [SMOKE IT OFF!](https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S) | 1:57 | 2024-12-31 |  |
@@ -223,6 +227,7 @@
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2025-07-13 |  |
 | [stay the night pluggnb](https://open.spotify.com/track/7mAhxVbneXAvOLv7dyG2NM) | [cadenkala](https://open.spotify.com/artist/2rzk5yjCatuGzQLDawKsXe), [tabris](https://open.spotify.com/artist/4lGxmCxpRK0pHo7EuakiFH) | [stay the night pluggnb](https://open.spotify.com/album/3dzg55rvSePS00QhW1p4sX) | 2:07 | 2025-05-22 |  |
 | [stfu.](https://open.spotify.com/track/78oBJ5afRt9xibIv5Tsfnq) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [stfu.](https://open.spotify.com/album/0SRYzffT84QwJv5LCeluhL) | 1:43 | 2024-11-21 |  |
+| [strangers that don't hate eachother anymore.](https://open.spotify.com/track/5Gn2xMBNpAjNgvgDXDySpy) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 1:18 | 2026-04-03 |  |
 | [stuck in my room.](https://open.spotify.com/track/6AG0U6Mp9V8lo0uRuAgGzZ) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [PINK HAIR!](https://open.spotify.com/album/2AvVihuwf4zWDOnnsaWUNQ) | 3:01 | 2026-01-25 |  |
 | [stuckk on you](https://open.spotify.com/track/4Es5Ngl8ETnV5EXzbsxMWM) | [otuka](https://open.spotify.com/artist/2VxINnkFPw2Sd6MiyKxN4B) | [stuckk on you](https://open.spotify.com/album/3ouWk2kW2bEtX2zz2neUaL) | 2:03 | 2024-12-25 |  |
 | [Summer Dub](https://open.spotify.com/track/0MaCHDp2w5kM0fPuYQpDGh) | [Wez Devine](https://open.spotify.com/artist/30tYWjGZbGNowjOI0bl6XG) | [Summer Motion](https://open.spotify.com/album/48oNciJNJ5a6Ut0d5PbpL0) | 3:21 | 2025-04-14 |  |
@@ -273,7 +278,7 @@
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2025-05-20 |  |
 | [you](https://open.spotify.com/track/0WPubN7ZXjtulq7wyU5y5c) | [Jades](https://open.spotify.com/artist/5cpCYa1BaBS52GrkmLob1u) | [you](https://open.spotify.com/album/1FDv2gaNy1nRMtkBSkoxQr) | 2:23 | 2025-07-26 |  |
 | [YOU'RE TOO SLOW](https://open.spotify.com/track/5EloqweGioDEbqiGXTYWgE) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [YOU'RE TOO SLOW](https://open.spotify.com/album/1LY8hZmcDY1eC36qR5jAEz) | 1:56 | 2025-04-12 |  |
-| [young](https://open.spotify.com/track/1f0Ar8UYiDo3pI2AWhQRLw) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9) | [young](https://open.spotify.com/album/0YEId6xTxxIB0udIsCDSMs) | 2:31 | 2025-02-14 |  |
+| [young](https://open.spotify.com/track/1f0Ar8UYiDo3pI2AWhQRLw) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9) | [young](https://open.spotify.com/album/0YEId6xTxxIB0udIsCDSMs) | 2:31 | 2025-02-14 | 2026-04-04 |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2025-02-26 |  |
 | [YUCK!](https://open.spotify.com/track/37nSkzg3bcTQz0bS3snV3e) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [SWAGGOT!](https://open.spotify.com/album/4WJUXqDqrqXFmA2dDUasSg) | 1:34 | 2025-11-29 |  |
 | [Биг Сити Лайф](https://open.spotify.com/track/3cqVWI3s0TgcesZsyi42Xp) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [Биг Сити Лайф](https://open.spotify.com/album/4GIGtvvVL4PTa25xN6dnMP) | 2:08 | 2025-08-11 |  |

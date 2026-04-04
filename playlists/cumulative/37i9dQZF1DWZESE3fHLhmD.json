@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Good, Like It Should Be",
+        "url": "https://open.spotify.com/album/2LyI09qk1IMuLrpNAwA8cd"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "Give It All Away",
+      "url": "https://open.spotify.com/track/4xMPRwyHSj4XLWDBiYsORL"
+    },
+    {
+      "album": {
         "name": "Glide",
         "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
       },
@@ -6750,24 +6768,6 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
-    },
-    {
-      "album": {
-        "name": "Good, Like It Should Be",
-        "url": "https://open.spotify.com/album/2LyI09qk1IMuLrpNAwA8cd"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        }
-      ],
-      "date_added": "2026-04-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/4xMPRwyHSj4XLWDBiYsORL"
     },
     {
       "album": {

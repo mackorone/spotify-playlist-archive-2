@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Say She She
 
-341 songs - 21 hr 0 min
+342 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Faces](https://open.spotify.com/track/7xJXzykZkjJLdIjTws8Piu) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [Comedown](https://open.spotify.com/album/6dMQpXeo2FcdgPEItBtbGp) | 2:21 | 2022-03-11 | 2022-11-13 |
 | [Fall For You](https://open.spotify.com/track/3zfBJlugaINCF6UyRiVg2J) | [David Hansen](https://open.spotify.com/artist/2Wm55svxm4cvVLWwHtZN5E), [Jimmy Rivler](https://open.spotify.com/artist/2VcGBf5YDWgKpQedSvx58i) | [Fall For You](https://open.spotify.com/album/2HddKmvwQaapR7OiIOqS8Q) | 2:55 | 2022-06-03 | 2023-09-16 |
 | [Far Too Long](https://open.spotify.com/track/1OrOKPU1gkvREJenk6m7U4) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Far Too Long](https://open.spotify.com/album/20JmqCKJnP9Bxk3Qd5BJTv) | 3:58 | 2026-03-20 |  |
-| [Feel Good Too](https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:59 | 2023-06-23 |  |
+| [Feel Good Too](https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:59 | 2023-06-23 | 2026-04-04 |
 | [Feel Good Too](https://open.spotify.com/track/5bTWUSy1Xwm8bNwbc419wP) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 3:59 | 2023-06-23 | 2024-04-19 |
 | [Feel So Good](https://open.spotify.com/track/6Zoi8MTQJ5UZ28Xra0FAAn) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Feel So Good](https://open.spotify.com/album/4Y0TmKELuNPjdLFNAEC4An) | 3:27 | 2022-02-11 | 2023-01-06 |
 | [Feel The Groove](https://open.spotify.com/track/0wjJfVH7DCVSeOXxkpFNNE) | [Seb Skalski](https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Feel The Groove](https://open.spotify.com/album/7bOqJYBRGtDpx0NV5yuizR) | 4:43 | 2023-05-19 | 2026-01-31 |
@@ -197,6 +197,7 @@
 | [Love Like That](https://open.spotify.com/track/4SeRgGadREC8IIbRuhs6Rd) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Love Like That](https://open.spotify.com/album/4mYaGC7BV3dTYtS6c34ftw) | 3:18 | 2023-03-10 | 2023-04-01 |
 | [Lucid](https://open.spotify.com/track/55P4JZd6AIy0uw7Idyod5e) | [Leif](https://open.spotify.com/artist/18Hmt48JdoqU1aNfFjlXEN), [J Matty](https://open.spotify.com/artist/1TNhcMWtFXnVTeBHyVQkfw) | [Lucid](https://open.spotify.com/album/3nCkMF4a6k4y53S5esgacG) | 2:46 | 2022-09-30 | 2023-03-11 |
 | [Magic](https://open.spotify.com/track/79IUJvJMFv3rOvKTs0eIhr) | [dazeychain](https://open.spotify.com/artist/6nRyak5Bpqz95OwA9JUBVE), [The Wildcardz](https://open.spotify.com/artist/5pcPCj25V5zH3ly8v6JF8L) | [Magic](https://open.spotify.com/album/1FH0tgNLVXGIYwQO5o7YLc) | 2:29 | 2022-11-18 | 2023-05-27 |
+| [Magic](https://open.spotify.com/track/6QkYXTsaOVpz5wmJ4e3eoa) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Magic](https://open.spotify.com/album/2iIW1BhkogoZIZSZeBIFA1) | 3:41 | 2026-04-03 |  |
 | [Make That Change](https://open.spotify.com/track/176TfrKxalkOzOcSG1Mhyw) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2) | [Make That Change](https://open.spotify.com/album/2MjTzcFBoxPTWKrIB3iQAW) | 4:40 | 2022-10-21 | 2024-02-10 |
 | [Mess It Up \- Purple Disco Machine Remix](https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Mess It Up \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0L6IypGWr61krz90boqPDD) | 3:35 | 2023-11-17 |  |
 | [Messie](https://open.spotify.com/track/36IHDOzNRDPltiZTYCbuwa) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D) | [Messie](https://open.spotify.com/album/56tFnMDVp2wNef1zSmME0H) | 3:51 | 2025-02-07 |  |
