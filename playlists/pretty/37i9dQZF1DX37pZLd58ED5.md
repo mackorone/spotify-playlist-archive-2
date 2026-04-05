@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Paky
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,645 likes - 109 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,661 likes - 109 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

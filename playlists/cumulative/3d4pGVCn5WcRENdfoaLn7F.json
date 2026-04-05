@@ -1609,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "In My Own Way",
+        "url": "https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi"
+      },
+      "artists": [
+        {
+          "name": "Field of View",
+          "url": "https://open.spotify.com/artist/77F2OeJqiPVTeAwBeu2gxG"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150102,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR"
+    },
+    {
+      "album": {
         "name": "Humano-Alien",
         "url": "https://open.spotify.com/album/6cUJRgKLTiYSKjrb5IFTSJ"
       },
@@ -2553,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "long road",
+        "url": "https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP"
+      },
+      "artists": [
+        {
+          "name": "tina.",
+          "url": "https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215604,
+      "name": "long road",
+      "url": "https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE"
       },
@@ -2590,6 +2626,24 @@
       "duration_ms": 171732,
       "name": "Lost My Head",
       "url": "https://open.spotify.com/track/2O6VL9AlSxIasx5yzSBlT0"
+    },
+    {
+      "album": {
+        "name": "MAD MAN",
+        "url": "https://open.spotify.com/album/3k3JTOmVTwBAUtusdjOiW8"
+      },
+      "artists": [
+        {
+          "name": "GUGGISBERG",
+          "url": "https://open.spotify.com/artist/6u9vPlPfLh50z81XYdsahe"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188438,
+      "name": "MAD MAN",
+      "url": "https://open.spotify.com/track/6JazoIXIOMSFagj2YKNfBJ"
     },
     {
       "album": {

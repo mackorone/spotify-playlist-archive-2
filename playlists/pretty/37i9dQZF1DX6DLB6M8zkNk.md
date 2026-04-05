@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,447 likes - 93 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,715 likes - 93 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 18 | [Adagio of Spartacus and Phrygia \(Transcr\. E\. Khachaturian for Solo Piano\) \- Excerpt](https://open.spotify.com/track/49cQcHJqOsyBRSwxLTWoP5) | [Aram Khachaturian](https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Khachaturian: Adagio of Spartacus and Phrygia \(Transcr\. E\. Khachaturian for Solo Piano\) \[Excerpt\]](https://open.spotify.com/album/1Zlga8aRnOCFzmtvUuYeff) | 1:47 |
 | 19 | [Liz On Top Of The World \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/1nd0AX0VYGQb2pF442YqGj) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 1:22 |
 | 20 | [Love Letters](https://open.spotify.com/track/3wwfsRIg1sqePnlAhr7hVU) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [Love Letters](https://open.spotify.com/album/4rev9Nj1dnmqnIGffvqM8X) | 1:35 |
-| 21 | [Für Elise Extended Variation \(After Beethoven's Bagatelle No\. 25 in A Minor, WoO 59\)](https://open.spotify.com/track/3boq2aKhjKSbs0kA0MMXHN) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [My Way](https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ) | 2:53 |
+| 21 | [Für Elise Extended Variation \(After Beethoven's Bagatelle No\. 25 in A Minor, WoO 59\)](https://open.spotify.com/track/3boq2aKhjKSbs0kA0MMXHN) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH), [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) | [My Way](https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ) | 2:53 |
 | 22 | [River Waltz \- From "The Painted Veil" Original Soundtrack](https://open.spotify.com/track/4ymJo2WLb6jikYZHaZDdL9) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Prague Symphony Orchestra](https://open.spotify.com/artist/6D3rLhEkc3t1zLltUNOSxg) | [The Painted Veil](https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz) | 2:22 |
 | 23 | [Now We Are Free \- \(From "Gladiator"\) \- Piano Version](https://open.spotify.com/track/3fC4rRqg5oLATBWmsLRl46) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Now We Are Free \(From "Gladiator" \- Piano Version\)](https://open.spotify.com/album/4HbvuYFVhbwrCiVUMDFu0Z) | 2:45 |
 | 24 | [Pathos](https://open.spotify.com/track/3xtZEGTqd4vlcVZn9XP7uI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Pathos](https://open.spotify.com/album/4DmcATr0IItDrDAbccsrvZ) | 7:06 |

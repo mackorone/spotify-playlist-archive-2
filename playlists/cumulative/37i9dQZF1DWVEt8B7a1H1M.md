@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-168 songs - 9 hr 22 min
+169 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Morning Songbirds](https://open.spotify.com/track/1JKRtDy8YnoW02hugwW3pl) | [Nature Sounds Artists](https://open.spotify.com/artist/2wdilDjBFjtfm30BczhsPa) | [Nature Sounds: Ocean Waves, Forest Sounds, Rain, Soft Breezes Wind](https://open.spotify.com/album/265JVBSN2QBT7X0OnhJltv) | 5:26 | 2021-12-08 | 2022-07-05 |
 | [My Forest](https://open.spotify.com/track/5CpOvsRAL1bGrQJkh6BhKp) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [My Forest](https://open.spotify.com/album/1oe0LQiGTDp2tjxgEjpXtc) | 2:37 | 2023-06-20 | 2025-07-22 |
 | [Natural and Wild Birds Singing](https://open.spotify.com/track/1U4yMwxEEI7IXZPysM5jxP) | [101 Noise](https://open.spotify.com/artist/4DFZxJir9eDvJM7Tbr4HYI), [Forest Sounds](https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx), [Nature Therapy](https://open.spotify.com/artist/0i427rmFO91za6EZmhbSCh) | [Birds in Nature, Whistling Birds, Nature Sounds for Deep Sleep](https://open.spotify.com/album/762pFiHP51wPNr8b7IgPUw) | 2:13 | 2025-07-21 |  |
+| [Natural Forest Quiet](https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Natural Forest Quiet](https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q) | 2:28 | 2026-04-02 |  |
 | [Nature Sounds](https://open.spotify.com/track/0aiIxhhNwCZcUF4foUSpNa) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:08 | 2021-12-08 |  |
 | [Nature Sounds of Walden Pond](https://open.spotify.com/track/5gEuYirrr93QjnpKunXCfZ) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains](https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9) | 4:12 | 2021-12-08 | 2022-07-05 |
 | [Nature Spa](https://open.spotify.com/track/58U9Vz4WItLGFOK2H5Nza6) | [Mindwhisper](https://open.spotify.com/artist/5BX3dSELFDJypM7828gUaL) | [Nature Spa](https://open.spotify.com/album/1TOe8ijERlKamh7aFB2ZJz) | 2:34 | 2023-06-19 |  |
@@ -175,6 +176,6 @@
 | [Vogelgezwitscher](https://open.spotify.com/track/1g6cnSGhFUyP3XIJ1Jku1f) | [Berlin Rain](https://open.spotify.com/artist/367WqYA55AUDT7u8TMBVsy) | [Vogelgezwitscher](https://open.spotify.com/album/3d2efairwF2VEGbYPjDigj) | 2:56 | 2021-12-08 | 2022-07-05 |
 | [Wide Forest Birds](https://open.spotify.com/track/1LpNmVAC0WE75GCwcOzAIr) | [House Bird](https://open.spotify.com/artist/5QWe1SYr4B5uriokmL0pSg) | [Wide Forest Birds](https://open.spotify.com/album/5TowgUxxmnHsGWBYbTdFn5) | 2:37 | 2023-06-20 | 2023-12-21 |
 | [Wild Nature Birds](https://open.spotify.com/track/0QmgFStTBjFstSjyDUb3Va) | [Arico Mist](https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu) | [Wild Nature Birds](https://open.spotify.com/album/0GcCzT6z7ZhVeo78qy9rOo) | 2:13 | 2026-04-02 |  |
-| [Wildwood Meditation](https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 3:56 | 2023-06-20 |  |
+| [Wildwood Meditation](https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 3:56 | 2023-06-20 | 2026-04-05 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

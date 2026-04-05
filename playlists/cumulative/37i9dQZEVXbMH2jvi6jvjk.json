@@ -24574,7 +24574,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 394285,
       "name": "Iphupho (feat. Thatohatsi)",
       "url": "https://open.spotify.com/track/6t7jwNNBTceuXuVeT71naT"
@@ -24662,7 +24662,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
@@ -28786,7 +28786,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 305084,
       "name": "LALELA",
       "url": "https://open.spotify.com/track/4Ke3JZ2L1kvomFvDKwERxW"
@@ -39879,6 +39879,24 @@
     },
     {
       "album": {
+        "name": "OVERLOAD",
+        "url": "https://open.spotify.com/album/6Fp2ZXyLwRl0572P0H8rGn"
+      },
+      "artists": [
+        {
+          "name": "Mjabulisi",
+          "url": "https://open.spotify.com/artist/7cHTggdS9DqKE9oP1FTuZS"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282671,
+      "name": "OVERLOAD",
+      "url": "https://open.spotify.com/track/2tcfi6QMmWtxkAWqLSFe5v"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -41144,7 +41162,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 350365,
       "name": "Phesheya",
       "url": "https://open.spotify.com/track/47wmNGuyHyGo8Qefh4aTKS"
@@ -51442,7 +51460,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 346277,
       "name": "Thandolwethu",
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"
@@ -56398,7 +56416,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 356306,
       "name": "Ungukuphila",
       "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
@@ -59228,7 +59246,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 211565,
       "name": "We-Skhinkily",
       "url": "https://open.spotify.com/track/0MBvgnHXWHA9iusb7TZb9K"

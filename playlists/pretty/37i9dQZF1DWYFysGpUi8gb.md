@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes us feel interesting, featuring mary in the junkyard
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,151 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,142 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Seabird](https://open.spotify.com/track/5aYo4nBVtlglkUQwpa9f8P) | [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Seabird](https://open.spotify.com/album/2p4UiKkEHHMq2Wq91HgAif) | 4:38 |
 | 80 | [Play Pretend](https://open.spotify.com/track/3LxPW6GwjZYEMwDQfqLHkE) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [9Million](https://open.spotify.com/album/79py83N1md93QCNFPoSfQF) | 3:26 |
 
-Snapshot ID: `AAAAADv2LvEX+7B8rt4GSjgmpbgyg2Lm`
+Snapshot ID: `AAAAALyANOLi888v0yXrzy/hVh4OU/bH`

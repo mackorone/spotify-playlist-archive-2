@@ -1703,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Echoes of Euphoria",
+        "url": "https://open.spotify.com/album/2ua5it6odgz5gpHn3YokMF"
+      },
+      "artists": [
+        {
+          "name": "Monod",
+          "url": "https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302608,
+      "name": "Echoes of Euphoria",
+      "url": "https://open.spotify.com/track/4FsdFmFeaG94AMfUBuotrU"
+    },
+    {
+      "album": {
         "name": "Ecstasy of Gold (P.R.O.G. Remix)",
         "url": "https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo"
       },
@@ -5616,7 +5634,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 329565,
       "name": "Stupid as Fvck (Physis Remix)",
       "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"

@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 177450,
       "name": "Colocado",
       "url": "https://open.spotify.com/track/0zen90CusEWQdCEJeYfD2e"
@@ -1492,6 +1492,24 @@
       "duration_ms": 227213,
       "name": "Soy Aquel",
       "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/5DCdfrzUQWPYiVV21M5too"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/4LuCgpmtwJTYjMJMBUQ36a"
     },
     {
       "album": {

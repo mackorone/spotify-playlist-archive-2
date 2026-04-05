@@ -1679,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Autumn's End",
+        "url": "https://open.spotify.com/album/67OufTMiO7kYZiFfsHUyye"
+      },
+      "artists": [
+        {
+          "name": "dusk:dawn",
+          "url": "https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161086,
+      "name": "Autumn's End",
+      "url": "https://open.spotify.com/track/0mzt5RJDfGnPM9ik7gULaV"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/70hKBo3cY1pZtkJ7dpcG95"
       },
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 158778,
       "name": "Be Somewhere",
       "url": "https://open.spotify.com/track/7IddP0tIBe0Hh9oCYdtuyX"
@@ -9915,6 +9933,28 @@
     },
     {
       "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/0RsVE36DL7EgDlUpSayRZh"
+      },
+      "artists": [
+        {
+          "name": "Willow",
+          "url": "https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb"
+        },
+        {
+          "name": "Avira",
+          "url": "https://open.spotify.com/artist/1wytsm0cwx7Vw9kIVyyWWI"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216014,
+      "name": "Forever Yours",
+      "url": "https://open.spotify.com/track/17oBZEj9HRuvMfQgsb7kHV"
+    },
+    {
+      "album": {
         "name": "Forgot About Me",
         "url": "https://open.spotify.com/album/3daHPnxZulwPi4WlkD1ddj"
       },
@@ -12064,7 +12104,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 157860,
       "name": "Hold You Close",
       "url": "https://open.spotify.com/track/77PdeNPpdJgGQXQLUnZVJf"
@@ -22080,7 +22120,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Remember the Days",
       "url": "https://open.spotify.com/track/5jY7V6crT7TZJ7ZlkWNw9F"
@@ -22336,7 +22376,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 166158,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4kQMYQM70PTPnqy7mvm6yW"

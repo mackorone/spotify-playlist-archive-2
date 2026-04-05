@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Tardive Regrets",
+        "url": "https://open.spotify.com/album/77va0OIaUtjTkmbMJ0BWsT"
+      },
+      "artists": [
+        {
+          "name": "QRU",
+          "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269217,
+      "name": "Tardive Regrets",
+      "url": "https://open.spotify.com/track/35kZqVylkAuIm3SXCwSboG"
+    },
+    {
+      "album": {
         "name": "Just Floating Around",
         "url": "https://open.spotify.com/album/6Y2DgPHWYefamzoqy2M0pE"
       },

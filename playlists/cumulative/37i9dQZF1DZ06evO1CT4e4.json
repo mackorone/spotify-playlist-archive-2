@@ -830,7 +830,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 709666,
       "name": "Fratres (Version for 12 Cellos) - For 12 Celli",
       "url": "https://open.spotify.com/track/3yb6Pn8xeTANmqTPTHpwRI"
@@ -1686,6 +1686,28 @@
       "duration_ms": 332839,
       "name": "Silouans Song",
       "url": "https://open.spotify.com/track/4q1ZdfNAC0gOAQSOj65ux0"
+    },
+    {
+      "album": {
+        "name": "P\u00e4rt: Spiegel im Spiegel",
+        "url": "https://open.spotify.com/album/2F238ewBYteHd1bVVoLvuz"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Duo Gazzana",
+          "url": "https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625986,
+      "name": "Spiegel im Spiegel",
+      "url": "https://open.spotify.com/track/58i6YHZ4xZtxwGMhWVOWFD"
     },
     {
       "album": {

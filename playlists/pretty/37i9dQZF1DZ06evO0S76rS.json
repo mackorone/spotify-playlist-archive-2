@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 163314,
+  "num_followers": 163337,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac2xgAAAAAD+I+VSR2tLTL6weYuftkyF",
+  "snapshot_id": "ac8DAAAAAAAVFkWjtSgTZCO4AtOiNooQ",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huellas Del Pasado",
-        "url": "https://open.spotify.com/album/0KytSLo7Ou7LnBeAS9KUqy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 306893,
-      "name": "Es Mejor No Despertar",
-      "url": "https://open.spotify.com/track/7CWtHOMsTfdeI5iFvuBPGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 287000,
       "name": "Rupelto Mena",
       "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Huellas Del Pasado",
+        "url": "https://open.spotify.com/album/0KytSLo7Ou7LnBeAS9KUqy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 306893,
+      "name": "Es Mejor No Despertar",
+      "url": "https://open.spotify.com/track/7CWtHOMsTfdeI5iFvuBPGz"
     },
     {
       "added_at": null,

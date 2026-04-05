@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance tracks from independent artists & labels\. Featuring Osmosis Jones\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,527 likes - 65 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,572 likes - 65 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All The Money In The World](https://open.spotify.com/track/56kEN75zpdmdlprv6VlejQ) | [Osmosis Jones](https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n) | [All The Money In The World](https://open.spotify.com/album/3cMXPuYSRoIhNCGLGDVAz0) | 3:45 |
-| 2 | [In The Air](https://open.spotify.com/track/0QfHRJwzVFgNLQwZmMpUfz) | [Jeno](https://open.spotify.com/artist/6a6RDE2aXu0ZPQPxpllNps), [Wempe](https://open.spotify.com/artist/55DlXvQEA1caP9xf39DSlW) | [In The Air](https://open.spotify.com/album/6ThBelfuz9hYQLrF2rGKrV) | 3:36 |
+| 2 | [TU](https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN) | [fromclay](https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu) | [TU](https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI) | 2:40 |
 | 3 | [Jump In](https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Jump In](https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H) | 2:30 |
-| 4 | [TU](https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN) | [fromclay](https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu) | [TU](https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI) | 2:40 |
+| 4 | [In The Air](https://open.spotify.com/track/0QfHRJwzVFgNLQwZmMpUfz) | [Jeno](https://open.spotify.com/artist/6a6RDE2aXu0ZPQPxpllNps), [Wempe](https://open.spotify.com/artist/55DlXvQEA1caP9xf39DSlW) | [In The Air](https://open.spotify.com/album/6ThBelfuz9hYQLrF2rGKrV) | 3:36 |
 | 5 | [Grab Me Water](https://open.spotify.com/track/2aLzIJ1mikuw6xWuynqycG) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs), [Ancona](https://open.spotify.com/artist/177HU6uNxKwrQIFvmmkFqR), [Eddie Caine](https://open.spotify.com/artist/0Z2wIXTdaJbZWCzrfNREWl) | [Grab Me Water](https://open.spotify.com/album/13c41UsdcLme5PJh6L7J5G) | 3:25 |
 | 6 | [Space Funk](https://open.spotify.com/track/7kNGpPxG8mGt8KoQGxTJ6O) | [Jackyboom](https://open.spotify.com/artist/4CN3qy1m5QklCe8Sh2HnId) | [Space Funk](https://open.spotify.com/album/0Nf43k9YMvQ0mo6A41w1kC) | 2:50 |
 | 7 | [Too Late](https://open.spotify.com/track/4vlSOYbHKPSMF6MuNSUeIR) | [ForgiveMeTommy!](https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA) | [Too Late](https://open.spotify.com/album/3jSEJZJVWl7BtoXg1Z0I6t) | 4:10 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 64 | [GORILLA](https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGURI ZOO](https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL) | 2:19 |
 | 65 | [I Get This Feeling](https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz) | [Slaycey](https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq) | [I Get This Feeling](https://open.spotify.com/album/4sMQUgbUNDf576Cu9FQKI5) | 3:31 |
 
-Snapshot ID: `AAAAAN0oK72KEffGRdjdnNWF6yquTsRQ`
+Snapshot ID: `AAAAAPadkbq9+dxsRc/SmA8qh3XGpt4z`

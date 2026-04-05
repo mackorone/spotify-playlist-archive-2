@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 27878,
+  "num_followers": 27876,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac2xgAAAAABlz8BEknoa4MMj2M2zMSfs",
+  "snapshot_id": "ac8DAAAAAABFkvQEj9/C3SQhWph+WD87",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8f4d\uff5eWadachi\uff5e",
-        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
+        "name": "RE-BIRTH",
+        "url": "https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 266506,
-      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
-      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
+      "duration_ms": 259066,
+      "name": "RE-BIRTH",
+      "url": "https://open.spotify.com/track/3190gr8W9xB8znxUzNXYAU"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RE-BIRTH",
-        "url": "https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m"
+        "name": "\u8f4d\uff5eWadachi\uff5e",
+        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 259066,
-      "name": "RE-BIRTH",
-      "url": "https://open.spotify.com/track/3190gr8W9xB8znxUzNXYAU"
+      "duration_ms": 266506,
+      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KINGDOM",
-        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 300173,
-      "name": "\u541b\u304c\u3044\u305f\u590f",
-      "url": "https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 229453,
       "name": "STAR",
       "url": "https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KINGDOM",
+        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 300173,
+      "name": "\u541b\u304c\u3044\u305f\u590f",
+      "url": "https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi"
     },
     {
       "added_at": null,

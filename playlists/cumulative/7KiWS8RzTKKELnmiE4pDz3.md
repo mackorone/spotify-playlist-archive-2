@@ -4,7 +4,7 @@
 
 > 
 
-1,415 songs - 3 day 2 hr 58 min
+1,416 songs - 3 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [All the Way](https://open.spotify.com/track/1H7L66uMYxG6MpB2r4DklO) | [Strange Fruit Project](https://open.spotify.com/artist/5sU2ovyukWzzvQw3Jo1SI9) | [Soul Travelin'](https://open.spotify.com/album/2b1MD1Zc702dqzjatsT51y) | 4:07 | 2026-01-13 | 2026-03-08 |
 | [All Work](https://open.spotify.com/track/0GNbF413D1n8yS2vLpOBhl) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Back at Burnie’s](https://open.spotify.com/album/2sWApfoBIZpXEYPFCeIiBn) | 2:30 | 2025-08-14 | 2026-03-08 |
 | [Alone](https://open.spotify.com/track/1BuN2kMDQrXhS73RrTNRyY) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Alone](https://open.spotify.com/album/15Yomku18T30aig4W9l7dY) | 3:44 | 2022-11-01 | 2023-03-01 |
-| [Alter Ego](https://open.spotify.com/track/5LDdlwdDIILBwIcoCrdMTo) | [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o), [GlockBoyz Teejaee](https://open.spotify.com/artist/53t9roZkWltf6zIcSHHFET) | [Alter Ego](https://open.spotify.com/album/7AoMYMDk8WjQ95TVEudUaD) | 2:21 | 2022-09-12 | 2023-12-14 |
+| [Alter Ego](https://open.spotify.com/track/5LDdlwdDIILBwIcoCrdMTo) | [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o), [GlockBoyz Teejaee](https://open.spotify.com/artist/53t9roZkWltf6zIcSHHFET) | [Alter Ego](https://open.spotify.com/album/7AoMYMDk8WjQ95TVEudUaD) | 2:21 | 2022-09-12 |  |
 | [Amanecer](https://open.spotify.com/track/0esl5kXcV6xKZZjcyTtInJ) | [Gerry Garcia](https://open.spotify.com/artist/3JBqGOnpdinzeD7sSMyiU4) | [Amanecer](https://open.spotify.com/album/3VkuGo7ePsX2G7pIzheJPI) | 2:45 | 2025-12-08 | 2026-03-08 |
 | [Amoeba](https://open.spotify.com/track/65pLdhLeA6MIZ31heNXO13) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4OJeOPIhvGErsAMDoTfm3N) | 3:06 | 2026-01-21 | 2026-03-08 |
 | [Ampd Up \(feat\. Mouse On Tha Track\)](https://open.spotify.com/track/2mbzyuS4fL72fHrmiWObXQ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Mouse On Tha Track](https://open.spotify.com/artist/26PDNPSOkjZowzVM563lKx) | [3800 Degrees](https://open.spotify.com/album/1gDwjnGfTH7BSqtc4y7AiL) | 2:45 | 2022-10-07 | 2024-03-05 |
@@ -1311,6 +1311,7 @@
 | [U could tëll](https://open.spotify.com/track/0k4Xxpf3Ml9e0UFYacCIDO) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:28 | 2022-12-16 | 2023-12-14 |
 | [U Da Man](https://open.spotify.com/track/0K76ZoODQpb87LQtzxrd5N) | [Black Moon](https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb), [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Enta Da Stage](https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ) | 4:24 | 2025-10-08 | 2026-03-08 |
 | [U Say \(feat\. Tyler, The Creator & Jay Prince\)](https://open.spotify.com/track/2p37Mfy2PWajgOS3i2aaep) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Diaspora](https://open.spotify.com/album/790qROmQ1y4aPEYLcSkScH) | 3:21 | 2025-06-25 | 2026-03-08 |
+| [U See Us](https://open.spotify.com/track/4y2URy2dAfzFzZFDlAfCi7) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/2POZpxnN6IgGAzIf5P3KHz) | 3:25 | 2026-04-04 |  |
 | [U Should Know](https://open.spotify.com/track/17vVm6v7GE2tP2KRVbCwqv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:06 | 2024-02-16 | 2024-04-24 |
 | [U Should Know](https://open.spotify.com/track/5bfKhDxMWi5Yd2B4OBYdHg) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG) | 3:06 | 2024-02-16 | 2024-02-22 |
 | [U Turn](https://open.spotify.com/track/3m4uDi8X57XVTzAjb9btNh) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Pieces of a Man](https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a) | 2:46 | 2025-07-16 | 2026-03-08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Shepherd y Niko Eme",
+  "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Tommy Royale",
   "name": "Flow Cristiano",
   "tracks": [
     {
@@ -24,6 +24,68 @@
       "duration_ms": 148181,
       "name": "01 FUEGO",
       "url": "https://open.spotify.com/track/0XVMNKaQZOpMfvBja8MGjM"
+    },
+    {
+      "album": {
+        "name": "12 Discipulos",
+        "url": "https://open.spotify.com/album/2QSsNxqp763wdtET2tfhnz"
+      },
+      "artists": [
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        },
+        {
+          "name": "Doncell",
+          "url": "https://open.spotify.com/artist/6imkQP1ATL138eKNlqHSHX"
+        },
+        {
+          "name": "Guerrero De Cristo",
+          "url": "https://open.spotify.com/artist/2wypTRX0z9NK3O39fyKp0H"
+        },
+        {
+          "name": "IAN VAS",
+          "url": "https://open.spotify.com/artist/1tlSkE8AKDxz7iPyG57fEb"
+        },
+        {
+          "name": "Trez Hache",
+          "url": "https://open.spotify.com/artist/0wgDsnsyLZpCS1Gj5cnI0r"
+        },
+        {
+          "name": "Rambo Cristiano",
+          "url": "https://open.spotify.com/artist/5hu180KYt9EtCluoX2t3pz"
+        },
+        {
+          "name": "T3STIGO",
+          "url": "https://open.spotify.com/artist/42j4v4lBzaygcfYOmj0aHw"
+        },
+        {
+          "name": "Ismael Tejada",
+          "url": "https://open.spotify.com/artist/3IhvLUi9r0RXK87gr9dVqR"
+        },
+        {
+          "name": "El levita",
+          "url": "https://open.spotify.com/artist/1myYKJpZNzWepNzXGEVzKc"
+        },
+        {
+          "name": "Javier Moreno LMV",
+          "url": "https://open.spotify.com/artist/5wZRUoK0kCG5R5NL6EAslw"
+        },
+        {
+          "name": "COSS",
+          "url": "https://open.spotify.com/artist/2AY4bpKe1mpIEwG6q5EfCX"
+        },
+        {
+          "name": "Apocalipzzy",
+          "url": "https://open.spotify.com/artist/1GaFZ6Q9LuQUc0ks1rW8bo"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470000,
+      "name": "12 Discipulos",
+      "url": "https://open.spotify.com/track/2ClupMWE8ebE5DhWEQtnl3"
     },
     {
       "album": {
@@ -324,7 +386,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 216000,
       "name": "Abnegados",
       "url": "https://open.spotify.com/track/20vm073gaC9HTiWMbIXzky"
@@ -506,7 +568,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 144000,
       "name": "Ale, Ale, Ale",
       "url": "https://open.spotify.com/track/1dEDJyzLRH9VMN4lWnJBw7"
@@ -784,10 +846,54 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 214666,
       "name": "Aqu\u00ed estoy",
       "url": "https://open.spotify.com/track/2D15016PK92Azny99LfzV0"
+    },
+    {
+      "album": {
+        "name": "ARANCELES",
+        "url": "https://open.spotify.com/album/1WWr7dGNM1YKaXOvrOgqm6"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Elikemusic",
+          "url": "https://open.spotify.com/artist/1hBJVDA61cu2Svqxm2nMor"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228506,
+      "name": "ARANCELES",
+      "url": "https://open.spotify.com/track/0qIqwQQphALH45RFoKak8a"
+    },
+    {
+      "album": {
+        "name": "Arte A\u00f1ejo",
+        "url": "https://open.spotify.com/album/6IrbHLaPlAsywHLCsOzIht"
+      },
+      "artists": [
+        {
+          "name": "Aisha Ruah",
+          "url": "https://open.spotify.com/artist/3brCegvQEvbakBXdt4DZHC"
+        },
+        {
+          "name": "Zeidah",
+          "url": "https://open.spotify.com/artist/1O9mz0prX39vdd3lsmhtXm"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153837,
+      "name": "Arte A\u00f1ejo",
+      "url": "https://open.spotify.com/track/1HPdQfSfO8emXA7myguwzh"
     },
     {
       "album": {
@@ -872,7 +978,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 177360,
       "name": "Averly Morillo: \u00bfQui\u00e9n Podr\u00e1? - Drill Remix",
       "url": "https://open.spotify.com/track/7D6Yp0nSJpISjf7DVxhjtX"
@@ -1076,7 +1182,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 219317,
       "name": "Blindao",
       "url": "https://open.spotify.com/track/4aHcs05dBFscmjwT9qdRIu"
@@ -1134,7 +1240,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 155428,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/3uqzybJEC7rlLHcgv7UHl3"
@@ -1294,7 +1400,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 221635,
       "name": "Cerca de Dios",
       "url": "https://open.spotify.com/track/4I1PiEh9GVSYmaU6KoduWV"
@@ -1682,7 +1788,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 222000,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/6xnc3Jj9JC4VTfrubr6A7b"
@@ -1846,6 +1952,24 @@
       "duration_ms": 141057,
       "name": "Cristiano y ya",
       "url": "https://open.spotify.com/track/37drRx6h3HkucekEbC9GVX"
+    },
+    {
+      "album": {
+        "name": "Crop Tee",
+        "url": "https://open.spotify.com/album/5O7j5owdqHtNkPcBrtsA0N"
+      },
+      "artists": [
+        {
+          "name": "Tati",
+          "url": "https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159506,
+      "name": "Crop Tee",
+      "url": "https://open.spotify.com/track/308bZ1L9oG2gW5ue9UiaQY"
     },
     {
       "album": {
@@ -2176,7 +2300,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 234378,
       "name": "DIEZ TRES",
       "url": "https://open.spotify.com/track/52i6fFvKp73lA7TbyRcd6K"
@@ -2202,6 +2326,24 @@
       "duration_ms": 187431,
       "name": "Diles",
       "url": "https://open.spotify.com/track/38Tj0qQJ9mJpL7seyMIEnW"
+    },
+    {
+      "album": {
+        "name": "DILES QUE LES AMO",
+        "url": "https://open.spotify.com/album/24Xd9Vzgf4oKX5nQY5LHO8"
+      },
+      "artists": [
+        {
+          "name": "Aisha Ruah",
+          "url": "https://open.spotify.com/artist/3brCegvQEvbakBXdt4DZHC"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Diles que les Amo - Intro",
+      "url": "https://open.spotify.com/track/6rzQAH1tGL7MIcZxX03Uot"
     },
     {
       "album": {
@@ -2272,7 +2414,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 163330,
       "name": "Dinero y Poder",
       "url": "https://open.spotify.com/track/3GHOsg4fBZD8p13fdusbbI"
@@ -2641,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "El Protagonista",
+        "url": "https://open.spotify.com/album/4xKFVQN5bt4RN7txJINRL2"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208301,
+      "name": "El Protagonista",
+      "url": "https://open.spotify.com/track/6qzmHgpx3pSKnOq27FtgK0"
+    },
+    {
+      "album": {
         "name": "El Verbo",
         "url": "https://open.spotify.com/album/7bc1EWe4XQQSvS7pfsvYJc"
       },
@@ -2782,7 +2942,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 183673,
       "name": "En Victoria",
       "url": "https://open.spotify.com/track/3gpU706ILTZ4lUQt3lMLfu"
@@ -2890,7 +3050,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 173008,
       "name": "ENMUS\u00c9",
       "url": "https://open.spotify.com/track/5gSgoFRdBNmP5zZRkyRM7Y"
@@ -3499,6 +3659,32 @@
     },
     {
       "album": {
+        "name": "Fuerte y Valiente",
+        "url": "https://open.spotify.com/album/4CxNpmBrZJgKiPYHq9cb9a"
+      },
+      "artists": [
+        {
+          "name": "Sir Artur",
+          "url": "https://open.spotify.com/artist/5WHErqFphxgEWJ15BFtU8X"
+        },
+        {
+          "name": "T3STIGO",
+          "url": "https://open.spotify.com/artist/42j4v4lBzaygcfYOmj0aHw"
+        },
+        {
+          "name": "La Cuarta Tribu",
+          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140676,
+      "name": "Fuerte y Valiente",
+      "url": "https://open.spotify.com/track/5r4UNrgDsIROy88HKgxP5F"
+    },
+    {
+      "album": {
         "name": "Full Color",
         "url": "https://open.spotify.com/album/6rPs4EXBOmSGienNcx8rwa"
       },
@@ -3832,6 +4018,24 @@
       "duration_ms": 205333,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/0rLTlPI6pHkqaWD4aMgQGz"
+    },
+    {
+      "album": {
+        "name": "Gracias a Dios",
+        "url": "https://open.spotify.com/album/7HFlMW0PJefJH5cRu54l9M"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Gracias a Dios",
+      "url": "https://open.spotify.com/track/7efDTxP88JKZ7jEqY1zf5H"
     },
     {
       "album": {
@@ -4897,6 +5101,24 @@
     },
     {
       "album": {
+        "name": "HANAMI",
+        "url": "https://open.spotify.com/album/7FTnxlGYwYe9b74YQXs2lW"
+      },
+      "artists": [
+        {
+          "name": "Ross",
+          "url": "https://open.spotify.com/artist/6M9ARUEWkb5cMG2KIXMHxG"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/6yjoq8sPLQpr0rMMhpmk7j"
+    },
+    {
+      "album": {
         "name": "Latidos",
         "url": "https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL"
       },
@@ -4974,7 +5196,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 175212,
       "name": "LIBERTAD",
       "url": "https://open.spotify.com/track/5cEBvjjCNPYsMjRVk4yAMx"
@@ -5100,7 +5322,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 178529,
       "name": "Llegaste",
       "url": "https://open.spotify.com/track/2A30XGbq55BHeiLGNkSJ6G"
@@ -5374,6 +5596,24 @@
       "duration_ms": 212621,
       "name": "Lo Tengo",
       "url": "https://open.spotify.com/track/2IlZIQwTZkYZMmIYCxPPjP"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/3OLyY6jQZvz4w7SPASPf06"
+      },
+      "artists": [
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225375,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/13vfQ7f2NKZe25R0JMaAaG"
     },
     {
       "album": {
@@ -5933,6 +6173,32 @@
     },
     {
       "album": {
+        "name": "MexCypher Tamaulipas",
+        "url": "https://open.spotify.com/album/3vqTRimXud9OwD9W5yxjWO"
+      },
+      "artists": [
+        {
+          "name": "La Tribu Santa",
+          "url": "https://open.spotify.com/artist/1puGaC5PaCY6qpJharKEMY"
+        },
+        {
+          "name": "Francisco Hernandez",
+          "url": "https://open.spotify.com/artist/5nUCIsYsOKfXHpueJepUIv"
+        },
+        {
+          "name": "Bener Flores",
+          "url": "https://open.spotify.com/artist/7FFsPNpl8YjSB3t3jGXc2P"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270382,
+      "name": "MexCypher Tamaulipas",
+      "url": "https://open.spotify.com/track/0PbDKCM2z1am9upkbWIF2G"
+    },
+    {
+      "album": {
         "name": "Mi Bendici\u00f3n",
         "url": "https://open.spotify.com/album/0ugVKznG2FihXDOcBfY2yc"
       },
@@ -6256,7 +6522,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 171666,
       "name": "Misi\u00f3n Tierra",
       "url": "https://open.spotify.com/track/3vJmvPFnLZm8ldcHioaktU"
@@ -7042,7 +7308,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 185333,
       "name": "Nuevo Rey",
       "url": "https://open.spotify.com/track/4Q6FGt4QnMXbgf2nbiuVlq"
@@ -7716,7 +7982,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 240500,
       "name": "Picheo",
       "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
@@ -7946,7 +8212,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 234096,
       "name": "Preocupado Por Qui\u00e9n?",
       "url": "https://open.spotify.com/track/6yFmXt81sn9MfwkNHUYo6e"
@@ -8215,6 +8481,24 @@
     },
     {
       "album": {
+        "name": "ChurchBoy",
+        "url": "https://open.spotify.com/album/1wPSVsGAZDT08vtZ36AI0R"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138385,
+      "name": "Rojo.",
+      "url": "https://open.spotify.com/track/3M5A417sq6hmH06qcfOJNa"
+    },
+    {
+      "album": {
         "name": "Romanos 6:23",
         "url": "https://open.spotify.com/album/0f6NzdP0aUp3N6AVAU5JJu"
       },
@@ -8310,7 +8594,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 226588,
       "name": "Sal\u00ed de Lo Malo",
       "url": "https://open.spotify.com/track/4p2vC6GuVMuWbtf0xYmLAQ"
@@ -8452,6 +8736,42 @@
       "duration_ms": 158658,
       "name": "se LOGR\u00d3",
       "url": "https://open.spotify.com/track/3WYaDfLj518jyPmXc52I8o"
+    },
+    {
+      "album": {
+        "name": "SEAMOS UN CUERPO",
+        "url": "https://open.spotify.com/album/3JMyL7KihNo6l4RoI2lO16"
+      },
+      "artists": [
+        {
+          "name": "Cossio",
+          "url": "https://open.spotify.com/artist/0WPWsIPiiFX36FbnTaxpaJ"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281149,
+      "name": "SEAMOS UN CUERPO",
+      "url": "https://open.spotify.com/track/7mwQ5xZ8sfV76IhqC1CMYj"
+    },
+    {
+      "album": {
+        "name": "Si Jes\u00fas Rapeara (Sermon del Monte)",
+        "url": "https://open.spotify.com/album/44q2OObLE8m9LvngeEZm8t"
+      },
+      "artists": [
+        {
+          "name": "La Cuarta Tribu",
+          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "Si Jes\u00fas Rapeara (Sermon del Monte)",
+      "url": "https://open.spotify.com/track/4lal4GYjud5ljuZvR2kYEY"
     },
     {
       "album": {
@@ -8674,6 +8994,28 @@
       "duration_ms": 198035,
       "name": "Sigo Firme",
       "url": "https://open.spotify.com/track/1ko30tEQ1NcMTBNPTeZurH"
+    },
+    {
+      "album": {
+        "name": "Sigo Siendo",
+        "url": "https://open.spotify.com/album/4jBD3aNqCCYioLeMwJBqFh"
+      },
+      "artists": [
+        {
+          "name": "DiRouse",
+          "url": "https://open.spotify.com/artist/4R4sYOEy03dxD9uIMzWNn2"
+        },
+        {
+          "name": "Christian Ponce",
+          "url": "https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170792,
+      "name": "Sigo Siendo",
+      "url": "https://open.spotify.com/track/3xl3a3h1JPdeHQMC33OIbd"
     },
     {
       "album": {
@@ -8912,6 +9254,24 @@
       "duration_ms": 122500,
       "name": "SOBRENATURAL",
       "url": "https://open.spotify.com/track/16kXyXfqIjL3IkLm8hddcJ"
+    },
+    {
+      "album": {
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/2AjD6CUaNgrpAZQRmjQ6LI"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182448,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/58r7APqn4NeDtzB5DLh2dw"
     },
     {
       "album": {
@@ -9198,6 +9558,24 @@
       "duration_ms": 172858,
       "name": "Spirit Mueve",
       "url": "https://open.spotify.com/track/45yJLuemnwlYAvJvbJFu2U"
+    },
+    {
+      "album": {
+        "name": "Su Atenci\u00f3n",
+        "url": "https://open.spotify.com/album/3gQvGSxMxuTRtr8jfTTDdV"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213938,
+      "name": "Su Atenci\u00f3n",
+      "url": "https://open.spotify.com/track/6qjJikrtlur7PMiHsuGs3f"
     },
     {
       "album": {
@@ -9716,7 +10094,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 262588,
       "name": "Traemos R.A.P.",
       "url": "https://open.spotify.com/track/2f1EjnXaWKzofiN5Cc9Lgo"
@@ -9940,7 +10318,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 244633,
       "name": "Tuyo - Remix",
       "url": "https://open.spotify.com/track/5qSX9n1khCEJY3QQHfob9Z"
@@ -10506,7 +10884,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 158203,
       "name": "Visionario 2.0",
       "url": "https://open.spotify.com/track/1rrDQr4bghABATuVKqB2u8"

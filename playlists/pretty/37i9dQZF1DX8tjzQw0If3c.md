@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Listen to the future\. Cover: Dominic Chin
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,145 likes - 111 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,146 likes - 111 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 | 110 | [crush on me?](https://open.spotify.com/track/4WKud3RIFXg2bD2D4KXPUU) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 2:55 |
 | 111 | [Emas](https://open.spotify.com/track/5ETZyQalxrY6NrYr5477HB) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Emas](https://open.spotify.com/album/1lpXnPeJRDNjeLSfHgd1JE) | 3:35 |
 
-Snapshot ID: `AAAAAEangr8tyzK9LMs0ch3Z7j6+Cpyv`
+Snapshot ID: `AAAAANHOGdsL4Ovo+CUa8OzK123VyTPo`

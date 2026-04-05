@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > jessie mazin on the cover <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,125 likes - 114 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,142 likes - 114 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

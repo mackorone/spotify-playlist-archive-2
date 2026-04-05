@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Frank Walker &amp; salem ilese
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 92,946 likes - 100 songs - 5 hr 27 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 92,939 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

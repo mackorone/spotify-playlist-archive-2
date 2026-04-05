@@ -738,7 +738,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 200212,
       "name": "Holiness",
       "url": "https://open.spotify.com/track/1J6nIylU20VOwGpBsacTOU"
@@ -908,10 +908,28 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 236189,
       "name": "How Good It Is",
       "url": "https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg"
+    },
+    {
+      "album": {
+        "name": "The King Is Still The King (Deluxe)",
+        "url": "https://open.spotify.com/album/6qcRA4xSFJSz5FJQVAbdom"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172422,
+      "name": "How Good It Is - Acoustic",
+      "url": "https://open.spotify.com/track/4umeffvGNDcQAIYxLDckqr"
     },
     {
       "album": {
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 398773,
       "name": "My Father's World - Live",
       "url": "https://open.spotify.com/track/3eJHRvWYuyfdSL06A3dA58"

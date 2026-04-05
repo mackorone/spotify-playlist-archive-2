@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POP YOURS DAY2】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: NEW COMER SHOT LIVE
+> 【POP YOURS DAY3】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: NEW COMER SHOT LIVE
 
-1,407 songs - 2 day 16 hr 52 min
+1,408 songs - 2 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -886,6 +886,7 @@
 | [Part of my past](https://open.spotify.com/track/42n08wwe5MmWySlKAlk1Om) | [jam fuden](https://open.spotify.com/artist/53XBsSeDvUdxJJGW9d0MzV), [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH) | [Lisajam!!2](https://open.spotify.com/album/0mC1ceygleSiguXtaPUYfH) | 3:26 | 2025-11-05 | 2025-12-17 |
 | [Party Girl](https://open.spotify.com/track/2tv7BJOT4drtHbIcXjJQg0) | [S9UALL](https://open.spotify.com/artist/2UB8s2QYaEKmju2NRNqPMC), [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ), [IICEKRR](https://open.spotify.com/artist/20FZdHX6dMUNhJziOE1bm8) | [GREEN REBEL](https://open.spotify.com/album/5pszcAsuJMtkeJvJv7Xt8v) | 2:27 | 2026-01-27 | 2026-02-25 |
 | [Passion fruit](https://open.spotify.com/track/33KLGJQfKu56swtp8VXVD6) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl) | [Passion fruit](https://open.spotify.com/album/1mL7H8MnqzXNul0pqgnaLt) | 1:40 | 2026-02-25 | 2026-03-18 |
+| [PASSO](https://open.spotify.com/track/1fJB5WFXOUHDVTdm0jcby6) | [27AM](https://open.spotify.com/artist/2is0dsRjGdhfOeHUnFfJFm) | [Frozen Car](https://open.spotify.com/album/5Kcs3qkYxF6O12k34toSiw) | 3:35 | 2026-04-04 |  |
 | [past](https://open.spotify.com/track/47KZgDwcb0z6X2sqWbwJYp) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [past](https://open.spotify.com/album/2D9AK05kH6jRUWzgbz0MPN) | 1:25 | 2026-01-13 | 2026-02-25 |
 | [Pay](https://open.spotify.com/track/3DgzRFDji9lqHeFRG11Q3n) | [NeS](https://open.spotify.com/artist/6Yc7exkczFuGRwaCdVA3pN) | [Pay](https://open.spotify.com/album/29I2wbRPfFbexR3EjBJ4RS) | 2:56 | 2023-12-07 | 2024-02-28 |
 | [Pay \- Remix](https://open.spotify.com/track/55xHynl6p63ZTtyBc1K7X9) | [NeS](https://open.spotify.com/artist/6Yc7exkczFuGRwaCdVA3pN), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [Pay \(Remix\)](https://open.spotify.com/album/4cD59RJcTzGyTSXKqhoRIk) | 2:56 | 2024-05-23 | 2024-07-03 |

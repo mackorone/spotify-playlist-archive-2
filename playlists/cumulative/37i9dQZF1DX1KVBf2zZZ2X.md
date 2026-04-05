@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-345 songs - 16 hr 3 min
+347 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Above The Sea](https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY) | [Hans Westerström](https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe) | [Above The Sea](https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh) | 2:14 | 2023-04-13 | 2024-08-24 |
 | [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 | 2023-03-03 | 2025-06-17 |
 | [Aeolian](https://open.spotify.com/track/5x2OsAflQhIXyAQ1zeTFII) | [Qualeis](https://open.spotify.com/artist/6HaHca1Dcrxamb4r1b0eig) | [Aeolian](https://open.spotify.com/album/5UfZsuUAgakVV1gRBUNxDX) | 2:39 | 2026-03-20 |  |
-| [Aether](https://open.spotify.com/track/5XHnc4P6NEETRROlkGBwPK) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Aether](https://open.spotify.com/album/7qOQMolxJjgGrTavuA974Y) | 3:08 | 2026-03-20 |  |
+| [Aether](https://open.spotify.com/track/5XHnc4P6NEETRROlkGBwPK) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Aether](https://open.spotify.com/album/7qOQMolxJjgGrTavuA974Y) | 3:08 | 2026-03-20 | 2026-04-05 |
 | [Agua Tranquila](https://open.spotify.com/track/3r2R9yM9lvWgZic3lnRBnn) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Agua Tranquila](https://open.spotify.com/album/24ExySexC5pNcLuEiGMnVp) | 2:57 | 2026-03-20 |  |
 | [Alba Interior](https://open.spotify.com/track/6CucfbV9cRorFGJsxvawjW) | [Ambientis](https://open.spotify.com/artist/1d6rZsRCqd4bX8i1mpC5Eg) | [Alba Interior](https://open.spotify.com/album/3kKKSiPrL6WReIc6UfZITH) | 2:35 | 2025-12-03 | 2026-03-21 |
 | [Alheimur Nature](https://open.spotify.com/track/6BuimqcmC5oOT9J852S5IF) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Alheimur Nature](https://open.spotify.com/album/326NrHb78w1mFiCxolY3bK) | 2:48 | 2024-02-06 | 2024-10-20 |
@@ -63,7 +63,7 @@
 | [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-01 | 2023-09-29 |
 | [Calm Mind, in the Forest](https://open.spotify.com/track/6j88pim2dgfpUIlf984HtC) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Calm Mind, in the Forest](https://open.spotify.com/album/0TYH8l0gdWGehsBYzlLkjq) | 2:15 | 2026-01-21 |  |
 | [Calm Moments](https://open.spotify.com/track/5dnkSxcgzgsVdUgsFNfpGB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Calm Moments](https://open.spotify.com/album/1BHKyjHNueZeBCFeAmCsRj) | 2:41 | 2024-08-23 | 2026-03-21 |
-| [Calm Skies](https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Calm Skies](https://open.spotify.com/album/0La6GTzKvt8cJVRu3W1BNQ) | 3:14 | 2025-02-21 | 2026-04-04 |
+| [Calm Skies](https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Calm Skies](https://open.spotify.com/album/0La6GTzKvt8cJVRu3W1BNQ) | 3:14 | 2025-02-21 |  |
 | [Calm Spring](https://open.spotify.com/track/45OQ4d2oF6PKUg30jIYhLD) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Calm Spring](https://open.spotify.com/album/7l3YpyW05EHVsy2LuXDIxN) | 2:42 | 2025-05-16 |  |
 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-03-03 | 2025-06-12 |
 | [Calming Birds](https://open.spotify.com/track/6Er9bq9dt39Xmv8heRUxUO) | [Aziz Kirkin](https://open.spotify.com/artist/7BPMsxBuGDkaKlsYWR38kS) | [Calming Birds](https://open.spotify.com/album/3gQmWlR1BiBnVl1xmGxQIm) | 2:04 | 2023-09-01 | 2023-09-09 |
@@ -74,7 +74,7 @@
 | [Catacea Animals](https://open.spotify.com/track/65nwy2Gx3Om5fuyySr1RAS) | [Aya Morata](https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L) | [Catacea Animals](https://open.spotify.com/album/38yEh4LCIMJil5LsbUVT6m) | 2:28 | 2023-10-16 | 2025-06-12 |
 | [Ceredona Peace \(Nature\)](https://open.spotify.com/track/253f7Tp8DzFA5q1xKlyF4K) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Ceredona Peace \(Nature\)](https://open.spotify.com/album/58qI5TV9Qdnj65CQtzldvH) | 2:42 | 2024-03-05 | 2025-09-25 |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-03-03 | 2024-07-19 |
-| [Clarity](https://open.spotify.com/track/67cezPqLN4qeuNW4ZfQkfK) | [Eomir](https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx) | [Clarity](https://open.spotify.com/album/1NlafdSdABNYHHBoEUypDg) | 2:23 | 2025-12-03 |  |
+| [Clarity](https://open.spotify.com/track/67cezPqLN4qeuNW4ZfQkfK) | [Eomir](https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx) | [Clarity](https://open.spotify.com/album/1NlafdSdABNYHHBoEUypDg) | 2:23 | 2025-12-03 | 2026-04-05 |
 | [Cleared Minds](https://open.spotify.com/track/3mtc57f0uNe2l10030GdhY) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Cleared Minds](https://open.spotify.com/album/0NRTDJY07T7InXgDq35qJd) | 2:37 | 2026-03-20 |  |
 | [Clearing](https://open.spotify.com/track/6Mwk3R7MPHpUHXutMKS80e) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Clearing](https://open.spotify.com/album/48OGNEQhJhWsFeGE6kRAoH) | 2:37 | 2025-06-11 | 2025-10-05 |
 | [Clearing](https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Clearing](https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS) | 2:40 | 2024-01-25 | 2026-03-21 |
@@ -233,6 +233,7 @@
 | [Peaceful Oasis](https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Peaceful Oasis](https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP) | 2:57 | 2025-03-19 |  |
 | [Peaceful Waters](https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Peaceful Waters](https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj) | 2:33 | 2024-07-18 | 2026-03-21 |
 | [Pentode](https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Pentode](https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A) | 2:39 | 2023-03-03 | 2024-07-19 |
+| [Philosophy of Mind](https://open.spotify.com/track/7i0bw8dAa72b1fOe3mo070) | [Pure Purposes](https://open.spotify.com/artist/4kbLiTWkq9FIV3VHRS24EY) | [Philosophy of Mind](https://open.spotify.com/album/1JSa4EWk3EaFNyJMpc8wnG) | 3:17 | 2026-03-20 |  |
 | [Pitter Patter](https://open.spotify.com/track/7JHGHOEQA2xhiraQESNSyu) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Pitter Patter](https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE) | 2:42 | 2023-03-03 | 2025-05-30 |
 | [Placid Creek](https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [Placid Creek](https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7) | 2:59 | 2024-03-01 |  |
 | [Plantae](https://open.spotify.com/track/77shZB4gVpO99vZyIbbu9B) | [Asteeõs](https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K) | [Plantae](https://open.spotify.com/album/6eHLct0TKeqb43uzPeFuVL) | 2:37 | 2026-03-20 |  |
@@ -292,7 +293,7 @@
 | [Soulful Gem](https://open.spotify.com/track/0VY33SprrlAzEkAOtxtI98) | [Increased Wither](https://open.spotify.com/artist/5kYX5ISMm4MkbVhNEL99DH) | [Soulful Gem](https://open.spotify.com/album/4vbjkgwzMkHSpQBvFOKoFk) | 2:58 | 2026-03-20 | 2026-04-03 |
 | [Sparkles Between Trees](https://open.spotify.com/track/1KivTompzOiBdFec5jkS8E) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Sparkles Between Trees](https://open.spotify.com/album/3lnKB5L6PHUGkFUCc3rskG) | 2:41 | 2025-09-24 |  |
 | [Spring is here](https://open.spotify.com/track/73eMyw7PHNRsH34UC9L8cG) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Spring is here](https://open.spotify.com/album/3bqM7XfIXMU3vho72nNFND) | 2:11 | 2024-06-03 | 2025-06-12 |
-| [Stilled Air](https://open.spotify.com/track/4CpKfxg0gFEO7MpcgXXShr) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Stilled Air](https://open.spotify.com/album/1TLRQyzf4CiddoZaqiNJg8) | 3:01 | 2026-03-20 |  |
+| [Stilled Air](https://open.spotify.com/track/4CpKfxg0gFEO7MpcgXXShr) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Stilled Air](https://open.spotify.com/album/1TLRQyzf4CiddoZaqiNJg8) | 3:01 | 2026-03-20 | 2026-04-05 |
 | [Stolen Stream Moments](https://open.spotify.com/track/7hnw4JKqdaiGhEch2TWoVR) | [Soul Pursuit](https://open.spotify.com/artist/3w48oa6N62cxzWfJQYcGpX) | [Stolen Stream Moments](https://open.spotify.com/album/2qy2vMSHgIfGtaxoGjbFPD) | 3:08 | 2024-03-20 | 2025-09-24 |
 | [Sunflower Spring](https://open.spotify.com/track/56BvbwFPV24ABrFPtcoxwM) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [Sunflower Spring](https://open.spotify.com/album/0GR9U47jNyHrUxZqHlh0xO) | 3:30 | 2025-02-21 | 2026-03-21 |
 | [Sunrise In Zen](https://open.spotify.com/track/15ykqWIK6EJzZZqOcClrtF) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Sunrise In Zen](https://open.spotify.com/album/6mNo4Z9EMW0iAvCkbMwtPq) | 2:36 | 2026-03-20 |  |
@@ -345,6 +346,7 @@
 | [Wave](https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF) | [The Lagoon](https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA) | [Wave](https://open.spotify.com/album/16S959NluCJSWVpybU2jb8) | 3:51 | 2023-03-03 | 2024-04-14 |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-03 | 2024-03-02 |
 | [Wellspring](https://open.spotify.com/track/2wDMe17O4nDaJE4x9PtQbz) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Wellspring](https://open.spotify.com/album/4tXFqj1nH4TSK9DKOKHdrt) | 2:38 | 2025-09-24 |  |
+| [Where the Rain Begins to Sing](https://open.spotify.com/track/12Yi9MWiPV33nFiccg7zzI) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Where the Rain Begins to Sing](https://open.spotify.com/album/4nA7eft1WMWMBNRqOLJsIR) | 3:20 | 2026-03-20 |  |
 | [Where We Started](https://open.spotify.com/track/1TEL8dpvn0xYNqIX5Bt4Uu) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Where We Started](https://open.spotify.com/album/4rqV31pFcmu1kaOUJBVi0b) | 3:37 | 2025-06-11 | 2025-10-09 |
 | [White Flowers](https://open.spotify.com/track/0xXfwIlYs3QqNf6DhGfb05) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [White Flowers](https://open.spotify.com/album/0IRSWDX59yB3c7uk8DAeyA) | 2:12 | 2025-09-24 |  |
 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 | 2024-03-01 | 2026-04-01 |

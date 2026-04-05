@@ -1,6 +1,6 @@
 {
   "description": "Mantras for meditation",
-  "num_followers": 230921,
+  "num_followers": 230966,
   "original_name": "Magical Mantras",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,34 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
+        "name": "Bajrang Baan",
+        "url": "https://open.spotify.com/album/4ElIZIv6fb4LRQpwIh8Kre"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Saicharan Bhaskaruni",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        },
+        {
+          "name": "Lokeshwar Edara",
+          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
+        },
+        {
+          "name": "Harshavardhan Chavali",
+          "url": "https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G"
+        }
+      ],
+      "duration_ms": 337488,
+      "name": "Bajrang Baan",
+      "url": "https://open.spotify.com/track/1Ab0PsTSuqFjU3hxdzZ41t"
+    },
+    {
+      "added_at": "2026-02-19 04:16:12",
+      "album": {
         "name": "Graceful Passages",
         "url": "https://open.spotify.com/album/0rU9Oa0xCjUbAmcIcZBIgX"
       },
@@ -383,30 +411,18 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
-        "name": "Bajrang Baan",
-        "url": "https://open.spotify.com/album/4ElIZIv6fb4LRQpwIh8Kre"
+        "name": "Om Kali Mahakali Mantra",
+        "url": "https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx"
       },
       "artists": [
         {
-          "name": "GowraHari",
-          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
-        },
-        {
-          "name": "Saicharan Bhaskaruni",
-          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
-        },
-        {
-          "name": "Lokeshwar Edara",
-          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
-        },
-        {
-          "name": "Harshavardhan Chavali",
-          "url": "https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G"
+          "name": "Chant Central",
+          "url": "https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI"
         }
       ],
-      "duration_ms": 337488,
-      "name": "Bajrang Baan",
-      "url": "https://open.spotify.com/track/1Ab0PsTSuqFjU3hxdzZ41t"
+      "duration_ms": 2826436,
+      "name": "Om Kali Mahakali Mantra",
+      "url": "https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ"
     },
     {
       "added_at": "2026-02-19 04:16:12",
@@ -423,22 +439,6 @@
       "duration_ms": 389693,
       "name": "Shivoham",
       "url": "https://open.spotify.com/track/2ifsTVDxbc3BGBPEwrOez5"
-    },
-    {
-      "added_at": "2026-02-19 04:16:12",
-      "album": {
-        "name": "Om Kali Mahakali Mantra",
-        "url": "https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx"
-      },
-      "artists": [
-        {
-          "name": "Chant Central",
-          "url": "https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI"
-        }
-      ],
-      "duration_ms": 2826436,
-      "name": "Om Kali Mahakali Mantra",
-      "url": "https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ"
     },
     {
       "added_at": "2026-02-19 04:16:12",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
-        "name": "Namami Shamishan",
-        "url": "https://open.spotify.com/album/6SWdJmXFwZzXEI35V82EpX"
-      },
-      "artists": [
-        {
-          "name": "Rohan Ajani",
-          "url": "https://open.spotify.com/artist/3GYNX8lxoarT8oUdYQb4DI"
-        }
-      ],
-      "duration_ms": 286896,
-      "name": "Namami Shamishan",
-      "url": "https://open.spotify.com/track/6nGtJ1HhbqWvgEKL2WJbj3"
-    },
-    {
-      "added_at": "2026-02-19 04:16:12",
-      "album": {
         "name": "Sacred Chants of Shiva",
         "url": "https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 393040,
       "name": "Lingashtakam",
       "url": "https://open.spotify.com/track/35VgwpmovfuGrYkLVJojnK"
+    },
+    {
+      "added_at": "2026-02-19 04:16:12",
+      "album": {
+        "name": "Namami Shamishan",
+        "url": "https://open.spotify.com/album/6SWdJmXFwZzXEI35V82EpX"
+      },
+      "artists": [
+        {
+          "name": "Rohan Ajani",
+          "url": "https://open.spotify.com/artist/3GYNX8lxoarT8oUdYQb4DI"
+        }
+      ],
+      "duration_ms": 286896,
+      "name": "Namami Shamishan",
+      "url": "https://open.spotify.com/track/6nGtJ1HhbqWvgEKL2WJbj3"
     },
     {
       "added_at": "2026-02-19 04:16:12",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
-        "name": "Shiv Tandav Stotra (Hindi Adaptation)",
-        "url": "https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF"
-      },
-      "artists": [
-        {
-          "name": "Om Voices",
-          "url": "https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK"
-        }
-      ],
-      "duration_ms": 380437,
-      "name": "Shiv Tandav Stotra (Hindi Adaptation)",
-      "url": "https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn"
-    },
-    {
-      "added_at": "2026-02-19 04:16:12",
-      "album": {
         "name": "Rudrashtakam - The Manifestation Of Shiva",
         "url": "https://open.spotify.com/album/6QJa1dUs1jgj1NRbQjzrvq"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 472500,
       "name": "Rudrashtakam - The Manifestation Of Shiva",
       "url": "https://open.spotify.com/track/64CiB4K6eabg8UK5pmlv6B"
+    },
+    {
+      "added_at": "2026-02-19 04:16:12",
+      "album": {
+        "name": "Shiv Tandav Stotra (Hindi Adaptation)",
+        "url": "https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF"
+      },
+      "artists": [
+        {
+          "name": "Om Voices",
+          "url": "https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK"
+        }
+      ],
+      "duration_ms": 380437,
+      "name": "Shiv Tandav Stotra (Hindi Adaptation)",
+      "url": "https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn"
     },
     {
       "added_at": "2026-02-19 04:16:12",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-02-19 04:16:12",
       "album": {
-        "name": "Nava Durga Gayatri Mantra Jaap",
-        "url": "https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 2062009,
-      "name": "Nava Durga Gayatri Mantra Jaap",
-      "url": "https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m"
-    },
-    {
-      "added_at": "2026-02-19 04:16:12",
-      "album": {
         "name": "My Krishna Favourites",
         "url": "https://open.spotify.com/album/48ZoHCSFnH4BQiRKXxTuUX"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 708826,
       "name": "Sri Krishnam Sharanam",
       "url": "https://open.spotify.com/track/5pI8lmM1oO98tQJAgHZRM4"
+    },
+    {
+      "added_at": "2026-02-19 04:16:12",
+      "album": {
+        "name": "Nava Durga Gayatri Mantra Jaap",
+        "url": "https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 2062009,
+      "name": "Nava Durga Gayatri Mantra Jaap",
+      "url": "https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m"
     },
     {
       "added_at": "2026-02-19 04:16:12",

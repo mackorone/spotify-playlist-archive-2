@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal\. Photo: Moses Bélanger
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,511 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,505 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 10 | [Still Got The Spirit](https://open.spotify.com/track/719Z3FXsetuWivg6bVaNVU) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Still Got The Spirit](https://open.spotify.com/album/1P6bNUdYAlOEbkWqsYImwc) | 3:06 |
 | 11 | [fin pm](https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv) | 3:11 |
 | 12 | [Ne me fais pas mal](https://open.spotify.com/track/5vMfDo2q3Pl8e4qgczvrzm) | [Édouard Tremblay\-Grenier](https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X) | [François Roberge](https://open.spotify.com/album/6sVp4J3N1Ws0Mouj5ksdAp) | 2:57 |
-| 13 | [APPELLE\-MOI TARD](https://open.spotify.com/track/624RYE1uQSFLxyXoImOyTr) | [Lexotik](https://open.spotify.com/artist/7kGFkoiwiCqh6KPZfp9aa7), [Thomas Laplante](https://open.spotify.com/artist/2EpJkVB0j0lkqTaRjdT6Ze) | [APPELLE\-MOI TARD](https://open.spotify.com/album/7pX3l7FOGSbaJFlKnpBPU2) | 2:02 |
+| 13 | [APPELLE\-MOI TARD](https://open.spotify.com/track/624RYE1uQSFLxyXoImOyTr) | [Lexotik](https://open.spotify.com/artist/7kGFkoiwiCqh6KPZfp9aa7) | [APPELLE\-MOI TARD](https://open.spotify.com/album/7pX3l7FOGSbaJFlKnpBPU2) | 2:02 |
 | 14 | [Dizzy](https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe) | [Edward Rogers](https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1) | [Dizzy](https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7) | 3:03 |
 | 15 | [Freestyle Brooklyn](https://open.spotify.com/track/1pEMEX6sM4S95nf8NoQtip) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb) | [Freestyle Brooklyn](https://open.spotify.com/album/6eDZPKR32jgfNoRfkazHg0) | 3:53 |
 | 16 | [Baby \(Version française\)](https://open.spotify.com/track/0iaPZE774qhQg2I1OXpS7x) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Baby \(Version française\)](https://open.spotify.com/album/35xdutf5J4ypyLnZQl0LuZ) | 3:46 |

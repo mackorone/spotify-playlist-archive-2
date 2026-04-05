@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 151389,
       "name": "A Relaxing View",
       "url": "https://open.spotify.com/track/63Yy8FYoqW8XZXRRbjSO8J"
@@ -774,6 +774,24 @@
       "duration_ms": 142000,
       "name": "Consistent Rain",
       "url": "https://open.spotify.com/track/1RqxfnREk3NfdYmHpALdrc"
+    },
+    {
+      "album": {
+        "name": "Constant Rain",
+        "url": "https://open.spotify.com/album/53hdfojcyilagJPXeGb40e"
+      },
+      "artists": [
+        {
+          "name": "Drip-Drop",
+          "url": "https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148464,
+      "name": "Constant Rain",
+      "url": "https://open.spotify.com/track/0vTM4tFDsKwLWgPlGfof0x"
     },
     {
       "album": {
@@ -2347,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "Lingering Rainfall",
+        "url": "https://open.spotify.com/album/2YArbWHVBkej4f4EV6E99K"
+      },
+      "artists": [
+        {
+          "name": "Contented",
+          "url": "https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Lingering Rainfall",
+      "url": "https://open.spotify.com/track/3j2JstMzDHLp0rzD60x6CE"
+    },
+    {
+      "album": {
         "name": "Pouring Rain Sounds",
         "url": "https://open.spotify.com/album/3NaD5p4jyUKuJaw49OrwW9"
       },
@@ -3640,7 +3676,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 216000,
       "name": "Rain In Budapest",
       "url": "https://open.spotify.com/track/6CpOUuOmm2BbTFARY4v0Il"

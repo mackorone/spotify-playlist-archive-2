@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > é cabelo preto é cabelo loiro os cara n tem nem aí pra NADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,451,723 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,451,703 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 59 | [Presságio \(Studio Rec \#9\)](https://open.spotify.com/track/0mqn4Z7wLkveA0DlQuARLq) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [IGÊ](https://open.spotify.com/artist/46hsJcmYDt4sJm22bv2XY2) | [Presságio \(Studio Rec \#9\)](https://open.spotify.com/album/7kRLRiRjCpzKYlO8Ku7Oxf) | 2:32 |
 | 60 | [Congelado](https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Dj Herculano](https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv) | [Congelado](https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719) | 4:17 |
 
-Snapshot ID: `AAAAAEjNOG8ZVqj5H7YDgjjPs7yYriYn`
+Snapshot ID: `AAAAAMeVINItR2tepPg/XyZp7AiA29Pp`

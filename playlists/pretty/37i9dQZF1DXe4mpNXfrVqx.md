@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes MCs do hip hop nacional\. Foto: Mc Soffia
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,662 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,687 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [MC de Batalha](https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [MC de Batalha](https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy) | 3:08 |
 | 75 | [Desfecho](https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Desfecho](https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021) | 2:22 |
 
-Snapshot ID: `AAAAANxVwuckwoXetbC5nWyojB9mffO3`
+Snapshot ID: `AAAAAJtbLx3lxoZT9mwZl6rbwmYQCBN8`

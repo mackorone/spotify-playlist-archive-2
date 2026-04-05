@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,643 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,645 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 | 22 | [i'm bored](https://open.spotify.com/track/4l0evpTGo2SGQ4KPZoPikF) | [Wain](https://open.spotify.com/artist/6QGPxNYGuiFkOxW1EZFt7l) | [Paper](https://open.spotify.com/album/1hAV7Mj2ecbS5kls027GaY) | 2:49 |
 | 23 | [WEEKEND](https://open.spotify.com/track/2EWapiDxGPtiTCrV3JG3pN) | [Jomalxne](https://open.spotify.com/artist/6Cjo9LtMQwwLxADdvjvGpE) | [WEEKEND](https://open.spotify.com/album/7GOsvtjjUnTYepTZv8JZ4Q) | 3:24 |
 | 24 | [Lazy day](https://open.spotify.com/track/2w4sWX5mz9ADxx2a0bc2Qs) | [JT](https://open.spotify.com/artist/6RtyqmDTzSQK9MlwbgQotk) | [From now on](https://open.spotify.com/album/5q8TNWa9F0vi0U12a0ioxV) | 2:46 |
-| 25 | [Lazy!](https://open.spotify.com/track/12rmCtdt4CjZ7Y1hG8bkjp) | [Kimfunny](https://open.spotify.com/artist/6hQihzOAkoYx8DWP4iIkqM) | [Lazy!](https://open.spotify.com/album/2uihBcB1iN1qGfl1D63bSW) | 3:15 |
+| 25 | [Lazy!](https://open.spotify.com/track/12rmCtdt4CjZ7Y1hG8bkjp) | [Kim Jaemin](https://open.spotify.com/artist/426tNcQcx1LRICFGELJRN1) | [Lazy!](https://open.spotify.com/album/2uihBcB1iN1qGfl1D63bSW) | 3:15 |
 | 26 | [Homebody](https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [staying](https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG) | 3:42 |
 | 27 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 |
 | 28 | [홈캉스 \(Homecance\)](https://open.spotify.com/track/6ihXZWFoIiysmZcCaVpTAm) | [Jang Wooyoung](https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn) | [I'm into](https://open.spotify.com/album/4dqPFaOROskhuDh56ZFCRY) | 3:20 |

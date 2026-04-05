@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 196000,
       "name": "500 hz",
       "url": "https://open.spotify.com/track/2hqX5Ex3zuwo9Rv9LuB1jk"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 219000,
       "name": "Brown Noise Chill",
       "url": "https://open.spotify.com/track/04nhtP5osHmql6LRlWTN2w"
@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Brown Noise Foundation",
+        "url": "https://open.spotify.com/album/3yvo7gIrjcHTUyfbRk9Wde"
+      },
+      "artists": [
+        {
+          "name": "The Still Hour",
+          "url": "https://open.spotify.com/artist/5R94UWYAFjIr63RarbNjoV"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175965,
+      "name": "Brown Noise Foundation",
+      "url": "https://open.spotify.com/track/5MAtiCD4d2jP63zyN4W40n"
+    },
+    {
+      "album": {
         "name": "Brown Noise Sleep Escape",
         "url": "https://open.spotify.com/album/3viNE5LfYfm1fgehifXmyE"
       },
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 223174,
       "name": "Brown Noise Lullaby",
       "url": "https://open.spotify.com/track/1V8y7X3bRwUGJjKLnyzlbl"
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 266750,
       "name": "Brown Noise Sleep Tunnel",
       "url": "https://open.spotify.com/track/6IqUgsHtCLRmkxcrURAFz2"
@@ -2450,6 +2468,24 @@
       "duration_ms": 196000,
       "name": "Brown Static",
       "url": "https://open.spotify.com/track/1l651JzwUbe5RBw10qwS8i"
+    },
+    {
+      "album": {
+        "name": "Brown Static",
+        "url": "https://open.spotify.com/album/4tAIai7czgoClWb51SIcaw"
+      },
+      "artists": [
+        {
+          "name": "Worry Less",
+          "url": "https://open.spotify.com/artist/49CQw3DOUXwNq8mV3EaFux"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Brown Static",
+      "url": "https://open.spotify.com/track/5ZexqaW3wJIDyl4gQDXRLQ"
     },
     {
       "album": {
@@ -2914,7 +2950,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 171000,
       "name": "Cozy Brown Noise Part 2",
       "url": "https://open.spotify.com/track/70GRo6VnkR6W0oYertyJ3O"
@@ -3551,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "Deep Sleep Brown Noise",
+        "url": "https://open.spotify.com/album/69RTvmZmTeiOQjJWAP0w7B"
+      },
+      "artists": [
+        {
+          "name": "Willow Resonance",
+          "url": "https://open.spotify.com/artist/2s91c4cm8DwLi14qpNki0d"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156638,
+      "name": "Endless Brown Hiss",
+      "url": "https://open.spotify.com/track/1QNjuZoAsaTOUPRU4K2mEY"
+    },
+    {
+      "album": {
         "name": "Endless Noises Vol II",
         "url": "https://open.spotify.com/album/4MrhA8HUGK31Z5kqa2wr6j"
       },
@@ -3800,6 +3854,24 @@
       "duration_ms": 206000,
       "name": "Gentle Fade Brown Noise",
       "url": "https://open.spotify.com/track/52tsiSsIBw7a8sHTEBnO3y"
+    },
+    {
+      "album": {
+        "name": "Golden Brown Echoes",
+        "url": "https://open.spotify.com/album/4qXvG19QRrIDWKIHWqtaed"
+      },
+      "artists": [
+        {
+          "name": "Holuka",
+          "url": "https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181429,
+      "name": "Golden Brown Echoes",
+      "url": "https://open.spotify.com/track/2LIp6fuLWaugFn9zyVQmvk"
     },
     {
       "album": {
@@ -4934,6 +5006,24 @@
       "duration_ms": 169695,
       "name": "Slow filter mod brown noise",
       "url": "https://open.spotify.com/track/2tPuH3k0qMJNHNaYs4bMdF"
+    },
+    {
+      "album": {
+        "name": "Slow Motion Brown Noise",
+        "url": "https://open.spotify.com/album/0a9dOXRSrbrBu3Z5CBYXaO"
+      },
+      "artists": [
+        {
+          "name": "Sonic Observations",
+          "url": "https://open.spotify.com/artist/1GyhuweKXGa3R8mBbRDwWe"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "Slow Motion Brown Noise",
+      "url": "https://open.spotify.com/track/2J4AMdquB1YaRXo62NqWRd"
     },
     {
       "album": {

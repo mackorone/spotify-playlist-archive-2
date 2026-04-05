@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > só tem uma coisa a dizer\. VENÇA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,145,974 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,145,903 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Música pra Mc's](https://open.spotify.com/track/7MNddRTvDuICSbFXn77BSU) | [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Nativo](https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k) | 1:48 |
 | 50 | [Farol Pra Cego \(TypeDalsa\)](https://open.spotify.com/track/0LNxZ3OnR5FlKdrIbVSihd) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Farol Pra Cego \(TypeDalsa\)](https://open.spotify.com/album/7tD8gFXuz0nI0II6EhFEEK) | 3:01 |
 
-Snapshot ID: `AAAAAM6+x5u9G+H/E5Dg4HRA/0SfVo5u`
+Snapshot ID: `AAAAAI2e0TPFQn0z3zZKbsPcs6n63SpD`

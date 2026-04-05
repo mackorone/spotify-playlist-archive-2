@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 26278,
+  "num_followers": 26281,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac2xgAAAAABreuAbsMnl9l3YVn6mqGGY",
+  "snapshot_id": "ac8DAAAAAADTIYfV3TigYF2ViLl/HK5l",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "boy (feat. asmi & imase)",
-        "url": "https://open.spotify.com/album/3hAkBmRP4YFi2wappHJ4ps"
+        "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/5scniruALOkj4WOg3xDHuR"
       },
       "artists": [
-        {
-          "name": "KERENMI",
-          "url": "https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn"
-        },
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
-        },
         {
           "name": "imase",
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 194916,
-      "name": "boy - feat. asmi & imase",
-      "url": "https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf"
+      "duration_ms": 217988,
+      "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/53NuLWR6rTIO2IqQ4x1Skx"
     },
     {
       "added_at": null,
@@ -399,18 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/5scniruALOkj4WOg3xDHuR"
+        "name": "boy (feat. asmi & imase)",
+        "url": "https://open.spotify.com/album/3hAkBmRP4YFi2wappHJ4ps"
       },
       "artists": [
+        {
+          "name": "KERENMI",
+          "url": "https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn"
+        },
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        },
         {
           "name": "imase",
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 217988,
-      "name": "\u60d1\u661f\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/53NuLWR6rTIO2IqQ4x1Skx"
+      "duration_ms": 194916,
+      "name": "boy - feat. asmi & imase",
+      "url": "https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf"
     },
     {
       "added_at": null,

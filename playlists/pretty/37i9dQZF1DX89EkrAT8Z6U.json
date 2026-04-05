@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1315887,
+  "num_followers": 1316047,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "V-12",
+        "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
+      },
+      "artists": [
+        {
+          "name": "Lil Dew'",
+          "url": "https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ"
+        }
+      ],
+      "duration_ms": 140460,
+      "name": "V-12",
+      "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "Memphis Cult Vol. 6",
         "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "V-12",
-        "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
-      },
-      "artists": [
-        {
-          "name": "Lil Dew'",
-          "url": "https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ"
-        }
-      ],
-      "duration_ms": 140460,
-      "name": "V-12",
-      "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1001,6 +1001,34 @@
       "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
     },
     {
+      "added_at": "2025-02-21 22:48:04",
+      "album": {
+        "name": "HIT ME",
+        "url": "https://open.spotify.com/album/2bW30A7hYvnpkYv9lVYwXp"
+      },
+      "artists": [
+        {
+          "name": "Softwilly",
+          "url": "https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc"
+        },
+        {
+          "name": "Yumi",
+          "url": "https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2"
+        },
+        {
+          "name": "ssjishmael",
+          "url": "https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC"
+        },
+        {
+          "name": "$atori Zoom",
+          "url": "https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "HIT ME",
+      "url": "https://open.spotify.com/track/1ClLVL8w0vngTIq7Afrne6"
+    },
+    {
       "added_at": "2024-09-18 21:12:46",
       "album": {
         "name": "STOKELEY",
@@ -1015,6 +1043,62 @@
       "duration_ms": 138426,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Lost It All",
+        "url": "https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC"
+      },
+      "artists": [
+        {
+          "name": "Fabvl",
+          "url": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
+        }
+      ],
+      "duration_ms": 242086,
+      "name": "Lost It All",
+      "url": "https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA"
+    },
+    {
+      "added_at": "2025-02-21 22:48:04",
+      "album": {
+        "name": "Abrakadabra",
+        "url": "https://open.spotify.com/album/4mY1EBvNaHaOhoFtwpIre0"
+      },
+      "artists": [
+        {
+          "name": "Sinoda",
+          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
+        },
+        {
+          "name": "XANAKIN SKYWOK",
+          "url": "https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3"
+        }
+      ],
+      "duration_ms": 147748,
+      "name": "Abrakadabra",
+      "url": "https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "RUN UP!",
+        "url": "https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        },
+        {
+          "name": "Josh A",
+          "url": "https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN"
+        }
+      ],
+      "duration_ms": 139005,
+      "name": "RUN UP!",
+      "url": "https://open.spotify.com/track/7oDUCu36rMex65tc03C8er"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1049,62 +1133,6 @@
       "url": "https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL"
     },
     {
-      "added_at": "2025-02-21 22:48:04",
-      "album": {
-        "name": "Abrakadabra",
-        "url": "https://open.spotify.com/album/4mY1EBvNaHaOhoFtwpIre0"
-      },
-      "artists": [
-        {
-          "name": "Sinoda",
-          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
-        },
-        {
-          "name": "XANAKIN SKYWOK",
-          "url": "https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3"
-        }
-      ],
-      "duration_ms": 147748,
-      "name": "Abrakadabra",
-      "url": "https://open.spotify.com/track/5WEv8GQubyTUSkPowNJa87"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "Lost It All",
-        "url": "https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC"
-      },
-      "artists": [
-        {
-          "name": "Fabvl",
-          "url": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
-        }
-      ],
-      "duration_ms": 242086,
-      "name": "Lost It All",
-      "url": "https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "RUN UP!",
-        "url": "https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        },
-        {
-          "name": "Josh A",
-          "url": "https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN"
-        }
-      ],
-      "duration_ms": 139005,
-      "name": "RUN UP!",
-      "url": "https://open.spotify.com/track/7oDUCu36rMex65tc03C8er"
-    },
-    {
       "added_at": "2024-09-18 21:12:46",
       "album": {
         "name": "OKE",
@@ -1119,34 +1147,6 @@
       "duration_ms": 146620,
       "name": "OKE",
       "url": "https://open.spotify.com/track/6Qah1RanKHrrv7iYoqjNKM"
-    },
-    {
-      "added_at": "2025-02-21 22:48:04",
-      "album": {
-        "name": "HIT ME",
-        "url": "https://open.spotify.com/album/2bW30A7hYvnpkYv9lVYwXp"
-      },
-      "artists": [
-        {
-          "name": "Softwilly",
-          "url": "https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc"
-        },
-        {
-          "name": "Yumi",
-          "url": "https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2"
-        },
-        {
-          "name": "ssjishmael",
-          "url": "https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC"
-        },
-        {
-          "name": "$atori Zoom",
-          "url": "https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "HIT ME",
-      "url": "https://open.spotify.com/track/1ClLVL8w0vngTIq7Afrne6"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1205,26 +1205,6 @@
       "url": "https://open.spotify.com/track/3ZVKdwchXde5oVaXANYjso"
     },
     {
-      "added_at": "2025-02-21 22:48:04",
-      "album": {
-        "name": "Deadshot!",
-        "url": "https://open.spotify.com/album/38tCM9TbtQNteRTpaMmrnH"
-      },
-      "artists": [
-        {
-          "name": "MERCYKILL",
-          "url": "https://open.spotify.com/artist/5dEKhdqjtKcCo7lxz5ZgHa"
-        },
-        {
-          "name": "do not resurrect",
-          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
-        }
-      ],
-      "duration_ms": 109756,
-      "name": "Deadshot!",
-      "url": "https://open.spotify.com/track/4REoouTIHk0P0ntXa5QHkc"
-    },
-    {
       "added_at": "2024-09-18 21:12:46",
       "album": {
         "name": "OLIVIA",
@@ -1279,6 +1259,26 @@
       "duration_ms": 135433,
       "name": "Dalai Lama",
       "url": "https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc"
+    },
+    {
+      "added_at": "2025-02-21 22:48:04",
+      "album": {
+        "name": "Deadshot!",
+        "url": "https://open.spotify.com/album/38tCM9TbtQNteRTpaMmrnH"
+      },
+      "artists": [
+        {
+          "name": "MERCYKILL",
+          "url": "https://open.spotify.com/artist/5dEKhdqjtKcCo7lxz5ZgHa"
+        },
+        {
+          "name": "do not resurrect",
+          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
+        }
+      ],
+      "duration_ms": 109756,
+      "name": "Deadshot!",
+      "url": "https://open.spotify.com/track/4REoouTIHk0P0ntXa5QHkc"
     },
     {
       "added_at": "2024-09-18 21:12:46",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac2xgAAAAABKXmIAh8O/KQKCPh0H404C",
+  "snapshot_id": "ac8DAAAAAADJMGXFh5bjvwuKGT3OAxS3",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 183346,
-      "name": "Huckleberry",
-      "url": "https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV"
+      "duration_ms": 297666,
+      "name": "Synth 3",
+      "url": "https://open.spotify.com/track/7F2oeHj1KjVGIyIpA8s1XQ"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 297666,
-      "name": "Synth 3",
-      "url": "https://open.spotify.com/track/7F2oeHj1KjVGIyIpA8s1XQ"
+      "duration_ms": 183346,
+      "name": "Huckleberry",
+      "url": "https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV"
     },
     {
       "added_at": null,

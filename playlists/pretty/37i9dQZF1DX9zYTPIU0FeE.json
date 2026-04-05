@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Vimbs Mavimbs",
-  "num_followers": 13183,
+  "num_followers": 13200,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-04-02 23:31:09",
       "album": {
-        "name": "Love Drive",
-        "url": "https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q"
-      },
-      "artists": [
-        {
-          "name": "Vimbs Mavimbs",
-          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
-        }
-      ],
-      "duration_ms": 274091,
-      "name": "Love Drive",
-      "url": "https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN"
-    },
-    {
-      "added_at": "2026-04-02 23:31:09",
-      "album": {
         "name": "kulungile",
         "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 346924,
       "name": "kulungile",
       "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
+    },
+    {
+      "added_at": "2026-04-02 23:31:09",
+      "album": {
+        "name": "Love Drive",
+        "url": "https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q"
+      },
+      "artists": [
+        {
+          "name": "Vimbs Mavimbs",
+          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
+        }
+      ],
+      "duration_ms": 274091,
+      "name": "Love Drive",
+      "url": "https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN"
     },
     {
       "added_at": "2026-04-02 23:31:09",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-04-02 23:31:09",
       "album": {
-        "name": "P (x) J",
-        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
-      },
-      "artists": [
-        {
-          "name": "NALEDI",
-          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
-        }
-      ],
-      "duration_ms": 272120,
-      "name": "P (x) J",
-      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
-    },
-    {
-      "added_at": "2026-04-02 23:31:09",
-      "album": {
         "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
         "url": "https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 471952,
       "name": "Usuku Oluzayo (feat. Ndabo Zulu & Terrace Martin)",
       "url": "https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G"
+    },
+    {
+      "added_at": "2026-04-02 23:31:09",
+      "album": {
+        "name": "P (x) J",
+        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
+      },
+      "artists": [
+        {
+          "name": "NALEDI",
+          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
+        }
+      ],
+      "duration_ms": 272120,
+      "name": "P (x) J",
+      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
     },
     {
       "added_at": "2026-04-02 23:31:09",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2026-04-02 23:31:09",
       "album": {
-        "name": "IZIBONGO",
-        "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
+        "name": "ISIGQI (live at the bird's eye)",
+        "url": "https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM"
       },
       "artists": [
         {
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
         }
       ],
-      "duration_ms": 412966,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
+      "duration_ms": 440654,
+      "name": "Kwandebele (Live)",
+      "url": "https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E"
     },
     {
       "added_at": "2026-04-02 23:31:09",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-04-02 23:31:09",
       "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
-      },
-      "artists": [
-        {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "H.O.P.E",
-      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
-    },
-    {
-      "added_at": "2026-04-02 23:31:09",
-      "album": {
         "name": "Apho Kungenje",
         "url": "https://open.spotify.com/album/7BgstqFLclam34XUZfiX33"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 413906,
       "name": "Ebhedini",
       "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
+    },
+    {
+      "added_at": "2026-04-02 23:31:09",
+      "album": {
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+      },
+      "artists": [
+        {
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+        }
+      ],
+      "duration_ms": 365000,
+      "name": "H.O.P.E",
+      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
     },
     {
       "added_at": "2026-04-02 23:31:09",

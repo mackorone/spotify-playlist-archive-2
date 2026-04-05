@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,887 songs - 13 day 16 hr 52 min
+5,891 songs - 13 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1960,6 +1960,7 @@
 | [Getting Older](https://open.spotify.com/track/6zoIHEop8NqLTnhjE0lVDR) | [Gabrielle Lacerda](https://open.spotify.com/artist/2tGweqCSiXRVhxuR5LlWDX) | [Getting Older](https://open.spotify.com/album/5wylbjTPC3cfo07cQXS1GU) | 4:19 | 2023-01-13 | 2023-02-12 |
 | [Ghetto Gospel \- 2025 Remastered version](https://open.spotify.com/track/2jFj6xmLutLlEsi0JeQE5Z) | [Ayeni Femi](https://open.spotify.com/artist/7ooaulwIBYE4sbPYHHZoQf) | [Ghetto Gospel \(2025 Remastered version\)](https://open.spotify.com/album/3FlbWZ7rxu1cfYw5iMdUxz) | 4:21 | 2026-01-12 | 2026-01-24 |
 | [Gholame Chëshm](https://open.spotify.com/track/2rNamr9pCceZgby2qPS6dM) | [5urati](https://open.spotify.com/artist/6J7Awu6ho0iwisvF9sUQBR), [Mohammadreza Shajarian](https://open.spotify.com/artist/45EXJ1cQAEt8k2zIYHyLBm) | [Gholame Chëshm](https://open.spotify.com/album/4HDIJIvDg88VjqSX4qQvkj) | 2:33 | 2022-06-03 | 2022-06-19 |
+| [Ghost](https://open.spotify.com/track/0QoSH4zxzONyytl4Ju1Tu7) | [CRNGTN](https://open.spotify.com/artist/179cGaFy2DRFFzooPKJTHW) | [Ghost](https://open.spotify.com/album/7kvisCSyTqaQD0AQZfy4uX) | 3:05 | 2026-04-04 |  |
 | [GHOST HUNTERS](https://open.spotify.com/track/5dfna5HsrnCHj3ZSxXHvLU) | [Daniel W\. Shrigley](https://open.spotify.com/artist/7o9Lv5gARXy8cZR9kt6Mzn) | [GHOST HUNTERS](https://open.spotify.com/album/4M3QCe6Ksmv97iBs6NHsSP) | 2:29 | 2024-09-26 | 2024-10-08 |
 | [Ghost Mirror](https://open.spotify.com/track/3qzyzCjH2e3OaMtgIx6wMe) | [Aux Send](https://open.spotify.com/artist/74oXVUfYgcpwMXRm1NvXL7) | [Ghost Mirror](https://open.spotify.com/album/2MCtmtXQbEhntiZIah9FlS) | 4:07 | 2021-07-10 | 2021-07-25 |
 | [Ghost Of You](https://open.spotify.com/track/5QepMF5byGCsnBsCVqw8A7) | [Grace Abel](https://open.spotify.com/artist/15nU6bw1MjF0s3hnnRU8Ry) | [Ghost Of You](https://open.spotify.com/album/5YYAsz4gnN8HfcpRHh4pu1) | 3:28 | 2023-12-01 | 2023-12-19 |
@@ -3426,6 +3427,7 @@
 | [My Bella](https://open.spotify.com/track/0OuGcaERH4qPtFrWOaaNYK) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [My Bella](https://open.spotify.com/album/7uHcYf4zEWTUGm3r4RStlZ) | 2:39 | 2021-10-08 | 2021-10-23 |
 | [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-12 |  |
 | [My Bestie \(Anxiety\)](https://open.spotify.com/track/5b32quYchxdWwIIoIhUNQI) | [Kia Rose](https://open.spotify.com/artist/4pVR78BCBKQ4pVuYJyvgWw) | [My Bestie \(Anxiety\)](https://open.spotify.com/album/4xMZGdK4MsvJ4nFG3FN3Iw) | 3:18 | 2023-05-06 | 2023-05-30 |
+| [My Boo](https://open.spotify.com/track/0Z9516qj9X7m5FK6vU8kdn) | [Luxpop](https://open.spotify.com/artist/6g7ipWVpT9yekAswGqh3vp) | [My Boo](https://open.spotify.com/album/1jYO3rnRPYPUXehk3o6khg) | 3:24 | 2026-04-04 |  |
 | [My Brother](https://open.spotify.com/track/4g9djCFDXD430BmQwxRJ6T) | [rplayin](https://open.spotify.com/artist/4vS4ho43JpE1NbaXMU4cOy) | [My Brother](https://open.spotify.com/album/35F7DQrtUvhXlPK89kCzzq) | 3:37 | 2024-10-11 | 2024-10-23 |
 | [My Butterfly](https://open.spotify.com/track/50oTL5mEriTEAsplOiP2QW) | [KidBess](https://open.spotify.com/artist/2ibSATQzF35XpMmqUtFDe1) | [Pearls](https://open.spotify.com/album/5y1snnoCrQF7ryZHYXKwNW) | 2:50 | 2023-01-20 | 2023-02-11 |
 | [my call](https://open.spotify.com/track/5FVW02kgtwdQ4YBzUqVgJo) | [DOMINICAN DOLL](https://open.spotify.com/artist/2j2lz6osiCdJq32cC8Szmy) | [phone sex.](https://open.spotify.com/album/0IlsOKILf4fjGQ8eivlSra) | 3:10 | 2023-07-03 | 2023-07-14 |
@@ -4987,6 +4989,7 @@
 | [Tell Me](https://open.spotify.com/track/4RPawykzCoBTIErppIOR25) | [Exta](https://open.spotify.com/artist/4tBdj6QpmWL84PRMmsPyLr) | [Tell Me](https://open.spotify.com/album/1zlss8nywCRYqYzlG6aFsf) | 2:50 | 2025-05-19 | 2025-06-01 |
 | [Tell Me Everything](https://open.spotify.com/track/08yk0Ru7MajIvDNctERJGh) | [Jen Island](https://open.spotify.com/artist/08WAACfymiH4j2TBhLZtOV) | [Tell Me Everything](https://open.spotify.com/album/6RXftW0t8XuNWpuYP0buYV) | 3:14 | 2023-07-11 | 2023-07-21 |
 | [TELL ME THE TRUTH](https://open.spotify.com/track/5fyTcx9WHr0QgpghnrQ1nQ) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [WIP](https://open.spotify.com/album/0hKz3eJCUgQKXDf8AOBGSv) | 3:01 | 2024-10-18 | 2024-10-30 |
+| [Tell Me Why](https://open.spotify.com/track/1mqegPlhw9gfPScypu9R77) | [MIIKA](https://open.spotify.com/artist/767GeBVr49umhh2ZVQONgm) | [Tell Me Why](https://open.spotify.com/album/3LWR4iwJLISMCCthy85dT7) | 3:03 | 2026-04-04 |  |
 | [Tell Me, Tell Me](https://open.spotify.com/track/0RG7Q9LdBk5pGqtwmzOckd) | [Soulah the Legend](https://open.spotify.com/artist/4eSjv2NrpwpUEbtVUJc4QA) | [Tell Me, Tell Me](https://open.spotify.com/album/0Zd09ukj28is6KgjNdbw60) | 3:14 | 2024-03-02 | 2024-03-15 |
 | [Tell That to a Heart](https://open.spotify.com/track/0uEg78fi0MPdimE66H8EAk) | [Kaleb Sanders](https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB) | [Tell That to a Heart](https://open.spotify.com/album/7gH8fGtFUDlidmGsRIZ29q) | 3:31 | 2024-11-26 | 2024-12-07 |
 | [Tell Ya](https://open.spotify.com/track/6Mh6YLXeJ7BvWPa0L4PZpP) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Tell Ya](https://open.spotify.com/album/25zd75rdUhzNFlbaB11Wb4) | 3:23 | 2020-12-06 | 2021-01-02 |
@@ -5316,6 +5319,7 @@
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-07-20 |  |
 | [Tsunami](https://open.spotify.com/track/2No16QmtvDPqcu4fJpHm96) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO), [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Tsunami](https://open.spotify.com/album/5pktLygV4qTlObVG6Fmr8f) | 2:48 | 2024-10-22 | 2024-11-03 |
 | [Tu Canción](https://open.spotify.com/track/51pYTj8gQ2wcXkeGG6mdi3) | [Alka 2001](https://open.spotify.com/artist/0FOZl9lnMPFefh81JmZOKR), [Zurdeik](https://open.spotify.com/artist/1ohuygiane6UcPS4fYlJXP) | [Tu Canción](https://open.spotify.com/album/71mc1up731HptXns52PPWK) | 2:22 | 2026-04-01 |  |
+| [Tu FAVORiT@](https://open.spotify.com/track/34cIRHZdK6c0fUpjBFRSNT) | [Paula Nas](https://open.spotify.com/artist/10XJRHMwXgcm7Z8LBh9IQf) | [Tu FAVORiT@](https://open.spotify.com/album/7qLMM54fNspJwzY6tww999) | 2:21 | 2026-04-04 |  |
 | [Tu Fidelidad](https://open.spotify.com/track/605gQW4MozZsQcJ5Gc7m2f) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO) | [Tu Fidelidad](https://open.spotify.com/album/6lOjQXsDC0dYn2xFhBPDup) | 3:18 | 2025-01-18 | 2025-01-30 |
 | [TU MIA](https://open.spotify.com/track/5h6vbCAYcUCW9KfXyYSfg3) | [Jlopezz](https://open.spotify.com/artist/2hlpED801UlosNko4d5qoY) | [TU MIA](https://open.spotify.com/album/6aSYxkh8RklUYINL4ayRF5) | 2:41 | 2024-07-20 | 2024-08-01 |
 | [Tu nombre](https://open.spotify.com/track/2eNI3eRtrNKJgl0uJkY8cU) | [Martina](https://open.spotify.com/artist/0xDan7eKYZRxnWQKJ10FsI) | [Tu nombre](https://open.spotify.com/album/3dnJS9waEofvjfxsbB7VND) | 3:07 | 2023-03-10 | 2023-04-02 |

@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Calm Green Wave Sounds",
+        "url": "https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT"
+      },
+      "artists": [
+        {
+          "name": "EFX Mirelight",
+          "url": "https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104374,
+      "name": "Calming Creek",
+      "url": "https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd"
+    },
+    {
+      "album": {
         "name": "Cabin Rain, Crickets and Birds",
         "url": "https://open.spotify.com/album/4mmbBrhNanIweSk6vAqdf6"
       },
@@ -856,7 +874,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 190044,
       "name": "Grasshopper Song",
       "url": "https://open.spotify.com/track/2jJa0x8vU6LhjKbo9S5Iwo"

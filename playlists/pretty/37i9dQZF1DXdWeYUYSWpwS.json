@@ -1,6 +1,6 @@
 {
   "description": "Relaxing, comforting classical music to soothe your dog and reduce separation anxiety. ",
-  "num_followers": 38081,
+  "num_followers": 38120,
   "original_name": "Classical Music for Dogs",
   "owner": {
     "name": "Spotify",
@@ -648,16 +648,16 @@
       },
       "artists": [
         {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
           "name": "Leon Wolf",
           "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
         },
         {
           "name": "Robin Kallenberger",
           "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
         }
       ],
       "duration_ms": 150803,

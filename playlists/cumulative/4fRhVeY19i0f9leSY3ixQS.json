@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Abaddon",
+        "url": "https://open.spotify.com/album/4qFzmjuuTKUKtsLfwlzli6"
+      },
+      "artists": [
+        {
+          "name": "Peak Level",
+          "url": "https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276521,
+      "name": "Abaddon",
+      "url": "https://open.spotify.com/track/06sblMoAO7CaPcIAcamm9B"
+    },
+    {
+      "album": {
         "name": "Abyss & Oblivion",
         "url": "https://open.spotify.com/album/3J1HO6lC1DA2eX2Dp6fcqN"
       },
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 200969,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/5UL1zKgQS6mCR849t6w2qM"
@@ -5164,7 +5182,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 179111,
       "name": "Disinhibition",
       "url": "https://open.spotify.com/track/591PDhW8dDp3P9HutTyWm5"
@@ -6809,6 +6827,24 @@
     },
     {
       "album": {
+        "name": "Feral Lane",
+        "url": "https://open.spotify.com/album/2OASBR0A91EgmBK8BnEiNc"
+      },
+      "artists": [
+        {
+          "name": "Beyond Brookhaven",
+          "url": "https://open.spotify.com/artist/0csy52k7kF3hehUZUd5G5g"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Feral Lane",
+      "url": "https://open.spotify.com/track/43ve0SDtFW96YcHCYIv4Bd"
+    },
+    {
+      "album": {
         "name": "fffantasy",
         "url": "https://open.spotify.com/album/1JVzSQzj0PdcqXywokTOxz"
       },
@@ -7530,6 +7566,24 @@
       "duration_ms": 201750,
       "name": "Get A Rest",
       "url": "https://open.spotify.com/track/0vwFrQW6eUCiHkBkqR70S6"
+    },
+    {
+      "album": {
+        "name": "Get Outta My Head",
+        "url": "https://open.spotify.com/album/4IXPVKy739ap5syrDJguG5"
+      },
+      "artists": [
+        {
+          "name": "TV Screams",
+          "url": "https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158521,
+      "name": "Get Outta My Head",
+      "url": "https://open.spotify.com/track/7hKZGgTrWm2S8jvGLs9Pdl"
     },
     {
       "album": {
@@ -9883,6 +9937,24 @@
     },
     {
       "album": {
+        "name": "InMyPocket",
+        "url": "https://open.spotify.com/album/5UD14tyo9S72nM4t1hJl0F"
+      },
+      "artists": [
+        {
+          "name": "kiftoh",
+          "url": "https://open.spotify.com/artist/4vU0G9EFI6KcI3wlswQZux"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158414,
+      "name": "InMyPocket",
+      "url": "https://open.spotify.com/track/53MV9GVk3mwPEER5k9a6uS"
+    },
+    {
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/2Ms9hDgUk2IzrvuUPmlfpa"
       },
@@ -10020,7 +10092,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 295312,
       "name": "Into The Abyss",
       "url": "https://open.spotify.com/track/2i3wLIHbtIfAAV8IIWv18p"
@@ -16005,6 +16077,24 @@
     },
     {
       "album": {
+        "name": "TRUCKIN' EP",
+        "url": "https://open.spotify.com/album/6WXiAv8LsKlQHT26HAin7f"
+      },
+      "artists": [
+        {
+          "name": "TV Screams",
+          "url": "https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132469,
+      "name": "Runnin",
+      "url": "https://open.spotify.com/track/4OLphiU0dKvFTkIPSdOS5j"
+    },
+    {
+      "album": {
         "name": "Insert Coin (Player Two)",
         "url": "https://open.spotify.com/album/2Aoc8JePOX9yNc3nHtjldr"
       },
@@ -16686,6 +16776,24 @@
       "duration_ms": 90697,
       "name": "she",
       "url": "https://open.spotify.com/track/1T2F8xiWV4L3Py6Y76WhkZ"
+    },
+    {
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/0bAZFkJk4WmmttHvTwGoOb"
+      },
+      "artists": [
+        {
+          "name": "TV Screams",
+          "url": "https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141688,
+      "name": "She",
+      "url": "https://open.spotify.com/track/4D3PrNYtV7Il9QOQsX2nYK"
     },
     {
       "album": {
@@ -18327,6 +18435,24 @@
     },
     {
       "album": {
+        "name": "Suffocate",
+        "url": "https://open.spotify.com/album/2Lf5lv42euE8VEV1ypzDX3"
+      },
+      "artists": [
+        {
+          "name": "Thryne",
+          "url": "https://open.spotify.com/artist/1h0DVLrg1C8l3gUo0ZgFnT"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256549,
+      "name": "Suffocate",
+      "url": "https://open.spotify.com/track/1HKpxECheP56EpoEf2552h"
+    },
+    {
+      "album": {
         "name": "ONE WAY TICKET",
         "url": "https://open.spotify.com/album/7273XFCUKmNqzJnU7h1d4V"
       },
@@ -19316,6 +19442,24 @@
       "duration_ms": 405213,
       "name": "The Friends of Joey Coyle",
       "url": "https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a"
+    },
+    {
+      "album": {
+        "name": "The Great Mistake",
+        "url": "https://open.spotify.com/album/4y0Eaazuth5SRSAWSdDcQi"
+      },
+      "artists": [
+        {
+          "name": "Victories",
+          "url": "https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "The Great Mistake",
+      "url": "https://open.spotify.com/track/0lZuhiK4QZJcuf6gGMSTyi"
     },
     {
       "album": {
@@ -20768,7 +20912,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 155299,
       "name": "VALIDATION",
       "url": "https://open.spotify.com/track/1Z3STtnRmKQ910xzDjMIZY"
@@ -21140,6 +21284,24 @@
       "duration_ms": 166309,
       "name": "Wanna Dance",
       "url": "https://open.spotify.com/track/6xy2XdwENrqJPnEEnKOfe5"
+    },
+    {
+      "album": {
+        "name": "War / Modern Slavery",
+        "url": "https://open.spotify.com/album/3ArgHxxt8iJZvLpAyGQrQf"
+      },
+      "artists": [
+        {
+          "name": "Sikmetra",
+          "url": "https://open.spotify.com/artist/1Jlw34Un9ZfXIdakewsDvI"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "War (In our city)",
+      "url": "https://open.spotify.com/track/7f9V3CsJkjxvwPZmD5Mg9m"
     },
     {
       "album": {
@@ -22474,6 +22636,24 @@
       "duration_ms": 179923,
       "name": "You Don't Wanna Go Home",
       "url": "https://open.spotify.com/track/1N3Yy7KmL8kPNUvUf9ndyU"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa"
+      },
+      "artists": [
+        {
+          "name": "The Multides",
+          "url": "https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163855,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC"
     },
     {
       "album": {

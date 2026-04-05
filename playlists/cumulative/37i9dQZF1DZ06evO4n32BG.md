@@ -4,7 +4,7 @@
 
 > This is Hannah Montana\. The essential tracks, all in one playlist.
 
-33 songs - 1 hr 47 min
+34 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,5 +41,6 @@
 | [What's Not to Like](https://open.spotify.com/track/7Ikk4lkHAjf4KSWbMZz3G3) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:12 | 2026-03-26 |  |
 | [Wherever I Go](https://open.spotify.com/track/3lWEKwBNo9IbE9pdKC5NU6) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Best Of Hannah Montana](https://open.spotify.com/album/5zZMy9QhbzvAjokurBvEgd) | 3:32 | 2026-03-26 |  |
 | [Who Said](https://open.spotify.com/track/7jg5JfizOZSEipnTR6d4Nt) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:14 | 2026-03-26 |  |
+| [You'll Always Find Your Way Back Home](https://open.spotify.com/track/12wSL3tGk3MtbDEhfG7xy3) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:44 | 2026-04-05 |  |
 
 \*This playlist was first scraped on 2026-03-26. Prior content cannot be recovered.

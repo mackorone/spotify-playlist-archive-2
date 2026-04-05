@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,021 likes - 120 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,094 likes - 120 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 27 | [Lights and Dreams](https://open.spotify.com/track/77ZmTpNOEOrqKbm7gOjbcB) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lights and Dreams](https://open.spotify.com/album/1dmpuARp6LM8uF0jrMEP4M) | 2:21 |
 | 28 | [HYMN](https://open.spotify.com/track/5jkf6m1XJYIMp751df40z1) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [HYMN](https://open.spotify.com/album/24ogFunadlg51m8Yq7nT2h) | 3:33 |
 | 29 | [Le onde](https://open.spotify.com/track/6sEz1Cd0HVXRXuvIw9zAmK) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Ludovico Einaudi: Le onde](https://open.spotify.com/album/16DNdOQumrQqrwETEfI5y7) | 5:23 |
-| 30 | [Reflections](https://open.spotify.com/track/4yTRIGdzGVmmw1CcTiraKy) | [Leon Wolf](https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S), [Robin Kallenberger](https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [My Way](https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ) | 1:35 |
+| 30 | [Reflections](https://open.spotify.com/track/4yTRIGdzGVmmw1CcTiraKy) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH), [Leon Wolf](https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S), [Robin Kallenberger](https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r) | [My Way](https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ) | 1:35 |
 | 31 | [Clair de Lune \(Arr\. for String Quartet by Hao Zhou\)](https://open.spotify.com/track/4FCPAxjEYSaP9YMJupQvjx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Viano Quartet](https://open.spotify.com/artist/5xjhUni1nLAHAvJ03jGt64) | [Clair de Lune \(Arr\. for String Quartet by Hao Zhou\)](https://open.spotify.com/album/6aJUXpIG150LXvr6Gy8Q4O) | 4:39 |
 | 32 | [Pavane pour une infante défunte, M\. 19 \(Arr\. S\. Shibe for Guitar\)](https://open.spotify.com/track/4RUHjk3j9Rwvlx8OGcPwn9) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Camino \- Spanish and French repertoire for guitar](https://open.spotify.com/album/6I8hnIFkq6LIQ1so8TaF03) | 6:30 |
 | 33 | [Goldberg Variations, BWV 988: Variation 1 \(Arr\. for Harp\)](https://open.spotify.com/track/36EnMgx9PmtnzUtmKwI63h) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Parker Ramsay](https://open.spotify.com/artist/5ForLHbyCPMNAICPCv1oeb) | [Bach: Goldberg Variations: Variation 1 \(Arranged for Harp\)](https://open.spotify.com/album/5a12E7Hn3S4QlR4egf9cHA) | 1:56 |

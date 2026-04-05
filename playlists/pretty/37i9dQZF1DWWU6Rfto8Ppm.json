@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3948688,
+  "num_followers": 3949673,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,26 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
+        "name": "El Movimiento: The Mixtape",
+        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 249826,
+      "name": "Regalame Una Noche",
+      "url": "https://open.spotify.com/track/534weu3DIwV9UELLTGanOC"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
         "name": "Los Verdaderos",
         "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 226640,
       "name": "Hoy Lo Siento (feat. Tony Dize)",
       "url": "https://open.spotify.com/track/0zOTCXeKyojEa4kNkUqrQK"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
-        "name": "El Movimiento: The Mixtape",
-        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "Regalame Una Noche",
-      "url": "https://open.spotify.com/track/534weu3DIwV9UELLTGanOC"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "El Bokisucio",
-        "url": "https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd"
+        "name": "Big Yamo o Nada",
+        "url": "https://open.spotify.com/album/4mLZPjMTdg2Io0fOYuJ1Ch"
       },
       "artists": [
         {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+          "name": "Big Yamo",
+          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
+        },
+        {
+          "name": "Vato 18k",
+          "url": "https://open.spotify.com/artist/7LikFezeadIOOH8CCBbEL5"
         }
       ],
-      "duration_ms": 234733,
-      "name": "Gata Oficial",
-      "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
+      "duration_ms": 185077,
+      "name": "Entre la Playa Ella y Yo",
+      "url": "https://open.spotify.com/track/1tvdNGCcgAhYaYq7ouIYGJ"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Big Yamo o Nada",
-        "url": "https://open.spotify.com/album/4mLZPjMTdg2Io0fOYuJ1Ch"
+        "name": "El Bokisucio",
+        "url": "https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd"
       },
       "artists": [
         {
-          "name": "Big Yamo",
-          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
-        },
-        {
-          "name": "Vato 18k",
-          "url": "https://open.spotify.com/artist/7LikFezeadIOOH8CCBbEL5"
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
         }
       ],
-      "duration_ms": 185077,
-      "name": "Entre la Playa Ella y Yo",
-      "url": "https://open.spotify.com/track/1tvdNGCcgAhYaYq7ouIYGJ"
+      "duration_ms": 234733,
+      "name": "Gata Oficial",
+      "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -1407,26 +1407,22 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+        "name": "Chosen Few: El Documental II",
+        "url": "https://open.spotify.com/album/01i4xjoO8LfObh7LbIZy8z"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
         },
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
         }
       ],
-      "duration_ms": 218080,
-      "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
-      "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
+      "duration_ms": 188733,
+      "name": "Siente El Boom",
+      "url": "https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -1455,22 +1451,26 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Chosen Few: El Documental II",
-        "url": "https://open.spotify.com/album/01i4xjoO8LfObh7LbIZy8z"
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
       "artists": [
         {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         },
         {
-          "name": "Randy Nota Loca",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 188733,
-      "name": "Siente El Boom",
-      "url": "https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy"
+      "duration_ms": 218080,
+      "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
+      "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Clothes Drop",
-        "url": "https://open.spotify.com/album/6tcCbVccUMe4qhrp1BFcuw"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Repent",
-      "url": "https://open.spotify.com/track/6Yxwkhk5LW0uiurTMT7jLL"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 205976,
       "name": "Donde Hubo Fuego",
       "url": "https://open.spotify.com/track/5rhdmtFyYixhT2XZPjzcGb"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Clothes Drop",
+        "url": "https://open.spotify.com/album/6tcCbVccUMe4qhrp1BFcuw"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "Repent",
+      "url": "https://open.spotify.com/track/6Yxwkhk5LW0uiurTMT7jLL"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Chica 10",
-        "url": "https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG"
-      },
-      "artists": [
-        {
-          "name": "Fusion Perreo",
-          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
-        }
-      ],
-      "duration_ms": 229015,
-      "name": "Chica 10",
-      "url": "https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Top Of The Line",
         "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 269558,
       "name": "los Disicipulos",
       "url": "https://open.spotify.com/track/2vWWy37CDlDlfPipzb4iIX"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Chica 10",
+        "url": "https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG"
+      },
+      "artists": [
+        {
+          "name": "Fusion Perreo",
+          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
+        }
+      ],
+      "duration_ms": 229015,
+      "name": "Chica 10",
+      "url": "https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi"
-      },
-      "artists": [
-        {
-          "name": "Yelsid",
-          "url": "https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Volver\u00e1s a M\u00ed",
-      "url": "https://open.spotify.com/track/6VZNYWQcBxWL3EPFNv4Rh2"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 136026,
       "name": "Te Suelto el Pelo",
       "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi"
+      },
+      "artists": [
+        {
+          "name": "Yelsid",
+          "url": "https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Volver\u00e1s a M\u00ed",
+      "url": "https://open.spotify.com/track/6VZNYWQcBxWL3EPFNv4Rh2"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2395,26 +2395,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Ella Se Contradice (feat. Plan B)",
-        "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
-      },
-      "artists": [
-        {
-          "name": "Baby Rasta y Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 256756,
-      "name": "Ella Se Contradice (feat. Plan B)",
-      "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Vida Escante",
         "url": "https://open.spotify.com/album/4zdEAfhZ9PymOasYqNK6uZ"
       },
@@ -2443,6 +2423,26 @@
       "duration_ms": 202053,
       "name": "Te Imagino",
       "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Ella Se Contradice (feat. Plan B)",
+        "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 256756,
+      "name": "Ella Se Contradice (feat. Plan B)",
+      "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2551,26 +2551,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Mis Ojos Lloran Por Ti",
-        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
-      },
-      "artists": [
-        {
-          "name": "Big Boy",
-          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
-        },
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2RR3ftPVbWXhmczgCr0kpX"
-        }
-      ],
-      "duration_ms": 223773,
-      "name": "Pase Lo Que Pase",
-      "url": "https://open.spotify.com/track/0ey8pKC4acPGI7pLEq4txU"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Contra la Corriente",
         "url": "https://open.spotify.com/album/0Fwze3uCIDKHwOUFSeY8VY"
       },
@@ -2587,6 +2567,26 @@
       "duration_ms": 213577,
       "name": "Si Te Vas (feat. Kartiel)",
       "url": "https://open.spotify.com/track/2idYorcqrno522ANO7mDhY"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Mis Ojos Lloran Por Ti",
+        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+      },
+      "artists": [
+        {
+          "name": "Big Boy",
+          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+        },
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2RR3ftPVbWXhmczgCr0kpX"
+        }
+      ],
+      "duration_ms": 223773,
+      "name": "Pase Lo Que Pase",
+      "url": "https://open.spotify.com/track/0ey8pKC4acPGI7pLEq4txU"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2687,42 +2687,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "El Dragon",
-        "url": "https://open.spotify.com/album/6d5MGIEbLpHEOaBtZeR5pO"
-      },
-      "artists": [
-        {
-          "name": "Johnny Prez",
-          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
-        },
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        }
-      ],
-      "duration_ms": 254825,
-      "name": "Chica Plastica",
-      "url": "https://open.spotify.com/track/3sVpw06XTctdLcq1lnc3Cu"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Ahora (feat. Angel Doze)",
-      "url": "https://open.spotify.com/track/6xuCqLILMiXxugbUmuRVJi"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Money Is Still A Major Issue",
         "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
       },
@@ -2743,6 +2707,42 @@
       "duration_ms": 240133,
       "name": "Culo Remix",
       "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Ahora (feat. Angel Doze)",
+      "url": "https://open.spotify.com/track/6xuCqLILMiXxugbUmuRVJi"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "El Dragon",
+        "url": "https://open.spotify.com/album/6d5MGIEbLpHEOaBtZeR5pO"
+      },
+      "artists": [
+        {
+          "name": "Johnny Prez",
+          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
+        },
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        }
+      ],
+      "duration_ms": 254825,
+      "name": "Chica Plastica",
+      "url": "https://open.spotify.com/track/3sVpw06XTctdLcq1lnc3Cu"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2803,22 +2803,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/4UqPX2oHkth4WTqboVkGj1"
-      },
-      "artists": [
-        {
-          "name": "Aldo Ranks",
-          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
-        }
-      ],
-      "duration_ms": 186488,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/2j2r3NnWlflZAhdtpjKLMx"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "It's My Time",
         "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
       },
@@ -2831,6 +2815,22 @@
       "duration_ms": 157291,
       "name": "El Tra",
       "url": "https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/4UqPX2oHkth4WTqboVkGj1"
+      },
+      "artists": [
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "duration_ms": 186488,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/2j2r3NnWlflZAhdtpjKLMx"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3003,6 +3003,22 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W"
+      },
+      "artists": [
+        {
+          "name": "Latin Fresh",
+          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
+        }
+      ],
+      "duration_ms": 212401,
+      "name": "Ella Se Arrebata",
+      "url": "https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
         "name": "Todo a su tiempo",
         "url": "https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ"
       },
@@ -3019,22 +3035,6 @@
       "duration_ms": 193466,
       "name": "Se activaron los anormales",
       "url": "https://open.spotify.com/track/67kdWhNX9GwoA76IAIYHTK"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/3VWuyqHFsqjlV20zjKvE9W"
-      },
-      "artists": [
-        {
-          "name": "Latin Fresh",
-          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
-        }
-      ],
-      "duration_ms": 212401,
-      "name": "Ella Se Arrebata",
-      "url": "https://open.spotify.com/track/0oQJSzRRp9K5qbrSuzqACz"
     },
     {
       "added_at": "2026-03-19 17:34:20",

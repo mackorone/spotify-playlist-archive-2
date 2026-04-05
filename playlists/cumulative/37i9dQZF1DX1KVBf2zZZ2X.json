@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 188727,
       "name": "Aether",
       "url": "https://open.spotify.com/track/5XHnc4P6NEETRROlkGBwPK"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 194796,
       "name": "Calm Skies",
       "url": "https://open.spotify.com/track/5SSQz4zhV3mj6VVOrZDKnH"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 143076,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/67cezPqLN4qeuNW4ZfQkfK"
@@ -4063,6 +4063,24 @@
     },
     {
       "album": {
+        "name": "Philosophy of Mind",
+        "url": "https://open.spotify.com/album/1JSa4EWk3EaFNyJMpc8wnG"
+      },
+      "artists": [
+        {
+          "name": "Pure Purposes",
+          "url": "https://open.spotify.com/artist/4kbLiTWkq9FIV3VHRS24EY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197105,
+      "name": "Philosophy of Mind",
+      "url": "https://open.spotify.com/track/7i0bw8dAa72b1fOe3mo070"
+    },
+    {
+      "album": {
         "name": "Pitter Patter",
         "url": "https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE"
       },
@@ -5136,7 +5154,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 181583,
       "name": "Stilled Air",
       "url": "https://open.spotify.com/track/4CpKfxg0gFEO7MpcgXXShr"
@@ -6084,6 +6102,24 @@
       "duration_ms": 158400,
       "name": "Wellspring",
       "url": "https://open.spotify.com/track/2wDMe17O4nDaJE4x9PtQbz"
+    },
+    {
+      "album": {
+        "name": "Where the Rain Begins to Sing",
+        "url": "https://open.spotify.com/album/4nA7eft1WMWMBNRqOLJsIR"
+      },
+      "artists": [
+        {
+          "name": "Lush Aura",
+          "url": "https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200432,
+      "name": "Where the Rain Begins to Sing",
+      "url": "https://open.spotify.com/track/12Yi9MWiPV33nFiccg7zzI"
     },
     {
       "album": {

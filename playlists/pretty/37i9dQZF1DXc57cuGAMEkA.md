@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。アイナ・ジ・エンド, LiSA, Thundercat, Ravyn Lenae, OneRepublic and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,842 likes - 88 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,869 likes - 88 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Sabaton\n",
-  "num_followers": 820606,
+  "num_followers": 820636,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Guillotine Walk",
-        "url": "https://open.spotify.com/album/6HOYDjy4lO4gBiabpVLwpE"
-      },
-      "artists": [
-        {
-          "name": "Axel Rudi Pell",
-          "url": "https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl"
-        }
-      ],
-      "duration_ms": 278096,
-      "name": "Guillotine Walk",
-      "url": "https://open.spotify.com/track/1Uy1M28Xuf9SBNufDyXdm3"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "One Of Us Will Be Next",
         "url": "https://open.spotify.com/album/3CZHmf17F6Q58OMiMaA2u9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 283338,
       "name": "Venerate Me",
       "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Guillotine Walk",
+        "url": "https://open.spotify.com/album/6HOYDjy4lO4gBiabpVLwpE"
+      },
+      "artists": [
+        {
+          "name": "Axel Rudi Pell",
+          "url": "https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl"
+        }
+      ],
+      "duration_ms": 278096,
+      "name": "Guillotine Walk",
+      "url": "https://open.spotify.com/track/1Uy1M28Xuf9SBNufDyXdm3"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Can You Hear Me",
-        "url": "https://open.spotify.com/album/1sPmGATnN4rdUUJyr7dLRT"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        },
-        {
-          "name": "LOVEBITES",
-          "url": "https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Can You Hear Me",
-      "url": "https://open.spotify.com/track/4sNfEL2D6Qgy370ajeldtJ"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Armada",
         "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
       },
@@ -1083,18 +1063,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "The Rune (2025)",
-        "url": "https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd"
+        "name": "Can You Hear Me",
+        "url": "https://open.spotify.com/album/1sPmGATnN4rdUUJyr7dLRT"
       },
       "artists": [
         {
-          "name": "T\u00fdr",
-          "url": "https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa"
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        },
+        {
+          "name": "LOVEBITES",
+          "url": "https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa"
         }
       ],
-      "duration_ms": 406269,
-      "name": "The Rune (2025)",
-      "url": "https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S"
+      "duration_ms": 250541,
+      "name": "Can You Hear Me",
+      "url": "https://open.spotify.com/track/4sNfEL2D6Qgy370ajeldtJ"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Kings of Ragnar\u00f6k",
-        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
+        "name": "The Rune (2025)",
+        "url": "https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd"
       },
       "artists": [
         {
-          "name": "Warkings",
-          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
+          "name": "T\u00fdr",
+          "url": "https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Kings of Ragnar\u00f6k",
-      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
+      "duration_ms": 406269,
+      "name": "The Rune (2025)",
+      "url": "https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1143,6 +1127,22 @@
       "duration_ms": 231356,
       "name": "Heavy Metal Viking",
       "url": "https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Kings of Ragnar\u00f6k",
+        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
+      },
+      "artists": [
+        {
+          "name": "Warkings",
+          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Kings of Ragnar\u00f6k",
+      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Haze",
-          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
-        }
-      ],
-      "duration_ms": 216957,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "The Wicked Rule The Night",
         "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
+        }
+      ],
+      "duration_ms": 216957,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Sapphire",
-        "url": "https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH"
-      },
-      "artists": [
-        {
-          "name": "Nocturna",
-          "url": "https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX"
-        }
-      ],
-      "duration_ms": 234790,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Queen of Shadow",
         "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Stone by Stone",
-        "url": "https://open.spotify.com/album/35vuYT1ScU07cEQ5P750Oj"
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH"
       },
       "artists": [
         {
-          "name": "Fabienne Erni",
-          "url": "https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR"
+          "name": "Nocturna",
+          "url": "https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX"
         }
       ],
-      "duration_ms": 226396,
-      "name": "Stone by Stone",
-      "url": "https://open.spotify.com/track/5qvYnwye1IkzaldUrhfqDS"
+      "duration_ms": 234790,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1411,6 +1395,22 @@
       "duration_ms": 301533,
       "name": "The Apostate",
       "url": "https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Stone by Stone",
+        "url": "https://open.spotify.com/album/35vuYT1ScU07cEQ5P750Oj"
+      },
+      "artists": [
+        {
+          "name": "Fabienne Erni",
+          "url": "https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR"
+        }
+      ],
+      "duration_ms": 226396,
+      "name": "Stone by Stone",
+      "url": "https://open.spotify.com/track/5qvYnwye1IkzaldUrhfqDS"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Forever Winter",
-        "url": "https://open.spotify.com/album/61HH10eZIbB6AGsPcZYvJY"
-      },
-      "artists": [
-        {
-          "name": "Un\u00e9n",
-          "url": "https://open.spotify.com/artist/3N2CRJwRHIlVXG1rwGR9W6"
-        }
-      ],
-      "duration_ms": 321493,
-      "name": "Spoil Me",
-      "url": "https://open.spotify.com/track/644g6T8sf7Pt6sYRpODKNH"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Krigsherren",
         "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 209440,
       "name": "Krigsherren",
       "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Forever Winter",
+        "url": "https://open.spotify.com/album/61HH10eZIbB6AGsPcZYvJY"
+      },
+      "artists": [
+        {
+          "name": "Un\u00e9n",
+          "url": "https://open.spotify.com/artist/3N2CRJwRHIlVXG1rwGR9W6"
+        }
+      ],
+      "duration_ms": 321493,
+      "name": "Spoil Me",
+      "url": "https://open.spotify.com/track/644g6T8sf7Pt6sYRpODKNH"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Blackthorn Winter",
-        "url": "https://open.spotify.com/album/7IrtKBrkwtAQwEVkx4p49P"
-      },
-      "artists": [
-        {
-          "name": "Eye of Melian",
-          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
-        }
-      ],
-      "duration_ms": 298093,
-      "name": "Blackthorn Winter",
-      "url": "https://open.spotify.com/track/3qstHZIZY6nrBWs6oOcBGD"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Dance with the Devil",
         "url": "https://open.spotify.com/album/6JL9byP3gmakaNLrWVZu5g"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "One With The Shadows",
-        "url": "https://open.spotify.com/album/2PcZ006a1uxenbFeuGEyPU"
+        "name": "Blackthorn Winter",
+        "url": "https://open.spotify.com/album/7IrtKBrkwtAQwEVkx4p49P"
       },
       "artists": [
         {
-          "name": "Sigyn",
-          "url": "https://open.spotify.com/artist/5wgXu5ifwmk7X6uJpfTSLN"
+          "name": "Eye of Melian",
+          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
         }
       ],
-      "duration_ms": 266581,
-      "name": "One With The Shadows",
-      "url": "https://open.spotify.com/track/1vXlaHm9VFsxbtGKVSsqDl"
+      "duration_ms": 298093,
+      "name": "Blackthorn Winter",
+      "url": "https://open.spotify.com/track/3qstHZIZY6nrBWs6oOcBGD"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1675,6 +1659,22 @@
       "duration_ms": 197969,
       "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
       "url": "https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "One With The Shadows",
+        "url": "https://open.spotify.com/album/2PcZ006a1uxenbFeuGEyPU"
+      },
+      "artists": [
+        {
+          "name": "Sigyn",
+          "url": "https://open.spotify.com/artist/5wgXu5ifwmk7X6uJpfTSLN"
+        }
+      ],
+      "duration_ms": 266581,
+      "name": "One With The Shadows",
+      "url": "https://open.spotify.com/track/1vXlaHm9VFsxbtGKVSsqDl"
     },
     {
       "added_at": "2026-03-22 01:56:31",

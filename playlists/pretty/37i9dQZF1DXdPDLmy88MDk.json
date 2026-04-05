@@ -1,6 +1,6 @@
 {
   "description": "Gentle instrumental tunes.",
-  "num_followers": 258021,
+  "num_followers": 258094,
   "original_name": "Soft Instrumental",
   "owner": {
     "name": "Spotify",
@@ -512,16 +512,16 @@
       },
       "artists": [
         {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
           "name": "Leon Wolf",
           "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
         },
         {
           "name": "Robin Kallenberger",
           "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
         }
       ],
       "duration_ms": 95313,

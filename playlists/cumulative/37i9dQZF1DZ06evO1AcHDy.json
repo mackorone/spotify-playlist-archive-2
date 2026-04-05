@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Chosen Family (with Elton John)",
+        "url": "https://open.spotify.com/album/7iV4NiIjNFK2QvamKHGU8i"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279679,
+      "name": "Chosen Family (with Elton John)",
+      "url": "https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs"
+    },
+    {
+      "album": {
         "name": "SAWAYAMA",
         "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
       },

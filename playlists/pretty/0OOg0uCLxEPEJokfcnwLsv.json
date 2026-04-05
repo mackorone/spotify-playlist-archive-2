@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 861,
+  "num_followers": 863,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFn9hWXnP88yTMkSwtbE9imtxFs3AB",
+  "snapshot_id": "AAAFoS71O3dwY8mblerYjo9I4eXe2663",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1871,6 +1871,38 @@
       "duration_ms": 132469,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/4OLphiU0dKvFTkIPSdOS5j"
+    },
+    {
+      "added_at": "2026-04-04 17:03:46",
+      "album": {
+        "name": "long road",
+        "url": "https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP"
+      },
+      "artists": [
+        {
+          "name": "tina.",
+          "url": "https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC"
+        }
+      ],
+      "duration_ms": 215604,
+      "name": "long road",
+      "url": "https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6"
+    },
+    {
+      "added_at": "2026-04-04 17:23:40",
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/1DD2XZIV8cYiMhF1rMbyC9"
+      },
+      "artists": [
+        {
+          "name": "Church of Elder",
+          "url": "https://open.spotify.com/artist/6k5TPRqgd3Hvi0to5s05gQ"
+        }
+      ],
+      "duration_ms": 232075,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/0TiJ38Y29vd3RiOFzjUM44"
     }
   ],
   "unique_name": "Unsigned Rock",

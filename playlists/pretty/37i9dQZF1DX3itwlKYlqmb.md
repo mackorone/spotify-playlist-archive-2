@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 
 > De está sierra a la otra sierra se divisa <br/>San José\. En portada: Los Alegres de la Sierra
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,015 likes - 97 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,055 likes - 97 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 | 96 | [Te vi venir](https://open.spotify.com/track/37ELDkWCHvpfcRHUQCqhEw) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 2:57 |
 | 97 | [Me Dicen Pollito](https://open.spotify.com/track/0urlk3sC8fU001wvwmFVpk) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Me Dicen Pollito](https://open.spotify.com/album/1W6vX4nj4DLuTGcppYujJe) | 4:19 |
 
-Snapshot ID: `AAAAAPMwGKFUyKeuGOgHk316pijY4dO4`
+Snapshot ID: `AAAAAO9ribt0oJVu0LUCYistdPixTn4S`

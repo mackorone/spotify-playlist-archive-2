@@ -189,6 +189,36 @@
     },
     {
       "album": {
+        "name": "All In One",
+        "url": "https://open.spotify.com/album/5b7t6LQrYvDVAnsPf6wf4A"
+      },
+      "artists": [
+        {
+          "name": "Kaala Shaw",
+          "url": "https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf"
+        },
+        {
+          "name": "Gamuel Sori",
+          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
+        },
+        {
+          "name": "Kickbait",
+          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172398,
+      "name": "All In One",
+      "url": "https://open.spotify.com/track/20vOpfuWTquWZzqHX5kMYP"
+    },
+    {
+      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu"
       },
@@ -3289,6 +3319,28 @@
     },
     {
       "album": {
+        "name": "Beats & Pieces II",
+        "url": "https://open.spotify.com/album/0yQHW3TPiuNdfWvkumo4ac"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278217,
+      "name": "Iajo",
+      "url": "https://open.spotify.com/track/70QunfArMKaFnMKTzv2C9x"
+    },
+    {
+      "album": {
         "name": "Iawah",
         "url": "https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt"
       },
@@ -5914,7 +5966,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 175200,
       "name": "Sleeping Satellite",
       "url": "https://open.spotify.com/track/6CWPaj0n9mCcYtuSY8mHcT"
@@ -7826,7 +7878,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 133924,
       "name": "You Have To Have A Goal",
       "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"

@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 53900,
+  "num_followers": 53912,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac2xgAAAAAA3aj23cgcNFymr9m0BtXjA",
+  "snapshot_id": "ac8DAAAAAAByelt9F9O12KpfZQd+S1P0",
   "tracks": [
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 177693,
-      "name": "Mystery Girl",
-      "url": "https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI"
+      "duration_ms": 189120,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/0KFsVUp01T2sCFnoP53Yuy"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 189120,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/0KFsVUp01T2sCFnoP53Yuy"
+      "duration_ms": 177693,
+      "name": "Mystery Girl",
+      "url": "https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI"
     },
     {
       "added_at": null,

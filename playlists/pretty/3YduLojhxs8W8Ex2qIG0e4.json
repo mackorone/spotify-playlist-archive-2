@@ -6,7 +6,7 @@
     "name": "Salon Blanc",
     "url": "https://open.spotify.com/user/1125193345"
   },
-  "snapshot_id": "AAAJj3Eaa5fw2cRfd/VWZfwTue4qdVsT",
+  "snapshot_id": "AAAJkrprhWBUdLTGmrRv11dneKujOrEh",
   "tracks": [
     {
       "added_at": "2025-12-05 06:07:41",
@@ -57,10 +57,10 @@
       "url": "https://open.spotify.com/track/6H5FyHR39hnSv5rEsXAuS1"
     },
     {
-      "added_at": "2026-03-14 05:50:18",
+      "added_at": "2026-04-04 06:41:28",
       "album": {
-        "name": "Whole Lotta Lying",
-        "url": "https://open.spotify.com/album/3V4aCFXjH0JKJ76V0lUMqi"
+        "name": "Tardive Regrets",
+        "url": "https://open.spotify.com/album/77va0OIaUtjTkmbMJ0BWsT"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
         }
       ],
-      "duration_ms": 267428,
-      "name": "Whole Lotta Lying",
-      "url": "https://open.spotify.com/track/22MDQBuRfCxTxBKg6uLm5D"
+      "duration_ms": 269217,
+      "name": "Tardive Regrets",
+      "url": "https://open.spotify.com/track/35kZqVylkAuIm3SXCwSboG"
     },
     {
       "added_at": "2025-10-14 05:46:32",
@@ -297,10 +297,10 @@
       "url": "https://open.spotify.com/track/33do4mel6InOIdORZcZoa6"
     },
     {
-      "added_at": "2025-10-13 05:42:47",
+      "added_at": "2026-03-14 05:50:18",
       "album": {
-        "name": "On The Run",
-        "url": "https://open.spotify.com/album/5IpBP7qaeYBurElNGIsJRw"
+        "name": "Whole Lotta Lying",
+        "url": "https://open.spotify.com/album/3V4aCFXjH0JKJ76V0lUMqi"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
         }
       ],
-      "duration_ms": 240000,
-      "name": "On The Run",
-      "url": "https://open.spotify.com/track/4BaMkCKAvG7BuOMzXWyF33"
+      "duration_ms": 267428,
+      "name": "Whole Lotta Lying",
+      "url": "https://open.spotify.com/track/22MDQBuRfCxTxBKg6uLm5D"
     },
     {
       "added_at": "2025-10-21 05:46:19",
@@ -575,6 +575,22 @@
       "duration_ms": 242666,
       "name": "Sadness in their Eyes",
       "url": "https://open.spotify.com/track/6Ohsk1FZoVGIPWF3VFckGI"
+    },
+    {
+      "added_at": "2025-10-13 05:42:47",
+      "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/5IpBP7qaeYBurElNGIsJRw"
+      },
+      "artists": [
+        {
+          "name": "QRU",
+          "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "On The Run",
+      "url": "https://open.spotify.com/track/4BaMkCKAvG7BuOMzXWyF33"
     },
     {
       "added_at": "2025-04-29 12:31:39",

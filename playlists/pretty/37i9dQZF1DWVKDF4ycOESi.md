@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di BLANCO, Sayf, Serena Brancale con Levante e DELIA, Tiziano Ferro con Giorgia, Ditonellapiaga e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,533 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,561 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

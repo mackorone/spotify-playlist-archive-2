@@ -1238,6 +1238,28 @@
     {
       "album": {
         "name": "Believe",
+        "url": "https://open.spotify.com/album/1kv35nBdNjZ1MHQuK34NZV"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2E6yJ8ZmW2Oap0umIbZH2f"
+    },
+    {
+      "album": {
+        "name": "Believe",
         "url": "https://open.spotify.com/album/6ynBCRtz2f2HHh3RJZsgAp"
       },
       "artists": [
@@ -5266,7 +5288,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 161163,
       "name": "Heal My World",
       "url": "https://open.spotify.com/track/49o3UHSf3W5wRtxT6dDQpd"
@@ -12185,6 +12207,28 @@
     },
     {
       "album": {
+        "name": "Stinger",
+        "url": "https://open.spotify.com/album/7MFZ53wze2YJFTRQu2A38O"
+      },
+      "artists": [
+        {
+          "name": "THOMM",
+          "url": "https://open.spotify.com/artist/5dYTI0a9mTwRdRD4IWZh7L"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186620,
+      "name": "Stinger",
+      "url": "https://open.spotify.com/track/58kxyfOVawb51Ok7brO38e"
+    },
+    {
+      "album": {
         "name": "Stop The Madness",
         "url": "https://open.spotify.com/album/0vkGXGvfA5DulMFpLt6vnh"
       },
@@ -13600,7 +13644,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 171870,
       "name": "Tonight The Devil Is a DJ",
       "url": "https://open.spotify.com/track/0t8Qtcn4EcCVy4SG0f8Fba"

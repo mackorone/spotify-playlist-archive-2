@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 357399,
+  "num_followers": 357504,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Hearts In Motion",
-        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Lonely Is the Night",
-      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 264986,
       "name": "Kiss on My List",
       "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Hearts In Motion",
+        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Lonely Is the Night",
+      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Other Roads (Expanded)",
-        "url": "https://open.spotify.com/album/6yesaWRPjBvzztTpFrktQm"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Heart of Mine",
-      "url": "https://open.spotify.com/track/3GGLM9N7B18Hww26bScGDq"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "High Adventure",
         "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 322333,
       "name": "Heart to Heart",
       "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Other Roads (Expanded)",
+        "url": "https://open.spotify.com/album/6yesaWRPjBvzztTpFrktQm"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Heart of Mine",
+      "url": "https://open.spotify.com/track/3GGLM9N7B18Hww26bScGDq"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Break Of Dawn",
-        "url": "https://open.spotify.com/album/3Zr0QdJlpHUstVVy3yvBdW"
-      },
-      "artists": [
-        {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
-        }
-      ],
-      "duration_ms": 227773,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4ko4WxOdiaVEJexWRb53zZ"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Airplay",
         "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 226306,
       "name": "Should We Carry On",
       "url": "https://open.spotify.com/track/73yhx3X96uO3jpNlAQLZwA"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Break Of Dawn",
+        "url": "https://open.spotify.com/album/3Zr0QdJlpHUstVVy3yvBdW"
+      },
+      "artists": [
+        {
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+        }
+      ],
+      "duration_ms": 227773,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4ko4WxOdiaVEJexWRb53zZ"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Once In a Lifetime",
-        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
-      },
-      "artists": [
-        {
-          "name": "Michael Ruff",
-          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/6icn5WumyUJN7o8RBz0RQU"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Airplay",
         "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Another Page (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3GkUmzCpICEFZ7sZRiHdBV"
+        "name": "Once In a Lifetime",
+        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Michael Ruff",
+          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
         }
       ],
-      "duration_ms": 258010,
-      "name": "All Right - 2019 Remaster",
-      "url": "https://open.spotify.com/track/0DtJ6l10vlXET3UGZv8rMV"
+      "duration_ms": 272933,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/6icn5WumyUJN7o8RBz0RQU"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1195,6 +1179,22 @@
       "duration_ms": 280360,
       "name": "Heart (Stop Beating In Time)",
       "url": "https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Another Page (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3GkUmzCpICEFZ7sZRiHdBV"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 258010,
+      "name": "All Right - 2019 Remaster",
+      "url": "https://open.spotify.com/track/0DtJ6l10vlXET3UGZv8rMV"
     },
     {
       "added_at": "2023-03-30 14:38:10",

@@ -4,7 +4,7 @@
 
 > Lo más fresco de los corridones\. Lencho en portada.
 
-1,810 songs - 3 day 19 hr 57 min
+1,811 songs - 3 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1604,6 +1604,7 @@
 | [Señores de Alto Grado](https://open.spotify.com/track/0aEX77IxJBmeWNBj3FV4Oi) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1A58Tldo1ULvhFrVYwPrec) | 2:40 | 2023-12-01 | 2023-12-06 |
 | [Señores de Alto Grado](https://open.spotify.com/track/2CFH3Ob6xALoL7TxURtQKz) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh) | 2:40 | 2023-12-01 | 2023-12-23 |
 | [Señorita de a Caballo](https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Señorita de a Caballo](https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A) | 3:42 | 2024-09-20 | 2024-10-12 |
+| [Shifu](https://open.spotify.com/track/799gqz8zC15jHkQHxIywd3) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Shifu](https://open.spotify.com/album/0zepNGprZRYkacaZMwkfuF) | 2:11 | 2026-04-05 |  |
 | [Si de Bélicos Hablamos \(En Vivo\)](https://open.spotify.com/track/2fTo0N3x8JCEy3iSVNMiHx) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Si de Bélicos Hablamos \(En Vivo\)](https://open.spotify.com/album/3l4KUKS3RgieBHWLmyjJ3Q) | 2:36 | 2022-12-30 | 2023-03-11 |
 | [Si Estoy Donde Estoy \(En Vivo\)](https://open.spotify.com/track/72zKXb35QSe3wTIsSHoz64) | [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Si Estoy Donde Estoy \(En Vivo\)](https://open.spotify.com/album/2gx6KVPGKqFRmdxPAUjLek) | 3:22 | 2022-10-28 | 2022-12-03 |
 | [Si Estuviera el Güero](https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Si Estuviera el Güero](https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee) | 4:05 | 2025-06-06 | 2025-09-13 |

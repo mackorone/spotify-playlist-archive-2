@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-880 songs - 2 day 3 hr 39 min
+885 songs - 2 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [DOPAMINE \- Original Mix](https://open.spotify.com/track/1qIHh1E9VlIQjlx63VdXMj) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [ohey](https://open.spotify.com/artist/2BgpHKGiSYNrDpFy0bOK34), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [DOPAMINE \(Original Mix\)](https://open.spotify.com/album/2iohXmZrN34oyh0Yjmk08V) | 2:17 | 2025-12-24 | 2026-01-24 |
 | [Down In The Body](https://open.spotify.com/track/3ekBGOE4dpifR9POIZ7NJ0) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [Down In The Body](https://open.spotify.com/album/3dEgxFaN7bfBajvy1enMR4) | 3:37 | 2025-09-13 | 2025-11-29 |
 | [Dragonfly over Teufelssee](https://open.spotify.com/track/6VAVoJe4ERhnDebcHG0939) | [fragile construct](https://open.spotify.com/artist/1ekV2LHZWLMtnJk8gXNeyA) | [Dragonfly over Teufelssee](https://open.spotify.com/album/2noNxQNXJqHvIKjTFr217O) | 4:26 | 2026-03-24 |  |
+| [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2026-04-04 |  |
 | [DREAMER](https://open.spotify.com/track/49lM9TyblTaosHpdPkc05O) | [Hikado](https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA) | [DREAMER](https://open.spotify.com/album/27aHMfzeKvauniQ4iB2MvY) | 3:35 | 2026-03-10 |  |
 | [Dreaming](https://open.spotify.com/track/4oanX17e4dDfaxuaVGu9ZL) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Lost Song Wars](https://open.spotify.com/album/3T4Tq9XjsEdxI8clFJFCie) | 4:21 | 2026-03-31 |  |
 | [Drug Infused Love](https://open.spotify.com/track/0zvHPpFftBopYcKXTexcjm) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [Drug Infused Love](https://open.spotify.com/album/7falbSgkPHlEQ8WfjnRhPf) | 2:45 | 2026-02-25 | 2026-03-25 |
@@ -274,6 +275,7 @@
 | [Giammatteo](https://open.spotify.com/track/7rqiD3ucbslzxgY7MV8z8Q) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Giammatteo](https://open.spotify.com/album/0atOfzRYVlb5JyOUgu6dgd) | 3:35 | 2026-01-05 | 2026-02-03 |
 | [Gitani di camargue](https://open.spotify.com/track/4ebdvjJR1ILzkbmZwrodlJ) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Molòn Labè \(Come and Get Them!\)](https://open.spotify.com/album/7IaWrlaoTDtILz5I2fzDY7) | 3:53 | 2023-04-20 | 2025-11-29 |
 | [Go To Mars](https://open.spotify.com/track/1hdZyrKOcW5YR9VbQ2cRLO) | [LGJ](https://open.spotify.com/artist/61bVVHlWXm0W0GSU9LiwxO), [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [Go To Mars](https://open.spotify.com/album/4uB6KPZUt2bKSrt5SceOQr) | 3:10 | 2026-03-15 |  |
+| [God's Waiting List](https://open.spotify.com/track/6kYDNhV42rV2tGPS8xW6Zr) | [Luhongo](https://open.spotify.com/artist/6pD84fH6AufB44ccGvLCL5) | [God's Waiting List](https://open.spotify.com/album/25muSm6wNMOlDPRahhTDdJ) | 3:02 | 2026-04-04 |  |
 | [Godforsaken](https://open.spotify.com/track/6qxAEAoSzeXERxdbjxIrVn) | [Dame Fawn Denier](https://open.spotify.com/artist/6lAy6E6eYa6Feap35sZy6N) | [Godforsaken](https://open.spotify.com/album/7atHBCBbpuTD83eGd95aqC) | 3:11 | 2026-02-17 | 2026-03-15 |
 | [Gods of Sicily](https://open.spotify.com/track/6X0Tm9vCzFUHRynEDr4Q9G) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 4:02 | 2023-04-20 | 2025-11-29 |
 | [Goldfinger](https://open.spotify.com/track/7CxpqrpikeDO932mUdMT3D) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL) | [Jazz on the Rocks](https://open.spotify.com/album/5eiluKFW35SbkOipksoF8B) | 4:09 | 2023-04-20 | 2025-11-29 |
@@ -613,11 +615,13 @@
 | [Remergence IS \(Remember Yourself\)](https://open.spotify.com/track/5HKlb9liOYTfBQpNvopPXr) | [Scientists Of Spright](https://open.spotify.com/artist/2QBaWdsPg8yEN7IBH4NhQJ) | [Remergence IS \(Remember Yourself\)](https://open.spotify.com/album/4TmNT7cOQp07A0rLtsgpoL) | 4:00 | 2026-03-30 |  |
 | [Respira](https://open.spotify.com/track/35C7CVFAGnntZMmOci7BEq) | [Tommaso Giusti](https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a) | [Respira](https://open.spotify.com/album/0tJ0beEO98szvdMttzpYEG) | 3:48 | 2026-01-24 | 2026-02-20 |
 | [Rest In Me](https://open.spotify.com/track/5p1E3w1CRRyMoCSmA7vC9N) | [The Pleasure Merchants](https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF) | [Rest In Me](https://open.spotify.com/album/1uZFqbuf6bwd2No55cGprC) | 4:09 | 2025-12-27 | 2026-01-24 |
+| [Resta qui](https://open.spotify.com/track/3DWXaxpZITEuneQtpqmnYS) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [Resta qui](https://open.spotify.com/album/615U7jBZ12XBVNJEUQRwCe) | 3:05 | 2026-04-04 |  |
 | [Rewind](https://open.spotify.com/track/5SoFyOYhxezOJUihbnccUl) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ) | 2:29 | 2026-01-05 | 2026-02-20 |
 | [Right guy wrong mouth](https://open.spotify.com/track/6JjW4HuSCbEjr8l3svYlH2) | [Phantom goblin king](https://open.spotify.com/artist/25cK0rP6WVJgpZ9H1iVzC9) | [Right guy wrong mouth](https://open.spotify.com/album/3wWsfQ2gBeAmUZezSe2m7I) | 2:36 | 2025-11-17 | 2025-12-21 |
 | [Rising Sun](https://open.spotify.com/track/0P6x0ReQrQHHpl88QOMAHZ) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Rising Sun](https://open.spotify.com/album/3DJOo5uHEAiXdbgLYzAZwk) | 3:14 | 2026-01-26 | 2026-02-28 |
 | [Ritorno dove sei](https://open.spotify.com/track/6OMcPolvYS6yR3PldGmJV9) | [Olda](https://open.spotify.com/artist/02Yce6Eg1kyRM4c20hNQac) | [Ritorno dove sei](https://open.spotify.com/album/5kLBuU4Hf2x0TYRBFem4TD) | 2:32 | 2026-02-19 | 2026-03-25 |
 | [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 | 2026-01-14 | 2026-02-20 |
+| [roaches.](https://open.spotify.com/track/47kdMhdwMkt16EAbeLcU9a) | [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN) | [roaches.](https://open.spotify.com/album/4DvKJrvA1W9faFzLljxIOk) | 3:25 | 2026-04-04 |  |
 | [Roma](https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Roma](https://open.spotify.com/album/28GEpbSVfkg6AripcKvexZ) | 2:47 | 2026-02-10 | 2026-03-15 |
 | [Rome](https://open.spotify.com/track/2gXkKM9mpsP1N2ly8j0kNQ) | [Hana Wiess](https://open.spotify.com/artist/3MzcltgVVlZRrede0B7gK9) | [Rome](https://open.spotify.com/album/3UnxzJJbma1MzFYlHPNMSz) | 3:19 | 2025-11-11 | 2025-12-21 |
 | [Rugido na Estrada](https://open.spotify.com/track/3FTaWZD7qUbb6ScM9YjbG1) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Rugido na Estrada](https://open.spotify.com/album/1r76L7sEgHPZtRBRXT4apm) | 2:54 | 2026-01-26 | 2026-02-28 |
@@ -782,6 +786,7 @@
 | [Tiempos malos](https://open.spotify.com/track/58Ew7nIxymuVUtR8hWFQVk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Mal Presagio](https://open.spotify.com/album/0IhrnjkKKD2Gf9u87acMLR) | 2:20 | 2025-12-09 | 2026-01-05 |
 | [Tonno & Mais](https://open.spotify.com/track/0hO4qLR5aBkgjurivChdBD) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Tonno & Mais](https://open.spotify.com/album/6oD2jXFjAcyLMUX2IroM45) | 3:10 | 2026-02-14 | 2026-03-15 |
 | [Too Slow Too Strong](https://open.spotify.com/track/3UFy1nOeLLtp1iZ916oK9u) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Too Slow Too Strong](https://open.spotify.com/album/3EhqcaF65CYKt9cGMMhAjo) | 2:58 | 2026-02-12 | 2026-03-25 |
+| [Tooth](https://open.spotify.com/track/7coB6qAIUohaBcqrCDhmyk) | [Yung Tasso](https://open.spotify.com/artist/3KOeNxUY9JKjzpYwxwOJUK), [Hayds](https://open.spotify.com/artist/0OIEpFFn2coJ5zeiMzrEdg), [FatRicko](https://open.spotify.com/artist/24cxoi08cDLTR8dbSiSawu) | [Tooth](https://open.spotify.com/album/6jM6xqCgSYunaFDBajakoC) | 2:23 | 2026-04-04 |  |
 | [Touch](https://open.spotify.com/track/43NZJKAwliwhhf92fVfwwx) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Touch](https://open.spotify.com/album/4Ai7hZRY0AFkeTwZsVhgwt) | 2:46 | 2025-12-13 | 2026-01-15 |
 | [Toxic Trait](https://open.spotify.com/track/34KZgwr2aDJQSeclVpdKB6) | [ItsRosieQuartz](https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF) | [Toxic Trait](https://open.spotify.com/album/0c4tXSpPZgmfezbQiri3q4) | 2:45 | 2026-01-28 | 2026-02-28 |
 | [Tracks and Trials](https://open.spotify.com/track/4xGRKrYSF8wyPqtXnYwnNp) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Tracks and Trials](https://open.spotify.com/album/0qti15pcmEyYpzolt4OiWB) | 3:40 | 2023-06-29 | 2025-11-29 |

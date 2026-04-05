@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS4GhkDZq7c.md) - [plain]
 
 > Cool Tracks from Kollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,780 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,853 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS4GhkDZq7c.md) - [plain]
 | 44 | [Iru Vizhi Unadhu \(Orey Nyabagam\) \- Chill Mix](https://open.spotify.com/track/250yydNshBxGUU9lCI2qRF) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC), [Devan Ekambaram](https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB) | [Iru Vizhi Unadhu \(Orey Nyabagam\) \- Chill Mix](https://open.spotify.com/album/1tg9gBDNOmvW5BQDLBVC7Y) | 1:48 |
 | 45 | [Yaaraiyum Ivlo Azhaga \- From "Sulthan"](https://open.spotify.com/track/6PDkbkVKBCMIwm1wlDhT3s) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS) | [Yaaraiyum Ivlo Azhaga \(From "Sulthan"\)](https://open.spotify.com/album/5MNzOtjJZh98O2uNICovAo) | 4:58 |
 | 46 | [Ennadi Maayavi Nee](https://open.spotify.com/track/47Cd4WP1ZOK8WXC68kqZ03) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [VadaChennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oZttbNRyrYfBLhej6HAY7) | 4:11 |
-| 47 | [Dope Track](https://open.spotify.com/track/1fknE84SHjsgzjkh1H98Yf) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Pyaar Prema Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4byzDhvVyWc8kakTvxfejQ) | 4:10 |
+| 47 | [Visiri](https://open.spotify.com/track/00DMv3gdOFGDBFZ0WuvtXn) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Visiri \(From 'Enai Noki Paayum Thota'\)](https://open.spotify.com/album/2dQbMri1EbI9AveEm3sUZE) | 5:11 |
 | 48 | [Mannipaaya \- Lofi Flip](https://open.spotify.com/track/65jgQvQBJg3cgpcQ2JmGqZ) | [Narendar Sankar](https://open.spotify.com/artist/2sHlh9GXbnnLWMLKT3RqPG), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mannipaaya \(Lofi Flip\)](https://open.spotify.com/album/6PXnHGYPSKWoNNNBisviww) | 3:22 |
-| 49 | [Visiri](https://open.spotify.com/track/00DMv3gdOFGDBFZ0WuvtXn) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Visiri \(From 'Enai Noki Paayum Thota'\)](https://open.spotify.com/album/2dQbMri1EbI9AveEm3sUZE) | 5:11 |
+| 49 | [Dope Track](https://open.spotify.com/track/1fknE84SHjsgzjkh1H98Yf) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Pyaar Prema Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4byzDhvVyWc8kakTvxfejQ) | 4:10 |
 | 50 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 |
 
 Snapshot ID: `AAAAAAF5i374ZWPWbKMuK7k3M6bobMPP`

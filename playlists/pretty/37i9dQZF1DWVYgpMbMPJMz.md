@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,030 likes - 79 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,053,389 likes - 79 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

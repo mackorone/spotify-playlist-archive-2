@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok, Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,018 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,922 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 74 | [Substance](https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Substance](https://open.spotify.com/album/2fJ1PQyoQEA7QiWkGjjpaA) | 2:40 |
 | 75 | [Empurra](https://open.spotify.com/track/4WMZgxtddABWMvqpRqXdsN) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Guilherme Rossi](https://open.spotify.com/artist/7qYHSpBovO9VuKmQtpEHsh) | [Empurra](https://open.spotify.com/album/11deGutI6A6LfMKcgQ9ftV) | 2:49 |
 
-Snapshot ID: `AAAAAINa6s/vF/iP/wwYwGbAG8TH003+`
+Snapshot ID: `AAAAAHNkXu78bIqEXi1NjnZCAGgzI2xz`

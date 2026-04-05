@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 601,
+  "num_followers": 602,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADL1LuEhdxAtpF0kA526rmRdoWmc45",
+  "snapshot_id": "AAADMuo1+QwSy4SliZNN+BF5FXDhBYAr",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1315,6 +1315,54 @@
       "duration_ms": 239143,
       "name": "Light in the Darkness",
       "url": "https://open.spotify.com/track/4469akQ3sJ0BL8LO92RNmL"
+    },
+    {
+      "added_at": "2026-04-04 17:04:13",
+      "album": {
+        "name": "long road",
+        "url": "https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP"
+      },
+      "artists": [
+        {
+          "name": "tina.",
+          "url": "https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC"
+        }
+      ],
+      "duration_ms": 215604,
+      "name": "long road",
+      "url": "https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6"
+    },
+    {
+      "added_at": "2026-04-04 17:06:59",
+      "album": {
+        "name": "In My Own Way",
+        "url": "https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi"
+      },
+      "artists": [
+        {
+          "name": "Field of View",
+          "url": "https://open.spotify.com/artist/77F2OeJqiPVTeAwBeu2gxG"
+        }
+      ],
+      "duration_ms": 150102,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR"
+    },
+    {
+      "added_at": "2026-04-04 17:13:06",
+      "album": {
+        "name": "MAD MAN",
+        "url": "https://open.spotify.com/album/3k3JTOmVTwBAUtusdjOiW8"
+      },
+      "artists": [
+        {
+          "name": "GUGGISBERG",
+          "url": "https://open.spotify.com/artist/6u9vPlPfLh50z81XYdsahe"
+        }
+      ],
+      "duration_ms": 188438,
+      "name": "MAD MAN",
+      "url": "https://open.spotify.com/track/6JazoIXIOMSFagj2YKNfBJ"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

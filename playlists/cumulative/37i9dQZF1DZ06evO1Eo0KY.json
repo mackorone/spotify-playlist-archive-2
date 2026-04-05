@@ -2565,6 +2565,36 @@
     },
     {
       "album": {
+        "name": "Play With Something Safe",
+        "url": "https://open.spotify.com/album/21sLBUppAR2KfbMxuXf9uP"
+      },
+      "artists": [
+        {
+          "name": "Rosco P Coldchain",
+          "url": "https://open.spotify.com/artist/3YBBdrVEWJrj4XONK0UtP2"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Ab Liva",
+          "url": "https://open.spotify.com/artist/53WOQvBO23MHgjpnpjYVTi"
+        },
+        {
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248076,
+      "name": "Play With Something Safe",
+      "url": "https://open.spotify.com/track/6Ox5IaQwzZoLDoni9bnIsk"
+    },
+    {
+      "album": {
         "name": "Ultimate Dump Gawd",
         "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
       },
@@ -2896,7 +2926,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 120000,
       "name": "Simple Math",
       "url": "https://open.spotify.com/track/09UFD242DWtLC8QAexJLm5"

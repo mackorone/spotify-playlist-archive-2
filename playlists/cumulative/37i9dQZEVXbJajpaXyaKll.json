@@ -22845,6 +22845,28 @@
     },
     {
       "album": {
+        "name": "Looping the Rooms",
+        "url": "https://open.spotify.com/album/7MPPcO4oCA6C595i4IoX1N"
+      },
+      "artists": [
+        {
+          "name": "rusino",
+          "url": "https://open.spotify.com/artist/2p6kVvES1aPMkHsz22JukH"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134071,
+      "name": "Looping the Rooms",
+      "url": "https://open.spotify.com/track/3XJCMkEWhd8xwHx6UGGa7C"
+    },
+    {
+      "album": {
         "name": "Looping the Rooms / Lambent Aria",
         "url": "https://open.spotify.com/album/6MyiYxY7PsY0aHp1PjA5KM"
       },
@@ -22860,7 +22882,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 134071,
       "name": "Looping the Rooms (feat. HATSUNE MIKU)",
       "url": "https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI"
@@ -23782,7 +23804,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 150812,
       "name": "Machista",
       "url": "https://open.spotify.com/track/2jJ5gHhgrCiKlZJamIB9mY"
@@ -24238,7 +24260,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -27861,6 +27883,24 @@
     },
     {
       "album": {
+        "name": "Nadie Esta Hablando De Amar Og",
+        "url": "https://open.spotify.com/album/5qrSXuRJH4luXLXJbmGztm"
+      },
+      "artists": [
+        {
+          "name": "slw10",
+          "url": "https://open.spotify.com/artist/7d8GEIlHdGjxyzJtGBVgVs"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189081,
+      "name": "Nadie Esta Hablando De Amar Og",
+      "url": "https://open.spotify.com/track/3julJhcX11xuINRlHu9M80"
+    },
+    {
+      "album": {
         "name": "NAMORE",
         "url": "https://open.spotify.com/album/2JNOFTWXIFcEm5q0onRTGt"
       },
@@ -28670,7 +28710,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 80480,
       "name": "NO LES DA",
       "url": "https://open.spotify.com/track/6pryujEohwqSNKGTW33SKE"
@@ -29760,7 +29800,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 171292,
       "name": "Nuestro trabajo / Los puentes",
       "url": "https://open.spotify.com/track/5CV0R4iNXmy1BBbyluPdpA"
@@ -31190,6 +31230,28 @@
       "duration_ms": 211062,
       "name": "PACTO",
       "url": "https://open.spotify.com/track/5qC0IS7MrHk05zrVyZWOQn"
+    },
+    {
+      "album": {
+        "name": "Pacto (Salas)",
+        "url": "https://open.spotify.com/album/1of0pBD2Irl4ehHXdFeiZp"
+      },
+      "artists": [
+        {
+          "name": "Abichos",
+          "url": "https://open.spotify.com/artist/437FtSmpAruNj7ahaYJ3vu"
+        },
+        {
+          "name": "FrannSSJ",
+          "url": "https://open.spotify.com/artist/4ZNEK6Z5JYkaYKejKbnOqZ"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123376,
+      "name": "Pacto (Salas)",
+      "url": "https://open.spotify.com/track/2CUpg8ZiWqw4c8bsFQn9zA"
     },
     {
       "album": {
@@ -33374,7 +33436,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 182891,
       "name": "PRIMER AVISO",
       "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
@@ -35338,7 +35400,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"

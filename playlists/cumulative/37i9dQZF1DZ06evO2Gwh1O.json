@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Welcome Home Armageddon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ObWkJiimQOByPUb7AzYY4"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "Front Row Seats to the End of the World",
+      "url": "https://open.spotify.com/track/2sBtb1i6Fytpj1aTBfoZFi"
+    },
+    {
+      "album": {
         "name": "Welcome Home Armageddon",
         "url": "https://open.spotify.com/album/671IkodRxbHQXE41qo7I0H"
       },

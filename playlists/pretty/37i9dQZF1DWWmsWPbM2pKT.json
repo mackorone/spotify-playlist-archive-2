@@ -1,6 +1,6 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
-  "num_followers": 469010,
+  "num_followers": 469116,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
+        "name": "Dark Angel",
+        "url": "https://open.spotify.com/album/2l4vEBCHhW804i5xo1rj4g"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 348750,
+      "name": "Flinch Awake",
+      "url": "https://open.spotify.com/track/7KT3QK1mTErOIeXyBwsnA8"
+    },
+    {
+      "added_at": "2026-03-13 13:08:59",
+      "album": {
         "name": "Ohm",
         "url": "https://open.spotify.com/album/2QHDd0DUJBWc8zPKJ2xWWB"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 228891,
       "name": "Se Fue el Sol",
       "url": "https://open.spotify.com/track/5imuzVaALa9imm5kLy9SbA"
-    },
-    {
-      "added_at": "2026-03-13 13:08:59",
-      "album": {
-        "name": "Dark Angel",
-        "url": "https://open.spotify.com/album/2l4vEBCHhW804i5xo1rj4g"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 348750,
-      "name": "Flinch Awake",
-      "url": "https://open.spotify.com/track/7KT3QK1mTErOIeXyBwsnA8"
     },
     {
       "added_at": "2026-03-13 13:08:59",

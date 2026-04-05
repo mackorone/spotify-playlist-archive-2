@@ -1521,6 +1521,28 @@
     },
     {
       "album": {
+        "name": "WASTE SOME TIME",
+        "url": "https://open.spotify.com/album/5BiS7WuOT5QbqmU5OKXgJY"
+      },
+      "artists": [
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/5MOUpRLvK6boZ3J5av1YK9"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206416,
+      "name": "WASTE SOME TIME",
+      "url": "https://open.spotify.com/track/2ILaUBvEAGFGpEES1uHega"
+    },
+    {
+      "album": {
         "name": "what's the use?",
         "url": "https://open.spotify.com/album/1U1MhjyeQmkdR7zR5xppYq"
       },

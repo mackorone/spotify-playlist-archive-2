@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 57611,
+  "num_followers": 57616,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac2xgAAAAAAjTAOGp1ayLsDmpRc0yQKl",
+  "snapshot_id": "ac8DAAAAAACOun/cgBLvC+HgVn8adDge",
   "tracks": [
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pista",
-        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "\u00bfY si bailamos?",
-      "url": "https://open.spotify.com/track/34hlv8mV3qVxQZcJ4A5Aib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BALANCE [PARTE DOS]",
         "url": "https://open.spotify.com/album/15oEMpjJsVVnQQRdATYnJN"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 198507,
       "name": "Hag\u00e1moslo",
       "url": "https://open.spotify.com/track/4GKy9dFa24KbbOl4wQt8ft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "\u00bfY si bailamos?",
+      "url": "https://open.spotify.com/track/34hlv8mV3qVxQZcJ4A5Aib"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 235758,
+      "name": "Juntos de Noche",
+      "url": "https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eres Ese Algo 2.0",
         "url": "https://open.spotify.com/album/5sBF9KH0kIVomiZp0DAvMU"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 168426,
       "name": "Eres Ese Algo 2.0",
       "url": "https://open.spotify.com/track/3uqPmBYZNkLax6vjYXI8VL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 235758,
-      "name": "Juntos de Noche",
-      "url": "https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk"
     },
     {
       "added_at": null,
@@ -1167,6 +1167,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nube Roja",
+        "url": "https://open.spotify.com/album/7l611d6c9kU7kCzHZabXhD"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Nube Roja",
+      "url": "https://open.spotify.com/track/5V3ooSsqapq7yzZniTHvaK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 201500,
       "name": "Caricatura",
       "url": "https://open.spotify.com/track/3FRHFTC7xJqezSrNIhHySg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nube Roja",
-        "url": "https://open.spotify.com/album/7l611d6c9kU7kCzHZabXhD"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yng Naz",
-          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Nube Roja",
-      "url": "https://open.spotify.com/track/5V3ooSsqapq7yzZniTHvaK"
     },
     {
       "added_at": null,
@@ -1287,26 +1287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carita de Santa",
-        "url": "https://open.spotify.com/album/6mm90NxozSRb53D9Pmw9QN"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 141136,
-      "name": "Carita de Santa",
-      "url": "https://open.spotify.com/track/4eYKV4x82gEFKkZy6leFIB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Inmensidades",
         "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
       },
@@ -1331,26 +1311,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas y Serpientes",
-        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+        "name": "Carita de Santa",
+        "url": "https://open.spotify.com/album/6mm90NxozSRb53D9Pmw9QN"
       },
       "artists": [
         {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 141136,
+      "name": "Carita de Santa",
+      "url": "https://open.spotify.com/track/4eYKV4x82gEFKkZy6leFIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alzypher Vol. 23",
+        "url": "https://open.spotify.com/album/09iTZNUeamOD5klE9yBlly"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
         },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
         }
       ],
-      "duration_ms": 270769,
-      "name": "Rosas y Serpientes",
-      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+      "duration_ms": 133636,
+      "name": "Alzypher Vol. 23",
+      "url": "https://open.spotify.com/track/6LmQGM2qED3EL6ib52XpBH"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

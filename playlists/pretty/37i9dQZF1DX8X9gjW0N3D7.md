@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Choses Sauvages
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,816 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,821 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 6 | [Que je vous aime](https://open.spotify.com/track/7x4DcnTpKSlQZrzMgpugv0) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Que je vous aime](https://open.spotify.com/album/1AiiElsCE9tm1xryxCswZP) | 3:16 |
 | 7 | [Demi\-tour](https://open.spotify.com/track/6DT34THRmULPtWwgm3GFDd) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Demi\-tour](https://open.spotify.com/album/140MQvVxZZdLbbnziE4LpF) | 3:52 |
 | 8 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 |
-| 9 | [APPELLE\-MOI TARD](https://open.spotify.com/track/624RYE1uQSFLxyXoImOyTr) | [Lexotik](https://open.spotify.com/artist/7kGFkoiwiCqh6KPZfp9aa7), [Thomas Laplante](https://open.spotify.com/artist/2EpJkVB0j0lkqTaRjdT6Ze) | [APPELLE\-MOI TARD](https://open.spotify.com/album/7pX3l7FOGSbaJFlKnpBPU2) | 2:02 |
+| 9 | [APPELLE\-MOI TARD](https://open.spotify.com/track/624RYE1uQSFLxyXoImOyTr) | [Lexotik](https://open.spotify.com/artist/7kGFkoiwiCqh6KPZfp9aa7) | [APPELLE\-MOI TARD](https://open.spotify.com/album/7pX3l7FOGSbaJFlKnpBPU2) | 2:02 |
 | 10 | [L'écart du monde](https://open.spotify.com/track/0GKJRmX43xqj6h6WiVUI3T) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [L'écart du monde](https://open.spotify.com/album/7xu4TXHEEnrF101ZaCtsf7) | 2:43 |
 | 11 | [Dizzy](https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe) | [Edward Rogers](https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1) | [Dizzy](https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7) | 3:03 |
 | 12 | [Still You Love Me](https://open.spotify.com/track/0matJgxZBlEDf4ACbMSBYx) | [2120](https://open.spotify.com/artist/0VsoloLwSIiLZ3AeoYjWSR) | [Still You Love Me](https://open.spotify.com/album/4S37RmMOM74DrU0PW0U0AG) | 3:18 |

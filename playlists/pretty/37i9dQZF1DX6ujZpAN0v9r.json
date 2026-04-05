@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 691514,
+  "num_followers": 691619,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Staring At The Sun",
+        "url": "https://open.spotify.com/album/3vANqWkHEdIeiuTgqFYikr"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "duration_ms": 447998,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/3XtFDis6KnAOopdjnUmI1k"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/5k565ga9B9EJqLyCatmrt0"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Staring At The Sun",
-        "url": "https://open.spotify.com/album/3vANqWkHEdIeiuTgqFYikr"
+        "name": "The Comforts of Madness",
+        "url": "https://open.spotify.com/album/0nIWyOR3JgBnVsJgKQxyWt"
       },
       "artists": [
         {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
         }
       ],
-      "duration_ms": 447998,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/3XtFDis6KnAOopdjnUmI1k"
+      "duration_ms": 337600,
+      "name": "Sight of You",
+      "url": "https://open.spotify.com/track/2XMwak0QKaukNo502mcufY"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1503,22 +1519,6 @@
       "duration_ms": 368626,
       "name": "Souvenirs d'un autre monde",
       "url": "https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "The Comforts of Madness",
-        "url": "https://open.spotify.com/album/0nIWyOR3JgBnVsJgKQxyWt"
-      },
-      "artists": [
-        {
-          "name": "Pale Saints",
-          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
-        }
-      ],
-      "duration_ms": 337600,
-      "name": "Sight of You",
-      "url": "https://open.spotify.com/track/2XMwak0QKaukNo502mcufY"
     },
     {
       "added_at": "2021-06-03 02:39:04",

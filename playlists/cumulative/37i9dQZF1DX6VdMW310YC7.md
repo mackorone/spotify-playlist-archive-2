@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,878 songs - 5 day 7 hr 36 min
+1,879 songs - 5 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Begin \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0q59zQZgCwEhwzzipPvWoZ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 4:02 | 2020-05-18 | 2022-04-21 |
 | [Begin By Letting Go](https://open.spotify.com/track/2CRx925YeUuCmXnb76IGZb) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Etherwood](https://open.spotify.com/album/2QjEkNJlzz3sxP10unu8F5) | 4:21 | 2020-05-18 | 2020-07-03 |
 | [Behind The Line](https://open.spotify.com/track/4LvABz0CZYbEheSeCUDkDj) | [Enfant Sauvage](https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D), [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX) | [Behind The Line](https://open.spotify.com/album/7GdBwc9plMJG1ad5M94Ff9) | 5:33 | 2025-01-24 | 2026-01-24 |
-| [Believe](https://open.spotify.com/track/1Awgm6eNs5BojzttZePxeB) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Believe](https://open.spotify.com/album/2XV2dgQQYYet2pU8RtjufX) | 3:58 | 2026-02-20 |  |
+| [Believe](https://open.spotify.com/track/1Awgm6eNs5BojzttZePxeB) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Believe](https://open.spotify.com/album/2XV2dgQQYYet2pU8RtjufX) | 3:58 | 2026-02-20 | 2026-04-05 |
 | [Believe](https://open.spotify.com/track/3ISqJrqSULAszi0B0tB1OX) | [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [Who You Are EP](https://open.spotify.com/album/4ebgeJzWzstciDwvXNgS4G) | 4:00 | 2021-04-30 | 2022-07-29 |
 | [Believer \- Marsh's Guatape Remix](https://open.spotify.com/track/1GHOLip5jcgRIBqd8QUx7N) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Believer \(Marsh's Guatape Remix\)](https://open.spotify.com/album/7GGVUzqEZQFwbHsBO3Fzam) | 4:15 | 2022-01-07 | 2024-03-02 |
 | [Bellariva](https://open.spotify.com/track/5tGboJa7ztLFH3d1gFOGFn) | [Hear & Now](https://open.spotify.com/artist/3YQwxKTjtAELAeGeqY4HgJ) | [Alba Sol](https://open.spotify.com/album/1ZDWGVjdLTUgVbZ2uGG5kW) | 5:39 | 2020-05-26 | 2020-10-09 |
@@ -293,6 +293,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Close Your Eyes](https://open.spotify.com/album/1dykSfMKD0vYaCH9Rp338Y) | 2:36 | 2025-07-11 | 2025-12-20 |
 | [Close Your Eyes](https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Close Your Eyes](https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB) | 4:54 | 2024-10-25 | 2025-01-01 |
 | [Closed for Renovations](https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Closed for Renovations](https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw) | 2:43 | 2021-08-20 | 2022-10-13 |
+| [Closer](https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Closer](https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9) | 3:16 | 2026-04-03 |  |
 | [Closer](https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7) | [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv), [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf) | [Closer](https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi) | 2:42 | 2025-09-26 | 2025-11-11 |
 | [Closer](https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Closer](https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA) | 4:18 | 2026-01-09 |  |
 | [Closer](https://open.spotify.com/track/6o30i136QpwWOL2v98cSAd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:12 | 2022-01-21 | 2022-02-12 |

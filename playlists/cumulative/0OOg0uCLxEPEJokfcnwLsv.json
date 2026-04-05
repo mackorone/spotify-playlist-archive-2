@@ -3639,6 +3639,24 @@
     },
     {
       "album": {
+        "name": "long road",
+        "url": "https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP"
+      },
+      "artists": [
+        {
+          "name": "tina.",
+          "url": "https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215604,
+      "name": "long road",
+      "url": "https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6"
+    },
+    {
+      "album": {
         "name": "Loretta",
         "url": "https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ"
       },
@@ -6904,6 +6922,24 @@
       "duration_ms": 201561,
       "name": "Wasn't Born To Follow",
       "url": "https://open.spotify.com/track/0Rx5hdjmYdBeaYDvSsCOeR"
+    },
+    {
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/1DD2XZIV8cYiMhF1rMbyC9"
+      },
+      "artists": [
+        {
+          "name": "Church of Elder",
+          "url": "https://open.spotify.com/artist/6k5TPRqgd3Hvi0to5s05gQ"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232075,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/0TiJ38Y29vd3RiOFzjUM44"
     },
     {
       "album": {

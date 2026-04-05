@@ -2085,6 +2085,24 @@
     },
     {
       "album": {
+        "name": "blinded.mp3",
+        "url": "https://open.spotify.com/album/5TKXSvSEjfE2VKkfam7t1R"
+      },
+      "artists": [
+        {
+          "name": "furosha",
+          "url": "https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134634,
+      "name": "blinded.mp3",
+      "url": "https://open.spotify.com/track/2HXiLqw0BHwlaf8w3LoHc3"
+    },
+    {
+      "album": {
         "name": "bliss",
         "url": "https://open.spotify.com/album/4sXC7pzKfubo9QdRCfk7UB"
       },
@@ -4854,6 +4872,24 @@
       "duration_ms": 146651,
       "name": "everything will be okay",
       "url": "https://open.spotify.com/track/1fWIzh1fU9i0ucuL6wDmBq"
+    },
+    {
+      "album": {
+        "name": "everywhere i look is a reminder of who i used to be",
+        "url": "https://open.spotify.com/album/6tXKK06fWlw1uMWcV1QADM"
+      },
+      "artists": [
+        {
+          "name": "remind me",
+          "url": "https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137587,
+      "name": "everywhere i look is a reminder of who i used to be",
+      "url": "https://open.spotify.com/track/24SycwFr94TjjNxm0nQPfd"
     },
     {
       "album": {
@@ -8981,6 +9017,24 @@
     },
     {
       "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/2SWhoALD7LhazKlrHBrRSm"
+      },
+      "artists": [
+        {
+          "name": "Imxone",
+          "url": "https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121904,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/3MPzykAy66yJ5KTfGdWlRd"
+    },
+    {
+      "album": {
         "name": "loss",
         "url": "https://open.spotify.com/album/24w8DtRvJbaYvv2Kk7oN4n"
       },
@@ -11529,6 +11583,24 @@
     },
     {
       "album": {
+        "name": "restful",
+        "url": "https://open.spotify.com/album/0hUjtSUZFa8dPcLNMeKjXF"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120346,
+      "name": "restful",
+      "url": "https://open.spotify.com/track/6BQmqePqvhhHbZWPUYttLw"
+    },
+    {
+      "album": {
         "name": "return",
         "url": "https://open.spotify.com/album/4Jadiltaq5cEtWIks4JmqV"
       },
@@ -12491,6 +12563,24 @@
     },
     {
       "album": {
+        "name": "silly song",
+        "url": "https://open.spotify.com/album/0gy00hYqrqUcSYZWw9mHO7"
+      },
+      "artists": [
+        {
+          "name": "d2s1",
+          "url": "https://open.spotify.com/artist/0l6f9cXGE0K2QbcK1ZBgCY"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60521,
+      "name": "silly song",
+      "url": "https://open.spotify.com/track/3cd81xagEPh20EFwUBWhrE"
+    },
+    {
+      "album": {
         "name": "skywork",
         "url": "https://open.spotify.com/album/2rERMjcUpZCDZY4cLL8LrR"
       },
@@ -12782,6 +12872,24 @@
       "duration_ms": 93257,
       "name": "souly emptiness",
       "url": "https://open.spotify.com/track/6s69ZTXwQi9m8QzTnviwhp"
+    },
+    {
+      "album": {
+        "name": "it starts to feel lighter",
+        "url": "https://open.spotify.com/album/2wV0ZnoPLyAYmmEcpJsRG0"
+      },
+      "artists": [
+        {
+          "name": "Lynwi",
+          "url": "https://open.spotify.com/artist/7lodS5zmwpwEicx9QxuElv"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121348,
+      "name": "spark in rain",
+      "url": "https://open.spotify.com/track/3lsP6GtLKrOwR0p2JLnyFe"
     },
     {
       "album": {
@@ -14058,6 +14166,24 @@
       "duration_ms": 127052,
       "name": "together",
       "url": "https://open.spotify.com/track/50TCu1HoFvyloqmEN5cGQR"
+    },
+    {
+      "album": {
+        "name": "tomorrow is another day",
+        "url": "https://open.spotify.com/album/1xjt9e886XzxjTIhCnKRih"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169479,
+      "name": "tomorrow is another day",
+      "url": "https://open.spotify.com/track/4V0VSolG4dOYKfUWkWeGtY"
     },
     {
       "album": {
@@ -15688,6 +15814,24 @@
       "duration_ms": 202432,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/4SaDL8otuH4V9wUeHg96Dp"
+    },
+    {
+      "album": {
+        "name": "yes and amen",
+        "url": "https://open.spotify.com/album/7b1pcWh421V1MB6jmI6FBS"
+      },
+      "artists": [
+        {
+          "name": "insensible",
+          "url": "https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150966,
+      "name": "yes and amen",
+      "url": "https://open.spotify.com/track/46l7FgSmamPWSgV2g9adiw"
     },
     {
       "album": {

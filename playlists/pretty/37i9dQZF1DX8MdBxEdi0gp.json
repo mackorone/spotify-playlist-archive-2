@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 175119,
+  "num_followers": 175157,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Mi amor es para ti",
-      "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "\"Miguel\"",
         "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 251226,
       "name": "Morir de Amor",
       "url": "https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "Mi amor es para ti",
+      "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Bienvenido al Club",
-        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "Por volverte a ver",
-      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "iCollection",
         "url": "https://open.spotify.com/album/0vFB9bkeOurUUvOvIwUbnW"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 201160,
       "name": "Porque te vas",
       "url": "https://open.spotify.com/track/7vQZSwm9WRCHoPwUUuwkvv"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Bienvenido al Club",
+        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "Por volverte a ver",
+      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 183320,
       "name": "Cara de Gitana",
       "url": "https://open.spotify.com/track/6ZcL1hCAnEgz3MxP3xdFYe"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Lo Mejor de Ivan",
-        "url": "https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga"
+        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
+        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
       },
       "artists": [
         {
-          "name": "Ivan",
-          "url": "https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq"
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
         }
       ],
-      "duration_ms": 233160,
-      "name": "Te Quiero Tanto",
-      "url": "https://open.spotify.com/track/69GXCPQD5UpeW0oX1M91J4"
+      "duration_ms": 274533,
+      "name": "Donde Est\u00e9s, Con Quien Est\u00e9s",
+      "url": "https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
-        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
+        "name": "Lo Mejor de Ivan",
+        "url": "https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga"
       },
       "artists": [
         {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+          "name": "Ivan",
+          "url": "https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq"
         }
       ],
-      "duration_ms": 274533,
-      "name": "Donde Est\u00e9s, Con Quien Est\u00e9s",
-      "url": "https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP"
+      "duration_ms": 233160,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/69GXCPQD5UpeW0oX1M91J4"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Gracias Por La Musica (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 278386,
-      "name": "Estoy So\u00f1ando - Spanish Version",
-      "url": "https://open.spotify.com/track/4fK0R7wwuSzAz8fhp3JwMU"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Sus Mas Grandes Exit",
         "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 234840,
       "name": "Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Gracias Por La Musica (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 278386,
+      "name": "Estoy So\u00f1ando - Spanish Version",
+      "url": "https://open.spotify.com/track/4fK0R7wwuSzAz8fhp3JwMU"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Tal Como Eramos",
-        "url": "https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A"
-      },
-      "artists": [
-        {
-          "name": "Sergio Y Estibaliz",
-          "url": "https://open.spotify.com/artist/3MWGlOeCsA70Lu9eURTzlV"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "La Llamada",
-      "url": "https://open.spotify.com/track/6PzPUgspUxbCoH5z7a9VVl"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Album de Platino... 20 Super Exitos",
         "url": "https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 174853,
       "name": "Una Lagrima y un Recuerdo",
       "url": "https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Tal Como Eramos",
+        "url": "https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A"
+      },
+      "artists": [
+        {
+          "name": "Sergio Y Estibaliz",
+          "url": "https://open.spotify.com/artist/3MWGlOeCsA70Lu9eURTzlV"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/6PzPUgspUxbCoH5z7a9VVl"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2195,18 +2195,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Un Poco M\u00e1s",
-        "url": "https://open.spotify.com/album/54eZ7WGtIsuFSiSSYWykrv"
+        "name": "Las Estrellas Del Fonografo RCA Victor",
+        "url": "https://open.spotify.com/album/057uMF0PBt1w7hg04v5lJy"
       },
       "artists": [
         {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+          "name": "Joselito",
+          "url": "https://open.spotify.com/artist/2ptIxlKIEvy7k7qhPy4Khq"
         }
       ],
-      "duration_ms": 218600,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/3T5SA8XE5zulRr3TVYek0L"
+      "duration_ms": 155786,
+      "name": "Ego\u00edsmo",
+      "url": "https://open.spotify.com/track/2rKv1hF2MDjSkukvh26dID"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2227,18 +2227,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Las Estrellas Del Fonografo RCA Victor",
-        "url": "https://open.spotify.com/album/057uMF0PBt1w7hg04v5lJy"
+        "name": "Un Poco M\u00e1s",
+        "url": "https://open.spotify.com/album/54eZ7WGtIsuFSiSSYWykrv"
       },
       "artists": [
         {
-          "name": "Joselito",
-          "url": "https://open.spotify.com/artist/2ptIxlKIEvy7k7qhPy4Khq"
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
         }
       ],
-      "duration_ms": 155786,
-      "name": "Ego\u00edsmo",
-      "url": "https://open.spotify.com/track/2rKv1hF2MDjSkukvh26dID"
+      "duration_ms": 218600,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/3T5SA8XE5zulRr3TVYek0L"
     },
     {
       "added_at": "2024-07-11 01:42:53",

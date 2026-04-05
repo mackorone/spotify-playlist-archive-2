@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 181224,
       "name": "A Ghost",
       "url": "https://open.spotify.com/track/3iqVEqY5MhqWWnefad3AAr"
@@ -542,6 +542,24 @@
       "duration_ms": 190010,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/46gVwH2UBde8k2n8q4X4iQ"
+    },
+    {
+      "album": {
+        "name": "En Fin",
+        "url": "https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8"
+      },
+      "artists": [
+        {
+          "name": "Nico Tallac",
+          "url": "https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh"
     },
     {
       "album": {
@@ -1093,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "En Fin",
+        "url": "https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8"
+      },
+      "artists": [
+        {
+          "name": "Nico Tallac",
+          "url": "https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312272,
+      "name": "La Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/0bWu8JSfxwEJMGL91qnWK3"
+    },
+    {
+      "album": {
         "name": "Lady",
         "url": "https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex"
       },
@@ -1104,7 +1140,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf"
@@ -1252,6 +1288,24 @@
       "duration_ms": 225140,
       "name": "Naive",
       "url": "https://open.spotify.com/track/1pwJ5C8Zk7nJOPWp1TaTho"
+    },
+    {
+      "album": {
+        "name": "Reformat",
+        "url": "https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn"
+      },
+      "artists": [
+        {
+          "name": "Mumbler (UK)",
+          "url": "https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148946,
+      "name": "Neanderthal",
+      "url": "https://open.spotify.com/track/5RTMnfJSu8lRZOZcKSgQde"
     },
     {
       "album": {
@@ -1508,7 +1562,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 195428,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/2XNu31N13CPRtrlzLRzdPq"
@@ -1724,7 +1778,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 322483,
       "name": "Tales of Illusion ad Truth",
       "url": "https://open.spotify.com/track/32swzSSwkfqriDTMWyoHKy"
@@ -1760,7 +1814,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 187246,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/0BjA7kC1AjbGuoNV1xcvPS"
@@ -1803,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Reformat",
+        "url": "https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn"
+      },
+      "artists": [
+        {
+          "name": "Mumbler (UK)",
+          "url": "https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "The Big Machine",
+      "url": "https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df"
+    },
+    {
+      "album": {
         "name": "The Puppeteer",
         "url": "https://open.spotify.com/album/5TsaiTsFKvWIEWa2VTsABH"
       },
@@ -1814,7 +1886,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 228778,
       "name": "The Puppeteer",
       "url": "https://open.spotify.com/track/1EnSsLEzo4LuQRJ12kl9kn"
@@ -2048,7 +2120,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 170958,
       "name": "What I Know",
       "url": "https://open.spotify.com/track/7hAzub4kl8eFOLBOv46JKU"

@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-198 songs - 9 hr 26 min
+201 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [By The Window](https://open.spotify.com/track/6m4mgGH5VSiKwoAO6dym5k) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [By The Window](https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL) | 2:01 | 2023-02-13 |  |
 | [Call the Thunder](https://open.spotify.com/track/2a15jqyv9Sqm6hEPYZYFPz) | [Regendans](https://open.spotify.com/artist/1E2RM3DEqGzR4ZX6cyHVY3) | [Call the Thunder](https://open.spotify.com/album/1Gnp8qSNJaOFC1emAF0z92) | 2:18 | 2023-09-20 |  |
 | [Calming Thunder and Rainstorm in Arinsal](https://open.spotify.com/track/4wUGdHb1ewmxXEpDyK92rs) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Thunderstorm Crescendo](https://open.spotify.com/album/2Bg6xzoXwnHskRczt5qDJX) | 3:29 | 2025-09-23 |  |
-| [City Thunder](https://open.spotify.com/track/1tzD0vs1awlqfGT1eVeX61) | [Power Strike](https://open.spotify.com/artist/7ow9d4dYEfGrRcthtVCX9q) | [City Thunder](https://open.spotify.com/album/1Q4qC2dMKhrrU6hH0Lpdwo) | 3:04 | 2024-06-10 |  |
+| [City Stormy Night](https://open.spotify.com/track/4MIWH7F44rmKGfMMnNWUHI) | [Biologique](https://open.spotify.com/artist/0DudONxjyhGIoLDd0o17f1) | [Midnight Thunder](https://open.spotify.com/album/7Gl8BL86YWRVIFspHfyOzg) | 2:12 | 2026-04-01 |  |
+| [City Thunder](https://open.spotify.com/track/1tzD0vs1awlqfGT1eVeX61) | [Power Strike](https://open.spotify.com/artist/7ow9d4dYEfGrRcthtVCX9q) | [City Thunder](https://open.spotify.com/album/1Q4qC2dMKhrrU6hH0Lpdwo) | 3:04 | 2024-06-10 | 2026-04-05 |
 | [Contemplations \#2](https://open.spotify.com/track/4mWGn5BKWKD8YDXpTIG3py) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [Contemplations](https://open.spotify.com/album/2gOMTje0HNrjJZWB8n2W9K) | 2:03 | 2023-01-13 |  |
 | [Costa Tormenta](https://open.spotify.com/track/1fK6fnY1WSGzInlketXt6D) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Mal tiempo](https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr) | 2:27 | 2022-10-28 | 2026-02-15 |
 | [Cows In Thunderstorm](https://open.spotify.com/track/0iJwPDaT91EQ7FE5JudDIp) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [The Sound Of Thunder](https://open.spotify.com/album/7w7vj19z0QzYlqkdAQYLGR) | 2:25 | 2023-09-20 | 2025-12-23 |
@@ -62,6 +63,7 @@
 | [Humble Rain](https://open.spotify.com/track/1rBaNXCbOoEii6z7fhFXnS) | [ANCIENT RAIN](https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff) | [Rain On The Canopy](https://open.spotify.com/album/3Uvi3QF8vqzcQYnryt2T0d) | 3:04 | 2023-09-20 | 2026-04-04 |
 | [In the Wetlands](https://open.spotify.com/track/5huG3zZi91V8SJKbs0slkz) | [Edy Ocean](https://open.spotify.com/artist/7sOklRxvbi5j2XYKzytqiM) | [In the Wetlands](https://open.spotify.com/album/1NxzCzqznp5TCMkQMA7cYU) | 3:10 | 2025-07-23 |  |
 | [Lake Rain With Thunder](https://open.spotify.com/track/4yuc0tswxfh6DgaPTGXnA0) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [The Wet Forest](https://open.spotify.com/album/3lK8bIdeNTajiIBuBW9NP6) | 2:20 | 2022-10-28 |  |
+| [Lake Shore Thunderstorm](https://open.spotify.com/track/03fzyXatcgRbR6LKz7I1LH) | [Fabrique Noise](https://open.spotify.com/artist/2ldc1mlbRMXPMUiyyttiZG) | [Thunder Sounds & Storm](https://open.spotify.com/album/1ybSRivCHJ7XXcCIdwREeV) | 2:04 | 2026-04-01 |  |
 | [Le Tonnerre Claquant](https://open.spotify.com/track/4GHMe27LwEBBkIgqhi12cJ) | [Olivia Ange](https://open.spotify.com/artist/2TVCzUqzhVvdSIezkeY7Ok) | [Le Tonnerre Claquant](https://open.spotify.com/album/7iW8QcSoivasuL51LbO4Ri) | 2:38 | 2023-09-20 | 2025-11-12 |
 | [Let the Storm Pass](https://open.spotify.com/track/4pi0xQcZkKVpTiLBuxcJYm) | [Naturaleza FX](https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa) | [Let the Storm Pass](https://open.spotify.com/album/7HTbe1o8sEcuDLLIQgFfsy) | 2:06 | 2023-02-13 |  |
 | [Let There be Light](https://open.spotify.com/track/1uPziTIEMmri3zEHcvTyHE) | [Steve Shock](https://open.spotify.com/artist/0FgkiggVnGr0M7L693o0tY) | [Let There be Light](https://open.spotify.com/album/4NUuZHIeOaReJOPinJiptd) | 2:47 | 2023-09-20 | 2023-12-17 |
@@ -71,7 +73,7 @@
 | [Lightning in my Soul](https://open.spotify.com/track/5oaLnKTueoVKR1TPlHLjlf) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 3:05 | 2023-09-20 | 2026-01-15 |
 | [Lightning in the Dark](https://open.spotify.com/track/3UEdcz71hKsKcad6rnC8tO) | [Thunder etc.](https://open.spotify.com/artist/1O2nK8zKtpXOckXSR76kaS) | [Thunderstorm Blues](https://open.spotify.com/album/0yC2vctUeh6ODo7qw1QFIj) | 3:02 | 2023-09-20 |  |
 | [Lightning in the Evening](https://open.spotify.com/track/3Wzk6YAWxFTw6wNzycn6q6) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Thunder Day Rest](https://open.spotify.com/album/1c2pgnlXwydO9YFJcfbr2q) | 2:51 | 2023-09-20 | 2025-08-08 |
-| [Lightning in the Monsoon](https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Lightning in the Deluge](https://open.spotify.com/album/4lmNXCqUtPjGlVNx14LlOh) | 3:40 | 2023-09-20 |  |
+| [Lightning in the Monsoon](https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Lightning in the Deluge](https://open.spotify.com/album/4lmNXCqUtPjGlVNx14LlOh) | 3:40 | 2023-09-20 | 2026-04-05 |
 | [Lightning in the Rain](https://open.spotify.com/track/6d0kV5XiW515IZ0TFYeN7W) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 2:51 | 2023-09-20 |  |
 | [Lightning in the Rainstorm](https://open.spotify.com/track/4CmkMB6iijzP1caVtiKHJs) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Ocean Of Thunder Sound](https://open.spotify.com/album/2C6XUBZdsSfFoaX54IwymA) | 3:19 | 2023-09-20 | 2025-06-24 |
 | [Lightning in the Sunrise](https://open.spotify.com/track/2BHzD5rOBRUhtYiorjqndT) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Thunder in the Desert Night](https://open.spotify.com/album/6RToM8hYUswESrNvnCsDq0) | 2:33 | 2023-09-20 | 2025-12-15 |
@@ -98,6 +100,7 @@
 | [Rain and Thunder](https://open.spotify.com/track/0FjuflbopkwyPdYlo1dx8D) | [Lissening](https://open.spotify.com/artist/0nKn7U6mLdh9AtbUvK5dja) | [Thunderstuck](https://open.spotify.com/album/0XlwevCM65m1dwMbmOVqNr) | 3:44 | 2023-09-20 | 2026-02-21 |
 | [Rain and Thunder beneath the Leaves](https://open.spotify.com/track/0Is4kNdtR9S3yRzK05Tp7g) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Rain and Thunder beneath the Leaves](https://open.spotify.com/album/0Yw92qEbVjki2qQjfQoXHN) | 2:38 | 2025-11-11 |  |
 | [Rain Distant Thunder Samos](https://open.spotify.com/track/11tPKEkyvvguwJcghHEqhW) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Rain & Thunder Samos](https://open.spotify.com/album/6xmwcrMZbAxNsnuCrbbfsC) | 2:25 | 2023-09-20 | 2026-03-30 |
+| [Rain During Storm](https://open.spotify.com/track/5oyT8aVyN5tznyB1ssfxK3) | [Winding Down](https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX) | [Rain During Storm](https://open.spotify.com/album/4bXmCGxNUnI2g9sFuGAYKs) | 3:30 | 2026-04-01 |  |
 | [Rain On The Porch](https://open.spotify.com/track/0bXYBIzlncmj0LwOd3J5wn) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Relaxing Rain Sounds](https://open.spotify.com/album/1MvTpPYBFMJNYkThlmdC2l) | 2:47 | 2022-10-28 |  |
 | [Rain with Rolling and Clapping Thunder](https://open.spotify.com/track/4ndtxpFn1DfrKoXwsSnNug) | [In Natura](https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7) | [ETERNAL RAIN](https://open.spotify.com/album/2cCYxYXcBC89F7cLRT0IXF) | 2:08 | 2022-10-28 |  |
 | [Raining Rolling Thunder](https://open.spotify.com/track/7e3Hn9AFgrZrYgAZMJsvDb) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:42 | 2022-10-28 |  |
@@ -161,7 +164,7 @@
 | [Thunder Around The Clock](https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Century Storm](https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ) | 2:20 | 2022-10-28 |  |
 | [Thunder Bloom](https://open.spotify.com/track/3fXFYWhqRLFEnKFnJQtqwe) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Thunder Bloom](https://open.spotify.com/album/3jVtRRrHawnoAXyAkcs2jn) | 2:22 | 2026-04-01 |  |
 | [Thunder From The Patio](https://open.spotify.com/track/01gNkIQ1DRW42K1LX8Y3ZZ) | [Kuling](https://open.spotify.com/artist/4q17IksiUGgRMQAkVRmbhH) | [Thunder from the patio](https://open.spotify.com/album/66ePsaO4Ssm1oQmgTk7cDr) | 2:47 | 2023-09-20 | 2024-12-30 |
-| [Thunder in my Head](https://open.spotify.com/track/4HSAqiUMTApKA1fcfkUitG) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Lightning in the Afternoon](https://open.spotify.com/album/0Mu1JfxyBPhMs5o4c1wTKa) | 2:56 | 2023-09-20 |  |
+| [Thunder in my Head](https://open.spotify.com/track/4HSAqiUMTApKA1fcfkUitG) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Lightning in the Afternoon](https://open.spotify.com/album/0Mu1JfxyBPhMs5o4c1wTKa) | 2:56 | 2023-09-20 | 2026-04-05 |
 | [Thunder in my Veins](https://open.spotify.com/track/2eO2ySm0ZqWrbEEvHTH9eG) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 2:42 | 2023-09-20 | 2025-10-30 |
 | [Thunder In Spring](https://open.spotify.com/track/6Gs3SkXflNh1QrTcFVxjtz) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Thunder In Spring](https://open.spotify.com/album/19W4kCGzbmSQBfNmdmkUE8) | 2:33 | 2022-10-28 |  |
 | [Thunder in the Desert](https://open.spotify.com/track/1GDCeZeOcGWkFFfzxfxjWu) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Thunder in the Desert Night](https://open.spotify.com/album/6RToM8hYUswESrNvnCsDq0) | 3:17 | 2023-09-20 | 2024-03-18 |

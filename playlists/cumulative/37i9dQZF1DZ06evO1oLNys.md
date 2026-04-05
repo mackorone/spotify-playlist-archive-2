@@ -4,7 +4,7 @@
 
 > This is Lia Kohl\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 43 min
+51 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,11 +42,13 @@
 | [Outside, Arrington](https://open.spotify.com/track/0xRvIQV2KDHvMGwcoJfNNf) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Colin Held](https://open.spotify.com/artist/5ysT1fo4ccE4WSSvDP4tNY) | [Various Small Whistles and a Song](https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk) | 1:00 | 2026-03-27 |  |
 | [Plane](https://open.spotify.com/track/3mjE5YUdcMsqp7tVWBqziy) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Normal Sounds](https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP) | 6:56 | 2026-03-27 |  |
 | [Rich, Sticky, Sweet](https://open.spotify.com/track/434fNClMan2sL4bZ26Iw2Z) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Recipe for a Boiled Egg](https://open.spotify.com/album/5BSfKYCvpUbPSivWRESu00) | 5:42 | 2026-03-30 | 2026-04-01 |
+| [Right Before Dinner](https://open.spotify.com/track/1xtDTPyST8yKRnA7bQHLFm) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Recipe for a Boiled Egg](https://open.spotify.com/album/5BSfKYCvpUbPSivWRESu00) | 4:31 | 2026-04-05 |  |
 | [Scrimble\-Scramble](https://open.spotify.com/track/1fac4qYqKoPCVWFW1lAsAa) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Recipe for a Boiled Egg](https://open.spotify.com/album/5BSfKYCvpUbPSivWRESu00) | 2:52 | 2026-03-31 |  |
 | [Second Picture of the Same Weather Pattern](https://open.spotify.com/track/6F9q6f0K3L0fFfemzWenXC) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Too Small to be a Plain](https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14) | 3:31 | 2026-03-27 |  |
 | [sit on the floor and wait for storms](https://open.spotify.com/track/3UOZ8EqRzTlvqOPaymIl2x) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [The Ceiling Reposes](https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz) | 3:16 | 2026-03-27 |  |
 | [Stone Piece I](https://open.spotify.com/track/4YKtbKS2yNpI4go04yh2x1) | [Whitney Deanne Johnson](https://open.spotify.com/artist/0bYFegqSy4kotn92Pb3KTb), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Whitney Johnson](https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt) | [Stone Piece I](https://open.spotify.com/album/7AvRPX7SFGboxDbsieV3SL) | 7:29 | 2026-03-29 |  |
 | [Stone Piece I](https://open.spotify.com/track/2grSOpj4MBHZgnTzDfHxe9) | [Whitney Johnson](https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Stone Piece I](https://open.spotify.com/album/1CN5HD5HUgaLKw1qrbxShy) | 7:29 | 2026-03-27 | 2026-03-29 |
+| [Tea at Dawn](https://open.spotify.com/track/0mo7FxYAf19enHBdvmF0hd) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Recipe for a Boiled Egg](https://open.spotify.com/album/5BSfKYCvpUbPSivWRESu00) | 0:54 | 2026-04-05 |  |
 | [Tennis Court Light, Snow](https://open.spotify.com/track/7ggIC0pfqHen3QI2qRF2O9) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Normal Sounds](https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP) | 4:41 | 2026-03-27 |  |
 | [the moment a zipper](https://open.spotify.com/track/3oKbjge11bGrq7xABhauTj) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [The Ceiling Reposes](https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz) | 5:21 | 2026-03-27 |  |
 | [This was in the](https://open.spotify.com/track/1AUkZ7cAupKhPKXwdHIC08) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Zander Raymond](https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw) | [In Transit](https://open.spotify.com/album/1kIPPJHupfJboNly1npS7a) | 3:15 | 2026-03-27 |  |

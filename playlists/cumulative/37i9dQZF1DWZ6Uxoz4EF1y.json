@@ -806,7 +806,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 269645,
       "name": "El Gran Nombre del Se\u00f1or",
       "url": "https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 346933,
       "name": "La Cruz",
       "url": "https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec"
@@ -2945,6 +2945,24 @@
     },
     {
       "album": {
+        "name": "RESUCIT\u00d3",
+        "url": "https://open.spotify.com/album/4HTd4yZhdfjXuwoQfasoFi"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262466,
+      "name": "RESUCIT\u00d3",
+      "url": "https://open.spotify.com/track/0JHF91AC5uRDwB6sPjC4y6"
+    },
+    {
+      "album": {
         "name": "Experiencia Resurrecci\u00f3n 2025 ( En Vivo Desde Santa Marta)",
         "url": "https://open.spotify.com/album/1HnGtdu1TCcPd18hZ2QPeK"
       },
@@ -3164,6 +3182,28 @@
       "duration_ms": 295862,
       "name": "Su Vida Me Dio",
       "url": "https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth"
+    },
+    {
+      "album": {
+        "name": "Sublime Amor (Digno Es El Se\u00f1or)",
+        "url": "https://open.spotify.com/album/03yh6795WjQFsKZZs1eDrS"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        },
+        {
+          "name": "Misael Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/6tXl3iMCmgi3cCYTCcPYNr"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343018,
+      "name": "Sublime Amor (Digno es el Se\u00f1or)",
+      "url": "https://open.spotify.com/track/1gCliEOlpESToPvRqCpsXM"
     },
     {
       "album": {

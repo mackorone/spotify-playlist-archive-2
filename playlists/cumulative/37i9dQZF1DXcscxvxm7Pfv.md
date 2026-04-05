@@ -4,7 +4,7 @@
 
 > Free your mind from distraction with calming white noise.
 
-345 songs - 16 hr 22 min
+346 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bed Time Noise](https://open.spotify.com/track/6qf8bXC9jUy1BvAYvZ9blO) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Noise Zone](https://open.spotify.com/album/2TGWB7qK1w8z8kCbCky0bj) | 2:28 | 2022-08-26 |  |
 | [Below the Fall \- River Noise](https://open.spotify.com/track/6sXtxe7FGKa8a7C8fJvEDt) | [The Mindful](https://open.spotify.com/artist/5emKKqhb4oYf9k3sWw0At9) | [Mindfulness White Noise](https://open.spotify.com/album/7qWWQFUC7A8j6G0j8DHJnK) | 1:34 | 2022-08-26 | 2023-06-30 |
 | [Beneath The Surface](https://open.spotify.com/track/48X2dWdhT84ZS6lj6ZDjoD) | [Sleeping Ocean](https://open.spotify.com/artist/49PiZXcGBtgO9CwPC0SUGw) | [Beneath The Surface](https://open.spotify.com/album/78i64SMc5sjTETYK3RuWYh) | 3:11 | 2023-06-29 |  |
+| [Blanco Universal – Ruido para Dormir](https://open.spotify.com/track/3vPMDiRP08WutKAW5iSNnZ) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [Blanco Universal](https://open.spotify.com/album/6aDeeW1wHIeH64t4PqLwrE) | 2:41 | 2026-03-31 |  |
 | [Blissful White Noise](https://open.spotify.com/track/4T2okoJo9x0s518RtlUKrM) | [Sea of Noise](https://open.spotify.com/artist/3Beh31xrbBxn3ycObir7vz) | [Sound Mind](https://open.spotify.com/album/797QBc0k2h60FiDCyyUjSF) | 3:01 | 2022-08-26 | 2023-01-04 |
 | [Blue Ocean Noise](https://open.spotify.com/track/1VY5tPZOe1RdLMkdlyswbO) | [Der Farbenspieler](https://open.spotify.com/artist/0c5LTefUcb32S0imhQRS8f) | [White Noise Clouds](https://open.spotify.com/album/3WpZBBLVyI0KaatmSnLzBS) | 4:58 | 2022-08-26 | 2022-10-28 |
 | [Blue White Noise](https://open.spotify.com/track/0X97bKfDQg76Abx5LDfs8g) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [The Focus Noise](https://open.spotify.com/album/1KLlCt51zibJJVuvcdo2lz) | 2:32 | 2022-08-26 |  |
@@ -123,7 +124,7 @@
 | [Moon \(Noise\)](https://open.spotify.com/track/16xCeTbNu2DRvdvWyDPwC9) | [Misty Soundscapes](https://open.spotify.com/artist/1o7SZv1Du3ftihuWevNq2N) | [Moon \(Noise\)](https://open.spotify.com/album/6TUDw2xWqVzXNhhfxhNeNO) | 2:55 | 2026-03-31 |  |
 | [Morning Noise](https://open.spotify.com/track/5Yha53zwcxaZ6BCfIjFwnQ) | [Enhanced Audio](https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m) | [Noises At Night](https://open.spotify.com/album/5mGK1d7pOHtMaVlY2o6ngO) | 2:22 | 2023-06-29 |  |
 | [My Favorite Sleep Noise](https://open.spotify.com/track/4r50S4BkUhjhLcCwBzxO3C) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [My Favorite Sleep Noise](https://open.spotify.com/album/02kHREDO0Lz8zyZBuiGBFO) | 2:17 | 2023-10-19 |  |
-| [My little White Noise Machine](https://open.spotify.com/track/2JEp7APVgK2rwgOfMP0g9g) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [My little White Noise Machine](https://open.spotify.com/album/5UQhx35Ullhit2jcnCcRPu) | 5:14 | 2023-12-05 |  |
+| [My little White Noise Machine](https://open.spotify.com/track/2JEp7APVgK2rwgOfMP0g9g) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [My little White Noise Machine](https://open.spotify.com/album/5UQhx35Ullhit2jcnCcRPu) | 5:14 | 2023-12-05 | 2026-04-05 |
 | [Nap Noise](https://open.spotify.com/track/3ZoQVbQygzjKMERzQCuUll) | [Alpha Noise](https://open.spotify.com/artist/3D11xwI7KbEPyQxdYCoyI6) | [Sounds of Serenity](https://open.spotify.com/album/5torbd6LM91zIYzUDvRGhW) | 2:38 | 2022-10-27 |  |
 | [Nap Noise](https://open.spotify.com/track/29vnTVRvQHoAtoGn3VATYW) | [Ambi Val](https://open.spotify.com/artist/565mPwsJmMPYT6VTPWtmm9) | [Noise For Relaxation](https://open.spotify.com/album/4v7CO19R14ua1KuL7MmoAi) | 1:39 | 2022-08-26 | 2023-06-30 |
 | [Noise & Sleep](https://open.spotify.com/track/2E691vZJRMdpiiHFjd5YUi) | [All Night Chill Makers](https://open.spotify.com/artist/2i0PdFbccjRzAc6ZZPwk5O) | [Endless Noise](https://open.spotify.com/album/6d9yF4CEBCDBX5M3vu0aF9) | 2:23 | 2022-08-26 | 2026-04-01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, Ari Mason, Siren Section and more",
+  "description": "With Rob Harrowven, Ari Mason, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -486,10 +486,28 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 257640,
       "name": "Antivenom",
       "url": "https://open.spotify.com/track/16EFU2GIxNGB8yVtpaval9"
+    },
+    {
+      "album": {
+        "name": "Antivenom",
+        "url": "https://open.spotify.com/album/2JjnB2l8TgDXbIS7f1gxuO"
+      },
+      "artists": [
+        {
+          "name": "Darkswoon",
+          "url": "https://open.spotify.com/artist/1S4bUARSWJWm53WWf5hcRc"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257640,
+      "name": "Antivenom",
+      "url": "https://open.spotify.com/track/6owOPBbWiOC4oWFDX8ZoAe"
     },
     {
       "album": {
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 329297,
       "name": "Broken Lines",
       "url": "https://open.spotify.com/track/6EG8WMQO5emWbbIDsstjBs"
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 211981,
       "name": "Castle of love II",
       "url": "https://open.spotify.com/track/5S7AVhwllnAQ3ZOgf7SnLn"
@@ -2222,7 +2240,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Deathbed Memories",
       "url": "https://open.spotify.com/track/3eHvkNsgdaulJ4fsQeuYTd"
@@ -2244,6 +2262,24 @@
       "duration_ms": 353686,
       "name": "Decay",
       "url": "https://open.spotify.com/track/33qWm1JNPyopKuzotbZXTG"
+    },
+    {
+      "album": {
+        "name": "Decorating Hope",
+        "url": "https://open.spotify.com/album/0i84ADLo13aIUpFWTn8UPH"
+      },
+      "artists": [
+        {
+          "name": "HOODTRAP",
+          "url": "https://open.spotify.com/artist/1evLzYqZHpL1u6ZtB84QPc"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "Decorating Hope",
+      "url": "https://open.spotify.com/track/3LcfWLlkFIlfvmF7xfAaiG"
     },
     {
       "album": {
@@ -2432,7 +2468,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -2962,7 +2998,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Feel",
       "url": "https://open.spotify.com/track/2paWLxW5uODgpyEiBCon4w"
@@ -3524,7 +3560,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 198364,
       "name": "Goodbye Horses",
       "url": "https://open.spotify.com/track/1UX6WV1lpNYEj5V5YGPco8"
@@ -3662,7 +3698,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -4718,7 +4754,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 187118,
       "name": "Just Saying - Single Edit",
       "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
@@ -5188,7 +5224,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -5429,6 +5465,24 @@
     },
     {
       "album": {
+        "name": "ionnalee's MOUTH OF A RIVER, pt. 1",
+        "url": "https://open.spotify.com/album/2TCWZ0EZ1Nd4IdFk69arX7"
+      },
+      "artists": [
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170175,
+      "name": "matthew",
+      "url": "https://open.spotify.com/track/13u8sno06vzOyF2ke4cF2h"
+    },
+    {
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/0GMxfRQPVnw4SSlrMdiTix"
       },
@@ -5552,7 +5606,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 207528,
       "name": "Midnight Reverie",
       "url": "https://open.spotify.com/track/4IpqV4XPQZFCl7xv3EZY7G"
@@ -5624,7 +5678,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 310769,
       "name": "Miracles (Redeux Mix)",
       "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
@@ -5808,7 +5862,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -6148,7 +6202,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 183684,
       "name": "Nothing's Ever Nothing",
       "url": "https://open.spotify.com/track/1SxJdTgQEv52C0gb7GQ82H"
@@ -8226,7 +8280,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 236571,
       "name": "Stormy Eyes",
       "url": "https://open.spotify.com/track/5WptqC4TCA7O8fO1TIOQMp"
@@ -8610,7 +8664,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 280320,
       "name": "The Againsters - To Die In Beauty Remix",
       "url": "https://open.spotify.com/track/53KjYy69KuICpeKvQcCV7h"
@@ -8694,7 +8748,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 257309,
       "name": "The Day After",
       "url": "https://open.spotify.com/track/1USFHPbSX1xxLcmvdCkwDi"
@@ -8748,7 +8802,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 222493,
       "name": "The Fear",
       "url": "https://open.spotify.com/track/523fbv1E5scQBXcGOK4vMl"
@@ -9556,7 +9610,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 162911,
       "name": "TRITAGONIST 1",
       "url": "https://open.spotify.com/track/2vmmih4JawzVaMCvfVhcZx"
@@ -10341,6 +10395,24 @@
     },
     {
       "album": {
+        "name": "Whisper Park",
+        "url": "https://open.spotify.com/album/0NiGG33QbDgFWOOMWa18pI"
+      },
+      "artists": [
+        {
+          "name": "VELATINE",
+          "url": "https://open.spotify.com/artist/5k2dtNaq2QBHfwkCPmkgHV"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226917,
+      "name": "Whisper Park",
+      "url": "https://open.spotify.com/track/6cCV0VdbECEBATuTYNXbNC"
+    },
+    {
+      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/0JHzzqes3sawQWOp9deqCM"
       },
@@ -10550,7 +10622,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 218702,
       "name": "Y Control",
       "url": "https://open.spotify.com/track/3CkcsvsWRAAlosMTm4HiSD"

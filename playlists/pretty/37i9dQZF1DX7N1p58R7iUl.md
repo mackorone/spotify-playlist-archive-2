@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,937 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,961 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 49 | [Devil's Dance \- Rossi\. Remix](https://open.spotify.com/track/5w4Uyv5u3V4Hsp2Or1bTH0) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Sound Design](https://open.spotify.com/artist/5vcGzbf0bkGkhGhI1E72WU), [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Devil's Dance \(2025 Remixes\)](https://open.spotify.com/album/3eoz9dhPu5FoCIraupBGkX) | 5:03 |
 | 50 | [Feel Real Good](https://open.spotify.com/track/2TCRA9ufgB5ThqH61P59X2) | [Smokin Jo](https://open.spotify.com/artist/2j0rweTjMkl2QBiRdRpnkp), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Feel Real Good](https://open.spotify.com/album/5slCoZ4927sCporlUw7NCy) | 3:10 |
 
-Snapshot ID: `AAAAAF1vJK0uMlWsSQYsznZGdVEUHlx9`
+Snapshot ID: `AAAAAMxeDbz2GGFl6qZ+I7KmCWrXQpSl`

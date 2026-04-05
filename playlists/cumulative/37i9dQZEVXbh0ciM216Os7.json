@@ -5663,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219570,
+      "name": "Beams",
+      "url": "https://open.spotify.com/track/4yNK2ybBbO7CiuSyTNvBc8"
+    },
+    {
+      "album": {
         "name": "Beams",
         "url": "https://open.spotify.com/album/6Gjsdtw3nw3GV5IrwFmT4G"
       },
@@ -5674,7 +5692,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 219570,
       "name": "Beams",
       "url": "https://open.spotify.com/track/7AieCEz0Kpv2c8L63LXcWw"
@@ -9350,7 +9368,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 161968,
       "name": "Busy Boy - Galantis Remix",
       "url": "https://open.spotify.com/track/5BKyF9HhHAeTMiDt71TcHu"
@@ -10262,7 +10280,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 184083,
       "name": "CAPTAIN KERNEL",
       "url": "https://open.spotify.com/track/3qgdg6mAzmI6Lx2hseDSel"
@@ -21910,7 +21928,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 165421,
       "name": "Focus On Your Goals",
       "url": "https://open.spotify.com/track/5RvZ9xazA89ZTmebbEmmcz"
@@ -28135,6 +28153,28 @@
     },
     {
       "album": {
+        "name": "Soul Assassins II",
+        "url": "https://open.spotify.com/album/2E18SgeWUyFGYgqpV9eTYb"
+      },
+      "artists": [
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Hidden Track",
+      "url": "https://open.spotify.com/track/4Z8sgj3RKw7ubd3U9FrXSs"
+    },
+    {
+      "album": {
         "name": "Michael & The Mighty Midnight Revival, Songs For Sinners And Saints",
         "url": "https://open.spotify.com/album/40vIutKw2lpTnF5V7oLLlV"
       },
@@ -28731,6 +28771,28 @@
     },
     {
       "album": {
+        "name": "POMPEII // UTILITY",
+        "url": "https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97874,
+      "name": "Home on the Range",
+      "url": "https://open.spotify.com/track/4FuMwTYcUbE8TBzbJPyU8Y"
+    },
+    {
+      "album": {
         "name": "Home on the Range // Back Home",
         "url": "https://open.spotify.com/album/5FMSAdmLudQYXyLWLfoya7"
       },
@@ -28746,7 +28808,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 97874,
       "name": "Home on the Range",
       "url": "https://open.spotify.com/track/4QiWYpCnD5TipN2AycUy2i"
@@ -57842,7 +57904,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 211539,
       "name": "Specially Trained Ninja",
       "url": "https://open.spotify.com/track/3RsDTN6vvAhC7VHGNpcWxz"
@@ -63904,7 +63966,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 198447,
       "name": "The Omerta - Original",
       "url": "https://open.spotify.com/track/7LXhgXeTveJArOTfX5dRXg"
@@ -70908,7 +70970,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 192440,
       "name": "When The Fat Lady Sings",
       "url": "https://open.spotify.com/track/3jiJa8iROPRh40Ihmb4aVS"

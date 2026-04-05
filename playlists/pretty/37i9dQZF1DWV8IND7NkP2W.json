@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 529189,
+  "num_followers": 529191,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -719,26 +719,6 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "\u7b2c\u4e8c\u5fc3 (Dainishin)",
-        "url": "https://open.spotify.com/album/78oTBSWxd86gNnwNf4XOTi"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
-        }
-      ],
-      "duration_ms": 230070,
-      "name": "\u7b2c\u4e8c\u5fc3 (Dainishin)",
-      "url": "https://open.spotify.com/track/1nnl5SqTlN9PNY9xFcSC26"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
         "name": "Yugure",
         "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 126750,
       "name": "Yugure",
       "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
+        "name": "\u7b2c\u4e8c\u5fc3 (Dainishin)",
+        "url": "https://open.spotify.com/album/78oTBSWxd86gNnwNf4XOTi"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "duration_ms": 230070,
+      "name": "\u7b2c\u4e8c\u5fc3 (Dainishin)",
+      "url": "https://open.spotify.com/track/1nnl5SqTlN9PNY9xFcSC26"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
+        "name": "Kingyo",
+        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 168559,
+      "name": "Kingyo",
+      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
         "name": "Coquettish Definition",
         "url": "https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 193125,
       "name": "Coquettish Definition",
       "url": "https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
-        "name": "Kingyo",
-        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 168559,
-      "name": "Kingyo",
-      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "MAR",
-        "url": "https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO"
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok"
       },
       "artists": [
         {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
         }
       ],
-      "duration_ms": 169894,
-      "name": "MAR",
-      "url": "https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS"
+      "duration_ms": 120000,
+      "name": "Sequences",
+      "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1171,34 +1171,18 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok"
+        "name": "MAR",
+        "url": "https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO"
       },
       "artists": [
         {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Sequences",
-      "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
-        "name": "Dawn Breaks",
-        "url": "https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw"
-      },
-      "artists": [
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        }
-      ],
-      "duration_ms": 118750,
-      "name": "Dawn Breaks",
-      "url": "https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ"
+      "duration_ms": 169894,
+      "name": "MAR",
+      "url": "https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
+        "name": "Dawn Breaks",
+        "url": "https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "duration_ms": 118750,
+      "name": "Dawn Breaks",
+      "url": "https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Train Smoke",
-        "url": "https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG"
-      },
-      "artists": [
-        {
-          "name": "Kicktracks",
-          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
-        }
-      ],
-      "duration_ms": 136059,
-      "name": "Train Smoke",
-      "url": "https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
         "name": "Leave Behind",
         "url": "https://open.spotify.com/album/5JEHpQDD5ytKRIwDLuSMY0"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 119082,
       "name": "Leave Behind",
       "url": "https://open.spotify.com/track/1BrETPp4kfh0cuYpTRfrk2"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
+        "name": "Train Smoke",
+        "url": "https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG"
+      },
+      "artists": [
+        {
+          "name": "Kicktracks",
+          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
+        }
+      ],
+      "duration_ms": 136059,
+      "name": "Train Smoke",
+      "url": "https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "ribbon",
-        "url": "https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9"
+        "name": "The Wondering Beats vol.1",
+        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
       },
       "artists": [
         {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
         }
       ],
-      "duration_ms": 125142,
-      "name": "ribbon",
-      "url": "https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf"
+      "duration_ms": 158117,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "The Wondering Beats vol.1",
-        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
-      },
-      "artists": [
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
         "name": "Points of light",
         "url": "https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG"
       },
@@ -1391,22 +1375,18 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
+        "name": "ribbon",
+        "url": "https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9"
       },
       "artists": [
         {
-          "name": "DisHand",
-          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
-        },
-        {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
         }
       ],
-      "duration_ms": 123658,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
+      "duration_ms": 125142,
+      "name": "ribbon",
+      "url": "https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1427,6 +1407,26 @@
       "duration_ms": 120000,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
+      },
+      "artists": [
+        {
+          "name": "DisHand",
+          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
+        },
+        {
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+        }
+      ],
+      "duration_ms": 123658,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1503,34 +1503,38 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "The Black Cat",
-        "url": "https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H"
+        "name": "Warp Haze",
+        "url": "https://open.spotify.com/album/1aCSsgMvDI8Fv2xXjp8oef"
       },
       "artists": [
         {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+          "name": "Ill Sugi",
+          "url": "https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c"
+        },
+        {
+          "name": "BudaMunk",
+          "url": "https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC"
         }
       ],
-      "duration_ms": 112421,
-      "name": "The Black Cat",
-      "url": "https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe"
+      "duration_ms": 127854,
+      "name": "Pretty Shadows",
+      "url": "https://open.spotify.com/track/6kZGPpmm4viIlgLCGuA6BW"
     },
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Expanse",
-        "url": "https://open.spotify.com/album/7h0QT4XlpxL7pvmKjArHHa"
+        "name": "Afternoon Sadness",
+        "url": "https://open.spotify.com/album/7Ggz41Az7k6v112r6HRHkU"
       },
       "artists": [
         {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Expanse",
-      "url": "https://open.spotify.com/track/4edUbFHJYBYqV5RYEAuEfG"
+      "duration_ms": 130533,
+      "name": "Afternoon Sadness",
+      "url": "https://open.spotify.com/track/5wSrtDbksTDsWaFyFvDIKL"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1551,18 +1555,18 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "Afternoon Sadness",
-        "url": "https://open.spotify.com/album/7Ggz41Az7k6v112r6HRHkU"
+        "name": "The Black Cat",
+        "url": "https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H"
       },
       "artists": [
         {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
         }
       ],
-      "duration_ms": 130533,
-      "name": "Afternoon Sadness",
-      "url": "https://open.spotify.com/track/5wSrtDbksTDsWaFyFvDIKL"
+      "duration_ms": 112421,
+      "name": "The Black Cat",
+      "url": "https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1587,38 +1591,18 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+        "name": "Expanse",
+        "url": "https://open.spotify.com/album/7h0QT4XlpxL7pvmKjArHHa"
       },
       "artists": [
         {
-          "name": "Robert de Boron",
-          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
         }
       ],
-      "duration_ms": 201000,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
-        "name": "Warp Haze",
-        "url": "https://open.spotify.com/album/1aCSsgMvDI8Fv2xXjp8oef"
-      },
-      "artists": [
-        {
-          "name": "Ill Sugi",
-          "url": "https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c"
-        },
-        {
-          "name": "BudaMunk",
-          "url": "https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC"
-        }
-      ],
-      "duration_ms": 127854,
-      "name": "Pretty Shadows",
-      "url": "https://open.spotify.com/track/6kZGPpmm4viIlgLCGuA6BW"
+      "duration_ms": 182093,
+      "name": "Expanse",
+      "url": "https://open.spotify.com/track/4edUbFHJYBYqV5RYEAuEfG"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1635,6 +1619,38 @@
       "duration_ms": 199363,
       "name": "Dance",
       "url": "https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+      },
+      "artists": [
+        {
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
+        "name": "\u5922\u306e\u4e2d",
+        "url": "https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 159370,
+      "name": "\u5922\u306e\u4e2d",
+      "url": "https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1659,6 +1675,22 @@
     {
       "added_at": "2026-03-25 16:39:20",
       "album": {
+        "name": "Cross the Bridge",
+        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "duration_ms": 138913,
+      "name": "Cross the Bridge",
+      "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
+    },
+    {
+      "added_at": "2026-03-25 16:39:20",
+      "album": {
         "name": "\u85e4\u6ca2 2021",
         "url": "https://open.spotify.com/album/07SvPzoAEe8PMZBMSbfhCV"
       },
@@ -1671,22 +1703,6 @@
       "duration_ms": 150000,
       "name": "\u30aa\u30c0\u30a4\u30b8\u30f3",
       "url": "https://open.spotify.com/track/2ivbGvD2opRsm9tGfubQ7E"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
-        "name": "\u5922\u306e\u4e2d",
-        "url": "https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 159370,
-      "name": "\u5922\u306e\u4e2d",
-      "url": "https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny"
     },
     {
       "added_at": "2026-03-25 16:39:20",
@@ -1707,22 +1723,6 @@
       "duration_ms": 148256,
       "name": "Beyond the Lantern Lights",
       "url": "https://open.spotify.com/track/3jSIGrh0wFMNUz4lMzyAOS"
-    },
-    {
-      "added_at": "2026-03-25 16:39:20",
-      "album": {
-        "name": "Cross the Bridge",
-        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
-      },
-      "artists": [
-        {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
-        }
-      ],
-      "duration_ms": 138913,
-      "name": "Cross the Bridge",
-      "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
     },
     {
       "added_at": "2026-03-25 16:39:20",

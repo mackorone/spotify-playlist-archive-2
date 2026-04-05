@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Jacquees
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,369,380 likes - 250 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,369,355 likes - 250 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

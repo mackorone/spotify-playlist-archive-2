@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Autumn!, Cuo Zay and more",
+  "description": "With Yeat, Autumn!, Duwap Kaine and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -54,6 +54,24 @@
       "duration_ms": 170102,
       "name": "3 Way",
       "url": "https://open.spotify.com/track/0kYSdDXFL8ONB8p4XXnkgP"
+    },
+    {
+      "album": {
+        "name": "The Rise of MariV",
+        "url": "https://open.spotify.com/album/1lAZTf54fgIoUC4FdJDQBd"
+      },
+      "artists": [
+        {
+          "name": "MariV",
+          "url": "https://open.spotify.com/artist/6psDxuJ2VhHRxIluizajRs"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129822,
+      "name": "A MariV Story",
+      "url": "https://open.spotify.com/track/5EgVC8ucUdnsACd66FtmUx"
     },
     {
       "album": {
@@ -291,6 +309,36 @@
     },
     {
       "album": {
+        "name": "AREA 41",
+        "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138310,
+      "name": "Barney",
+      "url": "https://open.spotify.com/track/3Z1MunMxvhyk6l36QiyTop"
+    },
+    {
+      "album": {
         "name": "2high",
         "url": "https://open.spotify.com/album/2ILSr2xQkOORnjsZgUjcJ6"
       },
@@ -474,7 +522,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 125401,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/72lcXqVlzrsCt5lAdFqG0m"
@@ -952,7 +1000,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 102738,
       "name": "drama queen",
       "url": "https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh"
@@ -1032,6 +1080,32 @@
       "duration_ms": 165009,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
+    },
+    {
+      "album": {
+        "name": "POMPEII // UTILITY",
+        "url": "https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "F.E.A.R. - feat. Niontay",
+      "url": "https://open.spotify.com/track/2gNXxgXqZTZuSLBiSV6HKS"
     },
     {
       "album": {
@@ -1866,7 +1940,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 374164,
       "name": "Memories",
       "url": "https://open.spotify.com/track/15Ktbhx210kAe5yZjzR6Ch"
@@ -1906,7 +1980,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 136062,
       "name": "Moe Texas",
       "url": "https://open.spotify.com/track/4Q2ZgILbVW5bViFhaRwmnT"
@@ -2224,7 +2298,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 85122,
       "name": "Not bumping",
       "url": "https://open.spotify.com/track/5PwZYWcegobehHkGHrdUUe"
@@ -2372,7 +2446,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -2944,6 +3018,36 @@
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
+    },
+    {
+      "album": {
+        "name": "AREA 41",
+        "url": "https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120963,
+      "name": "Strawberry Rum",
+      "url": "https://open.spotify.com/track/6bhhgoqvwKpjMgGlQdggxa"
     },
     {
       "album": {

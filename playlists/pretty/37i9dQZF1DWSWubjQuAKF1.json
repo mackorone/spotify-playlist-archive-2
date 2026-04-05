@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: noffkoffska",
-  "num_followers": 25505,
+  "num_followers": 25506,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,22 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx"
+        "name": "Cztery pory roku",
+        "url": "https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x"
       },
       "artists": [
         {
-          "name": "ALICJA",
-          "url": "https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM"
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        },
+        {
+          "name": "DrySkull",
+          "url": "https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd"
+      "duration_ms": 172852,
+      "name": "Cztery pory roku",
+      "url": "https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -231,22 +235,18 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "Cztery pory roku",
-        "url": "https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx"
       },
       "artists": [
         {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        },
-        {
-          "name": "DrySkull",
-          "url": "https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp"
+          "name": "ALICJA",
+          "url": "https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM"
         }
       ],
-      "duration_ms": 172852,
-      "name": "Cztery pory roku",
-      "url": "https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH"
+      "duration_ms": 180480,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "To nie koniec",
-        "url": "https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 172383,
-      "name": "To nie koniec",
-      "url": "https://open.spotify.com/track/6O4ipJ8bo5bb2KyKagk1Lv"
-    },
-    {
-      "added_at": "2026-04-02 22:01:30",
-      "album": {
         "name": "fuck, i\u2019m yours?",
         "url": "https://open.spotify.com/album/3tNuN7r0HFJJxzfz05dVcm"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 167500,
       "name": "fuck, i\u2019m yours?",
       "url": "https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ"
+    },
+    {
+      "added_at": "2026-04-02 22:01:30",
+      "album": {
+        "name": "To nie koniec",
+        "url": "https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 172383,
+      "name": "To nie koniec",
+      "url": "https://open.spotify.com/track/6O4ipJ8bo5bb2KyKagk1Lv"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
+        "name": "Dotknij",
+        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
+      },
+      "artists": [
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "duration_ms": 154736,
+      "name": "Dotknij",
+      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
+    },
+    {
+      "added_at": "2026-04-02 22:01:30",
+      "album": {
         "name": "WHY WHY WHY",
         "url": "https://open.spotify.com/album/0YBTSoz2tH1eJGg2xGTf1y"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "Dotknij",
-        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
+        "name": "Gotham",
+        "url": "https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU"
       },
       "artists": [
         {
-          "name": "Daria Marx",
-          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+          "name": "MECNER",
+          "url": "https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf"
         }
       ],
-      "duration_ms": 154736,
-      "name": "Dotknij",
-      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
+      "duration_ms": 175364,
+      "name": "Gotham",
+      "url": "https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -551,18 +567,18 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "Gotham",
-        "url": "https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU"
+        "name": "Egipt",
+        "url": "https://open.spotify.com/album/7omIQ3EMXxvYjlJUjcEQA6"
       },
       "artists": [
         {
-          "name": "MECNER",
-          "url": "https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf"
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
         }
       ],
-      "duration_ms": 175364,
-      "name": "Gotham",
-      "url": "https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe"
+      "duration_ms": 159790,
+      "name": "Egipt",
+      "url": "https://open.spotify.com/track/0wl9FVdAtGE5lgRLVZUpjd"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -615,34 +631,18 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "Egipt",
-        "url": "https://open.spotify.com/album/7omIQ3EMXxvYjlJUjcEQA6"
+        "name": "Kto to?",
+        "url": "https://open.spotify.com/album/2nB02o3OgITvvCaMvezQEF"
       },
       "artists": [
         {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+          "name": "MECNER",
+          "url": "https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf"
         }
       ],
-      "duration_ms": 159790,
-      "name": "Egipt",
-      "url": "https://open.spotify.com/track/0wl9FVdAtGE5lgRLVZUpjd"
-    },
-    {
-      "added_at": "2026-04-02 22:01:30",
-      "album": {
-        "name": "lie to me better",
-        "url": "https://open.spotify.com/album/6t4iyrvn3OAPRhbtYFtzxO"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 160795,
-      "name": "lie to me better",
-      "url": "https://open.spotify.com/track/1yOVQADad0VaKAmx9VKkZb"
+      "duration_ms": 137952,
+      "name": "Kto to?",
+      "url": "https://open.spotify.com/track/1k8tA0yItZD9JtUhFH1e2y"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "Kto to?",
-        "url": "https://open.spotify.com/album/2nB02o3OgITvvCaMvezQEF"
+        "name": "lie to me better",
+        "url": "https://open.spotify.com/album/6t4iyrvn3OAPRhbtYFtzxO"
       },
       "artists": [
         {
-          "name": "MECNER",
-          "url": "https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf"
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
         }
       ],
-      "duration_ms": 137952,
-      "name": "Kto to?",
-      "url": "https://open.spotify.com/track/1k8tA0yItZD9JtUhFH1e2y"
+      "duration_ms": 160795,
+      "name": "lie to me better",
+      "url": "https://open.spotify.com/track/1yOVQADad0VaKAmx9VKkZb"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "Na stacji paliw",
-        "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 183260,
-      "name": "Na stacji paliw",
-      "url": "https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti"
-    },
-    {
-      "added_at": "2026-04-02 22:01:30",
-      "album": {
         "name": "Linie czasu",
         "url": "https://open.spotify.com/album/3WyD37AbsUeWRAwzpXGOiU"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 150093,
       "name": "Co\u015b mi jeszcze opowiedz",
       "url": "https://open.spotify.com/track/1D0eqSjxCu4p80XkDx3ndk"
+    },
+    {
+      "added_at": "2026-04-02 22:01:30",
+      "album": {
+        "name": "Na stacji paliw",
+        "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 183260,
+      "name": "Na stacji paliw",
+      "url": "https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "HALO?",
-        "url": "https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj"
-      },
-      "artists": [
-        {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
-        }
-      ],
-      "duration_ms": 128321,
-      "name": "HALO?",
-      "url": "https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry"
-    },
-    {
-      "added_at": "2026-04-02 22:01:30",
-      "album": {
         "name": "Herbaciana",
         "url": "https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "Panienka",
-        "url": "https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x"
+        "name": "HALO?",
+        "url": "https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
         }
       ],
-      "duration_ms": 169063,
-      "name": "Panienka",
-      "url": "https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg"
+      "duration_ms": 128321,
+      "name": "HALO?",
+      "url": "https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -983,18 +967,18 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "Wspania\u0142y to by\u0142 rok",
-        "url": "https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4"
+        "name": "Panienka",
+        "url": "https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x"
       },
       "artists": [
         {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 172193,
-      "name": "Wspania\u0142y to by\u0142 rok",
-      "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
+      "duration_ms": 169063,
+      "name": "Panienka",
+      "url": "https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -1015,18 +999,18 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "CO TOBIE ZROBI\u0118",
-        "url": "https://open.spotify.com/album/691JRSOnZn4nCan44uaNEL"
+        "name": "Wspania\u0142y to by\u0142 rok",
+        "url": "https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4"
       },
       "artists": [
         {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
         }
       ],
-      "duration_ms": 220406,
-      "name": "CO TOBIE ZROBI\u0118",
-      "url": "https://open.spotify.com/track/0YwIaxDRbAAblma3DWuPSt"
+      "duration_ms": 172193,
+      "name": "Wspania\u0142y to by\u0142 rok",
+      "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -1043,6 +1027,22 @@
       "duration_ms": 148000,
       "name": "K\u0142am",
       "url": "https://open.spotify.com/track/4XivnKS2tFGqmcMAThcFgo"
+    },
+    {
+      "added_at": "2026-04-02 22:01:30",
+      "album": {
+        "name": "CO TOBIE ZROBI\u0118",
+        "url": "https://open.spotify.com/album/691JRSOnZn4nCan44uaNEL"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "duration_ms": 220406,
+      "name": "CO TOBIE ZROBI\u0118",
+      "url": "https://open.spotify.com/track/0YwIaxDRbAAblma3DWuPSt"
     },
     {
       "added_at": "2026-04-02 22:01:30",
@@ -1079,22 +1079,18 @@
     {
       "added_at": "2026-04-02 22:01:30",
       "album": {
-        "name": "Kumple <3 (MAVOOI Remix)",
-        "url": "https://open.spotify.com/album/5jV78ocCcoimj6Am8rWKkU"
+        "name": "Za t\u0119 mi\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/2fI6XtGIkEy0AAqZJwev7o"
       },
       "artists": [
         {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        },
-        {
-          "name": "MAVOOI",
-          "url": "https://open.spotify.com/artist/5v0vw1OfT1KHdGh80XT8lS"
+          "name": "Briela",
+          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
         }
       ],
-      "duration_ms": 131661,
-      "name": "Kumple <3 - MAVOOI Remix",
-      "url": "https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0"
+      "duration_ms": 179032,
+      "name": "Za t\u0119 mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/0yu7zunzQDh5MPlDM3BZCA"
     }
   ],
   "unique_name": "up next",

@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5873,
+  "num_followers": 5870,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac2xgAAAAAC8Rx2GfNBatPutAtOgsUKU",
+  "snapshot_id": "ac8DAAAAAAC8Wl+5oRLG5uwI0X5mnX5O",
   "tracks": [
     {
       "added_at": null,
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 100106,
-      "name": "Momentary Architecture",
-      "url": "https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG"
+      "duration_ms": 234053,
+      "name": "Long Light",
+      "url": "https://open.spotify.com/track/7tb3d1uH2yL7duAMQPP19G"
     },
     {
       "added_at": null,
@@ -915,18 +915,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+        "name": "Winter Garden",
+        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
       },
       "artists": [
         {
+          "name": "Eraldo Bernocchi",
+          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
+        },
+        {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 284426,
-      "name": "The White Arcades",
-      "url": "https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA"
+      "duration_ms": 285973,
+      "name": "Winter Garden",
+      "url": "https://open.spotify.com/track/3L7bmTuqQVTGi9jR9NM6s9"
     },
     {
       "added_at": null,
@@ -944,9 +952,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 210706,
-      "name": "And Then I Turned Away",
-      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
+      "duration_ms": 243506,
+      "name": "How Distant Your Heart",
+      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
     }
   ],
   "unique_name": "This Is Harold Budd",

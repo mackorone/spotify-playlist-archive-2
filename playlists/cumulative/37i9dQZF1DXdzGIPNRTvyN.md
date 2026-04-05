@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-479 songs - 22 hr 30 min
+480 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Heartfulness](https://open.spotify.com/track/4osN7Zl3miJmSdPZmKVoXm) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Heartfulness](https://open.spotify.com/album/6PLL0DyPG8yLOUCnvXn5ZY) | 2:47 | 2023-02-22 | 2024-01-19 |
 | [Heedance](https://open.spotify.com/track/0YVqh3AUPCI2vOF4EnKVgV) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Heedance](https://open.spotify.com/album/0vfHbOBSPYVrFiODnFzf38) | 2:38 | 2025-02-10 | 2026-04-04 |
 | [Heeding](https://open.spotify.com/track/4szKC2c1OlCvAtzYVeWDyP) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Heeding](https://open.spotify.com/album/3TjjJRBakIWpTMeQVtHoWQ) | 2:39 | 2024-03-01 | 2026-03-13 |
+| [Held in the Jungle's Sleep](https://open.spotify.com/track/08DivxvdYawXBq4C63a2VI) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Held in the Jungle's Sleep](https://open.spotify.com/album/5YqsYVMj3qJD8rCTEwhVR1) | 2:44 | 2026-04-03 |  |
 | [Held in the Unseen](https://open.spotify.com/track/6BLWQzCeyUnNgzHT3gDvG5) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Held in the Unseen](https://open.spotify.com/album/0NWfsXREqQRkTnnfNwMlN2) | 3:31 | 2026-03-06 |  |
 | [Hidden Horizon](https://open.spotify.com/track/5EdrsTcycmXmpf2BdQ9iLq) | [Enhance Peace](https://open.spotify.com/artist/1RQvOAOwjjtAXCfVm8pXnP) | [Hidden Horizon](https://open.spotify.com/album/5LVG0vHJS9Mc6R42vFWB70) | 3:03 | 2026-01-21 |  |
 | [Hommage à la forêt](https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Hommage à la forêt](https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ) | 2:27 | 2023-02-13 | 2024-11-29 |
@@ -334,7 +335,7 @@
 | [Piccola Valle Verde](https://open.spotify.com/track/1luHl5aJg7nei9z6bXhw1a) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Piccola Valle Verde](https://open.spotify.com/album/331p32IoM4u2VYT264nO4g) | 2:57 | 2023-04-06 | 2024-06-04 |
 | [Pines in the Morning Haze](https://open.spotify.com/track/1DyC1vurKh8kk0TatwwWI7) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [Pines in the Morning Haze](https://open.spotify.com/album/6LyH5nHcrzjZsnTIuaii6F) | 2:51 | 2026-03-16 |  |
 | [Places Of Placidity](https://open.spotify.com/track/5oZNphGYdRj0rJNGgStbly) | [Gino Carbone](https://open.spotify.com/artist/6GHpZni4assd8ljmgjhMix) | [Places Of Placidity](https://open.spotify.com/album/1x3a9URe9AivSduWwuo6m4) | 3:00 | 2023-03-13 | 2024-09-07 |
-| [Plantae](https://open.spotify.com/track/77shZB4gVpO99vZyIbbu9B) | [Asteeõs](https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K) | [Plantae](https://open.spotify.com/album/6eHLct0TKeqb43uzPeFuVL) | 2:37 | 2026-04-03 |  |
+| [Plantae](https://open.spotify.com/track/77shZB4gVpO99vZyIbbu9B) | [Asteeõs](https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K) | [Plantae](https://open.spotify.com/album/6eHLct0TKeqb43uzPeFuVL) | 2:37 | 2026-04-03 | 2026-04-05 |
 | [Plucked Strings Near the Fountain](https://open.spotify.com/track/3jOkyCBEH03P0QoEJm8IuH) | [Local Abroad](https://open.spotify.com/artist/6fzGY6vXqUv1OJxFTVlMfu) | [Plucked Strings Near the Fountain](https://open.spotify.com/album/334aFwHh9YQoUmGWDbcqPW) | 2:33 | 2023-11-18 | 2026-02-12 |
 | [Pneuma](https://open.spotify.com/track/1RcsFHk4cpJXZD7HvKtPdr) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Pneuma](https://open.spotify.com/album/22R3fV6MCMZZl6DJN4UNxI) | 3:25 | 2023-10-26 |  |
 | [Practicing Zen](https://open.spotify.com/track/29rvpxK8xiy7ojQvtnrGPd) | [Hannes Holm](https://open.spotify.com/artist/0lMiEQ2kYIGuFLR0Hdj8c7) | [Practicing Zen](https://open.spotify.com/album/1Djv6M8f1UCud5NQxSPlrm) | 4:04 | 2023-03-13 | 2025-02-11 |

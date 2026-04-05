@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Bia Frazzo",
-  "num_followers": 483928,
+  "num_followers": 483951,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-04-03 03:01:00",
       "album": {
-        "name": "Melhor Que Nada",
-        "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
-      },
-      "artists": [
-        {
-          "name": "William Couto e Adriano",
-          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
-        }
-      ],
-      "duration_ms": 131277,
-      "name": "Melhor Que Nada",
-      "url": "https://open.spotify.com/track/3AO9yY4VXDs0lXkqjhUCVh"
-    },
-    {
-      "added_at": "2026-04-03 03:01:00",
-      "album": {
         "name": "Cadeado No Dedo",
         "url": "https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 125970,
       "name": "Cadeado No Dedo",
       "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
+    },
+    {
+      "added_at": "2026-04-03 03:01:00",
+      "album": {
+        "name": "Melhor Que Nada",
+        "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
+      },
+      "artists": [
+        {
+          "name": "William Couto e Adriano",
+          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
+        }
+      ],
+      "duration_ms": 131277,
+      "name": "Melhor Que Nada",
+      "url": "https://open.spotify.com/track/3AO9yY4VXDs0lXkqjhUCVh"
     },
     {
       "added_at": "2026-04-03 03:01:00",
@@ -607,7 +607,7 @@
     {
       "added_at": "2026-04-03 03:01:00",
       "album": {
-        "name": "A\u00ed \u00c9 Loucura, Ep. 3",
+        "name": "A\u00ed \u00c9 Loucura, Ep. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5NsyRGDgr4Qep8JEgc7YuM"
       },
       "artists": [
@@ -621,7 +621,7 @@
         }
       ],
       "duration_ms": 242316,
-      "name": "Seu Astral / Enquanto Houver Raz\u00f5es",
+      "name": "Seu Astral / Enquanto Houver Raz\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/5s5thQ6XDeYzFf2MGjQ4yx"
     },
     {
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-04-03 03:01:00",
       "album": {
-        "name": "Voc\u00ea \u00e9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/3BIGSJIEc6qEJuXw2hzej0"
-      },
-      "artists": [
-        {
-          "name": "May e Gabi",
-          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
-        }
-      ],
-      "duration_ms": 171834,
-      "name": "Voc\u00ea \u00e9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0PCpcj9LfR988741kQXCAB"
-    },
-    {
-      "added_at": "2026-04-03 03:01:00",
-      "album": {
         "name": "Baila Que Baila (Ao Vivo)",
         "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 169386,
       "name": "Baila Que Baila - Ao Vivo",
       "url": "https://open.spotify.com/track/40B5UrgWuCIVFHr4t2NMbv"
+    },
+    {
+      "added_at": "2026-04-03 03:01:00",
+      "album": {
+        "name": "Voc\u00ea \u00e9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/3BIGSJIEc6qEJuXw2hzej0"
+      },
+      "artists": [
+        {
+          "name": "May e Gabi",
+          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
+        }
+      ],
+      "duration_ms": 171834,
+      "name": "Voc\u00ea \u00e9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0PCpcj9LfR988741kQXCAB"
     },
     {
       "added_at": "2026-04-03 03:01:00",

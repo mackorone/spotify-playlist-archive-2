@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1403164,
+  "num_followers": 1403365,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
+        "name": "Stone Hits: The Very Best Of Angie Stone",
+        "url": "https://open.spotify.com/album/3N8afNZRMDlSO5TrDZ08Nc"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/1euSJSk3dqCRmfdVwczmsR"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 190726,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
-        "name": "Stone Hits: The Very Best Of Angie Stone",
-        "url": "https://open.spotify.com/album/3N8afNZRMDlSO5TrDZ08Nc"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/1euSJSk3dqCRmfdVwczmsR"
     },
     {
       "added_at": "2024-06-24 11:23:29",

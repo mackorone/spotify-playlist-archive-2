@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 265666,
       "name": "Blow my mind",
       "url": "https://open.spotify.com/track/5UukjLj7VD5vdYxGeYHxvC"
@@ -2724,6 +2724,24 @@
       "duration_ms": 321649,
       "name": "Dodorima",
       "url": "https://open.spotify.com/track/53iJayjwb5dxP8NAKCdZAS"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/3nt3ueERVM16Vgrc7whDDM"
+      },
+      "artists": [
+        {
+          "name": "Brenique Adams",
+          "url": "https://open.spotify.com/artist/3HiexeKs4pF7jho1Oaay8a"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Doer of Your Word",
+      "url": "https://open.spotify.com/track/6m6U03At6TApfJSV6EFlH6"
     },
     {
       "album": {
@@ -11596,7 +11614,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 188837,
       "name": "YAHWEH",
       "url": "https://open.spotify.com/track/5kcDXI5RsSfsM7HJCuOA74"
@@ -11658,6 +11676,24 @@
       "duration_ms": 185945,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/6VDhWqHgYFJQkWC8X6GwEl"
+    },
+    {
+      "album": {
+        "name": "Yeshua!",
+        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220766,
+      "name": "Yeshua!",
+      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
       "album": {

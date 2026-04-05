@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Midnight Thunder",
+        "url": "https://open.spotify.com/album/7Gl8BL86YWRVIFspHfyOzg"
+      },
+      "artists": [
+        {
+          "name": "Biologique",
+          "url": "https://open.spotify.com/artist/0DudONxjyhGIoLDd0o17f1"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132462,
+      "name": "City Stormy Night",
+      "url": "https://open.spotify.com/track/4MIWH7F44rmKGfMMnNWUHI"
+    },
+    {
+      "album": {
         "name": "City Thunder",
         "url": "https://open.spotify.com/album/1Q4qC2dMKhrrU6hH0Lpdwo"
       },
@@ -276,7 +294,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 184053,
       "name": "City Thunder",
       "url": "https://open.spotify.com/track/1tzD0vs1awlqfGT1eVeX61"
@@ -985,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Thunder Sounds & Storm",
+        "url": "https://open.spotify.com/album/1ybSRivCHJ7XXcCIdwREeV"
+      },
+      "artists": [
+        {
+          "name": "Fabrique Noise",
+          "url": "https://open.spotify.com/artist/2ldc1mlbRMXPMUiyyttiZG"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124762,
+      "name": "Lake Shore Thunderstorm",
+      "url": "https://open.spotify.com/track/03fzyXatcgRbR6LKz7I1LH"
+    },
+    {
+      "album": {
         "name": "Le Tonnerre Claquant",
         "url": "https://open.spotify.com/album/7iW8QcSoivasuL51LbO4Ri"
       },
@@ -1162,7 +1198,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 220460,
       "name": "Lightning in the Monsoon",
       "url": "https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm"
@@ -1634,6 +1670,24 @@
       "duration_ms": 145511,
       "name": "Rain Distant Thunder Samos",
       "url": "https://open.spotify.com/track/11tPKEkyvvguwJcghHEqhW"
+    },
+    {
+      "album": {
+        "name": "Rain During Storm",
+        "url": "https://open.spotify.com/album/4bXmCGxNUnI2g9sFuGAYKs"
+      },
+      "artists": [
+        {
+          "name": "Winding Down",
+          "url": "https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Rain During Storm",
+      "url": "https://open.spotify.com/track/5oyT8aVyN5tznyB1ssfxK3"
     },
     {
       "album": {
@@ -2786,7 +2840,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 176326,
       "name": "Thunder in my Head",
       "url": "https://open.spotify.com/track/4HSAqiUMTApKA1fcfkUitG"

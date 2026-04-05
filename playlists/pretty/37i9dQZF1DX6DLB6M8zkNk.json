@@ -1,6 +1,6 @@
 {
   "description": "you're the main character in a romance novel.",
-  "num_followers": 516447,
+  "num_followers": 516715,
   "original_name": "hopeless romantic",
   "owner": {
     "name": "Spotify",
@@ -432,12 +432,12 @@
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
           "name": "Louis Philippson",
           "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         }
       ],
       "duration_ms": 173675,

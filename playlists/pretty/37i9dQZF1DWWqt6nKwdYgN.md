@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Neton Vega en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,629 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,646 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 49 | [Estilo Libre](https://open.spotify.com/track/00BNkalZzVpxUjdL17ZCUn) | [Solitario Soldado](https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG), [El sonido del javier](https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u) | [Estilo Libre](https://open.spotify.com/album/3LRc5qMxdwWkQHSFniaohX) | 2:21 |
 | 50 | [Bisiestos](https://open.spotify.com/track/2VCuzWuTcvv7oqoArHtNdJ) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX), [Kid Sanchez](https://open.spotify.com/artist/1tVHSMYLGXR8dGdHbCCyLS) | [Bisiestos](https://open.spotify.com/album/5jAfgzFP7BLCB5cv5n2bLp) | 2:32 |
 
-Snapshot ID: `AAAAAAuSHjJbIB1g7hvRT3bNlTmBphqm`
+Snapshot ID: `AAAAAFBQacU7B/Ku0qX+mAI/wcufXCX1`

@@ -2,9 +2,9 @@
 
 ### [+81 Connect: J\-HipHop 最新注目曲](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> 【POP YOURS DAY2】J\-Hip Hopの最新注目曲をまとめてチェック cover: 千葉雄喜 \*水曜更新。マイライブラリに保存して毎週チェックしよう
+> 【POP YOURS DAY3】J\-Hip Hopの最新注目曲をまとめてチェック cover: KEIJU \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,398 songs - 5 day 0 hr 48 min
+2,400 songs - 5 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1186,6 +1186,7 @@
 | [Moment of Truth](https://open.spotify.com/track/7AvOYkRvqIKHEJzP2BFLJs) | [Flat Line Classics](https://open.spotify.com/artist/1KHsC5YEyWGgskwjU4tVHa), [Sart](https://open.spotify.com/artist/4PugGE5RJijvszPRE3Y1KP) | [Backstage](https://open.spotify.com/album/1VKVtWg12sON9kWGf56WSx) | 3:28 | 2024-02-28 | 2024-04-24 |
 | [Moncler](https://open.spotify.com/track/6PT8F7NTngaBYmXSM2Jf4F) | [j white](https://open.spotify.com/artist/5vZDs9IHyAjQ1AAEMPAI3O) | [Moncler](https://open.spotify.com/album/1nMcqwqkUEZKGP3U2QEMwj) | 3:23 | 2023-11-22 | 2023-11-29 |
 | [Money Baby \(feat\. Awich\)](https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Money Baby \(feat\. Awich\)](https://open.spotify.com/album/6ah5EwDnO1uzwx06r2a5gV) | 3:00 | 2024-10-02 | 2025-03-07 |
+| [Money Baby \(feat\. Awich\)](https://open.spotify.com/track/5xjwUB2jWEe3CcPBp6k1PV) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [N.I.T.O.](https://open.spotify.com/album/3FfM39wTQC0EZ4zyNE8Yl1) | 3:00 | 2026-04-04 |  |
 | [MONEY LOVE RESPECT](https://open.spotify.com/track/6hpgmfe9GRmqaJxtevmSBr) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [20](https://open.spotify.com/album/3I1SmXdnEgjl20HUGWytYq) | 2:44 | 2023-09-21 | 2023-12-13 |
 | [MONEY TALK $TUDIO](https://open.spotify.com/track/2nnIyR8rqm19eotbEJh0Sw) | [DOUBLE UP](https://open.spotify.com/artist/1bufnt2arEhPCXTuDXhO07) | [MONEY TALK $TUDIO](https://open.spotify.com/album/2F6dKd3RTqrRPLpa6Mtwiu) | 2:50 | 2026-01-15 | 2026-01-28 |
 | [Money Trees](https://open.spotify.com/track/2JaEYhyKiufEazcC51QhWC) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Money Trees](https://open.spotify.com/album/4HZHWJbiZt59LEGbBKPoph) | 3:23 | 2024-07-18 | 2024-09-06 |
@@ -1445,6 +1446,7 @@
 | [Party Night \(feat\. 18stop & JAKEN\)](https://open.spotify.com/track/3HRtVSWwWLvFTCt4yLakPC) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF), [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [Party Night \(feat\. 18stop & JAKEN\)](https://open.spotify.com/album/3MKYBk575e0nIKlramDqgo) | 2:59 | 2024-07-04 | 2024-07-24 |
 | [party's over](https://open.spotify.com/track/3pE8eDb79BycAoWbUbzVmB) | [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [DADA](https://open.spotify.com/album/0d9pdRt03IxYgOjqvYQXME) | 3:08 | 2026-03-31 |  |
 | [Passion fruit](https://open.spotify.com/track/33KLGJQfKu56swtp8VXVD6) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl) | [Passion fruit](https://open.spotify.com/album/1mL7H8MnqzXNul0pqgnaLt) | 1:40 | 2026-02-24 | 2026-03-18 |
+| [PASSO](https://open.spotify.com/track/1fJB5WFXOUHDVTdm0jcby6) | [27AM](https://open.spotify.com/artist/2is0dsRjGdhfOeHUnFfJFm) | [Frozen Car](https://open.spotify.com/album/5Kcs3qkYxF6O12k34toSiw) | 3:35 | 2026-04-04 |  |
 | [Pay \- Remix](https://open.spotify.com/track/55xHynl6p63ZTtyBc1K7X9) | [NeS](https://open.spotify.com/artist/6Yc7exkczFuGRwaCdVA3pN), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [Pay \(Remix\)](https://open.spotify.com/album/4cD59RJcTzGyTSXKqhoRIk) | 2:56 | 2024-05-28 | 2024-06-12 |
 | [PAYDAY](https://open.spotify.com/track/5IwVJcNFveiaxdhE2lVnQr) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [PAYDAY](https://open.spotify.com/album/3Lrn2BqP51uAsex34OczFx) | 2:50 | 2025-07-10 | 2025-07-30 |
 | [paypay](https://open.spotify.com/track/2Zs44ccb41dYvMavig1kRQ) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz) | 2:51 | 2024-01-22 | 2024-04-13 |

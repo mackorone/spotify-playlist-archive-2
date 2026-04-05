@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: L\u00e9o Santana",
-  "num_followers": 760999,
+  "num_followers": 761009,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -115,38 +115,6 @@
     {
       "added_at": "2026-04-03 03:00:39",
       "album": {
-        "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
-        "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
-      },
-      "artists": [
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "DJ DAVI DOGDOG",
-          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
-      "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
-    },
-    {
-      "added_at": "2026-04-03 03:00:39",
-      "album": {
         "name": "Panda Sem Modera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC"
       },
@@ -187,6 +155,38 @@
       "duration_ms": 146560,
       "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
+    },
+    {
+      "added_at": "2026-04-03 03:00:39",
+      "album": {
+        "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+        "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+      "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
     },
     {
       "added_at": "2026-04-03 03:00:39",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-04-03 03:00:39",
       "album": {
-        "name": "Resenha do Arrocha 4.0",
-        "url": "https://open.spotify.com/album/2T7BeLGczS8r3xcwPzzfGU"
-      },
-      "artists": [
-        {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
-        },
-        {
-          "name": "Alef Donk",
-          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Resenha do Arrocha 4.0",
-      "url": "https://open.spotify.com/track/2Ls4iRSyXUjoE27QEbfdhX"
-    },
-    {
-      "added_at": "2026-04-03 03:00:39",
-      "album": {
         "name": "Baile do VJ",
         "url": "https://open.spotify.com/album/7dHEpFCs7xjcImlBEwdPIU"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 148905,
       "name": "Baile do VJ",
       "url": "https://open.spotify.com/track/6EmbpFK7SJaZCgluPeQ50X"
+    },
+    {
+      "added_at": "2026-04-03 03:00:39",
+      "album": {
+        "name": "Resenha do Arrocha 4.0",
+        "url": "https://open.spotify.com/album/2T7BeLGczS8r3xcwPzzfGU"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Resenha do Arrocha 4.0",
+      "url": "https://open.spotify.com/track/2Ls4iRSyXUjoE27QEbfdhX"
     },
     {
       "added_at": "2026-04-03 03:00:39",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-04-03 03:00:39",
       "album": {
-        "name": "Pared\u00f5es",
-        "url": "https://open.spotify.com/album/2SkILVSOj3RW6DsEdEe4ld"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 175621,
-      "name": "Pared\u00f5es",
-      "url": "https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7"
-    },
-    {
-      "added_at": "2026-04-03 03:00:39",
-      "album": {
         "name": "Pega Pega",
         "url": "https://open.spotify.com/album/5hbmDXVfBit3tgCCidiZlx"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 184250,
       "name": "Pega Pega",
       "url": "https://open.spotify.com/track/1q75dfmlgQYqaR9X0slTI3"
+    },
+    {
+      "added_at": "2026-04-03 03:00:39",
+      "album": {
+        "name": "Pared\u00f5es",
+        "url": "https://open.spotify.com/album/2SkILVSOj3RW6DsEdEe4ld"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 175621,
+      "name": "Pared\u00f5es",
+      "url": "https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7"
     },
     {
       "added_at": "2026-04-03 03:00:39",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-04-03 03:00:39",
       "album": {
+        "name": "CONTE\u00daDO SENS\u00cdVEL",
+        "url": "https://open.spotify.com/album/436SYZgdUkwR3fJoFqp4rt"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 122217,
+      "name": "Some",
+      "url": "https://open.spotify.com/track/1V10F8afY9h6VTTOusg7pK"
+    },
+    {
+      "added_at": "2026-04-03 03:00:39",
+      "album": {
         "name": "Nattan In Vegas (Ao Vivo)",
         "url": "https://open.spotify.com/album/37XQXzkEdlJ8Tr8FjQv4hW"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 195680,
       "name": "Queria Ser Tu / Interfone - Ao Vivo",
       "url": "https://open.spotify.com/track/1XX75jl3CKMTnKhq1nyngg"
-    },
-    {
-      "added_at": "2026-04-03 03:00:39",
-      "album": {
-        "name": "CONTE\u00daDO SENS\u00cdVEL",
-        "url": "https://open.spotify.com/album/436SYZgdUkwR3fJoFqp4rt"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 122217,
-      "name": "Some",
-      "url": "https://open.spotify.com/track/1V10F8afY9h6VTTOusg7pK"
     },
     {
       "added_at": "2026-04-03 03:00:39",

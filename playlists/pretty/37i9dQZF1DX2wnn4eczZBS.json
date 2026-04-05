@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11347,
+  "num_followers": 11349,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
-        "name": "Praat Te Veel",
-        "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Praat Te Veel",
-      "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
         "name": "Rode Seks Feeks",
         "url": "https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 167381,
       "name": "Rode Seks Feeks",
       "url": "https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
+        "name": "Praat Te Veel",
+        "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Praat Te Veel",
+      "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
+        "name": "LATEN ME KOUD",
+        "url": "https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433"
+      },
+      "artists": [
+        {
+          "name": "Brokezart",
+          "url": "https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou"
+        }
+      ],
+      "duration_ms": 155132,
+      "name": "LATEN ME KOUD",
+      "url": "https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
         "name": "Magneten",
         "url": "https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw"
       },
@@ -779,6 +795,22 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
+        "name": "Videotheek (Recht Uit Een Film)",
+        "url": "https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "duration_ms": 218704,
+      "name": "Videotheek (Recht Uit Een Film)",
+      "url": "https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
         "name": "Schaduw",
         "url": "https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR"
       },
@@ -795,22 +827,6 @@
       "duration_ms": 216887,
       "name": "Schaduw",
       "url": "https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
-        "name": "Videotheek (Recht Uit Een Film)",
-        "url": "https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 218704,
-      "name": "Videotheek (Recht Uit Een Film)",
-      "url": "https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -847,22 +863,6 @@
       "duration_ms": 153428,
       "name": "Komt Goed",
       "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
-        "name": "Bob Dylan",
-        "url": "https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M"
-      },
-      "artists": [
-        {
-          "name": "De Plaag",
-          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
-        }
-      ],
-      "duration_ms": 225428,
-      "name": "Bob Dylan",
-      "url": "https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P"
     },
     {
       "added_at": "2026-04-03 12:19:33",

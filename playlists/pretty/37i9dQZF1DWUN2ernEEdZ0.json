@@ -1,6 +1,6 @@
 {
   "description": "Introducing the hottest classical music of 2026\ud83d\udd25",
-  "num_followers": 33644,
+  "num_followers": 33724,
   "original_name": "Classical Bangers 2026",
   "owner": {
     "name": "Spotify",
@@ -468,12 +468,12 @@
       },
       "artists": [
         {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
           "name": "Ben Palmer",
           "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        },
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
         },
         {
           "name": "Louis Philippson",

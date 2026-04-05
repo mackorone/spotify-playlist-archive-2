@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21255,
+  "num_followers": 21258,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/5WDbJHOq4PksAQVxQbWEQV"
     },
     {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Reckless Lover",
+        "url": "https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "duration_ms": 537386,
+      "name": "Reckless Lover",
+      "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
+    },
+    {
       "added_at": "2024-09-30 14:25:52",
       "album": {
         "name": "Nara",
@@ -539,22 +555,6 @@
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
-    },
-    {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Reckless Lover",
-        "url": "https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB"
-      },
-      "artists": [
-        {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
-        }
-      ],
-      "duration_ms": 537386,
-      "name": "Reckless Lover",
-      "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
     },
     {
       "added_at": "2025-10-10 00:01:09",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "My Lover (Live)",
-        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 435240,
-      "name": "My Lover (Live)",
-      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
-    },
-    {
       "added_at": "2026-01-30 00:01:25",
       "album": {
         "name": "JOY",
@@ -931,6 +915,22 @@
       "duration_ms": 149906,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF"
+    },
+    {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "My Lover (Live)",
+        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 435240,
+      "name": "My Lover (Live)",
+      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G"
     },
     {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Amen Amen, Blessing and Glory",
-        "url": "https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK"
-      },
-      "artists": [
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        }
-      ],
-      "duration_ms": 154325,
-      "name": "Amen Amen, Blessing and Glory",
-      "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
-    },
-    {
       "added_at": "2026-04-03 00:01:46",
       "album": {
         "name": "Africa Rejoice!",
@@ -1091,6 +1075,22 @@
       "duration_ms": 271699,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
+    },
+    {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Amen Amen, Blessing and Glory",
+        "url": "https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "duration_ms": 154325,
+      "name": "Amen Amen, Blessing and Glory",
+      "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
     },
     {
       "added_at": "2026-03-06 00:01:07",
@@ -1193,6 +1193,26 @@
       "url": "https://open.spotify.com/track/1Mct4TjRxkfHkSOzAUvVbl"
     },
     {
+      "added_at": "2026-03-20 00:01:38",
+      "album": {
+        "name": "Orun Si",
+        "url": "https://open.spotify.com/album/4OlONH4wGTdr5oYSlKrzs5"
+      },
+      "artists": [
+        {
+          "name": "Elijah Daniel Omo Majemu",
+          "url": "https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG"
+        },
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "duration_ms": 544864,
+      "name": "Orun Si",
+      "url": "https://open.spotify.com/track/3FF3zeBKsLZzpNT6hnF0xc"
+    },
+    {
       "added_at": "2026-02-27 00:01:20",
       "album": {
         "name": "In Your Eyes",
@@ -1217,26 +1237,6 @@
       "url": "https://open.spotify.com/track/3Gs6YU18uwHoN72sMVJxI8"
     },
     {
-      "added_at": "2026-03-20 00:01:38",
-      "album": {
-        "name": "Orun Si",
-        "url": "https://open.spotify.com/album/4OlONH4wGTdr5oYSlKrzs5"
-      },
-      "artists": [
-        {
-          "name": "Elijah Daniel Omo Majemu",
-          "url": "https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG"
-        },
-        {
-          "name": "Peterson Okopi",
-          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
-        }
-      ],
-      "duration_ms": 544864,
-      "name": "Orun Si",
-      "url": "https://open.spotify.com/track/3FF3zeBKsLZzpNT6hnF0xc"
-    },
-    {
       "added_at": "2026-02-27 00:01:20",
       "album": {
         "name": "Dance Like David",
@@ -1255,6 +1255,22 @@
       "duration_ms": 150333,
       "name": "Dance Like David",
       "url": "https://open.spotify.com/track/0AVYx4AftpfptSBZwSoefi"
+    },
+    {
+      "added_at": "2026-04-03 00:01:46",
+      "album": {
+        "name": "Yeshua!",
+        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 220766,
+      "name": "Yeshua!",
+      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
       "added_at": "2026-01-09 00:01:29",
@@ -1277,22 +1293,6 @@
       "url": "https://open.spotify.com/track/6Ej9JXSMgBATGtAwQq3HTb"
     },
     {
-      "added_at": "2026-02-27 00:01:20",
-      "album": {
-        "name": "UZWAZO ME",
-        "url": "https://open.spotify.com/album/4mEDVhMAcz8SqSGi2YxOfJ"
-      },
-      "artists": [
-        {
-          "name": "Naomi Classik",
-          "url": "https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW"
-        }
-      ],
-      "duration_ms": 267679,
-      "name": "UZWAZO ME",
-      "url": "https://open.spotify.com/track/2QnLiyTitKVp7HUJTewKwz"
-    },
-    {
       "added_at": "2026-03-02 12:03:39",
       "album": {
         "name": "Jesu Ni",
@@ -1311,6 +1311,22 @@
       "duration_ms": 191250,
       "name": "Jesu Ni",
       "url": "https://open.spotify.com/track/6tYErAAwdY1kXzdbAxLTpM"
+    },
+    {
+      "added_at": "2026-02-27 00:01:20",
+      "album": {
+        "name": "UZWAZO ME",
+        "url": "https://open.spotify.com/album/4mEDVhMAcz8SqSGi2YxOfJ"
+      },
+      "artists": [
+        {
+          "name": "Naomi Classik",
+          "url": "https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW"
+        }
+      ],
+      "duration_ms": 267679,
+      "name": "UZWAZO ME",
+      "url": "https://open.spotify.com/track/2QnLiyTitKVp7HUJTewKwz"
     },
     {
       "added_at": "2026-02-27 00:01:20",
@@ -1385,38 +1401,6 @@
       "url": "https://open.spotify.com/track/6qZwgTk4UOlN9oN3MhdOYD"
     },
     {
-      "added_at": "2026-01-09 00:01:29",
-      "album": {
-        "name": "Live By Faith",
-        "url": "https://open.spotify.com/album/0zqZyhiNwq80v9GQ0dkUiN"
-      },
-      "artists": [
-        {
-          "name": "Mayor Boss",
-          "url": "https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ"
-        }
-      ],
-      "duration_ms": 130609,
-      "name": "Live By Faith",
-      "url": "https://open.spotify.com/track/0eme4u5DLQAYJr9kcLPiuw"
-    },
-    {
-      "added_at": "2026-03-06 00:01:07",
-      "album": {
-        "name": "Amaraya",
-        "url": "https://open.spotify.com/album/2nDUvlCakWqdLOmlBH98NA"
-      },
-      "artists": [
-        {
-          "name": "Emmasings",
-          "url": "https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7"
-        }
-      ],
-      "duration_ms": 298413,
-      "name": "AMARAYA",
-      "url": "https://open.spotify.com/track/1Wqkc5hdGBrSjCNbG8tnga"
-    },
-    {
       "added_at": "2026-03-20 00:01:38",
       "album": {
         "name": "Brand New",
@@ -1441,6 +1425,22 @@
       "url": "https://open.spotify.com/track/0Rdeo8okBZiBc6MV6Jv98j"
     },
     {
+      "added_at": "2026-01-09 00:01:29",
+      "album": {
+        "name": "Live By Faith",
+        "url": "https://open.spotify.com/album/0zqZyhiNwq80v9GQ0dkUiN"
+      },
+      "artists": [
+        {
+          "name": "Mayor Boss",
+          "url": "https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ"
+        }
+      ],
+      "duration_ms": 130609,
+      "name": "Live By Faith",
+      "url": "https://open.spotify.com/track/0eme4u5DLQAYJr9kcLPiuw"
+    },
+    {
       "added_at": "2026-02-27 00:01:20",
       "album": {
         "name": "TAMUNO",
@@ -1455,6 +1455,22 @@
       "duration_ms": 156631,
       "name": "TAMUNO",
       "url": "https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh"
+    },
+    {
+      "added_at": "2026-03-06 00:01:07",
+      "album": {
+        "name": "Amaraya",
+        "url": "https://open.spotify.com/album/2nDUvlCakWqdLOmlBH98NA"
+      },
+      "artists": [
+        {
+          "name": "Emmasings",
+          "url": "https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7"
+        }
+      ],
+      "duration_ms": 298413,
+      "name": "AMARAYA",
+      "url": "https://open.spotify.com/track/1Wqkc5hdGBrSjCNbG8tnga"
     },
     {
       "added_at": "2026-03-06 00:01:07",
@@ -1497,40 +1513,20 @@
       "url": "https://open.spotify.com/track/6iymwe6XeUeM57LpGkl0lX"
     },
     {
-      "added_at": "2026-02-06 00:01:26",
+      "added_at": "2026-03-27 00:01:13",
       "album": {
-        "name": "YAHWEH",
-        "url": "https://open.spotify.com/album/7mDWa4ymMUOUCXDv7pP5cR"
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/3nt3ueERVM16Vgrc7whDDM"
       },
       "artists": [
         {
-          "name": "Gideon MOG",
-          "url": "https://open.spotify.com/artist/0tHJJtTUpS1MyDCVAeMiO6"
-        },
-        {
-          "name": "Chuks Paschal",
-          "url": "https://open.spotify.com/artist/3pUYC0FslPFdR87XdMggxE"
+          "name": "Brenique Adams",
+          "url": "https://open.spotify.com/artist/3HiexeKs4pF7jho1Oaay8a"
         }
       ],
-      "duration_ms": 188837,
-      "name": "YAHWEH",
-      "url": "https://open.spotify.com/track/5kcDXI5RsSfsM7HJCuOA74"
-    },
-    {
-      "added_at": "2026-02-13 00:01:34",
-      "album": {
-        "name": "Blow my mind",
-        "url": "https://open.spotify.com/album/3Jz9Q57g9ITHiMQy4GwUNH"
-      },
-      "artists": [
-        {
-          "name": "Otejiri Imah",
-          "url": "https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Blow my mind",
-      "url": "https://open.spotify.com/track/5UukjLj7VD5vdYxGeYHxvC"
+      "duration_ms": 208000,
+      "name": "Doer of Your Word",
+      "url": "https://open.spotify.com/track/6m6U03At6TApfJSV6EFlH6"
     }
   ],
   "unique_name": "Blessed",

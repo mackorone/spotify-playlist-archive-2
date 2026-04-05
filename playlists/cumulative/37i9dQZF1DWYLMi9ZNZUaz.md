@@ -2,9 +2,9 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: YC
 
-331 songs - 19 hr 21 min
+332 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Hoa Kiều](https://open.spotify.com/track/1p9kfCk3IbjioLhVQxCyib) | [Trung Tâm Băng Đĩa Lậu Hải Ngoại](https://open.spotify.com/artist/53hbIxngriO3apa2SXrS29) | [Hoa Kiều](https://open.spotify.com/album/2Fwe7zdPjBtT7YryfYuXW5) | 4:18 | 2023-10-19 | 2023-10-31 |
 | [HONGKONG12](https://open.spotify.com/track/3edMkFV4BwGeqt45bPhzIw) | [Nguyễn Trọng Tài](https://open.spotify.com/artist/2UCPMrvFm42t3w5duYfQHl) | [HONGKONG12](https://open.spotify.com/album/0KhXMPufn14hmgv76Q4XTP) | 4:13 | 2024-07-11 | 2024-07-27 |
 | [HOP ON DA SHOW](https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [HOP ON DA SHOW](https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb) | 2:55 | 2024-09-18 |  |
+| [HVL](https://open.spotify.com/track/0cuHy2wWtQ0LbGUdBM1Och) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [HVL](https://open.spotify.com/album/6VgPfKbRP0lipBs3eZtmi3) | 2:24 | 2026-04-04 |  |
 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 | 2023-10-19 | 2025-10-08 |
 | [HÀO QUANG \(feat\. RHYDER, Dương Domic & Pháp Kiều\)](https://open.spotify.com/track/3EQjXzlXY0dyOovq0Awe91) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [Dương Domic](https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE), [Pháp Kiều](https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su) | [ANH TRAI "SAY HI", Tập 5](https://open.spotify.com/album/2IgOCG5wbFkL6ZH6TFug32) | 4:05 | 2024-08-16 | 2025-02-07 |
 | [Hòn Ngọc Viễn Đông](https://open.spotify.com/track/0R1LqJs5IClSxYfUjgCF6Z) | [Huỳnh Công Hiếu](https://open.spotify.com/artist/7aSN5TnSQet7xNM7LapfTE), [Thai VG](https://open.spotify.com/artist/60866JeWZ2YP0iOF1obsqE), [Lê Tích Kỳ](https://open.spotify.com/artist/54L0WkMXsu7jkwKksUoZj8) | [Hòn Ngọc Viễn Đông](https://open.spotify.com/album/3m9ubHeJVYSRRinMqf2fAd) | 5:56 | 2025-04-01 | 2025-04-11 |
@@ -149,7 +150,7 @@
 | [Kim Chỉ Tây](https://open.spotify.com/track/7Kn7nGDvQ184eOLbHqRwNc) | [Tùng TeA](https://open.spotify.com/artist/2SWNzbf1maA3oR4x56Uv9W), [NamLee](https://open.spotify.com/artist/4qUaWOfUkpVho3uRUuFoQI) | [Kim Chỉ Tây](https://open.spotify.com/album/0DsbDbyB0gsMcXPOhZlNlC) | 3:18 | 2024-01-16 | 2024-01-23 |
 | [Kiểu Như Tâm Tình](https://open.spotify.com/track/2vpG2yT8rrKLFzl9ONoebu) | [NamLee](https://open.spotify.com/artist/4qUaWOfUkpVho3uRUuFoQI), [Boyzed](https://open.spotify.com/artist/1JPTuJJ7KzpwcDCOWkEjUb) | [Kiểu Như Tâm Tình](https://open.spotify.com/album/6BxLPWEC7vK2vLuoNZbfFQ) | 3:32 | 2023-10-19 | 2024-02-12 |
 | [Ký Giấy Tờ \(prod\. Wokeup\)](https://open.spotify.com/track/0u9kV2szGMgBiYBrw74DNv) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 3:11 | 2023-11-14 | 2023-11-24 |
-| [Kẻ Cắp Gặp Bà Già \(feat\. Binz\)](https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:51 | 2024-10-03 |  |
+| [Kẻ Cắp Gặp Bà Già \(feat\. Binz\)](https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:51 | 2024-10-03 | 2026-04-05 |
 | [Lift \(feat\. $A Milo\)](https://open.spotify.com/track/048dxNqgKzQGMcyojw7zyp) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [$A Milo](https://open.spotify.com/artist/55YrB6LSt3ZShzAiBXTEcA) | [Đan Xinh In Love](https://open.spotify.com/album/3e5xMNYYXwVCpLwxUJDud5) | 3:20 | 2023-11-02 | 2023-11-09 |
 | [LIMINAL](https://open.spotify.com/track/7wNcc8LQZuCF6m9TjNLAxU) | [THANHDRAW](https://open.spotify.com/artist/3IX4Pb7ZXycI23PamK8ng8), [no friends no enemies](https://open.spotify.com/artist/57GkJWQsGfQh50NIZUeq9d) | [LIMINAL](https://open.spotify.com/album/320YH9f1G6wPdEePuHXcPl) | 6:14 | 2025-05-15 | 2025-06-06 |
 | [Liệu Giờ](https://open.spotify.com/track/71Q8QWLpvwvfQ6zM5BdCnm) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/4DyctgZKkMuHCcjQ9UvJbG) | 4:18 | 2023-10-19 | 2024-04-19 |

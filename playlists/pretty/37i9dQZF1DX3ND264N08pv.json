@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 94229,
+  "num_followers": 94266,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-03-30 11:38:32",
       "album": {
+        "name": "Major Bounce",
+        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
+      },
+      "artists": [
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        }
+      ],
+      "duration_ms": 155024,
+      "name": "Major Bounce",
+      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
+    },
+    {
+      "added_at": "2026-03-30 11:38:32",
+      "album": {
         "name": "WaKe uP",
         "url": "https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 145903,
       "name": "WaKe uP",
       "url": "https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK"
-    },
-    {
-      "added_at": "2026-03-30 11:38:32",
-      "album": {
-        "name": "Major Bounce",
-        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
-      },
-      "artists": [
-        {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
-        }
-      ],
-      "duration_ms": 155024,
-      "name": "Major Bounce",
-      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
     },
     {
       "added_at": "2026-03-30 11:38:32",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-03-30 11:38:32",
       "album": {
-        "name": "Self-Destroyed EP",
-        "url": "https://open.spotify.com/album/0NiIooDAUgxBPyh1MllqHA"
+        "name": "Sikam Szampan Techno",
+        "url": "https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz"
       },
       "artists": [
         {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Self-Destroyed",
-      "url": "https://open.spotify.com/track/50aM5Kh9jnUezTFFKUqZyt"
+      "duration_ms": 188562,
+      "name": "Sikam Szampan Techno",
+      "url": "https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp"
     },
     {
       "added_at": "2026-03-30 11:38:32",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-03-30 11:38:32",
       "album": {
-        "name": "Sikam Szampan Techno",
-        "url": "https://open.spotify.com/album/0vNH64YmfuzqxXTo41BMNz"
+        "name": "Self-Destroyed EP",
+        "url": "https://open.spotify.com/album/0NiIooDAUgxBPyh1MllqHA"
       },
       "artists": [
         {
-          "name": "Mr. Polska",
-          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
         }
       ],
-      "duration_ms": 188562,
-      "name": "Sikam Szampan Techno",
-      "url": "https://open.spotify.com/track/7Isl0TecJwk6ZiihNey0lp"
+      "duration_ms": 132000,
+      "name": "Self-Destroyed",
+      "url": "https://open.spotify.com/track/50aM5Kh9jnUezTFFKUqZyt"
     }
   ],
   "unique_name": "Hardcore Rage 2026",

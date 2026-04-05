@@ -1,12 +1,12 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Bongeziwe Mabandla",
-  "num_followers": 1009,
+  "num_followers": 1025,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHr12eH17S6NCxarn1uNrmNi5yMj",
+  "snapshot_id": "AAAAAKQxIXcN+Kxj459zt3VwxRjOiJ0t",
   "tracks": [
     {
       "added_at": "2026-03-06 14:50:02",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "something new",
-        "url": "https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0"
+        "name": "Sorry Like You Mean It",
+        "url": "https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0"
       },
       "artists": [
         {
-          "name": "ZUBIN",
-          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
         }
       ],
-      "duration_ms": 125323,
-      "name": "something new",
-      "url": "https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk"
+      "duration_ms": 209401,
+      "name": "Sorry Like You Mean It",
+      "url": "https://open.spotify.com/track/6f9QDh2uAINwIXTfmoCO1v"
     },
     {
       "added_at": "2026-03-27 10:28:35",
@@ -179,18 +179,18 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Sorry Like You Mean It",
-        "url": "https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0"
+        "name": "something new",
+        "url": "https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0"
       },
       "artists": [
         {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
         }
       ],
-      "duration_ms": 209401,
-      "name": "Sorry Like You Mean It",
-      "url": "https://open.spotify.com/track/6f9QDh2uAINwIXTfmoCO1v"
+      "duration_ms": 125323,
+      "name": "something new",
+      "url": "https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -395,18 +395,18 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Not Alone",
-        "url": "https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE"
+        "name": "SORE LOSER",
+        "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
       },
       "artists": [
         {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
         }
       ],
-      "duration_ms": 173634,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy"
+      "duration_ms": 126226,
+      "name": "SORE LOSER",
+      "url": "https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4"
     },
     {
       "added_at": "2026-03-27 10:28:35",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "SORE LOSER",
-        "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "SORE LOSER",
-      "url": "https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "Cincinnati Pumpin!!",
         "url": "https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 122374,
       "name": "Panic Island",
       "url": "https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE"
+      },
+      "artists": [
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        }
+      ],
+      "duration_ms": 173634,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Weight Off My Shoulders",
-        "url": "https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v"
-      },
-      "artists": [
-        {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Weight Off My Shoulders",
-      "url": "https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "Your Words Cut Deep",
         "url": "https://open.spotify.com/album/01CmPyLH5YfA41PeLzeASK"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 140800,
       "name": "showmetheway !!",
       "url": "https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "Weight Off My Shoulders",
+        "url": "https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v"
+      },
+      "artists": [
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "Weight Off My Shoulders",
+      "url": "https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2"
     },
     {
       "added_at": "2026-03-27 10:28:35",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Nyoni Yami",
-        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
-      },
-      "artists": [
-        {
-          "name": "Jabulile Majola",
-          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
-        },
-        {
-          "name": "Yoav",
-          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Nyoni Yami",
-      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "Adwuma",
         "url": "https://open.spotify.com/album/0aG6AoazPMX1PL8mCIVHCs"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 210040,
       "name": "Adwuma",
       "url": "https://open.spotify.com/track/3dGJ23oxQnLpSoboXe8IYj"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "Nyoni Yami",
+        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
+      },
+      "artists": [
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        },
+        {
+          "name": "Yoav",
+          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Nyoni Yami",
+      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Charmeur \u00e0 Gage Mission Ines",
-        "url": "https://open.spotify.com/album/4QHzgZ1X7pIdzCXayYU8UK"
-      },
-      "artists": [
-        {
-          "name": "Hen's",
-          "url": "https://open.spotify.com/artist/1fDdKygXaQ6LMEYTZPb1P4"
-        }
-      ],
-      "duration_ms": 184792,
-      "name": "Charmeur \u00e0 Gage Mission Ines",
-      "url": "https://open.spotify.com/track/5oD6GjkYj5CyGn7KysNhT8"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 209042,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "Charmeur \u00e0 Gage Mission Ines",
+        "url": "https://open.spotify.com/album/4QHzgZ1X7pIdzCXayYU8UK"
+      },
+      "artists": [
+        {
+          "name": "Hen's",
+          "url": "https://open.spotify.com/artist/1fDdKygXaQ6LMEYTZPb1P4"
+        }
+      ],
+      "duration_ms": 184792,
+      "name": "Charmeur \u00e0 Gage Mission Ines",
+      "url": "https://open.spotify.com/track/5oD6GjkYj5CyGn7KysNhT8"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "When You Know You Know",
-        "url": "https://open.spotify.com/album/29faKWBjV1IfpOzdCimXTI"
-      },
-      "artists": [
-        {
-          "name": "Joneaux",
-          "url": "https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "When You Know You Know",
-      "url": "https://open.spotify.com/track/0gzzv6MFfp9Y8RhmXEj3f5"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "Akanbi",
         "url": "https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 144410,
       "name": "Old Days",
       "url": "https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "When You Know You Know",
+        "url": "https://open.spotify.com/album/29faKWBjV1IfpOzdCimXTI"
+      },
+      "artists": [
+        {
+          "name": "Joneaux",
+          "url": "https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/0gzzv6MFfp9Y8RhmXEj3f5"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz"
-      },
-      "artists": [
-        {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
-        }
-      ],
-      "duration_ms": 199130,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/2qfvNOYckP2GKN81TKDgfg"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "WATSHO",
         "url": "https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 202909,
       "name": "WATSHO",
       "url": "https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/7bcZioH3Nzk37lnd5wF4Mz"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "duration_ms": 199130,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2qfvNOYckP2GKN81TKDgfg"
     },
     {
       "added_at": "2026-03-06 14:50:02",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 106936,
+  "num_followers": 106951,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "LUNARIO",
-        "url": "https://open.spotify.com/album/1QEegFpH0aL5mbGSSGEYBC"
+        "name": "Enamorarme Mas",
+        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
       },
       "artists": [
         {
-          "name": "Barajas",
-          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
-        },
-        {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+          "name": "Christian Ray",
+          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
         }
       ],
-      "duration_ms": 267789,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/6S44kKuIGObYm0jvGpUaQW"
+      "duration_ms": 275426,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -279,18 +275,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Enamorarme Mas",
-        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
+        "name": "LUNARIO",
+        "url": "https://open.spotify.com/album/1QEegFpH0aL5mbGSSGEYBC"
       },
       "artists": [
         {
-          "name": "Christian Ray",
-          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
+          "name": "Barajas",
+          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
+        },
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
         }
       ],
-      "duration_ms": 275426,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
+      "duration_ms": 267789,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/6S44kKuIGObYm0jvGpUaQW"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Salvame",
-        "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 201633,
-      "name": "Salvame",
-      "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "El M\u00e1s Buscado",
         "url": "https://open.spotify.com/album/4iExEpHD8bkvJ9NHzqM157"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 183148,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Salvame",
+        "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 201633,
+      "name": "Salvame",
+      "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Esencia (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/2ofOuRNGyk0uG63GgAVqC5"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 267769,
+      "name": "Antes Que Salga El Sol - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/6Ya4oYH9PgKiYzoHiajM9P"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Ped\u00ed Un Deseo",
         "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
       },
@@ -835,18 +851,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Esencia (Versi\u00f3n Salsa)",
-        "url": "https://open.spotify.com/album/2ofOuRNGyk0uG63GgAVqC5"
+        "name": "Siempre Has Sido Fiel",
+        "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        },
+        {
+          "name": "Kaelyn Reese",
+          "url": "https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl"
         }
       ],
-      "duration_ms": 267769,
-      "name": "Antes Que Salga El Sol - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/6Ya4oYH9PgKiYzoHiajM9P"
+      "duration_ms": 171764,
+      "name": "Siempre Has Sido Fiel",
+      "url": "https://open.spotify.com/track/0ExRFTBr0xfteBCElp0kI2"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -879,26 +899,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Siempre Has Sido Fiel",
-        "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
-      },
-      "artists": [
-        {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        },
-        {
-          "name": "Kaelyn Reese",
-          "url": "https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Siempre Has Sido Fiel",
-      "url": "https://open.spotify.com/track/0ExRFTBr0xfteBCElp0kI2"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Cada ma\u00f1ana",
         "url": "https://open.spotify.com/album/2bIrI9nbxJj73KJkr00DTe"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 187500,
       "name": "Cada ma\u00f1ana",
       "url": "https://open.spotify.com/track/0rpuMehsTKtZ26XFUTlnnO"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "LA CARRERA",
-        "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
-      },
-      "artists": [
-        {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
-        },
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        }
-      ],
-      "duration_ms": 177605,
-      "name": "LA CARRERA",
-      "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -959,6 +939,26 @@
       "duration_ms": 170898,
       "name": "Tus Planes",
       "url": "https://open.spotify.com/track/0h5tuSnIQx4wQR34ohExuM"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "LA CARRERA",
+        "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
+      },
+      "artists": [
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        },
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        }
+      ],
+      "duration_ms": 177605,
+      "name": "LA CARRERA",
+      "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "M\u00e1s de Una Vez",
-        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
-      },
-      "artists": [
-        {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
-        }
-      ],
-      "duration_ms": 173332,
-      "name": "M\u00e1s de Una Vez",
-      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Agua Viva",
         "url": "https://open.spotify.com/album/07qYY30VHBfIzrmcPHhinF"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 201002,
       "name": "Agua Viva",
       "url": "https://open.spotify.com/track/57QsDbFcH7Md73qWnpUeuc"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "M\u00e1s de Una Vez",
+        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
+      },
+      "artists": [
+        {
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+        }
+      ],
+      "duration_ms": 173332,
+      "name": "M\u00e1s de Una Vez",
+      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Grande y Maravillosas Son Tus Obras",
+        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "duration_ms": 246919,
+      "name": "Grande y Maravillosas Son Tus Obras",
+      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/2DDQ42rZLhCHGkzyI56lHB"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Grande y Maravillosas Son Tus Obras",
-        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
-      },
-      "artists": [
-        {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
-        }
-      ],
-      "duration_ms": 246919,
-      "name": "Grande y Maravillosas Son Tus Obras",
-      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Hay Una Fuente en M\u00ed",
         "url": "https://open.spotify.com/album/3BDABEty1E3KBpE3GjXgiY"
       },
@@ -1335,6 +1335,26 @@
       "duration_ms": 232320,
       "name": "Hay Una Fuente en M\u00ed",
       "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/05XeZ32oWQ7sBFZRCkWSOr"
+      },
+      "artists": [
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        },
+        {
+          "name": "Eliezer Daniels",
+          "url": "https://open.spotify.com/artist/0XSbTfozK3F8xeYpPneVO9"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/6cky0fBq1ZS7VvTX8pmUCK"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1363,42 +1383,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/05XeZ32oWQ7sBFZRCkWSOr"
-      },
-      "artists": [
-        {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
-        },
-        {
-          "name": "Eliezer Daniels",
-          "url": "https://open.spotify.com/artist/0XSbTfozK3F8xeYpPneVO9"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/6cky0fBq1ZS7VvTX8pmUCK"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4EzCYYPYJhbpVVVYoNj1xy"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Real",
-          "url": "https://open.spotify.com/artist/3CRjPCbwgcnkxwVZYQqgcu"
-        }
-      ],
-      "duration_ms": 185598,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/1tInXqQ3A80Y8IUonZOHM1"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "La Criolla",
         "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 160285,
       "name": "La Criolla",
       "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4EzCYYPYJhbpVVVYoNj1xy"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Real",
+          "url": "https://open.spotify.com/artist/3CRjPCbwgcnkxwVZYQqgcu"
+        }
+      ],
+      "duration_ms": 185598,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/1tInXqQ3A80Y8IUonZOHM1"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Corro a Ti",
+        "url": "https://open.spotify.com/album/4I9ZoZ53UKl31RaFYedPAP"
+      },
+      "artists": [
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Corro a Ti",
+      "url": "https://open.spotify.com/track/1sR3k6e5fuCQrHHMWjUkM5"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "A Tu Lado",
         "url": "https://open.spotify.com/album/7J4irmLEusLkjIZJWOign4"
       },
@@ -1523,18 +1539,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Corro a Ti",
-        "url": "https://open.spotify.com/album/4I9ZoZ53UKl31RaFYedPAP"
+        "name": "Absoluto",
+        "url": "https://open.spotify.com/album/4PllLhV4CKScbqcYqffkov"
       },
       "artists": [
         {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+          "name": "Bruno Mansur",
+          "url": "https://open.spotify.com/artist/36iawkpOrs8yq35WUwSWua"
+        },
+        {
+          "name": "Kevin L\u00f3pez",
+          "url": "https://open.spotify.com/artist/3Dg16IGa1fCJ91x0JFlnD1"
         }
       ],
-      "duration_ms": 212571,
-      "name": "Corro a Ti",
-      "url": "https://open.spotify.com/track/1sR3k6e5fuCQrHHMWjUkM5"
+      "duration_ms": 287524,
+      "name": "Absoluto",
+      "url": "https://open.spotify.com/track/5utdSmqXGbCLDIus7U82DD"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1555,26 +1575,6 @@
       "duration_ms": 210058,
       "name": "M\u00e1s Que Ayer",
       "url": "https://open.spotify.com/track/2PUqm44YdZFxDvFEM04xyH"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Absoluto",
-        "url": "https://open.spotify.com/album/4PllLhV4CKScbqcYqffkov"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mansur",
-          "url": "https://open.spotify.com/artist/36iawkpOrs8yq35WUwSWua"
-        },
-        {
-          "name": "Kevin L\u00f3pez",
-          "url": "https://open.spotify.com/artist/3Dg16IGa1fCJ91x0JFlnD1"
-        }
-      ],
-      "duration_ms": 287524,
-      "name": "Absoluto",
-      "url": "https://open.spotify.com/track/5utdSmqXGbCLDIus7U82DD"
     },
     {
       "added_at": "2026-03-29 00:09:04",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 51264,
+  "num_followers": 51284,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac2xgAAAAABjBm+ryjvXphHyRUDr59wq",
+  "snapshot_id": "ac8DAAAAAAAwTQyl/xDD6vWFC81AYHNs",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 183434,
-      "name": "Curry Quest",
-      "url": "https://open.spotify.com/track/0Mv6OYvk9l6xzeDXRA428u"
+      "duration_ms": 105820,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/1jj6Je2MpB2vZ6cfoK4nMl"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 105820,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/1jj6Je2MpB2vZ6cfoK4nMl"
+      "duration_ms": 183434,
+      "name": "Curry Quest",
+      "url": "https://open.spotify.com/track/0Mv6OYvk9l6xzeDXRA428u"
     },
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rug Island",
-        "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        }
-      ],
-      "duration_ms": 167068,
-      "name": "Turtleboy",
-      "url": "https://open.spotify.com/track/4Zja6rFLdE4Bq3fwXMZ1OW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleepytime",
         "url": "https://open.spotify.com/album/594hazIUZ5Y3um2QVc6GJu"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 301805,
       "name": "Sleepytime",
       "url": "https://open.spotify.com/track/7MyLpkB4QVgIw4mBL0WurR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up Here (The Orchestral Album)",
+        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "duration_ms": 99806,
+      "name": "Ice Cream (Waltz of the Flowers)",
+      "url": "https://open.spotify.com/track/3xs2MdbijxgVs0FdLSEw5i"
     },
     {
       "added_at": null,
@@ -395,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rug Island",
+        "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "duration_ms": 167068,
+      "name": "Turtleboy",
+      "url": "https://open.spotify.com/track/4Zja6rFLdE4Bq3fwXMZ1OW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up Here (The Orchestral Album)",
         "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 144125,
       "name": "Alongside (Instrumental)",
       "url": "https://open.spotify.com/track/190HNzzsBBgH7BmCtbzv6f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rug Island",
-        "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        }
-      ],
-      "duration_ms": 162332,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Here (The Orchestral Album)",
-        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        }
-      ],
-      "duration_ms": 99806,
-      "name": "Ice Cream (Waltz of the Flowers)",
-      "url": "https://open.spotify.com/track/3xs2MdbijxgVs0FdLSEw5i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rug Island",
         "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
       },
@@ -516,9 +496,29 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 193938,
-      "name": "Bin Night",
-      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
+      "duration_ms": 162332,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up Here (The Orchestral Album)",
+        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "duration_ms": 79483,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/7dugKt6t0REqsPlRmkV0uv"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Here (The Orchestral Album)",
-        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        }
-      ],
-      "duration_ms": 79483,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/7dugKt6t0REqsPlRmkV0uv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rug Island",
         "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
       },
@@ -604,9 +584,29 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 76443,
-      "name": "Rug Island, Pt. 2",
-      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
+      "duration_ms": 193938,
+      "name": "Bin Night",
+      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up Here (The Orchestral Album)",
+        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "duration_ms": 116537,
+      "name": "Tradies",
+      "url": "https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Here (The Orchestral Album)",
-        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
+        "name": "Rug Island",
+        "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
       },
       "artists": [
         {
@@ -660,29 +660,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 116537,
-      "name": "Tradies",
-      "url": "https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluey Titelsong (German Version)",
-        "url": "https://open.spotify.com/album/0oRfkNavThhul9SgWb9Jrj"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        }
-      ],
-      "duration_ms": 64311,
-      "name": "Bluey Titelsong (German Version)",
-      "url": "https://open.spotify.com/track/5cYNCZOYRnKoNtsBlX1Xc1"
+      "duration_ms": 76443,
+      "name": "Rug Island, Pt. 2",
+      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
     }
   ],
   "unique_name": "This Is Bluey",

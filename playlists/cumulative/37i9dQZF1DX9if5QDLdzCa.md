@@ -4,7 +4,7 @@
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-272 songs - 13 hr 11 min
+274 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Atlantic Waves](https://open.spotify.com/track/6i8IQQ6FmgU7Y0ESccYchH) | [Waves of Atlantic](https://open.spotify.com/artist/4rSV2yuDQBYqICEXgemgir) | [Atlantic Waves](https://open.spotify.com/album/5XiJuA5yautJlZ3J0wrhK1) | 3:41 | 2021-11-10 |  |
 | [Atlantic Waves](https://open.spotify.com/track/3O13orieNSsuObfPFS8BwG) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 2:51 | 2021-11-10 |  |
 | [Atlantic Waves](https://open.spotify.com/track/2zm8UV8DfhAW2S85WNrUuW) | [X Somnum](https://open.spotify.com/artist/6IhgFJsVFWJ5hdFFUxbMeK) | [Atlantic Waves](https://open.spotify.com/album/63Z04a8qOeAYzaknJ4ARbh) | 3:09 | 2024-03-25 |  |
+| [away adrift \(nature\)](https://open.spotify.com/track/7FffgNpdeg9Ai9wdUOS6WC) | [warmest depths](https://open.spotify.com/artist/1akeT46w4la2HMfty7dh4W) | [away adrift \(nature\)](https://open.spotify.com/album/7sNom6GJ1acTyCEW3ncZXF) | 3:16 | 2026-04-02 |  |
 | [Baltic Ocean Wave Sounds](https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59) | 2:55 | 2021-11-10 |  |
 | [Beach Calmness](https://open.spotify.com/track/1PZoHdDM71mzOFW1T6H03y) | [Streaming Waves](https://open.spotify.com/artist/7qj3R7pI5z0H1AxH5X4oK8) | [Streaming Waves Vol\. 1](https://open.spotify.com/album/2QFjS8IsDZd1sUdGZ4rnDS) | 2:28 | 2022-01-21 | 2024-03-26 |
 | [Beach Tranquility](https://open.spotify.com/track/1SWxs2z7dBYgEw6Jm3XOjx) | [Sea Kelp](https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh) | [The Calm Beach](https://open.spotify.com/album/1qJLhvhcsqa70yjVzPjVjT) | 2:46 | 2023-06-19 |  |
@@ -151,7 +152,7 @@
 | [Pebble Beach Waves](https://open.spotify.com/track/74Ccabhzyt1M79qTQ4Jivz) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 5:42 | 2021-11-10 |  |
 | [Pebbles](https://open.spotify.com/track/29VL3WjP61awCnMvx3NYUp) | [Yin Elements](https://open.spotify.com/artist/1WK6PTezwqF9ckYPdy8jwU) | [Off the Deep Ends](https://open.spotify.com/album/35JLEKkJ13mL1VuBQVQboc) | 4:15 | 2021-11-10 | 2025-02-19 |
 | [Perfect Ocean](https://open.spotify.com/track/1K8O7W0UjjL8W85JnY0JYN) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Perfect Ocean](https://open.spotify.com/album/7Hd8ggF0YdFQ49qJ02k5Jh) | 2:56 | 2024-03-25 |  |
-| [Playa Pelada Sunburnt Surf](https://open.spotify.com/track/0G9A43Ip04oTEcwhybFVsb) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Songs from the Sea](https://open.spotify.com/album/444aUY63lz0iMrt3DGPhiv) | 3:11 | 2026-04-02 |  |
+| [Playa Pelada Sunburnt Surf](https://open.spotify.com/track/0G9A43Ip04oTEcwhybFVsb) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Songs from the Sea](https://open.spotify.com/album/444aUY63lz0iMrt3DGPhiv) | 3:11 | 2026-04-02 | 2026-04-05 |
 | [Receding Tide](https://open.spotify.com/track/3gfaYtVDmn9KC7VmC3dWFl) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Receding Tide](https://open.spotify.com/album/1YzPWOEFJ8LONe37Ywyj46) | 3:05 | 2025-02-18 | 2025-07-22 |
 | [Relax Waves](https://open.spotify.com/track/1TCKDptBmCHnGZ9cqGoBSZ) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Relax Waves](https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf) | 1:34 | 2021-11-10 | 2023-06-20 |
 | [Relaxing Morning Waves](https://open.spotify.com/track/55FrxMLd1O3tDQZ4xyYKDr) | [Ocean Minds](https://open.spotify.com/artist/6D2TJfOVqwpkYM4UTG2Int) | [Relaxing Morning Waves](https://open.spotify.com/album/23CcFm07HEfktHhwNYv0As) | 2:57 | 2021-11-10 | 2024-03-26 |
@@ -220,7 +221,7 @@
 | [Sunrise At The Ocean Mermaid](https://open.spotify.com/track/51bdGaEYbw9o5GTnVw6c4A) | [In The Ocean \(Sound FX\)](https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF) | [Wave Sounds From Scandinavia Vol\. 2](https://open.spotify.com/album/5YbKpZftWuKq5JUPEZC9Le) | 2:17 | 2022-08-03 |  |
 | [Super Soothing Evening Waves](https://open.spotify.com/track/6L8AUW3COyY7Z2Ww1RIEVH) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:45 | 2021-11-10 | 2024-03-26 |
 | [Surf Season](https://open.spotify.com/track/0YmXKiEa0tLl0kpiQedm25) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Meditative Ocean Sounds](https://open.spotify.com/album/1Ns7SBGJ7qNaUihRF7iTa1) | 3:05 | 2021-11-10 | 2024-03-26 |
-| [Surf Waves](https://open.spotify.com/track/4I0v3ymjB0p6WZ4ucIBJhN) | [Sleep Surfers](https://open.spotify.com/artist/6dGYdorCYElzdhKtFXjIDi) | [Surf Waves](https://open.spotify.com/album/7lzxfCQaK7CeYT0iVYVRsc) | 5:19 | 2021-11-10 |  |
+| [Surf Waves](https://open.spotify.com/track/4I0v3ymjB0p6WZ4ucIBJhN) | [Sleep Surfers](https://open.spotify.com/artist/6dGYdorCYElzdhKtFXjIDi) | [Surf Waves](https://open.spotify.com/album/7lzxfCQaK7CeYT0iVYVRsc) | 5:19 | 2021-11-10 | 2026-04-05 |
 | [Surf's Up](https://open.spotify.com/track/3AOB0WngRiLACLYjhyyRkM) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [Mystical Oceanic Voyage](https://open.spotify.com/album/4b62ECFggvhJFLiVvcOzDm) | 2:04 | 2023-06-19 |  |
 | [Talking Ocean](https://open.spotify.com/track/6zYUEZSdMQwKXXdQyXaPz4) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:30 | 2021-11-10 |  |
 | [Tenerife Sea](https://open.spotify.com/track/2DK2SiIDvOsT7T8QHAxdeo) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Tenerife Sea](https://open.spotify.com/album/1sX3CqdKWQdPWCIe2McYW7) | 3:05 | 2024-03-25 |  |
@@ -243,6 +244,7 @@
 | [Wave Sounds For Relaxing](https://open.spotify.com/track/0MP9WzkvFrUN7eja22ssTm) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [2021 Wave Sounds](https://open.spotify.com/album/6Fy1yge1iqKMl4cnlunDg8) | 3:26 | 2021-11-10 |  |
 | [Wave Sounds From Your Favorite Beach](https://open.spotify.com/track/2R6HB9DiSAxq08vj5dj9B3) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Deluxe Wave Sounds](https://open.spotify.com/album/4ap2CpNw9Uu7uIBe9xeV8E) | 3:04 | 2021-11-10 | 2026-02-12 |
 | [Waves After Midnight](https://open.spotify.com/track/1mDBfN62kGsLNa6qZcsFsK) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 2:40 | 2021-11-10 |  |
+| [Waves Against Old Bones, Namibia Coast](https://open.spotify.com/track/2fMd07ykH6eiNrIgELP1Kd) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Songs from the Sea](https://open.spotify.com/album/444aUY63lz0iMrt3DGPhiv) | 3:45 | 2026-04-02 |  |
 | [Waves And Ocean](https://open.spotify.com/track/0704kRxzpTBD6cyw06aVxy) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:09 | 2021-11-10 |  |
 | [Waves and Sand Sizzle](https://open.spotify.com/track/5IYby2NCqCoc8hGUosxTjY) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Gentle Majestic Ocean Waves](https://open.spotify.com/album/5gffSIi6opT8ifjzrmsQZq) | 3:15 | 2025-07-21 |  |
 | [Waves and Seagulls \(at the Beach in Point Pleasant, New Jersey\)](https://open.spotify.com/track/1DaU7Tzyc1v06k0eIoGCV5) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic: Water Sounds](https://open.spotify.com/album/5FvTpUy4QVxNs1dmTNyu6P) | 4:51 | 2025-07-21 | 2026-04-03 |

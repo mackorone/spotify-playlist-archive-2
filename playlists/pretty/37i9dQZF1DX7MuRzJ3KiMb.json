@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed est\u00e1n las joyas escondidas del 2025, elegidas por tus editores \ud83d\ude42\u200d\u2195\ufe0f",
-  "num_followers": 104852,
+  "num_followers": 104853,
   "original_name": "Las favoritas de tus editores 2025",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "la culpa (track 11)",
-        "url": "https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "la culpa (track 11)",
-      "url": "https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 201307,
       "name": "Me Pasa (Piscis)",
       "url": "https://open.spotify.com/track/63ZVyUi9weRwuMf1QsbDnY"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "la culpa (track 11)",
+        "url": "https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "la culpa (track 11)",
+      "url": "https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "PIRRI",
-        "url": "https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 192214,
-      "name": "PIRRI",
-      "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "PARANOIA.",
         "url": "https://open.spotify.com/album/4S65UMxUGogJERqXWAdEXU"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 186248,
       "name": "PARANOIA.",
       "url": "https://open.spotify.com/track/4fbNiLNjjCTHZAIkcG5aIh"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "PIRRI",
+        "url": "https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 192214,
+      "name": "PIRRI",
+      "url": "https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "CUERPOS, Vol. 1",
-        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 226181,
-      "name": "TIEMPO OFF",
-      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "El \u00daltimo Baile",
         "url": "https://open.spotify.com/album/0ZoqHpiyTLn22Kw9uXa7si"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 237930,
       "name": "Volvamos a Ser Novios",
       "url": "https://open.spotify.com/track/3BzqVIUCqTOHjkNRtol9F3"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "CUERPOS, Vol. 1",
+        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 226181,
+      "name": "TIEMPO OFF",
+      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "El Retorno",
+        "url": "https://open.spotify.com/album/6dj1mxj9H7fHfiM5WmGJAK"
+      },
+      "artists": [
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 329888,
+      "name": "La Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/6PTdEgJEazcXaiQAEW3n8u"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "COMO DOS EXTRA\u00d1OS (feat. Santiago Motorizado)",
         "url": "https://open.spotify.com/album/0BtfSe5QLvZTlTrvcTO5Lc"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 172779,
       "name": "COMO DOS EXTRA\u00d1OS (feat. Santiago Motorizado)",
       "url": "https://open.spotify.com/track/1OzWR3TeXVCYw5OHgAHRo1"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "El Retorno",
-        "url": "https://open.spotify.com/album/6dj1mxj9H7fHfiM5WmGJAK"
-      },
-      "artists": [
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 329888,
-      "name": "La Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/6PTdEgJEazcXaiQAEW3n8u"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "RID\u00cdCULO",
-        "url": "https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ"
-      },
-      "artists": [
-        {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 159607,
-      "name": "RID\u00cdCULO",
-      "url": "https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "OKUPAS",
         "url": "https://open.spotify.com/album/1tQ0olB3rAM8es83lc55i7"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 164705,
       "name": "OKUPAS",
       "url": "https://open.spotify.com/track/580QOzbFWDJKi6LtNpt7PT"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "RID\u00cdCULO",
+        "url": "https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 159607,
+      "name": "RID\u00cdCULO",
+      "url": "https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "Invierno en la playa",
+        "url": "https://open.spotify.com/album/2MVDwWtKOqZlrXnS5d5liU"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 277026,
+      "name": "Visita guiada",
+      "url": "https://open.spotify.com/track/6GclajlxxpiIXjVEnHTbLx"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "\u00d3xido (Nick Warren & Nicolas Rada Remix)",
         "url": "https://open.spotify.com/album/10q7J2PEljNlw5o2kBCItF"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 414531,
       "name": "\u00d3xido - Nick Warren & Nicolas Rada Remix",
       "url": "https://open.spotify.com/track/3j1abdTMpaSKiVOYykJLL4"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "Invierno en la playa",
-        "url": "https://open.spotify.com/album/2MVDwWtKOqZlrXnS5d5liU"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 277026,
-      "name": "Visita guiada",
-      "url": "https://open.spotify.com/track/6GclajlxxpiIXjVEnHTbLx"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Pavlo, cada vez menos...",
-        "url": "https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ"
-      },
-      "artists": [
-        {
-          "name": "elmalam\u00eda",
-          "url": "https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Eresi",
-      "url": "https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Kumbia Dos Pasitos",
         "url": "https://open.spotify.com/album/6plQaYA40IhWfRf1RNf0to"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 220000,
       "name": "Kumbia Dos Pasitos",
       "url": "https://open.spotify.com/track/5JcEQRbuhFw7EEzesu8GXP"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Pavlo, cada vez menos...",
+        "url": "https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ"
+      },
+      "artists": [
+        {
+          "name": "elmalam\u00eda",
+          "url": "https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Eresi",
+      "url": "https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf"
     },
     {
       "added_at": "2025-12-03 13:16:51",

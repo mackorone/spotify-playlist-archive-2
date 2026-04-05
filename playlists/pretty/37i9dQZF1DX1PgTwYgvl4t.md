@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > All your Easter worship essentials—carefully curated by <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=EJUgcVxJSkS3O9JphShRhg>Dunsin Oyekan</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,746 likes - 50 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,269 likes - 50 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

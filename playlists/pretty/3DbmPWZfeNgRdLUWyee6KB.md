@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,290 likes - 176 songs - 10 hr 16 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,290 likes - 181 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,5 +184,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 174 | [In Your Dreams](https://open.spotify.com/track/1fmX0jToR2dVaY4fTWqM2B) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [In Your Dreams](https://open.spotify.com/album/5MclxDMknVlBLyhy1Fjx77) | 2:17 |
 | 175 | [Europe Flow \- Remix](https://open.spotify.com/track/5CFEwAG4IVLP0Li9F8VNX6) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [Official GooNie](https://open.spotify.com/artist/3IjaIwNFWwhoBRlzItmi5Y), [ProdByWhites](https://open.spotify.com/artist/6flN5ZCSG9JeQeX9msFVV7) | [Europe Flow \(Remix\)](https://open.spotify.com/album/2BBTIa9LgvP9g0GoL3fDd1) | 1:56 |
 | 176 | [FLY \- Original Mix](https://open.spotify.com/track/0KGD6zRqbj2EgGeAmwB76v) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [J1 GTB](https://open.spotify.com/artist/6mm0pxFY41cqM9kjJve4jH) | [FLY \(Original Mix\)](https://open.spotify.com/album/5MUfhF7oOQvpysNAphGwEm) | 2:58 |
+| 177 | [roaches.](https://open.spotify.com/track/47kdMhdwMkt16EAbeLcU9a) | [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN) | [roaches.](https://open.spotify.com/album/4DvKJrvA1W9faFzLljxIOk) | 3:25 |
+| 178 | [God's Waiting List](https://open.spotify.com/track/6kYDNhV42rV2tGPS8xW6Zr) | [Luhongo](https://open.spotify.com/artist/6pD84fH6AufB44ccGvLCL5) | [God's Waiting List](https://open.spotify.com/album/25muSm6wNMOlDPRahhTDdJ) | 3:02 |
+| 179 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 |
+| 180 | [Resta qui](https://open.spotify.com/track/3DWXaxpZITEuneQtpqmnYS) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [Resta qui](https://open.spotify.com/album/615U7jBZ12XBVNJEUQRwCe) | 3:05 |
+| 181 | [Tooth](https://open.spotify.com/track/7coB6qAIUohaBcqrCDhmyk) | [Yung Tasso](https://open.spotify.com/artist/3KOeNxUY9JKjzpYwxwOJUK), [Hayds](https://open.spotify.com/artist/0OIEpFFn2coJ5zeiMzrEdg), [FatRicko](https://open.spotify.com/artist/24cxoi08cDLTR8dbSiSawu) | [Tooth](https://open.spotify.com/album/6jM6xqCgSYunaFDBajakoC) | 2:23 |
 
-Snapshot ID: `AAASdjR38xkUr19Q1m/VwVpezqf7u6P9`
+Snapshot ID: `AAASey5+XjVrgHHAEbLJj0ZXisQKz1ky`

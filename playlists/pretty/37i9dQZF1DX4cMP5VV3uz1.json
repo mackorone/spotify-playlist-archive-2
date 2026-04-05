@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166279,
+  "num_followers": 166291,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "One Last Tear",
+        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 140232,
+      "name": "One Last Tear",
+      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 176614,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "One Last Tear",
-        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 140232,
-      "name": "One Last Tear",
-      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 182069,
       "name": "Flow",
       "url": "https://open.spotify.com/track/06eJJV9q1HieNW8dm9htJt"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -987,6 +987,26 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Corner",
+        "url": "https://open.spotify.com/album/7LIdJo9owJofjVeNaF8ig4"
+      },
+      "artists": [
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Corner",
+      "url": "https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "DAY ONE (Edits)",
         "url": "https://open.spotify.com/album/5jG7UTE2ugocI8hbKXejuT"
       },
@@ -1015,26 +1035,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Corner",
-        "url": "https://open.spotify.com/album/7LIdJo9owJofjVeNaF8ig4"
-      },
-      "artists": [
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        },
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Corner",
-      "url": "https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "14ZERO",
         "url": "https://open.spotify.com/album/4XLlNsFlBUxqhiDezv7yKM"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 241714,
       "name": "Dubplate Fly",
       "url": "https://open.spotify.com/track/4KPdVC99HDlGMYaAYNdxCj"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Anti/Thesis: Vol. 2",
-        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
-      },
-      "artists": [
-        {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
-        }
-      ],
-      "duration_ms": 233083,
-      "name": "Grindhouse",
-      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1123,6 +1107,22 @@
       "duration_ms": 141257,
       "name": "Ring Doorbell",
       "url": "https://open.spotify.com/track/0wu99QsiUQoR9coj3qY8Pa"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Anti/Thesis: Vol. 2",
+        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "duration_ms": 233083,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Harbinger",
-        "url": "https://open.spotify.com/album/4WAWKDAjlq0eQdhHZha8vV"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        },
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Harbinger",
-      "url": "https://open.spotify.com/track/34vW9s2XcezZxSqBerxa4Y"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Scream My Name",
         "url": "https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187"
       },
@@ -1495,6 +1475,22 @@
       "duration_ms": 206774,
       "name": "Scream My Name",
       "url": "https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1519,18 +1515,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+        "name": "Harbinger",
+        "url": "https://open.spotify.com/album/4WAWKDAjlq0eQdhHZha8vV"
       },
       "artists": [
         {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        },
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+      "duration_ms": 181028,
+      "name": "Harbinger",
+      "url": "https://open.spotify.com/track/34vW9s2XcezZxSqBerxa4Y"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Yard Shop",
+        "url": "https://open.spotify.com/album/36O3fPVMKVkIYiKHqIKUws"
+      },
+      "artists": [
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Lady Ice",
+          "url": "https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Yard Shop",
+      "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Ravers Anonymous",
         "url": "https://open.spotify.com/album/7DFEGdQWhJOCLBO5SvvuNd"
       },
@@ -1599,26 +1619,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Yard Shop",
-        "url": "https://open.spotify.com/album/36O3fPVMKVkIYiKHqIKUws"
-      },
-      "artists": [
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Lady Ice",
-          "url": "https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Yard Shop",
-      "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Voicenote Violence",
         "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
       },
@@ -1631,26 +1631,6 @@
       "duration_ms": 166714,
       "name": "Voicenote Violence",
       "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Rigid Lord",
-        "url": "https://open.spotify.com/album/0wUZn5ztqivzJzwoPwq4Dn"
-      },
-      "artists": [
-        {
-          "name": "Cesco",
-          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b"
-        }
-      ],
-      "duration_ms": 225856,
-      "name": "Rigid Lord",
-      "url": "https://open.spotify.com/track/0zlBYfthuEV22L3DMhGiJu"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1671,18 +1651,18 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/54JOZGnbDW4l1P1i2UlMju"
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
         }
       ],
-      "duration_ms": 209142,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol"
+      "duration_ms": 180689,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1711,38 +1691,38 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
+        "name": "Rigid Lord",
+        "url": "https://open.spotify.com/album/0wUZn5ztqivzJzwoPwq4Dn"
       },
       "artists": [
         {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b"
         }
       ],
-      "duration_ms": 180689,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+      "duration_ms": 225856,
+      "name": "Rigid Lord",
+      "url": "https://open.spotify.com/track/0zlBYfthuEV22L3DMhGiJu"
     },
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Do This",
-        "url": "https://open.spotify.com/album/3JxzLywrw84nF4jqBqktf8"
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/54JOZGnbDW4l1P1i2UlMju"
       },
       "artists": [
         {
-          "name": "Majistrate",
-          "url": "https://open.spotify.com/artist/7Kmqpu1E2yI5ijuB1dcNTg"
-        },
-        {
-          "name": "Weejii",
-          "url": "https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
         }
       ],
-      "duration_ms": 133714,
-      "name": "Do This",
-      "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
+      "duration_ms": 209142,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1783,6 +1763,26 @@
       "duration_ms": 192000,
       "name": "Let Me Down",
       "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Do This",
+        "url": "https://open.spotify.com/album/3JxzLywrw84nF4jqBqktf8"
+      },
+      "artists": [
+        {
+          "name": "Majistrate",
+          "url": "https://open.spotify.com/artist/7Kmqpu1E2yI5ijuB1dcNTg"
+        },
+        {
+          "name": "Weejii",
+          "url": "https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Do This",
+      "url": "https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Badman Step",
         "url": "https://open.spotify.com/album/13bBhTnCsyILAAepNbfHXp"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 200914,
       "name": "Badman Step",
       "url": "https://open.spotify.com/track/16KnLD7KaNZfL5sMs8kmWR"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2026-03-13 00:00:07",

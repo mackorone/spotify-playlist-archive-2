@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 175970,
       "name": "Alcoholic",
       "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
@@ -10882,6 +10882,24 @@
       "duration_ms": 265226,
       "name": "El\u00e4m\u00e4nlangat",
       "url": "https://open.spotify.com/track/5oeDBzoj2s7TH2kOsrc4q9"
+    },
+    {
+      "album": {
+        "name": "El\u00e4m\u00e4\u00e4 Suurempaa",
+        "url": "https://open.spotify.com/album/6NNqEWHtfa4ZTg1N5VAitK"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182771,
+      "name": "El\u00e4m\u00e4\u00e4 Suurempaa",
+      "url": "https://open.spotify.com/track/59P3bZ1wyLSZetsU2Jovmo"
     },
     {
       "album": {
@@ -20482,7 +20500,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 161714,
       "name": "Jos mua ei olis ollenkaan",
       "url": "https://open.spotify.com/track/2NkbxY0JoAVpbhuysBfGFl"
@@ -23789,6 +23807,36 @@
     },
     {
       "album": {
+        "name": "Kilistell\u00e4\u00e4n kyyneleit\u00e4",
+        "url": "https://open.spotify.com/album/6HPxidIevlLoAMToenpZCw"
+      },
+      "artists": [
+        {
+          "name": "RODEO",
+          "url": "https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ"
+        },
+        {
+          "name": "Anna Puu",
+          "url": "https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3"
+        },
+        {
+          "name": "Erin",
+          "url": "https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ"
+        },
+        {
+          "name": "Ida Paul",
+          "url": "https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226154,
+      "name": "Kilistell\u00e4\u00e4n kyyneleit\u00e4",
+      "url": "https://open.spotify.com/track/2g4NUpywYmotb70ZipbiaA"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
       },
@@ -25860,7 +25908,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 156214,
       "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
       "url": "https://open.spotify.com/track/7HUdXQkNCT1VU6f89qaMrx"
@@ -29314,7 +29362,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -38100,7 +38148,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 177245,
       "name": "Oma Vika",
       "url": "https://open.spotify.com/track/3VXuCzOZEkdIvEoal64GJu"
@@ -42444,7 +42492,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 188120,
       "name": "Puoliksi sun (feat. VIIVI)",
       "url": "https://open.spotify.com/track/7MjsUe5VJfa42zqEZ0DE3J"
@@ -43184,6 +43232,24 @@
       "duration_ms": 253973,
       "name": "Rakastan sua niin et se sattuu (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
       "url": "https://open.spotify.com/track/07r6wid33KxRLMbQOuhp5H"
+    },
+    {
+      "album": {
+        "name": "Rakastan teit\u00e4 kaikkia",
+        "url": "https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o"
+      },
+      "artists": [
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242640,
+      "name": "Rakastan teit\u00e4 kaikkia",
+      "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
     },
     {
       "album": {
@@ -44468,7 +44534,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 169647,
       "name": "Rikon kaikki mihin kosken",
       "url": "https://open.spotify.com/track/01cn1Zys6ZNkl9gFhIlF3j"
@@ -46276,6 +46342,28 @@
       "duration_ms": 204554,
       "name": "Savon preeria",
       "url": "https://open.spotify.com/track/1ezdMRBo4rD3RFdzzzXlF9"
+    },
+    {
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/7fXIlpj2gXIZQyAQwEO6TT"
+      },
+      "artists": [
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206488,
+      "name": "Savurenkaat (feat. ibe)",
+      "url": "https://open.spotify.com/track/6jjGaiUbig7I9mkzcXrgl7"
     },
     {
       "album": {
@@ -49067,6 +49155,24 @@
     },
     {
       "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/7fXIlpj2gXIZQyAQwEO6TT"
+      },
+      "artists": [
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165359,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/6ncxWZeud6ry2fFYS3Qw1D"
+    },
+    {
+      "album": {
         "name": "Stand Back",
         "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
       },
@@ -49078,7 +49184,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 165359,
       "name": "Stand Back",
       "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
@@ -52684,6 +52790,24 @@
       "duration_ms": 196008,
       "name": "Terveisin Doris",
       "url": "https://open.spotify.com/track/6s5aPRXxLJ6gtdSViCTr3u"
+    },
+    {
+      "album": {
+        "name": "Ter\u00e4lehti",
+        "url": "https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr"
+      },
+      "artists": [
+        {
+          "name": "Juuna Chill",
+          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148374,
+      "name": "Ter\u00e4lehti",
+      "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"
     },
     {
       "album": {

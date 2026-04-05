@@ -1,13 +1,445 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2723,
+  "num_followers": 2724,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAAR2tLVOU+vpgIwHx3mqHD6xD4bytmv",
+  "snapshot_id": "AAAR9Z20hiTTUd/kNTYUjet09gpjmvmk",
   "tracks": [
+    {
+      "added_at": "2026-04-04 12:56:30",
+      "album": {
+        "name": "Ethereal Escape: Dreamy & Atmospheric (Vol. 1)",
+        "url": "https://open.spotify.com/album/1ybO61ut249vWI2ti1CH3A"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Web of Road Dust",
+      "url": "https://open.spotify.com/track/1OAAC2fFpkFBQyvK9iygfh"
+    },
+    {
+      "added_at": "2026-04-04 12:05:46",
+      "album": {
+        "name": "Neon Nights: Late Night Drive Music (Vol. 1)",
+        "url": "https://open.spotify.com/album/0LrdRMztCrZRHNbe6W2k1T"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 328440,
+      "name": "Cut the Lights",
+      "url": "https://open.spotify.com/track/0pa4pAFi5LprvX5VDLiErO"
+    },
+    {
+      "added_at": "2026-04-04 11:34:55",
+      "album": {
+        "name": "Cinematic Bass: Epic Dubstep & Trap (Vol. 1)",
+        "url": "https://open.spotify.com/album/1WNBIHcvpB6sWakBROrIPV"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Silent Battles",
+      "url": "https://open.spotify.com/track/20XttvbQijck8uwrHHh37T"
+    },
+    {
+      "added_at": "2026-04-04 11:07:31",
+      "album": {
+        "name": "Ethereal Escape: Dreamy & Atmospheric (Vol. 1)",
+        "url": "https://open.spotify.com/album/1ybO61ut249vWI2ti1CH3A"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "Forgot the Next Part",
+      "url": "https://open.spotify.com/track/71vqoQo7WyMoYxuqM4zeMH"
+    },
+    {
+      "added_at": "2026-04-04 10:59:25",
+      "album": {
+        "name": "Neon Nights: Late Night Drive Music (Vol. 1)",
+        "url": "https://open.spotify.com/album/0LrdRMztCrZRHNbe6W2k1T"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 297880,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/5DKp3MNz59nEKEVYv3C0aa"
+    },
+    {
+      "added_at": "2026-04-04 10:44:55",
+      "album": {
+        "name": "Afterhours: Cinematic Techno (Vol. 1)",
+        "url": "https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 338200,
+      "name": "Idiot Lights",
+      "url": "https://open.spotify.com/track/36zyoakYKxmbY2JTHNAtKP"
+    },
+    {
+      "added_at": "2026-04-04 10:20:27",
+      "album": {
+        "name": "Cinematic Bass: Epic Dubstep & Trap (Vol. 1)",
+        "url": "https://open.spotify.com/album/1WNBIHcvpB6sWakBROrIPV"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Aerial View",
+      "url": "https://open.spotify.com/track/1KhY15cipWHBZt2KgSIvto"
+    },
+    {
+      "added_at": "2026-04-04 10:07:15",
+      "album": {
+        "name": "Neon Nights: Late Night Drive Music (Vol. 1)",
+        "url": "https://open.spotify.com/album/0LrdRMztCrZRHNbe6W2k1T"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 291880,
+      "name": "Heading: Nowhere",
+      "url": "https://open.spotify.com/track/0lpTh2dQI0jPmC9ID0RN8u"
+    },
+    {
+      "added_at": "2026-04-04 10:01:06",
+      "album": {
+        "name": "Afterhours: Cinematic Techno (Vol. 1)",
+        "url": "https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 337760,
+      "name": "Licked a Coin",
+      "url": "https://open.spotify.com/track/0XhWndM4TRoMyjzyKvhEyf"
+    },
+    {
+      "added_at": "2026-04-04 09:34:59",
+      "album": {
+        "name": "Neon Nights: Late Night Drive Music (Vol. 1)",
+        "url": "https://open.spotify.com/album/0LrdRMztCrZRHNbe6W2k1T"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 199840,
+      "name": "Sodium Glare",
+      "url": "https://open.spotify.com/track/69ApdAg4IRKzSRg2PN5uRn"
+    },
+    {
+      "added_at": "2026-04-04 09:33:22",
+      "album": {
+        "name": "Cinematic Bass: Epic Dubstep & Trap (Vol. 1)",
+        "url": "https://open.spotify.com/album/1WNBIHcvpB6sWakBROrIPV"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 205960,
+      "name": "Smoke in my Lungs",
+      "url": "https://open.spotify.com/track/5cK0n4o2fq1hJQ9vV6IKNy"
+    },
+    {
+      "added_at": "2026-04-04 09:22:48",
+      "album": {
+        "name": "Afterhours: Cinematic Techno (Vol. 1)",
+        "url": "https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Seven to Dispatch",
+      "url": "https://open.spotify.com/track/2Q0n51GMKrT9Ee4GTNLVs0"
+    },
+    {
+      "added_at": "2026-04-04 09:18:44",
+      "album": {
+        "name": "Cinematic Bass: Epic Dubstep & Trap (Vol. 1)",
+        "url": "https://open.spotify.com/album/1WNBIHcvpB6sWakBROrIPV"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Walrus Crown",
+      "url": "https://open.spotify.com/track/23FZptXuS6KmZq7JMuhfC1"
+    },
+    {
+      "added_at": "2026-04-04 09:07:45",
+      "album": {
+        "name": "Neon Nights: Late Night Drive Music (Vol. 1)",
+        "url": "https://open.spotify.com/album/0LrdRMztCrZRHNbe6W2k1T"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 353160,
+      "name": "Vapor Trails in the Rearview",
+      "url": "https://open.spotify.com/track/3cj4eCKVh1R5wF4WiS8CD2"
+    },
+    {
+      "added_at": "2026-04-04 09:02:35",
+      "album": {
+        "name": "Ethereal Escape: Dreamy & Atmospheric (Vol. 1)",
+        "url": "https://open.spotify.com/album/1ybO61ut249vWI2ti1CH3A"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Thin Air",
+      "url": "https://open.spotify.com/track/5nc5W9U4q8e4HEW84ycjNm"
+    },
+    {
+      "added_at": "2026-04-04 08:48:21",
+      "album": {
+        "name": "Afterhours: Cinematic Techno (Vol. 1)",
+        "url": "https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "The Room I Painted Over",
+      "url": "https://open.spotify.com/track/4l71PedTVFhblTju2ic9j3"
+    },
+    {
+      "added_at": "2026-04-04 08:24:57",
+      "album": {
+        "name": "Afterhours: Cinematic Techno (Vol. 1)",
+        "url": "https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "Jackalope",
+      "url": "https://open.spotify.com/track/3Ic07fMURwPxoL6t6qhFjl"
+    },
+    {
+      "added_at": "2026-04-04 08:13:45",
+      "album": {
+        "name": "Ethereal Escape: Dreamy & Atmospheric (Vol. 1)",
+        "url": "https://open.spotify.com/album/1ybO61ut249vWI2ti1CH3A"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Hairline Fracture",
+      "url": "https://open.spotify.com/track/7HsKE5KCoDBSZYbi8EAH7f"
+    },
+    {
+      "added_at": "2026-04-04 07:44:51",
+      "album": {
+        "name": "Neon Nights: Late Night Drive Music (Vol. 1)",
+        "url": "https://open.spotify.com/album/0LrdRMztCrZRHNbe6W2k1T"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 317080,
+      "name": "Static on the Horizon",
+      "url": "https://open.spotify.com/track/4qLmyed4mUGKvlJ17WNd8G"
+    },
+    {
+      "added_at": "2026-04-04 07:42:47",
+      "album": {
+        "name": "Zenith",
+        "url": "https://open.spotify.com/album/6W0vPRoGAzqspqxdtFgEnM"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Zenith",
+      "url": "https://open.spotify.com/track/6dMIdroeAo63DjzxjNlw9D"
+    },
+    {
+      "added_at": "2026-04-04 07:28:55",
+      "album": {
+        "name": "Symphonic house",
+        "url": "https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 223809,
+      "name": "No me Veas Asi",
+      "url": "https://open.spotify.com/track/3zKqKfDQuWR7vMkm5s8f8K"
+    },
+    {
+      "added_at": "2026-04-04 07:09:29",
+      "album": {
+        "name": "Neon Nights: Late Night Drive Music (Vol. 1)",
+        "url": "https://open.spotify.com/album/0LrdRMztCrZRHNbe6W2k1T"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 262280,
+      "name": "Glass Steps",
+      "url": "https://open.spotify.com/track/5PhBZW0u3HGPBKXQTgpYM0"
+    },
+    {
+      "added_at": "2026-04-04 06:46:37",
+      "album": {
+        "name": "Ethereal Escape: Dreamy & Atmospheric (Vol. 1)",
+        "url": "https://open.spotify.com/album/1ybO61ut249vWI2ti1CH3A"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "Wrapper on the Wire",
+      "url": "https://open.spotify.com/track/0lSiyNMqHyU7UzTC1T6IC1"
+    },
+    {
+      "added_at": "2026-04-04 06:44:00",
+      "album": {
+        "name": "Symphonic house",
+        "url": "https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 252618,
+      "name": "Malva el Amanecer",
+      "url": "https://open.spotify.com/track/58B38HxJJg7bFTavGDoT1N"
+    },
+    {
+      "added_at": "2026-04-04 05:52:00",
+      "album": {
+        "name": "Symphonic house",
+        "url": "https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 321639,
+      "name": "Luces al Amanecer",
+      "url": "https://open.spotify.com/track/2CqBfcEM04TEmfhajS8t20"
+    },
+    {
+      "added_at": "2026-04-04 05:44:46",
+      "album": {
+        "name": "Afterhours: Cinematic Techno (Vol. 1)",
+        "url": "https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 268880,
+      "name": "Dead Channel",
+      "url": "https://open.spotify.com/track/2Kbyt0eL42C68RAKqMWDxE"
+    },
+    {
+      "added_at": "2026-04-04 05:19:29",
+      "album": {
+        "name": "Ethereal Escape: Dreamy & Atmospheric (Vol. 1)",
+        "url": "https://open.spotify.com/album/1ybO61ut249vWI2ti1CH3A"
+      },
+      "artists": [
+        {
+          "name": "Audio Horizon",
+          "url": "https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "Grocery Bag Ribs",
+      "url": "https://open.spotify.com/track/2vKHqjoaYTV7qEVOLZSW3F"
+    },
     {
       "added_at": "2026-04-03 20:04:16",
       "album": {

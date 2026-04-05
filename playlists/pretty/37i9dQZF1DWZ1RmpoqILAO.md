@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > you met me at a very indie twang time in my life..\. Sluice on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,103 likes - 151 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,128 likes - 151 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

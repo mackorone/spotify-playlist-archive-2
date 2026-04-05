@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 701 songs - 1 day 21 hr 44 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 704 songs - 1 day 21 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -709,5 +709,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 699 | [Ur](https://open.spotify.com/track/7sg9ToL94GAiksETi5GZGz) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:55 |
 | 700 | [Opening Night](https://open.spotify.com/track/7kdgWMeO6IBEvDMbfLYShG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:19 |
 | 701 | [cowboy\-3.com](https://open.spotify.com/track/72BXuFsvDf6J8jngG8sLXR) | [Sam Weber](https://open.spotify.com/artist/5S7A3k8YvGhc78LKeqe8gl) | [Shape Confused Cowboy Be You](https://open.spotify.com/album/3StXqvVFi65vodaxP8g3L2) | 3:37 |
+| 702 | [The Fall](https://open.spotify.com/track/3kMUw8BxwpzZWKSszhwuNh) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [POMPEII // UTILITY](https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR) | 1:36 |
+| 703 | [New Romantics](https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe Edition\)](https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR) | 3:50 |
+| 704 | [Come Back Home](https://open.spotify.com/track/1LaPSXV3r45kFKts3uLc70) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Internet Killed The Neighborhood](https://open.spotify.com/album/4Yaz8lXm3PIdnXrD652wxD) | 3:26 |
 
-Snapshot ID: `AAAI3lzFrXSHbHbXpPIcPFq+vwqyzJNK`
+Snapshot ID: `AAAI4jz2T0K7t7AUyTUVdieTGXbNN1XE`

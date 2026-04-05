@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Blake Whiten
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,160 likes - 199 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,216 likes - 199 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 198 | [Dead Man Walking](https://open.spotify.com/track/3nUGlvMaBuv8wJhAPuGvW7) | [Sam Donald](https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs) | [Dead Man Walking](https://open.spotify.com/album/5ixUf4Nc4Lxs2rm47uM7Ej) | 3:33 |
 | 199 | [Walking Contradiction](https://open.spotify.com/track/3shCfA0NSDuKW1W95IYi7B) | [Zoe Clark](https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3) | [Walking Contradiction](https://open.spotify.com/album/06ogBxB9mIslCaXsRp4K2H) | 2:42 |
 
-Snapshot ID: `AAAAAIX/6dQzOr2yI5O0tnbpoe1usDbj`
+Snapshot ID: `AAAAAAXv8YiKzPFuVLBQDGZBAuXED7Rt`

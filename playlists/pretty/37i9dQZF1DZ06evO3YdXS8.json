@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 642655,
+  "num_followers": 642684,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac2xgAAAAAAkjJNCRMg+fJN0RzM4vFFc",
+  "snapshot_id": "ac8DAAAAAACaBpeFVqSXdm03hWunKIf4",
   "tracks": [
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena LIVE",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+        "name": "Selena LIVE (Remastered 2026)",
+        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 413986,
-      "name": "La Carcacha/Besitos - Live",
-      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
+      "duration_ms": 584429,
+      "name": "Como La Flor/Baila Esta Cumbia - Live/Remastered 2026",
+      "url": "https://open.spotify.com/track/6SXXFYCKW2kjxWEuFyuEdR"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreaming Of You (30th Anniversary Remastered 2025)",
-        "url": "https://open.spotify.com/album/7IqcpnZ4ciGSG0ANY7AvcT"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 264540,
-      "name": "Captive Heart - 30th Anniversary Remastered 2025",
-      "url": "https://open.spotify.com/track/4RnBZwAPWMMV4cEW3T4Wzw"
+      "duration_ms": 263933,
+      "name": "Captive Heart",
+      "url": "https://open.spotify.com/track/7btQwPwo5ML6RRtrELNWio"
     }
   ],
   "unique_name": "This Is Selena",

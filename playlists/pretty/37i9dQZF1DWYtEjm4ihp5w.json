@@ -1,12 +1,12 @@
 {
   "description": "Cover: Shobee",
-  "num_followers": 378186,
+  "num_followers": 378234,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIx0rXzKcPT+qp1ny3p4lYt4FRS4",
+  "snapshot_id": "AAAAAMtNlYQQwvuLKJ3v9ebLMUcekbj5",
   "tracks": [
     {
       "added_at": "2026-03-31 11:48:51",
@@ -111,22 +111,22 @@
     {
       "added_at": "2026-03-31 11:48:51",
       "album": {
-        "name": "L'adresse",
-        "url": "https://open.spotify.com/album/186lJPIiwQ6wsKxIHRtNgN"
+        "name": "MA VIDA",
+        "url": "https://open.spotify.com/album/23Vxk3PsuTx4JgYutJPCR9"
       },
       "artists": [
         {
-          "name": "Abduh",
-          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+          "name": "21 Tach",
+          "url": "https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc"
         },
         {
-          "name": "Najm",
-          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
         }
       ],
-      "duration_ms": 183475,
-      "name": "L'adresse",
-      "url": "https://open.spotify.com/track/2JyZg2ZTWewdYavDVETj1I"
+      "duration_ms": 201904,
+      "name": "MA VIDA",
+      "url": "https://open.spotify.com/track/30clDmIaXuBpW242YnPIWr"
     },
     {
       "added_at": "2026-03-31 11:48:51",
@@ -181,24 +181,20 @@
       "url": "https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E"
     },
     {
-      "added_at": "2026-03-31 11:48:51",
+      "added_at": "2026-04-04 14:50:03",
       "album": {
-        "name": "boh\u00e8me",
-        "url": "https://open.spotify.com/album/6jsBeOOVVhPyGhph1KngmS"
+        "name": "MOVETA",
+        "url": "https://open.spotify.com/album/7oPdq0spIZzvMv8EoTC7A1"
       },
       "artists": [
         {
           "name": "ONZY",
           "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
-        },
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 174000,
-      "name": "boh\u00e8me",
-      "url": "https://open.spotify.com/track/2cUoF6XU7X7pXVYJ8bHaxX"
+      "duration_ms": 234718,
+      "name": "Uber Driver",
+      "url": "https://open.spotify.com/track/5Sz23m2mG79tygWLURPjTC"
     },
     {
       "added_at": "2026-03-31 11:48:51",
@@ -215,26 +211,6 @@
       "duration_ms": 148260,
       "name": "GOD DAYM",
       "url": "https://open.spotify.com/track/3Pd9OfLtlGKdXVgXHO6ldN"
-    },
-    {
-      "added_at": "2026-03-31 11:48:51",
-      "album": {
-        "name": "MA VIDA",
-        "url": "https://open.spotify.com/album/23Vxk3PsuTx4JgYutJPCR9"
-      },
-      "artists": [
-        {
-          "name": "21 Tach",
-          "url": "https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc"
-        },
-        {
-          "name": "LFERDA",
-          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "MA VIDA",
-      "url": "https://open.spotify.com/track/30clDmIaXuBpW242YnPIWr"
     },
     {
       "added_at": "2026-03-31 11:48:51",
@@ -307,6 +283,26 @@
       "duration_ms": 159635,
       "name": "INSOMNIA HOTEL",
       "url": "https://open.spotify.com/track/6AdlRsXVF7FppB7d02xfFm"
+    },
+    {
+      "added_at": "2026-03-31 11:48:51",
+      "album": {
+        "name": "boh\u00e8me",
+        "url": "https://open.spotify.com/album/6jsBeOOVVhPyGhph1KngmS"
+      },
+      "artists": [
+        {
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+        },
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "boh\u00e8me",
+      "url": "https://open.spotify.com/track/2cUoF6XU7X7pXVYJ8bHaxX"
     },
     {
       "added_at": "2026-03-31 11:48:51",

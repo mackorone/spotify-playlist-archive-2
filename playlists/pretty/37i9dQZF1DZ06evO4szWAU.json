@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 101839,
+  "num_followers": 101895,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac2xgAAAAAAxov1Tyb2nB/Z3MnsEpkNQ",
+  "snapshot_id": "ac8DAAAAAAAENRY2Nb2nAcKC6BMpld3d",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 308693,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "There Goes The Neighborhood (Remastered 2026)",
-        "url": "https://open.spotify.com/album/6SlSjJv2ZUt06Nc5zcrSF1"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Mon Rivera",
-          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
-        }
-      ],
-      "duration_ms": 197571,
-      "name": "Baila Mi Bomba - Remastered 2026",
-      "url": "https://open.spotify.com/track/5trevqPpm1cbUosp5vtpkp"
     },
     {
       "added_at": null,
@@ -987,6 +967,30 @@
       "duration_ms": 420666,
       "name": "Tibur\u00f3n",
       "url": "https://open.spotify.com/track/7nbzvThgq44C1X56D4RZuL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Good, The Bad, And The Ugly",
+        "url": "https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "duration_ms": 308520,
+      "name": "G\u00fcaracha",
+      "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
     }
   ],
   "unique_name": "This Is Willie Col\u00f3n",

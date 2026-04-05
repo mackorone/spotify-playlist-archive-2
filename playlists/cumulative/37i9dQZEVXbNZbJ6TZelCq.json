@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 132892,
       "name": "Aladam",
       "url": "https://open.spotify.com/track/0M1WfCxDACdVUqPYk4nCNf"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 147038,
       "name": "Ale ale",
       "url": "https://open.spotify.com/track/5pClmo7Su4lXAzDOE5MSPA"
@@ -6282,7 +6282,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 122530,
       "name": "BOT",
       "url": "https://open.spotify.com/track/3fd1UJwCkgGhAojjavHEjg"
@@ -13048,7 +13048,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -13688,7 +13688,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 102000,
       "name": "E TA LA VIA",
       "url": "https://open.spotify.com/track/1QjEQL1vUyI4FSOpjyYy5S"
@@ -18752,7 +18752,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 139008,
       "name": "Hai tu Maria",
       "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
@@ -21580,7 +21580,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 261309,
       "name": "Info de la Napoli",
       "url": "https://open.spotify.com/track/3LPqJm3IWTzb55vaxhtkHV"
@@ -22330,7 +22330,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -29506,7 +29506,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 179477,
       "name": "NEW YORK",
       "url": "https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD"
@@ -30262,7 +30262,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 131368,
       "name": "Nu m\u0103 las\u0103 \u00een pace",
       "url": "https://open.spotify.com/track/4nswoiGHjYF3ufTPpr5SC9"
@@ -35014,7 +35014,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 139236,
       "name": "Putaria",
       "url": "https://open.spotify.com/track/5qLHgcv6NujmTJkNpSdec7"
@@ -35830,7 +35830,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 157021,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
@@ -42799,6 +42799,24 @@
     },
     {
       "album": {
+        "name": "Te plac, te pup",
+        "url": "https://open.spotify.com/album/6GlmF4s4bUgYnpp5x5Jbxs"
+      },
+      "artists": [
+        {
+          "name": "EFRA",
+          "url": "https://open.spotify.com/artist/0XgqZLH6hcDOTlOt6v4v3w"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Te plac, te pup",
+      "url": "https://open.spotify.com/track/57UeZZXteJZVp22stEyS4a"
+    },
+    {
+      "album": {
         "name": "TRAUME & CO\u0218MARURI",
         "url": "https://open.spotify.com/album/4sCBowHBMloinktllMpNn2"
       },
@@ -47092,7 +47110,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-05",
       "duration_ms": 196236,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/0X2G0m6hIXc0CohTLM92MJ"

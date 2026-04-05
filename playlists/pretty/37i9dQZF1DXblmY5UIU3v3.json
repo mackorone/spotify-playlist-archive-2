@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 503376,
+  "num_followers": 503436,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-10-10 04:00:28",
       "album": {
+        "name": "Ethnic",
+        "url": "https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj"
+      },
+      "artists": [
+        {
+          "name": "SINDICVT",
+          "url": "https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "Ethnic",
+      "url": "https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq"
+    },
+    {
+      "added_at": "2025-10-10 04:00:28",
+      "album": {
         "name": "Sztoj Pa Moru",
         "url": "https://open.spotify.com/album/6jqIGpQn1A00DdYut4vCNs"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 138782,
       "name": "Sztoj Pa Moru",
       "url": "https://open.spotify.com/track/3BHe1jnaW3hocrfMqytTP2"
-    },
-    {
-      "added_at": "2025-10-10 04:00:28",
-      "album": {
-        "name": "Ethnic",
-        "url": "https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj"
-      },
-      "artists": [
-        {
-          "name": "SINDICVT",
-          "url": "https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "Ethnic",
-      "url": "https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq"
     },
     {
       "added_at": "2025-10-10 04:00:28",

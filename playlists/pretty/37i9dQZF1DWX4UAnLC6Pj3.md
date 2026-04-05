@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! La Adictiva & Julio Preciado 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,642 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,685 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 78 | [Por Amarte Así](https://open.spotify.com/track/3r2CRSr3taDGieaONQJ1HT) | [Samuel Sarmiento](https://open.spotify.com/artist/07vA9azUbh60JWoiJsWAnR), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Por Amarte Así](https://open.spotify.com/album/02qvlGPV2ZH3TUV7dzKKhi) | 3:39 |
 | 79 | [Las Tres Vueltas](https://open.spotify.com/track/3oYMhtXh5wfMR4XpgX46RY) | [Banda Cruz de Oro](https://open.spotify.com/artist/0iHljO1e4ZiVTPIqtnUBrK), [Los Mentados De Culiacán](https://open.spotify.com/artist/20ZHlqVa1Q9FHE7Iz1R8xV) | [Las Tres Vueltas](https://open.spotify.com/album/4dhbOkmM9mHDD9zvn8ZQ7r) | 2:20 |
 | 80 | [Ausencia Eterna](https://open.spotify.com/track/5vIQ3OpHYWtFfwzjoLovdZ) | [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6), [Banda 4seis](https://open.spotify.com/artist/3QmtS5gGtW3H3JslswTJjX) | [Ausencia Eterna](https://open.spotify.com/album/2QG1f8uOeQvRbRJ46eM7Bp) | 4:24 |
-| 81 | [Mi Único Camino](https://open.spotify.com/track/6iJuKL7CZGJXAAv56HbH8q) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Mi Único Camino](https://open.spotify.com/album/4BqEDNUq6ZvSR3NpSMe8Jz) | 2:30 |
-| 82 | [Los Que Amo](https://open.spotify.com/track/09AIKcdNoyFIiM5hQ3p4aK) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Los Que Amo](https://open.spotify.com/album/1Rsjp6wljeukexzkdP1plW) | 3:26 |
+| 81 | [Los Que Amo](https://open.spotify.com/track/09AIKcdNoyFIiM5hQ3p4aK) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Los Que Amo](https://open.spotify.com/album/1Rsjp6wljeukexzkdP1plW) | 3:26 |
+| 82 | [Mi Único Camino](https://open.spotify.com/track/6iJuKL7CZGJXAAv56HbH8q) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Mi Único Camino](https://open.spotify.com/album/4BqEDNUq6ZvSR3NpSMe8Jz) | 2:30 |
 | 83 | [Tu Regalo Se Quedó En El Arbolito](https://open.spotify.com/track/4T4SXrmgimvABFD409RDRa) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Tu Regalo Se Quedó En El Arbolito](https://open.spotify.com/album/3Vonb9E8aPRllPyWGsoe8j) | 4:03 |
 | 84 | [Lo Pongo En Tus Manos](https://open.spotify.com/track/56HD6F1ISgG4wJ2bFxPVyx) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Lo Pongo En Tus Manos](https://open.spotify.com/album/4NBmgO6hYiOcBKmiZyaYWy) | 3:14 |
 | 85 | [Si Tan Malo Soy](https://open.spotify.com/track/3oeFWwFuzfQvK8iXIaHB90) | [DÁMASO](https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug) | [Si Tan Malo Soy](https://open.spotify.com/album/2VoD8cShtEGZy8qRpoYU0Z) | 3:24 |

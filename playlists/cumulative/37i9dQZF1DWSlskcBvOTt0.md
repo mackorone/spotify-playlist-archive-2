@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,097 songs - 3 day 18 hr 16 min
+1,098 songs - 3 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Citadelle](https://open.spotify.com/track/4rcj9dtT3uK0XEYWYI74dU) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [Citadelle](https://open.spotify.com/album/0DizSiMxcUKUPaZ09BmAXi) | 3:56 | 2024-09-27 | 2025-04-08 |
 | [Clareou](https://open.spotify.com/track/1Lg2aS1Hl1sKpfEoClcder) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Tato](https://open.spotify.com/artist/6qx1m0fSdGssJ6o8Wn6w0e), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Clareou](https://open.spotify.com/album/5SuLjjAbyRUaaaIuB5wZmv) | 3:02 | 2024-04-19 | 2025-01-11 |
 | [Close To You \- Meera \(NO\) Remix](https://open.spotify.com/track/5FMGzGnrdaXUgLmo91orI1) | [Samer Soltan](https://open.spotify.com/artist/5cOdeiFBqRyXSDUJbnInuX), [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Close To You \(Meera \(NO\) Remix\)](https://open.spotify.com/album/2JiDYxoDS7uopAESaih6Ov) | 8:25 | 2024-07-05 | 2024-08-12 |
+| [Closer](https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Closer](https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9) | 3:16 | 2026-04-03 |  |
 | [Closer \(feat\. Bantu\)](https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Closer \(feat\. Bantu\)](https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl) | 3:01 | 2024-08-16 | 2025-08-16 |
 | [Closer Than Ever \- Arodes Remix](https://open.spotify.com/track/3jeFImBk9dH4GawbHaw3Nn) | [Imbermind](https://open.spotify.com/artist/2tWWexhcLvL1CN2fswv3xt), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Closer Than Ever \(Arodes Remix\)](https://open.spotify.com/album/202837bwedJn5vTu0bC3ny) | 3:42 | 2026-01-09 | 2026-03-07 |
 | [Closer To The Floor](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Closer To The Floor](https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4) | 2:42 | 2025-04-25 |  |
@@ -578,7 +579,7 @@
 | [Made For Me \- HoneyLuv AfroLuv Remix](https://open.spotify.com/track/5yY3eGexmfm4rxuWXEibn6) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Made For Me \(HoneyLuv AfroLuv Remix\)](https://open.spotify.com/album/3bZFsyIthTUca3rBsVgHcy) | 3:48 | 2024-10-04 | 2025-01-11 |
 | [Madison](https://open.spotify.com/track/7I3lNfFc4kqfTFqugMkoH2) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Madison](https://open.spotify.com/album/0RdOwSB4S1a8aobCCcM1CD) | 3:36 | 2024-04-12 | 2024-06-01 |
 | [Madre Tierra](https://open.spotify.com/track/7fTCXJjxY8Yds4QyFpJQOa) | [Vite](https://open.spotify.com/artist/6xDzE299teWXHoW3ZuCIHX), [Hole Box](https://open.spotify.com/artist/7FPuNa70lwxm2NqDqkzTs3) | [Marea](https://open.spotify.com/album/6PD6FEDiZVVMOUhFnNw3kZ) | 6:30 | 2021-05-07 | 2022-07-16 |
-| [Mafwe \(with Kwando's Mafwe\)](https://open.spotify.com/track/2GpcdHzc7FZC5wtA7BWe4C) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [ROADS Vol.3](https://open.spotify.com/album/7u5S5R3qPNwdjJpWNCuUkF) | 2:43 | 2025-12-12 |  |
+| [Mafwe \(with Kwando's Mafwe\)](https://open.spotify.com/track/2GpcdHzc7FZC5wtA7BWe4C) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [ROADS Vol.3](https://open.spotify.com/album/7u5S5R3qPNwdjJpWNCuUkF) | 2:43 | 2025-12-12 | 2026-04-05 |
 | [Magia](https://open.spotify.com/track/2ZlpJCddUzr7873198nvXE) | [Chiari](https://open.spotify.com/artist/4JFbDtRJCJ4jQh25Jg54VX) | [Hoom Side of the Moon, Vol\. 01](https://open.spotify.com/album/7AZe7O2pUIGisJVcuARftO) | 7:02 | 2021-05-07 | 2022-07-20 |
 | [Magic](https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Astrø](https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Finding Home](https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk) | 5:00 | 2025-09-05 |  |
 | [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 | 2024-05-17 | 2025-01-14 |

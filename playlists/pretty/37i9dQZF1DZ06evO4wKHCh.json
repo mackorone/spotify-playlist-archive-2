@@ -1,13 +1,29 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 12066,
+  "num_followers": 12094,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac2xgAAAAADmN3Sq2Yt+K+j6crFtfjui",
+  "snapshot_id": "ac8DAAAAAAAZz2Kfa4OckrHDRVhOxHbx",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 184788,
+      "name": "Night at the Opera",
+      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
+    },
     {
       "added_at": null,
       "album": {
@@ -431,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Talk Talk",
-        "url": "https://open.spotify.com/album/4w7lV4bRkdPxEfkv3CGEbo"
+        "name": "Scatterbrain (Deluxe)",
+        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
       },
       "artists": [
         {
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 195946,
-      "name": "Talk Talk Talk",
-      "url": "https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk"
+      "duration_ms": 119900,
+      "name": "Human Being - Demo",
+      "url": "https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT"
     },
     {
       "added_at": null,
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain (Deluxe)",
-        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
+        "name": "Talk Talk Talk",
+        "url": "https://open.spotify.com/album/4w7lV4bRkdPxEfkv3CGEbo"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 119900,
-      "name": "Human Being - Demo",
-      "url": "https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT"
+      "duration_ms": 195946,
+      "name": "Talk Talk Talk",
+      "url": "https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk"
     },
     {
       "added_at": null,

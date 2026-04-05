@@ -6,7 +6,7 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAOpuy5fYXy3EqJVdxxZtA7ROWFGUfB",
+  "snapshot_id": "AAAOsQOz0tOGNXQG3MwzfDnRbImL7yyw",
   "tracks": [
     {
       "added_at": "2026-03-11 10:05:42",
@@ -187,38 +187,6 @@
       "duration_ms": 386350,
       "name": "Voidbound // Toward the Infinite Silence",
       "url": "https://open.spotify.com/track/50xtUVDCFqzTNnquM31Y3N"
-    },
-    {
-      "added_at": "2025-11-02 19:57:42",
-      "album": {
-        "name": "Echoes of a Dreamscape",
-        "url": "https://open.spotify.com/album/1AIBf5YhsX2yfl4UdOYxT6"
-      },
-      "artists": [
-        {
-          "name": "Nightingale News",
-          "url": "https://open.spotify.com/artist/197QL7L2MIBrlqDrxp5V99"
-        }
-      ],
-      "duration_ms": 322483,
-      "name": "Tales of Illusion ad Truth",
-      "url": "https://open.spotify.com/track/32swzSSwkfqriDTMWyoHKy"
-    },
-    {
-      "added_at": "2025-11-02 19:56:56",
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/1lY64IUTTZg7BLfAPpIevO"
-      },
-      "artists": [
-        {
-          "name": "Tiszavirag",
-          "url": "https://open.spotify.com/artist/2wSUuggTn3dmDSjR5kLhsR"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/2XNu31N13CPRtrlzLRzdPq"
     },
     {
       "added_at": "2025-10-05 18:18:21",
@@ -449,22 +417,6 @@
       "url": "https://open.spotify.com/track/4FjhfRrrORgaP854fQG9q3"
     },
     {
-      "added_at": "2026-02-06 14:58:54",
-      "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/3UhghdeJ61tvS5CBACFWi5"
-      },
-      "artists": [
-        {
-          "name": "#R!sK",
-          "url": "https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q"
-        }
-      ],
-      "duration_ms": 187246,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/0BjA7kC1AjbGuoNV1xcvPS"
-    },
-    {
       "added_at": "2025-05-04 12:14:33",
       "album": {
         "name": "Better Not Be Late",
@@ -529,38 +481,6 @@
       "url": "https://open.spotify.com/track/56xJGUcYHNBynPr5ixT0B5"
     },
     {
-      "added_at": "2026-02-06 14:59:17",
-      "album": {
-        "name": "A Ghost",
-        "url": "https://open.spotify.com/album/1Q7KenxMx2VIjtfAIoZh1R"
-      },
-      "artists": [
-        {
-          "name": "#R!sK",
-          "url": "https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "A Ghost",
-      "url": "https://open.spotify.com/track/3iqVEqY5MhqWWnefad3AAr"
-    },
-    {
-      "added_at": "2026-02-06 14:59:46",
-      "album": {
-        "name": "What I Know",
-        "url": "https://open.spotify.com/album/0TtMVPeq1nGa2aSPUxz7SS"
-      },
-      "artists": [
-        {
-          "name": "#R!sK",
-          "url": "https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "What I Know",
-      "url": "https://open.spotify.com/track/7hAzub4kl8eFOLBOv46JKU"
-    },
-    {
       "added_at": "2025-05-04 12:13:21",
       "album": {
         "name": "Champagne and Wine",
@@ -591,22 +511,6 @@
       "duration_ms": 237200,
       "name": "My Black Cat",
       "url": "https://open.spotify.com/track/1W7tQ70CJsbIpS0jTERKdM"
-    },
-    {
-      "added_at": "2026-02-06 15:01:35",
-      "album": {
-        "name": "The Puppeteer",
-        "url": "https://open.spotify.com/album/5TsaiTsFKvWIEWa2VTsABH"
-      },
-      "artists": [
-        {
-          "name": "Aged Beyond Decay",
-          "url": "https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb"
-        }
-      ],
-      "duration_ms": 228778,
-      "name": "The Puppeteer",
-      "url": "https://open.spotify.com/track/1EnSsLEzo4LuQRJ12kl9kn"
     },
     {
       "added_at": "2026-01-15 08:27:54",
@@ -671,6 +575,86 @@
       "duration_ms": 245200,
       "name": "Broken",
       "url": "https://open.spotify.com/track/6clNv6p0979OQHteQotpbd"
+    },
+    {
+      "added_at": "2026-04-04 10:23:34",
+      "album": {
+        "name": "En Fin",
+        "url": "https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8"
+      },
+      "artists": [
+        {
+          "name": "Nico Tallac",
+          "url": "https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT"
+        }
+      ],
+      "duration_ms": 312272,
+      "name": "La Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/0bWu8JSfxwEJMGL91qnWK3"
+    },
+    {
+      "added_at": "2026-04-04 10:23:42",
+      "album": {
+        "name": "En Fin",
+        "url": "https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8"
+      },
+      "artists": [
+        {
+          "name": "Nico Tallac",
+          "url": "https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh"
+    },
+    {
+      "added_at": "2026-04-04 10:27:24",
+      "album": {
+        "name": "Reformat",
+        "url": "https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn"
+      },
+      "artists": [
+        {
+          "name": "Mumbler (UK)",
+          "url": "https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j"
+        }
+      ],
+      "duration_ms": 148946,
+      "name": "Neanderthal",
+      "url": "https://open.spotify.com/track/5RTMnfJSu8lRZOZcKSgQde"
+    },
+    {
+      "added_at": "2026-04-04 10:28:02",
+      "album": {
+        "name": "Reformat",
+        "url": "https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn"
+      },
+      "artists": [
+        {
+          "name": "Mumbler (UK)",
+          "url": "https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "The Big Machine",
+      "url": "https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df"
+    },
+    {
+      "added_at": "2026-04-04 11:20:20",
+      "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex"
+      },
+      "artists": [
+        {
+          "name": "Decade",
+          "url": "https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf"
     }
   ],
   "unique_name": "Indie Rock",

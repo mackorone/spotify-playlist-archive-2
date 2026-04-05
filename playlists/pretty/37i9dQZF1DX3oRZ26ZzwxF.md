@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Himra
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,830 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,928 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 3 | [ASKEL GESTE](https://open.spotify.com/track/2Wzh9W7495MYrcXbiAaVkH) | [DEMENTOS](https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D) | [ASKEL GESTE](https://open.spotify.com/album/0a2Zb35LSYcFWD0XbLOzAi) | 3:15 |
 | 4 | [Djamanan](https://open.spotify.com/track/47mShCfPhEryfSvUEzVmZm) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek) | [Djamanan](https://open.spotify.com/album/5H7xOjqGNXigxGVbtapQ9L) | 3:25 |
 | 5 | [Nuit à nuit \(feat\. Genezio\)](https://open.spotify.com/track/3ZyePpKFYf1rRxqjhKXkhs) | [Paterne Maestro](https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [De Kabo à Brazza](https://open.spotify.com/album/2MpliIz6SCEjmX8CH4xHmH) | 3:12 |
-| 6 | [Skillibeng](https://open.spotify.com/track/1DGqpHO8RfgHv836tlWCEd) | [Philipayne](https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D), [Norsacce Berlusconi](https://open.spotify.com/artist/6SWyMvHN1YLZ95qwbKf26N) | [Skillibeng](https://open.spotify.com/album/4g7kjwUgiS4HcCiGdgDlLx) | 3:00 |
+| 6 | [Skillibeng](https://open.spotify.com/track/1DGqpHO8RfgHv836tlWCEd) | [Philipayne](https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D), [Norsacce Berlusconi](https://open.spotify.com/artist/6SWyMvHN1YLZ95qwbKf26N) | [Skillibeng](https://open.spotify.com/album/4g7kjwUgiS4HcCiGdgDlLx) | 2:57 |
 | 7 | [Pression](https://open.spotify.com/track/57KmGF8jPwAiSXebjpLOC7) | [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV) | [INVASION TOME II](https://open.spotify.com/album/7uG8F9BVGaYGeAHZ2OqQnX) | 2:06 |
 | 8 | [10](https://open.spotify.com/track/1pciAPsOnZALtJAJx3RhjD) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [AFRO\-N\-TCHAM 2](https://open.spotify.com/album/0aTEIBSkouiQnHANZUekbg) | 3:04 |
 | 9 | [En Bri](https://open.spotify.com/track/2hFMzkCv3udvyL9jXj5c82) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Juventus Nueva Era](https://open.spotify.com/album/40IUUa2awdvlwpkChxGNCw) | 2:48 |

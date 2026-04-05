@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: adieu
 
-3,742 songs - 9 day 22 hr 28 min
+3,743 songs - 9 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,6 +668,7 @@
 | [Girls Don't Cry](https://open.spotify.com/track/0zTK07FEVTVvmF0PF3Bp9k) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Girls Don't Cry](https://open.spotify.com/album/7mJx4L9dG3j0JmkX6TqwSv) | 3:27 | 2024-12-04 | 2025-01-08 |
 | [Gitai](https://open.spotify.com/track/10UqUYADXNPn7ycjvH2R6A) | [お風呂でピーナッツ](https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4) | [Gitai](https://open.spotify.com/album/0COJzOjpXjcBhQPZFgiRUx) | 3:02 | 2024-02-06 | 2024-02-14 |
 | [Give in](https://open.spotify.com/track/7qmM6bOZe3f3QzRvc5p0pT) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Give in](https://open.spotify.com/album/3LZqLkC948fJlfUv3eiK8H) | 4:06 | 2025-10-14 | 2025-10-22 |
+| [Glitch\*](https://open.spotify.com/track/5kM7xgKZ76UgdjRTBdiy8w) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Glitch\*](https://open.spotify.com/album/1JVUgnXpPfiBffquWH53k7) | 2:43 | 2026-03-31 |  |
 | [Go back](https://open.spotify.com/track/1ftGsEABSxkmsOZdASmGfU) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5XjQlyBNjNJnnpqG62tgeb) | 3:52 | 2023-02-21 | 2023-02-23 |
 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-21 | 2023-03-29 |
 | [Go Round feat.Daoko](https://open.spotify.com/track/7BSLbYEo3dZAFSRzpJqT3X) | [KizunaAI](https://open.spotify.com/artist/0PBygVazIp5XN6sBMSa14Y), [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [Homecoming](https://open.spotify.com/album/1DifKQp5ypPbb6xxpWsG1R) | 3:07 | 2025-09-16 | 2025-09-24 |
@@ -1798,7 +1799,7 @@
 | [Sunflower](https://open.spotify.com/track/3K0AahH3MARcGs72ifbdM1) | [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr) | [Sunflower](https://open.spotify.com/album/6dTt2FOD7lA7MJKlzp4iCR) | 3:32 | 2023-10-17 | 2023-10-25 |
 | [Sunny Day](https://open.spotify.com/track/1FIh83uwfPnLFMyXxLcgwd) | [ASOUND](https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk) | [Lovely Freak](https://open.spotify.com/album/169i1oYUigI1O81pKl5Csx) | 4:13 | 2024-07-25 | 2024-07-31 |
 | [Sunny Side Egg](https://open.spotify.com/track/3h8K0h8I8GjCn1VzCdv9eN) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Sunny Side Egg](https://open.spotify.com/album/4DUcRpWvxNq5btNZ9FH9gU) | 3:39 | 2024-04-23 | 2024-05-01 |
-| [sunrise](https://open.spotify.com/track/5wEswwGWtlGcmdn1OMRAAR) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [sunrise](https://open.spotify.com/album/5t7qKSYFumwa6D1b5gkqde) | 4:30 | 2026-02-24 |  |
+| [sunrise](https://open.spotify.com/track/5wEswwGWtlGcmdn1OMRAAR) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [sunrise](https://open.spotify.com/album/5t7qKSYFumwa6D1b5gkqde) | 4:30 | 2026-02-24 | 2026-04-05 |
 | [sunset summer cruisin' \- original mix](https://open.spotify.com/track/2DH2GH6Ch884lN3ZDllpgQ) | [Nagie Lane](https://open.spotify.com/artist/1NSPGP2G2k6pZFFZERvOwC) | [sunset summer cruisin' \(original mix\)](https://open.spotify.com/album/0OLClaADVMyXjFFb8FSTKQ) | 3:47 | 2025-06-11 | 2025-06-18 |
 | [sunshine](https://open.spotify.com/track/1ekTOhefDvMDd0pfeBzePe) | [SAKURA FUJIWARA](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [sunshine](https://open.spotify.com/album/4lL6BEOObcD162mpuaegOD) | 3:41 | 2024-01-18 | 2024-01-24 |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-09-27 | 2023-11-16 |

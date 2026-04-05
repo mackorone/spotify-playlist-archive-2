@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-487 songs - 1 day 1 hr 44 min
+488 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [All I Need](https://open.spotify.com/track/5uMCXikeX6Z8p10rtYgop8) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [All I Need](https://open.spotify.com/album/3eGLkWKJMU6PFxE6eEq6W5) | 2:18 | 2021-10-29 | 2022-03-19 |
 | [All Over Again \- Radio\-Edit](https://open.spotify.com/track/49MzBQ3UnIZNrF3fvcWOCm) | [Steve Norton](https://open.spotify.com/artist/3PCnJPxTg6LT4q4vWXrxsL) | [All Over Again \(Radio\-Edit\)](https://open.spotify.com/album/3WrsHgA8e0LpvXplzVYKKU) | 2:26 | 2022-02-28 | 2022-07-03 |
 | [All This Time](https://open.spotify.com/track/0xV1SugUe8sTfoscbx4sp8) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [All This Time](https://open.spotify.com/album/0lEqL5mhY7PN3WWpb6mHXx) | 2:20 | 2023-03-31 | 2024-06-09 |
-| [Angel of Mine](https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Angel of Mine](https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf) | 2:42 | 2025-02-14 |  |
+| [Angel of Mine](https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Angel of Mine](https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf) | 2:42 | 2025-02-14 | 2026-04-05 |
 | [Ani Kuni \- Edit](https://open.spotify.com/track/6BhwbBtaXivvPHmHCZmxkT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ani Kuni](https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA) | 2:49 | 2022-03-25 | 2023-03-11 |
 | [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 | 2025-06-24 |  |
 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 | 2025-04-11 |  |
@@ -76,6 +76,7 @@
 | [Casual](https://open.spotify.com/track/0WUAnBzuTyOidI96Mi8o16) | [Tom Hall](https://open.spotify.com/artist/467yXfSwNLfBmxeaTp7rQo), [Nalestar](https://open.spotify.com/artist/0Vk0t5vDLM69GHthqkKIea), [EMIAH](https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8) | [Casual](https://open.spotify.com/album/4nbm6b2X0Og5uQpzbDdYEn) | 2:36 | 2022-01-21 | 2022-01-24 |
 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 | 2023-08-25 | 2025-05-24 |
 | [Chasing Dreams](https://open.spotify.com/track/5xV7NL7wEfUurJAEnvrs1o) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Chasing Dreams](https://open.spotify.com/album/04E8MWZk6kur87dNh0Yh0w) | 2:20 | 2023-01-15 | 2023-09-11 |
+| [CHICA 305](https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CHICA 305](https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2) | 3:08 | 2026-04-03 |  |
 | [Chucks](https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Chucks](https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW) | 2:49 | 2021-10-29 | 2022-07-29 |
 | [City Of Love](https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [City Of Love](https://open.spotify.com/album/3OR26UvHzUczbMM2uWCYC0) | 2:46 | 2023-01-27 | 2023-09-09 |
 | [Clarity \- Shallou Remix](https://open.spotify.com/track/7pI6XSeaMGD7Sw8Fk2O7Rz) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity \(Shallou Remix\)](https://open.spotify.com/album/3yfwc7AqjFaRwrycDU5D1w) | 3:54 | 2022-08-02 | 2022-09-09 |

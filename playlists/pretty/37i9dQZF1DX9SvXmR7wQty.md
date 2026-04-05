@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Classe Moyenne
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,559 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,576 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 25 | [Le mentor](https://open.spotify.com/track/7s3nBEwqvALj5cbWP3OC2h) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Le mentor](https://open.spotify.com/album/2tVLPshzDAglfg4Bv3urO1) | 2:54 |
 | 26 | [L'aube](https://open.spotify.com/track/6ue04npUUbXy6RsRZszSjY) | [Geneviève Bilodeau](https://open.spotify.com/artist/0WW3y58plFwgQVmO8p2uOW) | [L'aube](https://open.spotify.com/album/5BFKfxIcIwYdVkNo95ldLk) | 3:11 |
 | 27 | [Bye Bye](https://open.spotify.com/track/21voZTmJ9CUaws5PnW8eqb) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Bye Bye](https://open.spotify.com/album/1njh9CTA7moOYkmr6BdaNl) | 2:25 |
-| 28 | [APPELLE\-MOI TARD](https://open.spotify.com/track/624RYE1uQSFLxyXoImOyTr) | [Lexotik](https://open.spotify.com/artist/7kGFkoiwiCqh6KPZfp9aa7), [Thomas Laplante](https://open.spotify.com/artist/2EpJkVB0j0lkqTaRjdT6Ze) | [APPELLE\-MOI TARD](https://open.spotify.com/album/7pX3l7FOGSbaJFlKnpBPU2) | 2:02 |
+| 28 | [APPELLE\-MOI TARD](https://open.spotify.com/track/624RYE1uQSFLxyXoImOyTr) | [Lexotik](https://open.spotify.com/artist/7kGFkoiwiCqh6KPZfp9aa7) | [APPELLE\-MOI TARD](https://open.spotify.com/album/7pX3l7FOGSbaJFlKnpBPU2) | 2:02 |
 | 29 | [L'écart du monde](https://open.spotify.com/track/0GKJRmX43xqj6h6WiVUI3T) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [L'écart du monde](https://open.spotify.com/album/7xu4TXHEEnrF101ZaCtsf7) | 2:43 |
 | 30 | [Le temps joue contre nous](https://open.spotify.com/track/2nDd5bfWoEBIhHlT3x0pDh) | [Adieu Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [Le temps joue contre nous](https://open.spotify.com/album/3HVVSrmECIxpKey48UW0Ea) | 3:33 |
 | 31 | [EXPLICIT 69](https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [REQUIEM : MIEUX QU'HIER](https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz) | 2:33 |

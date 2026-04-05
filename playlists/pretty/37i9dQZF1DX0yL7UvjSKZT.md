@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: The Brudi Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,490 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,494 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 99 | [Crossing the Junction / Deer River](https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Crossing the Junction / Deer River](https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj) | 3:38 |
 | 100 | [Blue Sky](https://open.spotify.com/track/030xRmQe8IOwWqf25TVHly) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Blue Sky](https://open.spotify.com/album/7eGiHsarofeJYs4V51ahQf) | 2:47 |
 
-Snapshot ID: `AAAAAJEdGhno4TYfsFB5XTgi8H06ola3`
+Snapshot ID: `AAAAAHIrtr7X0ULsiTA89hNMiA6/mI67`

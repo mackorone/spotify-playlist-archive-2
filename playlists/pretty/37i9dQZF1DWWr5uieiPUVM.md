@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > e aí tue, como foi o show?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546,297 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,371 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [CAM](https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [CAM](https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38) | 2:47 |
 | 55 | [FATOR DETETIVE](https://open.spotify.com/track/7eI6espPJCEzewXT74VB2m) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [Bila](https://open.spotify.com/artist/746soIdyigoh87LO1Y8KXd), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq) | [FATOR DETETIVE](https://open.spotify.com/album/0DU9AAL74JBTslyO0fgsju) | 2:41 |
 
-Snapshot ID: `AAAAAJVBrYnck2tA392eroDOgVu/nVx+`
+Snapshot ID: `AAAAALhFc/8+xxUTuEkANUW5HSqwyT7b`

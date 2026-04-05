@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: Lelowhatsgood, Uncle Ken, Moonchild Sanelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,442 likes - 79 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,524 likes - 79 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 78 | [Ziyabila](https://open.spotify.com/track/0449yPzuy5H40CmrZQkMox) | [Jabs CPT](https://open.spotify.com/artist/3pf4xkWn1Wcda9iuAaXavv), [Mr Shona](https://open.spotify.com/artist/22CRm7jgV0qdcgmpJeUFSp) | [All Good Things Album](https://open.spotify.com/album/3jKzJsrQP7rKansY4c2H8W) | 5:39 |
 | 79 | [Bekungeke](https://open.spotify.com/track/5LdwHZKeE7BkdQo3O1KU1r) | [Amatycooler](https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw) | [Bekungeke](https://open.spotify.com/album/4XSkfsk8q0CwiREuGFU9mQ) | 5:54 |
 
-Snapshot ID: `AAAAAJ3bqALv58FwUmKahGMTZSitFLxF`
+Snapshot ID: `AAAAAHk73yORQR/xqgCaMZlfiY5f2eVW`

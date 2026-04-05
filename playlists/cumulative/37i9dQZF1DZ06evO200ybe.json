@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Along In A Crowd",
+        "url": "https://open.spotify.com/album/6I9TfOGN2qv1XrkAZpMDgC"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Along In A Crowd",
+      "url": "https://open.spotify.com/track/3bb4NlMrZx2oi75KlY4TJ4"
+    },
+    {
+      "album": {
         "name": "Arbor Way",
         "url": "https://open.spotify.com/album/5kgehWQxGx18XktyTfHyQt"
       },

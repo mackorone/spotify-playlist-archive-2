@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112431,
+  "num_followers": 112432,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2026-03-20 15:09:32",
       "album": {
+        "name": "A Gente Aprende a Ser",
+        "url": "https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Versos",
+          "url": "https://open.spotify.com/artist/3R4RUXjmQuMktdO8CHCCPk"
+        },
+        {
+          "name": "Julia Costa",
+          "url": "https://open.spotify.com/artist/5aLsHlPCjfRhvBlCTLBe24"
+        }
+      ],
+      "duration_ms": 248601,
+      "name": "A Gente Aprende a Ser",
+      "url": "https://open.spotify.com/track/3Icpn3LFDFf2jKYZujlntR"
+    },
+    {
+      "added_at": "2026-03-20 15:09:32",
+      "album": {
         "name": "Amor Perfeito",
         "url": "https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK"
       },
@@ -1139,26 +1159,6 @@
     {
       "added_at": "2026-03-20 15:09:32",
       "album": {
-        "name": "A Gente Aprende a Ser",
-        "url": "https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Versos",
-          "url": "https://open.spotify.com/artist/3R4RUXjmQuMktdO8CHCCPk"
-        },
-        {
-          "name": "Julia Costa",
-          "url": "https://open.spotify.com/artist/5aLsHlPCjfRhvBlCTLBe24"
-        }
-      ],
-      "duration_ms": 248601,
-      "name": "A Gente Aprende a Ser",
-      "url": "https://open.spotify.com/track/3Icpn3LFDFf2jKYZujlntR"
-    },
-    {
-      "added_at": "2026-03-20 15:09:32",
-      "album": {
         "name": "Selo do Perd\u00e3o (Legado)",
         "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
       },
@@ -1171,6 +1171,38 @@
       "duration_ms": 250186,
       "name": "Selo do Perd\u00e3o (Legado)",
       "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
+    },
+    {
+      "added_at": "2026-03-20 15:09:32",
+      "album": {
+        "name": "Voltar",
+        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
+      },
+      "artists": [
+        {
+          "name": "Eric Cortes",
+          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
+        }
+      ],
+      "duration_ms": 256874,
+      "name": "Voltar",
+      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
+    },
+    {
+      "added_at": "2026-03-20 15:09:32",
+      "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2026-03-20 15:09:32",
@@ -1195,38 +1227,6 @@
       "duration_ms": 166530,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
-    },
-    {
-      "added_at": "2026-03-20 15:09:32",
-      "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
-    },
-    {
-      "added_at": "2026-03-20 15:09:32",
-      "album": {
-        "name": "Voltar",
-        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
-      },
-      "artists": [
-        {
-          "name": "Eric Cortes",
-          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
-        }
-      ],
-      "duration_ms": 256874,
-      "name": "Voltar",
-      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
     },
     {
       "added_at": "2026-03-20 15:09:32",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-03-20 15:09:32",
       "album": {
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/5dbCaL1z95M7V2xEU7UeVD"
+      },
+      "artists": [
+        {
+          "name": "Thiago Ramalho",
+          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
+        }
+      ],
+      "duration_ms": 209664,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/1zbNUs2cbZYBkcHmm9zxAt"
+    },
+    {
+      "added_at": "2026-03-20 15:09:32",
+      "album": {
         "name": "Reconstituir",
         "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2026-03-20 15:09:32",
       "album": {
-        "name": "Tudo em Mim",
-        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Tudo em Mim",
-      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
-    },
-    {
-      "added_at": "2026-03-20 15:09:32",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
       },
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-03-20 15:09:32",
       "album": {
+        "name": "Tudo em Mim",
+        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Tudo em Mim",
+      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
+    },
+    {
+      "added_at": "2026-03-20 15:09:32",
+      "album": {
         "name": "Acoustic Sessions, Vol. 6",
         "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 165954,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
-    },
-    {
-      "added_at": "2026-03-20 15:09:32",
-      "album": {
-        "name": "Eu Vou",
-        "url": "https://open.spotify.com/album/5dbCaL1z95M7V2xEU7UeVD"
-      },
-      "artists": [
-        {
-          "name": "Thiago Ramalho",
-          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "Eu Vou",
-      "url": "https://open.spotify.com/track/1zbNUs2cbZYBkcHmm9zxAt"
     },
     {
       "added_at": "2026-03-20 15:09:32",
