@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-413 songs - 1 day 1 hr 50 min
+415 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Americana Coast](https://open.spotify.com/track/6BpQBUwter4qGrZ4iYgRbf) | [Bill Filipiak](https://open.spotify.com/artist/2xdtTND1CviwJbO8j2wvpM) | [Americana Coast](https://open.spotify.com/album/4xfZpPgxxxWPxOQjeR1x5Q) | 3:03 | 2025-09-28 | 2025-12-17 |
 | [Anaconda](https://open.spotify.com/track/6uF9EXY8NveGo9gvIFLxT5) | [Viva Los Villains](https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ) | [Viva Los Villains](https://open.spotify.com/album/2Dui44Gfszog7oXQwhDocC) | 4:10 | 2026-01-25 |  |
 | [And so It Goes](https://open.spotify.com/track/63Se5wwHJtZyr4aEb3WZn2) | [Erik Knear](https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV) | [Melodia: Ch.5\-6](https://open.spotify.com/album/2hQrBV27jVEfYnFkAaGLiO) | 3:38 | 2025-12-31 | 2026-03-18 |
+| [Andando Sin Prisa](https://open.spotify.com/track/7F14FNeb1lWPxNHXTkJvjk) | [El Sueño de Vákner](https://open.spotify.com/artist/7fWvpRmhgfH4IJpeXain5l) | [Andando Sin Prisa](https://open.spotify.com/album/5RCbfhmxo8NhkWQJZsIApe) | 4:28 | 2026-04-05 |  |
 | [Angel Can You Hear Me](https://open.spotify.com/track/7zC97ICTUUdzfDRvlbtu6Y) | [Sam Wilson](https://open.spotify.com/artist/2HLoEJMRPOYaumUCslXOIW) | [Optimist](https://open.spotify.com/album/5A5PiRlBXDmIr7XhXoEBln) | 3:32 | 2025-09-03 |  |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-10-06 | 2025-11-28 |
 | [Artık](https://open.spotify.com/track/461MvyYbmNiLKMjl9dLGbG) | [Aras Arslan](https://open.spotify.com/artist/6BKgIw6tXuCQM0UIs6yyEy) | [Artık](https://open.spotify.com/album/7FuyvKt1vQtehzmxiPDi4i) | 4:15 | 2025-11-25 | 2025-12-17 |
@@ -201,6 +202,7 @@
 | [La Viuda Negra](https://open.spotify.com/track/1CO5E6IQSLp9ydxXTejgsF) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq), [AQUILES LAGP](https://open.spotify.com/artist/7pMAl2FZdDwU1Xz09sxaFB) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 2:40 | 2026-01-19 | 2026-03-18 |
 | [Lady Mazikeen](https://open.spotify.com/track/7bmkoBCsL2IE4cr1PL8ill) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Lady Mazikeen](https://open.spotify.com/album/502ix0vLyJcnVHoBRr1jkc) | 3:40 | 2026-01-03 |  |
 | [Last Goodbye](https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W) | [Softcase](https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8) | [Last Goodbye](https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE) | 3:17 | 2026-03-01 | 2026-03-18 |
+| [Last Night](https://open.spotify.com/track/3SLOgxmU82Hn6MOAxQuem3) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [Last Night](https://open.spotify.com/album/2mTKkUS3mPXZNPhoAoWtkw) | 3:21 | 2026-04-05 |  |
 | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/track/72fbAsOKHLH4OOCBS76GTE) | [Los Pixeles de Warhol](https://open.spotify.com/artist/1S8T8aWGgXAp4IefMclzuP) | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/album/2x9Q84jE5RA0h6DbLnqlyK) | 4:11 | 2026-01-03 | 2026-03-18 |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2025-11-10 | 2025-12-17 |
 | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/track/5ODzg3yxWLI4JfMM6Py2Wv) | [STTAP](https://open.spotify.com/artist/28gjHgZscJjNrIiBaKiodS) | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/album/28z8XJcaUV623xWpJbPepW) | 2:35 | 2025-12-18 |  |

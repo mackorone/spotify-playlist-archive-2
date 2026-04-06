@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-918 songs - 1 day 19 hr 38 min
+919 songs - 1 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [God Know](https://open.spotify.com/track/2nF8w69WDxaNAGTfRcuqF4) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [God Know](https://open.spotify.com/album/60yBlHMBRynuPq7uoAvkID) | 3:17 | 2024-07-05 | 2026-04-04 |
 | [God on My Side](https://open.spotify.com/track/2H6E6lacBMcx6OEQtnvxF1) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t), [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV) | [God on My Side](https://open.spotify.com/album/5lWZCE0s5PLMD3Enyyrmdw) | 2:35 | 2025-03-07 |  |
 | [God Only Knows \(R3HAB Remix\)](https://open.spotify.com/track/7CTyBvcRHWso8oUcvyNkLt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [God Only Knows \(R3HAB Remix\)](https://open.spotify.com/album/3DZ9KhFNGMOUE7E5ZOmvqW) | 2:35 | 2022-02-04 | 2022-12-17 |
+| [God Over Everything](https://open.spotify.com/track/5ZxGoh78YAVK405fjTyTke) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Wordsplayed](https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [God Over Everything](https://open.spotify.com/album/4Oq4U7B4GY1Qj5uzUFekNr) | 3:39 | 2026-04-03 |  |
 | [God Put Me On](https://open.spotify.com/track/01inshycnL9hR5X2QdHHFZ) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [God Put Me On](https://open.spotify.com/album/2wTbOZKpLfxQ8LHW5l3hbK) | 2:07 | 2022-03-11 | 2022-03-24 |
 | [GOD'S ARMY](https://open.spotify.com/track/1LxIln2JKMLg11HdANe7Ne) | [Skema Boy](https://open.spotify.com/artist/1KTljUXZGt7HkAFFEnDBn1) | [GOD'S ARMY](https://open.spotify.com/album/3kxHqsCBVpAIJsJwn8X135) | 3:43 | 2025-02-07 | 2025-08-08 |
 | [God's Eyes](https://open.spotify.com/track/2lHRuImyzXNKwzy4pau98R) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [God's Eyes](https://open.spotify.com/album/6OK5AWd7zWg4wJrY3dPrMe) | 3:05 | 2023-08-11 | 2024-06-08 |
@@ -601,7 +602,7 @@
 | [Out Of The Dark \- Petey Martin Remix](https://open.spotify.com/track/4SfcLgPBOZa0ZFtHt3HBXO) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Out Of The Dark \(Petey Martin Remix\)](https://open.spotify.com/album/79HDfZmxKg9v2NCsvpNboH) | 2:45 | 2022-03-23 | 2022-05-28 |
 | [Out With a Bang](https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Out With a Bang](https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm) | 2:15 | 2022-02-04 | 2024-01-13 |
 | [Outside](https://open.spotify.com/track/2oy1jc4rswusWm4ZSM8anJ) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Outside](https://open.spotify.com/album/2SUWLEM89ldffVzwozy9bI) | 2:19 | 2025-06-09 |  |
-| [Outside Wit It](https://open.spotify.com/track/0Hj0ZWxEtxqJZwx18YEsrZ) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Sevin](https://open.spotify.com/artist/1I402d4s0Xe8EntQI3u96l), [Murcy 34](https://open.spotify.com/artist/3ShiorUjSlxwvPUr2ofZSJ) | [Outside Wit It](https://open.spotify.com/album/6kkYJaAoE3dAGyS7nll3Lm) | 3:13 | 2025-02-07 |  |
+| [Outside Wit It](https://open.spotify.com/track/0Hj0ZWxEtxqJZwx18YEsrZ) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Sevin](https://open.spotify.com/artist/1I402d4s0Xe8EntQI3u96l), [Murcy 34](https://open.spotify.com/artist/3ShiorUjSlxwvPUr2ofZSJ) | [Outside Wit It](https://open.spotify.com/album/6kkYJaAoE3dAGyS7nll3Lm) | 3:13 | 2025-02-07 | 2026-04-06 |
 | [Overcomer](https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:43 | 2022-03-23 | 2022-04-21 |
 | [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 | 2022-04-30 | 2022-05-27 |
 | [Overnight](https://open.spotify.com/track/5AxhA8xrGrHFqUjIVbrDk0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Overnight](https://open.spotify.com/album/3qGZswU9EIOUzL9nRaONit) | 2:10 | 2023-12-01 | 2024-06-08 |

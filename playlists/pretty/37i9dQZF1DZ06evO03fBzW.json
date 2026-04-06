@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 119501,
+  "num_followers": 119519,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac8DAAAAAABV7bQn6yxEp1ua+g6WuzFt",
+  "snapshot_id": "adBUgAAAAADjxBIXh5+t1LU8MQ342clT",
   "tracks": [
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 269666,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL"
+      "duration_ms": 251960,
+      "name": "Let's Get Back",
+      "url": "https://open.spotify.com/track/7fF9yjIMasFI99ZbCA6r3x"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 251960,
-      "name": "Let's Get Back",
-      "url": "https://open.spotify.com/track/7fF9yjIMasFI99ZbCA6r3x"
+      "duration_ms": 269666,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL"
     },
     {
       "added_at": null,

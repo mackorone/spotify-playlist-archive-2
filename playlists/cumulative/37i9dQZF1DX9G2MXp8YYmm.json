@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 163738,
       "name": "Bir Hayal",
       "url": "https://open.spotify.com/track/7M1Q7tQiYhEJzOMvT6nUQI"
@@ -3418,6 +3418,28 @@
       "duration_ms": 146000,
       "name": "D\u00fc\u015ferim Akl\u0131na",
       "url": "https://open.spotify.com/track/2NiqrLj88lenL5MAfMbA4f"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/1Ig02EoNaMBz81rzYO4HL0"
+      },
+      "artists": [
+        {
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+        },
+        {
+          "name": "Madrigal",
+          "url": "https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254250,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3ZkGSuRq7YDi8IRylZDTfz"
     },
     {
       "album": {

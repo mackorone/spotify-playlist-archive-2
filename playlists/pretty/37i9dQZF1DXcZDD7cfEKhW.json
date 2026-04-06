@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Bruno Mars",
-  "num_followers": 4394037,
+  "num_followers": 4393824,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "More Than A Woman (SG's Paradise Edit)",
         "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1269,26 +1269,6 @@
       "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
     },
     {
-      "added_at": "2025-10-07 21:54:57",
-      "album": {
-        "name": "she got a thing about her (luc\u00f8 remix)",
-        "url": "https://open.spotify.com/album/3pzFxS9OX1g1AK9YJgsrth"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        },
-        {
-          "name": "LUC\u00d8",
-          "url": "https://open.spotify.com/artist/7AZz7NIZYmsop1ipI6009w"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "she got a thing about her - luc\u00f8 remix",
-      "url": "https://open.spotify.com/track/3LFUE8ko7EEOaMiWWAZ6sb"
-    },
-    {
       "added_at": "2025-09-05 13:32:53",
       "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
@@ -1307,6 +1287,26 @@
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+    },
+    {
+      "added_at": "2025-10-07 21:54:57",
+      "album": {
+        "name": "she got a thing about her (luc\u00f8 remix)",
+        "url": "https://open.spotify.com/album/3pzFxS9OX1g1AK9YJgsrth"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        },
+        {
+          "name": "LUC\u00d8",
+          "url": "https://open.spotify.com/artist/7AZz7NIZYmsop1ipI6009w"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "she got a thing about her - luc\u00f8 remix",
+      "url": "https://open.spotify.com/track/3LFUE8ko7EEOaMiWWAZ6sb"
     },
     {
       "added_at": "2025-09-05 13:32:53",

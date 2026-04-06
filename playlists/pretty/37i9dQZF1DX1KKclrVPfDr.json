@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
-        "name": "Mangal Gariya He",
-        "url": "https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Aadee",
-          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
-        }
-      ],
-      "duration_ms": 355393,
-      "name": "Mangal Gariya He",
-      "url": "https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64"
-    },
-    {
-      "added_at": "2026-03-23 13:34:43",
-      "album": {
         "name": "Dulha Hindustani (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5d8ugrxneHuJBxahIBEA8P"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 221560,
       "name": "Doli Leke Aihein Dulhiniya",
       "url": "https://open.spotify.com/track/58rf0fEiolEKlQjUnSWGT5"
+    },
+    {
+      "added_at": "2026-03-23 13:34:43",
+      "album": {
+        "name": "Mangal Gariya He",
+        "url": "https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Aadee",
+          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
+        }
+      ],
+      "duration_ms": 355393,
+      "name": "Mangal Gariya He",
+      "url": "https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64"
     },
     {
       "added_at": "2026-03-23 13:34:43",

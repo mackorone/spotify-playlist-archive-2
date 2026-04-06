@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: STARGLOW
 
-946 songs - 2 day 3 hr 39 min
+948 songs - 2 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Generation\_Cloud](https://open.spotify.com/track/3vkGaXx8dOqoqnki0GD4sc) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [Generation\_Cloud](https://open.spotify.com/album/06AseksArQxT2mXYzwAiuO) | 2:36 | 2025-01-28 | 2025-03-26 |
 | [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:33 | 2025-10-07 | 2026-01-17 |
 | [GET STUPID](https://open.spotify.com/track/5UHHgSPZkVMM6RBOmhfB5f) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [GET STUPID](https://open.spotify.com/album/1wwvdUYewkU9xAqn9DhZa7) | 2:40 | 2024-06-18 | 2024-06-26 |
-| [Get Up And Dance](https://open.spotify.com/track/2IUGAOZ5cPW33dWkHhP6Tb) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Get Up And Dance](https://open.spotify.com/album/75zcHOYgdJAQvUpR2ySLQG) | 3:19 | 2026-03-23 |  |
+| [Get Up And Dance](https://open.spotify.com/track/2IUGAOZ5cPW33dWkHhP6Tb) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Get Up And Dance](https://open.spotify.com/album/75zcHOYgdJAQvUpR2ySLQG) | 3:19 | 2026-03-23 | 2026-04-06 |
 | [Get Wild](https://open.spotify.com/track/4IDWkk8s12B50Ksb4aS87W) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Get Wild](https://open.spotify.com/album/54og7pfmDGwwaVrROP2aiL) | 2:58 | 2025-03-06 | 2025-04-07 |
 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2025-03-06 | 2025-03-24 |
 | [GHOST](https://open.spotify.com/track/4FmajtNhF2DlWRe9soinXN) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [GHOST](https://open.spotify.com/album/3P0KCz0vPQnJoXjy3wGhOG) | 3:33 | 2025-10-07 | 2025-11-12 |
@@ -329,6 +329,7 @@
 | [Headlines](https://open.spotify.com/track/5060fEQEvAIywQ8NMLJeOi) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/3pIxnSDUJ0I9KHdrahOC1s) | 2:19 | 2025-08-22 | 2025-09-26 |
 | [heal](https://open.spotify.com/track/34kczquuUdb7gLHhZGR8jp) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Unfold](https://open.spotify.com/album/1kQVnTWbUXu9xQ1zqczj06) | 3:59 | 2026-04-03 |  |
 | [HEART](https://open.spotify.com/track/1xVHi6ppc8sZS33qCm2IyJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [HEART](https://open.spotify.com/album/0MD6Tt34i6Gb1dGbYPmvSP) | 3:48 | 2025-03-09 | 2025-06-04 |
+| [HEARTLOUD](https://open.spotify.com/track/0BrP9D6bRbq9UFcWGpa4nM) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [HEARTLOUD](https://open.spotify.com/album/2djfNGmYD4Ut8aMSNuBNB9) | 3:22 | 2026-04-06 |  |
 | [HEAVY GAMER](https://open.spotify.com/track/7A5w2FDIv8NERGk59C6dF9) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [HEAVY GAMER](https://open.spotify.com/album/5thtZUHXDTXNPvd5qKvnJV) | 3:24 | 2024-04-16 | 2024-05-08 |
 | [Hello Mellow](https://open.spotify.com/track/0Bta0rqkUh1ErjpwHIofP6) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHLIST](https://open.spotify.com/album/0AbenVXd5ypXotWe1z0ytw) | 3:02 | 2026-01-15 |  |
 | [Hi!Clap!!!!](https://open.spotify.com/track/5HbACHlt5CJ2hcqGtz29D8) | [Hi!Superb](https://open.spotify.com/artist/7ivV5s6CUdQFMowoqpuNZT) | [Hi!Clap!!!!](https://open.spotify.com/album/0kHtlHmRY6Z4QCLZdaVCGc) | 3:45 | 2024-03-19 | 2024-03-27 |
@@ -702,7 +703,7 @@
 | [Sugar Honey](https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Sugar Honey](https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV) | 3:25 | 2023-11-23 | 2023-11-26 |
 | [Summer Light](https://open.spotify.com/track/0nvv7QmRopuA4rylN4EOly) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Summer Light](https://open.spotify.com/album/0JLwjAXyinA9w0v4JjSGAg) | 3:01 | 2025-08-04 | 2025-10-01 |
 | [Summer Vacation](https://open.spotify.com/track/36qCIpJxXBTi6JZqWufoqb) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [Summer Vacation](https://open.spotify.com/album/7kW5feki3ZoaWMgzDnU0HT) | 3:24 | 2025-07-07 | 2025-07-09 |
-| [Sunkissed](https://open.spotify.com/track/3j0g0ii7DyBSNRA4B1stjc) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Sunkissed](https://open.spotify.com/album/5Uy3tbYFggTXtTi2XOgHuB) | 3:33 | 2026-02-24 |  |
+| [Sunkissed](https://open.spotify.com/track/3j0g0ii7DyBSNRA4B1stjc) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Sunkissed](https://open.spotify.com/album/5Uy3tbYFggTXtTi2XOgHuB) | 3:33 | 2026-02-24 | 2026-04-06 |
 | [Sunset \- OCTAVE ver.](https://open.spotify.com/track/0rKnES758zRMB1Ijc4tf1z) | [EBiDAN \(恵比寿学園男子部\)](https://open.spotify.com/artist/4jtwvvkDVrBZosFsvbSLXm) | [Sunset \(OCTAVE ver.\)](https://open.spotify.com/album/39Srjl6OdUJjtg55gCCtuZ) | 2:58 | 2024-06-12 | 2024-06-19 |
 | [Sunsets and Cigarettes](https://open.spotify.com/track/4xk3VG8GMiS65iBtUyZ209) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Silhouette](https://open.spotify.com/album/412kW5chzKk3ucqPurnRMF) | 3:10 | 2025-11-07 | 2026-01-17 |
 | [SUPER CRUISIN'](https://open.spotify.com/track/0kOfUCUvagEqAG7SEpkgph) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [SUPER CRUISIN'](https://open.spotify.com/album/7I9I6ETKigeRg1sx50aArZ) | 2:55 | 2025-03-25 | 2025-05-20 |
@@ -757,6 +758,7 @@
 | [TOUGH LOVE](https://open.spotify.com/track/0JWu3QkeitDCsiSTohLcc0) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [TOUGH LOVE](https://open.spotify.com/album/5eyN4dfPRJEAVU7paiAYsA) | 2:37 | 2026-03-09 |  |
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-20 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-26 |  |
+| [Track 14](https://open.spotify.com/track/0LvtYkJSXFdZLXAKrQjpdu) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Banquet](https://open.spotify.com/album/3wXNjLWGdqtKReMLjhat8H) | 0:00 | 2026-04-06 |  |
 | [Trap](https://open.spotify.com/track/3Oftm2skZTLoKMZcxrZ1xM) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Only You](https://open.spotify.com/album/3EEixzNLIpp0tPr0pCZGIJ) | 3:02 | 2025-11-24 | 2026-02-02 |
 | [traveler](https://open.spotify.com/track/04xEks3lStVKgLzhrLk8M7) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [ハニカミ](https://open.spotify.com/album/5zc8puALWBVseHlQSADzWi) | 3:48 | 2026-02-24 | 2026-02-27 |
 | [Treasure Believer](https://open.spotify.com/track/47kYfk9KuZppYzt1n7soRP) | [VΔLZ](https://open.spotify.com/artist/5NsoCPfSPuShXpS1xuLmPf) | [三華の樂](https://open.spotify.com/album/4GnRqlotGHfKskEIprHBEz) | 3:52 | 2024-06-04 | 2024-06-13 |

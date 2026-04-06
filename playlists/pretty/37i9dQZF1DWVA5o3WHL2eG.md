@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL 💚 Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,474 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,471 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [Ich Such](https://open.spotify.com/track/1ZeMeVPCZlLMIUwJX8VF3k) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [fuck \(ich liebe dich\)](https://open.spotify.com/album/30c5ReJueRMPW8y7UgJHq8) | 2:24 |
 | 24 | [2 Versager](https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [2 Versager](https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2) | 3:47 |
 | 25 | [Weil mein Herz ein Lügner ist](https://open.spotify.com/track/7LyJ6qAXj3m3MoLWF6WHLZ) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Das Leben ist schön](https://open.spotify.com/album/5lXNBt6jCFso3HJf2hewul) | 3:25 |
-| 26 | [Free.](https://open.spotify.com/track/4o6EyGHwAnL5f4j21XTZRy) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [FC Chaya](https://open.spotify.com/album/6YjjxfyfqL874e6tKJoT0L) | 2:25 |
-| 27 | [Same Light](https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 2:36 |
+| 26 | [Same Light](https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 2:36 |
+| 27 | [Free.](https://open.spotify.com/track/4o6EyGHwAnL5f4j21XTZRy) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [FC Chaya](https://open.spotify.com/album/6YjjxfyfqL874e6tKJoT0L) | 2:25 |
 | 28 | [Again](https://open.spotify.com/track/1fbMPyPcqNJjpPPvmcjhzJ) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Why, Why](https://open.spotify.com/album/0WDjHyGh6JjGnnuLf61gMs) | 3:49 |
-| 29 | [Take me as i am](https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will You Take Me As I Am?](https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF) | 3:19 |
-| 30 | [FCK DICH](https://open.spotify.com/track/2IvXVKvfksfnn8JYfH6iRd) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [FCK DICH](https://open.spotify.com/album/0CEwbiRPYrvpVlOIy7WIKL) | 2:03 |
+| 29 | [FCK DICH](https://open.spotify.com/track/2IvXVKvfksfnn8JYfH6iRd) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [FCK DICH](https://open.spotify.com/album/0CEwbiRPYrvpVlOIy7WIKL) | 2:03 |
+| 30 | [Take me as i am](https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will You Take Me As I Am?](https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF) | 3:19 |
 | 31 | [Who](https://open.spotify.com/track/5ChsCz0T4RykLavAqqwzHv) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Vitamin C](https://open.spotify.com/album/1o9XRpFT8v4VCNf6ZxT9Uo) | 3:01 |
 | 32 | [Ignorance is Bliss](https://open.spotify.com/track/5MrvwTkrocYxMBEelpCxeD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:34 |
 | 33 | [Himbeerrot \(One Kiss\)](https://open.spotify.com/track/6ub3LwPQu9vU9RwolFnuku) | [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7) | [Traumfabrik](https://open.spotify.com/album/3EcTBOqj2T6XFPcM9Bo3Pc) | 2:31 |

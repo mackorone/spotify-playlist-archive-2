@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Birds In The Cul-De-Sac",
+        "url": "https://open.spotify.com/album/7sUigBnrLRsr8JD3oCVNfq"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65882,
+      "name": "Birds In The Cul-De-Sac",
+      "url": "https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA"
+    },
+    {
+      "album": {
         "name": "Blissed Out",
         "url": "https://open.spotify.com/album/3Jy207hzZVAYlhiOskbDrD"
       },
@@ -4344,7 +4362,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 202789,
       "name": "Mystic Nature",
       "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"

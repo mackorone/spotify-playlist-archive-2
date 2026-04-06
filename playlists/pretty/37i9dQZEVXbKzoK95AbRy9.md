@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,779 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,796 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [10 SEGUNDOS](https://open.spotify.com/track/48SYVECjCIwWWsqogDHWVF) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [10 SEGUNDOS](https://open.spotify.com/album/1Y4VDN6EZjy7dCBdixGHdl) | 2:34 |
 | 50 | [Apaga Apaga Apaga \- Ao Vivo](https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Toma Essa Verdade \(Ao Vivo\)](https://open.spotify.com/album/6vour1AXVo2RNRspJQjQoV) | 2:58 |
 
-Snapshot ID: `MWR58AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MWXLcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

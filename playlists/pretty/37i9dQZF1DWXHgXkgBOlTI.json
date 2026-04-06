@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u795e\u4fdd\u5f70",
-  "num_followers": 32603,
+  "num_followers": 32604,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "duration_ms": 267720,
+      "name": "marten",
+      "url": "https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe"
+    },
+    {
+      "added_at": "2026-03-25 17:18:03",
+      "album": {
         "name": "BEATS+PIECES 2",
         "url": "https://open.spotify.com/album/6wNDoHX8SrmdzHAKKmTfzt"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz"
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz"
       },
       "artists": [
         {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+          "name": "Still Caravan",
+          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
         }
       ],
-      "duration_ms": 267720,
-      "name": "marten",
-      "url": "https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe"
+      "duration_ms": 267000,
+      "name": "Thrust",
+      "url": "https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2"
     },
     {
       "added_at": "2026-03-25 17:18:03",
@@ -715,22 +731,6 @@
       "duration_ms": 415733,
       "name": "WOLF",
       "url": "https://open.spotify.com/track/2xsyDwq9ZYm9kKYZF8gD4P"
-    },
-    {
-      "added_at": "2026-03-25 17:18:03",
-      "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz"
-      },
-      "artists": [
-        {
-          "name": "Still Caravan",
-          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Thrust",
-      "url": "https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2"
     },
     {
       "added_at": "2026-03-25 17:18:03",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "\u30b9\u30ba\u866b",
-        "url": "https://open.spotify.com/album/4VkJfvhkTnx8GZuCySMlKe"
-      },
-      "artists": [
-        {
-          "name": "PE'Z",
-          "url": "https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "SAMBA DE \u604b\u3057\u3066",
-      "url": "https://open.spotify.com/track/2ntJXSC98pIAiGwigge8Nm"
-    },
-    {
-      "added_at": "2026-03-25 17:18:03",
-      "album": {
         "name": "Variety",
         "url": "https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 158000,
       "name": "Normal Life",
       "url": "https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT"
+    },
+    {
+      "added_at": "2026-03-25 17:18:03",
+      "album": {
+        "name": "\u30b9\u30ba\u866b",
+        "url": "https://open.spotify.com/album/4VkJfvhkTnx8GZuCySMlKe"
+      },
+      "artists": [
+        {
+          "name": "PE'Z",
+          "url": "https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "SAMBA DE \u604b\u3057\u3066",
+      "url": "https://open.spotify.com/track/2ntJXSC98pIAiGwigge8Nm"
     },
     {
       "added_at": "2026-03-25 17:18:03",

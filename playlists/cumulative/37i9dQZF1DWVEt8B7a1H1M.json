@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Birds near the river in Columbia",
+        "url": "https://open.spotify.com/album/0zUtoR2O9ZiM8uoiVKAOuP"
+      },
+      "artists": [
+        {
+          "name": "Nicoguga",
+          "url": "https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119603,
+      "name": "Birds near the river in Columbia",
+      "url": "https://open.spotify.com/track/4YjV6QkrEGCIq66DBeO4Ky"
+    },
+    {
+      "album": {
         "name": "Idyllwild Placid",
         "url": "https://open.spotify.com/album/3yEc4L6FBMR21lAlDZo5BG"
       },
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 150170,
       "name": "Calm Summer Dusk at the Farm",
       "url": "https://open.spotify.com/track/5NQf4rqKwhCAjxybZZnxvM"

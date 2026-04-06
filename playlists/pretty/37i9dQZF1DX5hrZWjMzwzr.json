@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj wszystkich nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11527,
+  "num_followers": 11526,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -735,34 +735,6 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
-        "name": "W KONTAKCIE",
-        "url": "https://open.spotify.com/album/1yp7VA7hHf2sOIYeiIkjWI"
-      },
-      "artists": [
-        {
-          "name": "Polska Wersja",
-          "url": "https://open.spotify.com/artist/7jr5OpV6K3nyqwKbbwcYR3"
-        },
-        {
-          "name": "Hinol Polska Wersja",
-          "url": "https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg"
-        },
-        {
-          "name": "Jano Polska Wersja",
-          "url": "https://open.spotify.com/artist/0BBB9DjvskQV0oReJMxTP1"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
-        }
-      ],
-      "duration_ms": 203749,
-      "name": "W KONTAKCIE",
-      "url": "https://open.spotify.com/track/4Twi1X2kxlwEYJKNFZVwRs"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
         "name": "FENOMENALNY STYL",
         "url": "https://open.spotify.com/album/5LbNWLb5mQWtbMFb9DUuPb"
       },
@@ -803,6 +775,34 @@
       "duration_ms": 219705,
       "name": "FENOMENALNY STYL",
       "url": "https://open.spotify.com/track/5C8tZd79j0W7MnUXZrjlgm"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
+        "name": "W KONTAKCIE",
+        "url": "https://open.spotify.com/album/1yp7VA7hHf2sOIYeiIkjWI"
+      },
+      "artists": [
+        {
+          "name": "Polska Wersja",
+          "url": "https://open.spotify.com/artist/7jr5OpV6K3nyqwKbbwcYR3"
+        },
+        {
+          "name": "Hinol Polska Wersja",
+          "url": "https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg"
+        },
+        {
+          "name": "Jano Polska Wersja",
+          "url": "https://open.spotify.com/artist/0BBB9DjvskQV0oReJMxTP1"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "duration_ms": 203749,
+      "name": "W KONTAKCIE",
+      "url": "https://open.spotify.com/track/4Twi1X2kxlwEYJKNFZVwRs"
     },
     {
       "added_at": "2026-02-25 11:19:16",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
+        "name": "Ca\u0142y Blok",
+        "url": "https://open.spotify.com/album/70ZjNOhf40mWJZiODibJBe"
+      },
+      "artists": [
+        {
+          "name": "Sitek",
+          "url": "https://open.spotify.com/artist/5F4kzxLTvnEhhxRhvUHW6o"
+        },
+        {
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
+        }
+      ],
+      "duration_ms": 170685,
+      "name": "Ca\u0142y Blok",
+      "url": "https://open.spotify.com/track/5IZA5pBAArGLdlKw9Ary8X"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
         "name": "PATOPARTY",
         "url": "https://open.spotify.com/album/1KWozUxqSFnTwUPAa8lzqA"
       },
@@ -1639,26 +1659,6 @@
       "duration_ms": 285714,
       "name": "PATOPARTY",
       "url": "https://open.spotify.com/track/702Qa7dwKfXvIOGremdjSc"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
-        "name": "Ca\u0142y Blok",
-        "url": "https://open.spotify.com/album/70ZjNOhf40mWJZiODibJBe"
-      },
-      "artists": [
-        {
-          "name": "Sitek",
-          "url": "https://open.spotify.com/artist/5F4kzxLTvnEhhxRhvUHW6o"
-        },
-        {
-          "name": "Sir Mich",
-          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
-        }
-      ],
-      "duration_ms": 170685,
-      "name": "Ca\u0142y Blok",
-      "url": "https://open.spotify.com/track/5IZA5pBAArGLdlKw9Ary8X"
     },
     {
       "added_at": "2026-02-25 11:19:16",

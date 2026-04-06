@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,350 likes - 118 songs - 7 hr 42 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,350 likes - 119 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 116 | [Day After Day](https://open.spotify.com/track/3xtFNPUmFR9XuKZvKZ5uXI) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [Day After Day](https://open.spotify.com/album/0he1t5hbzSVjjYnlKpdnnd) | 5:44 |
 | 117 | [Cowboy Blues](https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Get My Good Side](https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn) | 3:55 |
 | 118 | [At Nathan's House](https://open.spotify.com/track/41etUdAj7MZz7x7s7VP3DS) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [At Nathan's House](https://open.spotify.com/album/2cOtM6OudVEX5xJe9ooAEO) | 3:49 |
+| 119 | [Stronger](https://open.spotify.com/track/78IGGly8kRFO5kDXEb8Qje) | [The Cosmic Dead](https://open.spotify.com/artist/19IfNSUIDUoz5OA5c2POvE) | [Stronger](https://open.spotify.com/album/78IcIHs4CeWJYaGiUaijY8) | 3:46 |
 
-Snapshot ID: `AAB3K5KmEg0cHUpY1HUKzSSQn5QpbkXV`
+Snapshot ID: `AAB3LAA2FHJblpEjh+GiA2Wx6e/5942Y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Essential songs of India's beloved crooner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,922 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,202 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 49 | [Tumse Behtar \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Sunny Sanskari Ki Tulsi Kumari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx) | 4:28 |
 | 50 | [Sitaare \(From "Ikkis"\)](https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [White Noise Collectives](https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Sitaare \(From "Ikkis"\)](https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL) | 4:02 |
 
-Snapshot ID: `AAAAAPhl0CW5YWalipkSmbFaHYaimqRa`
+Snapshot ID: `AAAAAIR6gCRhk/zG8XihxYvSVTRdskcT`

@@ -4,7 +4,7 @@
 
 > Lush continuous pink noise that will make you sleep all night.
 
-304 songs - 15 hr 55 min
+305 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Chilled Pink Lullaby](https://open.spotify.com/track/0APmmogkV8VCzKdGB6d0Sh) | [Avosola](https://open.spotify.com/artist/451HQRdyUYr2CEkK4A9wty) | [Chilled Pink Sleep](https://open.spotify.com/album/6XcpRqHSr3sujIw1oOF02N) | 4:07 | 2023-10-27 |  |
 | [Circular Orbit](https://open.spotify.com/track/366tREv5ZaeRvWnngEiSQg) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Lunar Pink Noise](https://open.spotify.com/album/6Io7xnSgAbti2b6256lfZ5) | 2:48 | 2023-05-25 |  |
 | [Clear Pink Noise](https://open.spotify.com/track/11kEPdwIh9f4ZxvaB0szBq) | [BBVB](https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP) | [Peaceful Pink Noise](https://open.spotify.com/album/4NpXIPIO0Hgz1QKvNuXtCP) | 2:01 | 2023-10-27 |  |
-| [Clear Pink Noise](https://open.spotify.com/track/41FRnnAKgKgx0ui0HJhM6Q) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Pink Noise Focus](https://open.spotify.com/album/3bEZWmcw3qZlwf8mXAhWMG) | 3:25 | 2023-10-27 |  |
+| [Clear Pink Noise](https://open.spotify.com/track/41FRnnAKgKgx0ui0HJhM6Q) | [Crystal Slowdown](https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o) | [Pink Noise Focus](https://open.spotify.com/album/3bEZWmcw3qZlwf8mXAhWMG) | 3:25 | 2023-10-27 | 2026-04-06 |
 | [Clouds Of Pink](https://open.spotify.com/track/1tJaKh39AFSA3CaODzmYlx) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Clouds Of Pink](https://open.spotify.com/album/5XT6l0Ih7JtybZx2i9utv7) | 2:56 | 2023-10-27 | 2025-06-06 |
 | [Clouds of Pink](https://open.spotify.com/track/1li0WHMIRXN6PCLjT5CWf6) | [Orbit Noise](https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V) | [Clouds of Pink](https://open.spotify.com/album/4tD135zHd2kHBeWH6L5LiU) | 2:44 | 2023-05-25 |  |
 | [Colorburst of Pink Noise](https://open.spotify.com/track/7LSnuJeA58VkymI0snUXB3) | [Time Capsule Dreams](https://open.spotify.com/artist/5CHgkJ2ylCxdgzBUV4fvm9) | [Colorburst of Pink Noise](https://open.spotify.com/album/1TICYg1auITRw5UOkFwlSI) | 3:45 | 2026-03-31 |  |
@@ -182,6 +182,7 @@
 | [Pink Noise for the Soul](https://open.spotify.com/track/55ixTrk7bNGa879tA2ftbz) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Pink Noise for the Soul](https://open.spotify.com/album/5kyRuD1PAKVecHr9HYVzvZ) | 4:17 | 2025-05-22 | 2026-04-01 |
 | [Pink Noise for Tranquility](https://open.spotify.com/track/6Ibp1yXeTZY5au5i3AgXR8) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Nature's Pink Noise](https://open.spotify.com/album/24AmrnX6tCSQjb5qjDaNi5) | 4:06 | 2023-10-27 |  |
 | [Pink Noise Frequency Bliss](https://open.spotify.com/track/3akh1Sjb4UxtE6GVnpA76e) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Pink Noise Hz](https://open.spotify.com/album/5kw0eQ2Kt85ovdYPu35j3c) | 2:32 | 2023-05-25 | 2023-10-28 |
+| [Pink Noise Glow](https://open.spotify.com/track/58nOMJCuSLeQtWAVTTNoSR) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Pink Noise Glow](https://open.spotify.com/album/5PAoaes5m0oruy2Yg94MHb) | 2:53 | 2026-03-31 |  |
 | [Pink Noise Helper](https://open.spotify.com/track/665cUi6QtVzeP0Z6Hi4NEr) | [San Sebastiano](https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4) | [Zarata Arrosa](https://open.spotify.com/album/7EPl3Pl6Hm5e3sRCaLtO6K) | 3:04 | 2023-05-25 |  |
 | [Pink Noise Horizons](https://open.spotify.com/track/2JODESUCrObicNpLsEWLSq) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Pink Noise Horizons](https://open.spotify.com/album/7GhyKWTqtqx8iOlcpH4V9m) | 2:54 | 2023-05-25 |  |
 | [Pink Noise Lullaby](https://open.spotify.com/track/41qLjb5rQLRU7OZUPSCGgD) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Sleepy Pink Waves](https://open.spotify.com/album/51QLgHbrysGVILkhAfyaMp) | 2:39 | 2023-05-25 |  |

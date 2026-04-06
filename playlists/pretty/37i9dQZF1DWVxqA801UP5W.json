@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: David Guetta, Teddy Swims, Tones & I",
-  "num_followers": 2559,
+  "num_followers": 828,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -823,26 +823,6 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "NOW IT'S GONE (BL3SS REMIX)",
-        "url": "https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        },
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "NOW IT'S GONE - BL3SS REMIX",
-      "url": "https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws"
-    },
-    {
-      "added_at": "2025-11-14 15:32:04",
-      "album": {
         "name": "Post Malone (feat. RANI) [VIZE Remix]",
         "url": "https://open.spotify.com/album/2idnYaYkAG2xDus7xk1yNZ"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 154838,
       "name": "Post Malone (feat. RANI) - VIZE Remix",
       "url": "https://open.spotify.com/track/3mruwwpKfG5NYmnEr6O5Dw"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
+        "name": "NOW IT'S GONE (BL3SS REMIX)",
+        "url": "https://open.spotify.com/album/0XK1fxAoMOulFuvsKOHyIp"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "NOW IT'S GONE - BL3SS REMIX",
+      "url": "https://open.spotify.com/track/5JhnPJ9sjaLcQ75vhGZzws"
     },
     {
       "added_at": "2025-11-14 15:32:04",
@@ -1055,22 +1055,22 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "Too Much (Ely Oaks Remix)",
-        "url": "https://open.spotify.com/album/6r4SN9q8F3E2dLP3UUsHaq"
+        "name": "JOY (Back on 74)",
+        "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         },
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
         }
       ],
-      "duration_ms": 141323,
-      "name": "Too Much - Ely Oaks Remix",
-      "url": "https://open.spotify.com/track/09FAqeIjjeAWqo3nuazGZu"
+      "duration_ms": 271395,
+      "name": "JOY (Back On 74)",
+      "url": "https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82"
     }
   ],
   "unique_name": "Massive Pop Remixes",

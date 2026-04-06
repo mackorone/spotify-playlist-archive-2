@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 229152,
       "name": "ALL THE LOVE (feat. Andre Troutman)",
       "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
@@ -4148,7 +4148,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 134117,
       "name": "ARIGATO",
       "url": "https://open.spotify.com/track/1U0dfwnwTeQ10Dn82LwVaz"
@@ -6322,7 +6322,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 178153,
       "name": "BERLIN2026",
       "url": "https://open.spotify.com/track/2u1n5WZTfYsJHWhCD8UUub"
@@ -16744,7 +16744,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 169330,
       "name": "FATHER (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
@@ -17150,7 +17150,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "FIKU MIKU",
       "url": "https://open.spotify.com/track/6MkpcMuHGd0cRBeRNOSWdy"
@@ -19950,7 +19950,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 179555,
       "name": "Halo tu Londyn",
       "url": "https://open.spotify.com/track/7o0s4eVw14M1QjfmbLGtuI"
@@ -26771,6 +26771,24 @@
     },
     {
       "album": {
+        "name": "KOLEJNA NOC",
+        "url": "https://open.spotify.com/album/3Hr8tWB8juRMFlswXjMKJJ"
+      },
+      "artists": [
+        {
+          "name": "Wac Toja",
+          "url": "https://open.spotify.com/artist/5AmZdY72O0NVE0XxWdMfxv"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145174,
+      "name": "KOLEJNA NOC",
+      "url": "https://open.spotify.com/track/20skL5zN3d61UqzDlGlq7F"
+    },
+    {
+      "album": {
         "name": "m\u0142ody say10",
         "url": "https://open.spotify.com/album/4r0SGmxQ5XgR5nGyyOiO91"
       },
@@ -29774,7 +29792,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 157575,
       "name": "Luty",
       "url": "https://open.spotify.com/track/7ubcimU18HA4wojQd51M7a"
@@ -30374,7 +30392,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 208413,
       "name": "MAM TALENT",
       "url": "https://open.spotify.com/track/5YfLne4OCkpYA2VWQ4w65P"
@@ -34394,7 +34412,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 156500,
       "name": "Nad nami",
       "url": "https://open.spotify.com/track/5vDQgKe5zbd52tpoiYY5cD"
@@ -35938,7 +35956,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 120214,
       "name": "NIE MOG\u0118 SPA\u0106",
       "url": "https://open.spotify.com/track/114kUAXv9TZxaFPaCpquMW"
@@ -45220,7 +45238,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"

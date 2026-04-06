@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Raio X do Brasil",
+        "url": "https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36597,
+      "name": "Introdu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0AIGUzrv8GEO3fZfmsOPNT"
+    },
+    {
+      "album": {
         "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
         "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
       },

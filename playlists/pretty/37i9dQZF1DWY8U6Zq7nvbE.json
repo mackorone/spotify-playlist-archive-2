@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2452222,
+  "num_followers": 2452317,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/4R3pHbMmVbzremPQBw5FQ9"
-      },
-      "artists": [
-        {
-          "name": "Scottie",
-          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
-        }
-      ],
-      "duration_ms": 172193,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/2dIL35obnWkkaMcTqTZUIe"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/0texx5CYZmR9bngDQpTZeC"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 143294,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5YbBNsK5ftR2vazlPiL1ZZ"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/4R3pHbMmVbzremPQBw5FQ9"
+      },
+      "artists": [
+        {
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+        }
+      ],
+      "duration_ms": 172193,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/2dIL35obnWkkaMcTqTZUIe"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Here I Go Again - Acoustic EP",
-        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 252307,
-      "name": "Here I Go Again - Acoustic",
-      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 202076,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Here I Go Again - Acoustic EP",
+        "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 252307,
+      "name": "Here I Go Again - Acoustic",
+      "url": "https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp"
-      },
-      "artists": [
-        {
-          "name": "late september",
-          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
-        }
-      ],
-      "duration_ms": 203608,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Girls Just Want to Have Fun",
         "url": "https://open.spotify.com/album/0ANpeLpdSK3wVjIt8nJgI4"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Just The Two Of Us - Acoustic",
-        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp"
       },
       "artists": [
         {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
         }
       ],
-      "duration_ms": 186008,
-      "name": "Just the Two of Us - Acoustic",
-      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+      "duration_ms": 203608,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -587,6 +571,22 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
+        "name": "Just The Two Of Us - Acoustic",
+        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Just the Two of Us - Acoustic",
+      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
         "name": "I Don't Want To Miss A Thing",
         "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Visiting Hours (Acoustic)",
-        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
-      },
-      "artists": [
-        {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
-        }
-      ],
-      "duration_ms": 197202,
-      "name": "Visiting Hours (Acoustic)",
-      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Young Folks",
         "url": "https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 214477,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Visiting Hours (Acoustic)",
+        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "duration_ms": 197202,
+      "name": "Visiting Hours (Acoustic)",
+      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2PMxsiBgRuxfqhj6GlKQV6"
-      },
-      "artists": [
-        {
-          "name": "Kim & Otto",
-          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
-        }
-      ],
-      "duration_ms": 163812,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/49IWgpr5W24IY1ZnGmSEcT"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "One Dance",
         "url": "https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 152000,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2PMxsiBgRuxfqhj6GlKQV6"
+      },
+      "artists": [
+        {
+          "name": "Kim & Otto",
+          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/49IWgpr5W24IY1ZnGmSEcT"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Kiss An Angel Good Mornin'",
-        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 164785,
-      "name": "Kiss An Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Cupid",
         "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 181111,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Kiss An Angel Good Mornin'",
+        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 164785,
+      "name": "Kiss An Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
     },
     {
       "added_at": "2026-03-19 12:18:11",

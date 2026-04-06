@@ -893,6 +893,32 @@
     },
     {
       "album": {
+        "name": "Gershwin: An American in Paris - Porgy and Bess Suite",
+        "url": "https://open.spotify.com/album/5xKfqBJYj8DKvXnGNNJtav"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "James Judd",
+          "url": "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642240,
+      "name": "Cuban Overture",
+      "url": "https://open.spotify.com/track/413FHEYlAUr7Lf5fLw3Uwm"
+    },
+    {
+      "album": {
         "name": "Gershwin: An American In Paris / Porgy And Bess",
         "url": "https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ"
       },
@@ -908,7 +934,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 642240,
       "name": "Cuban Overture",
       "url": "https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd"
@@ -1553,6 +1579,32 @@
     },
     {
       "album": {
+        "name": "Gershwin: An American in Paris - Porgy and Bess Suite",
+        "url": "https://open.spotify.com/album/5xKfqBJYj8DKvXnGNNJtav"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "James Judd",
+          "url": "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 632520,
+      "name": "Gershwin in Hollywood",
+      "url": "https://open.spotify.com/track/30tz5Zzb87Xvj3wRFW6q6w"
+    },
+    {
+      "album": {
         "name": "Gershwin: An American In Paris / Porgy And Bess",
         "url": "https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ"
       },
@@ -1568,7 +1620,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 632520,
       "name": "Gershwin In Hollywood",
       "url": "https://open.spotify.com/track/6NAvcyUo1ax2Cx5A2Sw5fT"
@@ -3977,6 +4029,32 @@
     },
     {
       "album": {
+        "name": "Gershwin: An American in Paris - Porgy and Bess Suite",
+        "url": "https://open.spotify.com/album/5xKfqBJYj8DKvXnGNNJtav"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "James Judd",
+          "url": "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1508760,
+      "name": "Porgy and Bess Suite",
+      "url": "https://open.spotify.com/track/7DQLwRs9tBbNoCaalJwzIT"
+    },
+    {
+      "album": {
         "name": "Gershwin: An American In Paris / Porgy And Bess",
         "url": "https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ"
       },
@@ -3992,7 +4070,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 1508760,
       "name": "Porgy And Bess Suite",
       "url": "https://open.spotify.com/track/14K0p1ZdxWJnS0GU1z98lu"

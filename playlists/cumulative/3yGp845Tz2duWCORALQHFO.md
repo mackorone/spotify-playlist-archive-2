@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-5,184 songs - 11 day 19 hr 32 min
+5,185 songs - 11 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2663,6 +2663,7 @@
 | [Lonely For You](https://open.spotify.com/track/0RuKiYaYKfzV6Sssw5Zv75) | [Lukas Goss](https://open.spotify.com/artist/0TSgxjF6V9u9Cjhz5CBh0X) | [Lonely For You](https://open.spotify.com/album/5wCQ6V67p5WdMP8BtYwVkA) | 3:17 | 2024-06-07 | 2024-06-17 |
 | [Lonely Heart](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Lonely Heart](https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH) | 2:43 | 2024-10-25 | 2024-11-01 |
 | [Lonely People](https://open.spotify.com/track/6gQgiwVpK2cigOSOHkuBNW) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Lonely People](https://open.spotify.com/album/24BmKk7FqKRlv5ywTMsRru) | 5:04 | 2026-02-26 | 2026-03-11 |
+| [Lonely People \- Special Version](https://open.spotify.com/track/4alOgWjArsVBrsx2GAP7hl) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Lonely People \(Special Version\)](https://open.spotify.com/album/0BUQaaaCl0dlicFaDxgAqr) | 5:20 | 2026-04-05 |  |
 | [LONESUM](https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [LONESUM](https://open.spotify.com/album/2WH0ugu7j4bRskcIM6vpgM) | 4:01 | 2024-05-30 | 2024-06-08 |
 | [Long Island](https://open.spotify.com/track/6sAhtvCfe7aqkJfxMjDSja) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Syndicate](https://open.spotify.com/album/58ZdIUja7imZmFqOSoI6b7) | 5:08 | 2025-10-03 | 2025-10-11 |
 | [Long Legs](https://open.spotify.com/track/3Zt9EqFeTyv4bw7UZimKM1) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Long Legs](https://open.spotify.com/album/2UCNb8fZiytlkaHFUvYuY5) | 3:00 | 2026-01-23 | 2026-01-30 |

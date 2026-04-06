@@ -4768,7 +4768,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 230000,
       "name": "Deep Sleep with Brown Noise",
       "url": "https://open.spotify.com/track/1Ltse4v0KqOewcUFlxX6Jx"
@@ -5740,7 +5740,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 130860,
       "name": "Focused By The Pink Noise",
       "url": "https://open.spotify.com/track/5SfeCoVHD0TkNPjQI6sJGN"
@@ -6395,6 +6395,24 @@
     },
     {
       "album": {
+        "name": "Inside the Pink Noise",
+        "url": "https://open.spotify.com/album/2G2n4MpTgYy4tPfdgmZg84"
+      },
+      "artists": [
+        {
+          "name": "Ethereal Roots",
+          "url": "https://open.spotify.com/artist/2NlQLtRMP7LbLqhbbxVEsu"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155491,
+      "name": "Inside the Pink Noise",
+      "url": "https://open.spotify.com/track/6qtvvdncM6rFjpGXnSSIig"
+    },
+    {
+      "album": {
         "name": "It's A Calm Brown Noise",
         "url": "https://open.spotify.com/album/54YjwZs2SK6yaTipCZ4daK"
       },
@@ -6856,7 +6874,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 180000,
       "name": "Mellow EQ Pink Noise",
       "url": "https://open.spotify.com/track/0lPhzJy5fSGxdAcAE8TzpS"
@@ -7961,6 +7979,24 @@
     },
     {
       "album": {
+        "name": "Pink Haze Field",
+        "url": "https://open.spotify.com/album/3oM6bkUjZlriko6QiB9jtD"
+      },
+      "artists": [
+        {
+          "name": "Emberwaves",
+          "url": "https://open.spotify.com/artist/56QSJQc6Jik15NGJDHk4UH"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168078,
+      "name": "Pink Haze Field",
+      "url": "https://open.spotify.com/track/3G5FxwFhC6cMsEy8GsmWac"
+    },
+    {
+      "album": {
         "name": "Pink Night Focus",
         "url": "https://open.spotify.com/album/0xmnDt79aJ755PAxCZ7UJb"
       },
@@ -8426,6 +8462,24 @@
       "duration_ms": 142684,
       "name": "Pink Noise Comfort",
       "url": "https://open.spotify.com/track/1RkF5ISo8RpwCg8YjTgGo8"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Deep Rest",
+        "url": "https://open.spotify.com/album/4y7hXU8QO47hGmaGOcwmRW"
+      },
+      "artists": [
+        {
+          "name": "Noise Retreat",
+          "url": "https://open.spotify.com/artist/2xhxnZx1l0Zvu7eEpt1OYM"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129142,
+      "name": "Pink Noise Deep Rest",
+      "url": "https://open.spotify.com/track/2MrJu3brPveIi0CwE5IDpG"
     },
     {
       "album": {
@@ -9362,6 +9416,24 @@
       "duration_ms": 260810,
       "name": "Pink Noise on the Sofa",
       "url": "https://open.spotify.com/track/36gEcAuFxr5HhD3cKsJJ3U"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Panorama",
+        "url": "https://open.spotify.com/album/0aWMEw9nXyCsgz32y7MEBt"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Parachuter",
+          "url": "https://open.spotify.com/artist/00NdWBjv7CpdfDBXUfg5qq"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Pink Noise Panorama",
+      "url": "https://open.spotify.com/track/55gtEAjulgNsR3ssFS2ByK"
     },
     {
       "album": {
@@ -10618,7 +10690,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 174000,
       "name": "Ruido Del Mar - Seamless",
       "url": "https://open.spotify.com/track/5BCbMLN2bw6sRvWZVI11OF"

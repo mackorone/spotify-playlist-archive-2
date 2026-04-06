@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 17254,
+  "num_followers": 17252,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-03-26 09:39:41",
       "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "My Ceiling Disappeared",
+      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
+    },
+    {
+      "added_at": "2026-03-26 09:39:41",
+      "album": {
         "name": "Alive with you",
         "url": "https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 203500,
       "name": "Alive with you (feat. SFC.JGR)",
       "url": "https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4"
-    },
-    {
-      "added_at": "2026-03-26 09:39:41",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "My Ceiling Disappeared",
-      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
     },
     {
       "added_at": "2026-03-26 09:39:41",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-03-26 09:39:41",
       "album": {
-        "name": "Try (Journey Epilogue)",
-        "url": "https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ"
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 9)",
+        "url": "https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M"
       },
       "artists": [
         {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
         }
       ],
-      "duration_ms": 216026,
-      "name": "Try (Journey Epilogue)",
-      "url": "https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ"
+      "duration_ms": 235346,
+      "name": "Shadow Love",
+      "url": "https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",

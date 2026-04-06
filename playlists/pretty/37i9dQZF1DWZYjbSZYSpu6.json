@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: \ub518\ub518 (DINDIN) & \uc870\ud604\uc601(\ub808\uc778\ubcf4\uc6b0))",
-  "num_followers": 396128,
+  "num_followers": 396135,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-03-31 04:01:12",
       "album": {
-        "name": "Airport Goodbyes",
-        "url": "https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Airport Goodbyes (Prod. The Black Skirts)",
-      "url": "https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN"
-    },
-    {
-      "added_at": "2026-03-31 04:01:12",
-      "album": {
         "name": "HAAN Chan Store",
         "url": "https://open.spotify.com/album/51wCFjR3dWWVJLEvrcYwRJ"
       },
@@ -1003,22 +987,38 @@
     {
       "added_at": "2026-03-31 04:01:12",
       "album": {
-        "name": "Have A Good Time",
-        "url": "https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV"
+        "name": "Airport Goodbyes",
+        "url": "https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        },
-        {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Have A Good Time",
-      "url": "https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU"
+      "duration_ms": 247000,
+      "name": "Airport Goodbyes (Prod. The Black Skirts)",
+      "url": "https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN"
+    },
+    {
+      "added_at": "2026-03-31 04:01:12",
+      "album": {
+        "name": "Because we loved",
+        "url": "https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s"
+      },
+      "artists": [
+        {
+          "name": "KANG MINKYUNG",
+          "url": "https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4"
+        },
+        {
+          "name": "CHOI JUNG HOON of JANNABI",
+          "url": "https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4"
+        }
+      ],
+      "duration_ms": 221906,
+      "name": "Because we loved",
+      "url": "https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

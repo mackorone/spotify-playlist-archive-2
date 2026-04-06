@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-777 songs - 3 day 0 hr 43 min
+778 songs - 3 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-04-28 | 2023-08-18 |
 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 | 2022-07-01 |  |
 | [Eyes On Me](https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Eyes On Me](https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU) | 3:38 | 2025-11-14 |  |
+| [Fade Away](https://open.spotify.com/track/6Z0TOOQXQWjkXWkIpBHdZR) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Mia Mendi](https://open.spotify.com/artist/7ccAq24esXIKcy6coCLiio) | [Fade Away](https://open.spotify.com/album/006Vz1lW1vyWCYB4Th2NeB) | 3:18 | 2026-04-03 |  |
 | [Fading](https://open.spotify.com/track/0BjH7OEBTqqqjX03iBhErp) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Fading](https://open.spotify.com/album/52BqwuUYV9KTvX1jStO5Y9) | 3:30 | 2021-10-10 | 2022-07-25 |
 | [Fading Time](https://open.spotify.com/track/3zx3EZWy77gcFSHKi1JsID) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Fading Time](https://open.spotify.com/album/0pblXGAsI7dUWAei182NvX) | 7:19 | 2020-09-19 | 2020-11-14 |
 | [Fairytale \- Radio Edit](https://open.spotify.com/track/3WXPhg7PtSheH2ZYzWBKTu) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Fairytale](https://open.spotify.com/album/1rVQFmcx7jkCkTeVby9j7k) | 2:58 | 2020-01-01 | 2020-01-03 |
@@ -366,7 +367,7 @@
 | [Klaxon](https://open.spotify.com/track/20zXYmh2UvTiFugquhOF6i) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Klaxon](https://open.spotify.com/album/19qGdHXyTInHZWVRG4YkYs) | 3:47 | 2022-04-04 | 2022-07-26 |
 | [KNOW ME \(feat\. Gallant\)](https://open.spotify.com/track/1QrlSQGTF8aEvsdhT4vMi8) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [BRONSON](https://open.spotify.com/album/58fl8Y06xbGAW07Prk8TTZ) | 3:00 | 2020-08-30 | 2021-12-09 |
 | [Kreatur der Nacht \(feat\. Isolation Berlin\)](https://open.spotify.com/track/1KamjM1JNDyyOd6uOyZs17) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Isolation Berlin](https://open.spotify.com/artist/37vi8sUkMSg3L9BTaMZRrv) | [Kreatur der Nacht \(feat\. Isolation Berlin\)](https://open.spotify.com/album/15bnmVsu5MdR8hkc4wGhHd) | 4:55 | 2020-12-24 | 2021-03-19 |
-| [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 |  |
+| [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 | 2026-04-06 |
 | [Kurzstrecke](https://open.spotify.com/track/6AowzR1raQ3DLpBkrsQsNp) | [Function](https://open.spotify.com/artist/6eu3TBnYM3SrkUU59SFhgp) | [Existenz](https://open.spotify.com/album/6y5DYvvHhDbNQfonF1Ykc3) | 6:43 | 2020-01-03 | 2020-01-04 |
 | [Last Bloom](https://open.spotify.com/track/00om2cgsHAwhdbpACwbAke) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Last Bloom](https://open.spotify.com/album/6UC5SN5ycYhBgNk6Z5SfTT) | 5:53 | 2019-09-19 | 2020-01-04 |
 | [Last Forever](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Last Forever](https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C) | 5:09 | 2025-08-08 | 2026-02-11 |

@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Nostalgix",
-  "num_followers": 270432,
+  "num_followers": 270461,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "909",
-        "url": "https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Danny P",
-          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "909",
-      "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Bad & U Know It",
         "url": "https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 191669,
       "name": "Bad & U Know It",
       "url": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "909",
+        "url": "https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "909",
+      "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "SPIRAL",
-        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
+        "name": "FUCK THE SPEAKERZ UP",
+        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
       },
       "artists": [
         {
           "name": "ISOxo",
           "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
         }
       ],
-      "duration_ms": 178285,
-      "name": "SPIRAL",
-      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
+      "duration_ms": 166400,
+      "name": "FUCK THE SPEAKERZ UP",
+      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "FUCK THE SPEAKERZ UP",
-        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
       },
       "artists": [
         {
           "name": "ISOxo",
           "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
         }
       ],
-      "duration_ms": 166400,
-      "name": "FUCK THE SPEAKERZ UP",
-      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
+      "duration_ms": 178285,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "Loaded Gun",
+        "url": "https://open.spotify.com/album/1sT9xYGwgYCcac9vuIPoQD"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "duration_ms": 194883,
+      "name": "Loaded Gun",
+      "url": "https://open.spotify.com/track/19PBU0nWYBOMzHOAxDBEcg"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
       },
@@ -1415,18 +1431,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Loaded Gun",
-        "url": "https://open.spotify.com/album/1sT9xYGwgYCcac9vuIPoQD"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz"
       },
       "artists": [
         {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
         }
       ],
-      "duration_ms": 194883,
-      "name": "Loaded Gun",
-      "url": "https://open.spotify.com/track/19PBU0nWYBOMzHOAxDBEcg"
+      "duration_ms": 214285,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1455,26 +1475,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2"
       },
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "Loose Pt. 3",
         "url": "https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 169308,
       "name": "Loose Pt. 3",
       "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        },
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "CHARIOT",
-        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "move! (that body)",
-      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Can I",
         "url": "https://open.spotify.com/album/35JD05BJsVNF0aRd71Qlwo"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 151254,
       "name": "Can I",
       "url": "https://open.spotify.com/track/0r56mYppTGefJHM9sKMBOX"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "CHARIOT",
+        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "move! (that body)",
+      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -2027,26 +2027,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Dominator",
-        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Deadcrow",
-          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
-        }
-      ],
-      "duration_ms": 173616,
-      "name": "Dominator",
-      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Go Mode",
         "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
       },
@@ -2067,6 +2047,26 @@
       "duration_ms": 232031,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "Dominator",
+        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Deadcrow",
+          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
+        }
+      ],
+      "duration_ms": 173616,
+      "name": "Dominator",
+      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "All The Money In The World",
+        "url": "https://open.spotify.com/album/3cMXPuYSRoIhNCGLGDVAz0"
+      },
+      "artists": [
+        {
+          "name": "Osmosis Jones",
+          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
+        }
+      ],
+      "duration_ms": 225984,
+      "name": "All The Money In The World",
+      "url": "https://open.spotify.com/track/56kEN75zpdmdlprv6VlejQ"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "Cream On Peaches",
         "url": "https://open.spotify.com/album/5ykRgIC5UpO42Tzz2sFr4a"
       },
@@ -2255,6 +2271,22 @@
       "duration_ms": 173492,
       "name": "Cream On Peaches",
       "url": "https://open.spotify.com/track/49TUY6lNEfaZaTgrzSfXfO"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "WILTED CULTURE",
+        "url": "https://open.spotify.com/album/1LtSHrk61r0umZ840pIMrr"
+      },
+      "artists": [
+        {
+          "name": "MUERTE",
+          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "WILTED CULTURE",
+      "url": "https://open.spotify.com/track/6Zt1IPpRDuHRr3Qn8ejjBl"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -2335,22 +2367,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "All The Money In The World",
-        "url": "https://open.spotify.com/album/3cMXPuYSRoIhNCGLGDVAz0"
-      },
-      "artists": [
-        {
-          "name": "Osmosis Jones",
-          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
-        }
-      ],
-      "duration_ms": 225984,
-      "name": "All The Money In The World",
-      "url": "https://open.spotify.com/track/56kEN75zpdmdlprv6VlejQ"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Soundboy",
         "url": "https://open.spotify.com/album/4i3Jyd8XH7EEU42JId6awO"
       },
@@ -2367,38 +2383,6 @@
       "duration_ms": 151111,
       "name": "Soundboy",
       "url": "https://open.spotify.com/track/58U3P9ZuOGwcJnz7L0RUw6"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "WILTED CULTURE",
-        "url": "https://open.spotify.com/album/1LtSHrk61r0umZ840pIMrr"
-      },
-      "artists": [
-        {
-          "name": "MUERTE",
-          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "WILTED CULTURE",
-      "url": "https://open.spotify.com/track/6Zt1IPpRDuHRr3Qn8ejjBl"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "Ur Not Invited",
-        "url": "https://open.spotify.com/album/37ZdIROabEs0emRlk5Pn0L"
-      },
-      "artists": [
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Ur Not Invited",
-      "url": "https://open.spotify.com/track/43KDztssiBwY3pbMeMUNmb"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -2435,6 +2419,22 @@
       "duration_ms": 187669,
       "name": "Free Ya",
       "url": "https://open.spotify.com/track/4wrFwrWLiTB51uBTTAEmXY"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "Ur Not Invited",
+        "url": "https://open.spotify.com/album/37ZdIROabEs0emRlk5Pn0L"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "Ur Not Invited",
+      "url": "https://open.spotify.com/track/43KDztssiBwY3pbMeMUNmb"
     },
     {
       "added_at": "2026-04-03 04:01:51",

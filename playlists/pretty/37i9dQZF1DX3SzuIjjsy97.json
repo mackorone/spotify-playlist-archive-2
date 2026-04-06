@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407293,
+  "num_followers": 407297,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,42 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
+        "name": "Six: The Musical (Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh"
+      },
+      "artists": [
+        {
+          "name": "SIX",
+          "url": "https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0"
+        }
+      ],
+      "duration_ms": 350218,
+      "name": "Ex-Wives",
+      "url": "https://open.spotify.com/track/03GBiorLGTk7T4IScIl4jj"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jonathan Bailey",
+          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "As Long As You\u2019re Mine",
+      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -719,42 +755,6 @@
       "duration_ms": 447991,
       "name": "No One Mourns the Wicked",
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jonathan Bailey",
-          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "As Long As You\u2019re Mine",
-      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
-        "name": "Six: The Musical (Studio Cast Recording)",
-        "url": "https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh"
-      },
-      "artists": [
-        {
-          "name": "SIX",
-          "url": "https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0"
-        }
-      ],
-      "duration_ms": 350218,
-      "name": "Ex-Wives",
-      "url": "https://open.spotify.com/track/03GBiorLGTk7T4IScIl4jj"
     },
     {
       "added_at": "2026-03-06 13:38:21",

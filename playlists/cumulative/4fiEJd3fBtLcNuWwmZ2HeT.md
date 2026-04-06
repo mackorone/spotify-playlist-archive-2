@@ -4,10 +4,11 @@
 
 > Lmao \-.\-
 
-484 songs - 1 day 4 hr 14 min
+486 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["N A A."](https://open.spotify.com/track/4c9EvDLk0hE8LaacS13otU) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | ["N A A."](https://open.spotify.com/album/3yAY2vBhNtxNcKwOgMGHrF) | 3:36 | 2026-04-05 |  |
 | [''''''](https://open.spotify.com/track/2IdCKcMOO5FuAGvYqsZ6p3) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [''''''](https://open.spotify.com/album/5uhEQY2SM46YFVt0KTBqTu) | 2:32 | 2025-06-01 |  |
 | [\-\-\-\-\-\-](https://open.spotify.com/track/517pv3Ps8IdYdzFoH08jBY) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [\-\-\-\-\-\-](https://open.spotify.com/album/5K8d4ggXg7yFcBwVn4VtGa) | 3:53 | 2026-02-23 |  |
 | [..](https://open.spotify.com/track/6T0uBvi0KwEVjFeUjWfHI2) | [subeteanatanoseidesu](https://open.spotify.com/artist/4Jgqs4jg9z7AkUduc66GEc) | [\. .\. ...](https://open.spotify.com/album/1b285BnzfH2WwwZ2zyLQkf) | 4:12 | 2026-04-02 |  |
@@ -302,6 +303,7 @@
 | [witch trial](https://open.spotify.com/track/5v9f1ZftJVVWV6Hg2FwYov) | [Len](https://open.spotify.com/artist/6oMfS8fHX0CyDwRptywVjr), [否](https://open.spotify.com/artist/57Rl65o9Q40FfEWqgc05tx) | [witch trial](https://open.spotify.com/album/5F8hbFbQ6gLDkhwYaoGI4t) | 2:36 | 2025-07-07 |  |
 | [worst case scenario](https://open.spotify.com/track/7HXFzil0Wio8LfKr7hIjFP) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [worst case scenario](https://open.spotify.com/album/7uMW933C3vdA1GNuvNnfkL) | 3:34 | 2025-09-25 |  |
 | [Wozwald](https://open.spotify.com/track/3okYYZTWf6Z2MLxwdDkwVw) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x), [NILFRUITS](https://open.spotify.com/artist/4vb4gG2AkqqY7W6wBIGJfU) | [Wozwald](https://open.spotify.com/album/5u0ESZHKZumWBJQD2RXRCv) | 4:52 | 2026-02-18 |  |
+| [Write over me](https://open.spotify.com/track/5e1RqXcJg9CbVsywsm85q4) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [Write over me](https://open.spotify.com/album/6IEHdd3zW9v3hIHLBzh1z5) | 3:11 | 2026-04-05 |  |
 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 | 2025-08-31 |  |
 | [You Are Also Like Me](https://open.spotify.com/track/6onHrimFWsQSZ1VxyRAaUy) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/7qRTxfrH3dQ4camvRDNgUP) | 3:12 | 2025-09-25 |  |
 | [You will never forget me](https://open.spotify.com/track/452ASKVqm4i7fvHevyBgF3) | [Awa Dobuno](https://open.spotify.com/artist/4s9gPwB69I2H9rEwKgrWoZ) | [You will never forget me](https://open.spotify.com/album/7L8TFycwRIW9yGYsiC065k) | 3:54 | 2024-06-08 |  |

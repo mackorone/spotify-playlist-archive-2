@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  lucca",
-  "num_followers": 47087,
+  "num_followers": 47089,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,38 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
+        "name": "En Stor Lykkelig Familie",
+        "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
+      },
+      "artists": [
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "duration_ms": 195777,
+      "name": "En Stor Lykkelig Familie",
+      "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
         "name": "Ring, n\u00e5r du har tid",
         "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
       },
@@ -235,38 +267,6 @@
       "duration_ms": 394340,
       "name": "Ring, n\u00e5r du har tid",
       "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
-        "name": "En Stor Lykkelig Familie",
-        "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
-      },
-      "artists": [
-        {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
-        }
-      ],
-      "duration_ms": 195777,
-      "name": "En Stor Lykkelig Familie",
-      "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "Uendelighed",
-        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 173442,
-      "name": "Uendelighed",
-      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
         "name": "Livet Er For Kort",
         "url": "https://open.spotify.com/album/2yxKdiluzCssx2saJ4h3NF"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 170738,
       "name": "Livet Er For Kort",
       "url": "https://open.spotify.com/track/6QynJvly6ZcSpcEweJwQEt"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "Uendelighed",
+        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 173442,
+      "name": "Uendelighed",
+      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "Kun for os",
-        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        }
-      ],
-      "duration_ms": 200674,
-      "name": "Kun for os",
-      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
         "name": "GUTWORK",
         "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 203373,
       "name": "Nights Like These",
       "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "Kun for os",
+        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 200674,
+      "name": "Kun for os",
+      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "Kraftidiot",
-        "url": "https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 165521,
-      "name": "Idiot",
-      "url": "https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
         "name": "Pissoir",
         "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 185533,
       "name": "Pissoir",
       "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "Kraftidiot",
+        "url": "https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 165521,
+      "name": "Idiot",
+      "url": "https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "F\u00f8rhen",
-        "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
-      },
-      "artists": [
-        {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
-        }
-      ],
-      "duration_ms": 199313,
-      "name": "F\u00f8rhen",
-      "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
         "name": "B\u00e6nkevarmer",
         "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "You Want The World",
-        "url": "https://open.spotify.com/album/7xrkfiQ19Ov8H78vNGgrsS"
+        "name": "F\u00f8rhen",
+        "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
       "artists": [
         {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
         }
       ],
-      "duration_ms": 162876,
-      "name": "You Want The World",
-      "url": "https://open.spotify.com/track/0WyzgKVsL3GNfaPZsUOUG0"
+      "duration_ms": 199313,
+      "name": "F\u00f8rhen",
+      "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -907,6 +891,22 @@
       "duration_ms": 267609,
       "name": "ja ja ja",
       "url": "https://open.spotify.com/track/0R2ZuzA1mZcrIWFhpOZnSP"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "You Want The World",
+        "url": "https://open.spotify.com/album/7xrkfiQ19Ov8H78vNGgrsS"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "duration_ms": 162876,
+      "name": "You Want The World",
+      "url": "https://open.spotify.com/track/0WyzgKVsL3GNfaPZsUOUG0"
     },
     {
       "added_at": "2026-03-27 09:39:18",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-03-27 09:39:18",
       "album": {
-        "name": "SIDDER FAST",
-        "url": "https://open.spotify.com/album/1AzZUHmbgs54ifcIe6muYe"
-      },
-      "artists": [
-        {
-          "name": "BL\u00c5",
-          "url": "https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N"
-        }
-      ],
-      "duration_ms": 171744,
-      "name": "SIDDER FAST",
-      "url": "https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK"
-    },
-    {
-      "added_at": "2026-03-27 09:39:18",
-      "album": {
         "name": "Elsk Mig",
         "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 236624,
       "name": "Se Mig",
       "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
+    },
+    {
+      "added_at": "2026-03-27 09:39:18",
+      "album": {
+        "name": "SIDDER FAST",
+        "url": "https://open.spotify.com/album/1AzZUHmbgs54ifcIe6muYe"
+      },
+      "artists": [
+        {
+          "name": "BL\u00c5",
+          "url": "https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N"
+        }
+      ],
+      "duration_ms": 171744,
+      "name": "SIDDER FAST",
+      "url": "https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK"
     }
   ],
   "unique_name": "ung kniv ",

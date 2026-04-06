@@ -788,7 +788,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 211121,
       "name": "Encourage",
       "url": "https://open.spotify.com/track/7zN8mMUsLsDEKoXnbR0pqR"
@@ -2321,6 +2321,28 @@
     },
     {
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NUn2bpUugGemKtw5udFGO"
+      },
+      "artists": [
+        {
+          "name": "Gyubin",
+          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
+        },
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257280,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/7D98DR6SUkx8qpCgtczVmg"
+    },
+    {
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
       },
@@ -2480,6 +2502,24 @@
       "duration_ms": 234954,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
+      },
+      "artists": [
+        {
+          "name": "sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224080,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu"
     },
     {
       "album": {
@@ -2816,7 +2856,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 248080,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/4KkQSWIgVKuLZFOydO1Tq9"
@@ -2914,6 +2954,24 @@
       "duration_ms": 256066,
       "name": "Wandering Youth",
       "url": "https://open.spotify.com/track/0JNenWY0Dt33vfqHQGnX9F"
+    },
+    {
+      "album": {
+        "name": "The Strange Times",
+        "url": "https://open.spotify.com/album/0a7m6YXW8X5ZPPLECWmG7c"
+      },
+      "artists": [
+        {
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284036,
+      "name": "Wanna disappear",
+      "url": "https://open.spotify.com/track/3pjThRSCUc3IbtzYLzLc7a"
     },
     {
       "album": {
@@ -3238,7 +3296,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 202787,
       "name": "\ub098\ubb34\ub294 \uacb0\uad6d \uaca8\uc6b8\uc744 \uacac\ub38c\ub0bc \uac70\uc57c as always",
       "url": "https://open.spotify.com/track/7esrhGo7F9v2HIYzq59FR0"

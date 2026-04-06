@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari con Los Pericos & Nonpalidece",
-  "num_followers": 1171118,
+  "num_followers": 1171043,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGtSofhfx390WZxSFBBeDUK3aUCj",
+  "snapshot_id": "AAAAACgIi2YNnRktA198IdITiuxFlE0J",
   "tracks": [
     {
       "added_at": "2026-03-27 03:00:31",
@@ -559,6 +559,42 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 276904,
+      "name": "ME TENGO QUE IR",
+      "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
+      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -583,38 +619,18 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "25 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
       "artists": [
         {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
-      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 276904,
-      "name": "ME TENGO QUE IR",
-      "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
+      "duration_ms": 296666,
+      "name": "Reggae Para Los Amigos",
+      "url": "https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -631,22 +647,6 @@
       "duration_ms": 314772,
       "name": "La Flor",
       "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "Reggae Para Los Amigos",
-      "url": "https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
+      },
+      "artists": [
+        {
+          "name": "Sergent Garcia",
+          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
+        }
+      ],
+      "duration_ms": 456933,
+      "name": "Los desaparecidos",
+      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "La Distancia",
         "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 142962,
       "name": "BOOM BOOM",
       "url": "https://open.spotify.com/track/2I9eR0VGMWyqadUK3HD7KE"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
-      },
-      "artists": [
-        {
-          "name": "Sergent Garcia",
-          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
-        }
-      ],
-      "duration_ms": 456933,
-      "name": "Los desaparecidos",
-      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "Como Un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 227265,
+      "name": "Como Un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "Lo que piensen de mi",
         "url": "https://open.spotify.com/album/6IVbC1LTF7lGNyVBNXdJkF"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 206794,
       "name": "Lo que piensen de mi",
       "url": "https://open.spotify.com/track/5rcTB3yayyjw5I1ZhpLHkp"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "Como Un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 227265,
-      "name": "Como Un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "Volando",
+        "url": "https://open.spotify.com/album/7v9HxzEvMgfrrWznESp8xB"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 190761,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/0wxpeuCoSkPpbviobSt54E"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "Llegaste A M\u00ed",
         "url": "https://open.spotify.com/album/29bASZaLBI3n4wfIh9dren"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 212342,
       "name": "Llegaste A M\u00ed",
       "url": "https://open.spotify.com/track/5grcUqpWzP1TPr4cmTGGnR"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "Volando",
-        "url": "https://open.spotify.com/album/7v9HxzEvMgfrrWznESp8xB"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 190761,
-      "name": "Volando",
-      "url": "https://open.spotify.com/track/0wxpeuCoSkPpbviobSt54E"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1843,46 +1843,18 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "Cypher #6 (Reggae Cypher)",
-        "url": "https://open.spotify.com/album/4S4TBSs0yEraLAQH6n1V9q"
+        "name": "C\u00f3mo Voy a Olvidarte",
+        "url": "https://open.spotify.com/album/7xYk2XnU8ZoJsIaA5UBTNP"
       },
       "artists": [
         {
-          "name": "Pure Negga",
-          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
-        },
-        {
-          "name": "SFDK",
-          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
-        },
-        {
-          "name": "Fyahbwoy",
-          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
-        },
-        {
-          "name": "Chusterfield",
-          "url": "https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8"
-        },
-        {
-          "name": "King Magneto",
-          "url": "https://open.spotify.com/artist/1OLhbYSBp0ySNWoTjNcxrC"
-        },
-        {
-          "name": "Little Pepe",
-          "url": "https://open.spotify.com/artist/33CBC8BnDtnQKsgK2JeOyO"
-        },
-        {
-          "name": "Legendario",
-          "url": "https://open.spotify.com/artist/6X97A7Vfil4DrnAxEJBPc2"
-        },
-        {
-          "name": "Mistah Godeh",
-          "url": "https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L"
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
         }
       ],
-      "duration_ms": 489000,
-      "name": "Cypher #6 (Reggae Cypher)",
-      "url": "https://open.spotify.com/track/5Cv0QuSCDyGDaLSA70N9pV"
+      "duration_ms": 175123,
+      "name": "C\u00f3mo Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/63mOOfk3Z85c3bxTC9hT4m"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

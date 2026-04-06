@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 220293,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 171375,
       "name": "My Oh My (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
@@ -4800,7 +4800,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 161162,
       "name": "The Grand Design",
       "url": "https://open.spotify.com/track/1U6AFMbiGI3tgCukSTVdHO"
@@ -4822,6 +4822,24 @@
       "duration_ms": 161162,
       "name": "The Grand Design",
       "url": "https://open.spotify.com/track/3pVOogOInku8irJgvk91yh"
+    },
+    {
+      "album": {
+        "name": "Season 2 (Deluxe LP)",
+        "url": "https://open.spotify.com/album/00LVEGAf8cMPwVp4O1Lelz"
+      },
+      "artists": [
+        {
+          "name": "Saukrates",
+          "url": "https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161162,
+      "name": "The Grand Design",
+      "url": "https://open.spotify.com/track/5jKjY6Ip0iQ6TxqYtYpG6T"
     },
     {
       "album": {

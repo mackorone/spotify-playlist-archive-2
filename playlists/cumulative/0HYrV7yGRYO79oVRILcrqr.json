@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Andando Sin Prisa",
+        "url": "https://open.spotify.com/album/5RCbfhmxo8NhkWQJZsIApe"
+      },
+      "artists": [
+        {
+          "name": "El Sue\u00f1o de V\u00e1kner",
+          "url": "https://open.spotify.com/artist/7fWvpRmhgfH4IJpeXain5l"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268319,
+      "name": "Andando Sin Prisa",
+      "url": "https://open.spotify.com/track/7F14FNeb1lWPxNHXTkJvjk"
+    },
+    {
+      "album": {
         "name": "Optimist",
         "url": "https://open.spotify.com/album/5A5PiRlBXDmIr7XhXoEBln"
       },
@@ -3568,6 +3586,24 @@
       "duration_ms": 197489,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/2mTKkUS3mPXZNPhoAoWtkw"
+      },
+      "artists": [
+        {
+          "name": "Sugarcane Hangover",
+          "url": "https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/3SLOgxmU82Hn6MOAxQuem3"
     },
     {
       "album": {

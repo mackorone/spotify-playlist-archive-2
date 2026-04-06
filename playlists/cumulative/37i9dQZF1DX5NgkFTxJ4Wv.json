@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 205788,
       "name": "Clear Pink Noise",
       "url": "https://open.spotify.com/track/41FRnnAKgKgx0ui0HJhM6Q"
@@ -3134,6 +3134,24 @@
       "duration_ms": 152000,
       "name": "Pink Noise Frequency Bliss",
       "url": "https://open.spotify.com/track/3akh1Sjb4UxtE6GVnpA76e"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Glow",
+        "url": "https://open.spotify.com/album/5PAoaes5m0oruy2Yg94MHb"
+      },
+      "artists": [
+        {
+          "name": "Focus Frequency",
+          "url": "https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Pink Noise Glow",
+      "url": "https://open.spotify.com/track/58nOMJCuSLeQtWAVTTNoSR"
     },
     {
       "album": {

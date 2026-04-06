@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Gweri B en portada.",
-  "num_followers": 308051,
+  "num_followers": 308026,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2026-04-03 06:00:53",
       "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 198036,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+    },
+    {
+      "added_at": "2026-04-03 06:00:53",
+      "album": {
         "name": "Si ma\u00f1ana me muero",
         "url": "https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1"
       },
@@ -1875,22 +1891,6 @@
     {
       "added_at": "2026-04-03 06:00:53",
       "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 198036,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
-    },
-    {
-      "added_at": "2026-04-03 06:00:53",
-      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2026-04-03 06:00:53",
       "album": {
-        "name": "En Lo Prohibido",
-        "url": "https://open.spotify.com/album/21rKdI5xNAs9DCt71agCKz"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "En Lo Prohibido",
-      "url": "https://open.spotify.com/track/3qXIbrb3jEJen3NYlySCdb"
-    },
-    {
-      "added_at": "2026-04-03 06:00:53",
-      "album": {
         "name": "Maniaque",
         "url": "https://open.spotify.com/album/1bTWfPzmSsyWfgDyqQQ2ju"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 155970,
       "name": "Maniaque",
       "url": "https://open.spotify.com/track/0zWhZGXOh5EZyAbXeWdTbL"
+    },
+    {
+      "added_at": "2026-04-03 06:00:53",
+      "album": {
+        "name": "En Lo Prohibido",
+        "url": "https://open.spotify.com/album/21rKdI5xNAs9DCt71agCKz"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "En Lo Prohibido",
+      "url": "https://open.spotify.com/track/3qXIbrb3jEJen3NYlySCdb"
     },
     {
       "added_at": "2026-04-03 06:00:53",

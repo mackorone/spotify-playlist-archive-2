@@ -1,6 +1,6 @@
 {
   "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jduck. Artwork: Isu Kim",
-  "num_followers": 12272,
+  "num_followers": 12273,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
-        "url": "https://open.spotify.com/album/1vB0weMenTP8P7ikHJqUa0"
-      },
-      "artists": [
-        {
-          "name": "La Moon",
-          "url": "https://open.spotify.com/artist/7J2qcWgTJLmRFdOdl9rn5g"
-        }
-      ],
-      "duration_ms": 198367,
-      "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
-      "url": "https://open.spotify.com/track/0fLernOp42FJPLu1XaknLV"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "\u0e42\u0e14\u0e1e\u0e32\u0e21\u0e35\u0e19 (Dopamine)",
         "url": "https://open.spotify.com/album/0rDyYO85nyHQ9k3lUzofeR"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 255000,
       "name": "\u0e42\u0e14\u0e1e\u0e32\u0e21\u0e35\u0e19 (Dopamine)",
       "url": "https://open.spotify.com/track/0jfldE751eWtWo2K1VXjHT"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
+        "url": "https://open.spotify.com/album/1vB0weMenTP8P7ikHJqUa0"
+      },
+      "artists": [
+        {
+          "name": "La Moon",
+          "url": "https://open.spotify.com/artist/7J2qcWgTJLmRFdOdl9rn5g"
+        }
+      ],
+      "duration_ms": 198367,
+      "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
+      "url": "https://open.spotify.com/track/0fLernOp42FJPLu1XaknLV"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e15\u0e49\u0e2d\u0e07\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21",
-        "url": "https://open.spotify.com/album/1yqjeOdBa2GoZL5qyBLLET"
-      },
-      "artists": [
-        {
-          "name": "lostbeans",
-          "url": "https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld"
-        }
-      ],
-      "duration_ms": 247843,
-      "name": "\u0e15\u0e49\u0e2d\u0e07\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21",
-      "url": "https://open.spotify.com/track/1WX6tFWTzaiZFeh4E59FRJ"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "\u0e04\u0e19\u0e40\u0e2b\u0e47\u0e19\u0e41\u0e01\u0e48\u0e15\u0e31\u0e27 (DOPE)",
         "url": "https://open.spotify.com/album/01Cg3LZd30LVxmkxGZWPLw"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 219718,
       "name": "\u0e04\u0e19\u0e40\u0e2b\u0e47\u0e19\u0e41\u0e01\u0e48\u0e15\u0e31\u0e27 (DOPE)",
       "url": "https://open.spotify.com/track/2iSIPjNJqQHbPBqVU9seP9"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "\u0e15\u0e49\u0e2d\u0e07\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21",
+        "url": "https://open.spotify.com/album/1yqjeOdBa2GoZL5qyBLLET"
+      },
+      "artists": [
+        {
+          "name": "lostbeans",
+          "url": "https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld"
+        }
+      ],
+      "duration_ms": 247843,
+      "name": "\u0e15\u0e49\u0e2d\u0e07\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/1WX6tFWTzaiZFeh4E59FRJ"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -251,34 +251,18 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e1e\u0e48\u0e2d\u0e40\u0e18\u0e2d\u0e0a\u0e37\u0e48\u0e2d\u0e44\u0e23? (crazy question)",
-        "url": "https://open.spotify.com/album/1gDb8Oahh6uHy4lK3tRN8a"
+        "name": "\u0e40\u0e21\u0e25\u0e32\u0e42\u0e17\u0e19\u0e34\u0e19",
+        "url": "https://open.spotify.com/album/5ARjmuZu0onEIOUrVRzigX"
       },
       "artists": [
         {
-          "name": "chaopimburabha",
-          "url": "https://open.spotify.com/artist/72oN0LjuQweZ8i1xKM3Err"
+          "name": "PLERNG",
+          "url": "https://open.spotify.com/artist/4rPqckx0SX15z8IzFBpfUe"
         }
       ],
-      "duration_ms": 260905,
-      "name": "\u0e1e\u0e48\u0e2d\u0e40\u0e18\u0e2d\u0e0a\u0e37\u0e48\u0e2d\u0e44\u0e23? (crazy question)",
-      "url": "https://open.spotify.com/track/5osNdD6oA5UcDMK0R13PJ3"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
-        "name": "\u0e23\u0e31\u0e1a\u0e1a\u0e23\u0e34\u0e08\u0e32\u0e04",
-        "url": "https://open.spotify.com/album/0nyIXUpyBSOH7XjYNm8SMw"
-      },
-      "artists": [
-        {
-          "name": "lostbeans",
-          "url": "https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld"
-        }
-      ],
-      "duration_ms": 264375,
-      "name": "\u0e23\u0e31\u0e1a\u0e1a\u0e23\u0e34\u0e08\u0e32\u0e04",
-      "url": "https://open.spotify.com/track/52040FHUUkqLk15JYHlG87"
+      "duration_ms": 326500,
+      "name": "\u0e40\u0e21\u0e25\u0e32\u0e42\u0e17\u0e19\u0e34\u0e19",
+      "url": "https://open.spotify.com/track/643gsrWhZ4gBjYnpG9rTE0"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -299,18 +283,34 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e40\u0e21\u0e25\u0e32\u0e42\u0e17\u0e19\u0e34\u0e19",
-        "url": "https://open.spotify.com/album/5ARjmuZu0onEIOUrVRzigX"
+        "name": "\u0e23\u0e31\u0e1a\u0e1a\u0e23\u0e34\u0e08\u0e32\u0e04",
+        "url": "https://open.spotify.com/album/0nyIXUpyBSOH7XjYNm8SMw"
       },
       "artists": [
         {
-          "name": "PLERNG",
-          "url": "https://open.spotify.com/artist/4rPqckx0SX15z8IzFBpfUe"
+          "name": "lostbeans",
+          "url": "https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld"
         }
       ],
-      "duration_ms": 326500,
-      "name": "\u0e40\u0e21\u0e25\u0e32\u0e42\u0e17\u0e19\u0e34\u0e19",
-      "url": "https://open.spotify.com/track/643gsrWhZ4gBjYnpG9rTE0"
+      "duration_ms": 264375,
+      "name": "\u0e23\u0e31\u0e1a\u0e1a\u0e23\u0e34\u0e08\u0e32\u0e04",
+      "url": "https://open.spotify.com/track/52040FHUUkqLk15JYHlG87"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "\u0e1e\u0e48\u0e2d\u0e40\u0e18\u0e2d\u0e0a\u0e37\u0e48\u0e2d\u0e44\u0e23? (crazy question)",
+        "url": "https://open.spotify.com/album/1gDb8Oahh6uHy4lK3tRN8a"
+      },
+      "artists": [
+        {
+          "name": "chaopimburabha",
+          "url": "https://open.spotify.com/artist/72oN0LjuQweZ8i1xKM3Err"
+        }
+      ],
+      "duration_ms": 260905,
+      "name": "\u0e1e\u0e48\u0e2d\u0e40\u0e18\u0e2d\u0e0a\u0e37\u0e48\u0e2d\u0e44\u0e23? (crazy question)",
+      "url": "https://open.spotify.com/track/5osNdD6oA5UcDMK0R13PJ3"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
-        "url": "https://open.spotify.com/album/02FxppO27bX1sTyyx6eMXB"
-      },
-      "artists": [
-        {
-          "name": "PAPERCUP",
-          "url": "https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk"
-        }
-      ],
-      "duration_ms": 181578,
-      "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
-      "url": "https://open.spotify.com/track/2aY504oSaFaF6ALq5gqfuD"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "She's (\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d)",
         "url": "https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "Stuck in Time",
-        "url": "https://open.spotify.com/album/0nUJ88CDBrdmhBxBWWvIrp"
+        "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
+        "url": "https://open.spotify.com/album/02FxppO27bX1sTyyx6eMXB"
       },
       "artists": [
         {
-          "name": "THREETIME",
-          "url": "https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV"
+          "name": "PAPERCUP",
+          "url": "https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk"
         }
       ],
-      "duration_ms": 263636,
-      "name": "Stuck in Time",
-      "url": "https://open.spotify.com/track/3JQr283KNSYui2HPtkwJYO"
+      "duration_ms": 181578,
+      "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
+      "url": "https://open.spotify.com/track/2aY504oSaFaF6ALq5gqfuD"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -507,6 +491,22 @@
       "duration_ms": 217105,
       "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/6RvUaEjzkMQPD0CPfRnIkQ"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "Stuck in Time",
+        "url": "https://open.spotify.com/album/0nUJ88CDBrdmhBxBWWvIrp"
+      },
+      "artists": [
+        {
+          "name": "THREETIME",
+          "url": "https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV"
+        }
+      ],
+      "duration_ms": 263636,
+      "name": "Stuck in Time",
+      "url": "https://open.spotify.com/track/3JQr283KNSYui2HPtkwJYO"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
-        "url": "https://open.spotify.com/album/3TAyz9HaDGqsZ1msdGjjuN"
-      },
-      "artists": [
-        {
-          "name": "Ohmchom",
-          "url": "https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9"
-        }
-      ],
-      "duration_ms": 120369,
-      "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
-      "url": "https://open.spotify.com/track/4phUpziIYbWDXytcL83NEw"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "\u0e19\u0e34\u0e17\u0e32\u0e19\u0e2b\u0e25\u0e2d\u0e01\u0e40\u0e14\u0e47\u0e01 (fairytale)",
         "url": "https://open.spotify.com/album/5e7aho7zMkYHZlklzyVBu6"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 170893,
       "name": "\u0e19\u0e34\u0e17\u0e32\u0e19\u0e2b\u0e25\u0e2d\u0e01\u0e40\u0e14\u0e47\u0e01 (fairytale)",
       "url": "https://open.spotify.com/track/2Im2FwYxknMHkbcfIqmbHB"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
+        "url": "https://open.spotify.com/album/3TAyz9HaDGqsZ1msdGjjuN"
+      },
+      "artists": [
+        {
+          "name": "Ohmchom",
+          "url": "https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9"
+        }
+      ],
+      "duration_ms": 120369,
+      "name": "\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e14\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/4phUpziIYbWDXytcL83NEw"
     },
     {
       "added_at": "2026-03-20 08:36:57",

@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-228 songs - 10 hr 54 min
+229 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Small Birds and Swirling Stream](https://open.spotify.com/track/01wmtbMHxi9M5swTTWl40Y) | [Alisha Pearce](https://open.spotify.com/artist/0BCrRTZJYvA0AkHRhPdfln) | [Small Birds and Swirling Stream](https://open.spotify.com/album/5Cm3gkO6u5UXY7moX1QMod) | 2:29 | 2023-03-04 | 2026-04-03 |
 | [Small Forest River](https://open.spotify.com/track/4hpHmF6GbAT1fLQ1JKbNG5) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Small Forest River](https://open.spotify.com/album/0XkHNDr5SbuQA8GPyvr8ty) | 3:32 | 2022-07-04 | 2024-04-19 |
 | [Small Forest River](https://open.spotify.com/track/70lS8JZMk66GUaYn1UIL8b) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Small Forest River](https://open.spotify.com/album/3yAarsrdwNGlqFZlzCWWMy) | 3:32 | 2022-03-25 | 2025-09-10 |
+| [Small River Stream in the Jungle](https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Small River Stream in the Jungle](https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj) | 4:41 | 2026-04-02 |  |
 | [Small Waves Hitting Beach](https://open.spotify.com/track/0qLbSqEgFtyLOp1epIw1fa) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Seawaves](https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4) | 4:37 | 2022-03-25 | 2024-03-27 |
 | [Smoothe Suburban Forest Rain 2](https://open.spotify.com/track/2BhG0szLZb5rqpIdXu0hGh) | [Mori Desu](https://open.spotify.com/artist/3pocUa48FP2N3zVmIKRYxv) | [Smoothe Suburban Forest Rain](https://open.spotify.com/album/0Dk4VKHbpAqFAxntBbiAwG) | 2:34 | 2022-03-25 | 2025-10-27 |
 | [Soft & Crispy Rain](https://open.spotify.com/track/6bhxAE1z4FCDkJJKQBkV6f) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 1:58 | 2022-03-25 | 2023-06-20 |
@@ -206,7 +207,7 @@
 | [Sunday Morning at the Farm](https://open.spotify.com/track/4ID4aBYvrUMqWqMQhcl0R1) | [passingtime](https://open.spotify.com/artist/7DVOxo94n2hE0b70weUZU4) | [Sunday Morning at the Farm](https://open.spotify.com/album/5F9LGacrHT9BPyIDqvhIcN) | 2:24 | 2025-07-21 |  |
 | [Sunny Windy Day](https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Sunny Windy Day](https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g) | 4:08 | 2025-07-21 |  |
 | [Taking Cover From Rain](https://open.spotify.com/track/4h7CjznZSWhWp7hgotMUjM) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [precip](https://open.spotify.com/album/2wmOEwDHDcPHuSkJM7NDcp) | 2:35 | 2022-03-25 |  |
-| [Temperate Rainforest Sounds](https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr) | [Zen Sound Bath](https://open.spotify.com/artist/5doBUpyyFeJlgY7LakBaGE) | [Temperate Rainforest Sounds](https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou) | 3:11 | 2024-12-03 |  |
+| [Temperate Rainforest Sounds](https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr) | [Zen Sound Bath](https://open.spotify.com/artist/5doBUpyyFeJlgY7LakBaGE) | [Temperate Rainforest Sounds](https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou) | 3:11 | 2024-12-03 | 2026-04-06 |
 | [Tempête profonde](https://open.spotify.com/track/1mSKUbvJG5Gmde0Kh9RDeQ) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Pluie sauvage](https://open.spotify.com/album/79cchmHisOerpyMolzpLZl) | 2:58 | 2022-07-04 |  |
 | [The Cuckoo by the Lagoon](https://open.spotify.com/track/6jwd9j7uqU3uo7VQTEgxZQ) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:09 | 2022-03-25 | 2023-06-20 |
 | [The Millpond VI](https://open.spotify.com/track/5dEqC0Eg2Djg5PJ0Q963y1) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond VI](https://open.spotify.com/album/2Uoy8TmdDdzeWv3r9VqOpr) | 2:15 | 2025-07-21 |  |

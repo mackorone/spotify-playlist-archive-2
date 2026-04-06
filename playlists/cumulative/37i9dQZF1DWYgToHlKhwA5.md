@@ -4,7 +4,7 @@
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-474 songs - 21 hr 30 min
+475 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [Storming For Days](https://open.spotify.com/track/4JLJG5dgymA545MS4u95bZ) | [Salvo](https://open.spotify.com/artist/4PHEKFLzjQUNk5zenIMW9n) | [Thundershower](https://open.spotify.com/album/6yMeqScBJeUR6uWV1ea3ve) | 3:36 | 2022-07-19 | 2026-01-15 |
 | [Storms](https://open.spotify.com/track/5UCoKMFGx2aKJffRxMv0Wd) | [Thunder Dome](https://open.spotify.com/artist/5nlVjMWYwVUiiY4OPrxjLv) | [Thunder Dome](https://open.spotify.com/album/1FbTu8TE2wI4hMKxCoCco5) | 1:40 | 2022-07-19 | 2023-06-16 |
 | [Storms a Brewing](https://open.spotify.com/track/0VElp1F9YurCuIl6NhqZc5) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Storms a Brewing](https://open.spotify.com/album/0usFjvNIwzOiI56FDysgNj) | 3:23 | 2023-04-07 |  |
-| [Storms Eye](https://open.spotify.com/track/5tu0yyz3KaVGWSxs6RchPA) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Dream In Thunder](https://open.spotify.com/album/2aytvfAbcfIXI0hiBZvK5M) | 3:36 | 2023-06-15 |  |
+| [Storms Eye](https://open.spotify.com/track/5tu0yyz3KaVGWSxs6RchPA) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Dream In Thunder](https://open.spotify.com/album/2aytvfAbcfIXI0hiBZvK5M) | 3:36 | 2023-06-15 | 2026-04-06 |
 | [Storms Out](https://open.spotify.com/track/3eRC23AjDFRiojUhdbrkDM) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [Storms Out](https://open.spotify.com/album/6uhoM1qN6x8zjn234fwA9c) | 2:54 | 2023-04-07 |  |
 | [Stormy Conditions](https://open.spotify.com/track/5s5LmyLUHj01WhJLYruZwS) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-07-19 |  |
 | [Stormy Days](https://open.spotify.com/track/1x0tBL850DfMvbKP6FGTbG) | [Thunderive](https://open.spotify.com/artist/6kiS6SmEZCpgDczXhYXlHK) | [Sleepy Storm](https://open.spotify.com/album/05lmfx8mKvNMhW93NDINmQ) | 2:24 | 2023-06-15 | 2024-02-13 |
@@ -411,6 +411,7 @@
 | [Thunder and Storm](https://open.spotify.com/track/7ouWjcWsBbsKn9jx6oPAbG) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Åska](https://open.spotify.com/album/26Lnz2ggmNLq4ykOOtl3QA) | 3:28 | 2022-07-19 | 2024-03-12 |
 | [Thunder And Storm](https://open.spotify.com/track/3W1bHskcJ8bcJdwpD2HCBE) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Storm All Night](https://open.spotify.com/album/0PmO749OkakgoafumE8e7H) | 2:47 | 2022-07-19 | 2025-12-24 |
 | [Thunder Around The Clock](https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Century Storm](https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ) | 2:20 | 2023-04-07 |  |
+| [Thunder Behind Clouds](https://open.spotify.com/track/4NLJH7fvTbkcxGEu8a4d9G) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [Thunder Behind Clouds](https://open.spotify.com/album/5olUVSHTLrCYCCU503DF2g) | 2:38 | 2026-04-01 |  |
 | [Thunder Bloom](https://open.spotify.com/track/3fXFYWhqRLFEnKFnJQtqwe) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Thunder Bloom](https://open.spotify.com/album/3jVtRRrHawnoAXyAkcs2jn) | 2:22 | 2026-04-01 |  |
 | [Thunder by the Cabin](https://open.spotify.com/track/6iCBpDuVmglbu9plJK4te5) | [Weather Experience](https://open.spotify.com/artist/6Qg8anoDrLGeVLBhEdbp55) | [Thunder & Lightning](https://open.spotify.com/album/69xOVLNyb5CJaDhmFJDrLp) | 3:04 | 2022-07-19 | 2023-06-23 |
 | [Thunder In Motion](https://open.spotify.com/track/66PaJAfv8IGEjBj0cggYnZ) | [Weathererse](https://open.spotify.com/artist/6Pt0aqNLG6v5g0caOTgcll) | [Swim In The Storm](https://open.spotify.com/album/3TMBIvmt6YUTC0gh1O1Kax) | 1:55 | 2022-07-19 | 2023-06-16 |

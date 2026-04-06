@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,386 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,432 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 59 | [Me Voy al Amanecer](https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Me Voy al Amanecer](https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr) | 3:22 |
 | 60 | [Me Quiero Casar Contigo](https://open.spotify.com/track/0o6Bfv0kHnlRyYgctVARgt) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Te Amo](https://open.spotify.com/album/2XYsBt4CyPX6BNx1uSAXOD) | 2:32 |
 
-Snapshot ID: `AAAAABugPVHJ26iURNEfUIfH4C/MQ8V2`
+Snapshot ID: `AAAAAK1SzMAsKNojgXMIl28WqnXKSCq4`

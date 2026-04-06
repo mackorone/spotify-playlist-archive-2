@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 130026,
+  "num_followers": 130029,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -323,26 +323,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "816 To Nunhead",
-        "url": "https://open.spotify.com/album/1OKJNHif5s5NzcScX4ac44"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        },
-        {
-          "name": "Isaac Aesili",
-          "url": "https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE"
-        }
-      ],
-      "duration_ms": 307082,
-      "name": "78 To Stanley Bay",
-      "url": "https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Tracks of the Blue Sky",
         "url": "https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 199138,
       "name": "Brazilian Sky",
       "url": "https://open.spotify.com/track/5KF3ijg71YSKszvHuHdfZA"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "816 To Nunhead",
+        "url": "https://open.spotify.com/album/1OKJNHif5s5NzcScX4ac44"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Isaac Aesili",
+          "url": "https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE"
+        }
+      ],
+      "duration_ms": 307082,
+      "name": "78 To Stanley Bay",
+      "url": "https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "Wicked Rhythm EP",
+        "url": "https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj"
+      },
+      "artists": [
+        {
+          "name": "Sekta",
+          "url": "https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD"
+        }
+      ],
+      "duration_ms": 173801,
+      "name": "Wicked Sound",
+      "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "Hotel Living",
         "url": "https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 143825,
       "name": "Dolly Destructiva",
       "url": "https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Wicked Rhythm EP",
-        "url": "https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj"
-      },
-      "artists": [
-        {
-          "name": "Sekta",
-          "url": "https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD"
-        }
-      ],
-      "duration_ms": 173801,
-      "name": "Wicked Sound",
-      "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
     },
     {
       "added_at": "2026-02-19 13:00:29",

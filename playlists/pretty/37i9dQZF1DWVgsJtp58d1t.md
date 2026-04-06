@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:1zNqQNIdeOUZHb8zbZRFMX">Swae Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,752 likes - 149 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,810 likes - 149 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

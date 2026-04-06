@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1085639,
+  "num_followers": 1085561,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Jacob Slade",
-        "url": "https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58"
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
       "artists": [
         {
-          "name": "Jacob Slade",
-          "url": "https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 183529,
-      "name": "However You May",
-      "url": "https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9"
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+        "name": "Jacob Slade",
+        "url": "https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Jacob Slade",
+          "url": "https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0"
         }
       ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+      "duration_ms": 183529,
+      "name": "However You May",
+      "url": "https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Lonelier Together",
-        "url": "https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW"
-      },
-      "artists": [
-        {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
-        }
-      ],
-      "duration_ms": 105300,
-      "name": "Lonelier Together",
-      "url": "https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Oh Ohio",
         "url": "https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 178106,
       "name": "Oh Ohio",
       "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Lonelier Together",
+        "url": "https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 105300,
+      "name": "Lonelier Together",
+      "url": "https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Morning Is Made",
-        "url": "https://open.spotify.com/album/6pVhP4yZaSMv6tmy9MY7ti"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 175408,
-      "name": "Morning Is Made",
-      "url": "https://open.spotify.com/track/5njv7WRM11r6Xlul5wAy2T"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Lemon [Feat. Sharon Van Etten]",
         "url": "https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Morning Is Made",
+        "url": "https://open.spotify.com/album/6pVhP4yZaSMv6tmy9MY7ti"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 175408,
+      "name": "Morning Is Made",
+      "url": "https://open.spotify.com/track/5njv7WRM11r6Xlul5wAy2T"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "baby, get your ticket",
-        "url": "https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs"
-      },
-      "artists": [
-        {
-          "name": "Tarune",
-          "url": "https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq"
-        }
-      ],
-      "duration_ms": 155431,
-      "name": "baby, get your ticket",
-      "url": "https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 158306,
       "name": "Jealous Sun",
       "url": "https://open.spotify.com/track/70wMwfp8wAqaxip65R8Hkf"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "baby, get your ticket",
+        "url": "https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs"
+      },
+      "artists": [
+        {
+          "name": "Tarune",
+          "url": "https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq"
+        }
+      ],
+      "duration_ms": 155431,
+      "name": "baby, get your ticket",
+      "url": "https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG"
     },
     {
       "added_at": "2024-08-23 14:59:54",

@@ -26967,6 +26967,28 @@
     },
     {
       "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "What Is Left To Say",
+      "url": "https://open.spotify.com/track/3enDijqNJTZuAQpj1Jm6q6"
+    },
+    {
+      "album": {
         "name": "LP!",
         "url": "https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh"
       },

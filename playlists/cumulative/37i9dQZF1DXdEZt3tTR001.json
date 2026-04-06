@@ -811,6 +811,28 @@
     },
     {
       "album": {
+        "name": "Bloom (feat. Strings From Paris)",
+        "url": "https://open.spotify.com/album/06hyNaRnnj4Byzh8IqyZQW"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        },
+        {
+          "name": "Strings From Paris",
+          "url": "https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199643,
+      "name": "Bloom (feat. Strings From Paris)",
+      "url": "https://open.spotify.com/track/1zmm0RJr87jNbbLR08eaLV"
+    },
+    {
+      "album": {
         "name": "Quiet Miles",
         "url": "https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ"
       },
@@ -5320,7 +5342,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 187013,
       "name": "Reason (feat. Elijah Fox)",
       "url": "https://open.spotify.com/track/1r8ojhEE2Kyo4vHCumpcwl"

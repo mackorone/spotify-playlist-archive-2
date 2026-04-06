@@ -1,12 +1,12 @@
 {
   "description": "This is Calibre 50. The essential tracks, all in one playlist.",
-  "num_followers": 727301,
+  "num_followers": 727386,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac8DAAAAAACCUQVq2TALa4JuK5VUshjo",
+  "snapshot_id": "adBUgAAAAAA3KRBU8KYRpD+GPx9mW9kr",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde El Rancho",
-        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Amor Del Bueno",
-      "url": "https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Sinaloa Para El Mundo",
         "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 161613,
       "name": "Escuela Del Virus Antrax",
       "url": "https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde El Rancho",
+        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Amor Del Bueno",
+      "url": "https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mitad Y Mitad",
-        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Mi Sorpresa Fuiste T\u00fa",
-      "url": "https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Sinaloa Para El Mundo",
         "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 259560,
       "name": "El Tierno Se Fue",
       "url": "https://open.spotify.com/track/3RqnWbtQpoeoU7EpS5H7VS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mitad Y Mitad",
+        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Mi Sorpresa Fuiste T\u00fa",
+      "url": "https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Corrido De Juanito",
+      "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuidando El Territorio",
         "url": "https://open.spotify.com/album/4wVfnheoToJD1kYyjpjcGZ"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 186833,
       "name": "Cuidando El Territorio",
       "url": "https://open.spotify.com/track/0RR9X1AxLrdldzwwIVrHYf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Corrido De Juanito",
-      "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
     },
     {
       "added_at": null,
@@ -378,27 +378,15 @@
         {
           "name": "Calibre 50",
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Mujer De Todos, Mujer De Nadie",
-      "url": "https://open.spotify.com/track/6JcXGqCpM7k3B75XfOn9uz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde El Rancho",
-        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
-      },
-      "artists": [
+        },
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 156680,
-      "name": "Deja De Joder",
-      "url": "https://open.spotify.com/track/1Y5rwy1DeOqZ6Q13C4IVF6"
+      "duration_ms": 148186,
+      "name": "Gente Batallosa",
+      "url": "https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP"
     },
     {
       "added_at": null,
@@ -415,6 +403,22 @@
       "duration_ms": 193506,
       "name": "S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/2uBM0majhCbq436LbHZh4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde El Rancho",
+        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Deja De Joder",
+      "url": "https://open.spotify.com/track/1Y5rwy1DeOqZ6Q13C4IVF6"
     },
     {
       "added_at": null,
@@ -442,31 +446,11 @@
         {
           "name": "Calibre 50",
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 148186,
-      "name": "Gente Batallosa",
-      "url": "https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Sinaloa Para El Mundo",
-        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 193960,
-      "name": "Te Estoy Enga\u00f1ando Con Otra",
-      "url": "https://open.spotify.com/track/0Q2nlEy3j08AWwrum9BFmH"
+      "duration_ms": 189920,
+      "name": "Mujer De Todos, Mujer De Nadie",
+      "url": "https://open.spotify.com/track/6JcXGqCpM7k3B75XfOn9uz"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
       "duration_ms": 212786,
       "name": "Un Imposible A Tu Medida",
       "url": "https://open.spotify.com/track/5iNuJkGfKUMCJycC7wNOJw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Sinaloa Para El Mundo",
+        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "Te Estoy Enga\u00f1ando Con Otra",
+      "url": "https://open.spotify.com/track/0Q2nlEy3j08AWwrum9BFmH"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Buen Ejemplo",
-        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "El Buen Ejemplo",
-      "url": "https://open.spotify.com/track/1lH6djMd9eN2xUGQgfyLD9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Historias de la Calle",
         "url": "https://open.spotify.com/album/18NZvh16Lj0HIhv0YgaSsZ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 154559,
       "name": "Se Volvi\u00f3 a Pelar Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/1KHwhfgffqWSnq5iRYyGYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Buen Ejemplo",
+        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "El Buen Ejemplo",
+      "url": "https://open.spotify.com/track/1lH6djMd9eN2xUGQgfyLD9"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Historias de la Calle",
-        "url": "https://open.spotify.com/album/18NZvh16Lj0HIhv0YgaSsZ"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 239877,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/2wvjJBGMwgZRvUT80KN8WX"
+      "duration_ms": 139000,
+      "name": "El Triste Alegre",
+      "url": "https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2"
     }
   ],
   "unique_name": "This Is Calibre 50",

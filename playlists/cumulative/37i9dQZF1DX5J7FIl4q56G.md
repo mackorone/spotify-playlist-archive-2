@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Periphery
 
-11,302 songs - 31 day 6 hr 0 min
+11,303 songs - 31 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10487,6 +10487,7 @@
 | [Vanguard](https://open.spotify.com/track/5NxVQJrYanVUMotKD02TaP) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Vanguard](https://open.spotify.com/album/24NxO7DeaovwyHViu4Qygj) | 4:23 | 2022-03-11 | 2022-03-25 |
 | [Vanilla Latte](https://open.spotify.com/track/07pkzqGG7U0NXnVlBokdmW) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [Vanilla Latte](https://open.spotify.com/album/01Kui9a3rkdckJen3duPvC) | 2:24 | 2026-04-03 |  |
 | [Vanity](https://open.spotify.com/track/1w2Oi5UR8wfmYra5znoym2) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Vanity](https://open.spotify.com/album/14EGPi6WIOuT9tNe4cNrKj) | 3:23 | 2026-02-27 | 2026-03-14 |
+| [Vanity, a Fractured Promise](https://open.spotify.com/track/3c3Anv7heRslSVhmoDWwNV) | [concealer.](https://open.spotify.com/artist/5y2ymtnwjo4qwclZR9512J) | [This Room Could Be Heaven.](https://open.spotify.com/album/2WOBMTxdpxPHMGXWXZXskG) | 3:03 | 2026-04-05 |  |
 | [Vantablack](https://open.spotify.com/track/6mQqAVoNYWe8YjeXVlNdqY) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Vantablack](https://open.spotify.com/album/5JpE6PhSDMXZJWYOBGMlnp) | 3:28 | 2024-07-19 | 2024-07-27 |
 | [Vasgyár](https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [XII: A gyönyörű álmok ezután jönnek](https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu) | 6:17 | 2024-11-15 | 2024-11-23 |
 | [Vast and Infinite \(Jesu Remix\)](https://open.spotify.com/track/1MclcsvvxxLUVeVM14oFt7) | [Wake](https://open.spotify.com/artist/3eI8VStKilt8Wb2R4AD4vh), [Jesu](https://open.spotify.com/artist/1binm59tmJzoZLvLETVYBP) | [Vast and Infinite / Vast and Infinite \(Jesu Remix\)](https://open.spotify.com/album/1m4t7NpT9ukkIFl8mr8kwV) | 7:00 | 2023-02-03 | 2023-02-11 |

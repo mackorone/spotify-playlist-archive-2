@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Algol",
+        "url": "https://open.spotify.com/album/1UpkoSRkVp7iN5Mj7I5JBk"
+      },
+      "artists": [
+        {
+          "name": "ARKAD1A",
+          "url": "https://open.spotify.com/artist/7EdtSbHEp0JDWdlbQD44nk"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433960,
+      "name": "Algol",
+      "url": "https://open.spotify.com/track/15tTVRDIfAGA4yrCzJyk2H"
+    },
+    {
+      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/6vBLZTjc0uOHbQpx2XDBBX"
       },
@@ -6874,6 +6892,24 @@
       "duration_ms": 151893,
       "name": "Drive",
       "url": "https://open.spotify.com/track/20LurhMInLaXedlFiEpZBi"
+    },
+    {
+      "album": {
+        "name": "Drone Drive-By",
+        "url": "https://open.spotify.com/album/71chZUBMuBKqyNyVYRS2xb"
+      },
+      "artists": [
+        {
+          "name": "Metal Fog",
+          "url": "https://open.spotify.com/artist/1zx9gh6Cn7VJ9YaWc4sCH2"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "Drone Drive-By",
+      "url": "https://open.spotify.com/track/5HNXhetCAwX7Ekykan0sr0"
     },
     {
       "album": {
@@ -13425,6 +13461,24 @@
     },
     {
       "album": {
+        "name": "kill the noise",
+        "url": "https://open.spotify.com/album/38vWXKBcvBEiwTOaADnf7Z"
+      },
+      "artists": [
+        {
+          "name": "Diana Omar",
+          "url": "https://open.spotify.com/artist/6xXq4ieuhOqfBAupY4wIVR"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "kill the noise",
+      "url": "https://open.spotify.com/track/5GoZNztZbT5mr0wwhauXEY"
+    },
+    {
+      "album": {
         "name": "Be My Valentine",
         "url": "https://open.spotify.com/album/0QiAcz7IRIbdEntz6LRQ2P"
       },
@@ -13476,6 +13530,24 @@
       "duration_ms": 151759,
       "name": "Kitkat girl",
       "url": "https://open.spotify.com/track/2gTphYJ73EfnqqASHtfPJ9"
+    },
+    {
+      "album": {
+        "name": "KKKM",
+        "url": "https://open.spotify.com/album/6urehiTYaHbWtamu7ub3x4"
+      },
+      "artists": [
+        {
+          "name": "Feylone",
+          "url": "https://open.spotify.com/artist/5XCPYTQTvVgTYuzSRdyFul"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127480,
+      "name": "KKKM",
+      "url": "https://open.spotify.com/track/3zmsZYoVvyUxZvJN2MvVDS"
     },
     {
       "album": {
@@ -18520,7 +18592,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 295999,
       "name": "Ope Mi",
       "url": "https://open.spotify.com/track/53I3KcDbzdMkHZfxkYScNZ"
@@ -23720,7 +23792,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 158971,
       "name": "Sunshine after the rain",
       "url": "https://open.spotify.com/track/19RLvOFf5n2A61WHSL2kNo"
@@ -24077,6 +24149,24 @@
     },
     {
       "album": {
+        "name": "Take the chance, choose love tonight",
+        "url": "https://open.spotify.com/album/3McaBaM8vAW1Z1Cf1LZEzn"
+      },
+      "artists": [
+        {
+          "name": "Kind Electric",
+          "url": "https://open.spotify.com/artist/0qnjqNAvMFdETlL5nknc89"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191119,
+      "name": "Take the chance, choose love tonight",
+      "url": "https://open.spotify.com/track/62SOAeifsy0iMp1smRZsrZ"
+    },
+    {
+      "album": {
         "name": "Take You Home",
         "url": "https://open.spotify.com/album/4nqCsUwFMBKijqtzL0rrUr"
       },
@@ -24196,7 +24286,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 204289,
       "name": "Tau Neutrino",
       "url": "https://open.spotify.com/track/2baRIWyOx7rzjpGYSYzBMc"
@@ -27432,6 +27522,24 @@
     {
       "album": {
         "name": "What If",
+        "url": "https://open.spotify.com/album/2xgXLeKv84o0hW2mSBj1XT"
+      },
+      "artists": [
+        {
+          "name": "It\u2018s Me, Amelie",
+          "url": "https://open.spotify.com/artist/4Wz0SDLT0SqkMhIKI6FmLD"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/6OthO7QTOcFrklwyR8xgLp"
+    },
+    {
+      "album": {
+        "name": "What If",
         "url": "https://open.spotify.com/album/7657GhwmE2YZVWTi5YFDi8"
       },
       "artists": [
@@ -27972,6 +28080,24 @@
       "duration_ms": 205839,
       "name": "Whisper Chant",
       "url": "https://open.spotify.com/track/4omvk6asA71muV8dX00pwz"
+    },
+    {
+      "album": {
+        "name": "Whistling",
+        "url": "https://open.spotify.com/album/2QOkUXOeTgGNQQ9iXD2e0B"
+      },
+      "artists": [
+        {
+          "name": "Borth",
+          "url": "https://open.spotify.com/artist/41wNDlWrwYPOzTFIh1PvH6"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196909,
+      "name": "Whistling",
+      "url": "https://open.spotify.com/track/4p1fYOHCCx1CvPk6UbIbSZ"
     },
     {
       "album": {

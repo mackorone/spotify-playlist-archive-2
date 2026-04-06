@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAANY465dm4pXTR8cOV+9MmIEOtn6c1j",
+  "snapshot_id": "AAANawMRLcW/JyZ5SAu2XNJlQM7sKKWD",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -39,6 +39,22 @@
       "duration_ms": 188000,
       "name": "Still Breathing",
       "url": "https://open.spotify.com/track/6fFkH5gfwg57znzRCZST7w"
+    },
+    {
+      "added_at": "2026-04-05 11:11:18",
+      "album": {
+        "name": "Shrine 2026",
+        "url": "https://open.spotify.com/album/0bUQLKM01iS03NJwSbJpPp"
+      },
+      "artists": [
+        {
+          "name": "The Dambuilders",
+          "url": "https://open.spotify.com/artist/3b5zJp91jHNhz6AByOoURk"
+        }
+      ],
+      "duration_ms": 177693,
+      "name": "Shrine 2026",
+      "url": "https://open.spotify.com/track/11ipToPPa63Bhny2MXULu0"
     },
     {
       "added_at": "2026-04-04 20:45:07",
@@ -1751,118 +1767,6 @@
       "duration_ms": 240000,
       "name": "Wrinkled Vultures",
       "url": "https://open.spotify.com/track/2YJi8Fyv3VnREgL6FYqPiA"
-    },
-    {
-      "added_at": "2026-03-05 16:13:14",
-      "album": {
-        "name": "Wasteman",
-        "url": "https://open.spotify.com/album/26q1jdFdrEcXvK0H9DLKX0"
-      },
-      "artists": [
-        {
-          "name": "Lepson",
-          "url": "https://open.spotify.com/artist/4Oawws8fUxxTuPlM0Ip9Xy"
-        }
-      ],
-      "duration_ms": 255936,
-      "name": "Wasteman",
-      "url": "https://open.spotify.com/track/1esf4MKhQ8Ps1EcYqxNprR"
-    },
-    {
-      "added_at": "2026-03-05 16:08:49",
-      "album": {
-        "name": "Kill the Messenger",
-        "url": "https://open.spotify.com/album/2DBv3VFvYTi24KcUU6cNmy"
-      },
-      "artists": [
-        {
-          "name": "L\u00e1Goon",
-          "url": "https://open.spotify.com/artist/2A56TzrSVwM3FeQhmfnDvk"
-        }
-      ],
-      "duration_ms": 234798,
-      "name": "Kill the Messenger",
-      "url": "https://open.spotify.com/track/0ckSiXO2wQUDSghsrAwjlv"
-    },
-    {
-      "added_at": "2026-03-05 15:47:39",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/3eEmxk6Y05TnyXRRKsVasV"
-      },
-      "artists": [
-        {
-          "name": "Internet Romance",
-          "url": "https://open.spotify.com/artist/2XeleVtPv8IBvzy6T1zHnY"
-        }
-      ],
-      "duration_ms": 253779,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/48jclVmNBWXsphL69bRatg"
-    },
-    {
-      "added_at": "2026-03-05 15:42:51",
-      "album": {
-        "name": "Blackened Seas",
-        "url": "https://open.spotify.com/album/3QTUToqcTJtue9VF1hzcMX"
-      },
-      "artists": [
-        {
-          "name": "Deluminate",
-          "url": "https://open.spotify.com/artist/4bVGbMlyoxuGWKER0ft3AY"
-        }
-      ],
-      "duration_ms": 154619,
-      "name": "Transmutated",
-      "url": "https://open.spotify.com/track/69AwPaxlvPuvunzKa6sSMR"
-    },
-    {
-      "added_at": "2026-03-05 15:36:27",
-      "album": {
-        "name": "Just Say Maybe",
-        "url": "https://open.spotify.com/album/7z6ZZDn57u116fw5Bn2zgD"
-      },
-      "artists": [
-        {
-          "name": "Jonny Amoral",
-          "url": "https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "Just Say Maybe",
-      "url": "https://open.spotify.com/track/1RKsTZDIobGNG7wRcJBQkC"
-    },
-    {
-      "added_at": "2026-03-05 15:24:39",
-      "album": {
-        "name": "Dear Diary",
-        "url": "https://open.spotify.com/album/0t4W9rRrPy7LygUFiYqA7K"
-      },
-      "artists": [
-        {
-          "name": "Lollirot",
-          "url": "https://open.spotify.com/artist/4o5M4mkT59J5DNvY0EdHtC"
-        }
-      ],
-      "duration_ms": 142800,
-      "name": "Dear Diary",
-      "url": "https://open.spotify.com/track/1L39tJl5f0a8njtKvuwhcM"
-    },
-    {
-      "added_at": "2026-03-05 14:50:24",
-      "album": {
-        "name": "Split My Head",
-        "url": "https://open.spotify.com/album/5esLfxa6lMuXNEC5Vp9Sv0"
-      },
-      "artists": [
-        {
-          "name": "Off Wing",
-          "url": "https://open.spotify.com/artist/0kjIZRyDptIqkPCvruV4Ew"
-        }
-      ],
-      "duration_ms": 143563,
-      "name": "Split My Head",
-      "url": "https://open.spotify.com/track/5mo6uSX9XyT0lPuJbwa1gi"
     },
     {
       "added_at": "2026-02-26 08:38:44",

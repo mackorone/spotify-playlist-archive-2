@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Edgardo Nuñez, Xavi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,457 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,491 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 74 | [La Maquina](https://open.spotify.com/track/7leMqnwAiuUPAHCaXJ4pdV) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Desde la Expogan 2023](https://open.spotify.com/album/0a4dxVW25lnScTzBc5bBG7) | 2:18 |
 | 75 | [Por un Fume de Hachis](https://open.spotify.com/track/3Cb3X5t8QqXEp6oolGBBN3) | [Union Fatal](https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj) | [Por un Fume de Hachis](https://open.spotify.com/album/3Lh6fbzwC00dEZD4I36mKA) | 3:18 |
 
-Snapshot ID: `AAAAABUIdN1Yh5okNMn5ANkAxfnJ+oya`
+Snapshot ID: `AAAAAC1ly5FD3voUiZQ1p6JY1W3Z9cYv`

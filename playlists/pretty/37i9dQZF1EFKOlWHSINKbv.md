@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 83 | [Credit \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/6GDMLZoykMpZ4JqQoyoZpQ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Free TC](https://open.spotify.com/album/325oe5W5EgQVcuzNwBBnmt) | 6:11 |
 | 84 | [Extra](https://open.spotify.com/track/4ACRXHoiz3J2JHG8DL4Z6X) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 5:53 |
 | 85 | [Heavy Love](https://open.spotify.com/track/4tivw0vYNflvw3YlAWx6Jp) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Mali Is...](https://open.spotify.com/album/7MMjwKpaSrATroOvGcjTGv) | 3:20 |
-| 86 | [The Beginning](https://open.spotify.com/track/5BK6zXTrbgPKkBGv5rGOy7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:14 |
+| 86 | [The Beginning](https://open.spotify.com/track/3eZjaNysJXCIgSLyK6t3KG) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 2:14 |
 | 87 | [Time Will Tell](https://open.spotify.com/track/30iYVELFKzXdKReWpZXgcn) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:48 |
 | 88 | [The 1st Lady](https://open.spotify.com/track/6Jb3ulaGgpHEfNGCGLuGWq) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [The Rebirth](https://open.spotify.com/album/1dmRT4o84KJpQlbaJF7vhY) | 2:44 |
 | 89 | [Paint It](https://open.spotify.com/track/118vnrWTfc2QzsmIQHCUkd) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 4:12 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 155 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 | 156 | [Falling In Love](https://open.spotify.com/track/0zzqjHe6CUudt5UzKgS95v) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Retrospect](https://open.spotify.com/album/3W28uUSJbOrzH3WDbgSWX3) | 3:02 |
 
-Snapshot ID: `AcN/KgAAAAD+xk4ys9I7BDF1ACAR0xU0`
+Snapshot ID: `AcOEygAAAACmy0veYjuMkBeUJTDfT4m8`

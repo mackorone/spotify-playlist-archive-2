@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 46 | [Enough](https://open.spotify.com/track/69t1HCs16EDsBuso21e2cT) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 3:05 |
 | 47 | [Wasn’t Ready](https://open.spotify.com/track/0fwFnGs8ltloJxUKY0Eh6Y) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:03 |
 | 48 | [I Know](https://open.spotify.com/track/3lboRjzlrZ8tFxR0y59Yny) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Pleasure Shop \- The 3rd Mini Album](https://open.spotify.com/album/5yLDGn4Nj4fuqayUZqOp8J) | 3:25 |
-| 49 | [Skeletons](https://open.spotify.com/track/5xlw9nAcMfmGNl26HbClOD) | [BluPrint](https://open.spotify.com/artist/3ufrJzxv3ezPKyauNpxPaZ) | [BluPrint](https://open.spotify.com/album/2WCYdF2ttKW61kTrQwvg64) | 3:45 |
-| 50 | [3AM](https://open.spotify.com/track/3gVaJZPl0fLaPeky7mwMlS) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [3AM](https://open.spotify.com/album/4kh79ZG95W2tzswDQjh9VR) | 2:25 |
+| 49 | [3AM](https://open.spotify.com/track/3gVaJZPl0fLaPeky7mwMlS) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [3AM](https://open.spotify.com/album/4kh79ZG95W2tzswDQjh9VR) | 2:25 |
+| 50 | [Skeletons](https://open.spotify.com/track/5xlw9nAcMfmGNl26HbClOD) | [BluPrint](https://open.spotify.com/artist/3ufrJzxv3ezPKyauNpxPaZ) | [BluPrint](https://open.spotify.com/album/2WCYdF2ttKW61kTrQwvg64) | 3:45 |
 | 51 | [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/track/5gliitoCPCUpUxQXII2NvA) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/album/17fU8owfXWqY0mlURQoLgE) | 2:29 |
 | 52 | [Sugar Free](https://open.spotify.com/track/6lnF4ddb8jtxuUuR0inTql) | [RIRI](https://open.spotify.com/artist/2UmhByzSum8X2lQZ7pWvWp) | [NEO](https://open.spotify.com/album/2glfQqfWGiPntmwsEyGAIE) | 2:47 |
 | 53 | [Undefeated](https://open.spotify.com/track/0HY3TAkkSFpPie38DG8wiB) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Undefeated](https://open.spotify.com/album/342jT3kHiTgpV7CWV4ja9k) | 2:54 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 86 | [WADE](https://open.spotify.com/track/67T80y4xJHFL0HZ9E1068T) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw), [Jessie B\. Horne](https://open.spotify.com/artist/6YQQd6atMpVumxmPoHjK4U) | [WADE](https://open.spotify.com/album/5BZVvweppmNfgpe5cbcem3) | 2:46 |
 | 87 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcN/KgAAAACDqw+cW1yWlZLPz/nq+00D`
+Snapshot ID: `AcOEygAAAAB/tdgcu8b8odIzOZ9V6HO4`

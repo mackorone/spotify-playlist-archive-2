@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,647 likes - 125 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,665 likes - 125 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 86 | [Yesterday](https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [Oliver Nelson Plays Michelle](https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw) | 2:42 |
 | 87 | [A Hard Rain's A\-Gonna Fall](https://open.spotify.com/track/4rTIHSHAUhS7VZdv7RWaQL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [East/West](https://open.spotify.com/album/3osIJ2ulRYsz7FMAw1AG3E) | 11:47 |
 | 88 | [Optimistic](https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C) | [Max Haymer](https://open.spotify.com/artist/3Of3GFdC138OHGTMfC7JPP) | [Optimistic](https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf) | 6:09 |
-| 89 | [Take It with Me](https://open.spotify.com/track/6FYYyshox7gb34kXVV4UWg) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x), [Lynne Arriale](https://open.spotify.com/artist/4AB72E5tmD1ojC0ZUYcQMZ), [Kate McGarry](https://open.spotify.com/artist/5tTeyKwRXLWs3bLNpCGTA8) | [Give Us These Days](https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3) | 5:06 |
-| 90 | [Thank You](https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU) | [Charlie Ballantine](https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD) | [Falling Grace](https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE) | 3:43 |
-| 91 | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/track/6d5fObrERJ7Az4cz58CXPU) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Don't Talk \(Put Your Head on My Shoulder\)](https://open.spotify.com/album/5yZjhFDydVDlGniKbYRxTJ) | 5:38 |
-| 92 | [A Day In The Life](https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [A Day In The Life: Impressions Of Pepper](https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4) | 4:49 |
+| 89 | [Thank You](https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU) | [Charlie Ballantine](https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD) | [Falling Grace](https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE) | 3:43 |
+| 90 | [Take It with Me](https://open.spotify.com/track/6FYYyshox7gb34kXVV4UWg) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x), [Lynne Arriale](https://open.spotify.com/artist/4AB72E5tmD1ojC0ZUYcQMZ), [Kate McGarry](https://open.spotify.com/artist/5tTeyKwRXLWs3bLNpCGTA8) | [Give Us These Days](https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3) | 5:06 |
+| 91 | [A Day In The Life](https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [A Day In The Life: Impressions Of Pepper](https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4) | 4:49 |
+| 92 | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/track/6d5fObrERJ7Az4cz58CXPU) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Don't Talk \(Put Your Head on My Shoulder\)](https://open.spotify.com/album/5yZjhFDydVDlGniKbYRxTJ) | 5:38 |
 | 93 | [Circle Game](https://open.spotify.com/track/1nznIr3ZHzQFYoQZ6s98ri) | [Lauren Bush](https://open.spotify.com/artist/0voLSXF4pGAKwcDXctLdLD) | [Circle Game](https://open.spotify.com/album/1zI5sP4mAW9p0eQsEMQSNi) | 5:49 |
 | 94 | [Bullet With Butterfly Wings](https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [Change of Plans](https://open.spotify.com/album/71b64FExhGoCgtbDzWPTc3) | 4:42 |
 | 95 | [It's Alright Ma \(I'm Only Bleeding\)](https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu) | [Jewels and Binoculars/Michael Moore, Lindsey Horner, Michael Vat](https://open.spotify.com/artist/2klyWtHE9x9145UqosyEQP) | [Ships With Tattooed Sails](https://open.spotify.com/album/30hPxpO6LJ9aKjSiUpOGp9) | 6:30 |

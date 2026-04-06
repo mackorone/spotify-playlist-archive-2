@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: Dry Cleaning",
-  "num_followers": 294851,
+  "num_followers": 294866,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "The Clip",
-        "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
-      },
-      "artists": [
-        {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "Barn Boiler",
-      "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
-    },
-    {
-      "added_at": "2026-02-20 21:53:32",
-      "album": {
         "name": "Within Dreams",
         "url": "https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 145173,
       "name": "Volvo (On The Road)",
       "url": "https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84"
+    },
+    {
+      "added_at": "2026-02-20 21:53:32",
+      "album": {
+        "name": "The Clip",
+        "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "Barn Boiler",
+      "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
     },
     {
       "added_at": "2026-02-20 21:53:32",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "Dreamachine",
-        "url": "https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB"
-      },
-      "artists": [
-        {
-          "name": "Habibi",
-          "url": "https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "On The Road",
-      "url": "https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX"
-    },
-    {
-      "added_at": "2026-02-20 21:53:32",
-      "album": {
         "name": "Feu de garde",
         "url": "https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 230679,
       "name": "Le feu",
       "url": "https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q"
+    },
+    {
+      "added_at": "2026-02-20 21:53:32",
+      "album": {
+        "name": "Dreamachine",
+        "url": "https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB"
+      },
+      "artists": [
+        {
+          "name": "Habibi",
+          "url": "https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "On The Road",
+      "url": "https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX"
     },
     {
       "added_at": "2026-02-20 21:53:32",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "Miracle Drug",
-        "url": "https://open.spotify.com/album/4023iP3TKnG54OKYijddli"
-      },
-      "artists": [
-        {
-          "name": "Draag",
-          "url": "https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM"
-        }
-      ],
-      "duration_ms": 267010,
-      "name": "Miracle Drug",
-      "url": "https://open.spotify.com/track/1YPj6me3zqn1uvevAquXq4"
-    },
-    {
-      "added_at": "2026-02-20 21:53:32",
-      "album": {
         "name": "Mind's a Lie",
         "url": "https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 286029,
       "name": "Mind's a Lie",
       "url": "https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH"
+    },
+    {
+      "added_at": "2026-02-20 21:53:32",
+      "album": {
+        "name": "Miracle Drug",
+        "url": "https://open.spotify.com/album/4023iP3TKnG54OKYijddli"
+      },
+      "artists": [
+        {
+          "name": "Draag",
+          "url": "https://open.spotify.com/artist/7fKByRicmiWrFBEn90MvuM"
+        }
+      ],
+      "duration_ms": 267010,
+      "name": "Miracle Drug",
+      "url": "https://open.spotify.com/track/1YPj6me3zqn1uvevAquXq4"
     },
     {
       "added_at": "2026-02-20 21:53:32",
@@ -1603,18 +1603,22 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "Be A Big Girl",
-        "url": "https://open.spotify.com/album/3M48990TSLoCplWuNssAAs"
+        "name": "Raw Muscular Power",
+        "url": "https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM"
       },
       "artists": [
         {
-          "name": "Pillow Queens",
-          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+          "name": "Death By Unga Bunga",
+          "url": "https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K"
+        },
+        {
+          "name": "Sl\u00f8tface",
+          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
         }
       ],
-      "duration_ms": 170944,
-      "name": "Be A Big Girl",
-      "url": "https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto"
+      "duration_ms": 134496,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm"
     }
   ],
   "unique_name": "Noisy",

@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 216820,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/5yyERzShStDBpcmYMzU5xz"
@@ -4136,6 +4136,24 @@
       "duration_ms": 277810,
       "name": "Vallahi Yok",
       "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
+    },
+    {
+      "album": {
+        "name": "Shadance Hall",
+        "url": "https://open.spotify.com/album/2InIZJ4DEGRjNUJpDeo2TC"
+      },
+      "artists": [
+        {
+          "name": "The Mauskovic Dance Band",
+          "url": "https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252196,
+      "name": "Ventura Phase",
+      "url": "https://open.spotify.com/track/0GZpJMYiXYcW6CYd85dPax"
     },
     {
       "album": {

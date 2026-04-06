@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 633927,
+  "num_followers": 633947,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac8DAAAAAADy6+oz6jGPQ+UlyJdgCyDg",
+  "snapshot_id": "adBUgAAAAADF9owPnZ8UNnT+dGASAHBQ",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "Cafe",
-      "url": "https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Special Edition 'Still Alive'",
         "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 198533,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "Cafe",
+      "url": "https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 222989,
-      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
-      "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigbang 03",
         "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 218618,
       "name": "Forever With U (Feat. Park Bom)",
       "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2009 BIGBANG LIVE CONCERT : BIG SHOW",
+        "url": "https://open.spotify.com/album/1jEFohZ79xLBF0UxwBdi2V"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/5gE2yPrsKkVIQ2WXzEKJTF"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2009 BIGBANG LIVE CONCERT : BIG SHOW",
-        "url": "https://open.spotify.com/album/1jEFohZ79xLBF0UxwBdi2V"
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
       },
       "artists": [
         {
@@ -768,25 +768,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 198880,
-      "name": "Number 1",
-      "url": "https://open.spotify.com/track/5gE2yPrsKkVIQ2WXzEKJTF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lollipop Pt.2",
-        "url": "https://open.spotify.com/album/4VPoZSOEnpfUu36fILrqA1"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "Lollipop Part.2",
-      "url": "https://open.spotify.com/track/7jJnHoPel2hxKFlcLgTmoJ"
+      "duration_ms": 222989,
+      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
+      "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
       "duration_ms": 194280,
       "name": "Dirty Cash",
       "url": "https://open.spotify.com/track/0yZKieKXhoehUMVpYiGwWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lollipop Pt.2",
+        "url": "https://open.spotify.com/album/4VPoZSOEnpfUu36fILrqA1"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "Lollipop Part.2",
+      "url": "https://open.spotify.com/track/7jJnHoPel2hxKFlcLgTmoJ"
     },
     {
       "added_at": null,

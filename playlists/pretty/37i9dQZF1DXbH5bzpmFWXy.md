@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. Gweri B en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,051 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,026 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 92 | [GOMIN0LA](https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [GOMIN0LA](https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq) | 2:49 |
 | 93 | [El Jefe Lexus \(Grupo Rangers\)](https://open.spotify.com/track/6BxPeqwW77mELe0lxb9QGG) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [El Jefe Lexus \(Grupo Rangers\)](https://open.spotify.com/album/6lCqZM55HhMTL7HHnDl3iO) | 2:30 |
 | 94 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |
-| 95 | [Si mañana me muero](https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Si mañana me muero](https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1) | 3:18 |
-| 96 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |
+| 95 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |
+| 96 | [Si mañana me muero](https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Si mañana me muero](https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1) | 3:18 |
 | 97 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 |
-| 98 | [En Lo Prohibido](https://open.spotify.com/track/3qXIbrb3jEJen3NYlySCdb) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [En Lo Prohibido](https://open.spotify.com/album/21rKdI5xNAs9DCt71agCKz) | 2:12 |
-| 99 | [Maniaque](https://open.spotify.com/track/0zWhZGXOh5EZyAbXeWdTbL) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN), [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky) | [Maniaque](https://open.spotify.com/album/1bTWfPzmSsyWfgDyqQQ2ju) | 2:35 |
+| 98 | [Maniaque](https://open.spotify.com/track/0zWhZGXOh5EZyAbXeWdTbL) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN), [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky) | [Maniaque](https://open.spotify.com/album/1bTWfPzmSsyWfgDyqQQ2ju) | 2:35 |
+| 99 | [En Lo Prohibido](https://open.spotify.com/track/3qXIbrb3jEJen3NYlySCdb) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [En Lo Prohibido](https://open.spotify.com/album/21rKdI5xNAs9DCt71agCKz) | 2:12 |
 | 100 | [Rosita Fresita](https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Rosita Fresita](https://open.spotify.com/album/0G40KBVT8jMVFKIfVfe6Hn) | 2:05 |
 
 Snapshot ID: `AAAAAPvabN7jEn6Ljwt1lBZJlaPd6Z37`

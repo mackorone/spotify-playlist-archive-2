@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 177270,
       "name": "Dear Day",
       "url": "https://open.spotify.com/track/4HSeE6SBFmmJexcjgyZbrI"
@@ -2794,6 +2794,28 @@
       "duration_ms": 324280,
       "name": "Hi spring Bye",
       "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
+    },
+    {
+      "album": {
+        "name": "HMPH!",
+        "url": "https://open.spotify.com/album/0p6ikTEKKhKqtOa6MdqNvn"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "HMPH!",
+      "url": "https://open.spotify.com/track/2CbgyivbjNuNrBuEDMps23"
     },
     {
       "album": {
@@ -4082,7 +4104,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 173210,
       "name": "Like an Aurora (feat. Deyy)",
       "url": "https://open.spotify.com/track/4ipy46xLfDylH7tq111EqA"
@@ -4154,7 +4176,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 200000,
       "name": "lost in you",
       "url": "https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G"
@@ -6385,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "Something 'Bout You",
+        "url": "https://open.spotify.com/album/34WwyAXDY20oNH4ht3MHPW"
+      },
+      "artists": [
+        {
+          "name": "SRA",
+          "url": "https://open.spotify.com/artist/6ajLYP0hhsrxlmJQWqDruk"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190781,
+      "name": "Something 'Bout You",
+      "url": "https://open.spotify.com/track/5bshUu5GDgs78XnfmySwDE"
+    },
+    {
+      "album": {
         "name": "something (feat. Kim Dae Hyeok)",
         "url": "https://open.spotify.com/album/5yIT1t84GqnXcka5hXh693"
       },
@@ -7994,6 +8034,24 @@
       "duration_ms": 180000,
       "name": "White Wine",
       "url": "https://open.spotify.com/track/3BLYZgZYuOr7PZeINUJeGV"
+    },
+    {
+      "album": {
+        "name": "who is this woman?",
+        "url": "https://open.spotify.com/album/5IhSTNLKlu1hgPKSBSyg4B"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "who is this woman?",
+      "url": "https://open.spotify.com/track/6tirHqOUs1n3C9gCIhS28f"
     },
     {
       "album": {

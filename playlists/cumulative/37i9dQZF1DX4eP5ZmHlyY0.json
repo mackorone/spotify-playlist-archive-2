@@ -5054,7 +5054,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 199101,
       "name": "Get Up And Dance",
       "url": "https://open.spotify.com/track/2IUGAOZ5cPW33dWkHhP6Tb"
@@ -6004,6 +6004,24 @@
       "duration_ms": 228788,
       "name": "HEART",
       "url": "https://open.spotify.com/track/1xVHi6ppc8sZS33qCm2IyJ"
+    },
+    {
+      "album": {
+        "name": "HEARTLOUD",
+        "url": "https://open.spotify.com/album/2djfNGmYD4Ut8aMSNuBNB9"
+      },
+      "artists": [
+        {
+          "name": "Kis-My-Ft2",
+          "url": "https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "HEARTLOUD",
+      "url": "https://open.spotify.com/track/0BrP9D6bRbq9UFcWGpa4nM"
     },
     {
       "album": {
@@ -13016,7 +13034,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 213000,
       "name": "Sunkissed",
       "url": "https://open.spotify.com/track/3j0g0ii7DyBSNRA4B1stjc"
@@ -14052,6 +14070,24 @@
       "duration_ms": 201235,
       "name": "Toyfriend",
       "url": "https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ"
+    },
+    {
+      "album": {
+        "name": "Banquet",
+        "url": "https://open.spotify.com/album/3wXNjLWGdqtKReMLjhat8H"
+      },
+      "artists": [
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 14",
+      "url": "https://open.spotify.com/track/0LvtYkJSXFdZLXAKrQjpdu"
     },
     {
       "album": {

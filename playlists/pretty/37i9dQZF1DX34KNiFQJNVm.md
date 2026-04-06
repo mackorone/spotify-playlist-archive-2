@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Dilsinho,  Talita Mel com Zé Vaqueiro, Bebe Rexha, DAY LIMNS, U2, Jovem Dionísio e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,276,994 likes - 91 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,276,965 likes - 91 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

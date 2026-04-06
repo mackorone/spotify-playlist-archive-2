@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,515 likes - 66 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,551 likes - 66 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 2 | [ウィーアー!](https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーアー! \(TVアニメ『ONE PIECE』オープニングテーマ\)](https://open.spotify.com/album/2vcNw2eDoavdqNTPVZ8T6u) | 4:01 |
 | 3 | [メリッサ](https://open.spotify.com/track/7J9QfNrQayqF0BAb7qn1oi) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [メリッサ](https://open.spotify.com/album/2mKcF7RxgHJxxhGorRNF6t) | 4:33 |
 | 4 | [GO!!!](https://open.spotify.com/track/1u6yJwWdQ4hC7C3gx7ZG2P) | [フロウ](https://open.spotify.com/artist/6MfYt5ENS3ibojRVzdEP4g) | [GAME](https://open.spotify.com/album/3w9fhFj2kzJt2phpkLdtDa) | 3:56 |
-| 5 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 |
+| 5 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏～コンプリートサウンドトラック～](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 |
 | 6 | [もってけ！セーラーふく](https://open.spotify.com/track/3n4TCwKfovQ3Nk69xHtckX) | [泉こなた \(CV.平野 綾\)](https://open.spotify.com/artist/2F12oF9POUk0jRnD4VqJz3), [柊かがみ \(CV.加藤英美里\)](https://open.spotify.com/artist/1g0srKaYp8951BspEDglIL), [柊つかさ \(CV.福原香織\)](https://open.spotify.com/artist/2ZBfIW1wsI2zkafMkjfS2l), [高良みゆき \(CV.遠藤 綾\)](https://open.spotify.com/artist/4JNh7XheWcIo80Prur4E3l) | [もってけ！セーラーふく](https://open.spotify.com/album/6JV6m2A48fSMYx1B9MRhey) | 4:18 |
 | 7 | [恋愛サーキュレーション](https://open.spotify.com/track/28vDmEUoGFrfkrUWM9Cuqy) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [歌物語 Special Edition](https://open.spotify.com/album/1oP65KKl98hRSjJvpKeFmQ) | 4:15 |
 | 8 | [ココロオドル \-original version\-](https://open.spotify.com/track/5tcnPaFhcpSLx7ihFwI9DM) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [ココロオドル](https://open.spotify.com/album/3TZVSXdXXbqCbb4oWx1hSf) | 4:13 |
 | 9 | [リライト](https://open.spotify.com/track/3h5e4tpgR9q0cjQXzo8FMD) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/4Zpp4brKcLx9y178O3fqBo) | 3:45 |
 | 10 | [Cagayake!GIRLS](https://open.spotify.com/track/6dCeYPmR97wXMKgfZxU4wU) | [平沢唯\(CV:豊崎愛生\)](https://open.spotify.com/artist/2yCfoXGIhhq7nuOwxYPBZN), [秋山澪\(CV:日笠陽子\)](https://open.spotify.com/artist/26WKzbQM4dvl8zghsBsvD7), [桜高軽音部](https://open.spotify.com/artist/2x3ohJ850ojR1j4ggis9tZ), [田井中律\(CV:佐藤聡美\)](https://open.spotify.com/artist/4PHYyP0xMmspaDzqeCuIqV), [琴吹紬\(CV:寿美菜子\)](https://open.spotify.com/artist/0X3bzML0WzEvUBPi4ElSFj) | [Cagayake!GIRLS](https://open.spotify.com/album/0DFU4Cxag86ritH4itpOKs) | 4:10 |
 | 11 | [マジで感謝！](https://open.spotify.com/track/3n8UqLLh1DaO3Y5qMQMnyu) | [T\-Pistonz+KMC](https://open.spotify.com/artist/49bcuetvIVHNo5ARCZmR2k) | [がんばリーヨ！](https://open.spotify.com/album/6MNKdCn7BRd4faV1raFQEV) | 5:25 |
-| 12 | [ハレ晴レユカイ](https://open.spotify.com/track/651dM1w0QS5qG1qdL2zraO) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ), [後藤邑子](https://open.spotify.com/artist/125fR1G9GJOC9YD8ZQ7a0Q) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 3:35 |
+| 12 | [ハレ晴レユカイ](https://open.spotify.com/track/651dM1w0QS5qG1qdL2zraO) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [涼宮ハルヒの完奏～コンプリートサウンドトラック～](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 3:35 |
 | 13 | [Believe](https://open.spotify.com/track/5Wg6U4mLyjJj8ApPkWHBKB) | [Folder 5](https://open.spotify.com/artist/2B7camiqgR0ErfveavlNIG) | [HYPER GROOVE 1](https://open.spotify.com/album/74FWMBzqWcuqRh18aGyphf) | 3:46 |
 | 14 | [ライオン](https://open.spotify.com/track/35HhTsMus2B7hA7rfbrp84) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [「マクロスF」オープニングテーマ　ライオン](https://open.spotify.com/album/1vl2776kEXnu7Ijop6YBrm) | 5:03 |
 | 15 | [Get Over](https://open.spotify.com/track/6mYL8hxtrSgbXCLskzuhSc) | [Dream](https://open.spotify.com/artist/67j0XHDG7fP5ZHia8gDsJU) | [Process](https://open.spotify.com/album/52fPQP1V5udSfTFEkxQIT0) | 5:15 |

@@ -4,7 +4,7 @@
 
 > Llévatela tranqui con los hits más relajados del urbano\. J Balvin y Ryan Castro en portada
 
-592 songs - 1 day 6 hr 6 min
+593 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,8 +388,9 @@
 | [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-07-12 |  |
 | [Ohnana \(feat\. Farruko & Nicky Jam\) \- Remix](https://open.spotify.com/track/4V80ia1ACIf7p0Hc94NJ1l) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ohnana \(feat\. Farruko & Nicky Jam\) \[Remix\]](https://open.spotify.com/album/2MPM9MYUQUV6aj7YVqM6Kk) | 5:17 | 2024-09-20 | 2025-06-02 |
 | [Ojalá](https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ojalá](https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5) | 3:00 | 2025-08-01 |  |
-| [Ojalá](https://open.spotify.com/track/6Crk5GPplILAw0vUiEILuD) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Ojalá](https://open.spotify.com/album/7BDD1ypAILYMZMYPPEqDaG) | 4:11 | 2026-01-23 |  |
+| [Ojalá](https://open.spotify.com/track/6Crk5GPplILAw0vUiEILuD) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Ojalá](https://open.spotify.com/album/7BDD1ypAILYMZMYPPEqDaG) | 4:11 | 2026-01-23 | 2026-04-06 |
 | [On My Knees](https://open.spotify.com/track/57BfmXEWPeAoN5LvwY2OtB) | [Tensho](https://open.spotify.com/artist/1VXSA52jE1PE9gExw7Gzn1), [Pauline Mancini](https://open.spotify.com/artist/6s2xtejF9X7SJmdK86Aadm) | [On My Knees](https://open.spotify.com/album/5FRmGDL5cSMRqtteqF5pQm) | 3:36 | 2023-04-21 | 2023-04-29 |
+| [Orcasitas](https://open.spotify.com/track/5vvuVPE95GvnU1KXKlhvWo) | [marquitos](https://open.spotify.com/artist/6BsVKwQgIZHaojxpNmOlRU), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Alma De Cántaro](https://open.spotify.com/album/1dnfrMgM2tRhv0xmhMYp5c) | 3:23 | 2026-03-27 |  |
 | [Orgullo](https://open.spotify.com/track/6RKTqttCcDwOc8xuC77dYN) | [Clooy](https://open.spotify.com/artist/7g8e8IIM4RCVOqgSVvzcpT), [Ryan](https://open.spotify.com/artist/1qiKu0gSMfCoL4llCQW7ub), [COQ](https://open.spotify.com/artist/2ZbpC2j8eNKUlZwX1GAAHh) | [Orgullo](https://open.spotify.com/album/4iCVCQpvjo7SVlQkfc0uq6) | 2:42 | 2025-02-14 | 2025-03-08 |
 | [Otra Canción](https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Otra Canción](https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6) | 3:40 | 2022-06-03 | 2022-07-29 |
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2022-05-25 | 2024-09-28 |

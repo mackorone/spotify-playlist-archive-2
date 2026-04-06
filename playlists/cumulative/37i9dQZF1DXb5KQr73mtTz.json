@@ -906,7 +906,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 210000,
       "name": "Crazy Excuse",
       "url": "https://open.spotify.com/track/1b5lEXjKIC3LwU4nd9J59z"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 212000,
       "name": "Dimly",
       "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
@@ -2136,6 +2136,24 @@
       "duration_ms": 179032,
       "name": "help me",
       "url": "https://open.spotify.com/track/0T5t1HKBjtzwFA0j6CdzUJ"
+    },
+    {
+      "album": {
+        "name": "Phantom Lawyer, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1D0D9wTkMgUxTyVSAsNhNt"
+      },
+      "artists": [
+        {
+          "name": "PARK JI WON (fromis_9)",
+          "url": "https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Here I Am (Phantom Lawyer : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/1ymd1VFO6Rodf2hKVv03Ny"
     },
     {
       "album": {
@@ -4890,7 +4908,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 202142,
       "name": "Sorrow at my door(Prod. ROCOBERRY)",
       "url": "https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN"
@@ -5671,6 +5689,24 @@
     },
     {
       "album": {
+        "name": "Unfinished",
+        "url": "https://open.spotify.com/album/3jsaSTAmMX2rmmCpSX6EGz"
+      },
+      "artists": [
+        {
+          "name": "YOONWON",
+          "url": "https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "Unfinished",
+      "url": "https://open.spotify.com/track/6MKKgNu9cB4g5k2iWBhjer"
+    },
+    {
+      "album": {
         "name": "Unforgettable first love",
         "url": "https://open.spotify.com/album/6hFF7Cs1B9eP1aWsTtyv4g"
       },
@@ -6158,6 +6194,24 @@
       "duration_ms": 246106,
       "name": "You Are The Sea",
       "url": "https://open.spotify.com/track/5IN3ZKQDhVOewXbXKglhKv"
+    },
+    {
+      "album": {
+        "name": "You Ruined Me",
+        "url": "https://open.spotify.com/album/7twWecwz0kjiceI9rLbFzk"
+      },
+      "artists": [
+        {
+          "name": "Sojung",
+          "url": "https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "You Ruined Me",
+      "url": "https://open.spotify.com/track/5G9yKd2KszcMMK6FaXnzq1"
     },
     {
       "album": {

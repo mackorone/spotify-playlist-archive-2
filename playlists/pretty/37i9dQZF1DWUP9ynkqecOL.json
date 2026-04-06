@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 26034,
+  "num_followers": 26038,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
+        "name": "Magnetismo",
+        "url": "https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "duration_ms": 241538,
+      "name": "Carnabailito",
+      "url": "https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
         "name": "CARNABAILITO",
         "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 263424,
       "name": "Uni\u00f3n de los Amantes",
       "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
-        "name": "Magnetismo",
-        "url": "https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU"
-      },
-      "artists": [
-        {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
-        }
-      ],
-      "duration_ms": 241538,
-      "name": "Carnabailito",
-      "url": "https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        }
-      ],
-      "duration_ms": 325933,
-      "name": "Carnabailito",
-      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
         "name": "Dia Y Noche",
         "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 425500,
       "name": "Noche - Remix",
       "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "duration_ms": 325933,
+      "name": "Carnabailito",
+      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        }
-      ],
-      "duration_ms": 345766,
-      "name": "El Hijo del Altiplano",
-      "url": "https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
         "name": "Cada Uno con Su Bandera",
         "url": "https://open.spotify.com/album/64VFo7Z9zmG9AQUVARHhvh"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 243072,
       "name": "Cada Uno con Su Bandera",
       "url": "https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        }
+      ],
+      "duration_ms": 345766,
+      "name": "El Hijo del Altiplano",
+      "url": "https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        }
-      ],
-      "duration_ms": 245288,
-      "name": "Atahualpa",
-      "url": "https://open.spotify.com/track/19d9NJpNn4ZGYxcqzCrM7K"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
         "name": "Susurro (Matanza Remix)",
         "url": "https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 302368,
       "name": "Susurro - Matanza Remix",
       "url": "https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        }
+      ],
+      "duration_ms": 245288,
+      "name": "Atahualpa",
+      "url": "https://open.spotify.com/track/19d9NJpNn4ZGYxcqzCrM7K"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
-        "name": "Como la Cigarra",
-        "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 249970,
-      "name": "Como la Cigarra",
-      "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
+        "name": "Como la Cigarra",
+        "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 249970,
+      "name": "Como la Cigarra",
+      "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
+        "name": "Templo Andino",
+        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e4nica Elemental",
+          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "Templo Andino",
+      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
         "name": "Arriba Quemando el Sol",
         "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 208170,
       "name": "Arriba Quemando el Sol",
       "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
-        "name": "Templo Andino",
-        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e4nica Elemental",
-          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "Templo Andino",
-      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
     },
     {
       "added_at": "2026-02-13 13:38:17",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2026-02-13 13:38:17",
       "album": {
+        "name": "Margarita y Margarito (Remix)",
+        "url": "https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg"
+      },
+      "artists": [
+        {
+          "name": "Las 3 Marias",
+          "url": "https://open.spotify.com/artist/0oKNkfcAYLdVZ8zries7zx"
+        },
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 351340,
+      "name": "Margarita y Margarito - Remix",
+      "url": "https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ"
+    },
+    {
+      "added_at": "2026-02-13 13:38:17",
+      "album": {
         "name": "Juana Azurduy",
         "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 218461,
       "name": "Juana Azurduy",
       "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
-    },
-    {
-      "added_at": "2026-02-13 13:38:17",
-      "album": {
-        "name": "Margarita y Margarito (Remix)",
-        "url": "https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg"
-      },
-      "artists": [
-        {
-          "name": "Las 3 Marias",
-          "url": "https://open.spotify.com/artist/0oKNkfcAYLdVZ8zries7zx"
-        },
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 351340,
-      "name": "Margarita y Margarito - Remix",
-      "url": "https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ"
     },
     {
       "added_at": "2026-02-13 13:38:17",

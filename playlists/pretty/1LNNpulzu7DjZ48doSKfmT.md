@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 462 likes - 404 songs - 20 hr 22 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 462 likes - 423 songs - 21 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -412,5 +412,24 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 402 | [The Apple](https://open.spotify.com/track/6E0KXePDFJFzk9BlQ07p2U) | [Ryan Aotani](https://open.spotify.com/artist/62zTP7Hd5XwMVQwEuQ8ttB) | [The Apple](https://open.spotify.com/album/26OzWwi9hNcp0N3KRiMUyW) | 2:57 |
 | 403 | [FOOLS GOLD](https://open.spotify.com/track/4smBauBzEkVhRt7WGsby6E) | [MARLON](https://open.spotify.com/artist/27eocpxomMYAIsSTC7ub7z) | [FOOLS GOLD](https://open.spotify.com/album/5dsoKOXrJx0wx8KVscSNQ7) | 1:52 |
 | 404 | [SMITH & MR\. WESSON](https://open.spotify.com/track/7LRereBkRes9WIflpQl593) | [MARLON](https://open.spotify.com/artist/27eocpxomMYAIsSTC7ub7z), [FLORES](https://open.spotify.com/artist/10SgODoY6fWDzAhCEWvNUN) | [SMITH & MR\. WESSON](https://open.spotify.com/album/3J1ksZyw0iHkmsYJCTmH9x) | 2:26 |
+| 405 | [On My Mind](https://open.spotify.com/track/0Pfj1oi5JXfhE4A9Q2sk7l) | [KOUDE](https://open.spotify.com/artist/4nfGTIbp4dKd72NsYhjMcg) | [On My Mind](https://open.spotify.com/album/5h1grIzUssY4LVlnrht8yy) | 3:03 |
+| 406 | [Safari](https://open.spotify.com/track/1Ih75RntdEoaQG18r9eJpt) | [ELO](https://open.spotify.com/artist/1qoApE9HzNbP2RiogZkE89) | [Safari](https://open.spotify.com/album/43HJdpscmPxiFgFv4Xb0em) | 1:31 |
+| 407 | [Dictator Dreams](https://open.spotify.com/track/79O4zO1jbGJVvshYpyiNcx) | [Bodo Bifroest](https://open.spotify.com/artist/0xMff2UG1y0azDoSbZSLwZ) | [Dictator Dreams](https://open.spotify.com/album/0rSYBoTiUlmVjOqvmcOSc9) | 2:37 |
+| 408 | [Benin Boy](https://open.spotify.com/track/7iEbhz4iM5tZtjfzQ7T1Kw) | [XB](https://open.spotify.com/artist/28IjAxX693wcxTsuHlQKP5) | [Benin Boy](https://open.spotify.com/album/3SATXdgecBdk56WEBY31HS) | 3:04 |
+| 409 | [God's Waiting List](https://open.spotify.com/track/6kYDNhV42rV2tGPS8xW6Zr) | [Luhongo](https://open.spotify.com/artist/6pD84fH6AufB44ccGvLCL5) | [God's Waiting List](https://open.spotify.com/album/25muSm6wNMOlDPRahhTDdJ) | 3:02 |
+| 410 | [360°](https://open.spotify.com/track/1VgNfE7vgMHusYsEg1LYD5) | [MILL$](https://open.spotify.com/artist/0f9COY1hooxBy75gQatB5F) | [360°](https://open.spotify.com/album/4jLbfWS6Y4LcIK2y64aAMc) | 1:14 |
+| 411 | [Summer Love](https://open.spotify.com/track/5yoT79wcOWi4pEsS2zyZeG) | [SAMYR VEXOR](https://open.spotify.com/artist/1h2db5zP7yuVXhbJ9rOTsr) | [Memories & Melodies](https://open.spotify.com/album/6h4Shoj64TG6dMwlMfG0Zn) | 3:24 |
+| 412 | [Work From Anywhere](https://open.spotify.com/track/5PMJ3V5KlIDnSBUawpejTa) | [George Pelham](https://open.spotify.com/artist/76Vy0VBFDdQSJT4pQxLDjT) | [Work From Anywhere](https://open.spotify.com/album/5P6h9zYPieQW4B0JM4lsf1) | 2:17 |
+| 413 | [Fuiste de Viaje](https://open.spotify.com/track/2CbJGe8IetHy4H4Qv1TIEq) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 |
+| 414 | [All Night Long.](https://open.spotify.com/track/1V6u2azIBhUJeWyg2QD3WU) | [Denise O.A.](https://open.spotify.com/artist/6teqykAkMMbFclLu6UOWcC) | [All Night Long.](https://open.spotify.com/album/52yi1CR55w25gh0pnDacoK) | 3:17 |
+| 415 | [Expensive Pain](https://open.spotify.com/track/4RPAQ3g514o7Mqtc0mcz7X) | [Mvingo](https://open.spotify.com/artist/7uJH5I3vDXcinEKi633si2), [Harshit Datta](https://open.spotify.com/artist/4OnrXxKdWoyI3KLCdOhMl9) | [Vivid Vision](https://open.spotify.com/album/5I8JqLhkiPXhZRRhC22A3l) | 2:18 |
+| 416 | [Same Time Tomorrow](https://open.spotify.com/track/4UV2bgz2ECQ0yZavK2fyW0) | [Kenyonwrites](https://open.spotify.com/artist/3UWnLhnZxjyyE68iHdHOOk) | [Urban Legend 3](https://open.spotify.com/album/5hO3tBgbAuSa0pHrIr7BHg) | 3:07 |
+| 417 | [No Hay Tiempo](https://open.spotify.com/track/2zLn9ZLLxBLJXfjo7kZwVv) | [Lu\-k Mc](https://open.spotify.com/artist/7eBvM4CyBRXoJK0l7dUTkq) | [No Hay Tiempo](https://open.spotify.com/album/6twp3uVTUMbnQGgo9iHiFJ) | 3:27 |
+| 418 | [Given Up](https://open.spotify.com/track/2PcTQxer6wobPdt2k2UozL) | [Arsenic Kitchen](https://open.spotify.com/artist/5eQGqzkt479Fgnn4IJMJu1) | [Given Up](https://open.spotify.com/album/1woWviNayzJrOf29oocqfj) | 3:09 |
+| 419 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 |
+| 420 | [Sin Testigos](https://open.spotify.com/track/0CkcQoWVFPcvHmMmwZWCSC) | [New Devil](https://open.spotify.com/artist/03CZFwY4NeS5nxKBjO8jhj) | [Sin Testigos](https://open.spotify.com/album/7bRW7yUIhBVTEbo9RDJYRH) | 2:32 |
+| 421 | [tony stark](https://open.spotify.com/track/6dtK3KHOFybvXlGsh1SzpB) | [ibleedjugo.](https://open.spotify.com/artist/2sK4L0Q4UtSAzGl26QIoUL), [JayBZY!](https://open.spotify.com/artist/4Mj8TlaZjOc26CeLcldyfr) | [The Rewind](https://open.spotify.com/album/7KgZXvfK4HlN7q9yEMYuwh) | 2:09 |
+| 422 | [Luv](https://open.spotify.com/track/3TnCzKW7LncoTyXa9pFles) | [Que K](https://open.spotify.com/artist/7dcJm2exRKPpt1j6Pk91ML), [GARCI Gang Apples](https://open.spotify.com/artist/082gfwyn0AYPMXeQigMCRM), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [U shoulda stayed down 26.....](https://open.spotify.com/album/7mrXxwvsfXQx9Q2GwDE6qe) | 3:29 |
+| 423 | [Planting Lies](https://open.spotify.com/track/1RupRobeRR4wnYC1ToofkH) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:17 |
 
-Snapshot ID: `AAAcPPX5sE2EmTl1HQpvw1m4OP5i8MOE`
+Snapshot ID: `AAAcT295SK2wrkt7bZWumpMPIWyL7rNL`

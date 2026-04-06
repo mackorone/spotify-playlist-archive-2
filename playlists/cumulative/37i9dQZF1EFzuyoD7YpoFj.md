@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-682 songs - 1 day 12 hr 41 min
+683 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,7 +675,8 @@
 | [You'd Be So Nice to Come Home To](https://open.spotify.com/track/3pUGU5V1vuBED1W2RPB88Q) | [Brazilian Tropical Orchestra](https://open.spotify.com/artist/12eoM9FuPYxDxuNQvtdWM3) | [The American Songbook: Cole Porter](https://open.spotify.com/album/4Fl5alWOBXhk3eUcYC878u) | 2:02 | 2025-06-27 | 2025-07-10 |
 | [You'd Be So Nice To Come Home To \- Remastered 1998](https://open.spotify.com/track/5cNTrq3s5Us1aibaLQfXCi) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 2:04 | 2024-07-24 | 2025-06-28 |
 | [You'll Never Get Rich](https://open.spotify.com/track/15C6kgeHsiGFmQqwR7BsVQ) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 0:56 | 2024-07-24 |  |
-| [You're A Bad Influence On Me](https://open.spotify.com/track/7ygWOl8HyMix1J3BpXRZRU) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [Something Cool](https://open.spotify.com/album/2unSzRDCPismEAcknbV2na) | 4:07 | 2024-07-24 |  |
+| [You're A Bad Influence On Me](https://open.spotify.com/track/0B0uNg6dEwDsgQD5RrXZ7f) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [Something Cool](https://open.spotify.com/album/32OPsUnxSRCsY7O0gSC0DY) | 4:07 | 2026-04-05 |  |
+| [You're A Bad Influence On Me](https://open.spotify.com/track/7ygWOl8HyMix1J3BpXRZRU) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [Something Cool](https://open.spotify.com/album/2unSzRDCPismEAcknbV2na) | 4:07 | 2024-07-24 | 2026-04-06 |
 | [You're Just Too, Too!](https://open.spotify.com/track/6yMFCN5ohHra2A7x2iw899) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk) | [I Got Rhythm](https://open.spotify.com/album/6eTcIUVYY214XsgfTlnl2h) | 1:59 | 2024-07-24 |  |
 | [You're Sensational](https://open.spotify.com/track/1bbSaQGStvic6NcwS1KI2C) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [ブルー・トレイン](https://open.spotify.com/album/4oSv9oi3eTM7ati3AuJXkI) | 6:52 | 2024-07-24 |  |
 | [You're Sensational](https://open.spotify.com/track/6LVGUVtdGyGp7iQSxJrwVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [FRANK SINATRA INTEGRAL 1953 \- 1956](https://open.spotify.com/album/3xQiGu3QVKalhMdfTpYq2q) | 3:53 | 2024-07-24 | 2025-07-10 |

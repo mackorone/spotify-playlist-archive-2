@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,211 songs - 4 day 18 hr 51 min
+2,212 songs - 4 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,7 @@
 | [En sekund](https://open.spotify.com/track/3HteneaA9R5zRXVvZRoT0i) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [En sekund \(Spotify Studio It's Hits Recording\)](https://open.spotify.com/album/0M5PVcCS8bM1fpZj7BEqCF) | 3:39 | 2021-12-16 | 2022-03-06 |
 | [En sista chans](https://open.spotify.com/track/5MwZYdZ7MLDJtV5SVRaNmr) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [En sista chans](https://open.spotify.com/album/2XNWpmR1BKjvtohL5be22u) | 3:04 | 2024-08-22 | 2025-03-14 |
 | [En sång om dig](https://open.spotify.com/track/5VdVTdRb1VQ2LeMvTjjXca) | [Love Antell](https://open.spotify.com/artist/1NsCBCpJLNQstRoKr4oS0G) | [En sång om dig](https://open.spotify.com/album/35koKrD7oBeq0p3tLDQP4R) | 3:14 | 2024-05-23 | 2024-06-21 |
-| [En tår](https://open.spotify.com/track/28y85h7J7lA08N2x5OEEhB) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [En tår](https://open.spotify.com/album/74kknMQmcLmDMi26QF13JK) | 2:54 | 2026-02-12 |  |
+| [En tår](https://open.spotify.com/track/28y85h7J7lA08N2x5OEEhB) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [En tår](https://open.spotify.com/album/74kknMQmcLmDMi26QF13JK) | 2:54 | 2026-02-12 | 2026-04-06 |
 | [En tår för varje tår](https://open.spotify.com/track/5bR2R637w1Z7OtUk6qn26P) | [Melina Borglowe](https://open.spotify.com/artist/6iuKUTViI8eNiiZN8hOkFj) | [En tår för varje tår](https://open.spotify.com/album/6idVeqKsRaSPry1D2pXqsD) | 3:24 | 2024-05-16 | 2024-06-14 |
 | [En vän som du](https://open.spotify.com/track/3A02QRPJAWHPgk1UTP1TGM) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [En vän som du](https://open.spotify.com/album/6O978opVcr08Fw4uoXSFW9) | 3:18 | 2024-06-13 | 2024-08-16 |
 | [En vän till mig](https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [En vän till mig](https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg) | 2:37 | 2024-09-19 | 2024-11-08 |
@@ -2201,6 +2201,7 @@
 | [Älskad](https://open.spotify.com/track/5CsGx0tqM4faRt1E8osjtq) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [Älskad](https://open.spotify.com/album/4a6axd5VO3HWdkCrtj0mhf) | 2:44 | 2024-01-25 | 2024-03-15 |
 | [Älskar du nån annan än dig](https://open.spotify.com/track/62kqQ6X0Ff95KWEbe03PAe) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Älskar du nån annan än dig](https://open.spotify.com/album/53bXKv50IjUOwsiknABKB0) | 2:29 | 2024-06-27 | 2024-10-25 |
 | [Älskling](https://open.spotify.com/track/08W6znhzp2rFSZL4rV7lYm) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Älskling](https://open.spotify.com/album/5yOIJVewSz50G6EaGr5qLo) | 3:05 | 2024-05-30 | 2024-06-28 |
+| [Älskling du är min](https://open.spotify.com/track/2PpgVcLvLGRTNUuA4oODiP) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Älskling du är min](https://open.spotify.com/album/2ArySCiS3ecGnWj5maAAsY) | 2:53 | 2026-04-02 |  |
 | [Ändstation](https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq), [Kid Eriksson](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Ändstation](https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K) | 3:20 | 2022-08-11 | 2023-02-11 |
 | [Ängel](https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ängel](https://open.spotify.com/album/03UrdydUyMXEvAYCiX1vK2) | 3:29 | 2024-06-06 | 2024-08-09 |
 | [Änglar](https://open.spotify.com/track/0U4CK7ehoH0h72JGEInZ7I) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Änglar](https://open.spotify.com/album/0OslZAlgAER7ZitMuvHEB6) | 2:46 | 2024-03-07 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sleep Token. The essential tracks, all in one playlist.",
-  "num_followers": 396215,
+  "num_followers": 396280,
   "original_name": "This Is Sleep Token",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac8DAAAAAACGErA5hLSIAgS5KlbnlyFz",
+  "snapshot_id": "adBUgAAAAAD8EFVCNHpu6x5C1Etrue3K",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
         }
       ],
-      "duration_ms": 146213,
-      "name": "Fall For Me",
-      "url": "https://open.spotify.com/track/3UwtS13MeMT2Nu2rRwa50I"
+      "duration_ms": 296533,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/3mkxroy1t6J9HGywwjjE5a"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
         }
       ],
-      "duration_ms": 296533,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/3mkxroy1t6J9HGywwjjE5a"
+      "duration_ms": 146213,
+      "name": "Fall For Me",
+      "url": "https://open.spotify.com/track/3UwtS13MeMT2Nu2rRwa50I"
     },
     {
       "added_at": null,

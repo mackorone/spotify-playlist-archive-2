@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-169 songs - 9 hr 25 min
+170 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Birds In The Woods](https://open.spotify.com/track/2TJvCm7NNBJBSKQJWNEj3D) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rainy Morning Bird Sounds](https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66) | 2:51 | 2025-07-21 |  |
 | [Birds in Village Park](https://open.spotify.com/track/0QzUxmfNfouNor0fUpslhn) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:34 | 2021-12-08 | 2022-07-05 |
 | [Birds Near Icy Stream](https://open.spotify.com/track/2DDZOmWgLnKyuBMotHjAC4) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Winter Streams](https://open.spotify.com/album/5wE2T4cHSDg8xDgUOf9kb6) | 2:15 | 2021-12-08 | 2022-07-05 |
+| [Birds near the river in Columbia](https://open.spotify.com/track/4YjV6QkrEGCIq66DBeO4Ky) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Birds near the river in Columbia](https://open.spotify.com/album/0zUtoR2O9ZiM8uoiVKAOuP) | 1:59 | 2026-04-02 |  |
 | [Birds Of Fern Valley \- Seamless](https://open.spotify.com/track/4dyxi3hwcorIIswprEjCPg) | [Luvbyrds](https://open.spotify.com/artist/4Jej21yNK07VQxiJ30bllw) | [Idyllwild Placid](https://open.spotify.com/album/3yEc4L6FBMR21lAlDZo5BG) | 2:36 | 2022-03-21 | 2022-07-05 |
 | [Birds Of Sonoma](https://open.spotify.com/track/3jl9eaLHME02Bt84BkXaXU) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Peaceful Wildlife](https://open.spotify.com/album/0x1729ILqSXzbNEIpHmWjq) | 3:42 | 2021-12-08 | 2022-07-05 |
 | [Birds of Spring](https://open.spotify.com/track/69H7jdNnRPmik90SG9U8Ee) | [Peaceful Birds](https://open.spotify.com/artist/772Y6DzYn0qwzVkbGe5qcK) | [Beautiful Spring Birds](https://open.spotify.com/album/1TmnpMigOjg2thZUiwDld8) | 2:02 | 2024-08-23 |  |
@@ -67,7 +68,7 @@
 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 | 2022-07-04 | 2022-11-22 |
 | [blackbird spring ambience](https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Blackbird Spring Ambience](https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h) | 1:42 | 2022-07-04 |  |
 | [Calm Forest Birds](https://open.spotify.com/track/50pHWYGluK6qV5mXU128OK) | [Birdsongst](https://open.spotify.com/artist/013QQQC3ofg6o6fhfyvMiK) | [Neighborhood Birds FX](https://open.spotify.com/album/3RuOVBydoDyDJK3GYjnOM7) | 2:30 | 2023-06-19 | 2025-11-12 |
-| [Calm Summer Dusk at the Farm](https://open.spotify.com/track/5NQf4rqKwhCAjxybZZnxvM) | [Jan Berliner](https://open.spotify.com/artist/0iWEhQN4crcKwSpJsVDWz0) | [Calm Summer Dusk at the Farm](https://open.spotify.com/album/3SGRixB5ozgLvZgstXHdk1) | 2:30 | 2025-07-24 |  |
+| [Calm Summer Dusk at the Farm](https://open.spotify.com/track/5NQf4rqKwhCAjxybZZnxvM) | [Jan Berliner](https://open.spotify.com/artist/0iWEhQN4crcKwSpJsVDWz0) | [Calm Summer Dusk at the Farm](https://open.spotify.com/album/3SGRixB5ozgLvZgstXHdk1) | 2:30 | 2025-07-24 | 2026-04-06 |
 | [Calming Morning Birds](https://open.spotify.com/track/1hJO6JW80wv1DNMZq7djtw) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Relaxing Morning in Hawaii](https://open.spotify.com/album/0sz8qDddys4gX8vt7ZCYfz) | 2:00 | 2024-08-23 | 2025-03-02 |
 | [Calming River and Birds](https://open.spotify.com/track/6adenoqGem4ct6StQqJGDk) | [Lucila Blanco](https://open.spotify.com/artist/51h2aIvJRuUKKug9FG9Zlx) | [Calming River and Birds](https://open.spotify.com/album/4LtLMvR1X1qknoa4VtnuWt) | 2:17 | 2023-06-19 | 2023-12-21 |
 | [Canyon Bird Life](https://open.spotify.com/track/2kVnsq94gLLCiKj9ynxixY) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Peaceful Wildlife](https://open.spotify.com/album/0x1729ILqSXzbNEIpHmWjq) | 3:17 | 2021-12-08 | 2022-07-05 |

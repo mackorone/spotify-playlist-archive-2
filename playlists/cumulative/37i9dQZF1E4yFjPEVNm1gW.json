@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Autumn!, Duwap Kaine and more",
+  "description": "With Yeat, Autumn!, Cuo Zay and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -178,6 +178,24 @@
       "duration_ms": 172199,
       "name": "All Manz Dead",
       "url": "https://open.spotify.com/track/7CSWfxFVRF3fobvMVJGaJF"
+    },
+    {
+      "album": {
+        "name": "59 Reasons",
+        "url": "https://open.spotify.com/album/1eW3EdkFpyZ5Wo9ugzi7Qq"
+      },
+      "artists": [
+        {
+          "name": "Mdot 59",
+          "url": "https://open.spotify.com/artist/5XKwahmcQcv5FuJ42uQT0N"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135047,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0cd80Dn2KH2ek7rLOMOlLm"
     },
     {
       "album": {
@@ -522,7 +540,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 125401,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/72lcXqVlzrsCt5lAdFqG0m"
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 143775,
       "name": "Intervals",
       "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 150928,
       "name": "Live Ya Life!",
       "url": "https://open.spotify.com/track/01jaNqZRf5rBKPF5CfKQVV"
@@ -2041,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "MORDERMAND / AUBAMEYANG",
+        "url": "https://open.spotify.com/album/1kaJP5oiVbg63l9K7o2Bed"
+      },
+      "artists": [
+        {
+          "name": "BRAT",
+          "url": "https://open.spotify.com/artist/52tFcBHReMmYK13DsgoDzo"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109652,
+      "name": "MORDERMAND",
+      "url": "https://open.spotify.com/track/6necwqqASlZrchrUAUI02Y"
+    },
+    {
+      "album": {
         "name": "Clinched Teeth",
         "url": "https://open.spotify.com/album/4TTioZWmaRrLsjjU3fjTbF"
       },
@@ -2298,7 +2334,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 85122,
       "name": "Not bumping",
       "url": "https://open.spotify.com/track/5PwZYWcegobehHkGHrdUUe"
@@ -2464,7 +2500,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 138017,
       "name": "P!NK GUN",
       "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
@@ -2898,7 +2934,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 222876,
       "name": "Spanglish",
       "url": "https://open.spotify.com/track/5uTlnTxi8kQv6EuMvR725n"
@@ -3254,7 +3290,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 157245,
       "name": "Time (TopOppGen)",
       "url": "https://open.spotify.com/track/5lMrHxIqCLdsudOL55c5b1"
@@ -3482,7 +3518,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 143112,
       "name": "Which 1 / Klueless",
       "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"

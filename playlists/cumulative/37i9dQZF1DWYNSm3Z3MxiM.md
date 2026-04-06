@@ -150,6 +150,6 @@
 | [Won't Get Fooled Again \- Remix](https://open.spotify.com/track/1W1GpfPujmgp2vQqcpUhtU) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Expanded Edition\)](https://open.spotify.com/album/53PBYiedQrASAs5sy63JqT) | 8:33 | 2021-12-14 |  |
 | [You Ain't Seen Nothing Yet](https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:54 | 2021-12-14 |  |
 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 | 2021-12-14 |  |
-| [You've Got Another Thing Coming](https://open.spotify.com/track/55cd3NlqktNjhAZcPvaUvk) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 5:10 | 2022-01-04 |  |
+| [You've Got Another Thing Comin'](https://open.spotify.com/track/55cd3NlqktNjhAZcPvaUvk) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 5:10 | 2022-01-04 |  |
 
 \*This playlist was first scraped on 2022-03-28. Prior content cannot be recovered.

@@ -9834,7 +9834,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 174000,
       "name": "En t\u00e5r",
       "url": "https://open.spotify.com/track/28y85h7J7lA08N2x5OEEhB"
@@ -40984,6 +40984,24 @@
       "duration_ms": 185806,
       "name": "\u00c4lskling",
       "url": "https://open.spotify.com/track/08W6znhzp2rFSZL4rV7lYm"
+    },
+    {
+      "album": {
+        "name": "\u00c4lskling du \u00e4r min",
+        "url": "https://open.spotify.com/album/2ArySCiS3ecGnWj5maAAsY"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "\u00c4lskling du \u00e4r min",
+      "url": "https://open.spotify.com/track/2PpgVcLvLGRTNUuA4oODiP"
     },
     {
       "album": {

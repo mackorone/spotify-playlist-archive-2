@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-238 songs - 16 hr 51 min
+239 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 | 2021-10-20 |  |
 | [Arnaq](https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 3:25 | 2023-07-19 | 2025-02-15 |
 | [As\-tu été à Tahiti?](https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Racines](https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx) | 1:13 | 2023-11-23 | 2025-03-30 |
-| [Ashes](https://open.spotify.com/track/5yyERzShStDBpcmYMzU5xz) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Ashes](https://open.spotify.com/album/2sgrnOpb8LLj9wKfiycqZu) | 3:36 | 2025-09-02 |  |
+| [Ashes](https://open.spotify.com/track/5yyERzShStDBpcmYMzU5xz) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Ashes](https://open.spotify.com/album/2sgrnOpb8LLj9wKfiycqZu) | 3:36 | 2025-09-02 | 2026-04-06 |
 | [Atomic Bomb](https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 7:59 | 2021-10-20 |  |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-20 |  |
 | [Automation](https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 3:29 | 2021-10-20 | 2024-04-19 |
@@ -221,6 +221,7 @@
 | [Vaivén](https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [José Pereelanga](https://open.spotify.com/artist/7m2kK4kAhIxwRVWaoTQUjO), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 | 2021-10-20 |  |
 | [Vallahi Yok](https://open.spotify.com/track/22TIuZCNYKuuXmkA4rIY0V) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vallahi Yok / Kirik Cam](https://open.spotify.com/album/5vItyofUlifKHKLabwy3hC) | 4:37 | 2024-04-11 | 2024-04-19 |
 | [Vallahi Yok](https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vallahi Yok / Kirik Cam](https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf) | 4:37 | 2024-04-11 | 2024-10-05 |
+| [Ventura Phase](https://open.spotify.com/track/0GZpJMYiXYcW6CYd85dPax) | [The Mauskovic Dance Band](https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS) | [Shadance Hall](https://open.spotify.com/album/2InIZJ4DEGRjNUJpDeo2TC) | 4:12 | 2025-09-02 |  |
 | [Viaje a Mictlán](https://open.spotify.com/track/2zDKV6f0kiFDOWeWRc25aE) | [Panamá Cha\-Cha](https://open.spotify.com/artist/43zjLsaqlPKLQV6uRJPLlG) | [Viaje a Mictlán](https://open.spotify.com/album/7eGs4bK1jQOVKdR53py0f3) | 4:14 | 2025-01-31 |  |
 | [Vida](https://open.spotify.com/track/5WCymp7EQYCo00B9jO37jx) | [Las Ponchas](https://open.spotify.com/artist/5g8rxSvetiRBIXWRAdYHJG) | [Vida](https://open.spotify.com/album/1FwqBdJjob5rVp1wetzXh9) | 4:38 | 2024-08-02 | 2024-10-05 |
 | [W Boru Kalinka](https://open.spotify.com/track/1qW9yHYYXwPXCw58qjLqJN) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie) | [Wykorzenienie](https://open.spotify.com/album/1NGak9Mv3q20g05HXik7fq) | 3:29 | 2021-10-20 | 2023-11-21 |

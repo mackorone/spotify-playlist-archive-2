@@ -4432,7 +4432,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 142800,
       "name": "Dear Diary",
       "url": "https://open.spotify.com/track/1L39tJl5f0a8njtKvuwhcM"
@@ -10560,7 +10560,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 163400,
       "name": "Just Say Maybe",
       "url": "https://open.spotify.com/track/1RKsTZDIobGNG7wRcJBQkC"
@@ -10632,7 +10632,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 234798,
       "name": "Kill the Messenger",
       "url": "https://open.spotify.com/track/0ckSiXO2wQUDSghsrAwjlv"
@@ -16977,6 +16977,24 @@
     },
     {
       "album": {
+        "name": "Shrine 2026",
+        "url": "https://open.spotify.com/album/0bUQLKM01iS03NJwSbJpPp"
+      },
+      "artists": [
+        {
+          "name": "The Dambuilders",
+          "url": "https://open.spotify.com/artist/3b5zJp91jHNhz6AByOoURk"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177693,
+      "name": "Shrine 2026",
+      "url": "https://open.spotify.com/track/11ipToPPa63Bhny2MXULu0"
+    },
+    {
+      "album": {
         "name": "Shrouded in the starless furnace.",
         "url": "https://open.spotify.com/album/4DHzStJOWF8w7WeQ7hE41v"
       },
@@ -17992,7 +18010,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 143563,
       "name": "Split My Head",
       "url": "https://open.spotify.com/track/5mo6uSX9XyT0lPuJbwa1gi"
@@ -19640,7 +19658,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 253779,
       "name": "The One",
       "url": "https://open.spotify.com/track/48jclVmNBWXsphL69bRatg"
@@ -20548,7 +20566,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 154619,
       "name": "Transmutated",
       "url": "https://open.spotify.com/track/69AwPaxlvPuvunzKa6sSMR"
@@ -21388,7 +21406,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 255936,
       "name": "Wasteman",
       "url": "https://open.spotify.com/track/1esf4MKhQ8Ps1EcYqxNprR"

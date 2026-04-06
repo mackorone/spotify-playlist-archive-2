@@ -633,7 +633,7 @@
     },
     {
       "album": {
-        "name": "\u6dbc\u5bae\u30cf\u30eb\u30d2\u306e\u5b8c\u594f\u301c\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u301c",
+        "name": "\u6dbc\u5bae\u30cf\u30eb\u30d2\u306e\u5b8c\u594f\uff5e\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\uff5e",
         "url": "https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI"
       },
       "artists": [
@@ -1443,21 +1443,13 @@
     },
     {
       "album": {
-        "name": "\u6dbc\u5bae\u30cf\u30eb\u30d2\u306e\u5b8c\u594f\u301c\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u301c",
+        "name": "\u6dbc\u5bae\u30cf\u30eb\u30d2\u306e\u5b8c\u594f\uff5e\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\uff5e",
         "url": "https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI"
       },
       "artists": [
         {
           "name": "Aya Hirano",
           "url": "https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj"
-        },
-        {
-          "name": "\u8305\u539f\u5b9f\u91cc",
-          "url": "https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ"
-        },
-        {
-          "name": "\u5f8c\u85e4\u9091\u5b50",
-          "url": "https://open.spotify.com/artist/125fR1G9GJOC9YD8ZQ7a0Q"
         }
       ],
       "date_added": "2021-09-14",

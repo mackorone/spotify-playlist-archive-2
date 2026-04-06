@@ -4,7 +4,7 @@
 
 > Home is where the main stage is ❤️‍🔥 with John Summit
 
-912 songs - 1 day 22 hr 57 min
+913 songs - 1 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Coming Home](https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Coming Home](https://open.spotify.com/album/1QxdQYatNANaOMbnWmFw3F) | 3:11 | 2022-03-18 | 2022-04-17 |
 | [Coming Over \- VIP](https://open.spotify.com/track/1p04Tm0c2tnIdgOYIpcioh) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Very Important Music](https://open.spotify.com/album/1hSyRaCKfMvbiTXXtlHW46) | 3:20 | 2021-06-02 | 2022-07-29 |
 | [Como La Flor](https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Como La Flor](https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB) | 2:54 | 2024-08-30 | 2024-10-09 |
+| [Control](https://open.spotify.com/track/4e1L2pH75XOtCE0I0XzxlU) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Control](https://open.spotify.com/album/06qQT1E5uhlINmwovogW4P) | 3:12 | 2026-04-03 |  |
 | [Crash](https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Crash](https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS) | 2:06 | 2025-02-07 | 2025-09-30 |
 | [Creatures Of Tomorrow](https://open.spotify.com/track/712zMbj5Q5kekcq3FVGvXj) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Creatures Of Tomorrow](https://open.spotify.com/album/5mBan5jxqLzd7SLozflhan) | 2:16 | 2023-04-28 | 2023-05-27 |
 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 | 2024-02-02 | 2024-04-19 |
@@ -602,7 +603,7 @@
 | [Only Now \(feat\. Tyler Graves\)](https://open.spotify.com/track/6mE1m1NmzO7slSiN6vzovg) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Only Now \(feat\. Tyler Graves\)](https://open.spotify.com/album/0APlxVPUoB5XbufgbeeNzZ) | 3:31 | 2022-03-18 | 2022-04-15 |
 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 | 2022-03-25 | 2023-06-10 |
 | [Our Time](https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Our Time](https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz) | 2:41 | 2025-07-11 |  |
-| [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 | 2024-04-26 |  |
+| [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 | 2024-04-26 | 2026-04-06 |
 | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/track/4gWtx9QQlkt7x7dIohwoHE) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [The End Of Genesys \(Deluxe\)](https://open.spotify.com/album/5mrhEkyhLEU7HCb1msC0bw) | 2:39 | 2026-01-09 |  |
 | [Out Of My Mind](https://open.spotify.com/track/2FSvmq9jktuOnl6H45zEaD) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Out Of My Mind](https://open.spotify.com/album/6V0uuxw9BnRBlZRjUw30Fa) | 2:36 | 2022-04-08 | 2022-04-16 |
 | [Out Of Time](https://open.spotify.com/track/2hnTh4H4Ro9yA9ftxok2ZL) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Out Of Time](https://open.spotify.com/album/2y6W3dB0w3iJBum5ZRLUPf) | 2:52 | 2025-02-21 | 2025-08-02 |

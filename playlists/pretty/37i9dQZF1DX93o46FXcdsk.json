@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 50478,
+  "num_followers": 50501,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Herinneringen Het Beste van Nick & Simon Top 100",
+        "url": "https://open.spotify.com/album/3OCPo87VO0wfOXVclPdujA"
+      },
+      "artists": [
+        {
+          "name": "Nick & Simon",
+          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
+        }
+      ],
+      "duration_ms": 201320,
+      "name": "Lippen Op De Mijne",
+      "url": "https://open.spotify.com/track/37bPbfNTNziZ7OyV0BShpO"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Allennig II",
         "url": "https://open.spotify.com/album/2bhzeZwCHPwmJZm13SgiYS"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 208160,
       "name": "Hier Kom Ik Weg",
       "url": "https://open.spotify.com/track/3tuMKNEdIbv43UEM5eYa7f"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Alle 40 Goed",
-        "url": "https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR"
-      },
-      "artists": [
-        {
-          "name": "De Dijk",
-          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Mijn Van Straat Geredde Roos",
-      "url": "https://open.spotify.com/track/4dT8ndNPoqfhJmEqNO48BE"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -759,6 +759,22 @@
       "duration_ms": 267320,
       "name": "De Weg",
       "url": "https://open.spotify.com/track/635SzX3i16N8h7Ry8pl8Re"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Alle 40 Goed",
+        "url": "https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR"
+      },
+      "artists": [
+        {
+          "name": "De Dijk",
+          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Mijn Van Straat Geredde Roos",
+      "url": "https://open.spotify.com/track/4dT8ndNPoqfhJmEqNO48BE"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -827,22 +843,6 @@
       "duration_ms": 223533,
       "name": "Slaap Lekker (Fantastig Toch)",
       "url": "https://open.spotify.com/track/0zVNMXvvuzVCHWAO4qU0rC"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Alle 40 Goed - Hollandse Hits",
-        "url": "https://open.spotify.com/album/5o5LwqlmNTP1XM5t6fEgub"
-      },
-      "artists": [
-        {
-          "name": "Veldhuis & Kemper",
-          "url": "https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Ik Wou Dat Ik Jou Was",
-      "url": "https://open.spotify.com/track/6lthfwI9TuT2xWnWpv8JUF"
     }
   ],
   "unique_name": "00's Nederlandstalig",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > It's time to return to the dojo\. Listen to all the music from Cobra Kai, new season coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,130 likes - 66 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,144 likes - 66 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 39 | [Boneshaker](https://open.spotify.com/track/1fvmljBBL2lsyewZBKYj93) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Boneshaker](https://open.spotify.com/album/0qluDo8WVqgdZ4aSm1dm3T) | 3:30 |
 | 40 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 |
 | 41 | [Iron Dragons \(feat\. Charlie Robbins\)](https://open.spotify.com/track/4rbTrjNkce5KAI75h1HQ10) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp), [Charlie Robbins](https://open.spotify.com/artist/5OtkPEce6CPUiMFKEgCbxl) | [Cobra Kai: Season 6, Part 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4WbFmwPAKDm0G9agWe6EdQ) | 2:07 |
-| 42 | [You've Got Another Thing Coming](https://open.spotify.com/track/55cd3NlqktNjhAZcPvaUvk) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 5:10 |
+| 42 | [You've Got Another Thing Comin'](https://open.spotify.com/track/55cd3NlqktNjhAZcPvaUvk) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 5:10 |
 | 43 | [Love Is A Deserter](https://open.spotify.com/track/5tT1aeBgz7kbAugGXNQZ7n) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [No Wow](https://open.spotify.com/album/1wPUWq21gP0rYhaSBqBaEp) | 3:48 |
 | 44 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:52 |
 | 45 | [Not Here to Fight](https://open.spotify.com/track/5svpREkVOHwf8fPcwVlePs) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0g3Il2Pkxk4M941pOoGTQn) | 0:56 |

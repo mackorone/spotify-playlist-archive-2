@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/5u51hTYLdODB8t2Rt4QlCF"
+      },
+      "artists": [
+        {
+          "name": "19990619",
+          "url": "https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246976,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/00wkRxiuNBLBFPHvxkg2PI"
+    },
+    {
+      "album": {
         "name": "Spring Before I Knew It",
         "url": "https://open.spotify.com/album/2Ucs5ovgUZ4mXYFYjYOqqd"
       },
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 238575,
       "name": "Hug Me (I'm In Your Arms)",
       "url": "https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB"
@@ -2821,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Empty World",
+        "url": "https://open.spotify.com/album/19HnRzEdPvERU5kiFqOYrz"
+      },
+      "artists": [
+        {
+          "name": "Lee Seol Ah",
+          "url": "https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278241,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/69qxDcpsgg7MPZtF5IH9oW"
+    },
+    {
+      "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC"
       },
@@ -2850,7 +2886,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 216360,
       "name": "Youth",
       "url": "https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z"

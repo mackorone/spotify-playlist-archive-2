@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-480 songs - 22 hr 33 min
+481 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Morning blizz](https://open.spotify.com/track/1QTM0kaUZC52uJjzhDw1WH) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Morning blizz](https://open.spotify.com/album/7dETgeWYpPyh1m6NQYBrBh) | 2:04 | 2023-04-06 | 2024-11-12 |
 | [Morning Serenity](https://open.spotify.com/track/1f0Xfxjv0ClqY4PGedSAoq) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Morning Serenity](https://open.spotify.com/album/61PBagExiEvzSCp7H4hKbC) | 2:22 | 2026-03-06 | 2026-04-04 |
 | [Morning Spring](https://open.spotify.com/track/2z8607a6qDX2eUFsjI4LM4) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Morning Spring](https://open.spotify.com/album/4x0WU6pozeMkcND1zJlifI) | 2:30 | 2026-04-03 |  |
-| [morning sun](https://open.spotify.com/track/6zH8CCVRoPEdnC609EHiim) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [morning sun](https://open.spotify.com/album/4Ihr8c62YpsHpRouNOheTZ) | 3:09 | 2025-07-01 |  |
+| [morning sun](https://open.spotify.com/track/6zH8CCVRoPEdnC609EHiim) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [morning sun](https://open.spotify.com/album/4Ihr8c62YpsHpRouNOheTZ) | 3:09 | 2025-07-01 | 2026-04-06 |
 | [Mosaic Patterns](https://open.spotify.com/track/7MHME2ELEuXdN6NC69OpLj) | [Vadodara](https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V) | [Mosaic Patterns](https://open.spotify.com/album/4GdPy1i4mgFy8eFW2JCmot) | 2:53 | 2023-03-13 | 2025-04-02 |
 | [Motion](https://open.spotify.com/track/5Y3GhXRH3wfUGzsq8IAfQA) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Motion](https://open.spotify.com/album/1S2gpUQc7spDKkgly5pws3) | 2:39 | 2025-02-26 | 2026-03-17 |
 | [Mountain Streams](https://open.spotify.com/track/3GzWxvQYJYwvUR3t84Fr2D) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Mountain Streams](https://open.spotify.com/album/77vCHsHSqYLFrh7RRm7EwB) | 2:18 | 2024-09-06 | 2026-03-17 |
@@ -465,6 +465,7 @@
 | [Trees and Birds](https://open.spotify.com/track/5pxc7awYBhXmhDaM2tUwLl) | [Tundriunas](https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z) | [Trees and Birds](https://open.spotify.com/album/0CNZyLHT6HBiDn1rgYUYVe) | 2:04 | 2023-05-19 | 2024-10-04 |
 | [Treetop Dreamers](https://open.spotify.com/track/1qSrmJpdEh0gbbqXfimXrj) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Treetop Dreamers](https://open.spotify.com/album/5YQsZOrmwOlqKrc4NlDRlw) | 2:59 | 2026-04-03 |  |
 | [Tvivl](https://open.spotify.com/track/0MD3DcB2wd5szM23EQtAVD) | [Silenced](https://open.spotify.com/artist/4DIjHWtTuEdnc561jHAESJ), [Sorth](https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG) | [Tvivl](https://open.spotify.com/album/7IxhbSKsEdnOQ3XkAOxu2L) | 2:29 | 2026-03-16 |  |
+| [Uccellissimo](https://open.spotify.com/track/3Oo585vzEl49GUm1WVxjtw) | [Diana Lovett](https://open.spotify.com/artist/02VXgufGr8gwuryPtqvn1w) | [Uccellissimo](https://open.spotify.com/album/47TkhnmkLO1M1QBjNM5FX2) | 2:47 | 2026-04-03 |  |
 | [Uisge](https://open.spotify.com/track/3DU2zNpNXhEljFIX2yUytB) | [Caius Biel](https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq) | [Uisge](https://open.spotify.com/album/1oo6E2uimQLWLNgcnazIpK) | 2:58 | 2026-04-03 |  |
 | [Under The Tabla](https://open.spotify.com/track/5RmZaQr8u7VZWg6kX7ADGB) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Under The Tabla](https://open.spotify.com/album/5aPaMWN5dirBrt6stMvrZL) | 3:14 | 2023-04-24 | 2024-06-04 |
 | [Undercurrent](https://open.spotify.com/track/7H47zAdfw5oEr20kbWMcHO) | [Tundra Miles](https://open.spotify.com/artist/4kLXFoLSe7YfrF08nrKESJ) | [Undercurrent](https://open.spotify.com/album/1ZniGAsJ9kbmwDkQykZf95) | 2:48 | 2026-02-18 |  |

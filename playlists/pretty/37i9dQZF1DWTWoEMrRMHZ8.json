@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 355990,
+  "num_followers": 356010,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
-        "name": "A \u00daltima M\u00fasica (Acusticamente)",
-        "url": "https://open.spotify.com/album/7N0Z8ZWAFG0EAs5ibqkHEl"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 228778,
-      "name": "A \u00daltima M\u00fasica (Acusticamente)",
-      "url": "https://open.spotify.com/track/25CV9bt3BGAFxaMLsOPgCb"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
         "name": "Nas Profundezas Da Onda",
         "url": "https://open.spotify.com/album/0zZ2e0o5U9dizYJip1Fcxc"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 210219,
       "name": "Forma Abstrata",
       "url": "https://open.spotify.com/track/4wGNLpwpUDJVrKeTDgcFlV"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
+        "name": "A \u00daltima M\u00fasica (Acusticamente)",
+        "url": "https://open.spotify.com/album/7N0Z8ZWAFG0EAs5ibqkHEl"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 228778,
+      "name": "A \u00daltima M\u00fasica (Acusticamente)",
+      "url": "https://open.spotify.com/track/25CV9bt3BGAFxaMLsOPgCb"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -283,26 +283,6 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
-        "name": "Coisas de Viver",
-        "url": "https://open.spotify.com/album/7h9n5SheG6PtHIOFjfPkYg"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 173915,
-      "name": "Coisas de Viver",
-      "url": "https://open.spotify.com/track/0aXfJykpgdZIZ1Rgr278Pr"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
+        "name": "Coisas de Viver",
+        "url": "https://open.spotify.com/album/7h9n5SheG6PtHIOFjfPkYg"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 173915,
+      "name": "Coisas de Viver",
+      "url": "https://open.spotify.com/track/0aXfJykpgdZIZ1Rgr278Pr"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -415,38 +415,6 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
-        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
-        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 266302,
-      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
-      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
-        "name": "Fruto Do Tempo",
-        "url": "https://open.spotify.com/album/2ayzvQrO9Sxt2qxdNyII3W"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 244821,
-      "name": "Fruto Do Tempo",
-      "url": "https://open.spotify.com/track/3mHCLBftcI0Q07oFRlS4n0"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
         "name": "Pra Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
       },
@@ -463,6 +431,22 @@
       "duration_ms": 227066,
       "name": "Pra Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/6i1snIJdkuNuqsBOBu0qAO"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
+        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
+        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 266302,
+      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
+      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -491,6 +475,22 @@
       "duration_ms": 242000,
       "name": "MINHA FLOR",
       "url": "https://open.spotify.com/track/2pN0iVbrmmja8zlJne0fvS"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
+        "name": "Fruto Do Tempo",
+        "url": "https://open.spotify.com/album/2ayzvQrO9Sxt2qxdNyII3W"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 244821,
+      "name": "Fruto Do Tempo",
+      "url": "https://open.spotify.com/track/3mHCLBftcI0Q07oFRlS4n0"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
+        "name": "Nas Profundezas Da Onda",
+        "url": "https://open.spotify.com/album/0zZ2e0o5U9dizYJip1Fcxc"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 183411,
+      "name": "Cabulosa",
+      "url": "https://open.spotify.com/track/57LqclS3RQIVzpvmjJPs56"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
         "name": "Nosso Timing",
         "url": "https://open.spotify.com/album/2M2BZctZ73o33TlQG6rsIN"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 178142,
       "name": "Nosso Timing",
       "url": "https://open.spotify.com/track/2fWVWn1p7lSgJVQjbrH49x"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
-        "name": "Nas Profundezas Da Onda",
-        "url": "https://open.spotify.com/album/0zZ2e0o5U9dizYJip1Fcxc"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 183411,
-      "name": "Cabulosa",
-      "url": "https://open.spotify.com/track/57LqclS3RQIVzpvmjJPs56"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
+        "name": "Afim De Ver\u00e3o",
+        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 300567,
+      "name": "Afim De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
         "name": "Minhas L\u00e1grimas",
         "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 231201,
       "name": "\u00cata N\u00f3is",
       "url": "https://open.spotify.com/track/41uHXUQewtLYIV8dANlnzo"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
-        "name": "Afim De Ver\u00e3o",
-        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 300567,
-      "name": "Afim De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
-        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
-        "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Saudades, Elder",
-      "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
         "name": "Outra Ladeira",
         "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 228312,
       "name": "Outra Ladeira",
       "url": "https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
+        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
+        "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 223421,
+      "name": "Saudades, Elder",
+      "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -947,6 +947,26 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
+        "name": "Da Mesma Mat\u00e9ria",
+        "url": "https://open.spotify.com/album/5MTzGyUuyasjq7q2387za6"
+      },
+      "artists": [
+        {
+          "name": "R\u00ea Gugli",
+          "url": "https://open.spotify.com/artist/4i61oiNj2OuvVp2wMvZxp8"
+        },
+        {
+          "name": "N\u00cdCCOLO",
+          "url": "https://open.spotify.com/artist/3Zvh3iidBzCYNwldU46HWQ"
+        }
+      ],
+      "duration_ms": 172627,
+      "name": "Da Mesma Mat\u00e9ria",
+      "url": "https://open.spotify.com/track/4En42mLgcoo3lSAOUxIWUY"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
         "name": "Se o Meu Peito Fosse o Mundo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5YGJgU35coBKBHnsaHcNJL"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 189589,
       "name": "FOI NO S\u00c3O JO\u00c3O",
       "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
-        "name": "Da Mesma Mat\u00e9ria",
-        "url": "https://open.spotify.com/album/5MTzGyUuyasjq7q2387za6"
-      },
-      "artists": [
-        {
-          "name": "R\u00ea Gugli",
-          "url": "https://open.spotify.com/artist/4i61oiNj2OuvVp2wMvZxp8"
-        },
-        {
-          "name": "N\u00cdCCOLO",
-          "url": "https://open.spotify.com/artist/3Zvh3iidBzCYNwldU46HWQ"
-        }
-      ],
-      "duration_ms": 172627,
-      "name": "Da Mesma Mat\u00e9ria",
-      "url": "https://open.spotify.com/track/4En42mLgcoo3lSAOUxIWUY"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
-        "name": "Denga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZroXj4Ayz1012p5sWt2kf"
-      },
-      "artists": [
-        {
-          "name": "Giovani Cidreira",
-          "url": "https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1"
-        }
-      ],
-      "duration_ms": 125306,
-      "name": "Denga - Ao Vivo",
-      "url": "https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
         "name": "Minha Hist\u00f3ria",
         "url": "https://open.spotify.com/album/4FWLl1pS44LvnwLe5C51tE"
       },
@@ -1087,6 +1071,38 @@
       "duration_ms": 219942,
       "name": "Criaturas da Noite",
       "url": "https://open.spotify.com/track/4Ei3Nv53tUWbhityquzSWA"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
+        "name": "Denga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZroXj4Ayz1012p5sWt2kf"
+      },
+      "artists": [
+        {
+          "name": "Giovani Cidreira",
+          "url": "https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1"
+        }
+      ],
+      "duration_ms": 125306,
+      "name": "Denga - Ao Vivo",
+      "url": "https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
+        "name": "Licen\u00e7a",
+        "url": "https://open.spotify.com/album/66vnrGAJRJwS0wZTuxLgGG"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00fa Lomando",
+          "url": "https://open.spotify.com/artist/6u5Wnrt6qAc1hQekBvcLXm"
+        }
+      ],
+      "duration_ms": 205282,
+      "name": "Licen\u00e7a",
+      "url": "https://open.spotify.com/track/6EmBiPRE7l4SPtcwIPkWaJ"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
-        "name": "Licen\u00e7a",
-        "url": "https://open.spotify.com/album/66vnrGAJRJwS0wZTuxLgGG"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00fa Lomando",
-          "url": "https://open.spotify.com/artist/6u5Wnrt6qAc1hQekBvcLXm"
-        }
-      ],
-      "duration_ms": 205282,
-      "name": "Licen\u00e7a",
-      "url": "https://open.spotify.com/track/6EmBiPRE7l4SPtcwIPkWaJ"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
         "name": "Charme Do Mundo",
         "url": "https://open.spotify.com/album/5hZeK56neuhdhzune4QtYu"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/05vHoRRovirQAL58SCHNBZ"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 265166,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/39wmwAYmZBUiH6uZmXcKoz"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
         "name": "L\u00e1",
         "url": "https://open.spotify.com/album/6ufHvSXLcsENitKj7GQ5fv"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 264686,
       "name": "L\u00e1",
       "url": "https://open.spotify.com/track/1NmbJR2cryUyat0SAWvQGZ"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/05vHoRRovirQAL58SCHNBZ"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 265166,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/39wmwAYmZBUiH6uZmXcKoz"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -1219,6 +1219,22 @@
       "duration_ms": 244000,
       "name": "Intergal\u00e1ctica Miss\u00e3o (Balada Interdimensional)",
       "url": "https://open.spotify.com/track/18wHdF7isgfRrL61gnhkV2"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/77jQnxccYwQsoSYaz2XCPn"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 118647,
+      "name": "Boi",
+      "url": "https://open.spotify.com/track/5K5vFbKjcsfgahDYidEx6c"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
-        "name": "Sambadouro",
-        "url": "https://open.spotify.com/album/7yj8vRnoMRG3tA3slRQOl1"
-      },
-      "artists": [
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        }
-      ],
-      "duration_ms": 216408,
-      "name": "Sambadouro",
-      "url": "https://open.spotify.com/track/63l1FU5mLWz51aaTmCoxNz"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
         "name": "Fico a Fim",
         "url": "https://open.spotify.com/album/6dSfLJ8KK1jMi26mPdWT7Y"
       },
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
+        "name": "Sambadouro",
+        "url": "https://open.spotify.com/album/7yj8vRnoMRG3tA3slRQOl1"
+      },
+      "artists": [
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 216408,
+      "name": "Sambadouro",
+      "url": "https://open.spotify.com/track/63l1FU5mLWz51aaTmCoxNz"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
         "name": "Minhas L\u00e1grimas",
         "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 211337,
       "name": "Cara Limpa",
       "url": "https://open.spotify.com/track/32JWv6BThEfCu1a6t7oQYQ"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
-        "name": "Transbordante",
-        "url": "https://open.spotify.com/album/4cv6LPMnDwnq5UuJ5NTp92"
-      },
-      "artists": [
-        {
-          "name": "Cristina Petrolio",
-          "url": "https://open.spotify.com/artist/2aOK6qVA54VZBtqMUhjoTQ"
-        }
-      ],
-      "duration_ms": 238291,
-      "name": "Aventurar \u00c9 Preciso",
-      "url": "https://open.spotify.com/track/7jUiecRd08TE00CpDBfdZ1"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
+        "name": "Transbordante",
+        "url": "https://open.spotify.com/album/4cv6LPMnDwnq5UuJ5NTp92"
+      },
+      "artists": [
+        {
+          "name": "Cristina Petrolio",
+          "url": "https://open.spotify.com/artist/2aOK6qVA54VZBtqMUhjoTQ"
+        }
+      ],
+      "duration_ms": 238291,
+      "name": "Aventurar \u00c9 Preciso",
+      "url": "https://open.spotify.com/track/7jUiecRd08TE00CpDBfdZ1"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
         "name": "Desculpe o Au\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 213536,
       "name": "Desculpe o Au\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/2wHOXgPbLgsrdDf60hsJy7"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/77jQnxccYwQsoSYaz2XCPn"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 118647,
-      "name": "Boi",
-      "url": "https://open.spotify.com/track/5K5vFbKjcsfgahDYidEx6c"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -1471,6 +1471,22 @@
       "duration_ms": 363104,
       "name": "F\u00e3 do Sandu\u00edche",
       "url": "https://open.spotify.com/track/4nydrqDPi38BDY3XqWFoIo"
+    },
+    {
+      "added_at": "2026-04-03 03:01:51",
+      "album": {
+        "name": "M\u00e3e",
+        "url": "https://open.spotify.com/album/4yu7oYdkb7y6Z1tQosW1yq"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 224060,
+      "name": "M\u00e3e",
+      "url": "https://open.spotify.com/track/6imUMThATsFFXljYTuWPso"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -1587,22 +1603,18 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
-        "name": "Capit\u00e3o Kirk",
-        "url": "https://open.spotify.com/album/5dthuR842CeJx8AnfMwHYL"
+        "name": "Pensei que fosse o c\u00e9u (Ao vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
       },
       "artists": [
         {
-          "name": "Decio Rocha",
-          "url": "https://open.spotify.com/artist/6XQyz4g6uEl2MIT1BNtzq0"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+          "name": "Vander Lee",
+          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
         }
       ],
-      "duration_ms": 189144,
-      "name": "Capit\u00e3o Kirk",
-      "url": "https://open.spotify.com/track/0nA7Gpcz8TrRGRtzwmBk4R"
+      "duration_ms": 247847,
+      "name": "Onde Deus possa me ouvir - Ao vivo",
+      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -1627,18 +1639,22 @@
     {
       "added_at": "2026-04-03 03:01:51",
       "album": {
-        "name": "Pensei que fosse o c\u00e9u (Ao vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
+        "name": "Capit\u00e3o Kirk",
+        "url": "https://open.spotify.com/album/5dthuR842CeJx8AnfMwHYL"
       },
       "artists": [
         {
-          "name": "Vander Lee",
-          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
+          "name": "Decio Rocha",
+          "url": "https://open.spotify.com/artist/6XQyz4g6uEl2MIT1BNtzq0"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 247847,
-      "name": "Onde Deus possa me ouvir - Ao vivo",
-      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
+      "duration_ms": 189144,
+      "name": "Capit\u00e3o Kirk",
+      "url": "https://open.spotify.com/track/0nA7Gpcz8TrRGRtzwmBk4R"
     },
     {
       "added_at": "2026-04-03 03:01:51",
@@ -1675,22 +1691,6 @@
       "duration_ms": 184875,
       "name": "Tudo Vai Conspirar",
       "url": "https://open.spotify.com/track/4mwrmRsKZBwzdTCKdB50Sc"
-    },
-    {
-      "added_at": "2026-04-03 03:01:51",
-      "album": {
-        "name": "M\u00e3e",
-        "url": "https://open.spotify.com/album/4yu7oYdkb7y6Z1tQosW1yq"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 224060,
-      "name": "M\u00e3e",
-      "url": "https://open.spotify.com/track/6imUMThATsFFXljYTuWPso"
     },
     {
       "added_at": "2026-04-03 03:01:51",

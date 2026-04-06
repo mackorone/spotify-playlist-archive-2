@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,227 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,280 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [Coming Home](https://open.spotify.com/track/00LQrrlaoPrNwOXBvu1W8W) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:59 |
 | 50 | [In Search Of The Peace Of Mind \- 2026 Mix](https://open.spotify.com/track/5J3Xja8A1W3Tj0WJ3Lnh5f) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lonesome Crow \(2026 Mix\)](https://open.spotify.com/album/0qhXnEKarNqXNXmOgOulxB) | 4:53 |
 
-Snapshot ID: `ac8DAAAAAAAMNGLGNmRNIf0nleQ3b6rZ`
+Snapshot ID: `adBUgAAAAAA/WB6LMHrGXbUD1iwfm9MV`

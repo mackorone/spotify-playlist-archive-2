@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,891 songs - 13 day 17 hr 4 min
+5,892 songs - 13 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3000,6 +3000,7 @@
 | [Lonely](https://open.spotify.com/track/5CUZuH4JunTg4WZQCY58Nw) | [Claydee](https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP), [Dappy](https://open.spotify.com/artist/4q6hTJmeYXCwp0ivdtoSWA), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Lonely](https://open.spotify.com/album/1AvP8Ymb4YmxXJV1pq5jVH) | 2:24 | 2023-12-29 | 2024-01-19 |
 | [Lonely](https://open.spotify.com/track/6JZe3sBX2p6jQTvovu68pA) | [Glenn Morrison](https://open.spotify.com/artist/6rQCqpJwXe2ucpnXh85NJV), [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [This Time Around](https://open.spotify.com/album/364SBqpG87SmDAiOaWN5ST) | 3:40 | 2021-01-01 | 2021-01-16 |
 | [Lonely \(Please Dont\)](https://open.spotify.com/track/6OQSJaTlrdxpivFmcW3oXJ) | [PerryAintReal](https://open.spotify.com/artist/0hqNdcZCxXPbXrG2oiouGA) | [Lonely \(Please Dont\)](https://open.spotify.com/album/6ZTMmsnQSexUOMlsacVhL1) | 2:00 | 2025-11-19 | 2025-12-01 |
+| [Lonely People \- Special Version](https://open.spotify.com/track/4alOgWjArsVBrsx2GAP7hl) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Lonely People \(Special Version\)](https://open.spotify.com/album/0BUQaaaCl0dlicFaDxgAqr) | 5:20 | 2026-04-05 |  |
 | [Lonely Road](https://open.spotify.com/track/2LhwyenNKYLqqEscGbGT3z) | [Bradley Denniston](https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh) | [Lonely Road](https://open.spotify.com/album/4hF7ABLDR0AUUcCzhJA1Fq) | 3:11 | 2025-03-08 | 2025-03-19 |
 | [Lonely Soldier](https://open.spotify.com/track/71pBN796AjYSOtlUKBr1I5) | [Cass Miller](https://open.spotify.com/artist/1mcpBVj2ixcdsCcby53H0g) | [Lonely Soldier](https://open.spotify.com/album/620aoDr4DlKfGLSddl7KMR) | 3:06 | 2026-04-01 |  |
 | [Lonely Town \(Piano Version\)](https://open.spotify.com/track/17jWwHu2PlAR52RuipBVLr) | [A\-Zal](https://open.spotify.com/artist/3GxZTnrO8CqpTaGicA9lrf) | [Lonely Town \(Piano Version\)](https://open.spotify.com/album/6R10GDCZMNBWr70Z5LpWC6) | 3:09 | 2024-01-19 | 2024-02-15 |

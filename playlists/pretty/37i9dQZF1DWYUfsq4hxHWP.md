@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Sheyna Gee, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,503 likes - 68 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,525 likes - 68 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

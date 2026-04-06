@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11349,
+  "num_followers": 11350,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
-        "name": "AH!",
-        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "Behang",
-      "url": "https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
         "name": "Vlijmscherp",
         "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 271717,
       "name": "Vlijmscherp",
       "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
+        "name": "AH!",
+        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "Behang",
+      "url": "https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -619,22 +619,18 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
-        "name": "Vrijplaats II",
-        "url": "https://open.spotify.com/album/3SFpV9JpcDmKoWEJYnH8Ts"
+        "name": "LATEN ME KOUD",
+        "url": "https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433"
       },
       "artists": [
         {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        },
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+          "name": "Brokezart",
+          "url": "https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou"
         }
       ],
-      "duration_ms": 181970,
-      "name": "Hou Me Vast",
-      "url": "https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw"
+      "duration_ms": 155132,
+      "name": "LATEN ME KOUD",
+      "url": "https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -655,6 +651,26 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
+        "name": "Vrijplaats II",
+        "url": "https://open.spotify.com/album/3SFpV9JpcDmKoWEJYnH8Ts"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 181970,
+      "name": "Hou Me Vast",
+      "url": "https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
         "name": "Wie de fak is Sophie Straat",
         "url": "https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk"
       },
@@ -667,6 +683,22 @@
       "duration_ms": 189946,
       "name": "Als Hij dan echt bestaat",
       "url": "https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
+        "name": "slecht idee (let\u2019s do it)",
+        "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "duration_ms": 191998,
+      "name": "slecht idee (let\u2019s do it)",
+      "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -691,22 +723,6 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
-        "name": "slecht idee (let\u2019s do it)",
-        "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 191998,
-      "name": "slecht idee (let\u2019s do it)",
-      "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
         "name": "Was Het Nou Maar Zo",
         "url": "https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 194125,
       "name": "Was Het Nou Maar Zo",
       "url": "https://open.spotify.com/track/16109XiqzxPp5UrwFTB285"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
-        "name": "LATEN ME KOUD",
-        "url": "https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433"
-      },
-      "artists": [
-        {
-          "name": "Brokezart",
-          "url": "https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou"
-        }
-      ],
-      "duration_ms": 155132,
-      "name": "LATEN ME KOUD",
-      "url": "https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
-        "name": "Videotheek (Recht Uit Een Film)",
-        "url": "https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 218704,
-      "name": "Videotheek (Recht Uit Een Film)",
-      "url": "https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
         "name": "Schaduw",
         "url": "https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 216887,
       "name": "Schaduw",
       "url": "https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
+        "name": "Videotheek (Recht Uit Een Film)",
+        "url": "https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "duration_ms": 218704,
+      "name": "Videotheek (Recht Uit Een Film)",
+      "url": "https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
+        "name": "Bob Dylan",
+        "url": "https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M"
+      },
+      "artists": [
+        {
+          "name": "De Plaag",
+          "url": "https://open.spotify.com/artist/5ezJSYbBLR78v7cKsoC46d"
+        }
+      ],
+      "duration_ms": 225428,
+      "name": "Bob Dylan",
+      "url": "https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
         "name": "Skinroutine Bikinilijn",
         "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 183333,
       "name": "Skinroutine Bikinilijn",
       "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
-        "name": "Kan Je Niet Blijven?",
-        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 215199,
-      "name": "Kan Je Niet Blijven?",
-      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
     }
   ],
   "unique_name": "indie.nl",

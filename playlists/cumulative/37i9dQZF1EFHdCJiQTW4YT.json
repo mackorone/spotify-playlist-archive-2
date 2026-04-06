@@ -2124,13 +2124,13 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Wrabel",
+          "name": "WRABEL",
           "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Moon Rider",
       "url": "https://open.spotify.com/track/0ggzakC1aHUgXHqeD5g7kW"
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 218000,
       "name": "Moon Rider (feat. Wrabel)",
       "url": "https://open.spotify.com/track/3U1lhPo6Gpd7URhJyZJtAr"

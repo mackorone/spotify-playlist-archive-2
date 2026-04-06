@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Neyhal, Samad Khan,  Zodiac Wave and other exciting artists.
 
-1,400 songs - 3 day 4 hr 42 min
+1,401 songs - 3 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,7 +827,7 @@
 | [Mera Yaar Purana](https://open.spotify.com/track/6cairzZ63nzUUJaxllcIgs) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Mera Yaar Purana](https://open.spotify.com/album/6ZKiRrv89ejlY25O0VQ8v8) | 5:19 | 2024-09-20 | 2024-10-26 |
 | [Mere Hisse Ki 'Jayedaad'](https://open.spotify.com/track/3DurrqBX5nKpHbciiDIsp4) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Mere Hisse Ki 'Jayedaad'](https://open.spotify.com/album/6ZbOnCubi9CdiAHRPDQqnW) | 3:44 | 2025-12-19 | 2026-02-07 |
 | [Mere Ho Tum](https://open.spotify.com/track/61oCaW4kdKZtH2V8BU4zc9) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Mere Ho Tum](https://open.spotify.com/album/7riVtJbtVcXkZkHSHi5mIW) | 3:35 | 2024-10-25 | 2025-01-18 |
-| [Mere Maahiya](https://open.spotify.com/track/6uRD5I9a7bje38E3rmUUTf) | [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Mere Maahiya](https://open.spotify.com/album/0l2OruB8Be4CpcwElIj0R3) | 2:41 | 2026-02-20 |  |
+| [Mere Maahiya](https://open.spotify.com/track/6uRD5I9a7bje38E3rmUUTf) | [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Mere Maahiya](https://open.spotify.com/album/0l2OruB8Be4CpcwElIj0R3) | 2:41 | 2026-02-20 | 2026-04-06 |
 | [Mere Qareeb](https://open.spotify.com/track/4dzde0m9Lw4P7lAvCf4w8h) | [Nupoor Khedkar](https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Mere Qareeb](https://open.spotify.com/album/6Pvi11haDMjBKRNq8nIPJo) | 3:09 | 2024-03-01 | 2024-04-19 |
 | [Mere Ranjhana](https://open.spotify.com/track/04Oswb5okIbIzMyKVBSbMH) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Mere Ranjhana](https://open.spotify.com/album/2F8arPSNA94kkSPTyShIoj) | 3:42 | 2023-12-08 | 2024-02-24 |
 | [Mere Saamne](https://open.spotify.com/track/6aprpTQqxq1Y5nxDuUjIdx) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Irtiza\-Asad](https://open.spotify.com/artist/5oKmeLfJn2WvNUYc9z2Zon) | [Mere Saamne](https://open.spotify.com/album/2cNWkDBveweg2JpzjVxmsv) | 3:03 | 2024-08-09 | 2024-09-21 |
@@ -1098,6 +1098,7 @@
 | [Sajda Karaan](https://open.spotify.com/track/25yA3k7cBNDqejRJUun4Qe) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Sajda Karaan](https://open.spotify.com/album/7qwVYqNUkUX6eq5UBkVzp3) | 3:40 | 2023-12-15 | 2024-02-24 |
 | [Sajke](https://open.spotify.com/track/4g1zs0DYothhvjcSxdjq0s) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Chahat](https://open.spotify.com/album/0sCJpjZw7D5uCefCcJDXPM) | 4:20 | 2024-10-04 | 2024-12-21 |
 | [Sajke](https://open.spotify.com/track/6TeFtj6dqAUVA1n6qbLuXh) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Sajke](https://open.spotify.com/album/1dUA1KKR4GJCundt3OzHQl) | 4:20 | 2024-08-23 | 2024-10-12 |
+| [Sajna Ve](https://open.spotify.com/track/5LL8j1wZ7bN2Y23hrnryic) | [Abhishek Sarma](https://open.spotify.com/artist/51jKTWK6PRES6uDJI2h2sn), [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U), [Kunal Iyengar](https://open.spotify.com/artist/1QTWj2iGOmYAMC3WI9CA9R) | [Sajna Ve](https://open.spotify.com/album/69N2UGJoTGQLqrlvhKuPWQ) | 3:20 | 2026-04-03 |  |
 | [Sajna Ve](https://open.spotify.com/track/5uVdnHJtxvpy3BSmoxV5Kn) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sajna Ve](https://open.spotify.com/album/6w95ZQtueW6uVxnkurfpqJ) | 2:55 | 2025-01-31 | 2025-06-07 |
 | [Sakhi Re](https://open.spotify.com/track/5DymMqQjmD7KUtaLj6TyqN) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Sakhi Re](https://open.spotify.com/album/2fD4GmvzLRgwM2hiVsNtz3) | 2:37 | 2023-05-19 | 2023-07-08 |
 | [Samjha Hi Nahi](https://open.spotify.com/track/12mGZCKfKqUDvVWKu6nMVL) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Samjha Hi Nahi](https://open.spotify.com/album/29yJ5ppWqp7K5TGyAy8adr) | 3:44 | 2024-02-09 | 2024-03-23 |

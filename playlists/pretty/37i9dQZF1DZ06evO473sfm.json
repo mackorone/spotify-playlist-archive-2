@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 575735,
+  "num_followers": 576119,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac8DAAAAAADGC5wofiZnNGxNRFge9NmE",
+  "snapshot_id": "adBUgAAAAACd5+qNYRBq7HjbfDuT+cIX",
   "tracks": [
     {
       "added_at": null,
@@ -614,11 +614,15 @@
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 163407,
-      "name": "NUNCA LA OLVID\u00c9",
-      "url": "https://open.spotify.com/track/73y7RIbg70KCgtW6vbVKSC"
+      "duration_ms": 191284,
+      "name": "YA PEDO QUI\u00c9N SABE",
+      "url": "https://open.spotify.com/track/2psxw9j1vNkgIe3BcNOXVc"
     },
     {
       "added_at": null,
@@ -690,15 +694,11 @@
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 191284,
-      "name": "YA PEDO QUI\u00c9N SABE",
-      "url": "https://open.spotify.com/track/2psxw9j1vNkgIe3BcNOXVc"
+      "duration_ms": 163407,
+      "name": "NUNCA LA OLVID\u00c9",
+      "url": "https://open.spotify.com/track/73y7RIbg70KCgtW6vbVKSC"
     },
     {
       "added_at": null,

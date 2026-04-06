@@ -2,9 +2,9 @@
 
 ### [+81 Connect: J\-HipHop 最新注目曲](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> 【POP YOURS DAY3】J\-Hip Hopの最新注目曲をまとめてチェック cover: KEIJU \*水曜更新。マイライブラリに保存して毎週チェックしよう
+> J\-Hip Hopの最新注目曲をまとめてチェック cover: Kohjiya \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,400 songs - 5 day 0 hr 54 min
+2,401 songs - 5 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1602,6 +1602,7 @@
 | [Roots&Leaves \(feat\. Shuto, in\-d & NF Zessho\) \- Remix](https://open.spotify.com/track/6bcEFNgEULaBuo5HGmXV1Z) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33), [shuto](https://open.spotify.com/artist/4KqAfO6NT87MBLMWm46GlZ), [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Roots&Leaves \(feat\. Shuto, in\-d & NF Zessho\) \[Remix\]](https://open.spotify.com/album/0zZuVv4Dd4RQVqx8K4vLDy) | 3:22 | 2025-11-27 | 2026-01-28 |
 | [rose](https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [rose](https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL) | 2:16 | 2023-09-21 | 2023-11-09 |
 | [Rouge540 \(feat\. Kohjiya\)](https://open.spotify.com/track/2CW9hvXcfr7R0oxjB5VIaJ) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Terminal 3](https://open.spotify.com/album/0js5DqzTxYKklPL1SIa63d) | 3:08 | 2025-03-06 | 2025-06-06 |
+| [Roulette \(feat\. Kaneee & Yvng Patra\)](https://open.spotify.com/track/2HDQxpkXnjezW8VbncGl6s) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [TIMELESS](https://open.spotify.com/album/26KN2yk5iK4nPtIthLqVhT) | 3:55 | 2026-04-05 |  |
 | [Rowdy Ruff Boyz \(feat\. NF Zessho & anpyo\)](https://open.spotify.com/track/6ZEtvIDi6K7arbkUMPruVG) | [DJ HAMAYA](https://open.spotify.com/artist/2lrEmgYKdXHE9SiDbobxBp), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1), [anpyo](https://open.spotify.com/artist/2J8lRU6owGHVc1kWoPs55v) | [glue](https://open.spotify.com/album/7hKoGShS8FAru4ufMewM5F) | 3:03 | 2026-01-27 | 2026-02-18 |
 | [ROYAL FLUSH](https://open.spotify.com/track/0Htze74vxmlDlgwXYkownT) | [MARU](https://open.spotify.com/artist/5X1eK77oLGeWOEwJVOYGKg), [GOTIT](https://open.spotify.com/artist/2WpoGvKZpFZmgrGbbNEoxR), [I\-SET\-I](https://open.spotify.com/artist/0ZLIdOlHwRo8AfwleOyFxd), [WOODSMAN](https://open.spotify.com/artist/1sFJ34m5sLOI1oGdwaaxbq), [CHOICE](https://open.spotify.com/artist/1Nry2ZCKoR1DxZB00m8GuZ) | [PLAY THE GAME](https://open.spotify.com/album/6yuFhqEVTS5ICyAuYdR1tw) | 4:25 | 2025-02-12 | 2025-02-19 |
 | [RRAACCKKS](https://open.spotify.com/track/7AOTGP6TvXvtj8cyJblhOV) | [Albert Connor](https://open.spotify.com/artist/6fTbznllQRT5HmxfZdiRlc) | [RRAACCKKS](https://open.spotify.com/album/6DuA3wYaEmQfZJrPa3fkv8) | 2:43 | 2026-03-24 |  |

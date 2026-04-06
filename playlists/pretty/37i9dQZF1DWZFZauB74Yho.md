@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > The latest releases from bluegrass and string bands alike\. Cover: Yonder Mountain String Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,582 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,579 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 99 | [Constantine And Icarus](https://open.spotify.com/track/481NhgD6KQhsBkp0kdunY1) | [Nash Hamilton](https://open.spotify.com/artist/3gjMRRFZxevWPIoFolErpP) | [Constantine And Icarus](https://open.spotify.com/album/7jPC3rYLHi7ukEXh292JYz) | 3:51 |
 | 100 | [Nowhere, Tennessee](https://open.spotify.com/track/36B7HVS4Wx1ncycG9TFg2l) | [Lost Patterns](https://open.spotify.com/artist/2s9hIIcuLrlQIde5CS15TI) | [Nowhere, Tennessee](https://open.spotify.com/album/00ZHRxFrPeaP9KJ1681p6W) | 3:06 |
 
-Snapshot ID: `AAAAAL/T36c/JuYDJZU3qzXqArlXepad`
+Snapshot ID: `AAAAAOF1SxAJnWcRr2uUF5mFcMSZ4FyM`

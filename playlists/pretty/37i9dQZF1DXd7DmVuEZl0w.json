@@ -1,6 +1,6 @@
 {
   "description": "Get into the Eid spirit with this uplifting Eid songs collection.",
-  "num_followers": 78667,
+  "num_followers": 78661,
   "original_name": "Eid Mubarak",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2025-03-28 20:00:03",
       "album": {
-        "name": "El 3asal",
-        "url": "https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS"
-      },
-      "artists": [
-        {
-          "name": "Donia Wael",
-          "url": "https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1"
-        },
-        {
-          "name": "El Waili",
-          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
-        }
-      ],
-      "duration_ms": 180658,
-      "name": "El 3asal",
-      "url": "https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8"
-    },
-    {
-      "added_at": "2025-03-28 20:00:03",
-      "album": {
         "name": "\u0644\u0627 \u0623\u0628\u0627\u0644\u064a",
         "url": "https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 174231,
       "name": "\u0644\u0627 \u0623\u0628\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X"
+    },
+    {
+      "added_at": "2025-03-28 20:00:03",
+      "album": {
+        "name": "El 3asal",
+        "url": "https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS"
+      },
+      "artists": [
+        {
+          "name": "Donia Wael",
+          "url": "https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "duration_ms": 180658,
+      "name": "El 3asal",
+      "url": "https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8"
     },
     {
       "added_at": "2025-03-28 20:00:03",

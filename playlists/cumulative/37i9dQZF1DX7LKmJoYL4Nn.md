@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-249 songs - 16 hr 20 min
+250 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Honeycomb Summer](https://open.spotify.com/track/6jZaxLW2LKa9XuNHsrxJJi) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [あんさんぶるスターズ！！ ESアイドルソング season1 Crazy:B](https://open.spotify.com/album/0LVSiV6lhKYnufCIws2bHJ) | 4:08 | 2024-04-26 | 2025-01-17 |
 | [Hopping on the music notes!](https://open.spotify.com/track/1tAw1As0QmZB8Zdk9f6Yzm) | [仁兎 なずな\(CV.米内 佑希\)](https://open.spotify.com/artist/2H3YKsCstMPUrFsGWKOplo) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Ra\*bits \(2023 Ver.\)](https://open.spotify.com/album/6FpqpP6ul7m73EYsowIWqH) | 4:35 | 2025-08-24 | 2025-09-15 |
 | [Hysteric Humanoid](https://open.spotify.com/track/4GDOaroj4GirkuS9Eq1f9b) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [ALKALOID「Believe 4 leaves」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m) | 4:09 | 2025-01-14 | 2025-12-30 |
+| [I "Witch" You A Happy Halloween!](https://open.spotify.com/track/42jKHaHMBDToSdFVHILfDz) | [Switch/逆先夏目\(CV.野島健児\)、青葉つむぎ\(CV.石川界人\)、春川宙\(CV.山本和臣\)](https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV) | [あんさんぶるスターズ！ アルバムシリーズ Switch](https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u) | 4:37 | 2026-01-13 |  |
 | [Infinite Star](https://open.spotify.com/track/6cdy5p6uHiTT1urG1NUFnc) | [Trickstar/氷鷹北斗\(CV.前野智昭\)、明星スバル\(CV.柿原徹也\)、遊木 真\(CV.森久保祥太郎\)、衣更真緒\(CV.梶 裕貴\)](https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4) | [あんさんぶるスターズ！アルバムシリーズ Trickstar](https://open.spotify.com/album/0KVxcYIee4ypG2hmdFCPxH) | 4:59 | 2025-10-28 | 2025-12-18 |
 | [Ironic Blue](https://open.spotify.com/track/3lFRXoGPlpHoaUyWiH6SwK) | [瀬名泉\(CV.伊藤マサミ\)](https://open.spotify.com/artist/1dU0QhfWX3xNS0HYugINlY) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 3:33 | 2024-04-26 | 2024-05-08 |
 | [JUMPIN' LUCK BEAT](https://open.spotify.com/track/6xooenMiEU8fcuuawnubXh) | [Ra\*bits](https://open.spotify.com/artist/6re7tAM2hhfDcUNCjAMuQK), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Ra\*bits 「JUMPIN' LUCK BEAT」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/2oTxRxLNZ9prO8Sd8tAPZz) | 3:47 | 2024-12-12 |  |
@@ -145,7 +146,7 @@
 | [SOLID SOUL](https://open.spotify.com/track/7LQL6T1RuSAY49Jgo9CkKt) | [天城 一彩\(CV.梶原 岳人\)](https://open.spotify.com/artist/4IOQZ09qAFuqquWQ7RpvVV) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 ALKALOID](https://open.spotify.com/album/74QSMpOGlkVl5gPYM5Uolh) | 3:50 | 2024-04-26 | 2024-05-11 |
 | [Sunlit Smile!](https://open.spotify.com/track/48spUdSXNLwakQV7vpIc9m) | [Eve/巴 日和\(CV.花江夏樹\)、漣 ジュン\(CV:内田雄馬\)](https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:09 | 2024-04-26 | 2026-01-15 |
 | [SunnyTrip Summer](https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml) | [ALKALOID](https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [ALKALOID「SunnyTrip Summer」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy) | 3:31 | 2024-07-12 |  |
-| [SURF ON SMILE](https://open.spotify.com/track/4sNWvz279Vm4JVCYIg0cW3) | [羽風薫\(CV.細貝圭\)](https://open.spotify.com/artist/1NGLXc2R8LmIwSxahZatzy) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 UNDEAD](https://open.spotify.com/album/62jk8EoHjZXcdRI4yFtqsn) | 4:22 | 2025-10-28 |  |
+| [SURF ON SMILE](https://open.spotify.com/track/4sNWvz279Vm4JVCYIg0cW3) | [羽風薫\(CV.細貝圭\)](https://open.spotify.com/artist/1NGLXc2R8LmIwSxahZatzy) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 UNDEAD](https://open.spotify.com/album/62jk8EoHjZXcdRI4yFtqsn) | 4:22 | 2025-10-28 | 2026-04-06 |
 | [Swee2wink Love Letter](https://open.spotify.com/track/0pi8djDltXS8pPXpgQHkGa) | [2wink/葵 ひなた&葵 ゆうた\(CV.斉藤壮馬\)](https://open.spotify.com/artist/4PCSbUSb6gjdnV0I5X0ErS) | [2wink「Swee2wink Love Letter」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/5Pmd4CEBY1s8cturrRi49z) | 3:44 | 2025-01-08 | 2025-10-02 |
 | [Switching Journey](https://open.spotify.com/track/2UvlKKola0spjTZ23VvuOY) | [Switch](https://open.spotify.com/artist/6nJGti9TeLNasxxhxdm2AK), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Switch「Switching Journey」あんさんぶるスターズ！！ ESアイドルソング season6](https://open.spotify.com/album/0tY29k3k1KEipb5uR4NrQq) | 3:37 | 2025-06-13 |  |
 | [Temptation Magic](https://open.spotify.com/track/0b5yb5KzoZidRrBopIP33d) | [Switch/逆先夏目\(CV.野島健児\)、青葉つむぎ\(CV.石川界人\)、春川宙\(CV.山本和臣\)](https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV) | [あんさんぶるスターズ！ アルバムシリーズ Switch](https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u) | 5:34 | 2024-11-09 | 2025-12-04 |

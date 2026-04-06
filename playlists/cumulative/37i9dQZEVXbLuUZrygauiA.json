@@ -7942,7 +7942,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 211021,
       "name": "Beso",
       "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
@@ -14180,7 +14180,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 210452,
       "name": "Como Un P\u00e1jaro",
       "url": "https://open.spotify.com/track/2qRiMr3Gy4Vz643Q6sNMx5"
@@ -32272,6 +32272,24 @@
       "duration_ms": 174642,
       "name": "James B.",
       "url": "https://open.spotify.com/track/6T9mi3HBKG2T21JvM9zowV"
+    },
+    {
+      "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
     },
     {
       "album": {
@@ -53878,7 +53896,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 181599,
       "name": "PREACHER MAN",
       "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ"
@@ -54722,7 +54740,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 198058,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
@@ -57228,7 +57246,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 491933,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
@@ -72899,6 +72917,24 @@
     },
     {
       "album": {
+        "name": "Welcome To My Crib",
+        "url": "https://open.spotify.com/album/089FnhGo7U2GJA1JVJ0nef"
+      },
+      "artists": [
+        {
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/2to5J7dbaGiiSCeRGoEHLb"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85000,
+      "name": "Welcome To My Crib",
+      "url": "https://open.spotify.com/track/7IQVh6ZGRenHZpZsiSQpSG"
+    },
+    {
+      "album": {
         "name": "Welcome To Pressi\u00f3n",
         "url": "https://open.spotify.com/album/70klV54kCL7D7lbmTAvMkj"
       },
@@ -75766,7 +75802,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 146246,
       "name": "\u00bfHasta D\u00f3nde Te Quiero?",
       "url": "https://open.spotify.com/track/1licjid99qj1BFIYGb3wZC"

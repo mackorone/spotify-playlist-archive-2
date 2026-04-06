@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 26003,
+  "num_followers": 26004,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-03-30 02:36:48",
       "album": {
+        "name": "Love, Take Two, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4ZBsA5UZmPkhsKVr6kBnm4"
+      },
+      "artists": [
+        {
+          "name": "CHOI JUNG EUN",
+          "url": "https://open.spotify.com/artist/57vWEo5CS7wC4oJjuCcgAr"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1x8y9zhORcFz1jOscolY9S"
+    },
+    {
+      "added_at": "2026-03-30 02:36:48",
+      "album": {
         "name": "Hide and Seek (feat. kimminseong)",
         "url": "https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2026-03-30 02:36:48",
       "album": {
-        "name": "Love, Take Two, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4ZBsA5UZmPkhsKVr6kBnm4"
+        "name": "Made In Heart",
+        "url": "https://open.spotify.com/album/5SFEorQR8TgWGYwLSg2nE2"
       },
       "artists": [
         {
-          "name": "CHOI JUNG EUN",
-          "url": "https://open.spotify.com/artist/57vWEo5CS7wC4oJjuCcgAr"
+          "name": "xooos",
+          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1x8y9zhORcFz1jOscolY9S"
+      "duration_ms": 160346,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4pzNQT5eROmrGNmdeIW5DI"
     },
     {
       "added_at": "2026-03-30 02:36:48",
@@ -507,22 +523,6 @@
       "duration_ms": 216601,
       "name": "Never Leave Me (Feat. pH-1)",
       "url": "https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI"
-    },
-    {
-      "added_at": "2026-03-30 02:36:48",
-      "album": {
-        "name": "Made In Heart",
-        "url": "https://open.spotify.com/album/5SFEorQR8TgWGYwLSg2nE2"
-      },
-      "artists": [
-        {
-          "name": "xooos",
-          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
-        }
-      ],
-      "duration_ms": 160346,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/4pzNQT5eROmrGNmdeIW5DI"
     },
     {
       "added_at": "2026-03-30 02:36:48",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-03-30 02:36:48",
       "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7frWMgaysfdDFE6LcQH3ax"
+      },
+      "artists": [
+        {
+          "name": "Oh Si Young",
+          "url": "https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/10wby8iW3J6A6z1XY1gfVh"
+    },
+    {
+      "added_at": "2026-03-30 02:36:48",
+      "album": {
         "name": "A Walk (The Last 10 Years X J_ust)",
         "url": "https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 230000,
       "name": "Could you?",
       "url": "https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf"
-    },
-    {
-      "added_at": "2026-03-30 02:36:48",
-      "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7frWMgaysfdDFE6LcQH3ax"
-      },
-      "artists": [
-        {
-          "name": "Oh Si Young",
-          "url": "https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/10wby8iW3J6A6z1XY1gfVh"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

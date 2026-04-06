@@ -226,7 +226,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 183053,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/5yYJNiQ3oapwwxu2A7Ch0A"
@@ -1484,6 +1484,24 @@
       "duration_ms": 162160,
       "name": "When The Saints Go Marching In",
       "url": "https://open.spotify.com/track/3GMxobnrcay3xl6jJ7fbVz"
+    },
+    {
+      "album": {
+        "name": "Highlights From His Decca Years",
+        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244373,
+      "name": "When You're Smiling (The Whole World Smiles With You) - Without Intro",
+      "url": "https://open.spotify.com/track/0aAdPAlrBJqqqkkhttZIKU"
     },
     {
       "album": {

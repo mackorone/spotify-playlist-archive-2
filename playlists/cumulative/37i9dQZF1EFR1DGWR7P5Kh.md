@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-53 songs - 2 hr 57 min
+54 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,9 @@
 | [Uh Oh \(Bonus Studio Track\)](https://open.spotify.com/track/0w5rxccF7Jksd3qRu8T986) | [Void Contact](https://open.spotify.com/artist/5k2EFZH6G1mDTQA4l0Sn3m) | [Live from Lockdown](https://open.spotify.com/album/0znMasMwrCk0drY9nK70XI) | 4:09 | 2024-07-10 |  |
 | [Unconditional Oceans](https://open.spotify.com/track/5oo3XaASxXbrq1CJU0pSlU) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:52 | 2021-12-27 | 2022-10-24 |
 | [Unfuckwitable](https://open.spotify.com/track/0PuQItGL0eIngxLh2um4QE) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 2:44 | 2024-05-07 |  |
+| [Until I Met You \(feat\. Nas\)](https://open.spotify.com/track/1HfBUrOEdncyS0znCA4EIB) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 3:44 | 2026-04-05 |  |
 | [Until I Met You \(feat\. Nas\)](https://open.spotify.com/track/5tvOLMuCEJqn97twRmMhW9) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:44 | 2021-12-27 | 2024-08-10 |
-| [Until I Met You \(feat\. Nas\)](https://open.spotify.com/track/60jtoaCWRcD3P97rbCrTLB) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 3:44 | 2024-08-09 |  |
+| [Until I Met You \(feat\. Nas\)](https://open.spotify.com/track/60jtoaCWRcD3P97rbCrTLB) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 3:44 | 2024-08-09 | 2026-04-06 |
 | [Why Don't You Touch Me](https://open.spotify.com/track/2zBlJIbYVotuBXkLyM0dPw) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:17 | 2021-12-27 |  |
 | [Why Don't You Touch Me](https://open.spotify.com/track/7IIzlXlQ5zqMzVTcG5svrN) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me \(Part 1 \- Official Video\)](https://open.spotify.com/album/2Tv4to9QNN00K3RAZH9PNG) | 4:15 | 2024-01-14 | 2024-01-31 |
 | [Young And Free](https://open.spotify.com/track/4o7jNKOHdwtgdZAGby2TV2) | [Carson Lueders](https://open.spotify.com/artist/5Hp5hfBF49kKn8KAkgvNhz) | [Young And Free](https://open.spotify.com/album/2sIJD8kpK3RhvBKkMQLfKm) | 2:46 | 2021-12-27 |  |

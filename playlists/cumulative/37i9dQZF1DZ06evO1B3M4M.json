@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Blood Diamond (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116706,
+      "name": "Maddy & Archer",
+      "url": "https://open.spotify.com/track/6MXez1zPrR9wg6Bruizf6x"
+    },
+    {
+      "album": {
         "name": "All the Light We Cannot See (Soundtrack from the Netflix Limited Series)",
         "url": "https://open.spotify.com/album/3PK26tH7l16bgUQ3KDgciR"
       },
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 236426,
       "name": "Thought I'd Never Call?",
       "url": "https://open.spotify.com/track/3ffecbHxR22nQmSogoK1jn"

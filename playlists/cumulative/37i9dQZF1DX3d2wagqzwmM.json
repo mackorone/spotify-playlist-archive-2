@@ -7263,6 +7263,24 @@
     },
     {
       "album": {
+        "name": "Love Feels Like You",
+        "url": "https://open.spotify.com/album/34iQr6ezHu7nDYt8ak7mqE"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Love Feels Like You",
+      "url": "https://open.spotify.com/track/0G3oPhw5CDuITXUjCLdCSi"
+    },
+    {
+      "album": {
         "name": "Love Takes Over",
         "url": "https://open.spotify.com/album/794yfQdOCAI93WHwTkVEro"
       },
@@ -9324,7 +9342,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 167478,
       "name": "Our Flight",
       "url": "https://open.spotify.com/track/1x1dUnaqOX7YpObPy1O8Lz"

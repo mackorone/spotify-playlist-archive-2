@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 2250,
+  "num_followers": 2251,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx"
     },
     {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "El Patio de Mi Casa",
-        "url": "https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN"
-      },
-      "artists": [
-        {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
-        }
-      ],
-      "duration_ms": 103906,
-      "name": "Yo Tengo Una Casita",
-      "url": "https://open.spotify.com/track/70bgmwEzdGMNaUcX7joN4D"
-    },
-    {
       "added_at": "2022-07-11 22:00:28",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
@@ -175,6 +159,22 @@
       "duration_ms": 257213,
       "name": "La familia Madrigal",
       "url": "https://open.spotify.com/track/6740sbqgB64LZopHUEiBG8"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "El Patio de Mi Casa",
+        "url": "https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 103906,
+      "name": "Yo Tengo Una Casita",
+      "url": "https://open.spotify.com/track/70bgmwEzdGMNaUcX7joN4D"
     },
     {
       "added_at": "2020-04-27 15:43:16",

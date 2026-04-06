@@ -4,7 +4,7 @@
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-274 songs - 13 hr 18 min
+276 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [away adrift \(nature\)](https://open.spotify.com/track/7FffgNpdeg9Ai9wdUOS6WC) | [warmest depths](https://open.spotify.com/artist/1akeT46w4la2HMfty7dh4W) | [away adrift \(nature\)](https://open.spotify.com/album/7sNom6GJ1acTyCEW3ncZXF) | 3:16 | 2026-04-02 |  |
 | [Baltic Ocean Wave Sounds](https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59) | 2:55 | 2021-11-10 |  |
 | [Beach Calmness](https://open.spotify.com/track/1PZoHdDM71mzOFW1T6H03y) | [Streaming Waves](https://open.spotify.com/artist/7qj3R7pI5z0H1AxH5X4oK8) | [Streaming Waves Vol\. 1](https://open.spotify.com/album/2QFjS8IsDZd1sUdGZ4rnDS) | 2:28 | 2022-01-21 | 2024-03-26 |
+| [Beach Side Waves](https://open.spotify.com/track/3mkSyuH8oEGJFZVZeXmvaO) | [Vallis Aura](https://open.spotify.com/artist/3QDsgZyyuvrvJ1HxdOsf7Q) | [Green Noise](https://open.spotify.com/album/0RLetTHxUoLbPcADh9Ogxp) | 1:50 | 2026-04-02 |  |
 | [Beach Tranquility](https://open.spotify.com/track/1SWxs2z7dBYgEw6Jm3XOjx) | [Sea Kelp](https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh) | [The Calm Beach](https://open.spotify.com/album/1qJLhvhcsqa70yjVzPjVjT) | 2:46 | 2023-06-19 |  |
 | [Beach: The Softness of Nature](https://open.spotify.com/track/0QXTaKXVQNWRlIyicL5ZFg) | [Space of Waves](https://open.spotify.com/artist/7sgfizLbHLPoNWVxA7TtzW) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 3:17 | 2021-11-10 | 2023-06-20 |
 | [Beneath the Saltwater Sky](https://open.spotify.com/track/2GK0zRHlLWKvGgFZkNys9h) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Beneath the Saltwater Sky](https://open.spotify.com/album/3W4Aq7xewK8Jy4G5hkWfqi) | 2:43 | 2026-04-02 |  |
@@ -134,6 +135,7 @@
 | [Oceanic Samples](https://open.spotify.com/track/7t87vcupUHamRBHfIOh1Rm) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 2:53 | 2021-11-10 | 2024-03-26 |
 | [Oceanside Waves](https://open.spotify.com/track/7GrhXAeTRgc3fvGApUKbQI) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Weather and Nature Sounds](https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7) | 2:00 | 2021-11-10 |  |
 | [Oceanside Waves](https://open.spotify.com/track/1lvD3gzMjX7yHL8qfRHRch) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Oceanside Waves & Outer Channel Waves](https://open.spotify.com/album/4xzchEzzhXDViDHdQXEhre) | 4:04 | 2023-06-19 |  |
+| [Off The Shore](https://open.spotify.com/track/3xJ5En6Cmy5g6FMe9FQCbL) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Off The Shore](https://open.spotify.com/album/1QFjSRJjP3qKrV7TOcIxVK) | 2:37 | 2026-04-02 |  |
 | [Olas del mar](https://open.spotify.com/track/2JU0aRNuN3uc5dKDMeVmTq) | [Ayudantes para dormir](https://open.spotify.com/artist/3uiLZIt70oh7RelYoaozqD) | [Ayudantes para dormir](https://open.spotify.com/album/7r5Aj4mO7gl9VFowZjI1LS) | 4:11 | 2021-11-10 | 2024-03-26 |
 | [Onde Naturali](https://open.spotify.com/track/27t1UXfVjFRSU6pMGR2xxT) | [Gina Celino](https://open.spotify.com/artist/6piRzbVD70K2G5NQPfk8dg) | [Vento E Onde](https://open.spotify.com/album/05wF3KdkGboefYKkwp3R1O) | 1:05 | 2021-11-10 | 2023-06-20 |
 | [Pacific Blue Sounds](https://open.spotify.com/track/0A0x0FqKVh1q0y8ueg9eSx) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 4:56 | 2021-11-10 | 2024-03-26 |
@@ -151,7 +153,7 @@
 | [Peaceful Pacific Waves](https://open.spotify.com/track/2peirdBgKHifNrCMrBsCKh) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Waves of the Monterey Peninsula](https://open.spotify.com/album/40IKIiamZMzBVNMPgrSTpN) | 3:55 | 2021-11-10 | 2026-04-03 |
 | [Pebble Beach Waves](https://open.spotify.com/track/74Ccabhzyt1M79qTQ4Jivz) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 5:42 | 2021-11-10 |  |
 | [Pebbles](https://open.spotify.com/track/29VL3WjP61awCnMvx3NYUp) | [Yin Elements](https://open.spotify.com/artist/1WK6PTezwqF9ckYPdy8jwU) | [Off the Deep Ends](https://open.spotify.com/album/35JLEKkJ13mL1VuBQVQboc) | 4:15 | 2021-11-10 | 2025-02-19 |
-| [Perfect Ocean](https://open.spotify.com/track/1K8O7W0UjjL8W85JnY0JYN) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Perfect Ocean](https://open.spotify.com/album/7Hd8ggF0YdFQ49qJ02k5Jh) | 2:56 | 2024-03-25 |  |
+| [Perfect Ocean](https://open.spotify.com/track/1K8O7W0UjjL8W85JnY0JYN) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Perfect Ocean](https://open.spotify.com/album/7Hd8ggF0YdFQ49qJ02k5Jh) | 2:56 | 2024-03-25 | 2026-04-06 |
 | [Playa Pelada Sunburnt Surf](https://open.spotify.com/track/0G9A43Ip04oTEcwhybFVsb) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Songs from the Sea](https://open.spotify.com/album/444aUY63lz0iMrt3DGPhiv) | 3:11 | 2026-04-02 | 2026-04-05 |
 | [Receding Tide](https://open.spotify.com/track/3gfaYtVDmn9KC7VmC3dWFl) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Receding Tide](https://open.spotify.com/album/1YzPWOEFJ8LONe37Ywyj46) | 3:05 | 2025-02-18 | 2025-07-22 |
 | [Relax Waves](https://open.spotify.com/track/1TCKDptBmCHnGZ9cqGoBSZ) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Relax Waves](https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf) | 1:34 | 2021-11-10 | 2023-06-20 |
@@ -225,7 +227,7 @@
 | [Surf's Up](https://open.spotify.com/track/3AOB0WngRiLACLYjhyyRkM) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [Mystical Oceanic Voyage](https://open.spotify.com/album/4b62ECFggvhJFLiVvcOzDm) | 2:04 | 2023-06-19 |  |
 | [Talking Ocean](https://open.spotify.com/track/6zYUEZSdMQwKXXdQyXaPz4) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:30 | 2021-11-10 |  |
 | [Tenerife Sea](https://open.spotify.com/track/2DK2SiIDvOsT7T8QHAxdeo) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Tenerife Sea](https://open.spotify.com/album/1sX3CqdKWQdPWCIe2McYW7) | 3:05 | 2024-03-25 |  |
-| [The Gentle Lull of Waves](https://open.spotify.com/track/32vMQwSiak8JqZunIth8gp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [The Gentle Lull of Waves](https://open.spotify.com/album/2My0h44Y8OLx8hhN1CPqeg) | 2:09 | 2023-06-19 |  |
+| [The Gentle Lull of Waves](https://open.spotify.com/track/32vMQwSiak8JqZunIth8gp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [The Gentle Lull of Waves](https://open.spotify.com/album/2My0h44Y8OLx8hhN1CPqeg) | 2:09 | 2023-06-19 | 2026-04-06 |
 | [The Ocean Is Talking](https://open.spotify.com/track/6s4SKfHInCaacxaJU4FHAk) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [2021 Wave Sounds](https://open.spotify.com/album/6Fy1yge1iqKMl4cnlunDg8) | 2:41 | 2021-11-10 |  |
 | [The Oceanic Beach Sound](https://open.spotify.com/track/5mvw769FihTs6dokvzhosR) | [4D Nature Recordings](https://open.spotify.com/artist/6EAXjip845wircvDzEImru) | [Stereo Waves](https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ) | 2:53 | 2021-11-10 | 2024-03-26 |
 | [The Relaxing Waves](https://open.spotify.com/track/2BxtM2sfnbMeybXiaOCXZJ) | [Wavezze](https://open.spotify.com/artist/3o5UfxtSucVNHzD7L4uyRT) | [The Relaxing Waves](https://open.spotify.com/album/3bWHpzKQHZJPVmjIVEGiao) | 2:39 | 2021-11-10 | 2024-03-26 |

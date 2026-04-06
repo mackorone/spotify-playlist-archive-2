@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,653 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,644 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 20 | [Täälpäin](https://open.spotify.com/track/0Gf5abbjb5XibbQRAwsCPq) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Van Hegen](https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9) | [Täälpäin](https://open.spotify.com/album/32Tow3LoxvoHqW4EO0fVbv) | 3:14 |
 | 21 | [Se ei mennyt niin](https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:50 |
 | 22 | [et millään saa](https://open.spotify.com/track/3rW5FiOaJQjAXGycPkmboL) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [et millään saa](https://open.spotify.com/album/0vqeoxfVqYQtOjXxag51Cs) | 2:54 |
-| 23 | [Horo](https://open.spotify.com/track/6rKzCpq4UpTQZ7Yj3AT318) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Horo](https://open.spotify.com/album/6U4x289MNDQQqM4W3XwsBE) | 3:28 |
-| 24 | [No Haav No Love](https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [No Haav No Love](https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF) | 3:17 |
+| 23 | [No Haav No Love](https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [No Haav No Love](https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF) | 3:17 |
+| 24 | [Horo](https://open.spotify.com/track/6rKzCpq4UpTQZ7Yj3AT318) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Horo](https://open.spotify.com/album/6U4x289MNDQQqM4W3XwsBE) | 3:28 |
 | 25 | [Syvä pääty](https://open.spotify.com/track/4eKb3URMF19IeCXcBkbVoN) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Syvä pääty](https://open.spotify.com/album/5vAcp73b5x6zBo3qzvDyhM) | 3:08 |
 | 26 | [Toivottavasti](https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:43 |
 | 27 | [Turisti \(feat\. Turisti\)](https://open.spotify.com/track/5m28SZu4fl8ncN4EYMphdO) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Turisti \(feat\. Turisti\)](https://open.spotify.com/album/1rTOZHPV73e1ZZgW3oKyB8) | 2:24 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 44 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
 | 45 | [20:30 \(feat\. Karim B\)](https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd), [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [20:30 \(feat\. Karim B\)](https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG) | 2:51 |
 | 46 | [Aikuinen mies](https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:05 |
-| 47 | [DD](https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 1:55 |
-| 48 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
+| 47 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
+| 48 | [DD](https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 1:55 |
 | 49 | [OMG \(feat\. Evelina\)](https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [OMG \(feat\. Evelina\)](https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d) | 3:21 |
-| 50 | [Anteeks](https://open.spotify.com/track/0v5kGCRM6aBsXHhRY1mKB7) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Anteeks](https://open.spotify.com/album/7ykVkX02A8Nnom9eXIG5BL) | 3:10 |
+| 50 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
 
 Snapshot ID: `AAAAAFzquVEmLbkXgq2RV7hXRQMszD8Y`

@@ -12986,7 +12986,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -16344,7 +16344,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 81290,
       "name": "Herm\u00e8s 2.0",
       "url": "https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9"
@@ -18233,6 +18233,28 @@
     },
     {
       "album": {
+        "name": "Ima li, nyama li",
+        "url": "https://open.spotify.com/album/6T2dbOApE8yIrvLlwLx7TE"
+      },
+      "artists": [
+        {
+          "name": "Fiki",
+          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183714,
+      "name": "Ima li, nyama li",
+      "url": "https://open.spotify.com/track/27VZRQhq1jbkbTczQ98nOU"
+    },
+    {
+      "album": {
         "name": "Tvoya Totalno",
         "url": "https://open.spotify.com/album/3qFr1hLqtRlXwhd5vICUTK"
       },
@@ -18342,7 +18364,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
@@ -30014,7 +30036,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 173382,
       "name": "Povoda si ti",
       "url": "https://open.spotify.com/track/7qKTriyjf8zZAJrxL1jb63"
@@ -30094,7 +30116,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 181599,
       "name": "PREACHER MAN",
       "url": "https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ"
@@ -31898,7 +31920,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -41796,10 +41818,28 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 199738,
       "name": "When I Stand",
       "url": "https://open.spotify.com/track/1yXkHQ50wrNzslcUeVrnga"
+    },
+    {
+      "album": {
+        "name": "When I Stand",
+        "url": "https://open.spotify.com/album/3vdq9Dkdexc0Jk1TESguJF"
+      },
+      "artists": [
+        {
+          "name": "Owen James",
+          "url": "https://open.spotify.com/artist/6kqeHxe4IG1RCR15nMT34L"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199738,
+      "name": "When I Stand",
+      "url": "https://open.spotify.com/track/7zaMzteK8ExKLUvJaUpX9w"
     },
     {
       "album": {
@@ -47484,7 +47524,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 184687,
       "name": "\u041d\u0430\u043a\u0430\u0437\u0432\u0430\u043c",
       "url": "https://open.spotify.com/track/5hVGgwsMo3Q67k2REgWKKD"

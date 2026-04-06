@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Green Noise",
+        "url": "https://open.spotify.com/album/0RLetTHxUoLbPcADh9Ogxp"
+      },
+      "artists": [
+        {
+          "name": "Vallis Aura",
+          "url": "https://open.spotify.com/artist/3QDsgZyyuvrvJ1HxdOsf7Q"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110326,
+      "name": "Beach Side Waves",
+      "url": "https://open.spotify.com/track/3mkSyuH8oEGJFZVZeXmvaO"
+    },
+    {
+      "album": {
         "name": "The Calm Beach",
         "url": "https://open.spotify.com/album/1qJLhvhcsqa70yjVzPjVjT"
       },
@@ -2297,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Off The Shore",
+        "url": "https://open.spotify.com/album/1QFjSRJjP3qKrV7TOcIxVK"
+      },
+      "artists": [
+        {
+          "name": "Nebelune",
+          "url": "https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Off The Shore",
+      "url": "https://open.spotify.com/track/3xJ5En6Cmy5g6FMe9FQCbL"
+    },
+    {
+      "album": {
         "name": "Ayudantes para dormir",
         "url": "https://open.spotify.com/album/7r5Aj4mO7gl9VFowZjI1LS"
       },
@@ -2614,7 +2650,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 176017,
       "name": "Perfect Ocean",
       "url": "https://open.spotify.com/track/1K8O7W0UjjL8W85JnY0JYN"
@@ -3954,7 +3990,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 129864,
       "name": "The Gentle Lull of Waves",
       "url": "https://open.spotify.com/track/32vMQwSiak8JqZunIth8gp"

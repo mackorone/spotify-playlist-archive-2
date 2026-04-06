@@ -6779,6 +6779,24 @@
     },
     {
       "album": {
+        "name": "TOP SPOT - ANOTHER DIMENSION",
+        "url": "https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE"
+      },
+      "artists": [
+        {
+          "name": "T.O.P",
+          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184069,
+      "name": "DESPERADO",
+      "url": "https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd"
+    },
+    {
+      "album": {
         "name": "DESSERT",
         "url": "https://open.spotify.com/album/5brSFD1knAOSM7j6083naD"
       },
@@ -10043,6 +10061,24 @@
     },
     {
       "album": {
+        "name": "LOVE&HATE",
+        "url": "https://open.spotify.com/album/5lOdOxNDjxelMZ7PJSZB6G"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "GAME OVER ?",
+      "url": "https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP"
+    },
+    {
+      "album": {
         "name": "BEAUTIFUL CHAOS",
         "url": "https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx"
       },
@@ -12092,7 +12128,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 194682,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD"
@@ -12776,7 +12812,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 166858,
       "name": "I Feel Good (Live Ver.)",
       "url": "https://open.spotify.com/track/7rf1HYMl0ZjPLO8HbWbc7a"
@@ -18430,7 +18466,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 146360,
       "name": "Nice to see you again (Korean Ver.)",
       "url": "https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr"
@@ -26449,6 +26485,24 @@
     },
     {
       "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR"
+    },
+    {
+      "album": {
         "name": "Be Together",
         "url": "https://open.spotify.com/album/0Ex4iuYoVnF8IBrBBIfYWU"
       },
@@ -27296,7 +27350,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 183000,
       "name": "Truth",
       "url": "https://open.spotify.com/track/0a4O30qpS18xaHGS5l1ZCT"
@@ -28546,6 +28600,28 @@
       "duration_ms": 174000,
       "name": "Waste No Time",
       "url": "https://open.spotify.com/track/2PrUUUaajXyCOZYQAQVdwC"
+    },
+    {
+      "album": {
+        "name": "BURN PART.2",
+        "url": "https://open.spotify.com/album/5UgdylQND1QZWGJFhAPbn7"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "WATER (Feat. Car, the garden)",
+      "url": "https://open.spotify.com/track/4JgId66CQQw0YnoeMEVvd8"
     },
     {
       "album": {

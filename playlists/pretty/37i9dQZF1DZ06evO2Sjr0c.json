@@ -1,12 +1,12 @@
 {
   "description": "This is Grateful Dead. The essential tracks, all in one playlist.",
-  "num_followers": 179477,
+  "num_followers": 179496,
   "original_name": "This Is Grateful Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac8DAAAAAACbhXyGAROEzZm8hlcI5eXI",
+  "snapshot_id": "adBUgAAAAAAihS0IbgX1qb/Eug7F5mTU",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 449453,
-      "name": "They Love Each Other - Live at Barton Hall, Cornell University, Ithaca, NY, 5/8/77",
-      "url": "https://open.spotify.com/track/4K5etmmA4jQApw5VBznEWK"
+      "duration_ms": 191626,
+      "name": "Mama Tried - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
+      "url": "https://open.spotify.com/track/6h7RCPkZvG7T4Rp02Xa0sE"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 191626,
-      "name": "Mama Tried - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
-      "url": "https://open.spotify.com/track/6h7RCPkZvG7T4Rp02Xa0sE"
+      "duration_ms": 449453,
+      "name": "They Love Each Other - Live at Barton Hall, Cornell University, Ithaca, NY, 5/8/77",
+      "url": "https://open.spotify.com/track/4K5etmmA4jQApw5VBznEWK"
     },
     {
       "added_at": null,

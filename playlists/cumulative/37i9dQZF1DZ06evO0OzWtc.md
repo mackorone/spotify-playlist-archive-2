@@ -4,7 +4,7 @@
 
 > This is Sebastian Esquivel\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 19 min
+47 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,5 +54,6 @@
 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/1r8mlloMCnHwy40TPrV1U0) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/5nS3MisEg8pZROaMSQLyqy) | 3:07 | 2024-08-08 | 2025-02-23 |
 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/3XOfnUKBNSB01mQRiTVspm) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [TFS](https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx) | 3:07 | 2025-02-23 |  |
 | [Trokita Tumbada](https://open.spotify.com/track/5OikUUl8HDGRfImohipqOw) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Trokita Tumbada](https://open.spotify.com/album/1ksTdtTRNpqzbFkCcPi8k5) | 2:46 | 2024-08-08 |  |
+| [TUKI TUKI](https://open.spotify.com/track/6Cb2PBFFgOULaptgZIYXi5) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [TUKI TUKI](https://open.spotify.com/album/0bbifCUmSUp7JAR7kszwSF) | 2:33 | 2026-04-06 |  |
 
 \*This playlist was first scraped on 2024-08-08. Prior content cannot be recovered.

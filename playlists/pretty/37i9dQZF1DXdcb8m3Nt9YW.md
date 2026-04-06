@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Los 2 de la S en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,790 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,876 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 124 | [La Niña Del Telefono](https://open.spotify.com/track/4n1jsARd9OG4o0H2BJdoMU) | [Conjunto Tempestad](https://open.spotify.com/artist/7m1jfOxpHhKzzhFRJyfKAK) | [La Niña Del Telefono](https://open.spotify.com/album/4kQU0krh0xtWW2Ox2MWsBF) | 3:51 |
 | 125 | [Somos Los Que Somos \- En Vivo](https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Barda Me Volé](https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh) | 4:40 |
 
-Snapshot ID: `AAAAAEvxn8/f3yox/18FIWSy5jRyXcoc`
+Snapshot ID: `AAAAAGhU9EwavHBrdFkxAbYlvi1w0gUk`

@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 270982,
+  "num_followers": 271023,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 217617,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 254346,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 217617,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -775,38 +775,6 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX"
-      },
-      "artists": [
-        {
-          "name": "Thief Traveler",
-          "url": "https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Daybreak",
-      "url": "https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
         "name": "October",
         "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX"
+      },
+      "artists": [
+        {
+          "name": "Thief Traveler",
+          "url": "https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY"
     },
     {
       "added_at": "2026-01-23 00:00:37",

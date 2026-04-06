@@ -1524,6 +1524,24 @@
     {
       "album": {
         "name": "The Color Of You",
+        "url": "https://open.spotify.com/album/1UeM56mMsB5OD68dTFiz56"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186867,
+      "name": "Coming To My Senses",
+      "url": "https://open.spotify.com/track/0E4urMaY5kDksBZYzrK3VD"
+    },
+    {
+      "album": {
+        "name": "The Color Of You",
         "url": "https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs"
       },
       "artists": [
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 186867,
       "name": "Coming To My Senses",
       "url": "https://open.spotify.com/track/6hVkeJbO0lBU19DEPcxLQE"
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"

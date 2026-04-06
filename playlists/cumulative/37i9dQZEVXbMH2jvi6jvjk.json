@@ -5001,6 +5001,36 @@
     },
     {
       "album": {
+        "name": "Baba Yilwa",
+        "url": "https://open.spotify.com/album/7l0wDdT3ohzkWE9WncimvS"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinhle",
+          "url": "https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW"
+        },
+        {
+          "name": "DJ Lace",
+          "url": "https://open.spotify.com/artist/6AmSiS6uXD734FEQmoRAMx"
+        },
+        {
+          "name": "FunkTone",
+          "url": "https://open.spotify.com/artist/5e20FnH1vyHXZId8SMW4H8"
+        },
+        {
+          "name": "Thobani White",
+          "url": "https://open.spotify.com/artist/6d55WqAPu5RQ3HDxdYsPwo"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292897,
+      "name": "Baba Yilwa",
+      "url": "https://open.spotify.com/track/7CbWbPUUmRYBI0uio0Bc7L"
+    },
+    {
+      "album": {
         "name": "BABY JACKSON",
         "url": "https://open.spotify.com/album/4Hc4dP1qHW62OMcekMkPAp"
       },
@@ -24148,7 +24178,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 218443,
       "name": "Inomnikazi (feat. Thembani)",
       "url": "https://open.spotify.com/track/7AihPCGkjTBJWsbPxYv0Ga"
@@ -28786,7 +28816,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 305084,
       "name": "LALELA",
       "url": "https://open.spotify.com/track/4Ke3JZ2L1kvomFvDKwERxW"
@@ -29646,7 +29676,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 221538,
       "name": "Lerato laka",
       "url": "https://open.spotify.com/track/58HnFyw7KtqOCGbhs09cIE"
@@ -35802,6 +35832,32 @@
       "duration_ms": 336428,
       "name": "Myztro Ah Ah (feat. Xduppy, ShaunMusiQ & Ftears)",
       "url": "https://open.spotify.com/track/26rx4ek7zk05Q9wEUbN1NF"
+    },
+    {
+      "album": {
+        "name": "Mzala (feat. Tango Supreme)",
+        "url": "https://open.spotify.com/album/4qcQsHhLCuP2kxiE9SjrpH"
+      },
+      "artists": [
+        {
+          "name": "Shakes & Les",
+          "url": "https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Tango Supreme",
+          "url": "https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471532,
+      "name": "Mzala (feat. Tango Supreme)",
+      "url": "https://open.spotify.com/track/5DED4GtVG1JoOjHsSlHnqR"
     },
     {
       "album": {
@@ -53348,7 +53404,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 383827,
       "name": "Tobetsa 3.0 (feat. Shaunmusiq & Ftears)",
       "url": "https://open.spotify.com/track/7ohMSMZrovYscFvEMkrtzP"
@@ -56416,7 +56472,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 356306,
       "name": "Ungukuphila",
       "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
@@ -57634,7 +57690,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 374237,
       "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
       "url": "https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl"

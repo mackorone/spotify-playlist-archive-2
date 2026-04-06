@@ -13048,6 +13048,24 @@
     {
       "album": {
         "name": "Something Cool",
+        "url": "https://open.spotify.com/album/32OPsUnxSRCsY7O0gSC0DY"
+      },
+      "artists": [
+        {
+          "name": "Carol Sloane",
+          "url": "https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "You're A Bad Influence On Me",
+      "url": "https://open.spotify.com/track/0B0uNg6dEwDsgQD5RrXZ7f"
+    },
+    {
+      "album": {
+        "name": "Something Cool",
         "url": "https://open.spotify.com/album/2unSzRDCPismEAcknbV2na"
       },
       "artists": [
@@ -13058,7 +13076,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 247373,
       "name": "You're A Bad Influence On Me",
       "url": "https://open.spotify.com/track/7ygWOl8HyMix1J3BpXRZRU"

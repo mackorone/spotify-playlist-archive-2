@@ -3024,7 +3024,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 207980,
       "name": "Es As\u00ed",
       "url": "https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY"
@@ -6064,6 +6064,24 @@
       "duration_ms": 147373,
       "name": "Que La Dejen Ir Al Baile",
       "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
+    },
+    {
+      "album": {
+        "name": "Que Lloro (En Vivo)",
+        "url": "https://open.spotify.com/album/6RKtNmEOsNbukmtmPeHdz0"
+      },
+      "artists": [
+        {
+          "name": "Juan Moya Y Los Del Valle",
+          "url": "https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254537,
+      "name": "Que Lloro - En Vivo",
+      "url": "https://open.spotify.com/track/3xgbyHmM087foQxOfJQuI4"
     },
     {
       "album": {

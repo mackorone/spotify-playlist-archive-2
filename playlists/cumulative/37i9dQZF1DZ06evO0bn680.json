@@ -105,6 +105,32 @@
     },
     {
       "album": {
+        "name": "Poulenc: Sacred Music",
+        "url": "https://open.spotify.com/album/2fcUZ7rDmOGK5FejvheQRU"
+      },
+      "artists": [
+        {
+          "name": "Francis Poulenc",
+          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "4 Motets pour un temps de p\u00e9nitence, FP 97: No. 2, Vinea mea electa",
+      "url": "https://open.spotify.com/track/3yHGGWi46ioWOSN20Ezsmk"
+    },
+    {
+      "album": {
         "name": "Classical Tranquillity",
         "url": "https://open.spotify.com/album/3sAUybSBp9LpmYL05RN5Vo"
       },
@@ -774,7 +800,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 186293,
       "name": "IV. Waltz",
       "url": "https://open.spotify.com/track/07ja5QOXSqD9h8x8bThK1H"
@@ -800,7 +826,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 116093,
       "name": "Jesu dulcis memoria",
       "url": "https://open.spotify.com/track/2uBGuyW7hmrwZNNTMFFhDS"
@@ -1320,7 +1346,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 311600,
       "name": "Requiem: VI. The Lord Is my Shepherd",
       "url": "https://open.spotify.com/track/3G6b97LZYDBzGewYbakvlI"

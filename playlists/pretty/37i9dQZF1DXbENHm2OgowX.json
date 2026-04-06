@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 330676,
+  "num_followers": 330871,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "Disengaged",
-      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "i was always there for you",
         "url": "https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 119600,
       "name": "i was always there for you",
       "url": "https://open.spotify.com/track/6BmYmf6Ns6Wnup6vpKm7SH"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "Disengaged",
+      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -691,18 +691,34 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "The Importance of Birds",
-        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
+        "name": "a long road",
+        "url": "https://open.spotify.com/album/6dEAHP5IbP0cOj5hvmid5h"
       },
       "artists": [
         {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
         }
       ],
-      "duration_ms": 219000,
-      "name": "From a Convenient Grass",
-      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
+      "duration_ms": 160000,
+      "name": "a long road",
+      "url": "https://open.spotify.com/track/3ZJEXKMR6RVVTVHIt3svj8"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -727,6 +743,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "The Importance of Birds",
+        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "From a Convenient Grass",
+      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Mat\u00e8l (original motion picture soundtrack)",
         "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
       },
@@ -743,22 +775,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz"
-      },
-      "artists": [
-        {
-          "name": "Blu Velvet",
-          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "fly high",
         "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 107056,
       "name": "fly high",
       "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "a long road",
-        "url": "https://open.spotify.com/album/6dEAHP5IbP0cOj5hvmid5h"
-      },
-      "artists": [
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "a long road",
-      "url": "https://open.spotify.com/track/3ZJEXKMR6RVVTVHIt3svj8"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
-      },
-      "artists": [
-        {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        }
-      ],
-      "duration_ms": 289592,
-      "name": "Still Numbers",
-      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "the hardest part",
         "url": "https://open.spotify.com/album/5FejFrtgFBHiHsH3bULuAz"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 101052,
       "name": "the hardest part",
       "url": "https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "duration_ms": 289592,
+      "name": "Still Numbers",
+      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Vintage Well",
-        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 170878,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 129998,
       "name": "skies",
       "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 170878,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
-      },
-      "artists": [
-        {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
-        }
-      ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/66hWGmiZJlOcp5VUrSs07L"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 363284,
       "name": "All That's Left Behind",
       "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        }
+      ],
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "Near Silence",
+        "url": "https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe"
+      },
+      "artists": [
+        {
+          "name": "knownbyC",
+          "url": "https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb"
+        }
+      ],
+      "duration_ms": 184109,
+      "name": "Near Silence",
+      "url": "https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "Symmetry",
         "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 199933,
       "name": "Symmetry",
       "url": "https://open.spotify.com/track/04xvAfowaRbutabkOUzILY"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Near Silence",
-        "url": "https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe"
-      },
-      "artists": [
-        {
-          "name": "knownbyC",
-          "url": "https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb"
-        }
-      ],
-      "duration_ms": 184109,
-      "name": "Near Silence",
-      "url": "https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Common",
-        "url": "https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD"
-      },
-      "artists": [
-        {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
-        }
-      ],
-      "duration_ms": 155186,
-      "name": "Common",
-      "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Displacement (KMRU rework)",
         "url": "https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 256000,
       "name": "Displacement - KMRU rework",
       "url": "https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Common",
+        "url": "https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 155186,
+      "name": "Common",
+      "url": "https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
-      },
-      "artists": [
-        {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Calm Current",
         "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 177230,
       "name": "Calm Current",
       "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
     },
     {
       "added_at": "2026-03-20 04:00:38",

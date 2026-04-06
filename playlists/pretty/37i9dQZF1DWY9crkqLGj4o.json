@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 447660,
+  "num_followers": 447697,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Mais um Dia",
+        "url": "https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "duration_ms": 227996,
+      "name": "Quando o Mundo Cai Ao Meu Redor",
+      "url": "https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 336716,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Mais um Dia",
-        "url": "https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        }
-      ],
-      "duration_ms": 227996,
-      "name": "Quando o Mundo Cai Ao Meu Redor",
-      "url": "https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1"
     },
     {
       "added_at": "2026-01-30 13:05:09",

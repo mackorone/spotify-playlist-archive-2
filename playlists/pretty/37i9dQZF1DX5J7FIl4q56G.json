@@ -1,12 +1,12 @@
 {
   "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: Periphery",
-  "num_followers": 788182,
+  "num_followers": 788180,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKgVhQIfvRvuXblXVI90ea5xfjOw",
+  "snapshot_id": "AAAAAGQ+tUJ4NEEzL77/7DXOKWj0SJXU",
   "tracks": [
     {
       "added_at": "2026-04-03 04:01:54",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-04-03 04:01:54",
       "album": {
-        "name": "The Vessel",
-        "url": "https://open.spotify.com/album/5mXRWTnViyh9ErYa2LwSgL"
-      },
-      "artists": [
-        {
-          "name": "Archspire",
-          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
-        }
-      ],
-      "duration_ms": 281473,
-      "name": "The Vessel",
-      "url": "https://open.spotify.com/track/1ZnN4trsIBt73oTIcC8h4p"
-    },
-    {
-      "added_at": "2026-04-03 04:01:54",
-      "album": {
         "name": "No Love Lost",
         "url": "https://open.spotify.com/album/4NGdTUI88ytH8YUo2GAlNo"
       },
@@ -203,38 +187,6 @@
       "duration_ms": 150400,
       "name": "No Love Lost",
       "url": "https://open.spotify.com/track/6PQA6MBU3xAsZKmahjF9Bg"
-    },
-    {
-      "added_at": "2026-04-03 04:01:54",
-      "album": {
-        "name": "FiVE TiMES DEAD (by my wallet)",
-        "url": "https://open.spotify.com/album/50RTZrrOcal2MouiLJAhiY"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "FiVE TiMES DEAD (by my wallet)",
-      "url": "https://open.spotify.com/track/1P1oxa1cCrZwXutvmp0MQK"
-    },
-    {
-      "added_at": "2026-04-03 04:01:54",
-      "album": {
-        "name": "Fate Unblinds",
-        "url": "https://open.spotify.com/album/3nxKASjxltcN7rBKWi14im"
-      },
-      "artists": [
-        {
-          "name": "Dogma",
-          "url": "https://open.spotify.com/artist/4R6XPuqGShFESRVkCePaxj"
-        }
-      ],
-      "duration_ms": 256125,
-      "name": "Fate Unblinds",
-      "url": "https://open.spotify.com/track/2xvq7BPUX3x8vAfBC2Qfjg"
     },
     {
       "added_at": "2026-04-03 04:01:54",
@@ -271,6 +223,22 @@
     {
       "added_at": "2026-04-03 04:01:54",
       "album": {
+        "name": "sunn O)))",
+        "url": "https://open.spotify.com/album/1grbT4stwprQnmPMxshbbI"
+      },
+      "artists": [
+        {
+          "name": "sunn O)))",
+          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
+        }
+      ],
+      "duration_ms": 452977,
+      "name": "Does Anyone Hear Like Venom?",
+      "url": "https://open.spotify.com/track/4Me1bg4wAsxhi1YWxSa8oC"
+    },
+    {
+      "added_at": "2026-04-03 04:01:54",
+      "album": {
         "name": "Vanilla Latte",
         "url": "https://open.spotify.com/album/01Kui9a3rkdckJen3duPvC"
       },
@@ -283,6 +251,54 @@
       "duration_ms": 144973,
       "name": "Vanilla Latte",
       "url": "https://open.spotify.com/track/07pkzqGG7U0NXnVlBokdmW"
+    },
+    {
+      "added_at": "2026-04-03 04:01:54",
+      "album": {
+        "name": "FiVE TiMES DEAD (by my wallet)",
+        "url": "https://open.spotify.com/album/50RTZrrOcal2MouiLJAhiY"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "FiVE TiMES DEAD (by my wallet)",
+      "url": "https://open.spotify.com/track/1P1oxa1cCrZwXutvmp0MQK"
+    },
+    {
+      "added_at": "2026-04-03 04:01:54",
+      "album": {
+        "name": "Fate Unblinds",
+        "url": "https://open.spotify.com/album/3nxKASjxltcN7rBKWi14im"
+      },
+      "artists": [
+        {
+          "name": "Dogma",
+          "url": "https://open.spotify.com/artist/4R6XPuqGShFESRVkCePaxj"
+        }
+      ],
+      "duration_ms": 256125,
+      "name": "Fate Unblinds",
+      "url": "https://open.spotify.com/track/2xvq7BPUX3x8vAfBC2Qfjg"
+    },
+    {
+      "added_at": "2026-04-03 04:01:54",
+      "album": {
+        "name": "The Vessel",
+        "url": "https://open.spotify.com/album/5mXRWTnViyh9ErYa2LwSgL"
+      },
+      "artists": [
+        {
+          "name": "Archspire",
+          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
+        }
+      ],
+      "duration_ms": 281473,
+      "name": "The Vessel",
+      "url": "https://open.spotify.com/track/1ZnN4trsIBt73oTIcC8h4p"
     },
     {
       "added_at": "2026-04-03 04:01:54",
@@ -303,22 +319,6 @@
       "duration_ms": 233320,
       "name": "Watch You Fold (feat. John Gallagher)",
       "url": "https://open.spotify.com/track/4d6ZLQm7Q0gJeSQdJuQUfS"
-    },
-    {
-      "added_at": "2026-04-03 04:01:54",
-      "album": {
-        "name": "sunn O)))",
-        "url": "https://open.spotify.com/album/1grbT4stwprQnmPMxshbbI"
-      },
-      "artists": [
-        {
-          "name": "sunn O)))",
-          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
-        }
-      ],
-      "duration_ms": 452977,
-      "name": "Does Anyone Hear Like Venom?",
-      "url": "https://open.spotify.com/track/4Me1bg4wAsxhi1YWxSa8oC"
     },
     {
       "added_at": "2026-04-03 04:01:54",
@@ -351,6 +351,22 @@
       "duration_ms": 334680,
       "name": "Transgression",
       "url": "https://open.spotify.com/track/2JAD09RbTHpbb5P37J1WFX"
+    },
+    {
+      "added_at": "2026-04-05 21:09:05",
+      "album": {
+        "name": "This Room Could Be Heaven.",
+        "url": "https://open.spotify.com/album/2WOBMTxdpxPHMGXWXZXskG"
+      },
+      "artists": [
+        {
+          "name": "concealer.",
+          "url": "https://open.spotify.com/artist/5y2ymtnwjo4qwclZR9512J"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Vanity, a Fractured Promise",
+      "url": "https://open.spotify.com/track/3c3Anv7heRslSVhmoDWwNV"
     },
     {
       "added_at": "2026-04-03 04:01:54",

@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Countryside Thunder",
+        "url": "https://open.spotify.com/album/2kBOSAlmdWSG87QlZvxZcI"
+      },
+      "artists": [
+        {
+          "name": "Varuna Recordings",
+          "url": "https://open.spotify.com/artist/14PnfeDCdj2PHrVMzTTddV"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126214,
+      "name": "Countryside Thunder",
+      "url": "https://open.spotify.com/track/29MBqn7AVef6QZVYYSH4bR"
+    },
+    {
+      "album": {
         "name": "The Sound Of Thunder",
         "url": "https://open.spotify.com/album/7w7vj19z0QzYlqkdAQYLGR"
       },
@@ -1133,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Light Rain, Distant Thunder",
+        "url": "https://open.spotify.com/album/4esVhcHC79nvFH0EuJByrw"
+      },
+      "artists": [
+        {
+          "name": "Cloudside",
+          "url": "https://open.spotify.com/artist/4GE1zB3rkqszl1JOenyAOj"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130892,
+      "name": "Light Rain, Distant Thunder",
+      "url": "https://open.spotify.com/track/2Y6IUM9tZQC1S4mdCcLd1u"
+    },
+    {
+      "album": {
         "name": "Rainy Day Reflections",
         "url": "https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx"
       },
@@ -1292,6 +1328,24 @@
       "duration_ms": 208000,
       "name": "Lit up Sky",
       "url": "https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3"
+    },
+    {
+      "album": {
+        "name": "Low Rumble",
+        "url": "https://open.spotify.com/album/2SEPUlqUkyWxgkeB3z2pEc"
+      },
+      "artists": [
+        {
+          "name": "Lumo",
+          "url": "https://open.spotify.com/artist/2T0jucohOQ58uTtQR66BhK"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144097,
+      "name": "Low Rumble",
+      "url": "https://open.spotify.com/track/5EjrSMKqigSble8fnFpOBH"
     },
     {
       "album": {
@@ -1616,6 +1670,24 @@
       "duration_ms": 210517,
       "name": "Rain & Thunder Outside The Palace",
       "url": "https://open.spotify.com/track/5H6GwQZbsw9LSewKcfb57O"
+    },
+    {
+      "album": {
+        "name": "Rain and Close Thunder Cracks",
+        "url": "https://open.spotify.com/album/5rJAx8c3CKF8c1kcrF9NSM"
+      },
+      "artists": [
+        {
+          "name": "Rain Harbor",
+          "url": "https://open.spotify.com/artist/3uGbg4fPT9hEfsUDVIPn2r"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133379,
+      "name": "Rain and Close Thunder Cracks",
+      "url": "https://open.spotify.com/track/4JQaKla5xL4DEVF5tPXLvo"
     },
     {
       "album": {
@@ -2231,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "Steady Rain, Low Thunder Rolls",
+        "url": "https://open.spotify.com/album/45tcEOlU1Sr10fmEweM1T2"
+      },
+      "artists": [
+        {
+          "name": "Overcast Atlas",
+          "url": "https://open.spotify.com/artist/4s0NYrClZsLeKYdT5OV8wM"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124900,
+      "name": "Steady Rain, Low Thunder Rolls",
+      "url": "https://open.spotify.com/track/75BlxLXQnEQMH2SyGtQzSA"
+    },
+    {
+      "album": {
         "name": "Liquid Storm",
         "url": "https://open.spotify.com/album/1bBZfJGjFBeohv2Mdigyti"
       },
@@ -2494,7 +2584,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 164000,
       "name": "Surrounded by The Rainforest",
       "url": "https://open.spotify.com/track/7ntPneeSmOD3LUJrLSkUoL"
@@ -2570,7 +2660,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 183799,
       "name": "The Palmetto Trembles, Florida",
       "url": "https://open.spotify.com/track/00115Ox0k9VNyBFCWKqmwq"
@@ -2696,7 +2786,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 148090,
       "name": "Thunder and Rain",
       "url": "https://open.spotify.com/track/59FYRMaBBxHkJi8eg6oPeA"
@@ -2966,7 +3056,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 218000,
       "name": "Thunder In The Night",
       "url": "https://open.spotify.com/track/1LbrOh8zHb6VRNJLQi8HmK"
@@ -3254,7 +3344,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 97577,
       "name": "Thunderstorm at Night",
       "url": "https://open.spotify.com/track/2Uuu9xFGwFfoY30wGWOG01"

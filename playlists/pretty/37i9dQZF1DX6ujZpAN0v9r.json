@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 691619,
+  "num_followers": 691724,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Heaven Or Las Vegas (Remastered)",
         "url": "https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1299,18 +1299,34 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Superbike",
+        "url": "https://open.spotify.com/album/68TrLByFkqkuVDVmIVpXdi"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 233583,
+      "name": "Superbike",
+      "url": "https://open.spotify.com/track/4kK7bQcFQKldges2b6WXrV"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Superbike",
-        "url": "https://open.spotify.com/album/68TrLByFkqkuVDVmIVpXdi"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 233583,
-      "name": "Superbike",
-      "url": "https://open.spotify.com/track/4kK7bQcFQKldges2b6WXrV"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/11hFygy8xLDCeECJEDnNEK"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Souvenirs d'un autre monde",
-        "url": "https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 368626,
-      "name": "Souvenirs d'un autre monde",
-      "url": "https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Sure (Robin Guthrie remix)",
         "url": "https://open.spotify.com/album/7y9l93Ik2ULQWNZi5v2QSq"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 248242,
       "name": "Sure - Robin Guthrie remix",
       "url": "https://open.spotify.com/track/5n23n1Vd5din4eKMjpbKQ0"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Souvenirs d'un autre monde",
+        "url": "https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf"
+      },
+      "artists": [
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+        }
+      ],
+      "duration_ms": 368626,
+      "name": "Souvenirs d'un autre monde",
+      "url": "https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3"
     },
     {
       "added_at": "2021-06-03 02:39:04",

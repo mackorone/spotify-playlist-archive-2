@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 105266,
+  "num_followers": 105278,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac8DAAAAAABW522tCRVCvbGxgifFrX/p",
+  "snapshot_id": "adBUgAAAAABX+yrAl/ac0enu+dzj/zWM",
   "tracks": [
     {
       "added_at": null,
@@ -659,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
       "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 317257,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX"
+      "duration_ms": 217792,
+      "name": "Phenomenal (feat. Doechii)",
+      "url": "https://open.spotify.com/track/5iDrSIUAbuajDctFTGRRiR"
     },
     {
       "added_at": null,
@@ -691,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9"
       },
       "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 217792,
-      "name": "Phenomenal (feat. Doechii)",
-      "url": "https://open.spotify.com/track/5iDrSIUAbuajDctFTGRRiR"
+      "duration_ms": 317257,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX"
     },
     {
       "added_at": null,

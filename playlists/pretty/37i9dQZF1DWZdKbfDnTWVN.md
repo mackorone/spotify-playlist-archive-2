@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E?si=nX6GQ\_XZRXC2RqLhWYj6aQ"> Vallerie Muthoni</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,822 likes - 54 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,839 likes - 54 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

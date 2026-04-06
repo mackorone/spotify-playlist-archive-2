@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73351,
+  "num_followers": 73370,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Xanadu - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 208240,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1"
+        "name": "Essential As Anything",
+        "url": "https://open.spotify.com/album/5iTdMXmcuJl7bqVIsIJ76D"
       },
       "artists": [
         {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+          "name": "Mental As Anything",
+          "url": "https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK"
         }
       ],
-      "duration_ms": 158973,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk"
+      "duration_ms": 227826,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/5gTzTrw6ORSPWK9qxVKCnf"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Essential As Anything",
-        "url": "https://open.spotify.com/album/5iTdMXmcuJl7bqVIsIJ76D"
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1"
       },
       "artists": [
         {
-          "name": "Mental As Anything",
-          "url": "https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK"
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
         }
       ],
-      "duration_ms": 227826,
-      "name": "Live It Up",
-      "url": "https://open.spotify.com/track/5gTzTrw6ORSPWK9qxVKCnf"
+      "duration_ms": 158973,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Resolution - EP",
-        "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 256389,
-      "name": "Resolution",
-      "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Love Monster",
         "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 170413,
       "name": "I Said Hi",
       "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Resolution - EP",
+        "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 256389,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Sneaky Sound System",
-        "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
-      },
-      "artists": [
-        {
-          "name": "Sneaky Sound System",
-          "url": "https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko"
-        }
-      ],
-      "duration_ms": 269200,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 223040,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Sneaky Sound System",
+        "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
+      },
+      "artists": [
+        {
+          "name": "Sneaky Sound System",
+          "url": "https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko"
+        }
+      ],
+      "duration_ms": 269200,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Be The Twilight",
-        "url": "https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS"
-      },
-      "artists": [
-        {
-          "name": "Faker",
-          "url": "https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW"
-        }
-      ],
-      "duration_ms": 227694,
-      "name": "This Heart Attack",
-      "url": "https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Watching Angels Mend",
         "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 203213,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Be The Twilight",
+        "url": "https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS"
+      },
+      "artists": [
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW"
+        }
+      ],
+      "duration_ms": 227694,
+      "name": "This Heart Attack",
+      "url": "https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Counting Down The Days",
-        "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Feeler",
         "url": "https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 279520,
       "name": "So Beautiful - Single Version",
       "url": "https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Counting Down The Days",
+        "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 237247,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Greatest Hits 1994 - 2004",
         "url": "https://open.spotify.com/album/3eArVEbkPCtNGoCFkFCftz"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 264146,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1XsFwPxVyhouqW6Qu71Ygm"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 237247,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
     },
     {
       "added_at": "2024-08-05 06:00:58",

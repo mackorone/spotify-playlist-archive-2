@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Mi$ha en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,914 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,921 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 54 | [no hay problema](https://open.spotify.com/track/6hHvuWEchiY9UyyjHlrs5B) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [LA NUBE EN EL JARDÍN](https://open.spotify.com/album/25LvmhsAq8LUUxNgkVK2tu) | 5:06 |
 | 55 | [0%](https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [0%](https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ) | 2:53 |
 
-Snapshot ID: `AAAAAOxlwGbunJuQ8KS/CwNL9+BvsPxy`
+Snapshot ID: `AAAAAC27rdHNAYatXVzvHReJE3GhSXcW`

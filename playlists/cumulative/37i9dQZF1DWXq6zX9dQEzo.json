@@ -6455,6 +6455,36 @@
     },
     {
       "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/4Oq4U7B4GY1Qj5uzUFekNr"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        },
+        {
+          "name": "Wordsplayed",
+          "url": "https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219914,
+      "name": "God Over Everything",
+      "url": "https://open.spotify.com/track/5ZxGoh78YAVK405fjTyTke"
+    },
+    {
+      "album": {
         "name": "God Put Me On",
         "url": "https://open.spotify.com/album/2wTbOZKpLfxQ8LHW5l3hbK"
       },
@@ -12438,7 +12468,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 193343,
       "name": "Outside Wit It",
       "url": "https://open.spotify.com/track/0Hj0ZWxEtxqJZwx18YEsrZ"

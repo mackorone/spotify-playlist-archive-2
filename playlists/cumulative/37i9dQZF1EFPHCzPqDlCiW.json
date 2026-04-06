@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/2sGLInJA6FWZs6c8PeAG6i"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177122,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/15pViH8S6yor5SmFrV03ic"
+    },
+    {
+      "album": {
         "name": "Before You Let Me Down",
         "url": "https://open.spotify.com/album/5cUVqdVm9a0Ahuw1VPUnEA"
       },

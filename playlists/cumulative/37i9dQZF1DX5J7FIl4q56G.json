@@ -196631,6 +196631,24 @@
     },
     {
       "album": {
+        "name": "This Room Could Be Heaven.",
+        "url": "https://open.spotify.com/album/2WOBMTxdpxPHMGXWXZXskG"
+      },
+      "artists": [
+        {
+          "name": "concealer.",
+          "url": "https://open.spotify.com/artist/5y2ymtnwjo4qwclZR9512J"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183573,
+      "name": "Vanity, a Fractured Promise",
+      "url": "https://open.spotify.com/track/3c3Anv7heRslSVhmoDWwNV"
+    },
+    {
+      "album": {
         "name": "Vantablack",
         "url": "https://open.spotify.com/album/5JpE6PhSDMXZJWYOBGMlnp"
       },

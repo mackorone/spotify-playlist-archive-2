@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 174173,
       "name": "Gorrion Errante",
       "url": "https://open.spotify.com/track/6GaRuhFZAT492Bmmsf6Mwb"
@@ -2590,6 +2590,32 @@
       "duration_ms": 197026,
       "name": "Regalo Caro",
       "url": "https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB"
+    },
+    {
+      "album": {
+        "name": "Norte\u00f1os De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2BXF9FpsGUA0wYQdnRWAap"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Leones del Norte",
+          "url": "https://open.spotify.com/artist/0yb8fDTLfuxX43ENXl3IUf"
+        },
+        {
+          "name": "Salomon Robles",
+          "url": "https://open.spotify.com/artist/3jOuCnGTTFjtYMmTinOtOu"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192053,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/4n1DL6H5nOw8LV6QcDNoVO"
     },
     {
       "album": {

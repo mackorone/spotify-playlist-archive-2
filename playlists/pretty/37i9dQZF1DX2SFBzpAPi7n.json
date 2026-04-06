@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: EL CAPITXN & TAEHYUN & Jeremy Zucker) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 250200,
+  "num_followers": 250189,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-04-03 09:14:10",
       "album": {
-        "name": "Curtain Up, Class, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0g2BHosqUn3yz5GOSnzLdZ"
-      },
-      "artists": [
-        {
-          "name": "DOKYEOM",
-          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Best Scene",
-      "url": "https://open.spotify.com/track/4pvUtXwvtZx0kl7vlv8gf9"
-    },
-    {
-      "added_at": "2026-04-03 09:14:10",
-      "album": {
         "name": "Archive. 1",
         "url": "https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2026-04-03 09:14:10",
       "album": {
-        "name": "Panorama : The Best of TAEYEON",
-        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
+        "name": "Curtain Up, Class, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0g2BHosqUn3yz5GOSnzLdZ"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "DOKYEOM",
+          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
+      "duration_ms": 230000,
+      "name": "Best Scene",
+      "url": "https://open.spotify.com/track/4pvUtXwvtZx0kl7vlv8gf9"
     },
     {
       "added_at": "2026-04-03 09:14:10",
@@ -463,6 +447,22 @@
       "duration_ms": 174533,
       "name": "Dash",
       "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
+    },
+    {
+      "added_at": "2026-04-03 09:14:10",
+      "album": {
+        "name": "Panorama : The Best of TAEYEON",
+        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
     },
     {
       "added_at": "2026-04-03 09:14:10",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-04-03 09:14:10",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA"
-    },
-    {
-      "added_at": "2026-04-03 09:14:10",
-      "album": {
         "name": "If I have you only (My love X Nerd Connection)",
         "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 250573,
       "name": "If I have you only (My love X Nerd Connection)",
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
+    },
+    {
+      "added_at": "2026-04-03 09:14:10",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA"
     },
     {
       "added_at": "2026-04-03 09:14:10",
@@ -563,8 +563,8 @@
     {
       "added_at": "2026-04-03 09:14:10",
       "album": {
-        "name": "The Book of Us : The Demon",
-        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
       },
       "artists": [
         {
@@ -572,25 +572,9 @@
           "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 209259,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
-    },
-    {
-      "added_at": "2026-04-03 09:14:10",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
+      "duration_ms": 217067,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
     },
     {
       "added_at": "2026-04-03 09:14:10",
@@ -607,6 +591,22 @@
       "duration_ms": 158680,
       "name": "To Reach You",
       "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
+    },
+    {
+      "added_at": "2026-04-03 09:14:10",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
     },
     {
       "added_at": "2026-04-03 09:14:10",
@@ -643,8 +643,8 @@
     {
       "added_at": "2026-04-03 09:14:10",
       "album": {
-        "name": "Fourever",
-        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+        "name": "The Book of Us : The Demon",
+        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 217067,
-      "name": "Welcome to the Show",
-      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
+      "duration_ms": 209259,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
       "added_at": "2026-04-03 09:14:10",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-04-03 09:14:10",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7A7x6ZBCK0FaFVN67XEqTJ"
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
       },
       "artists": [
         {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb"
+      "duration_ms": 201533,
+      "name": "when the rain stops",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
     },
     {
       "added_at": "2026-04-03 09:14:10",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-04-03 09:14:10",
       "album": {
-        "name": "when the rain stopped following me",
-        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "when the rain stops",
-      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
-    },
-    {
-      "added_at": "2026-04-03 09:14:10",
-      "album": {
         "name": "ASTERUM : 134-1",
         "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 219453,
       "name": "WAY 4 LUV",
       "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
+    },
+    {
+      "added_at": "2026-04-03 09:14:10",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7A7x6ZBCK0FaFVN67XEqTJ"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb"
     },
     {
       "added_at": "2026-04-03 09:14:10",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-04-03 09:14:10",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq"
-    },
-    {
-      "added_at": "2026-04-03 09:14:10",
-      "album": {
         "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
         "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
+    },
+    {
+      "added_at": "2026-04-03 09:14:10",
+      "album": {
+        "name": "DEAR.",
+        "url": "https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Flowering",
+      "url": "https://open.spotify.com/track/0qhreE12TQ0x669kJDfL3V"
     },
     {
       "added_at": "2026-04-03 09:14:10",

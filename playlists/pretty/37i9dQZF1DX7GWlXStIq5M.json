@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Day Limns",
-  "num_followers": 362960,
+  "num_followers": 362938,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-04-03 03:00:40",
       "album": {
-        "name": "Sexta-feira",
-        "url": "https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL"
-      },
-      "artists": [
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        }
-      ],
-      "duration_ms": 164885,
-      "name": "Sexta-feira",
-      "url": "https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi"
-    },
-    {
-      "added_at": "2026-04-03 03:00:40",
-      "album": {
         "name": "Fim Do Mundo",
         "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 148571,
       "name": "Fim Do Mundo",
       "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
+    },
+    {
+      "added_at": "2026-04-03 03:00:40",
+      "album": {
+        "name": "Sexta-feira",
+        "url": "https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "duration_ms": 164885,
+      "name": "Sexta-feira",
+      "url": "https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi"
     },
     {
       "added_at": "2026-04-03 03:00:40",
@@ -351,6 +351,46 @@
       "duration_ms": 170234,
       "name": "Balelo",
       "url": "https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK"
+    },
+    {
+      "added_at": "2026-04-03 03:00:40",
+      "album": {
+        "name": "Habilidosamente",
+        "url": "https://open.spotify.com/album/2BLsvryvNSZk9Tn6oZK8p4"
+      },
+      "artists": [
+        {
+          "name": "Gabi Melim",
+          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Habilidosamente",
+      "url": "https://open.spotify.com/track/1gbls4hHLP5Fx6P5fEgcWr"
+    },
+    {
+      "added_at": "2026-04-03 03:00:40",
+      "album": {
+        "name": "Pedacin de Mim",
+        "url": "https://open.spotify.com/album/2eGN7en1PVMGZ9j0JUWCCp"
+      },
+      "artists": [
+        {
+          "name": "Ananda Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
+        },
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 161764,
+      "name": "Pedacin de Mim",
+      "url": "https://open.spotify.com/track/3a4c19yPZKQaSShh6KiwYG"
     },
     {
       "added_at": "2026-04-03 03:00:40",
@@ -431,26 +471,6 @@
     {
       "added_at": "2026-04-03 03:00:40",
       "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
-      },
-      "artists": [
-        {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
-    },
-    {
-      "added_at": "2026-04-03 03:00:40",
-      "album": {
         "name": "Solst\u00edcio",
         "url": "https://open.spotify.com/album/2WHyCLLfvbNYVO4sqmdzsn"
       },
@@ -467,6 +487,26 @@
       "duration_ms": 146086,
       "name": "FAL",
       "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
+    },
+    {
+      "added_at": "2026-04-03 03:00:40",
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
+      },
+      "artists": [
+        {
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
     },
     {
       "added_at": "2026-04-03 03:00:40",
@@ -507,46 +547,6 @@
       "duration_ms": 195094,
       "name": "N\u00f3s Dois - Ao Vivo Na Casa da Colina",
       "url": "https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU"
-    },
-    {
-      "added_at": "2026-04-03 03:00:40",
-      "album": {
-        "name": "Habilidosamente",
-        "url": "https://open.spotify.com/album/2BLsvryvNSZk9Tn6oZK8p4"
-      },
-      "artists": [
-        {
-          "name": "Gabi Melim",
-          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Habilidosamente",
-      "url": "https://open.spotify.com/track/1gbls4hHLP5Fx6P5fEgcWr"
-    },
-    {
-      "added_at": "2026-04-03 03:00:40",
-      "album": {
-        "name": "Pedacin de Mim",
-        "url": "https://open.spotify.com/album/2eGN7en1PVMGZ9j0JUWCCp"
-      },
-      "artists": [
-        {
-          "name": "Ananda Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
-        },
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 161764,
-      "name": "Pedacin de Mim",
-      "url": "https://open.spotify.com/track/3a4c19yPZKQaSShh6KiwYG"
     },
     {
       "added_at": "2026-04-03 03:00:40",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-04-03 03:00:40",
       "album": {
+        "name": "Curvas",
+        "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "Curvas",
+      "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
+    },
+    {
+      "added_at": "2026-04-03 03:00:40",
+      "album": {
         "name": "TANTAS FORMAS DE DIZER ADEUS",
         "url": "https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 160741,
       "name": "Coincidentemente (Tirando Certas Coisas)",
       "url": "https://open.spotify.com/track/6jRuKl48CmDvAKh7fBSI6z"
-    },
-    {
-      "added_at": "2026-04-03 03:00:40",
-      "album": {
-        "name": "MUCHO SEXY - ASTRO SESSIONS",
-        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        }
-      ],
-      "duration_ms": 144427,
-      "name": "ATITUDE",
-      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
     },
     {
       "added_at": "2026-04-03 03:00:40",
@@ -799,6 +799,22 @@
       "duration_ms": 186461,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
+    },
+    {
+      "added_at": "2026-04-03 03:00:40",
+      "album": {
+        "name": "MUCHO SEXY - ASTRO SESSIONS",
+        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        }
+      ],
+      "duration_ms": 144427,
+      "name": "ATITUDE",
+      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
     },
     {
       "added_at": "2026-04-03 03:00:40",
@@ -879,18 +895,50 @@
     {
       "added_at": "2026-04-03 03:00:40",
       "album": {
-        "name": "Curvas",
-        "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
+        "name": "Quero Sim, Quero N\u00e3o",
+        "url": "https://open.spotify.com/album/2um01h8pO8SjvJA6EbaTWs"
       },
       "artists": [
         {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+          "name": "Laura Schadeck",
+          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 157186,
-      "name": "Curvas",
-      "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
+      "duration_ms": 138282,
+      "name": "Quero Sim, Quero N\u00e3o",
+      "url": "https://open.spotify.com/track/0P5454OX0xDqbkOw4t4NnB"
+    },
+    {
+      "added_at": "2026-04-03 03:00:40",
+      "album": {
+        "name": "Baile do Djavan",
+        "url": "https://open.spotify.com/album/0BzMA7k4ObqhbBqLPH4Ovx"
+      },
+      "artists": [
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Felipe Phyre",
+          "url": "https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc"
+        }
+      ],
+      "duration_ms": 173537,
+      "name": "Baile do Djavan",
+      "url": "https://open.spotify.com/track/5uD5LNjOASmoTOVK7CR4j6"
     },
     {
       "added_at": "2026-04-03 03:00:40",
@@ -947,54 +995,6 @@
       "duration_ms": 187636,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
-    },
-    {
-      "added_at": "2026-04-03 03:00:40",
-      "album": {
-        "name": "Quero Sim, Quero N\u00e3o",
-        "url": "https://open.spotify.com/album/2um01h8pO8SjvJA6EbaTWs"
-      },
-      "artists": [
-        {
-          "name": "Laura Schadeck",
-          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 138282,
-      "name": "Quero Sim, Quero N\u00e3o",
-      "url": "https://open.spotify.com/track/0P5454OX0xDqbkOw4t4NnB"
-    },
-    {
-      "added_at": "2026-04-03 03:00:40",
-      "album": {
-        "name": "Baile do Djavan",
-        "url": "https://open.spotify.com/album/0BzMA7k4ObqhbBqLPH4Ovx"
-      },
-      "artists": [
-        {
-          "name": "Tapsounds",
-          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
-        },
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Felipe Phyre",
-          "url": "https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc"
-        }
-      ],
-      "duration_ms": 173537,
-      "name": "Baile do Djavan",
-      "url": "https://open.spotify.com/track/5uD5LNjOASmoTOVK7CR4j6"
     },
     {
       "added_at": "2026-04-03 03:00:40",

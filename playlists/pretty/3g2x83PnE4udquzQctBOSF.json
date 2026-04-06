@@ -1,13 +1,141 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2724,
+  "num_followers": 2726,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAAR9Z20hiTTUd/kNTYUjet09gpjmvmk",
+  "snapshot_id": "AAAR/Yz/Tmae3Yicua7ltOcaLZJL7jCo",
   "tracks": [
+    {
+      "added_at": "2026-04-05 20:01:44",
+      "album": {
+        "name": "Running Free (Original Mix)",
+        "url": "https://open.spotify.com/album/2aBo8ygGHhvuSZMHZwhb00"
+      },
+      "artists": [
+        {
+          "name": "Bartolomeo Di Chiara",
+          "url": "https://open.spotify.com/artist/79HWXwdfrEFu327dotcqph"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Running Free - Original Mix",
+      "url": "https://open.spotify.com/track/30eWAzqHvSY0ErAZMX0Z1k"
+    },
+    {
+      "added_at": "2026-04-05 18:43:49",
+      "album": {
+        "name": "Afterlife (Original Mix)",
+        "url": "https://open.spotify.com/album/0jwgN7ICfDjn2KD2MCndMK"
+      },
+      "artists": [
+        {
+          "name": "Bartolomeo Di Chiara",
+          "url": "https://open.spotify.com/artist/79HWXwdfrEFu327dotcqph"
+        }
+      ],
+      "duration_ms": 243902,
+      "name": "Afterlife - Original Mix",
+      "url": "https://open.spotify.com/track/7pc3t5Yr2VLcsdRGFLvqES"
+    },
+    {
+      "added_at": "2026-04-05 16:16:34",
+      "album": {
+        "name": "Violet Haze",
+        "url": "https://open.spotify.com/album/5QeC35zIO2gVhc5RMkwLVb"
+      },
+      "artists": [
+        {
+          "name": "BlastersBoyz",
+          "url": "https://open.spotify.com/artist/6AnsJGWGOniDT7ZlG4I0Mg"
+        }
+      ],
+      "duration_ms": 233170,
+      "name": "Violet Haze",
+      "url": "https://open.spotify.com/track/6uQR0AMDURUGYf98PiWyOC"
+    },
+    {
+      "added_at": "2026-04-05 10:33:06",
+      "album": {
+        "name": "Witch hunter",
+        "url": "https://open.spotify.com/album/6VA3TDy7ztR7L8QYqyOCNT"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Witch hunter",
+      "url": "https://open.spotify.com/track/45emzk7r12P23egrFgiqnu"
+    },
+    {
+      "added_at": "2026-04-05 09:55:10",
+      "album": {
+        "name": "Sideris",
+        "url": "https://open.spotify.com/album/1RNOZi89Mlj80qyGDRnYee"
+      },
+      "artists": [
+        {
+          "name": "Mattia Voyage",
+          "url": "https://open.spotify.com/artist/5xixKPIuZRHp3zoAtSKk1e"
+        }
+      ],
+      "duration_ms": 277734,
+      "name": "Sideris",
+      "url": "https://open.spotify.com/track/0q0PJES1A8YHJb5L34SbQ6"
+    },
+    {
+      "added_at": "2026-04-05 08:34:43",
+      "album": {
+        "name": "Symphonic house",
+        "url": "https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 296718,
+      "name": "Tras la esquina",
+      "url": "https://open.spotify.com/track/6d2BDFExjOZeGHxj9fDo0T"
+    },
+    {
+      "added_at": "2026-04-05 07:43:16",
+      "album": {
+        "name": "Symphonic house",
+        "url": "https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 213039,
+      "name": "Testigo en la Puerta",
+      "url": "https://open.spotify.com/track/45NJn342yRVKZcP4cEcsoY"
+    },
+    {
+      "added_at": "2026-04-05 06:43:02",
+      "album": {
+        "name": "Symphonic house",
+        "url": "https://open.spotify.com/album/3jr52nMEY2rcECDUMHPPjQ"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 256190,
+      "name": "Puertas Abiertas",
+      "url": "https://open.spotify.com/track/2RlIkS5PRiRky3Fxnduk39"
+    },
     {
       "added_at": "2026-04-04 12:56:30",
       "album": {

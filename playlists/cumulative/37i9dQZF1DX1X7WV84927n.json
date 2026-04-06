@@ -6995,6 +6995,24 @@
     },
     {
       "album": {
+        "name": "Eat My Heart / Prescription For Love",
+        "url": "https://open.spotify.com/album/6RtzWgKAp929BEfxZjvN6z"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158223,
+      "name": "Eat My Heart",
+      "url": "https://open.spotify.com/track/2hbbibYzVxvLn4RJmxRwLI"
+    },
+    {
+      "album": {
         "name": "How Much a Heart Can Take Before It Breaks",
         "url": "https://open.spotify.com/album/47i2T4XU4iyXiEQHEUhbg7"
       },
@@ -10600,7 +10618,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 202800,
       "name": "Heart Said No",
       "url": "https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE"
@@ -25517,6 +25535,24 @@
     },
     {
       "album": {
+        "name": "Threshold",
+        "url": "https://open.spotify.com/album/14hjKmYh6kuEjDkRExxMxr"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220281,
+      "name": "Threshold",
+      "url": "https://open.spotify.com/track/0Int4vFHqWcxrAIZ2vuciC"
+    },
+    {
+      "album": {
         "name": "Through Hell",
         "url": "https://open.spotify.com/album/5GMwgsblxQdlA9tHT0x6WS"
       },
@@ -28068,7 +28104,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 337384,
       "name": "When Love Dies",
       "url": "https://open.spotify.com/track/2j7LUJ2eeRxSC2PEVMaVTs"

@@ -3362,6 +3362,24 @@
     {
       "album": {
         "name": "The Color Of You",
+        "url": "https://open.spotify.com/album/1UeM56mMsB5OD68dTFiz56"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212291,
+      "name": "Tainted",
+      "url": "https://open.spotify.com/track/1VRGNUFMrLcfniz2q3Q1lw"
+    },
+    {
+      "album": {
+        "name": "The Color Of You",
         "url": "https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs"
       },
       "artists": [
@@ -3390,7 +3408,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 212291,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/5nQAWjvARaGiEiqNrvVLZj"

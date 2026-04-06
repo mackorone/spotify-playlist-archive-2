@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: D'Angello & Francis
 
-684 songs - 1 day 10 hr 39 min
+685 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Losing My Mind](https://open.spotify.com/track/6DJc0UvXBsVJpvK3XwQgQq) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7), [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Losing My Mind](https://open.spotify.com/album/0R6E19xuHfcWBuUX5VC5rg) | 2:58 | 2025-06-16 | 2025-06-21 |
 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 | 2024-02-15 | 2024-10-15 |
 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 | 2023-05-25 | 2024-09-20 |
+| [Love Feels Like You](https://open.spotify.com/track/0G3oPhw5CDuITXUjCLdCSi) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Love Feels Like You](https://open.spotify.com/album/34iQr6ezHu7nDYt8ak7mqE) | 2:42 | 2026-04-02 |  |
 | [Love Takes Over](https://open.spotify.com/track/4cGhsEZuHW25c7njXpSx2v) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Love Takes Over](https://open.spotify.com/album/794yfQdOCAI93WHwTkVEro) | 2:57 | 2024-06-27 | 2024-10-22 |
 | [Lowrider](https://open.spotify.com/track/4QmrKRhtR8r16U0rDEVCvr) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Lowrider](https://open.spotify.com/album/26R1i4mklMHdNGF83QxaP0) | 2:31 | 2022-07-28 | 2023-08-30 |
 | [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 | 2025-09-10 |  |
@@ -432,7 +433,7 @@
 | [Ong Diggi Dong](https://open.spotify.com/track/6NOJdVdJPdN86Tc27LdJrz) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Ong Diggi Dong](https://open.spotify.com/album/6LaOFBp5ty4TkzAhu9FNAz) | 3:03 | 2023-10-30 | 2023-11-21 |
 | [Open Sesame \(Abracadabra\) \[feat\. Leila K\]](https://open.spotify.com/track/4ygydEkcYBt05oS9sHxZ8h) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Open Sesame \(Abracadabra\) \[feat\. Leila K\]](https://open.spotify.com/album/1tx6xMbBZE2CbstHPHVWo5) | 3:39 | 2024-02-01 | 2025-03-07 |
 | [Open Your Eyes](https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Open Your Eyes](https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK) | 3:05 | 2024-07-19 | 2025-07-04 |
-| [Our Flight](https://open.spotify.com/track/1x1dUnaqOX7YpObPy1O8Lz) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Our Flight](https://open.spotify.com/album/3P3BU0w3PgyGIw3MgFbrNE) | 2:47 | 2025-08-14 |  |
+| [Our Flight](https://open.spotify.com/track/1x1dUnaqOX7YpObPy1O8Lz) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Our Flight](https://open.spotify.com/album/3P3BU0w3PgyGIw3MgFbrNE) | 2:47 | 2025-08-14 | 2026-04-06 |
 | [Our Happiness](https://open.spotify.com/track/1cz2AfXziuBivVSLmThU6g) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Our Happiness](https://open.spotify.com/album/6HJRgQY8cQ9vuffzbWcnZq) | 3:31 | 2023-08-24 | 2023-09-08 |
 | [Our House](https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Our House](https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs) | 3:12 | 2024-08-29 | 2025-08-08 |
 | [Out Of My Mind](https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Out Of My Mind](https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU) | 2:29 | 2025-03-06 | 2025-06-21 |

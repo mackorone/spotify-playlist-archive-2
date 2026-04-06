@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Coasts of Calm",
+        "url": "https://open.spotify.com/album/1DoGpHFBKnZTVEu5Rg0Qho"
+      },
+      "artists": [
+        {
+          "name": "Nebelune",
+          "url": "https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "Coasts of Calm",
+      "url": "https://open.spotify.com/track/2rwx2LS9a9oZlwYEIBEbbw"
+    },
+    {
+      "album": {
         "name": "Comforting Ocean Waves",
         "url": "https://open.spotify.com/album/6Pb30ZB9zy8J8eIMbDitsq"
       },
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 131976,
       "name": "Ebb and Flow of the Ocean's Waves",
       "url": "https://open.spotify.com/track/1eobb7qGQjjEg97j8UxTfh"
@@ -1082,6 +1100,24 @@
       "duration_ms": 121087,
       "name": "Ebb and Flow of the Tidal Waves",
       "url": "https://open.spotify.com/track/3X4tQh9ck7HeTuyUY2AEXF"
+    },
+    {
+      "album": {
+        "name": "Endless Healing Waves",
+        "url": "https://open.spotify.com/album/0tsZR7CHT4WCyTVyVgpogh"
+      },
+      "artists": [
+        {
+          "name": "Scallope",
+          "url": "https://open.spotify.com/artist/6qjzKyd1b3rjZVf0ol9Alc"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158630,
+      "name": "Endless Healing Waves",
+      "url": "https://open.spotify.com/track/7CBoa5w1UD3Ox4bbrOn6aX"
     },
     {
       "album": {
@@ -2068,7 +2104,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 184515,
       "name": "Ocean's Edge",
       "url": "https://open.spotify.com/track/6yKUBOnuauGMHGLNMCTJ47"
@@ -2162,6 +2198,24 @@
       "duration_ms": 244000,
       "name": "Oceanside Waves",
       "url": "https://open.spotify.com/track/1lvD3gzMjX7yHL8qfRHRch"
+    },
+    {
+      "album": {
+        "name": "Off The Shore",
+        "url": "https://open.spotify.com/album/1QFjSRJjP3qKrV7TOcIxVK"
+      },
+      "artists": [
+        {
+          "name": "Nebelune",
+          "url": "https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Off The Shore",
+      "url": "https://open.spotify.com/track/3xJ5En6Cmy5g6FMe9FQCbL"
     },
     {
       "album": {
@@ -2410,7 +2464,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 235358,
       "name": "Peaceful Ocean Swell",
       "url": "https://open.spotify.com/track/5CEjQkKaqViM0jPnG8DJZW"
@@ -2896,7 +2950,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 342938,
       "name": "Shoreline Sound",
       "url": "https://open.spotify.com/track/1K8VTg78Jo4BWAC1FAiGZz"
@@ -3832,7 +3886,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 160000,
       "name": "Watching Heavy Ocean Waves",
       "url": "https://open.spotify.com/track/0eyBqBpSrc7XNnQfW8pvCk"

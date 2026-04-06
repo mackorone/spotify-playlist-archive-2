@@ -2854,6 +2854,24 @@
     {
       "album": {
         "name": "It Was Divine",
+        "url": "https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134569,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/3eZjaNysJXCIgSLyK6t3KG"
+    },
+    {
+      "album": {
+        "name": "It Was Divine",
         "url": "https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6"
       },
       "artists": [
@@ -2882,7 +2900,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 134569,
       "name": "The Beginning",
       "url": "https://open.spotify.com/track/5BK6zXTrbgPKkBGv5rGOy7"

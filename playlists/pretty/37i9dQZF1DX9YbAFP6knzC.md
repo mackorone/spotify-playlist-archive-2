@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YbAFP6knzC.md) - [plain]
 
 > Get ready for the new documentary movie '<a href="https://cgv.co.kr/mShrtU/Cg2oX"> Stray Kids : The dominATE Experience</a>' with the setlist! \(셋리스트를 들으며 스트레이 키즈의 새로운 다큐멘터리 영화 'Stray Kids : The dominATE Experience' 를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,724 likes - 29 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,045 likes - 29 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 157509,
+  "num_followers": 157531,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ac8DAAAAAAC/5wOU0lvLkF6Xnq1XyjZl",
+  "snapshot_id": "adBUgAAAAAClRxPi+8jKFNHpmDNjtOLs",
   "tracks": [
     {
       "added_at": null,
@@ -196,7 +196,7 @@
       "added_at": null,
       "album": {
         "name": "Do You Still Love Me?",
-        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+        "url": "https://open.spotify.com/album/2yiyfnLwYMjmWd5YaSiLay"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 214933,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/3QFxAtV6IQGbsvkJbvGvSc"
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/3u07aCTSie9xd3hYy0l4Gj"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 220992,
-      "name": "Somebody\u2019s Son",
-      "url": "https://open.spotify.com/track/678lV7wa2AgviB6saK3NJC"
+      "duration_ms": 214933,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/3QFxAtV6IQGbsvkJbvGvSc"
     },
     {
       "added_at": null,
@@ -332,7 +332,7 @@
       "added_at": null,
       "album": {
         "name": "Do You Still Love Me?",
-        "url": "https://open.spotify.com/album/2yiyfnLwYMjmWd5YaSiLay"
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/3u07aCTSie9xd3hYy0l4Gj"
+      "duration_ms": 220992,
+      "name": "Somebody\u2019s Son",
+      "url": "https://open.spotify.com/track/678lV7wa2AgviB6saK3NJC"
     },
     {
       "added_at": null,

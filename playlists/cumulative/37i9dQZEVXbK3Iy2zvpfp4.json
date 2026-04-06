@@ -3037,6 +3037,32 @@
     },
     {
       "album": {
+        "name": "Ai \u0111\u01b0a em v\u1ec1 (Cukak Remix)",
+        "url": "https://open.spotify.com/album/0CHRraIMdopx3Lys6NztQ5"
+      },
+      "artists": [
+        {
+          "name": "TIA",
+          "url": "https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt"
+        },
+        {
+          "name": "L\u00ea Thi\u1ec7n Hi\u1ebfu",
+          "url": "https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab"
+        },
+        {
+          "name": "Cukak",
+          "url": "https://open.spotify.com/artist/3swW6OR2g7qTY3626sqVW4"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230211,
+      "name": "Ai \u0111\u01b0a em v\u1ec1 (Cukak Remix)",
+      "url": "https://open.spotify.com/track/2YxMOZsk7PnIwLW6UI5Poo"
+    },
+    {
+      "album": {
         "name": "Don't Tread On Me",
         "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
       },
@@ -23390,7 +23416,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -27010,7 +27036,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
@@ -33536,6 +33562,24 @@
       "duration_ms": 189227,
       "name": "Ice",
       "url": "https://open.spotify.com/track/1cwmYGgvAKvaAn0bZn6lVl"
+    },
+    {
+      "album": {
+        "name": "UNIQUE",
+        "url": "https://open.spotify.com/album/71EVZx82GopCyTNRZVkZSk"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "ICE (VVS)",
+      "url": "https://open.spotify.com/track/2JlcOQd7jHhmJvOrPbIhbY"
     },
     {
       "album": {
@@ -50778,7 +50822,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
@@ -59826,7 +59870,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -61798,7 +61842,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -61816,7 +61860,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -72220,7 +72264,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 134918,
       "name": "The Ketchup Song (Aserej\u00e9) - Techno Mix",
       "url": "https://open.spotify.com/track/4X4HhhDKp3iLIRLwBorhZd"
@@ -73804,7 +73848,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 233149,
       "name": "Top Di\u00e9sel",
       "url": "https://open.spotify.com/track/5RfTPL4bd1GgzqxtEgt2NW"
@@ -80446,10 +80490,28 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-06",
       "duration_ms": 199738,
       "name": "When I Stand",
       "url": "https://open.spotify.com/track/1yXkHQ50wrNzslcUeVrnga"
+    },
+    {
+      "album": {
+        "name": "When I Stand",
+        "url": "https://open.spotify.com/album/3vdq9Dkdexc0Jk1TESguJF"
+      },
+      "artists": [
+        {
+          "name": "Owen James",
+          "url": "https://open.spotify.com/artist/6kqeHxe4IG1RCR15nMT34L"
+        }
+      ],
+      "date_added": "2026-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199738,
+      "name": "When I Stand",
+      "url": "https://open.spotify.com/track/7zaMzteK8ExKLUvJaUpX9w"
     },
     {
       "album": {
