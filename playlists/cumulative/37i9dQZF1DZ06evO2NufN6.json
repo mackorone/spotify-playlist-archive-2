@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Best Day Ever",
+        "url": "https://open.spotify.com/album/2OxW8MjnnNSAvFoG7igg7M"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164522,
+      "name": "Donald Trump",
+      "url": "https://open.spotify.com/track/7bgEdC6evKWmOwWpEGoAOw"
+    },
+    {
+      "album": {
         "name": "GO:OD AM (10th Anniversary)",
         "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
       },
@@ -876,10 +894,28 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 197929,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/4GbazUiaLPKj2VmCVykw53"
+    },
+    {
+      "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/70Zkfb99ladZ3q0JVg97co"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197929,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/6AjXmTomWUWZ6Za0X6ypjl"
     },
     {
       "album": {
@@ -912,7 +948,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 157540,
       "name": "Kool Aid & Frozen Pizza",
       "url": "https://open.spotify.com/track/3932AyOIsoMQwKjFqaSg4R"
@@ -938,6 +974,24 @@
     {
       "album": {
         "name": "Live From Space",
+        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195453,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
+    },
+    {
+      "album": {
+        "name": "Live From Space",
         "url": "https://open.spotify.com/album/4PIsExpUeEzF6qJcKc95Yb"
       },
       "artists": [
@@ -948,7 +1002,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 195453,
       "name": "Life",
       "url": "https://open.spotify.com/track/3QCO2C8SougLIlfSGqvnHD"
@@ -1952,6 +2006,24 @@
     {
       "album": {
         "name": "Macadelic",
+        "url": "https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185779,
+      "name": "Thoughts from a Balcony",
+      "url": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
+    },
+    {
+      "album": {
+        "name": "Macadelic",
         "url": "https://open.spotify.com/album/6IaJIG1vHwTmbRxxENETey"
       },
       "artists": [
@@ -1962,7 +2034,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 185779,
       "name": "Thoughts from a Balcony",
       "url": "https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL"

@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-424 songs - 1 day 0 hr 22 min
+425 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Betting on Us](https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Betting on Us](https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs) | 2:35 | 2024-03-15 | 2024-08-24 |
 | [Bird on a Wire](https://open.spotify.com/track/3g0pbhTq5pyQmMPMUTWBtO) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Bird on a Wire](https://open.spotify.com/album/0UcKdze8ZNnCQllfrIHcbG) | 4:28 | 2024-11-22 | 2025-09-06 |
 | [Birdwatcher](https://open.spotify.com/track/2poBY9AIHsO7O6MjY4350M) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Birdwatcher](https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ) | 3:12 | 2024-03-22 | 2024-04-27 |
-| [BLESSINGS](https://open.spotify.com/track/2w8h4UxNixZ48O5eYqXJ7w) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLESSINGS](https://open.spotify.com/album/0nL0w3df3IsbhIXYEcTXDQ) | 3:28 | 2025-09-19 |  |
+| [BLESSINGS](https://open.spotify.com/track/2w8h4UxNixZ48O5eYqXJ7w) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLESSINGS](https://open.spotify.com/album/0nL0w3df3IsbhIXYEcTXDQ) | 3:28 | 2025-09-19 | 2026-04-07 |
 | [Blisters](https://open.spotify.com/track/1A7PqR5g8ohmDNiv9lW3Ca) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Blisters](https://open.spotify.com/album/5vzXPWpstjR61UTpczsUeu) | 3:43 | 2025-05-30 | 2026-02-14 |
 | [Bloom \- unplugged edit](https://open.spotify.com/track/2JX1fKlM4I4hJseDCg0wN9) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom \(re\-imagined\)](https://open.spotify.com/album/2LfRcEIXXWYAfy2Qn50FRH) | 2:56 | 2026-02-13 |  |
 | [Blue](https://open.spotify.com/track/4Vudlr60FXFP47yNlLzixA) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Blue](https://open.spotify.com/album/3LyaOh01KBQsQ0dSBJhIYz) | 3:11 | 2025-11-28 |  |
@@ -394,6 +394,7 @@
 | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/track/26TUtftIahxUIEfQwmVR6I) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/album/18oAslPfCIwuEWqY4qpu7a) | 3:39 | 2025-08-22 | 2026-03-07 |
 | [Turtle Bay](https://open.spotify.com/track/2Em2vTzCvIiUHUw9bBvaJz) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F) | [Glasswing](https://open.spotify.com/album/6xECBiJtiqSl8Sww18198u) | 4:47 | 2024-09-13 | 2025-03-08 |
 | [Two Souls](https://open.spotify.com/track/3Et8QCOvq9uANuk92x3MEw) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Two Souls](https://open.spotify.com/album/7MNeYlsgiVUrQIdLi2fK63) | 3:44 | 2025-10-03 |  |
+| [Under A Landslide Of Stars](https://open.spotify.com/track/5er5M2cRWRL6tcViWXl5XU) | [MALINOWSKI](https://open.spotify.com/artist/4gOqTwaujC2EVN0SIWARum), [Jay Malinowski](https://open.spotify.com/artist/3CpoBeJwpqZN0qjqVQrXQm) | [Under A Landslide Of Stars](https://open.spotify.com/album/5ukkFn00aRYizUPdNaHj8W) | 3:18 | 2026-04-06 |  |
 | [Undercover Cops \(with Lennon Stella\)](https://open.spotify.com/track/4wFVVLsVZA8IUJqdloM8wo) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Undercover Cops \(with Lennon Stella\)](https://open.spotify.com/album/3zxmY5QVkfZoccn8uXbWM6) | 3:37 | 2025-02-21 | 2025-10-25 |
 | [University](https://open.spotify.com/track/5CYb5EE7t8b4di9YX1Mkv9) | [colby!](https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl) | [University](https://open.spotify.com/album/5Z3ju7RTU1fUz9BuCIOFCJ) | 3:45 | 2025-08-22 | 2026-02-14 |
 | [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 | 2023-12-08 | 2024-08-03 |

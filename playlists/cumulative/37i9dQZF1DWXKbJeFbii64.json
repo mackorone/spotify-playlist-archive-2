@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 170070,
       "name": "Stormy Harbor In The Evening",
       "url": "https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU"
@@ -2880,6 +2880,24 @@
       "duration_ms": 140000,
       "name": "Thunder Around The Clock",
       "url": "https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48"
+    },
+    {
+      "album": {
+        "name": "Thunder Behind Clouds",
+        "url": "https://open.spotify.com/album/5olUVSHTLrCYCCU503DF2g"
+      },
+      "artists": [
+        {
+          "name": "Melatonement",
+          "url": "https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN"
+        }
+      ],
+      "date_added": "2026-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Thunder Behind Clouds",
+      "url": "https://open.spotify.com/track/4NLJH7fvTbkcxGEu8a4d9G"
     },
     {
       "album": {

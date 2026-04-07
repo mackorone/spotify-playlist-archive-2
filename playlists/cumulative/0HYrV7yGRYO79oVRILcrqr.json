@@ -6853,6 +6853,24 @@
     },
     {
       "album": {
+        "name": "When The Empire Falls",
+        "url": "https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Dogs",
+          "url": "https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177235,
+      "name": "Twisted Heart",
+      "url": "https://open.spotify.com/track/6tXyqROApirTypxgRWI0OL"
+    },
+    {
+      "album": {
         "name": "T\u00eate \u00e0 l'envers",
         "url": "https://open.spotify.com/album/6ISo571ltmZ2flJiyAYkcn"
       },
@@ -7590,6 +7608,42 @@
       "duration_ms": 209439,
       "name": "You\u2019re never been my mistake",
       "url": "https://open.spotify.com/track/1cjyeqZEhUC8u4pwoe9MIS"
+    },
+    {
+      "album": {
+        "name": "\u00c9tat des lieux",
+        "url": "https://open.spotify.com/album/0n7aScRjf9Mja14dpTQBM4"
+      },
+      "artists": [
+        {
+          "name": "JESS ROGUE",
+          "url": "https://open.spotify.com/artist/0OEZOb0EuhFa48QMKCvwYD"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214396,
+      "name": "\u00c9tat des lieux",
+      "url": "https://open.spotify.com/track/1GQAQBdQoRuOtkFpdQwE7f"
+    },
+    {
+      "album": {
+        "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/0Yc22TF8FZ8r8IqtG98LRM"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0430\u0448\u0430 \u042f\u0431\u043b\u043e\u043a\u043e\u0432\u0430",
+          "url": "https://open.spotify.com/artist/4sB4FO6pJwDMBwRJC8ntrq"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233817,
+      "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/5WvI8UliUjXmDLudsTwxlN"
     },
     {
       "album": {

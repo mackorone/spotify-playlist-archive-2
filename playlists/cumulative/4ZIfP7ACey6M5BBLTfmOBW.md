@@ -4,7 +4,7 @@
 
 > All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-921 songs - 1 day 18 hr 48 min
+924 songs - 1 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2024-10-04 | 2024-10-14 |
 | [Head Taps](https://open.spotify.com/track/20Wrmjpfo3CWld3mOhVzhA) | [Lil Unky](https://open.spotify.com/artist/2Qh7p29PSIvbZ7PUbpNY64), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Head Taps](https://open.spotify.com/album/3zJpGdQIUNsZUx3I5XLpnR) | 2:33 | 2025-02-14 | 2025-03-22 |
 | [Headphone Music](https://open.spotify.com/track/5RVR0FFwRzJTL4mRCjWZgE) | [Jripey](https://open.spotify.com/artist/3RNnsIXVaZS7dBwe91vLlL) | [Headphone Music](https://open.spotify.com/album/1uqjoap6XW8FKZ69Bv0HMr) | 1:34 | 2025-07-11 | 2025-08-16 |
+| [HEAR DAT STYL](https://open.spotify.com/track/1BtH6sE4Q5HFWwQl9FJ0QH) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [HEAR DAT STYL](https://open.spotify.com/album/2620Z94qXgeOqSH0x6nDvV) | 3:03 | 2026-04-06 |  |
 | [Heart Don't Lie](https://open.spotify.com/track/1KfvQMgFLxTcZ79X0WzgZV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Heart Don't Lie](https://open.spotify.com/album/02i5nRQNXxaUgf61mtyHev) | 2:32 | 2024-11-22 | 2025-02-15 |
 | [Heartless](https://open.spotify.com/track/6x4E2ioViwskNjrHXDRXnG) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Heartless](https://open.spotify.com/album/4bEzTeR20uexSvK0Trd9gP) | 1:48 | 2026-01-16 |  |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-10-04 | 2024-10-14 |
@@ -606,7 +607,9 @@
 | [Normally \(feat\. NSG\)](https://open.spotify.com/track/3xo3GCZI9Vz1GVDeIKWJhR) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Normally \(feat\. NSG\)](https://open.spotify.com/album/5ED2pTvFshAEdAru6rbhhs) | 2:44 | 2024-05-24 | 2024-08-17 |
 | [Nostalgia \(feat\. Gray Hawken\)](https://open.spotify.com/track/2G07BuQr57cyd92Xu74VFS) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Gray Hawken](https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1) | [Nostalgia \(feat\. Gray Hawken\)](https://open.spotify.com/album/7Mj5Jdqk2l15XkJqloDpsS) | 2:09 | 2024-09-03 | 2024-11-16 |
 | [Not At All](https://open.spotify.com/track/2UzylWTW63Msb09xIjw2l7) | [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf), [Ralfy the Plug](https://open.spotify.com/artist/1yI0tX9OnfOx9siPj8KNOO) | [A Cold Day In Hell \(Deluxe\)](https://open.spotify.com/album/58UDaA8xew2eGgsK1RYw9h) | 2:54 | 2025-09-19 | 2025-09-27 |
+| [Not Friendly](https://open.spotify.com/track/5LUYSbvpy83r3WvV8n7MZy) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Not Friendly](https://open.spotify.com/album/0I52JJWvsh7IuKjb5xwjK5) | 3:01 | 2026-04-06 |  |
 | [Not In The Store](https://open.spotify.com/track/0Yucu5issPtc4Et5eHDBRS) | [Doodles](https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Not In The Store](https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ) | 3:09 | 2024-08-16 | 2024-10-19 |
+| [Nothin Like Me](https://open.spotify.com/track/0Lztp0wEBoch8sPiZxKUi9) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Nothin Like Me](https://open.spotify.com/album/7HHWvtqaJyUfIcnojnZb8v) | 2:12 | 2026-04-06 |  |
 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:01 | 2024-05-24 | 2024-07-20 |
 | [Now Ya Gang](https://open.spotify.com/track/42FI76iNyM4lQNEWsXPFu7) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Now Ya Gang](https://open.spotify.com/album/3wIN4Bls3Ki82nO9yGfNOw) | 2:32 | 2025-10-03 | 2026-01-17 |
 | [number](https://open.spotify.com/track/10irq5r9yRRPuh24Tmqn0S) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [number](https://open.spotify.com/album/0p5Mo4alMuPemivmZL5C2C) | 2:53 | 2024-12-06 | 2025-02-15 |

@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Nieuw: Nafas, Maycash, GP UIT G en meer…
+> Nieuw: Nafas, Ocho, GP UIT G en meer…
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,135 likes - 64 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,129 likes - 64 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amulet](https://open.spotify.com/track/7oRqmboo66Tk4VtelXw4tr) | [Nafas](https://open.spotify.com/artist/4w0GqjnTfkhnkDQp9uX1zq), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [Amulet](https://open.spotify.com/album/59urAZs5dhXtdeuW86Dn7F) | 3:07 |
 | 2 | [BANANEN KROM](https://open.spotify.com/track/01vra1aM91nhphOvzyPcOS) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p) | [DE HOOP VAN G](https://open.spotify.com/album/4Vul4kwjME4Dta9AldIVjG) | 1:59 |
 | 3 | [WIE](https://open.spotify.com/track/378CgprrTddADGEIOVYFrm) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [LE MASQUE](https://open.spotify.com/album/7iSBhomDNkbQ9r0bJAa2Jm) | 2:37 |
-| 4 | [Tongbijten](https://open.spotify.com/track/1m4g6jxqMASTt2pAQeFC7s) | [Ezzie](https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp) | [Tongbijten](https://open.spotify.com/album/2aj6aVv8V7XKHB2kBHfcTa) | 3:16 |
-| 5 | [Ruwe Diamanten](https://open.spotify.com/track/2PZGfm10TbgBD0FW12jNCJ) | [Dentalhon](https://open.spotify.com/artist/7aIdHQ8AGazYhQrF8dOe84) | [Ruwe Diamanten](https://open.spotify.com/album/77Dce2kwAXSLRUG77NPNN3) | 3:17 |
-| 6 | [Breda Noord X Lage Cypher \- Zonamo Cyphers](https://open.spotify.com/track/4QmySZwdQgIJP4zTAH5bmb) | [Zonamo\-Underground](https://open.spotify.com/artist/161uzPzZefQiZ2SSIl7zkb), [Seffelinie](https://open.spotify.com/artist/2rYxEnHjY4kAGMy2muATL0), [Kutkindd](https://open.spotify.com/artist/4uxOqHsEX9QVTkN31y7CxU), [massa dubbel s](https://open.spotify.com/artist/5GX0Pv4uxAhjIi3sX4oEOx) | [Breda Noord X Lage Cypher \- Zonamo Cyphers](https://open.spotify.com/album/2HNw4pDD7QBpDSBFHdBL3u) | 4:43 |
-| 7 | [Ijskoud](https://open.spotify.com/track/42ReUeVEv0KibJOO1vf1S1) | [Kaascouse](https://open.spotify.com/artist/2lHCUCmz4hcAnc9mQBYa6Z), [Brandon Romeo](https://open.spotify.com/artist/0xblAxgKzyglBZkuyLb3CO), [RNDLF](https://open.spotify.com/artist/6fQzCASFAniQmsZvuGQ1LA) | [Ijskoud](https://open.spotify.com/album/6zJHNn27muvAYo5IOUHcJq) | 2:39 |
-| 8 | [LATEN ME KOUD](https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5) | [Brokezart](https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou) | [LATEN ME KOUD](https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433) | 2:35 |
-| 9 | [Ondernemers & Crimi’s](https://open.spotify.com/track/0BWdQ98VlyOvs4J61b5c2z) | [Ocho](https://open.spotify.com/artist/6MfxNsmm1A8Sji4XLWCZ4G) | [Ondernemers & Crimi's](https://open.spotify.com/album/0vGMFxKnqgMFDTHOC813HZ) | 2:34 |
+| 4 | [Ondernemers & Crimi’s](https://open.spotify.com/track/0BWdQ98VlyOvs4J61b5c2z) | [Ocho](https://open.spotify.com/artist/6MfxNsmm1A8Sji4XLWCZ4G) | [Ondernemers & Crimi's](https://open.spotify.com/album/0vGMFxKnqgMFDTHOC813HZ) | 2:34 |
+| 5 | [Tongbijten](https://open.spotify.com/track/1m4g6jxqMASTt2pAQeFC7s) | [Ezzie](https://open.spotify.com/artist/1F1tIB0nMErCxlGRix1Tfp) | [Tongbijten](https://open.spotify.com/album/2aj6aVv8V7XKHB2kBHfcTa) | 3:16 |
+| 6 | [Ruwe Diamanten](https://open.spotify.com/track/2PZGfm10TbgBD0FW12jNCJ) | [Dentalhon](https://open.spotify.com/artist/7aIdHQ8AGazYhQrF8dOe84) | [Ruwe Diamanten](https://open.spotify.com/album/77Dce2kwAXSLRUG77NPNN3) | 3:17 |
+| 7 | [Breda Noord X Lage Cypher \- Zonamo Cyphers](https://open.spotify.com/track/4QmySZwdQgIJP4zTAH5bmb) | [Zonamo\-Underground](https://open.spotify.com/artist/161uzPzZefQiZ2SSIl7zkb), [Seffelinie](https://open.spotify.com/artist/2rYxEnHjY4kAGMy2muATL0), [Kutkindd](https://open.spotify.com/artist/4uxOqHsEX9QVTkN31y7CxU), [massa dubbel s](https://open.spotify.com/artist/5GX0Pv4uxAhjIi3sX4oEOx) | [Breda Noord X Lage Cypher \- Zonamo Cyphers](https://open.spotify.com/album/2HNw4pDD7QBpDSBFHdBL3u) | 4:43 |
+| 8 | [Ijskoud](https://open.spotify.com/track/42ReUeVEv0KibJOO1vf1S1) | [Kaascouse](https://open.spotify.com/artist/2lHCUCmz4hcAnc9mQBYa6Z), [Brandon Romeo](https://open.spotify.com/artist/0xblAxgKzyglBZkuyLb3CO), [RNDLF](https://open.spotify.com/artist/6fQzCASFAniQmsZvuGQ1LA) | [Ijskoud](https://open.spotify.com/album/6zJHNn27muvAYo5IOUHcJq) | 2:39 |
+| 9 | [LATEN ME KOUD](https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5) | [Brokezart](https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou) | [LATEN ME KOUD](https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433) | 2:35 |
 | 10 | [Voor Jou](https://open.spotify.com/track/3yamR27kpy526yTNwrMpgm) | [FOCUS](https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Voor Jou](https://open.spotify.com/album/4jylbFi4wX3NewQqBGwVPC) | 2:18 |
 | 11 | [Top Of The Game](https://open.spotify.com/track/0oxgyZjxq7u6UvWsdFJ0My) | [Miero YIC](https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ), [Lonewalker](https://open.spotify.com/artist/6Bm9NFs6gGm9PXRjetlQAS), [Seja](https://open.spotify.com/artist/6bpXMLFh4ytvCSiNa63gTo) | [Whoo's In Charge?](https://open.spotify.com/album/0y416rzwhbk0jETqdSmJGA) | 3:17 |
 | 12 | [Tranen van geluk](https://open.spotify.com/track/69simOdMpHxNHZbzUCVr1V) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [Tranen van geluk](https://open.spotify.com/album/5b5QGAlnmhpB1ymUyZaAI3) | 2:25 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 63 | [Die Life](https://open.spotify.com/track/3tHOrQbymHZgW49V2r5cky) | [Gior](https://open.spotify.com/artist/5cT3NUrkdYpSsAWLLlUaFA) | [Die Life](https://open.spotify.com/album/0ScDN58zAvkMyXqI83vQLi) | 3:28 |
 | 64 | [Long Gone](https://open.spotify.com/track/469oXj5EjwWbwt9ZwRg83m) | [IKER](https://open.spotify.com/artist/0RgWG68I2ybn4jLZlcDWqC) | [Long Gone](https://open.spotify.com/album/3T4MeM3M9CopBP6M2mSFUS) | 2:44 |
 
-Snapshot ID: `AAAAABHVsPlYjOlZU+DRTgAmOPGpACKl`
+Snapshot ID: `AAAAAFvEgg58+66Z5+qeI57ZTXuJBx8F`

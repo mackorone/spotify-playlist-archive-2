@@ -13707,6 +13707,24 @@
     },
     {
       "album": {
+        "name": "Banquet",
+        "url": "https://open.spotify.com/album/3wXNjLWGdqtKReMLjhat8H"
+      },
+      "artists": [
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195723,
+      "name": "The Voice",
+      "url": "https://open.spotify.com/track/0LvtYkJSXFdZLXAKrQjpdu"
+    },
+    {
+      "album": {
         "name": "Theater",
         "url": "https://open.spotify.com/album/5IF6EOV0aewiwlFUFaTuRe"
       },
@@ -14073,24 +14091,6 @@
     },
     {
       "album": {
-        "name": "Banquet",
-        "url": "https://open.spotify.com/album/3wXNjLWGdqtKReMLjhat8H"
-      },
-      "artists": [
-        {
-          "name": "MAZZEL",
-          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
-        }
-      ],
-      "date_added": "2026-04-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 14",
-      "url": "https://open.spotify.com/track/0LvtYkJSXFdZLXAKrQjpdu"
-    },
-    {
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/3EEixzNLIpp0tPr0pCZGIJ"
       },
@@ -14246,7 +14246,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 190000,
       "name": "Twenty",
       "url": "https://open.spotify.com/track/167erVDWj4mi8sbfVWoc06"
@@ -17656,6 +17656,24 @@
       "duration_ms": 161027,
       "name": "\uafc8\uc758 \ubc84\uc2a4 Dream Bus",
       "url": "https://open.spotify.com/track/5cE6bNjhhuJnrrDdkcZmv0"
+    },
+    {
+      "album": {
+        "name": "My First Kick",
+        "url": "https://open.spotify.com/album/6w4EhlJd0BAXvE24KuaE8j"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "\ub208\uc5d0 \uac70\uc2ac\ub9ac\uace0 \uc2f6\uc5b4 (Eye-Poppin')",
+      "url": "https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC"
     },
     {
       "album": {

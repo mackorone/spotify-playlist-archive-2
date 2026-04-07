@@ -4786,7 +4786,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 197311,
       "name": "Doesn't Just Happen",
       "url": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe"
@@ -5214,7 +5214,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 146728,
       "name": "Drie Keer",
       "url": "https://open.spotify.com/track/0U8oc6nOzqQHHres0JNYzi"
@@ -11487,6 +11487,58 @@
     },
     {
       "album": {
+        "name": "Bach: Matth\u00e4us Passion, BWV 244",
+        "url": "https://open.spotify.com/album/50F8gHAodJR6mSLhyooVSO"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Ton Koopman",
+          "url": "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
+        },
+        {
+          "name": "Boys Choir Of Sacraments-Church Breda",
+          "url": "https://open.spotify.com/artist/51Ek6KWBuyLSXaXO13S345"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368680,
+      "name": "Matth\u00e4us Passion, BWV 244: Aria, \"Erbarme dich\"",
+      "url": "https://open.spotify.com/track/084Bc92su67cwLGdUVTVYw"
+    },
+    {
+      "album": {
+        "name": "Bach: Matth\u00e4us Passion, BWV 244",
+        "url": "https://open.spotify.com/album/50F8gHAodJR6mSLhyooVSO"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Ton Koopman",
+          "url": "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
+        },
+        {
+          "name": "Boys Choir Of Sacraments-Church Breda",
+          "url": "https://open.spotify.com/artist/51Ek6KWBuyLSXaXO13S345"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418560,
+      "name": "Matth\u00e4us Passion, BWV 244: Chori, \"Kommt, ihr T\u00f6chter, helft mir klagen\"",
+      "url": "https://open.spotify.com/track/5agrJOfVjLQKREmu7k1wNG"
+    },
+    {
+      "album": {
         "name": "J.S. Bach: Matth\u00e4us-Passion BWV 244",
         "url": "https://open.spotify.com/album/5ZHCqltda5ywYkHPqFIUQJ"
       },
@@ -12510,7 +12562,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
@@ -13672,6 +13724,24 @@
       "duration_ms": 194309,
       "name": "Op de Maan met Maan",
       "url": "https://open.spotify.com/track/5OXm70TP5w966vW4a8B4Hl"
+    },
+    {
+      "album": {
+        "name": "Opgestaan",
+        "url": "https://open.spotify.com/album/7w0Enumwtd8CNtJpBBbLYr"
+      },
+      "artists": [
+        {
+          "name": "Sela",
+          "url": "https://open.spotify.com/artist/39qqiOIe3rCLPgoRwAgkcW"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281395,
+      "name": "Opgestaan",
+      "url": "https://open.spotify.com/track/0Hslqk75PufXsLxsn4MdDL"
     },
     {
       "album": {
@@ -15104,7 +15174,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -15122,7 +15192,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -16128,7 +16198,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 210410,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/3iCGGFi3RlG7Us7nX7E6KK"
@@ -16926,7 +16996,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 126042,
       "name": "Talk To Me Nuh",
       "url": "https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI"
@@ -17392,7 +17462,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 228908,
       "name": "The Visitor",
       "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
@@ -18308,6 +18378,24 @@
       "duration_ms": 194057,
       "name": "UPTEMPO FIESTA",
       "url": "https://open.spotify.com/track/58bZ5ad52KvSXK2oYqBpHi"
+    },
+    {
+      "album": {
+        "name": "Wild Wild East",
+        "url": "https://open.spotify.com/album/6lpB8KoEYKfVUTj4vBp8pb"
+      },
+      "artists": [
+        {
+          "name": "Dubioza kolektiv",
+          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231893,
+      "name": "USA",
+      "url": "https://open.spotify.com/track/3AjZd2FYElRKklkiXIKTx6"
     },
     {
       "album": {

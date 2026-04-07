@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: adieu",
-  "num_followers": 135981,
+  "num_followers": 135983,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-03-31 15:00:20",
       "album": {
-        "name": "Living",
-        "url": "https://open.spotify.com/album/4H52JSvG8qKypi82WlJ7Oa"
-      },
-      "artists": [
-        {
-          "name": "Rokudenashi",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 201912,
-      "name": "Living",
-      "url": "https://open.spotify.com/track/45wy7O4gllBWPaySxkRDIZ"
-    },
-    {
-      "added_at": "2026-03-31 15:00:20",
-      "album": {
         "name": "KEISOUDO",
         "url": "https://open.spotify.com/album/5lzzogUrW0KKsmnthNNIfP"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 79572,
       "name": "ultra soul",
       "url": "https://open.spotify.com/track/2AlU0ltG2bfCvpuV5vVaGY"
+    },
+    {
+      "added_at": "2026-03-31 15:00:20",
+      "album": {
+        "name": "Living",
+        "url": "https://open.spotify.com/album/4H52JSvG8qKypi82WlJ7Oa"
+      },
+      "artists": [
+        {
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "duration_ms": 201912,
+      "name": "Living",
+      "url": "https://open.spotify.com/track/45wy7O4gllBWPaySxkRDIZ"
     },
     {
       "added_at": "2026-03-31 15:00:20",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-03-31 15:00:20",
       "album": {
-        "name": "\u541b\u306e\u305b\u3044",
-        "url": "https://open.spotify.com/album/5kfekCB47xkYYkUnAx30Kk"
-      },
-      "artists": [
-        {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
-        }
-      ],
-      "duration_ms": 138586,
-      "name": "\u541b\u306e\u305b\u3044",
-      "url": "https://open.spotify.com/track/6MybVbNYgHbO0cjbqGSPLH"
-    },
-    {
-      "added_at": "2026-03-31 15:00:20",
-      "album": {
         "name": "Sonare",
         "url": "https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2026-03-31 15:00:20",
       "album": {
-        "name": "SWEET MAGIC",
-        "url": "https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX"
+        "name": "\u541b\u306e\u305b\u3044",
+        "url": "https://open.spotify.com/album/5kfekCB47xkYYkUnAx30Kk"
       },
       "artists": [
         {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
         }
       ],
-      "duration_ms": 193746,
-      "name": "SWEET MAGIC",
-      "url": "https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf"
+      "duration_ms": 138586,
+      "name": "\u541b\u306e\u305b\u3044",
+      "url": "https://open.spotify.com/track/6MybVbNYgHbO0cjbqGSPLH"
     },
     {
       "added_at": "2026-03-31 15:00:20",
@@ -935,6 +919,22 @@
       "duration_ms": 240000,
       "name": "\u66d6\u6627\u306a\u6307\u5207\u308a",
       "url": "https://open.spotify.com/track/0NZmVUHSk4JEC2oaxa2ibz"
+    },
+    {
+      "added_at": "2026-03-31 15:00:20",
+      "album": {
+        "name": "SWEET MAGIC",
+        "url": "https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 193746,
+      "name": "SWEET MAGIC",
+      "url": "https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf"
     },
     {
       "added_at": "2026-03-31 15:00:20",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-03-31 15:00:20",
       "album": {
+        "name": "Ray",
+        "url": "https://open.spotify.com/album/0bs97BumdpbyYhcfHWE9hg"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/7yx5pbQGDEXtpPifMy8u5d"
+    },
+    {
+      "added_at": "2026-03-31 15:00:20",
+      "album": {
         "name": "\u9ec4\u660f\u30d7\u30ea\u30ba\u30e0 -Waves of First Love- (feat. \u8ca1\u6d25\u30de\u30a4)",
         "url": "https://open.spotify.com/album/1LlbbfyB5piSAdJPzHFh6R"
       },
@@ -1279,6 +1295,22 @@
     {
       "added_at": "2026-03-31 15:00:20",
       "album": {
+        "name": "\u00c1gua de Beber",
+        "url": "https://open.spotify.com/album/3HNX3RRr6M3Az3AosGxuYX"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ono",
+          "url": "https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k"
+        }
+      ],
+      "duration_ms": 251459,
+      "name": "\u00c1gua de Beber",
+      "url": "https://open.spotify.com/track/0udVW76Es96emCsJ834ZJr"
+    },
+    {
+      "added_at": "2026-03-31 15:00:20",
+      "album": {
         "name": "\u30c9\u30ec\u30b9\u30b3\u30fc\u30c9",
         "url": "https://open.spotify.com/album/2eUg1Ua42nP4VkqADbbFgL"
       },
@@ -1295,18 +1327,18 @@
     {
       "added_at": "2026-03-31 15:00:20",
       "album": {
-        "name": "\u00c1gua de Beber",
-        "url": "https://open.spotify.com/album/3HNX3RRr6M3Az3AosGxuYX"
+        "name": "Glitch*",
+        "url": "https://open.spotify.com/album/1JVUgnXpPfiBffquWH53k7"
       },
       "artists": [
         {
-          "name": "Lisa Ono",
-          "url": "https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k"
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
         }
       ],
-      "duration_ms": 251459,
-      "name": "\u00c1gua de Beber",
-      "url": "https://open.spotify.com/track/0udVW76Es96emCsJ834ZJr"
+      "duration_ms": 163671,
+      "name": "Glitch*",
+      "url": "https://open.spotify.com/track/5kM7xgKZ76UgdjRTBdiy8w"
     },
     {
       "added_at": "2026-03-31 15:00:20",
@@ -1343,22 +1375,6 @@
     {
       "added_at": "2026-03-31 15:00:20",
       "album": {
-        "name": "Glitch*",
-        "url": "https://open.spotify.com/album/1JVUgnXpPfiBffquWH53k7"
-      },
-      "artists": [
-        {
-          "name": "eill",
-          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
-        }
-      ],
-      "duration_ms": 163671,
-      "name": "Glitch*",
-      "url": "https://open.spotify.com/track/5kM7xgKZ76UgdjRTBdiy8w"
-    },
-    {
-      "added_at": "2026-03-31 15:00:20",
-      "album": {
         "name": "White Out feat. Maika Loubt\u00e9 & \u67f4\u7530\u8061\u5b50",
         "url": "https://open.spotify.com/album/0fNPkfGMSDNfM52ClhBvYY"
       },
@@ -1383,38 +1399,6 @@
     {
       "added_at": "2026-03-31 15:00:20",
       "album": {
-        "name": "You Got This",
-        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
-      },
-      "artists": [
-        {
-          "name": "m-flo",
-          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
-        }
-      ],
-      "duration_ms": 255603,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
-    },
-    {
-      "added_at": "2026-03-31 15:00:20",
-      "album": {
-        "name": "Ray",
-        "url": "https://open.spotify.com/album/0bs97BumdpbyYhcfHWE9hg"
-      },
-      "artists": [
-        {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/7yx5pbQGDEXtpPifMy8u5d"
-    },
-    {
-      "added_at": "2026-03-31 15:00:20",
-      "album": {
         "name": "chocolate",
         "url": "https://open.spotify.com/album/0eWRU2EwZpOAquNRQxUKcn"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2026-03-31 15:00:20",
       "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        }
+      ],
+      "duration_ms": 255603,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
+    },
+    {
+      "added_at": "2026-03-31 15:00:20",
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/0RdAutXGrAeWaEGBlr9hEn"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 214756,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/3ywfR2tUoo1We4dgnVXEmz"
+    },
+    {
+      "added_at": "2026-03-31 15:00:20",
+      "album": {
+        "name": "\u96e8\u5bbf\u3089\u305a",
+        "url": "https://open.spotify.com/album/3YF9DNZ28oIi9TIFy32gma"
+      },
+      "artists": [
+        {
+          "name": "\u6c38\u4e95\u7433\u5b50",
+          "url": "https://open.spotify.com/artist/6lKa4ZKIvgDWO8z87DBa8r"
+        }
+      ],
+      "duration_ms": 206074,
+      "name": "\u96e8\u5bbf\u3089\u305a",
+      "url": "https://open.spotify.com/track/2CdJLWQbNRYsFdlr4izar9"
     },
     {
       "added_at": "2026-03-31 15:00:20",
@@ -1467,22 +1483,6 @@
       "duration_ms": 249937,
       "name": "Taste of Life",
       "url": "https://open.spotify.com/track/0ngEVf6qZdxAwc9bffSZBK"
-    },
-    {
-      "added_at": "2026-03-31 15:00:20",
-      "album": {
-        "name": "\u96e8\u5bbf\u3089\u305a",
-        "url": "https://open.spotify.com/album/3YF9DNZ28oIi9TIFy32gma"
-      },
-      "artists": [
-        {
-          "name": "\u6c38\u4e95\u7433\u5b50",
-          "url": "https://open.spotify.com/artist/6lKa4ZKIvgDWO8z87DBa8r"
-        }
-      ],
-      "duration_ms": 206074,
-      "name": "\u96e8\u5bbf\u3089\u305a",
-      "url": "https://open.spotify.com/track/2CdJLWQbNRYsFdlr4izar9"
     },
     {
       "added_at": "2026-03-31 15:00:20",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-03-31 15:00:20",
       "album": {
-        "name": "aero",
-        "url": "https://open.spotify.com/album/2IFLkSxv2u8ISZTEl0Ba4o"
-      },
-      "artists": [
-        {
-          "name": "\u306f\u3057\u30e1\u30ed",
-          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "\u30d6\u30eb\u30fc\u30b7\u30e3\u30c9\u30a6\u306b\u306e\u3063\u304b\u3063\u3066",
-      "url": "https://open.spotify.com/track/62jFkV1ctIh9lJzvWiaIRJ"
-    },
-    {
-      "added_at": "2026-03-31 15:00:20",
-      "album": {
         "name": "\u541b\u306f",
         "url": "https://open.spotify.com/album/77TsYuspgMMvhV4ZaaJEGn"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 215000,
       "name": "\u541b\u306f",
       "url": "https://open.spotify.com/track/5gs7OG3UE70LlPTUqXw4Px"
+    },
+    {
+      "added_at": "2026-03-31 15:00:20",
+      "album": {
+        "name": "aero",
+        "url": "https://open.spotify.com/album/2IFLkSxv2u8ISZTEl0Ba4o"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u3057\u30e1\u30ed",
+          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "\u30d6\u30eb\u30fc\u30b7\u30e3\u30c9\u30a6\u306b\u306e\u3063\u304b\u3063\u3066",
+      "url": "https://open.spotify.com/track/62jFkV1ctIh9lJzvWiaIRJ"
     },
     {
       "added_at": "2026-03-31 15:00:20",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-03-31 15:00:20",
       "album": {
-        "name": "adabana midnight",
-        "url": "https://open.spotify.com/album/70eSHpLErK3X6SyMBwp0CH"
-      },
-      "artists": [
-        {
-          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
-          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "adabana midnight",
-      "url": "https://open.spotify.com/track/0rxKaQfoP9nfHNSThbrHHM"
-    },
-    {
-      "added_at": "2026-03-31 15:00:20",
-      "album": {
         "name": "\u7dba\u9e97\u3002",
         "url": "https://open.spotify.com/album/2uejZJvGvcLuYKm5R9uiGw"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 238600,
       "name": "\u7dba\u9e97\u3002",
       "url": "https://open.spotify.com/track/5tGxsmCBJDF6PCx9Wv1KPF"
+    },
+    {
+      "added_at": "2026-03-31 15:00:20",
+      "album": {
+        "name": "adabana midnight",
+        "url": "https://open.spotify.com/album/70eSHpLErK3X6SyMBwp0CH"
+      },
+      "artists": [
+        {
+          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
+          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "adabana midnight",
+      "url": "https://open.spotify.com/track/0rxKaQfoP9nfHNSThbrHHM"
     },
     {
       "added_at": "2026-03-31 15:00:20",

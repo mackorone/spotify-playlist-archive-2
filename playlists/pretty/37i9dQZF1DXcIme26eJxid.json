@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 128960,
+  "num_followers": 129003,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,26 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Fatteliku (Live in Athens 1987)",
+        "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        },
+        {
+          "name": "Youssou N'Dour",
+          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+        }
+      ],
+      "duration_ms": 643022,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "24 Hours in a Disco 1978-82",
         "url": "https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 591706,
       "name": "Water No Get Enemy - Edit",
       "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Fatteliku (Live in Athens 1987)",
-        "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        },
-        {
-          "name": "Youssou N'Dour",
-          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
-        }
-      ],
-      "duration_ms": 643022,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "Special Star",
+      "url": "https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 745653,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Mango Groove",
-        "url": "https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb"
-      },
-      "artists": [
-        {
-          "name": "Mango Groove",
-          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
-        }
-      ],
-      "duration_ms": 353266,
-      "name": "Special Star",
-      "url": "https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ"
     },
     {
       "added_at": "2025-09-30 11:32:09",

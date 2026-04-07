@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 117452,
+  "num_followers": 117483,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2026-04-02 22:00:18",
       "album": {
-        "name": "H\u00e5per du er lykkelig n\u00e5",
-        "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
+        "name": "Her og n\u00e5",
+        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
       },
       "artists": [
         {
           "name": "River",
           "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
-        },
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
         }
       ],
-      "duration_ms": 179760,
-      "name": "H\u00e5per du er lykkelig n\u00e5",
-      "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
+      "duration_ms": 136981,
+      "name": "Her og n\u00e5",
+      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
     },
     {
       "added_at": "2026-04-02 22:00:18",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2026-04-02 22:00:18",
       "album": {
-        "name": "Her og n\u00e5",
-        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
+        "name": "H\u00e5per du er lykkelig n\u00e5",
+        "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
       },
       "artists": [
         {
           "name": "River",
           "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
+        },
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
         }
       ],
-      "duration_ms": 136981,
-      "name": "Her og n\u00e5",
-      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
+      "duration_ms": 179760,
+      "name": "H\u00e5per du er lykkelig n\u00e5",
+      "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

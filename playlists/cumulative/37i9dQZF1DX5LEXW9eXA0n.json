@@ -28258,7 +28258,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 231000,
       "name": "Where Love Ends",
       "url": "https://open.spotify.com/track/1ODbcxWMBv9yicmDsVhI2O"
@@ -29688,6 +29688,24 @@
       "duration_ms": 256146,
       "name": "You resemble winter",
       "url": "https://open.spotify.com/track/4f3wttqEkBnSkvIrHwI9HH"
+    },
+    {
+      "album": {
+        "name": "You Ruined Me",
+        "url": "https://open.spotify.com/album/7twWecwz0kjiceI9rLbFzk"
+      },
+      "artists": [
+        {
+          "name": "Sojung",
+          "url": "https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "You Ruined Me",
+      "url": "https://open.spotify.com/track/5G9yKd2KszcMMK6FaXnzq1"
     },
     {
       "album": {

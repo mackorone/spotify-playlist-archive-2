@@ -1,6 +1,6 @@
 {
   "description": "deep dark ambient and half-remembered hypnagogic soundscapes. ",
-  "num_followers": 194214,
+  "num_followers": 194250,
   "original_name": "hauntology",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "Valtari",
+        "url": "https://open.spotify.com/album/784AinfJcPwVdpbXR4U8mN"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "duration_ms": 396853,
+      "name": "Var\u00fa\u00f0",
+      "url": "https://open.spotify.com/track/6Ss7upGobLSpoLNmO7jj7u"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "Never Were the Way She Was",
         "url": "https://open.spotify.com/album/6strsYjypCDE3OTh2f9W8l"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 176746,
       "name": "And Still They Move",
       "url": "https://open.spotify.com/track/1pXDFB8gCjU2eTAUKZqzpd"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "Valtari",
-        "url": "https://open.spotify.com/album/784AinfJcPwVdpbXR4U8mN"
-      },
-      "artists": [
-        {
-          "name": "Sigur R\u00f3s",
-          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
-        }
-      ],
-      "duration_ms": 396853,
-      "name": "Var\u00fa\u00f0",
-      "url": "https://open.spotify.com/track/6Ss7upGobLSpoLNmO7jj7u"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Recordings from the \u00c5land Islands",
-        "url": "https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Chiu",
-          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
-        },
-        {
-          "name": "Marta Sofia Honer",
-          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Under the Midnight Sun",
-      "url": "https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Study Series 07: Autumnal Activities",
         "url": "https://open.spotify.com/album/4kszHqLUfAllYvodM8wM5r"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 168126,
       "name": "November Sequence",
       "url": "https://open.spotify.com/track/20izJg7Kft3HmOtmalKBl2"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Recordings from the \u00c5land Islands",
+        "url": "https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Marta Sofia Honer",
+          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Under the Midnight Sun",
+      "url": "https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Endless Echo",
-        "url": "https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18"
-      },
-      "artists": [
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 272173,
-      "name": "Decision Point",
-      "url": "https://open.spotify.com/track/1WnTdKCaXBWVGppcN8xttt"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Hypernormality",
         "url": "https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 185773,
       "name": "Flight of the Raven",
       "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Endless Echo",
+        "url": "https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 272173,
+      "name": "Decision Point",
+      "url": "https://open.spotify.com/track/1WnTdKCaXBWVGppcN8xttt"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Crow-Cyan Lake \u9e26\u9752\u6e56\u7554",
-        "url": "https://open.spotify.com/album/3y1AC3NQFIXIAmMYzkkl4x"
-      },
-      "artists": [
-        {
-          "name": "Yikii",
-          "url": "https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm"
-        }
-      ],
-      "duration_ms": 256746,
-      "name": "Angel Fossil \u5929\u4f7f\u5316\u77f3",
-      "url": "https://open.spotify.com/track/166BtXtfNGtQf7REpNBBa6"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Silver Threshold",
         "url": "https://open.spotify.com/album/3i6cLbRGGEVJbvAkjUAnVv"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 256402,
       "name": "The Silver Threshold",
       "url": "https://open.spotify.com/track/4Xak0spxf9QBSwlTEOsrbA"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Crow-Cyan Lake \u9e26\u9752\u6e56\u7554",
+        "url": "https://open.spotify.com/album/3y1AC3NQFIXIAmMYzkkl4x"
+      },
+      "artists": [
+        {
+          "name": "Yikii",
+          "url": "https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm"
+        }
+      ],
+      "duration_ms": 256746,
+      "name": "Angel Fossil \u5929\u4f7f\u5316\u77f3",
+      "url": "https://open.spotify.com/track/166BtXtfNGtQf7REpNBBa6"
     },
     {
       "added_at": "2025-11-14 17:00:34",

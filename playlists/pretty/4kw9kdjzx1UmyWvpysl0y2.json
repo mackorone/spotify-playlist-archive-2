@@ -1,13 +1,77 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124113,
+  "num_followers": 124102,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVRkT/b+N+Mt0NzhHIRznn4PzkqNEn",
+  "snapshot_id": "AAAVSTIZOKi7MQvOpXtR1nLplv3ftKuD",
   "tracks": [
+    {
+      "added_at": "2026-04-06 14:26:21",
+      "album": {
+        "name": "Monstercat Uncaged Selections 02",
+        "url": "https://open.spotify.com/album/4ze5qDWaGaitMcyXXkcujn"
+      },
+      "artists": [
+        {
+          "name": "Eccentric",
+          "url": "https://open.spotify.com/artist/575gveAPGZRLDKnpRNNU3d"
+        },
+        {
+          "name": "Glitch Cat",
+          "url": "https://open.spotify.com/artist/3zquCvGjujDQ8U53bH1ngW"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "funk of the week",
+      "url": "https://open.spotify.com/track/6a53HroJufw9yjFfc9q6jy"
+    },
+    {
+      "added_at": "2026-04-06 14:31:08",
+      "album": {
+        "name": "Funk Star (Be Polite)",
+        "url": "https://open.spotify.com/album/2gfygIWZMm03LA0MZyTLsq"
+      },
+      "artists": [
+        {
+          "name": "Synthetic",
+          "url": "https://open.spotify.com/artist/3Xg0BvwpDq7msnpXMtX1x4"
+        },
+        {
+          "name": "CLV",
+          "url": "https://open.spotify.com/artist/5H5wUF8cjtn3erNzcUZUbC"
+        }
+      ],
+      "duration_ms": 171126,
+      "name": "Funk Star (Be Polite)",
+      "url": "https://open.spotify.com/track/29w7Ph7ljedsQp7zsaLeIx"
+    },
+    {
+      "added_at": "2026-04-06 14:31:20",
+      "album": {
+        "name": "Higher (Rampage Open Air 2026 Anthem)",
+        "url": "https://open.spotify.com/album/1arSZPYhYaAsEmAYcdepNp"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "V O E",
+          "url": "https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm"
+        },
+        {
+          "name": "Murdock",
+          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Higher (Rampage Open Air 2026 Anthem)",
+      "url": "https://open.spotify.com/track/4CXWY9ETaEFPQmrjCYecI4"
+    },
     {
       "added_at": "2026-04-02 15:10:53",
       "album": {

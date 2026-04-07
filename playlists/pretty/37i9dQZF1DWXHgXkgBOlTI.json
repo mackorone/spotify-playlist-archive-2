@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u795e\u4fdd\u5f70",
-  "num_followers": 32604,
+  "num_followers": 32607,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "Living Message",
-        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Blood is thicker than water",
-      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
-    },
-    {
-      "added_at": "2026-03-25 17:18:03",
-      "album": {
         "name": "PIANO CRAZE",
         "url": "https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 350680,
       "name": "Dancing in the mood",
       "url": "https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn"
+    },
+    {
+      "added_at": "2026-03-25 17:18:03",
+      "album": {
+        "name": "Living Message",
+        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Blood is thicker than water",
+      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
     },
     {
       "added_at": "2026-03-25 17:18:03",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 452866,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg"
+    },
+    {
+      "added_at": "2026-03-25 17:18:03",
+      "album": {
         "name": "REAL KICKS",
         "url": "https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz"
       },
       "artists": [
         {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+          "name": "Still Caravan",
+          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
         }
       ],
-      "duration_ms": 452866,
-      "name": "WAVE",
-      "url": "https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg"
+      "duration_ms": 267000,
+      "name": "Thrust",
+      "url": "https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2"
     },
     {
       "added_at": "2026-03-25 17:18:03",
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz"
-      },
-      "artists": [
-        {
-          "name": "Still Caravan",
-          "url": "https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Thrust",
-      "url": "https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2"
-    },
-    {
-      "added_at": "2026-03-25 17:18:03",
-      "album": {
         "name": "seed",
         "url": "https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "Ordinary Landscape",
-        "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
-    },
-    {
-      "added_at": "2026-03-25 17:18:03",
-      "album": {
         "name": "Telepathy",
         "url": "https://open.spotify.com/album/3qKAQlG3pTQ2dXi9Qg6tPe"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 415733,
       "name": "WOLF",
       "url": "https://open.spotify.com/track/2xsyDwq9ZYm9kKYZF8gD4P"
+    },
+    {
+      "added_at": "2026-03-25 17:18:03",
+      "album": {
+        "name": "Ordinary Landscape",
+        "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
     },
     {
       "added_at": "2026-03-25 17:18:03",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-03-25 17:18:03",
       "album": {
-        "name": "Variety",
-        "url": "https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Normal Life",
-      "url": "https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT"
-    },
-    {
-      "added_at": "2026-03-25 17:18:03",
-      "album": {
         "name": "\u30b9\u30ba\u866b",
         "url": "https://open.spotify.com/album/4VkJfvhkTnx8GZuCySMlKe"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 257533,
       "name": "SAMBA DE \u604b\u3057\u3066",
       "url": "https://open.spotify.com/track/2ntJXSC98pIAiGwigge8Nm"
+    },
+    {
+      "added_at": "2026-03-25 17:18:03",
+      "album": {
+        "name": "Variety",
+        "url": "https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Normal Life",
+      "url": "https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT"
     },
     {
       "added_at": "2026-03-25 17:18:03",

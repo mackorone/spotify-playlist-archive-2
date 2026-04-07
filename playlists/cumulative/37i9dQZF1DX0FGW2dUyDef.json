@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Daha \u0130yi",
+        "url": "https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198595,
+      "name": "Daha \u0130yi",
+      "url": "https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT"
+    },
+    {
+      "album": {
         "name": "Dale Don Dale",
         "url": "https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV"
       },
@@ -2170,6 +2188,32 @@
       "duration_ms": 168774,
       "name": "G\u00fcld\u00fc\u011f\u00fcn G\u00fcn",
       "url": "https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo"
+    },
+    {
+      "album": {
+        "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
+        "url": "https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO"
+      },
+      "artists": [
+        {
+          "name": "Ayse Hatun Onal",
+          "url": "https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS"
+        },
+        {
+          "name": "Onurr",
+          "url": "https://open.spotify.com/artist/3I3kGrPbyHSER6DIxsbsac"
+        },
+        {
+          "name": "Serhat Karadag",
+          "url": "https://open.spotify.com/artist/5lnel6i9CbZEYoWSyiYnEk"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227428,
+      "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
+      "url": "https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI"
     },
     {
       "album": {
@@ -3516,7 +3560,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 98437,
       "name": "nas\u0131l kurtulurum senden ?",
       "url": "https://open.spotify.com/track/5MaVEvwqF3ZxcMMVzdQdhn"
@@ -4734,7 +4778,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 121127,
       "name": "vODKA BELUGA",
       "url": "https://open.spotify.com/track/1fWaftHNcaVI6EKW0b6MES"

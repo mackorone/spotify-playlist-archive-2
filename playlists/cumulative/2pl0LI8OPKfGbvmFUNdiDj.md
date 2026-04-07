@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-411 songs - 23 hr 6 min
+412 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Maryjane](https://open.spotify.com/track/0CWzSOcdlhSB1XhfQOsndm) | [Perxo](https://open.spotify.com/artist/0fbe9EfOcFVBKWyPX4GXrk) | [Maryjane](https://open.spotify.com/album/3vgROf3t4kmic0I50Y8krM) | 3:02 | 2025-12-20 | 2026-01-15 |
 | [Masta Plan](https://open.spotify.com/track/29HloLROxM5upDdZwGZNQI) | [Zeke Saadiq](https://open.spotify.com/artist/2sjFTV4Yj1PpwHP3UJmi0d), [Lana Lotus](https://open.spotify.com/artist/12LQ3pCmfxZXHrW4ULwMaM), [Wizeguy Collective](https://open.spotify.com/artist/39eU8w4KpyiTiN5aUGCo3z) | [The Wizeguy MixTape](https://open.spotify.com/album/42KQbGiza0RUx7q0b5g7VP) | 3:16 | 2026-01-01 | 2026-01-25 |
 | [Mein Block](https://open.spotify.com/track/0cHc5tyUQ1PkOCgz5kLmxc) | [DCI Dashcam](https://open.spotify.com/artist/6cL9wQrj7bdDnYtM6aeyRV) | [Mein Block](https://open.spotify.com/album/7zwRE5aoBDcuYBOzlENOxU) | 2:27 | 2025-12-25 | 2026-01-15 |
+| [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 | 2026-04-06 |  |
 | [MERKAVÁ](https://open.spotify.com/track/6lv3CY0BItKVXV42uhGbSG) | [Kibbutz Paradiso](https://open.spotify.com/artist/21vbXHIW0qY3qchdDPmAmB) | [MERKAVÁ](https://open.spotify.com/album/5TvvDO3PiMc1kfoRblhIy9) | 3:09 | 2025-12-24 | 2026-01-15 |
 | [Minding My Business](https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Minding My Business](https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL) | 1:39 | 2025-11-22 | 2026-01-05 |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2026-01-04 | 2026-02-21 |

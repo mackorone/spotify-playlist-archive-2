@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 565 likes - 2,482 songs - 6 day 1 hr 8 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 564 likes - 2,492 songs - 6 day 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2490,5 +2490,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2480 | [In Your Dreams](https://open.spotify.com/track/1fmX0jToR2dVaY4fTWqM2B) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [In Your Dreams](https://open.spotify.com/album/5MclxDMknVlBLyhy1Fjx77) | 2:17 |
 | 2481 | [Cruz de caminos](https://open.spotify.com/track/66DeNfPf59jLNqICHWlEN1) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 6:34 |
 | 2482 | [Home Sweet Home](https://open.spotify.com/track/6mpGwpWSUsO6QZPObHTKCm) | [Re:becca](https://open.spotify.com/artist/19034iB1bsfmukRgR3bJFR) | [No Heroes](https://open.spotify.com/album/6rMYq68zsflfLRq2GEOzW3) | 4:50 |
+| 2483 | [Windborne](https://open.spotify.com/track/0O9NDl3eK2OvQREtczZ6kD) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Dirty Lines Through Indigo Minds](https://open.spotify.com/album/5VGOfHz3KrBSynttgQ48J7) | 1:53 |
+| 2484 | [Find A Way](https://open.spotify.com/track/3MGujviraBoP0kGNpfwQ7D) | [Sa\-Young](https://open.spotify.com/artist/49BRtBWW4eg2zZUoODNZS1) | [Magik 23](https://open.spotify.com/album/0dgDGntCWvcqtTVEJkuHBp) | 3:02 |
+| 2485 | [These Days](https://open.spotify.com/track/6OmhyzNc5npG63GgGaPtJm) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [These Days](https://open.spotify.com/album/5TIcIHvjz2ydUJFBQB7L3M) | 3:33 |
+| 2486 | [New Rules](https://open.spotify.com/track/3jaRs2vcYGhh7pG97RiFVR) | [Eduardo Robles](https://open.spotify.com/artist/2qwNSIP0Jyv5mstU2i5wwm), [Nox Quartet](https://open.spotify.com/artist/4PyleKtYj9aWfygn3BCSbF) | [Ghost Town and Haunted Love](https://open.spotify.com/album/0jL0TKspnlMs5F4zlEBm2c) | 3:36 |
+| 2487 | [The Will Of Dreams](https://open.spotify.com/track/7o3R04NSsn7ve58s1UJIvG) | [Chuck Mullen](https://open.spotify.com/artist/341qXStb1CSIdiK1Mn8sWO) | [The Will Of Dreams](https://open.spotify.com/album/2hPSjnGGbW0FgLSfOyp1Rx) | 3:54 |
+| 2488 | [Run Away](https://open.spotify.com/track/58L0AfZyXz4pe47j60JnQg) | [Lo\-Res](https://open.spotify.com/artist/3NDfrGu6I91afH3l8plmcn) | [Run Away](https://open.spotify.com/album/1M6VrRIBqt01gWJJVkgRRD) | 2:19 |
+| 2489 | [Warum](https://open.spotify.com/track/2ZcLJdEObOkMf1eABOjYYV) | [Rafscore](https://open.spotify.com/artist/0OLgZliQZ3TsjB2ntytGeu), [WhiteM171](https://open.spotify.com/artist/4hDbAWYftPYMQApRMUXCOK) | [Warum](https://open.spotify.com/album/0cgX3zFJRNybN421kFGPtW) | 2:17 |
+| 2490 | [andrew](https://open.spotify.com/track/1a2WURNqDpXPTSeCsQIOK1) | [Teddy Tonkin](https://open.spotify.com/artist/02y70UZdrITbaxXY2U22xS) | [adrenaline](https://open.spotify.com/album/1Dcsg7p1WOkxjynSalviGq) | 3:10 |
+| 2491 | [Why You Chose](https://open.spotify.com/track/74iGaz4WqNVx0sUNLzFFAx) | [Strawberry Nixon](https://open.spotify.com/artist/4Y4LMJUmLARW4fZyAgdEar), [Mark Swift](https://open.spotify.com/artist/2RfZ0nOyAv4MgBTWasilxv), [Tera Catallo](https://open.spotify.com/artist/7k9qXtfSPu2HzNsYbK6vez) | [Why You Chose](https://open.spotify.com/album/6VQSFJlyK2m0cslxpBSxP4) | 3:20 |
+| 2492 | [Facebook Friends](https://open.spotify.com/track/0JZDRLPLN77J9R3qZwrNxO) | [Jennifer Cooper](https://open.spotify.com/artist/6DbSjGrury2M8peAmVIJiF) | [Facebook Friends](https://open.spotify.com/album/4qJ5G32hZ2O0FCn2mjbWrO) | 4:06 |
 
-Snapshot ID: `AAAKSXLrzcWgY1/7PaO40Y3WihMvjU0H`
+Snapshot ID: `AAAKU51wPISblUAnl8F+zcURVVZHGxes`

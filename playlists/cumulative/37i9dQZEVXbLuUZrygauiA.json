@@ -7942,7 +7942,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 211021,
       "name": "Beso",
       "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
@@ -38380,7 +38380,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 186680,
       "name": "Love Without Disguises",
       "url": "https://open.spotify.com/track/1Ghsz0gso8z3dyJ4OwqIFV"
@@ -38398,7 +38398,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 186680,
       "name": "Love Without Disguises",
       "url": "https://open.spotify.com/track/4UH8HyU5HJnyQEcVT4rfcx"
@@ -45134,8 +45134,8 @@
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Danna",
+          "url": "https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd"
         },
         {
           "name": "Santa Fe Klan",
@@ -45144,7 +45144,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 195060,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
@@ -54740,7 +54740,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 198058,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
@@ -55086,7 +55086,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 202315,
       "name": "Que Hago Pa' Olvidarte",
       "url": "https://open.spotify.com/track/2Y78Y8el7LOiAJR1wkVrpP"
@@ -55108,6 +55108,32 @@
       "duration_ms": 200211,
       "name": "Que Hago Pa' Olvidarte",
       "url": "https://open.spotify.com/track/42kxguAG76HrsksWfayCXk"
+    },
+    {
+      "album": {
+        "name": "Que Hago Pa' Olvidarte",
+        "url": "https://open.spotify.com/album/0OesW52zisk3nqgFJEP2MO"
+      },
+      "artists": [
+        {
+          "name": "sweetrhythm",
+          "url": "https://open.spotify.com/artist/36pZo3el7YEvhIHIPiQPRE"
+        },
+        {
+          "name": "algormortis",
+          "url": "https://open.spotify.com/artist/1EIWp5lhzOlTacqDDgzbbj"
+        },
+        {
+          "name": "infohazard",
+          "url": "https://open.spotify.com/artist/3CjFSQ9FF4oZpmMUdHM3FZ"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200271,
+      "name": "Que Hago Pa' Olvidarte",
+      "url": "https://open.spotify.com/track/2SkwflX2UQZ8mgL4MdwNys"
     },
     {
       "album": {
@@ -65855,6 +65881,24 @@
     },
     {
       "album": {
+        "name": "Termonuclear",
+        "url": "https://open.spotify.com/album/1aU9LfVj9CTTM55COYuroW"
+      },
+      "artists": [
+        {
+          "name": "Perfecto Miserable",
+          "url": "https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211022,
+      "name": "Termonuclear",
+      "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"
+    },
+    {
+      "album": {
         "name": "Ni Lo Intentes",
         "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
       },
@@ -67292,7 +67336,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 121800,
       "name": "TiTis",
       "url": "https://open.spotify.com/track/5sviOHka5WMyKidQCSdFNa"
@@ -69856,6 +69900,24 @@
       "duration_ms": 182276,
       "name": "Un idiota",
       "url": "https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Nuevo",
+        "url": "https://open.spotify.com/album/38mnkd4d5sd6cMon20GvFL"
+      },
+      "artists": [
+        {
+          "name": "Mc badTboy",
+          "url": "https://open.spotify.com/artist/5Q65R51j3onIzdtUmdf6eZ"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357120,
+      "name": "Un Loco Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/44C9QpiqHR2zZntgaHWivv"
     },
     {
       "album": {

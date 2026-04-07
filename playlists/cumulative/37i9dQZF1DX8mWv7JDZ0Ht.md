@@ -2,7 +2,7 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Tiago Iorc
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Ana Gabriela, Cupertino
 
 910 songs - 1 day 21 hr 28 min
 

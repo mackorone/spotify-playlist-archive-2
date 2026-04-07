@@ -4,7 +4,7 @@
 
 > New music from Nomfundo Moh, Scotts Maphuma, Omah Lay and more.
 
-9,832 songs - 28 day 17 hr 57 min
+9,832 songs - 28 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9326,7 +9326,7 @@
 | [We Will Run](https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [We Will Run](https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz) | 3:08 | 2025-05-01 | 2025-05-09 |
 | [We'll Be Alright](https://open.spotify.com/track/1hrahuBjoU5Gkbz4W0SkdW) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [Selections Vol 2](https://open.spotify.com/album/0ICqXTRtSEtorAovqildRk) | 7:08 | 2026-02-27 | 2026-03-06 |
 | [We're on an Island, but it's the UK](https://open.spotify.com/track/2iy71gZuDJndppxGOdcrrB) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [We're on an Island, but it's the UK](https://open.spotify.com/album/2ELmcmBeba6spRuwGgqHRt) | 2:48 | 2023-07-14 | 2023-07-22 |
-| [Webaba](https://open.spotify.com/track/28oWQakxnSzLoGxEbSHUvL) | [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Karena Makarena](https://open.spotify.com/artist/3Lj5GVbZ5JexMobWdKWq8Q), [nekhristov](https://open.spotify.com/artist/2PwW8ZOBSUKVdIPLcIvjWp) | [Webaba \(Radio Edit\)](https://open.spotify.com/album/1XcatyXQcoxDKFCBPo5bxR) | 4:47 | 2026-04-02 |  |
+| [Webaba](https://open.spotify.com/track/28oWQakxnSzLoGxEbSHUvL) | [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Karena Makarena](https://open.spotify.com/artist/3Lj5GVbZ5JexMobWdKWq8Q), [nekhristov](https://open.spotify.com/artist/2PwW8ZOBSUKVdIPLcIvjWp) | [Webaba](https://open.spotify.com/album/1XcatyXQcoxDKFCBPo5bxR) | 3:16 | 2026-04-02 |  |
 | [Weddin Numba](https://open.spotify.com/track/4VsoyUH09yhhN9f6bNrHqE) | [Tembipowers](https://open.spotify.com/artist/4SQ0j97pz30NcGfWAUmTMg), [Chaise Williams](https://open.spotify.com/artist/668KBQvDxcLtxXqpEtdD3z) | [Zeck & Kody](https://open.spotify.com/album/1qO6WqdDmCyJDQBEeFwxwm) | 1:52 | 2025-11-27 | 2025-12-05 |
 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 | 2024-10-03 | 2024-10-11 |
 | [Weekend Special](https://open.spotify.com/track/43x3G0ksx453lgko8fX5x3) | [Deep London](https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Maphepa](https://open.spotify.com/artist/22WC6oI70jiwKlJfDroVgE) | [Weekend Special](https://open.spotify.com/album/3ZpVo1AluZQ5P8TqxKUswj) | 6:50 | 2024-11-08 | 2024-11-15 |

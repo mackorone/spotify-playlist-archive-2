@@ -4,7 +4,7 @@
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-276 songs - 13 hr 22 min
+278 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [At The Shore](https://open.spotify.com/track/17GKEXuSlpESmBaUJaXeBF) | [Ocean Vacation](https://open.spotify.com/artist/7hO7QJqzlEr6RaZlaalLLR) | [At The Shore](https://open.spotify.com/album/7feNID0SxJjODjF1fwEkhv) | 2:47 | 2021-11-10 |  |
 | [Atlanic Waves](https://open.spotify.com/track/3oCsOtGbEeWgSl1pCMy5WU) | [Groundwater Gabriel](https://open.spotify.com/artist/7D6h05H8UYNdbP6bE5OFoG) | [I Can Wave](https://open.spotify.com/album/0ZbwLMSNTL2l9fZYFVg4sy) | 1:31 | 2021-11-10 | 2023-06-20 |
 | [Atlantic Night Waves](https://open.spotify.com/track/4kOY2xfpY5LlNDvNhmkz2g) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Cape Waves \(Ocean Waves\)](https://open.spotify.com/album/4DI1eJ6qRCNobtKsSGQndV) | 2:40 | 2021-11-10 | 2025-07-22 |
+| [Atlantic Sunrise XXII](https://open.spotify.com/track/1FK1lKjXzaWkETOINnGOoJ) | [Broadsand](https://open.spotify.com/artist/2oZ8sTbWytiKHRBSGcajWv) | [Atlantic Sunrise XXII](https://open.spotify.com/album/31xHCc1QWffRKIRbKOGdTs) | 2:31 | 2026-04-02 |  |
 | [Atlantic Waves](https://open.spotify.com/track/6i8IQQ6FmgU7Y0ESccYchH) | [Waves of Atlantic](https://open.spotify.com/artist/4rSV2yuDQBYqICEXgemgir) | [Atlantic Waves](https://open.spotify.com/album/5XiJuA5yautJlZ3J0wrhK1) | 3:41 | 2021-11-10 |  |
 | [Atlantic Waves](https://open.spotify.com/track/3O13orieNSsuObfPFS8BwG) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 2:51 | 2021-11-10 |  |
 | [Atlantic Waves](https://open.spotify.com/track/2zm8UV8DfhAW2S85WNrUuW) | [X Somnum](https://open.spotify.com/artist/6IhgFJsVFWJ5hdFFUxbMeK) | [Atlantic Waves](https://open.spotify.com/album/63Z04a8qOeAYzaknJ4ARbh) | 3:09 | 2024-03-25 |  |
@@ -149,7 +150,7 @@
 | [Peaceful Lapping Waves](https://open.spotify.com/track/0gUu51zyHEZIWGITqwRtYv) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Calming Coastal Waves](https://open.spotify.com/album/6SFtY6F2Pci0KBqek6Nebq) | 2:48 | 2021-11-10 | 2025-07-22 |
 | [Peaceful Ocean Swell](https://open.spotify.com/track/3I6D33n2ZnmwoTipzfEwsS) | [Luxury Waves Secret Sounds](https://open.spotify.com/artist/12M6hon2b8Y4MFMX56nUK3) | [Luxury Ocean Sounds Vol\. 1](https://open.spotify.com/album/5CgEMFNlqJ0jdzhevzK96F) | 2:27 | 2021-11-10 |  |
 | [Peaceful Ocean Swell](https://open.spotify.com/track/5CEjQkKaqViM0jPnG8DJZW) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 3:55 | 2021-11-10 |  |
-| [Peaceful Ocean Waves](https://open.spotify.com/track/4YY6fmY800FEe3bgciVNtO) | [Solmer](https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4) | [Peaceful Ocean Waves](https://open.spotify.com/album/13EFGTaCV00WAErlhkBuCA) | 3:31 | 2025-09-23 |  |
+| [Peaceful Ocean Waves](https://open.spotify.com/track/4YY6fmY800FEe3bgciVNtO) | [Solmer](https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4) | [Peaceful Ocean Waves](https://open.spotify.com/album/13EFGTaCV00WAErlhkBuCA) | 3:31 | 2025-09-23 | 2026-04-07 |
 | [Peaceful Pacific Waves](https://open.spotify.com/track/2peirdBgKHifNrCMrBsCKh) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Waves of the Monterey Peninsula](https://open.spotify.com/album/40IKIiamZMzBVNMPgrSTpN) | 3:55 | 2021-11-10 | 2026-04-03 |
 | [Pebble Beach Waves](https://open.spotify.com/track/74Ccabhzyt1M79qTQ4Jivz) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 5:42 | 2021-11-10 |  |
 | [Pebbles](https://open.spotify.com/track/29VL3WjP61awCnMvx3NYUp) | [Yin Elements](https://open.spotify.com/artist/1WK6PTezwqF9ckYPdy8jwU) | [Off the Deep Ends](https://open.spotify.com/album/35JLEKkJ13mL1VuBQVQboc) | 4:15 | 2021-11-10 | 2025-02-19 |
@@ -188,6 +189,7 @@
 | [Sleep: Soft Ocean](https://open.spotify.com/track/6HV3zhmqLZ6kL9afSxn2t9) | [Ocean Sounds ACE](https://open.spotify.com/artist/4syiBrG4nPb9SCaHgyAHL8) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:29 | 2021-11-10 | 2023-06-20 |
 | [Sleeping by the Ocean](https://open.spotify.com/track/7BJ0UIwJSeVHKzvfNzGIkv) | [Ocean Currents](https://open.spotify.com/artist/387ZQQxQ8isrALG6HeDDEZ) | [Soothing Waves](https://open.spotify.com/album/3aVmiURRbh3c65al5xaDuU) | 2:56 | 2021-11-10 |  |
 | [Sleepy Waves](https://open.spotify.com/track/0Pi0y5q0sWjSucwQR5qqvg) | [World Recorders](https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE) | [Sleepy Waves](https://open.spotify.com/album/0gq2bdNAUry8TOOCtPjXsa) | 3:11 | 2021-11-10 |  |
+| [Slow Coast](https://open.spotify.com/track/2CMUq4tgUWERePRV84NBMp) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Cold Water Warmth](https://open.spotify.com/album/6wWoRDBPOJJdUFI2hgcM7K) | 2:44 | 2026-04-02 |  |
 | [Small Ocean Waves](https://open.spotify.com/track/4h2HItUb5KqqTYmndwZvMC) | [Hawaiian Explosion](https://open.spotify.com/artist/6UY5lHIUz2dzWHwyGy2DMj) | [Island Waves](https://open.spotify.com/album/6jrW7MXGhQoWkfAajd2Fms) | 3:07 | 2021-11-10 |  |
 | [Soft Waves](https://open.spotify.com/track/4AtqK695Bo1OxeXHG9uzGp) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 3:01 | 2021-11-10 | 2024-03-26 |
 | [Soft Waves](https://open.spotify.com/track/79CP1fSEBl2fjZI2qqVTSu) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 2:09 | 2021-11-10 | 2024-03-26 |
@@ -245,7 +247,7 @@
 | [Wave Meditation](https://open.spotify.com/track/4TRvbLTlkIR12Nc0Y9APL6) | [Sollay](https://open.spotify.com/artist/1qXg0buEWygWqO6DM1m4mq) | [Wave Meditation](https://open.spotify.com/album/1PbIsfhhEl1ylIAyDSfZLQ) | 3:24 | 2021-11-10 |  |
 | [Wave Sounds For Relaxing](https://open.spotify.com/track/0MP9WzkvFrUN7eja22ssTm) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [2021 Wave Sounds](https://open.spotify.com/album/6Fy1yge1iqKMl4cnlunDg8) | 3:26 | 2021-11-10 |  |
 | [Wave Sounds From Your Favorite Beach](https://open.spotify.com/track/2R6HB9DiSAxq08vj5dj9B3) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Deluxe Wave Sounds](https://open.spotify.com/album/4ap2CpNw9Uu7uIBe9xeV8E) | 3:04 | 2021-11-10 | 2026-02-12 |
-| [Waves After Midnight](https://open.spotify.com/track/1mDBfN62kGsLNa6qZcsFsK) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 2:40 | 2021-11-10 |  |
+| [Waves After Midnight](https://open.spotify.com/track/1mDBfN62kGsLNa6qZcsFsK) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 2:40 | 2021-11-10 | 2026-04-07 |
 | [Waves Against Old Bones, Namibia Coast](https://open.spotify.com/track/2fMd07ykH6eiNrIgELP1Kd) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Songs from the Sea](https://open.spotify.com/album/444aUY63lz0iMrt3DGPhiv) | 3:45 | 2026-04-02 |  |
 | [Waves And Ocean](https://open.spotify.com/track/0704kRxzpTBD6cyw06aVxy) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:09 | 2021-11-10 |  |
 | [Waves and Sand Sizzle](https://open.spotify.com/track/5IYby2NCqCoc8hGUosxTjY) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Gentle Majestic Ocean Waves](https://open.spotify.com/album/5gffSIi6opT8ifjzrmsQZq) | 3:15 | 2025-07-21 |  |

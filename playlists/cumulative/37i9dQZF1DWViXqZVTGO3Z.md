@@ -2,7 +2,7 @@
 
 ### [Christmas Spirit](https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z)
 
-> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
+> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
 517 songs - 1 day 9 hr 29 min
 
@@ -139,7 +139,7 @@
 | [Go Tell 'Em](https://open.spotify.com/track/2s3D0fcZr4mVagNppwjiCG) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Go Tell 'Em](https://open.spotify.com/album/1TIJr6PcQbLxWohrL2cbER) | 2:28 | 2024-11-29 |  |
 | [Go Tell It](https://open.spotify.com/track/6ctaxJwvmHge2hYFIXNg3L) | [Earnest Pugh](https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt) | [Go Tell It](https://open.spotify.com/album/3FXpr2csTJXhaICxq2qWN4) | 4:20 | 2025-11-16 | 2025-11-26 |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/2Kfk5CsyR3dTcLX7XLmGWe) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Present Jesu](https://open.spotify.com/album/4vF9ocadQvrYkq1kup6Hwv) | 2:30 | 2024-11-17 | 2025-11-06 |
-| [Go Tell It On The Mountain](https://open.spotify.com/track/3waRYV2v3AVY0UQhstmXP0) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Go Tell It On The Mountain](https://open.spotify.com/album/4muIzM1fQLkbHqp0WrKSM5) | 2:50 | 2024-12-08 | 2025-12-08 |
+| [Go Tell It On The Mountain](https://open.spotify.com/track/3waRYV2v3AVY0UQhstmXP0) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Go Tell It On The Mountain](https://open.spotify.com/album/4muIzM1fQLkbHqp0WrKSM5) | 2:50 | 2024-12-08 |  |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/6t9cECeEgIcrjmuWrKaBtw) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 3:38 | 2021-12-11 | 2023-12-16 |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/4axwdkrC1PQvrp3GWedDBZ) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Jeremiah Woods](https://open.spotify.com/artist/6hvKFsimQHgWJsYJcsBomt), [Jami Garcia](https://open.spotify.com/artist/45GgPUXRzUxrIxNFh9T6hz) | [Hope Has Come](https://open.spotify.com/album/4l6WLBSqXqEsWxvWGZ3Bp1) | 2:56 | 2024-07-31 | 2025-11-30 |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Go Tell It On The Mountain](https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US) | 2:20 | 2021-12-11 |  |
@@ -287,7 +287,7 @@
 | [Little Drummer Boy](https://open.spotify.com/track/6UReHZ02sbXyeRSzAlXDZG) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Little Drummer Boy](https://open.spotify.com/album/3VSVkehmJeEWZEUsAZy4PV) | 4:03 | 2025-11-16 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 | 2021-12-11 | 2024-11-18 |
 | [Little Drummer Boy](https://open.spotify.com/track/0yS3skL5mFKSiWXQU2OCrM) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 4:23 | 2021-12-24 |  |
-| [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 |  |
+| [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 | 2026-04-07 |
 | [Little Drummer Boy](https://open.spotify.com/track/7EeV1otijbcvoHqnvIwBn2) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Little Drummer Boy](https://open.spotify.com/album/7eJDZVgQGNFqGFIgL7hBJj) | 2:45 | 2023-11-27 | 2024-08-01 |
 | [Little Drummer Boy \(What Can I Give\)](https://open.spotify.com/track/6uktJXU43r6GZT3fGhiQ1F) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Little Drummer Boy \(What Can I Give\)](https://open.spotify.com/album/4Wht5Vj63ZyGjy8BEdfARw) | 4:51 | 2025-11-08 |  |
 | [Lo, How a Rose E'er Blooming](https://open.spotify.com/track/0MRgBqz9WuTIOlY2ybB87l) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl) | [Lo, How a Rose E'er Blooming](https://open.spotify.com/album/0S1x9TKC6K43OR90zzaBVt) | 2:52 | 2024-11-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Salmo in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,814 likes - 101 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,810 likes - 101 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

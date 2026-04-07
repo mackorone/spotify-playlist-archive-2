@@ -817,6 +817,32 @@
     },
     {
       "album": {
+        "name": "Ek Din (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6wjziPdeJgVa4AcUoKmX8m"
+      },
+      "artists": [
+        {
+          "name": "Meghna Mishra",
+          "url": "https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq"
+        },
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267272,
+      "name": "Ek Din Title Track (Female) - From \"Ek Din\"",
+      "url": "https://open.spotify.com/track/3kO4Zzo9tKkoq2iNElaPIz"
+    },
+    {
+      "album": {
         "name": "Mast Mein Rehne Ka",
         "url": "https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf"
       },
@@ -2772,7 +2798,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 262588,
       "name": "Ranjhe Nu Heer - Unplugged Version - From \"Kis Kisko Pyaar Karoon 2\"",
       "url": "https://open.spotify.com/track/0qHXPEqejOSaCc9Hjiv2A2"

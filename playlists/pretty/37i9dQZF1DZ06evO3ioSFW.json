@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 521987,
+  "num_followers": 522038,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adBUgAAAAAAc4dw+C6nwQ3/2K/YjUaWm",
+  "snapshot_id": "adGmAAAAAAAU1O18VToa+7DbK2L8Kl3X",
   "tracks": [
     {
       "added_at": null,
@@ -710,15 +710,11 @@
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 119856,
-      "name": "Brujer\u00eda - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/6997oOnKPvYwGCLRIFyMbW"
+      "duration_ms": 199946,
+      "name": "No Son Horas - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/4rr6n7cchA3zFkI7Ec1UgN"
     },
     {
       "added_at": null,
@@ -782,11 +778,15 @@
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 199946,
-      "name": "No Son Horas - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/4rr6n7cchA3zFkI7Ec1UgN"
+      "duration_ms": 119856,
+      "name": "Brujer\u00eda - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/6997oOnKPvYwGCLRIFyMbW"
     },
     {
       "added_at": null,

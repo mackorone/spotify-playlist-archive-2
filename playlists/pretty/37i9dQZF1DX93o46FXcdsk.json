@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 50501,
+  "num_followers": 50510,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Krak",
-        "url": "https://open.spotify.com/album/4QQfYGj7CJtp20bWCGV2E2"
-      },
-      "artists": [
-        {
-          "name": "Neet o\u00e9t Lottum",
-          "url": "https://open.spotify.com/artist/4wx8VK3kpeVYQSk9mUsmWY"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Hald Mich 'S Vas",
-      "url": "https://open.spotify.com/track/20yjgzUpdqsYAMykkEWipE"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Adem",
         "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 181066,
       "name": "De Kapitein Deel II",
       "url": "https://open.spotify.com/track/25v3woD9LIoL8wJZDu7HId"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Krak",
+        "url": "https://open.spotify.com/album/4QQfYGj7CJtp20bWCGV2E2"
+      },
+      "artists": [
+        {
+          "name": "Neet o\u00e9t Lottum",
+          "url": "https://open.spotify.com/artist/4wx8VK3kpeVYQSk9mUsmWY"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Hald Mich 'S Vas",
+      "url": "https://open.spotify.com/track/20yjgzUpdqsYAMykkEWipE"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Dan Volg Je Haar Benen",
-        "url": "https://open.spotify.com/album/6kfIG4FMIXWw15GPCPizJI"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Dan Volg Je Haar Benen",
-      "url": "https://open.spotify.com/track/3bqsAeHafn7ug4JuQ5Z4lM"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Adem",
         "url": "https://open.spotify.com/album/4JSTsGRrrd5yBnNtzPsnlO"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 233440,
       "name": "Ren Lenny Ren",
       "url": "https://open.spotify.com/track/7bDI0xPdgGJIq6j8Gueqhj"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Dan Volg Je Haar Benen",
+        "url": "https://open.spotify.com/album/6kfIG4FMIXWw15GPCPizJI"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Dan Volg Je Haar Benen",
+      "url": "https://open.spotify.com/track/3bqsAeHafn7ug4JuQ5Z4lM"
     },
     {
       "added_at": "2020-02-10 14:27:21",

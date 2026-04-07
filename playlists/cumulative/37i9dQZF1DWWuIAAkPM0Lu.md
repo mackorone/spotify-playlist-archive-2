@@ -4,7 +4,7 @@
 
 > Ny fredag, ny musik fra FABRÄK, Specktors, Lasse Skriver,  GUSTO og maaange flere  ❤️‍🔥
 
-9,920 songs - 21 day 11 hr 27 min
+9,921 songs - 21 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8986,6 +8986,7 @@
 | [Turn Me Up](https://open.spotify.com/track/2WIykpFBlqQ0m7EfAKoev1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mabel \(Mixtape\)](https://open.spotify.com/album/1ldMaOBeKQNU3cpGCsN6hq) | 4:11 | 2025-07-24 | 2025-08-01 |
 | [Turn Red](https://open.spotify.com/track/7ruY9EHnzkOc01D5zxGQ1N) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Turn Red](https://open.spotify.com/album/1u2RNnee15k34sv5gMf5IM) | 2:58 | 2025-07-17 | 2025-07-25 |
 | [TURN UP](https://open.spotify.com/track/26dyVJVRK3UprC1CQi1AFT) | [OKARO](https://open.spotify.com/artist/768oWAbPZ3zDTuARKBThtC) | [TURN UP](https://open.spotify.com/album/0Or1zn4ufq0j0q3HK1kNe5) | 2:34 | 2026-02-12 | 2026-02-20 |
+| [Turnaround](https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Turnaround / I'm Hooked](https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw) | 3:14 | 2026-04-02 |  |
 | [Turns Out I'm Amazing](https://open.spotify.com/track/362gyXf96N1s6Zir6oM6vM) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Turns Out I'm Amazing](https://open.spotify.com/album/641tMgvBwVOhW7HzaisxHS) | 3:27 | 2026-01-09 | 2026-01-16 |
 | [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 | 2026-04-02 |  |
 | [Tusind Grunde](https://open.spotify.com/track/38NJlXMkGsWVRsfVnELgtr) | [VINZ](https://open.spotify.com/artist/7eqUKugbjvBTPgBtMDoCfw) | [Kunne Du Tænke Dig At Blive](https://open.spotify.com/album/6YB3IMmZG9zFUveX1cYI06) | 2:57 | 2026-02-19 | 2026-02-27 |

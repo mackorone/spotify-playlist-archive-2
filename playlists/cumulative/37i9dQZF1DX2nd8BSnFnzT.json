@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Autodefesa",
+        "url": "https://open.spotify.com/album/4WqbzM2Cm4IWAhVMYv4kMy"
+      },
+      "artists": [
+        {
+          "name": "Pense",
+          "url": "https://open.spotify.com/artist/5u7Nm1nRMAHWrzoVmCP7fo"
+        },
+        {
+          "name": "Zander",
+          "url": "https://open.spotify.com/artist/2U9BIqZBwHMRy5KspZpzt9"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211316,
+      "name": "Autodefesa",
+      "url": "https://open.spotify.com/track/2avUPgMfgnPOj54zsIrrOK"
+    },
+    {
+      "album": {
         "name": "Labirinto da Mem\u00f3ria",
         "url": "https://open.spotify.com/album/3ojbSAA93Lx3Qdluf14is5"
       },
@@ -6290,7 +6312,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 207360,
       "name": "NA NOITE PASSADA EU N\u00c3O DORMI",
       "url": "https://open.spotify.com/track/0iiytYOHwIudzWXgFg3NrM"

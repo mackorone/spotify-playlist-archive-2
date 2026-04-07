@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Jes\u00fas Adri\u00e1n Romero",
-  "num_followers": 504905,
+  "num_followers": 505115,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "Suelto",
-        "url": "https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS"
-      },
-      "artists": [
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Suelto",
-      "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
-    },
-    {
-      "added_at": "2026-03-25 20:18:19",
-      "album": {
         "name": "Como En El Cielo (En Vivo)",
         "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 488333,
       "name": "No Hay Lugar M\u00e1s Alto (En Vivo) [feat. Christine D'clario]",
       "url": "https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9"
+    },
+    {
+      "added_at": "2026-03-25 20:18:19",
+      "album": {
+        "name": "Suelto",
+        "url": "https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "Suelto",
+      "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -323,18 +323,18 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "De Vuelta al Jardin",
-        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
+        "name": "S\u00e9 Fuerte",
+        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
       },
       "artists": [
         {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
         }
       ],
-      "duration_ms": 299600,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
+      "duration_ms": 251429,
+      "name": "S\u00e9 fuerte",
+      "url": "https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -359,18 +359,18 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "S\u00e9 Fuerte",
-        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+        "name": "De Vuelta al Jardin",
+        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
       },
       "artists": [
         {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 251429,
-      "name": "S\u00e9 fuerte",
-      "url": "https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv"
+      "duration_ms": 299600,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
+        "name": "S\u00e9 Fuerte",
+        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 211995,
+      "name": "Cada ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
+    },
+    {
+      "added_at": "2026-03-25 20:18:19",
+      "album": {
         "name": "DTOX",
         "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 324493,
       "name": "Inexplicable",
       "url": "https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24"
-    },
-    {
-      "added_at": "2026-03-25 20:18:19",
-      "album": {
-        "name": "S\u00e9 Fuerte",
-        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
-      },
-      "artists": [
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 211995,
-      "name": "Cada ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -1587,22 +1587,18 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "La Sunamita",
-        "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
+        "name": "Santo es el que Vive",
+        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
       },
       "artists": [
         {
           "name": "Montesanto",
           "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        },
-        {
-          "name": "Alex Marquez Oficial",
-          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
         }
       ],
-      "duration_ms": 773909,
-      "name": "La Sunamita",
-      "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
+      "duration_ms": 634551,
+      "name": "Santo es el que Vive",
+      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -1639,22 +1635,6 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "Glorioso Rey",
-        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 310231,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
-    },
-    {
-      "added_at": "2026-03-25 20:18:19",
-      "album": {
         "name": "Voy A Profetizar",
         "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
       },
@@ -1671,18 +1651,38 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "Santo es el que Vive",
-        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
+        "name": "Glorioso Rey",
+        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 310231,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2026-03-25 20:18:19",
+      "album": {
+        "name": "La Sunamita",
+        "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
       },
       "artists": [
         {
           "name": "Montesanto",
           "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        },
+        {
+          "name": "Alex Marquez Oficial",
+          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
         }
       ],
-      "duration_ms": 634551,
-      "name": "Santo es el que Vive",
-      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
+      "duration_ms": 773909,
+      "name": "La Sunamita",
+      "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -1699,6 +1699,46 @@
       "duration_ms": 259613,
       "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
       "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
+    },
+    {
+      "added_at": "2026-03-25 20:18:19",
+      "album": {
+        "name": "Todos Mis Mejores Amigos",
+        "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "M\u00e1s All\u00e1 De Tu Ventana",
+      "url": "https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu"
+    },
+    {
+      "added_at": "2026-03-25 20:18:19",
+      "album": {
+        "name": "Lo Peor de Mi",
+        "url": "https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 280450,
+      "name": "Lo Peor de Mi",
+      "url": "https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs"
     },
     {
       "added_at": "2026-03-25 20:18:19",
@@ -1735,26 +1775,6 @@
     {
       "added_at": "2026-03-25 20:18:19",
       "album": {
-        "name": "Todos Mis Mejores Amigos",
-        "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 305573,
-      "name": "M\u00e1s All\u00e1 De Tu Ventana",
-      "url": "https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu"
-    },
-    {
-      "added_at": "2026-03-25 20:18:19",
-      "album": {
         "name": "Poderoso",
         "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
       },
@@ -1767,26 +1787,6 @@
       "duration_ms": 296254,
       "name": "Tu Fidelidad",
       "url": "https://open.spotify.com/track/2oYa7geFquIGxUMbRzqqqQ"
-    },
-    {
-      "added_at": "2026-03-25 20:18:19",
-      "album": {
-        "name": "Operaci\u00f3n Mundial",
-        "url": "https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "El Nombre De Jes\u00fas (feat. Christine D'clario)",
-      "url": "https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN"
     }
   ],
   "unique_name": "Cl\u00e1sicos Cristianos",

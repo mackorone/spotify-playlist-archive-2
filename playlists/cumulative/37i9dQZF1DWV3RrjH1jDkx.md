@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra BLAKSTA, Bebe Rexha, vinni og mange flere!🎵
 
-10,216 songs - 22 day 2 hr 22 min
+10,217 songs - 22 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9289,6 +9289,7 @@
 | [Turn The Page](https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Turn The Page](https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq) | 4:22 | 2024-04-26 | 2024-05-03 |
 | [Turn This Truck Around](https://open.spotify.com/track/6Yvrv046xNsQXX3MirnO8l) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Turn This Truck Around](https://open.spotify.com/album/1vvuNH6s9nkkUIZKf1itJg) | 3:24 | 2025-07-24 | 2025-08-01 |
 | [Turn up på Eikeli \(BOTA\)](https://open.spotify.com/track/4sqFOWps8QqYRSqAGBh0zP) | [Big Nik](https://open.spotify.com/artist/5OG4SzWLd2mvTCSfS3gRkI), [STASJONEN](https://open.spotify.com/artist/15O7IzJvRWYoECdrIMpV94) | [Turn up på Eikeli \(BOTA\)](https://open.spotify.com/album/6TswYus1u6C0CK6mSt6orD) | 2:14 | 2024-08-01 | 2024-08-09 |
+| [Turnaround](https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Turnaround / I'm Hooked](https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw) | 3:14 | 2026-04-02 |  |
 | [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 | 2026-04-02 |  |
 | [Tusen bita](https://open.spotify.com/track/0lFIk9YrLB3XOjU2NMLJTM) | [Gunn Kvaale](https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO) | [Tusen bita](https://open.spotify.com/album/7wdLd5dDYzmWOh070WWyoZ) | 3:00 | 2024-05-23 | 2024-06-01 |
 | [Tusen bitar](https://open.spotify.com/track/31MkvVpevTt8tSgWV84hj9) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Tusen bitar](https://open.spotify.com/album/1MX02lR7oIOKRqdEEmRxUr) | 4:41 | 2025-11-13 | 2025-11-21 |

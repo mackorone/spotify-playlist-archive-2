@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 162933,
       "name": "500 Miles",
       "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 230211,
       "name": "Ai \u0111\u01b0a em v\u1ec1 (Cukak Remix)",
       "url": "https://open.spotify.com/track/2YxMOZsk7PnIwLW6UI5Poo"
@@ -60438,7 +60438,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 125255,
       "name": "Recall",
       "url": "https://open.spotify.com/track/53WBImxa8UCdByzSJaBRSd"
@@ -61842,7 +61842,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -61860,7 +61860,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -72271,6 +72271,28 @@
     },
     {
       "album": {
+        "name": "the kill 2",
+        "url": "https://open.spotify.com/album/7JlIZDHuFle3OVOiUaJF1U"
+      },
+      "artists": [
+        {
+          "name": "Lex Amarni",
+          "url": "https://open.spotify.com/artist/1GJLP5vEHWn08VOlzfR8ID"
+        },
+        {
+          "name": "2muchmotion",
+          "url": "https://open.spotify.com/artist/1DW3WjdUKh9hvg2bh89IVw"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121339,
+      "name": "the kill 2",
+      "url": "https://open.spotify.com/track/6YxTIzgXjDQR5r2u6uA2qO"
+    },
+    {
+      "album": {
         "name": "The Last Airbender (VIP)",
         "url": "https://open.spotify.com/album/35W2Oe7zayEFWvV7zM7GY1"
       },
@@ -75378,7 +75400,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 123076,
       "name": "TYPE BEAT",
       "url": "https://open.spotify.com/track/3OhcMbapB8evsgarEoPGH0"
@@ -80958,7 +80980,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-423 songs - 23 hr 14 min
+424 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Fluorescent \- Meditation Rework](https://open.spotify.com/track/2dKEuiYDd07R9ekDK3v8Kp) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Fluorescent \(Meditation Rework\)](https://open.spotify.com/album/38QGNYxFbXNr9sCjHi59YE) | 2:27 | 2023-09-08 | 2023-09-30 |
 | [Focus](https://open.spotify.com/track/3l7mCSypI6tYJvYe8dDI4f) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Focus](https://open.spotify.com/album/0Q6OXWzRgM4pbUlxYMV2Pb) | 2:47 | 2020-12-08\* | 2021-05-27 |
 | [Focus One](https://open.spotify.com/track/3XbLt09x1IBDMPYDTFRZXM) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus One](https://open.spotify.com/album/7pPXleKmHlZ8YPkQTxetQ1) | 3:31 | 2021-12-22 | 2025-07-16 |
-| [Focus Six](https://open.spotify.com/track/41NUt7zfx0tOAj3QcLZBGX) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Six](https://open.spotify.com/album/2aGVOo42ckBShiGz3gQ5YX) | 2:44 | 2025-01-14 |  |
+| [Focus Six](https://open.spotify.com/track/41NUt7zfx0tOAj3QcLZBGX) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Six](https://open.spotify.com/album/2aGVOo42ckBShiGz3gQ5YX) | 2:44 | 2025-01-14 | 2026-04-07 |
 | [Focus Ten](https://open.spotify.com/track/6rtxEcszeVD0j86GJc2ZvQ) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Ten](https://open.spotify.com/album/0KBrHAUFZ5cmLuu5jx65xM) | 2:50 | 2025-07-15 | 2026-02-13 |
 | [Focus Within](https://open.spotify.com/track/7kiz2xQSHHaCifsJQ1rppt) | [Bernardo Fuches](https://open.spotify.com/artist/0qymchRqSiaK2RgmjPOTCs) | [Focus Within](https://open.spotify.com/album/7u4hpdAQdp3IEFXC7dy1lv) | 2:37 | 2022-04-21 | 2025-03-08 |
 | [foggy lake](https://open.spotify.com/track/32EsAYQLaWHpEIDkEY7FTt) | [Cosmic Sooth](https://open.spotify.com/artist/5ozCJLjahj9KK6MX8isMc7) | [foggy lake](https://open.spotify.com/album/4Hptpc8NsaFT0EJprDcIkK) | 3:28 | 2025-05-14 |  |
@@ -194,6 +194,7 @@
 | [Hidden Track](https://open.spotify.com/track/3KFihk1WmYESnt6ZRvvMKl) | [DEVOTED](https://open.spotify.com/artist/3G0UGz2ulKDrTkl3g3qGJN) | [Hidden Track](https://open.spotify.com/album/6jggn9swAQ7FfSpsJf65RI) | 2:52 | 2022-12-20 | 2024-04-19 |
 | [Hidden Track](https://open.spotify.com/track/4abHSCaJj851TyH79IvBJ2) | [DEVOTED](https://open.spotify.com/artist/3G0UGz2ulKDrTkl3g3qGJN) | [Hidden Track](https://open.spotify.com/album/0zfTCeq90Hqy38fhijlPtz) | 2:52 | 2021-01-15 | 2022-12-10 |
 | [High Flyer](https://open.spotify.com/track/4ofswta82cpa2mJv6jrpyb) | [Sola Slavic](https://open.spotify.com/artist/24qzfEYRSQzJQL4ASv8rvq) | [High Flyer](https://open.spotify.com/album/5PYv6xEDp6z2VsfuNlTXGT) | 3:07 | 2022-05-19 | 2023-12-08 |
+| [Holistic](https://open.spotify.com/track/6nrGfFicE6QvkCZY8LD1uZ) | [Celestial Echoes](https://open.spotify.com/artist/2kPdGnJr2JeSSlSsyjS41v) | [Holistic](https://open.spotify.com/album/6h9dBL7OpjXuzeZm9T0I7K) | 2:44 | 2026-02-12 |  |
 | [Homeopat](https://open.spotify.com/track/1GvvgUzaFTeRGn7tCEs6R7) | [Tian Taylor](https://open.spotify.com/artist/0N6kUvm8XIRQd9G36AIuV1) | [Homeopat](https://open.spotify.com/album/3KWiD2DPrTHR5XnJ5fDqp2) | 3:54 | 2021-06-16 | 2022-05-20 |
 | [Hopeful](https://open.spotify.com/track/5xoYe5BbxnfYhJXc923PHR) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Ambient Compilation, Vol\. 4: Sound Therapy](https://open.spotify.com/album/0KAg4h3GArUNPf55oQFWOw) | 4:24 | 2020-12-08\* | 2021-05-27 |
 | [Horizon](https://open.spotify.com/track/4glMhmZqDuP9poJm8937M7) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Horizon](https://open.spotify.com/album/2pgoMua7WxRxudODsXbHYB) | 2:24 | 2024-07-12 | 2025-02-27 |

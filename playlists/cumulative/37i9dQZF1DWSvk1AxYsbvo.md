@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-288 songs - 16 hr 43 min
+290 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/1lQGsABYCrdPuzzdrgkeoS) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/2xcQMwlQVpYtz52pzpLEJI) | 3:05 | 2022-07-08 | 2023-07-08 |
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2022-05-03 | 2022-07-28 |
 | [Cosmic Mind](https://open.spotify.com/track/71u47GqSwH2s7AL7g7iSoO) | [Shin Yoon Chul](https://open.spotify.com/artist/1BvPZT8kSnPIg3I0JLtRhM), [장재원](https://open.spotify.com/artist/61LdhRUyyN3FhAljWeu5X8) | [Cosmic Mind](https://open.spotify.com/album/1NmWH4YekDLlccqYv1PQ1T) | 4:23 | 2025-05-12 | 2025-05-20 |
-| [Could you?](https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Mind Laundry](https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4) | 3:50 | 2025-09-03 |  |
+| [Could you?](https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Mind Laundry](https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4) | 3:50 | 2025-09-03 | 2026-04-07 |
 | [Daffodil](https://open.spotify.com/track/3pH8kBf8rosKbeIw7QRaki) | [Saevie](https://open.spotify.com/artist/6VkF74y0Xi38WJyePVqwCV) | [Daffodil](https://open.spotify.com/album/29OLfVvl0gZuZ7uQzQ50vu) | 3:44 | 2025-09-16 | 2025-10-14 |
 | [Dancing With You](https://open.spotify.com/track/3EVhjxPooIaS3AzpIejqVz) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Dancing With You](https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R) | 3:56 | 2022-11-09 | 2024-04-19 |
 | [Dancing With You](https://open.spotify.com/track/7g8LSPXjUmNi3433qYyTOT) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Dancing With You](https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS) | 3:56 | 2022-05-03 | 2022-12-03 |
@@ -76,10 +76,11 @@
 | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/3nteYfnCaASGDB070QmgmU) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/album/6r81HcByuYKc59QKuukKxX) | 3:04 | 2025-04-14 |  |
 | [everything has changed](https://open.spotify.com/track/6e99GMMcdhA7B73qMK3zK5) | [sangm1ee](https://open.spotify.com/artist/6QFgMkkLnOiK4HajbRQA7A) | [everything has changed](https://open.spotify.com/album/46rBuWo3qM76iUeKdpbwNo) | 2:20 | 2025-06-23 | 2025-07-07 |
 | [Falling](https://open.spotify.com/track/6qk7gfVgnuiKPaJ5b9SYvn) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Falling](https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ) | 4:25 | 2022-05-03 | 2024-10-28 |
+| [Falling for you](https://open.spotify.com/track/20cR2d52u31dj9HrGXlcui) | [Arn](https://open.spotify.com/artist/5rwVUtqdfuo4n6Sfgg0Hgy) | [Floating thoughts](https://open.spotify.com/album/1N0BlNElOVwAeidJN4otFM) | 4:14 | 2026-04-06 |  |
 | [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 | 2022-07-08 | 2024-04-19 |
 | [Falling In Love 너를 보네](https://open.spotify.com/track/61VCxojnsTkde1teMCMW0j) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP) | 3:28 | 2022-05-03 | 2022-07-29 |
 | [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 | 2024-12-05 |  |
-| [fiancé](https://open.spotify.com/track/2UNKZXGD3kFTdiHpeKSRhP) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [fiancé](https://open.spotify.com/album/6aV9eqQDBuJCGdkDn5vw0I) | 3:40 | 2026-03-23 |  |
+| [fiancé](https://open.spotify.com/track/2UNKZXGD3kFTdiHpeKSRhP) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [fiancé](https://open.spotify.com/album/6aV9eqQDBuJCGdkDn5vw0I) | 3:40 | 2026-03-23 | 2026-04-07 |
 | [Flower\(Long For You\)](https://open.spotify.com/track/2lsZoElIkFgYukTEgZQrZd) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Rinza Noodle House \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4CavyFVmLF2o8iZL0TkgND) | 3:07 | 2025-06-16 | 2025-07-01 |
 | [For a Long Time](https://open.spotify.com/track/5hFnrECr3m8GzPI21BepWZ) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [For a Long Time](https://open.spotify.com/album/712hfheO6b7WDAnZKDmO9Z) | 3:38 | 2026-03-23 |  |
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2022-08-29 | 2023-07-08 |
@@ -110,6 +111,7 @@
 | [How Did You \(feat\. Yerin Baek\)](https://open.spotify.com/track/3rkH2oQnehYxTA0Vk50D1Z) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [How Did You](https://open.spotify.com/album/1s3RA9wdbVXkSVHYPBIk8E) | 4:09 | 2023-11-04 | 2024-04-19 |
 | [How is it?](https://open.spotify.com/track/2iDaalTfhjBWcNTInRk5DZ) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [No, Thank You OST Part.2](https://open.spotify.com/album/65Sjg70pHSmlRW5RHFRcb9) | 3:02 | 2026-03-16 | 2026-03-24 |
 | [How's your night](https://open.spotify.com/track/5smRDSCWCMUY15WcYOyC5D) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/7J2D83uEMfzBtzjDOAEcTt) | 4:23 | 2026-03-16 |  |
+| [Hug Me \(I'm In Your Arms\)](https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Broken Heart](https://open.spotify.com/album/5q19924bYcyPB5dvkivG84) | 3:58 | 2026-04-06 |  |
 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 | 2022-06-18 | 2025-05-14 |
 | [I Wanna Be With You](https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 3:24 | 2022-05-03 | 2022-12-30 |
 | [I Wanna Be With You](https://open.spotify.com/track/5MePbEuuuTGWDJi6UbNFgb) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/0WBqQSi54g3khAPyVTGHhv) | 3:24 | 2023-10-16 | 2024-04-19 |

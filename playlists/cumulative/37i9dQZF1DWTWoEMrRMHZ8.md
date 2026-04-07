@@ -2,7 +2,7 @@
 
 ### [Divina MPB](https://open.spotify.com/playlist/37i9dQZF1DWTWoEMrRMHZ8)
 
-> As belas novidades da MPB\. Foto: Joyce Alane
+> As belas novidades da MPB\. Foto: Tuyo
 
 1,160 songs - 2 day 19 hr 37 min
 

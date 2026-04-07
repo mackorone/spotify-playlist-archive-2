@@ -8934,7 +8934,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 125050,
       "name": "Masallaci",
       "url": "https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ"
@@ -12242,6 +12242,28 @@
       "duration_ms": 219181,
       "name": "Room (with Adekunle Gold & 2 Chainz)",
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
+    },
+    {
+      "album": {
+        "name": "Roomie",
+        "url": "https://open.spotify.com/album/35jKOwCukxtlhNMKTBRr6w"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150280,
+      "name": "Roomie",
+      "url": "https://open.spotify.com/track/5ahvQM3tvVNgCfAYvZcgJk"
     },
     {
       "album": {

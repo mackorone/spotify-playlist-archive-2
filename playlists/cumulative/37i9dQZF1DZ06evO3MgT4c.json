@@ -1107,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "Teenage Emotions",
+        "url": "https://open.spotify.com/album/6upTR3RFKR7K20OnHRXDkL"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246325,
+      "name": "Peek A Boo",
+      "url": "https://open.spotify.com/track/5hx4FpDZOnDVYlyoG3rMks"
+    },
+    {
+      "album": {
         "name": "Peek A Boo",
         "url": "https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b"
       },
@@ -1122,7 +1144,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 247612,
       "name": "Peek A Boo",
       "url": "https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje"

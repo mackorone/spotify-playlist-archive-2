@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 898143,
+  "num_followers": 898131,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "barquito (bonus track)",
         "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 204974,
       "name": "barquito - bonus track",
       "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Yael Na\u00efm",
-        "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
-      },
-      "artists": [
-        {
-          "name": "Yael Naim",
-          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "New Soul",
-      "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "doing my best",
         "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 182733,
       "name": "doing my best",
       "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "Yael Na\u00efm",
+        "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
+      },
+      "artists": [
+        {
+          "name": "Yael Naim",
+          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "New Soul",
+      "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 278200,
       "name": "Green & Gold",
       "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 257400,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "\u00c0 TOUS LES B\u00c2TARDS",
-        "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 194280,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
@@ -1099,22 +1079,22 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Bloody Eyes",
-        "url": "https://open.spotify.com/album/7x7YMbEy3FNKzoRPMa5hIU"
+        "name": "\u00c0 TOUS LES B\u00c2TARDS",
+        "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
       "artists": [
         {
-          "name": "Passion Mango",
-          "url": "https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn"
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
         },
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 159729,
-      "name": "Bloody Eyes",
-      "url": "https://open.spotify.com/track/4YUBcBSUIXfCNNFAaWQcyG"
+      "duration_ms": 194280,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1139,6 +1119,22 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+        "name": "Bloody Eyes",
+        "url": "https://open.spotify.com/album/7x7YMbEy3FNKzoRPMa5hIU"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "Passion Mango",
+          "url": "https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn"
+        },
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+      "duration_ms": 159729,
+      "name": "Bloody Eyes",
+      "url": "https://open.spotify.com/track/4YUBcBSUIXfCNNFAaWQcyG"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "failles",
-        "url": "https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk"
-      },
-      "artists": [
-        {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
-        }
-      ],
-      "duration_ms": 166401,
-      "name": "heureux",
-      "url": "https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 158613,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "duration_ms": 166401,
+      "name": "heureux",
+      "url": "https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 208890,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "i don\u2019t want your garden",
         "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 225570,
       "name": "i don\u2019t want your garden",
       "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 208890,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Glory (Extended)",
-        "url": "https://open.spotify.com/album/5ybA8BfD2SVzJQ0rwWIcCz"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 302400,
-      "name": "Jamie",
-      "url": "https://open.spotify.com/track/1CixWJUzpYMzFWkViPYcri"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "Joli monde",
         "url": "https://open.spotify.com/album/0ue1oWkvCPf8gAGnJ6m9t6"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 228066,
       "name": "Tableau",
       "url": "https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "Glory (Extended)",
+        "url": "https://open.spotify.com/album/5ybA8BfD2SVzJQ0rwWIcCz"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 302400,
+      "name": "Jamie",
+      "url": "https://open.spotify.com/track/1CixWJUzpYMzFWkViPYcri"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Beautiful Thingz",
-        "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
-      },
-      "artists": [
-        {
-          "name": "Cocoon",
-          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
-        }
-      ],
-      "duration_ms": 208031,
-      "name": "Beautiful Thingz",
-      "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "\u00e0 deux",
         "url": "https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "Feel Myself / Wait For You",
-        "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
+        "name": "Beautiful Thingz",
+        "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
       },
       "artists": [
         {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
         }
       ],
-      "duration_ms": 164002,
-      "name": "Feel Myself",
-      "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
+      "duration_ms": 208031,
+      "name": "Beautiful Thingz",
+      "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
+        "name": "Feel Myself / Wait For You",
+        "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Feel Myself",
+      "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
         "name": "Les bruits de la ville",
         "url": "https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI"
       },
@@ -1503,22 +1503,6 @@
       "duration_ms": 264880,
       "name": "Il neige",
       "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
-        "name": "Bodega",
-        "url": "https://open.spotify.com/album/4FUQszz37SGd31O8Ppzklo"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 129745,
-      "name": "Bodega",
-      "url": "https://open.spotify.com/track/0RCmvFMkxUTOdMKENZhGkj"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
+        "name": "Bodega",
+        "url": "https://open.spotify.com/album/4FUQszz37SGd31O8Ppzklo"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 129745,
+      "name": "Bodega",
+      "url": "https://open.spotify.com/track/0RCmvFMkxUTOdMKENZhGkj"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
         "name": "Please Slow Down (Rubber Bridge Version)",
         "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
       },
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211027,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
         "name": "Qu'en restera-t-il ?",
         "url": "https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55"
       },
@@ -1567,6 +1583,22 @@
       "duration_ms": 253584,
       "name": "Une autre histoire d'amour",
       "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"
+    },
+    {
+      "added_at": "2026-04-02 22:02:18",
+      "album": {
+        "name": "safe & sound",
+        "url": "https://open.spotify.com/album/6RBQXB0TaQI3JfQINmZYzs"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 271662,
+      "name": "safe & sound",
+      "url": "https://open.spotify.com/track/6fWZFYQ1EMQz0JaOMqG6qV"
     },
     {
       "added_at": "2026-04-02 22:02:18",
@@ -1591,22 +1623,6 @@
     {
       "added_at": "2026-04-02 22:02:18",
       "album": {
-        "name": "safe & sound",
-        "url": "https://open.spotify.com/album/6RBQXB0TaQI3JfQINmZYzs"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 271662,
-      "name": "safe & sound",
-      "url": "https://open.spotify.com/track/6fWZFYQ1EMQz0JaOMqG6qV"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
         "name": "City Walls",
         "url": "https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 311960,
       "name": "City Walls",
       "url": "https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4"
-    },
-    {
-      "added_at": "2026-04-02 22:02:18",
-      "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211027,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
     },
     {
       "added_at": "2026-04-02 22:02:18",

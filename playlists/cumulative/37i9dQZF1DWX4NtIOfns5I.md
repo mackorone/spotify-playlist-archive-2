@@ -4,7 +4,7 @@
 
 > jessie mazin on the cover <3
 
-765 songs - 1 day 22 hr 9 min
+766 songs - 1 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [SPANISH ARMADA VAR\. XV](https://open.spotify.com/track/4s5xjrNtmAKKv1A66rfHVR) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [SPANISH ARMADA VAR\. XV](https://open.spotify.com/album/6WSRJN51d3S5OmWNi6Bv13) | 2:27 | 2025-09-05 | 2026-02-07 |
 | [spoiling me](https://open.spotify.com/track/1SjYeT1ntGnK0yWp9rMGpR) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [spoiling me](https://open.spotify.com/album/7zZ8oSOHAJyqMBJb3QAvXH) | 3:04 | 2024-07-08 | 2024-10-12 |
 | [Sports](https://open.spotify.com/track/4YGzGO76QnzV2JRsQCB2cb) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Duck](https://open.spotify.com/album/4SEvWrTXazys86CggJfd7p) | 2:54 | 2025-12-12 |  |
+| [spring cleaning](https://open.spotify.com/track/1rZggDe0NlgkU63OkbD3r8) | [Ethan Regan](https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e) | [spring cleaning](https://open.spotify.com/album/2csnhRN3yY164SmOUXJLLE) | 4:03 | 2026-04-06 |  |
 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2025-01-17 | 2025-08-09 |
 | [Springtime Red Tulips](https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Springtime Red Tulips](https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1) | 4:34 | 2023-10-06 | 2024-03-16 |
 | [Starting Over](https://open.spotify.com/track/5fao34Uq2Fj7iSbv68p557) | [mer marcum](https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN) | [Starting Over](https://open.spotify.com/album/4FiYEgsEsoKVux0CJioAUH) | 3:58 | 2024-10-11 | 2025-05-10 |

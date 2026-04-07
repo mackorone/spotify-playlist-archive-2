@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Aaj Kal",
+        "url": "https://open.spotify.com/album/775IVwkgUkaYInt3sbcZs5"
+      },
+      "artists": [
+        {
+          "name": "OutStation",
+          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157922,
+      "name": "Aaj Kal",
+      "url": "https://open.spotify.com/track/7KLNJb5wTMkv3sWljtx49p"
+    },
+    {
+      "album": {
         "name": "Aaja Hulchal Karenge (From the Movie \"Kis Kisko Pyaar Karoon 2\")",
         "url": "https://open.spotify.com/album/0aR5jUCi4MUVNb673B9VIC"
       },
@@ -562,7 +580,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 286880,
       "name": "Aaya Sher (From \"The Paradise\") (Hindi)",
       "url": "https://open.spotify.com/track/6QoaGEJbkAZEgUIvYVcqTS"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 138125,
       "name": "Arzoo",
       "url": "https://open.spotify.com/track/1vRA3eJ6ViHHmCTHoyJYTW"
@@ -4992,7 +5010,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 254855,
       "name": "Haal e Dil (feat. Shreya Ghoshal)",
       "url": "https://open.spotify.com/track/6giGK3PEAJDZpGxxf9FX8i"
@@ -5756,6 +5774,32 @@
       "duration_ms": 257177,
       "name": "Inaam",
       "url": "https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl"
+    },
+    {
+      "album": {
+        "name": "Inaam (Ft. Badshah)",
+        "url": "https://open.spotify.com/album/5TMWAUvmDF6XPK2P0TH0tp"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Ansh Chahal",
+          "url": "https://open.spotify.com/artist/2vaV6Tzkkt5r8OUpyAYzpz"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Inaam (Ft. Badshah)",
+      "url": "https://open.spotify.com/track/5haZbtveqI9v1svcc5IDx6"
     },
     {
       "album": {
@@ -11594,7 +11638,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 168928,
       "name": "Rogi Mai (Kehna Hi Kya)",
       "url": "https://open.spotify.com/track/68yZT5W0TaaKZPdxVe2jSy"
@@ -12140,6 +12184,32 @@
       "duration_ms": 167045,
       "name": "Saiyyan Na Maane",
       "url": "https://open.spotify.com/track/1k2YAgMhCzveYZkNcloocK"
+    },
+    {
+      "album": {
+        "name": "Sajan Re",
+        "url": "https://open.spotify.com/album/0g3VCSdKJuAjcVlXDnvtLT"
+      },
+      "artists": [
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168083,
+      "name": "Sajan Re",
+      "url": "https://open.spotify.com/track/4IY2T284jwbMvcff8LhNXi"
     },
     {
       "album": {
@@ -13130,6 +13200,32 @@
       "duration_ms": 257604,
       "name": "Tabaahi - From \"Toxic\"",
       "url": "https://open.spotify.com/track/0bRRLtD0Tmfg8ZaP9Qf1Sq"
+    },
+    {
+      "album": {
+        "name": "Ek Din (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6wjziPdeJgVa4AcUoKmX8m"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221941,
+      "name": "Tadapnaa Judaa Judaa - From \"Ek Din\"",
+      "url": "https://open.spotify.com/track/1UvnM0La89vHz7NTco1oiI"
     },
     {
       "album": {

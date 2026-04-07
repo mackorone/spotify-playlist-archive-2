@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Louis Philippson
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,483 likes - 78 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,484 likes - 78 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 50 | [Fourteen Romances, Op\. 34: No\. 14, Vocalise](https://open.spotify.com/track/2XpbUNjAWzG5HsW5Ovkxow) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Nadine Koutcher](https://open.spotify.com/artist/42CGkrzOCYr68Mj9qwTLx5), [Dmitry Pavliy](https://open.spotify.com/artist/2xOEyommtL4X6GDJIusqvX) | [Fourteen Romances, Op\. 34: No\. 14, Vocalise](https://open.spotify.com/album/335oQtXYSmsGvJP8JbFsnr) | 6:53 |
 | 51 | [Piano Trio, Op\. 36 "Rural Life n Bohemia"](https://open.spotify.com/track/5qPyqNf5NsEsqoPp5ZCQhU) | [Rudolf Friml](https://open.spotify.com/artist/2kq31y5Wta1aVv4Xw5JmMU), [Hermitage Piano Trio](https://open.spotify.com/artist/3zfsGBhJ9zLy6LSlsKwq4K) | [Dvořák's Circle](https://open.spotify.com/album/4uGBJicPtdK6bqd4RMMtCc) | 9:18 |
 | 52 | [Sonata dramatico, Op\. 25: I\. Allegro](https://open.spotify.com/track/0GzW9a0mFT53bnHjnImop5) | [Clara Kathleen Rogers](https://open.spotify.com/artist/6JSKX1kQTGZiKmD6O4Mzse), [Solomia Soroka](https://open.spotify.com/artist/6vF4KattsM9im77xrbd5hD), [Phillip Silver](https://open.spotify.com/artist/5ITfovD8PvP642Jxpb6bhd) | [Lost American Violin Sonatas, Vol\. 2](https://open.spotify.com/album/0Vim9t0ryk7xiHPOoq8Pv4) | 7:36 |
-| 53 | [Nimue](https://open.spotify.com/track/25jX7kZf1EnbGI5BI5QV4e) | [Thales Augusto Corrêa](https://open.spotify.com/artist/3TGoK1AWTOf292EiQgpMqU), [The Unpredictable](https://open.spotify.com/artist/7vNrtVzgXtbnSC8ijs2Ti6) | [OPUS 7 for Flute and Harp](https://open.spotify.com/album/2SZij7SzkScMzVP1OntlIu) | 5:03 |
+| 53 | [Nimue](https://open.spotify.com/track/25jX7kZf1EnbGI5BI5QV4e) | [Thales Augusto Corrêa](https://open.spotify.com/artist/3TGoK1AWTOf292EiQgpMqU), [The Unpredictable](https://open.spotify.com/artist/7vNrtVzgXtbnSC8ijs2Ti6) | [Opus 7 for Flute and Harp](https://open.spotify.com/album/2SZij7SzkScMzVP1OntlIu) | 5:03 |
 | 54 | [Piano Sonata No\. 2 in G Minor, Op\. 22: I\. So rasch wie möglich](https://open.spotify.com/track/1a2UUxfwc7jt0pmhFbNHSZ) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Sophia Agranovich](https://open.spotify.com/artist/1pJBx0Uwl3vjFqEUrVpC1C) | [A Reverie of the Soul: Piano Works by Robert Schumann](https://open.spotify.com/album/1pgrzUvmGqWpiF91Ujiq63) | 6:32 |
 | 55 | [Stabat Mater](https://open.spotify.com/track/2OLFYS4S9XslUPXavRXIYt) | [Kerensa Briggs](https://open.spotify.com/artist/36QRQEhytT1w0kRiF3g27b), [The Byrd Ensemble](https://open.spotify.com/artist/3XCC72Z0jeJtJrxgk1I8Ha) | [Stabat Mater](https://open.spotify.com/album/6dNjPPEY76rU0S2YyZqRlb) | 6:06 |
 | 56 | [Petite camusette](https://open.spotify.com/track/3Vn6vfgVrtRGCmmeDOF3Ql) | [Johannes Ockeghem](https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO), [The Linarol Consort](https://open.spotify.com/artist/5ZmWIcQ8PcA5gWUbuG7JWx) | [Ockeghem: Petite Camusette](https://open.spotify.com/album/71gSXboFPdJMwvc7Yh1CXa) | 2:02 |

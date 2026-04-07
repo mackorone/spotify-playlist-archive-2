@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Nostalgix",
-  "num_followers": 270461,
+  "num_followers": 270486,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -563,18 +563,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
       },
       "artists": [
         {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
         }
       ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
+      "duration_ms": 164244,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -603,22 +607,18 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Ragie Ban",
-          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
         }
       ],
-      "duration_ms": 164244,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "Loaded Gun",
+        "url": "https://open.spotify.com/album/1sT9xYGwgYCcac9vuIPoQD"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "duration_ms": 194883,
+      "name": "Loaded Gun",
+      "url": "https://open.spotify.com/track/19PBU0nWYBOMzHOAxDBEcg"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "Circuit",
         "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
       },
@@ -1351,6 +1367,26 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
         "name": "Contact",
         "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
       },
@@ -1367,22 +1403,6 @@
       "duration_ms": 220689,
       "name": "Entwined (feat. Grimes)",
       "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "Loaded Gun",
-        "url": "https://open.spotify.com/album/1sT9xYGwgYCcac9vuIPoQD"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        }
-      ],
-      "duration_ms": 194883,
-      "name": "Loaded Gun",
-      "url": "https://open.spotify.com/track/19PBU0nWYBOMzHOAxDBEcg"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1427,26 +1447,6 @@
       "duration_ms": 173913,
       "name": "KODAK",
       "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        },
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2wUoe5FrQIOGxdta7BY56D"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 129920,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Can I",
         "url": "https://open.spotify.com/album/35JD05BJsVNF0aRd71Qlwo"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 151254,
       "name": "Can I",
       "url": "https://open.spotify.com/track/0r56mYppTGefJHM9sKMBOX"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2wUoe5FrQIOGxdta7BY56D"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 129920,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/7IHP1dS0qdQ5U65GtvLA8K"
-      },
-      "artists": [
-        {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
-        }
-      ],
-      "duration_ms": 179876,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/0m7yrxSM3BOhuuON1iY6hG"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "Screen Time",
         "url": "https://open.spotify.com/album/691JxW4iN7wupY8GAWJsOy"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 159821,
       "name": "Screen Time",
       "url": "https://open.spotify.com/track/3ov53bBru8D5qoSi6bYylL"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/7IHP1dS0qdQ5U65GtvLA8K"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 179876,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/0m7yrxSM3BOhuuON1iY6hG"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2026-04-03 04:01:51",
       "album": {
-        "name": "Ready Fi Dem",
-        "url": "https://open.spotify.com/album/0Bc88Ams6CRC4864sN6JLL"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "Ready Fi Dem",
-      "url": "https://open.spotify.com/track/6QPJimu9kcsFB135uTtQxY"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
         "name": "All The Money In The World",
         "url": "https://open.spotify.com/album/3cMXPuYSRoIhNCGLGDVAz0"
       },
@@ -2251,6 +2235,38 @@
       "duration_ms": 225984,
       "name": "All The Money In The World",
       "url": "https://open.spotify.com/track/56kEN75zpdmdlprv6VlejQ"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "WILTED CULTURE",
+        "url": "https://open.spotify.com/album/1LtSHrk61r0umZ840pIMrr"
+      },
+      "artists": [
+        {
+          "name": "MUERTE",
+          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "WILTED CULTURE",
+      "url": "https://open.spotify.com/track/6Zt1IPpRDuHRr3Qn8ejjBl"
+    },
+    {
+      "added_at": "2026-04-03 04:01:51",
+      "album": {
+        "name": "Ready Fi Dem",
+        "url": "https://open.spotify.com/album/0Bc88Ams6CRC4864sN6JLL"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Ready Fi Dem",
+      "url": "https://open.spotify.com/track/6QPJimu9kcsFB135uTtQxY"
     },
     {
       "added_at": "2026-04-03 04:01:51",
@@ -2271,22 +2287,6 @@
       "duration_ms": 173492,
       "name": "Cream On Peaches",
       "url": "https://open.spotify.com/track/49TUY6lNEfaZaTgrzSfXfO"
-    },
-    {
-      "added_at": "2026-04-03 04:01:51",
-      "album": {
-        "name": "WILTED CULTURE",
-        "url": "https://open.spotify.com/album/1LtSHrk61r0umZ840pIMrr"
-      },
-      "artists": [
-        {
-          "name": "MUERTE",
-          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "WILTED CULTURE",
-      "url": "https://open.spotify.com/track/6Zt1IPpRDuHRr3Qn8ejjBl"
     },
     {
       "added_at": "2026-04-03 04:01:51",

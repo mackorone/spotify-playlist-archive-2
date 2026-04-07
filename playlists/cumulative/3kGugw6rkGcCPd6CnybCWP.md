@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-268 songs - 15 hr 34 min
+272 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [a place](https://open.spotify.com/track/0B10EkMCSLvpyLffiuRPMt) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:47 | 2026-02-25 |  |
 | [A Westerner Walks Into a Bar](https://open.spotify.com/track/4IlGkkdxTr3K5lLTaCp24c) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [A Westerner Walks Into a Bar](https://open.spotify.com/album/7tXNOVaRneDR2voDiiO8B7) | 3:31 | 2025-11-19 | 2026-01-17 |
 | [Altrove](https://open.spotify.com/track/1Eu21yhj8lLYfAUkfIG60A) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc) | 3:24 | 2026-03-04 |  |
+| [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 | 2026-04-06 |  |
 | [AMIGOS](https://open.spotify.com/track/6OBUF3YnAuiVJFcmMYVQYV) | [Muk Zen](https://open.spotify.com/artist/6fpSO2jPZo4TGmsFRLMBYv) | [AMIGOS](https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg) | 3:11 | 2026-02-28 |  |
 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 | 2026-03-04 |  |
 | [anything today](https://open.spotify.com/track/6YU0mkaUWzKEV9ORBgo5aJ) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [anything today](https://open.spotify.com/album/4ahnAkh7sNMFjmWjYvNAFG) | 3:32 | 2026-03-21 |  |
@@ -118,6 +119,7 @@
 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 | 2026-02-08 | 2026-03-29 |
 | [I Gave It All For You](https://open.spotify.com/track/0I2olXnVSONShdDVSZmofa) | [Will Sims](https://open.spotify.com/artist/4VqIqqCAubwTlYYIQ2baD5) | [I Gave It All For You](https://open.spotify.com/album/5eiIXuyFyUmzcFQwbjhOFC) | 3:49 | 2026-03-10 |  |
 | [I Heard You](https://open.spotify.com/track/7mXEeXZHgJADXpA6sibuEA) | [Moonsette](https://open.spotify.com/artist/1KtNJP9zW7ZZIByvCCPwnF) | [Invisible Chameleon](https://open.spotify.com/album/6qJ2aQIuviVelqtS7pgPpx) | 5:15 | 2026-02-09 | 2026-03-29 |
+| [I stood for u \(Girlfriends\)](https://open.spotify.com/track/1jH06cHxmyraxNtV9HFoTo) | [Zombisickle](https://open.spotify.com/artist/3IrjzOB8AmlZx3mQdhl5By) | [I stood for u \(Girlfriends\)](https://open.spotify.com/album/6nIS7SShPtBYrWeeRltyAF) | 1:41 | 2026-04-06 |  |
 | [I'm Only Sleeping](https://open.spotify.com/track/5uXA2Ss4v2WaqujWoTTmsT) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 3:43 | 2026-02-08 | 2026-03-29 |
 | [I'm so Scared of You](https://open.spotify.com/track/29myHNF0WVbPbwZmc3Al7x) | [Everything Velvet](https://open.spotify.com/artist/0J3Bsaj91QTSMVpxpAY8NE) | [I'm so Scared of You](https://open.spotify.com/album/6FNFV9J1mhqFVz53nzXIOb) | 4:53 | 2025-11-01 | 2026-01-17 |
 | [i've](https://open.spotify.com/track/46CHFOn4ayNjzKQ31B7sbM) | [North Shy](https://open.spotify.com/artist/2A3nZ5WhiMaBI2NgsXa4aV) | [aftermath](https://open.spotify.com/album/3YF6DBphL3fpTWSVrIj2Og) | 3:25 | 2025-10-24 | 2025-12-02 |
@@ -125,6 +127,7 @@
 | [Icarus Waltz](https://open.spotify.com/track/37qu1BN6eNFBhLQzw5yL6H) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Icarus Waltz](https://open.spotify.com/album/1wezJ1s8GGRj9dgPHOWJD4) | 2:48 | 2025-10-23 | 2026-03-10 |
 | [Ich werd nicht weniger](https://open.spotify.com/track/0fcuM80u8rmO19kZzWMbyU) | [Brave Bones](https://open.spotify.com/artist/2GnTqVSfxKobyNlwTMKsMg) | [Ich werd nicht weniger](https://open.spotify.com/album/6ofFw6HJRpOVMzmUl3Svjd) | 2:48 | 2026-04-02 |  |
 | [Idle Stranger](https://open.spotify.com/track/11S6dH5Sklh1cE0UrmvlKl) | [Miccoli](https://open.spotify.com/artist/5k6ayjMCjG9Dyjkrnjwijv) | [Idle Stranger](https://open.spotify.com/album/1TbYvKKwBIqu9zesWejWRk) | 3:46 | 2025-10-24 | 2025-12-12 |
+| [If I Go Missin’](https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [If I Go Missin’](https://open.spotify.com/album/2g0zHOLzQcbsxYw8TlE7XJ) | 3:40 | 2026-04-06 |  |
 | [in my bones](https://open.spotify.com/track/6vSNVLse9DXY8U2GUP0UgB) | [purr grief](https://open.spotify.com/artist/23WsCrFd5z85zpuxX6SCQI) | [superficial bliss](https://open.spotify.com/album/0L2BOFYomdaG0xhNoaoQJ4) | 4:49 | 2026-02-02 | 2026-03-10 |
 | [Insônia](https://open.spotify.com/track/7mnsSLbwEhtVEtapHjdV3p) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Insônia](https://open.spotify.com/album/2RZ7KjRITbF7dZkDFtSuxP) | 3:19 | 2026-03-18 |  |
 | [Invisible](https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/35LwtfCOsUxMdNuhzwfkcm) | 2:09 | 2026-02-08 | 2026-03-29 |
@@ -274,6 +277,7 @@
 | [Yellow](https://open.spotify.com/track/7oIGfvvszUPBy3RbcybSsy) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 4:35 | 2026-03-02 |  |
 | [Yes I Hope](https://open.spotify.com/track/4nYjSNumkVBOWJl7xbImKq) | [Roots Habits](https://open.spotify.com/artist/6jCRadZaIZtiXstamJAyJX) | [Yes I Hope](https://open.spotify.com/album/6vGfjWBItGXGUcbGpOAuft) | 3:39 | 2025-10-24 | 2025-12-02 |
 | [You & Me](https://open.spotify.com/track/2hfm5hiifBPWSueyh2WqdW) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [You & Me](https://open.spotify.com/album/5Z2u2i6gk0Dry8QjI1GmrD) | 3:26 | 2025-11-18 | 2026-01-17 |
+| [You're So Uninviting](https://open.spotify.com/track/1U6hp7lzgST4lzxRIR1VvW) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k), [Molly Coleman](https://open.spotify.com/artist/3zVctuiATB47XZXKAgzPZD) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 3:15 | 2026-04-06 |  |
 | [Your Flow](https://open.spotify.com/track/7w3PDDIQ9mO58DnRpbwRFJ) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Your Flow](https://open.spotify.com/album/5IMkL1GoZJlrtEqnNGR5Wn) | 3:00 | 2026-04-02 |  |
 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 | 2026-01-09 | 2026-02-20 |
 

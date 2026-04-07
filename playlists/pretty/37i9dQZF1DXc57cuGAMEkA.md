@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。アイナ・ジ・エンド, LiSA, Thundercat, Ravyn Lenae, OneRepublic and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,874 likes - 88 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,871 likes - 88 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 78 | [i need u](https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [i need u](https://open.spotify.com/album/2t6Ie2kxapG2kMs4hxRJmt) | 3:45 |
 | 79 | [LOVE CALLS](https://open.spotify.com/track/7dWN5JkVhhZSMPfRkGJ0kB) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [LOVE CALLS](https://open.spotify.com/album/7FWCEAgaWqd3MWYjtjNOXu) | 2:04 |
 | 80 | [LoSIENTES?](https://open.spotify.com/track/24dDvXUCClESLZb4Bai6Sy) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [LoSIENTES?](https://open.spotify.com/album/4mAQtrtokBXeynqqfkl1AD) | 2:22 |
-| 81 | [Burn](https://open.spotify.com/track/4jImqrjJAcDHsyFcFPlk2U) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 0:57 |
+| 81 | [The Show](https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 2:47 |
 | 82 | [SpiceKick](https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [SpiceKick](https://open.spotify.com/album/58PCIgUueFleyunThXBdf4) | 2:29 |
 | 83 | [DESPERADO](https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd) | [T.O.P](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [TOP SPOT \- ANOTHER DIMENSION](https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE) | 3:04 |
 | 84 | [Buy Me A Car](https://open.spotify.com/track/0F4FEE1cOzkp8tysmHfidR) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Buy Me A Car](https://open.spotify.com/album/2ypIqNDlVf9Ukfxt7guIxI) | 3:29 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 87 | [Hazy x Ti](https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9) | [Loreto](https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh), [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Hazy x Ti](https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh) | 3:33 |
 | 88 | [Sweeter Still](https://open.spotify.com/track/4z3h9SgaDQ2AMeFIdFU613) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [In A Space Outta Dub](https://open.spotify.com/album/2oZbenjXnLxd1GNp3eTzgD) | 5:12 |
 
-Snapshot ID: `AAAAAIeCArzAG3bku3wnrADC7pYAVqU/`
+Snapshot ID: `AAAAAMpkl/uekXz0Nc8oJ6J7qwji8tiq`

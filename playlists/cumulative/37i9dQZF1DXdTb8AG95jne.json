@@ -5072,7 +5072,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 194833,
       "name": "dust",
       "url": "https://open.spotify.com/track/7lZe7HIcIWwYNThkh9ywaG"
@@ -7113,6 +7113,24 @@
     },
     {
       "album": {
+        "name": "LOVE&HATE",
+        "url": "https://open.spotify.com/album/5lOdOxNDjxelMZ7PJSZB6G"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "GAME OVER ?",
+      "url": "https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP"
+    },
+    {
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP"
       },
@@ -7950,6 +7968,24 @@
       "duration_ms": 231000,
       "name": "H O M E",
       "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
+    },
+    {
+      "album": {
+        "name": "h.a.u.",
+        "url": "https://open.spotify.com/album/6wxd9jSJONHalNLePJYLC5"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258461,
+      "name": "h.a.u.",
+      "url": "https://open.spotify.com/track/2WBTC9fwx8yCrScT60NWHq"
     },
     {
       "album": {
@@ -11172,7 +11208,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 228340,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/3k0RmMUC0DzqKIeVF8Tpwt"
@@ -17394,7 +17430,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 182000,
       "name": "Should be you",
       "url": "https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z"
@@ -17972,7 +18008,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 229133,
       "name": "snowy",
       "url": "https://open.spotify.com/track/6CvWQquXQ4gYmuBQbXyX0D"
@@ -22517,6 +22553,42 @@
     },
     {
       "album": {
+        "name": "who is this woman?",
+        "url": "https://open.spotify.com/album/5IhSTNLKlu1hgPKSBSyg4B"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "who is this woman?",
+      "url": "https://open.spotify.com/track/6tirHqOUs1n3C9gCIhS28f"
+    },
+    {
+      "album": {
+        "name": "Whoever, Someone",
+        "url": "https://open.spotify.com/album/5IRjFw7dlHzDgdF5YJmZlx"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243253,
+      "name": "Whoever, Someone",
+      "url": "https://open.spotify.com/track/2i6xxAfoNGjg1wD4maNStS"
+    },
+    {
+      "album": {
         "name": "Who\u2019s with me?",
         "url": "https://open.spotify.com/album/0gwUIHdPdLUJLPtWI4ZLQA"
       },
@@ -23598,7 +23670,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 188932,
       "name": "Youth",
       "url": "https://open.spotify.com/track/1OF94wxgNL6Gvbswew0tL0"

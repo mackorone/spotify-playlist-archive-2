@@ -3831,6 +3831,28 @@
     },
     {
       "album": {
+        "name": "BBS 2.0 (Remix)",
+        "url": "https://open.spotify.com/album/4qIi012XI9LXk0X0p5VtEd"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107317,
+      "name": "BBS 2.0 - Remix",
+      "url": "https://open.spotify.com/track/6011fuKw2cHFX2up320Ppi"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -4362,7 +4384,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 312000,
       "name": "Beni Hat\u0131rla",
       "url": "https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE"
@@ -10796,7 +10818,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 158774,
       "name": "git",
       "url": "https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1"
@@ -12208,6 +12230,24 @@
       "duration_ms": 135459,
       "name": "HANIMEFEND\u0130",
       "url": "https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg"
+    },
+    {
+      "album": {
+        "name": "HAN\u0130",
+        "url": "https://open.spotify.com/album/2W917yjMEoziKUmlR0I7Hh"
+      },
+      "artists": [
+        {
+          "name": "Derya Ulu\u011f",
+          "url": "https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153956,
+      "name": "HAN\u0130",
+      "url": "https://open.spotify.com/track/2XvD5yqFAQspc5gIKXqfsA"
     },
     {
       "album": {
@@ -16054,7 +16094,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 121310,
       "name": "Kendine \u0130yi Bak",
       "url": "https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI"
@@ -16738,7 +16778,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 328440,
       "name": "Kur\u015fun Adres Sormaz Ki",
       "url": "https://open.spotify.com/track/7rCJlWtpNCwegGXECRLwnk"

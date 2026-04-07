@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover:  Maverick Mom
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,056 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,051 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kodoku ni Toku](https://open.spotify.com/track/3FTRoyrGwcuy4HRmFPS8lw) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Kodoku ni Toku](https://open.spotify.com/album/5R9HmGynmbrVKJJFDMLNtK) | 3:10 |
 | 2 | [ギューアグ](https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ギューアグ](https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ) | 3:08 |
-| 3 | [Shinitakunattara Ainikite](https://open.spotify.com/track/6gB9xHmdj8mM7B2jY2zKX3) | [Blue Mash](https://open.spotify.com/artist/48XJzuA3cbtDl9pjKySb5E) | [Nakuna, Seishun](https://open.spotify.com/album/4VgISolUUFSj4I8CIccYMp) | 2:58 |
+| 3 | [Shinitakunattara Ainikite](https://open.spotify.com/track/6gB9xHmdj8mM7B2jY2zKX3) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [Nakuna, Seishun](https://open.spotify.com/album/4VgISolUUFSj4I8CIccYMp) | 2:58 |
 | 4 | [Tell me](https://open.spotify.com/track/6hk1BBFv4FehBkrkgwCExJ) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Tell me](https://open.spotify.com/album/0rIcateMjkrV6XnCbaXt2T) | 4:20 |
 | 5 | [Ohaguro](https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Ohaguro](https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI) | 3:08 |
 | 6 | [one room](https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [1626](https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4) | 3:26 |

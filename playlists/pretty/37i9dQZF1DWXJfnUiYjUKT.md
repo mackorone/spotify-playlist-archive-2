@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Ravyn Lenae & Dominic Fike on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,448 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,465 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 91 | [i need u](https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [i need u](https://open.spotify.com/album/2t6Ie2kxapG2kMs4hxRJmt) | 3:45 |
 | 92 | [When You Give It Up](https://open.spotify.com/track/5d70RGXlCzwqQl5WLV6Wpk) | [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [When You Give It Up](https://open.spotify.com/album/174U4t8jS0tRqjhpXlgBMh) | 2:42 |
 | 93 | [Jury of One](https://open.spotify.com/track/2uNnXCtjYnBYP4qp5JJbCA) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [Jury of One](https://open.spotify.com/album/00xrpx6FjGJrUFIPTkFPwy) | 2:57 |
-| 94 | [Yo También](https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(posdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:24 |
+| 94 | [Yo También](https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(postdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:24 |
 | 95 | [ENEMY](https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [ENEMY](https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4) | 3:09 |
 | 96 | [Finish Line](https://open.spotify.com/track/7860siLSwvRnGt63VOr7QT) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Finish Line](https://open.spotify.com/album/5vjZRodlfAwNbwtDcYR7ky) | 3:18 |
 | 97 | [Come Home](https://open.spotify.com/track/07ApfQM9tJoExh7XnLyphK) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Red Bird](https://open.spotify.com/album/2wQbpcBJHMYXqCBr99trxC) | 4:19 |

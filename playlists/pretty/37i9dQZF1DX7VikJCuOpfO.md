@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alex Fernandez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,200 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,214 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 46 | [Pagaré Condena](https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW) | [Juan Pablo Tostado](https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp) | [Pagaré Condena](https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS) | 2:44 |
 | 47 | [Mi México Mestizo](https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo) | [Sant Orozco](https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG) | [Mi México Mestizo](https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv) | 2:26 |
 | 48 | [Así Son Las Cosas](https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Son Las Cosas](https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv) | 2:51 |
-| 49 | [Se Me Sigue Olvidando](https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu) | [Grupo Triunfadores](https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ), [Posadas](https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg) | [Se Me Sigue Olvidando](https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg) | 2:59 |
-| 50 | [Pintando sueños](https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG) | [Mariacho Ay Ay Ay](https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2) | [Pintando sueños](https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x) | 3:42 |
+| 49 | [Pintando sueños](https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG) | [Mariacho Ay Ay Ay](https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2) | [Pintando sueños](https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x) | 3:42 |
+| 50 | [Se Me Sigue Olvidando](https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu) | [Grupo Triunfadores](https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ), [Posadas](https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg) | [Se Me Sigue Olvidando](https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg) | 2:59 |
 | 51 | [Cuando Ama Una Mujer](https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o) | [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [Cuando Ama Una Mujer](https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp) | 2:30 |
 | 52 | [Después de ti](https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC) | [Victor Rodhes](https://open.spotify.com/artist/1EzmmoR7JjsuoBfojkT3Dk) | [Después de ti](https://open.spotify.com/album/5W52gZ0j0XGg5S0dsOs9Vf) | 3:42 |
 | 53 | [Veracruz](https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [José Carrillo](https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz) | [Veracruz](https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5) | 3:42 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 60 | [Pajarillo](https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Pajarillo](https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7) | 3:49 |
 | 61 | [Le Voy a Pedir a Dios](https://open.spotify.com/track/410VSzuFrKfWUTwgO6c6Qi) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Le Voy a Pedir a Dios](https://open.spotify.com/album/3OqCZhGf702YCmmPtjjGic) | 2:54 |
 | 62 | [¿POR QUÉ ME HACES LLORAR? \- En Vivo](https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Despecho Puro \(En Vivo\)](https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW) | 2:53 |
-| 63 | [Mi gran país](https://open.spotify.com/track/7J40K4v7jUabVjheJF83v7) | [Jose Julian](https://open.spotify.com/artist/7yEhORLep5egLYTnLcMd87) | [Mi gran país](https://open.spotify.com/album/5M3AGrOkKXeu2ugmJwmRT5) | 2:57 |
+| 63 | [Playa Sola](https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4) | [Jessi Valente](https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs) | [Playa Sola](https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW) | 2:44 |
 | 64 | [Ningún Color Tiene Dueño](https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu) | [Majo Cornejo](https://open.spotify.com/artist/1gWIf8YFQcDLJWvbPFdoYn) | [Ningún Color Tiene Dueño](https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu) | 3:25 |
-| 65 | [Playa Sola](https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4) | [Jessi Valente](https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs) | [Playa Sola](https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW) | 2:44 |
+| 65 | [Mi gran país](https://open.spotify.com/track/7J40K4v7jUabVjheJF83v7) | [Jose Julian](https://open.spotify.com/artist/7yEhORLep5egLYTnLcMd87) | [Mi gran país](https://open.spotify.com/album/5M3AGrOkKXeu2ugmJwmRT5) | 2:57 |
 | 66 | [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 |
 | 67 | [Allá Donde Vayas](https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Allá Donde Vayas](https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn) | 3:33 |
 | 68 | [¿Quién Es Usted?](https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K) | [Ximena Ocampo](https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho) | [¿Quién Es Usted?](https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS) | 3:15 |

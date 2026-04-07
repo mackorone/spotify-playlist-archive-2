@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Bartofso
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,153 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,128 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NIEUWE LEVELS](https://open.spotify.com/track/7j196RHBWUJengogAIhzh7) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [LE MASQUE](https://open.spotify.com/album/7iSBhomDNkbQ9r0bJAa2Jm) | 2:04 |
-| 2 | [HUISELIJK GEWELD](https://open.spotify.com/track/3DzY371TvinEgFZFNPd7Fw) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p) | [DE HOOP VAN G](https://open.spotify.com/album/4Vul4kwjME4Dta9AldIVjG) | 2:42 |
-| 3 | [Alleen Is Maar Alleen](https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Alleen Is Maar Alleen](https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy) | 2:22 |
-| 4 | [Sensa](https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Sensa](https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW) | 2:02 |
+| 2 | [Sensa](https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Sensa](https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW) | 2:02 |
+| 3 | [HUISELIJK GEWELD](https://open.spotify.com/track/3DzY371TvinEgFZFNPd7Fw) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p) | [DE HOOP VAN G](https://open.spotify.com/album/4Vul4kwjME4Dta9AldIVjG) | 2:42 |
+| 4 | [Alleen Is Maar Alleen](https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Alleen Is Maar Alleen](https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy) | 2:22 |
 | 5 | [VERVELEND DOEN](https://open.spotify.com/track/4yiauUsO4FXLibHQ9UAQv0) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Oomto](https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip) | [SU EFFECT](https://open.spotify.com/album/7p4slYCD1i2UkEJcCi5b8C) | 2:05 |
 | 6 | [Niks Persoonlijks](https://open.spotify.com/track/6tQAp8c1u2UZdTY21xInfF) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Niks Persoonlijks](https://open.spotify.com/album/43lgqe1CDhc1uCCyPitltY) | 2:38 |
 | 7 | [God's Watch](https://open.spotify.com/track/7HhBdu3vbndXE9YUkyCafC) | [Struis](https://open.spotify.com/artist/6zln1RC25BzhbanAPUOIpN), [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [God's Watch](https://open.spotify.com/album/2ISmFijM4pyykpobp6SyC1) | 2:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Alcantara](https://open.spotify.com/track/6PBgiQ0JVfHBBidyIBQHMe) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Alcantara](https://open.spotify.com/album/4w79VeLMd0PpNWE4Q66zfR) | 3:47 |
 | 60 | [Was Machst Du](https://open.spotify.com/track/3fJOhEiy7FNUpxUrHMtFmE) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Was Machst Du](https://open.spotify.com/album/2O6ObeXY5q7me8jpCQjhu3) | 3:10 |
 
-Snapshot ID: `AAAAAJkOleShQPVGwvvfz9I6jxW1ketM`
+Snapshot ID: `AAAAAP421liUxGXDeb3PzWwcWDubR14M`

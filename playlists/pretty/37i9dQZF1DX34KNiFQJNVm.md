@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Dilsinho,  Talita Mel com Zé Vaqueiro, Bebe Rexha, DAY LIMNS, U2, Jovem Dionísio e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,276,965 likes - 91 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,276,848 likes - 91 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Some](https://open.spotify.com/track/1V10F8afY9h6VTTOusg7pK) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [CONTEÚDO SENSÍVEL](https://open.spotify.com/album/436SYZgdUkwR3fJoFqp4rt) | 2:02 |
+| 1 | [Ama Essa Mulher Direito](https://open.spotify.com/track/5WCaRoBQ5IAQYu3FKA5eTq) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [CONTEÚDO SENSÍVEL](https://open.spotify.com/album/436SYZgdUkwR3fJoFqp4rt) | 3:03 |
 | 2 | [200 Anos \- Ao Vivo](https://open.spotify.com/track/5W8M8qtlrx9mEkmTir5ds4) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Intuição Vol\. 2](https://open.spotify.com/album/1Gb1JHL5TZ4GQKtdysHcQz) | 3:12 |
 | 3 | [Tudo Mudou](https://open.spotify.com/track/4SHpy5fNwPnosoMOI2GzUW) | [Talita Mel](https://open.spotify.com/artist/5wbSuC0q60AcyFwikoH8k3), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Tudo Mudou](https://open.spotify.com/album/3iFXN0kWTU71oueRdSybNL) | 3:01 |
 | 4 | [Fase do "Se" \- Ao Vivo](https://open.spotify.com/track/6LXTzeo72OSViHtaMs4Bnq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Fase do "Se" \(Ao Vivo\)](https://open.spotify.com/album/46tyCqtjvNu0LnfIkOSutP) | 2:38 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 90 | [Mercúrio Retrógrado](https://open.spotify.com/track/7qgyCItn8gJQirtDGQgerv) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2) | [Mercúrio Retrógrado](https://open.spotify.com/album/0203Hi1DImXx63BFNRFQWU) | 2:00 |
 | 91 | [não soube te amar](https://open.spotify.com/track/6sq6mUsqDDnwFx0mp93FNc) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [m0sca](https://open.spotify.com/artist/5tz3X5iQ6EJFPDmzPrh9jd) | [não soube te amar](https://open.spotify.com/album/0JWC4Z5YjNGFjtGdae1zQT) | 3:30 |
 
-Snapshot ID: `AAAAABppMPODF6iAM53ytDBgRuwhaKM3`
+Snapshot ID: `AAAAAG9TkpH/Oxaf+8DQAto3smBXjzb6`

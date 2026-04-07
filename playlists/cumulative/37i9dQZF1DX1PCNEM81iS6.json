@@ -1549,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "\u6e07\u671b (Anime size ver.)",
+        "url": "https://open.spotify.com/album/7KfonJsTmdMNGeLsq5M1vT"
+      },
+      "artists": [
+        {
+          "name": "CiON",
+          "url": "https://open.spotify.com/artist/7e1S0Yqtt1sgmeqvXcIDWa"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "\u6e07\u671b - Anime size ver.",
+      "url": "https://open.spotify.com/track/7DGXw9oCyqzKtbKCv2mscQ"
+    },
+    {
+      "album": {
         "name": "\u7d75\u7a7a\u4e8b",
         "url": "https://open.spotify.com/album/2HaGgGBHHrlLjBg8X7pIBR"
       },

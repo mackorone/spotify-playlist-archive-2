@@ -2,7 +2,7 @@
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Nieuw: Nafas, Maycash, GP UIT G en meer…
+> Nieuw: Nafas, Ocho, GP UIT G en meer…
 
 498 songs - 21 hr 34 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 602 likes - 84 songs - 4 hr 55 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 611 likes - 91 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,5 +92,12 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 82 | [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 |
 | 83 | [Glimpse](https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR) | [Field of View](https://open.spotify.com/artist/77F2OeJqiPVTeAwBeu2gxG) | [In My Own Way](https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi) | 2:30 |
 | 84 | [MAD MAN](https://open.spotify.com/track/6JazoIXIOMSFagj2YKNfBJ) | [GUGGISBERG](https://open.spotify.com/artist/6u9vPlPfLh50z81XYdsahe) | [MAD MAN](https://open.spotify.com/album/3k3JTOmVTwBAUtusdjOiW8) | 3:08 |
+| 85 | [Make It Alright](https://open.spotify.com/track/7gWWilzekZ5Y3vyuTCNspq) | [Lost Velvet](https://open.spotify.com/artist/43VZcpziN2RTPNRbrdMgAT) | [Make It Alright](https://open.spotify.com/album/62BRuVUHTImfiziKzuXKH3) | 3:07 |
+| 86 | [Watch The World Burn](https://open.spotify.com/track/5eh4inn2ixohkqccJPWgf2) | [Aiden Levit](https://open.spotify.com/artist/1aDMP3KJMjzvEU6oxq4ktJ) | [Watch The World Burn](https://open.spotify.com/album/17Ot21U5DpVxMZVQqPbcPl) | 3:48 |
+| 87 | [Забуте небо](https://open.spotify.com/track/2Qeo0ZXBDY5sFUFxLfNhWu) | [ЛЮТА](https://open.spotify.com/artist/5XFjkWAijGDE0j4yAF4ftC) | [Забуте небо](https://open.spotify.com/album/1urbhkBMZ55FmqDkfAGJUd) | 2:59 |
+| 88 | [BLEED \- Single Version](https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BLEED](https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya) | 2:53 |
+| 89 | [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 |
+| 90 | [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 |
+| 91 | [Of a Beautiful Dream](https://open.spotify.com/track/48T7NGSrmgHx40d3H3Iwl6) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Of a Beautiful Dream](https://open.spotify.com/album/7q1s3GZxJQ6CMES2udqaue) | 2:52 |
 
-Snapshot ID: `AAADMuo1+QwSy4SliZNN+BF5FXDhBYAr`
+Snapshot ID: `AAADOSRJ+2CgRZDziqxwBUP+49fARuc6`

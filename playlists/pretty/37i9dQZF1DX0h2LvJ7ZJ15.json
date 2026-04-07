@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1621908,
+  "num_followers": 1622204,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,26 @@
     {
       "added_at": "2026-03-04 00:58:24",
       "album": {
+        "name": "Nevada",
+        "url": "https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "duration_ms": 271299,
+      "name": "Nevada - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue"
+    },
+    {
+      "added_at": "2026-03-04 00:58:24",
+      "album": {
         "name": "HEAVENLY JUMPSTYLE",
         "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 128477,
       "name": "HEAVENLY JUMPSTYLE - Slowed",
       "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
-    },
-    {
-      "added_at": "2026-03-04 00:58:24",
-      "album": {
-        "name": "Nevada",
-        "url": "https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        },
-        {
-          "name": "Cozi Zuehlsdorff",
-          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
-        }
-      ],
-      "duration_ms": 271299,
-      "name": "Nevada - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue"
     },
     {
       "added_at": "2026-03-04 00:58:24",

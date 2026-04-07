@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adBUgAAAAAA40pDg2Z/yie9QNZeseoVB",
+  "snapshot_id": "adGmAAAAAAArf3UbWOwabFa1QlkoRXA4",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS",
-        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 91786,
-      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
-      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MICROCOSM",
         "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 224066,
       "name": "White Moon",
       "url": "https://open.spotify.com/track/6MGJHSYSQRZzthnP7tsAs3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAYS",
+        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 91786,
+      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
+      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30e2\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "\u30e2\u30e1\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE & JUSTICE/\u8d85\u4eba",
         "url": "https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 267173,
       "name": "LOVE & JUSTICE",
       "url": "https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30e2\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "\u30e2\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1531933,
+  "num_followers": 1532159,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
+        "name": "Wanna Play?",
+        "url": "https://open.spotify.com/album/4jp7msyicuMV06txLOdvbF"
+      },
+      "artists": [
+        {
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
+        }
+      ],
+      "duration_ms": 201451,
+      "name": "Wanna Play?",
+      "url": "https://open.spotify.com/track/6iBL6TOzsO75Yz0cG1MO0o"
+    },
+    {
+      "added_at": "2026-03-30 11:27:19",
+      "album": {
         "name": "Hit The Floor",
         "url": "https://open.spotify.com/album/48VN0pEfrdB1vAu5SgRH76"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 169500,
       "name": "Hit The Floor",
       "url": "https://open.spotify.com/track/5YNlE7p0YICNhoCohD5U4P"
-    },
-    {
-      "added_at": "2026-03-30 11:27:19",
-      "album": {
-        "name": "Wanna Play?",
-        "url": "https://open.spotify.com/album/4jp7msyicuMV06txLOdvbF"
-      },
-      "artists": [
-        {
-          "name": "The Prophet",
-          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
-        }
-      ],
-      "duration_ms": 201451,
-      "name": "Wanna Play?",
-      "url": "https://open.spotify.com/track/6iBL6TOzsO75Yz0cG1MO0o"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/5VqugzmPIecQ6AD9ld0hfe"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 182852,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
+    },
+    {
+      "added_at": "2026-03-30 11:27:19",
+      "album": {
         "name": "Felt The Ghost",
         "url": "https://open.spotify.com/album/1cmEH5ce7PhZw5wrNukHh6"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 160000,
       "name": "Felt The Ghost",
       "url": "https://open.spotify.com/track/1mkyqCC9sBfMfONFzkxILr"
-    },
-    {
-      "added_at": "2026-03-30 11:27:19",
-      "album": {
-        "name": "I Want It All",
-        "url": "https://open.spotify.com/album/5VqugzmPIecQ6AD9ld0hfe"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 182852,
-      "name": "I Want It All",
-      "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
-        "name": "Bleeding Heart",
-        "url": "https://open.spotify.com/album/7ybDvSebBHH2JODcuDYggv"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 173076,
-      "name": "Bleeding Heart",
-      "url": "https://open.spotify.com/track/5Djn6mv9MgKV8prFEHD3Gw"
-    },
-    {
-      "added_at": "2026-03-30 11:27:19",
-      "album": {
         "name": "The Unknown",
         "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 215000,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
+    },
+    {
+      "added_at": "2026-03-30 11:27:19",
+      "album": {
+        "name": "Bleeding Heart",
+        "url": "https://open.spotify.com/album/7ybDvSebBHH2JODcuDYggv"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/5Djn6mv9MgKV8prFEHD3Gw"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
-        "name": "Beyond Boundaries (Reverze Anthem 2026)",
-        "url": "https://open.spotify.com/album/2JWkYTFN9RNpXIiZydEnPT"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 278250,
-      "name": "Beyond Boundaries - Reverze Anthem 2026",
-      "url": "https://open.spotify.com/track/7gGqr9ke15lX4eNLiRGZfU"
-    },
-    {
-      "added_at": "2026-03-30 11:27:19",
-      "album": {
         "name": "DON'T FKN NEED U",
         "url": "https://open.spotify.com/album/3VV8mpVVBkTEcn1JO76nUL"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 190527,
       "name": "DON'T FKN NEED U",
       "url": "https://open.spotify.com/track/52C8aF588mf11VBsSnCdsy"
+    },
+    {
+      "added_at": "2026-03-30 11:27:19",
+      "album": {
+        "name": "Beyond Boundaries (Reverze Anthem 2026)",
+        "url": "https://open.spotify.com/album/2JWkYTFN9RNpXIiZydEnPT"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 278250,
+      "name": "Beyond Boundaries - Reverze Anthem 2026",
+      "url": "https://open.spotify.com/track/7gGqr9ke15lX4eNLiRGZfU"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
-        "name": "Million Dreams",
-        "url": "https://open.spotify.com/album/2c6rJHcR8KDnDTI4jV6D4z"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 187355,
-      "name": "Million Dreams",
-      "url": "https://open.spotify.com/track/5TfhOWqTOEGgXSurbbZHGu"
-    },
-    {
-      "added_at": "2026-03-30 11:27:19",
-      "album": {
         "name": "Keep Me High",
         "url": "https://open.spotify.com/album/78NmoLq9IRdXxIoKl5efia"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 147695,
       "name": "Keep Me High",
       "url": "https://open.spotify.com/track/5A5CbxniOX2JeZL72Qf0yd"
+    },
+    {
+      "added_at": "2026-03-30 11:27:19",
+      "album": {
+        "name": "Million Dreams",
+        "url": "https://open.spotify.com/album/2c6rJHcR8KDnDTI4jV6D4z"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 187355,
+      "name": "Million Dreams",
+      "url": "https://open.spotify.com/track/5TfhOWqTOEGgXSurbbZHGu"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 233806,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
-    },
-    {
-      "added_at": "2026-03-30 11:27:19",
-      "album": {
         "name": "All Good Things (Come To An End)",
         "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 134918,
       "name": "All Good Things (Come To An End)",
       "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
+    },
+    {
+      "added_at": "2026-03-30 11:27:19",
+      "album": {
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 233806,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
-        "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
-        "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
-      },
-      "artists": [
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 295741,
-      "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
-      "url": "https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW"
-    },
-    {
-      "added_at": "2026-03-30 11:27:19",
-      "album": {
         "name": "HOOYAH",
         "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 104400,
       "name": "HOOYAH",
       "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
+    },
+    {
+      "added_at": "2026-03-30 11:27:19",
+      "album": {
+        "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
+        "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 295741,
+      "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
+      "url": "https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -2231,18 +2231,26 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
-        "name": "Journey Through Sound",
-        "url": "https://open.spotify.com/album/7gkZOkyID0R09lwlp9ri0i"
+        "name": "LEFT - RIGHT",
+        "url": "https://open.spotify.com/album/2KuBha46EYztx0QqF9kkFh"
       },
       "artists": [
         {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "Zany",
+          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
+        },
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        },
+        {
+          "name": "DV8",
+          "url": "https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf"
         }
       ],
-      "duration_ms": 222732,
-      "name": "Journey Through Sound",
-      "url": "https://open.spotify.com/track/2SZLJfxcEzwtahQmvVoi7V"
+      "duration_ms": 97680,
+      "name": "LEFT - RIGHT",
+      "url": "https://open.spotify.com/track/7A6qpT1m23WtVYlS57G4Ew"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -2267,26 +2275,18 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
-        "name": "LEFT - RIGHT",
-        "url": "https://open.spotify.com/album/2KuBha46EYztx0QqF9kkFh"
+        "name": "Journey Through Sound",
+        "url": "https://open.spotify.com/album/7gkZOkyID0R09lwlp9ri0i"
       },
       "artists": [
         {
-          "name": "Zany",
-          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
-        },
-        {
-          "name": "B-Front",
-          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
-        },
-        {
-          "name": "DV8",
-          "url": "https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf"
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
         }
       ],
-      "duration_ms": 97680,
-      "name": "LEFT - RIGHT",
-      "url": "https://open.spotify.com/track/7A6qpT1m23WtVYlS57G4Ew"
+      "duration_ms": 222732,
+      "name": "Journey Through Sound",
+      "url": "https://open.spotify.com/track/2SZLJfxcEzwtahQmvVoi7V"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -2407,8 +2407,8 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
-        "name": "ZAAG 'N' NIGHT",
-        "url": "https://open.spotify.com/album/5r6wyx2ftkF84ceMbOnVrA"
+        "name": "FACE 2 FACE",
+        "url": "https://open.spotify.com/album/1y0fetRabv8tGvn4mCrJUf"
       },
       "artists": [
         {
@@ -2416,13 +2416,13 @@
           "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
         },
         {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
         }
       ],
-      "duration_ms": 150000,
-      "name": "ZAAG 'N' NIGHT",
-      "url": "https://open.spotify.com/track/64DeIvhYpTWUjEDihyOZMQ"
+      "duration_ms": 167250,
+      "name": "FACE 2 FACE",
+      "url": "https://open.spotify.com/track/72xHjfgbAQ98I84wzTbINz"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -2451,26 +2451,6 @@
       "duration_ms": 167531,
       "name": "Cornflakes",
       "url": "https://open.spotify.com/track/0srjHiMVx5GWL3nIK6Gf56"
-    },
-    {
-      "added_at": "2026-03-30 11:27:19",
-      "album": {
-        "name": "PUMP THE MUSIC",
-        "url": "https://open.spotify.com/album/41AUfrg6qZ5cvRlqL7oKJ4"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        },
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "PUMP THE MUSIC",
-      "url": "https://open.spotify.com/track/7LE3CsLJSY6un9R4JWB1rj"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -2519,8 +2499,28 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
-        "name": "FACE 2 FACE",
-        "url": "https://open.spotify.com/album/1y0fetRabv8tGvn4mCrJUf"
+        "name": "PUMP THE MUSIC",
+        "url": "https://open.spotify.com/album/41AUfrg6qZ5cvRlqL7oKJ4"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        },
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "PUMP THE MUSIC",
+      "url": "https://open.spotify.com/track/7LE3CsLJSY6un9R4JWB1rj"
+    },
+    {
+      "added_at": "2026-03-30 11:27:19",
+      "album": {
+        "name": "ZAAG 'N' NIGHT",
+        "url": "https://open.spotify.com/album/5r6wyx2ftkF84ceMbOnVrA"
       },
       "artists": [
         {
@@ -2528,13 +2528,13 @@
           "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
         },
         {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
         }
       ],
-      "duration_ms": 167250,
-      "name": "FACE 2 FACE",
-      "url": "https://open.spotify.com/track/72xHjfgbAQ98I84wzTbINz"
+      "duration_ms": 150000,
+      "name": "ZAAG 'N' NIGHT",
+      "url": "https://open.spotify.com/track/64DeIvhYpTWUjEDihyOZMQ"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -2599,6 +2599,22 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
+        "name": "Nobody Likes",
+        "url": "https://open.spotify.com/album/7FH04fxE0ik7Z0xV2Sgy7i"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "duration_ms": 187593,
+      "name": "Nobody Likes",
+      "url": "https://open.spotify.com/track/34mTZmESrqI9ObVmAtKTqj"
+    },
+    {
+      "added_at": "2026-03-30 11:27:19",
+      "album": {
         "name": "Feel Your Love (Dimitri Vegas Vinyl Only Remix)",
         "url": "https://open.spotify.com/album/4LsSYsEha18DTVcoLlddlv"
       },
@@ -2619,22 +2635,6 @@
       "duration_ms": 138189,
       "name": "Feel Your Love - Dimitri Vegas Vinyl Only Remix",
       "url": "https://open.spotify.com/track/5qoKitu0k9f0ANt1mtwTzb"
-    },
-    {
-      "added_at": "2026-03-30 11:27:19",
-      "album": {
-        "name": "Nobody Likes",
-        "url": "https://open.spotify.com/album/7FH04fxE0ik7Z0xV2Sgy7i"
-      },
-      "artists": [
-        {
-          "name": "Zatox",
-          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
-        }
-      ],
-      "duration_ms": 187593,
-      "name": "Nobody Likes",
-      "url": "https://open.spotify.com/track/34mTZmESrqI9ObVmAtKTqj"
     },
     {
       "added_at": "2026-03-30 11:27:19",
@@ -2975,6 +2975,26 @@
     {
       "added_at": "2026-03-30 11:27:19",
       "album": {
+        "name": "WHERE DID YOU GO",
+        "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
+      },
+      "artists": [
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "WHERE DID YOU GO",
+      "url": "https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0"
+    },
+    {
+      "added_at": "2026-03-30 11:27:19",
+      "album": {
         "name": "Won\u2019t Let Me Down",
         "url": "https://open.spotify.com/album/3gyWGgfJIwzPeSVc1ho9xf"
       },
@@ -3011,26 +3031,6 @@
       "duration_ms": 129332,
       "name": "Remember The Name",
       "url": "https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh"
-    },
-    {
-      "added_at": "2026-03-30 11:27:19",
-      "album": {
-        "name": "WHERE DID YOU GO",
-        "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
-      },
-      "artists": [
-        {
-          "name": "Krowdexx",
-          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
-        },
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "WHERE DID YOU GO",
-      "url": "https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0"
     }
   ],
   "unique_name": "Hardstyle Bangers",

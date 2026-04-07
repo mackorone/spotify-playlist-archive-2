@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-12-04",
-  "description": "\uc2a4\ud3ec\ud2f0\ud30c\uc774 \ubba4\uc9c1 \uc5d0\ub514\ud130\uac00 \uc120\uc815\ud55c 3\uc6d4\uc758 \ub178\ub798\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "name": "Editor's Picks Korea: 3\uc6d4\uc758 \ub178\ub798",
+  "description": "\uc2a4\ud3ec\ud2f0\ud30c\uc774 \ubba4\uc9c1 \uc5d0\ub514\ud130\uac00 \uc120\uc815\ud55c 4\uc6d4\uc758 \ub178\ub798\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "name": "Editor's Picks Korea: 4\uc6d4\uc758 \ub178\ub798",
   "tracks": [
     {
       "album": {
@@ -503,6 +503,28 @@
     },
     {
       "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        },
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138098,
+      "name": "BUSHWICK",
+      "url": "https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT"
+    },
+    {
+      "album": {
         "name": "pullup to busan 4 morE hypEr summEr it\u2019s gonna bE a fuckin moviE",
         "url": "https://open.spotify.com/album/4TJQ4ze7fqMJIzGB1Y4vTy"
       },
@@ -917,6 +939,24 @@
     },
     {
       "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153181,
+      "name": "E85",
+      "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
+    },
+    {
+      "album": {
         "name": "EROS",
         "url": "https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8"
       },
@@ -1062,6 +1102,24 @@
       "duration_ms": 180156,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/1TBF4AVAShgxVjfp2qIgYh"
+    },
+    {
+      "album": {
+        "name": "Free Falling",
+        "url": "https://open.spotify.com/album/0G2AFxDKATGvqzJocmA75H"
+      },
+      "artists": [
+        {
+          "name": "KANGMIN",
+          "url": "https://open.spotify.com/artist/7uJ4GsUkf4bFDKK2PVwOZP"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/2CZnvlQO93I54pvFsu9Ky8"
     },
     {
       "album": {
@@ -1446,6 +1504,24 @@
       "duration_ms": 228000,
       "name": "I'll Remember",
       "url": "https://open.spotify.com/track/7oArq8xkRKeRDOnOv45PmS"
+    },
+    {
+      "album": {
+        "name": "idk idk",
+        "url": "https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "idk idk",
+      "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
     },
     {
       "album": {
@@ -2659,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "ALL ROADS LEAD HOME",
+        "url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "WAGWAN",
+      "url": "https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip"
+    },
+    {
+      "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
       },
@@ -2750,6 +2844,24 @@
       "duration_ms": 183271,
       "name": "WITH ME",
       "url": "https://open.spotify.com/track/7sMu7u5KzqJLYo9zUDFPFa"
+    },
+    {
+      "album": {
+        "name": "X room",
+        "url": "https://open.spotify.com/album/056wnSXPPiumFzfn2sUT1k"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "X room",
+      "url": "https://open.spotify.com/track/74Htt1SSAm1YrIqPq6DfU1"
     },
     {
       "album": {

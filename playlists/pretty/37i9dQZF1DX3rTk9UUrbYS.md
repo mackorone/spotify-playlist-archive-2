@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,218 likes - 100 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,240 likes - 100 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Angels](https://open.spotify.com/track/5QuoDL25jFMi1NsB6O8eKF) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Angels](https://open.spotify.com/album/4W2fYO1XsLFtTRgo2WsZ3q) | 4:33 |
+| 1 | [Angels](https://open.spotify.com/track/5QuoDL25jFMi1NsB6O8eKF) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H), [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee), [Chad Taylor](https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt), [Luke Stewart](https://open.spotify.com/artist/47Hm7AeE0GmaiZExP1Y6L4) | [Angels](https://open.spotify.com/album/4W2fYO1XsLFtTRgo2WsZ3q) | 4:33 |
 | 2 | [Elysian Invocation](https://open.spotify.com/track/0kXC6pXH7wj9vKIjq7Mcrn) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm) | [Elysian Invocation / "Pollen on the Earth"](https://open.spotify.com/album/4EONfGE1CgzJ5wT03NRqJ2) | 14:55 |
 | 3 | [Strata, Act \(Joy Contemporary\)\* London SECOND SET](https://open.spotify.com/track/4fe0B85OSHpzXkpdsZSKEc) | [Pat Thomas](https://open.spotify.com/artist/26qWaXwdJqQJBoU1qcuId5), [XT](https://open.spotify.com/artist/66oK2w14hE1NPQNjmHji0h), [Seymour Wright](https://open.spotify.com/artist/65Cx00IQh13D8u9xhsbOAA), [Paul Abbott](https://open.spotify.com/artist/2CYQ7o1erSJsxHo1V6TkxW) | [Strata, Act \(Joy Contemporary\)\*](https://open.spotify.com/album/4vpejRxRg5sSDAb2LIDvT2) | 43:24 |
 | 4 | [In The Dark](https://open.spotify.com/track/317ZymuYyBkuoFZcLjkOF1) | [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L), [Henry Threadgill](https://open.spotify.com/artist/0bSP8obSwEpc8XEOE7qc63) | [Around You Is A Forest](https://open.spotify.com/album/4StVdvXvF5DSy5WJ7qVR2i) | 4:47 |

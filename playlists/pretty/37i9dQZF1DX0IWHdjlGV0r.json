@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tony Boy",
-  "num_followers": 129311,
+  "num_followers": 129315,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -11,22 +11,18 @@
     {
       "added_at": "2026-04-02 23:01:22",
       "album": {
-        "name": "Bravo Ragazzo (Royal Edition)",
-        "url": "https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW"
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Brivido",
-      "url": "https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC"
+      "duration_ms": 207230,
+      "name": "Ogni Male",
+      "url": "https://open.spotify.com/track/28v57vssZ488EEIBivY3NF"
     },
     {
       "added_at": "2026-04-02 23:01:22",
@@ -99,18 +95,22 @@
     {
       "added_at": "2026-04-02 23:01:22",
       "album": {
-        "name": "Hustle Mixtape Vol. 2",
-        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+        "name": "Bravo Ragazzo (Royal Edition)",
+        "url": "https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 207230,
-      "name": "Ogni Male",
-      "url": "https://open.spotify.com/track/28v57vssZ488EEIBivY3NF"
+      "duration_ms": 227693,
+      "name": "Brivido",
+      "url": "https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC"
     },
     {
       "added_at": "2026-04-02 23:01:22",
@@ -491,30 +491,6 @@
     {
       "added_at": "2026-04-02 23:01:22",
       "album": {
-        "name": "Going Hard 3",
-        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Non mi basta mai (feat. Frah Quintale, Capo Plaza)",
-      "url": "https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo"
-    },
-    {
-      "added_at": "2026-04-02 23:01:22",
-      "album": {
         "name": "M' Manc (con Geolier & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
+    },
+    {
+      "added_at": "2026-04-02 23:01:22",
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Non mi basta mai (feat. Frah Quintale, Capo Plaza)",
+      "url": "https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo"
     },
     {
       "added_at": "2026-04-02 23:01:22",
@@ -1051,6 +1051,30 @@
     {
       "added_at": "2026-04-02 23:01:22",
       "album": {
+        "name": "MORENDO AD OCCHI APERTI",
+        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "ORDINARIA FOLLIA (feat. Franco126)",
+      "url": "https://open.spotify.com/track/2rqxTIXwORh2uvyJzGoMQR"
+    },
+    {
+      "added_at": "2026-04-02 23:01:22",
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
@@ -1079,30 +1103,6 @@
       "duration_ms": 209179,
       "name": "Fuoco e benzina",
       "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
-    },
-    {
-      "added_at": "2026-04-02 23:01:22",
-      "album": {
-        "name": "MORENDO AD OCCHI APERTI",
-        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
-      },
-      "artists": [
-        {
-          "name": "Promessa",
-          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "IDUA",
-          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "ORDINARIA FOLLIA (feat. Franco126)",
-      "url": "https://open.spotify.com/track/2rqxTIXwORh2uvyJzGoMQR"
     },
     {
       "added_at": "2026-04-02 23:01:22",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2026-04-02 23:01:22",
       "album": {
+        "name": "MORENDO AD OCCHI APERTI",
+        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "9 FEBBRAIO",
+      "url": "https://open.spotify.com/track/5K8HIXj7NB8PPfvWeaeEc0"
+    },
+    {
+      "added_at": "2026-04-02 23:01:22",
+      "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 145960,
       "name": "Tu Mi Piaci (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2"
-    },
-    {
-      "added_at": "2026-04-02 23:01:22",
-      "album": {
-        "name": "MORENDO AD OCCHI APERTI",
-        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
-      },
-      "artists": [
-        {
-          "name": "Promessa",
-          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
-        },
-        {
-          "name": "IDUA",
-          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "9 FEBBRAIO",
-      "url": "https://open.spotify.com/track/5K8HIXj7NB8PPfvWeaeEc0"
     },
     {
       "added_at": "2026-04-02 23:01:22",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2026-04-02 23:01:22",
       "album": {
-        "name": "Angelina Jolie",
-        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
-        }
-      ],
-      "duration_ms": 169671,
-      "name": "Angelina Jolie",
-      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
-    },
-    {
-      "added_at": "2026-04-02 23:01:22",
-      "album": {
         "name": "NO REGULAR MUSIC 2.5",
         "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 204000,
       "name": "con te (feat. prima stanza a destra, Massimo Pericolo, Latrelle)",
       "url": "https://open.spotify.com/track/1Hfie3sTj3PmHVvErUzq0V"
+    },
+    {
+      "added_at": "2026-04-02 23:01:22",
+      "album": {
+        "name": "Angelina Jolie",
+        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "duration_ms": 169671,
+      "name": "Angelina Jolie",
+      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
     },
     {
       "added_at": "2026-04-02 23:01:22",

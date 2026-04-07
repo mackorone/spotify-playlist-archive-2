@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,531 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,524 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Deixar Partir](https://open.spotify.com/track/1KO2sIVY67lHRc0jpFOkUK) | [Emoponto](https://open.spotify.com/artist/5wybIAmMmNUQ4zmwRMODRb) | [Melhores Dias](https://open.spotify.com/album/07q5ehLPieuHrOoX3GO9KF) | 3:33 |
 | 2 | [Porto Alegre](https://open.spotify.com/track/33Y1jukFR76pj7TXFTHQBJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Revanche](https://open.spotify.com/album/6SH5RNO347OXTrPndPUj52) | 3:47 |
 | 3 | [Cedo Ou Tarde \- Mixagem 2023](https://open.spotify.com/track/1QAtLoN3Pz2P5mWqbWMs4L) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Agora \(Mixagem 2023\)](https://open.spotify.com/album/6DtTX1ZvNBhN15LTYBhuYz) | 3:14 |
-| 4 | [Horizontes \(feat\. Lucas Silveira\)](https://open.spotify.com/track/2fNMkohK8dGXFxzfQx5M9c) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [\(Re\)Nascido](https://open.spotify.com/album/6KIYqiZRJVFHMNs3bVJJve) | 4:42 |
+| 4 | [Horizontes \(feat\. Lucas Silveira\)](https://open.spotify.com/track/2fNMkohK8dGXFxzfQx5M9c) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN), [Lucas Silveira](https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK) | [\(Re\)Nascido](https://open.spotify.com/album/6KIYqiZRJVFHMNs3bVJJve) | 4:42 |
 | 5 | [Levo Comigo](https://open.spotify.com/track/77Y6GBebTNjzyLVTX3PmAk) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Greatest Hits \- Tour Edition](https://open.spotify.com/album/4LYsPGQ18Rb9fPnDbebCYC) | 3:28 |
 | 6 | [Cada Poça Dessa Rua Tem um Pouco de Minhas Lágrimas](https://open.spotify.com/track/7H9ZO3l7JQDBjVykuxFujo) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/045PXgmguVjBFJ1PVMCgZO) | 5:52 |
 | 7 | [Piloto Automático](https://open.spotify.com/track/35689kbAwieHK4YNmwEisS) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Amianto](https://open.spotify.com/album/1M54W6vxFuAxYNrlO7Ocwd) | 3:16 |

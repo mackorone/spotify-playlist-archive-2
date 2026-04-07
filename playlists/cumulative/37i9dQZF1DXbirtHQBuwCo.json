@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: HOSHI)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: Min Jiwoon(\ubbfc\uc9c0\uc6b4))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 163000,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
@@ -3992,7 +3992,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 219034,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98"
@@ -5551,6 +5551,24 @@
     },
     {
       "album": {
+        "name": "Feel It Too",
+        "url": "https://open.spotify.com/album/7kOL9ST8z2JlVIOVKCs3hB"
+      },
+      "artists": [
+        {
+          "name": "Min Jiwoon",
+          "url": "https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198440,
+      "name": "Feel It Too",
+      "url": "https://open.spotify.com/track/7pa2CHENwzDO82W1UDpiJp"
+    },
+    {
+      "album": {
         "name": "BRUISE",
         "url": "https://open.spotify.com/album/5M9Jv5GX35zpqMYJ6bxgoG"
       },
@@ -6118,6 +6136,28 @@
       "duration_ms": 187479,
       "name": "Fxxxboy",
       "url": "https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq"
+    },
+    {
+      "album": {
+        "name": "G.i.w.o.n",
+        "url": "https://open.spotify.com/album/7gDvwgrtKXDpKfAdZcbv1r"
+      },
+      "artists": [
+        {
+          "name": "Giwon",
+          "url": "https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126792,
+      "name": "G.i.w.o.n",
+      "url": "https://open.spotify.com/track/2pvjfkbEIMfn7JMT6210ys"
     },
     {
       "album": {
@@ -15066,7 +15106,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 183000,
       "name": "STAY on FIRE (feat. DEAN)",
       "url": "https://open.spotify.com/track/6PpxPJyQYHGeiUCYy6jF02"
@@ -16920,6 +16960,36 @@
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
+    },
+    {
+      "album": {
+        "name": "Phantom Pain",
+        "url": "https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS"
+      },
+      "artists": [
+        {
+          "name": "1ANDON",
+          "url": "https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf"
+        },
+        {
+          "name": "Kim Feelsun",
+          "url": "https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih"
+        },
+        {
+          "name": "L-like",
+          "url": "https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
     },
     {
       "album": {

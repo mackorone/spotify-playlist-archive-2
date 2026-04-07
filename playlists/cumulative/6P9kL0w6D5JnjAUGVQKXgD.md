@@ -4,7 +4,7 @@
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-1,607 songs - 3 day 12 hr 15 min
+1,608 songs - 3 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -927,6 +927,7 @@
 | [More Than You Know](https://open.spotify.com/track/4q8PHoRsPUB52LFylX8Ulz) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/5wtHzowB37Fre3iXWQW5v5) | 3:23 | 2019-09-29\* | 2020-05-27 |
 | [Morenita](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita](https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW) | 2:56 | 2021-10-16 | 2022-02-17 |
 | [Morning](https://open.spotify.com/track/3lDax71SDuJGcFrCyw9qak) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Morning](https://open.spotify.com/album/1U4L4M5SeW0gUjKvyE94M9) | 2:37 | 2021-01-30 | 2022-04-13 |
+| [Morning Light](https://open.spotify.com/track/0p7DyuScld8BBWgDZUxeEK) | [House Arrest](https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6) | [Morning Light](https://open.spotify.com/album/5zC1t8X0LjFuCf6GDux0QX) | 3:18 | 2026-04-06 |  |
 | [Morning Light](https://open.spotify.com/track/7I4tDDBhhjGZ0sv9NoK3Eb) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf) | [Morning Light](https://open.spotify.com/album/4j7RLLIETE8YFIJWXgFhfG) | 2:50 | 2023-01-04 | 2023-01-07 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-10-28 | 2021-11-10 |
 | [Move](https://open.spotify.com/track/77nsopvS2oakiCcvVZaZLV) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Move](https://open.spotify.com/album/1kAa3NghRtSKIxPsPqGPbo) | 2:31 | 2022-12-26 | 2023-01-10 |
@@ -1159,7 +1160,7 @@
 | [Rollerblade](https://open.spotify.com/track/1hz0SWhLPWKqpGiEBnWFpm) | [Trial & Error](https://open.spotify.com/artist/6W4qhJWqjWK8x6oo4oKMwK), [HENDRICK LANE](https://open.spotify.com/artist/0eJYjGNZFypo9g9QH5JaGL) | [Rollerblade](https://open.spotify.com/album/0xewukHzbfXN0oIR9GUJoi) | 2:50 | 2019-09-29\* | 2023-06-13 |
 | [Rollercoaster](https://open.spotify.com/track/636kRUoh1D1ZJifHip4RtS) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Rollercoaster](https://open.spotify.com/album/4lC9pLz0vfNZQe7xcpqjKg) | 2:59 | 2021-09-29 | 2021-09-30 |
 | [Rooftops](https://open.spotify.com/track/6pbhkfdG5RvTJaC3VKPaJn) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Joytime II](https://open.spotify.com/album/0xi4cOWPUHjctyYU8ypCOB) | 2:57 | 2020-05-26 | 2023-03-10 |
-| [Roses \(feat\. ROZES\)](https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:45 | 2023-05-30 |  |
+| [Roses \(feat\. ROZES\)](https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:45 | 2023-05-30 | 2026-04-07 |
 | [Roses \(Imanbek Remix\)](https://open.spotify.com/track/7mS2ZgalsI18LW6EnqFA0v) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3wZL4Pxagph7pND4IPpXlt) | 2:56 | 2020-05-27 | 2023-05-24 |
 | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/track/3yvHcaY61FpeSiLiHiIST4) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/album/3SRrcJb9UQxc6vZm7cZ2Ww) | 2:50 | 2020-12-10 | 2020-12-17 |
 | [Rumors](https://open.spotify.com/track/0ibEbPyMI2JbYgzFYNJlwh) | [TYMEN](https://open.spotify.com/artist/38dICdGB6bl9UKmQx3lt2R), [MYXE](https://open.spotify.com/artist/3og6e24muubWOaYriWZsPc) | [Rumors](https://open.spotify.com/album/6LyEg0JrkaYHXqhyeg96bl) | 3:05 | 2023-01-11 | 2023-03-09 |

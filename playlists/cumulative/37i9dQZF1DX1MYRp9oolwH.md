@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Dacoit
 
-384 songs - 1 day 0 hr 40 min
+385 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Ee Dhooramey](https://open.spotify.com/track/4eXPw0pefj8lT7KxLsSQCJ) | [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Sindhuja Tanuku](https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Little Hearts](https://open.spotify.com/album/3VEcAymSMNCgrQsXxxSaWp) | 3:00 | 2025-09-10 | 2026-03-06 |
 | [Ee Rangula Lokam \(From "Ugly Story"\)](https://open.spotify.com/track/1AIvH576lujKraQGlxU2sW) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Kadali](https://open.spotify.com/artist/5xmlr03MWTYQSflITsHmpk) | [Ee Rangula Lokam \(From "Ugly Story"\)](https://open.spotify.com/album/6O2d3kO1tegY9FnKdemmV2) | 3:05 | 2025-06-23 | 2025-08-01 |
 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 | 2022-12-20 | 2023-09-26 |
+| [Emaindo](https://open.spotify.com/track/09bFApsztN37dcVl3aYxVC) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Raghu Ram](https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj) | [BIKER](https://open.spotify.com/album/1orPs3If0nlStixmpnC8nE) | 2:42 | 2026-04-06 |  |
 | [Emo Emo \(From "Krishna Leela"\)](https://open.spotify.com/track/4Ptt6zHijOaG997nqwbSmt) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Emo Emo \(From "Krishna Leela"\)](https://open.spotify.com/album/5mHb2OYjyENZwsKlHnZfb5) | 2:50 | 2025-06-03 | 2026-02-17 |
 | [Emundi Ra \(From "Krishna Vrinda Vihari"\)](https://open.spotify.com/track/1EqsZQwACUqnn9GvtzLjHl) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Emundi Ra \(From "Krishna Vrinda Vihari"\) \- Single](https://open.spotify.com/album/1ZP4uiCbZYgrxmoEmRVzrB) | 3:52 | 2022-05-04 | 2023-02-21 |
 | [Endhayya Saami \(Special Surprise\) \[From "Ranabaali"\]](https://open.spotify.com/track/3bBKPc5S5VkIP2msOWMFkv) | [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W), [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Endhayya Saami \(Special Surprise\) \[From "Ranabaali"\]](https://open.spotify.com/album/6l8wEEgbJ0VYfkMhEL999z) | 1:19 | 2026-03-03 |  |

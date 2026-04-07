@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 602,
+  "num_followers": 611,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADMuo1+QwSy4SliZNN+BF5FXDhBYAr",
+  "snapshot_id": "AAADOSRJ+2CgRZDziqxwBUP+49fARuc6",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1363,6 +1363,118 @@
       "duration_ms": 188438,
       "name": "MAD MAN",
       "url": "https://open.spotify.com/track/6JazoIXIOMSFagj2YKNfBJ"
+    },
+    {
+      "added_at": "2026-04-06 12:11:24",
+      "album": {
+        "name": "Make It Alright",
+        "url": "https://open.spotify.com/album/62BRuVUHTImfiziKzuXKH3"
+      },
+      "artists": [
+        {
+          "name": "Lost Velvet",
+          "url": "https://open.spotify.com/artist/43VZcpziN2RTPNRbrdMgAT"
+        }
+      ],
+      "duration_ms": 187801,
+      "name": "Make It Alright",
+      "url": "https://open.spotify.com/track/7gWWilzekZ5Y3vyuTCNspq"
+    },
+    {
+      "added_at": "2026-04-06 12:20:00",
+      "album": {
+        "name": "Watch The World Burn",
+        "url": "https://open.spotify.com/album/17Ot21U5DpVxMZVQqPbcPl"
+      },
+      "artists": [
+        {
+          "name": "Aiden Levit",
+          "url": "https://open.spotify.com/artist/1aDMP3KJMjzvEU6oxq4ktJ"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Watch The World Burn",
+      "url": "https://open.spotify.com/track/5eh4inn2ixohkqccJPWgf2"
+    },
+    {
+      "added_at": "2026-04-06 12:51:40",
+      "album": {
+        "name": "\u0417\u0430\u0431\u0443\u0442\u0435 \u043d\u0435\u0431\u043e",
+        "url": "https://open.spotify.com/album/1urbhkBMZ55FmqDkfAGJUd"
+      },
+      "artists": [
+        {
+          "name": "\u041b\u042e\u0422\u0410",
+          "url": "https://open.spotify.com/artist/5XFjkWAijGDE0j4yAF4ftC"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "\u0417\u0430\u0431\u0443\u0442\u0435 \u043d\u0435\u0431\u043e",
+      "url": "https://open.spotify.com/track/2Qeo0ZXBDY5sFUFxLfNhWu"
+    },
+    {
+      "added_at": "2026-04-06 21:29:15",
+      "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya"
+      },
+      "artists": [
+        {
+          "name": "Condition Baker",
+          "url": "https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu"
+        }
+      ],
+      "duration_ms": 173876,
+      "name": "BLEED - Single Version",
+      "url": "https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf"
+    },
+    {
+      "added_at": "2026-04-06 22:00:37",
+      "album": {
+        "name": "Rain Falls In The Night.",
+        "url": "https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "duration_ms": 256319,
+      "name": "Rain Falls In The Night.",
+      "url": "https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ"
+    },
+    {
+      "added_at": "2026-04-06 22:02:47",
+      "album": {
+        "name": "Different Ways.",
+        "url": "https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "duration_ms": 229879,
+      "name": "Different Ways.",
+      "url": "https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL"
+    },
+    {
+      "added_at": "2026-04-06 22:04:33",
+      "album": {
+        "name": "Of a Beautiful Dream",
+        "url": "https://open.spotify.com/album/7q1s3GZxJQ6CMES2udqaue"
+      },
+      "artists": [
+        {
+          "name": "Static Switch",
+          "url": "https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M"
+        }
+      ],
+      "duration_ms": 172372,
+      "name": "Of a Beautiful Dream",
+      "url": "https://open.spotify.com/track/48T7NGSrmgHx40d3H3Iwl6"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

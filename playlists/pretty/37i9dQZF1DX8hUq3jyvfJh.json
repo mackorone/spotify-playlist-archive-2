@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 192580,
+  "num_followers": 192600,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "N\u00e3o Quero Te Querer",
-        "url": "https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        },
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "N\u00e3o Quero Te Querer",
-      "url": "https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 248500,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/2ea27ZeiVxXTY029nVpcWe"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "N\u00e3o Quero Te Querer",
+        "url": "https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "N\u00e3o Quero Te Querer",
+      "url": "https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -435,26 +435,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG"
-      },
-      "artists": [
-        {
-          "name": "Iuna Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N"
-        },
-        {
-          "name": "N\u00fabia",
-          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
-        }
-      ],
-      "duration_ms": 258206,
-      "name": "Cora\u00e7\u00e3o Mel\u00e3o",
-      "url": "https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Fulor\u00e1",
         "url": "https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 222369,
       "name": "Xote Destino",
       "url": "https://open.spotify.com/track/6T1CDe3leBfSnWK1fvr1Bx"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG"
+      },
+      "artists": [
+        {
+          "name": "Iuna Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N"
+        },
+        {
+          "name": "N\u00fabia",
+          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
+        }
+      ],
+      "duration_ms": 258206,
+      "name": "Cora\u00e7\u00e3o Mel\u00e3o",
+      "url": "https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1"
     },
     {
       "added_at": "2026-04-01 03:00:06",

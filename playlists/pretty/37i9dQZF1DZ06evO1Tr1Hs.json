@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 45702,
+  "num_followers": 45709,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adBUgAAAAABavuS1dJp8q6/eckFIYQOu",
+  "snapshot_id": "adGmAAAAAACmIs6UkyRqw++9BXFYRW3n",
   "tracks": [
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 131414,
-      "name": "Clutch",
-      "url": "https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t"
+      "duration_ms": 161309,
+      "name": "Hella",
+      "url": "https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 161309,
-      "name": "Hella",
-      "url": "https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1"
+      "duration_ms": 131414,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t"
     }
   ],
   "unique_name": "This Is Ken Carson",

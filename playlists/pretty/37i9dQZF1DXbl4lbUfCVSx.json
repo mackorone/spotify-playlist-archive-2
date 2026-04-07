@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Ha\u00efti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 36571,
+  "num_followers": 36576,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-04-03 04:00:42",
       "album": {
+        "name": "Chambre 12",
+        "url": "https://open.spotify.com/album/49ooEM5Xre2NvBHVcg6aFe"
+      },
+      "artists": [
+        {
+          "name": "Massiv3",
+          "url": "https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Metro Gouyad",
+      "url": "https://open.spotify.com/track/32txcWZeusEWrCZAM14yJS"
+    },
+    {
+      "added_at": "2026-04-03 04:00:42",
+      "album": {
         "name": "She's Hot",
         "url": "https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 238524,
       "name": "She's Hot",
       "url": "https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW"
-    },
-    {
-      "added_at": "2026-04-03 04:00:42",
-      "album": {
-        "name": "Chambre 12",
-        "url": "https://open.spotify.com/album/49ooEM5Xre2NvBHVcg6aFe"
-      },
-      "artists": [
-        {
-          "name": "Massiv3",
-          "url": "https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Metro Gouyad",
-      "url": "https://open.spotify.com/track/32txcWZeusEWrCZAM14yJS"
     },
     {
       "added_at": "2026-04-03 04:00:42",

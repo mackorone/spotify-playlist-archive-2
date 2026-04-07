@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-889 songs - 1 day 23 hr 50 min
+891 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Blink Twice](https://open.spotify.com/track/7Eo9P9znoVf3kViiNz8NNq) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Blink Twice](https://open.spotify.com/album/6gP5fv2vn48QHO44clXsi5) | 3:22 | 2025-06-06 |  |
 | [Blood On My Hands \(feat\. Smino\)](https://open.spotify.com/track/33ApwnTRZJfotPmAYqSrkt) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Blood On My Hands \(feat\. Smino\)](https://open.spotify.com/album/1uji7c1Vhvz2X4gT7yPc1F) | 4:11 | 2019-08-27\* | 2019-11-11 |
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-21 | 2025-08-27 |
+| [Bobby](https://open.spotify.com/track/0XZ2XxO2rfGIhcDWqj2riz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Reputation / Bobby](https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L) | 3:31 | 2026-04-07 |  |
 | [Body Do The Talking](https://open.spotify.com/track/0lk1rpA7KZ4usOL8OE6G5r) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better In Blak \(Anniversary Edition\)](https://open.spotify.com/album/1UMdaDTbCfAdOXGazG4ZNO) | 2:26 | 2020-11-06 | 2025-08-27 |
 | [bop it up!](https://open.spotify.com/track/06yhr4JeQjIcyDZwEwjGcm) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [bop it up!](https://open.spotify.com/album/2N0mrM0E67bgXuOkeuEHjC) | 2:46 | 2020-10-23 | 2021-05-12 |
 | [Born For This Bullshit \(feat\. Sad13\)](https://open.spotify.com/track/6FwhbeCYKzSvg4Gf5fvFOM) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Sad13](https://open.spotify.com/artist/5WMmQuQNYBIJ3HVrKFKaPg) | [Born For This Bullshit \(feat\. Sad13\)](https://open.spotify.com/album/3HrbnJr4QUgy5qoO2hlPId) | 3:55 | 2021-09-28 | 2025-08-27 |
@@ -646,6 +647,7 @@
 | [Red Flags](https://open.spotify.com/track/6GYQa8lAk6QDM93UtCwKlD) | [Cecily](https://open.spotify.com/artist/4wR8IGlAgXfIRFPUezlq6H) | [Red Flags](https://open.spotify.com/album/4VCsg6rpn2YeMNeoBbE7bT) | 2:35 | 2019-12-20 | 2021-05-12 |
 | [Red Lights \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0X7bCIwO7SQCBgGdJYJVCU) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Red Lights \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/3oSvPexHPj91b2onrihcpY) | 2:55 | 2019-08-27\* | 2019-11-11 |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2021-02-09 | 2025-07-17 |
+| [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 | 2026-04-07 |  |
 | [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 | 2021-07-24 | 2025-07-17 |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2019-08-27\* | 2020-02-12 |
 | [Residue](https://open.spotify.com/track/3QjPHa7u2qcg0WyHjyPtvw) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Residue](https://open.spotify.com/album/0xwHIshrIHKewaygYFaDBa) | 2:26 | 2020-10-16 | 2021-05-12 |

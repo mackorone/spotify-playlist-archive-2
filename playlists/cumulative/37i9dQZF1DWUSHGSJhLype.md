@@ -4,7 +4,7 @@
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Léo Santana
 
-564 songs - 1 day 3 hr 11 min
+565 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-19 | 2024-10-17 |
 | [Altas Loucurinhas \(Uni Duni Tê\) \- Ao Vivo](https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [MF No Rio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ) | 3:22 | 2023-05-15 | 2024-12-27 |
 | [Alto Padrão](https://open.spotify.com/track/4ZjWWshtk4HVKFh6YWpRNG) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Alto Padrão](https://open.spotify.com/album/5eHxj3BxP6dCaehxURAmGR) | 2:16 | 2025-06-27 | 2025-07-19 |
+| [Ama Essa Mulher Direito](https://open.spotify.com/track/5WCaRoBQ5IAQYu3FKA5eTq) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [CONTEÚDO SENSÍVEL](https://open.spotify.com/album/436SYZgdUkwR3fJoFqp4rt) | 3:03 | 2026-04-06 |  |
 | [Ama Um Maloqueiro](https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Ama Um Maloqueiro](https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S) | 2:42 | 2025-06-12 |  |
 | [Amanheceu](https://open.spotify.com/track/0KhZjWbG8uHakszjOw6Rx9) | [RUAN VITOR VAQUEIRINHO](https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g) | [Amanheceu](https://open.spotify.com/album/4m3fhqIcH2Izw5ReWRQb5j) | 2:49 | 2024-08-27 | 2024-10-17 |
 | [Americana Na Vaquejada](https://open.spotify.com/track/1M6rclDhYmqRBMFGNJOFKB) | [Grandão Vaqueiro](https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Americana Na Vaquejada](https://open.spotify.com/album/35vat6W0JnjkK3tXIqx1eX) | 2:36 | 2023-05-15 | 2023-10-28 |
@@ -474,7 +475,7 @@
 | [Sinal Disfarçado \- Elétrico](https://open.spotify.com/track/0J7XlUfjtMmokwCrzlmJIr) | [Os Caras do Arrocha](https://open.spotify.com/artist/5gKkWFrMtS1tWvjVbX3BFH), [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Israel Novaes](https://open.spotify.com/artist/3hWuWrOOgSCDkP5iqEHxMy) | [Os Caras do Arrocha Elétrico](https://open.spotify.com/album/7tqIJz4ipyioa12mq2y7zc) | 2:53 | 2026-01-30 | 2026-03-21 |
 | [Solteira Que É Fiel \- Ao Vivo em Caruaru](https://open.spotify.com/track/6Fm0DxUyOYZOqSJXXyancI) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Muído Do Original \(Ao Vivo Em Caruaru\)](https://open.spotify.com/album/5ZqEDypPktIpwRZnKuGfmw) | 2:16 | 2025-12-05 | 2026-01-17 |
 | [SOLTEIROU \- Ao Vivo](https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY DELUXE \(Ao Vivo\)](https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N) | 2:28 | 2023-05-15 | 2024-08-10 |
-| [Some](https://open.spotify.com/track/1V10F8afY9h6VTTOusg7pK) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [CONTEÚDO SENSÍVEL](https://open.spotify.com/album/436SYZgdUkwR3fJoFqp4rt) | 2:02 | 2026-04-03 |  |
+| [Some](https://open.spotify.com/track/1V10F8afY9h6VTTOusg7pK) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [CONTEÚDO SENSÍVEL](https://open.spotify.com/album/436SYZgdUkwR3fJoFqp4rt) | 2:02 | 2026-04-03 | 2026-04-07 |
 | [Sonhei Com Você \(Ao Vivo\)](https://open.spotify.com/track/1EM4KXYMgqm6Md4F8ko3Ke) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:30 | 2024-03-29 | 2024-04-04 |
 | [Sonho de Amor \- Ao Vivo](https://open.spotify.com/track/6R1baXIg0uOG4g9cwebCjf) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [Cortando Chão \(Ao Vivo\)](https://open.spotify.com/album/4mTnXTY2tWL8phETnsB5Lk) | 3:13 | 2025-11-03 |  |
 | [Sorri, Sou Rei](https://open.spotify.com/track/0u6xEmvDwwVOLIywwu6xKN) | [Enzo o Bruxo](https://open.spotify.com/artist/332Fln0M0hMo0iyQJcRYXz) | [Brega do Bruxo](https://open.spotify.com/album/2pABm4fBCMvlyCvq6zIxRY) | 2:43 | 2025-11-14 | 2026-02-14 |

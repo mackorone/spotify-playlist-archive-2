@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Lapili.",
-  "num_followers": 21323,
+  "num_followers": 21319,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -779,18 +779,22 @@
     {
       "added_at": "2026-03-03 23:00:24",
       "album": {
-        "name": "Deber\u00eda estar brillando",
-        "url": "https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq"
+        "name": "Asereg\u00e9",
+        "url": "https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z"
       },
       "artists": [
         {
-          "name": "Miss Caffeina",
-          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
+          "name": "Svetlana",
+          "url": "https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6"
+        },
+        {
+          "name": "Alosa",
+          "url": "https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB"
         }
       ],
-      "duration_ms": 152650,
-      "name": "Deber\u00eda estar brillando",
-      "url": "https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK"
+      "duration_ms": 202781,
+      "name": "Asereg\u00e9",
+      "url": "https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT"
     },
     {
       "added_at": "2026-03-03 23:00:24",
@@ -811,22 +815,18 @@
     {
       "added_at": "2026-03-03 23:00:24",
       "album": {
-        "name": "Asereg\u00e9",
-        "url": "https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z"
+        "name": "Deber\u00eda estar brillando",
+        "url": "https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq"
       },
       "artists": [
         {
-          "name": "Svetlana",
-          "url": "https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6"
-        },
-        {
-          "name": "Alosa",
-          "url": "https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB"
+          "name": "Miss Caffeina",
+          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
         }
       ],
-      "duration_ms": 202781,
-      "name": "Asereg\u00e9",
-      "url": "https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT"
+      "duration_ms": 152650,
+      "name": "Deber\u00eda estar brillando",
+      "url": "https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK"
     },
     {
       "added_at": "2026-03-03 23:00:24",

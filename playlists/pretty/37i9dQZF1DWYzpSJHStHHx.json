@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484029,
+  "num_followers": 484040,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Cut Worms",
-        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 183030,
-      "name": "Ballad of the Texas King",
-      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Fish on the Sand",
         "url": "https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
+        "name": "Cut Worms",
+        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
       },
       "artists": [
         {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
         }
       ],
-      "duration_ms": 253213,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
+      "duration_ms": 183030,
+      "name": "Ballad of the Texas King",
+      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -407,6 +391,22 @@
       "duration_ms": 158085,
       "name": "What's Next",
       "url": "https://open.spotify.com/track/204AwF6xWxX2OakSgEyICI"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "So Excited",
-        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 240486,
-      "name": "So Excited",
-      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Soft Rock Band",
         "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 492280,
       "name": "Soft Rock Band",
       "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "So Excited",
+        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 240486,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "III: Arcade Dynamics",
+        "url": "https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf"
+      },
+      "artists": [
+        {
+          "name": "Ducktails",
+          "url": "https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx"
+        }
+      ],
+      "duration_ms": 259317,
+      "name": "Killin' the Vibe",
+      "url": "https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Existential Playboy",
         "url": "https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 255883,
       "name": "State Of Hawaii",
       "url": "https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "III: Arcade Dynamics",
-        "url": "https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf"
-      },
-      "artists": [
-        {
-          "name": "Ducktails",
-          "url": "https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx"
-        }
-      ],
-      "duration_ms": 259317,
-      "name": "Killin' the Vibe",
-      "url": "https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Just Give In / Never Going Home",
-        "url": "https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C"
-      },
-      "artists": [
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Stargazer",
         "url": "https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID"
       },
@@ -1127,6 +1095,38 @@
       "duration_ms": 275962,
       "name": "Peace In Me",
       "url": "https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Just Give In / Never Going Home",
+        "url": "https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2026-01-23 05:00:19",

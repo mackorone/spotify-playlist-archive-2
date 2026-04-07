@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Juliana
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,186 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,190 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [Cosas buenas](https://open.spotify.com/track/4RnysSVeHxlfW11HanYr0q) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Cosas buenas](https://open.spotify.com/album/0Cc6V5bXYrl6ghF04tEePM) | 2:42 |
 | 100 | [Celebrar](https://open.spotify.com/track/0L9wmmuP6536NqFqWyMKGu) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Celebrar](https://open.spotify.com/album/6UqLI0gR4fjhHhvHrBYk2l) | 3:15 |
 
-Snapshot ID: `AAAAAI90vkAoAIxFfyE7T02d3N9lu+iY`
+Snapshot ID: `AAAAAK9tcHkSbVI2yTgYQ6W7vMBvRblA`

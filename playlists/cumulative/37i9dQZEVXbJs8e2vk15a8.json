@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
@@ -14193,6 +14193,24 @@
     },
     {
       "album": {
+        "name": "Can We Hang Out Sometime?",
+        "url": "https://open.spotify.com/album/7pGzGYHDOMvdyqY1RBzBjB"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166955,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/2dvTutCISmanWOYdFMfqKo"
+    },
+    {
+      "album": {
         "name": "CIEGO SORDO MUDO",
         "url": "https://open.spotify.com/album/1HEIs7pw9riPY4i1qhvBos"
       },
@@ -15236,7 +15254,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 210452,
       "name": "Como Un P\u00e1jaro",
       "url": "https://open.spotify.com/track/2qRiMr3Gy4Vz643Q6sNMx5"
@@ -21746,7 +21764,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 197578,
       "name": "D\u00e9jame Solo Pablo Chil",
       "url": "https://open.spotify.com/track/4OxQDrueOwh0wN4oOkUUFm"
@@ -41330,7 +41348,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 186680,
       "name": "Love Without Disguises",
       "url": "https://open.spotify.com/track/1Ghsz0gso8z3dyJ4OwqIFV"
@@ -41348,7 +41366,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 186680,
       "name": "Love Without Disguises",
       "url": "https://open.spotify.com/track/4UH8HyU5HJnyQEcVT4rfcx"
@@ -47234,6 +47252,32 @@
       "duration_ms": 97606,
       "name": "Montagem Bandido - Slowed",
       "url": "https://open.spotify.com/track/2spuCBVvQyCsQFHIiie8gP"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM DOMER",
+        "url": "https://open.spotify.com/album/43EihSOXIPNrqMaPjEQsAH"
+      },
+      "artists": [
+        {
+          "name": "Paizo",
+          "url": "https://open.spotify.com/artist/1R7VmMOHe7I2hoAFUSloPK"
+        },
+        {
+          "name": "DJ LXILL",
+          "url": "https://open.spotify.com/artist/3A3vlTSTD6FJ8zTgSUdBzY"
+        },
+        {
+          "name": "DJ FallThox",
+          "url": "https://open.spotify.com/artist/2SE6mfDFx1U34XJsT48MUN"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87093,
+      "name": "MONTAGEM DOMER - Super Slowed",
+      "url": "https://open.spotify.com/track/2h4amIvI8Qi2k7IFK3igKZ"
     },
     {
       "album": {
@@ -69952,7 +69996,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 127575,
       "name": "Te Dar\u00e9",
       "url": "https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ"
@@ -80346,7 +80390,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 187384,
       "name": "XOT",
       "url": "https://open.spotify.com/track/22aPjtNxR1JxmwvzlbufBg"
@@ -80732,7 +80776,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 281360,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/4x7IHCsvUryP286yGxzl4O"

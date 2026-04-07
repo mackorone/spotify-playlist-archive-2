@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 236547,
       "name": "Fade Out Lines - Francis Mercier Remix",
       "url": "https://open.spotify.com/track/5kXRX5mrnKulXnLZ61JcZ7"
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 192000,
       "name": "Flores Blancas",
       "url": "https://open.spotify.com/track/4eCDvHu3fUH35yIiajE8wX"
@@ -5219,6 +5219,32 @@
     },
     {
       "album": {
+        "name": "Lete Sound (Restore Local Sessions 001)",
+        "url": "https://open.spotify.com/album/6RxCoZTc7ajcgAHcDvUZ4R"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Ben Pol",
+          "url": "https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4"
+        },
+        {
+          "name": "Juliani",
+          "url": "https://open.spotify.com/artist/6DeHceVetXHpLmvmqDpTD7"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Lete Sound (Restore Local Sessions 001)",
+      "url": "https://open.spotify.com/track/0SU9TnI7NcHKxiPa7TGxOO"
+    },
+    {
+      "album": {
         "name": "Letter For Poly",
         "url": "https://open.spotify.com/album/6IFRMsEeGh8Uq0x0ugEwF2"
       },
@@ -6257,6 +6283,36 @@
     },
     {
       "album": {
+        "name": "Mindgames",
+        "url": "https://open.spotify.com/album/7eP5vqZaSSnB2VtiqfM2Vf"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        },
+        {
+          "name": "Clemente",
+          "url": "https://open.spotify.com/artist/6Fd984bTk8JnpVROSaUbhn"
+        },
+        {
+          "name": "Groove Shack",
+          "url": "https://open.spotify.com/artist/5WfPCSJtIqsG7VSGkthVJb"
+        },
+        {
+          "name": "Pieces Of Life",
+          "url": "https://open.spotify.com/artist/0iZFcLvPZQPPZH3Z5sTHfY"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389331,
+      "name": "Mindgames",
+      "url": "https://open.spotify.com/track/29nPx72E4v4mGiTgv5PzxZ"
+    },
+    {
+      "album": {
         "name": "Minotauro",
         "url": "https://open.spotify.com/album/6q4oSm6CD85hqDig65qvJI"
       },
@@ -6330,7 +6386,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 186000,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/6d6QihVmJ7M5Z7qwYoiHqG"
@@ -7182,7 +7238,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 407804,
       "name": "On My Own - Bross (RO) Remix",
       "url": "https://open.spotify.com/track/38myjqkNALis6K4B48JEat"

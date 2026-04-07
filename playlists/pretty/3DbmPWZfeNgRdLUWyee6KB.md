@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,290 likes - 181 songs - 10 hr 31 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 189 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,5 +189,13 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 179 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 |
 | 180 | [Resta qui](https://open.spotify.com/track/3DWXaxpZITEuneQtpqmnYS) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [Resta qui](https://open.spotify.com/album/615U7jBZ12XBVNJEUQRwCe) | 3:05 |
 | 181 | [Tooth](https://open.spotify.com/track/7coB6qAIUohaBcqrCDhmyk) | [Yung Tasso](https://open.spotify.com/artist/3KOeNxUY9JKjzpYwxwOJUK), [Hayds](https://open.spotify.com/artist/0OIEpFFn2coJ5zeiMzrEdg), [FatRicko](https://open.spotify.com/artist/24cxoi08cDLTR8dbSiSawu) | [Tooth](https://open.spotify.com/album/6jM6xqCgSYunaFDBajakoC) | 2:23 |
+| 182 | [I Miss You](https://open.spotify.com/track/1eOKhyrLngwYxGKtqB1zFI) | [ILEKTRA](https://open.spotify.com/artist/1KSXF3RslyOfUJzkaxb6o1) | [I Miss You](https://open.spotify.com/album/7pQNFSf3imjlVyMrusJpMZ) | 2:48 |
+| 183 | [Wasted](https://open.spotify.com/track/0TiJ38Y29vd3RiOFzjUM44) | [Church of Elder](https://open.spotify.com/artist/6k5TPRqgd3Hvi0to5s05gQ) | [Wasted](https://open.spotify.com/album/1DD2XZIV8cYiMhF1rMbyC9) | 3:52 |
+| 184 | [Labbra Red](https://open.spotify.com/track/15K1NWxChXdujT6gYIp7QA) | [Newgenerationsg](https://open.spotify.com/artist/1h2ymTAOwwusUzU3OzjRjX), [Grazi Guidara](https://open.spotify.com/artist/5mHhkzGMmFrHQUwhxn7dQV) | [Labbra Red](https://open.spotify.com/album/4MUYEGUiGRW2iz0IF8tMVW) | 3:31 |
+| 185 | [creo](https://open.spotify.com/track/2biitC5sPVcjqXXTwX6QS4) | [Bea Troncea](https://open.spotify.com/artist/2NNFdP47Os0DAjY2VEzYqW) | [creo](https://open.spotify.com/album/7FtAw3fhC5Ocrb1Gv1TW8z) | 3:45 |
+| 186 | [Mel](https://open.spotify.com/track/2Yd5UTCFANcqxDxEV29VKm) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i), [1LUM3](https://open.spotify.com/artist/01JSyuJJh1WCHIuM3Zx7hn) | [No Jardim dos Acasos](https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i) | 2:42 |
+| 187 | [We All Need a Cat](https://open.spotify.com/track/4mrUBjGtZ309H5nXYPlvtA) | [Deptford Sound Collective](https://open.spotify.com/artist/6c9JRO3gcCLarrBUQlsx3H) | [We All Need a Cat](https://open.spotify.com/album/4of0QFGlHFFyqc9WPWqQTy) | 3:05 |
+| 188 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 |
+| 189 | [Prise au piège](https://open.spotify.com/track/3llWxmfiYq8NmaKFIxEUZm) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [Prise au piège](https://open.spotify.com/album/48ZT7Nc6uJfzMiI65Oa8f0) | 3:55 |
 
-Snapshot ID: `AAASey5+XjVrgHHAEbLJj0ZXisQKz1ky`
+Snapshot ID: `AAASg6R8EwdbSqkr+J0kySpcjAPfo+Wh`

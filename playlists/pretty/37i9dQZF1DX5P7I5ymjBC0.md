@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,073 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,085 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 43 | [Shakkarpari](https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:55 |
 | 44 | [Rangi Saari Gulabi Chunariya](https://open.spotify.com/track/4JBNysi2ev6akvX0JXa9db) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Bandish Fusion & More](https://open.spotify.com/album/2adewooNTGv4eFztnfoYAV) | 6:40 |
 | 45 | [Piya Padh Lena](https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 3:21 |
-| 46 | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/track/2yjfILYBWMiMFFZEie0nH3) | [Taufiq Qureshi](https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/album/1AVJRAtklKdSeNhrxpQzMJ) | 3:48 |
-| 47 | [Mystical Yearning](https://open.spotify.com/track/20rlTK4OGzb4mAYWfmjTCW) | [Dhruvv Bhattacharya](https://open.spotify.com/artist/2GLlCKPLjGGvpuSoo8wIvW) | [Mystical Yearning](https://open.spotify.com/album/46hcksddcEHBzH3SoQLWib) | 4:38 |
+| 46 | [Mystical Yearning](https://open.spotify.com/track/20rlTK4OGzb4mAYWfmjTCW) | [Dhruvv Bhattacharya](https://open.spotify.com/artist/2GLlCKPLjGGvpuSoo8wIvW) | [Mystical Yearning](https://open.spotify.com/album/46hcksddcEHBzH3SoQLWib) | 4:38 |
+| 47 | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/track/2yjfILYBWMiMFFZEie0nH3) | [Taufiq Qureshi](https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Rhydhun \- Nothing But Voice \(25th Anniversary Edition\)](https://open.spotify.com/album/1AVJRAtklKdSeNhrxpQzMJ) | 3:48 |
 | 48 | [Dream](https://open.spotify.com/track/52JCzatsNXrdTo5UvjA7Tp) | [Varijashree Venugopal](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) | [Vari](https://open.spotify.com/album/0yP0Y5UeIqn0PaMMczQVtI) | 3:44 |
 | 49 | [Seekho Na](https://open.spotify.com/track/1Ar5Yq6mg57nt6w5vgiUgu) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Classic Love](https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs) | 5:55 |
 | 50 | [Bulbuli](https://open.spotify.com/track/3UQNpb3oIk5GWNu9efvNg5) | [Ritu Raj](https://open.spotify.com/artist/1yTkWdk95JHU9bD8gZWMor), [Nandita](https://open.spotify.com/artist/1olb97DNlYXqItxaR3qfxC) | [Bulbuli](https://open.spotify.com/album/4f5KGhlRtDxxxrQwLSnhZK) | 5:46 |

@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 37537,
+  "num_followers": 37543,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adBUgAAAAAA73/jR8xvi1V8IFqNn9APo",
+  "snapshot_id": "adGmAAAAAACOg0nctRUpyI8zyEQEhUaI",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
-        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 231410,
-      "name": "En los A\u00f1os Treintas",
-      "url": "https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Se Arm\u00f3 el Rock and Roll, Vol. 3",
         "url": "https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 231410,
+      "name": "En los A\u00f1os Treintas",
+      "url": "https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Capella, Vol. 2",
         "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
       },
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 210094,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/2VoimIOSwcWKXi4mGfcw59"
+      "duration_ms": 42678,
+      "name": "Purgante - Reprise",
+      "url": "https://open.spotify.com/track/2Uly9utUf2DhbA9zTZJIMq"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 230016,
-      "name": "Alejandro",
-      "url": "https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC"
+      "duration_ms": 210094,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/2VoimIOSwcWKXi4mGfcw59"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 42678,
-      "name": "Purgante - Reprise",
-      "url": "https://open.spotify.com/track/2Uly9utUf2DhbA9zTZJIMq"
+      "duration_ms": 230016,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 267059,
-      "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c1nimas",
         "url": "https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 205893,
       "name": "Una Oportunidad",
       "url": "https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 267059,
+      "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Alg\u00fan Lugar en el Cielo",
-        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 263640,
-      "name": "Campe\u00f3n",
-      "url": "https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Que Se Comparte",
         "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 223468,
       "name": "Tu Te las Tomaste S\u00f3lo",
       "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 263640,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC"
     }
   ],
   "unique_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",

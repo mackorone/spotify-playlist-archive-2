@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 397 likes - 69 songs - 4 hr 29 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 401 likes - 72 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,8 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 67 | [I Have No Fear](https://open.spotify.com/track/4XccGq2EBT76YuZBltTEdr) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [Dreamscape Odyssey](https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD) | 5:06 |
 | 68 | [FLOWERS](https://open.spotify.com/track/24hBaP9gSlo2NeyQZGGvQB) | [OUR GREAT ESCAPE](https://open.spotify.com/artist/0Gtsp3mRl1OlBiudeI4DSx) | [INFINITY WARS](https://open.spotify.com/album/1GATZuf4mUVmik7eFpPK5y) | 5:44 |
 | 69 | [Get Outta My Head](https://open.spotify.com/track/7hKZGgTrWm2S8jvGLs9Pdl) | [TV Screams](https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4) | [Get Outta My Head](https://open.spotify.com/album/4IXPVKy739ap5syrDJguG5) | 2:38 |
+| 70 | [Royal Kush](https://open.spotify.com/track/2wlWUxDcl8y3V2L5aQ3vOA) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Royal Kush](https://open.spotify.com/album/32ik5Ith28fbWibQPqgazr) | 3:37 |
+| 71 | [You Make Me Feel](https://open.spotify.com/track/6GowrMYjvh0Ercfkg8QQfC) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [You Make Me Feel](https://open.spotify.com/album/2b3uNUKmyiWJCaxQtXSmhq) | 3:11 |
+| 72 | [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 |
 
-Snapshot ID: `AAABdicqgijTzSLiLgO2C3z5BKuokbGH`
+Snapshot ID: `AAABeS/zPoG7y8SdLLGUM9gBTgJM+qYi`

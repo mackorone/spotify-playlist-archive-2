@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With STYXVII, UrvTek, Learke and more",
+  "description": "With STYXVII, Learke, UrvTek and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 178262,
       "name": "14",
       "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 117931,
       "name": "BOARD GAME",
       "url": "https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 172109,
       "name": "Catdelions IIS",
       "url": "https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 110764,
       "name": "clicker training",
       "url": "https://open.spotify.com/track/69nahcGK3QnZN3n6CZ57JE"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 175609,
       "name": "Digital Hell (KinitoPET Song)",
       "url": "https://open.spotify.com/track/2Ydn79hWyJuzElWRk0sO0Z"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 181130,
       "name": "Directions",
       "url": "https://open.spotify.com/track/1O0bYizbSQ8u7JOwvLFU3P"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 87418,
       "name": "feel like a folder",
       "url": "https://open.spotify.com/track/15jlJhtJB2vrgy2zUOobN0"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 428264,
       "name": "Gretel",
       "url": "https://open.spotify.com/track/3KvzwPvvL4KpxhzJgxJAYq"
@@ -2366,10 +2366,28 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 174000,
       "name": "HOW TO FORGET YOU (destroy you)",
       "url": "https://open.spotify.com/track/0fSMq4iJJXWK65V1H5umyb"
+    },
+    {
+      "album": {
+        "name": "Give Me",
+        "url": "https://open.spotify.com/album/1TSo1DzwcjJg1axFI9buCS"
+      },
+      "artists": [
+        {
+          "name": "Basil Morrison",
+          "url": "https://open.spotify.com/artist/1X48BiSTTmSazGWMlh7E0X"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148607,
+      "name": "I Demand",
+      "url": "https://open.spotify.com/track/7KOF6YMpnLqbGXB1YgY3F5"
     },
     {
       "album": {
@@ -2656,7 +2674,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 133114,
       "name": "ICE CREAM PARTY",
       "url": "https://open.spotify.com/track/3SvmZCUGalhWSHFaNVOkhn"
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 99596,
       "name": "IDK",
       "url": "https://open.spotify.com/track/0SF9NvnC6FIxeePYEMD93k"
@@ -2692,7 +2710,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 153124,
       "name": "IDOLiZER",
       "url": "https://open.spotify.com/track/3ubsCWDJ0AJW9mb4NTgJS6"
@@ -2986,7 +3004,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 197052,
       "name": "Kill me and Eat me",
       "url": "https://open.spotify.com/track/08xEDWvXPiSctq4aOFrtxh"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 131374,
       "name": "LESBIAN FURRY RAVE",
       "url": "https://open.spotify.com/track/6SqGrvaHJuJvfuCSNKNAS4"
@@ -3164,7 +3182,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "LESBIAN PONIES WITH WEAPONS",
       "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 349980,
       "name": "maple leaves",
       "url": "https://open.spotify.com/track/6DCst4GCvZol4ZyQuc70Mj"
@@ -3722,7 +3740,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 153856,
       "name": "Need a Break",
       "url": "https://open.spotify.com/track/7j4KPNnhVnmpGlBchCnpcQ"
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 111203,
       "name": "No Good At Being You",
       "url": "https://open.spotify.com/track/2J5BiYSzg60WnwLCjszy8R"
@@ -3892,7 +3910,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 123245,
       "name": "One Day You'll Die (I do not like this)",
       "url": "https://open.spotify.com/track/7wuwuepA7yWz9lKBUle8xE"
@@ -4102,7 +4120,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 225316,
       "name": "Perfectionist",
       "url": "https://open.spotify.com/track/3PGBb4GNDoddr3DqY3oRYo"
@@ -4142,7 +4160,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 227214,
       "name": "Pinata Break",
       "url": "https://open.spotify.com/track/36zl5MlJBsdg05f4VnHhOj"
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"
@@ -5556,7 +5574,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 125500,
       "name": "Why do i miss u",
       "url": "https://open.spotify.com/track/7wS766zakrGZdc1WpaiXmk"

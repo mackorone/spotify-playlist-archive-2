@@ -9850,7 +9850,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 171969,
       "name": "Hum Tum Miley",
       "url": "https://open.spotify.com/track/7GGUyCMipQJaORkMoPRw0d"
@@ -27616,6 +27616,28 @@
       "duration_ms": 175068,
       "name": "Tum Mere Kya Ho",
       "url": "https://open.spotify.com/track/59S0sPZf1q48PvmeeXN0bj"
+    },
+    {
+      "album": {
+        "name": "Tum Meri Thi",
+        "url": "https://open.spotify.com/album/5fKOCIPaYpKMOCcQ437h3q"
+      },
+      "artists": [
+        {
+          "name": "Karneast",
+          "url": "https://open.spotify.com/artist/12W8Yfi0XLf3MDTOqBCvK9"
+        },
+        {
+          "name": "Official Ankit",
+          "url": "https://open.spotify.com/artist/6hGPDve5p6BTTukCTqCZII"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Tum Meri Thi",
+      "url": "https://open.spotify.com/track/5vNY11XQF5V6sSajPDz5zJ"
     },
     {
       "album": {

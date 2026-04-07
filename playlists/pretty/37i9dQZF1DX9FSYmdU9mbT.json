@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1470975,
+  "num_followers": 1471029,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-03-27 19:09:35",
       "album": {
+        "name": "O Que \u00c9 Que H\u00e1",
+        "url": "https://open.spotify.com/album/5GY5057U8mZPzaqLXZj8Sa"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 225713,
+      "name": "O Que \u00c9 Que H\u00e1",
+      "url": "https://open.spotify.com/track/4UPhXYKlkMcmGqoEamcABC"
+    },
+    {
+      "added_at": "2026-03-27 19:09:35",
+      "album": {
         "name": "Mem\u00f3rias (2001) - Ao Vivo",
         "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 200820,
       "name": "Amor I Love You (feat. Arnaldo Antunes) - Ao Vivo",
       "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
-    },
-    {
-      "added_at": "2026-03-27 19:09:35",
-      "album": {
-        "name": "O Que \u00c9 Que H\u00e1",
-        "url": "https://open.spotify.com/album/5GY5057U8mZPzaqLXZj8Sa"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 225713,
-      "name": "O Que \u00c9 Que H\u00e1",
-      "url": "https://open.spotify.com/track/4UPhXYKlkMcmGqoEamcABC"
     },
     {
       "added_at": "2026-03-27 19:09:35",

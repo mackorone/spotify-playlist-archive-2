@@ -686,7 +686,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 208746,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/2w8h4UxNixZ48O5eYqXJ7w"
@@ -7190,6 +7190,28 @@
       "duration_ms": 224186,
       "name": "Two Souls",
       "url": "https://open.spotify.com/track/3Et8QCOvq9uANuk92x3MEw"
+    },
+    {
+      "album": {
+        "name": "Under A Landslide Of Stars",
+        "url": "https://open.spotify.com/album/5ukkFn00aRYizUPdNaHj8W"
+      },
+      "artists": [
+        {
+          "name": "MALINOWSKI",
+          "url": "https://open.spotify.com/artist/4gOqTwaujC2EVN0SIWARum"
+        },
+        {
+          "name": "Jay Malinowski",
+          "url": "https://open.spotify.com/artist/3CpoBeJwpqZN0qjqVQrXQm"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "Under A Landslide Of Stars",
+      "url": "https://open.spotify.com/track/5er5M2cRWRL6tcViWXl5XU"
     },
     {
       "album": {

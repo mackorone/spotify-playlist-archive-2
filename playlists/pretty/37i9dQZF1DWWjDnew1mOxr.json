@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: MOULD",
-  "num_followers": 130797,
+  "num_followers": 130804,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,18 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "We Get By",
-        "url": "https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW"
+        "name": "Songs For The Spine",
+        "url": "https://open.spotify.com/album/3Cev9xMaHpqf4QOdwkm4hc"
       },
       "artists": [
         {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
         }
       ],
-      "duration_ms": 194059,
-      "name": "This Place",
-      "url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R"
+      "duration_ms": 255933,
+      "name": "Cariad",
+      "url": "https://open.spotify.com/track/3yqF4F1Kk10VdUuIKOXzx6"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -499,18 +499,18 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "Songs For The Spine",
-        "url": "https://open.spotify.com/album/3Cev9xMaHpqf4QOdwkm4hc"
+        "name": "We Get By",
+        "url": "https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW"
       },
       "artists": [
         {
-          "name": "The Royston Club",
-          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
         }
       ],
-      "duration_ms": 255933,
-      "name": "Cariad",
-      "url": "https://open.spotify.com/track/3yqF4F1Kk10VdUuIKOXzx6"
+      "duration_ms": 194059,
+      "name": "This Place",
+      "url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "It's Amazing To Be Young",
-        "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 210803,
-      "name": "It's Amazing To Be Young",
-      "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
-    },
-    {
-      "added_at": "2026-03-27 15:10:31",
-      "album": {
         "name": "Shaking Hips and Crashing Cars",
         "url": "https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 219072,
       "name": "I'm a Liar",
       "url": "https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary"
+    },
+    {
+      "added_at": "2026-03-27 15:10:31",
+      "album": {
+        "name": "It's Amazing To Be Young",
+        "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 210803,
+      "name": "It's Amazing To Be Young",
+      "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "Another Round",
-        "url": "https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D"
-      },
-      "artists": [
-        {
-          "name": "The Scratch",
-          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
-        }
-      ],
-      "duration_ms": 307527,
-      "name": "Another Round",
-      "url": "https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe"
-    },
-    {
-      "added_at": "2026-03-27 15:10:31",
-      "album": {
         "name": "Gary",
         "url": "https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 150005,
       "name": "Gary",
       "url": "https://open.spotify.com/track/59EKMmwwDJxtEw6EjMVeaT"
+    },
+    {
+      "added_at": "2026-03-27 15:10:31",
+      "album": {
+        "name": "Another Round",
+        "url": "https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "duration_ms": 307527,
+      "name": "Another Round",
+      "url": "https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY"
-      },
-      "artists": [
-        {
-          "name": "Keo",
-          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu"
-    },
-    {
-      "added_at": "2026-03-27 15:10:31",
-      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 211119,
       "name": "3AM",
       "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
+    },
+    {
+      "added_at": "2026-03-27 15:10:31",
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/7D8d6CcdC2unP1EXdpvvYq"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/26Nq9eBvSF5QIADN158plo"
-    },
-    {
-      "added_at": "2026-03-27 15:10:31",
-      "album": {
         "name": "marry me to dopamine",
         "url": "https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 213083,
       "name": "marry me to dopamine",
       "url": "https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr"
+    },
+    {
+      "added_at": "2026-03-27 15:10:31",
+      "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/7D8d6CcdC2unP1EXdpvvYq"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/26Nq9eBvSF5QIADN158plo"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "From the Night",
-        "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 251821,
-      "name": "From the Night",
-      "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
-    },
-    {
-      "added_at": "2026-03-27 15:10:31",
-      "album": {
         "name": "Love & Money",
         "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 229656,
       "name": "Love & Money",
       "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
+    },
+    {
+      "added_at": "2026-03-27 15:10:31",
+      "album": {
+        "name": "From the Night",
+        "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 251821,
+      "name": "From the Night",
+      "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "Millennials",
-        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 180694,
-      "name": "Millionaires",
-      "url": "https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq"
-    },
-    {
-      "added_at": "2026-03-27 15:10:31",
-      "album": {
         "name": "Lipstick",
         "url": "https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 216692,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok"
+    },
+    {
+      "added_at": "2026-03-27 15:10:31",
+      "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 180694,
+      "name": "Millionaires",
+      "url": "https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "Rewire",
-        "url": "https://open.spotify.com/album/2pp6yjayJD05QuhLbGqa1K"
-      },
-      "artists": [
-        {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
-        }
-      ],
-      "duration_ms": 176492,
-      "name": "Rewire",
-      "url": "https://open.spotify.com/track/7vqPs5RH1PC8Sfv6hg9Q0A"
-    },
-    {
-      "added_at": "2026-03-27 15:10:31",
-      "album": {
         "name": "caught up in delusion",
         "url": "https://open.spotify.com/album/2yYssd2xtkEMIqJwdkuaq3"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 239799,
       "name": "behind those tears",
       "url": "https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV"
+    },
+    {
+      "added_at": "2026-03-27 15:10:31",
+      "album": {
+        "name": "Rewire",
+        "url": "https://open.spotify.com/album/2pp6yjayJD05QuhLbGqa1K"
+      },
+      "artists": [
+        {
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+        }
+      ],
+      "duration_ms": 176492,
+      "name": "Rewire",
+      "url": "https://open.spotify.com/track/7vqPs5RH1PC8Sfv6hg9Q0A"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "Love Me Please",
-        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 158667,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
-    },
-    {
-      "added_at": "2026-03-27 15:10:31",
-      "album": {
         "name": "Zombieland",
         "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "Millennials",
-        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
+        "name": "Love Me Please",
+        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
       },
       "artists": [
         {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
         }
       ],
-      "duration_ms": 246029,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK"
+      "duration_ms": 158667,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 246029,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK"
+    },
+    {
+      "added_at": "2026-03-27 15:10:31",
+      "album": {
         "name": "Vain",
         "url": "https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE"
       },
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "Worry Angel",
-        "url": "https://open.spotify.com/album/5mDYNjrQF8oPGycWsGQA7f"
+        "name": "One Step Forward",
+        "url": "https://open.spotify.com/album/487ZDDSKcPitA5w3ojkNWr"
       },
       "artists": [
         {
-          "name": "Witch Post",
-          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
+          "name": "Alex Spencer",
+          "url": "https://open.spotify.com/artist/4ADThfXsqaIKW9IV8GqN9Y"
         }
       ],
-      "duration_ms": 239952,
-      "name": "Worry Angel",
-      "url": "https://open.spotify.com/track/2KbsdGIrImQKjWGCAxWgQ5"
+      "duration_ms": 152079,
+      "name": "One Step Forward",
+      "url": "https://open.spotify.com/track/3mKZQyVT4iKWoW2QNVJ0NC"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "One Step Forward",
-        "url": "https://open.spotify.com/album/487ZDDSKcPitA5w3ojkNWr"
+        "name": "Reeling",
+        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
       },
       "artists": [
         {
-          "name": "Alex Spencer",
-          "url": "https://open.spotify.com/artist/4ADThfXsqaIKW9IV8GqN9Y"
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
         }
       ],
-      "duration_ms": 152079,
-      "name": "One Step Forward",
-      "url": "https://open.spotify.com/track/3mKZQyVT4iKWoW2QNVJ0NC"
+      "duration_ms": 170373,
+      "name": "Life's a Bitch (But I Like it So Much)",
+      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "Reeling",
-        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
+        "name": "Worry Angel",
+        "url": "https://open.spotify.com/album/5mDYNjrQF8oPGycWsGQA7f"
       },
       "artists": [
         {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+          "name": "Witch Post",
+          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
         }
       ],
-      "duration_ms": 170373,
-      "name": "Life's a Bitch (But I Like it So Much)",
-      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
+      "duration_ms": 239952,
+      "name": "Worry Angel",
+      "url": "https://open.spotify.com/track/2KbsdGIrImQKjWGCAxWgQ5"
     },
     {
       "added_at": "2026-03-27 15:10:31",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-03-27 15:10:31",
       "album": {
-        "name": "Death & Love, Pt. 1",
-        "url": "https://open.spotify.com/album/2ZA4Mn83aCyCEa9Cz3UfgK"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 200740,
-      "name": "Let's Leave Together",
-      "url": "https://open.spotify.com/track/28p6cPTSRglxJjKYZQeJVH"
-    },
-    {
-      "added_at": "2026-03-27 15:10:31",
-      "album": {
         "name": "Perfect Me",
         "url": "https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 190486,
       "name": "Perfect Me",
       "url": "https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz"
+    },
+    {
+      "added_at": "2026-03-27 15:10:31",
+      "album": {
+        "name": "Death & Love, Pt. 1",
+        "url": "https://open.spotify.com/album/2ZA4Mn83aCyCEa9Cz3UfgK"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 200740,
+      "name": "Let's Leave Together",
+      "url": "https://open.spotify.com/track/28p6cPTSRglxJjKYZQeJVH"
     }
   ],
   "unique_name": "Proper Belters",

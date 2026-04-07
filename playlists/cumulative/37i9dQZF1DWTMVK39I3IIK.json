@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "The Way She Says Goodbye",
+        "url": "https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB"
+      },
+      "artists": [
+        {
+          "name": "Emily Bowen",
+          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Bye Sofia",
+      "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
+    },
+    {
+      "album": {
         "name": "B\u00e6nkevarmer",
         "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
@@ -5552,7 +5570,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 171744,
       "name": "SIDDER FAST",
       "url": "https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK"

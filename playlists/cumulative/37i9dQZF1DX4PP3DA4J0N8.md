@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-229 songs - 10 hr 59 min
+231 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 | 2022-03-25 |  |
 | [Calm Forest Water](https://open.spotify.com/track/35byLuPZqmmsYM9U1hubfS) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Forest of Tranquility](https://open.spotify.com/album/0rJxtAj8SOB3P5gST1XQOn) | 3:38 | 2022-03-25 | 2022-04-29 |
 | [Calm Summer Dusk at the Farm](https://open.spotify.com/track/5NQf4rqKwhCAjxybZZnxvM) | [Jan Berliner](https://open.spotify.com/artist/0iWEhQN4crcKwSpJsVDWz0) | [Calm Summer Dusk at the Farm](https://open.spotify.com/album/3SGRixB5ozgLvZgstXHdk1) | 2:30 | 2025-07-21 |  |
+| [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 1:44 | 2026-04-02 |  |
 | [Calming Forest Sound](https://open.spotify.com/track/5QzFhfsgLVN9UKyfGV3RH9) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 3:55 | 2022-03-25 | 2023-09-21 |
 | [Calming Wave Sound](https://open.spotify.com/track/4lX2tuWNd6wUJqBnywOViu) | [Catching Sleep](https://open.spotify.com/artist/6qsH16CZ8j8s0RWRlgjyW2) | [Water Sounds](https://open.spotify.com/album/1Fx0PVCZ7pDj3nvoLHHepW) | 3:50 | 2022-03-25 | 2024-03-27 |
 | [Calming Wilderness Ambience](https://open.spotify.com/track/6veM8JPEjyUSeqLb4BwfxZ) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Mystical Nature Harmony](https://open.spotify.com/album/3rOT3U6HkIzAqqu0MIp2hF) | 1:57 | 2023-06-20 | 2023-10-12 |
@@ -70,7 +71,7 @@
 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 | 2023-09-20 |  |
 | [Dawn Birds near the River](https://open.spotify.com/track/1z60VwPt22jll8r46NAphF) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Dawn Birds near the River](https://open.spotify.com/album/3Houzr9zjYd97R8GyT6Eiq) | 4:09 | 2025-11-11 |  |
 | [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 | 2022-03-25 | 2022-04-29 |
-| [dense leaf canopy](https://open.spotify.com/track/03iPmLyIVO7H74oPOnOP4G) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 3:03 | 2025-07-24 |  |
+| [dense leaf canopy](https://open.spotify.com/track/03iPmLyIVO7H74oPOnOP4G) | [rainbolt](https://open.spotify.com/artist/7s5ur9sUuCW6O3fd5phcS1) | [arkansas rain](https://open.spotify.com/album/0uB3eU3D5VJyGKaVb33fXY) | 3:03 | 2025-07-24 | 2026-04-07 |
 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 | 2022-03-25 | 2024-03-27 |
 | [Down Stream](https://open.spotify.com/track/7x50aLAvwia2rd5YX5Jz2a) | [Drifting Streams](https://open.spotify.com/artist/7GdXNgwObAO7mvdQcDT0Yo) | [Down Stream](https://open.spotify.com/album/51pQpU9fLo5xTjSBQ4NwtP) | 5:14 | 2022-03-25 |  |
 | [Drifting Through Birdsong](https://open.spotify.com/track/6VvQIvgcal9w3tOgd76blm) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Drifting Through Birdsong](https://open.spotify.com/album/6P490oFAW66ie6kcwq7PDH) | 2:50 | 2025-09-23 |  |
@@ -81,6 +82,7 @@
 | [Exotic Rain](https://open.spotify.com/track/1QqL0tGCIs4ZTfM210rORQ) | [Hawaii Rain](https://open.spotify.com/artist/6nD5OttvcqKRwZCo91p0lR) | [Part 1](https://open.spotify.com/album/61Xw48UHlclilzBtRpzTZK) | 3:21 | 2022-03-25 |  |
 | [Feathers in Flight](https://open.spotify.com/track/3pIcKRZWmS7NajWKKvZRd7) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Forest Storm \- Bird Song Rain and Natural Ambience for Deep Sleep](https://open.spotify.com/album/2Iu7P9SN1iEE3UxegN6c8b) | 3:41 | 2022-03-25 | 2022-04-29 |
 | [Fluxo](https://open.spotify.com/track/05Fw6DL9Hj2qfua35fsZXF) | [Dimas Amaro](https://open.spotify.com/artist/2uv3nINkV08Pr9TxW10vfP) | [Altura Natural](https://open.spotify.com/album/5e6LVhYZspmMOQKX6ufXlX) | 1:58 | 2022-03-25 | 2023-06-20 |
+| [Flying South \(Nature\)](https://open.spotify.com/track/5j49xdRfVVXfrH0oi6UkKv) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Flying South \(Nature\)](https://open.spotify.com/album/1vhivmFoFcs1WRHLwWA70R) | 3:00 | 2026-04-02 |  |
 | [Forest And Wind](https://open.spotify.com/track/0lJyUC8jqlT0L8Ak1YqL1i) | [Healing Nature FX](https://open.spotify.com/artist/6UrrCYKNnh7m9RFbCAiTl4) | [Healing Nature FX](https://open.spotify.com/album/7r5nyATm1tTfXTtWakmyry) | 2:06 | 2022-03-25 | 2026-04-03 |
 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 | 2022-03-25 |  |
 | [Forest Birdsong and Creek Ambience](https://open.spotify.com/track/15zAHhAQo5mwWPd2hzdwD0) | [Wildlife Recordings](https://open.spotify.com/artist/5ThzopcohI3EiXV3SepU88) | [Serenity in the Forest](https://open.spotify.com/album/5AqBJV6QOmNdinaudsB4gE) | 3:56 | 2023-09-20 |  |
@@ -196,7 +198,7 @@
 | [Spring Shower Bird Songs](https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 2:48 | 2022-03-25 | 2025-12-20 |
 | [Spring Water](https://open.spotify.com/track/7aJXnm3DmT78vQRwSZ1xMw) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Spring Water](https://open.spotify.com/album/7oisHqE4VKBxhSl7BwU9Rz) | 3:10 | 2025-11-11 | 2026-04-03 |
 | [Springtime \(Birds and Rain\)](https://open.spotify.com/track/0QOriHCerZiKVDkPTRmKjM) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Thunder, Birds and Rain](https://open.spotify.com/album/5poU2ZGDPQjYdHR7swuqkw) | 2:51 | 2022-03-25 | 2023-10-12 |
-| [Standing In The Rain](https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:42 | 2022-03-25 |  |
+| [Standing In The Rain](https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:42 | 2022-03-25 | 2026-04-07 |
 | [Still River \- Green Noise](https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:12 | 2023-03-03 |  |
 | [Still the River Flows](https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Still the River Flows](https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0) | 2:33 | 2022-03-25 |  |
 | [Stream to the Waterfall](https://open.spotify.com/track/1kgabwYM9KxzRzcuxkjIq6) | [Island Nature Sounds](https://open.spotify.com/artist/6uUdEOkdbmk16c33lfs9XI) | [Calming Hawaiian Water Sounds](https://open.spotify.com/album/2vacWEE2Pj9mVjTzstcClq) | 1:59 | 2022-03-25 | 2023-06-20 |

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 박효신 \(Park Hyo Shin\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,718 songs - 4 day 15 hr 40 min
+1,719 songs - 4 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1535,7 +1535,7 @@
 | [Where are you](https://open.spotify.com/track/39pmnVY7Cw93kGBEBtTyjh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Where are you \(The Last 10 Years X Heize\)](https://open.spotify.com/album/4RTM2qAV0gjLnjnkt5CkHI) | 3:53 | 2024-05-08 | 2024-10-17 |
 | [WHERE GOODBYE STOPS](https://open.spotify.com/track/7w5VUPT3Vcci4WkpS6MG3P) | [Kwon Euibin](https://open.spotify.com/artist/2jzzW4w2JlDd1GIP0MSlv8) | [WHERE GOODBYE STOPS](https://open.spotify.com/album/7F5sYAwhgQSHEEmDe5RckX) | 4:02 | 2025-11-02 | 2025-12-03 |
 | [Where I Need To Be](https://open.spotify.com/track/2C151QUNLM45qeIBdsOmGR) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 3:37 | 2025-12-16 | 2026-04-01 |
-| [Where Love Ends](https://open.spotify.com/track/1ODbcxWMBv9yicmDsVhI2O) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Where Love Ends](https://open.spotify.com/album/22nMeOyALadtozfYJeXAVQ) | 3:51 | 2026-01-29 |  |
+| [Where Love Ends](https://open.spotify.com/track/1ODbcxWMBv9yicmDsVhI2O) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Where Love Ends](https://open.spotify.com/album/22nMeOyALadtozfYJeXAVQ) | 3:51 | 2026-01-29 | 2026-04-07 |
 | [Where Love Stays](https://open.spotify.com/track/4qqGAdsC1b8W9k7R30h0sG) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Where Love Stays](https://open.spotify.com/album/5SxmexvqG0zsQZmYT1kX0d) | 4:15 | 2025-04-11 | 2025-08-04 |
 | [Where To Go](https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ) | [LEENU](https://open.spotify.com/artist/7bJwBnsHWKpUkugnVkM8N1) | [Where To Go](https://open.spotify.com/album/2penGoGwAnZhWQNj9KxU1s) | 3:47 | 2023-06-13 | 2023-09-19 |
 | [While The Memory Fall A Sleep](https://open.spotify.com/track/0WwLjYKOdbpSzhFyHfi3F2) | [강승식](https://open.spotify.com/artist/545wFEUgGmJwArSU0zjemI) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6gkzelq3vDZGSNnFDdllkF) | 4:26 | 2022-03-24 | 2022-04-11 |
@@ -1613,6 +1613,7 @@
 | [You may live in happiness \(2022\)](https://open.spotify.com/track/0D5e4R40frQYkr2PzdMpHL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [You may live in happiness \(2022\)](https://open.spotify.com/album/6Bnnguv7ITOcrnTcqGQIy8) | 4:34 | 2023-01-10 | 2023-02-25 |
 | [You Mean Everything to Me](https://open.spotify.com/track/0hjZGYiZYaKRH9QTjNJXtP) | [Beige](https://open.spotify.com/artist/1q2L2RksbNw3AiM4zr1p9u) | [Red Balloon OST Part.2](https://open.spotify.com/album/1QfHJNOlAm6ERmu1f7HzJA) | 3:45 | 2023-01-20 | 2023-02-25 |
 | [You resemble winter](https://open.spotify.com/track/4f3wttqEkBnSkvIrHwI9HH) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Sweater](https://open.spotify.com/album/5ofWKZ55Hfq1iC59em6vBj) | 4:16 | 2025-12-02 | 2026-03-25 |
+| [You Ruined Me](https://open.spotify.com/track/5G9yKd2KszcMMK6FaXnzq1) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [You Ruined Me](https://open.spotify.com/album/7twWecwz0kjiceI9rLbFzk) | 3:39 | 2026-04-06 |  |
 | [You said you don't know what love is](https://open.spotify.com/track/4vEKICOyJxKiAivrgpQbtS) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i) | [A Kiss at Tiffany's \(Original Soundtrack\), Part.2](https://open.spotify.com/album/0iDjYCpxzPyZDEKfjrO8CZ) | 3:03 | 2022-03-31 | 2022-04-20 |
 | [You take me over, cause..](https://open.spotify.com/track/2n74yZ4nQoxaiLMuJUowpL) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [SOMETIMES \- Take me over OST](https://open.spotify.com/album/4m9ZWqqQFht0IILSBsejj9) | 3:08 | 2023-02-24 | 2023-04-27 |
 | [You who never cried before](https://open.spotify.com/track/76pn4VPYjjfSnQqGXhfJEN) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [With the flick of a hand](https://open.spotify.com/album/5izKM0JcEfQ2iS8NAw64Ig) | 2:34 | 2024-12-24 | 2025-05-26 |

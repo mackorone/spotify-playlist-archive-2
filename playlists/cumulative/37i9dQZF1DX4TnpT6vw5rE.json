@@ -2880,7 +2880,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 164983,
       "name": "Focus Six",
       "url": "https://open.spotify.com/track/41NUt7zfx0tOAj3QcLZBGX"
@@ -3370,6 +3370,24 @@
       "duration_ms": 187240,
       "name": "High Flyer",
       "url": "https://open.spotify.com/track/4ofswta82cpa2mJv6jrpyb"
+    },
+    {
+      "album": {
+        "name": "Holistic",
+        "url": "https://open.spotify.com/album/6h9dBL7OpjXuzeZm9T0I7K"
+      },
+      "artists": [
+        {
+          "name": "Celestial Echoes",
+          "url": "https://open.spotify.com/artist/2kPdGnJr2JeSSlSsyjS41v"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164964,
+      "name": "Holistic",
+      "url": "https://open.spotify.com/track/6nrGfFicE6QvkCZY8LD1uZ"
     },
     {
       "album": {

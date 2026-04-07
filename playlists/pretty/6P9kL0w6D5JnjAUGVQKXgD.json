@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 46697,
+  "num_followers": 46696,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAIKKCqP0i4XCkU0LwRw8lgfz1l/+hW",
+  "snapshot_id": "AAAIKfOVkrI+aIP0Kc6tDIKjfWlIJDzG",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/00KCwnrvIXX8GRU3ZMOIBW"
     },
     {
+      "added_at": "2026-04-06 09:04:05",
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/5zC1t8X0LjFuCf6GDux0QX"
+      },
+      "artists": [
+        {
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/0p7DyuScld8BBWgDZUxeEK"
+    },
+    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "By My Side (feat. Anthony Valadez)",
@@ -2027,26 +2043,6 @@
       "duration_ms": 169458,
       "name": "Life Goes On (feat. Alex Hosking)",
       "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
-    },
-    {
-      "added_at": "2024-11-08 00:41:04",
-      "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Roses (feat. ROZES)",
-      "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
     }
   ],
   "unique_name": "EDM Top 100",

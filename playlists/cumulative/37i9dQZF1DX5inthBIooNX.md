@@ -4,7 +4,7 @@
 
 > "the realization that each random passerby is living a life as vivid and complex as your own."
 
-83 songs - 3 hr 37 min
+84 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Infinite Love](https://open.spotify.com/track/6SIUbcqmVn4zTVDLeY5mMC) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Kajillionaire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38G8GhPunzg9S6xCa7Eupb) | 2:25 | 2023-12-06 |  |
 | [Instrumental 3](https://open.spotify.com/track/2BNY5Vx095gV9NyMpJiL0U) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87) | 1:27 | 2023-08-29 |  |
 | [Into The Freedom](https://open.spotify.com/track/24QC8iKOu1ns7pnw4qQden) | [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd) | [freeform jazz](https://open.spotify.com/album/0Fjw0gKbYspFhPTtMVUJe4) | 1:24 | 2023-08-29 | 2024-04-02 |
-| [Intro](https://open.spotify.com/track/4c0r5XHnOvH92uT9ktySSG) | [Buck's Moonlight Revival](https://open.spotify.com/artist/2Yr2jIJEBr0ew4hUsx9FD9) | [Buck's Moonlight Revival](https://open.spotify.com/album/26HDOMqBRJljV1oh9ERmtG) | 3:40 | 2023-08-30 |  |
+| [Intro](https://open.spotify.com/track/4c0r5XHnOvH92uT9ktySSG) | [Buck's Moonlight Revival](https://open.spotify.com/artist/2Yr2jIJEBr0ew4hUsx9FD9) | [Buck's Moonlight Revival](https://open.spotify.com/album/26HDOMqBRJljV1oh9ERmtG) | 3:40 | 2023-08-30 | 2026-04-07 |
 | [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 | 2023-08-29 |  |
 | [Just a Feeling](https://open.spotify.com/track/0ZjTXCk5QKDR0wGGPgqSS3) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 1:22 | 2023-08-29 |  |
 | [Just Give Me One More Day \- Old Piano Version](https://open.spotify.com/track/2lGAMzbtEEpPDO09buo5HO) | [Alej](https://open.spotify.com/artist/40eGm9rEP3uJPZpEbVim80) | [Just Give Me One More Day \(Old Piano Version\)](https://open.spotify.com/album/3pSmO0IaD9Wzp6wAWfJsmk) | 2:17 | 2023-08-29 |  |
@@ -74,7 +74,7 @@
 | [Pt\. 5, Harmony Acceptance](https://open.spotify.com/track/4jrGjNNU0ZGV2mWhCzfBx4) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [What Is Natural](https://open.spotify.com/album/1qssmBjMgh0aQEWTXMbvT8) | 1:02 | 2023-08-29 | 2024-04-02 |
 | [QKThr](https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 1:27 | 2023-08-29 |  |
 | [retire \(final\)](https://open.spotify.com/track/1hwX5UMu9aUV44INM8GdPv) | [Alvedon](https://open.spotify.com/artist/6nFwmnSA3mMtoePROXi5LT) | [hurry up mixtape](https://open.spotify.com/album/3fCTiizAiiH3S9cBn5Gad6) | 3:34 | 2024-04-05 |  |
-| [Seconds](https://open.spotify.com/track/2ROZkHmSV46OD2ESB6gpzs) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6) | 2:03 | 2023-12-06 |  |
+| [Seconds](https://open.spotify.com/track/2ROZkHmSV46OD2ESB6gpzs) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6) | 2:03 | 2023-12-06 | 2026-04-07 |
 | [Song on the Beach](https://open.spotify.com/track/1hUi0hdMU0C3syYTyRdPub) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Song on the Beach](https://open.spotify.com/album/0HbW2CBcNoyIvb137vBYxy) | 3:35 | 2023-08-29 |  |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2024-04-05 |  |
 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 | 2024-03-12 | 2024-04-06 |
@@ -91,5 +91,6 @@
 | [Where the Mountain Meets the Ocean](https://open.spotify.com/track/79w60nqku9nPqJkw2pBNMU) | [Brad Oberhofer](https://open.spotify.com/artist/2YYeCX4JhxVDbNfQR79ElJ), [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [The Andy Warhol Diaries \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1DNIKipCzMe5lmtph82LGj) | 1:24 | 2023-08-29 |  |
 | [Ww](https://open.spotify.com/track/5PHSyGMwRTpB2iP6pYjoWV) | [Other Nothing](https://open.spotify.com/artist/4DXOz58gkpdeCcsW4Xjxgd) | [Not Songs](https://open.spotify.com/album/5ucsbLLlsgfWOrCHl8uCiO) | 1:33 | 2023-08-30 |  |
 | [Wyoming](https://open.spotify.com/track/36faRr0qW9joLZLiWbCRZn) | [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Wyoming \(Piano Works\)](https://open.spotify.com/album/2a5aMQIXlQYWvhqd0umrgu) | 1:22 | 2023-08-29 |  |
+| [You Were Loved \(Burial\) \- from "Project Hail Mary"](https://open.spotify.com/track/2osj7VDcwgOx2jJnmfybSj) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Project Hail Mary \(Original Motion Picture Score\)](https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84) | 3:53 | 2026-04-06 |  |
 
 \*This playlist was first scraped on 2024-03-30. Prior content cannot be recovered.

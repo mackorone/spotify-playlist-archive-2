@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lérica con Daviles de Novelda y Marta Santos, Morad y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,391 likes - 44 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,412 likes - 44 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 8 | [Temperatura](https://open.spotify.com/track/44Gdf3KgNi3EmOceLlZVvy) | [C Marí](https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps) | [Latin Lover Songs 2](https://open.spotify.com/album/2Woxm6jVwm3R5Xq9ZqMTW6) | 2:54 |
 | 9 | [CHICA 305](https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CHICA 305](https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2) | 3:08 |
 | 10 | [Pichersita](https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Pichersita](https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay) | 2:18 |
-| 11 | [Yo También](https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(posdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:24 |
+| 11 | [Yo También](https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(postdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:24 |
 | 12 | [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:35 |
 | 13 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
 | 14 | [The Sun Comes Up Tremendous](https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [The Sun Comes Up Tremendous](https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB) | 3:33 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 28 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 |
 | 29 | [Beams](https://open.spotify.com/track/7AieCEz0Kpv2c8L63LXcWw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Beams](https://open.spotify.com/album/6Gjsdtw3nw3GV5IrwFmT4G) | 3:39 |
 | 30 | [FENIAN](https://open.spotify.com/track/6vN9o849XOpOKbygIid6ck) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [FENIAN](https://open.spotify.com/album/0IAAsMXyI0xm8FkmsOJRh3) | 3:14 |
-| 31 | [Me deslumbré \(feat\. DRED BEY\)](https://open.spotify.com/track/3lxJZ1JV6mlBpA7gPWIT9U) | [Yung Nick](https://open.spotify.com/artist/2ZIuQGyIp2qFKDfdWkdzND), [Blumy](https://open.spotify.com/artist/6VekbTx1eC7NyB87LYeA8s), [DRED BEY](https://open.spotify.com/artist/0v4ZR80GST5lTyY4b6UEzR) | [Me deslumbré \(feat\. DRED BEY\)](https://open.spotify.com/album/4NparOeTcev9yDrJHS7wcv) | 3:53 |
+| 31 | [Me deslumbré](https://open.spotify.com/track/3lxJZ1JV6mlBpA7gPWIT9U) | [Yung Nick](https://open.spotify.com/artist/2ZIuQGyIp2qFKDfdWkdzND), [Blumy](https://open.spotify.com/artist/6VekbTx1eC7NyB87LYeA8s), [DRED BEY](https://open.spotify.com/artist/0v4ZR80GST5lTyY4b6UEzR) | [Me deslumbré](https://open.spotify.com/album/4NparOeTcev9yDrJHS7wcv) | 3:53 |
 | 32 | [DÓNDE ESTÁS](https://open.spotify.com/track/1cM3BvwWPFHK2BpJ3GDvCk) | [Neska](https://open.spotify.com/artist/1IMX8AG0s31WtvCLk4QEWJ) | [DÓNDE ESTÁS](https://open.spotify.com/album/4EkX1NE6jAU5ZymhFxEnaP) | 2:32 |
 | 33 | [Puzzle Inacabado](https://open.spotify.com/track/37ArPkRnCCb33nQnYeMorf) | [Martta Sanz](https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq) | [Puzzle Inacabado](https://open.spotify.com/album/5cX9kyhx8FF0riaKvocpQa) | 3:16 |
 | 34 | [Porque Si Todo Te Lo Daba](https://open.spotify.com/track/21EdbG7xlvbGehCqEzUola) | [David Utrera](https://open.spotify.com/artist/4h0Qiv1rQq7rJWGvWasB3Q), [Israel Amador](https://open.spotify.com/artist/0sbp0tHJtkRRZOXScKEPmL) | [Porque Si Todo Te Lo Daba](https://open.spotify.com/album/3LUbYYTlceXK3gJmBOJdE5) | 3:30 |

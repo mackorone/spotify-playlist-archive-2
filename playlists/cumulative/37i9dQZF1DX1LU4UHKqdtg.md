@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: IRENE \(Red Velvet\)
 
-1,697 songs - 3 day 17 hr 41 min
+1,698 songs - 3 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -861,7 +861,7 @@
 | [loverboy](https://open.spotify.com/track/4H7mZef7MeCkU2BgsG0lLh) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [sweet tang](https://open.spotify.com/album/464og3a6TdySFWC2hEq1TW) | 2:32 | 2025-07-23 |  |
 | [Lovers or Enemies](https://open.spotify.com/track/4A3qnwmF4iRAHrWttbl6pH) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Single Album ‘0 or 1’](https://open.spotify.com/album/0T4KA4jfdzlCsUO7mLt1ca) | 2:42 | 2024-01-25 | 2024-02-23 |
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-03-08 | 2022-04-22 |
-| [Lucky](https://open.spotify.com/track/0HjCJdh1WQrNZuiMG6WiaD) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [TOKYO MISSION START](https://open.spotify.com/album/3isrBYAYBxBerWHVtjD8gE) | 2:28 | 2025-11-05 |  |
+| [Lucky](https://open.spotify.com/track/0HjCJdh1WQrNZuiMG6WiaD) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [TOKYO MISSION START](https://open.spotify.com/album/3isrBYAYBxBerWHVtjD8gE) | 2:28 | 2025-11-05 | 2026-04-07 |
 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 | 2024-07-29 | 2024-09-20 |
 | [LUCKY BELL](https://open.spotify.com/track/2VoGeD6baYNu3L68jPOcgD) | [Gen1es](https://open.spotify.com/artist/27yhKgatOFk8Lpv5qIM1BB) | [LUCKY BELL](https://open.spotify.com/album/7cYsRrPEgsvZmrGeUJXuf6) | 2:45 | 2024-04-26 | 2024-05-24 |
 | [Lucky=One](https://open.spotify.com/track/0KUXg1wu5jnK5YzvF6cryR) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Lucky=One](https://open.spotify.com/album/1Evh1hzbbUwjBHFoaVQLBq) | 3:14 | 2025-04-23 | 2025-07-16 |
@@ -1577,6 +1577,7 @@
 | [White Memories](https://open.spotify.com/track/7hCdtQsaKCBXrITaPNK2iE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [White Memories](https://open.spotify.com/album/4vnA4ZWgxrhxy5doVCGv9u) | 3:01 | 2025-12-02 | 2026-03-22 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-19 | 2024-10-16 |
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-08 |
+| [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 | 2026-04-06 |  |
 | [WHO WE ARE](https://open.spotify.com/track/1pffMzj3YtanzjAJrlrKym) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [WHO WE ARE](https://open.spotify.com/album/6MPzEK36QIcH3bVcko4Lf4) | 3:03 | 2022-05-10 | 2022-06-29 |
 | [whodunit](https://open.spotify.com/track/49cb92ZJ2tnDfuCk2MQY8c) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1), [JAY \(ENHYPEN\)](https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ) | [whodunit\-GLAY×JAY\(ENHYPEN\) / シェア](https://open.spotify.com/album/6OUrzJ4VSAniXdYYujS6gz) | 4:27 | 2024-05-28 | 2024-07-10 |
 | [Who’s Next \- Japanese Ver.](https://open.spotify.com/track/5SHAUAk5YAygByFKuNFiGg) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [Who’s Next \(Japanese Ver.; Selected Edition\)](https://open.spotify.com/album/7j3rYTbmLqSiNzyuArdu87) | 3:12 | 2023-08-01 | 2023-08-17 |

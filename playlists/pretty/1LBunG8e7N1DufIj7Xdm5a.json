@@ -6,8 +6,24 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIIlHafBm7XxbleTtZEWTXqtLUdDBD",
+  "snapshot_id": "AAAIJdd8yniPTahYg8wNE9OK8LTCUCwG",
   "tracks": [
+    {
+      "added_at": "2026-04-06 16:27:11",
+      "album": {
+        "name": "Notte Infinita (Sessione Intima)",
+        "url": "https://open.spotify.com/album/1uouqo2Ym8HXdKNZvMhPeP"
+      },
+      "artists": [
+        {
+          "name": "LEONE PRIMO",
+          "url": "https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Notte Infinita - Sessione Intima",
+      "url": "https://open.spotify.com/track/7eQntmab7QTKvix08fNQhh"
+    },
     {
       "added_at": "2026-03-30 10:29:01",
       "album": {
@@ -60912,7 +60928,7 @@
           "url": "https://open.spotify.com/artist/5VdLBmGaaSDMvAIcJmAcHf"
         }
       ],
-      "duration_ms": 155844,
+      "duration_ms": 155991,
       "name": "Clonazepam",
       "url": "https://open.spotify.com/track/4qggI8I4GdjeAFttyFLf0o"
     },
@@ -69483,6 +69499,38 @@
       "duration_ms": 127892,
       "name": "We all live in a Fantasy",
       "url": "https://open.spotify.com/track/1utF6RyVi98fnKc0Du68uH"
+    },
+    {
+      "added_at": "2026-04-06 18:03:18",
+      "album": {
+        "name": "Telling Stories EP",
+        "url": "https://open.spotify.com/album/3fZEmp4ghXG1h7z67zVyWm"
+      },
+      "artists": [
+        {
+          "name": "ALLEY the band",
+          "url": "https://open.spotify.com/artist/705pUhNAH2OimLCdheAma2"
+        }
+      ],
+      "duration_ms": 220058,
+      "name": "Watching You Leave",
+      "url": "https://open.spotify.com/track/0BMU6qKR64Beln8Zhl4VUe"
+    },
+    {
+      "added_at": "2026-04-06 18:03:44",
+      "album": {
+        "name": "I'm sky high",
+        "url": "https://open.spotify.com/album/2ZkjDMyvicJva0YScI3rTA"
+      },
+      "artists": [
+        {
+          "name": "Leandro Aguirre",
+          "url": "https://open.spotify.com/artist/2uVhj1bGrGFPgunJ4BdB5I"
+        }
+      ],
+      "duration_ms": 231719,
+      "name": "I'm sky high",
+      "url": "https://open.spotify.com/track/5PlMMYdPoZ2gnBYfXz9agR"
     }
   ],
   "unique_name": "playlist spotify free",

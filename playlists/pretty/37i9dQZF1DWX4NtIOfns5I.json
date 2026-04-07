@@ -1,12 +1,12 @@
 {
   "description": "jessie mazin on the cover <3",
-  "num_followers": 145139,
+  "num_followers": 145169,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE9ILFLCAi0gJXUjs+U8fY8xy/WE",
+  "snapshot_id": "AAAAALYqAIX0yp0oLHavlitW0n2/WIfn",
   "tracks": [
     {
       "added_at": "2026-04-03 04:02:03",
@@ -59,6 +59,22 @@
       "duration_ms": 223026,
       "name": "righttttraaack",
       "url": "https://open.spotify.com/track/7p9QPnwr6INKhwFhZwuooX"
+    },
+    {
+      "added_at": "2026-04-06 16:12:27",
+      "album": {
+        "name": "spring cleaning",
+        "url": "https://open.spotify.com/album/2csnhRN3yY164SmOUXJLLE"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "duration_ms": 243740,
+      "name": "spring cleaning",
+      "url": "https://open.spotify.com/track/1rZggDe0NlgkU63OkbD3r8"
     },
     {
       "added_at": "2026-04-03 04:02:03",

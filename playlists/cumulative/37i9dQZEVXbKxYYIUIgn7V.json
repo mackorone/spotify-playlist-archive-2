@@ -12815,6 +12815,32 @@
     },
     {
       "album": {
+        "name": "Fr\u00fchling, du bist da",
+        "url": "https://open.spotify.com/album/2LMcxFoNIQtR7UFt9cYsOY"
+      },
+      "artists": [
+        {
+          "name": "Lucia Ruf",
+          "url": "https://open.spotify.com/artist/085LEO8GBi8fhvVZhoS5gt"
+        },
+        {
+          "name": "Stephen Janetzko",
+          "url": "https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG"
+        },
+        {
+          "name": "Philipp Fux",
+          "url": "https://open.spotify.com/artist/0HhM8zmhxxcsv4MUzlUzp5"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133725,
+      "name": "Der Osterhase macht sich fit",
+      "url": "https://open.spotify.com/track/4d5faksKIsu1dEqEzI3A5N"
+    },
+    {
+      "album": {
         "name": "Der Teufel tanzt im Volksgarten",
         "url": "https://open.spotify.com/album/7t80uGRnH8U9ynRqbdE5GM"
       },
@@ -19092,7 +19118,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 187946,
       "name": "F\u00fchlst du die Musik",
       "url": "https://open.spotify.com/track/3ep2TP8vOEH6dXJZZmj6YF"
@@ -21600,7 +21626,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 160000,
       "name": "Hans Kazan",
       "url": "https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun"
@@ -59036,7 +59062,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 109470,
       "name": "yenildi\u011fim tek sava\u015ft\u0131n",
       "url": "https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG"

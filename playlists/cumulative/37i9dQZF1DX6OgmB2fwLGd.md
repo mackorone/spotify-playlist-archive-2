@@ -4,7 +4,7 @@
 
 > hyper\_sleaze.electro\-glitch.wiredheadphones.v2008.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.underscores =\]
 
-1,303 songs - 2 day 5 hr 22 min
+1,304 songs - 2 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC) | 2:52 | 2022-03-01 | 2022-04-14 |
 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 | 2025-02-28 | 2026-02-08 |
 | [Beat My Face](https://open.spotify.com/track/4l3rYp5GUAwRVhBbSIw5ZH) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Beat My Face](https://open.spotify.com/album/68GV8wXKbhSwoVroQ2wgdR) | 2:00 | 2023-03-27 | 2023-06-10 |
+| [BEAT UP CHANEL$](https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:18 | 2026-04-06 |  |
 | [Beating Down Yo Block](https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Beating Down Yo Block](https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK) | 3:12 | 2021-09-29 | 2022-02-23 |
 | [Beautiful](https://open.spotify.com/track/5n7vs4XFi3JWZLJpcxLthV) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Beautiful](https://open.spotify.com/album/5b0iGcVPztBLsWRo2lc6Fc) | 3:06 | 2021-12-10 | 2022-03-25 |
 | [Beavis & Butt\-head](https://open.spotify.com/track/0Y9kRbsQKC9zSmfzxPgYiT) | [Sad Frosty](https://open.spotify.com/artist/4VQjfdCN5W8jvwy4AvEnin), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Beavis & Butt\-head](https://open.spotify.com/album/5SZ2aByHdZP9vriapgkVbs) | 2:04 | 2022-05-16 | 2022-06-21 |
@@ -1069,7 +1070,7 @@
 | [some thing special](https://open.spotify.com/track/5C1axVGQqPrmZMzFA7pE6R) | [Rosacea boy](https://open.spotify.com/artist/61YfdcpPNccLF3vgbHKKj1) | [some thing special](https://open.spotify.com/album/6pdUSQwLYO1lce2tbv5NbT) | 2:52 | 2026-04-03 |  |
 | [Somethin Bout U](https://open.spotify.com/track/1ewcXX3jGDSlL0afdrJRYq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/3hCqgEwy309nX74TGAOHs5) | 2:52 | 2023-12-01 | 2023-12-22 |
 | [Somethin Bout U](https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp) | 2:52 | 2023-11-10 | 2023-12-04 |
-| [Sometimes I believe in God \(Sometimes I believe in Me\)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [?](https://open.spotify.com/album/11H2P7CKIyHenh01nk0y3H) | 3:40 | 2026-03-09 |  |
+| [Sometimes I believe in God \(Sometimes I believe in Me\)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [?](https://open.spotify.com/album/11H2P7CKIyHenh01nk0y3H) | 3:40 | 2026-03-09 | 2026-04-07 |
 | [song for when the bar closes](https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [song for when the bar closes](https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ) | 1:44 | 2024-11-22 | 2026-01-31 |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2021-10-07 | 2022-02-19 |
 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-27 | 2026-01-31 |

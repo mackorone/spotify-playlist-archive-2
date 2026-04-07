@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20780,
+  "num_followers": 20786,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Marking My Time",
-        "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 268038,
-      "name": "Marking My Time",
-      "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "GREENZONE 108",
         "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 250506,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 268038,
+      "name": "Marking My Time",
+      "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "money",
-        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 178536,
-      "name": "money",
-      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 226761,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "money",
+        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "money",
+      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Can't Love",
-        "url": "https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR"
-      },
-      "artists": [
-        {
-          "name": "Bea Maher",
-          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
-        }
-      ],
-      "duration_ms": 219281,
-      "name": "Can't Love",
-      "url": "https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Woe Is Me",
         "url": "https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Can't Love",
+        "url": "https://open.spotify.com/album/20zbJ6AZx33mF7Hox03DfR"
+      },
+      "artists": [
+        {
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+        }
+      ],
+      "duration_ms": 219281,
+      "name": "Can't Love",
+      "url": "https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Motion Sick",
         "url": "https://open.spotify.com/album/30E4JSpb6dJ7xiCFf5Uyxm"
       },
@@ -951,38 +951,6 @@
       "duration_ms": 200866,
       "name": "Braid It Back",
       "url": "https://open.spotify.com/track/2NniQePH98Yun9uME1ZUMz"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "At What Cost",
-        "url": "https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL"
-      },
-      "artists": [
-        {
-          "name": "Ella More",
-          "url": "https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p"
-        }
-      ],
-      "duration_ms": 256127,
-      "name": "At What Cost",
-      "url": "https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "DEMOTAPE/VEGA",
-        "url": "https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK"
-      },
-      "artists": [
-        {
-          "name": "BERWYN",
-          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
-        }
-      ],
-      "duration_ms": 161271,
-      "name": "CRUSHED VELVET",
-      "url": "https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1019,6 +987,38 @@
       "duration_ms": 218212,
       "name": "Soapbox Soliloquy",
       "url": "https://open.spotify.com/track/6VsIzGuLAHVTRPspRCpMYu"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "DEMOTAPE/VEGA",
+        "url": "https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK"
+      },
+      "artists": [
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        }
+      ],
+      "duration_ms": 161271,
+      "name": "CRUSHED VELVET",
+      "url": "https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "At What Cost",
+        "url": "https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL"
+      },
+      "artists": [
+        {
+          "name": "Ella More",
+          "url": "https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p"
+        }
+      ],
+      "duration_ms": 256127,
+      "name": "At What Cost",
+      "url": "https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "City",
-        "url": "https://open.spotify.com/album/2MFa5EfzAbigqFo4GlHvqr"
-      },
-      "artists": [
-        {
-          "name": "Kadeem Tyrell",
-          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
-        }
-      ],
-      "duration_ms": 198997,
-      "name": "City",
-      "url": "https://open.spotify.com/track/5n8mDfxIjIu7Hdka3vk2Kb"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "The Way/A While Now",
         "url": "https://open.spotify.com/album/0oNzjicO5Ygztg07WOKh1s"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 121359,
       "name": "A While Now",
       "url": "https://open.spotify.com/track/7IoaHWlY2nd7OQl79TVxoM"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "City",
+        "url": "https://open.spotify.com/album/2MFa5EfzAbigqFo4GlHvqr"
+      },
+      "artists": [
+        {
+          "name": "Kadeem Tyrell",
+          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
+        }
+      ],
+      "duration_ms": 198997,
+      "name": "City",
+      "url": "https://open.spotify.com/track/5n8mDfxIjIu7Hdka3vk2Kb"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo"
+      },
+      "artists": [
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        },
+        {
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+        }
+      ],
+      "duration_ms": 207830,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Jet Plane 5000",
         "url": "https://open.spotify.com/album/3noTnaZZqXuflfPKDokgfJ"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 164000,
       "name": "Jet Plane 5000",
       "url": "https://open.spotify.com/track/0YOVGM1hQKI3ulmWFxBYSO"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Out Of The Blue",
-        "url": "https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo"
-      },
-      "artists": [
-        {
-          "name": "Stefan Mahendra",
-          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
-        },
-        {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
-        }
-      ],
-      "duration_ms": 207830,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "The South's Got Something To Say",
-        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Comfort Zone",
-      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "What We Become",
-        "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
+        "name": "The South's Got Something To Say",
+        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
       },
       "artists": [
         {
-          "name": "Loie",
-          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
         }
       ],
-      "duration_ms": 173706,
-      "name": "Living Room",
-      "url": "https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba"
+      "duration_ms": 191641,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1371,6 +1355,22 @@
       "duration_ms": 151000,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "What We Become",
+        "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
+      },
+      "artists": [
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "duration_ms": 173706,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "26% MIXTAPE",
-        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
-      },
-      "artists": [
-        {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "Ride 2 Nowhere",
-      "url": "https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "\u2605SLEEPY\u2605",
         "url": "https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 134437,
       "name": "\u2605SLEEPY\u2605",
       "url": "https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "26% MIXTAPE",
+        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
+      },
+      "artists": [
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "Ride 2 Nowhere",
+      "url": "https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "LIME",
+        "url": "https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 195137,
+      "name": "LIME",
+      "url": "https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "honey lemon tea",
         "url": "https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 139370,
       "name": "honey lemon tea (feat. Jaydonclover)",
       "url": "https://open.spotify.com/track/7FSlGYVKwVDfi1J1DD8daS"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "LIME",
-        "url": "https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 195137,
-      "name": "LIME",
-      "url": "https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1803,26 +1803,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Constellation A",
-        "url": "https://open.spotify.com/album/1VSRmwbSPADRzGsxcLkfi0"
+        "name": "Be Afraid",
+        "url": "https://open.spotify.com/album/61VZRCv0rz2wTlICr42KK1"
       },
       "artists": [
         {
-          "name": "Carmody",
-          "url": "https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F"
-        },
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+          "name": "Shanaz Dorsett",
+          "url": "https://open.spotify.com/artist/5Fe6NAp8J07lnWU8WoVdym"
         }
       ],
-      "duration_ms": 202784,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/4VLXVGAMvfoEBd1hzErJpS"
+      "duration_ms": 199626,
+      "name": "Be Afraid",
+      "url": "https://open.spotify.com/track/6ZncAMDN2Hv2QrXiSntgoy"
     }
   ],
   "unique_name": "the night bus",

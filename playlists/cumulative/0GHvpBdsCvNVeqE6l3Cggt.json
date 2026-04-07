@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Something Better",
+        "url": "https://open.spotify.com/album/2bGyHyfbRmdiEazFAZgdyu"
+      },
+      "artists": [
+        {
+          "name": "Buffy",
+          "url": "https://open.spotify.com/artist/2cduAtZPJsBg9LGGbS2Ktp"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268604,
+      "name": "Something Better",
+      "url": "https://open.spotify.com/track/0mtt3La0vOFO0jjUBzDyDe"
+    },
+    {
+      "album": {
         "name": "Heathen Chemistry",
         "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
       },

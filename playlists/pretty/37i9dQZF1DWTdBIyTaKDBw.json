@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 26518,
+  "num_followers": 26576,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-04-03 01:04:14",
       "album": {
+        "name": "Ghosts of the Floating World",
+        "url": "https://open.spotify.com/album/3eZvLeVJrxO4eA8CUogkZS"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 220805,
+      "name": "Teahouse Spirits",
+      "url": "https://open.spotify.com/track/32DttoRpK9pJW79WPpVevv"
+    },
+    {
+      "added_at": "2026-04-03 01:04:14",
+      "album": {
         "name": "Yokai",
         "url": "https://open.spotify.com/album/10hDUaGD1vcvRuhWHSwo7r"
       },
@@ -199,18 +215,22 @@
     {
       "added_at": "2026-04-03 01:04:14",
       "album": {
-        "name": "Ghosts of the Floating World",
-        "url": "https://open.spotify.com/album/3eZvLeVJrxO4eA8CUogkZS"
+        "name": "Back to Nature",
+        "url": "https://open.spotify.com/album/5ESQzoS4zCbmBIXv56FGLo"
       },
       "artists": [
         {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+          "name": "Lawrence Walther",
+          "url": "https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME"
+        },
+        {
+          "name": "Solar Body",
+          "url": "https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO"
         }
       ],
-      "duration_ms": 220805,
-      "name": "Teahouse Spirits",
-      "url": "https://open.spotify.com/track/32DttoRpK9pJW79WPpVevv"
+      "duration_ms": 139636,
+      "name": "Tiger Lily",
+      "url": "https://open.spotify.com/track/4h3KM0HdN1xnYexB7zCIjG"
     },
     {
       "added_at": "2026-04-03 01:04:14",
@@ -243,26 +263,6 @@
       "duration_ms": 139000,
       "name": "Whispers of Eden",
       "url": "https://open.spotify.com/track/7HcwhoGMSjXHWNSgbmwYoH"
-    },
-    {
-      "added_at": "2026-04-03 01:04:14",
-      "album": {
-        "name": "Back to Nature",
-        "url": "https://open.spotify.com/album/5ESQzoS4zCbmBIXv56FGLo"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Walther",
-          "url": "https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME"
-        },
-        {
-          "name": "Solar Body",
-          "url": "https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Tiger Lily",
-      "url": "https://open.spotify.com/track/4h3KM0HdN1xnYexB7zCIjG"
     },
     {
       "added_at": "2026-04-03 01:04:14",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-04-03 01:04:14",
       "album": {
-        "name": "Waiting To Board",
-        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
-      },
-      "artists": [
-        {
-          "name": "vhskid.",
-          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Waiting To Board",
-      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
-    },
-    {
-      "added_at": "2026-04-03 01:04:14",
-      "album": {
         "name": "rest & be thankful",
         "url": "https://open.spotify.com/album/1KnlzGpydfNw0XXyyVUdV8"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 126430,
       "name": "rest & be thankful",
       "url": "https://open.spotify.com/track/1qObLobp2GhmwXJYzrJ7u1"
+    },
+    {
+      "added_at": "2026-04-03 01:04:14",
+      "album": {
+        "name": "Waiting To Board",
+        "url": "https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl"
+      },
+      "artists": [
+        {
+          "name": "vhskid.",
+          "url": "https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Waiting To Board",
+      "url": "https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK"
     },
     {
       "added_at": "2026-04-03 01:04:14",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-04-03 01:04:14",
       "album": {
-        "name": "Soothing Breeze",
-        "url": "https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF"
-      },
-      "artists": [
-        {
-          "name": "Tibeauthetraveler",
-          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
-        }
-      ],
-      "duration_ms": 156482,
-      "name": "Cherry Tree",
-      "url": "https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5"
-    },
-    {
-      "added_at": "2026-04-03 01:04:14",
-      "album": {
         "name": "Stories From Japan II",
         "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 188571,
       "name": "Lost in Tokyo",
       "url": "https://open.spotify.com/track/6PLBqxTZIugoOSsBDxcAG2"
+    },
+    {
+      "added_at": "2026-04-03 01:04:14",
+      "album": {
+        "name": "Soothing Breeze",
+        "url": "https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF"
+      },
+      "artists": [
+        {
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        }
+      ],
+      "duration_ms": 156482,
+      "name": "Cherry Tree",
+      "url": "https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5"
     },
     {
       "added_at": "2026-04-03 01:04:14",
@@ -1143,8 +1143,8 @@
     {
       "added_at": "2026-04-03 01:04:14",
       "album": {
-        "name": "Osaka & Kyoto",
-        "url": "https://open.spotify.com/album/6hINe6GkfIr33X4frUtnLd"
+        "name": "Shinra",
+        "url": "https://open.spotify.com/album/4nf6qaran8NGdZn7AuSWyR"
       },
       "artists": [
         {
@@ -1152,13 +1152,13 @@
           "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
         },
         {
-          "name": "Swik",
-          "url": "https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai"
+          "name": "Picture Talk",
+          "url": "https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l"
         }
       ],
-      "duration_ms": 114424,
-      "name": "Osaka",
-      "url": "https://open.spotify.com/track/5043oZixtvqcPwbfpQnNo3"
+      "duration_ms": 137142,
+      "name": "Shinra",
+      "url": "https://open.spotify.com/track/1gz1uyqrIvrUXLIE8CG4jY"
     },
     {
       "added_at": "2026-04-03 01:04:14",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2026-04-03 01:04:14",
       "album": {
-        "name": "Shinra",
-        "url": "https://open.spotify.com/album/4nf6qaran8NGdZn7AuSWyR"
+        "name": "Osaka & Kyoto",
+        "url": "https://open.spotify.com/album/6hINe6GkfIr33X4frUtnLd"
       },
       "artists": [
         {
@@ -1240,29 +1240,13 @@
           "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
         },
         {
-          "name": "Picture Talk",
-          "url": "https://open.spotify.com/artist/2ERrGspEfSe1sycxXBU48l"
+          "name": "Swik",
+          "url": "https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Shinra",
-      "url": "https://open.spotify.com/track/1gz1uyqrIvrUXLIE8CG4jY"
-    },
-    {
-      "added_at": "2026-04-03 01:04:14",
-      "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m"
-      },
-      "artists": [
-        {
-          "name": "Nomak",
-          "url": "https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI"
+      "duration_ms": 114424,
+      "name": "Osaka",
+      "url": "https://open.spotify.com/track/5043oZixtvqcPwbfpQnNo3"
     },
     {
       "added_at": "2026-04-03 01:04:14",
@@ -1299,6 +1283,22 @@
       "duration_ms": 116841,
       "name": "Mt Fuji",
       "url": "https://open.spotify.com/track/3lAqbZuoUooBSSbsSJvyOb"
+    },
+    {
+      "added_at": "2026-04-03 01:04:14",
+      "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m"
+      },
+      "artists": [
+        {
+          "name": "Nomak",
+          "url": "https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI"
     },
     {
       "added_at": "2026-04-03 01:04:14",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-04-03 01:04:14",
       "album": {
+        "name": "Yamete",
+        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
+      },
+      "artists": [
+        {
+          "name": "Tosama Beats",
+          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "Yamete",
+      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
+    },
+    {
+      "added_at": "2026-04-03 01:04:14",
+      "album": {
         "name": "Ancient Bond",
         "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 139095,
       "name": "Anata",
       "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
-    },
-    {
-      "added_at": "2026-04-03 01:04:14",
-      "album": {
-        "name": "Yamete",
-        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
-      },
-      "artists": [
-        {
-          "name": "Tosama Beats",
-          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Yamete",
-      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
     },
     {
       "added_at": "2026-04-03 01:04:14",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-04-03 01:04:14",
       "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
-      },
-      "artists": [
-        {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
-        }
-      ],
-      "duration_ms": 145617,
-      "name": "Hatsukoi",
-      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
-    },
-    {
-      "added_at": "2026-04-03 01:04:14",
-      "album": {
         "name": "Blood Oath",
         "url": "https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 195000,
       "name": "Blood Oath",
       "url": "https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO"
+    },
+    {
+      "added_at": "2026-04-03 01:04:14",
+      "album": {
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "duration_ms": 145617,
+      "name": "Hatsukoi",
+      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
     },
     {
       "added_at": "2026-04-03 01:04:14",

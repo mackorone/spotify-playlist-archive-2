@@ -412,7 +412,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 360000,
       "name": "IDFA",
       "url": "https://open.spotify.com/track/3K7lh0YTE7WJCOoxoMF6xA"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 360000,
       "name": "IDFA",
       "url": "https://open.spotify.com/track/7jgIw9m11YU4qB0pqpOUe4"

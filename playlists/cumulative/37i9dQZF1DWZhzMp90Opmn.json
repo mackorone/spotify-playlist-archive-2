@@ -4725,6 +4725,24 @@
     },
     {
       "album": {
+        "name": "Pink Dream Layer",
+        "url": "https://open.spotify.com/album/0du3l9Ap0dzLAW6tdwaQjF"
+      },
+      "artists": [
+        {
+          "name": "Nullhaven",
+          "url": "https://open.spotify.com/artist/4alXugGd3qFBb9Pldhfx8u"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161654,
+      "name": "Pink Focus Noise",
+      "url": "https://open.spotify.com/track/6z3dn4GYqx9yYdDF5kNuER"
+    },
+    {
+      "album": {
         "name": "Pink Noise Sounds for Focus and Relaxation",
         "url": "https://open.spotify.com/album/1f6H56oC6fIHVMlJ1SnHRT"
       },
@@ -5780,7 +5798,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 167343,
       "name": "Pink Noise Continuum",
       "url": "https://open.spotify.com/track/40FPKwy3G8Ilvjvgx7DDcW"

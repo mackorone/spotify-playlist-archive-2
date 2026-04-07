@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
-  "num_followers": 79500,
+  "num_followers": 79550,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,22 @@
     {
       "added_at": "2026-04-03 00:01:32",
       "album": {
-        "name": "THEY LOVE ME",
-        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
+        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
         }
       ],
-      "duration_ms": 134482,
-      "name": "THEY LOVE ME",
-      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
+      "duration_ms": 189677,
+      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
     },
     {
       "added_at": "2026-04-03 00:01:32",
@@ -311,22 +315,18 @@
     {
       "added_at": "2026-04-03 00:01:32",
       "album": {
-        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
+        "name": "THEY LOVE ME",
+        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 189677,
-      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
-      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
+      "duration_ms": 134482,
+      "name": "THEY LOVE ME",
+      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
     },
     {
       "added_at": "2026-04-03 00:01:32",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-04-03 00:01:32",
       "album": {
-        "name": "Mortal Kombat",
-        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 121061,
-      "name": "Mortal Kombat",
-      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
-    },
-    {
-      "added_at": "2026-04-03 00:01:32",
-      "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 165000,
       "name": "PITY THIS BOY (with Victony)",
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
+    },
+    {
+      "added_at": "2026-04-03 00:01:32",
+      "album": {
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 121061,
+      "name": "Mortal Kombat",
+      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2026-04-03 00:01:32",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-04-03 00:01:32",
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 184821,
-      "name": "INDUSTRY MACHINE",
-      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
-    },
-    {
-      "added_at": "2026-04-03 00:01:32",
-      "album": {
         "name": "Promise Land",
         "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
       },
@@ -1015,6 +999,38 @@
       "duration_ms": 252903,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/4hm34en9vhwHwHsOTHrHzM"
+    },
+    {
+      "added_at": "2026-04-03 00:01:32",
+      "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 184821,
+      "name": "INDUSTRY MACHINE",
+      "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
+    },
+    {
+      "added_at": "2026-04-03 00:01:32",
+      "album": {
+        "name": "Stormy",
+        "url": "https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 150873,
+      "name": "Stormy",
+      "url": "https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD"
     },
     {
       "added_at": "2026-04-03 00:01:32",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2026-04-03 00:01:32",
       "album": {
-        "name": "Stormy",
-        "url": "https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 150873,
-      "name": "Stormy",
-      "url": "https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD"
-    },
-    {
-      "added_at": "2026-04-03 00:01:32",
-      "album": {
         "name": "Oh My Days",
         "url": "https://open.spotify.com/album/03NtEqY1Id8juYBHnvSikk"
       },
@@ -1067,6 +1067,26 @@
       "duration_ms": 119166,
       "name": "Oh My Days",
       "url": "https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l"
+    },
+    {
+      "added_at": "2026-04-03 00:01:32",
+      "album": {
+        "name": "+WE 2 FLY\u00b0",
+        "url": "https://open.spotify.com/album/4NRUkjBzireLsRZ6BiP14v"
+      },
+      "artists": [
+        {
+          "name": "Monochrome",
+          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
+        },
+        {
+          "name": "S1orDie",
+          "url": "https://open.spotify.com/artist/1rxMZxcNgJiXunlNSAq8pY"
+        }
+      ],
+      "duration_ms": 170467,
+      "name": "We 2 Fly",
+      "url": "https://open.spotify.com/track/4Ym5QOanjoiNXvWBIOyIh0"
     },
     {
       "added_at": "2026-04-03 00:01:32",
@@ -1107,26 +1127,6 @@
     {
       "added_at": "2026-04-03 00:01:32",
       "album": {
-        "name": "+WE 2 FLY\u00b0",
-        "url": "https://open.spotify.com/album/4NRUkjBzireLsRZ6BiP14v"
-      },
-      "artists": [
-        {
-          "name": "Monochrome",
-          "url": "https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2"
-        },
-        {
-          "name": "S1orDie",
-          "url": "https://open.spotify.com/artist/1rxMZxcNgJiXunlNSAq8pY"
-        }
-      ],
-      "duration_ms": 170467,
-      "name": "We 2 Fly",
-      "url": "https://open.spotify.com/track/4Ym5QOanjoiNXvWBIOyIh0"
-    },
-    {
-      "added_at": "2026-04-03 00:01:32",
-      "album": {
         "name": "BORN TO BE GREAT",
         "url": "https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-04-03 00:01:32",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "ACL",
-      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
-    },
-    {
-      "added_at": "2026-04-03 00:01:32",
-      "album": {
         "name": "Anytime (feat. Ayo Maff)",
         "url": "https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 192028,
       "name": "Anytime (feat. Ayo Maff)",
       "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
+    },
+    {
+      "added_at": "2026-04-03 00:01:32",
+      "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "ACL",
+      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
     },
     {
       "added_at": "2026-04-03 00:01:32",
@@ -1275,34 +1275,22 @@
     {
       "added_at": "2026-04-03 00:01:32",
       "album": {
-        "name": "Pour the World Spit",
-        "url": "https://open.spotify.com/album/6Pcw9s46ajtJvTXRJD5lNo"
+        "name": "G.O.A.T",
+        "url": "https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF"
       },
       "artists": [
         {
           "name": "Erigga",
           "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
-        }
-      ],
-      "duration_ms": 342465,
-      "name": "Pour the World Spit",
-      "url": "https://open.spotify.com/track/5P4LXz9i33dt6W84fEaUdK"
-    },
-    {
-      "added_at": "2026-04-03 00:01:32",
-      "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
-      },
-      "artists": [
+        },
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 134237,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
+      "duration_ms": 163444,
+      "name": "THERAPY SESSION",
+      "url": "https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx"
     },
     {
       "added_at": "2026-04-03 00:01:32",
@@ -1319,6 +1307,22 @@
       "duration_ms": 169018,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ"
+    },
+    {
+      "added_at": "2026-04-03 00:01:32",
+      "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
     }
   ],
   "unique_name": "Naija Bars ",

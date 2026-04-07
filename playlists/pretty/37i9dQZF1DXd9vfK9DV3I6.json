@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 378216,
+  "num_followers": 378287,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
-        "name": "Galaxy",
-        "url": "https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcsl\u00fcm Ar\u0131",
-          "url": "https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/7BTix7RgTW7GOL0zpjRQqA"
-    },
-    {
-      "added_at": "2026-02-27 16:18:00",
-      "album": {
         "name": "Ya Ghayeb",
         "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 217211,
       "name": "Ya Ghayeb",
       "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
+    },
+    {
+      "added_at": "2026-02-27 16:18:00",
+      "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcsl\u00fcm Ar\u0131",
+          "url": "https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/7BTix7RgTW7GOL0zpjRQqA"
     },
     {
       "added_at": "2026-02-27 16:18:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
-        "name": "Watra",
-        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        }
-      ],
-      "duration_ms": 141754,
-      "name": "Watra",
-      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
-    },
-    {
-      "added_at": "2026-02-27 16:18:00",
-      "album": {
         "name": "Ilios",
         "url": "https://open.spotify.com/album/0dn8zaFhDYjDuqOKGhr0Kw"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 374857,
       "name": "Ilios",
       "url": "https://open.spotify.com/track/2IUWM1lWpUQU6zCxlHx8Kw"
+    },
+    {
+      "added_at": "2026-02-27 16:18:00",
+      "album": {
+        "name": "Watra",
+        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        }
+      ],
+      "duration_ms": 141754,
+      "name": "Watra",
+      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
     },
     {
       "added_at": "2026-02-27 16:18:00",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
+        "name": "Sakaratou Achiqin",
+        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Mawal Lotfi",
+          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
+        }
+      ],
+      "duration_ms": 139415,
+      "name": "Sakaratou Achiqin",
+      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+    },
+    {
+      "added_at": "2026-02-27 16:18:00",
+      "album": {
         "name": "Hey Hey",
         "url": "https://open.spotify.com/album/5I5AAajOGNZA9za66DpimM"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 214634,
       "name": "El Hob",
       "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
-    },
-    {
-      "added_at": "2026-02-27 16:18:00",
-      "album": {
-        "name": "Sakaratou Achiqin",
-        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Mawal Lotfi",
-          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
-        }
-      ],
-      "duration_ms": 139415,
-      "name": "Sakaratou Achiqin",
-      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
     },
     {
       "added_at": "2026-02-27 16:18:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
-        "name": "In the Harem",
-        "url": "https://open.spotify.com/album/1qwAeW8FUAtGo4VfB31aMU"
-      },
-      "artists": [
-        {
-          "name": "Billy Esteban",
-          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
-        }
-      ],
-      "duration_ms": 322386,
-      "name": "In the Harem",
-      "url": "https://open.spotify.com/track/2Vjyh9lYP0jRMO23rod3ZF"
-    },
-    {
-      "added_at": "2026-02-27 16:18:00",
-      "album": {
         "name": "Helwa Belady El Samra (Kharma Remix)",
         "url": "https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 176350,
       "name": "Helwa Belady El Samra (Kharma Remix)",
       "url": "https://open.spotify.com/track/5usGKrykRENg5c3DAOEEIN"
+    },
+    {
+      "added_at": "2026-02-27 16:18:00",
+      "album": {
+        "name": "In the Harem",
+        "url": "https://open.spotify.com/album/1qwAeW8FUAtGo4VfB31aMU"
+      },
+      "artists": [
+        {
+          "name": "Billy Esteban",
+          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
+        }
+      ],
+      "duration_ms": 322386,
+      "name": "In the Harem",
+      "url": "https://open.spotify.com/track/2Vjyh9lYP0jRMO23rod3ZF"
     },
     {
       "added_at": "2026-02-27 16:18:00",
@@ -1663,22 +1663,6 @@
       "duration_ms": 400696,
       "name": "White Desert",
       "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2026-02-27 16:18:00",
-      "album": {
-        "name": "Hold On To Me",
-        "url": "https://open.spotify.com/album/2R56tvCgMjhV6NnhY6TRy1"
-      },
-      "artists": [
-        {
-          "name": "Gokhan Akkas",
-          "url": "https://open.spotify.com/artist/5eqGxrMJ31RttUaQF9QtUP"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Hold On To Me",
-      "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
     },
     {
       "added_at": "2026-02-27 16:18:00",
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
+        "name": "Hold On To Me",
+        "url": "https://open.spotify.com/album/2R56tvCgMjhV6NnhY6TRy1"
+      },
+      "artists": [
+        {
+          "name": "Gokhan Akkas",
+          "url": "https://open.spotify.com/artist/5eqGxrMJ31RttUaQF9QtUP"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Hold On To Me",
+      "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
+    },
+    {
+      "added_at": "2026-02-27 16:18:00",
+      "album": {
         "name": "Mafeesh Mostaheel - Arrab Remix",
         "url": "https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW"
       },
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
+        "name": "Qalbi",
+        "url": "https://open.spotify.com/album/1N729bxBcaOjbUXjgpCILJ"
+      },
+      "artists": [
+        {
+          "name": "Ali Termos",
+          "url": "https://open.spotify.com/artist/6KsNWqvgSvCD55lSgiecKK"
+        }
+      ],
+      "duration_ms": 378000,
+      "name": "Qalbi",
+      "url": "https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX"
+    },
+    {
+      "added_at": "2026-02-27 16:18:00",
+      "album": {
         "name": "Arab Money",
         "url": "https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 136800,
       "name": "Arab Money",
       "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
-    },
-    {
-      "added_at": "2026-02-27 16:18:00",
-      "album": {
-        "name": "Qalbi",
-        "url": "https://open.spotify.com/album/1N729bxBcaOjbUXjgpCILJ"
-      },
-      "artists": [
-        {
-          "name": "Ali Termos",
-          "url": "https://open.spotify.com/artist/6KsNWqvgSvCD55lSgiecKK"
-        }
-      ],
-      "duration_ms": 378000,
-      "name": "Qalbi",
-      "url": "https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX"
     },
     {
       "added_at": "2026-02-27 16:18:00",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2026-02-27 16:18:00",
       "album": {
-        "name": "Vurgn",
-        "url": "https://open.spotify.com/album/4sEykTyjS9SwHwEgVX5b8M"
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/7kfkEiLlZ0lDm8tdjggdgg"
       },
       "artists": [
         {
-          "name": "Acnatro",
-          "url": "https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS"
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
         }
       ],
-      "duration_ms": 142372,
-      "name": "Vurgn",
-      "url": "https://open.spotify.com/track/0egdXNEOCU9WvYL5voGIuO"
+      "duration_ms": 214159,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/2XBbMXVbhnW6RkXEWRf0Z8"
     }
   ],
   "unique_name": "mosaic",

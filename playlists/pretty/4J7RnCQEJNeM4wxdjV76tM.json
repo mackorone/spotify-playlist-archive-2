@@ -6,7 +6,7 @@
     "name": "jas",
     "url": "https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4"
   },
-  "snapshot_id": "AAAEWDKrWVOulYtM+59SyukNV8OmtpPR",
+  "snapshot_id": "AAAEWWpsNfQct+ulvvEQHDTK+IYUCDFC",
   "tracks": [
     {
       "added_at": "2022-02-17 21:09:23",
@@ -11363,6 +11363,26 @@
       "duration_ms": 223853,
       "name": "Stop And Stare",
       "url": "https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M"
+    },
+    {
+      "added_at": "2026-04-06 04:43:02",
+      "album": {
+        "name": "The Makings of a Man",
+        "url": "https://open.spotify.com/album/6NTc18I9AXpW6NecT9vXS1"
+      },
+      "artists": [
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "I've Changed (feat. Keyshia Cole)",
+      "url": "https://open.spotify.com/track/49cSN8JC12jp5F5A7yauTf"
     }
   ],
   "unique_name": "$$",

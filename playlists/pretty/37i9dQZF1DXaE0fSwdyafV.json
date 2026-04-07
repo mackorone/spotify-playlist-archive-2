@@ -1,6 +1,6 @@
 {
   "description": "It's the witching hours. Cover: Florence + The Machine",
-  "num_followers": 156629,
+  "num_followers": 156665,
   "original_name": "Witchy",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-11-14 05:00:30",
       "album": {
-        "name": "The Rider (from \"The Lord of the Rings: The War of the Rohirrim\")",
-        "url": "https://open.spotify.com/album/0FZzoS6y3uDXa0H51E6ehn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 233027,
-      "name": "The Rider (from \"The Lord of the Rings: The War of the Rohirrim\")",
-      "url": "https://open.spotify.com/track/2sVzTKVEy6zDcizmtFOjtg"
-    },
-    {
-      "added_at": "2025-11-14 05:00:30",
-      "album": {
         "name": "At Home with Screamin' Jay Hawkins",
         "url": "https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 144866,
       "name": "I Put a Spell On You",
       "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"
+    },
+    {
+      "added_at": "2025-11-14 05:00:30",
+      "album": {
+        "name": "The Rider (from \"The Lord of the Rings: The War of the Rohirrim\")",
+        "url": "https://open.spotify.com/album/0FZzoS6y3uDXa0H51E6ehn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 233027,
+      "name": "The Rider (from \"The Lord of the Rings: The War of the Rohirrim\")",
+      "url": "https://open.spotify.com/track/2sVzTKVEy6zDcizmtFOjtg"
     },
     {
       "added_at": "2025-11-14 05:00:30",

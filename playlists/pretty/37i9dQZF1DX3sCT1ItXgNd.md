@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
-> Lo mejor del pop e español\. Foto: Marta Santos
+> Lo mejor del pop en español\. Foto: Marta Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,458 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,411 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [ahora que nos perdimos](https://open.spotify.com/track/49YpuK1D9k5hMg2pzgIhX6) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [bienvenidos a nuevos lugares](https://open.spotify.com/album/5VZ46lKhDfwoHIxTgn7lnw) | 2:56 |
 | 50 | [Bye Bye](https://open.spotify.com/track/5iZHzmHyH3tJtCM2QQpQvD) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Amor](https://open.spotify.com/album/5vEtRhWXsp02T5Z5200MTl) | 2:45 |
 
-Snapshot ID: `AAAAACjkyRIMN9BbH27M+l/A2+OuDSui`
+Snapshot ID: `AAAAAP7crwRfwrngzvnoHkTtOg5uGisk`

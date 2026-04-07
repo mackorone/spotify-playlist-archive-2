@@ -1,12 +1,12 @@
 {
   "description": "All the freshest hip-hop heaters in one list! Cover: A$AP Rocky.",
-  "num_followers": 28594,
+  "num_followers": 28592,
   "original_name": "Fresh Hip Hop",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAn8UpXFzH8+ON2Oeky3ukcCcuQ3Jtj",
+  "snapshot_id": "AAAn9IEPk4JGASlEpRPYjPDnQcS3TF11",
   "tracks": [
     {
       "added_at": "2026-03-20 20:03:08",
@@ -1887,6 +1887,62 @@
       "duration_ms": 167668,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/31FZEw4eoEZxWx0XUYnXP5"
+    },
+    {
+      "added_at": "2026-04-06 17:58:08",
+      "album": {
+        "name": "Not Friendly",
+        "url": "https://open.spotify.com/album/0I52JJWvsh7IuKjb5xwjK5"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 181821,
+      "name": "Not Friendly",
+      "url": "https://open.spotify.com/track/5LUYSbvpy83r3WvV8n7MZy"
+    },
+    {
+      "added_at": "2026-04-06 17:59:16",
+      "album": {
+        "name": "Nothin Like Me",
+        "url": "https://open.spotify.com/album/7HHWvtqaJyUfIcnojnZb8v"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 132200,
+      "name": "Nothin Like Me",
+      "url": "https://open.spotify.com/track/0Lztp0wEBoch8sPiZxKUi9"
+    },
+    {
+      "added_at": "2026-04-06 18:14:28",
+      "album": {
+        "name": "HEAR DAT STYL",
+        "url": "https://open.spotify.com/album/2620Z94qXgeOqSH0x6nDvV"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "HEAR DAT STYL",
+      "url": "https://open.spotify.com/track/1BtH6sE4Q5HFWwQl9FJ0QH"
     }
   ],
   "unique_name": "Fresh Hip Hop",

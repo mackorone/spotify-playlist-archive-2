@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: ZENA
 
-797 songs - 2 day 7 hr 22 min
+798 songs - 2 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Do you](https://open.spotify.com/track/6XZsh0Z4pxcsFM788tHtXf) | [Alicia Kruger](https://open.spotify.com/artist/7FAVT7XBhYQCOq6VkQGGzS) | [Do you](https://open.spotify.com/album/2GGsMAKD6l4F6HFLPFy6F7) | 3:36 | 2022-03-08 | 2022-04-21 |
 | [Do You Want to Know a Secret](https://open.spotify.com/track/4NmevLdf0DjM22ASgnLrYh) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Do You Want to Know a Secret](https://open.spotify.com/album/3poKwA1VNvoXkRwULoaFJY) | 2:00 | 2022-03-08 | 2022-04-20 |
 | [Doesn't Matter Why](https://open.spotify.com/track/29MT6T2LkM0FeL2dNo68WY) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Doesn't Matter Why](https://open.spotify.com/album/0oasEKiLayMsAKVjpUIhtm) | 3:05 | 2022-03-24 | 2022-07-19 |
-| [Don Gino](https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [THE WHIRR](https://open.spotify.com/album/5Ub4eoURboM3hSweAvLLqx) | 5:30 | 2025-11-28 |  |
+| [Don Gino](https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [THE WHIRR](https://open.spotify.com/album/5Ub4eoURboM3hSweAvLLqx) | 5:30 | 2025-11-28 | 2026-04-07 |
 | [Don't Wait Too Long](https://open.spotify.com/track/6bYPgYBo2joNEdvTbKERLA) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [Don’t Wait Too Long](https://open.spotify.com/album/0fz3FJVabxmF2wr7eIrUO4) | 3:51 | 2024-10-24 | 2025-12-12 |
 | [DON’T LISTEN](https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [DON’T LISTEN](https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN) | 2:57 | 2025-06-19 |  |
 | [Dopamine](https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Dopamine](https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI) | 2:55 | 2023-12-22 | 2025-01-24 |
@@ -581,6 +581,7 @@
 | [Sending My Love](https://open.spotify.com/track/5ZHq73J3NHot1exl52pbjn) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Sending My Love \(Special Edition\)](https://open.spotify.com/album/6MDvzZhuNVjD6uFx0ZlLSM) | 7:42 | 2021-12-17 | 2022-01-06 |
 | [senzu bean](https://open.spotify.com/track/38LWEwtb13IoWz9y6PjA1s) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F), [apltn](https://open.spotify.com/artist/1E2aNJTN7iOuPRJJIoOwbr), [Makzo](https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96) | [senzu bean](https://open.spotify.com/album/6rl7d5hw2SGHbixnlEYdlF) | 3:31 | 2022-07-28 | 2022-08-06 |
 | [Set It Free \[Feat\. Richie\]](https://open.spotify.com/track/6NV7Oyl0h2FzLvDC2IrVM4) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie](https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa) | [Set It Free \[Feat\. Richie\]](https://open.spotify.com/album/4cHbKnuwv6Y9EmEWvefqgY) | 4:05 | 2024-08-15 | 2025-12-12 |
+| [Set Me Free](https://open.spotify.com/track/1DQsGVDlFvJHcUyeCfc2DZ) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Set Me Free](https://open.spotify.com/album/64xz5R9yEJV1yziSyN4OH5) | 4:16 | 2026-04-02 |  |
 | [Shabz Needs Sun](https://open.spotify.com/track/3TkvUZym10rDvTYrdPiKPb) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Further Out Than The Edge](https://open.spotify.com/album/0TXtct98UTyC054dJbCUJ2) | 1:45 | 2023-06-01 | 2023-06-09 |
 | [Shades of You](https://open.spotify.com/track/2OtnmFipsJgxUPkwnMP11I) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Shades of You](https://open.spotify.com/album/7jLNLqOG6x7G8lyAEgtOFC) | 4:20 | 2021-12-17 | 2022-02-15 |
 | [Shake It](https://open.spotify.com/track/0uTmLBjVtYkSCfmg8jkbHy) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [Shake It](https://open.spotify.com/album/6rIm6bKMkWASdVVSQHD4kq) | 1:51 | 2025-01-17 | 2025-02-28 |

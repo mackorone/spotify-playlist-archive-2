@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,050 songs - 5 day 1 hr 40 min
+2,051 songs - 5 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1352,6 +1352,7 @@
 | [PEÓN](https://open.spotify.com/track/2TKpXnTuIxyWwnGBDaEYmy) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [PEÓN](https://open.spotify.com/album/4kCRGa0XErch7GzjcgCc8q) | 4:07 | 2025-11-13 |  |
 | [PhonkFather](https://open.spotify.com/track/0Nirkqm0gZNueU1VmnZLUO) | [Yagharock](https://open.spotify.com/artist/3n3mQVD5YJmRUavyjIwStb) | [PhonkFather](https://open.spotify.com/album/3p64WAi3an4Vf36qPbsj7Z) | 2:31 | 2025-11-05 |  |
 | [Picturesque](https://open.spotify.com/track/4idYpAc52sDGN48auh8GIz) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Picturesque](https://open.spotify.com/album/4mTZKZ8Ka3JJCCIY3ZHO04) | 4:00 | 2026-04-03 |  |
+| [Pijane Zombie](https://open.spotify.com/track/0clPKNLv6oNHZcD1D7fZdO) | [PIWO COMPANY](https://open.spotify.com/artist/1RRpA28CRVATyesqmDj8Pz) | [Pijane Zombie](https://open.spotify.com/album/42sdo9NngvHMJCigtLGXFS) | 2:06 | 2026-04-06 |  |
 | [Pikachu's Goodbye](https://open.spotify.com/track/1vXOrsDaOpLcaj2XpqQTwa) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Pikachu's Goodbye](https://open.spotify.com/album/5SwKUBQ2XELNFvKKVVoasY) | 2:13 | 2025-08-01 |  |
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2025-05-28 |  |
 | [Pink Rain \(Re:make\)](https://open.spotify.com/track/7ruc9npO8S8bsl1VJA3Gjj) | [Turbo.Shihtzu](https://open.spotify.com/artist/64FbqwHzilmYc7JTt1MauK) | [Pink Rain \(Re:make\)](https://open.spotify.com/album/7vn0X5D6BCutk8KC4CSoLK) | 2:26 | 2025-11-17 |  |

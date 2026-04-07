@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,047 songs - 4 day 16 hr 9 min
+2,048 songs - 4 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1226,7 +1226,7 @@
 | [My Universe \- SUGA's Remix](https://open.spotify.com/track/6BeOJPXMstvXolxKbL09kR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [My Universe \(SUGA's Remix\)](https://open.spotify.com/album/3oWWeH4gpNsJG0KyGaBoEd) | 3:08 | 2021-10-21 | 2021-10-24 |
 | [My Universe \- Supernova 7 Mix](https://open.spotify.com/track/6Lgbf4b6c9fwz24eFEWONX) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG) | 4:39 | 2021-09-29 | 2021-09-30 |
 | [MY WAY \(Prod\. R.Tee\)](https://open.spotify.com/track/3XfngyuVjltVRHSsLjrCRO) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [SHOW ME THE MONEY 11 Episode 1](https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy) | 6:17 | 2022-12-04 | 2023-02-07 |
-| [My whole world](https://open.spotify.com/track/55pCe0UgAeaeWKKSQqdiWh) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Absence](https://open.spotify.com/album/6Slya5Y7lRGY9G5DhSLqo3) | 3:25 | 2026-01-15 |  |
+| [My whole world](https://open.spotify.com/track/55pCe0UgAeaeWKKSQqdiWh) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Absence](https://open.spotify.com/album/6Slya5Y7lRGY9G5DhSLqo3) | 3:25 | 2026-01-15 | 2026-04-07 |
 | [My World](https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 1:47 | 2024-03-27 | 2024-04-12 |
 | [My You](https://open.spotify.com/track/0pNFrM5L0te1EXGxveeYiR) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [My You](https://open.spotify.com/album/2JtVLn2oCVjOik77fh75uU) | 2:45 | 2023-07-04 | 2023-10-02 |
 | [My Youth](https://open.spotify.com/track/3vG5ilGpaYA2MhVtyTORF1) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:56 | 2021-05-12 | 2021-05-22 |
@@ -1290,6 +1290,7 @@
 | [Nothing \(Feat\. Hwa Sa & MINO\) \(Prod\. GRAY\)](https://open.spotify.com/track/0cq9psWsFf2UKiYhbrbKwW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Show Me The Money 10 Final](https://open.spotify.com/album/34uVbKk2EOXlPMAeBo3Qio) | 3:47 | 2021-12-07 | 2021-12-08 |
 | [Nothing Hurts](https://open.spotify.com/track/6O1wh1RjqcdXLFpJ3ckUNN) | [End of Code](https://open.spotify.com/artist/2de2ccS1UK6mfdt5nz6fqA), [deerose](https://open.spotify.com/artist/2rEhAnL9VNrfzD3IeFFbC7) | [Nothing Hurts](https://open.spotify.com/album/04fwTLg32S28LgKzTVPoag) | 3:48 | 2023-03-03 | 2023-03-05 |
 | [Nothing Without Your Love](https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:56 | 2025-05-17 | 2025-11-20 |
+| [NOW IM YOUNG \(Prod\. by Hukky Shibaseki\)](https://open.spotify.com/track/6tTz1LRQ89JkBdD9iUBPO9) | [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [Show Me The Money 12 Final](https://open.spotify.com/album/0ggz2ubI65Fw9c9tIi27xP) | 3:34 | 2026-04-06 |  |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-04-04 | 2022-04-07 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-23 | 2024-12-08 |
 | [number one girl](https://open.spotify.com/track/0hDo3EPwvhCSggmqkVvJPX) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/34Q2W5StgW4WC6HhbsNWnv) | 3:36 | 2025-01-03 | 2025-01-05 |

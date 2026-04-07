@@ -2517,6 +2517,36 @@
     },
     {
       "album": {
+        "name": "INDRA (From \"Once More\")",
+        "url": "https://open.spotify.com/album/1QZjISTToAH8wUvnCNBGNj"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        },
+        {
+          "name": "Vignesh Srikanth",
+          "url": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
+        },
+        {
+          "name": "Arun Alat",
+          "url": "https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "INDRA - From \"Once More\"",
+      "url": "https://open.spotify.com/track/1C2WwxYjx6kEXzebEDHQFd"
+    },
+    {
+      "album": {
         "name": "Prince (Tamil)",
         "url": "https://open.spotify.com/album/2h2DzwCFBXkd121doiTZEp"
       },
@@ -7354,7 +7384,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 235499,
       "name": "Thangapoovey",
       "url": "https://open.spotify.com/track/4YuK8in0FTkqZCDPCOjVa5"

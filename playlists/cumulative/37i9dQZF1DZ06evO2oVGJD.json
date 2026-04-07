@@ -644,10 +644,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 193893,
       "name": "Llora el amor",
       "url": "https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9"
+    },
+    {
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/3uSB9zgGSH2psDjAtjfn3G"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254600,
+      "name": "Lo Que So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/0fKGjHmi46AbGezCzmQ7q8"
     },
     {
       "album": {

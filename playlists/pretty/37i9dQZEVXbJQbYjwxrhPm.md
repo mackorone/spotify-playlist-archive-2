@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,556 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Мисли му](https://open.spotify.com/track/2Exu33bEQ8U2ZSCwLXJ2I5) | [Kiara](https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z), [Monkey](https://open.spotify.com/artist/5wpjYEcmW8zMVbiiFidaGO) | [Мисли му](https://open.spotify.com/album/6oZYnvPvShjq45MQ5bnN5e) | 2:55 |
 | 50 | [Добро момче](https://open.spotify.com/track/1KpfzzQNYJ56vqhOXk0SEt) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [Добро момче](https://open.spotify.com/album/4g0MxR8h6gHyyJeNB3AuJ5) | 3:18 |
 
-Snapshot ID: `MWXLcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MWcamAAAAAAAAAAAAAAAAAAAAAAAAGVu`

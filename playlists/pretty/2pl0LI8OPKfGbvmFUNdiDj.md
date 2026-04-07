@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 699 likes - 80 songs - 4 hr 31 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 700 likes - 81 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 78 | [Apparently Dead](https://open.spotify.com/track/7KU3oqTPIO1vH8Dm3qT9NO) | [Dead Horse Riding](https://open.spotify.com/artist/7wqNTaQeGwXNjejl4XLokL) | [Phoenix \- Breaking the Cycle](https://open.spotify.com/album/25fUK2kTg4PxRZndSf57ns) | 4:22 |
 | 79 | [40](https://open.spotify.com/track/0efLMYEhoCsvPEjMTug7cY) | [The Katawicks](https://open.spotify.com/artist/3hqty8aRn2EImLsrckK6mk) | [For The Seasons](https://open.spotify.com/album/7dDWirfVw0eWCOovuiREaa) | 3:10 |
 | 80 | [Make Believe](https://open.spotify.com/track/0qHxVLpEfjoFWlwwb1jPT2) | [Penelope](https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN) | [Make Believe](https://open.spotify.com/album/6GM16JmN7ixpHYzoMOZ0XU) | 3:56 |
+| 81 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 |
 
-Snapshot ID: `AAADWg1VyrKdp9a+8OH++cV2YM6CWelC`
+Snapshot ID: `AAADW5YBjWJNKRJ47gZoJas/dt22CbWr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Karen Espinosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,556 likes - 70 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,627 likes - 70 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 69 | [Mi Rey Siempre Serás](https://open.spotify.com/track/0dGwd2FdpxJ7VC45WW7VNf) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Mi Rey Siempre Serás](https://open.spotify.com/album/6lPMJC8PrwcLPbg08MHe8l) | 4:13 |
 | 70 | [Aleluya](https://open.spotify.com/track/1agjkTBQgDd6vaeTfyTrlt) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Aleluya](https://open.spotify.com/album/5PuoatqTRVmlNHqvdGrU27) | 4:55 |
 
-Snapshot ID: `AAAAACxtUY0twPAGHPZva0WZRJm2+78x`
+Snapshot ID: `AAAAAAbHY7eZLjT+FyexKpQhh544OugW`

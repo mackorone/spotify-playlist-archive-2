@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-206 songs - 9 hr 45 min
+207 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Storms a Brewing](https://open.spotify.com/track/0VElp1F9YurCuIl6NhqZc5) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Storms a Brewing](https://open.spotify.com/album/0usFjvNIwzOiI56FDysgNj) | 3:23 | 2022-10-28 |  |
 | [Storms Out](https://open.spotify.com/track/3eRC23AjDFRiojUhdbrkDM) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [Storms Out](https://open.spotify.com/album/6uhoM1qN6x8zjn234fwA9c) | 2:54 | 2023-02-13 |  |
 | [Stormy Evening](https://open.spotify.com/track/5inqtzm0t2SrR6uMwWXUJp) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Stormy Evening](https://open.spotify.com/album/59GkRU0YKPMQTpMMS7SkQk) | 3:28 | 2022-10-28 |  |
-| [Stormy Harbor In The Evening](https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Stormy Harbor In The Evening](https://open.spotify.com/album/3DNTEoZRh0Uc08pFo1BNml) | 2:50 | 2022-10-28 |  |
+| [Stormy Harbor In The Evening](https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU) | [The Sound Dome](https://open.spotify.com/artist/4EPb7Ovgubn4doMzl1kdDD) | [Stormy Harbor In The Evening](https://open.spotify.com/album/3DNTEoZRh0Uc08pFo1BNml) | 2:50 | 2022-10-28 | 2026-04-07 |
 | [Stormy Nap](https://open.spotify.com/track/7ocQfDMNB4SkHMETPIlZ8C) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Mountain Nap](https://open.spotify.com/album/1EvbTiOvW6mCaEEV8NOxzq) | 2:35 | 2023-09-20 |  |
 | [Stormy Nights](https://open.spotify.com/track/0m2TR5Z8tZxhBT00aNE3iU) | [Chō](https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT) | [Tumbling Sky](https://open.spotify.com/album/6CFrtb4oaSVy7o2k8R9la9) | 3:28 | 2022-10-28 |  |
 | [Sturm am Abend](https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Sturm am Abend](https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl) | 2:21 | 2022-11-15 |  |
@@ -167,6 +167,7 @@
 | [Thunder and Rain Sounds for Sleep](https://open.spotify.com/track/1IPWimN1vmECIFzZbhzuSk) | [Pure Relaxing Vibes](https://open.spotify.com/artist/4XdPbkEAdTU7KDmfOCIakS) | [Thunderstorm Sounds for Sleep](https://open.spotify.com/album/4yeyKUHbsCyfW4sLM8zFlV) | 8:19 | 2022-10-28 | 2023-01-06 |
 | [Thunder and Roses](https://open.spotify.com/track/5lWm9HCGQFmPA0kgCPfYAY) | [Trueno Tropical](https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW) | [Lightning in the Twilight](https://open.spotify.com/album/061t0ST7V9KjdQayPS1dvJ) | 2:22 | 2023-09-20 | 2026-04-02 |
 | [Thunder Around The Clock](https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Century Storm](https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ) | 2:20 | 2022-10-28 |  |
+| [Thunder Behind Clouds](https://open.spotify.com/track/4NLJH7fvTbkcxGEu8a4d9G) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [Thunder Behind Clouds](https://open.spotify.com/album/5olUVSHTLrCYCCU503DF2g) | 2:38 | 2026-04-01 |  |
 | [Thunder Bloom](https://open.spotify.com/track/3fXFYWhqRLFEnKFnJQtqwe) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Thunder Bloom](https://open.spotify.com/album/3jVtRRrHawnoAXyAkcs2jn) | 2:22 | 2026-04-01 |  |
 | [Thunder From The Patio](https://open.spotify.com/track/01gNkIQ1DRW42K1LX8Y3ZZ) | [Kuling](https://open.spotify.com/artist/4q17IksiUGgRMQAkVRmbhH) | [Thunder from the patio](https://open.spotify.com/album/66ePsaO4Ssm1oQmgTk7cDr) | 2:47 | 2023-09-20 | 2024-12-30 |
 | [Thunder in my Head](https://open.spotify.com/track/4HSAqiUMTApKA1fcfkUitG) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Lightning in the Afternoon](https://open.spotify.com/album/0Mu1JfxyBPhMs5o4c1wTKa) | 2:56 | 2023-09-20 | 2026-04-05 |

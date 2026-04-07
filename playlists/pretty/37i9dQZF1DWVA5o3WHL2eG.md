@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL 💚 Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,471 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,470 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 11 | [Heut’ ist alles gut](https://open.spotify.com/track/3xPhShnOlTGHs6goFy0JYl) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Freigeistin](https://open.spotify.com/album/45jR67OkTrxfc2k0dQE5vs) | 3:09 |
 | 12 | [Ich mag dich](https://open.spotify.com/track/1SonFPlV5a1ls2pyKyUgLy) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Von der Schönheit und Zerbrechlichkeit der Dinge](https://open.spotify.com/album/01umZXLO7VcQkBUBCXLS5O) | 2:09 |
 | 13 | [99 Probleme](https://open.spotify.com/track/5kzcodJVFIui6nCRAfKw3O) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:33 |
-| 14 | [Suvi](https://open.spotify.com/track/5EwMoEspweyiYHBpOrPTml) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:11 |
-| 15 | [Aftermath](https://open.spotify.com/track/4qOGGLSAQau7XwhXBrFOdA) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 3:31 |
+| 14 | [Aftermath](https://open.spotify.com/track/4qOGGLSAQau7XwhXBrFOdA) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 3:31 |
+| 15 | [Suvi](https://open.spotify.com/track/5EwMoEspweyiYHBpOrPTml) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:11 |
 | 16 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
 | 17 | [denkst du an mich?](https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [denkst du an mich?](https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs) | 3:17 |
 | 18 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 52 | [The Surface](https://open.spotify.com/track/6m1GwaRkBG1ujJcKH9rnic) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Pretender](https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC) | 3:55 |
 | 53 | [Silver Lining](https://open.spotify.com/track/1RbBO8JbJrsxz3g2YTcPtn) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 3:22 |
 | 54 | [How It Looks Like](https://open.spotify.com/track/1aIkIwdJjLo6DhITYYIzck) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [How It Looks Like](https://open.spotify.com/album/3NrrbI4KX0wDf02RAPDfkw) | 4:37 |
-| 55 | [Broken Promises](https://open.spotify.com/track/6Q5E8MoiU2dnDaCEL8Np0E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Ein Schluck](https://open.spotify.com/album/09wYmnTsAyblTmYlbcr0Ck) | 1:51 |
-| 56 | [Ophelia](https://open.spotify.com/track/61Np0MhnQO1B1LZGIxxX0d) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Ophelia](https://open.spotify.com/album/4GdlYdLbHGvNh48GvwqHdr) | 3:13 |
+| 55 | [Ophelia](https://open.spotify.com/track/61Np0MhnQO1B1LZGIxxX0d) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Ophelia](https://open.spotify.com/album/4GdlYdLbHGvNh48GvwqHdr) | 3:13 |
+| 56 | [Broken Promises](https://open.spotify.com/track/6Q5E8MoiU2dnDaCEL8Np0E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Ein Schluck](https://open.spotify.com/album/09wYmnTsAyblTmYlbcr0Ck) | 1:51 |
 | 57 | [Mad](https://open.spotify.com/track/5rG3r8mGTeTlFugpIgMg8E) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 3:22 |
 | 58 | [Just Keep Swimming](https://open.spotify.com/track/5e30L2Uds20ufO2pjaMhQP) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 3:23 |
 | 59 | [TWTC](https://open.spotify.com/track/7baC81sEbLdJkwHDthWr9d) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [TWTC](https://open.spotify.com/album/6Fs9Xeqb26W6hdTktFBku9) | 3:24 |

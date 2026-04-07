@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Altrove",
+        "url": "https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk"
+      },
+      "artists": [
+        {
+          "name": "The Recoveries",
+          "url": "https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204378,
+      "name": "Altrove",
+      "url": "https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4"
+    },
+    {
+      "album": {
         "name": "AMIGOS",
         "url": "https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg"
       },
@@ -2013,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "I stood for u (Girlfriends)",
+        "url": "https://open.spotify.com/album/6nIS7SShPtBYrWeeRltyAF"
+      },
+      "artists": [
+        {
+          "name": "Zombisickle",
+          "url": "https://open.spotify.com/artist/3IrjzOB8AmlZx3mQdhl5By"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101033,
+      "name": "I stood for u (Girlfriends)",
+      "url": "https://open.spotify.com/track/1jH06cHxmyraxNtV9HFoTo"
+    },
+    {
+      "album": {
         "name": "OK UK",
         "url": "https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM"
       },
@@ -2136,6 +2172,24 @@
       "duration_ms": 226832,
       "name": "Idle Stranger",
       "url": "https://open.spotify.com/track/11S6dH5Sklh1cE0UrmvlKl"
+    },
+    {
+      "album": {
+        "name": "If I Go Missin\u2019",
+        "url": "https://open.spotify.com/album/2g0zHOLzQcbsxYw8TlE7XJ"
+      },
+      "artists": [
+        {
+          "name": "Tim & The Glory Boys",
+          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "If I Go Missin\u2019",
+      "url": "https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk"
     },
     {
       "album": {
@@ -4854,6 +4908,28 @@
       "duration_ms": 206357,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/2hfm5hiifBPWSueyh2WqdW"
+    },
+    {
+      "album": {
+        "name": "Zero Hour: Genesis",
+        "url": "https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r"
+      },
+      "artists": [
+        {
+          "name": "Shayan Regan",
+          "url": "https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k"
+        },
+        {
+          "name": "Molly Coleman",
+          "url": "https://open.spotify.com/artist/3zVctuiATB47XZXKAgzPZD"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "You're So Uninviting",
+      "url": "https://open.spotify.com/track/1U6hp7lzgST4lzxRIR1VvW"
     },
     {
       "album": {

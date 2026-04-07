@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,644 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,632 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 26 | [Toivottavasti](https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:43 |
 | 27 | [Turisti \(feat\. Turisti\)](https://open.spotify.com/track/5m28SZu4fl8ncN4EYMphdO) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Turisti \(feat\. Turisti\)](https://open.spotify.com/album/1rTOZHPV73e1ZZgW3oKyB8) | 2:24 |
 | 28 | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 |
-| 29 | [Kuvia mun kännykässä](https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Kuvia mun kännykässä](https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega) | 2:36 |
+| 29 | [Solmui](https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Solmui](https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO) | 3:18 |
 | 30 | [Kirjotettu tähtiin](https://open.spotify.com/track/6JKClwOEbYMZrSJGRACtY2) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Kirjotettu tähtiin](https://open.spotify.com/album/2jnDXAJYyg6170tk9cQ7JT) | 2:38 |
 | 31 | [Veitsi](https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 3:53 |
-| 32 | [Solmui](https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Solmui](https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO) | 3:18 |
-| 33 | [Ajaton \(feat\. Gettomasa\)](https://open.spotify.com/track/4ppjwqlfxPmhJF4wVjSoen) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Ajaton \(feat\. Gettomasa\)](https://open.spotify.com/album/6YkXqmmAC3sGdazSjqOjw6) | 3:07 |
-| 34 | [Toimitusjohtaja](https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Toimitusjohtaja](https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR) | 2:45 |
+| 32 | [Kuvia mun kännykässä](https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Kuvia mun kännykässä](https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega) | 2:36 |
+| 33 | [Toimitusjohtaja](https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Toimitusjohtaja](https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR) | 2:45 |
+| 34 | [Ajaton \(feat\. Gettomasa\)](https://open.spotify.com/track/4ppjwqlfxPmhJF4wVjSoen) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Ajaton \(feat\. Gettomasa\)](https://open.spotify.com/album/6YkXqmmAC3sGdazSjqOjw6) | 3:07 |
 | 35 | [Tom Ford](https://open.spotify.com/track/52gUymoTGCj5xg0YU1kCw3) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Stallion](https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo) | 2:03 |
 | 36 | [iPhone](https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [iPhone](https://open.spotify.com/album/1IfmeepspqRCeBFKFgztAv) | 2:31 |
 | 37 | [Clean Girl](https://open.spotify.com/track/6mj1Yrft5u4JrHufxkyDSN) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Clean Girl](https://open.spotify.com/album/2HT8ykhpVdMIest4Hc232V) | 2:57 |
-| 38 | [Aito freak](https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Aito freak](https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn) | 2:18 |
-| 39 | [Sit Ku Mul On Muija](https://open.spotify.com/track/53dvlTezDKZYO5wewHVi5i) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Sit Ku Mul On Muija](https://open.spotify.com/album/0oi7M2FNYSv21h3CRbxZIl) | 2:16 |
+| 38 | [Sit Ku Mul On Muija](https://open.spotify.com/track/53dvlTezDKZYO5wewHVi5i) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Sit Ku Mul On Muija](https://open.spotify.com/album/0oi7M2FNYSv21h3CRbxZIl) | 2:16 |
+| 39 | [Aito freak](https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Aito freak](https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn) | 2:18 |
 | 40 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
 | 41 | [Costi x OFF THE BOOTH \(Taxin vika\)](https://open.spotify.com/track/5wa57ymHinnOMOUpjLUsWP) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g) | [Costi x OFF THE BOOTH \(Taxin vika\)](https://open.spotify.com/album/05BwBT7kYPLtqNUZ3cUjvD) | 2:02 |
 | 42 | [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 3:16 |

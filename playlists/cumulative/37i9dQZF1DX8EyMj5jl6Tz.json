@@ -3216,6 +3216,28 @@
     {
       "album": {
         "name": "She's So High",
+        "url": "https://open.spotify.com/album/6esSnrPeEQeP5HgTRPGhHm"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "Kurt Nilsen",
+          "url": "https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194508,
+      "name": "She's So High",
+      "url": "https://open.spotify.com/track/21aXVNwepOr7x59ZrVZWF6"
+    },
+    {
+      "album": {
+        "name": "She's So High",
         "url": "https://open.spotify.com/album/2vvwV68rLyMgQV2A5rRYO7"
       },
       "artists": [
@@ -4246,7 +4268,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 124503,
       "name": "What a Feeling",
       "url": "https://open.spotify.com/track/70XWsVl57X9SDJeyW96Fa3"

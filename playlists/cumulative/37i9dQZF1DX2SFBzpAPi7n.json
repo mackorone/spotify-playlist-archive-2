@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: EL CAPITXN & TAEHYUN & Jeremy Zucker) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \ud558\ud604\uc0c1) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -12721,6 +12721,24 @@
     },
     {
       "album": {
+        "name": "New Boat",
+        "url": "https://open.spotify.com/album/6CMmaYAGGTQDGWojsSmC1c"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164263,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/43IC6Wrjbq84VWE0pHjmu9"
+    },
+    {
+      "album": {
         "name": "OffCourse",
         "url": "https://open.spotify.com/album/10oASQp25ZGiM1Ad1V1oxU"
       },
@@ -14964,7 +14982,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 185000,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
@@ -17558,7 +17576,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 223026,
       "name": "The 6th Summer",
       "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
@@ -17706,7 +17724,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 268533,
       "name": "The Closing",
       "url": "https://open.spotify.com/track/79gSOQWHxGXVBIhjAhICRR"
@@ -19196,7 +19214,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 199000,
       "name": "WATER (Feat. Car, the garden)",
       "url": "https://open.spotify.com/track/4JgId66CQQw0YnoeMEVvd8"
@@ -19837,6 +19855,24 @@
     },
     {
       "album": {
+        "name": "Whoever, Someone",
+        "url": "https://open.spotify.com/album/5IRjFw7dlHzDgdF5YJmZlx"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243253,
+      "name": "Whoever, Someone",
+      "url": "https://open.spotify.com/track/2i6xxAfoNGjg1wD4maNStS"
+    },
+    {
+      "album": {
         "name": "Why You Worry About Me ?",
         "url": "https://open.spotify.com/album/2m4lmQ1qIZSspi9kfqjAhH"
       },
@@ -20324,7 +20360,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 215200,
       "name": "X room",
       "url": "https://open.spotify.com/track/6lg0Vl8S3carzXwhAB7fvy"
@@ -21098,6 +21134,24 @@
       "duration_ms": 225640,
       "name": "\ub0b4 \uc778\uc0dd\uc740 \uc601\ud654\uac00 \uc544\ub2c8\ub2c8\uae50 Even if it's not a movie",
       "url": "https://open.spotify.com/track/3iNKeoWEHeOiggDyDUoQ1Z"
+    },
+    {
+      "album": {
+        "name": "\ub0b4\uac00 \uc8fd\uc73c\ub824\uace0 \uc0dd\uac01\ud55c \uac83\uc740 \u50d5\u307c\u304f\u304c\u6b7b\u3057\u306e\u3046\u3068\u601d\u304a\u3082\u3063\u305f\u306e\u306f (The Reason Why I Thought I'd Die)",
+        "url": "https://open.spotify.com/album/7yp8qU7xrdgRSMAYTU27RA"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290690,
+      "name": "\ub0b4\uac00 \uc8fd\uc73c\ub824\uace0 \uc0dd\uac01\ud55c \uac83\uc740 \u50d5\u307c\u304f\u304c\u6b7b\u3057\u306e\u3046\u3068\u601d\u304a\u3082\u3063\u305f\u306e\u306f (The Reason Why I Thought I'd Die)",
+      "url": "https://open.spotify.com/track/2OBptPww39taCRvg856hiU"
     },
     {
       "album": {

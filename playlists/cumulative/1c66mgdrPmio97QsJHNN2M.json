@@ -442,7 +442,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 182640,
       "name": "A Star With A Delay",
       "url": "https://open.spotify.com/track/1smVM2K8E8N5F6x5LNUM19"
@@ -5028,7 +5028,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 179734,
       "name": "Cosmic Rays",
       "url": "https://open.spotify.com/track/5q65o7RTiq8KG13jt4HdFm"
@@ -6652,7 +6652,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 209879,
       "name": "Dopamine Addicted",
       "url": "https://open.spotify.com/track/3P3eD5b4zI83oUmyWa0AlJ"
@@ -8564,6 +8564,32 @@
       "duration_ms": 199999,
       "name": "Fetter of Your Love",
       "url": "https://open.spotify.com/track/0CjwhqMpFVv30bhoKk5VEh"
+    },
+    {
+      "album": {
+        "name": "Once in a Blue Moon",
+        "url": "https://open.spotify.com/album/7u1fHSpSzM1emTpd2xgZ7E"
+      },
+      "artists": [
+        {
+          "name": "Bluehomie",
+          "url": "https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd"
+        },
+        {
+          "name": "JC Lowko",
+          "url": "https://open.spotify.com/artist/2t1ivpXFQ0uODF12SLUHIi"
+        },
+        {
+          "name": "Fabio Rubato",
+          "url": "https://open.spotify.com/artist/67aPZuRn0HMlgLwcsokP50"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210643,
+      "name": "Fighting Hard",
+      "url": "https://open.spotify.com/track/2kQVEXi0ElGXb3t0kgfeks"
     },
     {
       "album": {
@@ -14458,7 +14484,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 247240,
       "name": "Liquid Gold",
       "url": "https://open.spotify.com/track/1b3ggeReilmsmMfgDvW6WE"
@@ -15432,7 +15458,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 389689,
       "name": "Madiba",
       "url": "https://open.spotify.com/track/2ixcgPjdkBg7CZ91YTWKU7"
@@ -16100,7 +16126,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 255919,
       "name": "Merit Ankh",
       "url": "https://open.spotify.com/track/5iJDiLQ9O9qzNdQ5epqpwO"
@@ -16638,6 +16664,24 @@
       "duration_ms": 189000,
       "name": "Mr. Nice Guy",
       "url": "https://open.spotify.com/track/0OfaWsktWmqpPh1UNrdPxt"
+    },
+    {
+      "album": {
+        "name": "My Friend, Mr Brain",
+        "url": "https://open.spotify.com/album/6FHNa2euG2AZcFWivHofiY"
+      },
+      "artists": [
+        {
+          "name": "Marlon Percy",
+          "url": "https://open.spotify.com/artist/1BubhUFJssKMpZ5WcSyyJ1"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Much Better",
+      "url": "https://open.spotify.com/track/1KlCxJVvsNeD8RJY2AoAkh"
     },
     {
       "album": {
@@ -17384,6 +17428,24 @@
       "duration_ms": 243790,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/0LqHCm6M4O5GcJ1MJRAB7d"
+    },
+    {
+      "album": {
+        "name": "Nice To Know You, Nice To Meet You",
+        "url": "https://open.spotify.com/album/6ydXTI95OvSmeAD1nZfhGL"
+      },
+      "artists": [
+        {
+          "name": "Sod@",
+          "url": "https://open.spotify.com/artist/0vVZ5XrEpdy1xOIxp4ljAy"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178840,
+      "name": "Nice To Know You, Nice To Meet You",
+      "url": "https://open.spotify.com/track/0shwZYC7GD08s3PQxgYLNA"
     },
     {
       "album": {
@@ -20017,6 +20079,24 @@
     },
     {
       "album": {
+        "name": "QPC",
+        "url": "https://open.spotify.com/album/58iVkHkv3HEJKeoK5RBBmD"
+      },
+      "artists": [
+        {
+          "name": "Kirb0",
+          "url": "https://open.spotify.com/artist/37TuIFMXcGmxd4298IvFAW"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111201,
+      "name": "QPC",
+      "url": "https://open.spotify.com/track/2UzgQ2qJ4U8LHVykxJm40U"
+    },
+    {
+      "album": {
         "name": "Quando l\u2019ansia lascer\u00e0 la stanza",
         "url": "https://open.spotify.com/album/0ZL8gu1LiIWGnDUbCc88zf"
       },
@@ -20248,7 +20328,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 170202,
       "name": "Rainbows",
       "url": "https://open.spotify.com/track/1w1ZzCE6OP9MpYArYQSKK4"
@@ -21726,7 +21806,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 186199,
       "name": "Seja Franca alameda",
       "url": "https://open.spotify.com/track/0hY3X8M8yLuBEQblbRu0Ls"
@@ -23524,7 +23604,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 232999,
       "name": "Storm in my soul",
       "url": "https://open.spotify.com/track/1hQNPcMWG3iuolRyf9IKMG"
@@ -24942,7 +25022,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 201155,
       "name": "The Memory of You",
       "url": "https://open.spotify.com/track/0jtlImtIZzrws95iJ78n2s"
@@ -27236,7 +27316,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 223189,
       "name": "Waiting for June",
       "url": "https://open.spotify.com/track/5nT7ddPojfIRkO0f42MfZD"
@@ -29112,7 +29192,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 180000,
       "name": "YOU JUST WANTED TO BE FRIENDS",
       "url": "https://open.spotify.com/track/5bv3tRrvANWteIL6gWmtym"

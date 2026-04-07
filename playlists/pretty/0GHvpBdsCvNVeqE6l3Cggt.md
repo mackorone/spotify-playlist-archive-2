@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 46 songs - 2 hr 53 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 47 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 44 | [Game On](https://open.spotify.com/track/2aWcot6GOxqs1heiljf4Ca) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Game On](https://open.spotify.com/album/3B3LMDVoV0Mf19fGqNcicH) | 2:26 |
 | 45 | [People's Game \- Riky Dainesi Remix](https://open.spotify.com/track/3cM78eVwhptGKn4fZYJzaC) | [B3NNY R](https://open.spotify.com/artist/746FzmylKASljW5r63AKkP), [Riky Dainesi](https://open.spotify.com/artist/0PaqLD8MGoPEYcdJL0sB0L) | [People's Game \(Riky Dainesi Remix\)](https://open.spotify.com/album/7eb9XnMUrBLmj4qJETUJhu) | 3:15 |
 | 46 | [Not There](https://open.spotify.com/track/5qu1ZbZglE1eEpketsdNCL) | [blanket season](https://open.spotify.com/artist/6MkM0uop587AXtnDFsQJMC) | [Not There](https://open.spotify.com/album/2OpqAFx1fBVA2Ap2SBoXkR) | 3:04 |
+| 47 | [Something Better](https://open.spotify.com/track/0mtt3La0vOFO0jjUBzDyDe) | [Buffy](https://open.spotify.com/artist/2cduAtZPJsBg9LGGbS2Ktp) | [Something Better](https://open.spotify.com/album/2bGyHyfbRmdiEazFAZgdyu) | 4:28 |
 
-Snapshot ID: `AAAkIaiTsFIYGRVQQZKwe4+pUESB8Ax2`
+Snapshot ID: `AAAkImhtSjtmZN23gHaSN+gvfwEwDqGL`

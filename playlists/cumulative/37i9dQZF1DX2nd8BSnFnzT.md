@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Detonautas
 
-608 songs - 1 day 10 hr 0 min
+609 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Até Logo](https://open.spotify.com/track/7x4TWQ3JjclapCLi6pWoK8) | [Skarno](https://open.spotify.com/artist/0S5CzwLcxLkVECtBom3VUt) | [Até Logo](https://open.spotify.com/album/2epcjn2UFpoOEXqUXvGJjl) | 3:35 | 2023-07-21 | 2024-04-13 |
 | [Até o Fim](https://open.spotify.com/track/7AAuFdDAEhvCXmmebu9mDQ) | [Romulo Carvalho](https://open.spotify.com/artist/2XdI20Vo2AXhYWhBskPGUM) | [Até o Fim](https://open.spotify.com/album/3S02qnCrBAmmF7dv6AQH9l) | 2:47 | 2022-01-14 | 2022-01-22 |
 | [Auto Falantes \- Ao Vivo](https://open.spotify.com/track/0r0kIpCJheafVzsKvVCEDo) | [Zander](https://open.spotify.com/artist/2U9BIqZBwHMRy5KspZpzt9) | [Zander no Estúdio Showlivre \- Brasa 10 Anos \(Ao Vivo\)](https://open.spotify.com/album/46SELteZDVec8Mi1227PBm) | 3:01 | 2022-10-14 | 2023-05-27 |
+| [Autodefesa](https://open.spotify.com/track/2avUPgMfgnPOj54zsIrrOK) | [Pense](https://open.spotify.com/artist/5u7Nm1nRMAHWrzoVmCP7fo), [Zander](https://open.spotify.com/artist/2U9BIqZBwHMRy5KspZpzt9) | [Autodefesa](https://open.spotify.com/album/4WqbzM2Cm4IWAhVMYv4kMy) | 3:31 | 2026-04-06 |  |
 | [Avenida Maruípe](https://open.spotify.com/track/5oV6CZy572puAUE31ic6cI) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Labirinto da Memória](https://open.spotify.com/album/3ojbSAA93Lx3Qdluf14is5) | 3:46 | 2024-01-12 | 2024-03-23 |
 | [Baby Doll](https://open.spotify.com/track/7qt6r6TLB2UXT5T8yx0lcQ) | [EMERSSON RAMONE](https://open.spotify.com/artist/2A1JVXoWmLbwZektToFz5V) | [Baby Doll](https://open.spotify.com/album/0FbgpvCJvyBdUWfqVHI4Xf) | 2:48 | 2022-01-14 | 2022-01-22 |
 | [Bate Panela](https://open.spotify.com/track/13OJMd3V0nnIbm3R3fTpUd) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin), [Marcão Baixada](https://open.spotify.com/artist/02Xp0I7fq1yPQa9980WCYJ) | [Bate Panela](https://open.spotify.com/album/69Nz7QQzQDs1crUYiXMsAs) | 3:00 | 2022-11-11 | 2023-01-21 |
@@ -337,7 +338,7 @@
 | [N Era Amor \- Ao Vivo](https://open.spotify.com/track/31JMvaH6IbiOnS4CDq8f9l) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [N Era Amor \(Ao Vivo\)](https://open.spotify.com/album/0C2l6dhX4Pk0pTjviqso4W) | 3:20 | 2025-02-14 | 2025-03-08 |
 | [Na Contramão](https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Tempo](https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL) | 3:17 | 2024-11-22 | 2025-04-12 |
 | [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 | 2023-05-06 |
-| [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/track/0iiytYOHwIudzWXgFg3NrM) | [BAD LUV](https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/album/3nX2Z3jKKDkdqy2qlFge4F) | 3:27 | 2025-07-04 |  |
+| [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/track/0iiytYOHwIudzWXgFg3NrM) | [BAD LUV](https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [NA NOITE PASSADA EU NÃO DORMI](https://open.spotify.com/album/3nX2Z3jKKDkdqy2qlFge4F) | 3:27 | 2025-07-04 | 2026-04-07 |
 | [Nada de nós dois](https://open.spotify.com/track/4Qaj8bQDsIUe621dwvh4K9) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Nada de nós dois](https://open.spotify.com/album/3TvHK5dU5TQ7iywXf9EmHW) | 3:21 | 2024-05-03 | 2024-10-12 |
 | [Nada Foi em Vão](https://open.spotify.com/track/4DKHR64lIMtbQXyjMghfHJ) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Nada Foi em Vão](https://open.spotify.com/album/0tFj3DD5NdoUfp5Y4T2d8A) | 3:01 | 2025-07-25 | 2025-10-18 |
 | [Nada Igual](https://open.spotify.com/track/2owCS5OAuswj40Xyh4vOvx) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Nada Igual](https://open.spotify.com/album/0KdEgS8WCnNqByArEtyxVR) | 2:41 | 2025-02-21 | 2026-01-31 |

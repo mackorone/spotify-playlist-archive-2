@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: Jduck\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,273 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,274 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 20 | [น่ารักเกินกฏหมายกำหนด](https://open.spotify.com/track/50NUvhWIm12zI81GLjboWo) | [Baramee](https://open.spotify.com/artist/09hKKwE42dwRfbWcbz0OH4) | [น่ารักเกินกฏหมายกำหนด](https://open.spotify.com/album/2gnmLixPZNUNl2nkRr7mNX) | 3:41 |
 | 21 | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r) | [Rocket Mellow](https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW) | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD) | 4:36 |
 | 22 | [ฝันต่อไม่ไหว](https://open.spotify.com/track/4E2YMgZHYchmYqjvwc8nlE) | [Chiraaaaaaaaa](https://open.spotify.com/artist/1WXD1W2cwKdlFt3RdWNZqL) | [ฝันต่อไม่ไหว](https://open.spotify.com/album/4oORbkvGNGvqmV72ganEn2) | 3:29 |
-| 23 | [ดอกไม้ในอวกาศ](https://open.spotify.com/track/0vzGIITHJKVGwbBjtrQMgk) | [Panch](https://open.spotify.com/artist/2iDEgAXlK5O2vKMwvO2IMR), [PENGUIN VILLA](https://open.spotify.com/artist/2nO6v6ZnigodGqi7kZfEY6) | [ดอกไม้ในอวกาศ](https://open.spotify.com/album/4WzbhAB3tUKYzijkOw12Db) | 3:57 |
-| 24 | [จากกันไม่เสียใจ \(Anhedonia\)](https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0) | [SWANOVFIELD](https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc) | [จากกันไม่เสียใจ \(Anhedonia\)](https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb) | 3:56 |
+| 23 | [จากกันไม่เสียใจ \(Anhedonia\)](https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0) | [SWANOVFIELD](https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc) | [จากกันไม่เสียใจ \(Anhedonia\)](https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb) | 3:56 |
+| 24 | [ดอกไม้ในอวกาศ](https://open.spotify.com/track/0vzGIITHJKVGwbBjtrQMgk) | [Panch](https://open.spotify.com/artist/2iDEgAXlK5O2vKMwvO2IMR), [PENGUIN VILLA](https://open.spotify.com/artist/2nO6v6ZnigodGqi7kZfEY6) | [ดอกไม้ในอวกาศ](https://open.spotify.com/album/4WzbhAB3tUKYzijkOw12Db) | 3:57 |
 | 25 | [ถ้าเธอรักเขา \(Pls.Out\)](https://open.spotify.com/track/76mAxCVZZLW3ruv7lDpdM6) | [Fah Naritsa](https://open.spotify.com/artist/3McyFK0pD7IHHLLlk2O20J) | [ถ้าเธอรักเขา \(Pls.Out\)](https://open.spotify.com/album/55eAwsSu6G1XWxp3A4ifDR) | 4:34 |
 | 26 | [เด็กกว่าแล้วไง\(เป็นแฟนเธอได้แล้วกัน\)](https://open.spotify.com/track/5Eia4n0TGuIJxxMTEc2YMb) | [EYE Nuttanichar](https://open.spotify.com/artist/0Zz8nyoky80zR9W05adPu1) | [เด็กกว่าแล้วไง\(เป็นแฟนเธอได้แล้วกัน\)](https://open.spotify.com/album/7LwAHr6GsDIcS0U21WfSJV) | 3:09 |
 | 27 | [เปลี่ยนไปแล้ว \- It'S Over](https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB) | [mita.](https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs) | [เปลี่ยนไปแล้ว \(It'S Over\)](https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE) | 4:00 |
 | 28 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |
 | 29 | [เมดูซา](https://open.spotify.com/track/2aY504oSaFaF6ALq5gqfuD) | [PAPERCUP](https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk) | [เมดูซา](https://open.spotify.com/album/02FxppO27bX1sTyyx6eMXB) | 3:01 |
 | 30 | [เรื่องของเรื่อง](https://open.spotify.com/track/6RvUaEjzkMQPD0CPfRnIkQ) | [ossey](https://open.spotify.com/artist/4M0X6x1jVeztDUmhHY9ZhU) | [เรื่องของเรื่อง](https://open.spotify.com/album/3npcOAiTi992g0JDKdHgSi) | 3:37 |
-| 31 | [Stuck in Time](https://open.spotify.com/track/3JQr283KNSYui2HPtkwJYO) | [THREETIME](https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV) | [Stuck in Time](https://open.spotify.com/album/0nUJ88CDBrdmhBxBWWvIrp) | 4:23 |
-| 32 | [กอดไว้ \(It's u\)](https://open.spotify.com/track/6fZeDz2ZzYGxnX5l1zRH14) | [TITI Nichaphat](https://open.spotify.com/artist/5Xj4vMbStZeK3ONLGuug9N) | [กอดไว้ \(It's u\)](https://open.spotify.com/album/28vlKhumNRm5ojQWl0hlJ1) | 3:39 |
+| 31 | [กอดไว้ \(It's u\)](https://open.spotify.com/track/6fZeDz2ZzYGxnX5l1zRH14) | [TITI Nichaphat](https://open.spotify.com/artist/5Xj4vMbStZeK3ONLGuug9N) | [กอดไว้ \(It's u\)](https://open.spotify.com/album/28vlKhumNRm5ojQWl0hlJ1) | 3:39 |
+| 32 | [Stuck in Time](https://open.spotify.com/track/3JQr283KNSYui2HPtkwJYO) | [THREETIME](https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV) | [Stuck in Time](https://open.spotify.com/album/0nUJ88CDBrdmhBxBWWvIrp) | 4:23 |
 | 33 | [Hold Tight\*](https://open.spotify.com/track/2hjVnqw95Q1wvI91506gNi) | [GAMMA](https://open.spotify.com/artist/5xLuy6GShq0QRIyV8LPB1U) | [Hold Tight\*](https://open.spotify.com/album/3K9kGK1l4byAzL4MeSIg6G) | 2:34 |
 | 34 | [ทำได้แค่ทน](https://open.spotify.com/track/2gHzSJ1FqYNRJpstisFbdx) | [JDI](https://open.spotify.com/artist/6aTDbF5IiPexZVjvyza8U4) | [ทำได้แค่ทน](https://open.spotify.com/album/2rVVZTZFMqjZC71b6brchN) | 3:16 |
 | 35 | [จะบ้า](https://open.spotify.com/track/4FZBbVQ56pU2eRpizsRH32) | [4our Wheel Dream](https://open.spotify.com/artist/2zUypFaYjz9mELfpU99cYu) | [จะบ้า](https://open.spotify.com/album/7c96QVSqs7pih867RLaYmI) | 4:30 |

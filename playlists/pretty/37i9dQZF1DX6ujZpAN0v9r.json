@@ -1,6 +1,6 @@
 {
-  "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 691724,
+  "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. my bloody valentine on cover",
+  "num_followers": 691800,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/6aQOvoDj701Yw8DB0sghPv"
     },
     {
-      "added_at": "2022-01-11 02:55:53",
-      "album": {
-        "name": "Siamese Dream (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Mayonaise - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0AJTKW9fVFo3rIXbtTVE3T"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "Just For A Day",
@@ -119,6 +103,22 @@
       "duration_ms": 259453,
       "name": "Catch The Breeze",
       "url": "https://open.spotify.com/track/4cz5bBa239LZ0Pt5DrJXYK"
+    },
+    {
+      "added_at": "2022-01-11 02:55:53",
+      "album": {
+        "name": "Siamese Dream (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 348773,
+      "name": "Mayonaise - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0AJTKW9fVFo3rIXbtTVE3T"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/0t4JQeO8qLKzQFcXuTitgk"
     },
     {
-      "added_at": "2022-09-28 23:01:40",
-      "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz"
-      },
-      "artists": [
-        {
-          "name": "Swallow",
-          "url": "https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "Tastes Like Honey",
-      "url": "https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "Souvlaki",
@@ -199,6 +183,22 @@
       "duration_ms": 195573,
       "name": "40 Days",
       "url": "https://open.spotify.com/track/3jQBAyQVJSl9fc6l4tsWWP"
+    },
+    {
+      "added_at": "2022-09-28 23:01:40",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz"
+      },
+      "artists": [
+        {
+          "name": "Swallow",
+          "url": "https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "Tastes Like Honey",
+      "url": "https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/6aC2oJJirBozj0cT6E2g1t"
     },
     {
-      "added_at": "2024-08-19 20:51:16",
-      "album": {
-        "name": "Ozean",
-        "url": "https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM"
-      },
-      "artists": [
-        {
-          "name": "Ozean",
-          "url": "https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "Scenic",
-      "url": "https://open.spotify.com/track/7mneRO01pJtLWlIiSptL9d"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "Just For A Day",
@@ -279,6 +263,22 @@
       "duration_ms": 271960,
       "name": "Ballad Of Sister Sue",
       "url": "https://open.spotify.com/track/1nbZgajaqXmZQG24vl9u5d"
+    },
+    {
+      "added_at": "2024-08-19 20:51:16",
+      "album": {
+        "name": "Ozean",
+        "url": "https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM"
+      },
+      "artists": [
+        {
+          "name": "Ozean",
+          "url": "https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "Scenic",
+      "url": "https://open.spotify.com/track/7mneRO01pJtLWlIiSptL9d"
     },
     {
       "added_at": "2021-06-03 02:39:04",

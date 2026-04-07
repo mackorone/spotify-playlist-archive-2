@@ -11583,7 +11583,7 @@
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 155844,
+      "duration_ms": 155991,
       "name": "Clonazepam",
       "url": "https://open.spotify.com/track/4qggI8I4GdjeAFttyFLf0o"
     },
@@ -32151,6 +32151,24 @@
     },
     {
       "album": {
+        "name": "I'm sky high",
+        "url": "https://open.spotify.com/album/2ZkjDMyvicJva0YScI3rTA"
+      },
+      "artists": [
+        {
+          "name": "Leandro Aguirre",
+          "url": "https://open.spotify.com/artist/2uVhj1bGrGFPgunJ4BdB5I"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231719,
+      "name": "I'm sky high",
+      "url": "https://open.spotify.com/track/5PlMMYdPoZ2gnBYfXz9agR"
+    },
+    {
+      "album": {
         "name": "Miss Age 30",
         "url": "https://open.spotify.com/album/5ullrrxJqNWFZ8SJHyPQjd"
       },
@@ -47282,6 +47300,24 @@
       "duration_ms": 152046,
       "name": "NOTTE INFINITA",
       "url": "https://open.spotify.com/track/5P699JaYayhTtwKo38qokd"
+    },
+    {
+      "album": {
+        "name": "Notte Infinita (Sessione Intima)",
+        "url": "https://open.spotify.com/album/1uouqo2Ym8HXdKNZvMhPeP"
+      },
+      "artists": [
+        {
+          "name": "LEONE PRIMO",
+          "url": "https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Notte Infinita - Sessione Intima",
+      "url": "https://open.spotify.com/track/7eQntmab7QTKvix08fNQhh"
     },
     {
       "album": {
@@ -72708,6 +72744,24 @@
       "duration_ms": 146237,
       "name": "Wasting Your Time",
       "url": "https://open.spotify.com/track/4BbpIubQhDJAWeOA5rxaSf"
+    },
+    {
+      "album": {
+        "name": "Telling Stories EP",
+        "url": "https://open.spotify.com/album/3fZEmp4ghXG1h7z67zVyWm"
+      },
+      "artists": [
+        {
+          "name": "ALLEY the band",
+          "url": "https://open.spotify.com/artist/705pUhNAH2OimLCdheAma2"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220058,
+      "name": "Watching You Leave",
+      "url": "https://open.spotify.com/track/0BMU6qKR64Beln8Zhl4VUe"
     },
     {
       "album": {

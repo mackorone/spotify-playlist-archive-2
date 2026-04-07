@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Brown Brown Noise",
+        "url": "https://open.spotify.com/album/3q7P9BXRKCP81Awwy6USj5"
+      },
+      "artists": [
+        {
+          "name": "Vita Nova",
+          "url": "https://open.spotify.com/artist/73NuuIXGeBU7AyknDXY5A2"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168106,
+      "name": "Brown Brown Noise",
+      "url": "https://open.spotify.com/track/0Y9jvky5xqVxHeS4IhhMiv"
+    },
+    {
+      "album": {
         "name": "Brown Comfort",
         "url": "https://open.spotify.com/album/3E10zcfQkAdmeEpVhkEs3t"
       },
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 226000,
       "name": "Brown Noise Healing",
       "url": "https://open.spotify.com/track/4Rz5XWD97zYlummPDHYgIi"
@@ -3148,7 +3166,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 175488,
       "name": "Deep Brown 220 Hz A Note - Seamless",
       "url": "https://open.spotify.com/track/49pS7WKFP2tdA9ABejYjfs"
@@ -3566,6 +3584,24 @@
       "duration_ms": 164000,
       "name": "Earthbound Escape - Brown Noise",
       "url": "https://open.spotify.com/track/71nMqDrRcA5uvnWchBrga1"
+    },
+    {
+      "album": {
+        "name": "Earthen Brown Noise",
+        "url": "https://open.spotify.com/album/4R3IvczsoEOQPwsAU2T8bA"
+      },
+      "artists": [
+        {
+          "name": "Relaxed Skies",
+          "url": "https://open.spotify.com/artist/7MuuwHQrVsCg68uvZHK35x"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138502,
+      "name": "Earthen Brown Noise",
+      "url": "https://open.spotify.com/track/1dZcp0kDR3eP87mncwvojS"
     },
     {
       "album": {
@@ -5423,6 +5459,24 @@
     },
     {
       "album": {
+        "name": "Tender Hum Brown Noise",
+        "url": "https://open.spotify.com/album/3MqF70RycGilXsK988q3Uo"
+      },
+      "artists": [
+        {
+          "name": "Indra",
+          "url": "https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "Tender Hum Brown Noise",
+      "url": "https://open.spotify.com/track/6v5N2FNnHzm58g2h3TEjHb"
+    },
+    {
+      "album": {
         "name": "Time Collecting Noise",
         "url": "https://open.spotify.com/album/0wZMwQUUIPaaNvH3wqnLCe"
       },
@@ -5434,7 +5488,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 135097,
       "name": "Time Collecting Noise",
       "url": "https://open.spotify.com/track/45CO9xKmt9o9sqfVKXGDy0"

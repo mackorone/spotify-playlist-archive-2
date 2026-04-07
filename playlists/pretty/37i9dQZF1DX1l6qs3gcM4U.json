@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson",
-  "num_followers": 243739,
+  "num_followers": 243766,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2026-04-02 23:00:42",
       "album": {
-        "name": "Vem Relaxar",
-        "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
+        "name": "Vida Linda",
+        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
       },
       "artists": [
         {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 172962,
-      "name": "Vem Relaxar",
-      "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
+      "duration_ms": 175346,
+      "name": "Vida Linda",
+      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
     },
     {
       "added_at": "2026-04-02 23:00:42",
@@ -1119,58 +1123,18 @@
     {
       "added_at": "2026-04-02 23:00:42",
       "album": {
-        "name": "Vida Linda",
-        "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
+        "name": "Vem Relaxar",
+        "url": "https://open.spotify.com/album/4KqwpNCIeLXUIPqwa5QBVd"
       },
       "artists": [
         {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
         }
       ],
-      "duration_ms": 175346,
-      "name": "Vida Linda",
-      "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
-    },
-    {
-      "added_at": "2026-04-02 23:00:42",
-      "album": {
-        "name": "Nha Preta",
-        "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
-      },
-      "artists": [
-        {
-          "name": "Helio Batalha",
-          "url": "https://open.spotify.com/artist/08ukYp96CtGT1te37kfVoz"
-        },
-        {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Nha Preta",
-      "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
-    },
-    {
-      "added_at": "2026-04-02 23:00:42",
-      "album": {
-        "name": "Lebam",
-        "url": "https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 208468,
-      "name": "Lebam",
-      "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
+      "duration_ms": 172962,
+      "name": "Vem Relaxar",
+      "url": "https://open.spotify.com/track/1e55OqUQMPI9kG2NhG5Dm5"
     },
     {
       "added_at": "2026-04-02 23:00:42",
@@ -1195,6 +1159,42 @@
       "duration_ms": 227843,
       "name": "S\u00f3 Sodadi",
       "url": "https://open.spotify.com/track/0DVyY8f6620VYX5lH35l9Q"
+    },
+    {
+      "added_at": "2026-04-02 23:00:42",
+      "album": {
+        "name": "Lebam",
+        "url": "https://open.spotify.com/album/4PT2BkjO1PRu0fOThf4FCC"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 208468,
+      "name": "Lebam",
+      "url": "https://open.spotify.com/track/7523lVFOPO3JfiKX6u9ni7"
+    },
+    {
+      "added_at": "2026-04-02 23:00:42",
+      "album": {
+        "name": "Nha Preta",
+        "url": "https://open.spotify.com/album/1Bq46oN238vBDzOl6VHUza"
+      },
+      "artists": [
+        {
+          "name": "Helio Batalha",
+          "url": "https://open.spotify.com/artist/08ukYp96CtGT1te37kfVoz"
+        },
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Nha Preta",
+      "url": "https://open.spotify.com/track/0JjHBA5DGZx80PS6TMuzAp"
     },
     {
       "added_at": "2026-04-02 23:00:42",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-04-02 23:00:42",
       "album": {
-        "name": "Simbiose",
-        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
+        "name": "Jungle Fever",
+        "url": "https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh"
       },
       "artists": [
         {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
         }
       ],
-      "duration_ms": 218426,
-      "name": "Simbiose",
-      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
+      "duration_ms": 195350,
+      "name": "Jungle Fever",
+      "url": "https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca"
     },
     {
       "added_at": "2026-04-02 23:00:42",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2026-04-02 23:00:42",
       "album": {
-        "name": "Jungle Fever",
-        "url": "https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh"
+        "name": "Simbiose",
+        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
       },
       "artists": [
         {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
         }
       ],
-      "duration_ms": 195350,
-      "name": "Jungle Fever",
-      "url": "https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca"
+      "duration_ms": 218426,
+      "name": "Simbiose",
+      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
     },
     {
       "added_at": "2026-04-02 23:00:42",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-04-02 23:00:42",
       "album": {
-        "name": "AROMA INSANO",
-        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "AROMA INSANO",
-      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
-    },
-    {
-      "added_at": "2026-04-02 23:00:42",
-      "album": {
         "name": "Mar\u00e9",
         "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 231061,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
+    },
+    {
+      "added_at": "2026-04-02 23:00:42",
+      "album": {
+        "name": "AROMA INSANO",
+        "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "AROMA INSANO",
+      "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
     },
     {
       "added_at": "2026-04-02 23:00:42",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2026-04-02 23:00:42",
       "album": {
-        "name": "Menta",
-        "url": "https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk"
-      },
-      "artists": [
-        {
-          "name": "David Carreira",
-          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 196330,
-      "name": "Menta",
-      "url": "https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj"
-    },
-    {
-      "added_at": "2026-04-02 23:00:42",
-      "album": {
         "name": "Si Ki Min Kr\u00e8",
         "url": "https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 159157,
       "name": "Si Ki Min Kr\u00e8",
       "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
+    },
+    {
+      "added_at": "2026-04-02 23:00:42",
+      "album": {
+        "name": "Menta",
+        "url": "https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 196330,
+      "name": "Menta",
+      "url": "https://open.spotify.com/track/6WXfOiRWXLAPjWGkExCaUj"
     },
     {
       "added_at": "2026-04-02 23:00:42",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-04-02 23:00:42",
       "album": {
-        "name": "\u00c9 MEMO ESSE",
-        "url": "https://open.spotify.com/album/1qoPmHhWMokEMlexO3nY0P"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Telminho",
-          "url": "https://open.spotify.com/artist/2PiR7s9Qe7ZB0gWcjKc9d1"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "\u00c9 MEMO ESSE",
-      "url": "https://open.spotify.com/track/6y6f8Vo7ZAFaUkq4w4jjaO"
-    },
-    {
-      "added_at": "2026-04-02 23:00:42",
-      "album": {
         "name": "Longe Daqui",
         "url": "https://open.spotify.com/album/2lV2eLC9oG1zx36I4CO5nS"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 214935,
       "name": "Longe Daqui",
       "url": "https://open.spotify.com/track/6MexAjdg4Fc1qSudsOBGKo"
+    },
+    {
+      "added_at": "2026-04-02 23:00:42",
+      "album": {
+        "name": "\u00c9 MEMO ESSE",
+        "url": "https://open.spotify.com/album/1qoPmHhWMokEMlexO3nY0P"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Telminho",
+          "url": "https://open.spotify.com/artist/2PiR7s9Qe7ZB0gWcjKc9d1"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "\u00c9 MEMO ESSE",
+      "url": "https://open.spotify.com/track/6y6f8Vo7ZAFaUkq4w4jjaO"
     },
     {
       "added_at": "2026-04-02 23:00:42",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2026-04-02 23:00:42",
       "album": {
-        "name": "Perto De Ti",
-        "url": "https://open.spotify.com/album/7b7Lk9QKFVJo5q6TugxRro"
-      },
-      "artists": [
-        {
-          "name": "Afroplug",
-          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
-        },
-        {
-          "name": "No Wahala Sound",
-          "url": "https://open.spotify.com/artist/4eGONYIUZBlzHRBMSSEoln"
-        }
-      ],
-      "duration_ms": 185879,
-      "name": "Perto De Ti",
-      "url": "https://open.spotify.com/track/0ECgyQMr8uqVWshrzICj38"
-    },
-    {
-      "added_at": "2026-04-02 23:00:42",
-      "album": {
         "name": "Mais Nada",
         "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 257137,
       "name": "TROMPETE",
       "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
+    },
+    {
+      "added_at": "2026-04-02 23:00:42",
+      "album": {
+        "name": "Perto De Ti",
+        "url": "https://open.spotify.com/album/7b7Lk9QKFVJo5q6TugxRro"
+      },
+      "artists": [
+        {
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
+        },
+        {
+          "name": "No Wahala Sound",
+          "url": "https://open.spotify.com/artist/4eGONYIUZBlzHRBMSSEoln"
+        }
+      ],
+      "duration_ms": 185879,
+      "name": "Perto De Ti",
+      "url": "https://open.spotify.com/track/0ECgyQMr8uqVWshrzICj38"
     },
     {
       "added_at": "2026-04-02 23:00:42",

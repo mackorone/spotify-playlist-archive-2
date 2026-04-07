@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1230547,
+  "num_followers": 1230592,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adBUgAAAAADoAF8XiaBZ0tCn9qoH3FJ+",
+  "snapshot_id": "adGmAAAAAABXqRzxI9vQOTpCMg6VY6hp",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Unconditional Love",
+      "url": "https://open.spotify.com/track/2boK2MX9CknrZyAQ8vlKHl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loyal To The Game",
         "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 203520,
       "name": "Loyal To The Game",
       "url": "https://open.spotify.com/track/3iNzFuZPs4va5EUrpAFiYt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Unconditional Love",
-      "url": "https://open.spotify.com/track/2boK2MX9CknrZyAQ8vlKHl"
     },
     {
       "added_at": null,

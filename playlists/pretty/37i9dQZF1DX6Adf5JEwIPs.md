@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Los del Sobrero & Herencia de Granes 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,130 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,157 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 35 | [En Dónde Está Tu Amor \- En Vivo](https://open.spotify.com/track/25tQuhpJNLCJo5vE6OnDQc) | [Grupo Punto Cero](https://open.spotify.com/artist/468sO05txJQXU1G1C1MMcu) | [En Dónde Está Tu Amor \(En Vivo\)](https://open.spotify.com/album/6MLp6XUG5QAx4oBmvTLz9f) | 3:09 |
 | 36 | [CARITA ANGELICAL\-CONTESTACIÓN](https://open.spotify.com/track/1u6x5orufPemniMz2jWDZL) | [Chakal Del Sur](https://open.spotify.com/artist/0KeCyvIzTo589Y5RUba49t), [KEY OSPINA LÁPIZ DE ORO](https://open.spotify.com/artist/5ZB9xE7HdrYxcIXq6XdKmP) | [CARITA ANGELICAL\-CONTESTACIÓN](https://open.spotify.com/album/25my00gLKeYt94fGVb0ldO) | 2:55 |
 | 37 | [El Ex Perfecto](https://open.spotify.com/track/37oNh0Y1T335Sis2vXVxb9) | [Francisco El Gallo Elizalde](https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb) | [El Ex Perfecto](https://open.spotify.com/album/2uQ0xf9CjLtD9uWHIiang8) | 2:50 |
-| 38 | [La Camisa Negra \- En Vivo](https://open.spotify.com/track/063Y5zY1SjbC9xo7LTbLLZ) | [Luis Arturo](https://open.spotify.com/artist/04spoeZCYxGrgMEfLQUdhw) | [La Camisa Negra \(En Vivo\)](https://open.spotify.com/album/2he5YNCdWNWEebFmnEQgsL) | 3:31 |
+| 38 | [La Camisa Negra](https://open.spotify.com/track/063Y5zY1SjbC9xo7LTbLLZ) | [Luis Arturo](https://open.spotify.com/artist/04spoeZCYxGrgMEfLQUdhw) | [La Camisa Negra](https://open.spotify.com/album/2he5YNCdWNWEebFmnEQgsL) | 3:31 |
 | 39 | [COMO ZOMBIES](https://open.spotify.com/track/55B5Kca73yZOg3519ErVZ8) | [El Filly Y Sus Aliados](https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt) | [COMO ZOMBIES](https://open.spotify.com/album/7bnIEqQKIBVbBX02vztzga) | 2:29 |
 | 40 | [Colección De Oro \(La Vida No Es / El Vicio De Quererte\)](https://open.spotify.com/track/7dPzWCHKfSUU9giCirv07Q) | [El Cejas y Su Banda Fuego](https://open.spotify.com/artist/7dRwsxx0shzNa2PW47sqa2) | [Colección De Oro \(La Vida No Es / El Vicio De Quererte\)](https://open.spotify.com/album/4hMDSHjMcrsGKRl4AfSi9x) | 4:48 |
 | 41 | [Versión Actualizada](https://open.spotify.com/track/7LjPV8HdSKJ57pqLAwbOFn) | [Juan Moya Y Los Del Valle](https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b) | [Versión Actualizada](https://open.spotify.com/album/5TOHYtIAg651P3605vedP0) | 2:39 |

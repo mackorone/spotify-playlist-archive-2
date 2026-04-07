@@ -636,7 +636,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 60000,
       "name": "My Kitchen, Chicago",
       "url": "https://open.spotify.com/track/6rCcbBqBxLJgCq25LkOGXB"
@@ -680,6 +680,24 @@
       "duration_ms": 60000,
       "name": "Outside, Arrington",
       "url": "https://open.spotify.com/track/0xRvIQV2KDHvMGwcoJfNNf"
+    },
+    {
+      "album": {
+        "name": "Various Small Whistles and a Song",
+        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Penny Whistle Seller, Guangzhou",
+      "url": "https://open.spotify.com/track/1eqmkXVJNeb14gp3pcW9GG"
     },
     {
       "album": {
@@ -738,7 +756,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 271202,
       "name": "Right Before Dinner",
       "url": "https://open.spotify.com/track/1xtDTPyST8yKRnA7bQHLFm"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 172779,
       "name": "Scrimble-Scramble",
       "url": "https://open.spotify.com/track/1fac4qYqKoPCVWFW1lAsAa"

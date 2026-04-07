@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "2515",
+        "url": "https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241100,
+      "name": "2515",
+      "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
+    },
+    {
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/0dUDaUYs1k6kZyZmgA1AtP"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 187889,
       "name": "555",
       "url": "https://open.spotify.com/track/3kdKikExAZGvLjuvgyJwQ3"
@@ -756,7 +774,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 232871,
       "name": "All That You Are",
       "url": "https://open.spotify.com/track/6t2Jrmc4cbtdpma2lMCMHS"
@@ -952,6 +970,24 @@
       "duration_ms": 201310,
       "name": "Anna",
       "url": "https://open.spotify.com/track/1nGgr8h9Sqz43VhJbo5yxZ"
+    },
+    {
+      "album": {
+        "name": "Another Kind Of Lover",
+        "url": "https://open.spotify.com/album/6aB1vVhXrd1I8thY4ExIph"
+      },
+      "artists": [
+        {
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215822,
+      "name": "Another Kind Of Lover",
+      "url": "https://open.spotify.com/track/4qNeMLjRrHzNKBXbai2OPA"
     },
     {
       "album": {
@@ -3335,6 +3371,24 @@
     },
     {
       "album": {
+        "name": "If Nevermore (Anhedonia)",
+        "url": "https://open.spotify.com/album/0oKF6VnD3mToLu2ruXuNcF"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123555,
+      "name": "Chemical Coffins",
+      "url": "https://open.spotify.com/track/6GJ1CQ2MnZLUmDSxKmgisH"
+    },
+    {
+      "album": {
         "name": "forever and always",
         "url": "https://open.spotify.com/album/2I55s8m8rGt5dAiDUsKMId"
       },
@@ -3916,7 +3970,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 185834,
       "name": "Contemplating You",
       "url": "https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1"
@@ -4206,6 +4260,24 @@
       "duration_ms": 181223,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1qpMpd6otkEvU1X8o4rN54"
+    },
+    {
+      "album": {
+        "name": "Crush Forever",
+        "url": "https://open.spotify.com/album/13ibuOKOy1lAxVJ2e8O6Sz"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272173,
+      "name": "Crush Forever",
+      "url": "https://open.spotify.com/track/0NLRlg2rElM8r4rU53Zqd0"
     },
     {
       "album": {
@@ -4932,7 +5004,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 188253,
       "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
@@ -5554,7 +5626,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 222134,
       "name": "Dusty's",
       "url": "https://open.spotify.com/track/13fhwsoyhE1JPHftChhlzD"
@@ -5590,7 +5662,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 97577,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/6N6ltUQNdGcfq9DyENmhaK"
@@ -5756,7 +5828,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 196106,
       "name": "Eleanor",
       "url": "https://open.spotify.com/track/6kwXtdH3sbFfYOSmOe4NFS"
@@ -5774,7 +5846,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 283306,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/6rsQKBloYqdINGKv0dC9wP"
@@ -7283,6 +7355,24 @@
     },
     {
       "album": {
+        "name": "Can We Hang Out Sometime?",
+        "url": "https://open.spotify.com/album/2ude1QTWRjfCQYgpr5mc11"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179576,
+      "name": "Ginger Lemonade",
+      "url": "https://open.spotify.com/track/60XG382z7UHlLMXs0bOwRb"
+    },
+    {
+      "album": {
         "name": "Girl at the Station (feat. Jeremy Passion)",
         "url": "https://open.spotify.com/album/00YLlPSAmX70mh67Tra6gK"
       },
@@ -7374,6 +7464,24 @@
       "duration_ms": 275238,
       "name": "Girl's Girl",
       "url": "https://open.spotify.com/track/5Aaq6ejj1FdHKfo9hsbmQ9"
+    },
+    {
+      "album": {
+        "name": "parasite",
+        "url": "https://open.spotify.com/album/3w598c2UtVUcuAHYNBHyc1"
+      },
+      "artists": [
+        {
+          "name": "Mylie Taylor",
+          "url": "https://open.spotify.com/artist/3JR3JUiQX97T6lm85kCNVL"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162413,
+      "name": "girls and drugs",
+      "url": "https://open.spotify.com/track/2Ji3wl8e5xW9Z3d5J7Yvu2"
     },
     {
       "album": {
@@ -9916,7 +10024,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 208890,
       "name": "If Only",
       "url": "https://open.spotify.com/track/4v0e79DzMaKrahOxl4SdGG"
@@ -10328,6 +10436,24 @@
       "duration_ms": 239089,
       "name": "Ithaca",
       "url": "https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ"
+    },
+    {
+      "album": {
+        "name": "Jane Freaks Me Out",
+        "url": "https://open.spotify.com/album/3USGBurgwwtETjz4VN8r4o"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153466,
+      "name": "Jane Freaks Me Out",
+      "url": "https://open.spotify.com/track/7wOP6W2GPxgdiqSWoq2z3b"
     },
     {
       "album": {
@@ -14877,6 +15003,24 @@
     },
     {
       "album": {
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223746,
+      "name": "Paper Aeroplane",
+      "url": "https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d"
+    },
+    {
+      "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/54hqrNqycVKChEW44Sv5Dp"
       },
@@ -15462,6 +15606,24 @@
       "duration_ms": 146527,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/03Xiyla77qLyJuacJq9m8y"
+    },
+    {
+      "album": {
+        "name": "Please Stop Laughing",
+        "url": "https://open.spotify.com/album/3EfTNeX1PvXV5HCv8wHpOk"
+      },
+      "artists": [
+        {
+          "name": "Ray Bull",
+          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166997,
+      "name": "Please Stop Laughing",
+      "url": "https://open.spotify.com/track/7hltRSTGF0rMUqxReGZEcU"
     },
     {
       "album": {
@@ -16444,6 +16606,24 @@
       "duration_ms": 178550,
       "name": "Sage My Soul",
       "url": "https://open.spotify.com/track/1xKHTdrOlDwXVfe6mG8apM"
+    },
+    {
+      "album": {
+        "name": "Same Life",
+        "url": "https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198532,
+      "name": "Same Life",
+      "url": "https://open.spotify.com/track/10KS3LMV89Agd6NBLfnvHO"
     },
     {
       "album": {
@@ -18636,7 +18816,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 246879,
       "name": "Team Babe",
       "url": "https://open.spotify.com/track/6TqVmfK0Um2rK6ozp3E8dG"
@@ -19444,6 +19624,24 @@
       "duration_ms": 141834,
       "name": "The Scene",
       "url": "https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP"
+    },
+    {
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR"
     },
     {
       "album": {
@@ -20419,6 +20617,28 @@
     },
     {
       "album": {
+        "name": "Under A Landslide Of Stars",
+        "url": "https://open.spotify.com/album/5ukkFn00aRYizUPdNaHj8W"
+      },
+      "artists": [
+        {
+          "name": "MALINOWSKI",
+          "url": "https://open.spotify.com/artist/4gOqTwaujC2EVN0SIWARum"
+        },
+        {
+          "name": "Jay Malinowski",
+          "url": "https://open.spotify.com/artist/3CpoBeJwpqZN0qjqVQrXQm"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "Under A Landslide Of Stars",
+      "url": "https://open.spotify.com/track/5er5M2cRWRL6tcViWXl5XU"
+    },
+    {
+      "album": {
         "name": "Under The Rug",
         "url": "https://open.spotify.com/album/3pO5KqxkUOLPVAEgk5KWKH"
       },
@@ -20650,7 +20870,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 203306,
       "name": "Victim Of Luck",
       "url": "https://open.spotify.com/track/5gH0Jr4nPOHPapmjfSYs4Y"
@@ -20924,7 +21144,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 318120,
       "name": "Warm on a Cold Night (10 Years)",
       "url": "https://open.spotify.com/track/1NQYxJSgMvzG3jp6g55b6t"

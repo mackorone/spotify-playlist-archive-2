@@ -26547,6 +26547,24 @@
     },
     {
       "album": {
+        "name": "Birding",
+        "url": "https://open.spotify.com/album/4LRV1hTTosrrR7cdWyqyJo"
+      },
+      "artists": [
+        {
+          "name": "deary",
+          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309947,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2ipXB1iXNOVsNiAuWkTsY3"
+    },
+    {
+      "album": {
         "name": "Say Things That Matter",
         "url": "https://open.spotify.com/album/52pKraIrmywyqCpywjBS8B"
       },

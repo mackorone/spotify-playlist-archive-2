@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-258 songs - 12 hr 29 min
+259 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [At The Shore](https://open.spotify.com/track/17GKEXuSlpESmBaUJaXeBF) | [Ocean Vacation](https://open.spotify.com/artist/7hO7QJqzlEr6RaZlaalLLR) | [At The Shore](https://open.spotify.com/album/7feNID0SxJjODjF1fwEkhv) | 2:47 | 2021-11-11 |  |
 | [Atlanic Waves](https://open.spotify.com/track/3oCsOtGbEeWgSl1pCMy5WU) | [Groundwater Gabriel](https://open.spotify.com/artist/7D6h05H8UYNdbP6bE5OFoG) | [I Can Wave](https://open.spotify.com/album/0ZbwLMSNTL2l9fZYFVg4sy) | 1:31 | 2021-11-11 | 2023-06-20 |
 | [Atlantic Night Waves](https://open.spotify.com/track/4kOY2xfpY5LlNDvNhmkz2g) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Cape Waves \(Ocean Waves\)](https://open.spotify.com/album/4DI1eJ6qRCNobtKsSGQndV) | 2:40 | 2021-11-11 |  |
+| [Atlantic Sunrise XXII](https://open.spotify.com/track/1FK1lKjXzaWkETOINnGOoJ) | [Broadsand](https://open.spotify.com/artist/2oZ8sTbWytiKHRBSGcajWv) | [Atlantic Sunrise XXII](https://open.spotify.com/album/31xHCc1QWffRKIRbKOGdTs) | 2:31 | 2026-04-02 |  |
 | [Atlantic Waves](https://open.spotify.com/track/6i8IQQ6FmgU7Y0ESccYchH) | [Waves of Atlantic](https://open.spotify.com/artist/4rSV2yuDQBYqICEXgemgir) | [Atlantic Waves](https://open.spotify.com/album/5XiJuA5yautJlZ3J0wrhK1) | 3:41 | 2021-11-11 |  |
 | [Atlantic Waves](https://open.spotify.com/track/3O13orieNSsuObfPFS8BwG) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 2:51 | 2021-11-11 |  |
 | [away adrift \(nature\)](https://open.spotify.com/track/7FffgNpdeg9Ai9wdUOS6WC) | [warmest depths](https://open.spotify.com/artist/1akeT46w4la2HMfty7dh4W) | [away adrift \(nature\)](https://open.spotify.com/album/7sNom6GJ1acTyCEW3ncZXF) | 3:16 | 2026-04-02 |  |
@@ -252,7 +253,7 @@
 | [Waves Of Green](https://open.spotify.com/track/5MtM0JZlnc9XkGFarLmh04) | [Haruna Fields](https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL) | [Nature Sleep](https://open.spotify.com/album/7ngAGZgqlInLQByHU9AIEo) | 1:34 | 2023-02-15 | 2023-06-20 |
 | [Waves of Hope](https://open.spotify.com/track/4WShV9ueF0eVdev69kRxyD) | [Waves At Night](https://open.spotify.com/artist/3CuV0Rsf4ZxEHHB6I7I9tG) | [Volume 1](https://open.spotify.com/album/457JbvsnuRxeVObXwIemfG) | 3:07 | 2021-11-11 |  |
 | [Waves Of The Ocean](https://open.spotify.com/track/5yQElZLGJPuYOOAAse57dT) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Natural Samples](https://open.spotify.com/album/7qsJsbbwvMNGz1vR5l8ILK) | 1:44 | 2021-11-11 | 2023-06-20 |
-| [Waves on the bay](https://open.spotify.com/track/5EcF8M8wNmRICSjryB0hBC) | [Hamsin](https://open.spotify.com/artist/1WrrjAnlrn79eXDX1gTfMV) | [Cottage by the sea](https://open.spotify.com/album/5E6JbwbKkCmWrHCWE5FjlW) | 2:12 | 2023-06-19 |  |
+| [Waves on the bay](https://open.spotify.com/track/5EcF8M8wNmRICSjryB0hBC) | [Hamsin](https://open.spotify.com/artist/1WrrjAnlrn79eXDX1gTfMV) | [Cottage by the sea](https://open.spotify.com/album/5E6JbwbKkCmWrHCWE5FjlW) | 2:12 | 2023-06-19 | 2026-04-07 |
 | [Waves on the Peninsula](https://open.spotify.com/track/4rZmara2XLS46Lalxe1hCi) | [Watertowers](https://open.spotify.com/artist/7DcNhZNSWzYyhuDm2SyQnt) | [Shallow Waves on Sand](https://open.spotify.com/album/4dNOZum6fUUyf1VaI9Ue2u) | 2:54 | 2021-11-11 |  |
 | [Waves Special Selection](https://open.spotify.com/track/2eBhOON7YOyFbzuYaBRRvR) | [Selective Sounds TTA](https://open.spotify.com/artist/4fvzIW1n8V7G1t95O5Q2lB) | [Good Night Waves](https://open.spotify.com/album/4tcp4jrPaRqqF9AS6wKI6X) | 1:49 | 2021-11-11 | 2023-06-20 |
 | [Waves Under The Stars](https://open.spotify.com/track/6FK3O3xyKDugkP7QN8frc2) | [Waves At Night](https://open.spotify.com/artist/3CuV0Rsf4ZxEHHB6I7I9tG) | [Waves Under The Stars](https://open.spotify.com/album/0zS16AjZGF9c6f4R9FscpN) | 3:03 | 2026-04-02 |  |

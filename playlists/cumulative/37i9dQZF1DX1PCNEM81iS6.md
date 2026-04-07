@@ -4,7 +4,7 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! ©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-94 songs - 4 hr 40 min
+95 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [決死](https://open.spotify.com/track/4eNk8HAsVvdHMimWpVo8RK) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 1:36 | 2022-11-25 |  |
 | [決死](https://open.spotify.com/track/7AZw4ngkA5OL5WLhEBJ7ig) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 1:36 | 2022-11-25 | 2024-04-19 |
 | [浄歌](https://open.spotify.com/track/71cNVDcg9JsFCr0hLi7Pj9) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [浄歌](https://open.spotify.com/album/3hCHq9tpguiwxs3j9N373U) | 4:53 | 2022-11-25 |  |
+| [渇望 \- Anime size ver.](https://open.spotify.com/track/7DGXw9oCyqzKtbKCv2mscQ) | [CiON](https://open.spotify.com/artist/7e1S0Yqtt1sgmeqvXcIDWa) | [渇望 \(Anime size ver.\)](https://open.spotify.com/album/7KfonJsTmdMNGeLsq5M1vT) | 1:29 | 2026-04-07 |  |
 | [絵空事](https://open.spotify.com/track/1mblggzEWNTu31ttjPLsj6) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [絵空事](https://open.spotify.com/album/2HaGgGBHHrlLjBg8X7pIBR) | 4:10 | 2026-04-03 |  |
 | [繁栄](https://open.spotify.com/track/0bcn7voVf6K5EwN0sRMmyZ) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 1:26 | 2022-11-25 |  |
 | [繁栄](https://open.spotify.com/track/2LfIliPTd16k4z43kUWhtm) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 1:26 | 2022-11-25 | 2024-04-19 |

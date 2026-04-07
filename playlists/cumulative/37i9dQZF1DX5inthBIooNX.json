@@ -810,7 +810,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 220285,
       "name": "Intro",
       "url": "https://open.spotify.com/track/4c0r5XHnOvH92uT9ktySSG"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 123750,
       "name": "Seconds",
       "url": "https://open.spotify.com/track/2ROZkHmSV46OD2ESB6gpzs"
@@ -1536,6 +1536,24 @@
       "duration_ms": 82709,
       "name": "Wyoming",
       "url": "https://open.spotify.com/track/36faRr0qW9joLZLiWbCRZn"
+    },
+    {
+      "album": {
+        "name": "Project Hail Mary (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "You Were Loved (Burial) - from \"Project Hail Mary\"",
+      "url": "https://open.spotify.com/track/2osj7VDcwgOx2jJnmfybSj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5inthBIooNX"

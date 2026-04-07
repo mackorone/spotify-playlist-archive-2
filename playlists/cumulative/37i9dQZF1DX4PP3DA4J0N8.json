@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Calm Green Wave Sounds",
+        "url": "https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT"
+      },
+      "artists": [
+        {
+          "name": "EFX Mirelight",
+          "url": "https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104374,
+      "name": "Calming Creek",
+      "url": "https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd"
+    },
+    {
+      "album": {
         "name": "Jungle And Forest Sounds",
         "url": "https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj"
       },
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 183901,
       "name": "dense leaf canopy",
       "url": "https://open.spotify.com/track/03iPmLyIVO7H74oPOnOP4G"
@@ -1340,6 +1358,24 @@
       "duration_ms": 118143,
       "name": "Fluxo",
       "url": "https://open.spotify.com/track/05Fw6DL9Hj2qfua35fsZXF"
+    },
+    {
+      "album": {
+        "name": "Flying South (Nature)",
+        "url": "https://open.spotify.com/album/1vhivmFoFcs1WRHLwWA70R"
+      },
+      "artists": [
+        {
+          "name": "Nature Neighbors",
+          "url": "https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Flying South (Nature)",
+      "url": "https://open.spotify.com/track/5j49xdRfVVXfrH0oi6UkKv"
     },
     {
       "album": {
@@ -3436,7 +3472,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 162992,
       "name": "Standing In The Rain",
       "url": "https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL"

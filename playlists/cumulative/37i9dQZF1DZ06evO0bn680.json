@@ -283,6 +283,32 @@
     },
     {
       "album": {
+        "name": "The Sacred Flame",
+        "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
+      },
+      "artists": [
+        {
+          "name": "Orlande de Lassus",
+          "url": "https://open.spotify.com/artist/66hSfMemmixjY58p7KcTV6"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253546,
+      "name": "Ave Verum Corpus",
+      "url": "https://open.spotify.com/track/54Km2r1BT72dCtxDE8oBuE"
+    },
+    {
+      "album": {
         "name": "Faire Is the Heaven: Music Of the English Church",
         "url": "https://open.spotify.com/album/6QLH81woQQHSMppURzDs7W"
       },
@@ -302,7 +328,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 228040,
       "name": "Ave verum corpus, T. 92",
       "url": "https://open.spotify.com/track/3LldoWLGpIfSnyovRXAQEo"
@@ -410,7 +436,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 406506,
       "name": "Cantique de Jean Racine, Op. 11 (Arr. J. Rutter for Choir & Organ)",
       "url": "https://open.spotify.com/track/6U9cTWvX7mc5ZZXOiwd6n6"
@@ -566,6 +592,32 @@
       "duration_ms": 140346,
       "name": "Dixit Maria ad angelum",
       "url": "https://open.spotify.com/track/0gi1O7vXaFgsvye644ewTZ"
+    },
+    {
+      "album": {
+        "name": "Sing, Ye Heavens: Hymns for All Time",
+        "url": "https://open.spotify.com/album/5LZT0vxWLH6zwJ9uKczXuI"
+      },
+      "artists": [
+        {
+          "name": "Orlando Gibbons",
+          "url": "https://open.spotify.com/artist/2NkIVq5pAfIojxXjuaRVes"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110160,
+      "name": "Drop, Drop, Slow Tears",
+      "url": "https://open.spotify.com/track/5OIbHl7ST5mKZrITT7TqKD"
     },
     {
       "album": {
@@ -826,7 +878,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 116093,
       "name": "Jesu dulcis memoria",
       "url": "https://open.spotify.com/track/2uBGuyW7hmrwZNNTMFFhDS"
@@ -1090,7 +1142,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 216133,
       "name": "O vos omnes",
       "url": "https://open.spotify.com/track/4aTIhTWsdcmNyTDgGj7Y6E"
@@ -1316,7 +1368,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 310800,
       "name": "Requiem: VI. The Lord Is My Shepherd",
       "url": "https://open.spotify.com/track/45Dylmep9VwbqohpruPuJZ"
@@ -1570,6 +1622,48 @@
       "duration_ms": 228000,
       "name": "Symphonic Dances, Op. 64: II. Allegretto grazioso (Arr. for Orchestra by John Rutter)",
       "url": "https://open.spotify.com/track/04i7RcVg5iYUvLqwl9Ochx"
+    },
+    {
+      "album": {
+        "name": "Faur\u00e9: Requiem & Other Sacred Music",
+        "url": "https://open.spotify.com/album/3FxEvGKYi8BATuUqDU7zv7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Nicola-Jane Kemp",
+          "url": "https://open.spotify.com/artist/5rOTlEQTBgyODcuD3exWf9"
+        },
+        {
+          "name": "Melanie Marshall",
+          "url": "https://open.spotify.com/artist/5FjvOVRThV4lQqze0kF35h"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Ruth Holton",
+          "url": "https://open.spotify.com/artist/6pqASX91Qh5vjWHFuLAllv"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153520,
+      "name": "Tantum ergo, Op. 65 No. 2",
+      "url": "https://open.spotify.com/track/7kDrBMGLGAvipsuXfZ2lY5"
     },
     {
       "album": {

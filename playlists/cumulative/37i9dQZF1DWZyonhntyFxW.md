@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: أبيوسف
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: موند
 
-450 songs - 21 hr 55 min
+451 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Algham](https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Algham](https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb) | 2:47 | 2023-10-05 | 2023-12-23 |
 | [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-05-10 | 2023-05-26 |
 | [Amar](https://open.spotify.com/track/19QZmE8ctW3y569h1TkL5W) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 3:12 | 2023-07-10 | 2023-08-18 |
-| [Amen](https://open.spotify.com/track/01gp9Dm70W7nJdQcZNDYwG) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [AMEN](https://open.spotify.com/album/5ypDqZ0Gv2DROegZUqTdBS) | 1:58 | 2025-11-06 |  |
+| [Amen](https://open.spotify.com/track/01gp9Dm70W7nJdQcZNDYwG) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [AMEN](https://open.spotify.com/album/5ypDqZ0Gv2DROegZUqTdBS) | 1:58 | 2025-11-06 | 2026-04-07 |
 | [AMOT ANA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:45 | 2024-08-05 | 2024-08-16 |
 | [AMTAR](https://open.spotify.com/track/5AGeNYpstVBpFn8IW2KqS7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba Bonus](https://open.spotify.com/album/1J3NZMlu9mW7W1Pjvo0jrC) | 2:48 | 2022-10-10 | 2023-03-23 |
 | [Ana](https://open.spotify.com/track/2h0LTnWBlRSasKmgOS2DLH) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ana](https://open.spotify.com/album/4AcrqTInra0ohrzUOv0iSJ) | 2:15 | 2025-12-30 | 2026-03-31 |
@@ -108,7 +108,7 @@
 | [CRISTIANO](https://open.spotify.com/track/70o1xXReo9Y5N0OPKxHB8v) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl), [EVO](https://open.spotify.com/artist/3zg3iSMFyA6Jl24iLbQIlx) | [EL\- RAYES x CR7](https://open.spotify.com/album/22l5F8L05DBTaQ6IjDIgJV) | 2:26 | 2024-01-25 | 2024-02-07 |
 | [CTRL](https://open.spotify.com/track/6gDd7m57FDznq1nSj57gr0) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/6l7XOSo5G7ojctbfquMChn) | 3:05 | 2026-03-30 |  |
 | [Daftar A7mar](https://open.spotify.com/track/3Ezm9m5G9BnWNFeKDZ5WY3) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Alfy](https://open.spotify.com/artist/2LsOWfjooIMANdGBjtiMLz) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:06 | 2022-08-08 | 2022-10-11 |
-| [DALMA](https://open.spotify.com/track/55AFKSZFskLXl6M9XVnos8) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FOR REAL](https://open.spotify.com/album/2plfHkMSdOqhtIkQwvkD5r) | 2:35 | 2025-10-02 |  |
+| [DALMA](https://open.spotify.com/track/55AFKSZFskLXl6M9XVnos8) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FOR REAL](https://open.spotify.com/album/2plfHkMSdOqhtIkQwvkD5r) | 2:35 | 2025-10-02 | 2026-04-07 |
 | [DAWLETNA](https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:38 | 2023-02-13 | 2023-08-18 |
 | [Dawly](https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Dawly](https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy) | 3:16 | 2022-06-07 | 2024-03-12 |
 | [De Bruyne](https://open.spotify.com/track/3wiwZ6TDdSVVg5p19bdrZL) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [De Bruyne](https://open.spotify.com/album/38JMcDUUN2H2oo2eeiOvIT) | 2:29 | 2023-09-02 | 2024-01-10 |
@@ -132,9 +132,9 @@
 | [El Dem3a](https://open.spotify.com/track/2tC2ik34aJcihSHbxogP0M) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb \(Side B\)](https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv) | 3:41 | 2025-12-15 |  |
 | [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-08-11 | 2023-11-27 |
 | [EL KELMA](https://open.spotify.com/track/3z39YiKN50qORwhwRddeOV) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [FALTA](https://open.spotify.com/album/2XfZXthb4oxK1UwjkoUiKr) | 4:02 | 2024-09-04 | 2024-10-25 |
-| [El Leila](https://open.spotify.com/track/5VVZU6x6dwF0yHhZGBaFUo) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 3:39 | 2024-09-18 | 2025-08-31 |
+| [El Leila](https://open.spotify.com/track/5VVZU6x6dwF0yHhZGBaFUo) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 3:39 | 2024-09-18 |  |
 | [EL LOVE](https://open.spotify.com/track/5gF2k94idQZlm5Dbe2HjoI) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [ZAZA ELWASEEM](https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD) | 3:07 | 2023-09-05 | 2023-09-30 |
-| [El Mabda2](https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:38 | 2023-11-27 | 2024-08-16 |
+| [El Mabda2](https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:38 | 2023-11-27 |  |
 | [EL Moled \- Red Bull Sada sot](https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [EL Moled \(Red Bull Sada sot\)](https://open.spotify.com/album/1DETVyDIOnE9AFtzI6LJqG) | 2:39 | 2024-04-14 | 2024-07-27 |
 | [El Neyya](https://open.spotify.com/track/2lygVhKHBUzEGMJXljHOV2) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Neyya](https://open.spotify.com/album/5Ym6uvtt8qnWIX1sF3XYeg) | 2:40 | 2025-08-01 | 2026-02-26 |
 | [El QOWA](https://open.spotify.com/track/0rzAtcL37WVll20dFCYTsj) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 4:17 | 2022-05-10 | 2022-10-11 |
@@ -218,6 +218,7 @@
 | [Lamouni](https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Lamouni](https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf) | 3:22 | 2023-06-18 | 2023-09-08 |
 | [Lang](https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Lang](https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm) | 2:26 | 2024-01-18 | 2025-04-22 |
 | [Law Makonash 7awelna](https://open.spotify.com/track/1KjEG5GBB8aUSkMTwGglWv) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 3:06 | 2022-11-07 | 2022-12-27 |
+| [Leeh? \- From EgyBest Movie: The Soundtrack](https://open.spotify.com/track/3X8Q3dS8UtjBqqtjjwkAR4) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Leeh? \(From EgyBest Movie: The Soundtrack\)](https://open.spotify.com/album/1pdVVxL4kXFJmCTmVK14oo) | 2:12 | 2026-04-06 |  |
 | [Leh Nehzar](https://open.spotify.com/track/0vE3QsIZEyespCVUntPOa9) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Leila](https://open.spotify.com/album/0apSvBI2Dw5KWkIKdBPFSJ) | 2:28 | 2023-08-17 | 2023-09-06 |
 | [LELLY YAH](https://open.spotify.com/track/1SSymcmcSI1oYQtwOA8mOJ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [LELLY YAH](https://open.spotify.com/album/3zxpokbqTOtT3pry7cNhSK) | 3:09 | 2023-03-15 | 2023-11-27 |
 | [LOCATION](https://open.spotify.com/track/2HbIwat8F8LtvfQkU6Yymf) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [LOCATION](https://open.spotify.com/album/7fdRfsOvqgcJmFeM5WJwYX) | 2:29 | 2023-09-09 | 2023-09-30 |
@@ -361,7 +362,7 @@
 | [TEENA](https://open.spotify.com/track/4SkC4URje6uTXQfYyVNXzm) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TEENA](https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr) | 2:50 | 2022-05-10 | 2022-06-15 |
 | [Tege Goal](https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Tege Goal](https://open.spotify.com/album/4b8EdoD1qXfDm5yOcuED90) | 3:16 | 2022-05-10 | 2023-05-26 |
 | [TESH SHABAB](https://open.spotify.com/track/1aC1NuZAVnh7e1n2w9UzGD) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [TESH SHABAB](https://open.spotify.com/album/72kwga9yphmifAq4pErvlr) | 2:26 | 2024-02-22 | 2024-02-24 |
-| [TNKR.](https://open.spotify.com/track/1SRrcmvsVxBilwUHyeq8IF) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [GADWAL EL DARB](https://open.spotify.com/album/5XYfJyMufwURzHoJLVl8g5) | 2:27 | 2025-02-11 |  |
+| [TNKR.](https://open.spotify.com/track/1SRrcmvsVxBilwUHyeq8IF) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [GADWAL EL DARB](https://open.spotify.com/album/5XYfJyMufwURzHoJLVl8g5) | 2:27 | 2025-02-11 | 2026-04-07 |
 | [Tokyo](https://open.spotify.com/track/70cb9QgHrSZcfQGXCCgPBX) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Tokyo](https://open.spotify.com/album/7KJZT60Lr10dTwuELMdazt) | 2:35 | 2024-04-26 | 2024-06-14 |
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2022-05-10 | 2022-07-07 |
 | [TRAUMA](https://open.spotify.com/track/7bZ9b5rVCedn2Cvo6Lxo9H) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FOR REAL](https://open.spotify.com/album/2plfHkMSdOqhtIkQwvkD5r) | 2:47 | 2025-10-16 |  |

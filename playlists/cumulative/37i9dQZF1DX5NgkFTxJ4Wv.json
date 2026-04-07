@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 207032,
       "name": "Deep Sleep Pink Noise",
       "url": "https://open.spotify.com/track/7JBHuRKyOPdjHcygiqLGxk"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 172000,
       "name": "Dreamy Pink Noise Focus",
       "url": "https://open.spotify.com/track/1lOJ4aZX9TtUkIh7L6Mx33"
@@ -2219,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Pink Dream Layer",
+        "url": "https://open.spotify.com/album/0du3l9Ap0dzLAW6tdwaQjF"
+      },
+      "artists": [
+        {
+          "name": "Nullhaven",
+          "url": "https://open.spotify.com/artist/4alXugGd3qFBb9Pldhfx8u"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161654,
+      "name": "Pink Focus Noise",
+      "url": "https://open.spotify.com/track/6z3dn4GYqx9yYdDF5kNuER"
+    },
+    {
+      "album": {
         "name": "Pink Frequencies",
         "url": "https://open.spotify.com/album/1X26ZZAVYKCQWaVvd8MToi"
       },
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 208500,
       "name": "Pink is the Sound",
       "url": "https://open.spotify.com/track/1n1RUZigPoAKAqvzITUa9O"
@@ -2666,6 +2684,24 @@
       "duration_ms": 180000,
       "name": "Pink Noise Composure",
       "url": "https://open.spotify.com/track/3TBDN06cmoDrewTZCqtq2C"
+    },
+    {
+      "album": {
+        "name": "Pink Noise Continuum",
+        "url": "https://open.spotify.com/album/4YarB4Dxw1kTmRpcD7tvCs"
+      },
+      "artists": [
+        {
+          "name": "Pointillism",
+          "url": "https://open.spotify.com/artist/6JirfCD0iO9srNDD1PEuyZ"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167343,
+      "name": "Pink Noise Continuum",
+      "url": "https://open.spotify.com/track/40FPKwy3G8Ilvjvgx7DDcW"
     },
     {
       "album": {
@@ -3872,6 +3908,24 @@
       "duration_ms": 313283,
       "name": "Pink Prosecco Dreams",
       "url": "https://open.spotify.com/track/5oZ543J7tMK3vIdQ3VbgFK"
+    },
+    {
+      "album": {
+        "name": "Pink Rest State",
+        "url": "https://open.spotify.com/album/6TvvPe7krVATxdaOtgzSWi"
+      },
+      "artists": [
+        {
+          "name": "San Sebastiano",
+          "url": "https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Pink Rest State",
+      "url": "https://open.spotify.com/track/5rahjnV9yrqqVbfmJ30KEQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 100 songs - 5 hr 52 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 104 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,9 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 98 | [Your Flow](https://open.spotify.com/track/7w3PDDIQ9mO58DnRpbwRFJ) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Your Flow](https://open.spotify.com/album/5IMkL1GoZJlrtEqnNGR5Wn) | 3:00 |
 | 99 | [dealihea](https://open.spotify.com/track/4OIkCRqHqvEjR6CrWifwOZ) | [low\-key](https://open.spotify.com/artist/3o3u93T1lwwuCWE4ib3yKF) | [cases](https://open.spotify.com/album/4XyxycEfY5tF8VissqvHd9) | 5:33 |
 | 100 | [I.if only i could get next to you](https://open.spotify.com/track/3pJmDvcs4mQycH2R5RGhnZ) | [Rafael Vaza](https://open.spotify.com/artist/10fjJKlE2xKlUlmjSiVyFj) | [the electrojazz of rafael vaza or the unexpectable heartbreak clichê](https://open.spotify.com/album/2QHhijjY9eGI0rEd7K2U6r) | 1:41 |
+| 101 | [I stood for u \(Girlfriends\)](https://open.spotify.com/track/1jH06cHxmyraxNtV9HFoTo) | [Zombisickle](https://open.spotify.com/artist/3IrjzOB8AmlZx3mQdhl5By) | [I stood for u \(Girlfriends\)](https://open.spotify.com/album/6nIS7SShPtBYrWeeRltyAF) | 1:41 |
+| 102 | [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 |
+| 103 | [If I Go Missin’](https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [If I Go Missin’](https://open.spotify.com/album/2g0zHOLzQcbsxYw8TlE7XJ) | 3:40 |
+| 104 | [You're So Uninviting](https://open.spotify.com/track/1U6hp7lzgST4lzxRIR1VvW) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k), [Molly Coleman](https://open.spotify.com/artist/3zVctuiATB47XZXKAgzPZD) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 3:15 |
 
-Snapshot ID: `AAAOA3YXBsh4RvdtD04HaPsBpc3DboJc`
+Snapshot ID: `AAAOB6gYF6kGYrw/CdCnNNrQjDH64l5e`

@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop releases. Cover: Marco Schuitmaker",
-  "num_followers": 155456,
+  "num_followers": 155457,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIaP0hevQk7Xq2y8CVSCZ7J9T4na",
+  "snapshot_id": "AAAAAB3An4G9hAPN7SsC7CWLfEjwb0YD",
   "tracks": [
     {
       "added_at": "2026-04-02 22:02:03",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-04-02 22:02:03",
       "album": {
+        "name": "Elke Dag Is Mijn Dag",
+        "url": "https://open.spotify.com/album/7nKgxjvaoz53Hlh6BXGbrf"
+      },
+      "artists": [
+        {
+          "name": "Rinus Werrens",
+          "url": "https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Elke Dag Is Mijn Dag",
+      "url": "https://open.spotify.com/track/3nZlIlVR7WeqHh0006HHoZ"
+    },
+    {
+      "added_at": "2026-04-02 22:02:03",
+      "album": {
         "name": "Waar Blijf Je Nou",
         "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
       },
@@ -91,6 +107,22 @@
       "duration_ms": 178432,
       "name": "Waar Blijf Je Nou",
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
+    },
+    {
+      "added_at": "2026-04-02 22:02:03",
+      "album": {
+        "name": "Als jij nu nog niet weet",
+        "url": "https://open.spotify.com/album/3HSvJaqOHNOAJmhj6UFwLT"
+      },
+      "artists": [
+        {
+          "name": "John De Bever",
+          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
+        }
+      ],
+      "duration_ms": 176572,
+      "name": "Als jij nu nog niet weet",
+      "url": "https://open.spotify.com/track/5thX3h4OdQvVqP77tpteVt"
     },
     {
       "added_at": "2026-04-02 22:02:03",
@@ -123,6 +155,22 @@
       "duration_ms": 138000,
       "name": "Wie Bij Wie",
       "url": "https://open.spotify.com/track/1NvKQiKudIoQHSfYkMsAwJ"
+    },
+    {
+      "added_at": "2026-04-02 22:02:03",
+      "album": {
+        "name": "Dans tot de morgen met mij",
+        "url": "https://open.spotify.com/album/5cqVz1HxdZE2iSo1dLU8ca"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 189809,
+      "name": "Dans tot de morgen met mij",
+      "url": "https://open.spotify.com/track/5pWhF7YA7P5leU1bAOrChs"
     },
     {
       "added_at": "2026-04-02 22:02:03",
@@ -179,38 +227,6 @@
     {
       "added_at": "2026-04-02 22:02:03",
       "album": {
-        "name": "Als jij nu nog niet weet",
-        "url": "https://open.spotify.com/album/3HSvJaqOHNOAJmhj6UFwLT"
-      },
-      "artists": [
-        {
-          "name": "John De Bever",
-          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
-        }
-      ],
-      "duration_ms": 176572,
-      "name": "Als jij nu nog niet weet",
-      "url": "https://open.spotify.com/track/5thX3h4OdQvVqP77tpteVt"
-    },
-    {
-      "added_at": "2026-04-02 22:02:03",
-      "album": {
-        "name": "Dans tot de morgen met mij",
-        "url": "https://open.spotify.com/album/5cqVz1HxdZE2iSo1dLU8ca"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 189809,
-      "name": "Dans tot de morgen met mij",
-      "url": "https://open.spotify.com/track/5pWhF7YA7P5leU1bAOrChs"
-    },
-    {
-      "added_at": "2026-04-02 22:02:03",
-      "album": {
         "name": "De Kater Duurt Maar Even",
         "url": "https://open.spotify.com/album/5lYeulaTPy4ipBsI2mvlPI"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 186169,
       "name": "De Kater Duurt Maar Even",
       "url": "https://open.spotify.com/track/7GPHLNnHDYV7ojmOQg7Ulq"
-    },
-    {
-      "added_at": "2026-04-02 22:02:03",
-      "album": {
-        "name": "Elke Dag Is Mijn Dag",
-        "url": "https://open.spotify.com/album/7nKgxjvaoz53Hlh6BXGbrf"
-      },
-      "artists": [
-        {
-          "name": "Rinus Werrens",
-          "url": "https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Elke Dag Is Mijn Dag",
-      "url": "https://open.spotify.com/track/3nZlIlVR7WeqHh0006HHoZ"
     },
     {
       "added_at": "2026-04-02 22:02:03",

@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-625 songs - 1 day 8 hr 13 min
+626 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Pink Flowing Ambient Noise](https://open.spotify.com/track/4P7znZ6WxX05BW3JJjFfpT) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Pink Noise Hz](https://open.spotify.com/album/5kw0eQ2Kt85ovdYPu35j3c) | 2:56 | 2023-03-16 | 2023-10-28 |
 | [Pink Flowing Noise](https://open.spotify.com/track/5Gyr0z7E4lPzzI5lcbhQc4) | [Astral Noise](https://open.spotify.com/artist/6ukbhEhFk72rEfygTKIdIE) | [Noisist](https://open.spotify.com/album/0CviRQJ3g0vKRDY7nheyKU) | 3:14 | 2022-08-02 | 2023-03-18 |
 | [Pink Focus Noise](https://open.spotify.com/track/13HGpaVIlJ8HcFTVqEAZaR) | [Astromatic](https://open.spotify.com/artist/4ivxZDv4eSnS5Cvjp6Yl61) | [Waves Of Pink](https://open.spotify.com/album/26R5ylVnPeOU0Z3TDuRZ95) | 3:11 | 2022-10-26 | 2023-03-18 |
+| [Pink Focus Noise](https://open.spotify.com/track/6z3dn4GYqx9yYdDF5kNuER) | [Nullhaven](https://open.spotify.com/artist/4alXugGd3qFBb9Pldhfx8u) | [Pink Dream Layer](https://open.spotify.com/album/0du3l9Ap0dzLAW6tdwaQjF) | 2:41 | 2026-03-31 |  |
 | [Pink for Focus](https://open.spotify.com/track/1AVNCMME20FhGWuoRFFel2) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Pink Noise Sounds for Focus and Relaxation](https://open.spotify.com/album/1f6H56oC6fIHVMlJ1SnHRT) | 2:52 | 2022-10-26 | 2023-03-18 |
 | [Pink for Good Vibes](https://open.spotify.com/track/4aSzK7RMCJhBVo5uf3zK48) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Pink Noise Sounds for Focus and Relaxation](https://open.spotify.com/album/1f6H56oC6fIHVMlJ1SnHRT) | 2:52 | 2022-10-26 | 2023-01-13 |
 | [Pink for Relaxation](https://open.spotify.com/track/2XnBfbqfvMUC3M1cdkHp4f) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Pink Noise Sounds for Focus and Relaxation](https://open.spotify.com/album/1f6H56oC6fIHVMlJ1SnHRT) | 2:52 | 2022-10-26 | 2023-03-18 |
@@ -328,7 +329,7 @@
 | [Pink Noise Clear Mind](https://open.spotify.com/track/3MSN0Vi3E3LIAUY4dYNcm3) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Atmosphere](https://open.spotify.com/album/5qgEcp6C7PPTayUCDjL6wb) | 3:28 | 2023-03-16 |  |
 | [Pink Noise Comfort](https://open.spotify.com/track/1RkF5ISo8RpwCg8YjTgGo8) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Pink Noise \- Find your inner peace](https://open.spotify.com/album/3kc8lPIS29Kk95PyjXIZTh) | 2:22 | 2022-10-26 | 2023-03-18 |
 | [Pink Noise Composure](https://open.spotify.com/track/3TBDN06cmoDrewTZCqtq2C) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Pink Noise Balance](https://open.spotify.com/album/3C9YjJXau2NTktv3JNRxUQ) | 3:00 | 2023-03-16 | 2023-10-28 |
-| [Pink Noise Continuum](https://open.spotify.com/track/40FPKwy3G8Ilvjvgx7DDcW) | [Pointillism](https://open.spotify.com/artist/6JirfCD0iO9srNDD1PEuyZ) | [Pink Noise Continuum](https://open.spotify.com/album/4YarB4Dxw1kTmRpcD7tvCs) | 2:47 | 2026-03-31 |  |
+| [Pink Noise Continuum](https://open.spotify.com/track/40FPKwy3G8Ilvjvgx7DDcW) | [Pointillism](https://open.spotify.com/artist/6JirfCD0iO9srNDD1PEuyZ) | [Pink Noise Continuum](https://open.spotify.com/album/4YarB4Dxw1kTmRpcD7tvCs) | 2:47 | 2026-03-31 | 2026-04-07 |
 | [Pink Noise Cotton](https://open.spotify.com/track/2RGCXxyC7t51YEB5ppQtdL) | [Aequencies](https://open.spotify.com/artist/6vlpT66mbWkGiI3qy2dCdu) | [Pink Noise Cotton](https://open.spotify.com/album/1nJpwGmBljByaxCQfJniH5) | 2:36 | 2026-03-31 | 2026-04-02 |
 | [Pink Noise Cruis](https://open.spotify.com/track/0AxtASF36CJKljxhNUABqb) | [Pink Drift](https://open.spotify.com/artist/1sstuT7ZXtGHzymk3hra0a) | [Pink Noise Soundscapes](https://open.spotify.com/album/1ISr3lk2WEvEFpAACxtfvX) | 2:47 | 2023-03-16 | 2023-10-28 |
 | [Pink Noise Dawn](https://open.spotify.com/track/1dOorFr5OeiReTa9JHEL3S) | [Sleeping Peace](https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw) | [Pink Noise Dawn](https://open.spotify.com/album/4rPqjignGvrBSMxhcWuyvC) | 2:56 | 2023-10-27 | 2025-12-10 |

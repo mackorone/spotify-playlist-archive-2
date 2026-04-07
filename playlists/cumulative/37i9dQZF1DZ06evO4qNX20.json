@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "Chalino S\u00e1nchez Canta Corridos al Estilo Culiac\u00e1n (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0jcI7bVG13NCyxphp60wCG"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165360,
+      "name": "Corrido de Rosalino - Remastered 2025",
+      "url": "https://open.spotify.com/track/2nYtDxtPjn5TQXPAnsn8uU"
+    },
+    {
+      "album": {
         "name": "El Pela Vacas",
         "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
       },
@@ -554,7 +572,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 215177,
       "name": "Flor Margarita",
       "url": "https://open.spotify.com/track/4JwdKHP4C2d4sc3KakrPiK"

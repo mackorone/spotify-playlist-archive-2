@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 163372,
+  "num_followers": 163382,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adBUgAAAAADcVPm3oZkuGLE95LdSf+3X",
+  "snapshot_id": "adGmAAAAAADk3bQEdSxieptbH1V+BO9B",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 253272,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/4YSbePPCYS4yEtiahaCuAb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triunfo",
         "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 360066,
       "name": "Del Puente Pa' All\u00e1",
       "url": "https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 253272,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/4YSbePPCYS4yEtiahaCuAb"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huellas Del Pasado",
-        "url": "https://open.spotify.com/album/0KytSLo7Ou7LnBeAS9KUqy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 306893,
-      "name": "Es Mejor No Despertar",
-      "url": "https://open.spotify.com/track/7CWtHOMsTfdeI5iFvuBPGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tapando el Hueco",
         "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 305506,
       "name": "Mi Valle del Cauca",
       "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Huellas Del Pasado",
+        "url": "https://open.spotify.com/album/0KytSLo7Ou7LnBeAS9KUqy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 306893,
+      "name": "Es Mejor No Despertar",
+      "url": "https://open.spotify.com/track/7CWtHOMsTfdeI5iFvuBPGz"
     },
     {
       "added_at": null,

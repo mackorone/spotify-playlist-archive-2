@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Winehouse. The essential tracks, all in one playlist.",
-  "num_followers": 1201444,
+  "num_followers": 1201518,
   "original_name": "This Is Amy Winehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adBUgAAAAADoiPx1l3tEx1Hta0KOdxiX",
+  "snapshot_id": "adGmAAAAAADJBhYDlIhwKmPV7EOKhuL/",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 233733,
-      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
-      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
+      "duration_ms": 232120,
+      "name": "Valerie - BBC Radio 1 Live Lounge",
+      "url": "https://open.spotify.com/track/5it9RIRXDwiLpJKdce6Z7e"
     },
     {
       "added_at": null,
@@ -95,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+        "name": "Frank (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 214493,
-      "name": "Stronger Than Me",
-      "url": "https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9"
+      "duration_ms": 200600,
+      "name": "Fuck Me Pumps",
+      "url": "https://open.spotify.com/track/1FLzTxrNNgqrAEsQvHJ9Gx"
     },
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frank (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 200600,
-      "name": "Fuck Me Pumps",
-      "url": "https://open.spotify.com/track/1FLzTxrNNgqrAEsQvHJ9Gx"
+      "duration_ms": 214493,
+      "name": "Stronger Than Me",
+      "url": "https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9"
     },
     {
       "added_at": null,
@@ -159,22 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets II",
-        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+        "name": "Frank (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
       "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
         {
           "name": "Amy Winehouse",
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 200586,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
+      "duration_ms": 209560,
+      "name": "What Is It About Men",
+      "url": "https://open.spotify.com/track/6QIdkhQ33eTSPBHu4NWl7l"
     },
     {
       "added_at": null,
@@ -195,18 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frank (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
       "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
         {
           "name": "Amy Winehouse",
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 209560,
-      "name": "What Is It About Men",
-      "url": "https://open.spotify.com/track/6QIdkhQ33eTSPBHu4NWl7l"
+      "duration_ms": 200586,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Take The Box",
+      "url": "https://open.spotify.com/track/1cYZfOVeTOSWNZe9liBa6h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At The BBC",
         "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 234066,
       "name": "I Heard It Through The Grapevine - Live On Jools Holland Hootenanny / 31st December 2006",
       "url": "https://open.spotify.com/track/5kB7BZY3dJJtQYiXkyesrD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frank",
-        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Take The Box",
-      "url": "https://open.spotify.com/track/1cYZfOVeTOSWNZe9liBa6h"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 317013,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/2TfIuZiaQK2I6Dsn0GxxdN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At The BBC",
         "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 198080,
       "name": "Teach Me Tonight - Live On Jools Holland Hootenanny / 2004",
       "url": "https://open.spotify.com/track/1U0cCrP1EhDFlmB6CTRh5O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frank",
-        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 317013,
-      "name": "In My Bed",
-      "url": "https://open.spotify.com/track/2TfIuZiaQK2I6Dsn0GxxdN"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 254727,
+      "name": "Amy Amy Amy",
+      "url": "https://open.spotify.com/track/6lX3i8dl8gsWMfaUIgcOl6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At The BBC",
         "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 276080,
       "name": "Don't Go To Strangers - Live On Jools Holland Hootenanny / 2006",
       "url": "https://open.spotify.com/track/3kt92YozPwnpnE5yQziJ60"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frank",
-        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 254727,
-      "name": "Amy Amy Amy",
-      "url": "https://open.spotify.com/track/6lX3i8dl8gsWMfaUIgcOl6"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 253059,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/56Arzti6qoYbWlU5cM5xQ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At The BBC",
         "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 73693,
       "name": "Tenderly - Live On Later... With Jools Holland / 2006",
       "url": "https://open.spotify.com/track/2RtYWELB3znKy86yd9VTfI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frank",
-        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 253059,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/56Arzti6qoYbWlU5cM5xQ9"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At The BBC",
-        "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 154680,
-      "name": "Lullaby Of Birdland - Live From The Stables / 2004",
-      "url": "https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frank",
         "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 410760,
       "name": "You Sent Me Flying / Cherry",
       "url": "https://open.spotify.com/track/2XVLtD3PlpQTdh81UP2grX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At The BBC",
+        "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "Lullaby Of Birdland - Live From The Stables / 2004",
+      "url": "https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb"
     },
     {
       "added_at": null,

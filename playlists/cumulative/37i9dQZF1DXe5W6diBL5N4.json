@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: \uc544\uc774\ub9b0 (IRENE)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: KISS OF LIFE) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -28686,7 +28686,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 200089,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l"
@@ -84887,6 +84887,24 @@
     },
     {
       "album": {
+        "name": "1\ub4f1\ub4e4 Audition end war Episode 8",
+        "url": "https://open.spotify.com/album/5i8NSVay4nhlghlg1XBCn9"
+      },
+      "artists": [
+        {
+          "name": "Sonnet",
+          "url": "https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272410,
+      "name": "From Mark",
+      "url": "https://open.spotify.com/track/0OnhIlYh3ayzcaV0pHh410"
+    },
+    {
+      "album": {
         "name": "From Now",
         "url": "https://open.spotify.com/album/6Bmg7Tl2MoeqVZZQw7AIda"
       },
@@ -125554,7 +125572,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 155307,
       "name": "It\u2019s on me (Feat. Choiza)",
       "url": "https://open.spotify.com/track/4xmSjMbTxV6kwoT1Tfw4AL"
@@ -142312,7 +142330,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 179000,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/7kX8VZyaNOi1nIurUoU1Im"
@@ -144818,7 +144836,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 180000,
       "name": "Love Comes Slowly",
       "url": "https://open.spotify.com/track/2DHwbEzphzJGOiZ9dMAzEk"
@@ -175469,6 +175487,24 @@
     },
     {
       "album": {
+        "name": "New Boat",
+        "url": "https://open.spotify.com/album/6CMmaYAGGTQDGWojsSmC1c"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164263,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/43IC6Wrjbq84VWE0pHjmu9"
+    },
+    {
+      "album": {
         "name": "Of Blue, Dreams, and Us",
         "url": "https://open.spotify.com/album/5wlu06IqhxviPSQOpRGHkW"
       },
@@ -192767,6 +192803,44 @@
     },
     {
       "album": {
+        "name": "PUBLIC ENEMIES",
+        "url": "https://open.spotify.com/album/55znXAoQQTnD48knM4A5BU"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        },
+        {
+          "name": "Iyaan",
+          "url": "https://open.spotify.com/artist/01XMTLO2jCbABW5w0Cvp7d"
+        },
+        {
+          "name": "Jeffrey White",
+          "url": "https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi"
+        },
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "PUBLIC ENEMIES (Feat. OSUN, Iyaan, Jeffrey White, Raf Sandou)",
+      "url": "https://open.spotify.com/track/6TUuxnabfrlNbFi0FJSz5G"
+    },
+    {
+      "album": {
         "name": "Puff Puff",
         "url": "https://open.spotify.com/album/2m48cB7uTvFvHTGgeGHH8x"
       },
@@ -201054,6 +201128,28 @@
       "duration_ms": 168865,
       "name": "Roll The Dice (feat. DeVita)",
       "url": "https://open.spotify.com/track/4zLyB7y3HKVS0zIHlqEcZq"
+    },
+    {
+      "album": {
+        "name": "Roll the dice",
+        "url": "https://open.spotify.com/album/29ZUus6WL04MX6sN4GnfBn"
+      },
+      "artists": [
+        {
+          "name": "Rolling Quartz",
+          "url": "https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe"
+        },
+        {
+          "name": "SIYEON",
+          "url": "https://open.spotify.com/artist/5iKOmg1wFizVwajKeiyzvf"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191482,
+      "name": "Roll the dice (feat. SIYEON) (prod. Yoon Do Hyun)",
+      "url": "https://open.spotify.com/track/7MMvKPKnqMMkZ8kFYM8yui"
     },
     {
       "album": {
@@ -209574,6 +209670,24 @@
       "duration_ms": 370946,
       "name": "Seventy",
       "url": "https://open.spotify.com/track/34hhLOal73Rq8gOyk2JErO"
+    },
+    {
+      "album": {
+        "name": "Sex Genius",
+        "url": "https://open.spotify.com/album/1sHRhphO62F7rv1jx34Hp2"
+      },
+      "artists": [
+        {
+          "name": "Jooyoung",
+          "url": "https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206857,
+      "name": "Sex Genius",
+      "url": "https://open.spotify.com/track/0keBlUMTT3es63FPRblZ71"
     },
     {
       "album": {
@@ -226974,7 +227088,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 168874,
       "name": "Sting",
       "url": "https://open.spotify.com/track/55Rhc7hgkvZKs2SPUSdLBF"
@@ -249220,7 +249334,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 244000,
       "name": "To You",
       "url": "https://open.spotify.com/track/6V2f7fhOdwoLXGTQkPby4V"
@@ -252004,7 +252118,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 209209,
       "name": "Trampoline",
       "url": "https://open.spotify.com/track/1Wkw87vbB0k45rtjlxo4eB"
@@ -256356,7 +256470,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 171006,
       "name": "Unhappy Ending",
       "url": "https://open.spotify.com/track/2Y3yV7ILRKPwJeO3ebbGNm"
@@ -270729,6 +270843,24 @@
     },
     {
       "album": {
+        "name": "Who is she",
+        "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Who is she",
+      "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
+    },
+    {
+      "album": {
         "name": "who is this woman?",
         "url": "https://open.spotify.com/album/5IhSTNLKlu1hgPKSBSyg4B"
       },
@@ -270892,6 +271024,24 @@
       "duration_ms": 240435,
       "name": "WHOA! Freestyle(+)",
       "url": "https://open.spotify.com/track/6TS006WRLJ7hjhQ1Hup0PV"
+    },
+    {
+      "album": {
+        "name": "Whoever, Someone",
+        "url": "https://open.spotify.com/album/5IRjFw7dlHzDgdF5YJmZlx"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243253,
+      "name": "Whoever, Someone",
+      "url": "https://open.spotify.com/track/2i6xxAfoNGjg1wD4maNStS"
     },
     {
       "album": {
@@ -273860,7 +274010,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 191000,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/1J9RGYqlLKuAtNkEoISL31"
@@ -286279,6 +286429,24 @@
     },
     {
       "album": {
+        "name": "\uc6b0\ub9ac\ub294 \ub9e4\uc77c\ub9e4\uc77c OST Part.7 \u2013 \ub098\uc758 \ubc14\ub78c\uc740 (Before We Knew OST Part.7 \u2013 My Wish)",
+        "url": "https://open.spotify.com/album/5mxc5C915JkW8yWmwRYeRg"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "\ub098\uc758 \ubc14\ub78c\uc740 (My Wish)",
+      "url": "https://open.spotify.com/track/4nBrz3SZL65qMNf2oF4i5O"
+    },
+    {
+      "album": {
         "name": "\ub098\uc758 \ubcc4 My Star",
         "url": "https://open.spotify.com/album/27jFPkqwr31oXGzIWaSV00"
       },
@@ -287770,6 +287938,24 @@
       "duration_ms": 164102,
       "name": "\ub208\ubcf4\ub77c",
       "url": "https://open.spotify.com/track/1ZVcV1OAGmlS03W52UtNzk"
+    },
+    {
+      "album": {
+        "name": "My First Kick",
+        "url": "https://open.spotify.com/album/6w4EhlJd0BAXvE24KuaE8j"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "\ub208\uc5d0 \uac70\uc2ac\ub9ac\uace0 \uc2f6\uc5b4 (Eye-Poppin')",
+      "url": "https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC"
     },
     {
       "album": {

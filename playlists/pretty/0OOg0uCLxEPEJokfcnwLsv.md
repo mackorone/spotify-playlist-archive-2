@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 862 likes - 118 songs - 7 hr 11 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 885 likes - 131 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,18 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 116 | [Runnin](https://open.spotify.com/track/4OLphiU0dKvFTkIPSdOS5j) | [TV Screams](https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4) | [TRUCKIN' EP](https://open.spotify.com/album/6WXiAv8LsKlQHT26HAin7f) | 2:12 |
 | 117 | [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 |
 | 118 | [Wasted](https://open.spotify.com/track/0TiJ38Y29vd3RiOFzjUM44) | [Church of Elder](https://open.spotify.com/artist/6k5TPRqgd3Hvi0to5s05gQ) | [Wasted](https://open.spotify.com/album/1DD2XZIV8cYiMhF1rMbyC9) | 3:52 |
+| 119 | [Make It Alright](https://open.spotify.com/track/7gWWilzekZ5Y3vyuTCNspq) | [Lost Velvet](https://open.spotify.com/artist/43VZcpziN2RTPNRbrdMgAT) | [Make It Alright](https://open.spotify.com/album/62BRuVUHTImfiziKzuXKH3) | 3:07 |
+| 120 | [For the Fire](https://open.spotify.com/track/7zQfGNk4DwN8kQIl33AHqr) | [Carlos Rising](https://open.spotify.com/artist/0BeAuKNzkpVr6w0nLi5tro) | [Amsterdam](https://open.spotify.com/album/6R8qpys0U9x9asDjE94hsE) | 3:37 |
+| 121 | [9 to 5 Dreams](https://open.spotify.com/track/3WNHabi5yTf8a4bce3xIlL) | [Deadline/Daydreams](https://open.spotify.com/artist/4qYkrZKqZwnck4JVLMAw22) | [9 to 5 Dreams](https://open.spotify.com/album/2lcVxVFpsbSo7DzB7tXgMJ) | 3:53 |
+| 122 | [Shake Your Body](https://open.spotify.com/track/6a9Nre6t2EiVCnhKesVRNW) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Shake Your Body](https://open.spotify.com/album/2HGiAwhii8Rs0IhVP54bTD) | 3:56 |
+| 123 | [Unlike & Subscribe](https://open.spotify.com/track/2Uc4NdKKnJtX6dyvF3rGEI) | [This is Lucas](https://open.spotify.com/artist/2VtU1AcO5FYmWb0Cuemc0M) | [Unlike & Subscribe](https://open.spotify.com/album/4V0f4CSEhQTQoo9RYnZ1jZ) | 3:06 |
+| 124 | [Mientras Tanto](https://open.spotify.com/track/0DgJ0a2X5nQ7tKbQiyz0ws) | [Garage 21](https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j) | [Fuego](https://open.spotify.com/album/1SojAZYDpa0dDr9exzKjQw) | 3:13 |
+| 125 | [Follow Me](https://open.spotify.com/track/3dkjZgTh8oJmgV5OmJLVtl) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Follow Me](https://open.spotify.com/album/5taDFBJEell9JWvE4Szr7t) | 4:28 |
+| 126 | [Someone Gotta Hold](https://open.spotify.com/track/3B3PRVnQ7lcwXMUlBNiUje) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/17IiSKvoILI4Yc0qnqQZzH) | 3:17 |
+| 127 | [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 |
+| 128 | [Of a Beautiful Dream](https://open.spotify.com/track/48T7NGSrmgHx40d3H3Iwl6) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Of a Beautiful Dream](https://open.spotify.com/album/7q1s3GZxJQ6CMES2udqaue) | 2:52 |
+| 129 | [The Hope That Kills You](https://open.spotify.com/track/4oi6vgA4XrcUKRO0N3Y3eq) | [Jonny Morgan & The Moral Support](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD) | [The Hope That Kills You](https://open.spotify.com/album/4jYxKqGVU9hhTp8nwyDHhl) | 4:00 |
+| 130 | [Survive You](https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Prelude](https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik) | 4:17 |
+| 131 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 |
 
-Snapshot ID: `AAAFoS71O3dwY8mblerYjo9I4eXe2663`
+Snapshot ID: `AAAFrpKdhsk1Cmh/DEcUX0JTokj4Ml98`

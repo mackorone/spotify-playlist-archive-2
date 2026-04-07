@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,203 songs - 2 day 19 hr 2 min
+1,206 songs - 2 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,8 @@
 | [FULL ASSAULT](https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7), [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8), [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [FULL ASSAULT / ALL THAT U WANT](https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS) | 2:44 | 2022-09-29 | 2022-12-02 |
 | [Full Speed](https://open.spotify.com/track/22efJ20TrKDfYaawh85fNj) | [Topi](https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Full Speed](https://open.spotify.com/album/6Uy49ZyfFwVoV6sFM9eiHh) | 2:53 | 2023-07-31 | 2023-12-14 |
 | [Funk Machine](https://open.spotify.com/track/7eqYmCSmDl2UqcLfGJZegj) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Funk Machine](https://open.spotify.com/album/4eJxnNlmXqUHzltXMWJ67K) | 2:55 | 2025-10-09 | 2026-01-15 |
+| [funk of the week](https://open.spotify.com/track/6a53HroJufw9yjFfc9q6jy) | [Eccentric](https://open.spotify.com/artist/575gveAPGZRLDKnpRNNU3d), [Glitch Cat](https://open.spotify.com/artist/3zquCvGjujDQ8U53bH1ngW) | [Monstercat Uncaged Selections 02](https://open.spotify.com/album/4ze5qDWaGaitMcyXXkcujn) | 4:00 | 2026-04-06 |  |
+| [Funk Star \(Be Polite\)](https://open.spotify.com/track/29w7Ph7ljedsQp7zsaLeIx) | [Synthetic](https://open.spotify.com/artist/3Xg0BvwpDq7msnpXMtX1x4), [CLV](https://open.spotify.com/artist/5H5wUF8cjtn3erNzcUZUbC) | [Funk Star \(Be Polite\)](https://open.spotify.com/album/2gfygIWZMm03LA0MZyTLsq) | 2:51 | 2026-04-06 |  |
 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-07 | 2022-06-17 |
 | [GALACTICAL](https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [GALACTICAL](https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa) | 4:35 | 2022-11-07 | 2023-02-01 |
 | [games](https://open.spotify.com/track/6OhpQ4deBbmA4J6gUGw92o) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [Silk Selections 02](https://open.spotify.com/album/478IBtvh3n0y5At5wpoTRY) | 2:44 | 2024-12-10 | 2025-03-19 |
@@ -490,6 +492,7 @@
 | [High](https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [High](https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ) | 2:52 | 2023-07-18 | 2023-12-14 |
 | [High Enough](https://open.spotify.com/track/6qv0ptzHveUZEy4cwxoRg3) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [High Enough](https://open.spotify.com/album/1a9TrMvaBz287m64GsDsak) | 2:57 | 2023-08-02 | 2023-12-14 |
 | [High Octane](https://open.spotify.com/track/3SsRCTJzSTkf6pX8Yf1cU2) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [High Octane](https://open.spotify.com/album/5Oju8kpo1S0PxcpF83pdIu) | 1:50 | 2024-11-27 | 2025-03-08 |
+| [Higher \(Rampage Open Air 2026 Anthem\)](https://open.spotify.com/track/4CXWY9ETaEFPQmrjCYecI4) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm), [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl) | [Higher \(Rampage Open Air 2026 Anthem\)](https://open.spotify.com/album/1arSZPYhYaAsEmAYcdepNp) | 3:35 | 2026-04-06 |  |
 | [Higher Ground](https://open.spotify.com/track/2adNW24fEA2QaP7uc7pFl7) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Higher Ground \(Part 2\)](https://open.spotify.com/album/5qNseEHrO1JH7H8iDVm3J6) | 3:21 | 2023-03-02 | 2023-05-30 |
 | [Higher Peaks](https://open.spotify.com/track/1PpLf7d6YnJ4SyjqmXR5VG) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Higher Peaks](https://open.spotify.com/album/0jGDUCzOBcximXf2HnHfuv) | 5:07 | 2022-06-10 | 2022-08-23 |
 | [Hit My Line](https://open.spotify.com/track/30CCIjlZ9vSb6ZTDwlEUZX) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Hit My Line](https://open.spotify.com/album/1jsCz6z1vazhH54A8z88gS) | 2:35 | 2023-01-31 | 2023-04-18 |

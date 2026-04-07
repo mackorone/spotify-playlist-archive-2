@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142790,
+  "num_followers": 1142807,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Leave What's Lost Behind",
-        "url": "https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/01OOLvNYxeSttThtUj8Mor"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "I Told You So",
         "url": "https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 254866,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Leave What's Lost Behind",
+        "url": "https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/01OOLvNYxeSttThtUj8Mor"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Woodland - EP",
-        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Sadnecessary",
         "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+        "name": "Woodland - EP",
+        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1447,6 +1431,22 @@
       "duration_ms": 228746,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/51ygW389BW4Dut3B69pSwc"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "I'll Keep You In Mind, From Time to Time",
         "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA"
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
         }
       ],
-      "duration_ms": 243533,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA"
+      "duration_ms": 207306,
+      "name": "I Belong in Your Arms",
+      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1615,22 +1631,6 @@
       "duration_ms": 204466,
       "name": "Guru",
       "url": "https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "I Belong in Your Arms",
-      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
     }
   ],
   "unique_name": "You & Me",

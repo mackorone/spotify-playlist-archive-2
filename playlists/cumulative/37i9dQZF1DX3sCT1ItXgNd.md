@@ -2,7 +2,7 @@
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
-> Lo mejor del pop e español\. Foto: Marta Santos
+> Lo mejor del pop en español\. Foto: Marta Santos
 
 885 songs - 1 day 20 hr 30 min
 

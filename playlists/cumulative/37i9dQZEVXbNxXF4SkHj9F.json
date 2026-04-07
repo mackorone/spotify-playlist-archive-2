@@ -23708,7 +23708,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 205826,
       "name": "My whole world",
       "url": "https://open.spotify.com/track/55pCe0UgAeaeWKKSQqdiWh"
@@ -24982,6 +24982,24 @@
       "duration_ms": 176126,
       "name": "Nothing Without Your Love",
       "url": "https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Final",
+        "url": "https://open.spotify.com/album/0ggz2ubI65Fw9c9tIi27xP"
+      },
+      "artists": [
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214090,
+      "name": "NOW IM YOUNG (Prod. by Hukky Shibaseki)",
+      "url": "https://open.spotify.com/track/6tTz1LRQ89JkBdD9iUBPO9"
     },
     {
       "album": {

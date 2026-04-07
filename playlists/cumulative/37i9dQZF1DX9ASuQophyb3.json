@@ -10761,6 +10761,28 @@
     },
     {
       "album": {
+        "name": "\u00d6zledim (Red Bull Track Takeover)",
+        "url": "https://open.spotify.com/album/6jLjEfOk9awlD9MwFgXo1m"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        },
+        {
+          "name": "Murat Boz",
+          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "\u00d6zledim - Red Bull Track Takeover",
+      "url": "https://open.spotify.com/track/4WfUN8UCco4f0L3EXubzbi"
+    },
+    {
+      "album": {
         "name": "\u00d6z\u00fcr Dilerim",
         "url": "https://open.spotify.com/album/0f5Ot3CyN0nPA2CpW9Jkg9"
       },
@@ -11022,7 +11044,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 201927,
       "name": "\u015euh Nefes - Ceceli",
       "url": "https://open.spotify.com/track/6yBVZ7n0GwTdITxphKiuG8"

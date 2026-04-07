@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Josiah Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,292 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,446 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [It Is Well](https://open.spotify.com/track/0cKZ96VfjE9Ay6kuhSusn9) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [It Is Well](https://open.spotify.com/album/7L43akka38rICHpCWMXuXC) | 3:53 |
 | 80 | [Kingdom Come](https://open.spotify.com/track/6kFvpaobh1awtDOD6j5iWO) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Kingdom Come](https://open.spotify.com/album/0ddeu0qzjlC1DGitmzXIt6) | 3:54 |
 
-Snapshot ID: `AAAAAAceAcOLeYMz5wV1I6pRWjE9qgFe`
+Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`

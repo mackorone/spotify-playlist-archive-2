@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,193 songs - 6 day 23 hr 18 min
+3,194 songs - 6 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1521,6 +1521,7 @@
 | [Maa ilman vettä](https://open.spotify.com/track/5gFVdvBQ0wVIZPYqrMSM8m) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Maa ilman vettä](https://open.spotify.com/album/4zDfO6q0mJkiTUDeysv6M1) | 2:19 | 2024-12-14 | 2025-01-19 |
 | [Maa on niin kaunis \(Toivioretkellä\)](https://open.spotify.com/track/5ePePcvp5FnkuzjxnQdQbf) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Maa on niin kaunis \(Toivioretkellä\)](https://open.spotify.com/album/5kEK8E96DOxZ20SFxCxI1c) | 2:20 | 2021-12-19 | 2025-12-27 |
 | [Maailma meidän jälkeen](https://open.spotify.com/track/6nSeXEH8vhorjbsO1fQA8o) | [Janna](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Maailma meidän jälkeen](https://open.spotify.com/album/4mNlAWI1HUsOGObRQS0NAB) | 3:32 | 2021-04-26 | 2021-05-17 |
+| [Maailman Huipulla](https://open.spotify.com/track/39tNLJl07Dzxktiu6mKtJH) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Maailman Huipulla](https://open.spotify.com/album/1zwH2Ac1JCcbMxZbIUSh6r) | 2:36 | 2026-04-06 |  |
 | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/track/492nM6hzlMzbbbu4vE93bb) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm), [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/album/0RvRU3Y5vPTHuEIb2GIHkl) | 3:39 | 2024-10-12 | 2024-10-20 |
 | [Maailman onnellisin kansa](https://open.spotify.com/track/4EhjCPddaariB4ugB9fwFP) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Maailman onnellisin kansa](https://open.spotify.com/album/7w8ePqPjWLjVa5THQwcfPf) | 3:32 | 2023-03-18 | 2023-03-20 |
 | [Maailman ympäri](https://open.spotify.com/track/0HLSHAhE13XbkJDzyZymzQ) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Coast to Costi](https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv) | 2:28 | 2023-11-18 | 2024-01-21 |
@@ -2155,7 +2156,7 @@
 | [Pulkka](https://open.spotify.com/track/7d6Iy0XKcNFPxZfTWPFZbe) | [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Totuuksia popmusiikista](https://open.spotify.com/album/4hdTqUTms7IPrUtqqTJCru) | 3:22 | 2021-12-12 | 2022-03-03 |
 | [Punaisia neilikoita](https://open.spotify.com/track/2Rg0FBhgehpE5OowPKmouF) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 1:32 | 2023-09-23 | 2023-09-29 |
 | [Punasel](https://open.spotify.com/track/4OsVnfvjA1Obfmz7I5iKyK) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Punasel](https://open.spotify.com/album/34szKylJ0hcuzrvgqfvQ2v) | 2:54 | 2024-11-30 | 2024-12-07 |
-| [Puoliks minä](https://open.spotify.com/track/31hycOlVI8KbOM7mIPWC0M) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Sä olit oikees](https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC) | 2:58 | 2026-03-28 |  |
+| [Puoliks minä](https://open.spotify.com/track/31hycOlVI8KbOM7mIPWC0M) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Sä olit oikees](https://open.spotify.com/album/1FwYu4opIZk8ligjPzpPRC) | 2:58 | 2026-03-28 | 2026-04-07 |
 | [Puoliksi sun \(feat\. VIIVI\)](https://open.spotify.com/track/7MjsUe5VJfa42zqEZ0DE3J) | [Juha Tapio](https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM), [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Tulihevonen](https://open.spotify.com/album/0KjxJ16ydhZ9gFl1umT1QE) | 3:08 | 2026-03-28 | 2026-04-05 |
 | [Puppy](https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Puppy](https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV) | 2:40 | 2025-01-16 | 2025-01-25 |
 | [Pupu](https://open.spotify.com/track/18QAweMMhuFOajnlWTSSMD) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Pieni kuolema](https://open.spotify.com/album/0GYlIx9ArwU0WsDCiD4Ikd) | 3:55 | 2022-09-10 | 2022-09-15 |

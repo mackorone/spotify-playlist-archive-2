@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 479500,
+  "num_followers": 479675,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-04-03 04:01:30",
       "album": {
+        "name": "44024",
+        "url": "https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf"
+      },
+      "artists": [
+        {
+          "name": "Ueberrest",
+          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
+        }
+      ],
+      "duration_ms": 230427,
+      "name": "Disturbing Paradise",
+      "url": "https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY"
+    },
+    {
+      "added_at": "2026-04-03 04:01:30",
+      "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 204000,
       "name": "Bombacid",
       "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
-    },
-    {
-      "added_at": "2026-04-03 04:01:30",
-      "album": {
-        "name": "44024",
-        "url": "https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf"
-      },
-      "artists": [
-        {
-          "name": "Ueberrest",
-          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
-        }
-      ],
-      "duration_ms": 230427,
-      "name": "Disturbing Paradise",
-      "url": "https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY"
     },
     {
       "added_at": "2026-04-03 04:01:30",

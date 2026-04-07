@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Paul Cauthen",
-  "num_followers": 69902,
+  "num_followers": 69910,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -753,6 +753,26 @@
       "url": "https://open.spotify.com/track/13dPOEUDNyvOv8iKY9bxjq"
     },
     {
+      "added_at": "2025-11-20 16:34:55",
+      "album": {
+        "name": "Portland, Maine (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 210915,
+      "name": "Portland, Maine (feat. Jordan Davis)",
+      "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
+    },
+    {
       "added_at": "2026-03-06 05:00:29",
       "album": {
         "name": "False Start",
@@ -825,24 +845,24 @@
       "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
     },
     {
-      "added_at": "2025-11-20 16:34:55",
+      "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Portland, Maine (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov"
+        "name": "A Lesson In Leavin'",
+        "url": "https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu"
       },
       "artists": [
         {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         },
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 210915,
-      "name": "Portland, Maine (feat. Jordan Davis)",
-      "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
+      "duration_ms": 204603,
+      "name": "A Lesson In Leavin\u2019",
+      "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
     },
     {
       "added_at": "2026-03-06 05:00:29",
@@ -863,26 +883,6 @@
       "duration_ms": 159330,
       "name": "Tumbleweeds and Chewing Gum",
       "url": "https://open.spotify.com/track/6KvzXZ70HTT3sLd9iYxZJY"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
-        "name": "A Lesson In Leavin'",
-        "url": "https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        },
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 204603,
-      "name": "A Lesson In Leavin\u2019",
-      "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "1800 Miles",
-        "url": "https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "1800 Miles",
-      "url": "https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "Trail Of Flowers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
       },
@@ -965,36 +949,20 @@
       "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
     },
     {
-      "added_at": "2026-02-20 13:24:26",
+      "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Blue Water",
-        "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
+        "name": "1800 Miles",
+        "url": "https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka"
       },
       "artists": [
         {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 188773,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
-    },
-    {
-      "added_at": "2026-01-16 05:01:18",
-      "album": {
-        "name": "Like a Child",
-        "url": "https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 216380,
-      "name": "Like a Child",
-      "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
+      "duration_ms": 207160,
+      "name": "1800 Miles",
+      "url": "https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD"
     },
     {
       "added_at": "2025-11-14 00:01:39",
@@ -1013,6 +981,22 @@
       "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
     },
     {
+      "added_at": "2026-02-20 13:24:26",
+      "album": {
+        "name": "Blue Water",
+        "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
+    },
+    {
       "added_at": "2025-11-07 00:01:44",
       "album": {
         "name": "Little Things",
@@ -1027,6 +1011,22 @@
       "duration_ms": 209748,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
+    },
+    {
+      "added_at": "2026-01-16 05:01:18",
+      "album": {
+        "name": "Like a Child",
+        "url": "https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 216380,
+      "name": "Like a Child",
+      "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
     },
     {
       "added_at": "2026-02-13 05:01:21",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
     },
     {
-      "added_at": "2026-01-09 10:02:10",
-      "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w"
-      },
-      "artists": [
-        {
-          "name": "Marie Dresselhuis",
-          "url": "https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL"
-        }
-      ],
-      "duration_ms": 197963,
-      "name": "January",
-      "url": "https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP"
-    },
-    {
       "added_at": "2025-10-09 21:40:25",
       "album": {
         "name": "I WANT MY LOVED ONES TO GO WITH ME (DELUXE)",
@@ -1111,6 +1095,22 @@
       "duration_ms": 228593,
       "name": "Love Is A Canyon",
       "url": "https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw"
+    },
+    {
+      "added_at": "2026-01-09 10:02:10",
+      "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w"
+      },
+      "artists": [
+        {
+          "name": "Marie Dresselhuis",
+          "url": "https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL"
+        }
+      ],
+      "duration_ms": 197963,
+      "name": "January",
+      "url": "https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP"
     },
     {
       "added_at": "2026-01-30 05:01:55",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/4DAol5wRfD04SGMPsCUVdN"
     },
     {
-      "added_at": "2026-01-23 14:55:43",
-      "album": {
-        "name": "Another Time",
-        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 219725,
-      "name": "Another Time",
-      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "If There's A Heaven",
@@ -1195,6 +1179,22 @@
       "duration_ms": 301780,
       "name": "If There's A Heaven",
       "url": "https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx"
+    },
+    {
+      "added_at": "2026-01-23 14:55:43",
+      "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 219725,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/6G7jQQIOG0BQxVkqPgywag"
     },
     {
-      "added_at": "2026-02-20 13:24:26",
-      "album": {
-        "name": "A Perfect Dive",
-        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        }
-      ],
-      "duration_ms": 206284,
-      "name": "A Perfect Dive",
-      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
-    },
-    {
       "added_at": "2025-10-09 21:40:25",
       "album": {
         "name": "A Crater Wide",
@@ -1277,20 +1261,20 @@
       "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
     },
     {
-      "added_at": "2026-01-30 05:01:55",
+      "added_at": "2026-02-20 13:24:26",
       "album": {
-        "name": "Never Kissed a Cowboy",
-        "url": "https://open.spotify.com/album/0LQY59aSfb5QmRFK1z6VRK"
+        "name": "A Perfect Dive",
+        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
       },
       "artists": [
         {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
         }
       ],
-      "duration_ms": 184185,
-      "name": "Never Kissed a Cowboy",
-      "url": "https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1"
+      "duration_ms": 206284,
+      "name": "A Perfect Dive",
+      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
     },
     {
       "added_at": "2025-10-17 08:01:09",
@@ -1307,6 +1291,22 @@
       "duration_ms": 181773,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
+    },
+    {
+      "added_at": "2026-01-30 05:01:55",
+      "album": {
+        "name": "Never Kissed a Cowboy",
+        "url": "https://open.spotify.com/album/0LQY59aSfb5QmRFK1z6VRK"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 184185,
+      "name": "Never Kissed a Cowboy",
+      "url": "https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1365,22 +1365,6 @@
       "url": "https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK"
     },
     {
-      "added_at": "2026-01-16 05:01:18",
-      "album": {
-        "name": "The Dreamin' Kind",
-        "url": "https://open.spotify.com/album/5MK4yVKiCMIpSQtCUyVUGC"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 219030,
-      "name": "Dance On Thru",
-      "url": "https://open.spotify.com/track/5IN1bAiqeVW8Xb7ZV2pWBj"
-    },
-    {
       "added_at": "2025-10-31 00:01:27",
       "album": {
         "name": "The Longer You Hold On",
@@ -1395,6 +1379,22 @@
       "duration_ms": 172066,
       "name": "The Longer You Hold On",
       "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
+    },
+    {
+      "added_at": "2026-01-16 05:01:18",
+      "album": {
+        "name": "The Dreamin' Kind",
+        "url": "https://open.spotify.com/album/5MK4yVKiCMIpSQtCUyVUGC"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 219030,
+      "name": "Dance On Thru",
+      "url": "https://open.spotify.com/track/5IN1bAiqeVW8Xb7ZV2pWBj"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1565,6 +1565,22 @@
       "url": "https://open.spotify.com/track/1RXNsfzeF1pdEV7ZsJfECe"
     },
     {
+      "added_at": "2026-02-27 10:00:30",
+      "album": {
+        "name": "The Lost River Sessions",
+        "url": "https://open.spotify.com/album/5DeBqJ0io8B4LByrvoK6z5"
+      },
+      "artists": [
+        {
+          "name": "Zachary Lucky",
+          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "I wish I was a mole in the ground",
+      "url": "https://open.spotify.com/track/5gBuoiTMZu7VfKh00hsiV8"
+    },
+    {
       "added_at": "2025-10-31 00:01:27",
       "album": {
         "name": "Walking Home",
@@ -1585,20 +1601,20 @@
       "url": "https://open.spotify.com/track/642xXLrYiRYONlIDAVpJZE"
     },
     {
-      "added_at": "2026-02-27 10:00:30",
+      "added_at": "2026-04-03 04:04:19",
       "album": {
-        "name": "The Lost River Sessions",
-        "url": "https://open.spotify.com/album/5DeBqJ0io8B4LByrvoK6z5"
+        "name": "right by my side",
+        "url": "https://open.spotify.com/album/3KOBVybYa8lG5Ko5PJtZT9"
       },
       "artists": [
         {
-          "name": "Zachary Lucky",
-          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
+          "name": "Eric Kane",
+          "url": "https://open.spotify.com/artist/1c0It57ov3NYgwdU1trh2Y"
         }
       ],
-      "duration_ms": 185093,
-      "name": "I wish I was a mole in the ground",
-      "url": "https://open.spotify.com/track/5gBuoiTMZu7VfKh00hsiV8"
+      "duration_ms": 206729,
+      "name": "right by my side",
+      "url": "https://open.spotify.com/track/4PPuGYLJA0PrQObLui6wex"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1617,22 +1633,6 @@
       "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
     },
     {
-      "added_at": "2025-10-24 04:01:04",
-      "album": {
-        "name": "Burning Bridges Into Dust",
-        "url": "https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 169890,
-      "name": "Hanging Out In My Head",
-      "url": "https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Trail Of Flowers (Deluxe Edition)",
@@ -1647,6 +1647,22 @@
       "duration_ms": 209176,
       "name": "Dollar Bill Bar",
       "url": "https://open.spotify.com/track/6YmqrvUwNRWZZWNvPuDpRT"
+    },
+    {
+      "added_at": "2025-10-24 04:01:04",
+      "album": {
+        "name": "Burning Bridges Into Dust",
+        "url": "https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 169890,
+      "name": "Hanging Out In My Head",
+      "url": "https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp"
     },
     {
       "added_at": "2026-03-06 05:00:29",
@@ -1667,22 +1683,6 @@
       "duration_ms": 231210,
       "name": "Lover I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/1Nd24ZJSkqvVfYrq4Pytzw"
-    },
-    {
-      "added_at": "2026-02-06 05:01:26",
-      "album": {
-        "name": "Rearview",
-        "url": "https://open.spotify.com/album/2FZakM4qEkdslB5d4BrSiS"
-      },
-      "artists": [
-        {
-          "name": "Kyle McKearney",
-          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
-        }
-      ],
-      "duration_ms": 188296,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb"
     }
   ],
   "unique_name": "Renegades",

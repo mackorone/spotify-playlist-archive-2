@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 184 songs - 11 hr 21 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 185 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,5 +192,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 182 | [U See Us](https://open.spotify.com/track/4y2URy2dAfzFzZFDlAfCi7) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/2POZpxnN6IgGAzIf5P3KHz) | 3:25 |
 | 183 | [Alter Ego](https://open.spotify.com/track/5LDdlwdDIILBwIcoCrdMTo) | [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o), [GlockBoyz Teejaee](https://open.spotify.com/artist/53t9roZkWltf6zIcSHHFET) | [Alter Ego](https://open.spotify.com/album/7AoMYMDk8WjQ95TVEudUaD) | 2:21 |
 | 184 | [What Is Left To Say](https://open.spotify.com/track/3enDijqNJTZuAQpj1Jm6q6) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 3:39 |
+| 185 | [Confessions](https://open.spotify.com/track/6Tm2931jP5r0yN3EZ0xbfQ) | [Maitchhh](https://open.spotify.com/artist/265iWAcdttWU3gFXjrcbbh) | [Confessions](https://open.spotify.com/album/5GDRXm5vahoRbkSiqXrGi3) | 3:25 |
 
-Snapshot ID: `AAAgENOPSeDWptjAaFbQPW86jy+lP8Tb`
+Snapshot ID: `AAAgEQHIZCqF1tNPU+CohuUVsN+CfhSM`

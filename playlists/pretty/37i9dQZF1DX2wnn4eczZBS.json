@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11350,
+  "num_followers": 11352,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
-        "name": "Niemand Gaat Het Voor Je Doen",
-        "url": "https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 148159,
-      "name": "Fuck Je Gucci Shirt",
-      "url": "https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
         "name": "Smartlap Is Niet Dood",
         "url": "https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 190681,
       "name": "Vrijheid, Gelijkheid, Zusterschap",
       "url": "https://open.spotify.com/track/4EIM7QMhQLg8Q28cXqqrUs"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
+        "name": "Niemand Gaat Het Voor Je Doen",
+        "url": "https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 148159,
+      "name": "Fuck Je Gucci Shirt",
+      "url": "https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
-        "name": "Rode Seks Feeks",
-        "url": "https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 167381,
-      "name": "Rode Seks Feeks",
-      "url": "https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
         "name": "Praat Te Veel",
         "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 142560,
       "name": "Praat Te Veel",
       "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
+        "name": "Rode Seks Feeks",
+        "url": "https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 167381,
+      "name": "Rode Seks Feeks",
+      "url": "https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -551,6 +551,38 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 174352,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
+        "name": "LATEN ME KOUD",
+        "url": "https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433"
+      },
+      "artists": [
+        {
+          "name": "Brokezart",
+          "url": "https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou"
+        }
+      ],
+      "duration_ms": 155132,
+      "name": "LATEN ME KOUD",
+      "url": "https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
         "name": "Ik Weet Hoe Het Werkt",
         "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
       },
@@ -587,22 +619,6 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 174352,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
         "name": "Rondjes",
         "url": "https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk"
       },
@@ -615,38 +631,6 @@
       "duration_ms": 190541,
       "name": "Rondjes",
       "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
-        "name": "LATEN ME KOUD",
-        "url": "https://open.spotify.com/album/57CRAm3v7LNB6cSoaac433"
-      },
-      "artists": [
-        {
-          "name": "Brokezart",
-          "url": "https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou"
-        }
-      ],
-      "duration_ms": 155132,
-      "name": "LATEN ME KOUD",
-      "url": "https://open.spotify.com/track/1A8uEMR3qNUsxIbG5bzhi5"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
-        "name": "Aerobics",
-        "url": "https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM"
-      },
-      "artists": [
-        {
-          "name": "Kaat Van Stralen",
-          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
-        }
-      ],
-      "duration_ms": 167901,
-      "name": "Aerobics",
-      "url": "https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -683,6 +667,22 @@
       "duration_ms": 189946,
       "name": "Als Hij dan echt bestaat",
       "url": "https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
+        "name": "Aerobics",
+        "url": "https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM"
+      },
+      "artists": [
+        {
+          "name": "Kaat Van Stralen",
+          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
+        }
+      ],
+      "duration_ms": 167901,
+      "name": "Aerobics",
+      "url": "https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
-        "name": "Moe Van Jezelf",
-        "url": "https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo"
-      },
-      "artists": [
-        {
-          "name": "nonchelange",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        },
-        {
-          "name": "Mathieu Terryn",
-          "url": "https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK"
-        }
-      ],
-      "duration_ms": 160678,
-      "name": "Moe Van Jezelf",
-      "url": "https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
         "name": "Schaduw",
         "url": "https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 216887,
       "name": "Schaduw",
       "url": "https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
+        "name": "Moe Van Jezelf",
+        "url": "https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo"
+      },
+      "artists": [
+        {
+          "name": "nonchelange",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        },
+        {
+          "name": "Mathieu Terryn",
+          "url": "https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK"
+        }
+      ],
+      "duration_ms": 160678,
+      "name": "Moe Van Jezelf",
+      "url": "https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo"
     },
     {
       "added_at": "2026-04-03 12:19:33",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-04-03 12:19:33",
       "album": {
-        "name": "Kubus In Een Ballenbak",
-        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Komt Goed",
-      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
-    },
-    {
-      "added_at": "2026-04-03 12:19:33",
-      "album": {
         "name": "Bob Dylan",
         "url": "https://open.spotify.com/album/15cwNEjCv4EjW8xUiUnQ5M"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 225428,
       "name": "Bob Dylan",
       "url": "https://open.spotify.com/track/5FfhOLX2T07YpFNctSrO9P"
+    },
+    {
+      "added_at": "2026-04-03 12:19:33",
+      "album": {
+        "name": "Kubus In Een Ballenbak",
+        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Komt Goed",
+      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
     },
     {
       "added_at": "2026-04-03 12:19:33",

@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Codiciado en portada.",
-  "num_followers": 528983,
+  "num_followers": 529014,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "El Ejemplar",
-        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Afectado",
-      "url": "https://open.spotify.com/track/6Yn0bQfVdMLln9vYB31zKc"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Sabor A Sonora (En Vivo)",
         "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 143445,
       "name": "Sabor A Sonora - En Vivo",
       "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "El Ejemplar",
+        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Afectado",
+      "url": "https://open.spotify.com/track/6Yn0bQfVdMLln9vYB31zKc"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "HOME RUN",
-        "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 207886,
-      "name": "HOME RUN",
-      "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Pongase Bien Chula",
         "url": "https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF"
       },
@@ -559,22 +543,34 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Toca Disfrutar",
-        "url": "https://open.spotify.com/album/6gYmnDCUV6WIB3JoLTxFoZ"
+        "name": "HOME RUN",
+        "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
       },
       "artists": [
         {
-          "name": "Clase Personal",
-          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
-        },
-        {
-          "name": "Nivel 5",
-          "url": "https://open.spotify.com/artist/7kRSW5oj2hodURrzO6Xp8y"
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 193220,
-      "name": "Toca Disfrutar",
-      "url": "https://open.spotify.com/track/7HGqMeJcReCpKZlVMwqIST"
+      "duration_ms": 207886,
+      "name": "HOME RUN",
+      "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Soy Tan Tuyo",
+        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 220377,
+      "name": "Soy Tan Tuyo",
+      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -599,34 +595,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Soy Tan Tuyo",
-        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
+        "name": "Toca Disfrutar",
+        "url": "https://open.spotify.com/album/6gYmnDCUV6WIB3JoLTxFoZ"
       },
       "artists": [
         {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Soy Tan Tuyo",
-      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Con Aktitud Corazon Y Huevos",
-        "url": "https://open.spotify.com/album/13mRHd5JtLn6Apw9sT1MCL"
-      },
-      "artists": [
+          "name": "Clase Personal",
+          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
+        },
         {
-          "name": "Grupo Aktitud",
-          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
+          "name": "Nivel 5",
+          "url": "https://open.spotify.com/artist/7kRSW5oj2hodURrzO6Xp8y"
         }
       ],
-      "duration_ms": 254116,
-      "name": "Sue\u00f1a",
-      "url": "https://open.spotify.com/track/1e5ibZlcAQbacLRbDhzxTP"
+      "duration_ms": 193220,
+      "name": "Toca Disfrutar",
+      "url": "https://open.spotify.com/track/7HGqMeJcReCpKZlVMwqIST"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -647,6 +631,22 @@
       "duration_ms": 154656,
       "name": "Expectante",
       "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Con Aktitud Corazon Y Huevos",
+        "url": "https://open.spotify.com/album/13mRHd5JtLn6Apw9sT1MCL"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aktitud",
+          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
+        }
+      ],
+      "duration_ms": 254116,
+      "name": "Sue\u00f1a",
+      "url": "https://open.spotify.com/track/1e5ibZlcAQbacLRbDhzxTP"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Amor Sin Contrato",
-        "url": "https://open.spotify.com/album/2oZipBuWHNLi1D3tECdRpx"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 183352,
-      "name": "Amor Sin Contrato",
-      "url": "https://open.spotify.com/track/093oUp7Hi7hY7bcjIjqTN6"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Pase y Pase (En Vivo)",
         "url": "https://open.spotify.com/album/255bQQt1qMaS7x44hXw6pW"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 153733,
       "name": "Pase y Pase - En Vivo",
       "url": "https://open.spotify.com/track/1NVVvyIakIXkQQFeQkbL54"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Amor Sin Contrato",
+        "url": "https://open.spotify.com/album/2oZipBuWHNLi1D3tECdRpx"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 183352,
+      "name": "Amor Sin Contrato",
+      "url": "https://open.spotify.com/track/093oUp7Hi7hY7bcjIjqTN6"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Seras Mia",
-        "url": "https://open.spotify.com/album/06W0RYfvO5ZVW2DpKOUy2A"
-      },
-      "artists": [
-        {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
-        }
-      ],
-      "duration_ms": 256587,
-      "name": "Seras Mia",
-      "url": "https://open.spotify.com/track/1eYNeNvks6wWxaIKL2mCtf"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Desde Que Est\u00e1s Conmigo",
         "url": "https://open.spotify.com/album/5Y1yifNTjH1X5UY9oCfgXx"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Tengo Que Olvidar",
-        "url": "https://open.spotify.com/album/7au1GwjIJH9nkuDfuPeEgg"
+        "name": "Seras Mia",
+        "url": "https://open.spotify.com/album/06W0RYfvO5ZVW2DpKOUy2A"
       },
       "artists": [
         {
-          "name": "El Cartel De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7"
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
         }
       ],
-      "duration_ms": 159016,
-      "name": "Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/6YR24esZ2MpgBuzP6ey9Re"
+      "duration_ms": 256587,
+      "name": "Seras Mia",
+      "url": "https://open.spotify.com/track/1eYNeNvks6wWxaIKL2mCtf"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1139,6 +1123,22 @@
       "duration_ms": 163968,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3VroXeC69MnIXdA9gXvMEc"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Tengo Que Olvidar",
+        "url": "https://open.spotify.com/album/7au1GwjIJH9nkuDfuPeEgg"
+      },
+      "artists": [
+        {
+          "name": "El Cartel De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7"
+        }
+      ],
+      "duration_ms": 159016,
+      "name": "Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/6YR24esZ2MpgBuzP6ey9Re"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "Por Debajo del Agua",
+        "url": "https://open.spotify.com/album/12hMfDfs7nnq0ML9SNjRno"
+      },
+      "artists": [
+        {
+          "name": "Punto Final",
+          "url": "https://open.spotify.com/artist/4S8SyDPk41f7rfBU9IAdkA"
+        }
+      ],
+      "duration_ms": 247479,
+      "name": "Por Debajo del Agua",
+      "url": "https://open.spotify.com/track/0A1PJPNx8tZXHuew1cT0Ym"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "El \u00daltimo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/4AQ6qn5bLcBCU8H0PDtZRC"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 186000,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/1uh8sWHg8QcCs8K9S2NDZM"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Por Debajo del Agua",
-        "url": "https://open.spotify.com/album/12hMfDfs7nnq0ML9SNjRno"
-      },
-      "artists": [
-        {
-          "name": "Punto Final",
-          "url": "https://open.spotify.com/artist/4S8SyDPk41f7rfBU9IAdkA"
-        }
-      ],
-      "duration_ms": 247479,
-      "name": "Por Debajo del Agua",
-      "url": "https://open.spotify.com/track/0A1PJPNx8tZXHuew1cT0Ym"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/4GOzN7DvclTUBjhD8ACSVe"
+      },
+      "artists": [
+        {
+          "name": "Car\u00e1cter Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4wAJWswAl32MqJ8eQNQUDx"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "Cuando Dijiste Adi\u00f3s",
         "url": "https://open.spotify.com/album/2WKQUyedp7b3torl0iE2o0"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 167000,
       "name": "Cuando Dijiste Adi\u00f3s",
       "url": "https://open.spotify.com/track/65nsPnxHZpJahXy4QfJla2"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/4GOzN7DvclTUBjhD8ACSVe"
-      },
-      "artists": [
-        {
-          "name": "Car\u00e1cter Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4wAJWswAl32MqJ8eQNQUDx"
     },
     {
       "added_at": "2026-03-27 06:00:17",

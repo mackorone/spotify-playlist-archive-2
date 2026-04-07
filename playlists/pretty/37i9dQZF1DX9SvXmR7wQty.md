@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Classe Moyenne
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,592 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,613 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GRACIAS \(feat\. benjamiin & King Melrose\)](https://open.spotify.com/track/72yq1Q5f9FsXGDMWKLH1oq) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y), [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91) | [GRACIAS \(feat\. benjamiin & King Melrose\)](https://open.spotify.com/album/0UDYAVLhXNfRHYhpN0Joxn) | 2:42 |
+| 1 | [GRACIAS \(feat\. benjamiin, King Melrose & Justin Roy\)](https://open.spotify.com/track/72yq1Q5f9FsXGDMWKLH1oq) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y), [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [GRACIAS \(feat\. benjamiin, King Melrose & Justin Roy\)](https://open.spotify.com/album/0UDYAVLhXNfRHYhpN0Joxn) | 2:42 |
 | 2 | [C'est l'heure](https://open.spotify.com/track/6dTpJEVEj3Aeto2Pe6hDy0) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [C'est l'heure](https://open.spotify.com/album/5pLa5PUaJzfACm1Qg4RT9e) | 4:19 |
 | 3 | [GIRLFRIEND](https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [GIRLFRIEND](https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy) | 4:19 |
 | 4 | [Dans l’temps](https://open.spotify.com/track/1vFup6NBDo6yL5ubgErCo9) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Dans l’temps](https://open.spotify.com/album/4kyxM6cCGRQFRDfHxik3gn) | 3:07 |

@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Marco Schuitmaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,456 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,457 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Deze Nacht](https://open.spotify.com/track/1xFfN67OYCNDS3yN70IKVd) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Deze Nacht](https://open.spotify.com/album/7MpGGoc3MKotYWfkr0jh5A) | 2:47 |
 | 2 | [BBL](https://open.spotify.com/track/3VvgwTBOtDPylEZHtPvBuz) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [De Voorhoede](https://open.spotify.com/artist/30P6li7INhXvV1XIPKlMBU), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [BBL](https://open.spotify.com/album/5L3C8nCw6eXzm5MvDA4Que) | 2:22 |
 | 3 | [Waterpas](https://open.spotify.com/track/3aulIOmwLaqAnzNVy6Cho4) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Waterpas](https://open.spotify.com/album/5eU5jXJoDNFhvGlqrQOB8I) | 2:51 |
-| 4 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 |
-| 5 | [Alles Samen Gedaan](https://open.spotify.com/track/4fCXXSqmAkHLPS0ogMfSaK) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Alles Samen Gedaan](https://open.spotify.com/album/63QoyRRm1yaJi188DdRu3L) | 3:27 |
-| 6 | [Wie Bij Wie](https://open.spotify.com/track/1NvKQiKudIoQHSfYkMsAwJ) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Wie Bij Wie](https://open.spotify.com/album/7vXV0996Ms9D9mAYypoZ5d) | 2:18 |
-| 7 | [Ideale Schoonzoon](https://open.spotify.com/track/5wRcs5uMy4M2bxNJib8DNH) | [Bram Bongers](https://open.spotify.com/artist/1vsZqaXmk54eViu1kA8FHi) | [Ideale Schoonzoon](https://open.spotify.com/album/7M9hXXISKB2fFkfGwlY35N) | 3:07 |
-| 8 | [Fiesta Escalada](https://open.spotify.com/track/3qeU6sDU1cjZ0oCEh8YyFe) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Fiesta Escalada](https://open.spotify.com/album/3qEgGuGaHSRlGJhYO8oJu2) | 2:15 |
-| 9 | [Samen Uit Samen Thuis](https://open.spotify.com/track/23DJ7OaJ4iOAeYkPuln5gM) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Samen Uit Samen Thuis](https://open.spotify.com/album/3L5za3HAhPEb8EQ5EMr96x) | 2:44 |
-| 10 | [Als jij nu nog niet weet](https://open.spotify.com/track/5thX3h4OdQvVqP77tpteVt) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p) | [Als jij nu nog niet weet](https://open.spotify.com/album/3HSvJaqOHNOAJmhj6UFwLT) | 2:56 |
-| 11 | [Dans tot de morgen met mij](https://open.spotify.com/track/5pWhF7YA7P5leU1bAOrChs) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Dans tot de morgen met mij](https://open.spotify.com/album/5cqVz1HxdZE2iSo1dLU8ca) | 3:09 |
-| 12 | [De Kater Duurt Maar Even](https://open.spotify.com/track/7GPHLNnHDYV7ojmOQg7Ulq) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [De Kater Duurt Maar Even](https://open.spotify.com/album/5lYeulaTPy4ipBsI2mvlPI) | 3:06 |
-| 13 | [Elke Dag Is Mijn Dag](https://open.spotify.com/track/3nZlIlVR7WeqHh0006HHoZ) | [Rinus Werrens](https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU) | [Elke Dag Is Mijn Dag](https://open.spotify.com/album/7nKgxjvaoz53Hlh6BXGbrf) | 3:20 |
+| 4 | [Elke Dag Is Mijn Dag](https://open.spotify.com/track/3nZlIlVR7WeqHh0006HHoZ) | [Rinus Werrens](https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU) | [Elke Dag Is Mijn Dag](https://open.spotify.com/album/7nKgxjvaoz53Hlh6BXGbrf) | 3:20 |
+| 5 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 |
+| 6 | [Als jij nu nog niet weet](https://open.spotify.com/track/5thX3h4OdQvVqP77tpteVt) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p) | [Als jij nu nog niet weet](https://open.spotify.com/album/3HSvJaqOHNOAJmhj6UFwLT) | 2:56 |
+| 7 | [Alles Samen Gedaan](https://open.spotify.com/track/4fCXXSqmAkHLPS0ogMfSaK) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Alles Samen Gedaan](https://open.spotify.com/album/63QoyRRm1yaJi188DdRu3L) | 3:27 |
+| 8 | [Wie Bij Wie](https://open.spotify.com/track/1NvKQiKudIoQHSfYkMsAwJ) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Wie Bij Wie](https://open.spotify.com/album/7vXV0996Ms9D9mAYypoZ5d) | 2:18 |
+| 9 | [Dans tot de morgen met mij](https://open.spotify.com/track/5pWhF7YA7P5leU1bAOrChs) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Dans tot de morgen met mij](https://open.spotify.com/album/5cqVz1HxdZE2iSo1dLU8ca) | 3:09 |
+| 10 | [Ideale Schoonzoon](https://open.spotify.com/track/5wRcs5uMy4M2bxNJib8DNH) | [Bram Bongers](https://open.spotify.com/artist/1vsZqaXmk54eViu1kA8FHi) | [Ideale Schoonzoon](https://open.spotify.com/album/7M9hXXISKB2fFkfGwlY35N) | 3:07 |
+| 11 | [Fiesta Escalada](https://open.spotify.com/track/3qeU6sDU1cjZ0oCEh8YyFe) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Fiesta Escalada](https://open.spotify.com/album/3qEgGuGaHSRlGJhYO8oJu2) | 2:15 |
+| 12 | [Samen Uit Samen Thuis](https://open.spotify.com/track/23DJ7OaJ4iOAeYkPuln5gM) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Samen Uit Samen Thuis](https://open.spotify.com/album/3L5za3HAhPEb8EQ5EMr96x) | 2:44 |
+| 13 | [De Kater Duurt Maar Even](https://open.spotify.com/track/7GPHLNnHDYV7ojmOQg7Ulq) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [De Kater Duurt Maar Even](https://open.spotify.com/album/5lYeulaTPy4ipBsI2mvlPI) | 3:06 |
 | 14 | [Morgen is niet beloofd](https://open.spotify.com/track/7v90Wr8y9y79WatVLBUB0H) | [Danny Froger](https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy) | [Morgen is niet beloofd](https://open.spotify.com/album/6wz49GNeftZ5dL3qMefLUo) | 2:44 |
 | 15 | [Gouden Lach](https://open.spotify.com/track/1cRsgsAIU4AMPor92Uk8HX) | [Kelsey Verbrugge](https://open.spotify.com/artist/2tYVaEnYnRjaR6cEeL7HXn) | [Gouden Lach](https://open.spotify.com/album/3Hh4tzTtBMjlTWSenKplVa) | 2:33 |
 | 16 | [Jongen](https://open.spotify.com/track/0S5R3o6pU9RzoTaSxrz0HM) | [Rinus Ponsen](https://open.spotify.com/artist/0oWvaZ5p5eDjRyAhv57mlW) | [Jongen](https://open.spotify.com/album/1393qk9bvY8FJJGTJ8ltQs) | 3:38 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 89 | [Ik Kan Niet Zonder Jou](https://open.spotify.com/track/1tR3n0WLdSBWcmRnkwNCP9) | [Bryan Stricker](https://open.spotify.com/artist/3tdgnZyx1pSSe4XrLg7RnB) | [Ik Kan Niet Zonder Jou](https://open.spotify.com/album/3pidvIjA9VGuaBonE9x2d4) | 3:23 |
 | 90 | [Ik Wil Je Kussen 2.0](https://open.spotify.com/track/1uU3iQCiGsR8kq4DCq79KX) | [Gino Graus](https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT) | [Ik Wil Je Kussen 2.0](https://open.spotify.com/album/5OI189MSn1DB016gIY4Khr) | 3:13 |
 
-Snapshot ID: `AAAAAIaP0hevQk7Xq2y8CVSCZ7J9T4na`
+Snapshot ID: `AAAAAB3An4G9hAPN7SsC7CWLfEjwb0YD`

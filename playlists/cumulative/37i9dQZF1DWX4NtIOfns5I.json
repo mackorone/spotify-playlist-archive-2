@@ -10937,6 +10937,24 @@
     },
     {
       "album": {
+        "name": "spring cleaning",
+        "url": "https://open.spotify.com/album/2csnhRN3yY164SmOUXJLLE"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243740,
+      "name": "spring cleaning",
+      "url": "https://open.spotify.com/track/1rZggDe0NlgkU63OkbD3r8"
+    },
+    {
+      "album": {
         "name": "Older (and Wiser)",
         "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },

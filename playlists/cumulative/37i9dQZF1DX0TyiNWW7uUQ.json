@@ -347,6 +347,28 @@
     },
     {
       "album": {
+        "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
+        "url": "https://open.spotify.com/album/6HvRqIC1KLVpc5qNkqAgVC"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Thamizh Aadhavan",
+          "url": "https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129251,
+      "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
+      "url": "https://open.spotify.com/track/0xYYUicaDPp0VPyL0z7xzB"
+    },
+    {
+      "album": {
         "name": "Manithan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1DJsqgmok3ag4GxDWkcIlb"
       },
@@ -628,7 +650,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 273131,
       "name": "Chikiri Chikiri (From \"Peddi\") [TAMIL]",
       "url": "https://open.spotify.com/track/6a3Tfd6CmCGeBx7HHIhGse"
@@ -2509,6 +2531,28 @@
     },
     {
       "album": {
+        "name": "Mutta Kalakki (From \"Youth\")",
+        "url": "https://open.spotify.com/album/2g8yWUzEnZDEVdCzknsIeh"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ken Karunaas",
+          "url": "https://open.spotify.com/artist/6f9pTlTRRreLGq9gIonZOA"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Mutta Kalakki (From \"Youth\")",
+      "url": "https://open.spotify.com/track/3GNlsHDf3OH7V3LgccGAFc"
+    },
+    {
+      "album": {
         "name": "Naa Ready (From \"Leo\")",
         "url": "https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI"
       },
@@ -3012,7 +3056,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 235107,
       "name": "Oru Pere Varalaaru (From \"Jana Nayagan\")",
       "url": "https://open.spotify.com/track/6afuHWt45FEdNM9pkmVbgN"
@@ -3572,7 +3616,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 210041,
       "name": "Rise Of Dragon",
       "url": "https://open.spotify.com/track/5PH0e3NmMFUautnXDLT1N8"
@@ -3726,7 +3770,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 251333,
       "name": "Senjitaley",
       "url": "https://open.spotify.com/track/2RB3zzgxWc2RRBaJOkSEka"

@@ -96,7 +96,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 47741,
       "name": "23 Theme (From \"AA23\")",
       "url": "https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d"
@@ -1450,6 +1450,44 @@
     {
       "album": {
         "name": "Race Gurram",
+        "url": "https://open.spotify.com/album/2iatIf3DsNyjb5FgNNzGSD"
+      },
+      "artists": [
+        {
+          "name": "M.M.Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        },
+        {
+          "name": "Malavika",
+          "url": "https://open.spotify.com/artist/2KYWcjtMcKmqEWjpjB6XpT"
+        },
+        {
+          "name": "Simha",
+          "url": "https://open.spotify.com/artist/0tluFVpifIuT5slS3M1yTi"
+        },
+        {
+          "name": "M.M.Monissha",
+          "url": "https://open.spotify.com/artist/6n20A1n2i0woFveIrKJHKT"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Varikuppala Yadagiri",
+          "url": "https://open.spotify.com/artist/3cycJl75lhSFTnSYNaMbqN"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270064,
+      "name": "Cinema Choopistha Mama",
+      "url": "https://open.spotify.com/track/1rz7c1v0VbfH4BILwgxODm"
+    },
+    {
+      "album": {
+        "name": "Race Gurram",
         "url": "https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n"
       },
       "artists": [
@@ -1742,7 +1780,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 241874,
       "name": "Dekhlenge Saala (From \"Ustaad Bhagat Singh\")",
       "url": "https://open.spotify.com/track/7co5st66hDblsGOPVNMTv5"
@@ -1890,7 +1928,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 265978,
       "name": "Ee Manase Se Se",
       "url": "https://open.spotify.com/track/68cR7xQ7LKVms9EGKjDVTP"
@@ -2509,6 +2547,32 @@
     },
     {
       "album": {
+        "name": "Gulab-Jam (From \"Anumana Pakshi\")",
+        "url": "https://open.spotify.com/album/2gD1SXJ8Rhos9M3cETLod1"
+      },
+      "artists": [
+        {
+          "name": "Ramana Gogula",
+          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
+        },
+        {
+          "name": "Sricharan Pakala",
+          "url": "https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200074,
+      "name": "Gulab-Jam (From \"Anumana Pakshi\")",
+      "url": "https://open.spotify.com/track/6WSCOou2clUxTD6eiIPNAy"
+    },
+    {
+      "album": {
         "name": "Govindudu Andarivaadele",
         "url": "https://open.spotify.com/album/3H0DNhLsVryzwAhfHtkadC"
       },
@@ -2638,6 +2702,36 @@
       "duration_ms": 253145,
       "name": "Guns and Roses",
       "url": "https://open.spotify.com/track/565bXJPlrXSq5O2aVGUr0D"
+    },
+    {
+      "album": {
+        "name": "Guruthunda (From \"Chennai Love Story\")",
+        "url": "https://open.spotify.com/album/3ad1jliYfvb37tpEjys4JN"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Shruthika Samudhrala",
+          "url": "https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325081,
+      "name": "Guruthunda (From \"Chennai Love Story\")",
+      "url": "https://open.spotify.com/track/6HPqFPqr1xn8jxxkTBy5HD"
     },
     {
       "album": {
@@ -6861,6 +6955,36 @@
     },
     {
       "album": {
+        "name": "Race Gurram",
+        "url": "https://open.spotify.com/album/2iatIf3DsNyjb5FgNNzGSD"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        },
+        {
+          "name": "Rabbit Mac",
+          "url": "https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Varikuppala Yadagiri",
+          "url": "https://open.spotify.com/artist/3cycJl75lhSFTnSYNaMbqN"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265283,
+      "name": "Sweety",
+      "url": "https://open.spotify.com/track/6BpxNBiP443NaB9ui6zyQf"
+    },
+    {
+      "album": {
         "name": "Rudra Veena",
         "url": "https://open.spotify.com/album/56YV4uf2rak2AxgFMyrMDK"
       },
@@ -7130,7 +7254,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 282000,
       "name": "Ullaasam (From \"Saripodhaa Sanivaaram\")",
       "url": "https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c"

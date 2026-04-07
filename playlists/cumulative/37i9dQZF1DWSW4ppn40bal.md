@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-725 songs - 1 day 14 hr 10 min
+726 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Pink Haze](https://open.spotify.com/track/2NFFHYQRoBNup6Q1doQFAp) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [Pink Haze](https://open.spotify.com/album/5oGOYT98EUpoINrGHPh5pG) | 3:05 | 2022-07-01 | 2026-04-03 |
 | [Pink Haze Field](https://open.spotify.com/track/3G5FxwFhC6cMsEy8GsmWac) | [Emberwaves](https://open.spotify.com/artist/56QSJQc6Jik15NGJDHk4UH) | [Pink Haze Field](https://open.spotify.com/album/3oM6bkUjZlriko6QiB9jtD) | 2:48 | 2026-03-31 |  |
 | [Pink Horizon Sleep](https://open.spotify.com/track/7yUM4IUr05sXsWmpFXGgLw) | [HemiPhase](https://open.spotify.com/artist/4gblQGZXbgoGn2iCTNGuyO) | [Pink Night Focus](https://open.spotify.com/album/0xmnDt79aJ755PAxCZ7UJb) | 2:27 | 2026-03-31 |  |
+| [Pink Horizon Sleep](https://open.spotify.com/track/3VGmGQhlfIVmo4idceXqhG) | [Veyra Calm](https://open.spotify.com/artist/6nVFPJqukSY3n0uTHVwHJg) | [Pink Gentle Focus](https://open.spotify.com/album/0OCcqFLtoytXIKAmio3J4m) | 2:42 | 2026-03-31 |  |
 | [Pink Noise \(Low\-Mid Loopable\)](https://open.spotify.com/track/5PKnO5lRDEuLzFtUUmXthK) | [Matthias Stuski](https://open.spotify.com/artist/2a5pu2q6sEuQu7AxAielZH) | [Pink Noise Loop 2](https://open.spotify.com/album/55kI362qtGfoPyo81GoHJD) | 3:00 | 2021-12-01 | 2022-11-19 |
 | [Pink noise \- Lo\-Cut 2000 Hz](https://open.spotify.com/track/6VZ4yKMLkThyelLgEnwdNa) | [Factory Deluxe Pink Noise](https://open.spotify.com/artist/69AIjZaeNyXyywisnOY3xV) | [Pink Noise Vol\. 2](https://open.spotify.com/album/3d8ssqGd5Lx2ChUbiZxdjl) | 2:15 | 2022-06-03 | 2022-12-21 |
 | [Pink Noise \- Low Mid Frequency Loop](https://open.spotify.com/track/1fBi3MNRXOMsun4cIp9wLP) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Pink Noise Deep Sleep](https://open.spotify.com/album/1g6rhE0xkD1JDHLCLN3VXj) | 2:01 | 2021-12-01 | 2022-12-21 |
@@ -611,7 +612,7 @@
 | [Senseless White Noise B](https://open.spotify.com/track/5c2WhvlfMJHMbYfRR9Qgxf) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Random Acts Of Senseless Noises Vol I](https://open.spotify.com/album/4DiAa6GKx7tEBoDhDPxjJY) | 2:08 | 2021-12-01 | 2022-08-03 |
 | [Senseless White Noise R](https://open.spotify.com/track/4VMzkfGY9YzfRZzacvGh19) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Random Acts Of Senseless Noises Vol III](https://open.spotify.com/album/5OJ6qh851C15Riub4bt4yo) | 2:16 | 2021-12-01 | 2022-04-29 |
 | [Serene Pink](https://open.spotify.com/track/6Pjhfg2AEcdZx7RdWbWj5x) | [Karmatico](https://open.spotify.com/artist/5CRhiev45r0raAcmlvJ3HV) | [Serene Pink](https://open.spotify.com/album/2IVT0BFNSAoKdlwsFxAl2Z) | 2:39 | 2022-11-18 | 2026-04-04 |
-| [Serenity Pink Drift](https://open.spotify.com/track/5Z2IYSfp4OiL1JLzOXAzYJ) | [Dream Son](https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo) | [Serenity Pink Drift](https://open.spotify.com/album/0RskBwuPm0Ae9mdJG50XqH) | 4:14 | 2024-02-09 |  |
+| [Serenity Pink Drift](https://open.spotify.com/track/5Z2IYSfp4OiL1JLzOXAzYJ) | [Dream Son](https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo) | [Serenity Pink Drift](https://open.spotify.com/album/0RskBwuPm0Ae9mdJG50XqH) | 4:14 | 2024-02-09 | 2026-04-07 |
 | [Settled Space](https://open.spotify.com/track/4xy5BNBKn8ohlVmq1jysqM) | [Lavender Balm](https://open.spotify.com/artist/4N8OrA1MLAkEU05eVyYyFa) | [Settled Space](https://open.spotify.com/album/6e3oVwcSRrAWUI4wDXHFqq) | 2:45 | 2026-03-31 |  |
 | [Sextans Brown Noise](https://open.spotify.com/track/35rA249YlOrWC7DhN0JtNs) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Brown Noise](https://open.spotify.com/album/2DHcUsxPBM24pzIKh3weWt) | 2:51 | 2021-12-01 | 2023-01-28 |
 | [Shades Of Pink \- Seamless](https://open.spotify.com/track/7qZWByZkU95knIF3SoEfRq) | [Joergen Andersen](https://open.spotify.com/artist/6Gh3vpj7R7UzW8B3Nx55N1) | [Heavenly Pink Noise](https://open.spotify.com/album/4w0nRaaqEBW8ezre3KAB1b) | 2:52 | 2022-11-18 | 2026-04-04 |

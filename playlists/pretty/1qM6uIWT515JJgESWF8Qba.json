@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 397,
+  "num_followers": 401,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABdicqgijTzSLiLgO2C3z5BKuokbGH",
+  "snapshot_id": "AAABeS/zPoG7y8SdLLGUM9gBTgJM+qYi",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1119,6 +1119,54 @@
       "duration_ms": 158521,
       "name": "Get Outta My Head",
       "url": "https://open.spotify.com/track/7hKZGgTrWm2S8jvGLs9Pdl"
+    },
+    {
+      "added_at": "2026-04-06 12:34:03",
+      "album": {
+        "name": "Royal Kush",
+        "url": "https://open.spotify.com/album/32ik5Ith28fbWibQPqgazr"
+      },
+      "artists": [
+        {
+          "name": "Space of a Day",
+          "url": "https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Royal Kush",
+      "url": "https://open.spotify.com/track/2wlWUxDcl8y3V2L5aQ3vOA"
+    },
+    {
+      "added_at": "2026-04-06 12:37:08",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/2b3uNUKmyiWJCaxQtXSmhq"
+      },
+      "artists": [
+        {
+          "name": "James Sebastian",
+          "url": "https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6"
+        }
+      ],
+      "duration_ms": 191029,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/6GowrMYjvh0Ercfkg8QQfC"
+    },
+    {
+      "added_at": "2026-04-06 12:48:31",
+      "album": {
+        "name": "EQUINOCCIO",
+        "url": "https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw"
+      },
+      "artists": [
+        {
+          "name": "Rodeo Manhattan",
+          "url": "https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD"
+        }
+      ],
+      "duration_ms": 153240,
+      "name": "No Queda Mas",
+      "url": "https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy"
     }
   ],
   "unique_name": "Local Rock Bands",

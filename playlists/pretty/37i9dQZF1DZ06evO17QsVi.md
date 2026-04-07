@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,547 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,592 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 28 | [Thug Luv \(feat\. 2pac\)](https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Art of War: World War 2](https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx) | 5:07 |
 | 29 | [Temptations](https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 5:00 |
 | 30 | [Letter 2 My Unborn](https://open.spotify.com/track/1MruDoJ6IXqy9ar20xfKVx) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 3:55 |
-| 31 | [Loyal To The Game](https://open.spotify.com/track/3iNzFuZPs4va5EUrpAFiYt) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:23 |
-| 32 | [Unconditional Love](https://open.spotify.com/track/2boK2MX9CknrZyAQ8vlKHl) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 3:58 |
+| 31 | [Unconditional Love](https://open.spotify.com/track/2boK2MX9CknrZyAQ8vlKHl) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 3:58 |
+| 32 | [Loyal To The Game](https://open.spotify.com/track/3iNzFuZPs4va5EUrpAFiYt) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:23 |
 | 33 | [Old School](https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
 | 34 | [When We Ride On Our Enemies \- Briss Remix](https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 2:54 |
 | 35 | [Smile](https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Johnny P](https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj) | [The Untouchable](https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
 | 50 | [Pain](https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:34 |
 
-Snapshot ID: `adBUgAAAAADoAF8XiaBZ0tCn9qoH3FJ+`
+Snapshot ID: `adGmAAAAAABXqRzxI9vQOTpCMg6VY6hp`

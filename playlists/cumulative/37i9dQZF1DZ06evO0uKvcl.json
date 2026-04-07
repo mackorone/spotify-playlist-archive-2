@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/71o5zMXNmF539Ff2anKj8m"
+    },
+    {
+      "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },

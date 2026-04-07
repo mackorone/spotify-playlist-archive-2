@@ -4,7 +4,7 @@
 
 > This is claire rousay\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 29 min
+66 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Covert Services](https://open.spotify.com/track/5TNIHZ2Qz4iqL5hH9CkzLx) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Across the Horizon Vol\. 1](https://open.spotify.com/album/1Izs5b8lWF6bwSDT8PWV2G) | 5:36 | 2026-03-04 |  |
 | [Dankworld Interlude](https://open.spotify.com/track/2p4Si60Lb8BAGIjLbYuRty) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7) | 0:56 | 2026-03-04 |  |
 | [Deceiver](https://open.spotify.com/track/7uYYnLks8scZzC1vA1qEjj) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Deceiver](https://open.spotify.com/album/1PZEGP9yY4nlf9Pv6mTCpN) | 3:44 | 2026-03-04 |  |
+| [dice in santa fe](https://open.spotify.com/track/0RZc3vcBBz0FTbxvEQxrBF) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a heavenly touch](https://open.spotify.com/album/7aCRkYxkwloBzHpnL9yIME) | 4:03 | 2026-04-07 |  |
 | [discrete \(the market\)](https://open.spotify.com/track/6VbGoPL0B6BaR1FMjqkTdr) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv) | 6:34 | 2026-03-04 |  |
 | [DOG](https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7) | 1:44 | 2026-03-04 |  |
 | [doubt](https://open.spotify.com/track/15E0nm9fi1j11k3br35TQB) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a little death](https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up) | 3:35 | 2026-03-04 |  |
@@ -52,7 +53,7 @@
 | [nothing to dread](https://open.spotify.com/track/75LCHnJsoQmdO2FjDzLzZG) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Gretchen Korsmo](https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C) | [quilted lament](https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa) | 3:45 | 2026-03-04 |  |
 | [peak chroma](https://open.spotify.com/track/3gilVyIpVQJ8FnF0kPBN7B) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a softer focus](https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv) | 8:48 | 2026-03-22 | 2026-03-28 |
 | [please 5 more minutes \(feat\. Lala Lala\)](https://open.spotify.com/track/268XYupMBlKQBHb3m4BIRS) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [sentiment](https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu) | 4:50 | 2026-03-04 |  |
-| [Sad Gondola](https://open.spotify.com/track/7iqfr6tzyzTl1KKrrAk5MQ) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Bloodz Boi](https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg) | [a crying poem](https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ) | 1:58 | 2026-03-05 |  |
+| [Sad Gondola](https://open.spotify.com/track/7iqfr6tzyzTl1KKrrAk5MQ) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Bloodz Boi](https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg) | [a crying poem](https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ) | 1:58 | 2026-03-05 | 2026-04-07 |
 | [Sigh In My Ear](https://open.spotify.com/track/1QpCbUoRX9cbc5JEzN1u62) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Sigh In My Ear](https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV) | 5:22 | 2026-03-04 | 2026-03-13 |
 | [Sleepwalking](https://open.spotify.com/track/6IiykhtRMTSvCl2fWAZVV1) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Bloodz Boi](https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg) | [a crying poem](https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ) | 2:53 | 2026-03-04 | 2026-03-12 |
 | [somehow](https://open.spotify.com/track/4jlnTiyJ1C70se3odtDHBU) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a little death](https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up) | 5:44 | 2026-03-04 |  |

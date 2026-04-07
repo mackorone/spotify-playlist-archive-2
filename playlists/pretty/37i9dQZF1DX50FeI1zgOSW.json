@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sarah Black",
-  "num_followers": 19126,
+  "num_followers": 19170,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPj7HLdtetHd0mdNERazUcFW0u+A",
+  "snapshot_id": "AAAAAK0+z5I9QCt2xbdQlpJJcSmNWZa0",
   "tracks": [
     {
       "added_at": "2026-03-02 06:00:24",
@@ -47,26 +47,6 @@
       "duration_ms": 192984,
       "name": "Paatha Edathila",
       "url": "https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ"
-    },
-    {
-      "added_at": "2026-02-10 05:40:58",
-      "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/0H3lkvFNhPFSGDhiZFCeIj"
-      },
-      "artists": [
-        {
-          "name": "Iykki Berry",
-          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
-        },
-        {
-          "name": "Dev Major",
-          "url": "https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/2gVjphCX0tnUTUkOkUbmOD"
     },
     {
       "added_at": "2026-04-02 06:27:19",
@@ -113,6 +93,30 @@
       "url": "https://open.spotify.com/track/1PnQX3EVZHLRaNJocpeUwY"
     },
     {
+      "added_at": "2026-04-06 06:29:27",
+      "album": {
+        "name": "Decadence",
+        "url": "https://open.spotify.com/album/1s797ri9o8hil7jqPJsUge"
+      },
+      "artists": [
+        {
+          "name": "Rukhsar Bandhukia",
+          "url": "https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC"
+        },
+        {
+          "name": "MC Sanna",
+          "url": "https://open.spotify.com/artist/79U8u5jWzt6NFUlwgMMGT0"
+        },
+        {
+          "name": "Mann Taneja",
+          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Decadence",
+      "url": "https://open.spotify.com/track/3sc9YTUagSYEDhXSnzZln2"
+    },
+    {
       "added_at": "2026-02-27 09:13:54",
       "album": {
         "name": "SIRI PARVAYAALE",
@@ -135,6 +139,26 @@
       "duration_ms": 234596,
       "name": "SIRI PARVAYAALE",
       "url": "https://open.spotify.com/track/580wLeEhTlLPCqynL0a2vY"
+    },
+    {
+      "added_at": "2026-02-10 05:40:58",
+      "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/0H3lkvFNhPFSGDhiZFCeIj"
+      },
+      "artists": [
+        {
+          "name": "Iykki Berry",
+          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
+        },
+        {
+          "name": "Dev Major",
+          "url": "https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/2gVjphCX0tnUTUkOkUbmOD"
     },
     {
       "added_at": "2026-04-02 06:27:19",
@@ -199,6 +223,30 @@
       "duration_ms": 215737,
       "name": "Kaalam Thaandi",
       "url": "https://open.spotify.com/track/25RJWsx5213PQNXXa7vwPq"
+    },
+    {
+      "added_at": "2026-04-06 06:29:27",
+      "album": {
+        "name": "Kannoram",
+        "url": "https://open.spotify.com/album/61f8h4AdV6kgfz2RIgDFZ7"
+      },
+      "artists": [
+        {
+          "name": "Shihab Huzzain",
+          "url": "https://open.spotify.com/artist/4upFgLK2iUIjC3fzj6nfLU"
+        },
+        {
+          "name": "Rohith Thiruvanathil",
+          "url": "https://open.spotify.com/artist/38V7grK8DwxC65gnr1bXLA"
+        },
+        {
+          "name": "Dhaliya navas",
+          "url": "https://open.spotify.com/artist/1bU5NVHBVjMH4k691oMnEw"
+        }
+      ],
+      "duration_ms": 211898,
+      "name": "Kannoram",
+      "url": "https://open.spotify.com/track/3CeppWNvyYTfNkq1WpDMXO"
     },
     {
       "added_at": "2026-02-13 05:13:51",
@@ -303,6 +351,30 @@
       "duration_ms": 260182,
       "name": "Thaedi Thaedi",
       "url": "https://open.spotify.com/track/1OWpOGAVRdx5uIslR8Y7no"
+    },
+    {
+      "added_at": "2026-04-06 06:29:27",
+      "album": {
+        "name": "ONDRAGA",
+        "url": "https://open.spotify.com/album/533a6tGO7s9SEseUfvI8Qa"
+      },
+      "artists": [
+        {
+          "name": "SAINT RAAVAN",
+          "url": "https://open.spotify.com/artist/55Qyj2li3M9XnrVDa6wTyk"
+        },
+        {
+          "name": "Pragathi Guruprasad",
+          "url": "https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F"
+        },
+        {
+          "name": "Athisaiyan Suresh",
+          "url": "https://open.spotify.com/artist/1kHBtaoep8kLtW9o52Hi7Z"
+        }
+      ],
+      "duration_ms": 238518,
+      "name": "ONDRAGA",
+      "url": "https://open.spotify.com/track/73kkKXSdEcU1QJdeVIZ9WY"
     },
     {
       "added_at": "2026-03-26 06:36:16",

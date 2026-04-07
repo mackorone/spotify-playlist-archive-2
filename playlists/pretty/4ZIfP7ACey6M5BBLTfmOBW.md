@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,594 likes - 104 songs - 4 hr 44 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,592 likes - 107 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,8 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 102 | [DOUBLE UP](https://open.spotify.com/track/69rhulFgAVxD5pYKctdfqh) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [RUMOUR HAS IT](https://open.spotify.com/album/2qugvR8s40FXXnRx2AXipX) | 2:58 |
 | 103 | [BACK UP](https://open.spotify.com/track/3NHDEScXnHVLlvxPhfRsyi) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [BACK UP](https://open.spotify.com/album/0l6kXpMtRU6k0TvGBAmuAX) | 2:08 |
 | 104 | [Deep End](https://open.spotify.com/track/31FZEw4eoEZxWx0XUYnXP5) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Deep End](https://open.spotify.com/album/0OnbE1052iHPG1BLYE1KvK) | 2:47 |
+| 105 | [Not Friendly](https://open.spotify.com/track/5LUYSbvpy83r3WvV8n7MZy) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Not Friendly](https://open.spotify.com/album/0I52JJWvsh7IuKjb5xwjK5) | 3:01 |
+| 106 | [Nothin Like Me](https://open.spotify.com/track/0Lztp0wEBoch8sPiZxKUi9) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Nothin Like Me](https://open.spotify.com/album/7HHWvtqaJyUfIcnojnZb8v) | 2:12 |
+| 107 | [HEAR DAT STYL](https://open.spotify.com/track/1BtH6sE4Q5HFWwQl9FJ0QH) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [HEAR DAT STYL](https://open.spotify.com/album/2620Z94qXgeOqSH0x6nDvV) | 3:03 |
 
-Snapshot ID: `AAAn8UpXFzH8+ON2Oeky3ukcCcuQ3Jtj`
+Snapshot ID: `AAAn9IEPk4JGASlEpRPYjPDnQcS3TF11`

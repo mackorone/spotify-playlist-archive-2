@@ -1,12 +1,12 @@
 {
   "description": "De beste tracks in WS\u2757\ufe0fCover: Bartofso",
-  "num_followers": 708153,
+  "num_followers": 708128,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJkOleShQPVGwvvfz9I6jxW1ketM",
+  "snapshot_id": "AAAAAP421liUxGXDeb3PzWwcWDubR14M",
   "tracks": [
     {
       "added_at": "2026-04-02 22:02:00",
@@ -23,6 +23,30 @@
       "duration_ms": 124467,
       "name": "NIEUWE LEVELS",
       "url": "https://open.spotify.com/track/7j196RHBWUJengogAIhzh7"
+    },
+    {
+      "added_at": "2026-04-02 22:02:00",
+      "album": {
+        "name": "Sensa",
+        "url": "https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 122818,
+      "name": "Sensa",
+      "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
     },
     {
       "added_at": "2026-04-02 22:02:00",
@@ -59,30 +83,6 @@
       "duration_ms": 142073,
       "name": "Alleen Is Maar Alleen",
       "url": "https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz"
-    },
-    {
-      "added_at": "2026-04-02 22:02:00",
-      "album": {
-        "name": "Sensa",
-        "url": "https://open.spotify.com/album/04aZ9bzLSxCBwKBmo7UXwW"
-      },
-      "artists": [
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        },
-        {
-          "name": "3robi",
-          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        }
-      ],
-      "duration_ms": 122818,
-      "name": "Sensa",
-      "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
     },
     {
       "added_at": "2026-04-02 22:02:00",

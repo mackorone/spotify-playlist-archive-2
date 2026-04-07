@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 330871,
+  "num_followers": 331064,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "Where Souls Linger",
+        "url": "https://open.spotify.com/album/3OD0qLaIu62n4fBb1wHFfy"
+      },
+      "artists": [
+        {
+          "name": "Nightcall",
+          "url": "https://open.spotify.com/artist/74oOUKkcJV5s3bEWXGebHY"
+        },
+        {
+          "name": "Nocturne.",
+          "url": "https://open.spotify.com/artist/5eCbPTXb2UPSyDrptrvjq9"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Where Souls Linger",
+      "url": "https://open.spotify.com/track/2ghAHl6x2S1Tw26fbgVEw4"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "believe",
         "url": "https://open.spotify.com/album/3d9zz7wizBTlH8mT6SmOhj"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 161259,
       "name": "believe",
       "url": "https://open.spotify.com/track/3sC9JwhFLEIWkYedvhPLTG"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "Where Souls Linger",
-        "url": "https://open.spotify.com/album/3OD0qLaIu62n4fBb1wHFfy"
-      },
-      "artists": [
-        {
-          "name": "Nightcall",
-          "url": "https://open.spotify.com/artist/74oOUKkcJV5s3bEWXGebHY"
-        },
-        {
-          "name": "Nocturne.",
-          "url": "https://open.spotify.com/artist/5eCbPTXb2UPSyDrptrvjq9"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Where Souls Linger",
-      "url": "https://open.spotify.com/track/2ghAHl6x2S1Tw26fbgVEw4"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6QZT2zNFTKGtNy1xNCeAA2"
-      },
-      "artists": [
-        {
-          "name": "where??",
-          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
-        }
-      ],
-      "duration_ms": 172444,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "burnout",
         "url": "https://open.spotify.com/album/1wtCPzE0DbnpUTLh0f8zdI"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 105000,
       "name": "burnout",
       "url": "https://open.spotify.com/track/1lGZ33MXipAvcwikycPCRE"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6QZT2zNFTKGtNy1xNCeAA2"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "duration_ms": 172444,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
+        "name": "no good",
+        "url": "https://open.spotify.com/album/5bXac2jAurbn7UhA9rhBRw"
+      },
+      "artists": [
+        {
+          "name": "Inlirium",
+          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
+        }
+      ],
+      "duration_ms": 127792,
+      "name": "no good",
+      "url": "https://open.spotify.com/track/0K92IEnxQYmD0AByfk1EKZ"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
         "name": "now i know what i mean",
         "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 121550,
       "name": "now i know what i mean",
       "url": "https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
-        "name": "no good",
-        "url": "https://open.spotify.com/album/5bXac2jAurbn7UhA9rhBRw"
-      },
-      "artists": [
-        {
-          "name": "Inlirium",
-          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
-        }
-      ],
-      "duration_ms": 127792,
-      "name": "no good",
-      "url": "https://open.spotify.com/track/0K92IEnxQYmD0AByfk1EKZ"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "do you love me?",
-        "url": "https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV"
-      },
-      "artists": [
-        {
-          "name": "Money Flip",
-          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "do you love me?",
-      "url": "https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "a long road",
         "url": "https://open.spotify.com/album/6dEAHP5IbP0cOj5hvmid5h"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 160000,
       "name": "a long road",
       "url": "https://open.spotify.com/track/3ZJEXKMR6RVVTVHIt3svj8"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "do you love me?",
+        "url": "https://open.spotify.com/album/2oGrvZG4NUNBCBifQnzBCV"
+      },
+      "artists": [
+        {
+          "name": "Money Flip",
+          "url": "https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "do you love me?",
+      "url": "https://open.spotify.com/track/43RHgLTP1lU3THdsqxNCv9"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "The Importance of Birds",
-        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "From a Convenient Grass",
-      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Mat\u00e8l (original motion picture soundtrack)",
         "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 204043,
       "name": "Mat\u00e8l",
       "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "The Importance of Birds",
+        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "From a Convenient Grass",
+      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "PHANTOM BRICKWORKS (LP II)",
-        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 325320,
-      "name": "DOROTHEA\u2019S BED",
-      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "4AM ambient version",
         "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Gazing Back At Earth",
-        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
+        "name": "PHANTOM BRICKWORKS (LP II)",
+        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
       },
       "artists": [
         {
-          "name": "Andy Leech",
-          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 316000,
-      "name": "Gazing Back At Earth",
-      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
+      "duration_ms": 325320,
+      "name": "DOROTHEA\u2019S BED",
+      "url": "https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -883,6 +867,22 @@
       "duration_ms": 101052,
       "name": "the hardest part",
       "url": "https://open.spotify.com/track/1XVbFTUwLmR1znUlprLEEC"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Gazing Back At Earth",
+        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
+      },
+      "artists": [
+        {
+          "name": "Andy Leech",
+          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Gazing Back At Earth",
+      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/3PZfyjREHL04N4ua1GS8Ev"
-      },
-      "artists": [
-        {
-          "name": "NxxxxxS",
-          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
-        }
-      ],
-      "duration_ms": 146064,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "haunted, but it's ambient",
         "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 136800,
       "name": "haunted, but it's ambient",
       "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/3PZfyjREHL04N4ua1GS8Ev"
+      },
+      "artists": [
+        {
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
+        }
+      ],
+      "duration_ms": 146064,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Solar Nights",
-        "url": "https://open.spotify.com/album/2NtvvyLV9jKjsxVeVd0RFl"
-      },
-      "artists": [
-        {
-          "name": "Juha M\u00e4ki-Patola",
-          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
-        }
-      ],
-      "duration_ms": 163106,
-      "name": "Solar Nights",
-      "url": "https://open.spotify.com/track/4m0A9IhXFzCG04iJKoxA0o"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "losing",
         "url": "https://open.spotify.com/album/5OQdqJJbbUlzw4ugElm7nR"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 90861,
       "name": "losing",
       "url": "https://open.spotify.com/track/6VbCeNW181BuuT1ZymXxQG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Solar Nights",
+        "url": "https://open.spotify.com/album/2NtvvyLV9jKjsxVeVd0RFl"
+      },
+      "artists": [
+        {
+          "name": "Juha M\u00e4ki-Patola",
+          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "Solar Nights",
+      "url": "https://open.spotify.com/track/4m0A9IhXFzCG04iJKoxA0o"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "Nebel",
-        "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
-      },
-      "artists": [
-        {
-          "name": "David Cordero",
-          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
-        }
-      ],
-      "duration_ms": 194077,
-      "name": "Nebel",
-      "url": "https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "And They Will Fall",
         "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 241333,
       "name": "And They Will Fall",
       "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "Nebel",
+        "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
+      },
+      "artists": [
+        {
+          "name": "David Cordero",
+          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
+        }
+      ],
+      "duration_ms": 194077,
+      "name": "Nebel",
+      "url": "https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "thoughts inside my head",
-        "url": "https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA"
-      },
-      "artists": [
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 134314,
-      "name": "thoughts inside my head",
-      "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "you were never really mine.",
         "url": "https://open.spotify.com/album/5E6OdnHaCFon4AqeapKc1I"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 142038,
       "name": "i still remember the first place we met.",
       "url": "https://open.spotify.com/track/1M481wZAR3n4a4QEUQU2Mo"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "thoughts inside my head",
+        "url": "https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 134314,
+      "name": "thoughts inside my head",
+      "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "where is life?",
-        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
-      },
-      "artists": [
-        {
-          "name": "Sibewest",
-          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "where is life?",
-      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "Near Silence",
         "url": "https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 184109,
       "name": "Near Silence",
       "url": "https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "where is life?",
+        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
+      },
+      "artists": [
+        {
+          "name": "Sibewest",
+          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "where is life?",
+      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
     },
     {
       "added_at": "2026-03-20 04:00:38",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-03-20 04:00:38",
       "album": {
-        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
-        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
-      },
-      "artists": [
-        {
-          "name": "Gryphon Rue",
-          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "Squatter's Quarters",
-      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
-    },
-    {
-      "added_at": "2026-03-20 04:00:38",
-      "album": {
         "name": "snowlight",
         "url": "https://open.spotify.com/album/6Vya1gJUf9cTkLFacmmwdq"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 167865,
       "name": "breath under snow",
       "url": "https://open.spotify.com/track/6P0BKhuw2QMczkstDlKOMM"
+    },
+    {
+      "added_at": "2026-03-20 04:00:38",
+      "album": {
+        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
+        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
+      },
+      "artists": [
+        {
+          "name": "Gryphon Rue",
+          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "Squatter's Quarters",
+      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
     },
     {
       "added_at": "2026-03-20 04:00:38",

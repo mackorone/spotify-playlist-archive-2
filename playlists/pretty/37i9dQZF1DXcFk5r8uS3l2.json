@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
-  "num_followers": 1068146,
+  "num_followers": 1068165,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/4IqsiNwUfcrA7RrUHwAo6k"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 191454,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/3RWOkWVdve8HZG4vIg6bkF"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "Ain't Half Bad",
-        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Ain't Half Bad",
-      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
         "name": "Blacksnake Blues",
         "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 674000,
       "name": "Blacksnake Blues",
       "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
+        "name": "Ain't Half Bad",
+        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Ain't Half Bad",
+      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
         "name": "Greyhound Bus Blues",
         "url": "https://open.spotify.com/album/5ZUDaN0h2tX01R0EYd9nOv"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
         "name": "You Hear Georgia",
         "url": "https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey"
       },
@@ -539,6 +539,26 @@
       "duration_ms": 245838,
       "name": "You Hear Georgia",
       "url": "https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
+        "name": "Six Shades of Grey",
+        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Troy",
+          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
+        },
+        {
+          "name": "Deap Vally",
+          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
+        }
+      ],
+      "duration_ms": 203757,
+      "name": "Six Shades of Grey",
+      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -571,26 +591,6 @@
       "duration_ms": 185133,
       "name": "Make It All Work Out",
       "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
-        "name": "Six Shades of Grey",
-        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Troy",
-          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
-        },
-        {
-          "name": "Deap Vally",
-          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
-        }
-      ],
-      "duration_ms": 203757,
-      "name": "Six Shades of Grey",
-      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "House On Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
-      },
-      "artists": [
-        {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Saviour - Unplugged",
-      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
         "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
         "url": "https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 257814,
       "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
       "url": "https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
+        "name": "House On Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Saviour - Unplugged",
+      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "Goodbye's Kickin' In",
-        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 201970,
-      "name": "Goodbye\u2019s Kickin\u2019 In",
-      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
         "name": "Watch Me Gone",
         "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 302346,
       "name": "Watch Me Gone",
       "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
+        "name": "Goodbye's Kickin' In",
+        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 201970,
+      "name": "Goodbye\u2019s Kickin\u2019 In",
+      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
+        "name": "Let It Die Here",
+        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
+      },
+      "artists": [
+        {
+          "name": "Linda Perry",
+          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Let It Die Here",
+      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
         "name": "Blues Worse Than I Ever Had",
         "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 275712,
       "name": "The Love Endeavour",
       "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
-        "name": "Let It Die Here",
-        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
-      },
-      "artists": [
-        {
-          "name": "Linda Perry",
-          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Let It Die Here",
-      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8"
+      },
+      "artists": [
+        {
+          "name": "Mica Millar",
+          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
+        }
+      ],
+      "duration_ms": 323826,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
         "name": "What I Wouldn't Do",
         "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 247720,
       "name": "Tonight Belongs to You",
       "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8"
-      },
-      "artists": [
-        {
-          "name": "Mica Millar",
-          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
-        }
-      ],
-      "duration_ms": 323826,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/0ZWTCT3qfUN7yxcHsilRAD"
-      },
-      "artists": [
-        {
-          "name": "Sam Morrow",
-          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
-        }
-      ],
-      "duration_ms": 220775,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/7CntU6rozZ57F9sB3ZDtad"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
         "name": "Crisscross Way",
         "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "Mileage",
-        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/0ZWTCT3qfUN7yxcHsilRAD"
       },
       "artists": [
         {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+          "name": "Sam Morrow",
+          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
         }
       ],
-      "duration_ms": 250765,
-      "name": "Mileage",
-      "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
+      "duration_ms": 220775,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/7CntU6rozZ57F9sB3ZDtad"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "Medium Raw",
-        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
+        "name": "Mileage",
+        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
       },
       "artists": [
         {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
         }
       ],
-      "duration_ms": 255573,
-      "name": "I Could Just Die Right Now",
-      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
+      "duration_ms": 250765,
+      "name": "Mileage",
+      "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -1211,6 +1195,22 @@
       "duration_ms": 251946,
       "name": "You Can't Love Me",
       "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
+        "name": "Love in the Lead",
+        "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
+      },
+      "artists": [
+        {
+          "name": "Ivan Hartle",
+          "url": "https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6"
+        }
+      ],
+      "duration_ms": 195885,
+      "name": "Love in the Lead",
+      "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "Love in the Lead",
-        "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
+        "name": "Medium Raw",
+        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
       },
       "artists": [
         {
-          "name": "Ivan Hartle",
-          "url": "https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6"
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "duration_ms": 195885,
-      "name": "Love in the Lead",
-      "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
+      "duration_ms": 255573,
+      "name": "I Could Just Die Right Now",
+      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -1263,6 +1263,26 @@
       "duration_ms": 219380,
       "name": "Antique Hearts",
       "url": "https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
+        "name": "Gathering Forces",
+        "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
+      },
+      "artists": [
+        {
+          "name": "Jonah Smith",
+          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
+        },
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        }
+      ],
+      "duration_ms": 185399,
+      "name": "Gathering Forces",
+      "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -1303,42 +1323,6 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "Gathering Forces",
-        "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
-      },
-      "artists": [
-        {
-          "name": "Jonah Smith",
-          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
-        },
-        {
-          "name": "Family Company",
-          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
-        }
-      ],
-      "duration_ms": 185399,
-      "name": "Gathering Forces",
-      "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
-        "name": "Companions",
-        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
-      },
-      "artists": [
-        {
-          "name": "Adam Douglas",
-          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "My Own Disguise",
-      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
+        "name": "Companions",
+        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
+      },
+      "artists": [
+        {
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "My Own Disguise",
+      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
+        "name": "Run Out of Love (with Lisa Loeb)",
+        "url": "https://open.spotify.com/album/6QKfjajavauKgHu9faeZNJ"
+      },
+      "artists": [
+        {
+          "name": "Pete Muller",
+          "url": "https://open.spotify.com/artist/55BUDwcDLKgwBPOKTrr4sc"
+        },
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "duration_ms": 277026,
+      "name": "Run Out of Love - with Lisa Loeb",
+      "url": "https://open.spotify.com/track/34JpLfR2gIJtsq93RnbRCu"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/3jxanQOwCwfBi8lSY8ep26"
       },
@@ -1507,26 +1527,6 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "Run Out of Love (with Lisa Loeb)",
-        "url": "https://open.spotify.com/album/6QKfjajavauKgHu9faeZNJ"
-      },
-      "artists": [
-        {
-          "name": "Pete Muller",
-          "url": "https://open.spotify.com/artist/55BUDwcDLKgwBPOKTrr4sc"
-        },
-        {
-          "name": "Lisa Loeb",
-          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
-        }
-      ],
-      "duration_ms": 277026,
-      "name": "Run Out of Love - with Lisa Loeb",
-      "url": "https://open.spotify.com/track/34JpLfR2gIJtsq93RnbRCu"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
         "name": "All The Things I Said",
         "url": "https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "Dark Days",
-        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
-      },
-      "artists": [
-        {
-          "name": "Moose Miller",
-          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
-        }
-      ],
-      "duration_ms": 251197,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
         "name": "I'm Getting Ready",
         "url": "https://open.spotify.com/album/4RyIcdSpFQEQFgIW2LrXt9"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 179053,
       "name": "I'm Getting Ready",
       "url": "https://open.spotify.com/track/33eyk71WojAYebC0cta8OJ"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
+        "name": "Dark Days",
+        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
+      },
+      "artists": [
+        {
+          "name": "Moose Miller",
+          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
+        }
+      ],
+      "duration_ms": 251197,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
     },
     {
       "added_at": "2026-04-03 04:01:24",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-04-03 04:01:24",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/2Uu2kajlPFeYfXD1A2wHtj"
-      },
-      "artists": [
-        {
-          "name": "Kyshona",
-          "url": "https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "The Echo",
-      "url": "https://open.spotify.com/track/02ZdAwm1DkhRcYeYFWEyrJ"
-    },
-    {
-      "added_at": "2026-04-03 04:01:24",
-      "album": {
         "name": "Time is a Thief (Deluxe)",
         "url": "https://open.spotify.com/album/46upZj2t2hft857WHMp3fQ"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 191220,
       "name": "You Deserve More - Magic Bus Sessions",
       "url": "https://open.spotify.com/track/0S8Rr1eEh348hp2CYLuTV9"
+    },
+    {
+      "added_at": "2026-04-03 04:01:24",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/2Uu2kajlPFeYfXD1A2wHtj"
+      },
+      "artists": [
+        {
+          "name": "Kyshona",
+          "url": "https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "The Echo",
+      "url": "https://open.spotify.com/track/02ZdAwm1DkhRcYeYFWEyrJ"
     },
     {
       "added_at": "2026-04-03 04:01:24",

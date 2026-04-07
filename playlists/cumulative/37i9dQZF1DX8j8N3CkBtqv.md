@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Neyhal, Samad Khan,  Zodiac Wave and other exciting artists.
 
-1,401 songs - 3 day 4 hr 46 min
+1,402 songs - 3 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [Hum Khuda Nahi They](https://open.spotify.com/track/79zDOSNDDbDbG2HkZRW46G) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Hum Khuda Nahi They](https://open.spotify.com/album/24nmDLHBZHXDNLltg4kUFT) | 7:13 | 2024-03-22 | 2024-05-04 |
 | [Hum Kya Karein](https://open.spotify.com/track/19KiIzkn7AT9bpgt5KnijH) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Hum Kya Karein](https://open.spotify.com/album/5bh4Z98L2sKtU5lxl9dEJt) | 3:11 | 2023-04-14 | 2023-05-20 |
 | [Hum The Ghum](https://open.spotify.com/track/498eQH9cMiiJYatuTTiXCj) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Rishita Malkania](https://open.spotify.com/artist/2iYRleECSrB0io7EdpIWFz), [Ashwini Munghate](https://open.spotify.com/artist/0NtyKWh1adHMm7cVnGYUVJ) | [Hum The Ghum](https://open.spotify.com/album/7nKa4sLlobUHLpf4BJjiV8) | 4:11 | 2026-02-06 | 2026-02-08 |
-| [Hum Tum Miley](https://open.spotify.com/track/7GGUyCMipQJaORkMoPRw0d) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Amaan Anjum](https://open.spotify.com/artist/6i2OGAPggr2SpNnrzEjQG1), [Harshil Roy](https://open.spotify.com/artist/0WLHgj66goZ8D71UhA0wvN) | [Hum Tum Miley](https://open.spotify.com/album/0K0U5D15JUGzp3Vj4OptAc) | 2:51 | 2026-04-03 |  |
+| [Hum Tum Miley](https://open.spotify.com/track/7GGUyCMipQJaORkMoPRw0d) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Amaan Anjum](https://open.spotify.com/artist/6i2OGAPggr2SpNnrzEjQG1), [Harshil Roy](https://open.spotify.com/artist/0WLHgj66goZ8D71UhA0wvN) | [Hum Tum Miley](https://open.spotify.com/album/0K0U5D15JUGzp3Vj4OptAc) | 2:51 | 2026-04-03 | 2026-04-07 |
 | [Hum Tumhare](https://open.spotify.com/track/61njpcpC4qWIvEHgGSKtBV) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Hum Tumhare](https://open.spotify.com/album/2mBMNUSzTvDrp5DRFeLZw6) | 3:36 | 2024-08-23 | 2024-09-28 |
 | [Humdum](https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Humdum](https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku) | 3:01 | 2024-05-17 | 2024-12-07 |
 | [Humnava](https://open.spotify.com/track/7rWjQjELudhbFXEx5oOuTw) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Vikram Edke](https://open.spotify.com/artist/1OIEIDVTMsNvsTK9jGViCV) | [Humnava](https://open.spotify.com/album/4vrB8JkXxMsqIkvvjFyTvH) | 4:17 | 2024-05-17 | 2024-06-22 |
@@ -1321,6 +1321,7 @@
 | [Tum Jo](https://open.spotify.com/track/05INid8x3KFQk37uCJ4lPl) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Tum Jo](https://open.spotify.com/album/5HVN4vAeyF7zHSj0VnNQB0) | 3:03 | 2024-07-12 | 2024-09-21 |
 | [Tum Jo Ho Yahaan](https://open.spotify.com/track/5Cef8JeRs1fvxp4cpiej7E) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Tum Jo Ho Yahaan](https://open.spotify.com/album/2Sc6yA2cVncUk3FIhnJ3b1) | 3:36 | 2025-06-27 | 2025-07-05 |
 | [Tum Mere Kya Ho](https://open.spotify.com/track/59S0sPZf1q48PvmeeXN0bj) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tum Mere Kya Ho](https://open.spotify.com/album/65xBCpWtwwZ3PoloPQzTum) | 2:55 | 2023-09-22 | 2023-10-29 |
+| [Tum Meri Thi](https://open.spotify.com/track/5vNY11XQF5V6sSajPDz5zJ) | [Karneast](https://open.spotify.com/artist/12W8Yfi0XLf3MDTOqBCvK9), [Official Ankit](https://open.spotify.com/artist/6hGPDve5p6BTTukCTqCZII) | [Tum Meri Thi](https://open.spotify.com/album/5fKOCIPaYpKMOCcQ437h3q) | 4:09 | 2026-04-03 |  |
 | [Tum Mil Gayi Jo!](https://open.spotify.com/track/018XmviDOMItvj34B9Eow7) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol), [Arvasu](https://open.spotify.com/artist/3LX5BPt6NlNqtlYKtgELpm) | [Tum Mil Gayi Jo!](https://open.spotify.com/album/40GZKoKPDiG2U7EAlsod82) | 4:07 | 2025-12-12 | 2026-03-13 |
 | [Tum Mile](https://open.spotify.com/track/55kooTwqs6S0V4BqMKnS3r) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Prashant Marathe](https://open.spotify.com/artist/2j8QqSWMojyNw3aNnRB4kV) | [Tum Mile](https://open.spotify.com/album/4SrwkyadynfTn96r5Yv5oj) | 3:00 | 2024-03-08 | 2024-04-27 |
 | [Tum Sa](https://open.spotify.com/track/0OTnvwo9VMPv5xqluTOYGo) | [The Lost Scripture India](https://open.spotify.com/artist/63UIBVZnx4w0dzkWg8RxFO) | [Tum Sa](https://open.spotify.com/album/4e9J96Zb0EKGS9AF6aY07L) | 3:53 | 2024-05-17 | 2024-06-22 |

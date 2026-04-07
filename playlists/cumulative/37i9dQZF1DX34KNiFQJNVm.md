@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Dilsinho,  Talita Mel com Zé Vaqueiro, Bebe Rexha, DAY LIMNS, U2, Jovem Dionísio e muito mais!
 
-17,804 songs - 37 day 18 hr 1 min
+17,805 songs - 37 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,6 +874,7 @@
 | [Alô Tranqueira \- Ao Vivo](https://open.spotify.com/track/4N4Jk8n24I4lkSUdzoS0n7) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas \(Ao Vivo\)](https://open.spotify.com/album/0tBnLmuDb9EtemunXfCMeD) | 2:50 | 2023-10-06 | 2023-10-14 |
 | [Alô Virgínia \- Ao Vivo](https://open.spotify.com/track/0hmezcFzi7aP87bwgly7lm) | [Grupo Chocolate](https://open.spotify.com/artist/0yRgarxy0iN7x7U5VE6l7N), [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Do Nosso Mundo, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/0ww3MUTwNm7y6x1gARiE8H) | 2:39 | 2025-12-05 | 2025-12-12 |
 | [AM Gold](https://open.spotify.com/track/6ttjTA8589PqK8DF9SBEC7) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [AM Gold](https://open.spotify.com/album/1zTCggliz6km8kM63FIqI9) | 2:49 | 2022-02-18 | 2022-02-26 |
+| [Ama Essa Mulher Direito](https://open.spotify.com/track/5WCaRoBQ5IAQYu3FKA5eTq) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [CONTEÚDO SENSÍVEL](https://open.spotify.com/album/436SYZgdUkwR3fJoFqp4rt) | 3:03 | 2026-04-06 |  |
 | [Ama Eu](https://open.spotify.com/track/1SiJAXtnXaMKp3g4rWXRS4) | [ALÊ](https://open.spotify.com/artist/6zdHDBmiRPPdRqiv5MacRF) | [Ama Eu](https://open.spotify.com/album/4HBbbVRFBfsYQa8Udqlq1H) | 2:45 | 2025-09-19 | 2025-09-27 |
 | [Ama Ou Não Ama](https://open.spotify.com/track/27aB79hb7blx7BSAP4xzH2) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Imparável](https://open.spotify.com/album/4gm6Sbnh4JZqlKU4WP6mL2) | 2:16 | 2025-07-11 | 2025-07-19 |
 | [AMA OU ODEIA](https://open.spotify.com/track/5drh9s8nnyLJGEdQuOPb7g) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [AMA OU ODEIA](https://open.spotify.com/album/4kugieYdqk63NzmVJGd8Th) | 2:19 | 2023-07-07 | 2023-07-15 |
@@ -14718,7 +14719,7 @@
 | [Som do Sertão \(Tudo Junto e Misturado\) \- Ao Vivo](https://open.spotify.com/track/22fhIEsIVnnMMxTBBPBI7U) | [Zé Henrique & Gabriel](https://open.spotify.com/artist/5Dyg6H3QJHQV5c7ojyKWyv) | [Som do Sertão \(Tudo Junto e Misturado\) \[Ao Vivo\]](https://open.spotify.com/album/1UPhtRN7EZc8UTs6Y4DBNH) | 2:53 | 2023-01-13 | 2023-01-21 |
 | [Som Que Vem Da Alma](https://open.spotify.com/track/3RbuPSW2qQx7Xio3bnInUG) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Som Que Vem Da Alma](https://open.spotify.com/album/2lEQ1PwBQyErU6qfuLP5h9) | 2:42 | 2022-03-18 | 2022-03-26 |
 | [Sombra Desconhecida \- Ao Vivo](https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Sombra Desconhecida \(Ao Vivo\)](https://open.spotify.com/album/7j9FmFWjSSuqJe5XAtz0WG) | 2:40 | 2024-06-21 | 2024-06-29 |
-| [Some](https://open.spotify.com/track/1V10F8afY9h6VTTOusg7pK) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [CONTEÚDO SENSÍVEL](https://open.spotify.com/album/436SYZgdUkwR3fJoFqp4rt) | 2:02 | 2026-04-03 |  |
+| [Some](https://open.spotify.com/track/1V10F8afY9h6VTTOusg7pK) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [CONTEÚDO SENSÍVEL](https://open.spotify.com/album/436SYZgdUkwR3fJoFqp4rt) | 2:02 | 2026-04-03 | 2026-04-07 |
 | [Some](https://open.spotify.com/track/46Pvll03GsDal0deInfWT5) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7), [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Some](https://open.spotify.com/album/1oXYKZp52Er7HKwE0EsahE) | 2:52 | 2026-02-27 | 2026-03-07 |
 | [Some](https://open.spotify.com/track/2J3AJ5KoxccD2VXKcWtsxe) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Lil Whind](https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr) | [Some](https://open.spotify.com/album/2aKkuY9VYxP4oNUV3us7rs) | 2:30 | 2023-04-07 | 2023-04-15 |
 | [Some Type Of Skin](https://open.spotify.com/track/5CguvtN2MvxSmtSR23UNOd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin](https://open.spotify.com/album/4kfH7Wzr6p646dTIulVQQS) | 3:12 | 2024-03-22 | 2024-03-30 |

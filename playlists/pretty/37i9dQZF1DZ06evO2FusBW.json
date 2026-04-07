@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11181,
+  "num_followers": 11179,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adBUgAAAAAAo2LmbSGfBmN3vGXFSGKPF",
+  "snapshot_id": "adGmAAAAAADs2CmQXKBoz/cZf5kRJLZJ",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 263583,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/0nFiXjQUmqZJnskf6nKi70"
+      "duration_ms": 207373,
+      "name": "Wyden Down",
+      "url": "https://open.spotify.com/track/08nsrwYHcNROgOxu0JDUbk"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 207373,
-      "name": "Wyden Down",
-      "url": "https://open.spotify.com/track/08nsrwYHcNROgOxu0JDUbk"
+      "duration_ms": 263583,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0nFiXjQUmqZJnskf6nKi70"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 305053,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1GVXbkQGidWl3obKyq51b2"
+      "duration_ms": 203826,
+      "name": "Attraction",
+      "url": "https://open.spotify.com/track/32i9vcGv2xGHCNIGcc9njW"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 263413,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/0pWnnhW2NufW8ZVRLepQvi"
+      "duration_ms": 266640,
+      "name": "Feeling Safe",
+      "url": "https://open.spotify.com/track/7p8nlIEjXe3epospI1EeHt"
     }
   ],
   "unique_name": "This Is RIOPY",

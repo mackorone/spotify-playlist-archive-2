@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, The Donnas, blazingfairis and more",
+  "description": "With Die Mannequin, blazingfairis, EchoQueen and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 154475,
       "name": "Bad Imprint",
       "url": "https://open.spotify.com/track/6Zqq753FL4ksrUPG8IDgR3"
@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/3Ef9eAH44B49MnTZJW8vOn"
+      },
+      "artists": [
+        {
+          "name": "Katie Lee",
+          "url": "https://open.spotify.com/artist/1FELaEmdpGeKSkT40VjTpT"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250414,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/5NVeHtdTszfC2Ub69fnQiG"
+    },
+    {
+      "album": {
         "name": "nunca ando deciado",
         "url": "https://open.spotify.com/album/3sQsKrbn60LmDAuyzmh0Ks"
       },
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 111433,
       "name": "Flexrage Circuit",
       "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 229506,
       "name": "Get You Off",
       "url": "https://open.spotify.com/track/0ZgaHE56xKJQhV2wroTuH5"
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 195724,
       "name": "hate u right back!",
       "url": "https://open.spotify.com/track/1ZA8CfB3mey8cITFAJBH2s"
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 215481,
       "name": "Hollow Bone",
       "url": "https://open.spotify.com/track/61PSIaS8qIBNJvSJUCjsMv"
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 90861,
       "name": "Hustle Mode Engage",
       "url": "https://open.spotify.com/track/6EQhfBZe5fXiVa8CRjvxsf"
@@ -2930,7 +2948,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 162124,
       "name": "I Can't",
       "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
@@ -3568,7 +3586,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -3604,7 +3622,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 313165,
       "name": "Light Years Away",
       "url": "https://open.spotify.com/track/1TqnTnk93eBaEivtvWHDxn"
@@ -3954,7 +3972,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 180469,
       "name": "Maybe Probably Never",
       "url": "https://open.spotify.com/track/5gHntCnSOT7o2kTPyvWEIC"
@@ -4044,7 +4062,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 222933,
       "name": "messy",
       "url": "https://open.spotify.com/track/3LfW2tSMgOp93RTUlJHuD2"
@@ -4062,7 +4080,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 182624,
       "name": "Midnight Dial Tone",
       "url": "https://open.spotify.com/track/1sIpdyD4W4DMj9KexIThG5"
@@ -4134,7 +4152,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 234333,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/1QPJxq97IfB1tk5OUGRhgi"
@@ -4260,7 +4278,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -4408,7 +4426,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 159433,
       "name": "Neon Blaze Riot",
       "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
@@ -4588,7 +4606,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 193732,
       "name": "Occupied",
       "url": "https://open.spotify.com/track/3igxx0rlxRJcUIe8vu12E8"
@@ -5344,7 +5362,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 215850,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/1nvgo4zmHlLbVbpn3BQVF6"
@@ -5982,7 +6000,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -6677,6 +6695,24 @@
     },
     {
       "album": {
+        "name": "White Noise (Australian Idol Performance)",
+        "url": "https://open.spotify.com/album/4cN5refpS6dlLKAQyYqzKx"
+      },
+      "artists": [
+        {
+          "name": "Harry Lamb",
+          "url": "https://open.spotify.com/artist/3JIU8jQQZquma5e7k8IB58"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "White Noise - Australian Idol Performance",
+      "url": "https://open.spotify.com/track/7bw8yeaHFI96AZU6mkMqxQ"
+    },
+    {
+      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
       },
@@ -6778,7 +6814,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-07",
       "duration_ms": 237656,
       "name": "You Suck",
       "url": "https://open.spotify.com/track/05iyySQj9q4pqWZJjhFs0Q"

@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 107490,
+  "num_followers": 107522,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Co\u00f1o",
+        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
+      },
+      "artists": [
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        },
+        {
+          "name": "Jhorrmountain",
+          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "duration_ms": 137595,
+      "name": "Co\u00f1o",
+      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
       },
@@ -563,30 +587,6 @@
       "duration_ms": 173534,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Co\u00f1o",
-        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
-      },
-      "artists": [
-        {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        },
-        {
-          "name": "Jhorrmountain",
-          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
-        },
-        {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
-        }
-      ],
-      "duration_ms": 137595,
-      "name": "Co\u00f1o",
-      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Was Je Nog Maar Hier (Radio Edit)",
-        "url": "https://open.spotify.com/album/7xfYPQ6CETsx8pKYmT0pqe"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        }
-      ],
-      "duration_ms": 177396,
-      "name": "Was Je Nog Maar Hier - Radio Edit",
-      "url": "https://open.spotify.com/track/4c457KvkafnHGz6clGYMmz"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Pit Stop",
         "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 253544,
       "name": "Pit Stop",
       "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Was Je Nog Maar Hier (Radio Edit)",
+        "url": "https://open.spotify.com/album/7xfYPQ6CETsx8pKYmT0pqe"
+      },
+      "artists": [
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        }
+      ],
+      "duration_ms": 177396,
+      "name": "Was Je Nog Maar Hier - Radio Edit",
+      "url": "https://open.spotify.com/track/4c457KvkafnHGz6clGYMmz"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "VBALERT",
+        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Naar Beneden",
+      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "My B\u00e9b\u00e9",
         "url": "https://open.spotify.com/album/1Z0YTVupoWDwptsgfK3fbp"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 187470,
       "name": "Op en Neer",
       "url": "https://open.spotify.com/track/6ASXDkfwJWkwfIUvXVXP5s"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "VBALERT",
-        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
-      },
-      "artists": [
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Naar Beneden",
-      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
     },
     {
       "added_at": "2024-07-19 06:38:33",

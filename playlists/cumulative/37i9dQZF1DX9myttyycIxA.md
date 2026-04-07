@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Girl Scout
 
-1,870 songs - 4 day 12 hr 2 min
+1,871 songs - 4 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1455,6 +1455,7 @@
 | [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 | 2023-06-30 | 2023-09-30 |
 | [Small Talk](https://open.spotify.com/track/28TYBszFL1DOaQ4nJymNAz) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Small Talk](https://open.spotify.com/album/3ukx49bzJnkwSgGyWjm2AC) | 3:13 | 2021-07-16 | 2022-01-02 |
 | [Smartest Man \(feat\. Samia\)](https://open.spotify.com/track/6Z3zvlzq32oGeC6TnKm4aR) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Smartest Man \(feat\. Samia\)](https://open.spotify.com/album/54rOwbQ79N1uuLTVmK6fsA) | 3:41 | 2021-04-02 | 2022-04-29 |
+| [Smile](https://open.spotify.com/track/2ipXB1iXNOVsNiAuWkTsY3) | [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Birding](https://open.spotify.com/album/4LRV1hTTosrrR7cdWyqyJo) | 5:09 | 2026-04-06 |  |
 | [Smile](https://open.spotify.com/track/6HgPV8z2FNoLVQtvJKY5Do) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [Say Things That Matter](https://open.spotify.com/album/52pKraIrmywyqCpywjBS8B) | 3:59 | 2022-04-29 | 2022-07-16 |
 | [Snowfeel](https://open.spotify.com/track/4SoAPExSLQTXNNegHa9NAe) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [Café Life](https://open.spotify.com/album/3rqqba1mcf98BBNWEzjndB) | 3:27 | 2024-09-20 | 2025-04-05 |
 | [Snug Barber](https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [Snug Barber](https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw) | 1:58 | 2026-01-16 |  |

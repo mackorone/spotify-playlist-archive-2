@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,199 songs - 9 day 7 hr 43 min
+4,202 songs - 9 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1765,6 +1765,7 @@
 | [I'm Humorous](https://open.spotify.com/track/7z16qWCP6fR1L5MOulJwAM) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [I'm Humorous](https://open.spotify.com/album/2FagyvM3Nu7nbXSRf1fAuz) | 2:47 | 2025-05-15 |  |
 | [I'm Not Mad Anymore](https://open.spotify.com/track/1F1Npbgywcx0VeT4dlptTE) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Televangelist](https://open.spotify.com/album/4EQ8Q3in2KptGJU8Ilo7uM) | 3:35 | 2025-07-01 |  |
 | [i'm not the king of punk](https://open.spotify.com/track/0MEOqx1JclHNeb7awzuZgx) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [At the down of the sleepindead](https://open.spotify.com/album/36dQNlJRtZQbZvBsaMxDmK) | 2:38 | 2026-02-01 |  |
+| [I'm sky high](https://open.spotify.com/track/5PlMMYdPoZ2gnBYfXz9agR) | [Leandro Aguirre](https://open.spotify.com/artist/2uVhj1bGrGFPgunJ4BdB5I) | [I'm sky high](https://open.spotify.com/album/2ZkjDMyvicJva0YScI3rTA) | 3:51 | 2026-04-06 |  |
 | [I'm Still That Kid](https://open.spotify.com/track/3WXro3jvximWBeNSsmnJ7N) | [Mystic Chronicler](https://open.spotify.com/artist/6lO1R7XoAcUv12zalHNptR) | [Miss Age 30](https://open.spotify.com/album/5ullrrxJqNWFZ8SJHyPQjd) | 3:35 | 2025-06-20 |  |
 | [I'm super star](https://open.spotify.com/track/24LCekLz1JEZSBjtmawOHP) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super pop beat](https://open.spotify.com/album/4DXyhPDVxKIv06QyLMek7z) | 2:41 | 2025-09-12 |  |
 | [I.C.Y.M.I](https://open.spotify.com/track/3LXSEkjDeaViuhIv8ocGE0) | [Mathieu](https://open.spotify.com/artist/3FAbqnwvU6oVyphtcjydLw) | [SEE U SOON](https://open.spotify.com/album/5SzrHaUbQSK7lrpSyHn4ld) | 3:00 | 2025-06-23 |  |
@@ -2586,6 +2587,7 @@
 | [notmyproblem](https://open.spotify.com/track/4bmqgEmfiHXxipZiDcRKfI) | [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [LEAVE AND FORGET](https://open.spotify.com/album/2yXAmtYyYJn1A25XnHXLGY) | 2:43 | 2025-05-16 |  |
 | [Notte di Fuoco](https://open.spotify.com/track/18EQNRHvL7bIR0bqlcXWQf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 2:34 | 2025-09-12 |  |
 | [NOTTE INFINITA](https://open.spotify.com/track/5P699JaYayhTtwKo38qokd) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [NON SONO IL PAPA \(Deluxe Edition\)](https://open.spotify.com/album/29s0ZAydytxQoqxqEhI4Mv) | 2:32 | 2025-04-04 |  |
+| [Notte Infinita \- Sessione Intima](https://open.spotify.com/track/7eQntmab7QTKvix08fNQhh) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Notte Infinita \(Sessione Intima\)](https://open.spotify.com/album/1uouqo2Ym8HXdKNZvMhPeP) | 2:35 | 2026-04-06 |  |
 | [notte mascherata \- 2023 Remastered Version](https://open.spotify.com/track/6HTOSDxqQarUjn19kBLh2g) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [AT THE DAWN OF SLEEPING DEAD \(2023 Remastered Version\)](https://open.spotify.com/album/7M3kyhWMi2xEJRiS8ZehYB) | 2:20 | 2026-02-01 |  |
 | [Notte Nera](https://open.spotify.com/track/1ACwnp62aKkyDFPclsH4PH) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 2:49 | 2025-10-23 |  |
 | [Notte Oscura](https://open.spotify.com/track/0eWW6N0t1IDNpI5jGcz1qd) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:36 | 2025-09-18 |  |
@@ -3979,6 +3981,7 @@
 | [Wasteland Wings](https://open.spotify.com/track/1baP9eeZ4Yo0zy2osG4TgO) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99), [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn) | [Wasteland Wings](https://open.spotify.com/album/2Xhf3ptsgblcoi11wpRiwE) | 2:58 | 2025-10-23 |  |
 | [Wasting Time](https://open.spotify.com/track/1605ZENgI1dRZfF8YuxumF) | [SAMEBLUD](https://open.spotify.com/artist/7fVYJLnYP4msJvPRzqycyn) | [Wasting Time](https://open.spotify.com/album/7fuJfzq0gIVgJjAZXC0Rye) | 2:45 | 2025-10-19 |  |
 | [Wasting Your Time](https://open.spotify.com/track/4BbpIubQhDJAWeOA5rxaSf) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Wasting Your Time](https://open.spotify.com/album/7hZsZV5pBEyz5FRnITmgIb) | 2:26 | 2025-05-16 |  |
+| [Watching You Leave](https://open.spotify.com/track/0BMU6qKR64Beln8Zhl4VUe) | [ALLEY the band](https://open.spotify.com/artist/705pUhNAH2OimLCdheAma2) | [Telling Stories EP](https://open.spotify.com/album/3fZEmp4ghXG1h7z67zVyWm) | 3:40 | 2026-04-06 |  |
 | [water lily](https://open.spotify.com/track/0aWDZTlzHgHrnkE9DGNp0F) | [Notbrax](https://open.spotify.com/artist/6tsc0gl9xyXweS2QkeFu6Y) | [water lily](https://open.spotify.com/album/4SV7L0UlnVKONZ7UAWBqtq) | 5:37 | 2025-08-13 |  |
 | [Wave Flow](https://open.spotify.com/track/0ZzoM0YsF5OKIT2gixo07g) | [Phenomenal\-H4960](https://open.spotify.com/artist/2K7TmdznfGl65KL8pxl37I) | [Wave Flow](https://open.spotify.com/album/0oBBJlXlAMRaUQyUCJmzIf) | 2:13 | 2025-06-04 |  |
 | [Wave of Love](https://open.spotify.com/track/3TzOeM9tE90TCNNRztQ7UB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 2:08 | 2025-09-19 |  |

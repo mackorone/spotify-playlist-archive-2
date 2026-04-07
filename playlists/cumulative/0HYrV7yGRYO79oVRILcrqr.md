@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-415 songs - 1 day 1 hr 58 min
+418 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Trouble](https://open.spotify.com/track/4bAbgD2Tv3v1d0fuJNg1ar) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Trouble](https://open.spotify.com/album/766W9V5Bg6ZX5rm46fuVWX) | 4:32 | 2026-04-01 |  |
 | [Troubled](https://open.spotify.com/track/6Z5gGO33AtWMkI0W6gScTN) | [Fat Drive Factory](https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE) | [Troubled](https://open.spotify.com/album/27e0SHGsIxErsW0wWTPjpY) | 3:21 | 2025-09-30 | 2025-12-17 |
 | [Twerkin' With A Twang](https://open.spotify.com/track/7hNtGfB2RKabvFy5d3pQp0) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 2:54 | 2025-12-04 | 2025-12-17 |
+| [Twisted Heart](https://open.spotify.com/track/6tXyqROApirTypxgRWI0OL) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 2:57 | 2026-04-06 |  |
 | [Tête à l'envers](https://open.spotify.com/track/62E5607aqyEGn5T2tz4Fqr) | [Namaspamus](https://open.spotify.com/artist/1pc5KcGRGuzw16cryiEEbY) | [Tête à l'envers](https://open.spotify.com/album/6ISo571ltmZ2flJiyAYkcn) | 3:14 | 2025-10-27 | 2025-11-28 |
 | [Un Rato Más](https://open.spotify.com/track/13Uh63MZHQSGbAIqYisQoS) | [Ruiz de Lope](https://open.spotify.com/artist/3UxGJoUiyIIIu3LYMBelzR) | [Un Rato Más](https://open.spotify.com/album/60Nv8JoGyzxDKKiv28i5mC) | 3:08 | 2025-11-09 | 2025-12-17 |
 | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/track/5kGZUGMDh7wUwEHPOjFKsm) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/album/4ISu9gFv2wlWWAoMHYVV8a) | 3:15 | 2025-12-01 | 2025-12-17 |
@@ -420,6 +421,8 @@
 | [You turned my life upside down](https://open.spotify.com/track/1gOgkXRC7Fn1DgZhH23gRI) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [You turned my life upside down](https://open.spotify.com/album/0RhZuCOnHcqRBAmQarX3t9) | 4:39 | 2025-09-24 | 2025-12-17 |
 | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/track/2x04VP8T1xXpqIlM5b09Hv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p), [Narada Michael Walden](https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B) | [You're a Friend of Mine \(feat\. Narada Michael Walden\)](https://open.spotify.com/album/03PVk8Dk3pOMkwdBXwlhcM) | 4:56 | 2025-10-08 | 2025-11-28 |
 | [You’re never been my mistake](https://open.spotify.com/track/1cjyeqZEhUC8u4pwoe9MIS) | [John Elburg](https://open.spotify.com/artist/1hwt8ZrBctVjNcp8jYDExX) | [The world of Blues](https://open.spotify.com/album/2zUP0v3nY4BidvDuTH9F9Y) | 3:29 | 2025-11-08 | 2025-12-17 |
+| [État des lieux](https://open.spotify.com/track/1GQAQBdQoRuOtkFpdQwE7f) | [JESS ROGUE](https://open.spotify.com/artist/0OEZOb0EuhFa48QMKCvwYD) | [État des lieux](https://open.spotify.com/album/0n7aScRjf9Mja14dpTQBM4) | 3:34 | 2026-04-06 |  |
+| [Золотом](https://open.spotify.com/track/5WvI8UliUjXmDLudsTwxlN) | [Маша Яблокова](https://open.spotify.com/artist/4sB4FO6pJwDMBwRJC8ntrq) | [Золотом](https://open.spotify.com/album/0Yc22TF8FZ8r8IqtG98LRM) | 3:53 | 2026-04-06 |  |
 | [Магеллани](https://open.spotify.com/track/0vzLHz2n2BNjmO8LYQqmdL) | [Ретровай](https://open.spotify.com/artist/1CtJwth1WytrNQOo5DItA1) | [Магеллани](https://open.spotify.com/album/7djdPXZ65EKCdl1r1idR3a) | 2:15 | 2025-09-28 | 2025-12-17 |
 | [Чёрный корвет](https://open.spotify.com/track/5o0IWfBaNiVpiA9NGdxkq7) | [Aleks Qt](https://open.spotify.com/artist/29OA00wnsr71wqUiL3dzD1) | [Чёрный корвет](https://open.spotify.com/album/1k4vR9gRobAO2Cofs6mvDQ) | 3:38 | 2026-03-03 | 2026-03-18 |
 | [黒い瞳](https://open.spotify.com/track/0kRBxEWCvP3ojqVpVj7OAw) | [HIROYA UEYAMA](https://open.spotify.com/artist/4BDqh1UDKOGQjmSmA4syBC) | [黒い瞳](https://open.spotify.com/album/7ghaV4RaYNMsvb5acwHy7c) | 3:33 | 2025-09-29 | 2025-12-17 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 305719,
+  "num_followers": 305769,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come Go With Me: The Best Of The Del-Vikings",
-        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
-      },
-      "artists": [
-        {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Come Go With Me",
-      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Fats Domino Swings",
         "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 152200,
       "name": "Ain't That A Shame",
       "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -951,26 +951,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "At the Rock House",
-        "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        },
-        {
-          "name": "The Teen Kings",
-          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Ooby Dooby",
-      "url": "https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 148053,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/3nUEF90dilZHOoURbBYDEo"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "At the Rock House",
+        "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        },
+        {
+          "name": "The Teen Kings",
+          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Ooby Dooby",
+      "url": "https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Bear Cat / Walkin' in the Rain",
-        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
+        "name": "Sun Records - Rockabilly Archive",
+        "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
       },
       "artists": [
         {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+          "name": "Dean Beard",
+          "url": "https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5"
         }
       ],
-      "duration_ms": 170057,
-      "name": "Bear Cat",
-      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
+      "duration_ms": 139181,
+      "name": "Rock Around The Town",
+      "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - Rockabilly Archive",
-        "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
-      },
-      "artists": [
-        {
-          "name": "Dean Beard",
-          "url": "https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5"
-        }
-      ],
-      "duration_ms": 139181,
-      "name": "Rock Around The Town",
-      "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sun Records - 60 Years, 60 Singles Box Set",
         "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 141785,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Bear Cat / Walkin' in the Rain",
+        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Bear Cat",
+      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Life Could Be A Dream",
-        "url": "https://open.spotify.com/album/2I97y4jn4OWdDYYo2J0eo7"
+        "name": "Rock N' Roll Legends (International Version)",
+        "url": "https://open.spotify.com/album/16HB1qo5ljAAhNB4KFcyvL"
       },
       "artists": [
         {
-          "name": "The Crew Cuts",
-          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
         }
       ],
-      "duration_ms": 168893,
-      "name": "Sh-Boom - Life Could Be A Dream - Sh-Boom",
-      "url": "https://open.spotify.com/track/6dAG4jFPsR4zb2kRhYq3IA"
+      "duration_ms": 134211,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/4EaVZab0VnTWwWnO3HuEAp"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1767,6 +1767,22 @@
       "duration_ms": 142400,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Life Could Be A Dream",
+        "url": "https://open.spotify.com/album/2I97y4jn4OWdDYYo2J0eo7"
+      },
+      "artists": [
+        {
+          "name": "The Crew Cuts",
+          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "Sh-Boom - Life Could Be A Dream - Sh-Boom",
+      "url": "https://open.spotify.com/track/6dAG4jFPsR4zb2kRhYq3IA"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1835,18 +1851,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rock N' Roll Legends (International Version)",
-        "url": "https://open.spotify.com/album/16HB1qo5ljAAhNB4KFcyvL"
+        "name": "Ray Charles & Friends",
+        "url": "https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv"
       },
       "artists": [
         {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 134211,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/4EaVZab0VnTWwWnO3HuEAp"
+      "duration_ms": 386560,
+      "name": "What'd I Say",
+      "url": "https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1863,22 +1879,6 @@
       "duration_ms": 113040,
       "name": "Yakety Yak",
       "url": "https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Ray Charles & Friends",
-        "url": "https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 386560,
-      "name": "What'd I Say",
-      "url": "https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L"
     },
     {
       "added_at": "2022-06-07 05:25:13",

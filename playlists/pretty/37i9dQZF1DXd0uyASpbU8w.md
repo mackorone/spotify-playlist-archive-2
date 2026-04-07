@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Nomfundo Moh, Scotts Maphuma, Omah Lay and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,181 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,217 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 49 | [Girl On The Beat](https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Girl On The Beat](https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK) | 2:40 |
 | 50 | [God Does](https://open.spotify.com/track/1xkWEcTqXnA4BGxBAyGuhV) | [Johannes](https://open.spotify.com/artist/7mGZb9HWyCGtZoY18eDZ8h) | [God Does](https://open.spotify.com/album/7k8gLYeHi2k9IC8EVZEpmk) | 5:02 |
 | 51 | [SpiceKick](https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [SpiceKick](https://open.spotify.com/album/58PCIgUueFleyunThXBdf4) | 2:29 |
-| 52 | [Webaba](https://open.spotify.com/track/28oWQakxnSzLoGxEbSHUvL) | [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Karena Makarena](https://open.spotify.com/artist/3Lj5GVbZ5JexMobWdKWq8Q), [nekhristov](https://open.spotify.com/artist/2PwW8ZOBSUKVdIPLcIvjWp) | [Webaba \(Radio Edit\)](https://open.spotify.com/album/1XcatyXQcoxDKFCBPo5bxR) | 4:47 |
+| 52 | [Webaba](https://open.spotify.com/track/28oWQakxnSzLoGxEbSHUvL) | [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Karena Makarena](https://open.spotify.com/artist/3Lj5GVbZ5JexMobWdKWq8Q), [nekhristov](https://open.spotify.com/artist/2PwW8ZOBSUKVdIPLcIvjWp) | [Webaba](https://open.spotify.com/album/1XcatyXQcoxDKFCBPo5bxR) | 3:16 |
 | 53 | [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 |
 | 54 | [Mgyjimi \(feat\. KGO\)](https://open.spotify.com/track/0uOtmOdgSLOLh4CB28fI87) | [Atlegang93](https://open.spotify.com/artist/2bkbwIeDB2L370gLzmCS75), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [Slimbouy](https://open.spotify.com/artist/6Z4rpYA5LmCepd8ky4YT9E), [KGO](https://open.spotify.com/artist/6DLuoGpAlbz6Xy95GuyGVB) | [Mgyjimi \(feat\. KGO\)](https://open.spotify.com/album/76VnS9AKlF2Jy2m35f2X9D) | 6:56 |
 | 55 | [uThando Nenjabulo](https://open.spotify.com/track/7DRNpSanOJ8vggKg2Mf6tL) | [Jazzy June](https://open.spotify.com/artist/0gqConrlPUKRpk6C6BuTtI), [TeabagCC](https://open.spotify.com/artist/6sW4QFrM1ffIRAQRHC4wZy) | [Starting V: 2nd Unit](https://open.spotify.com/album/373hWAg9zqe9X5n2Qn8etG) | 3:40 |

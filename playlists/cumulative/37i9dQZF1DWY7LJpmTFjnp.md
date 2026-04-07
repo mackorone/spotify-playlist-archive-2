@@ -2,7 +2,7 @@
 
 ### [La + Chingona](https://open.spotify.com/playlist/37i9dQZF1DWY7LJpmTFjnp)
 
-> Una dosis con lo más chingón pa'l gusto mexicano\. Molotov,  Ladrones en portada.
+> Una dosis con lo más chingón pa'l gusto mexicano,  Ladrones en portada.
 
 360 songs - 22 hr 23 min
 

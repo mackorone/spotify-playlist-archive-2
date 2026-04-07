@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 61406,
+  "num_followers": 61429,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Trains, Boats and Planes",
-        "url": "https://open.spotify.com/album/4NKM2cooUqnyICpeslOehd"
-      },
-      "artists": [
-        {
-          "name": "The Frank And Walters",
-          "url": "https://open.spotify.com/artist/0ZurKOkOcHpO44alHZJpyC"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/7L0ZxkPAVVJ3i0M8Zx6jVT"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "Songs For The Tempted",
         "url": "https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 213573,
       "name": "Mary",
       "url": "https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Trains, Boats and Planes",
+        "url": "https://open.spotify.com/album/4NKM2cooUqnyICpeslOehd"
+      },
+      "artists": [
+        {
+          "name": "The Frank And Walters",
+          "url": "https://open.spotify.com/artist/0ZurKOkOcHpO44alHZJpyC"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/7L0ZxkPAVVJ3i0M8Zx6jVT"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Twice Around the World",
-        "url": "https://open.spotify.com/album/54nsvKNwSLXa7YnkbgOExa"
+        "name": "Stuck Together With God's Glue",
+        "url": "https://open.spotify.com/album/0VC8DNqENeIyGehHX5nsuV"
       },
       "artists": [
         {
-          "name": "The Stunning",
-          "url": "https://open.spotify.com/artist/1fEwGqdphBrvv5Vx79PjUi"
+          "name": "Something Happens",
+          "url": "https://open.spotify.com/artist/6V7D7M2wECmGR8eBp9r4Kx"
         }
       ],
-      "duration_ms": 230649,
-      "name": "Everything That Rises",
-      "url": "https://open.spotify.com/track/4a0Ilq1skteEcXiZieqIBR"
+      "duration_ms": 207400,
+      "name": "Hello, Hello, Hello, Hello, Hello (Petrol)",
+      "url": "https://open.spotify.com/track/5pEHu31gZ2qZpc8VSEdmsV"
     }
   ],
   "unique_name": "Irish Rock Classics",

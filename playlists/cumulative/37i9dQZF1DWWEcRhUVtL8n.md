@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sofia D'Angelo
 
-2,361 songs - 5 day 5 hr 45 min
+2,362 songs - 5 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Butterflies](https://open.spotify.com/track/1nUzZ1rxEQBHdxiUL9mj9i) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [The Greatest Hits](https://open.spotify.com/album/0TVzUmZ0PC3iE9Ctpr0XM5) | 3:06 | 2020-10-13\* | 2021-10-12 |
 | [butterflies,](https://open.spotify.com/track/2V9aOl8SmtGh657MjnxSX9) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [butterflies,](https://open.spotify.com/album/0wr1UdlxD4zZR7StZUBV3H) | 2:41 | 2022-01-21 | 2022-04-21 |
 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-09 | 2025-06-18 |
-| [buzzkill](https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:35 | 2025-04-25 |  |
+| [buzzkill](https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:35 | 2025-04-25 | 2026-04-07 |
 | [buzzkill](https://open.spotify.com/track/1xFkcJjWuLlq8CIymwSTw9) | [Mothica](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [forever fifteen](https://open.spotify.com/album/3GWDTDhstbhNxfyZJKwqVU) | 2:20 | 2021-03-19 | 2021-10-11 |
 | [Cake](https://open.spotify.com/track/5vwODgisxnSPmnUoDKVjW4) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:47 | 2022-06-17 | 2022-08-06 |
 | [California](https://open.spotify.com/track/3bwmdeu8SFFPyvyZ7ekshz) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [California](https://open.spotify.com/album/2S7UGA5rk8XmxqKMBQgup2) | 3:18 | 2020-10-20 | 2020-10-21 |
@@ -1070,6 +1070,7 @@
 | [I'm Not Okay \(feat\. meija\)](https://open.spotify.com/track/09USLRwzsSitztRekqWpM3) | [Tyzo Bloom](https://open.spotify.com/artist/38fu1DhmEN33ALaBa7jGhI), [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Random Thoughts](https://open.spotify.com/album/2nTBFr520WwBWIsJvR4Hfc) | 3:55 | 2020-11-13 | 2021-01-15 |
 | [I'M SCARED](https://open.spotify.com/track/0rkpvtBvgYH9VPgJFw0Paj) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [PLEASE HELP ME..\. Part 1](https://open.spotify.com/album/4p00pudzSjGeQXQKD981gQ) | 3:00 | 2024-05-17 | 2024-05-25 |
 | [I'm So Bored](https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [The Living End](https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B) | 3:28 | 2022-12-09 | 2023-07-29 |
+| [Icarus](https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Icarus](https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn) | 4:25 | 2026-03-27 |  |
 | [IDK](https://open.spotify.com/track/5oObGXk0NriZXxV78aIO0X) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [IDK](https://open.spotify.com/album/15GbsI16l3f6XhdEVxn0EM) | 3:26 | 2021-05-03 | 2022-04-16 |
 | [idwgtyp](https://open.spotify.com/track/28Qv23wjvAhPZGr5NXhBq8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [idwgtyp](https://open.spotify.com/album/0x5swq6Ju73lmGUdR7sjwi) | 3:06 | 2021-01-15 | 2021-03-02 |
 | [IF](https://open.spotify.com/track/7mLycWeC0RZdMwGKUAEiMn) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [BASE](https://open.spotify.com/album/1fpwvAh1Fb7TV7LNjYZv6V) | 2:02 | 2026-02-27 | 2026-03-25 |

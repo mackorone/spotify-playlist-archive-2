@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。アイナ・ジ・エンド, LiSA, Thundercat, Ravyn Lenae, OneRepublic and more!
 
-13,170 songs - 30 day 15 hr 25 min
+13,171 songs - 30 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1631,7 +1631,7 @@
 | [Bunny Girl \- maeshima soshi, だてぃが Remix](https://open.spotify.com/track/1lrVKIwsrZq0ol3dNPAbJt) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Bunny Girl \(maeshima soshi, だてぃが Remix\)](https://open.spotify.com/album/0FkZzpAt2kOlfZ2fX9XaKQ) | 3:30 | 2025-01-16 | 2025-01-24 |
 | [Bunny Girl \- wotaku Remix](https://open.spotify.com/track/7yksh9RQnlNatxnKs265Cd) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw), [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [Bunny Girl \(wotaku Remix\)](https://open.spotify.com/album/6B9ZRI1gqNoONEgcpDsjsG) | 3:52 | 2024-12-26 | 2025-01-10 |
 | [Buried Alive](https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Buried Alive](https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94) | 2:02 | 2024-05-02 | 2024-05-10 |
-| [Burn](https://open.spotify.com/track/4jImqrjJAcDHsyFcFPlk2U) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 0:57 | 2026-04-02 |  |
+| [Burn](https://open.spotify.com/track/4jImqrjJAcDHsyFcFPlk2U) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 0:57 | 2026-04-02 | 2026-04-07 |
 | [Burn](https://open.spotify.com/track/2rGmDOHWb9zLND3x8gegMy) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Soul Kiss](https://open.spotify.com/album/4qcwB8667roNvwKlij2Z0M) | 3:27 | 2024-10-03 | 2024-10-11 |
 | [Burn](https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Burn](https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld) | 2:49 | 2025-01-23 | 2025-01-31 |
 | [BURN](https://open.spotify.com/track/0mLlgmGGR4X03gsyu8pz4i) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [BURN](https://open.spotify.com/album/22poX10gy30tj7vqUDTKyz) | 3:40 | 2025-02-20 | 2025-02-28 |
@@ -10516,6 +10516,7 @@
 | [The Secret Recipe](https://open.spotify.com/track/6x5E9i1oisbfYSTjuSuMqd) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Something Ether](https://open.spotify.com/album/47SrODHFtmaQitdsmonVie) | 4:08 | 2024-02-23 | 2024-03-01 |
 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 | 2025-03-14 | 2025-03-21 |
 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 | 2025-07-10 | 2025-07-18 |
+| [The Show](https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 2:47 | 2026-04-06 |  |
 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 | 2023-06-08 | 2023-06-16 |
 | [The Show \- with JJ Lin](https://open.spotify.com/track/3MpC4En7qGkwcuzp8qnsrr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [The Show \(with JJ Lin\)](https://open.spotify.com/album/5GJCAZCsQS8hCQsxjrVdvo) | 3:27 | 2023-05-25 | 2023-06-02 |
 | [The Show Must Go On](https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Show Must Go On](https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT) | 4:26 | 2023-07-20 | 2023-07-28 |
