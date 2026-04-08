@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 611,
+  "num_followers": 612,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADOSRJ+2CgRZDziqxwBUP+49fARuc6",
+  "snapshot_id": "AAADO7FtaBwV3xWyCnSih8YWf+PywnMd",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1475,6 +1475,38 @@
       "duration_ms": 172372,
       "name": "Of a Beautiful Dream",
       "url": "https://open.spotify.com/track/48T7NGSrmgHx40d3H3Iwl6"
+    },
+    {
+      "added_at": "2026-04-07 13:59:05",
+      "album": {
+        "name": "Time To Be Alive",
+        "url": "https://open.spotify.com/album/6QRatbdQi9sUQfP7o5sN82"
+      },
+      "artists": [
+        {
+          "name": "Skyway",
+          "url": "https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R"
+        }
+      ],
+      "duration_ms": 144243,
+      "name": "Uncrumpled",
+      "url": "https://open.spotify.com/track/5Pv86y8cdyKj1VbKVrrJK9"
+    },
+    {
+      "added_at": "2026-04-07 14:17:20",
+      "album": {
+        "name": "Broken (Goodbye)",
+        "url": "https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Broken (Goodbye)",
+      "url": "https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNY5PUODjKDb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Qs9QUukNfAmA58YskIxQE">Andrew Lloyd Webber</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 687 likes - 702 songs - 1 day 19 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 688 likes - 702 songs - 1 day 19 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -652,7 +652,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNY5PUODjKDb.md) - [plain]
 | 642 | [Think of Me \(Instrumental\)](https://open.spotify.com/track/20VXgfChNjvhEJrHNmIFmL) | [David Keith Jones](https://open.spotify.com/artist/6SyTOcW49ejsWCJmHvtBE7) | [Phantom](https://open.spotify.com/album/4GjPmhMixWqnmld8ZgP2zr) | 3:45 |
 | 643 | [Have a Nice Day](https://open.spotify.com/track/5FJheP1Cm31EwW0j2XqUIZ) | [Gitte Hænning](https://open.spotify.com/artist/61colh5ssNlVYwuzlQyB1u) | [Ihre größten Erfolge \(Ungeschminkt, Berührungen, Bleib' noch…\)](https://open.spotify.com/album/20PMbz0SF2BRQgiHzszs3r) | 2:58 |
 | 644 | [Have Another Cup of Tea](https://open.spotify.com/track/5vlrVCXUQuPCxmLY7hF3gJ) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [The Likes of Us \(2005 Sydmonton Festival\)](https://open.spotify.com/album/2tbx6ZhRuAxKF0tDhhNKcC) | 6:24 |
-| 645 | [Cats Suite](https://open.spotify.com/track/687aILBYIUZRuo5R4w6z2G) | [Andrew Lloyd Webber](https://open.spotify.com/artist/6bSdvGGLNb7rK0F775n6Ol), [Anthony Inglis](https://open.spotify.com/artist/6xIYKl4WjVgJMFI7dHZRSz) | [Symphonic Lloyd Webber](https://open.spotify.com/album/1mk4hgfaZrZcRIm0GqtlGr) | 6:50 |
+| 645 | [Cats Suite](https://open.spotify.com/track/687aILBYIUZRuo5R4w6z2G) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4xd7dzKtrSaUHXcV0kAWCS), [Anthony Inglis](https://open.spotify.com/artist/6xIYKl4WjVgJMFI7dHZRSz) | [Symphonic Lloyd Webber](https://open.spotify.com/album/1mk4hgfaZrZcRIm0GqtlGr) | 6:50 |
 | 646 | [You Won't Care About Him Anymore](https://open.spotify.com/track/7p5q63pXABPm2HwKJwixOR) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [The Likes of Us \(2005 Sydmonton Festival\)](https://open.spotify.com/album/2tbx6ZhRuAxKF0tDhhNKcC) | 4:42 |
 | 647 | [Variation 15½ \- 2007 Remaster](https://open.spotify.com/track/6PEZe804CvNIS4S6OACDgn) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [David Caddick](https://open.spotify.com/artist/56tCo6clxyWa82FBdluRcG) | [Song & Dance \(2007 Remastered Version\)](https://open.spotify.com/album/51URGxT0WNnC8Y7DDD154p) | 3:13 |
 | 648 | [The Ballad of Billy M'Caw](https://open.spotify.com/track/0gzfU7Ye2Lhj17ur1Z6K46) | [One Piano](https://open.spotify.com/artist/2g1ULtHvT0HfONgiTgVE6U) | [The Broadway Sessions Cats](https://open.spotify.com/album/4IVQiwlPynPInn1XLwIbKZ) | 3:27 |
@@ -711,4 +711,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNY5PUODjKDb.md) - [plain]
 | 701 | [25 Variations & Fugue on a Theme by Handel, Op\. 24: Variation 20 \(Live\)](https://open.spotify.com/track/3gW5KiDXsLrvstxyCFw7t4) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Peter Katin](https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8) | [Brahms: Piano works](https://open.spotify.com/album/0msNHbrbxOUfkflOhvtBdX) | 1:13 |
 | 702 | [The Wedding Fanfare](https://open.spotify.com/track/3RWYHLtPt53dFAWePNyrk0) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [Andrew Lloyd Webber’s “Cinderella”](https://open.spotify.com/album/3rtC6Cp8eRW9hrDnfkGKb3) | 0:13 |
 
-Snapshot ID: `AcOKagAAAAAvaib+riuYuV2DQyU0Rf/e`
+Snapshot ID: `AcOQCgAAAAC4AzvikTsOnthu9CRr1jxv`

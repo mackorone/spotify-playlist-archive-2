@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,098 likes - 278 songs - 16 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,104 likes - 278 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 16 | [Långbro feelin'](https://open.spotify.com/track/5lPN4QF62iZkpGLSjA1MLE) | [Division 7](https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP) | [Långbro feelin'](https://open.spotify.com/album/0XfILw7onStPyx47K9H6WF) | 2:47 |
 | 17 | [Vidrig Soluppgång](https://open.spotify.com/track/77ZNUojWyYfSuGQsMZqV3v) | [Nils Albin](https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi) | [Vidrig Soluppgång](https://open.spotify.com/album/1Cr2HTMxunNo9IDTB55O82) | 2:18 |
 | 18 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
-| 19 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
+| 19 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx), [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
 | 20 | [I'M DEAD](https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I'M DEAD](https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy) | 2:31 |
 | 21 | [wish I did](https://open.spotify.com/track/1JD1Jmc81iMs4bcGUNnN7W) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [wish I did](https://open.spotify.com/album/1QNXdmIyAviteAsQ7Qq8At) | 2:20 |
 | 22 | [Simple Life](https://open.spotify.com/track/0YKpU3ENKHEuISIzY2Mddo) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Brink](https://open.spotify.com/album/6YWyh2uDVJspFCq32tVPuh) | 3:07 |

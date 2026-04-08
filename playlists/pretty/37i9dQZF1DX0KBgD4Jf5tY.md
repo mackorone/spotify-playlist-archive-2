@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:6RyYnt3Q1ebcbLxYOtE9bb">@gabriele</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:0PvxzN9MSvVMYj0b0fuwzA">Arianna Pasini</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,663 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,665 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [con te](https://open.spotify.com/track/3fSJxYs7Wf09Dz5B40R3eN) | [@gabriele](https://open.spotify.com/artist/6RyYnt3Q1ebcbLxYOtE9bb) | [con te](https://open.spotify.com/album/20LclcpnwhZgvIdBEuSRD5) | 2:49 |
+| 1 | [Lunedì](https://open.spotify.com/track/2jPlIUcJMsCZiwDaUCZCvK) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Lunedì](https://open.spotify.com/album/0edZIh8LlVCaKH0i6uEEUf) | 3:05 |
 | 2 | [la noia che ho negli occhi](https://open.spotify.com/track/7geFf6RDEWnrDdYUtR7KtB) | [VEROSIMILE](https://open.spotify.com/artist/6K9KfaUxJIKk6qZh9a1fVG) | [PIANO TERRA](https://open.spotify.com/album/6Rjji81ps1n8JJrYBywcdF) | 2:36 |
-| 3 | [Tersicore](https://open.spotify.com/track/6Rb0OjusapAMifa4BThXnl) | [cólgate](https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886) | [Tersicore](https://open.spotify.com/album/5a8jCIJaZd0wSr63b4eIr9) | 3:55 |
-| 4 | [Ricordo](https://open.spotify.com/track/4dNMxxTgcLnEHED7TeWE3S) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [Ricordo](https://open.spotify.com/album/4764NQcBmKJtx5Cp9ohNZS) | 3:30 |
-| 5 | [House Baby](https://open.spotify.com/track/2JYRElDZlJx5GPomwbQxnL) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [House Baby](https://open.spotify.com/album/4HBxYswFtFlYc6jbPV14Ia) | 3:16 |
-| 6 | [Estate 2007](https://open.spotify.com/track/2qUoYjZYq4jtq52bowjwP1) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Estate 2007 \| Piazza Roma](https://open.spotify.com/album/1c6viVbq9KFBNuXJEqdtrZ) | 2:18 |
-| 7 | [Pietà](https://open.spotify.com/track/6yqTqqm7aRavtja52I39GS) | [Clamö](https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR), [Nari](https://open.spotify.com/artist/28YucCkDDyg93khkD5h5RS) | [Pietà](https://open.spotify.com/album/3L9x0HLaTkm04jrNgucTqm) | 2:48 |
-| 8 | [Le tue dita ferme](https://open.spotify.com/track/6Oc19Mr1LOsLpeGijtdWAU) | [irossa](https://open.spotify.com/artist/3r7ayqsHrVs1aeD7SiBTsz) | [La mia stella aggressiva si nasconde nelle virgole e nei punti](https://open.spotify.com/album/6UXP2nbjsFsFBqB8dKKlFt) | 2:55 |
-| 9 | [Lunedì](https://open.spotify.com/track/2jPlIUcJMsCZiwDaUCZCvK) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Lunedì](https://open.spotify.com/album/0edZIh8LlVCaKH0i6uEEUf) | 3:05 |
-| 10 | [Dissacrante](https://open.spotify.com/track/5ZV2ObM0F03iGTQZWhR7nQ) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [Dissacrante](https://open.spotify.com/album/4fv8Owfn2yKg8Vkn8zpbwi) | 3:18 |
-| 11 | [DI NON AVERE PAURA](https://open.spotify.com/track/6prPglIOymhrbiEE2Kf9xL) | [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [POST](https://open.spotify.com/album/25IAF6IeQPoCPGkiKY76Vi) | 5:13 |
-| 12 | [HEAVY](https://open.spotify.com/track/5P3yiKQoVt7X6uPBRdlZ6I) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [HEAVY](https://open.spotify.com/album/6pyBVhhnvUn2SFFSD0sPVo) | 2:21 |
-| 13 | [Jump In](https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Jump In](https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H) | 2:30 |
-| 14 | [io mi fidavo di te](https://open.spotify.com/track/0T3QCcqtRpqAW9doZHDZWZ) | [muschio](https://open.spotify.com/artist/55WBWVvCMWANoEm7n1ukDS) | [io mi fidavo di te](https://open.spotify.com/album/1ug2YGRavIJ7d76zEP4LF9) | 3:11 |
-| 15 | [UN DOLORE COSÌ GRANDE DA FARE PIETÀ AL MONDO INTERO](https://open.spotify.com/track/4UMAoxTefoxALbcYyDOYZ9) | [Ozone Dehumanizer](https://open.spotify.com/artist/2T7ZaWYc2rjC2q3egoJmh0) | [UN DOLORE COSÌ GRANDE DA FARE PIETÀ AL MONDO INTERO](https://open.spotify.com/album/0seOmBNpbD8jUMYvnmvdyT) | 2:38 |
-| 16 | [Blu](https://open.spotify.com/track/6mpXviP6qIzSeSmK1suOW2) | [Edo](https://open.spotify.com/artist/1xZTUnNzrfheALu3TCcRof) | [Blu](https://open.spotify.com/album/75MNiy10N5QbLY1cjDxY8u) | 2:54 |
-| 17 | [Il Teatro dell’Anima](https://open.spotify.com/track/60QENwGTnzAXeqjyypsoDK) | [Glomarì](https://open.spotify.com/artist/7LRG0giU7EnricaEi0qEcm) | [Strumenti dell'indugio](https://open.spotify.com/album/26vpZwelaP12IvHjRQQuuu) | 3:36 |
-| 18 | [rifiorire](https://open.spotify.com/track/1Ak1nbrqJCBu8gEi9jC0N5) | [marsea](https://open.spotify.com/artist/7mw9gGWm4SBXadBNhW1OMX) | [rifiorire](https://open.spotify.com/album/5V0uqjEAjwKrlfHq7uKz33) | 3:49 |
+| 3 | [Ricordo](https://open.spotify.com/track/4dNMxxTgcLnEHED7TeWE3S) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [Ricordo](https://open.spotify.com/album/4764NQcBmKJtx5Cp9ohNZS) | 3:30 |
+| 4 | [alla luna](https://open.spotify.com/track/0OuHeXyrPEZNbCJZ9raCIH) | [marsea](https://open.spotify.com/artist/7mw9gGWm4SBXadBNhW1OMX) | [alla luna](https://open.spotify.com/album/3XhsUfKCOuSJKqLYrVP5zU) | 4:16 |
+| 5 | [con te](https://open.spotify.com/track/3fSJxYs7Wf09Dz5B40R3eN) | [@gabriele](https://open.spotify.com/artist/6RyYnt3Q1ebcbLxYOtE9bb) | [con te](https://open.spotify.com/album/20LclcpnwhZgvIdBEuSRD5) | 2:49 |
+| 6 | [Tersicore](https://open.spotify.com/track/6Rb0OjusapAMifa4BThXnl) | [cólgate](https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886) | [Tersicore](https://open.spotify.com/album/5a8jCIJaZd0wSr63b4eIr9) | 3:55 |
+| 7 | [House Baby](https://open.spotify.com/track/2JYRElDZlJx5GPomwbQxnL) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [House Baby](https://open.spotify.com/album/4HBxYswFtFlYc6jbPV14Ia) | 3:16 |
+| 8 | [Estate 2007](https://open.spotify.com/track/2qUoYjZYq4jtq52bowjwP1) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Estate 2007 \| Piazza Roma](https://open.spotify.com/album/1c6viVbq9KFBNuXJEqdtrZ) | 2:18 |
+| 9 | [Pietà](https://open.spotify.com/track/6yqTqqm7aRavtja52I39GS) | [Clamö](https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR), [Nari](https://open.spotify.com/artist/28YucCkDDyg93khkD5h5RS) | [Pietà](https://open.spotify.com/album/3L9x0HLaTkm04jrNgucTqm) | 2:48 |
+| 10 | [Le tue dita ferme](https://open.spotify.com/track/6Oc19Mr1LOsLpeGijtdWAU) | [irossa](https://open.spotify.com/artist/3r7ayqsHrVs1aeD7SiBTsz) | [La mia stella aggressiva si nasconde nelle virgole e nei punti](https://open.spotify.com/album/6UXP2nbjsFsFBqB8dKKlFt) | 2:55 |
+| 11 | [Dissacrante](https://open.spotify.com/track/5ZV2ObM0F03iGTQZWhR7nQ) | [Umarell](https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ) | [Dissacrante](https://open.spotify.com/album/4fv8Owfn2yKg8Vkn8zpbwi) | 3:18 |
+| 12 | [DI NON AVERE PAURA](https://open.spotify.com/track/6prPglIOymhrbiEE2Kf9xL) | [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [POST](https://open.spotify.com/album/25IAF6IeQPoCPGkiKY76Vi) | 5:13 |
+| 13 | [HEAVY](https://open.spotify.com/track/5P3yiKQoVt7X6uPBRdlZ6I) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [HEAVY](https://open.spotify.com/album/6pyBVhhnvUn2SFFSD0sPVo) | 2:21 |
+| 14 | [Jump In](https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Jump In](https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H) | 2:30 |
+| 15 | [io mi fidavo di te](https://open.spotify.com/track/0T3QCcqtRpqAW9doZHDZWZ) | [muschio](https://open.spotify.com/artist/55WBWVvCMWANoEm7n1ukDS) | [io mi fidavo di te](https://open.spotify.com/album/1ug2YGRavIJ7d76zEP4LF9) | 3:11 |
+| 16 | [UN DOLORE COSÌ GRANDE DA FARE PIETÀ AL MONDO INTERO](https://open.spotify.com/track/4UMAoxTefoxALbcYyDOYZ9) | [Ozone Dehumanizer](https://open.spotify.com/artist/2T7ZaWYc2rjC2q3egoJmh0) | [UN DOLORE COSÌ GRANDE DA FARE PIETÀ AL MONDO INTERO](https://open.spotify.com/album/0seOmBNpbD8jUMYvnmvdyT) | 2:38 |
+| 17 | [Blu](https://open.spotify.com/track/6mpXviP6qIzSeSmK1suOW2) | [Edo](https://open.spotify.com/artist/1xZTUnNzrfheALu3TCcRof) | [Blu](https://open.spotify.com/album/75MNiy10N5QbLY1cjDxY8u) | 2:54 |
+| 18 | [Il Teatro dell’Anima](https://open.spotify.com/track/60QENwGTnzAXeqjyypsoDK) | [Glomarì](https://open.spotify.com/artist/7LRG0giU7EnricaEi0qEcm) | [Strumenti dell'indugio](https://open.spotify.com/album/26vpZwelaP12IvHjRQQuuu) | 3:36 |
 | 19 | [la guerra e le bombe](https://open.spotify.com/track/5hwKCeWMOpSK0vRocTXpGC) | [Schianta](https://open.spotify.com/artist/5RuBmTwAQniQinysSScGmB), [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [la guerra e le bombe](https://open.spotify.com/album/3J5XNwp6Sv3ELMlwiOUl1c) | 3:21 |
 | 20 | [Nun ce 'a faccio chiù](https://open.spotify.com/track/3eC8DHH4lwTFdGboLmHKtk) | [ZEROTTANTUNO](https://open.spotify.com/artist/4idMReT07Hyknfr9if9Etm) | [L'autostrada del sole](https://open.spotify.com/album/5OwIrAeFsZyYeh4rszxoPF) | 5:21 |
 | 21 | [Babilonia](https://open.spotify.com/track/2vJvbnqyitMFw5NCGBMer4) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Finalmente, musica!](https://open.spotify.com/album/0rbWu5BUf8P1RbythuROE9) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Dove si va](https://open.spotify.com/track/0JvcY0D5PUPBAfjr7Np5SQ) | [Sidy](https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT) | [Dove si va](https://open.spotify.com/album/4LFYZLxFF1N6f1k0lbQIis) | 2:51 |
 | 50 | [Acqua Ebbasta](https://open.spotify.com/track/10oqo3o8hpDD5UEHJsrgVn) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [Acqua Ebbasta](https://open.spotify.com/album/2Y1pyhvWZuIascFhjUsM4Q) | 2:18 |
 
-Snapshot ID: `AAAAALyGC+bpuQS406hbYNlg7PTKgCgw`
+Snapshot ID: `AAAAAOt9V+SXwAZlI0i/hf7hzFVyQnaD`

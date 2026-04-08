@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 12609,
+  "num_followers": 12612,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adGmAAAAAACamhrIEZF7P3z+DsmpNqz/",
+  "snapshot_id": "adL3gAAAAABKeKjDpqAWVOEzzOmZmuLT",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 192014,
-      "name": "Broken By Design",
-      "url": "https://open.spotify.com/track/7gTds4MeC6opy5Y30x67kt"
+      "duration_ms": 153530,
+      "name": "WIRED",
+      "url": "https://open.spotify.com/track/2VSNcIG1cSDoa9VJXwyBMK"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 153530,
-      "name": "WIRED",
-      "url": "https://open.spotify.com/track/2VSNcIG1cSDoa9VJXwyBMK"
+      "duration_ms": 192014,
+      "name": "Broken By Design",
+      "url": "https://open.spotify.com/track/7gTds4MeC6opy5Y30x67kt"
     },
     {
       "added_at": null,

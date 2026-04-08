@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Check out BTS's <a href="https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa?si=9eJTL\-8PRHOIUiFx4ln41Q&pi=\-1cSpwezSo2dP">'SWIM'</a> music video!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,040,827 likes - 321 songs - 18 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,042,126 likes - 321 songs - 18 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SWIMSIDE: A Message from BTS](https://open.spotify.com/track/6aaTaI3N55dboWtxjMENOG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIMSIDE: A Message from BTS](https://open.spotify.com/album/1T0Fd0swjnygWYUdKoudNH) | 0:42 |
-| 2 | [SWIMSIDE: A Message from BTS \(English ver.\)](https://open.spotify.com/track/4armFRlesCyzQuFiLr4cGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIMSIDE: A Message from BTS](https://open.spotify.com/album/1T0Fd0swjnygWYUdKoudNH) | 0:37 |
-| 3 | [Message from BTS](https://open.spotify.com/track/5ovkTZINOFNzQrMQ8d13JG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [This Is BTS](https://open.spotify.com/album/0WrvJ8dY63qaruHYiupcFE) | 0:50 |
+| 1 | [Message from BTS](https://open.spotify.com/track/5ovkTZINOFNzQrMQ8d13JG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [This Is BTS](https://open.spotify.com/album/0WrvJ8dY63qaruHYiupcFE) | 0:50 |
+| 2 | [SWIM \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD) | 2:42 |
+| 3 | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih) | 3:10 |
 | 4 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 |
 | 5 | [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 |
 | 6 | [Hooligan](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:02 |
@@ -330,4 +330,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 320 | [Skit: R U Happy Now?](https://open.spotify.com/track/53XrsilgguJmmsEtDsj0yY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [O!RUL8,2?](https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf) | 2:28 |
 | 321 | [Skit: Circle Room Talk](https://open.spotify.com/track/4Ut6UU8Yyihz1jCZWSCQpu) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) | 2:11 |
 
-Snapshot ID: `AAAAAFZO7W+qsvobOTnhOy/11iqygdsv`
+Snapshot ID: `AAAAAGJ1G+iQd2l1xnmcxlOSSh1SwDOG`

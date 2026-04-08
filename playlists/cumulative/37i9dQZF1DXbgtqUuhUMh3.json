@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Arab women, at full volume. Maha Ftouni is co-curating EQUAL Arabia this month.\n\n\n\n",
+  "description": "Listen to women, at full volume. Emel is co-curating EQUAL Arabia this month.\n",
   "name": "EQUAL Arabia",
   "tracks": [
     {
@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "ANTA",
+        "url": "https://open.spotify.com/album/6G0mBd8djwU3QsAJ9zO5Xv"
+      },
+      "artists": [
+        {
+          "name": "F.B.K",
+          "url": "https://open.spotify.com/artist/4MQ6HcoPnZtY84zutOIbrc"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174275,
+      "name": "ANTA",
+      "url": "https://open.spotify.com/track/671lamxD9sCeK2yIDdb6At"
+    },
+    {
+      "album": {
         "name": "Araftouh",
         "url": "https://open.spotify.com/album/073EbOzyF0oSIZdl6IVXJj"
       },
@@ -2435,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Borders & Promises",
+        "url": "https://open.spotify.com/album/5uIkhTCloRamttkbQ3TgE9"
+      },
+      "artists": [
+        {
+          "name": "Haya Zaatry",
+          "url": "https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Borders & Promises",
+      "url": "https://open.spotify.com/track/5qY06W2svsKdzGGmAcKiu1"
+    },
+    {
+      "album": {
         "name": "Bosla",
         "url": "https://open.spotify.com/album/3WBZ2arYR33VIpN11m640S"
       },
@@ -2601,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Chashm",
+        "url": "https://open.spotify.com/album/1iqK733LkqBwsQWR96E1QM"
+      },
+      "artists": [
+        {
+          "name": "Justina",
+          "url": "https://open.spotify.com/artist/1WaCguNeKSENLLlSd0vSVR"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Chashm",
+      "url": "https://open.spotify.com/track/7m9tqRXMeEb3jn2TFcsfeW"
+    },
+    {
+      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/3ry7upEBDarprt1XVXNSf2"
       },
@@ -2728,7 +2782,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 236457,
       "name": "Deat Menk",
       "url": "https://open.spotify.com/track/5890i2V2TKXVFEJsqpCaDX"
@@ -3074,6 +3128,24 @@
       "duration_ms": 189152,
       "name": "El Dahab",
       "url": "https://open.spotify.com/track/7mrLcboFABy7lyKCYxgimY"
+    },
+    {
+      "album": {
+        "name": "Syrr",
+        "url": "https://open.spotify.com/album/1Gp08QGitGOM6w72NjBKPb"
+      },
+      "artists": [
+        {
+          "name": "Maryam Saleh",
+          "url": "https://open.spotify.com/artist/3M3dqhDqNK2DsZPIbopgUA"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180142,
+      "name": "El Fetra",
+      "url": "https://open.spotify.com/track/5NV4xOESIJm1e0GnXZfnEq"
     },
     {
       "album": {
@@ -3546,7 +3618,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 204045,
       "name": "Ensa",
       "url": "https://open.spotify.com/track/0ZPqhPKFG5QmuucUYSKtoR"
@@ -4066,7 +4138,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 179528,
       "name": "Fish Masari",
       "url": "https://open.spotify.com/track/0efWxVypnPJNk3S3iBwoj9"
@@ -4088,6 +4160,28 @@
       "duration_ms": 149882,
       "name": "Fl Blacona",
       "url": "https://open.spotify.com/track/3jkBcbYVToYSqPcnsuxcF8"
+    },
+    {
+      "album": {
+        "name": "Focus Focus Focus",
+        "url": "https://open.spotify.com/album/2I6zwyYiWOV1QmfeFpyzkM"
+      },
+      "artists": [
+        {
+          "name": "Eva Alordiah",
+          "url": "https://open.spotify.com/artist/3Fys2rzPCbp6tDzQ7YO3Pq"
+        },
+        {
+          "name": "Monseeka",
+          "url": "https://open.spotify.com/artist/5SwZu4d3OP9l9zbUfsOofi"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Focus Focus Focus",
+      "url": "https://open.spotify.com/track/2yB2iLWtHy427Oc1ZDcnah"
     },
     {
       "album": {
@@ -5192,6 +5286,24 @@
       "duration_ms": 207485,
       "name": "Iyam Tamouz",
       "url": "https://open.spotify.com/track/4d62zzGWCLSWKYAWjd66wX"
+    },
+    {
+      "album": {
+        "name": "J'ai Oubli\u00e9 Le Nom Des Oiseaux",
+        "url": "https://open.spotify.com/album/5hPhWiP2BIBudIgMGnflQ9"
+      },
+      "artists": [
+        {
+          "name": "Alice Animal",
+          "url": "https://open.spotify.com/artist/2Y4g9bDTIIUaD7RRIsqwVt"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313586,
+      "name": "J'ai Oubli\u00e9 Le Nom Des Oiseaux",
+      "url": "https://open.spotify.com/track/1hax0USdXJ95PLADqDlCGv"
     },
     {
       "album": {
@@ -7089,6 +7201,24 @@
     },
     {
       "album": {
+        "name": "Mezzaluna",
+        "url": "https://open.spotify.com/album/1UI5d9aBC5CqrY2qfTeycp"
+      },
+      "artists": [
+        {
+          "name": "T\u00c4RA",
+          "url": "https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171089,
+      "name": "Mezzaluna",
+      "url": "https://open.spotify.com/track/1xrnIqOGEz5iu179fXB8m8"
+    },
+    {
+      "album": {
         "name": "Milyar",
         "url": "https://open.spotify.com/album/52zA6GXEOJYBQKc5oQk6PC"
       },
@@ -7262,7 +7392,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 287692,
       "name": "Momken Aeesh",
       "url": "https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz"
@@ -7280,7 +7410,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 169894,
       "name": "Momken Trod",
       "url": "https://open.spotify.com/track/1uzQAA3DHWVLGQ1KfCUxp0"
@@ -7302,6 +7432,28 @@
       "duration_ms": 185567,
       "name": "Mood Gahed",
       "url": "https://open.spotify.com/track/2KJfvsq3xNhaVWNVIOo4w1"
+    },
+    {
+      "album": {
+        "name": "Leave No Trace (Original Motion Picture Soundtrack) (Deluxe)",
+        "url": "https://open.spotify.com/album/56UTF7jO2vwqssnCJsnmPh"
+      },
+      "artists": [
+        {
+          "name": "Kendra Smith",
+          "url": "https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou"
+        },
+        {
+          "name": "The Magician's Orchestra",
+          "url": "https://open.spotify.com/artist/6bbaYPt51trtuECue18saA"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300713,
+      "name": "Moon Boat",
+      "url": "https://open.spotify.com/track/6Tp8KsHD8keV8pHPV2DvP7"
     },
     {
       "album": {
@@ -7540,7 +7692,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 220216,
       "name": "Nafas",
       "url": "https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx"
@@ -7771,6 +7923,28 @@
     },
     {
       "album": {
+        "name": "Niafiy\u00e9",
+        "url": "https://open.spotify.com/album/1HSDuPPeejS29zQ8UVR3Iu"
+      },
+      "artists": [
+        {
+          "name": "Badd Lime",
+          "url": "https://open.spotify.com/artist/5nbhc1rkoZ2aNGTnmTGRgr"
+        },
+        {
+          "name": "Ami Y\u00e8r\u00e8wolo",
+          "url": "https://open.spotify.com/artist/0PWRmh7cvWvJWlskHG2LlO"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179312,
+      "name": "Niafiy\u00e9",
+      "url": "https://open.spotify.com/track/32LPhx3fLLWtWYScoMIhrZ"
+    },
+    {
+      "album": {
         "name": "Njib El Money (pablo Escobar)",
         "url": "https://open.spotify.com/album/1Tu1cPyBT51plB72MoSSV1"
       },
@@ -7879,6 +8053,24 @@
     },
     {
       "album": {
+        "name": "Oyoun Al Soud",
+        "url": "https://open.spotify.com/album/6Q2z8DnzI4zgwwMy4uhBrz"
+      },
+      "artists": [
+        {
+          "name": "Tina Yamout",
+          "url": "https://open.spotify.com/artist/4MD4oAkzFo3Qm698L3ah2G"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163791,
+      "name": "Oyoun Al Soud",
+      "url": "https://open.spotify.com/track/1oepl9aDL7LdQacJfetZnV"
+    },
+    {
+      "album": {
         "name": "PAM PAM",
         "url": "https://open.spotify.com/album/5qIrUxSjI16F29IWvXekyv"
       },
@@ -7930,6 +8122,28 @@
       "duration_ms": 222440,
       "name": "Poco a Poco",
       "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
+    },
+    {
+      "album": {
+        "name": "V IN THE MIX: VISIONS OF HEREAFTER",
+        "url": "https://open.spotify.com/album/6LDvG1tdHKokFUMdHMIgCf"
+      },
+      "artists": [
+        {
+          "name": "VASCHA",
+          "url": "https://open.spotify.com/artist/0qBRW8UJMWyGHrIZZmEed2"
+        },
+        {
+          "name": "Ange Madame",
+          "url": "https://open.spotify.com/artist/4BipMgruXUMQVpCvozvMkI"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "PRIVATE RUNWAY",
+      "url": "https://open.spotify.com/track/1ScLs0SL5i5pHArc7AfFx3"
     },
     {
       "album": {
@@ -8162,6 +8376,24 @@
       "duration_ms": 109090,
       "name": "Rise Up (Djamil Remix)",
       "url": "https://open.spotify.com/track/4rTP5QqevoJXsVTM0SCssr"
+    },
+    {
+      "album": {
+        "name": "Syst\u00e8me ouvert",
+        "url": "https://open.spotify.com/album/6n3j7qjz0Wg4rplQlmROMx"
+      },
+      "artists": [
+        {
+          "name": "ROZA",
+          "url": "https://open.spotify.com/artist/6u6EYh8TWZ7EPZTWRWTmHG"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Rivi\u00e8re",
+      "url": "https://open.spotify.com/track/7E39jnOmNQV52Yxe1kRuXr"
     },
     {
       "album": {
@@ -8931,6 +9163,24 @@
     },
     {
       "album": {
+        "name": "MRA",
+        "url": "https://open.spotify.com/album/1Z1cmIGIr3N7mF7JQ6DAHJ"
+      },
+      "artists": [
+        {
+          "name": "Emel",
+          "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196887,
+      "name": "Souty",
+      "url": "https://open.spotify.com/track/15J7ANVSWGUglslyyln7mW"
+    },
+    {
+      "album": {
         "name": "Sowarna",
         "url": "https://open.spotify.com/album/3K3l4mS2yhPMaKkNbsAgpn"
       },
@@ -9147,6 +9397,24 @@
     },
     {
       "album": {
+        "name": "Powerplay",
+        "url": "https://open.spotify.com/album/1Cvn9YGFvcg46z4FG81Btr"
+      },
+      "artists": [
+        {
+          "name": "LYZZA",
+          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Talk Ur Talk",
+      "url": "https://open.spotify.com/track/73Y2GXivOjrG8E5VFz52VI"
+    },
+    {
+      "album": {
         "name": "Taqa Egabiya",
         "url": "https://open.spotify.com/album/5YC6fQoCORJTPD0Ul0RTvu"
       },
@@ -9346,6 +9614,28 @@
       "duration_ms": 207506,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/0fcmSr3C2yrOXretChhrDi"
+    },
+    {
+      "album": {
+        "name": "Des Filles",
+        "url": "https://open.spotify.com/album/6vCtiBVhPmUooPo8Dq6DSr"
+      },
+      "artists": [
+        {
+          "name": "Laura Cahen",
+          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
+        },
+        {
+          "name": "Emel",
+          "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246200,
+      "name": "Toutes les filles",
+      "url": "https://open.spotify.com/track/5W9gy6wnjyAvtk6enmhux8"
     },
     {
       "album": {
@@ -9832,6 +10122,40 @@
       "duration_ms": 248241,
       "name": "Woseltelha",
       "url": "https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS"
+    },
+    {
+      "album": {
+        "name": "Aurah",
+        "url": "https://open.spotify.com/album/4H2zcva0z4lfVie3rZBh3V"
+      },
+      "artists": [
+        {
+          "name": "Nayomi",
+          "url": "https://open.spotify.com/artist/63pexOL4YuXMRprBVl8wXh"
+        },
+        {
+          "name": "Felukah",
+          "url": "https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F"
+        },
+        {
+          "name": "FRIZZY",
+          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
+        },
+        {
+          "name": "TaffyRaps",
+          "url": "https://open.spotify.com/artist/2Bamg8sORR59W8xzcIyv3n"
+        },
+        {
+          "name": "Dareen",
+          "url": "https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245294,
+      "name": "Wuhda Bel Million",
+      "url": "https://open.spotify.com/track/0UkQ8JKAtUpMnTn0Y8INte"
     },
     {
       "album": {
@@ -10397,6 +10721,24 @@
     },
     {
       "album": {
+        "name": "Sarab (\u0633\u0631\u0627\u0628)",
+        "url": "https://open.spotify.com/album/1iNbgYCR4hjyxWFvtvenei"
+      },
+      "artists": [
+        {
+          "name": "Seera",
+          "url": "https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333949,
+      "name": "Zaman (\u0632\u0645\u0646)",
+      "url": "https://open.spotify.com/track/7FuKhxqlfiqEZdtcTZtmP9"
+    },
+    {
+      "album": {
         "name": "Zay El Moug",
         "url": "https://open.spotify.com/album/0aBTAji3itfFJI6aiUys57"
       },
@@ -10502,7 +10844,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 297597,
       "name": "\u00e2\u0081 Ana Sekketen",
       "url": "https://open.spotify.com/track/3tVO32Rh8Aurb2hml62NMp"
@@ -10520,7 +10862,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 217989,
       "name": "\u00d8\u00a3\u00d9\u0160\u00d8\u00a7\u00d9\u2026",
       "url": "https://open.spotify.com/track/5274F6rwUOrHb7OUs5l3K3"
@@ -10592,7 +10934,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 223217,
       "name": "\u0623\u0646\u0627 \u0632\u064a\u0646\u0629",
       "url": "https://open.spotify.com/track/4gfk6TSxCb3p9GCjGS17cn"

@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 802942,
+  "num_followers": 802956,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "90125 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "Owner of a Lonely Heart",
-      "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
         "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 255733,
       "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
       "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "Owner of a Lonely Heart",
+      "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "L'aventurier",
-        "url": "https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "L'aventurier",
-      "url": "https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "In the Heat of the Night",
         "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 387866,
       "name": "Just an Illusion",
       "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "L'aventurier",
+        "url": "https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 231960,
+      "name": "L'aventurier",
+      "url": "https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "The Essential Kenny Loggins",
         "url": "https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 226293,
       "name": "Footloose - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Natural History - The Very Best of Talk Talk",
-        "url": "https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 257626,
-      "name": "Such a Shame",
-      "url": "https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Libert\u00e9",
         "url": "https://open.spotify.com/album/7Jsx6b2L9AshOKrTFkrNQu"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 246826,
       "name": "On va s'aimer",
       "url": "https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Natural History - The Very Best of Talk Talk",
+        "url": "https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 257626,
+      "name": "Such a Shame",
+      "url": "https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "True Colors: The Best Of Cyndi Lauper",
-        "url": "https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Dure limite (Remasteris\u00e9 en 2015)",
         "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 268560,
       "name": "\u00c7a (c'est vraiment toi) - Remasteris\u00e9 en 2015",
       "url": "https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "True Colors: The Best Of Cyndi Lauper",
+        "url": "https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF"
     },
     {
       "added_at": "2026-03-19 15:24:01",

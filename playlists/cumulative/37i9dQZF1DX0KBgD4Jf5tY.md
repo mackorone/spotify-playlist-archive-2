@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:6RyYnt3Q1ebcbLxYOtE9bb">@gabriele</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:0PvxzN9MSvVMYj0b0fuwzA">Arianna Pasini</a> in cover.
 
-2,137 songs - 4 day 10 hr 13 min
+2,138 songs - 4 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Alla Follia](https://open.spotify.com/track/0jmjKNlnTWOo0VV2Pws3BY) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw), [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Alla Follia](https://open.spotify.com/album/14po1TeMD3PoErpWdl5Jcj) | 3:09 | 2023-01-05 | 2023-02-03 |
 | [Alla Gente](https://open.spotify.com/track/63F7Ah19iuwHsoBzi4jrvo) | [bravodemian](https://open.spotify.com/artist/6icPwsFFJBmGAYTYdzROvZ) | [Alla Gente](https://open.spotify.com/album/10MBlVsZpWjrdjwKFptQ2m) | 2:08 | 2025-06-24 | 2025-07-23 |
 | [Alla lettera](https://open.spotify.com/track/54hUdI3CT5EtALpDC2Dkpm) | [FirkLøver](https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R) | [Alla lettera](https://open.spotify.com/album/4kdnvGljxgXqasJpYR4oXR) | 2:28 | 2022-09-29 | 2022-10-28 |
+| [alla luna](https://open.spotify.com/track/0OuHeXyrPEZNbCJZ9raCIH) | [marsea](https://open.spotify.com/artist/7mw9gGWm4SBXadBNhW1OMX) | [alla luna](https://open.spotify.com/album/3XhsUfKCOuSJKqLYrVP5zU) | 4:16 | 2026-04-07 |  |
 | [ALLELUJAH \(freestyle\)](https://open.spotify.com/track/2lCKptGiKvHCuejLN3Robd) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [ALLELUJAH \(freestyle\)](https://open.spotify.com/album/5rQFANiknu4Eosi9EihbwL) | 2:33 | 2024-08-21 | 2025-02-19 |
 | [Allo Specchio](https://open.spotify.com/track/73EGPhR3NFqf0m82NRA03a) | [Defa](https://open.spotify.com/artist/5qS6Eo8idiQCyMIk0JahRW) | [Sguardo](https://open.spotify.com/album/41qvb11RPZLtwyhUFbVRnE) | 1:57 | 2023-10-24 | 2024-01-25 |
 | [Alme](https://open.spotify.com/track/0GyrUsvIJJ5DZPHpEQa6kQ) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Alme](https://open.spotify.com/album/04bQWJKzN1egEcDioDAT1h) | 3:16 | 2022-10-10 | 2022-11-18 |
@@ -1616,7 +1617,7 @@
 | [RICCI](https://open.spotify.com/track/5t7YErUpV2VUm2xNHJlx5Z) | [Diego Se77e](https://open.spotify.com/artist/6BoYsdnimBfJjEIE8zvinE) | [RICCI](https://open.spotify.com/album/2VuqUJSDkuiip9Z5QEjsKk) | 3:26 | 2022-02-17 | 2022-03-18 |
 | [RICORDI \(?\)](https://open.spotify.com/track/3PNdQmkF5Z7UopHJII0tn5) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [RICORDI \(?\)](https://open.spotify.com/album/5J9Y597V7UTIN1l1UGUaaj) | 2:20 | 2023-01-19 | 2023-02-17 |
 | [Ricordo](https://open.spotify.com/track/4dNMxxTgcLnEHED7TeWE3S) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [Ricordo](https://open.spotify.com/album/4764NQcBmKJtx5Cp9ohNZS) | 3:30 | 2026-04-01 |  |
-| [rifiorire](https://open.spotify.com/track/1Ak1nbrqJCBu8gEi9jC0N5) | [marsea](https://open.spotify.com/artist/7mw9gGWm4SBXadBNhW1OMX) | [rifiorire](https://open.spotify.com/album/5V0uqjEAjwKrlfHq7uKz33) | 3:49 | 2026-02-17 |  |
+| [rifiorire](https://open.spotify.com/track/1Ak1nbrqJCBu8gEi9jC0N5) | [marsea](https://open.spotify.com/artist/7mw9gGWm4SBXadBNhW1OMX) | [rifiorire](https://open.spotify.com/album/5V0uqjEAjwKrlfHq7uKz33) | 3:49 | 2026-02-17 | 2026-04-08 |
 | [RILASCIO](https://open.spotify.com/track/6uTTta3r7CctLeexSVHd4B) | [PRIMA ALBA](https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv), [Luvi](https://open.spotify.com/artist/0cPBV0vRFQYE3ikRRh3Xr0), [Rx](https://open.spotify.com/artist/4cBr49Vh3Y4I2Ty5E3gakQ), [Asci](https://open.spotify.com/artist/5S0PqlD3F615EmYSZXztyl), [cupido](https://open.spotify.com/artist/5VJIiHHvYSPDLm3te8gJhM) | [RILASCIO](https://open.spotify.com/album/47Ya71TLlCDMnuqxO36E7u) | 3:08 | 2025-04-02 | 2025-04-30 |
 | [Rimani Invisibile](https://open.spotify.com/track/3ruhEj0WWsInGCOdpE14fT) | [Samuele CYMA](https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM) | [Estratti di luce](https://open.spotify.com/album/0dJkc5uKTpFVSqzxroRpAx) | 2:30 | 2024-02-21 | 2024-03-21 |
 | [Rimedio D'amore](https://open.spotify.com/track/2iGxhQIkhHZ2PQiVlckF34) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Rimedio D'amore](https://open.spotify.com/album/6OfvuNhqlXQCqpheXq3pt7) | 3:41 | 2025-05-20 | 2025-06-19 |

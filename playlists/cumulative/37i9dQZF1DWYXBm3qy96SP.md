@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Weezer
 
-1,950 songs - 4 day 17 hr 8 min
+1,951 songs - 4 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1268,7 +1268,7 @@
 | [Overdrive](https://open.spotify.com/track/3txPM4gTomDS4W74QjQJGb) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dopamine](https://open.spotify.com/album/5K889aEPnh7CwnPoNIjepu) | 2:26 | 2024-02-08 | 2024-02-23 |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2023-03-16 | 2023-04-21 |
 | [p0rn0grafía](https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [p0rn0grafía](https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO) | 3:01 | 2026-03-26 |  |
-| [Pacifico](https://open.spotify.com/track/7xoKUJyENctTQh64oBTpMY) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Pacifico](https://open.spotify.com/album/4Uri4Wdt8nLr6ICEpyfsBI) | 3:13 | 2026-03-12 |  |
+| [Pacifico](https://open.spotify.com/track/7xoKUJyENctTQh64oBTpMY) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Pacifico](https://open.spotify.com/album/4Uri4Wdt8nLr6ICEpyfsBI) | 3:13 | 2026-03-12 | 2026-04-08 |
 | [PALEHELL](https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:41 | 2024-02-22 | 2024-03-01 |
 | [Pall To The Wall](https://open.spotify.com/track/0BoUmEpU5vKwrx0O7lBHGy) | [Press To Enter](https://open.spotify.com/artist/6D9h9kJWyTNpFhDRY7XWjy) | [From Mirror To Road](https://open.spotify.com/album/5ClicSf9mXsyXzHVP7BDHs) | 5:41 | 2023-12-14 | 2023-12-22 |
 | [Paper Cuts](https://open.spotify.com/track/7nY3CZV7HTHJa2MpDPJDmo) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Sink Your Teeth](https://open.spotify.com/album/6NyO1yc1mnts9THdkEQATz) | 3:30 | 2024-09-19 | 2024-10-18 |
@@ -1521,6 +1521,7 @@
 | [Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:54 | 2023-03-16 | 2023-04-14 |
 | [Sorry](https://open.spotify.com/track/3GE4nEO4GiELDyiE3gtkNH) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Sorry](https://open.spotify.com/album/5VeQYezyQidkmtJhzog4SF) | 3:01 | 2024-01-04 | 2024-01-26 |
 | [Sorry Not Sorry \(with Slash\) \- Rock Version](https://open.spotify.com/track/3sxeoitzj07ONdF2akJ62y) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [Sorry Not Sorry \(with Slash\) \[Rock Version\]](https://open.spotify.com/album/17YnG9TORmVa3NWHwQKQHA) | 3:34 | 2023-07-13 | 2023-08-18 |
+| [SORRY! CRASH!](https://open.spotify.com/track/1fmibwNXIJ4vSlZXS3ZqkH) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [SORRY! CRASH!](https://open.spotify.com/album/3XtL1iGsmeZFgTMSch4tvo) | 3:09 | 2026-04-03 |  |
 | [Soul Song](https://open.spotify.com/track/3Z5vkiyWuzmrgY8yzyGwtb) | [Grey Daze](https://open.spotify.com/artist/1OPyWvWWkx18pqGjugyxrl) | [No Sun Today](https://open.spotify.com/album/5MaubRzl5MDRePy8I42E9Z) | 3:25 | 2023-03-16 | 2023-03-25 |
 | [Soul Wandering](https://open.spotify.com/track/02woI8r5xhxMt0ndiwytbJ) | [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH) | [Soul Wandering](https://open.spotify.com/album/53bH4NaXpyhRfqjIocmOxZ) | 3:19 | 2024-02-22 | 2024-03-01 |
 | [South](https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [South](https://open.spotify.com/album/1CfNY3GnYDN6P2yoLFOdGd) | 3:31 | 2023-10-26 | 2023-11-10 |

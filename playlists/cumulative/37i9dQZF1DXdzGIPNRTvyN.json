@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Benevolent",
+        "url": "https://open.spotify.com/album/41Mu0iwQolq2DhBo2VdAEP"
+      },
+      "artists": [
+        {
+          "name": "Waking Up Inside",
+          "url": "https://open.spotify.com/artist/2nFUQ65Yx9UWldBxOmBKlG"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144227,
+      "name": "Benevolent",
+      "url": "https://open.spotify.com/track/3Eq3PQV5GeqlmzqmcH1lJa"
+    },
+    {
+      "album": {
         "name": "Bewilderment",
         "url": "https://open.spotify.com/album/0DrHkO9AXh9JRrpKSSMwTi"
       },
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 167773,
       "name": "Drifted Roots",
       "url": "https://open.spotify.com/track/0bHg0FMaPM01Nfw7dc1JuH"
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 183795,
       "name": "Endless",
       "url": "https://open.spotify.com/track/0lyWURYgdUo2PB5xsDWctS"
@@ -4478,7 +4496,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-30",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "meloh",
       "url": "https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ"

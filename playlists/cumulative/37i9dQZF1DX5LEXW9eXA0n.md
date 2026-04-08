@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 박효신 \(Park Hyo Shin\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: AKMU \(악뮤\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,719 songs - 4 day 15 hr 43 min
+1,721 songs - 4 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,7 @@
 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 | 2022-03-31 | 2022-04-19 |
 | [Go Back](https://open.spotify.com/track/5BTRHDHNRDdFUYcbTeOacW) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Go Back](https://open.spotify.com/album/5LZW8K0fStxs9cq1n22dfc) | 4:48 | 2022-01-03 | 2022-06-07 |
 | [Go for a Walk](https://open.spotify.com/track/4VMdrHuuA2lQtP5Nyrk7dD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Go for a Walk](https://open.spotify.com/album/2uFpFHLMj1SpHx3iP4wDLJ) | 4:35 | 2024-06-17 | 2024-11-07 |
-| [Good Bye](https://open.spotify.com/track/7m2Pu5bjNIyT2Y2VMUgMEa) | [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY), [2NB](https://open.spotify.com/artist/01n1Lj2lmdteXD8qFPqhsL), [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Good Bye](https://open.spotify.com/album/4O454vsQGTeGXh9xUGkLju) | 3:18 | 2026-01-02 |  |
+| [Good Bye](https://open.spotify.com/track/7m2Pu5bjNIyT2Y2VMUgMEa) | [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY), [2NB](https://open.spotify.com/artist/01n1Lj2lmdteXD8qFPqhsL), [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Good Bye](https://open.spotify.com/album/4O454vsQGTeGXh9xUGkLju) | 3:18 | 2026-01-02 | 2026-04-08 |
 | [Good Bye, I Hope You Are Happy](https://open.spotify.com/track/1bhZa29MC8N3eBGtUSaKuy) | [Baek Grim](https://open.spotify.com/artist/6mVsxcJyevC8Aqe722CfFB) | [Good Bye, I Hope You Are Happy](https://open.spotify.com/album/7rt6qJRWwZf9gjiZiNjfGS) | 4:10 | 2023-02-24 | 2023-04-27 |
 | [Good Night](https://open.spotify.com/track/4nuQczEO0ZmPW1cfKFS0Ap) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Good Night](https://open.spotify.com/album/0ka0zzPgwRPNZmI68vqf5k) | 4:18 | 2022-03-29 | 2022-04-20 |
 | [Good Night](https://open.spotify.com/track/2ze6HMOtmqYEY7fp6eCYem) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Good Night](https://open.spotify.com/album/2d1fMGxCm9cpHFfMMFidWK) | 3:40 | 2024-06-14 | 2024-09-24 |
@@ -740,6 +740,7 @@
 | [January to June](https://open.spotify.com/track/5jdkVQZq37ZdRCbEbYoFUs) | [Kim Yuni](https://open.spotify.com/artist/6TAgUWorDZ20Qu55FS8uM2) | [The Ballad of Us Story 6](https://open.spotify.com/album/0kFhkFoI632AdmLfoBxM5w) | 4:16 | 2025-11-06 | 2026-02-05 |
 | [Journey](https://open.spotify.com/track/0bJK7JJxK8jph9Nazai0Dr) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Journey](https://open.spotify.com/album/2EQ9kO7mz10ZOvopsViCp8) | 3:30 | 2025-02-20 | 2025-05-29 |
 | [Journey](https://open.spotify.com/track/2kyyJtsitronmU6HMGsm1m) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Journey](https://open.spotify.com/album/1uEb7pZr66xdSQcbfVVSX7) | 4:34 | 2024-02-22 | 2024-07-12 |
+| [Joy, Sorrow, A Beautiful Heart](https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 4:36 | 2026-04-07 |  |
 | [Just](https://open.spotify.com/track/4DR1sTHvsHjyKObD5PscKA) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [Just](https://open.spotify.com/album/1mNNVEDDbAWUGas45o94VZ) | 3:41 | 2023-04-14 | 2023-08-25 |
 | [Just 1 year \(Feat\. 10CM\)](https://open.spotify.com/track/2jh4TUtbiQwP7wJVDbgf3b) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Just 1 year](https://open.spotify.com/album/5rTw5MnMcD2np92ZQgcmRJ) | 3:02 | 2025-10-27 | 2026-02-26 |
 | [Just Another Day](https://open.spotify.com/track/1DsZiNbPwS6WyHdm6P9RZi) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Just Another Day](https://open.spotify.com/album/0GcGIYssBQ5oQ8XMjBYpmT) | 2:59 | 2023-12-13 | 2024-05-01 |
@@ -758,7 +759,7 @@
 | [Last Love](https://open.spotify.com/track/7y3tkXIxe9rv106X0Aouek) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Last Love](https://open.spotify.com/album/1al5wXHrHop6h0ZXKBvnO4) | 4:18 | 2025-10-22 | 2026-02-24 |
 | [Last Love](https://open.spotify.com/track/3IIpNE0OGmMThMQO4uK3Fd) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Last Love](https://open.spotify.com/album/5YqWy3QakMPwKDt5ntfDN6) | 4:04 | 2023-01-20 | 2023-02-25 |
 | [Last Love](https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [Last Love](https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6) | 4:15 | 2026-02-13 |  |
-| [Last Love\(feat\. LEE Mujin\)](https://open.spotify.com/track/43mBIaKq0WKjyb5c4C5p94) | [Lee Ye Ji](https://open.spotify.com/artist/7lxQNSuiUoDOW1sIb5MgdB), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ballad of Us Radio Episode 4](https://open.spotify.com/album/2tqfzPKvQ5ThV8yVyRH3PA) | 4:10 | 2026-02-02 |  |
+| [Last Love\(feat\. LEE Mujin\)](https://open.spotify.com/track/43mBIaKq0WKjyb5c4C5p94) | [Lee Ye Ji](https://open.spotify.com/artist/7lxQNSuiUoDOW1sIb5MgdB), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ballad of Us Radio Episode 4](https://open.spotify.com/album/2tqfzPKvQ5ThV8yVyRH3PA) | 4:10 | 2026-02-02 | 2026-04-08 |
 | [last night](https://open.spotify.com/track/3WVBb9WuUsHlfPSewks6oo) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [last night](https://open.spotify.com/album/19WqNz0etWx0WvHDD6zYRR) | 3:41 | 2025-05-12 | 2025-08-19 |
 | [Last Promise](https://open.spotify.com/track/7LFoFmLJW7WW341o6Lb1TW) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Last Promise](https://open.spotify.com/album/1RjWMmrAfaXvYtwOTfbgsY) | 3:59 | 2025-11-02 | 2026-02-24 |
 | [Last Scene](https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Last Scene \- The 3rd Mini Album](https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7) | 4:22 | 2022-11-16 | 2023-01-21 |
@@ -1653,6 +1654,7 @@
 | [기억해줘](https://open.spotify.com/track/4UtXaNwhWIwVjRcHzGwQX5) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [영화에서 처럼](https://open.spotify.com/album/1CRsM2hwwOafWQKXjlCS1E) | 4:25 | 2023-05-05 | 2023-05-16 |
 | [꿈길](https://open.spotify.com/track/6ONESVJurYMVmCfwV6yKjF) | [E HYUK](https://open.spotify.com/artist/2YhKoOmf0diUvydhEoreDa) | [꿈길](https://open.spotify.com/album/1c1rE5Ijbnm2NdR7iaHpYS) | 4:13 | 2023-01-20 | 2023-03-28 |
 | [나 정말 힘들어 \(feat\. 폴림\)](https://open.spotify.com/track/08lWUlD04qn35mvXZc9m8Z) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [Paul Lim](https://open.spotify.com/artist/4lqdf1XdkczOsG8rD81unZ) | [나 정말 힘들어 \(2023\)](https://open.spotify.com/album/6TiwcqhmaGJJQRFtR4hjKU) | 3:31 | 2023-10-16 | 2023-12-14 |
+| [나의 바람은 \(My Wish\)](https://open.spotify.com/track/4nBrz3SZL65qMNf2oF4i5O) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [우리는 매일매일 OST Part.7 – 나의 바람은 \(Before We Knew OST Part.7 – My Wish\)](https://open.spotify.com/album/5mxc5C915JkW8yWmwRYeRg) | 3:59 | 2026-04-07 |  |
 | [내 번호를 지워줘](https://open.spotify.com/track/6P7VJG6DGHqaLVxKm46mz3) | [Park Soo Jin](https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT) | [내 번호를 지워줘](https://open.spotify.com/album/1X4VbJ6Dlc9qyC2NoY1Jmy) | 3:49 | 2023-02-24 | 2023-04-27 |
 | [내게 남은 사랑을 드릴께요](https://open.spotify.com/track/48wTpUKyFAeJRHXobgM92V) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [‘80s MBC Seoul GAYOJE Final Round Side B](https://open.spotify.com/album/3tYoKX4XNgmEZ3HYOGz6My) | 4:02 | 2025-10-13 | 2026-02-02 |
 | [내일](https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj) | [태영](https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv) | [내일 \(KSTAGE X 태영 Of 블랙레벨\)](https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY) | 4:00 | 2022-07-04 | 2022-09-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: Jduck\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,274 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,277 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 12 | [คนเห็นแก่ตัว \(DOPE\)](https://open.spotify.com/track/2iSIPjNJqQHbPBqVU9seP9) | [YODSARUN](https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7) | [คนเห็นแก่ตัว \(DOPE\)](https://open.spotify.com/album/01Cg3LZd30LVxmkxGZWPLw) | 3:39 |
 | 13 | [ต้องจากกันแล้วใช่ไหม](https://open.spotify.com/track/1WX6tFWTzaiZFeh4E59FRJ) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [ต้องจากกันแล้วใช่ไหม](https://open.spotify.com/album/1yqjeOdBa2GoZL5qyBLLET) | 4:07 |
 | 14 | [1 step closer](https://open.spotify.com/track/4vetpE0DtqUqQvCbU4G30w) | [JEBE'](https://open.spotify.com/artist/70qomsg0lwhgZ2M232hn6A) | [1 step closer](https://open.spotify.com/album/6cLFucZTZs9rmjyjOKGTy3) | 3:49 |
-| 15 | [ภาพสุดท้าย](https://open.spotify.com/track/4k0NvtSeR1PsD0ISDaSZJj) | [Dena Euprasert](https://open.spotify.com/artist/5mLzhpjIOXrJBCjmfv0rUb) | [ภาพสุดท้าย](https://open.spotify.com/album/44DmI4olS2KnXxF0Qwhujg) | 3:54 |
-| 16 | [เมลาโทนิน](https://open.spotify.com/track/643gsrWhZ4gBjYnpG9rTE0) | [PLERNG](https://open.spotify.com/artist/4rPqckx0SX15z8IzFBpfUe) | [เมลาโทนิน](https://open.spotify.com/album/5ARjmuZu0onEIOUrVRzigX) | 5:26 |
+| 15 | [เมลาโทนิน](https://open.spotify.com/track/643gsrWhZ4gBjYnpG9rTE0) | [PLERNG](https://open.spotify.com/artist/4rPqckx0SX15z8IzFBpfUe) | [เมลาโทนิน](https://open.spotify.com/album/5ARjmuZu0onEIOUrVRzigX) | 5:26 |
+| 16 | [ภาพสุดท้าย](https://open.spotify.com/track/4k0NvtSeR1PsD0ISDaSZJj) | [Dena Euprasert](https://open.spotify.com/artist/5mLzhpjIOXrJBCjmfv0rUb) | [ภาพสุดท้าย](https://open.spotify.com/album/44DmI4olS2KnXxF0Qwhujg) | 3:54 |
 | 17 | [พายุ \(WHIRLWIND\)](https://open.spotify.com/track/6jTc7RgypAf0Ub17ZcPw2L) | [YODSARUN](https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7) | [QUARTER\-LIFE CRISIS](https://open.spotify.com/album/45iACMJHqyoZy0aQWoFzJs) | 3:33 |
 | 18 | [รับบริจาค](https://open.spotify.com/track/52040FHUUkqLk15JYHlG87) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [รับบริจาค](https://open.spotify.com/album/0nyIXUpyBSOH7XjYNm8SMw) | 4:24 |
 | 19 | [พ่อเธอชื่อไร? \(crazy question\)](https://open.spotify.com/track/5osNdD6oA5UcDMK0R13PJ3) | [chaopimburabha](https://open.spotify.com/artist/72oN0LjuQweZ8i1xKM3Err) | [พ่อเธอชื่อไร? \(crazy question\)](https://open.spotify.com/album/1gDb8Oahh6uHy4lK3tRN8a) | 4:20 |
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 24 | [ดอกไม้ในอวกาศ](https://open.spotify.com/track/0vzGIITHJKVGwbBjtrQMgk) | [Panch](https://open.spotify.com/artist/2iDEgAXlK5O2vKMwvO2IMR), [PENGUIN VILLA](https://open.spotify.com/artist/2nO6v6ZnigodGqi7kZfEY6) | [ดอกไม้ในอวกาศ](https://open.spotify.com/album/4WzbhAB3tUKYzijkOw12Db) | 3:57 |
 | 25 | [ถ้าเธอรักเขา \(Pls.Out\)](https://open.spotify.com/track/76mAxCVZZLW3ruv7lDpdM6) | [Fah Naritsa](https://open.spotify.com/artist/3McyFK0pD7IHHLLlk2O20J) | [ถ้าเธอรักเขา \(Pls.Out\)](https://open.spotify.com/album/55eAwsSu6G1XWxp3A4ifDR) | 4:34 |
 | 26 | [เด็กกว่าแล้วไง\(เป็นแฟนเธอได้แล้วกัน\)](https://open.spotify.com/track/5Eia4n0TGuIJxxMTEc2YMb) | [EYE Nuttanichar](https://open.spotify.com/artist/0Zz8nyoky80zR9W05adPu1) | [เด็กกว่าแล้วไง\(เป็นแฟนเธอได้แล้วกัน\)](https://open.spotify.com/album/7LwAHr6GsDIcS0U21WfSJV) | 3:09 |
-| 27 | [เปลี่ยนไปแล้ว \- It'S Over](https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB) | [mita.](https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs) | [เปลี่ยนไปแล้ว \(It'S Over\)](https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE) | 4:00 |
-| 28 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |
-| 29 | [เมดูซา](https://open.spotify.com/track/2aY504oSaFaF6ALq5gqfuD) | [PAPERCUP](https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk) | [เมดูซา](https://open.spotify.com/album/02FxppO27bX1sTyyx6eMXB) | 3:01 |
-| 30 | [เรื่องของเรื่อง](https://open.spotify.com/track/6RvUaEjzkMQPD0CPfRnIkQ) | [ossey](https://open.spotify.com/artist/4M0X6x1jVeztDUmhHY9ZhU) | [เรื่องของเรื่อง](https://open.spotify.com/album/3npcOAiTi992g0JDKdHgSi) | 3:37 |
+| 27 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |
+| 28 | [เปลี่ยนไปแล้ว \- It'S Over](https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB) | [mita.](https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs) | [เปลี่ยนไปแล้ว \(It'S Over\)](https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE) | 4:00 |
+| 29 | [เรื่องของเรื่อง](https://open.spotify.com/track/6RvUaEjzkMQPD0CPfRnIkQ) | [ossey](https://open.spotify.com/artist/4M0X6x1jVeztDUmhHY9ZhU) | [เรื่องของเรื่อง](https://open.spotify.com/album/3npcOAiTi992g0JDKdHgSi) | 3:37 |
+| 30 | [เมดูซา](https://open.spotify.com/track/2aY504oSaFaF6ALq5gqfuD) | [PAPERCUP](https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk) | [เมดูซา](https://open.spotify.com/album/02FxppO27bX1sTyyx6eMXB) | 3:01 |
 | 31 | [กอดไว้ \(It's u\)](https://open.spotify.com/track/6fZeDz2ZzYGxnX5l1zRH14) | [TITI Nichaphat](https://open.spotify.com/artist/5Xj4vMbStZeK3ONLGuug9N) | [กอดไว้ \(It's u\)](https://open.spotify.com/album/28vlKhumNRm5ojQWl0hlJ1) | 3:39 |
 | 32 | [Stuck in Time](https://open.spotify.com/track/3JQr283KNSYui2HPtkwJYO) | [THREETIME](https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV) | [Stuck in Time](https://open.spotify.com/album/0nUJ88CDBrdmhBxBWWvIrp) | 4:23 |
 | 33 | [Hold Tight\*](https://open.spotify.com/track/2hjVnqw95Q1wvI91506gNi) | [GAMMA](https://open.spotify.com/artist/5xLuy6GShq0QRIyV8LPB1U) | [Hold Tight\*](https://open.spotify.com/album/3K9kGK1l4byAzL4MeSIg6G) | 2:34 |
 | 34 | [ทำได้แค่ทน](https://open.spotify.com/track/2gHzSJ1FqYNRJpstisFbdx) | [JDI](https://open.spotify.com/artist/6aTDbF5IiPexZVjvyza8U4) | [ทำได้แค่ทน](https://open.spotify.com/album/2rVVZTZFMqjZC71b6brchN) | 3:16 |
-| 35 | [จะบ้า](https://open.spotify.com/track/4FZBbVQ56pU2eRpizsRH32) | [4our Wheel Dream](https://open.spotify.com/artist/2zUypFaYjz9mELfpU99cYu) | [จะบ้า](https://open.spotify.com/album/7c96QVSqs7pih867RLaYmI) | 4:30 |
-| 36 | [หลอกให้รัก](https://open.spotify.com/track/2yxNSd8qmaj0LYKZsHS7oJ) | [The Juu's](https://open.spotify.com/artist/1CawyT4Y8Chlhxr6qGjQjf), [Chermin](https://open.spotify.com/artist/5LcWM9WkyHFOHI6bMMMAc6) | [เดอะ จูส์](https://open.spotify.com/album/59stqpD8rcfucsAXpsXK6X) | 3:30 |
+| 35 | [หลอกให้รัก](https://open.spotify.com/track/2yxNSd8qmaj0LYKZsHS7oJ) | [The Juu's](https://open.spotify.com/artist/1CawyT4Y8Chlhxr6qGjQjf), [Chermin](https://open.spotify.com/artist/5LcWM9WkyHFOHI6bMMMAc6) | [เดอะ จูส์](https://open.spotify.com/album/59stqpD8rcfucsAXpsXK6X) | 3:30 |
+| 36 | [จะบ้า](https://open.spotify.com/track/4FZBbVQ56pU2eRpizsRH32) | [4our Wheel Dream](https://open.spotify.com/artist/2zUypFaYjz9mELfpU99cYu) | [จะบ้า](https://open.spotify.com/album/7c96QVSqs7pih867RLaYmI) | 4:30 |
 | 37 | [One More Night](https://open.spotify.com/track/3argruREqoVYcW1V7jA11c) | [Sam Samuel](https://open.spotify.com/artist/7tOh3mN4BvPaKkOW2mb9nK) | [One More Night](https://open.spotify.com/album/17SMFW43U5VAYqpwWxBTaZ) | 3:42 |
 | 38 | [Sun](https://open.spotify.com/track/5FrK4jlxc8WmAHk2lsOTPt) | [palmlamer](https://open.spotify.com/artist/37WPxh3ExxE9QY1J4rMp57) | [Sun](https://open.spotify.com/album/4mkp4nRaQOQ9tmoNshruhi) | 3:01 |
 | 39 | [สักคน](https://open.spotify.com/track/1nVyBjpGifJlV4ssbpIdxb) | [Mint Pattarasaya](https://open.spotify.com/artist/5RDsR7OZJeeHJtjnnDsSph) | [สักคน](https://open.spotify.com/album/3X6xahXq3CyDNO6ClhE14O) | 3:53 |

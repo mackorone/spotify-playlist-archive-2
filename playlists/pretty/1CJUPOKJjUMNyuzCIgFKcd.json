@@ -1,13 +1,85 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 22124,
+  "num_followers": 22119,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAngufTaim4XAFbfCExEb8CZsLiofwg",
+  "snapshot_id": "AAAnhq2EtUucxR+Q6M2vXjzRm3lFX0Aw",
   "tracks": [
+    {
+      "added_at": "2026-04-08 00:10:24",
+      "album": {
+        "name": "Pops",
+        "url": "https://open.spotify.com/album/68C9RgYAybkxqDZzdtt3ak"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Pops",
+      "url": "https://open.spotify.com/track/2OTJjxvUACGWALxdUDohBu"
+    },
+    {
+      "added_at": "2026-04-08 00:10:38",
+      "album": {
+        "name": "1 Umbrella",
+        "url": "https://open.spotify.com/album/6D1sKLmOx3I9fJDteJaety"
+      },
+      "artists": [
+        {
+          "name": "1 Umbrella",
+          "url": "https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        },
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        },
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        },
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "1 Umbrella (feat. Lil Yee & ZayBang)",
+      "url": "https://open.spotify.com/track/5lU1b02ar5sLIwFt8Eocmx"
+    },
+    {
+      "added_at": "2026-04-08 00:10:48",
+      "album": {
+        "name": "Baby Bone",
+        "url": "https://open.spotify.com/album/7uM6esUdnthNYJyHcmSdDy"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Baby Bone",
+      "url": "https://open.spotify.com/track/36gw7KHW1M8LwY6g32YDQP"
+    },
     {
       "added_at": "2026-03-30 23:09:40",
       "album": {

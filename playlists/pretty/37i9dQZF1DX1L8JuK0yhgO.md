@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,367 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,369 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 2 | [Roulette \(feat\. Kaneee & Yvng Patra\)](https://open.spotify.com/track/5qB38sw9N1C6YRWfHykkpj) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [TIMELESS](https://open.spotify.com/album/7lY2QQlClBznftTUF1VNtg) | 3:55 |
 | 3 | [One More Time](https://open.spotify.com/track/2tVojP3xJQgxI3PRjGPorI) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [One More Time](https://open.spotify.com/album/0Q2W88TNPuI6Sv28gvUEQB) | 2:55 |
 | 4 | [246 \(feat\. Tohji & gummyboy\)](https://open.spotify.com/track/3s3KQHpD7dY3IsQBl6bqFJ) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [246 \(feat\. Tohji & gummyboy\)](https://open.spotify.com/album/6BJ2APBVjkld9lL53n0sJs) | 3:53 |
-| 5 | [FANCLUB](https://open.spotify.com/track/0MgqiJaThfRqjNiLJsX79j) | [スカートとODD Foot Works](https://open.spotify.com/artist/2H7oDXjy4uX13hNxgmTTAW), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [FANCLUB](https://open.spotify.com/album/79ZpZQVcuubdULjWxCoinJ) | 3:27 |
+| 5 | [FANCLUB](https://open.spotify.com/track/0MgqiJaThfRqjNiLJsX79j) | [Skirt & ODD Foot Works](https://open.spotify.com/artist/2H7oDXjy4uX13hNxgmTTAW), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [FANCLUB](https://open.spotify.com/album/79ZpZQVcuubdULjWxCoinJ) | 3:27 |
 | 6 | [With Love feat\. luv](https://open.spotify.com/track/5ZmDD0nqtQJBF11wXY9Kvl) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [With Love feat\. luv](https://open.spotify.com/album/4Ch4vtFwX7f5QZPaSm8fFo) | 2:44 |
 | 7 | [ブルーアワー](https://open.spotify.com/track/7Lh5M0RD6X6GL3PnIwrZqo) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ブルーアワー](https://open.spotify.com/album/1oypYyn282Hdl2eUmC7tmH) | 4:17 |
 | 8 | [SEE YA](https://open.spotify.com/track/16GhBKzhD19YbCByvMMLJp) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Zoo](https://open.spotify.com/album/4kB9n44dTgxuiZZLtaBo9v) | 3:44 |

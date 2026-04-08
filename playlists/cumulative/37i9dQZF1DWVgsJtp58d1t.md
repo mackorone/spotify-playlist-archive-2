@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: <a href="spotify:artist:1zNqQNIdeOUZHb8zbZRFMX">Swae Lee</a>
 
-5,897 songs - 12 day 11 hr 12 min
+5,898 songs - 12 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3634,7 +3634,7 @@
 | [not enough \(with Brent Faiyaz\)](https://open.spotify.com/track/0PW454qKfnxKnkVF5pcDLX) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [it’s not you, it’s me](https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA) | 5:05 | 2024-02-23 | 2024-04-19 |
 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 | 2025-05-30 | 2025-07-05 |
 | [Not For Me](https://open.spotify.com/track/333x94pwxWWul1AH9MaQeZ) | [Paperboy Fabe](https://open.spotify.com/artist/58uK0d4R5Rq4FDUNgNIFeI), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Not For Me](https://open.spotify.com/album/5QSAg3W4iaumegtf31GIt8) | 2:41 | 2025-03-21 | 2025-04-12 |
-| [NOT IN DANGER](https://open.spotify.com/track/2QwQp8mMwRDmUJwnIkNGFS) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [ProducerTrentTaylor](https://open.spotify.com/artist/63rnoegtIHSr7mx6sTImej), [Scarub](https://open.spotify.com/artist/5PoVrbY9H4087ewtuXU7zL) | [NOT IN DANGER](https://open.spotify.com/album/5hcrwH9GgbvGQqiue2d6hs) | 2:57 | 2026-03-20 |  |
+| [NOT IN DANGER](https://open.spotify.com/track/2QwQp8mMwRDmUJwnIkNGFS) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Scarub](https://open.spotify.com/artist/5PoVrbY9H4087ewtuXU7zL), [ProducerTrentTaylor](https://open.spotify.com/artist/63rnoegtIHSr7mx6sTImej) | [NOT IN DANGER](https://open.spotify.com/album/5hcrwH9GgbvGQqiue2d6hs) | 2:57 | 2026-03-20 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-05 | 2025-01-18 |
 | [Not My Job](https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:54 | 2022-09-23 | 2022-10-15 |
 | [Not My N\*gga](https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Not My N\*gga](https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z) | 2:07 | 2022-10-14 | 2022-10-29 |
@@ -5036,6 +5036,7 @@
 | [Taste of Ya](https://open.spotify.com/track/0FlsFg9HH5zI2NKyS7gXcC) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [It'll All Make Sense Later \(Deluxe\)](https://open.spotify.com/album/0p3gMzAZcxlKnjxyH8MgFw) | 2:30 | 2025-03-14 | 2025-03-22 |
 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 | 2023-04-28 | 2023-05-20 |
 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2025-05-23 | 2025-07-05 |
+| [Tattoo](https://open.spotify.com/track/7MpwVDFv7Xgtjg1fG6YL1y) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO) | [Tattoo](https://open.spotify.com/album/70sZWkAvSXp7sFYVk3r96l) | 2:39 | 2026-04-07 |  |
 | [TATTOOS & U](https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [CYCLES](https://open.spotify.com/album/1T1eS3I0K7NC7BmnHQ7PL4) | 1:58 | 2025-06-13 | 2025-06-28 |
 | [Taxi Driver](https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Taxi Driver](https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh) | 2:36 | 2025-03-07 | 2025-03-29 |
 | [Tea Party](https://open.spotify.com/track/0gjXqnkBr6L6aZQNW2L1xQ) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Tea Party](https://open.spotify.com/album/1mOhk8yBO8Lnvef1yPuntJ) | 2:14 | 2025-06-27 | 2025-07-23 |

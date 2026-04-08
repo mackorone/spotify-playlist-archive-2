@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3555,
+  "num_followers": 3557,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adGmAAAAAACkXSw2pgKjQ4mQicMeGO/W",
+  "snapshot_id": "adL3gAAAAADtoBsIGNKiURIpIEzns3kq",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 211613,
-      "name": "Further From The Few",
-      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
+      "duration_ms": 189786,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 242933,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/0W0hRhNEajLKOPlxFDq8Q8"
+      "duration_ms": 189093,
+      "name": "Perfection Through Silence",
+      "url": "https://open.spotify.com/track/6ydMD0MJXowcPgIRMKvkvn"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Anywhere But Here",
-      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
+      "duration_ms": 211613,
+      "name": "Further From The Few",
+      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Perfection Through Silence",
-      "url": "https://open.spotify.com/track/6ydMD0MJXowcPgIRMKvkvn"
+      "duration_ms": 242933,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/0W0hRhNEajLKOPlxFDq8Q8"
     },
     {
       "added_at": null,

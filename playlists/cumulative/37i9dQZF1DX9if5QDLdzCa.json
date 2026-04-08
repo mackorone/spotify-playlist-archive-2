@@ -3180,7 +3180,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 149350,
       "name": "Sky Waves",
       "url": "https://open.spotify.com/track/4dHtg5BstRQexbgb3nJs1h"
@@ -4120,6 +4120,24 @@
       "duration_ms": 186032,
       "name": "Three Minutes Of Breathing Waves",
       "url": "https://open.spotify.com/track/31SevMkEKupBNpthM8Zkja"
+    },
+    {
+      "album": {
+        "name": "Tide and Seek",
+        "url": "https://open.spotify.com/album/30Y12ZOHyevf4ufQAKJE4o"
+      },
+      "artists": [
+        {
+          "name": "State Of Rest",
+          "url": "https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Tide And Seek",
+      "url": "https://open.spotify.com/track/6Gkhp7x9TdpJnFqafxDYYn"
     },
     {
       "album": {

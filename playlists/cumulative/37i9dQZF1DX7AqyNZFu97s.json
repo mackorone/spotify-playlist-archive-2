@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Bonnie Kemplay",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Bypass Music",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -2094,6 +2094,24 @@
       "duration_ms": 144000,
       "name": "all i ever had",
       "url": "https://open.spotify.com/track/3QQ2um3SEAZUXaz8sL7YVV"
+    },
+    {
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/5KBcmZqqERngJeAaUvmS4c"
+      },
+      "artists": [
+        {
+          "name": "Naima Adams",
+          "url": "https://open.spotify.com/artist/0uj0S7PeKD9mVamrqi6cRc"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203571,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/5eMCOfpcYgPnzcEZ2CLGgP"
     },
     {
       "album": {
@@ -8266,7 +8284,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 194583,
       "name": "break your own heart",
       "url": "https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB"
@@ -11586,7 +11604,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 207239,
       "name": "Comfort Food",
       "url": "https://open.spotify.com/track/6RVhm0dPjzPANNCEY10eni"
@@ -26870,7 +26888,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 213267,
       "name": "How Hard Can It Be? - Edit",
       "url": "https://open.spotify.com/track/1IgSfAgv8UyeAjbnmq8yyP"
@@ -32949,6 +32967,24 @@
     },
     {
       "album": {
+        "name": "KookieCannibal",
+        "url": "https://open.spotify.com/album/7ygysUSDfyvk1ajHe139vp"
+      },
+      "artists": [
+        {
+          "name": "My Precious Bunny",
+          "url": "https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227453,
+      "name": "KookieCannibal",
+      "url": "https://open.spotify.com/track/4cBvn41NnVmR7EZmbI18xW"
+    },
+    {
+      "album": {
         "name": "stone radio",
         "url": "https://open.spotify.com/album/3NI1FaapWxo9bLT20nsJOT"
       },
@@ -36636,6 +36672,24 @@
       "duration_ms": 228660,
       "name": "Made a Friend in Nashville - Acoustic",
       "url": "https://open.spotify.com/track/6nwjSLrIAxtZk9ElqZc1LZ"
+    },
+    {
+      "album": {
+        "name": "made it",
+        "url": "https://open.spotify.com/album/2VYJYWA0P1Iz1F1c82LkLR"
+      },
+      "artists": [
+        {
+          "name": "drifting.",
+          "url": "https://open.spotify.com/artist/4VEAvjBB04pvTuBP06UeAV"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154181,
+      "name": "made it",
+      "url": "https://open.spotify.com/track/7dgudBKMEhbVjo1cDGePp8"
     },
     {
       "album": {
@@ -49774,7 +49828,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 168607,
       "name": "Safe Now",
       "url": "https://open.spotify.com/track/6EMdPtnLCYSsWBX0s8K0if"
@@ -51544,7 +51598,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 118720,
       "name": "SHINIGAMI",
       "url": "https://open.spotify.com/track/4BpDKjq7lgHJs1PC69kpWh"
@@ -51686,6 +51740,24 @@
       "duration_ms": 149090,
       "name": "SHOOK (leave me alone)",
       "url": "https://open.spotify.com/track/3rmJ3wy9JHZzcASKxci80o"
+    },
+    {
+      "album": {
+        "name": "shootoutsinthewinter",
+        "url": "https://open.spotify.com/album/5knj05mJ9h7AlOFWap0imq"
+      },
+      "artists": [
+        {
+          "name": "Bypass Music",
+          "url": "https://open.spotify.com/artist/5LD8MmPEUqN4OIzWWrFUNI"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112623,
+      "name": "shootoutsinthewinter",
+      "url": "https://open.spotify.com/track/3kdKa1HQm8y8OPX7f3PYHg"
     },
     {
       "album": {
@@ -56143,6 +56215,24 @@
     },
     {
       "album": {
+        "name": "Sweet Rose",
+        "url": "https://open.spotify.com/album/4E16pSvvDRQUUgA1rmsROL"
+      },
+      "artists": [
+        {
+          "name": "Ella More",
+          "url": "https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Sweet Rose",
+      "url": "https://open.spotify.com/track/07XM0G5OUgiiG0rtRkhdcv"
+    },
+    {
+      "album": {
         "name": "Sweet Sabotage",
         "url": "https://open.spotify.com/album/5J01RISBPRlhMRy6brReoY"
       },
@@ -59314,6 +59404,24 @@
       "duration_ms": 208146,
       "name": "Time",
       "url": "https://open.spotify.com/track/6pgVOGVTieiaFKjwm21sj7"
+    },
+    {
+      "album": {
+        "name": "Time Lost",
+        "url": "https://open.spotify.com/album/4CJCGMU40qZmYtJrAgJJrO"
+      },
+      "artists": [
+        {
+          "name": "Kanako Yamamoto",
+          "url": "https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165680,
+      "name": "Time Lost",
+      "url": "https://open.spotify.com/track/0aHSrR8RefR8MbMt5X9DYo"
     },
     {
       "album": {
@@ -63360,7 +63468,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 174722,
       "name": "WHAT'S A GUY GOTTA DO",
       "url": "https://open.spotify.com/track/5LLqrWs1fOALBwTR1rXWvD"

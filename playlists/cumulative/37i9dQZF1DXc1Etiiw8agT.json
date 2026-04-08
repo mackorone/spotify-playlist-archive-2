@@ -3112,7 +3112,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 183250,
       "name": "Dark Ocean Noise 145 Hz",
       "url": "https://open.spotify.com/track/0OdJfvTa43VWsBT1o4aA9n"
@@ -3656,6 +3656,24 @@
       "duration_ms": 136000,
       "name": "Endless Brown Noise",
       "url": "https://open.spotify.com/track/5YJBWioj7Qc7pyjlYyqBkJ"
+    },
+    {
+      "album": {
+        "name": "Endless Focus",
+        "url": "https://open.spotify.com/album/3Z4iOS43LAhlMi7mERLnpJ"
+      },
+      "artists": [
+        {
+          "name": "Thyyphoon",
+          "url": "https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170875,
+      "name": "Endless Focus",
+      "url": "https://open.spotify.com/track/7bIP0jCTRiTb0F55HwLtM5"
     },
     {
       "album": {

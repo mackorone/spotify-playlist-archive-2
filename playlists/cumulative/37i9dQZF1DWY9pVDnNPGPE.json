@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 160000,
       "name": "Beautiful Days",
       "url": "https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 223093,
       "name": "Crazy Weather (Our Pie X LUCY)",
       "url": "https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg"
@@ -1186,6 +1186,24 @@
       "duration_ms": 196666,
       "name": "Je N'aime Que Toi",
       "url": "https://open.spotify.com/track/2WW1ymvg1h7hXbYoLFNhz8"
+    },
+    {
+      "album": {
+        "name": "Je T'aime",
+        "url": "https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261120,
+      "name": "Je T'aime",
+      "url": "https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w"
     },
     {
       "album": {
@@ -2113,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "5.0 (Acoustic)",
+        "url": "https://open.spotify.com/album/0T7A42knWzQPbhaROLloi6"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Slave For You - Acoustic",
+      "url": "https://open.spotify.com/track/3vPnpjcLai4gfJjcc8R07a"
+    },
+    {
+      "album": {
         "name": "16 Fantasy",
         "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
@@ -2132,6 +2168,24 @@
       "duration_ms": 189706,
       "name": "Small girl (feat. D.O.)",
       "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
+    },
+    {
+      "album": {
+        "name": "DEAR : X",
+        "url": "https://open.spotify.com/album/03YiXxgdowSpg8M7ED3AfG"
+      },
+      "artists": [
+        {
+          "name": "1415",
+          "url": "https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195524,
+      "name": "Spring Is Coming",
+      "url": "https://open.spotify.com/track/6vynzyxPosrpgoggNVZ5au"
     },
     {
       "album": {
@@ -2610,7 +2664,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 214779,
       "name": "\uc19c\uacfc \uc0ac\ud0d5",
       "url": "https://open.spotify.com/track/0UM5G1pYm0GmwQkOkSzt5l"

@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 162933,
       "name": "500 Miles",
       "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 230211,
       "name": "Ai \u0111\u01b0a em v\u1ec1 (Cukak Remix)",
       "url": "https://open.spotify.com/track/2YxMOZsk7PnIwLW6UI5Poo"
@@ -7376,7 +7376,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 157213,
       "name": "Bass da da da (Sentad\u00e3o)",
       "url": "https://open.spotify.com/track/7H7ZaKNujnBdb7goF9ZcWU"
@@ -8263,6 +8263,24 @@
     },
     {
       "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133564,
+      "name": "Beretta (De Los Cerros La Escuela)",
+      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
+    },
+    {
+      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -8312,7 +8330,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 154954,
       "name": "Berghain - Remix",
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
@@ -10082,6 +10100,40 @@
       "duration_ms": 144930,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
+    },
+    {
+      "album": {
+        "name": "PULL UP TAPE vol.2",
+        "url": "https://open.spotify.com/album/3Jbw6dyh2SkpbXOTmYTRiv"
+      },
+      "artists": [
+        {
+          "name": "WIG",
+          "url": "https://open.spotify.com/artist/2ByQWzS4D7NeIg7ioQNDG4"
+        },
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Frayer Flexking",
+          "url": "https://open.spotify.com/artist/6cu3kZ6CfnT6LF8USDmumJ"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212509,
+      "name": "boss",
+      "url": "https://open.spotify.com/track/79EQVYVLRN8uE1d0sUZ19I"
     },
     {
       "album": {
@@ -14081,6 +14133,28 @@
     },
     {
       "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301674,
+      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+      "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
+    },
+    {
+      "album": {
         "name": "CLIMA LINDO",
         "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
       },
@@ -15826,6 +15900,28 @@
       "duration_ms": 193333,
       "name": "C\u00cdTIM V\u0160ADE HOVNO",
       "url": "https://open.spotify.com/track/5Jy4gtKvvCSalU1s0NNbna"
+    },
+    {
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220080,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
     },
     {
       "album": {
@@ -17766,6 +17862,24 @@
       "duration_ms": 201266,
       "name": "DIM",
       "url": "https://open.spotify.com/track/2nt2xZTzSeXYiMzHlZHGUf"
+    },
+    {
+      "album": {
+        "name": "Dark & Light",
+        "url": "https://open.spotify.com/album/7rWUPotZidNi8870NdnVZO"
+      },
+      "artists": [
+        {
+          "name": "SNX",
+          "url": "https://open.spotify.com/artist/3VHGZaRXt1MruZ68rhZJL3"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292159,
+      "name": "Dimensions | SNX",
+      "url": "https://open.spotify.com/track/1VFEiMzlh6j2dW18rpI6ND"
     },
     {
       "album": {
@@ -23416,7 +23530,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -41336,7 +41450,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 176887,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
@@ -42696,7 +42810,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
@@ -43932,7 +44046,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 150857,
       "name": "Ma\u010fari (Remastered)",
       "url": "https://open.spotify.com/track/7A8RLEsj0uP0wv1i40sWFh"
@@ -49267,6 +49381,24 @@
     },
     {
       "album": {
+        "name": "Nadrzana (Chandzali)",
+        "url": "https://open.spotify.com/album/3zBuzlAZNUOVcANFCASwMp"
+      },
+      "artists": [
+        {
+          "name": "Slavo gazi",
+          "url": "https://open.spotify.com/artist/3RrVEdSe0EQX8XY2pytoAm"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186671,
+      "name": "Nadrzana (Chandzali)",
+      "url": "https://open.spotify.com/track/4cpe1gU1m2bpCcCZ21zvyJ"
+    },
+    {
+      "album": {
         "name": "Najkraj\u0161\u00ed \u013eudia robia naj\u0161kared\u0161ie veci",
         "url": "https://open.spotify.com/album/20a8xHox8hK9OcGizx1kmp"
       },
@@ -49946,6 +50078,32 @@
       "duration_ms": 197648,
       "name": "Nejlep\u0161\u00ed stav",
       "url": "https://open.spotify.com/track/4rcqffUaXjelv1WGvJTCXS"
+    },
+    {
+      "album": {
+        "name": "Od Nekone\u010dna Do D\u00e1vna",
+        "url": "https://open.spotify.com/album/3vaf9dCPw6akMsA0CzRmFX"
+      },
+      "artists": [
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        },
+        {
+          "name": "Hasan",
+          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216967,
+      "name": "Nejsem S\u00e1m",
+      "url": "https://open.spotify.com/track/2goBKrIlwCh8Suz5DY7BXB"
     },
     {
       "album": {
@@ -53603,6 +53761,40 @@
     },
     {
       "album": {
+        "name": "PULL UP TAPE vol.2",
+        "url": "https://open.spotify.com/album/3Jbw6dyh2SkpbXOTmYTRiv"
+      },
+      "artists": [
+        {
+          "name": "WIG",
+          "url": "https://open.spotify.com/artist/2ByQWzS4D7NeIg7ioQNDG4"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q"
+        },
+        {
+          "name": "guapanova",
+          "url": "https://open.spotify.com/artist/3cKe8c7z8w2nyYsaVKWJaC"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210015,
+      "name": "OMERTA",
+      "url": "https://open.spotify.com/track/2F71OESKbsVAiqnykeTG9a"
+    },
+    {
+      "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
       },
@@ -57131,6 +57323,24 @@
     },
     {
       "album": {
+        "name": "Please Me x Titanium",
+        "url": "https://open.spotify.com/album/1A5V7nxLNfDe8BqqI40dp4"
+      },
+      "artists": [
+        {
+          "name": "DJ Unzensiert",
+          "url": "https://open.spotify.com/artist/6hqQvKElfJpaGlombyyZTJ"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187620,
+      "name": "Please Me x Titanium",
+      "url": "https://open.spotify.com/track/5xopbIDOEEqHIMEEQhHj6a"
+    },
+    {
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
       },
@@ -60442,6 +60652,24 @@
       "duration_ms": 125255,
       "name": "Recall",
       "url": "https://open.spotify.com/track/53WBImxa8UCdByzSJaBRSd"
+    },
+    {
+      "album": {
+        "name": "Recall (Alternate Versions)",
+        "url": "https://open.spotify.com/album/1cAA4bG0q8fMrD54UqQhDL"
+      },
+      "artists": [
+        {
+          "name": "gabriawll",
+          "url": "https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127812,
+      "name": "Recall - TikTok Version",
+      "url": "https://open.spotify.com/track/17exkbKz4UeuBe3PNPko9b"
     },
     {
       "album": {
@@ -69903,6 +70131,24 @@
     },
     {
       "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "album": {
         "name": "Impostor syndrom",
         "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
       },
@@ -70654,7 +70900,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 191076,
       "name": "Talk To You",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
@@ -72286,7 +72532,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 121339,
       "name": "the kill 2",
       "url": "https://open.spotify.com/track/6YxTIzgXjDQR5r2u6uA2qO"
@@ -73438,7 +73684,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 175800,
       "name": "TIP TIP",
       "url": "https://open.spotify.com/track/3CHx5MlbwfflmgrUoHSZw5"
@@ -73540,10 +73786,32 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 101926,
       "name": "Titanium - Edit - Slowed",
       "url": "https://open.spotify.com/track/56A87IFLsH3Q98QXSbDQNR"
+    },
+    {
+      "album": {
+        "name": "Titanium x Please Me",
+        "url": "https://open.spotify.com/album/0S7GdN9mwHKYwOpf1zj9OB"
+      },
+      "artists": [
+        {
+          "name": "TRUE CHAD",
+          "url": "https://open.spotify.com/artist/4Vg2yjssInPiSSOdPgWIkQ"
+        },
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344009,
+      "name": "Titanium x Please Me - Slowed",
+      "url": "https://open.spotify.com/track/4T85LIjCmp9z5NjTi40dLJ"
     },
     {
       "album": {
@@ -73772,7 +74040,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 176307,
       "name": "TONKA",
       "url": "https://open.spotify.com/track/4boGD7EJo5LjiGj3qwmP40"
@@ -75400,7 +75668,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 123076,
       "name": "TYPE BEAT",
       "url": "https://open.spotify.com/track/3OhcMbapB8evsgarEoPGH0"

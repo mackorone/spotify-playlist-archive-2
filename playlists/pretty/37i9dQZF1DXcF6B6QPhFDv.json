@@ -1,12 +1,12 @@
 {
   "description": "rock never dies. Cover: Lambrini Girls",
-  "num_followers": 4248254,
+  "num_followers": 4247882,
   "original_name": "MARROW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZyly50dxUEkQFmJA5ZEfK7VjRl",
+  "snapshot_id": "AAAAALFK4Tp1SQPhtAEiDl103afSw2Pq",
   "tracks": [
     {
       "added_at": "2026-04-03 04:01:32",
@@ -39,6 +39,22 @@
       "duration_ms": 133749,
       "name": "Cult of Celebrity",
       "url": "https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV"
+    },
+    {
+      "added_at": "2026-04-07 18:43:22",
+      "album": {
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
     },
     {
       "added_at": "2026-04-03 04:01:32",

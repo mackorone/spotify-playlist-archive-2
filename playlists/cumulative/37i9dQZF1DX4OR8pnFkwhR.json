@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover:  Maverick Mom",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: LAUSBUB",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "BLUESTAR",
+        "url": "https://open.spotify.com/album/2z3Cm6EQntpkpnhfjDLmBt"
+      },
+      "artists": [
+        {
+          "name": "XAMIYA",
+          "url": "https://open.spotify.com/artist/6pscTrZm8WmvDi2oABuwgC"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145994,
+      "name": "BLUESTAR",
+      "url": "https://open.spotify.com/track/4wp04eO5zhWCmrUazWVg4k"
+    },
+    {
+      "album": {
         "name": "Body's Voice",
         "url": "https://open.spotify.com/album/15SP4pILkTIUpI0YQKI5tW"
       },
@@ -3658,7 +3676,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 225720,
       "name": "Catch me when I fall",
       "url": "https://open.spotify.com/track/33LDbIdCNl9ppEdDJ0Vwee"
@@ -8350,7 +8368,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 462866,
       "name": "golden lighter",
       "url": "https://open.spotify.com/track/4rZh3T96SXCwTj2pqfHvT1"
@@ -9298,6 +9316,24 @@
       "duration_ms": 246968,
       "name": "High Flying",
       "url": "https://open.spotify.com/track/5Cl7xRJWzFLjyvEUJBIkgV"
+    },
+    {
+      "album": {
+        "name": "higher",
+        "url": "https://open.spotify.com/album/0504f7x1t4XpJMWfNnQL5N"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/2hZGOVMoWYSFHvjRV4CEhh"
     },
     {
       "album": {
@@ -12039,6 +12075,24 @@
     },
     {
       "album": {
+        "name": "Let's Go Crazy",
+        "url": "https://open.spotify.com/album/0E7j9U6RUr2jypHV0oVLRS"
+      },
+      "artists": [
+        {
+          "name": "Baby Canta",
+          "url": "https://open.spotify.com/artist/4jdLgKDWPnRF5pAP1PnUww"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227142,
+      "name": "Let's Go Crazy",
+      "url": "https://open.spotify.com/track/2wE3D1z8u4HvIFlTjYAiM6"
+    },
+    {
+      "album": {
         "name": "Letters, Lights, Travels On The Streets",
         "url": "https://open.spotify.com/album/4rSbKbY15PsCF4GtDgrRqR"
       },
@@ -13292,7 +13346,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 227739,
       "name": "MERMAID",
       "url": "https://open.spotify.com/track/0e92rOquxmNrIGTJoPphGq"
@@ -14532,7 +14586,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 132999,
       "name": "Neko Ni Natte",
       "url": "https://open.spotify.com/track/4mVRhZS5ww3WlbZUcuR3Ny"
@@ -17662,6 +17716,24 @@
       "duration_ms": 204868,
       "name": "Restart?",
       "url": "https://open.spotify.com/track/64INceHue7dl31QMDLLirn"
+    },
+    {
+      "album": {
+        "name": "ReTake",
+        "url": "https://open.spotify.com/album/1Nv9mMQS5u5gRYP9iNmcLu"
+      },
+      "artists": [
+        {
+          "name": "OSHIKIKEIGO",
+          "url": "https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296924,
+      "name": "ReTake",
+      "url": "https://open.spotify.com/track/5PaYPElNsEDOwnSj45pcHa"
     },
     {
       "album": {
@@ -21842,6 +21914,24 @@
       "duration_ms": 248511,
       "name": "To a Happy Ending",
       "url": "https://open.spotify.com/track/4eH0pLBfSpNy6Ip70UfM0f"
+    },
+    {
+      "album": {
+        "name": "TO THE YOU (ME) I MET BEFORE",
+        "url": "https://open.spotify.com/album/32vW6d688xpkaHeBi2tbfF"
+      },
+      "artists": [
+        {
+          "name": "Meg Bonus",
+          "url": "https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226242,
+      "name": "TO THE YOU (ME) I MET BEFORE",
+      "url": "https://open.spotify.com/track/0tSaRGhrBFaz3EFVw57FQD"
     },
     {
       "album": {
@@ -27444,7 +27534,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 180000,
       "name": "\u30a4\u30f3\u30b9\u30bf\u30f3\u30c8\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ"
@@ -29828,7 +29918,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 226033,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30d0\u30fc\u30b9\u30c7\u30a4",
       "url": "https://open.spotify.com/track/7apBMKU3NQujC2wNQuX318"
@@ -31368,6 +31458,24 @@
       "duration_ms": 189854,
       "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
       "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
+    },
+    {
+      "album": {
+        "name": "From Miseducation",
+        "url": "https://open.spotify.com/album/3avKjwBtFn7WjTfZd7lZlx"
+      },
+      "artists": [
+        {
+          "name": "KeNN",
+          "url": "https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184567,
+      "name": "\u30e1\u30de\u30a4",
+      "url": "https://open.spotify.com/track/2WCn9HrGDwcEm0bU0xgcrt"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 885,
+  "num_followers": 893,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFrpKdhsk1Cmh/DEcUX0JTokj4Ml98",
+  "snapshot_id": "AAAFswgYJokzKztYSci1NIABxzuBTi8L",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -2111,6 +2111,86 @@
       "duration_ms": 365338,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU"
+    },
+    {
+      "added_at": "2026-04-07 14:14:04",
+      "album": {
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/2E4fKXEb6TRuakzh4us7ZR"
+      },
+      "artists": [
+        {
+          "name": "PICKLE JUICE",
+          "url": "https://open.spotify.com/artist/02OYBGdYRGnzhcYR8AvHmS"
+        }
+      ],
+      "duration_ms": 208527,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/52vhLMGyPzibPksdDabol9"
+    },
+    {
+      "added_at": "2026-04-07 14:33:56",
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI"
+      },
+      "artists": [
+        {
+          "name": "The Jaded Lips",
+          "url": "https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx"
+        }
+      ],
+      "duration_ms": 334101,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/3VpudFzGzVKGpzBmhlDXkc"
+    },
+    {
+      "added_at": "2026-04-07 14:37:45",
+      "album": {
+        "name": "GIGACHUD",
+        "url": "https://open.spotify.com/album/6mB0mqrpStENY1wcycOV0A"
+      },
+      "artists": [
+        {
+          "name": "BLABSCAM!",
+          "url": "https://open.spotify.com/artist/1dgobA4FiBSFA4QRWLs6ok"
+        }
+      ],
+      "duration_ms": 218775,
+      "name": "GIGACHUD",
+      "url": "https://open.spotify.com/track/5AbUAbLQ0OwGMKUZJbZBIx"
+    },
+    {
+      "added_at": "2026-04-08 00:28:27",
+      "album": {
+        "name": "Learning It the Hard Way",
+        "url": "https://open.spotify.com/album/6h3qBmbL2n3vFtfYF9G9uq"
+      },
+      "artists": [
+        {
+          "name": "moberod",
+          "url": "https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd"
+        }
+      ],
+      "duration_ms": 218304,
+      "name": "Crushwhore",
+      "url": "https://open.spotify.com/track/3g9dkoiaCGaaAAX8WS88c5"
+    },
+    {
+      "added_at": "2026-04-08 00:33:31",
+      "album": {
+        "name": "Deep Cut EP",
+        "url": "https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd"
+      },
+      "artists": [
+        {
+          "name": "Southern States",
+          "url": "https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2"
+        }
+      ],
+      "duration_ms": 146478,
+      "name": "Deep Cut",
+      "url": "https://open.spotify.com/track/02bk2a5aKm03H9AeQQKQi7"
     }
   ],
   "unique_name": "Unsigned Rock",

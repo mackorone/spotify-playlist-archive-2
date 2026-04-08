@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Antoon
 
-1,272 songs - 2 day 12 hr 48 min
+1,273 songs - 2 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1160,6 +1160,7 @@
 | [Waar ben je?](https://open.spotify.com/track/0wZ25uWXbeZGicz6Wf77Jf) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V) | [Waar ben je?](https://open.spotify.com/album/2ao9SVV6eo4fdgjNJfNj6t) | 2:25 | 2024-06-06 | 2024-06-28 |
 | [Waar Ben Jij](https://open.spotify.com/track/2oybR9LRXJ0ixXpNgNRXde) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Tegendraads](https://open.spotify.com/album/7k2fnz81WU5IPPNqkqNORj) | 2:48 | 2024-05-16 | 2024-08-30 |
 | [Waar Ben Jij Geweest](https://open.spotify.com/track/4ignFg2a7xfM4Glns0mzIM) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Waar Ben Jij Geweest](https://open.spotify.com/album/2P2xSOgYCDEPi1n9fTQcT3) | 2:48 | 2026-02-05 |  |
+| [Waar De Ladies Zijn](https://open.spotify.com/track/1RBAmptvCgOBmUQorOiT31) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Waar De Ladies Zijn](https://open.spotify.com/album/7sItPhIOsuhFEqT9PyPRXq) | 2:20 | 2026-04-07 |  |
 | [Waar Ik Ben](https://open.spotify.com/track/5f8CxfFjYKpbZMPGenQMbG) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Waar Ik Ben](https://open.spotify.com/album/6LLdzMTrHM0sez2nUM8rqo) | 3:37 | 2026-01-29 |  |
 | [Waar Kom Je Vandaan](https://open.spotify.com/track/1H1rTqder7ZJhFlrbWcTCV) | [Nils](https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7) | [Waar Kom Je Vandaan](https://open.spotify.com/album/4ufnq6QXEpbjjBQh9Ftupt) | 2:31 | 2025-10-16 | 2026-01-16 |
 | [Waarom](https://open.spotify.com/track/3rg3zR2N2KWWyvpGUo78f6) | [Caitlin Lewis](https://open.spotify.com/artist/3EvvEKfqpNkGpLxoszZRfg) | [Waarom](https://open.spotify.com/album/3fcUz2SzycRa0vTdhZmzkc) | 3:14 | 2023-04-13 | 2023-07-21 |

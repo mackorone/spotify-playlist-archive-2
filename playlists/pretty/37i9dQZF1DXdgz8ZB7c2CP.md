@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🌟 featuring MAYV
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,978 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,026 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 17 | [2 u](https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [2 u](https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw) | 2:16 |
 | 18 | [hold tight](https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [hold tight](https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12) | 2:28 |
 | 19 | [Shadow](https://open.spotify.com/track/0C6kGnMDhdKre3kkODrGap) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Shadow](https://open.spotify.com/album/082BFZZXhPeRRigSZhwdEN) | 2:36 |
-| 20 | [Nothing Left \(feat\. Emi Grace\)](https://open.spotify.com/track/5ADhevsfCte2OEoI7c5VQi) | [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Nothing Left \(feat\. Emi Grace\)](https://open.spotify.com/album/6vH9f9hpHsVxs2dUmFc3k8) | 3:11 |
+| 20 | [Nothing Left](https://open.spotify.com/track/5ADhevsfCte2OEoI7c5VQi) | [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Nothing Left](https://open.spotify.com/album/6vH9f9hpHsVxs2dUmFc3k8) | 3:11 |
 | 21 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |
 | 22 | [One More Night](https://open.spotify.com/track/115vPHfuBdih0Mbu09a7V5) | [Polezsky](https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL), [dg.](https://open.spotify.com/artist/3FVO5thIWXe2SHW6ZTWCm6) | [One More Night](https://open.spotify.com/album/0gKuiLcC7WUBRzbs9WQIrW) | 3:51 |
 | 23 | [lmk](https://open.spotify.com/track/7i1qaIN30H4yoOTJKeqFoQ) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [lmk](https://open.spotify.com/album/0jXllH4l79vW3QJFQODJal) | 2:35 |

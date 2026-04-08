@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,420 songs - 21 day 11 hr 10 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,421 songs - 21 day 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8428,5 +8428,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8418 | [Compared Child](https://open.spotify.com/track/1FOhzA4qQiyVnzVYt1KcgN) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It's Raining After All](https://open.spotify.com/album/6wCvVvG0xd0zePNxN0OnlV) | 3:34 |
 | 8419 | [朝焼けのスターマイン](https://open.spotify.com/track/5eWfz1ktqjsPY3FJ6CmKQq) | [今井麻美](https://open.spotify.com/artist/6Yy5HRdcdZR1r2A2YnEefb) | [A･S･A Vol.1](https://open.spotify.com/album/3a97tSizPo9OKMuGdzMY1d) | 4:31 |
 | 8420 | [It Has To Be This Way \- Platinum Mix](https://open.spotify.com/track/65yNr1EO2TOBEYCz45tuOf) | [Jimmy Gnecco](https://open.spotify.com/artist/5QcGYbIhQiKu472ypOrhJu) | [METAL GEAR RISING REVENGEANCE Vocal Tracks Selection](https://open.spotify.com/album/3DR0FThvw6I18Ntp3D6kxf) | 2:55 |
+| 8421 | [フライデー・ナイト](https://open.spotify.com/track/4W3rP2KZkKEykdWvlWLgyc) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 2:56 |
 
-Snapshot ID: `AAALiG9LxyPvhPM9izhwFV/CZeD0nPI3`
+Snapshot ID: `AAALiSao+UyL3BD3Y8PLtyYKQZj6wtrb`

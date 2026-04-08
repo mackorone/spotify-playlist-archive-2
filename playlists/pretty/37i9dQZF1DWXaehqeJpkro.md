@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: WOODZ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,117 likes - 237 songs - 15 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,123 likes - 237 songs - 15 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

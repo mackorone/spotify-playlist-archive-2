@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di BLANCO, Sayf, Serena Brancale con Levante e DELIA, Tiziano Ferro con Giorgia, Ditonellapiaga e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,583 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,585 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 36 | [Qui per sempre](https://open.spotify.com/track/0PPck0I81P6AGTR1rRJh6s) | [Sairo](https://open.spotify.com/artist/38ghVFP8xwyGcMQET8kA7L) | [Qui per sempre](https://open.spotify.com/album/56mKBIYOx6jXodqzmazK67) | 2:46 |
 | 37 | [Popolo](https://open.spotify.com/track/25RM7AF7xF7uAWmEwzAsIk) | [Jasley](https://open.spotify.com/artist/0jdlzZxwNL6thInWuhtI22) | [Popolo](https://open.spotify.com/album/17iDrTPpYLLkXYAxC8n47q) | 2:26 |
 | 38 | [IMPATIENCE](https://open.spotify.com/track/2ZVORu23jX56c0ZHzxMDQh) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [IMPATIENCE](https://open.spotify.com/album/66WVBb35yrJHRxckDaaVHe) | 2:20 |
-| 39 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
+| 39 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx), [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
 | 40 | [FINE SHYT](https://open.spotify.com/track/0QQIwtK9jesALcXOdluLRU) | [ayo ally](https://open.spotify.com/artist/6Xa2PfSltPs34Bi5OP6nQR) | [FINE SHYT](https://open.spotify.com/album/41RuH0Av8Vv4R51RyMPafI) | 2:27 |
 | 41 | [\#ennyp](https://open.spotify.com/track/5i1Fzs7ylTdu2uoUujL5D1) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [\#ennyp](https://open.spotify.com/album/4NAudiTZW30MVLZqbMSTps) | 2:39 |
 | 42 | [Stessa Persona](https://open.spotify.com/track/68zEuQqB3lf4hIxtKjWU3O) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Stessa Persona](https://open.spotify.com/album/0f5UCuQZYoDKdUUWKhzRMU) | 2:17 |

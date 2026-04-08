@@ -4,7 +4,7 @@
 
 > 蓮ノ空女学院スクールアイドルクラブ」の楽曲を1つのプレイリストで。Enjoy music from " LoveLive! HASU NO SORA JOGAKUIN SCHOOL IDOL CLUB"\. ©プロジェクトラブライブ！蓮ノ空女学院スクールアイドルクラブ
 
-101 songs - 6 hr 32 min
+105 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [DEEPNESS](https://open.spotify.com/track/35L96ob6Ee0ZAVuzz0WJny) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [眩耀夜行](https://open.spotify.com/album/5UxZVWy2wbf7KnXLMxbF2F) | 4:23 | 2025-07-08 |  |
 | [Dream Believers \(104期 Ver.\)](https://open.spotify.com/track/56SXeLjDlXJYt9IFDCycKF) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [Dream Believers \(104期 Ver.\)](https://open.spotify.com/album/09e3NdPCk6KwvP4cR2MEgf) | 5:17 | 2025-07-08 |  |
 | [Dream Believers \(105期Ver.\)](https://open.spotify.com/track/4FMW6vHr4d6DiIc1GaUc4P) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [Dream Believers \(105期Ver.\)](https://open.spotify.com/album/6BBM5DNuBHVW7AZZmQXtlo) | 5:18 | 2025-07-08 |  |
+| [EdelinieN](https://open.spotify.com/track/7nIGl2YzftTfKgyVx9VnbG) | [Edel Note](https://open.spotify.com/artist/1OmA8j6y4aXQt03qMw5bU1) | [EdelinieN](https://open.spotify.com/album/4H4AJTqIb6xn4jNUXj8iUE) | 3:18 | 2026-04-07 |  |
 | [Holiday∞Holiday](https://open.spotify.com/track/3hKSrFN4Vwsx8rpc6A0UPH) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM) | [Holiday∞Holiday / Tragic Drops【スリーズブーケ盤】](https://open.spotify.com/album/4xmx66MU0Co6cRvgKWDfVj) | 4:16 | 2025-07-08 |  |
 | [Kawaii no susume](https://open.spotify.com/track/7sjLJuc08datD7vGpNKh5b) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM) | [眩耀夜行](https://open.spotify.com/album/5UxZVWy2wbf7KnXLMxbF2F) | 3:59 | 2025-07-08 |  |
 | [KEY of Like！](https://open.spotify.com/track/2hQkYgyZfIcmDgIHMcidvB) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM), [DOLLCHESTRA](https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh), [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [KEY of Like！](https://open.spotify.com/album/5dwr0fHNYlLzbZqTqMwotl) | 4:11 | 2025-07-08 |  |
@@ -54,6 +55,7 @@
 | [とーひょー☆スター！](https://open.spotify.com/track/7FbU4Do8EeYd1bfqTfA6u9) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [アイドゥーミー！](https://open.spotify.com/album/1MK8vxdcbl42x8IeugnlJR) | 3:26 | 2025-07-08 |  |
 | [みらくりえーしょん](https://open.spotify.com/track/7nLo00R9CRhadDNcOlg29U) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [Dream Believers \(104期 Ver.\)](https://open.spotify.com/album/09e3NdPCk6KwvP4cR2MEgf) | 3:34 | 2025-07-08 |  |
 | [やっぱ天使！](https://open.spotify.com/track/4Efe8bOgABSlKlfniB2yb6) | [藤島 慈 \(CV.月音こな\)](https://open.spotify.com/artist/2b8Y1xiUZAvmsyG7mvhafD) | [蓮ノ空女学院スクールアイドルクラブ ～Star Sign Memories～ Fujishima Megumi](https://open.spotify.com/album/4h7RtxiOwuK4yqfiF4dAXw) | 3:42 | 2025-07-08 |  |
+| [アイシイ](https://open.spotify.com/track/45EVWNkwd9j5inCftNPfHe) | [DOLLCHESTRA](https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh) | [アイシイ](https://open.spotify.com/album/4Vxr7Uvuu8WyZ4Ard0Iv3J) | 3:11 | 2026-04-07 |  |
 | [アイデンティティ](https://open.spotify.com/track/1svLZ9Jpcqpl48Zb94d4z0) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [アイデンティティ](https://open.spotify.com/album/2wjBV7vm9oxEpANVyigLxp) | 3:17 | 2025-07-08 |  |
 | [アイデンティティ \(104期NEW Ver.\)](https://open.spotify.com/track/3il4aafYRIN4igOKZhW3fC) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [ファンファーレ！！！](https://open.spotify.com/album/3agoEQ9GKlClV2ifbV4Thw) | 3:14 | 2025-07-08 |  |
 | [アイドゥーミー！](https://open.spotify.com/track/3JvbeCWTvPUTWmEbRmV6ZX) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [アイドゥーミー！](https://open.spotify.com/album/1MK8vxdcbl42x8IeugnlJR) | 4:02 | 2025-07-08 |  |
@@ -69,6 +71,7 @@
 | [チリコンカン](https://open.spotify.com/track/0GWGiPHuHDaUoj9E3BC17j) | [Edel Note](https://open.spotify.com/artist/1OmA8j6y4aXQt03qMw5bU1) | [Retrofuture](https://open.spotify.com/album/1kd8iA1oha8uD7WLug2LG6) | 3:31 | 2025-07-08 |  |
 | [ツキマカセ](https://open.spotify.com/track/62g1PPE50uBvFERnO7msla) | [DOLLCHESTRA](https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh) | [Sparkly Spot](https://open.spotify.com/album/71rk6vKo7WdBapndKSaeei) | 4:11 | 2025-07-08 |  |
 | [ツバサ・ラ・リベルテ](https://open.spotify.com/track/728iKLRGI8qP7RQYDYzgNs) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [Link to the FUTURE](https://open.spotify.com/album/1ovEGZpGWHYemCOVu7dXLx) | 4:57 | 2025-07-08 |  |
+| [トモダチになれる場所](https://open.spotify.com/track/6BsZ6UijKKsx9YFM8FsAqc) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [トモダチになれる場所](https://open.spotify.com/album/0KxRJE6LRzgkMpTNFeHbU9) | 4:04 | 2026-04-07 |  |
 | [ド！ド！ド！](https://open.spotify.com/track/6urkKeYf9usiYKY1sLV95K) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [Dream Believers](https://open.spotify.com/album/4Rh2egiKEd6Bg1VHuof4Xd) | 4:27 | 2025-07-08 |  |
 | [ノンフィクションヒーローショー](https://open.spotify.com/track/7K1bQmXmjUCTKC1UQf8LOz) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [アイデンティティ](https://open.spotify.com/album/2wjBV7vm9oxEpANVyigLxp) | 3:36 | 2025-07-08 |  |
 | [ハクチューアラモード](https://open.spotify.com/track/42Hc73MCWr6osO8zMWWmL7) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [夏めきペイン](https://open.spotify.com/album/3Vre0ze8CjAYmoNK11UIBC) | 2:59 | 2025-07-08 |  |
@@ -85,6 +88,7 @@
 | [ユメワズライ](https://open.spotify.com/track/1P81x2eE9T3ad6MZ5z638f) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM) | [ユメワズライ](https://open.spotify.com/album/3Em8v9PzJL4dKsiMcNmbBp) | 3:57 | 2025-07-08 |  |
 | [レディバグ](https://open.spotify.com/track/4wsAk2qNrT1VeylWy2apNT) | [DOLLCHESTRA](https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh) | [Dream Believers \(104期 Ver.\)](https://open.spotify.com/album/09e3NdPCk6KwvP4cR2MEgf) | 3:36 | 2025-07-08 |  |
 | [レム](https://open.spotify.com/track/0nywOvGAb35bcbiUM4N1Ch) | [DOLLCHESTRA](https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh) | [COMPASS](https://open.spotify.com/album/7rfbBlhetMjrDzQ6BG2SoV) | 4:08 | 2025-07-08 |  |
+| [不思議と君とライブラリー](https://open.spotify.com/track/2j4bOF2ZZGA9wEaVKjOVuv) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM) | [不思議と君とライブラリー](https://open.spotify.com/album/3TnXHp06Mar1wjCdP664OM) | 3:16 | 2026-04-07 |  |
 | [以心☆電信](https://open.spotify.com/track/6Rhb8uh8v5tbn6ScXbhWNp) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [以心☆電信](https://open.spotify.com/album/7tTIRksl4DuwASwl8mP3LN) | 3:40 | 2025-07-08 |  |
 | [全方位キュン♡](https://open.spotify.com/track/5VbujGTvm7PVhofgReaFgt) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [全方位キュン♡](https://open.spotify.com/album/4uSBq63O22gnohnyE8pZac) | 4:16 | 2025-07-08 |  |
 | [十六夜セレーネ](https://open.spotify.com/track/397Q58MRaXG0LEnZBjaIxT) | [Edel Note](https://open.spotify.com/artist/1OmA8j6y4aXQt03qMw5bU1) | [37.5℃のファンタジー / アイマイメーデー / BLAST!! / 十六夜セレーネ](https://open.spotify.com/album/26vALPMNanypEHOPyf7pQJ) | 3:56 | 2025-07-08 |  |

@@ -2637,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "HH.1sv",
+        "url": "https://open.spotify.com/album/7hpdYlUgONvnJb7qnrF0R0"
+      },
+      "artists": [
+        {
+          "name": "zak\u00e8",
+          "url": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240628,
+      "name": "HH.1sv",
+      "url": "https://open.spotify.com/track/5GDNIcERd0rkBW83FriyV4"
+    },
+    {
+      "album": {
         "name": "Himmelskib",
         "url": "https://open.spotify.com/album/5Uqh5meF5vlmBuKpsQ7dnG"
       },
@@ -2798,7 +2816,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 227708,
       "name": "Hope and Fate",
       "url": "https://open.spotify.com/track/7lh7iHO2MpF1PPISdhiAS8"
@@ -5086,7 +5104,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 144000,
       "name": "pour le po\u00e8me (flou v)",
       "url": "https://open.spotify.com/track/5abIAZR04R2tdeASvQxcQN"
@@ -5408,7 +5426,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 126773,
       "name": "Ribbon",
       "url": "https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM"
@@ -6973,6 +6991,24 @@
     },
     {
       "album": {
+        "name": "tomorrow is another day",
+        "url": "https://open.spotify.com/album/1xjt9e886XzxjTIhCnKRih"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169479,
+      "name": "tomorrow is another day",
+      "url": "https://open.spotify.com/track/4V0VSolG4dOYKfUWkWeGtY"
+    },
+    {
+      "album": {
         "name": "tomorrow never comes",
         "url": "https://open.spotify.com/album/1mUSORPqLfV1F3yqj456oD"
       },
@@ -7434,6 +7470,24 @@
       "duration_ms": 314454,
       "name": "Waves - Oliver Doerell & Helga Raimondi Rework",
       "url": "https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4"
+    },
+    {
+      "album": {
+        "name": "we are more than a soul",
+        "url": "https://open.spotify.com/album/6kItL8xvp2tfzNXE8yfmVA"
+      },
+      "artists": [
+        {
+          "name": "oversyncing",
+          "url": "https://open.spotify.com/artist/7spI8g04DQFgq7CFYS5sUf"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86666,
+      "name": "we are more than a soul",
+      "url": "https://open.spotify.com/track/6xYEAUAFfoqeDmy7RVDq0q"
     },
     {
       "album": {

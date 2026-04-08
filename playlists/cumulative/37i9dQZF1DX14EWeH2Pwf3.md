@@ -4,7 +4,7 @@
 
 > Nerissima in cover della playlist urban più grande d'Italia 🐍
 
-1,022 songs - 2 day 1 hr 33 min
+1,023 songs - 2 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,7 +504,7 @@
 | [LA VITA CHE VIVO](https://open.spotify.com/track/2q9O6twPyMmPXqd4arGkA9) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [LA VITA CHE VIVO](https://open.spotify.com/album/4yKtowdWYMpI2FX784fRnQ) | 2:58 | 2026-02-13 | 2026-03-20 |
 | [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 | 2026-02-25 |  |
 | [Lacrima \(feat\. Vegas Jones\)](https://open.spotify.com/track/0zocqG2uQugrTWzUBK1SCw) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Lacrima \(feat\. Vegas Jones\)](https://open.spotify.com/album/2rSguzZWAyhp3aRkpkuvT0) | 2:51 | 2022-12-15 | 2023-01-20 |
-| [Lacrime \(feat\. Niky Savage\)](https://open.spotify.com/track/3TDbsmba4LBiteEWWL3dwY) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [Minacce](https://open.spotify.com/album/1WgrHYoJAjvFIyTKNYAODq) | 3:01 | 2026-03-19 |  |
+| [Lacrime \(feat\. Niky Savage\)](https://open.spotify.com/track/3TDbsmba4LBiteEWWL3dwY) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [Minacce](https://open.spotify.com/album/1WgrHYoJAjvFIyTKNYAODq) | 3:01 | 2026-03-19 | 2026-04-08 |
 | [Lacrime del diavolo \(feat\. Jake La Furia\)](https://open.spotify.com/track/46oEfzFinosISkSvU2a6Qs) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Freddo](https://open.spotify.com/album/1zEjMDJSo5PIQFIOAXD77X) | 2:46 | 2025-04-17 | 2025-04-29 |
 | [LACRIME E SORRISI](https://open.spotify.com/track/0FwI9kFFZuMYqN1jbnc4G1) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [FUNNY GAMES](https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf) | 2:50 | 2025-11-27 | 2025-12-19 |
 | [LAPROVINCE \#1](https://open.spotify.com/track/2Z9uQAn8v8m6ZPFh4bsqY4) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [LAPROVINCE \#1](https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS) | 2:38 | 2022-05-09 | 2022-05-25 |
@@ -801,6 +801,7 @@
 | [Rari](https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Rari](https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0) | 2:48 | 2022-10-07 | 2022-11-18 |
 | [RASOI](https://open.spotify.com/track/3zXE6GFKQeXt5DG1BYncDw) | [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [RASOI / RIGOR MORTIS](https://open.spotify.com/album/7wcWK3KQdvoZmAbdZKGYhW) | 2:39 | 2023-04-06 | 2023-05-05 |
 | [RAY LIOTTA \- goodfellas](https://open.spotify.com/track/2ghK72VHQzKy3olZWsrwQ7) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Effetto notte \(L'alba\)](https://open.spotify.com/album/1RwNWkA8leLYPXdCjoOdHl) | 3:04 | 2023-11-23 | 2023-12-30 |
+| [re bowser \(feat\. Khodi\)](https://open.spotify.com/track/4XcsVgIeHtW4EDrcPUXCez) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [NO REGULAR MUSIC 2.5](https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n) | 1:50 | 2026-04-07 |  |
 | [READY 4 WAR \(feat\. Artie 5ive\)](https://open.spotify.com/track/0pwRSrIxfrAdTLbPaEtZli) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 2:48 | 2023-02-09 | 2023-03-03 |
 | [RED&BLUE](https://open.spotify.com/track/6jxeK8g2wpe2yVLsHcjRhG) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [RED&BLUE](https://open.spotify.com/album/3aVMMj8FWLf4e5cMZ5JdWC) | 3:27 | 2023-11-30 | 2023-12-15 |
 | [Regina del Block](https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Regina del Block](https://open.spotify.com/album/4nYOFpq5MQ0Eq5KvxfqsTD) | 3:18 | 2022-08-04 | 2022-11-18 |

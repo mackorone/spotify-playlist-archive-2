@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 716,350 likes - 286 songs - 13 hr 29 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 716,329 likes - 286 songs - 13 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 69 | [teamo](https://open.spotify.com/track/3vSa3awmVs6uJ5UsF2govU) | [c8o](https://open.spotify.com/artist/7BpMCntV4suo4ycD98VV6V) | [teamo](https://open.spotify.com/album/6I4YHk7PJmePPOn7W8JYjo) | 2:22 |
 | 70 | [Nobody Else](https://open.spotify.com/track/10u0qaODhMuvveoaaUtze2) | [Fryware](https://open.spotify.com/artist/5hvR80ZuQm5TWMu23iLqiQ), [Minnie](https://open.spotify.com/artist/2Rmz2lT1HgrTkKkeNR0kLd) | [Nobody Else](https://open.spotify.com/album/6DsCRRrTQ989S7B0vRGRUz) | 3:34 |
 | 71 | [On & On](https://open.spotify.com/track/2uZWffKoemZDI0gHcBEcDc) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/6Unm4KKxYtjR08J1wEOnkc) | 3:27 |
-| 72 | [KILL ZONE](https://open.spotify.com/track/10QQjmucQgBlrKc0RPh2i2) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [KILL ZONE](https://open.spotify.com/album/2p2T64NBnD9KObNPGmeLZP) | 2:03 |
+| 72 | [KILL ZONE](https://open.spotify.com/track/10QQjmucQgBlrKc0RPh2i2) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [KILL ZONE \(OLD UPC VERSION\)](https://open.spotify.com/album/2p2T64NBnD9KObNPGmeLZP) | 2:03 |
 | 73 | [la playa](https://open.spotify.com/track/0hfsatZUTyfIRnHObyf3WR) | [SK3TCH01](https://open.spotify.com/artist/0NakXcxWSSLTMHvJsDWPVC), [X972](https://open.spotify.com/artist/0ShRIzN5hJDUBGPmn1rt50) | [la playa](https://open.spotify.com/album/4EmlPBi5UFiXhbiyVuz34k) | 1:12 |
 | 74 | [Warrior](https://open.spotify.com/track/1vdBgZHuVCTG7YJZdY2FGr) | [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Warrior](https://open.spotify.com/album/2opw2lG8l1NSCREhRzT7U7) | 2:42 |
 | 75 | [INDUSTRY KISS](https://open.spotify.com/track/1AmCPbQLCXici8sT4AIt4S) | [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [INDUSTRY KISS](https://open.spotify.com/album/6ZqC238m819xm9mxWtvF2h) | 1:31 |

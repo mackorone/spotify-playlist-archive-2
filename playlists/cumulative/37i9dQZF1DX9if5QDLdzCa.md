@@ -4,7 +4,7 @@
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-278 songs - 13 hr 28 min
+279 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Shore Roaring and Undulating](https://open.spotify.com/track/2SMaQVNDeKXGhoh6JHsBmy) | [World Recorders](https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE) | [Soft Ocean Waves](https://open.spotify.com/album/6hV7AFtm1OBdtnGvKNH5u9) | 2:41 | 2024-03-25 |  |
 | [Singing Sea](https://open.spotify.com/track/2tJquhW3l29M39zPK7bFda) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Ocean Sounds Vol\. 2](https://open.spotify.com/album/07whyFvVINvAXzWJEKlPdJ) | 2:36 | 2021-11-10 |  |
 | [Siren's Lullaby of the Waves](https://open.spotify.com/track/01AnDwC3P2GgKcaFc0ELNW) | [Big Sounds](https://open.spotify.com/artist/1JLSWENZYA41LY8C3RfbnK) | [Oceanic Dreamcatcher](https://open.spotify.com/album/4mHb7NSKdeNBsnM2jBmzLF) | 2:09 | 2025-07-21 |  |
-| [Sky Waves](https://open.spotify.com/track/4dHtg5BstRQexbgb3nJs1h) | [Earth Rotation](https://open.spotify.com/artist/7FPgFjMgODapgQxBbhyuv0) | [A Scent Of Waves](https://open.spotify.com/album/3oILcu1IH7r5HpyPD9h9go) | 2:29 | 2021-11-10 |  |
+| [Sky Waves](https://open.spotify.com/track/4dHtg5BstRQexbgb3nJs1h) | [Earth Rotation](https://open.spotify.com/artist/7FPgFjMgODapgQxBbhyuv0) | [A Scent Of Waves](https://open.spotify.com/album/3oILcu1IH7r5HpyPD9h9go) | 2:29 | 2021-11-10 | 2026-04-08 |
 | [Sleep On The Ocean](https://open.spotify.com/track/6gx1y86TaoNZPTXImnw1fX) | [Rivulet](https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8) | [Sleep On The Ocean](https://open.spotify.com/album/3tUgq5TQwhQHdvYIlRHEr8) | 3:14 | 2021-11-10 | 2024-03-26 |
 | [Sleep Tight at the Beach](https://open.spotify.com/track/2LfeJE5IQ8scLCSQfePWHC) | [Big Sounds](https://open.spotify.com/artist/1JLSWENZYA41LY8C3RfbnK) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:09 | 2021-11-10 | 2023-06-20 |
 | [Sleep: Good Night Waves](https://open.spotify.com/track/24gfzgiimYXIf2gxQxF4cf) | [Lullaby Waves](https://open.spotify.com/artist/7AAUTALWYtiP3o5TUHHyjj) | [Good Night Waves](https://open.spotify.com/album/4tcp4jrPaRqqF9AS6wKI6X) | 2:23 | 2021-11-10 | 2023-06-20 |
@@ -235,6 +235,7 @@
 | [The Relaxing Waves](https://open.spotify.com/track/2BxtM2sfnbMeybXiaOCXZJ) | [Wavezze](https://open.spotify.com/artist/3o5UfxtSucVNHzD7L4uyRT) | [The Relaxing Waves](https://open.spotify.com/album/3bWHpzKQHZJPVmjIVEGiao) | 2:39 | 2021-11-10 | 2024-03-26 |
 | [Three Minutes By The Ocean](https://open.spotify.com/track/0Rq7hjlS4yPq2VW2DsRLy6) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 3:04 | 2021-11-10 | 2024-03-26 |
 | [Three Minutes Of Breathing Waves](https://open.spotify.com/track/31SevMkEKupBNpthM8Zkja) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 3:06 | 2021-11-10 |  |
+| [Tide And Seek](https://open.spotify.com/track/6Gkhp7x9TdpJnFqafxDYYn) | [State Of Rest](https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM) | [Tide and Seek](https://open.spotify.com/album/30Y12ZOHyevf4ufQAKJE4o) | 2:50 | 2026-04-02 |  |
 | [Tides of Ruissalo](https://open.spotify.com/track/7v8Wp2fSy6gQ4O8vncxJnF) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Tides of Ruissalo](https://open.spotify.com/album/1wEcDkUoIETJlmJylUxjtZ) | 2:49 | 2025-07-21 |  |
 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 | 2021-11-10 |  |
 | [Vacation Waves](https://open.spotify.com/track/4K7AP8tMtQnuLF0ei8wcTo) | [Sundays By The Ocean](https://open.spotify.com/artist/0zZl9VsforOKto9vF8ufLg) | [Vacation Waves](https://open.spotify.com/album/6llhvxl7lDVhRbEPrQuxdt) | 3:12 | 2025-11-11 |  |

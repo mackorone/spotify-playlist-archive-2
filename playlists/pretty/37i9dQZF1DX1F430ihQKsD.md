@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal\. Photo: Moses Bélanger
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,505 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,500 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Are you with me](https://open.spotify.com/track/71lIXh8zGXnVKB6JkSpYwh) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [Are you with me](https://open.spotify.com/album/4FHavvDJF4ymxZeYEpgaFP) | 3:33 |
-| 2 | [3AM](https://open.spotify.com/track/3JQWMrpoi3xZEa7RtmSYWY) | [1000joules](https://open.spotify.com/artist/5ZAvdhTpqHgx29fmUQvAuY) | [3AM](https://open.spotify.com/album/06y07tkd2QyQlCAudDyGiK) | 4:06 |
-| 3 | [Demi\-tour](https://open.spotify.com/track/6DT34THRmULPtWwgm3GFDd) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Demi\-tour](https://open.spotify.com/album/140MQvVxZZdLbbnziE4LpF) | 3:52 |
-| 4 | [Le prix de la paix](https://open.spotify.com/track/0JM3WyIRcCA6zijL1rMbRt) | [Moses Belanger](https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd), [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Combien de fois](https://open.spotify.com/album/3jr8O02969iZU43rdaPuyo) | 3:07 |
-| 5 | [Viva la vida Aviva](https://open.spotify.com/track/09CYb1GdcPM2smNePTiLyC) | [fangs](https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW) | [Viva la vida Aviva](https://open.spotify.com/album/2qgynq21DyiBaIqrTK9YRd) | 2:11 |
+| 1 | [3AM](https://open.spotify.com/track/3JQWMrpoi3xZEa7RtmSYWY) | [1000joules](https://open.spotify.com/artist/5ZAvdhTpqHgx29fmUQvAuY) | [3AM](https://open.spotify.com/album/06y07tkd2QyQlCAudDyGiK) | 4:06 |
+| 2 | [Le prix de la paix](https://open.spotify.com/track/0JM3WyIRcCA6zijL1rMbRt) | [Moses Belanger](https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd), [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Combien de fois](https://open.spotify.com/album/3jr8O02969iZU43rdaPuyo) | 3:07 |
+| 3 | [Viva la vida Aviva](https://open.spotify.com/track/09CYb1GdcPM2smNePTiLyC) | [fangs](https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW) | [Viva la vida Aviva](https://open.spotify.com/album/2qgynq21DyiBaIqrTK9YRd) | 2:11 |
+| 4 | [Are you with me](https://open.spotify.com/track/71lIXh8zGXnVKB6JkSpYwh) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [Are you with me](https://open.spotify.com/album/4FHavvDJF4ymxZeYEpgaFP) | 3:33 |
+| 5 | [Demi\-tour](https://open.spotify.com/track/6DT34THRmULPtWwgm3GFDd) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Demi\-tour](https://open.spotify.com/album/140MQvVxZZdLbbnziE4LpF) | 3:52 |
 | 6 | [la dernière chose que je t'ai dit](https://open.spotify.com/track/51KUrJqxwt1eRxBaVmn9dP) | [yashek](https://open.spotify.com/artist/1CZZvo1xiQm5zZSMUlrGnM) | [la dernière chose que je t'ai dit](https://open.spotify.com/album/4Q4Z0gh3vvq8FIE6WVODho) | 4:01 |
 | 7 | [omg](https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 2:28 |
 | 8 | [Rising](https://open.spotify.com/track/5PVhswfrgXYdis2tFU3kzQ) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Rising](https://open.spotify.com/album/2SpYVIYV0SKTNxVN2mUKhn) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [SMILE](https://open.spotify.com/track/6qbw1ULYQPCHW1w80UyXze) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [jamvvis](https://open.spotify.com/artist/52FnK9izQFuAZi3qURGbqF) | [SMILE](https://open.spotify.com/album/5NzwJvXoEcxAoCpJkkQs7j) | 1:48 |
 | 100 | [Ya sé ya sé](https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Ya sé ya sé](https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe) | 3:43 |
 
-Snapshot ID: `AAAAANJerdMPP39NLEKu2P4QOeb6fBHK`
+Snapshot ID: `AAAAAKl2SxRVFuOzbp5ze2/E6VBQ1n7r`

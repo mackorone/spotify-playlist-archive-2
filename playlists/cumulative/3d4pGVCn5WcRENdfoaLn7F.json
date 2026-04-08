@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Broken (Goodbye)",
+        "url": "https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Broken (Goodbye)",
+      "url": "https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0"
+    },
+    {
+      "album": {
         "name": "Do You Remember Me at All?",
         "url": "https://open.spotify.com/album/3T5ZGHyqLY2jqJr4e5E1Nt"
       },
@@ -4894,6 +4912,24 @@
       "duration_ms": 202826,
       "name": "Unbreakable Love",
       "url": "https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z"
+    },
+    {
+      "album": {
+        "name": "Time To Be Alive",
+        "url": "https://open.spotify.com/album/6QRatbdQi9sUQfP7o5sN82"
+      },
+      "artists": [
+        {
+          "name": "Skyway",
+          "url": "https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144243,
+      "name": "Uncrumpled",
+      "url": "https://open.spotify.com/track/5Pv86y8cdyKj1VbKVrrJK9"
     },
     {
       "album": {

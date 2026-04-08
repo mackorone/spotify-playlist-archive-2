@@ -3203,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/4xXHKZ5W5tVPfU2AorxPH4"
+      },
+      "artists": [
+        {
+          "name": "Alaia & Gallo",
+          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180029,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/77pUogDgdbeVB8LMfrtphj"
+    },
+    {
+      "album": {
         "name": "Perfect Sound",
         "url": "https://open.spotify.com/album/5Ul3SgGrkOJBJkID0umUOb"
       },

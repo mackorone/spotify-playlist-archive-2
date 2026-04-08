@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Levante, Serena Brancale e DELIA in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,155 likes - 117 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,154 likes - 117 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 13 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
 | 14 | [Quelli come me](https://open.spotify.com/track/0rpUylGGF9tPRgilGzvgSK) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Quelli come me](https://open.spotify.com/album/6Stq5rzanrAivV37ueldaS) | 3:20 |
 | 15 | [OLTRE](https://open.spotify.com/track/6FVpYhrXBP4uePBc9uSbn9) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [OLTRE](https://open.spotify.com/album/60PDkbnv13N5UXJe7sSyka) | 4:21 |
-| 16 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
+| 16 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx), [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
 | 17 | [Popolo](https://open.spotify.com/track/25RM7AF7xF7uAWmEwzAsIk) | [Jasley](https://open.spotify.com/artist/0jdlzZxwNL6thInWuhtI22) | [Popolo](https://open.spotify.com/album/17iDrTPpYLLkXYAxC8n47q) | 2:26 |
 | 18 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 |
 | 19 | [OBSESIÓN](https://open.spotify.com/track/7xDsDOCmau82n3i7M5IKIA) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OBSESIÓN](https://open.spotify.com/album/5xku34SQ1812M5PwuxaR7q) | 3:08 |

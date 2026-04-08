@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra BLAKSTA, Bebe Rexha, vinni og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,962 likes - 78 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,955 likes - 78 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 55 | [Euro Dollar Yen](https://open.spotify.com/track/3ANnIrR04vDdQ3yRpmpV5R) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK) | [Euro Dollar Yen](https://open.spotify.com/album/4q7Gg46v8LBTkKMyMZM1rf) | 2:36 |
 | 56 | [RANGERS](https://open.spotify.com/track/6GPtfNs0EjBhU2D9KOsMHd) | [FRAT](https://open.spotify.com/artist/2qtGXWzwtC3IffXTKaVgfU), [Krabba](https://open.spotify.com/artist/1s8tWyOp2yQJBzFg8wW4xy) | [RANGERS](https://open.spotify.com/album/2RYdtHFKoqqfZplVDUkorN) | 3:04 |
 | 57 | [buzzin](https://open.spotify.com/track/54GiqXZaERtafqRyrqRRfH) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [buzzin](https://open.spotify.com/album/1q5KduupT5hI0EKYA9rtyi) | 2:41 |
-| 58 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
+| 58 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx), [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
 | 59 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
 | 60 | [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 |
 | 61 | [Watch Me](https://open.spotify.com/track/7CdKgelWaFAubv36vIUNPA) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [50KWTTS](https://open.spotify.com/album/4yMBeYLgk0aO0O8EbQ6j58) | 3:39 |

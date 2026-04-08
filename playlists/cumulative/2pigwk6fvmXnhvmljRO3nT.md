@@ -4,7 +4,7 @@
 
 > 
 
-8,580 songs - 21 day 20 hr 43 min
+8,581 songs - 21 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7751,6 +7751,7 @@
 | [フィジーSunburst](https://open.spotify.com/track/6Qtnklk7TKPocYhzhIbnzY) | [Webinar™](https://open.spotify.com/artist/547QlFQE681w86yaLjDOoi) | [w w w \. d e e p d i v e \. c o m](https://open.spotify.com/album/54u3ulel2d5GUFv296P7fx) | 4:59 | 2025-05-17 |  |
 | [フォニイ \(feat\. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO\)](https://open.spotify.com/track/62Qt4gwDgOFwXS2Qqv0NBR) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [25時、ナイトコードで。 SEKAI ALBUM vol.2](https://open.spotify.com/album/5rQLj6MGTD2FEO8fyJ6p1C) | 3:08 | 2025-12-07 |  |
 | [フジヤマディスコ](https://open.spotify.com/track/5VBjgiTYtgcSwLa2osNX3P) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [GIRLS POWER](https://open.spotify.com/album/1Uy0c2cwmBf1EQpbKT45cU) | 4:39 | 2025-10-04 |  |
+| [フライデー・ナイト](https://open.spotify.com/track/4W3rP2KZkKEykdWvlWLgyc) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 2:56 | 2026-04-07 |  |
 | [フラッシュバッカー](https://open.spotify.com/track/2qdPWFrknWyLXYIPpbtAgD) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:35 | 2025-01-03 |  |
 | [フロム](https://open.spotify.com/track/7DcD23bIJfEbM9W2xCgVxe) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:15 | 2025-01-15 |  |
 | [ブリキノダンス](https://open.spotify.com/track/6r2sPO4Uk9w9v3UMBU3DyZ) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [嘘の火花 \(Special Edition\)](https://open.spotify.com/album/0l7jwt10x92VsNQdBgiKfC) | 3:19 | 2025-10-02 |  |

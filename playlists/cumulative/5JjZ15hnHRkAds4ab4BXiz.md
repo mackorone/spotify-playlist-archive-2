@@ -4,7 +4,7 @@
 
 > 
 
-834 songs - 2 day 4 hr 4 min
+837 songs - 2 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Alolé](https://open.spotify.com/track/4ygm5YTSClGPFH23XwjaKG) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Variety Pack](https://open.spotify.com/album/3pmNLRyXB6nnXYditvGTZD) | 2:23 | 2024-12-31 |  |
 | [Alone, Together](https://open.spotify.com/track/4UmJMAY5TqXPAnsDW1Mci7) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:08 | 2024-06-16 |  |
 | [Alter Ego](https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:47 | 2024-04-05 |  |
+| [Always New Depths](https://open.spotify.com/track/0e4mjlUcAa9NoGKJp2Rnma) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm \(Deluxe\)](https://open.spotify.com/album/3Dpdyq5wgG7pU4cA7428u9) | 4:56 | 2026-04-07 |  |
 | [American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0) | 4:44 | 2024-02-16 |  |
 | [american church](https://open.spotify.com/track/0tSCQ4h8pM3EU6xZIzWdcm) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [as i watch my life online](https://open.spotify.com/album/4jcWDyIoZ1WVswLlWgF1Oq) | 4:27 | 2026-03-12 |  |
 | [American Gigolo](https://open.spotify.com/track/4dV49dm1XBRvsm2EUZQad4) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:42 | 2024-04-09 | 2026-02-24 |
@@ -203,6 +204,7 @@
 | [Evaporar](https://open.spotify.com/track/24VjfCzBctUQRMhYUw6zxD) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 3:52 | 2025-12-13 |  |
 | [Evening Sun](https://open.spotify.com/track/7HxmrxySFNFu5ppnTDdNPv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:06 | 2024-04-19 |  |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2024-02-16 |  |
+| [Every Time Is The Last Time](https://open.spotify.com/track/6fqgRwXrU7nRFGfCTzJ3mA) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm \(Deluxe\)](https://open.spotify.com/album/3Dpdyq5wgG7pU4cA7428u9) | 3:19 | 2026-04-07 |  |
 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 | 2026-02-17 |  |
 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 | 2025-12-13 |  |
 | [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 | 2025-12-13 |  |
@@ -245,6 +247,7 @@
 | [Given Up](https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:09 | 2024-01-17 | 2024-01-21 |
 | [Glass](https://open.spotify.com/track/1eSNIUtkDHVOMSBpE1aOcq) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 5:20 | 2024-06-10 |  |
 | [Go Away](https://open.spotify.com/track/0NwuqeOCKJ0YpoqZSENzhp) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/4A7hGVYUwbgXaEPuVkRSGJ) | 3:13 | 2024-05-19 | 2025-12-29 |
+| [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 | 2026-04-07 |  |
 | [Golden Lights \- 2011 Remaster](https://open.spotify.com/track/4i95WTacwOWK6ave3Y3I0u) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:41 | 2025-12-15 |  |
 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 | 2026-03-07 |  |
 | [Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:15 | 2024-03-27 |  |
@@ -840,7 +843,7 @@
 | [Young Dumb & Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:22 | 2023-11-14 | 2025-08-02 |
 | [Young Love \(feat\. Laura Marling\)](https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Twenty One](https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G) | 3:22 | 2025-11-20 |  |
 | [Your Visits Are Getting Shorter](https://open.spotify.com/track/65IcXV8f2HfDYyA9T2H6on) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Intimacy](https://open.spotify.com/album/0ZdR2zjN6X6Wvffw8l87yl) | 4:19 | 2026-02-05 |  |
-| [Yum Yum](https://open.spotify.com/track/021d2sLQVQM8iXR4gA8rDh) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Into Vastness](https://open.spotify.com/album/52p7pRiQmXD92QG6m4v8CM) | 2:41 | 2026-03-11 |  |
+| [Yum Yum](https://open.spotify.com/track/021d2sLQVQM8iXR4gA8rDh) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Into Vastness](https://open.spotify.com/album/52p7pRiQmXD92QG6m4v8CM) | 2:41 | 2026-03-11 | 2026-04-08 |
 | [Zephyrus](https://open.spotify.com/track/1fmCIpRoakvPCOKdh6kPHO) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Intimacy](https://open.spotify.com/album/0ZdR2zjN6X6Wvffw8l87yl) | 4:34 | 2026-02-04 |  |
 
 \*This playlist was first scraped on 2023-11-18. Prior content cannot be recovered.

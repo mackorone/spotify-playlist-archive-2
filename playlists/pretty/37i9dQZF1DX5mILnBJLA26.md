@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: BigBaller\_CEO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,858 likes - 49 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,339 likes - 49 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

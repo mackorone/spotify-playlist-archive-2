@@ -4,7 +4,7 @@
 
 > Sadturs e KIID in cover della playlist dello street rap italiano ⛓️
 
-1,029 songs - 1 day 22 hr 47 min
+1,030 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Blocco](https://open.spotify.com/track/53XOl5fbG1dxv8JNB8VkdS) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:01 | 2024-01-18 | 2026-03-06 |
 | [Block notes](https://open.spotify.com/track/6mZoe1LCCaons3BDtGCw7U) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Z4V1](https://open.spotify.com/album/04J9CopuPn8Q1TvhIQstPL) | 2:47 | 2023-05-18 | 2023-06-02 |
 | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR) | 3:03 | 2022-10-27 | 2022-11-11 |
-| [Blue Pillss](https://open.spotify.com/track/1NwdXzNpQgdwtv93NEUZjf) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6) | [Crash Out](https://open.spotify.com/album/2OSYIvhAF22cJtRFSLEr6g) | 1:32 | 2026-03-20 |  |
+| [Blue Pillss](https://open.spotify.com/track/1NwdXzNpQgdwtv93NEUZjf) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6) | [Crash Out](https://open.spotify.com/album/2OSYIvhAF22cJtRFSLEr6g) | 1:32 | 2026-03-20 | 2026-04-08 |
 | [Bodyguard](https://open.spotify.com/track/7CwL7roJA3Joy3vKfGgDmu) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Bodyguard](https://open.spotify.com/album/2J5YY1Zh6fPKT0kRo6gS83) | 2:35 | 2024-06-06 | 2024-09-13 |
 | [BOMBAY](https://open.spotify.com/track/76kL83yLBUnoDl8nqObsci) | [KMB](https://open.spotify.com/artist/5uvPG968kxvq3M0ZyxZglc) | [BOMBAY](https://open.spotify.com/album/7mBETUvrMuUHXLHU9qWUeH) | 2:15 | 2025-09-19 | 2025-10-24 |
 | [Borse Hermès](https://open.spotify.com/track/1MRDqKrcGYLw883LuVmDjy) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Borse Hermès](https://open.spotify.com/album/4K4WFgRUEfOrPD4ioCBppM) | 2:40 | 2024-10-24 | 2025-10-17 |
@@ -789,6 +789,7 @@
 | [RapStar](https://open.spotify.com/track/3Emty7Nc9QUIuHRPcwopjA) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 2:47 | 2022-06-09 | 2023-01-27 |
 | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/4MqDpQPykbFcJeF8xruknN) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/58SNMyClBKyTzSRQLaGHzv) | 3:00 | 2025-04-03 | 2025-04-25 |
 | [RATATA](https://open.spotify.com/track/05n2Sub4M3QV0thT5Hmbm1) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [RATATA](https://open.spotify.com/album/2wr4eGrYA8CzZ2VXUAxrNK) | 2:24 | 2023-08-24 | 2023-09-08 |
+| [re bowser \(feat\. Khodi\)](https://open.spotify.com/track/4XcsVgIeHtW4EDrcPUXCez) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [NO REGULAR MUSIC 2.5](https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n) | 1:50 | 2026-04-07 |  |
 | [READY 4 WAR \(feat\. Artie 5ive\)](https://open.spotify.com/track/0pwRSrIxfrAdTLbPaEtZli) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 2:48 | 2023-02-02 | 2023-03-22 |
 | [READY 4 WAR \(feat\. Artie 5ive\)](https://open.spotify.com/track/11bmZlbL7pICvsYXQxYiNp) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [TRENCHES BABY](https://open.spotify.com/album/79WpLPCSS0jwoYJHQjFcL7) | 2:48 | 2023-03-21 | 2023-04-21 |
 | [REAL OG \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/2fHwUvbO0BocxgtZePeL1l) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [REAL OG \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/6ikoHSAoMuP0LgljDmNfHC) | 2:59 | 2024-11-29 | 2024-12-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。アイナ・ジ・エンド, LiSA, Thundercat, Ravyn Lenae, OneRepublic and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,871 likes - 88 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,882 likes - 88 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 24 | [The Sun Comes Up Tremendous](https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [The Sun Comes Up Tremendous](https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB) | 3:33 |
 | 25 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 |
 | 26 | [CHICA 305](https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CHICA 305](https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2) | 3:08 |
-| 27 | [FANCLUB](https://open.spotify.com/track/0MgqiJaThfRqjNiLJsX79j) | [スカートとODD Foot Works](https://open.spotify.com/artist/2H7oDXjy4uX13hNxgmTTAW), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [FANCLUB](https://open.spotify.com/album/79ZpZQVcuubdULjWxCoinJ) | 3:27 |
+| 27 | [FANCLUB](https://open.spotify.com/track/0MgqiJaThfRqjNiLJsX79j) | [Skirt & ODD Foot Works](https://open.spotify.com/artist/2H7oDXjy4uX13hNxgmTTAW), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [FANCLUB](https://open.spotify.com/album/79ZpZQVcuubdULjWxCoinJ) | 3:27 |
 | 28 | [君は恋人](https://open.spotify.com/track/2DpxUvpifasKCux95AMW4g) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [君は恋人](https://open.spotify.com/album/6llaqDfdsFoormsUrhdrbo) | 3:37 |
 | 29 | [ギューアグ](https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ギューアグ](https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ) | 3:08 |
 | 30 | [Kodoku ni Toku](https://open.spotify.com/track/3FTRoyrGwcuy4HRmFPS8lw) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Kodoku ni Toku](https://open.spotify.com/album/5R9HmGynmbrVKJJFDMLNtK) | 3:10 |

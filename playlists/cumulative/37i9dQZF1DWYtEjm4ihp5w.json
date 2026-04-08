@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: Shobee",
+  "description": "Cover: 7liwa",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 166556,
       "name": "CAPABLE",
       "url": "https://open.spotify.com/track/7CSLJOKj4LuDlBMYArB2x1"
@@ -6058,6 +6058,28 @@
       "duration_ms": 221379,
       "name": "Nadi Canadi",
       "url": "https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q"
+    },
+    {
+      "album": {
+        "name": "Nagazaki",
+        "url": "https://open.spotify.com/album/2aiusT32fJhAFWEHEghSlv"
+      },
+      "artists": [
+        {
+          "name": "Soufiane Az",
+          "url": "https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04"
+        },
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "Nagazaki",
+      "url": "https://open.spotify.com/track/6BXZv5RM5YweM71JiP1iy1"
     },
     {
       "album": {

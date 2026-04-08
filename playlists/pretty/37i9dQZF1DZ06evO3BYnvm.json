@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Young. The essential tracks, all in one playlist.",
-  "num_followers": 49540,
+  "num_followers": 49553,
   "original_name": "This Is Lola Young",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adGmAAAAAABmFF7sYvydGJCbI8xDQEOC",
+  "snapshot_id": "adL3gAAAAABUyuptSIck8ewAzHwoSkL0",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Midnight",
-        "url": "https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 194197,
-      "name": "After Midnight (1AM)",
-      "url": "https://open.spotify.com/track/1WtRtjgLCWvkX2kEFeOZy2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/6bv6QMQ5TAFkmtTtQ5SHjS"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 164034,
       "name": "F*ck",
       "url": "https://open.spotify.com/track/0W1e7fgHgYsDXOJreBNvpV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 194197,
+      "name": "After Midnight (1AM)",
+      "url": "https://open.spotify.com/track/1WtRtjgLCWvkX2kEFeOZy2"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Midnight",
-        "url": "https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208315,
-      "name": "Bad Game (3AM)",
-      "url": "https://open.spotify.com/track/0YcOAHmvZRPalC3Wg8BcSm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue (2AM)",
         "url": "https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 201851,
       "name": "Blue (2AM)",
       "url": "https://open.spotify.com/track/7pb7fw21xzGuBTVOriBmtX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 208315,
+      "name": "Bad Game (3AM)",
+      "url": "https://open.spotify.com/track/0YcOAHmvZRPalC3Wg8BcSm"
     },
     {
       "added_at": null,

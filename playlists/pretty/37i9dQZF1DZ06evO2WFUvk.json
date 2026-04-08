@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adGmAAAAAABcJhJBNW7BQ2QBcK0fVq27",
+  "snapshot_id": "adL3gAAAAACUAFIbRly8VYKPZ856uVJJ",
   "tracks": [
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jonny Reb",
-        "url": "https://open.spotify.com/album/4Bb4XWRs6akqaKglWK60v3"
+        "name": "Decibels Loudness And Perception",
+        "url": "https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg"
       },
       "artists": [
         {
@@ -448,41 +448,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 169547,
-      "name": "Jonny Reb",
-      "url": "https://open.spotify.com/track/6q34EYZnEPVHkY8RA9RpKi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not From This Neighborhood",
-        "url": "https://open.spotify.com/album/2qIfAO5AwiqtJoIHAJMGJv"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "duration_ms": 273418,
-      "name": "Not From This Neighborhood",
-      "url": "https://open.spotify.com/track/32FIj8Ff7mkjC0P2Art9GX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Learning to Climb",
-        "url": "https://open.spotify.com/album/1wjrdSKG4wOqSqyXqrxF3A"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "duration_ms": 184830,
-      "name": "Learning to Climb",
-      "url": "https://open.spotify.com/track/6Biqaf8r3N0NiRxXFp1Kga"
+      "duration_ms": 559369,
+      "name": "Close The Door - Original Mix",
+      "url": "https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

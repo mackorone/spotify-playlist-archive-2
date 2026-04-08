@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,202 songs - 9 day 7 hr 53 min
+4,203 songs - 9 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2045,6 +2045,7 @@
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-12-27 |  |
 | [left to right](https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [left to right](https://open.spotify.com/album/0e2H2HkcvsWYmKfrX8iSyJ) | 2:34 | 2025-07-28 |  |
 | [Lejos de aquí](https://open.spotify.com/track/5Ys3niIfv2ofhuCOE0XfKB) | [Gélido](https://open.spotify.com/artist/5GxwtngGgv22cC2tl1ldBR) | [Buscando Salidas](https://open.spotify.com/album/3pkT6ZAnN5DCO9Q8vlA9e4) | 2:54 | 2025-07-25 |  |
+| [Lejos de ayer](https://open.spotify.com/track/0PCO91XIa47CQpkgvHKAPH) | [Visitantes](https://open.spotify.com/artist/0nynsqah3R512QB7VBtvvT) | [Visitantes](https://open.spotify.com/album/0tZCqIeo3VfhEdMY7r7lFd) | 4:00 | 2026-04-07 |  |
 | [Leningrado](https://open.spotify.com/track/0NVmgOHKOC00HAAHvchH2A) | [CIGNO](https://open.spotify.com/artist/70Fvv8XwCCBE4PM0JaTsKI) | [Buonanotte Berlinguer](https://open.spotify.com/album/1tx16k5nRquLGYFqydm6Jb) | 4:09 | 2025-11-12 |  |
 | [Let Go](https://open.spotify.com/track/6WwwKLeyMnxvRo7ui87gh9) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [Let Go](https://open.spotify.com/album/1vsdTGi5uycHXDNaqyHSVw) | 3:02 | 2026-03-06 |  |
 | [Let it all out](https://open.spotify.com/track/6feDqUIBfhQJWdCL0iDnfv) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The Electric Guitar Monument](https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf) | 2:12 | 2026-02-15 |  |
@@ -2805,7 +2806,7 @@
 | [Pink Leather Apocalypse](https://open.spotify.com/track/60HGAuSY9SOooFS8YQgkLO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard rock trash/heavy metal with pop taste](https://open.spotify.com/album/6LigdV5RX2AosQ7xMbbn11) | 3:12 | 2025-09-19 |  |
 | [pioggia ad agosto](https://open.spotify.com/track/3WT4rBFU8AuSWVkg9A4Peb) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [1825 \(Deluxe Edition\)](https://open.spotify.com/album/4cshacNZvF004rK5D2n4wI) | 2:22 | 2025-08-10 |  |
 | [PIOVE SOTTO AL MIO OMBRELLO](https://open.spotify.com/track/3e1PxsUQvDztAyyhdf2ysb) | [SAMEBLUD](https://open.spotify.com/artist/7fVYJLnYP4msJvPRzqycyn) | [OUCH!](https://open.spotify.com/album/3OaLDXBtg87CSRxlLTOtn0) | 3:02 | 2025-05-28 |  |
-| [Pipo Pipo](https://open.spotify.com/track/1dNbMI1AJk08iESjpQJh0r) | [FuzeTee](https://open.spotify.com/artist/0t9FKUjCQnKVWLWOrUikKp) | [Pipo Pipo](https://open.spotify.com/album/0M3yNIF7vUwnqfyh3pE3zG) | 2:02 | 2025-09-17 |  |
+| [Pipo Pipo](https://open.spotify.com/track/1dNbMI1AJk08iESjpQJh0r) | [Astro Alaprod](https://open.spotify.com/artist/3Iyv4bC7elXaXGahrlsk2l) | [Pipo Pipo](https://open.spotify.com/album/0M3yNIF7vUwnqfyh3pE3zG) | 2:02 | 2025-09-17 |  |
 | [Pixel Heartbeat](https://open.spotify.com/track/2GAtTH0w0JJN0GhxqICIHt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Virtual rock](https://open.spotify.com/album/48aggZCMxbdvSMGvL55GyX) | 3:17 | 2025-09-12 |  |
 | [Pixel perfect life \#Music \#NewMusic \#Viral](https://open.spotify.com/track/1fZVcPGiBcKiFBqufuKPtj) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Social network compilation \#Music \#NewMusic \#Viral](https://open.spotify.com/album/6PLoJqof88o7kLeL1ycWZg) | 3:14 | 2025-09-17 |  |
 | [Pixel perfect life \(another\) \#Music \#NewMusic \#Viral](https://open.spotify.com/track/0zlKwOYG0N0793xq1zecGx) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Social network compilation \#Music \#NewMusic \#Viral](https://open.spotify.com/album/6PLoJqof88o7kLeL1ycWZg) | 2:00 | 2025-09-17 |  |

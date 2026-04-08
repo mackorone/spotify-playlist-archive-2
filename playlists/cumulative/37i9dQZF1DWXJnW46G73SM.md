@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: امين خطاب
 
-1,650 songs - 3 day 19 hr 56 min
+1,651 songs - 3 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,6 +778,7 @@
 | [Nasser](https://open.spotify.com/track/6JcdmDmB9EV7wFYxbwa8xa) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [Nasser](https://open.spotify.com/album/6f8XAV4PBmAmbP3OPwR7ST) | 2:52 | 2025-02-07 | 2025-05-09 |
 | [Nasy \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/7wCCqw8CSbkHMkYIqcINXB) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Nasy](https://open.spotify.com/album/5qz4xp51ET1gOZLYSYGEx7) | 2:49 | 2025-09-16 | 2026-01-15 |
 | [Nasy Kol Haga](https://open.spotify.com/track/7canmDPx5S09PR8SDpUvUs) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Nasy Kol Haga](https://open.spotify.com/album/7diePMIVdOTDEDjT2jr2vC) | 3:05 | 2024-07-24 | 2024-09-20 |
+| [NDOOR](https://open.spotify.com/track/3fnUy8PxiIXubLQBS3aFei) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [EL BA7R EL A3ZAM](https://open.spotify.com/album/2apOaSX0WSlo1k6HP9rOsv) | 3:00 | 2026-04-07 |  |
 | [NDOOR](https://open.spotify.com/track/5VvyfodDsYCGVOh3bexgOZ) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [NDOOR](https://open.spotify.com/album/1Cvl5RXMUg3bPCZjenPKT0) | 3:00 | 2025-05-01 | 2025-06-20 |
 | [Nefsi Afou2](https://open.spotify.com/track/1OQSmaqaomwMpLHGk0YnGo) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:59 | 2022-11-10 | 2023-01-28 |
 | [Nefsy Nefdal \(feat\. Fady Haroun\)](https://open.spotify.com/track/4Up00T6I0bitpPlOMaF4dx) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [Nefsy Nefdal \(feat\. Fady Haroun\)](https://open.spotify.com/album/20DDV59BROW7EkYfQx1vMy) | 2:36 | 2024-02-16 | 2024-04-11 |
@@ -1334,7 +1335,7 @@
 | [سلام](https://open.spotify.com/track/5lFs4ZazVFVp0Nx3Rcnlm5) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [سلام](https://open.spotify.com/album/5P29qpulCVYvUIW0CdqW3l) | 3:09 | 2025-01-09 | 2025-02-07 |
 | [سلام يا عم](https://open.spotify.com/track/6IhUxlhxf852CyABJ9yw4o) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [سلام يا عم](https://open.spotify.com/album/1wLE9SUeHUUNaa1iHmJRwI) | 3:39 | 2023-06-08 | 2023-06-23 |
 | [سلامات سلامات طب عدا وفات](https://open.spotify.com/track/2yt3yMJowt3zzTkTVBH7Yn) | [رحاب سليم](https://open.spotify.com/artist/1tkRquDjElKJKzRY15zOWS) | [سلامات سلامات طب عدا وفات](https://open.spotify.com/album/6cq4sdZbQYe8hJrCSvj1oa) | 3:34 | 2025-01-17 | 2025-04-11 |
-| [سلامي امانه](https://open.spotify.com/track/35Qk7KSF5we0gHMlUaHEvs) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [سلامي امانه](https://open.spotify.com/album/1UBy2k9nbNPQXaYeKD0Ts9) | 2:40 | 2025-10-02 |  |
+| [سلامي امانه](https://open.spotify.com/track/35Qk7KSF5we0gHMlUaHEvs) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [سلامي امانه](https://open.spotify.com/album/1UBy2k9nbNPQXaYeKD0Ts9) | 2:40 | 2025-10-02 | 2026-04-08 |
 | [سمع هس](https://open.spotify.com/track/7v6T4DIvmmmUmyAxMdNUAJ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Karim Abdelaziz](https://open.spotify.com/artist/2MFCrt54MlbqNJZdjWiTUs), [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6) | [سمع هس](https://open.spotify.com/album/44zSqMLdhsuJc6iGs9VruL) | 2:36 | 2023-06-19 | 2023-07-25 |
 | [سمك زينة](https://open.spotify.com/track/4g1fqIV9EbOHstHeioY4az) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [سمك زينة](https://open.spotify.com/album/7DKwZsrLRZKt3JOJXBReD9) | 3:46 | 2025-10-23 | 2025-12-11 |
 | [سنجل](https://open.spotify.com/track/4iULrfhv47rx9l3QojGugH) | [Wazeer](https://open.spotify.com/artist/44uG5qaf4POeVrqI6anrr4) | [سنجل](https://open.spotify.com/album/6fqe8DuKFVY1xARM4kzcMB) | 2:41 | 2024-10-18 | 2024-12-06 |

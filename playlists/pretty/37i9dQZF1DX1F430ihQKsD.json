@@ -1,33 +1,13 @@
 {
   "description": "100 % chill, 100 % Montr\u00e9al. Photo: Moses B\u00e9langer",
-  "num_followers": 141505,
+  "num_followers": 141500,
   "original_name": "Montr\u00e9al Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJerdMPP39NLEKu2P4QOeb6fBHK",
+  "snapshot_id": "AAAAAKl2SxRVFuOzbp5ze2/E6VBQ1n7r",
   "tracks": [
-    {
-      "added_at": "2026-04-03 04:04:04",
-      "album": {
-        "name": "Are you with me",
-        "url": "https://open.spotify.com/album/4FHavvDJF4ymxZeYEpgaFP"
-      },
-      "artists": [
-        {
-          "name": "Jesse Mac Cormack",
-          "url": "https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C"
-        },
-        {
-          "name": "Pollena",
-          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
-        }
-      ],
-      "duration_ms": 213506,
-      "name": "Are you with me",
-      "url": "https://open.spotify.com/track/71lIXh8zGXnVKB6JkSpYwh"
-    },
     {
       "added_at": "2026-04-03 04:04:04",
       "album": {
@@ -43,22 +23,6 @@
       "duration_ms": 246153,
       "name": "3AM",
       "url": "https://open.spotify.com/track/3JQWMrpoi3xZEa7RtmSYWY"
-    },
-    {
-      "added_at": "2026-04-03 04:04:04",
-      "album": {
-        "name": "Demi-tour",
-        "url": "https://open.spotify.com/album/140MQvVxZZdLbbnziE4LpF"
-      },
-      "artists": [
-        {
-          "name": "Minou",
-          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
-        }
-      ],
-      "duration_ms": 232674,
-      "name": "Demi-tour",
-      "url": "https://open.spotify.com/track/6DT34THRmULPtWwgm3GFDd"
     },
     {
       "added_at": "2026-04-03 04:04:04",
@@ -95,6 +59,42 @@
       "duration_ms": 131250,
       "name": "Viva la vida Aviva",
       "url": "https://open.spotify.com/track/09CYb1GdcPM2smNePTiLyC"
+    },
+    {
+      "added_at": "2026-04-03 04:04:04",
+      "album": {
+        "name": "Are you with me",
+        "url": "https://open.spotify.com/album/4FHavvDJF4ymxZeYEpgaFP"
+      },
+      "artists": [
+        {
+          "name": "Jesse Mac Cormack",
+          "url": "https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C"
+        },
+        {
+          "name": "Pollena",
+          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
+        }
+      ],
+      "duration_ms": 213506,
+      "name": "Are you with me",
+      "url": "https://open.spotify.com/track/71lIXh8zGXnVKB6JkSpYwh"
+    },
+    {
+      "added_at": "2026-04-03 04:04:04",
+      "album": {
+        "name": "Demi-tour",
+        "url": "https://open.spotify.com/album/140MQvVxZZdLbbnziE4LpF"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "duration_ms": 232674,
+      "name": "Demi-tour",
+      "url": "https://open.spotify.com/track/6DT34THRmULPtWwgm3GFDd"
     },
     {
       "added_at": "2026-04-03 04:04:04",

@@ -1,6 +1,6 @@
 {
   "description": " All the tracks covered by artists in the new Netflix series Building the Band",
-  "num_followers": 36645,
+  "num_followers": 36650,
   "original_name": "Building the Band Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -342,6 +342,10 @@
         {
           "name": "The Pussycat Dolls",
           "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
       "duration_ms": 286906,

@@ -1,13 +1,29 @@
 {
   "description": "Du neuf, du bon, du franco! Photo: Classe Moyenne",
-  "num_followers": 47613,
+  "num_followers": 47620,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO2KXYqHCALGsO3dU7/gEu51b016",
+  "snapshot_id": "AAAAAFjOdPq2hJKsHP5iZs6abRSDkpqE",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:04:13",
+      "album": {
+        "name": "C'est l'heure",
+        "url": "https://open.spotify.com/album/5pLa5PUaJzfACm1Qg4RT9e"
+      },
+      "artists": [
+        {
+          "name": "2Fr\u00e8res",
+          "url": "https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q"
+        }
+      ],
+      "duration_ms": 259943,
+      "name": "C'est l'heure",
+      "url": "https://open.spotify.com/track/6dTpJEVEj3Aeto2Pe6hDy0"
+    },
     {
       "added_at": "2026-04-03 04:04:13",
       "album": {
@@ -47,22 +63,6 @@
       "duration_ms": 162765,
       "name": "GRACIAS (feat. benjamiin, King Melrose & Justin Roy)",
       "url": "https://open.spotify.com/track/72yq1Q5f9FsXGDMWKLH1oq"
-    },
-    {
-      "added_at": "2026-04-03 04:04:13",
-      "album": {
-        "name": "C'est l'heure",
-        "url": "https://open.spotify.com/album/5pLa5PUaJzfACm1Qg4RT9e"
-      },
-      "artists": [
-        {
-          "name": "2Fr\u00e8res",
-          "url": "https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q"
-        }
-      ],
-      "duration_ms": 259943,
-      "name": "C'est l'heure",
-      "url": "https://open.spotify.com/track/6dTpJEVEj3Aeto2Pe6hDy0"
     },
     {
       "added_at": "2026-04-03 04:04:13",

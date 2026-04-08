@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sara Evelyn",
-  "num_followers": 197728,
+  "num_followers": 197826,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
+        "name": "Eu Sou Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 268510,
+      "name": "Eu Sou Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
         "name": "Vai Remando",
         "url": "https://open.spotify.com/album/18VzHuGUCwAROJwXE7VDnF"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 299692,
       "name": "Vai Remando",
       "url": "https://open.spotify.com/track/6uh4TPpwdxOSiLyGkxE5L6"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
-        "name": "Eu Sou Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 268510,
-      "name": "Eu Sou Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Como Flecha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3wYNlda0UpHxAXaYgtBRdd"
-      },
-      "artists": [
-        {
-          "name": "Carol Braga",
-          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
-        }
-      ],
-      "duration_ms": 356403,
-      "name": "Como Flecha - Ao Vivo",
-      "url": "https://open.spotify.com/track/7gx4F5VziZlb1u8YG6syc6"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
+        "name": "Como Flecha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3wYNlda0UpHxAXaYgtBRdd"
+      },
+      "artists": [
+        {
+          "name": "Carol Braga",
+          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
+        }
+      ],
+      "duration_ms": 356403,
+      "name": "Como Flecha - Ao Vivo",
+      "url": "https://open.spotify.com/track/7gx4F5VziZlb1u8YG6syc6"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Tua Gra\u00e7a Me Basta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/61uch0I53YX2d3eifc15D7"
-      },
-      "artists": [
-        {
-          "name": "Esther Fiaux",
-          "url": "https://open.spotify.com/artist/5PywE2A2fAv0seRcwWC0YY"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 487456,
-      "name": "Tua Gra\u00e7a Me Basta - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xWBgNSXmSjV9TZb9ESvAv"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
         "name": "Sorrir de Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qyXyrFRqldlBhK7XZVrIN"
       },
@@ -583,26 +563,38 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Hebreus 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv"
+        "name": "Tua Gra\u00e7a Me Basta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/61uch0I53YX2d3eifc15D7"
       },
       "artists": [
         {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+          "name": "Esther Fiaux",
+          "url": "https://open.spotify.com/artist/5PywE2A2fAv0seRcwWC0YY"
         },
         {
-          "name": "JesusCopy Music",
-          "url": "https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b"
-        },
-        {
-          "name": "Laura Souguellis",
-          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 625714,
-      "name": "Hebreus 1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7DQOqbaquRT0VZmkfgo54z"
+      "duration_ms": 487456,
+      "name": "Tua Gra\u00e7a Me Basta - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xWBgNSXmSjV9TZb9ESvAv"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
+        "name": "Esp\u00edrito Santo",
+        "url": "https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 287769,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -627,18 +619,26 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Esp\u00edrito Santo",
-        "url": "https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB"
+        "name": "Hebreus 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv"
       },
       "artists": [
         {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        },
+        {
+          "name": "JesusCopy Music",
+          "url": "https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b"
+        },
+        {
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
         }
       ],
-      "duration_ms": 287769,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw"
+      "duration_ms": 625714,
+      "name": "Hebreus 1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7DQOqbaquRT0VZmkfgo54z"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Voc\u00ea Disse",
-        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Voc\u00ea Disse",
-      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
         "name": "Contando os Dias (Ao Vivo)",
         "url": "https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 470263,
       "name": "A Tenda (Ao Vivo)",
       "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
+        "name": "Voc\u00ea Disse",
+        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Voc\u00ea Disse",
+      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
+        "name": "Esvaziando a Casa",
+        "url": "https://open.spotify.com/album/5PHdajlqc96BJm3wy5Hswd"
+      },
+      "artists": [
+        {
+          "name": "Vanilda Bordieri",
+          "url": "https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 281490,
+      "name": "Esvaziando a Casa",
+      "url": "https://open.spotify.com/track/48yLKnpr7Vu8tIXDSLCKS8"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
       },
@@ -1347,6 +1367,22 @@
       "duration_ms": 240000,
       "name": "Dependente (Ao Vivo)",
       "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
+    },
+    {
+      "added_at": "2026-03-02 15:13:25",
+      "album": {
+        "name": "Minha Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Minha Adora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -1371,38 +1407,18 @@
     {
       "added_at": "2026-03-02 15:13:25",
       "album": {
-        "name": "Minha Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo"
+        "name": "Ele Chegou",
+        "url": "https://open.spotify.com/album/7bcEptglfy57a0Amos1PXx"
       },
       "artists": [
         {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+          "name": "Thalita Roberta",
+          "url": "https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Minha Adora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
-        "name": "Esvaziando a Casa",
-        "url": "https://open.spotify.com/album/5PHdajlqc96BJm3wy5Hswd"
-      },
-      "artists": [
-        {
-          "name": "Vanilda Bordieri",
-          "url": "https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 281490,
-      "name": "Esvaziando a Casa",
-      "url": "https://open.spotify.com/track/48yLKnpr7Vu8tIXDSLCKS8"
+      "duration_ms": 264373,
+      "name": "Ele Chegou",
+      "url": "https://open.spotify.com/track/6czsbtcl0WM4v9ZQxtUNvL"
     },
     {
       "added_at": "2026-03-02 15:13:25",
@@ -1419,22 +1435,6 @@
       "duration_ms": 325986,
       "name": "Casinha",
       "url": "https://open.spotify.com/track/4JQBhlLb8HtfbcxkgW32Cq"
-    },
-    {
-      "added_at": "2026-03-02 15:13:25",
-      "album": {
-        "name": "Ele Chegou",
-        "url": "https://open.spotify.com/album/7bcEptglfy57a0Amos1PXx"
-      },
-      "artists": [
-        {
-          "name": "Thalita Roberta",
-          "url": "https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "Ele Chegou",
-      "url": "https://open.spotify.com/track/6czsbtcl0WM4v9ZQxtUNvL"
     },
     {
       "added_at": "2026-03-02 15:13:25",

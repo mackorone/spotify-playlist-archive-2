@@ -1,29 +1,13 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 30638,
-  "original_name": "LA LLISTA DE FLAIXBAC (29/03/2026)",
+  "num_followers": 30634,
+  "original_name": "LA LLISTA DE FLAIXBAC (5/04/2026)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AABBOvPBDjsLnsJWvg2h6WzRpYJo3Dkw",
+  "snapshot_id": "AABBWnGTXYsoXoOaOoRoFx+AlVzSXa7a",
   "tracks": [
-    {
-      "added_at": "2026-02-02 10:04:31",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
     {
       "added_at": "2026-01-26 10:11:13",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 182368,
       "name": "Tutu Tur\u00fa",
       "url": "https://open.spotify.com/track/0nMNmyhAnUSNNJ8YjzCnWA"
+    },
+    {
+      "added_at": "2026-02-02 10:04:31",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
       "added_at": "2026-01-07 09:45:06",
@@ -73,22 +73,6 @@
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
-      "added_at": "2025-12-18 12:06:21",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
       "added_at": "2026-02-18 11:55:57",
       "album": {
         "name": "Welcome to My Party",
@@ -103,6 +87,22 @@
       "duration_ms": 199853,
       "name": "Welcome to My Party",
       "url": "https://open.spotify.com/track/1xYxQINTENuqXEkunEmjdJ"
+    },
+    {
+      "added_at": "2025-12-18 12:06:21",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "added_at": "2026-01-21 12:58:07",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2025-12-18 12:08:49",
+      "added_at": "2026-02-18 11:56:13",
       "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+        "name": "NEXO 01. Me acuerdo de ti",
+        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
         }
       ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+      "duration_ms": 195279,
+      "name": "NEXO 01. Me acuerdo de ti",
+      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
     },
     {
       "added_at": "2025-12-18 12:01:19",
@@ -153,20 +153,20 @@
       "url": "https://open.spotify.com/track/23QWizOmPLSXiBIXtXBYEv"
     },
     {
-      "added_at": "2026-02-18 11:56:13",
+      "added_at": "2025-12-18 12:08:49",
       "album": {
-        "name": "NEXO 01. Me acuerdo de ti",
-        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 195279,
-      "name": "NEXO 01. Me acuerdo de ti",
-      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
       "added_at": "2025-12-18 12:03:41",
@@ -225,6 +225,58 @@
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     },
     {
+      "added_at": "2026-02-23 09:28:36",
+      "album": {
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
+    },
+    {
+      "added_at": "2026-03-23 11:34:11",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
+    },
+    {
+      "added_at": "2026-03-02 14:52:13",
+      "album": {
+        "name": "GR\u00c0CIES",
+        "url": "https://open.spotify.com/album/12pRJR1iID5vHVyP7eY4ve"
+      },
+      "artists": [
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+        }
+      ],
+      "duration_ms": 208128,
+      "name": "GR\u00c0CIES",
+      "url": "https://open.spotify.com/track/0pEOVHVyre2UtuQFDza4JY"
+    },
+    {
       "added_at": "2025-10-27 10:28:44",
       "album": {
         "name": "Gone Gone Gone",
@@ -281,22 +333,6 @@
       "url": "https://open.spotify.com/track/5Cp75TUMrHF6c8xbhdligS"
     },
     {
-      "added_at": "2026-02-23 09:28:36",
-      "album": {
-        "name": "Iconic",
-        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
-      },
-      "artists": [
-        {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Iconic",
-      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
-    },
-    {
       "added_at": "2025-11-11 09:05:42",
       "album": {
         "name": "CUARTO AZUL",
@@ -311,130 +347,6 @@
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
-    },
-    {
-      "added_at": "2026-01-26 10:10:18",
-      "album": {
-        "name": "PECAT ORIGINAL",
-        "url": "https://open.spotify.com/album/5fEU24jwGH12gEd8YmLUU8"
-      },
-      "artists": [
-        {
-          "name": "NAINA",
-          "url": "https://open.spotify.com/artist/7gRLhBBDqymilvP1W2GIqR"
-        },
-        {
-          "name": "Figa Flawas",
-          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
-        }
-      ],
-      "duration_ms": 165898,
-      "name": "PECAT ORIGINAL",
-      "url": "https://open.spotify.com/track/7niTcci4hQxzcKrLUDoIOi"
-    },
-    {
-      "added_at": "2026-03-02 14:52:13",
-      "album": {
-        "name": "GR\u00c0CIES",
-        "url": "https://open.spotify.com/album/12pRJR1iID5vHVyP7eY4ve"
-      },
-      "artists": [
-        {
-          "name": "Buhos",
-          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
-        }
-      ],
-      "duration_ms": 208128,
-      "name": "GR\u00c0CIES",
-      "url": "https://open.spotify.com/track/0pEOVHVyre2UtuQFDza4JY"
-    },
-    {
-      "added_at": "2026-02-02 10:04:48",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-03-23 11:39:24",
-      "album": {
-        "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
-        "url": "https://open.spotify.com/album/4wuC0kVrCS4zlTl3XhtErb"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 193502,
-      "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
-      "url": "https://open.spotify.com/track/5lu4L7DP5K8h8XIZuqnUWn"
-    },
-    {
-      "added_at": "2025-11-11 09:07:20",
-      "album": {
-        "name": "Les coses senzilles",
-        "url": "https://open.spotify.com/album/7EinOsZgevDQ4JW12T6QRv"
-      },
-      "artists": [
-        {
-          "name": "Ginest\u00e0",
-          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
-        }
-      ],
-      "duration_ms": 157144,
-      "name": "Les coses senzilles",
-      "url": "https://open.spotify.com/track/5IrVPyWtWTvlu0e6WRr3jC"
-    },
-    {
-      "added_at": "2026-03-09 09:21:27",
-      "album": {
-        "name": "Fabulous",
-        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
-      },
-      "artists": [
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 153351,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
-    },
-    {
-      "added_at": "2025-11-11 09:09:07",
-      "album": {
-        "name": "Stay (If You Wanna Dance)",
-        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 185999,
-      "name": "Stay (If You Wanna Dance)",
-      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
     },
     {
       "added_at": "2026-03-23 11:33:15",
@@ -461,76 +373,20 @@
       "url": "https://open.spotify.com/track/6jGPtl4cmJc9ee2S5KtjWF"
     },
     {
-      "added_at": "2026-03-23 11:34:11",
+      "added_at": "2026-03-09 09:21:27",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
+        "name": "Fabulous",
+        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
         }
       ],
-      "duration_ms": 174400,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
-    },
-    {
-      "added_at": "2025-10-07 08:50:25",
-      "album": {
-        "name": "Guap\u00edssima",
-        "url": "https://open.spotify.com/album/3u0gveddvcgOqAucrloaGz"
-      },
-      "artists": [
-        {
-          "name": "Banda Neon",
-          "url": "https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU"
-        }
-      ],
-      "duration_ms": 127276,
-      "name": "Guap\u00edssima",
-      "url": "https://open.spotify.com/track/6yXfa5OsSJc1Tp0drOmEKE"
-    },
-    {
-      "added_at": "2025-12-22 11:49:17",
-      "album": {
-        "name": "SAVE MY SOUL",
-        "url": "https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 237370,
-      "name": "SAVE MY SOUL",
-      "url": "https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv"
-    },
-    {
-      "added_at": "2026-02-09 10:29:39",
-      "album": {
-        "name": "Sad Song (feat. Gabrielle)",
-        "url": "https://open.spotify.com/album/1dCCRucKvx0O6pbAABFj3E"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        },
-        {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        }
-      ],
-      "duration_ms": 165880,
-      "name": "Sad Song (feat. Gabrielle)",
-      "url": "https://open.spotify.com/track/0Pmyd3LBTdwD5UbqiORoaj"
+      "duration_ms": 153351,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
     },
     {
       "added_at": "2026-03-23 11:35:36",
@@ -553,58 +409,54 @@
       "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
     },
     {
-      "added_at": "2025-10-15 09:33:43",
+      "added_at": "2026-01-26 10:10:18",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "PECAT ORIGINAL",
+        "url": "https://open.spotify.com/album/5fEU24jwGH12gEd8YmLUU8"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "NAINA",
+          "url": "https://open.spotify.com/artist/7gRLhBBDqymilvP1W2GIqR"
+        },
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+      "duration_ms": 165898,
+      "name": "PECAT ORIGINAL",
+      "url": "https://open.spotify.com/track/7niTcci4hQxzcKrLUDoIOi"
     },
     {
-      "added_at": "2026-02-23 09:29:29",
+      "added_at": "2026-03-23 11:39:24",
       "album": {
-        "name": "Els ulls que et mirin",
-        "url": "https://open.spotify.com/album/1XsnXQGHn8w6GFfLFd5fUn"
+        "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
+        "url": "https://open.spotify.com/album/4wuC0kVrCS4zlTl3XhtErb"
       },
       "artists": [
         {
-          "name": "Sexenni",
-          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
-        }
-      ],
-      "duration_ms": 162263,
-      "name": "Els ulls que et mirin",
-      "url": "https://open.spotify.com/track/3QMHVZiRo6PKSTY8bAqH6t"
-    },
-    {
-      "added_at": "2026-01-07 09:49:39",
-      "album": {
-        "name": "American Heart",
-        "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
-      },
-      "artists": [
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 190320,
-      "name": "Mr Electric Blue",
-      "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
+      "duration_ms": 193502,
+      "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
+      "url": "https://open.spotify.com/track/5lu4L7DP5K8h8XIZuqnUWn"
     },
     {
-      "added_at": "2026-03-23 11:36:07",
+      "added_at": "2026-02-02 10:04:48",
       "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
       },
       "artists": [
         {
@@ -612,25 +464,25 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 213440,
-      "name": "American Girls",
-      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
-      "added_at": "2026-02-02 10:03:38",
+      "added_at": "2025-11-11 09:09:07",
       "album": {
-        "name": "Fruit del Deliri",
-        "url": "https://open.spotify.com/album/1t6Jah2zqajQcbbSMd5gHj"
+        "name": "Stay (If You Wanna Dance)",
+        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
       },
       "artists": [
         {
-          "name": "Oques Grasses",
-          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 158954,
-      "name": "C\u00d3RRER PELS CAMPS",
-      "url": "https://open.spotify.com/track/5MUkMnWbFJ2eONjQuk7tx2"
+      "duration_ms": 185999,
+      "name": "Stay (If You Wanna Dance)",
+      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
     },
     {
       "added_at": "2026-03-31 07:58:44",
@@ -653,68 +505,120 @@
       "url": "https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ"
     },
     {
-      "added_at": "2025-09-15 10:52:44",
+      "added_at": "2025-11-11 09:07:20",
       "album": {
-        "name": "The Dead Dance",
-        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+        "name": "Les coses senzilles",
+        "url": "https://open.spotify.com/album/7EinOsZgevDQ4JW12T6QRv"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
         }
       ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+      "duration_ms": 157144,
+      "name": "Les coses senzilles",
+      "url": "https://open.spotify.com/track/5IrVPyWtWTvlu0e6WRr3jC"
     },
     {
-      "added_at": "2026-02-18 11:56:31",
+      "added_at": "2026-03-23 11:36:07",
       "album": {
-        "name": "Don't Worry",
-        "url": "https://open.spotify.com/album/0OmxbEqS8d7KT9lEOVAHrK"
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/57byShO7NhqiVlRLvmbPyM"
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
     },
     {
-      "added_at": "2026-03-23 11:40:17",
+      "added_at": "2025-12-22 11:49:17",
       "album": {
-        "name": "L\u00e1rgate",
-        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
+        "name": "SAVE MY SOUL",
+        "url": "https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 180074,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
+      "duration_ms": 237370,
+      "name": "SAVE MY SOUL",
+      "url": "https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv"
     },
     {
-      "added_at": "2026-03-09 09:21:49",
+      "added_at": "2025-10-07 08:50:25",
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/3KKJoT6tNPim5qVaYJo5Vt"
+        "name": "Guap\u00edssima",
+        "url": "https://open.spotify.com/album/3u0gveddvcgOqAucrloaGz"
       },
       "artists": [
         {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+          "name": "Banda Neon",
+          "url": "https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU"
         }
       ],
-      "duration_ms": 201020,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/6KAuMK88tUCw9kUrzXzaAL"
+      "duration_ms": 127276,
+      "name": "Guap\u00edssima",
+      "url": "https://open.spotify.com/track/6yXfa5OsSJc1Tp0drOmEKE"
+    },
+    {
+      "added_at": "2025-10-15 09:33:43",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-02-09 10:29:39",
+      "album": {
+        "name": "Sad Song (feat. Gabrielle)",
+        "url": "https://open.spotify.com/album/1dCCRucKvx0O6pbAABFj3E"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        },
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "duration_ms": 165880,
+      "name": "Sad Song (feat. Gabrielle)",
+      "url": "https://open.spotify.com/track/0Pmyd3LBTdwD5UbqiORoaj"
+    },
+    {
+      "added_at": "2026-02-23 09:29:29",
+      "album": {
+        "name": "Els ulls que et mirin",
+        "url": "https://open.spotify.com/album/1XsnXQGHn8w6GFfLFd5fUn"
+      },
+      "artists": [
+        {
+          "name": "Sexenni",
+          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
+        }
+      ],
+      "duration_ms": 162263,
+      "name": "Els ulls que et mirin",
+      "url": "https://open.spotify.com/track/3QMHVZiRo6PKSTY8bAqH6t"
     },
     {
       "added_at": "2026-03-31 07:59:05",
@@ -737,52 +641,20 @@
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
-      "added_at": "2025-04-15 14:19:44",
+      "added_at": "2026-01-07 09:49:39",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+        "name": "American Heart",
+        "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2026-03-31 07:59:17",
-      "album": {
-        "name": "no sta mal",
-        "url": "https://open.spotify.com/album/1t4zSbwhZ0R4YWl3CxrgVg"
-      },
-      "artists": [
-        {
-          "name": "guillembautista",
-          "url": "https://open.spotify.com/artist/4aMz9dbnuj9prr7EkFnf2r"
-        }
-      ],
-      "duration_ms": 149706,
-      "name": "no sta mal",
-      "url": "https://open.spotify.com/track/42IZ43xd4Utj3dz5sAAJwP"
-    },
-    {
-      "added_at": "2026-03-23 11:37:26",
-      "album": {
-        "name": "Raps\u00f2dia del teu cos",
-        "url": "https://open.spotify.com/album/5P72lMQxkOUTg7kk0Fm4Tt"
-      },
-      "artists": [
-        {
-          "name": "Diana Murr",
-          "url": "https://open.spotify.com/artist/4qhEWD7O6ccYc5qARJmNXe"
-        }
-      ],
-      "duration_ms": 189406,
-      "name": "Raps\u00f2dia del teu cos",
-      "url": "https://open.spotify.com/track/0J2kQXNmZBLNUu7UmjFufw"
+      "duration_ms": 190320,
+      "name": "Mr Electric Blue",
+      "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
     },
     {
       "added_at": "2026-03-31 07:59:38",
@@ -803,8 +675,140 @@
       "duration_ms": 127680,
       "name": "Dorayakis",
       "url": "https://open.spotify.com/track/531muL88wgzZPwqRD4eXmJ"
+    },
+    {
+      "added_at": "2026-02-02 10:03:38",
+      "album": {
+        "name": "Fruit del Deliri",
+        "url": "https://open.spotify.com/album/1t6Jah2zqajQcbbSMd5gHj"
+      },
+      "artists": [
+        {
+          "name": "Oques Grasses",
+          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
+        }
+      ],
+      "duration_ms": 158954,
+      "name": "C\u00d3RRER PELS CAMPS",
+      "url": "https://open.spotify.com/track/5MUkMnWbFJ2eONjQuk7tx2"
+    },
+    {
+      "added_at": "2026-03-09 09:21:49",
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/3KKJoT6tNPim5qVaYJo5Vt"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 201020,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/6KAuMK88tUCw9kUrzXzaAL"
+    },
+    {
+      "added_at": "2025-09-15 10:52:44",
+      "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "added_at": "2026-03-31 07:59:17",
+      "album": {
+        "name": "no sta mal",
+        "url": "https://open.spotify.com/album/1t4zSbwhZ0R4YWl3CxrgVg"
+      },
+      "artists": [
+        {
+          "name": "guillembautista",
+          "url": "https://open.spotify.com/artist/4aMz9dbnuj9prr7EkFnf2r"
+        }
+      ],
+      "duration_ms": 149706,
+      "name": "no sta mal",
+      "url": "https://open.spotify.com/track/42IZ43xd4Utj3dz5sAAJwP"
+    },
+    {
+      "added_at": "2026-04-07 09:13:16",
+      "album": {
+        "name": "Perdre el cap",
+        "url": "https://open.spotify.com/album/3sGZHfIJQD4UkPiUHfd0ST"
+      },
+      "artists": [
+        {
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+        }
+      ],
+      "duration_ms": 154340,
+      "name": "Perdre el cap",
+      "url": "https://open.spotify.com/track/0y5LTiNgYzGXTzPVFTQSko"
+    },
+    {
+      "added_at": "2026-03-23 11:37:26",
+      "album": {
+        "name": "Raps\u00f2dia del teu cos",
+        "url": "https://open.spotify.com/album/5P72lMQxkOUTg7kk0Fm4Tt"
+      },
+      "artists": [
+        {
+          "name": "Diana Murr",
+          "url": "https://open.spotify.com/artist/4qhEWD7O6ccYc5qARJmNXe"
+        }
+      ],
+      "duration_ms": 189406,
+      "name": "Raps\u00f2dia del teu cos",
+      "url": "https://open.spotify.com/track/0J2kQXNmZBLNUu7UmjFufw"
+    },
+    {
+      "added_at": "2026-04-07 09:13:26",
+      "album": {
+        "name": "Tothom t\u00e9 ra\u00f3",
+        "url": "https://open.spotify.com/album/0FJcGAmhKdmB6DteGKxG0Q"
+      },
+      "artists": [
+        {
+          "name": "Mama Dousha",
+          "url": "https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN"
+        },
+        {
+          "name": "Scotty DK",
+          "url": "https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo"
+        }
+      ],
+      "duration_ms": 140746,
+      "name": "Nanana",
+      "url": "https://open.spotify.com/track/2YWsm7QJo8w1AVfnr2Ftmc"
+    },
+    {
+      "added_at": "2026-03-23 11:40:17",
+      "album": {
+        "name": "L\u00e1rgate",
+        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 180074,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (29/03/2026)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (5/04/2026)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

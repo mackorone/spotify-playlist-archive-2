@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Tuyo",
-  "num_followers": 356010,
+  "num_followers": 356014,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
-        "name": "Bossa Sempre Nova",
-        "url": "https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        }
-      ],
-      "duration_ms": 234950,
-      "name": "Um Pouco de Mim",
-      "url": "https://open.spotify.com/track/53OZRiDh8xAQZ0F0B8LRS1"
-    },
-    {
-      "added_at": "2026-04-06 13:42:28",
-      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -319,22 +299,22 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
-        "name": "Coisas de Viver",
-        "url": "https://open.spotify.com/album/7h9n5SheG6PtHIOFjfPkYg"
+        "name": "Bossa Sempre Nova",
+        "url": "https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
         }
       ],
-      "duration_ms": 173915,
-      "name": "Coisas de Viver",
-      "url": "https://open.spotify.com/track/0aXfJykpgdZIZ1Rgr278Pr"
+      "duration_ms": 234950,
+      "name": "Um Pouco de Mim",
+      "url": "https://open.spotify.com/track/53OZRiDh8xAQZ0F0B8LRS1"
     },
     {
       "added_at": "2026-04-06 13:42:28",
@@ -351,6 +331,26 @@
       "duration_ms": 250000,
       "name": "Infinito em n\u00f3s",
       "url": "https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT"
+    },
+    {
+      "added_at": "2026-04-06 13:42:28",
+      "album": {
+        "name": "Coisas de Viver",
+        "url": "https://open.spotify.com/album/7h9n5SheG6PtHIOFjfPkYg"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 173915,
+      "name": "Coisas de Viver",
+      "url": "https://open.spotify.com/track/0aXfJykpgdZIZ1Rgr278Pr"
     },
     {
       "added_at": "2026-04-06 13:42:28",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
+        "name": "Nas Profundezas Da Onda",
+        "url": "https://open.spotify.com/album/0zZ2e0o5U9dizYJip1Fcxc"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 183411,
+      "name": "Cabulosa",
+      "url": "https://open.spotify.com/track/57LqclS3RQIVzpvmjJPs56"
+    },
+    {
+      "added_at": "2026-04-06 13:42:28",
+      "album": {
         "name": "\u00c2nima",
         "url": "https://open.spotify.com/album/3MnVyMkVVuIw3oXUGsQCMh"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 242000,
       "name": "MINHA FLOR",
       "url": "https://open.spotify.com/track/2pN0iVbrmmja8zlJne0fvS"
-    },
-    {
-      "added_at": "2026-04-06 13:42:28",
-      "album": {
-        "name": "Nas Profundezas Da Onda",
-        "url": "https://open.spotify.com/album/0zZ2e0o5U9dizYJip1Fcxc"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 183411,
-      "name": "Cabulosa",
-      "url": "https://open.spotify.com/track/57LqclS3RQIVzpvmjJPs56"
     },
     {
       "added_at": "2026-04-06 13:42:28",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
+        "name": "Afim De Ver\u00e3o",
+        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 300567,
+      "name": "Afim De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
+    },
+    {
+      "added_at": "2026-04-06 13:42:28",
+      "album": {
         "name": "Desassossego",
         "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
@@ -791,18 +807,22 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
-        "name": "Afim De Ver\u00e3o",
-        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
+        "name": "Da Mesma Mat\u00e9ria",
+        "url": "https://open.spotify.com/album/5MTzGyUuyasjq7q2387za6"
       },
       "artists": [
         {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+          "name": "R\u00ea Gugli",
+          "url": "https://open.spotify.com/artist/4i61oiNj2OuvVp2wMvZxp8"
+        },
+        {
+          "name": "N\u00cdCCOLO",
+          "url": "https://open.spotify.com/artist/3Zvh3iidBzCYNwldU46HWQ"
         }
       ],
-      "duration_ms": 300567,
-      "name": "Afim De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
+      "duration_ms": 172627,
+      "name": "Da Mesma Mat\u00e9ria",
+      "url": "https://open.spotify.com/track/4En42mLgcoo3lSAOUxIWUY"
     },
     {
       "added_at": "2026-04-06 13:42:28",
@@ -847,26 +867,6 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
-        "name": "Da Mesma Mat\u00e9ria",
-        "url": "https://open.spotify.com/album/5MTzGyUuyasjq7q2387za6"
-      },
-      "artists": [
-        {
-          "name": "R\u00ea Gugli",
-          "url": "https://open.spotify.com/artist/4i61oiNj2OuvVp2wMvZxp8"
-        },
-        {
-          "name": "N\u00cdCCOLO",
-          "url": "https://open.spotify.com/artist/3Zvh3iidBzCYNwldU46HWQ"
-        }
-      ],
-      "duration_ms": 172627,
-      "name": "Da Mesma Mat\u00e9ria",
-      "url": "https://open.spotify.com/track/4En42mLgcoo3lSAOUxIWUY"
-    },
-    {
-      "added_at": "2026-04-06 13:42:28",
-      "album": {
         "name": "Outra Ladeira",
         "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
       },
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
+        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
+        "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 223421,
+      "name": "Saudades, Elder",
+      "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
+    },
+    {
+      "added_at": "2026-04-06 13:42:28",
+      "album": {
         "name": "Pupillo",
         "url": "https://open.spotify.com/album/2oOKYjxPF5C3gvWDAugzqn"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 189019,
       "name": "Fealh\u00e1",
       "url": "https://open.spotify.com/track/3sb1yYFxHuPNWDBH499Ut4"
-    },
-    {
-      "added_at": "2026-04-06 13:42:28",
-      "album": {
-        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
-        "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Saudades, Elder",
-      "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
     },
     {
       "added_at": "2026-04-06 13:42:28",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
+        "name": "Samba e Amor",
+        "url": "https://open.spotify.com/album/094jwaXbLmTxQREPKoUdZq"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Suplicy",
+          "url": "https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Samba e Amor",
+      "url": "https://open.spotify.com/track/3PyuQLIu4gJab3PEgCKauq"
+    },
+    {
+      "added_at": "2026-04-06 13:42:28",
+      "album": {
         "name": "Beleza",
         "url": "https://open.spotify.com/album/5cntHecIHsUxVDDPUjFrhg"
       },
@@ -1291,26 +1311,6 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
-        "name": "Samba e Amor",
-        "url": "https://open.spotify.com/album/094jwaXbLmTxQREPKoUdZq"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Suplicy",
-          "url": "https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Samba e Amor",
-      "url": "https://open.spotify.com/track/3PyuQLIu4gJab3PEgCKauq"
-    },
-    {
-      "added_at": "2026-04-06 13:42:28",
-      "album": {
         "name": "Libido da Alma",
         "url": "https://open.spotify.com/album/5I4WDX1OB6NPIPYbsv2DoX"
       },
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
+        "name": "M\u00e3e",
+        "url": "https://open.spotify.com/album/4yu7oYdkb7y6Z1tQosW1yq"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 224060,
+      "name": "M\u00e3e",
+      "url": "https://open.spotify.com/track/6imUMThATsFFXljYTuWPso"
+    },
+    {
+      "added_at": "2026-04-06 13:42:28",
+      "album": {
         "name": "Fico a Fim",
         "url": "https://open.spotify.com/album/6dSfLJ8KK1jMi26mPdWT7Y"
       },
@@ -1359,6 +1375,30 @@
       "duration_ms": 190000,
       "name": "Fico a Fim",
       "url": "https://open.spotify.com/track/2skXQTeaAMYZdI3JHFX2Jc"
+    },
+    {
+      "added_at": "2026-04-06 13:42:28",
+      "album": {
+        "name": "Desculpe o Au\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        },
+        {
+          "name": "Andr\u00e9 Whoong",
+          "url": "https://open.spotify.com/artist/1ZxKO0ur2O9gH35FV89coV"
+        },
+        {
+          "name": "Bona",
+          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
+        }
+      ],
+      "duration_ms": 213536,
+      "name": "Desculpe o Au\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wHOXgPbLgsrdDf60hsJy7"
     },
     {
       "added_at": "2026-04-06 13:42:28",
@@ -1399,30 +1439,6 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
-        "name": "Desculpe o Au\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        },
-        {
-          "name": "Andr\u00e9 Whoong",
-          "url": "https://open.spotify.com/artist/1ZxKO0ur2O9gH35FV89coV"
-        },
-        {
-          "name": "Bona",
-          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
-        }
-      ],
-      "duration_ms": 213536,
-      "name": "Desculpe o Au\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wHOXgPbLgsrdDf60hsJy7"
-    },
-    {
-      "added_at": "2026-04-06 13:42:28",
-      "album": {
         "name": "Transbordante",
         "url": "https://open.spotify.com/album/4cv6LPMnDwnq5UuJ5NTp92"
       },
@@ -1459,38 +1475,6 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
-        "name": "M\u00e3e",
-        "url": "https://open.spotify.com/album/4yu7oYdkb7y6Z1tQosW1yq"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 224060,
-      "name": "M\u00e3e",
-      "url": "https://open.spotify.com/track/6imUMThATsFFXljYTuWPso"
-    },
-    {
-      "added_at": "2026-04-06 13:42:28",
-      "album": {
-        "name": "F\u00e3 do Sandu\u00edche",
-        "url": "https://open.spotify.com/album/5PETN41VqMG3tnOA5cq4Bm"
-      },
-      "artists": [
-        {
-          "name": "Hyldon",
-          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
-        }
-      ],
-      "duration_ms": 363104,
-      "name": "F\u00e3 do Sandu\u00edche",
-      "url": "https://open.spotify.com/track/4nydrqDPi38BDY3XqWFoIo"
-    },
-    {
-      "added_at": "2026-04-06 13:42:28",
-      "album": {
         "name": "Cartas de Amor - Vol 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kdArHM1ssoWk6mNKsgP9Z"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 169668,
       "name": "A Noite do Meu Bem - Ao Vivo",
       "url": "https://open.spotify.com/track/3kwREOYVZ8vbrwKHkQJeoh"
+    },
+    {
+      "added_at": "2026-04-06 13:42:28",
+      "album": {
+        "name": "F\u00e3 do Sandu\u00edche",
+        "url": "https://open.spotify.com/album/5PETN41VqMG3tnOA5cq4Bm"
+      },
+      "artists": [
+        {
+          "name": "Hyldon",
+          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
+        }
+      ],
+      "duration_ms": 363104,
+      "name": "F\u00e3 do Sandu\u00edche",
+      "url": "https://open.spotify.com/track/4nydrqDPi38BDY3XqWFoIo"
     },
     {
       "added_at": "2026-04-06 13:42:28",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-04-06 13:42:28",
       "album": {
+        "name": "Ponteio",
+        "url": "https://open.spotify.com/album/1QikW9TjtBP3uRLbuoiK7V"
+      },
+      "artists": [
+        {
+          "name": "Chico Lobo",
+          "url": "https://open.spotify.com/artist/2nrIUZL2GjOW8IegzHSmOZ"
+        }
+      ],
+      "duration_ms": 222877,
+      "name": "Ponteio",
+      "url": "https://open.spotify.com/track/1Wd3Pm0uPJQjsAqAQP6fWy"
+    },
+    {
+      "added_at": "2026-04-06 13:42:28",
+      "album": {
         "name": "Capit\u00e3o Kirk",
         "url": "https://open.spotify.com/album/5dthuR842CeJx8AnfMwHYL"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 189144,
       "name": "Capit\u00e3o Kirk",
       "url": "https://open.spotify.com/track/0nA7Gpcz8TrRGRtzwmBk4R"
-    },
-    {
-      "added_at": "2026-04-06 13:42:28",
-      "album": {
-        "name": "Ponteio",
-        "url": "https://open.spotify.com/album/1QikW9TjtBP3uRLbuoiK7V"
-      },
-      "artists": [
-        {
-          "name": "Chico Lobo",
-          "url": "https://open.spotify.com/artist/2nrIUZL2GjOW8IegzHSmOZ"
-        }
-      ],
-      "duration_ms": 222877,
-      "name": "Ponteio",
-      "url": "https://open.spotify.com/track/1Wd3Pm0uPJQjsAqAQP6fWy"
     },
     {
       "added_at": "2026-04-06 13:42:28",

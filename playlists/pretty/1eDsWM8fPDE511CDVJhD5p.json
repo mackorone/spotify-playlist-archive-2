@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAHBQI1rhISZPJXN6WO9CClsc1uYI2l",
+  "snapshot_id": "AAAHFAa2t3crYEoI0liY/olwvZDqNv4D",
   "tracks": [
+    {
+      "added_at": "2026-04-07 07:19:42",
+      "album": {
+        "name": "\u30a2\u30f3\u30d1\u30f3",
+        "url": "https://open.spotify.com/album/4nQduW5RJ6pA0dRRzXibAX"
+      },
+      "artists": [
+        {
+          "name": "ATOLS",
+          "url": "https://open.spotify.com/artist/1JiIdIqUZMFCPcZmTtSwLM"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 155742,
+      "name": "\u30a2\u30f3\u30d1\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7jcg6mkswZdiG2aGqSNl7z"
+    },
+    {
+      "added_at": "2026-04-07 07:19:55",
+      "album": {
+        "name": "Cozmique",
+        "url": "https://open.spotify.com/album/3967gIH3m0dunGAY52V3N7"
+      },
+      "artists": [
+        {
+          "name": "Aether_Eru",
+          "url": "https://open.spotify.com/artist/2zAd1RMV39OHXn4dTFw05M"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 180280,
+      "name": "\u5929\u661f\u30dc\u30e4\u30fc\u30b8\u30e5 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/77JWAvG7TUYjIBtHFYQ7Tv"
+    },
+    {
+      "added_at": "2026-04-07 07:20:05",
+      "album": {
+        "name": "\u30a6\u30bd\u306e\u304b\u306a\u3048\u304b\u305f",
+        "url": "https://open.spotify.com/album/1sz68yxbBjmVoXDP7c8Lis"
+      },
+      "artists": [
+        {
+          "name": "\u3056\u3093\u304e",
+          "url": "https://open.spotify.com/artist/4wDMrlrNQiBlMgsZBzGOhP"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 187535,
+      "name": "fibber (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/6PjFk5vI5bcYewWei9vrra"
+    },
+    {
+      "added_at": "2026-04-07 07:20:16",
+      "album": {
+        "name": "\u30bb\u30cb\u30e7\u30ea\u30fc\u3061\u3083\u7bc0",
+        "url": "https://open.spotify.com/album/7vjwm8kAdm0H5wpz0hNKUw"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30ad\u30b7\u30a6\u30ad\u30e7\u30a6",
+          "url": "https://open.spotify.com/artist/1FngzSsckjFKWwUgcxqTo1"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 106201,
+      "name": "\u30bb\u30cb\u30e7\u30ea\u30fc\u3061\u3083\u7bc0 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/3uWWzN4BFXOVpI643BYUHx"
+    },
+    {
+      "added_at": "2026-04-07 07:20:27",
+      "album": {
+        "name": "\u30c7\u30b3\u30df\u30af LIVE starring \u521d\u97f3\u30df\u30af\u300eHello\u300f",
+        "url": "https://open.spotify.com/album/7baxaElOHbWQiEDRZb1xsP"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 212186,
+      "name": "\u30d6\u30eb\u30fc\u30d7\u30e9\u30cd\u30c3\u30c8 -Hello ver.-",
+      "url": "https://open.spotify.com/track/0CpYAsU6gpJzKoWZKu9WHT"
+    },
     {
       "added_at": "2026-03-31 07:52:25",
       "album": {
@@ -711,122 +807,6 @@
       "duration_ms": 250229,
       "name": "\u661f\u5c51\u30b8\u30a7\u30c3\u30c8\u30b3\u30fc\u30b9\u30bf\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/17wsc1WXzDNb2IPXSfiZPK"
-    },
-    {
-      "added_at": "2026-02-03 08:25:45",
-      "album": {
-        "name": "\u30e9\u30c3\u30ad\u30fc\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/0djqedYhHwkePO2iOcBy0O"
-      },
-      "artists": [
-        {
-          "name": "zensen",
-          "url": "https://open.spotify.com/artist/5trj63qImDLUvvOq0tDHEJ"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "\u30e9\u30c3\u30ad\u30fc\u30b9\u30bf\u30fc (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/0d9BVoXNinYTDshzUmuJdx"
-    },
-    {
-      "added_at": "2026-02-03 08:25:58",
-      "album": {
-        "name": "Diva!!",
-        "url": "https://open.spotify.com/album/5HP1uC0cgIJQehXsa1J7CT"
-      },
-      "artists": [
-        {
-          "name": "\u3081\u308d\u304f\u308b",
-          "url": "https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 211452,
-      "name": "Diva!! (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/39veObsd7E73r9nBB7aC56"
-    },
-    {
-      "added_at": "2026-02-03 08:26:15",
-      "album": {
-        "name": "PRIMAL CORE",
-        "url": "https://open.spotify.com/album/37fBfCiGjazLYZq3DkmnY9"
-      },
-      "artists": [
-        {
-          "name": "\u3046\u3089\u307f\u7b2c\u4e8c\u5f62\u614b",
-          "url": "https://open.spotify.com/artist/3mbiub5aHkMuzIZDIQX3IZ"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Ember Within (feat. \u5de1\u97f3\u30eb\u30ab&\u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6qK8oj0PefXjcgwLDs21re"
-    },
-    {
-      "added_at": "2026-02-03 08:26:27",
-      "album": {
-        "name": "\u6050\u6016\uff01\u9ebb\u8fa3\u6e6f\u5973\u73fe\u308b",
-        "url": "https://open.spotify.com/album/5h5DreUy91jTTipynWtRW8"
-      },
-      "artists": [
-        {
-          "name": "\u97f3\u7121\u3042\u3075",
-          "url": "https://open.spotify.com/artist/0QmUdf76MlIoeCTxtOjioO"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 101189,
-      "name": "\u6050\u6016\uff01\u9ebb\u8fa3\u6e6f\u5973\u73fe\u308b (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/2rLJW9zisopFxJ95tsCIiw"
-    },
-    {
-      "added_at": "2026-02-03 08:26:40",
-      "album": {
-        "name": "\u30af\u30ea\u30fc\u30c1\u30e3\u30fc",
-        "url": "https://open.spotify.com/album/6h9h5gM5oWAIezyeKaiQVr"
-      },
-      "artists": [
-        {
-          "name": "32ki",
-          "url": "https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX"
-        },
-        {
-          "name": "\u5927\u6f20\u6ce2\u65b0",
-          "url": "https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h"
-        },
-        {
-          "name": "\u5409\u7530\u591c\u4e16",
-          "url": "https://open.spotify.com/artist/524H5UaRyH47rXMmdX5HbS"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "\u30af\u30ea\u30fc\u30c1\u30e3\u30fc (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/0po1asEzTLc8ZMWisp6UfJ"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

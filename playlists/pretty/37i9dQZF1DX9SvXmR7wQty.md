@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Classe Moyenne
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,613 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,620 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GRACIAS \(feat\. benjamiin, King Melrose & Justin Roy\)](https://open.spotify.com/track/72yq1Q5f9FsXGDMWKLH1oq) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y), [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [GRACIAS \(feat\. benjamiin, King Melrose & Justin Roy\)](https://open.spotify.com/album/0UDYAVLhXNfRHYhpN0Joxn) | 2:42 |
-| 2 | [C'est l'heure](https://open.spotify.com/track/6dTpJEVEj3Aeto2Pe6hDy0) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [C'est l'heure](https://open.spotify.com/album/5pLa5PUaJzfACm1Qg4RT9e) | 4:19 |
+| 1 | [C'est l'heure](https://open.spotify.com/track/6dTpJEVEj3Aeto2Pe6hDy0) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [C'est l'heure](https://open.spotify.com/album/5pLa5PUaJzfACm1Qg4RT9e) | 4:19 |
+| 2 | [GRACIAS \(feat\. benjamiin, King Melrose & Justin Roy\)](https://open.spotify.com/track/72yq1Q5f9FsXGDMWKLH1oq) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y), [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [GRACIAS \(feat\. benjamiin, King Melrose & Justin Roy\)](https://open.spotify.com/album/0UDYAVLhXNfRHYhpN0Joxn) | 2:42 |
 | 3 | [GIRLFRIEND](https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [GIRLFRIEND](https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy) | 4:19 |
 | 4 | [Dans l’temps](https://open.spotify.com/track/1vFup6NBDo6yL5ubgErCo9) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Dans l’temps](https://open.spotify.com/album/4kyxM6cCGRQFRDfHxik3gn) | 3:07 |
 | 5 | [Problème \(feat\. La Fouine\)](https://open.spotify.com/track/4xwa2sVbOq5WEeW998mzk9) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 2:42 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 98 | [t'attends quoi?](https://open.spotify.com/track/7DiXZN0Y42f4t4vBieWlAn) | [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [t'attends quoi?](https://open.spotify.com/album/7wzsIgkmUEInaQDUwzYcwQ) | 3:08 |
 | 99 | [Môman](https://open.spotify.com/track/2zY8DPyNFrHagmHMGofiR3) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Môman](https://open.spotify.com/album/7bGPKtQY5QDTPvsZ5sUMYe) | 2:58 |
 
-Snapshot ID: `AAAAAO2KXYqHCALGsO3dU7/gEu51b016`
+Snapshot ID: `AAAAAFjOdPq2hJKsHP5iZs6abRSDkpqE`

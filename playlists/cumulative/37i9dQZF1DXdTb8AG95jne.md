@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 한로로\(HANRORO\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,307 songs - 3 day 7 hr 1 min
+1,308 songs - 3 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Green we shared](https://open.spotify.com/track/4Qqd4mzQzVGpvPrzq3Dtn8) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Green we shared](https://open.spotify.com/album/22NNNFWoomy7QanPqnkKwr) | 3:39 | 2025-05-13 | 2025-05-23 |
 | [Greeting](https://open.spotify.com/track/0PuAO3tjHQmjT8ezdeTzqb) | [Room306](https://open.spotify.com/artist/7ENWxUjyJ2dMkhA6M0JXH3) | [Leaving](https://open.spotify.com/album/6HlWclGfDBveITmU7xcrHT) | 3:18 | 2025-11-10 | 2026-01-22 |
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-10 | 2025-07-30 |
-| [Guilty Pleasure](https://open.spotify.com/track/3CKGadinrCqXMJf5He0jvO) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [Guilty Pleasure](https://open.spotify.com/album/7B7ObKObjIkOhRxcUOrv0y) | 3:02 | 2026-02-20 |  |
+| [Guilty Pleasure](https://open.spotify.com/track/3CKGadinrCqXMJf5He0jvO) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [Guilty Pleasure](https://open.spotify.com/album/7B7ObKObjIkOhRxcUOrv0y) | 3:02 | 2026-02-20 | 2026-04-08 |
 | [Guitar Pick](https://open.spotify.com/track/3RZwNqLYaZInBhnWmRiHBD) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [M3MI](https://open.spotify.com/album/58oTIGEYaR2zXeDNxgIG8K) | 2:28 | 2023-12-12 | 2023-12-19 |
 | [Gut Feeling](https://open.spotify.com/track/2sB6NQ3hZIbbXkk6Wz0JZZ) | [Boo So\-jeong](https://open.spotify.com/artist/1hpGzIEQidijpOaREckGXH) | [Gut Feeling](https://open.spotify.com/album/0xhhDrQFca3Zfr1aUg6QTk) | 2:51 | 2025-07-29 | 2025-09-02 |
 | [GYEONG](https://open.spotify.com/track/2GzQoLY9dtkfdIZFNhn9RI) | [saeneok](https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL) | [GYEONG](https://open.spotify.com/album/3xjvLLvqETukRNPTeC2y84) | 4:29 | 2025-08-11 | 2025-09-03 |
@@ -624,6 +624,7 @@
 | [Light \(Feat\. Junguk\)](https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp) | [minzunki](https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65), [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [Light \(Feat\. Junguk\)](https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5) | 3:49 | 2024-04-30 | 2024-05-10 |
 | [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 | 2021-12-21 | 2025-08-27 |
 | [Like A Bird](https://open.spotify.com/track/6gFIpK79s3aMiJM2riCNw5) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [Like A Bird](https://open.spotify.com/album/6cQzqYWaTGg6VLbb435eNg) | 3:00 | 2025-01-15 | 2025-03-15 |
+| [Like a Bird, Like a Fish](https://open.spotify.com/track/4xpfEYzoPiUC5nO5swt9bk) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Like a Bird, Like a Fish](https://open.spotify.com/album/2LSXBO9G6hE7ZYrnOCATX7) | 3:36 | 2026-04-07 |  |
 | [Like me, Love me, and](https://open.spotify.com/track/6nTdhFncoiNoJ0eCSoI3s1) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Love me please](https://open.spotify.com/album/4SYPc5CQpm9ER2mzBNGYsi) | 3:52 | 2025-12-04 | 2026-01-27 |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-06 |
 | [Like the Sea, Like the River](https://open.spotify.com/track/4qZvldWN1IT5Y2rZ2QYbJX) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Like the Sea, Like the River](https://open.spotify.com/album/0nbyji1ac3ZqZ3aDFDirod) | 4:09 | 2025-11-19 | 2026-01-19 |

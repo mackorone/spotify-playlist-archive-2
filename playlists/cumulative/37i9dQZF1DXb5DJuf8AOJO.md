@@ -4,7 +4,7 @@
 
 > Lift our voices to Him.
 
-296 songs - 18 hr 13 min
+297 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Jesus On The Cross](https://open.spotify.com/track/2klQB15ltzbLQb59x9XlS4) | [Rey Malipot](https://open.spotify.com/artist/6Y0rHPNM6uy3XQlzkAeDTu), [John Lorenz Patrick Francisco](https://open.spotify.com/artist/0Nun3PLLUozTLM8kRR1Uws) | [Jesus On The Cross](https://open.spotify.com/album/4eiibJ82agqS03Up9dcbsK) | 3:29 | 2023-05-27 | 2024-04-19 |
 | [Jesus On The Cross](https://open.spotify.com/track/775Ooz8VOaLuGHzkP1j6nW) | [Rey Malipot](https://open.spotify.com/artist/6Y0rHPNM6uy3XQlzkAeDTu), [John Lorenz Patrick Francisco](https://open.spotify.com/artist/0Nun3PLLUozTLM8kRR1Uws) | [Jesus On The Cross](https://open.spotify.com/album/6wRJHfDJDe38t2h34KPlYE) | 3:29 | 2023-05-27 |  |
 | [Jesus, Thank You \- Choir Version](https://open.spotify.com/track/5x5YkRNv1ofhXR48DxQmVB) | [Revelation 418 Singers](https://open.spotify.com/artist/6zfYlr2sl6TLn8y87efCi7) | [Jesus, Thank You \(Choir Version\)](https://open.spotify.com/album/1iuSsKuHXUwNQFQK6n7z39) | 3:35 | 2024-10-24 |  |
+| [Jesus.](https://open.spotify.com/track/0DAOtS9xEQ20JuVofnjhDu) | [RJ dela Fuente](https://open.spotify.com/artist/3oIXl4ftiAjqCsGIfwt0BK) | [Jesus.](https://open.spotify.com/album/6P8xjQ2ethamQsh0Rc4vPD) | 5:16 | 2026-04-07 |  |
 | [Jubilee Song](https://open.spotify.com/track/0IoYNLSbUFhvHEpIpQC82X) | [Jamie Rivera](https://open.spotify.com/artist/4w9rFB4pUAUO3OloDQ6wn7) | [Best of Jamie Rivera](https://open.spotify.com/album/4nRMAFj340QaBqgU3O3cQd) | 3:49 | 2024-04-18 |  |
 | [Jubilee Song](https://open.spotify.com/track/2qOmFbOcM2LEwTF0JWUy9G) | [Jamie Rivera](https://open.spotify.com/artist/4w9rFB4pUAUO3OloDQ6wn7) | [Inspirations](https://open.spotify.com/album/2FBqVAaSwpSKKGs49UUkBE) | 3:49 | 2023-05-27 | 2024-04-19 |
 | [Kaganapan Ko](https://open.spotify.com/track/4HKLPEvVEj4MkST85DgU7H) | [Biyaya at Papuri](https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS) | [Kaganapan Ko](https://open.spotify.com/album/7nM0GpLe6ExcScCzheUbcP) | 3:48 | 2023-05-27 |  |

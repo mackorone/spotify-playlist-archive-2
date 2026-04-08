@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-259 songs - 12 hr 31 min
+260 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Healing Sea](https://open.spotify.com/track/4n5BmXTjGNof69csvvudV2) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Outside HD Samples](https://open.spotify.com/album/4YmuO6PMPy57kSKSCLqfG0) | 2:21 | 2021-11-11 |  |
 | [Heavy Ocean Waves](https://open.spotify.com/track/0AX42EvX4TiCnlEOf2Vm5G) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 1:59 | 2022-12-19 | 2023-06-20 |
 | [Heavy Oceans](https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 2:36 | 2021-11-11 |  |
-| [Heavy Surf \(Ocean\)](https://open.spotify.com/track/4D87RX5nrtFfNliH0NnRYO) | [Studio Sea](https://open.spotify.com/artist/7kgPaIcut7uVFeUMFsRs58) | [Are You Shore!](https://open.spotify.com/album/50sWTt0ezubv6gs3unhtJZ) | 2:48 | 2023-06-19 |  |
+| [Heavy Surf \(Ocean\)](https://open.spotify.com/track/4D87RX5nrtFfNliH0NnRYO) | [Studio Sea](https://open.spotify.com/artist/7kgPaIcut7uVFeUMFsRs58) | [Are You Shore!](https://open.spotify.com/album/50sWTt0ezubv6gs3unhtJZ) | 2:48 | 2023-06-19 | 2026-04-08 |
 | [High Water Waves](https://open.spotify.com/track/3ixhrF2NqHNOSIFkXPldca) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Nature's Beautiful Sounds](https://open.spotify.com/album/1i7Wx47S8juKmqYC8vO7xi) | 3:00 | 2021-11-11 |  |
 | [High Water Waves](https://open.spotify.com/track/0f8iKTCQLqoiw4vEfQaRZ9) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Waves](https://open.spotify.com/album/1qQMwrKUPJjxJSZJjrykCJ) | 2:35 | 2022-02-10 | 2022-11-17 |
 | [Ice Cold Ocean](https://open.spotify.com/track/0In0VHQsOFefbgAKscxvsr) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Algarve Soothing Waves](https://open.spotify.com/album/0lFNMt8URLzZjNfAEdIWAy) | 2:34 | 2021-11-11 |  |
@@ -216,6 +216,7 @@
 | [Thundering Waves of the Open Sea](https://open.spotify.com/track/6QhqmzdwY7KBTYYySNfmpD) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [The Haunting Song of the Waves](https://open.spotify.com/album/1zNsgdeN2IzxId303bo0dx) | 2:03 | 2025-07-21 | 2026-03-08 |
 | [Thunderstorm By The Waterfall](https://open.spotify.com/track/5dqINJU28icQujnJU37BJS) | [Thunderstorm Sound Bank](https://open.spotify.com/artist/6xQDyC92UEZQCySBNTdkyx) | [Thunder & Rain Relaxation](https://open.spotify.com/album/5Y6fIPchbFHAtc3BaBC9am) | 2:13 | 2021-11-11 | 2023-02-16 |
 | [Thunderstorm In The Cabin](https://open.spotify.com/track/5PmVqECxxW8pix05pb5gjv) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 3:45 | 2021-11-11 | 2022-11-17 |
+| [Tide And Seek](https://open.spotify.com/track/6Gkhp7x9TdpJnFqafxDYYn) | [State Of Rest](https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM) | [Tide and Seek](https://open.spotify.com/album/30Y12ZOHyevf4ufQAKJE4o) | 2:50 | 2026-04-02 |  |
 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 | 2021-11-11 |  |
 | [Tulum Beach Mexico](https://open.spotify.com/track/3e1XvFj6gAk9EIzyd4c730) | [Beaches Of Mexico](https://open.spotify.com/artist/60ZQhamDSQvaag9ALSY1Zy) | [Tulum Beach Mexico](https://open.spotify.com/album/0qx8dsZdAmOr9YWYkX0PgF) | 3:03 | 2022-12-19 |  |
 | [Upstream River Sounds](https://open.spotify.com/track/3HtzQDc13GIkar1d3suvKl) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:49 | 2021-11-11 |  |

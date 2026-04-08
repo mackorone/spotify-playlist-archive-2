@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Louis Philippson
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,484 likes - 78 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,480 likes - 78 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

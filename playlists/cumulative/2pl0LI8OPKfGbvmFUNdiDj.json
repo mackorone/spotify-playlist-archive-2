@@ -2071,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "Drain of Dreams",
+        "url": "https://open.spotify.com/album/1V98TQNnwbNIkYbfBoMYT4"
+      },
+      "artists": [
+        {
+          "name": "Granon",
+          "url": "https://open.spotify.com/artist/3B1OyCfxHoOoWAgRPhDQH3"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155615,
+      "name": "Drain of Dreams",
+      "url": "https://open.spotify.com/track/3TWiRLmfW6HORefLcPvJUm"
+    },
+    {
+      "album": {
         "name": "Drank too much Freestyle",
         "url": "https://open.spotify.com/album/6e07ciGpzCVKNxl2UojNYJ"
       },

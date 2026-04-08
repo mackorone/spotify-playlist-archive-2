@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-253 songs - 14 hr 3 min
+254 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Fat Lip \- Slowed + Reverb](https://open.spotify.com/track/1ellE0yI1aoUrjN1iEjdIK) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Fat Lip \(Slowed + Reverb\)](https://open.spotify.com/album/0TF2N1kepgP2Vbgqrf5CDx) | 3:58 | 2022-07-22 | 2022-08-31 |
 | [Fear \- Slowed](https://open.spotify.com/track/7kS2jx51NrxtRMCH1JoT38) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Fear \(Remixes\)](https://open.spotify.com/album/3K4amSv55rnbB7YtgYw4GI) | 2:29 | 2023-09-21 | 2023-12-09 |
 | [Feel Like \(Slowed\)](https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo) | [AREZRA](https://open.spotify.com/artist/6CgedJ2dk5GP40gS1OmGgE) | [Feel Like \(Slowed\)](https://open.spotify.com/album/2NT2KC0E0YiiC6YHiuGoNJ) | 3:37 | 2021-10-01 | 2023-12-09 |
-| [Flare \- Slowed](https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Flare \(Remixes\)](https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I) | 2:41 | 2023-08-03 |  |
+| [Flare \- Slowed](https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Flare \(Remixes\)](https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I) | 2:41 | 2023-08-03 | 2026-04-08 |
 | [Flashbacks \(Slowed\)](https://open.spotify.com/track/1tiYiTDSrtOTVVg0cym5S1) | [CRASPORE](https://open.spotify.com/artist/70uBplYS9d9GUfEKVusJw6) | [Flashbacks \(Slowed\)](https://open.spotify.com/album/7eO75JwSheXFOmkep315aR) | 6:42 | 2021-10-01 | 2022-08-22 |
 | [floral notes \- slowed + reverbed](https://open.spotify.com/track/64WvcIKpNx95kiHPTiijYI) | [Tucked In](https://open.spotify.com/artist/3DgW2NkRsZnsPIMVtRnXiZ) | [floral notes](https://open.spotify.com/album/7Lc4rhepsPfVji5J3z3ZDr) | 2:54 | 2022-01-05 | 2022-07-26 |
 | [Fluxxwave \(Slowed + Reverb\)](https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:41 | 2023-07-13 | 2025-02-18 |
@@ -255,6 +255,7 @@
 | [Where's My Love \- Slowed](https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 4:49 | 2022-11-11 | 2025-12-08 |
 | [Wildest Dreams \(Slowed + Reverb\)](https://open.spotify.com/track/0lkBkXmaFcznNrnDA6Aeuj) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Wildest Dreams \(Slowed + Reverb\)](https://open.spotify.com/album/6UgIJhpVmkMfOySEj86xBb) | 3:49 | 2022-03-08 | 2022-06-01 |
 | [Within These Walls \- Slow Down Rework](https://open.spotify.com/track/5faeolAsubn6KYYTYxpFRc) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Within These Walls \(Slow Down Rework\)](https://open.spotify.com/album/5LauFnwiHWZCYyAwpFDwH5) | 2:47 | 2021-11-26 | 2023-09-26 |
+| [worry \- Slowed](https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [riserayss](https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib) | [worry](https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML) | 3:21 | 2026-04-07 |  |
 | [Wrap Me In Plastic \- Slowed Down Version](https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz) | [CHROMANCE](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Wrap Me In Plastic](https://open.spotify.com/album/3Igr361QL5Kd2pMs0ywmf6) | 2:27 | 2021-10-01 | 2023-12-09 |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2022-05-24 | 2023-01-13 |
 | [Your voice\. \(Slowed and reverbed.\)](https://open.spotify.com/track/7l2QKC0ViJNxAJyeTpTurs) | [Bad Kisser](https://open.spotify.com/artist/3BCYz72nTa8Y2WY9yuDA2M) | [Everything started to change\. \(Slowed and reverbed.\)](https://open.spotify.com/album/5lcgIwA9pXkXKfjNDYUJNj) | 2:11 | 2022-01-05 | 2022-06-14 |

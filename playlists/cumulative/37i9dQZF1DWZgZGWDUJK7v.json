@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 212786,
       "name": "99 (Guide to Proper Romance X Standing Egg)",
       "url": "https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 258000,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/2KD5OHKr1PzVKYAgBA8C1H"
@@ -2662,7 +2662,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 252379,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/69sTmIhdPhFSg6bhEQWuiu"
@@ -3947,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "The Melody (Original Webtoon Soundtrack from Naver Webtoon \"Dirty Deeds\")",
+        "url": "https://open.spotify.com/album/0etsmHUEniniJGFUBq00Yz"
+      },
+      "artists": [
+        {
+          "name": "GUNHO",
+          "url": "https://open.spotify.com/artist/2eR3EeRLLHMoluqhYh0IGb"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217058,
+      "name": "The Melody",
+      "url": "https://open.spotify.com/track/4Gn6tAKSLhB7o878AIv2jI"
+    },
+    {
+      "album": {
         "name": "Love Revolution (Original Webcomic Soundtrack)",
         "url": "https://open.spotify.com/album/4QHbIQlUQAOKKiTZnY7Y3H"
       },
@@ -4265,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "Your Throne X LUCY (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/19Jo2nxXOLScCpKgiODqXe"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Two Faced",
+      "url": "https://open.spotify.com/track/0MLwoMXSXA949blDhkpUYW"
+    },
+    {
+      "album": {
         "name": "VANTA BLACK (Vanta Black X PITTA) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/3VksZH9iZA0YyXszM8mgjg"
       },
@@ -4334,6 +4370,24 @@
       "duration_ms": 200165,
       "name": "Way too young",
       "url": "https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp"
+    },
+    {
+      "album": {
+        "name": "For the Goddesses: For Daphne, Page. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6LRVOEMR4ghviIPpiWbphc"
+      },
+      "artists": [
+        {
+          "name": "Naye (Gavy NJ)",
+          "url": "https://open.spotify.com/artist/1YG742eCTjG2yMAfZ0VS9A"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175896,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/1N008O5NJofwwVlIcjekUR"
     },
     {
       "album": {

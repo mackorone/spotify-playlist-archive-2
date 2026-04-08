@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,222 songs - 5 day 10 hr 0 min
+2,224 songs - 5 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Babbo Natale Trap](https://open.spotify.com/track/3Sy33SrWCHoyI2h2VKySKH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Babbo Natale Trap](https://open.spotify.com/album/4oQlx9ml5V4mIWSAevAjSK) | 2:17 | 2025-11-24 |  |
 | [Baby's Gone](https://open.spotify.com/track/6WzdTrR7HjeCCCo0nfEiQ1) | [Captain Buckles](https://open.spotify.com/artist/3q8yPNmKITP14G9YOEnnrV) | [Baby's Gone](https://open.spotify.com/album/0nP75l7OfVY1yWoynu58EU) | 5:08 | 2025-03-21 |  |
 | [Babylon \(Demo\)](https://open.spotify.com/track/44Wx2WAG2RSbae7pY33cQD) | [The Trees](https://open.spotify.com/artist/5RfQnHitydzhcHZXwi02lt) | [Old Continent](https://open.spotify.com/album/2P7YZC43RfulOqgPMdrg3X) | 5:01 | 2025-06-23 |  |
+| [Back Off](https://open.spotify.com/track/2bQgelNCpFZjqEqXrQQsXr) | [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Jazzette](https://open.spotify.com/album/1Es6dYDX9qHLZGeqxdxMav) | 3:34 | 2026-04-07 |  |
 | [Back to Maine](https://open.spotify.com/track/2XXmEDEUYAEZcKIDirk1cs) | [Ben Leavitt](https://open.spotify.com/artist/69loAVGOEQPjQEeKXQ43qT) | [Back to Maine](https://open.spotify.com/album/0tkkAsUhnSqciNvOGtACIk) | 3:26 | 2025-12-10 |  |
 | [Back to the River](https://open.spotify.com/track/2Eu2FUKNhEdwTDBe6e6XGX) | [Bobby L](https://open.spotify.com/artist/15ixB83Qrz8Ts6GK2bMrgE), [Drew Ryn](https://open.spotify.com/artist/2MrItpfbmgJJw1vJpjujGv) | [Back to the River](https://open.spotify.com/album/4VVpTZm5MXfic6qECXa50C) | 3:43 | 2025-09-30 |  |
 | [Back to Zero](https://open.spotify.com/track/5h4P5D7fapPvJE2u9Z4V03) | [Aaron Friend & the Enemies](https://open.spotify.com/artist/1w0QljQB8KWyuRWEnBgTeM) | [Back to Zero](https://open.spotify.com/album/2YVLvdyUCUsHdT9dhzUxHv) | 2:55 | 2025-11-17 |  |
@@ -660,7 +661,7 @@
 | [From The Sky](https://open.spotify.com/track/6sTWJke9SIzPW2KR7dErdr) | [Cedric Saga](https://open.spotify.com/artist/0z2QGV6jeXk53Kxy2ofBNw) | [From The Sky](https://open.spotify.com/album/6i4QTGQVtgNyGw1CWBYl1c) | 3:30 | 2025-03-13 |  |
 | [Frostbite](https://open.spotify.com/track/0E5iAOwABvC7vqjl6CcWo7) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Frostbite](https://open.spotify.com/album/4JLphJ1oIPpfp4A6wgUNzk) | 2:14 | 2026-02-18 |  |
 | [FRUSTRATED](https://open.spotify.com/track/6jLJBfgYa6SOENq2wPlxaJ) | [Mary Lou](https://open.spotify.com/artist/1Ndek8c7r79Cuhq7QfeIuW) | [FRUSTRATED](https://open.spotify.com/album/6B8OF1dop534ACfC2Dxgfm) | 2:33 | 2025-03-07 |  |
-| [Fuel The Flame](https://open.spotify.com/track/7pBg9yHTAml4Aw3eIvcgBH) | [File Under Humanoid](https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx) | [Fuel The Flame EP](https://open.spotify.com/album/3DmHe6uM9Jav9qgmtIGLbZ) | 3:05 | 2026-02-26 |  |
+| [Fuel The Flame](https://open.spotify.com/track/7pBg9yHTAml4Aw3eIvcgBH) | [File Under Humanoid](https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx) | [Fuel The Flame EP](https://open.spotify.com/album/3DmHe6uM9Jav9qgmtIGLbZ) | 3:05 | 2026-02-26 | 2026-04-08 |
 | [Full Throttle](https://open.spotify.com/track/6SqOhAzLOIXm0U7a734nx2) | [Mr\. Rockstar](https://open.spotify.com/artist/61mgfJoftSgMGoXk8QxIID) | [Full Throttle](https://open.spotify.com/album/6I6vljE2Yr4N7y3yQnUtOA) | 2:48 | 2025-11-17 |  |
 | [FUNK GUITAR NA VEIA](https://open.spotify.com/track/3n4z9B4cg9hi7g5aMfSTfN) | [Gerson Oliveira](https://open.spotify.com/artist/4L8cy6Hmu5sthH4EQxwdBN) | [FUNK GUITAR NA VEIA](https://open.spotify.com/album/4W3cnlg6rChS3jIxlXangB) | 4:49 | 2025-10-09 |  |
 | [Fuori Di Qua](https://open.spotify.com/track/45CQFzA5gRYvY3rpw3QsX4) | [L'Orca, Pino & Giò](https://open.spotify.com/artist/56gHPAYzPERrPRMN95PQHG) | [Fuori Di Qua](https://open.spotify.com/album/6TldjaZCioHVgEwVz3RFL9) | 3:54 | 2024-08-12 |  |
@@ -2017,6 +2018,7 @@
 | [Vaporum](https://open.spotify.com/track/0TTRwQu6E5t3KF7VWAdDW0) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP) | [Mare Vaporum](https://open.spotify.com/album/4lMw70l6nqTSkKNEheYNHt) | 1:48 | 2025-04-16 |  |
 | [Varje steg vi tar](https://open.spotify.com/track/576M5O4vCNBpVobmszYldJ) | [Vide Geiger](https://open.spotify.com/artist/56zGva56muJACSBkITfdd3) | [Varje steg vi tar](https://open.spotify.com/album/4tEnPr443fjm0DZLjeqvQP) | 3:02 | 2024-11-21 |  |
 | [Vazgeçtim](https://open.spotify.com/track/4NHgr9uQoxOl1y8mIDBA7Z) | [Emre Ay](https://open.spotify.com/artist/2zuSuBrWIWYn6ELSlf2Vx2), [Özcan Gül](https://open.spotify.com/artist/3Der6kta8kPAiSWe1s5iMa) | [Vazgeçtim](https://open.spotify.com/album/4kpSwQR43XZJLDahiEy8nw) | 4:26 | 2025-06-20 |  |
+| [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-04-07 |  |
 | [Velvety Dreams](https://open.spotify.com/track/2FiluEyVU1vy7UNCHYdaP8) | [Lunar Wells](https://open.spotify.com/artist/5jsFC1t7mH61iJjkLQod5E) | [Velvety Dreams](https://open.spotify.com/album/64Y8OIMOnMSA7UhvRELGRJ) | 3:44 | 2024-07-24 |  |
 | [Vengeful Victim](https://open.spotify.com/track/3AVI1kxzxSWqWXFBypqZCB) | [Johnny Crabb](https://open.spotify.com/artist/4cJ99SG5p8SMUzroLLh9cM) | [Vengeful Victim](https://open.spotify.com/album/5qdkazxkZxyd4zqoxcyvlB) | 3:42 | 2024-05-23 |  |
 | [Vente Corriendo](https://open.spotify.com/track/5seQwSOdTP0wCV6mCmf6ol) | [Situasound](https://open.spotify.com/artist/7Dz2EGchEMJd01XvgQX9CV) | [Vente Corriendo](https://open.spotify.com/album/7iUDO1aAsfxV164hO31d83) | 3:35 | 2025-06-20 |  |

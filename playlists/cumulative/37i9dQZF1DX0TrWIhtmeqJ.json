@@ -2733,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "Sweet Rose",
+        "url": "https://open.spotify.com/album/4E16pSvvDRQUUgA1rmsROL"
+      },
+      "artists": [
+        {
+          "name": "Ella More",
+          "url": "https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Sweet Rose",
+      "url": "https://open.spotify.com/track/07XM0G5OUgiiG0rtRkhdcv"
+    },
+    {
+      "album": {
         "name": "T.O.X.I.C",
         "url": "https://open.spotify.com/album/33GLxYrnocW7ZWqSxMwmUV"
       },

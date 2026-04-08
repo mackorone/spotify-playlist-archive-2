@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 168720,
       "name": "Almost Again",
       "url": "https://open.spotify.com/track/7w1TnmKDHfYbyehaDpmYwK"
@@ -1187,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "Minority",
+        "url": "https://open.spotify.com/album/1T9q32c5d8PPBg72mbu12Q"
+      },
+      "artists": [
+        {
+          "name": "Catii",
+          "url": "https://open.spotify.com/artist/5VWLPyWRDkbnaiV5LYSnXv"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254995,
+      "name": "Minority",
+      "url": "https://open.spotify.com/track/7EahJBzq7oNuxktGieAJa4"
+    },
+    {
+      "album": {
         "name": "Forever Delayed",
         "url": "https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv"
       },
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 161291,
       "name": "slowdance",
       "url": "https://open.spotify.com/track/6Kx3zHc8aidGu6sSIpSjkc"

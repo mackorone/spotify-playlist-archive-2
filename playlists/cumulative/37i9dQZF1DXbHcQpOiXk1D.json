@@ -9487,6 +9487,24 @@
     },
     {
       "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/5L1t9L7HETbbkGEvRxhw6L"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185366,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/0YS4B8EE07YEjJG8nS1QZj"
+    },
+    {
+      "album": {
         "name": "Next Spring",
         "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
       },
@@ -11758,7 +11776,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 256783,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/1DQsGVDlFvJHcUyeCfc2DZ"

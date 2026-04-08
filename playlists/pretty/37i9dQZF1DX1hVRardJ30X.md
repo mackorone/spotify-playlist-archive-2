@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Zion & Chencho Corleone, Alvaro Diaz, Sofía Reyes, Chino Pacas & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,764 likes - 39 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,785 likes - 39 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

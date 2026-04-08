@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Codiciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,014 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,035 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 29 | [Dueles](https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Dueles](https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN) | 2:55 |
 | 30 | [Bajo El Agua](https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Bajo El Agua](https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI) | 3:03 |
 | 31 | [Pongase Bien Chula](https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Pongase Bien Chula](https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF) | 2:44 |
-| 32 | [HOME RUN](https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [HOME RUN](https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV) | 3:27 |
-| 33 | [Soy Tan Tuyo](https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Soy Tan Tuyo](https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC) | 3:40 |
+| 32 | [Soy Tan Tuyo](https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Soy Tan Tuyo](https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC) | 3:40 |
+| 33 | [HOME RUN](https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [HOME RUN](https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV) | 3:27 |
 | 34 | [LO LOGRAMOS](https://open.spotify.com/track/1dg9Gf4LclMVJ9HuKp0sgF) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [LO LOGRAMOS](https://open.spotify.com/album/3b3xjKsM9yLxa4Cob0Qn22) | 3:25 |
 | 35 | [Toca Disfrutar](https://open.spotify.com/track/7HGqMeJcReCpKZlVMwqIST) | [Clase Personal](https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg), [Nivel 5](https://open.spotify.com/artist/7kRSW5oj2hodURrzO6Xp8y) | [Toca Disfrutar](https://open.spotify.com/album/6gYmnDCUV6WIB3JoLTxFoZ) | 3:13 |
 | 36 | [Expectante](https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Expectante](https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h) | 2:34 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 38 | [Canelo](https://open.spotify.com/track/1r80Wnya7cvclGK7XhZlKE) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Corridos de Encargo](https://open.spotify.com/album/0vxaLt1TCd1YpgQDE57Ngv) | 2:51 |
 | 39 | [Tal Vez Quiere](https://open.spotify.com/track/7qnGZ5kRxpgAU263eR7cxG) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Tal Vez Quiere](https://open.spotify.com/album/50HJh1fOj3jBS7qxpJzOCW) | 2:59 |
 | 40 | [Directo Al Corazón](https://open.spotify.com/track/4K0te6vi1ugbtcURotuLeU) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Directo Al Corazón](https://open.spotify.com/album/29xqfiJEpdsEbsuuyH1Tde) | 2:46 |
-| 41 | [Confidencial](https://open.spotify.com/track/41UeD03DM1lLtfJB2I7gsg) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Confidencial](https://open.spotify.com/album/3Dv9lxsXG7vrlNrOVLvNgB) | 2:55 |
-| 42 | [Que Tonto He Sido](https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf) | [Solido](https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj) | [Que Tonto He Sido](https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4) | 4:01 |
+| 41 | [Que Tonto He Sido](https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf) | [Solido](https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj) | [Que Tonto He Sido](https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4) | 4:01 |
+| 42 | [Confidencial](https://open.spotify.com/track/41UeD03DM1lLtfJB2I7gsg) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Confidencial](https://open.spotify.com/album/3Dv9lxsXG7vrlNrOVLvNgB) | 2:55 |
 | 43 | [Apenas Prendí El Motor](https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj) | [Eley Romero](https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl), [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R) | [Apenas Prendí El Motor](https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0) | 1:57 |
 | 44 | [Cosas De Borrachera \(En Vivo\)](https://open.spotify.com/track/05rGX2P3QuJoTuXUEZhLjI) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Alfonso Muñoz](https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 3:04 |
 | 45 | [LA TERAPIA](https://open.spotify.com/track/4SdIsClHCr55yGO6v7sJyy) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [LA TERAPIA](https://open.spotify.com/album/2c8qPwvwRibrjo8liDQwXa) | 2:59 |

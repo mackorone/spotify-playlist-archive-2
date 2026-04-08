@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3917591,
+  "num_followers": 3917424,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-04-03 04:01:06",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
+    },
+    {
+      "added_at": "2026-04-03 04:01:06",
+      "album": {
         "name": "Caught Up In The Fire",
         "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 211278,
       "name": "Places",
       "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2026-04-03 04:01:06",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
     },
     {
       "added_at": "2026-04-03 04:01:06",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2026-04-03 04:01:06",
       "album": {
-        "name": "Sun & Rain",
-        "url": "https://open.spotify.com/album/4iAsazBdJVm5OqhEYKTXEX"
-      },
-      "artists": [
-        {
-          "name": "Deeparture",
-          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
-        },
-        {
-          "name": "Run Rivers",
-          "url": "https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Sun & Rain",
-      "url": "https://open.spotify.com/track/7bqtONADSmsbMHy57EVGix"
-    },
-    {
-      "added_at": "2026-04-03 04:01:06",
-      "album": {
         "name": "Screen",
         "url": "https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 246147,
       "name": "Screen",
       "url": "https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M"
+    },
+    {
+      "added_at": "2026-04-03 04:01:06",
+      "album": {
+        "name": "Sun & Rain",
+        "url": "https://open.spotify.com/album/4iAsazBdJVm5OqhEYKTXEX"
+      },
+      "artists": [
+        {
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        },
+        {
+          "name": "Run Rivers",
+          "url": "https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Sun & Rain",
+      "url": "https://open.spotify.com/track/7bqtONADSmsbMHy57EVGix"
     },
     {
       "added_at": "2026-04-03 04:01:06",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2026-04-03 04:01:06",
       "album": {
+        "name": "Open Up",
+        "url": "https://open.spotify.com/album/1b98VnU74QHUYokRi42ALD"
+      },
+      "artists": [
+        {
+          "name": "Fi Sullivan",
+          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
+        }
+      ],
+      "duration_ms": 226614,
+      "name": "Open Up",
+      "url": "https://open.spotify.com/track/241jde22heuHHDCAg5c1XQ"
+    },
+    {
+      "added_at": "2026-04-03 04:01:06",
+      "album": {
         "name": "Give It A Try (Why Don't We)",
         "url": "https://open.spotify.com/album/43t8HuPAt7aHP2K2PrRPjU"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 131803,
       "name": "Give It A Try (Why Don't We)",
       "url": "https://open.spotify.com/track/0zd56qb1rPeB5kyWZKGZbX"
-    },
-    {
-      "added_at": "2026-04-03 04:01:06",
-      "album": {
-        "name": "Open Up",
-        "url": "https://open.spotify.com/album/1b98VnU74QHUYokRi42ALD"
-      },
-      "artists": [
-        {
-          "name": "Fi Sullivan",
-          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
-        }
-      ],
-      "duration_ms": 226614,
-      "name": "Open Up",
-      "url": "https://open.spotify.com/track/241jde22heuHHDCAg5c1XQ"
     }
   ],
   "unique_name": "Chill Tracks",

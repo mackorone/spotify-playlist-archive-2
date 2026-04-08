@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ravyn Lenae, Dominic Fike, 1119, IVE, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,767 likes - 78 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,759 likes - 78 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

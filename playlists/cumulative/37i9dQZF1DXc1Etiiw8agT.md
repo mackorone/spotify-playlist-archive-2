@@ -4,7 +4,7 @@
 
 > 12 Hours of brown noise to sleep longer.
 
-318 songs - 15 hr 48 min
+319 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Dark Brown Noise](https://open.spotify.com/track/22a1kI5KEfaKqGNLp5MvZm) | [HQ\-10](https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5) | [Comforting Brown Noise](https://open.spotify.com/album/7IA3KeuuDkU1YO6HIMlmBv) | 2:08 | 2023-10-26 |  |
 | [Dark Brown Noise 165 Hz F](https://open.spotify.com/track/00gU2jShkz0Eb2TyYDNHc1) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [Ocean Dark](https://open.spotify.com/album/7qyRUKT0JWlQaYPiyU0Iad) | 2:54 | 2023-05-25 |  |
 | [Dark Brown Noise 3](https://open.spotify.com/track/4MNzUq2ASKEgfO93e9l6IP) | [2029](https://open.spotify.com/artist/75C76xB78tyncdc0AJ2gOS) | [Dark Brown Noise](https://open.spotify.com/album/6VBU1yRd1xIRN3vL4v2szL) | 2:36 | 2023-05-25 |  |
-| [Dark Ocean Noise 145 Hz](https://open.spotify.com/track/0OdJfvTa43VWsBT1o4aA9n) | [Aquatix](https://open.spotify.com/artist/2BCt1O3pMVbzcv0xumWXyJ) | [Dark Ambient](https://open.spotify.com/album/26GVKVF7i3JrRC0l3XUFtI) | 3:03 | 2023-05-25 |  |
+| [Dark Ocean Noise 145 Hz](https://open.spotify.com/track/0OdJfvTa43VWsBT1o4aA9n) | [Aquatix](https://open.spotify.com/artist/2BCt1O3pMVbzcv0xumWXyJ) | [Dark Ambient](https://open.spotify.com/album/26GVKVF7i3JrRC0l3XUFtI) | 3:03 | 2023-05-25 | 2026-04-08 |
 | [Deep 100 hz Brown Noise](https://open.spotify.com/track/5gj1RIAFbI3cIdAuWCKlwK) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Brown Noise Relaxation](https://open.spotify.com/album/6Ebja7i0qo75APOZKqSxbu) | 2:25 | 2023-05-25 | 2023-11-11 |
 | [Deep 2 noise](https://open.spotify.com/track/0kPCMmJOjrCowvWrtENbqJ) | [Yin Shui](https://open.spotify.com/artist/1lZlfq2dH04NjJl8vZgoYc) | [Calm 2 noise](https://open.spotify.com/album/1G1Tbg0yq2iVsl53HLsyi1) | 2:02 | 2023-05-25 | 2025-02-28 |
 | [Deep Brown 220 Hz A Note \- Seamless](https://open.spotify.com/track/49pS7WKFP2tdA9ABejYjfs) | [Digital \- Docile](https://open.spotify.com/artist/6m0V1eIgnybq5pZ4gTWadj) | [Deep Brown 220 Hz A Note](https://open.spotify.com/album/2p5V9u4mkxKykH8j3CgaXn) | 2:55 | 2023-05-25 | 2026-04-07 |
@@ -211,6 +211,7 @@
 | [Embraced & Calmed By Brown Noise](https://open.spotify.com/track/5lTrWAYysWzbXrLTHY05ZC) | [Desi Eskil](https://open.spotify.com/artist/4vDXxjHGMDyOaPyUdRXfQj) | [Embraced & Calmed By Brown Noise](https://open.spotify.com/album/1eMek1Mb8fo05hOcbrawrr) | 2:20 | 2023-05-25 |  |
 | [Endless Brown Hiss](https://open.spotify.com/track/1QNjuZoAsaTOUPRU4K2mEY) | [Willow Resonance](https://open.spotify.com/artist/2s91c4cm8DwLi14qpNki0d) | [Deep Sleep Brown Noise](https://open.spotify.com/album/69RTvmZmTeiOQjJWAP0w7B) | 2:36 | 2026-03-31 |  |
 | [Endless Brown Noise](https://open.spotify.com/track/5YJBWioj7Qc7pyjlYyqBkJ) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol II](https://open.spotify.com/album/4MrhA8HUGK31Z5kqa2wr6j) | 2:16 | 2023-10-26 |  |
+| [Endless Focus](https://open.spotify.com/track/7bIP0jCTRiTb0F55HwLtM5) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Focus](https://open.spotify.com/album/3Z4iOS43LAhlMi7mERLnpJ) | 2:50 | 2026-03-31 |  |
 | [Fabulous Brown Noise](https://open.spotify.com/track/1Ck7G535xOvON2YNhv5K9N) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Fabulous Brown Noise](https://open.spotify.com/album/73pwePP5Wiv0miXr2RMy7x) | 3:08 | 2025-11-13 |  |
 | [Faithfully Sleeps](https://open.spotify.com/track/5v56B7XYlnGzEPwY4c8I8R) | [Dreaq Lost](https://open.spotify.com/artist/0LBBqvLzvcIeKvUY6CaBPv) | [Faithfully Sleeps](https://open.spotify.com/album/3CtbDpc3uEK8fwsPgtE2v2) | 1:27 | 2023-05-25 | 2023-06-29 |
 | [First Class Seat](https://open.spotify.com/track/6l6SGS4smW8UPk2KHAgUCB) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Brown Noise Relaxation](https://open.spotify.com/album/4ojM7wSFWCJPwlu52CTzLc) | 2:30 | 2023-05-25 |  |

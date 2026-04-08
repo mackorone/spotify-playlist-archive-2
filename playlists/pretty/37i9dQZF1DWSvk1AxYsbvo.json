@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 26005,
+  "num_followers": 26011,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-04-06 01:50:47",
       "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7frWMgaysfdDFE6LcQH3ax"
+      },
+      "artists": [
+        {
+          "name": "Oh Si Young",
+          "url": "https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/10wby8iW3J6A6z1XY1gfVh"
+    },
+    {
+      "added_at": "2026-04-06 01:50:47",
+      "album": {
         "name": "Sweet Lullaby",
         "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
@@ -727,38 +743,6 @@
     {
       "added_at": "2026-04-06 01:50:47",
       "album": {
-        "name": "For a Long Time",
-        "url": "https://open.spotify.com/album/712hfheO6b7WDAnZKDmO9Z"
-      },
-      "artists": [
-        {
-          "name": "Jang Soo Bin",
-          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "For a Long Time",
-      "url": "https://open.spotify.com/track/5hFnrECr3m8GzPI21BepWZ"
-    },
-    {
-      "added_at": "2026-04-06 01:50:47",
-      "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7frWMgaysfdDFE6LcQH3ax"
-      },
-      "artists": [
-        {
-          "name": "Oh Si Young",
-          "url": "https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/10wby8iW3J6A6z1XY1gfVh"
-    },
-    {
-      "added_at": "2026-04-06 01:50:47",
-      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2026-04-06 01:50:47",
       "album": {
+        "name": "For a Long Time",
+        "url": "https://open.spotify.com/album/712hfheO6b7WDAnZKDmO9Z"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "For a Long Time",
+      "url": "https://open.spotify.com/track/5hFnrECr3m8GzPI21BepWZ"
+    },
+    {
+      "added_at": "2026-04-06 01:50:47",
+      "album": {
         "name": "summer youth",
         "url": "https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 217026,
       "name": "summer youth",
       "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"
-    },
-    {
-      "added_at": "2026-04-06 01:50:47",
-      "album": {
-        "name": "So I Won't Fade",
-        "url": "https://open.spotify.com/album/6sxwrD306l2STubKc8bn7J"
-      },
-      "artists": [
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        }
-      ],
-      "duration_ms": 172526,
-      "name": "So I Won't Fade",
-      "url": "https://open.spotify.com/track/0rCda7npmc8qzmI6oKUOSU"
     },
     {
       "added_at": "2026-04-06 01:50:47",
@@ -835,6 +819,22 @@
       "duration_ms": 153000,
       "name": "It will be all fine",
       "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
+    },
+    {
+      "added_at": "2026-04-06 01:50:47",
+      "album": {
+        "name": "So I Won't Fade",
+        "url": "https://open.spotify.com/album/6sxwrD306l2STubKc8bn7J"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "duration_ms": 172526,
+      "name": "So I Won't Fade",
+      "url": "https://open.spotify.com/track/0rCda7npmc8qzmI6oKUOSU"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

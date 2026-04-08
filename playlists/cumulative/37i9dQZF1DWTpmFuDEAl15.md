@@ -4,7 +4,7 @@
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-784 songs - 1 day 15 hr 56 min
+785 songs - 1 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,6 +656,7 @@
 | [Still Brazy](https://open.spotify.com/track/3ku6p6J1RrdJ9psKJMqWvi) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/5xYelOucTX5yIB93L6CVo4) | 3:22 | 2025-03-10 | 2025-03-26 |
 | [Still Dreaming](https://open.spotify.com/track/72nLaDnt2dfxCA3ZAiEC2c) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Hip Hop Is Dead \(Expanded Edition\)](https://open.spotify.com/album/7sHrPadM39466NY7DW3s4r) | 3:37 | 2026-04-06 |  |
 | [STIMMING](https://open.spotify.com/track/3VW5vrPumuIuaFQb1Hqc9G) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [STIMMING](https://open.spotify.com/album/46vU8FeukYVJ0rwFrfrTdE) | 3:22 | 2025-10-01 | 2026-02-11 |
+| [Stoned and Leave](https://open.spotify.com/track/5vRq6ORXr3Ay8BOZdUNriN) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Roofless Records For Drop Tops: Disc 1](https://open.spotify.com/album/3ciu1mV52dlREyJdoetHMr) | 3:01 | 2026-04-07 |  |
 | [Straight Up](https://open.spotify.com/track/2OQmAU1rXizFeY3ageqplE) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Straight Up](https://open.spotify.com/album/4OGLkwfhVSh6jhFN3agdmB) | 3:15 | 2025-03-10 | 2025-04-01 |
 | [Straight Up](https://open.spotify.com/track/5ZWTRCJTvxTyit56lLnkCt) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [LOVE.JONES](https://open.spotify.com/album/1xcouduCLDsvfyp3pltKqO) | 3:15 | 2025-05-09 | 2025-06-28 |
 | [Stressing Stressing](https://open.spotify.com/track/3OuqjU9F97YVhCnkrrtCVw) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [FAN OUT OF RUCKS](https://open.spotify.com/album/298QPQfoP6rRiNnRaLFIoP) | 2:18 | 2025-08-19 | 2025-10-02 |

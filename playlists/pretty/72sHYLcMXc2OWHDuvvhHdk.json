@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAKU51wPISblUAnl8F+zcURVVZHGxes",
+  "snapshot_id": "AAAKVgwih/ji3SxaEm/WcWCvWK06jSGy",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -39049,22 +39049,6 @@
       "url": "https://open.spotify.com/track/5Yj8OJNrnyxFABHO4FNKUx"
     },
     {
-      "added_at": "2026-02-26 22:24:34",
-      "album": {
-        "name": "Fuel The Flame EP",
-        "url": "https://open.spotify.com/album/3DmHe6uM9Jav9qgmtIGLbZ"
-      },
-      "artists": [
-        {
-          "name": "File Under Humanoid",
-          "url": "https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Fuel The Flame",
-      "url": "https://open.spotify.com/track/7pBg9yHTAml4Aw3eIvcgBH"
-    },
-    {
       "added_at": "2026-02-28 04:10:25",
       "album": {
         "name": "Lost",
@@ -41351,6 +41335,38 @@
       "duration_ms": 246357,
       "name": "Facebook Friends",
       "url": "https://open.spotify.com/track/0JZDRLPLN77J9R3qZwrNxO"
+    },
+    {
+      "added_at": "2026-04-07 20:02:21",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47"
+      },
+      "artists": [
+        {
+          "name": "Melany Cubero",
+          "url": "https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "Veloz",
+      "url": "https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P"
+    },
+    {
+      "added_at": "2026-04-07 20:11:10",
+      "album": {
+        "name": "Jazzette",
+        "url": "https://open.spotify.com/album/1Es6dYDX9qHLZGeqxdxMav"
+      },
+      "artists": [
+        {
+          "name": "Obsidian Rose",
+          "url": "https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx"
+        }
+      ],
+      "duration_ms": 214719,
+      "name": "Back Off",
+      "url": "https://open.spotify.com/track/2bQgelNCpFZjqEqXrQQsXr"
     }
   ],
   "unique_name": "Cruise Music",

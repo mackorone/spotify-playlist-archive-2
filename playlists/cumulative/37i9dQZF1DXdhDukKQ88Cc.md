@@ -4,10 +4,11 @@
 
 > 🔥 de største nye rap hits i dk 🔥 cover: Zuloo
 
-516 songs - 22 hr 0 min
+517 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$AMMEN](https://open.spotify.com/track/2eEUhbrrR7ZwYkOKDIO9oh) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [$AMMEN](https://open.spotify.com/album/7C2AQA02ZhqeKf8UPYDcTD) | 3:02 | 2026-04-07 |  |
 | [007](https://open.spotify.com/track/00EfuUUB0p9I4Ilq72WmYT) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [007](https://open.spotify.com/album/1QltDJCPYys8wTwNOFxTvo) | 2:24 | 2024-08-15 | 2024-11-08 |
 | [02:34](https://open.spotify.com/track/73OdVr9HsrpRpbdXvqxHYm) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [02:34](https://open.spotify.com/album/0BbICx4813rb9ZUpKP29Eg) | 2:57 | 2025-04-17 | 2025-10-03 |
 | [10 Dage](https://open.spotify.com/track/39t0uVgHWyL8SW5At2yiYF) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Calirose](https://open.spotify.com/album/34JHALTKLW2kiyCpJOtOsO) | 3:42 | 2025-09-25 |  |

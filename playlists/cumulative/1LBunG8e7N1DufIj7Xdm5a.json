@@ -37295,6 +37295,24 @@
     },
     {
       "album": {
+        "name": "Visitantes",
+        "url": "https://open.spotify.com/album/0tZCqIeo3VfhEdMY7r7lFd"
+      },
+      "artists": [
+        {
+          "name": "Visitantes",
+          "url": "https://open.spotify.com/artist/0nynsqah3R512QB7VBtvvT"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240796,
+      "name": "Lejos de ayer",
+      "url": "https://open.spotify.com/track/0PCO91XIa47CQpkgvHKAPH"
+    },
+    {
+      "album": {
         "name": "Buonanotte Berlinguer",
         "url": "https://open.spotify.com/album/1tx16k5nRquLGYFqydm6Jb"
       },
@@ -51304,8 +51322,8 @@
       },
       "artists": [
         {
-          "name": "FuzeTee",
-          "url": "https://open.spotify.com/artist/0t9FKUjCQnKVWLWOrUikKp"
+          "name": "Astro Alaprod",
+          "url": "https://open.spotify.com/artist/3Iyv4bC7elXaXGahrlsk2l"
         }
       ],
       "date_added": "2025-09-17",

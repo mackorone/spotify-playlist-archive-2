@@ -4,7 +4,7 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: Paul Stephan
 
-175 songs - 7 hr 37 min
+176 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [sun's out \(feat\. Zerrydl\)](https://open.spotify.com/track/1vCkU2re6Xtuf4IDePN7O8) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [MAKE BRITAIN S3XY AGAIN](https://open.spotify.com/album/6YmpImCxaSNJ297Vbv3nS3) | 2:51 | 2025-10-23 | 2026-02-21 |
 | [Suya](https://open.spotify.com/track/0HCrelYt8aGjCtcyvCuNl9) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft), [Namani](https://open.spotify.com/artist/7BLMBJsKXvkqHLusvSWftd) | [Suya](https://open.spotify.com/album/58nHkbTjq9i0Cnn33webIK) | 2:25 | 2025-10-23 | 2025-11-21 |
 | [Sweden Girl, Pt\. 1](https://open.spotify.com/track/1CkbYf3B3ipKAvBoqQvP8O) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Sweden Girl, Pt\. 1](https://open.spotify.com/album/5YRwQsDuBjmNCQavPthCoi) | 3:29 | 2025-10-23 | 2026-01-15 |
+| [Sweet Rose](https://open.spotify.com/track/07XM0G5OUgiiG0rtRkhdcv) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [Sweet Rose](https://open.spotify.com/album/4E16pSvvDRQUUgA1rmsROL) | 3:15 | 2026-04-07 |  |
 | [T.O.X.I.C](https://open.spotify.com/track/7v6auYXDg9PW13j184wIZP) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu), [prod\. otis](https://open.spotify.com/artist/2AaJiT6ubwdNcRqDzcXzY2) | [T.O.X.I.C](https://open.spotify.com/album/33GLxYrnocW7ZWqSxMwmUV) | 2:01 | 2025-11-21 | 2026-04-03 |
 | [Take A Touch](https://open.spotify.com/track/0YeVu5fmRos8tD0JRO1FGb) | [aryan](https://open.spotify.com/artist/4szmJZF4T0Ica5kkxK8Zyy) | [Take A Touch](https://open.spotify.com/album/6EIeEpHv7qPqIG0s9jbeWN) | 2:24 | 2025-10-23 | 2026-02-27 |
 | [Tamper](https://open.spotify.com/track/2Cymy83v0iB4X4rJuJcYT2) | [Kacie](https://open.spotify.com/artist/5XALQ8snjwdJ6HeOPo3TRY), [TFace](https://open.spotify.com/artist/6u6CpsGYc3s2bJNESCR1t0) | [I Like To Tamper](https://open.spotify.com/album/2Z5MkPnCOUK2x641hnpUEo) | 2:33 | 2025-10-23 | 2025-11-05 |

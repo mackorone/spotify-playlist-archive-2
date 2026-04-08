@@ -4,7 +4,7 @@
 
 > 
 
-190 songs - 9 hr 50 min
+195 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [BDE](https://open.spotify.com/track/6fdVOh7MmC69eCrX0XxO5M) | [Galaxy Sweat](https://open.spotify.com/artist/0PCn3ztGLidBzzK3FT4ezo) | [Galaxy Sweat](https://open.spotify.com/album/1JLWiiHlNzBpyAHeBv7Ugz) | 2:53 | 2025-09-22 |  |
 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 | 2025-12-11 |  |
 | [Bittersweet](https://open.spotify.com/track/5jwi6uej7cKEXRKl5T5NJe) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Bittersweet](https://open.spotify.com/album/5PpYInSPwb0qYYMFyCN0FL) | 2:31 | 2025-09-11 |  |
+| [Buffet Froid](https://open.spotify.com/track/53S1EkSKU0xYaYuTLpkTkG) | [Ratel C](https://open.spotify.com/artist/2ZDIYXNX6XbJrIWGCaTLxc) | [Buffet Froid](https://open.spotify.com/album/2lqF0eFcb7yIw4LmZqTpwN) | 2:39 | 2026-04-07 |  |
 | [Can't Stop Loving You](https://open.spotify.com/track/2IxP7XlBTr1ytzNunInCHa) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Can’t Stop Loving You](https://open.spotify.com/album/1YrnwVbQVVEFcwwVC6CYD0) | 4:37 | 2025-08-14 |  |
 | [Childhood Dreams](https://open.spotify.com/track/2HeYiygBNdlYDOYGgtAS53) | [Mert Bays](https://open.spotify.com/artist/5O0EyfPKefwCPzKsE3S8pe) | [Another Day](https://open.spotify.com/album/3FwelO7DnW62pR886TxsVo) | 3:03 | 2025-04-10 |  |
 | [cicada](https://open.spotify.com/track/2BHGoDcPPJPBQemfknoxqF) | [Deadfilm](https://open.spotify.com/artist/5OwwZoJuwmHqi5O9p94A2E), [Riper](https://open.spotify.com/artist/3anPhsakd2B9tTl6tPdFbq) | [volverás a sonreir.](https://open.spotify.com/album/18sFjenWqRu3Fa9mGHMLhP) | 4:58 | 2026-03-19 |  |
@@ -89,6 +90,7 @@
 | [I Kill Spiders](https://open.spotify.com/track/2jrMjstPcrgWx9ZUIV8qmW) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [I Kill Spiders](https://open.spotify.com/album/3rwRrvZIMD9kyc5y1qUbP8) | 3:41 | 2025-09-29 |  |
 | [I love you, but I can't let you go](https://open.spotify.com/track/41FkGXbt9gack4Z9GOtmC1) | [Ida Elisabeth](https://open.spotify.com/artist/3sEXUMg9WvdpLcKSsn1zkZ) | [white hearts stain easily](https://open.spotify.com/album/3H6t0wm5nfjUyLq26sfBIB) | 2:59 | 2026-03-13 |  |
 | [I Should Go](https://open.spotify.com/track/6D8g0ZHiSxEBzRiapMFzwn) | [Nicky MacKenzie](https://open.spotify.com/artist/0DvB7H1zfupECFAdeVede5) | [I Should Go](https://open.spotify.com/album/3Hj1AQjtOfcGiNJuIit0oJ) | 3:17 | 2025-08-07 |  |
+| [If U Want It](https://open.spotify.com/track/3AI6xAwOV2Bs28DCJ0o4qV) | [QUIETLOVE](https://open.spotify.com/artist/22GUJjeW3kCn3nWOFQViKv) | [If U Want It](https://open.spotify.com/album/0toROLda6GViKcYn9qrMWA) | 2:17 | 2026-04-07 |  |
 | [If We Ever Stopped Talking](https://open.spotify.com/track/7gJMxmgGsKdSQkqxFxdAO5) | [S1D333](https://open.spotify.com/artist/6qG3qPtGdzUgV8r6qcppjI) | [If We Ever Stopped Talking](https://open.spotify.com/album/4Yy6yROsIhKb4OY8wqx8sM) | 3:08 | 2026-01-07 |  |
 | [il a neigé ce jour\-là \(It Snowed That Day\)](https://open.spotify.com/track/0ZPCBNjz6jQ6cl6Wn5MjIT) | [Jawan Audè](https://open.spotify.com/artist/36IVUzMk6o97kAANAMDJpR) | [il a neigé ce jour\-là \(It Snowed That Day\)](https://open.spotify.com/album/1fLcwObyME6BLhGniansUu) | 2:07 | 2025-03-12 |  |
 | [INFIELES](https://open.spotify.com/track/4t4zAOM15bYaNXESRnKAs4) | [J MART](https://open.spotify.com/artist/4U5QlsisiFasO599Hn5rTK) | [INFIELES](https://open.spotify.com/album/0qkpwj0NB9u4GQu07pRPi2) | 3:21 | 2025-08-19 |  |
@@ -131,6 +133,7 @@
 | [Out Of Your Mind](https://open.spotify.com/track/5GrkmVVLabYjq1iap5aqF2) | [VANNAH LEE](https://open.spotify.com/artist/0o2AeqlJETyETAvfZcVgvG) | [Out Of Your Mind](https://open.spotify.com/album/2pzwxx7gyFsQG9ZZprCgpP) | 3:07 | 2025-09-15 |  |
 | [peak cinema](https://open.spotify.com/track/3Lt7BxHEYOLcfWURRf7SdR) | [Nakeltbg](https://open.spotify.com/artist/2Vg7QmOQ4alrHtr5vu677Q) | [COALESCENCE \(7\)](https://open.spotify.com/album/5oFCxq9UhLjkbmlcKbem7U) | 2:46 | 2025-09-02 |  |
 | [PERREO MALDITO BB](https://open.spotify.com/track/52JXO6Hq0RyQYfTtsLFd5F) | [J.Cantero](https://open.spotify.com/artist/4UPnYaUpsfkxIf8WbUhYgb) | [ALL BEATS 2](https://open.spotify.com/album/6POoVSAMhdL1BT0Z2m0MmR) | 3:37 | 2025-08-11 |  |
+| [personal](https://open.spotify.com/track/3euE3Hrf5sGffTMoWaQw80) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N), [taidyn](https://open.spotify.com/artist/28xsr9dcYuN8Kmy1zdN4xx) | [personal](https://open.spotify.com/album/38zNure1dJiTE4rhKE2Fxf) | 2:58 | 2026-04-07 |  |
 | [Pine](https://open.spotify.com/track/38WAf7TDAQESf2AFTZlDnm) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Pine](https://open.spotify.com/album/4Ku6TElKYc9ML30DbgWEg5) | 3:24 | 2025-04-14 |  |
 | [pinky promise](https://open.spotify.com/track/4OIZrD0Q5HjdFSL0FPrAu3) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [WANT 2 BE 3](https://open.spotify.com/album/4IhdgtgY206V0NATs0V694) | 2:00 | 2025-11-10 |  |
 | [Pocket Dialer](https://open.spotify.com/track/5YC7pEmFK6wGSnfJghKNIJ) | [Gold Foil Hum](https://open.spotify.com/artist/2fk3ifpGKFFprX6C863u1Y) | [Character Flaw](https://open.spotify.com/album/4qn26yLrkTT6dSYXe1nlCs) | 3:19 | 2025-11-04 |  |
@@ -153,6 +156,7 @@
 | [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 | 2026-01-09 |  |
 | [ROTO](https://open.spotify.com/track/5EATqvvq7FvnNxtTYymbfe) | [Ecuaxel](https://open.spotify.com/artist/752FyhTCidwubenzuTtLtk) | [ROTO](https://open.spotify.com/album/4lleNR7Guf06eqPT1sEtKd) | 2:57 | 2026-01-18 |  |
 | [russian roulette](https://open.spotify.com/track/6FKpFWybDMmj3dH9Uap2E8) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [russian roulette](https://open.spotify.com/album/5FJsgeXI6L9CMot8JMQZQL) | 2:20 | 2026-03-25 |  |
+| [Save the Grin](https://open.spotify.com/track/2hOlF6gN2O5N1iPcuXbu7d) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 4:05 | 2026-04-07 |  |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2026-01-05 |  |
 | [Shoot Me Like A Doll](https://open.spotify.com/track/2QDBsajFcgMppn7zlYxQDt) | [Zorastead](https://open.spotify.com/artist/1SKZNWwhnoPtjO6pVopG59) | [Shoot Me Like A Doll](https://open.spotify.com/album/3Yt2Y5JabvIsWl90cOZV9o) | 3:09 | 2026-03-05 |  |
 | [Signals](https://open.spotify.com/track/7ueNlLSD7Y2mCj5smSMMFj) | [Ian Carpenter](https://open.spotify.com/artist/6rWRC2PEWJyQ5IVN5ioIO9) | [Emotions](https://open.spotify.com/album/6wM6OSdZalGYy6PoK0QqBD) | 5:16 | 2025-04-14 |  |
@@ -163,6 +167,7 @@
 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-27 |  |
 | [Stargirl](https://open.spotify.com/track/4y5J5u4xOnKxx5swAB65kU) | [yourfadedmuse](https://open.spotify.com/artist/7HbN1YBXzK01eA90eEbjvl) | [Stargirl](https://open.spotify.com/album/2fjlEvzzKeUq0oKEVDspEP) | 3:10 | 2025-07-07 |  |
 | [Stay Out Of The Basement](https://open.spotify.com/track/6QvxKCNitDSTfYR2wOWJOR) | [Allegories](https://open.spotify.com/artist/61bTkOisFXOWUZibTyZhgD) | [Stay Out Of The Basement](https://open.spotify.com/album/1O9lrL87I7MP6pEwibbAVj) | 2:59 | 2025-08-19 |  |
+| [Still classy](https://open.spotify.com/track/3YQ3kRyU3KkdJmRKDTbrdZ) | [Dylan Vel](https://open.spotify.com/artist/1JZ7h4obyLusP8iJoX5lv5) | [Intelligence without love](https://open.spotify.com/album/1ogbieHuWXXudQIIxKCGFJ) | 5:51 | 2026-04-07 |  |
 | [Still In Love](https://open.spotify.com/track/1M52mCrWoQ02KCGHLEAdVF) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Still In Love](https://open.spotify.com/album/1gr8h4IKRE7r1h6CmLKtlT) | 3:49 | 2025-07-03 |  |
 | [Streets](https://open.spotify.com/track/1f0WLhzTTPvqoma7iUyVp1) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:56 | 2025-03-12 |  |
 | [Sweet Blue Moon](https://open.spotify.com/track/4Rt3uzW4h8k1EVNarWHEpW) | [Victoria Staff](https://open.spotify.com/artist/1CxFiD1ixwWLP3xhETS60s) | [Sweet Blue Moon](https://open.spotify.com/album/6k4f04JZ886TCHFKzAWmQL) | 2:50 | 2026-02-06 |  |

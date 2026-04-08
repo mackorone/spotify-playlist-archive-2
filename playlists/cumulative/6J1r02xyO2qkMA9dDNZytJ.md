@@ -4,7 +4,7 @@
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-232 songs - 11 hr 49 min
+233 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Organ Work](https://open.spotify.com/track/3ugs9BPUCPPiqJ7AxndF9G) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Rello](https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48) | [Organ Work](https://open.spotify.com/album/43FZWY38lIQ4Ca42GYFkPr) | 3:04 | 2025-10-10 | 2026-03-07 |
 | [Over You](https://open.spotify.com/track/7JXrx6UxFSs544gh4vxeW0) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Over You](https://open.spotify.com/album/1ybQKmpKRvTWEDzbWfKZQq) | 2:47 | 2025-12-05 |  |
 | [Pedal To The Floor](https://open.spotify.com/track/4zd6hhBMwLvMUgXntkO9qc) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd), [Soma](https://open.spotify.com/artist/23pMHdWBS71N6BsOmYjNYa) | [Pedal To The Floor EP](https://open.spotify.com/album/6NJTWa9ZWRBs18UJgw4k1H) | 3:30 | 2026-02-27 |  |
+| [Perfect Love](https://open.spotify.com/track/77pUogDgdbeVB8LMfrtphj) | [Alaia & Gallo](https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25) | [Perfect Love](https://open.spotify.com/album/4xXHKZ5W5tVPfU2AorxPH4) | 3:00 | 2026-04-07 |  |
 | [Perfect Sound](https://open.spotify.com/track/1RGXZiKwwo3jTp7IuWZLIq) | [HASKELL](https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj) | [Perfect Sound](https://open.spotify.com/album/5Ul3SgGrkOJBJkID0umUOb) | 2:46 | 2025-07-18 | 2026-01-24 |
 | [Perks Of The Roll](https://open.spotify.com/track/6EwCKx9aRcjTw6x25OmT8t) | [Sam Curran](https://open.spotify.com/artist/4BBFBtFx8apgzn34zfXIdA), [Harry Unsworth](https://open.spotify.com/artist/1cS0sZXi7K2blpbendbE2A) | [Perks Of The Roll EP](https://open.spotify.com/album/7tsWvqK1vEqmT59vtufFQH) | 2:57 | 2025-08-22 | 2026-01-15 |
 | [Pinta La Cara](https://open.spotify.com/track/5AVI8ypG9UVCZVlCKYUsze) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Jay Rah](https://open.spotify.com/artist/6gte1p7WrXAo0U4NWZ3nnv) | [Pinta La Cara](https://open.spotify.com/album/7LScuw1NUZ4d98YS3TmeZI) | 2:26 | 2026-01-09 |  |

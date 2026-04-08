@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "$AMMEN",
+        "url": "https://open.spotify.com/album/7C2AQA02ZhqeKf8UPYDcTD"
+      },
+      "artists": [
+        {
+          "name": "GUSTO",
+          "url": "https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182589,
+      "name": "$AMMEN",
+      "url": "https://open.spotify.com/track/2eEUhbrrR7ZwYkOKDIO9oh"
+    },
+    {
+      "album": {
         "name": "007",
         "url": "https://open.spotify.com/album/1QltDJCPYys8wTwNOFxTvo"
       },

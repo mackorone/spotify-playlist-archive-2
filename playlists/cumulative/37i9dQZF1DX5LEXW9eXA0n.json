@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \ubc15\ud6a8\uc2e0 (Park Hyo Shin)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: AKMU (\uc545\ubba4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -8342,7 +8342,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 198000,
       "name": "Good Bye",
       "url": "https://open.spotify.com/track/7m2Pu5bjNIyT2Y2VMUgMEa"
@@ -13533,6 +13533,24 @@
     },
     {
       "album": {
+        "name": "FLOWERING",
+        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276920,
+      "name": "Joy, Sorrow, A Beautiful Heart",
+      "url": "https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK"
+    },
+    {
+      "album": {
         "name": "Just",
         "url": "https://open.spotify.com/album/1mNNVEDDbAWUGas45o94VZ"
       },
@@ -13876,7 +13894,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 250984,
       "name": "Last Love(feat. LEE Mujin)",
       "url": "https://open.spotify.com/track/43mBIaKq0WKjyb5c4C5p94"
@@ -30436,6 +30454,24 @@
       "duration_ms": 211286,
       "name": "\ub098 \uc815\ub9d0 \ud798\ub4e4\uc5b4 (feat. \ud3f4\ub9bc)",
       "url": "https://open.spotify.com/track/08lWUlD04qn35mvXZc9m8Z"
+    },
+    {
+      "album": {
+        "name": "\uc6b0\ub9ac\ub294 \ub9e4\uc77c\ub9e4\uc77c OST Part.7 \u2013 \ub098\uc758 \ubc14\ub78c\uc740 (Before We Knew OST Part.7 \u2013 My Wish)",
+        "url": "https://open.spotify.com/album/5mxc5C915JkW8yWmwRYeRg"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "\ub098\uc758 \ubc14\ub78c\uc740 (My Wish)",
+      "url": "https://open.spotify.com/track/4nBrz3SZL65qMNf2oF4i5O"
     },
     {
       "album": {

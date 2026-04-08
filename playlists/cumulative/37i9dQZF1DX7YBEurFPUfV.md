@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Kaso
 
-174 songs - 10 hr 3 min
+175 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Mio!](https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO) | [Lullysnake](https://open.spotify.com/artist/4KliRHlaiBy3lAztDAD6cz) | [Mio!](https://open.spotify.com/album/45bACcrff6jn9j3yrniTuE) | 2:54 | 2025-04-03 |  |
 | [MONDAY](https://open.spotify.com/track/2rXwQZu39IkjjlnVOGdLev) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [MONDAY](https://open.spotify.com/album/7bHuP10BZyK6zUjqnMPJTU) | 2:52 | 2024-06-05 | 2024-08-21 |
 | [Mosta7il](https://open.spotify.com/track/1iSKsj1KqfXtOhB0khjd4F) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Mosta7il](https://open.spotify.com/album/6RUwR8C98iqqJoEpneld4d) | 3:17 | 2025-06-20 |  |
-| [Mousiba](https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [Mousiba](https://open.spotify.com/album/3tfQjGA6nl6STu7C7O2hZQ) | 3:40 | 2024-10-10 |  |
+| [Mousiba](https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [Mousiba](https://open.spotify.com/album/3tfQjGA6nl6STu7C7O2hZQ) | 3:40 | 2024-10-10 | 2026-04-08 |
 | [Mr.Beast](https://open.spotify.com/track/1BeNrqDTCQ0mPRp9zdyfUl) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Mr.Beast](https://open.spotify.com/album/3y3oOcdoAUVRfyVzGmYNUI) | 2:15 | 2025-07-02 |  |
 | [Mrara](https://open.spotify.com/track/20hX6OCPCz4Q7RA9CMiIW6) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Mrara](https://open.spotify.com/album/1if6NGfmEZVfz1QhUDFCfl) | 3:33 | 2025-12-18 |  |
 | [N.L.R](https://open.spotify.com/track/4ixz7G5AHCGw8rAwMKCSVc) | [SC Papi](https://open.spotify.com/artist/50km3N5wwVlGJvZYqIrAoK) | [N.L.R](https://open.spotify.com/album/52yALrfVF4I4TBZJn75jxW) | 2:38 | 2025-12-18 |  |
@@ -151,6 +151,7 @@
 | [Shkoon](https://open.spotify.com/track/76oxojNipN7ol8ALGuNA0Y) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Shkoon](https://open.spotify.com/album/5Et9sV7KldC7b3sxSR4uWW) | 3:36 | 2024-02-24 | 2024-05-25 |
 | [Smile](https://open.spotify.com/track/1tH4uq1ObOtg8bOaMIot2F) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Smile](https://open.spotify.com/album/6nGD6qoBhp61FUabIjWWGV) | 3:34 | 2024-05-02 | 2024-06-03 |
 | [SNE NMES SME](https://open.spotify.com/track/60iFivuGYfiQaI0doBvyop) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [NOTE](https://open.spotify.com/album/3t4d4XbkJ02ohP8efP1g4L) | 3:17 | 2024-02-24 | 2025-07-05 |
+| [Solo](https://open.spotify.com/track/35SGxqqbEWmGTXbnsKkbYt) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Solo](https://open.spotify.com/album/01H3uuzW07GqjNtveuvWiV) | 3:22 | 2026-04-07 |  |
 | [SOMMET](https://open.spotify.com/track/0BL3kRwVBhFH8pZ1NgLOIk) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [SOMMET](https://open.spotify.com/album/5tZPJfcLFCwma2ln8UaOHq) | 3:34 | 2024-07-08 | 2025-10-22 |
 | [Souk](https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Souk](https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2) | 3:40 | 2024-05-10 |  |
 | [Sout El Houma](https://open.spotify.com/track/37TCnxoYBgjpb42OO0bYLG) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [Sout El Houma](https://open.spotify.com/album/7M3i5MAk7lYAbAZGCj6mXE) | 3:14 | 2025-10-19 |  |

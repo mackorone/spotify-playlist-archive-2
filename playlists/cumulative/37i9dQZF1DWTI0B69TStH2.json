@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:3OSpVIczY7n8Mhz02orZTP\">Julia Przybylska</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:59nH7LKqK561XQ2xfLnXeL\">Iga Kumka</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -4558,6 +4558,28 @@
       "duration_ms": 213161,
       "name": "Bez Ciebie",
       "url": "https://open.spotify.com/track/06IFBvVB7bs7CEcG8i9s6D"
+    },
+    {
+      "album": {
+        "name": "Bez Ciebie",
+        "url": "https://open.spotify.com/album/56BxmChAvPCDEdh3OWUN91"
+      },
+      "artists": [
+        {
+          "name": "SUPERNOVA",
+          "url": "https://open.spotify.com/artist/13pID0NGBQTVDqblbBcSNO"
+        },
+        {
+          "name": "SNLGHT",
+          "url": "https://open.spotify.com/artist/1Ybm8Ze0H3meOe4GP6OWCi"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225342,
+      "name": "Bez Ciebie",
+      "url": "https://open.spotify.com/track/4DVjl9vP5pkuk4XPKVrYyD"
     },
     {
       "album": {
@@ -10504,6 +10526,24 @@
       "duration_ms": 246880,
       "name": "Cowboy Kid",
       "url": "https://open.spotify.com/track/0rOnQ386V1xIME6IttCtHe"
+    },
+    {
+      "album": {
+        "name": "KC",
+        "url": "https://open.spotify.com/album/4xp6k5LYGZppyFjPXJ6hQW"
+      },
+      "artists": [
+        {
+          "name": "Iga Kumka",
+          "url": "https://open.spotify.com/artist/59nH7LKqK561XQ2xfLnXeL"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147209,
+      "name": "Cozy",
+      "url": "https://open.spotify.com/track/5JXteAJoYA7ulRz8t9Ehay"
     },
     {
       "album": {
@@ -17252,6 +17292,24 @@
       "duration_ms": 236497,
       "name": "fallevermore",
       "url": "https://open.spotify.com/track/60rum6M4swl9BMeuWOTcLR"
+    },
+    {
+      "album": {
+        "name": "fallin starzzz",
+        "url": "https://open.spotify.com/album/31hC5HpCijwfaeBbq3Vrpp"
+      },
+      "artists": [
+        {
+          "name": "Suva",
+          "url": "https://open.spotify.com/artist/2hIcmTMU2OPtDS5hWXbIXy"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174939,
+      "name": "fallin starzzz",
+      "url": "https://open.spotify.com/track/4gB5Uq2PdX3dHL3Fqw1QvA"
     },
     {
       "album": {
@@ -31464,7 +31522,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 125142,
       "name": "LISTY DO M",
       "url": "https://open.spotify.com/track/2Y79ZC0Ymnx6lgMRzJfzAh"
@@ -34944,6 +35002,28 @@
       "duration_ms": 229620,
       "name": "Mi\u0119kn\u0119",
       "url": "https://open.spotify.com/track/0G5kqBnlGJ3V62lN2ui00B"
+    },
+    {
+      "album": {
+        "name": "MI\u0118SKO",
+        "url": "https://open.spotify.com/album/2qV2CefVpgFpCo5a3Cl7qE"
+      },
+      "artists": [
+        {
+          "name": "AGNT",
+          "url": "https://open.spotify.com/artist/5lmovwB4FMczvrKUL87TRS"
+        },
+        {
+          "name": "Molehead",
+          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "MI\u0118SKO",
+      "url": "https://open.spotify.com/track/7jVc2p4KVKwxM2XMMbbQET"
     },
     {
       "album": {
@@ -44616,7 +44696,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 117073,
       "name": "OD SUFITU DO POD\u0141OGI",
       "url": "https://open.spotify.com/track/3IGLT2lcT7Sbf7vXBnIlo4"
@@ -49818,7 +49898,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 197142,
       "name": "PLOT",
       "url": "https://open.spotify.com/track/389hRSjxbLKFhMWSqVZVog"
@@ -72698,7 +72778,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 191076,
       "name": "wolna woda",
       "url": "https://open.spotify.com/track/2XTvbfSTw2StcUhumtmIAd"

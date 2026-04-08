@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 663 likes - 506 songs - 1 day 0 hr 25 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 664 likes - 506 songs - 1 day 0 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -490,7 +490,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 480 | [Whitney remix ft\. swaveoh](https://open.spotify.com/track/4mo6JNiJ6RlcrxYArkImoR) | [swaveoh](https://open.spotify.com/artist/4tq4w6QBUcBu7jPXlREGDz) | [Whitney remix ft\. swaveoh](https://open.spotify.com/album/76LHANQHM4lOYbeultZQYN) | 1:38 |
 | 481 | [WIFE YOU UP \- Dance Remix](https://open.spotify.com/track/2IbvLHBU9xNltdOxQNc7Ee) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [blackbirdz](https://open.spotify.com/artist/5XlpgAlMt1YOjijhFazgdg), [JJJackson](https://open.spotify.com/artist/0MOqq6zMTLf6oTqkcCTAv6) | [WIFE YOU UP REMIX PACK](https://open.spotify.com/album/3Q1Dl3LhIIYfcl19OL6Pks) | 2:36 |
 | 482 | [Pressuh](https://open.spotify.com/track/0bN6DP9jvgIEqkLCYVVnCk) | [Dova?](https://open.spotify.com/artist/1EEjUSS9drSjsLAndXHpRo) | [Pressuh](https://open.spotify.com/album/7eWqkKPbjpBjysS4Kc15f8) | 2:00 |
-| 483 | [whatchu want](https://open.spotify.com/track/7s77OYpBKZ6sOHlkyqgC8i) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [whatchu want](https://open.spotify.com/album/15wJznFpg1iyZMSGUA6YGo) | 1:58 |
+| 483 | [whatchu want](https://open.spotify.com/track/7s77OYpBKZ6sOHlkyqgC8i) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [whatchu want](https://open.spotify.com/album/15wJznFpg1iyZMSGUA6YGo) | 1:57 |
 | 484 | [Şcreąm](https://open.spotify.com/track/7kylGTeeN4F2EdTdd9ILTb) | [Morg@n](https://open.spotify.com/artist/52mAgZb9Bb47DUbTkVTHZz), [o0Zay0o](https://open.spotify.com/artist/1ftuWlBifhQ7MmBuzT1RWI) | [Şcreąm](https://open.spotify.com/album/1r7rLfQ39zKjExdRHa1uvn) | 2:49 |
 | 485 | [Crunch Time](https://open.spotify.com/track/1zs08Z4WOWrBLXFOMmoEHl) | [Kershey](https://open.spotify.com/artist/5PXnOMWHxDzYxQucJp4bq8) | [Crunch Time](https://open.spotify.com/album/01vdh0IeFJRK2awZeuP04Q) | 2:24 |
 | 486 | [BENDER](https://open.spotify.com/track/4RdrLiRyx2GmM4lo43jeAY) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [BENDER](https://open.spotify.com/album/1940YocJzAsNQnBAr3ID7s) | 2:05 |

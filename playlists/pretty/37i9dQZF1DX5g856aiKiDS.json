@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 517487,
+  "num_followers": 517513,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 191994,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 219106,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 191994,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
         "name": "Your Dog Loves You",
         "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 273000,
       "name": "Your Dog Loves You (Feat. Crush)",
       "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
-        "name": "Bye Bye My Blue",
-        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Bye Bye My Blue",
-      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
-        "name": "Absence 'Side A'",
-        "url": "https://open.spotify.com/album/294edGP7qQdiIXxZlQNPki"
-      },
-      "artists": [
-        {
-          "name": "LambC",
-          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
-        }
-      ],
-      "duration_ms": 215795,
-      "name": "Love like that",
-      "url": "https://open.spotify.com/track/4WdOTZKQ9HzUqo5VEGiLGf"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
         "name": "Amusement Park",
         "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
+        "name": "Absence 'Side A'",
+        "url": "https://open.spotify.com/album/294edGP7qQdiIXxZlQNPki"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        }
+      ],
+      "duration_ms": 215795,
+      "name": "Love like that",
+      "url": "https://open.spotify.com/track/4WdOTZKQ9HzUqo5VEGiLGf"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
-        "name": "Like a Fool",
-        "url": "https://open.spotify.com/album/6qUbqU5WUNc4tQuwdVsFMQ"
-      },
-      "artists": [
-        {
-          "name": "NIve",
-          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 214426,
-      "name": "Like a Fool",
-      "url": "https://open.spotify.com/track/3yjlkUlDhK2XwLlOM6TO5Q"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
         "name": "HAAN X Chan : Synergy",
         "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 194625,
       "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
       "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
+        "name": "Like a Fool",
+        "url": "https://open.spotify.com/album/6qUbqU5WUNc4tQuwdVsFMQ"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "Like a Fool",
+      "url": "https://open.spotify.com/track/3yjlkUlDhK2XwLlOM6TO5Q"
     }
   ],
   "unique_name": "Dalkom Cafe",

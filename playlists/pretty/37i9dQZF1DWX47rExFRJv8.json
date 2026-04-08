@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 112217,
+  "num_followers": 112251,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2024-07-13 01:13:49",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+        "name": "EL BA\u00d1O",
+        "url": "https://open.spotify.com/album/5phDwq3mKZdLiFxyRpgcCV"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 219396,
-      "name": "El Pr\u00e9stamo",
-      "url": "https://open.spotify.com/track/2XVilv6s9GETnw9PG4T9Mz"
+      "duration_ms": 214520,
+      "name": "EL BA\u00d1O",
+      "url": "https://open.spotify.com/track/2vvdTrdryjsl8DmPIMDWZU"
     }
   ],
   "unique_name": "Latin Hits 2018",

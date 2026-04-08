@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 885 likes - 131 songs - 8 hr 2 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 893 likes - 136 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,5 +139,10 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 129 | [The Hope That Kills You](https://open.spotify.com/track/4oi6vgA4XrcUKRO0N3Y3eq) | [Jonny Morgan & The Moral Support](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD) | [The Hope That Kills You](https://open.spotify.com/album/4jYxKqGVU9hhTp8nwyDHhl) | 4:00 |
 | 130 | [Survive You](https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Prelude](https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik) | 4:17 |
 | 131 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 |
+| 132 | [Halfway](https://open.spotify.com/track/52vhLMGyPzibPksdDabol9) | [PICKLE JUICE](https://open.spotify.com/artist/02OYBGdYRGnzhcYR8AvHmS) | [Halfway](https://open.spotify.com/album/2E4fKXEb6TRuakzh4us7ZR) | 3:28 |
+| 133 | [Testify](https://open.spotify.com/track/3VpudFzGzVKGpzBmhlDXkc) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 5:34 |
+| 134 | [GIGACHUD](https://open.spotify.com/track/5AbUAbLQ0OwGMKUZJbZBIx) | [BLABSCAM!](https://open.spotify.com/artist/1dgobA4FiBSFA4QRWLs6ok) | [GIGACHUD](https://open.spotify.com/album/6mB0mqrpStENY1wcycOV0A) | 3:38 |
+| 135 | [Crushwhore](https://open.spotify.com/track/3g9dkoiaCGaaAAX8WS88c5) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Learning It the Hard Way](https://open.spotify.com/album/6h3qBmbL2n3vFtfYF9G9uq) | 3:38 |
+| 136 | [Deep Cut](https://open.spotify.com/track/02bk2a5aKm03H9AeQQKQi7) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [Deep Cut EP](https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd) | 2:26 |
 
-Snapshot ID: `AAAFrpKdhsk1Cmh/DEcUX0JTokj4Ml98`
+Snapshot ID: `AAAFswgYJokzKztYSci1NIABxzuBTi8L`

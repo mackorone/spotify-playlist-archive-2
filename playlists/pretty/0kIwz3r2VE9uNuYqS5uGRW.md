@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 195 songs - 10 hr 7 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 200 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,5 +203,10 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 193 | [Everyone Clapped Anyway](https://open.spotify.com/track/2zrBWiv8Htq8oWS4fmW8iz) | [Verena](https://open.spotify.com/artist/3QSg39zXOtTTdxvwRUm52y) | [Everyone Clapped Anyway](https://open.spotify.com/album/1fzTnxhsA84YZusPiyBHv2) | 2:36 |
 | 194 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 |
 | 195 | [Jazz Soul \- \(Freestyle\)](https://open.spotify.com/track/2SGF1liiKRxgtJM12X2XfU) | [Pazzo](https://open.spotify.com/artist/1DDE68aTInM89DhuzkIWAR) | [Jazz Soul](https://open.spotify.com/album/3pdWZJ8FhYGdasB8Qon7l5) | 3:32 |
+| 196 | [Save the Grin](https://open.spotify.com/track/2hOlF6gN2O5N1iPcuXbu7d) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 4:05 |
+| 197 | [If U Want It](https://open.spotify.com/track/3AI6xAwOV2Bs28DCJ0o4qV) | [QUIETLOVE](https://open.spotify.com/artist/22GUJjeW3kCn3nWOFQViKv) | [If U Want It](https://open.spotify.com/album/0toROLda6GViKcYn9qrMWA) | 2:17 |
+| 198 | [Buffet Froid](https://open.spotify.com/track/53S1EkSKU0xYaYuTLpkTkG) | [Ratel C](https://open.spotify.com/artist/2ZDIYXNX6XbJrIWGCaTLxc) | [Buffet Froid](https://open.spotify.com/album/2lqF0eFcb7yIw4LmZqTpwN) | 2:39 |
+| 199 | [personal](https://open.spotify.com/track/3euE3Hrf5sGffTMoWaQw80) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N), [taidyn](https://open.spotify.com/artist/28xsr9dcYuN8Kmy1zdN4xx) | [personal](https://open.spotify.com/album/38zNure1dJiTE4rhKE2Fxf) | 2:58 |
+| 200 | [Still classy](https://open.spotify.com/track/3YQ3kRyU3KkdJmRKDTbrdZ) | [Dylan Vel](https://open.spotify.com/artist/1JZ7h4obyLusP8iJoX5lv5) | [Intelligence without love](https://open.spotify.com/album/1ogbieHuWXXudQIIxKCGFJ) | 5:51 |
 
-Snapshot ID: `AAAVyam+ntwrMadSs86FoTdLLG5fP9JX`
+Snapshot ID: `AAAVzpWD4LNKNtGaRmao6oXLr/uu4lvl`

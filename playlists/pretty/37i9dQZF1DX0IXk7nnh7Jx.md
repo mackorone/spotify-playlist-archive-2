@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Jonathan Ogden
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,853 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,868 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 10 | [Needs Reminding](https://open.spotify.com/track/2uVs6YttPRfHiESD3sDBlz) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [The Lion](https://open.spotify.com/album/4DoERFot0mneUyrLYl5OQf) | 3:33 |
 | 11 | [Broken Record](https://open.spotify.com/track/5O4XktnGcZlRw1Eqtg5BNJ) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [Love Who I Am](https://open.spotify.com/album/5UIgdBGKJHRsYgUh44vno1) | 3:53 |
 | 12 | [Your Will](https://open.spotify.com/track/0iWOdu95ZS9X5o5Bwnavjy) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [OTW](https://open.spotify.com/album/6J0mKjH3sp31CvryORtQcK) | 3:02 |
-| 13 | [SOS](https://open.spotify.com/track/2plxZbunq262aPivPjURsw) | [PARTY WAVE](https://open.spotify.com/artist/5MOUpRLvK6boZ3J5av1YK9), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SOS](https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ) | 2:49 |
+| 13 | [SOS](https://open.spotify.com/track/2plxZbunq262aPivPjURsw) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SOS](https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ) | 2:49 |
 | 14 | [Heaven Closes Doors \(reimagined\)](https://open.spotify.com/track/5dJHRM6Z8shJn5y59KM8ND) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Jude Moses](https://open.spotify.com/artist/0ZucOY9iAgayOMRZwSDJSO) | [Heaven Closes Doors \(reimagined\)](https://open.spotify.com/album/2ZEEgDddhG0ET7yhjriWFb) | 5:15 |
 | 15 | [SOMETIME](https://open.spotify.com/track/2dpyYp2a4HJj5UhdzS14dB) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [SOMETIME](https://open.spotify.com/album/3EVfzhpYLVPbqhvbN7R4E0) | 2:58 |
 | 16 | [i can see ur progress from here](https://open.spotify.com/track/69uOKhqJ6y1kkayZILeJaa) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Briana Bene](https://open.spotify.com/artist/2BYw0kqiNbjtp1clFthnGe) | [i can see ur progress from here](https://open.spotify.com/album/19uxmnBsktsHPlLCooMyLn) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 74 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
 | 75 | [Come Away With Me](https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4) | [Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Come Away With Me](https://open.spotify.com/album/0zhjF3Y2qZfKlxPJaDH1Vy) | 2:39 |
 
-Snapshot ID: `AAAAACztjFmxhI0iY+ieHTwOdnHmO0Wb`
+Snapshot ID: `AAAAAA9B31DsBzFv5bxu2fEStliRpVQo`

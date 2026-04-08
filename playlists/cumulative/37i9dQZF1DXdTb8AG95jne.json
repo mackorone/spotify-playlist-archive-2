@@ -7892,7 +7892,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 182282,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/3CKGadinrCqXMJf5He0jvO"
@@ -11542,6 +11542,24 @@
       "duration_ms": 180583,
       "name": "Like A Bird",
       "url": "https://open.spotify.com/track/6gFIpK79s3aMiJM2riCNw5"
+    },
+    {
+      "album": {
+        "name": "Like a Bird, Like a Fish",
+        "url": "https://open.spotify.com/album/2LSXBO9G6hE7ZYrnOCATX7"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216562,
+      "name": "Like a Bird, Like a Fish",
+      "url": "https://open.spotify.com/track/4xpfEYzoPiUC5nO5swt9bk"
     },
     {
       "album": {

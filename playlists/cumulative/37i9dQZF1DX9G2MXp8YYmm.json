@@ -3523,6 +3523,28 @@
     },
     {
       "album": {
+        "name": "Erkekler De Yanar",
+        "url": "https://open.spotify.com/album/2VKK7GgndPhA8tdaW4omZU"
+      },
+      "artists": [
+        {
+          "name": "Nazan \u00d6ncel",
+          "url": "https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP"
+        },
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189320,
+      "name": "Erkekler De Yanar",
+      "url": "https://open.spotify.com/track/6Q1hUPbagIyzr8Bhx4XUS9"
+    },
+    {
+      "album": {
         "name": "Esmer",
         "url": "https://open.spotify.com/album/4AyoygSAYsKAErO6s6ha67"
       },
@@ -5526,7 +5548,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 176497,
       "name": "Ka\u00e7sana Bana (Deli K\u0131z Part II)",
       "url": "https://open.spotify.com/track/6pz4uHZAKUawz4uj6c6GYk"

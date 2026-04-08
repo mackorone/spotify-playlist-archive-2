@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,893 songs - 13 day 17 hr 13 min
+5,895 songs - 13 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1383,6 +1383,7 @@
 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:44 | 2019-09-29\* | 2020-09-01 |
 | [Don't You Worry About a Thing](https://open.spotify.com/track/2ppH1UUQzthsvL1rFci6ST) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [DJ Spinna Presents the Wonder of Stevie \- Volume 3](https://open.spotify.com/album/1A8WJrw53MG92KIX8YO2eF) | 2:48 | 2021-07-12 | 2021-11-19 |
 | [Done Believing](https://open.spotify.com/track/5vM7eam9gfUXqqnKs4WKYN) | [Snapdibz](https://open.spotify.com/artist/6oF5Y5JgNMSBfZR93mhKlK) | [Done Believing](https://open.spotify.com/album/1mOdL5EWP7nn8JbbYcq2yb) | 3:24 | 2025-01-13 | 2025-01-25 |
+| [Done For](https://open.spotify.com/track/3aSyshS7O34fmTpcieSCTt) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Done For](https://open.spotify.com/album/1cGgULJ45qb2qOvPuKQcXH) | 2:33 | 2026-04-07 |  |
 | [Done Sailing](https://open.spotify.com/track/093dzjKrQ5RCLF4Hpykpzc) | [Sleepers Club](https://open.spotify.com/artist/4PHzHvZnYFeg15NF0LEkOm) | [Done Sailing](https://open.spotify.com/album/4lKMLlJlnG5LLAIkVBGEat) | 3:29 | 2025-09-23 | 2025-10-06 |
 | [DONT](https://open.spotify.com/track/0dLTuzyAAJfTQMSOtI0Klc) | [DAJi](https://open.spotify.com/artist/5zKh5CJFIM8PY5R14lmyMY), [hirayah](https://open.spotify.com/artist/14iExa8dvc3REhIm3ZmGL2) | [DONT](https://open.spotify.com/album/0BMs7ShvHzA1LdJyPmAR5d) | 3:41 | 2026-02-26 | 2026-03-29 |
 | [Dont play shy](https://open.spotify.com/track/4dbLWR6inAGUyhPyVIZOC6) | [Bolo The Assassin](https://open.spotify.com/artist/3Ur4Kk821HaTUpr80QNW6v) | [Dont play shy](https://open.spotify.com/album/5k8um2O3BNlWZpRKF0yzWL) | 2:34 | 2026-01-22 | 2026-02-24 |
@@ -5581,6 +5582,7 @@
 | [We Won't Forget](https://open.spotify.com/track/0GdQJXcJO0Akn5YBdqQYaD) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [We Won't Forget](https://open.spotify.com/album/5gpDNjNqnPEwgiisdQGQYc) | 2:36 | 2024-01-20 | 2024-02-15 |
 | [We'll Never Be This Young Again](https://open.spotify.com/track/44c8vaeSnZb5Tvy7KL3tju) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [We'll Never Be This Young Again](https://open.spotify.com/album/1kEHqAnzTdlVEUyfOiHN7X) | 2:44 | 2024-03-22 | 2024-04-05 |
 | [We're Moving Up](https://open.spotify.com/track/53XWYMK5sNGkgzepL0tlyw) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [We're Moving Up](https://open.spotify.com/album/3EFzPfgWbOcvOPSjpyzmwy) | 3:13 | 2024-10-11 | 2024-10-23 |
+| [We've Got It Goin' On](https://open.spotify.com/track/3zdMjtvZY5Rgnb8AWwoXek) | [AVLS](https://open.spotify.com/artist/5JeADtknDnMDQ8ul7NaTE0) | [We've Got It Goin' On](https://open.spotify.com/album/6gunmjlWiIZtfROoJhF1a1) | 5:14 | 2026-04-08 |  |
 | [We've Met Before](https://open.spotify.com/track/709WtRX2B12JTU4WIvk0za) | [Former Friend](https://open.spotify.com/artist/3d0qSylOj8TyMZKa2tzmpt) | [We've Met Before](https://open.spotify.com/album/59fxLWbykOoVVMBYr7byZP) | 3:04 | 2021-10-13 | 2022-03-07 |
 | [webkinz](https://open.spotify.com/track/4Fzk0AWhOpeVJrXtuu1Ffk) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [webkinz](https://open.spotify.com/album/2iguFrB72GnHEHuikJVyZe) | 2:56 | 2023-12-01 | 2023-12-25 |
 | [Wednesday Night Prayer Meeting](https://open.spotify.com/track/74EiaLmtaOlfKZYFkhHs6J) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Blues & Roots](https://open.spotify.com/album/7EOQggjtK8JCqeRz9IG33e) | 5:42 | 2024-08-12 |  |

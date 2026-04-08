@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,957 songs - 6 day 8 hr 49 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,966 songs - 6 day 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2965,5 +2965,14 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2955 | [You're Not Alone](https://open.spotify.com/track/2zA49zF3ng5BIdwItn9Tbs) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [You're Not Alone](https://open.spotify.com/album/49tPw9ieGnzjFutoGUlrMy) | 3:19 |
 | 2956 | [Hit It Like That](https://open.spotify.com/track/7fqxpnR4tUubvrIidxXEAM) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [OKAY OKAY](https://open.spotify.com/artist/6mUeeZ2vUi3y1szTVo2UBc) | [Hit It Like That](https://open.spotify.com/album/1nrR57PYQiMVb3Tmo8IzL0) | 2:02 |
 | 2957 | [Wonderland](https://open.spotify.com/track/5pQMGF5MPJQwdAVuWKKESr) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC), [Shadow Legacy](https://open.spotify.com/artist/43KI3dStl8f4EJyETnKfiX) | [Wonderland](https://open.spotify.com/album/4wezbz8qkEGf1KWMOfrgE7) | 2:36 |
+| 2958 | [Home](https://open.spotify.com/track/6c5w5NWAAcxTXUXTRvhBsT) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Home](https://open.spotify.com/album/3iWdy72nCyap8AzWfOmQfr) | 3:06 |
+| 2959 | [SHIVA](https://open.spotify.com/track/6NOMfX95ei3MYvs7pIbUzL) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Flawx](https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [SHIVA](https://open.spotify.com/album/4pgOQhCIH376eZLAeKOv0u) | 3:40 |
+| 2960 | [DANGER ZONE](https://open.spotify.com/track/4v60qhrd16Od8lzH7mKMT6) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI), [DØMINA](https://open.spotify.com/artist/2SaPpXmlY9agJpvlEbLMKD) | [DANGER ZONE](https://open.spotify.com/album/10Y02xaHPDd20la0h8SKq9) | 3:54 |
+| 2961 | [Never Back](https://open.spotify.com/track/2eHeDehUaPeYLZxmaZFoEd) | [Ephesis](https://open.spotify.com/artist/5SmV7VMzXoasDZGdeq2Keb), [Axiver](https://open.spotify.com/artist/5emJZHgnpLv0pdHr7EZOdT) | [Never Back](https://open.spotify.com/album/6I1eaL3bs60UIHsIkTIJ67) | 3:19 |
+| 2962 | [Bye Bye](https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Bye Bye](https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1) | 4:54 |
+| 2963 | [Only Girl \(In The World\)](https://open.spotify.com/track/1ZOOkYdLVwXZjLNfzptrsA) | [Lollibus](https://open.spotify.com/artist/4rn1xfu1y5T63WGFap5gr6) | [Only Girl \(In The World\)](https://open.spotify.com/album/3c2qA0o6AzgfyI4yuSnVxq) | 2:40 |
+| 2964 | [NO CHÃO](https://open.spotify.com/track/4lU2EgQkGwO0N1NHMGUppS) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [NO CHÃO](https://open.spotify.com/album/3NWgaexlnDoJMjuOJwDb19) | 2:20 |
+| 2965 | [LET IT BURN](https://open.spotify.com/track/0f2DLF4PLko8eHggi9u6YP) | [KORÜM](https://open.spotify.com/artist/1piLr7wV9RB2MGHnwotQQn) | [LET IT BURN](https://open.spotify.com/album/4UYDmV2Tj6VHzURIDBskPa) | 4:26 |
+| 2966 | [JUMP](https://open.spotify.com/track/2P0E3ywp75hj2XwYuuAYnH) | [KX CHR](https://open.spotify.com/artist/6q4BufN5u0ChOMqqxzPgGU) | [CHECK THIS EP](https://open.spotify.com/album/1j6IYV4ykWJdzBrp1DT0Ut) | 3:41 |
 
-Snapshot ID: `AAAL5PtvxvdIA6XMlM05EYYLEgULwN1G`
+Snapshot ID: `AAAL7fuDQzXmimpBQ6dAZxbPozrEkg+M`

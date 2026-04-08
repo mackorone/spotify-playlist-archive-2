@@ -14577,6 +14577,24 @@
     },
     {
       "album": {
+        "name": "EL BA7R EL A3ZAM",
+        "url": "https://open.spotify.com/album/2apOaSX0WSlo1k6HP9rOsv"
+      },
+      "artists": [
+        {
+          "name": "DAL!A",
+          "url": "https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180168,
+      "name": "NDOOR",
+      "url": "https://open.spotify.com/track/3fnUy8PxiIXubLQBS3aFei"
+    },
+    {
+      "album": {
         "name": "NDOOR",
         "url": "https://open.spotify.com/album/1Cvl5RXMUg3bPCZjenPKT0"
       },
@@ -25184,7 +25202,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 160323,
       "name": "\u0633\u0644\u0627\u0645\u064a \u0627\u0645\u0627\u0646\u0647",
       "url": "https://open.spotify.com/track/35Qk7KSF5we0gHMlUaHEvs"

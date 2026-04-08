@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,016 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,020 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 11 | [○４](https://open.spotify.com/track/3n3DLZ49Nwt3LQheVoVHga) | [HARERU](https://open.spotify.com/artist/7v89gsqlNzmYGV9Dhl2Jev) | [あれから、](https://open.spotify.com/album/0FPXl0wfNpqAbtXc8Rd6aE) | 2:50 |
 | 12 | [最後は僕に](https://open.spotify.com/track/2n919quu4QbdkBGKT7xjaM) | [Last me](https://open.spotify.com/artist/5wUPFRJ34nQYnXJ00ABCLK) | [最後は僕に / 勝手](https://open.spotify.com/album/1AKPeDWKC5a4qDkoC4rUs2) | 3:56 |
 | 13 | [昨日に則って](https://open.spotify.com/track/2RHIpb9NyMaHZ56XTMpKIg) | [ざらばんし](https://open.spotify.com/artist/3MU1QugoEIeuNgHBfEeUij) | [昨日に則って](https://open.spotify.com/album/2kU6FH4ZwcwEnRFr4HGB6I) | 3:23 |
-| 14 | [少女 \(feat\. あい\)](https://open.spotify.com/track/7kkVocoQzgPCvGQLiobS3P) | [Blue Mash](https://open.spotify.com/artist/48XJzuA3cbtDl9pjKySb5E), [あい](https://open.spotify.com/artist/1nRw1Vj9uYzU2aO4Ruojxz) | [泣くな、青春](https://open.spotify.com/album/0fMOxtoOYTxqoid0tFlPr7) | 3:10 |
+| 14 | [少女 \(feat\. あい\)](https://open.spotify.com/track/7kkVocoQzgPCvGQLiobS3P) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07), [あい](https://open.spotify.com/artist/1nRw1Vj9uYzU2aO4Ruojxz) | [泣くな、青春](https://open.spotify.com/album/0fMOxtoOYTxqoid0tFlPr7) | 3:10 |
 | 15 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 |
 | 16 | [こんな夜は](https://open.spotify.com/track/6bSf2QbTXKxo8PI86AdwyK) | [Peacock](https://open.spotify.com/artist/1dWcYuwsmUMgK8dzHuVluw) | [こんな夜は](https://open.spotify.com/album/3bBrVFtMnwfHIXl6gbIW5H) | 5:46 |
 | 17 | [こころのこり](https://open.spotify.com/track/6TGDjOSi5dOnzEKG7Voh7K) | [Brown Basket](https://open.spotify.com/artist/2mJfqewA84cfTX6sUPIyna) | [ROLLING](https://open.spotify.com/album/6rWtWYj3FITRioghDBeHsQ) | 3:36 |

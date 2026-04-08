@@ -2,9 +2,9 @@
 
 ### [キラキラポップ：ジャパン](https://open.spotify.com/playlist/37i9dQZF1DWVlypmfyCIGr)
 
-> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ミーマイナー
+> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: CLAN QUEEN
 
-11,446 songs - 28 day 9 hr 29 min
+11,447 songs - 28 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1641,7 +1641,7 @@
 | [Family](https://open.spotify.com/track/5lJ9ibiDZ4AqcgYHetpbAi) | [アツキタケトモ](https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f) | [Family](https://open.spotify.com/album/2RXcKuqmMv5tN90Vh6pCZh) | 4:33 | 2021-12-08 | 2022-01-17 |
 | [Famous](https://open.spotify.com/track/1616ag1D4I4CcuvqY5Sv2H) | [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg) | [AC2](https://open.spotify.com/album/47gui8e1GGZRRJuNzhRZjS) | 2:45 | 2021-10-27 | 2021-11-03 |
 | [Fanciful](https://open.spotify.com/track/4dk0H6rdhS4i3bAYa52zd5) | [Misaki Hinata](https://open.spotify.com/artist/1FFTz8GoGaLTkpmvQQnXkR) | [Fanciful](https://open.spotify.com/album/3mDDyEVx26pZHzjXxFMa7X) | 2:41 | 2022-01-17 | 2022-01-25 |
-| [FANCLUB](https://open.spotify.com/track/0MgqiJaThfRqjNiLJsX79j) | [スカートとODD Foot Works](https://open.spotify.com/artist/2H7oDXjy4uX13hNxgmTTAW), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [FANCLUB](https://open.spotify.com/album/79ZpZQVcuubdULjWxCoinJ) | 3:27 | 2026-04-06 |  |
+| [FANCLUB](https://open.spotify.com/track/0MgqiJaThfRqjNiLJsX79j) | [Skirt & ODD Foot Works](https://open.spotify.com/artist/2H7oDXjy4uX13hNxgmTTAW), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [FANCLUB](https://open.spotify.com/album/79ZpZQVcuubdULjWxCoinJ) | 3:27 | 2026-04-06 |  |
 | [Fancy Girl](https://open.spotify.com/track/1t5LhFl8BDDujGBMvG91uh) | [かたこと](https://open.spotify.com/artist/6KS0L3KIe0sC6uX4wmnjdZ) | [Fancy Girl](https://open.spotify.com/album/2ly0IS3hNwrZAzUMgs7HOq) | 3:04 | 2022-08-01 | 2022-08-09 |
 | [Fanfare](https://open.spotify.com/track/6esGJfLmoMlGrLDNr1eJtN) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [Fanfare](https://open.spotify.com/album/42iZGrHvO4Gx8IdqTeGbQB) | 4:21 | 2022-05-10 | 2022-07-05 |
 | [Fantasista](https://open.spotify.com/track/1WyuqLzeEX499wLisKcTPf) | [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [SUPER DANCE TOOLS Vol.4](https://open.spotify.com/album/2qs1y0xXlO4DfO0DPUVEbW) | 6:10 | 2025-02-03 | 2025-02-11 |
@@ -7461,6 +7461,7 @@
 | [ギミギミ逃避行 feat\. \#KTちゃん \- Prod\. Peko](https://open.spotify.com/track/6P5jrF5GYOfnQKysOHbY5I) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [\#KTちゃん](https://open.spotify.com/artist/2OuUcJNsgssBrQJm3idpeM) | [ギミギミ逃避行 feat\. \#KTちゃん \(Prod\. Peko\)](https://open.spotify.com/album/1yVdN2mpL2zWx4F1PampMJ) | 3:03 | 2024-03-04 | 2024-03-13 |
 | [ギャラクシーロマンス](https://open.spotify.com/track/2MMzHUJoWBvpZsnRpCJAUo) | [Usotsuki](https://open.spotify.com/artist/4HijwY5cSVJWGk3LxPka6q) | [Hibiki](https://open.spotify.com/album/4OVvKe6Q75fpoTHKUzNLsO) | 3:40 | 2021-12-08 | 2021-12-30 |
 | [ギャンラブ](https://open.spotify.com/track/6dxvHgAbFqyVHuoyslFDCe) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [ギャンラブ](https://open.spotify.com/album/4RcVqu41iSCvkRz8CsueLz) | 2:54 | 2022-07-04 | 2022-07-26 |
+| [ギューアグ](https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ギューアグ](https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ) | 3:08 | 2026-04-07 |  |
 | [ギラり](https://open.spotify.com/track/2ncTCcqglvbB4LC0qPLQFq) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [SHIBAI \(Deluxe\)](https://open.spotify.com/album/5Nld5ZThnxP6yMxMHcNCld) | 2:49 | 2026-03-09 | 2026-03-17 |
 | [ギルティ \- Guilty](https://open.spotify.com/track/6T39ocn30lHZqy9PCMGdSc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ギルティ \- Guilty](https://open.spotify.com/album/5b2yWdyyfJhDIFuJjPlsxZ) | 3:29 | 2025-08-04 | 2025-09-02 |
 | [ギンモクセイ](https://open.spotify.com/track/5fe3tm8tR3RogeeJ5XiTNh) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ギンモクセイ](https://open.spotify.com/album/4pNeEiY5zEgPlYg0plIkyE) | 3:09 | 2024-07-22 | 2024-07-30 |

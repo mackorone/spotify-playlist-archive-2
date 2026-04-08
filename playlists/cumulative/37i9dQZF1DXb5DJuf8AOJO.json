@@ -2787,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "Jesus.",
+        "url": "https://open.spotify.com/album/6P8xjQ2ethamQsh0Rc4vPD"
+      },
+      "artists": [
+        {
+          "name": "RJ dela Fuente",
+          "url": "https://open.spotify.com/artist/3oIXl4ftiAjqCsGIfwt0BK"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316500,
+      "name": "Jesus.",
+      "url": "https://open.spotify.com/track/0DAOtS9xEQ20JuVofnjhDu"
+    },
+    {
+      "album": {
         "name": "Best of Jamie Rivera",
         "url": "https://open.spotify.com/album/4nRMAFj340QaBqgU3O3cQd"
       },

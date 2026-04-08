@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,293 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,325 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 18 | [Friend Like Me](https://open.spotify.com/track/70uZXOG2KTAHwcAgp4QyYr) | [Robin Williams](https://open.spotify.com/artist/4OrieSJUghNfNx5UuPCgxF), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29EiOQJnxWlX5nVOWQpu3u) | 2:26 |
 | 19 | [La Vie En Rose](https://open.spotify.com/track/3WKnfkgwrARwElktHSU5Ik) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 2:59 |
 | 20 | [Générique \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:48 |
-| 21 | [Overture \- From "Whiplash"](https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 3:19 |
-| 22 | [New York Herald Tribune \- Bande originale du film "À bout de souffle"](https://open.spotify.com/track/7gHoL8S4Pk0pLkaTcRGAws) | [Martial Solal](https://open.spotify.com/artist/1gjen19mqMk6nP6TFOh7g2) | [À bout de souffle \(Breathless\)](https://open.spotify.com/album/59MGoeCLOjKK5UHZUAUZst) | 1:29 |
+| 21 | [New York Herald Tribune \- Bande originale du film "À bout de souffle"](https://open.spotify.com/track/7gHoL8S4Pk0pLkaTcRGAws) | [Martial Solal](https://open.spotify.com/artist/1gjen19mqMk6nP6TFOh7g2) | [À bout de souffle \(Breathless\)](https://open.spotify.com/album/59MGoeCLOjKK5UHZUAUZst) | 1:29 |
+| 22 | [Overture \- From "Whiplash"](https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Whiplash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt) | 3:19 |
 | 23 | [I Wan'na Be Like You \(The Monkey Song\) \- From "The Jungle Book" / Soundtrack Version](https://open.spotify.com/track/6FJmVOcQPaRYGiJQRIpWAL) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW), [Phil Harris](https://open.spotify.com/artist/2ISMfPtVzHc9jDDVPUEHDa), [Bruce Reitherman](https://open.spotify.com/artist/43HPW60tz4BMYMRnmXMagJ) | [Songs and Story: The Jungle Book](https://open.spotify.com/album/1wvT0KYQZsVL4LNJ7u55QY) | 4:38 |
 | 24 | [Mountain Greenery \(From "Cafe Society" Soundtrack\)](https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO), [Vince Giordano](https://open.spotify.com/artist/7vP4zvpQXJgKVcFeGNAxxI), [Nighthawks Orchestra](https://open.spotify.com/artist/1m12PvAi6HuXaSp9vPizwS) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 2:32 |
 | 25 | [The Bare Necessities](https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6) | [Bill Murray](https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1), [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [The Jungle Book \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 3:00 |

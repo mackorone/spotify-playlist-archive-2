@@ -1,6 +1,6 @@
 {
   "description": "Music Cristiana para toda la familia!",
-  "num_followers": 1718,
+  "num_followers": 1722,
   "original_name": "Ni\u00f1os Cristianos",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,22 @@
     {
       "added_at": "2026-03-23 15:10:19",
       "album": {
-        "name": "Rey de Reyes Kids",
-        "url": "https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b"
+        "name": "El Guerrero David",
+        "url": "https://open.spotify.com/album/0slP2biIxokHqSumBe0Mvt"
       },
       "artists": [
         {
-          "name": "Rey de Reyes Kids",
-          "url": "https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao"
+          "name": "Coro Renacer",
+          "url": "https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP"
+        },
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
         }
       ],
-      "duration_ms": 148369,
-      "name": "Jehov\u00e1 Es Mi Pastor",
-      "url": "https://open.spotify.com/track/6F9qH4lm0t3fHy4Hu5yVM0"
+      "duration_ms": 169903,
+      "name": "El Guerrero David",
+      "url": "https://open.spotify.com/track/7DvTLiPIjB04LonPbAp73A"
     },
     {
       "added_at": "2026-03-23 15:10:19",
@@ -291,22 +295,18 @@
     {
       "added_at": "2026-03-23 15:10:19",
       "album": {
-        "name": "El Guerrero David",
-        "url": "https://open.spotify.com/album/0slP2biIxokHqSumBe0Mvt"
+        "name": "Rey de Reyes Kids",
+        "url": "https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b"
       },
       "artists": [
         {
-          "name": "Coro Renacer",
-          "url": "https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP"
-        },
-        {
-          "name": "Canticuentos",
-          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+          "name": "Rey de Reyes Kids",
+          "url": "https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao"
         }
       ],
-      "duration_ms": 169903,
-      "name": "El Guerrero David",
-      "url": "https://open.spotify.com/track/7DvTLiPIjB04LonPbAp73A"
+      "duration_ms": 148369,
+      "name": "Jehov\u00e1 Es Mi Pastor",
+      "url": "https://open.spotify.com/track/6F9qH4lm0t3fHy4Hu5yVM0"
     },
     {
       "added_at": "2026-03-23 15:10:19",

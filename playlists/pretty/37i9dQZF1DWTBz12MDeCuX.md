@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Rubi
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,503 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,453 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [2k16 \(weisst du noch?\)](https://open.spotify.com/track/0Lot2z3ntcnTfbBXYkb58e) | [CAMO23](https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C), [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs) | [2k16 \(weisst du noch?\)](https://open.spotify.com/album/0jorUP90xaiGGCRAFDZKoV) | 2:00 |
 | 100 | [Mon Ami](https://open.spotify.com/track/522GfzswsdllV4ix60Limi) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Mon Ami](https://open.spotify.com/album/1GrFgdyyvzZDniZmgaIwA7) | 2:34 |
 
-Snapshot ID: `AAAAAGM95IhfiE1SY2bdQcastR7dXni4`
+Snapshot ID: `AAAAAHFxyvpXWARlLKXYBv8ta1MZOJQE`

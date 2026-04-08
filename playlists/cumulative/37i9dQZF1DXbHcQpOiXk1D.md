@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: ZENA
 
-798 songs - 2 day 7 hr 27 min
+799 songs - 2 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/1iz5M5tGpcwW1jfNCIdIa5) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Never Let Me Go](https://open.spotify.com/album/4pU5Fe1cVJLRj8BqDyRSJx) | 3:51 | 2025-04-25 |  |
 | [Never Odd or Even](https://open.spotify.com/track/15CgvAuQAy0FOPJYiJ2yTG) | [Maliki](https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk) | [Never Odd or Even](https://open.spotify.com/album/3F96mitDz79X98YVBgbe9B) | 4:31 | 2021-12-17 | 2022-07-16 |
 | [Never Stopped for the Sun 'till Now](https://open.spotify.com/track/20afoEqLRHin6E8mm4o4Lq) | [Gabriel Gifford](https://open.spotify.com/artist/7ceIRf4Nyq04yXCq4HXLgj) | [Arrows](https://open.spotify.com/album/0uECWXCJ3VUg3TG1oltcqs) | 3:26 | 2021-12-17 | 2022-08-05 |
+| [New Life](https://open.spotify.com/track/0YS4B8EE07YEjJG8nS1QZj) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [New Life](https://open.spotify.com/album/5L1t9L7HETbbkGEvRxhw6L) | 3:05 | 2026-04-02 |  |
 | [Next Spring](https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl) | [Next Spring](https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC) | 3:44 | 2022-10-21 | 2024-04-12 |
 | [Next Stop](https://open.spotify.com/track/0xWvC0sXy50OhLr2f8lZTV) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Next Stop](https://open.spotify.com/album/5PnsHCt16798AKmngcZMBP) | 6:41 | 2022-03-24 | 2022-07-26 |
 | [Nightingale](https://open.spotify.com/track/2WY3akDTRwojfbqQWNfSAP) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Gift from the Trees](https://open.spotify.com/album/0ENdkZVVDwCrMhdl29Ccdl) | 5:12 | 2023-10-26 | 2024-04-19 |
@@ -581,7 +582,7 @@
 | [Sending My Love](https://open.spotify.com/track/5ZHq73J3NHot1exl52pbjn) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Sending My Love \(Special Edition\)](https://open.spotify.com/album/6MDvzZhuNVjD6uFx0ZlLSM) | 7:42 | 2021-12-17 | 2022-01-06 |
 | [senzu bean](https://open.spotify.com/track/38LWEwtb13IoWz9y6PjA1s) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F), [apltn](https://open.spotify.com/artist/1E2aNJTN7iOuPRJJIoOwbr), [Makzo](https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96) | [senzu bean](https://open.spotify.com/album/6rl7d5hw2SGHbixnlEYdlF) | 3:31 | 2022-07-28 | 2022-08-06 |
 | [Set It Free \[Feat\. Richie\]](https://open.spotify.com/track/6NV7Oyl0h2FzLvDC2IrVM4) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie](https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa) | [Set It Free \[Feat\. Richie\]](https://open.spotify.com/album/4cHbKnuwv6Y9EmEWvefqgY) | 4:05 | 2024-08-15 | 2025-12-12 |
-| [Set Me Free](https://open.spotify.com/track/1DQsGVDlFvJHcUyeCfc2DZ) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Set Me Free](https://open.spotify.com/album/64xz5R9yEJV1yziSyN4OH5) | 4:16 | 2026-04-02 |  |
+| [Set Me Free](https://open.spotify.com/track/1DQsGVDlFvJHcUyeCfc2DZ) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Set Me Free](https://open.spotify.com/album/64xz5R9yEJV1yziSyN4OH5) | 4:16 | 2026-04-02 | 2026-04-08 |
 | [Shabz Needs Sun](https://open.spotify.com/track/3TkvUZym10rDvTYrdPiKPb) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Further Out Than The Edge](https://open.spotify.com/album/0TXtct98UTyC054dJbCUJ2) | 1:45 | 2023-06-01 | 2023-06-09 |
 | [Shades of You](https://open.spotify.com/track/2OtnmFipsJgxUPkwnMP11I) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Shades of You](https://open.spotify.com/album/7jLNLqOG6x7G8lyAEgtOFC) | 4:20 | 2021-12-17 | 2022-02-15 |
 | [Shake It](https://open.spotify.com/track/0uTmLBjVtYkSCfmg8jkbHy) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [Shake It](https://open.spotify.com/album/6rIm6bKMkWASdVVSQHD4kq) | 1:51 | 2025-01-17 | 2025-02-28 |

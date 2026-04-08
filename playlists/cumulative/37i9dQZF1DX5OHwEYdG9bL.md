@@ -4,12 +4,13 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: YUNA\) \(Enjoy a playlist of songs that support music video features!\)
 
-206 songs - 11 hr 24 min
+207 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2.0](https://open.spotify.com/track/5lHPZtFxKQUYcyj978Zr8R) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0](https://open.spotify.com/album/0pEgqcP3SuI4xfMciW4Wf8) | 3:49 | 2026-04-02 |  |
 | [2.0](https://open.spotify.com/track/6GglPDAGjgX3PzbA7VrTVN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0](https://open.spotify.com/album/1X1ez8izXta4OsubqpMoA8) | 3:49 | 2026-04-02 |  |
+| [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih) | 3:10 | 2026-04-07 |  |
 | [96ers](https://open.spotify.com/track/2zRAU3xCwdikTrvGPq5pSC) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [96ers](https://open.spotify.com/album/2SJPyeGSD1fJXINbkufRu9) | 3:06 | 2025-07-15 | 2025-08-20 |
 | [All My Poetry](https://open.spotify.com/track/0xqSbnjCNg0QBw3Jt3jBai) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [All My Poetry](https://open.spotify.com/album/2OFHzxTlpEhToP5S7FKrXn) | 4:24 | 2025-07-15 |  |
 | [APT.](https://open.spotify.com/track/04h58ACw3A2hC6xKsZOkST) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/5sSwBYZvbca0i7G6yUCVXA) | 2:52 | 2025-07-15 | 2025-08-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: KSMBA",
+  "description": "The best new music by independent artists and labels. Cover: ELISHIA",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -3767,6 +3767,42 @@
     },
     {
       "album": {
+        "name": "New Plastik Abyss",
+        "url": "https://open.spotify.com/album/1P0ItuKDoa4kT9hpOZFwjF"
+      },
+      "artists": [
+        {
+          "name": "Dead Finks",
+          "url": "https://open.spotify.com/artist/00tkcgJcr35Rwj3XBmQAgQ"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "Anodyne",
+      "url": "https://open.spotify.com/track/5JdLdXEzqQaHupskdS7a6Z"
+    },
+    {
+      "album": {
+        "name": "Anotha' Way",
+        "url": "https://open.spotify.com/album/0a21FxjkTpMhJ2GRRdV5Fm"
+      },
+      "artists": [
+        {
+          "name": "Addison Dean",
+          "url": "https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Anotha' Way",
+      "url": "https://open.spotify.com/track/6boBNBU8DOlmhiX6CHlz4i"
+    },
+    {
+      "album": {
         "name": "Things Look Different Now",
         "url": "https://open.spotify.com/album/1wt6odICcCYOG17AjDZvri"
       },
@@ -4456,6 +4492,24 @@
       "duration_ms": 197746,
       "name": "Arrow",
       "url": "https://open.spotify.com/track/7oCoSMovt6hD62FYKkNxsr"
+    },
+    {
+      "album": {
+        "name": "As Good as it Gets",
+        "url": "https://open.spotify.com/album/21kWSRqvw389juypYIChq7"
+      },
+      "artists": [
+        {
+          "name": "ELISHIA",
+          "url": "https://open.spotify.com/artist/1Om8dYusTC6D8oEBzGNfi3"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181512,
+      "name": "As Good as it Gets",
+      "url": "https://open.spotify.com/track/4MFnBSsj8pWRsnPHAAhNll"
     },
     {
       "album": {
@@ -25336,7 +25390,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 159480,
       "name": "Fire Walk With Me",
       "url": "https://open.spotify.com/track/2V5HAV14bvSUBcBX5PcaFQ"
@@ -25448,7 +25502,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 120500,
       "name": "Flashes",
       "url": "https://open.spotify.com/track/032AWtm9OYAMUCF13JLIJo"
@@ -40358,7 +40412,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 225743,
       "name": "Kiss the Rain",
       "url": "https://open.spotify.com/track/796pQutsRdXDdYoV0wgCRk"
@@ -48114,6 +48168,28 @@
       "duration_ms": 197303,
       "name": "morning",
       "url": "https://open.spotify.com/track/4Yc9do70f5SznLGByImUBN"
+    },
+    {
+      "album": {
+        "name": "Morning Fog",
+        "url": "https://open.spotify.com/album/3d6rcFLhJYwDhhmVEvcyKU"
+      },
+      "artists": [
+        {
+          "name": "Grace Chia",
+          "url": "https://open.spotify.com/artist/4TW4XlkN4DV6hADS97u8By"
+        },
+        {
+          "name": "Frenic",
+          "url": "https://open.spotify.com/artist/0MM6gcvFupvauB8iiqye5o"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235909,
+      "name": "Morning Fog",
+      "url": "https://open.spotify.com/track/7xcnRjD3zM4jPxDWjzYSz2"
     },
     {
       "album": {
@@ -56752,7 +56828,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 213000,
       "name": "pixeldust 18+",
       "url": "https://open.spotify.com/track/3g26F5dbTkGlszlSkXqvaC"
@@ -67788,6 +67864,10 @@
       },
       "artists": [
         {
+          "name": "Future Shade",
+          "url": "https://open.spotify.com/artist/0VQryHw3noeVXQ3cDvO1OE"
+        },
+        {
           "name": "Jannah Beth",
           "url": "https://open.spotify.com/artist/6eC2CFvVSX6FZRJqTqXwZh"
         }
@@ -75676,7 +75756,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 140952,
       "name": "Tracy",
       "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
@@ -78094,6 +78174,28 @@
       "duration_ms": 227370,
       "name": "Violent Mind",
       "url": "https://open.spotify.com/track/6oR1bDX9yBoC6Edwkbt7Vg"
+    },
+    {
+      "album": {
+        "name": "Violets",
+        "url": "https://open.spotify.com/album/6YFtRfkkB3ySWY05MUiJUj"
+      },
+      "artists": [
+        {
+          "name": "People Taking Pictures",
+          "url": "https://open.spotify.com/artist/71i1Gejir1C7Xh3Bzu4qzA"
+        },
+        {
+          "name": "POW! Negro",
+          "url": "https://open.spotify.com/artist/0BHOYHAdSQePher0Kf0djK"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222114,
+      "name": "Violets",
+      "url": "https://open.spotify.com/track/0fNNgNxEg2PAWUJXU2sOKV"
     },
     {
       "album": {

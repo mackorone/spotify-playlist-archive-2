@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Rvssian, Rauw Alejandro & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,274 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,283 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 89 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
 | 90 | [Cafecito](https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Cafecito](https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh) | 2:43 |
 | 91 | [Ese Habladito](https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf) | [Nono](https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p) | [Ese Habladito](https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru) | 3:12 |
-| 92 | [COMO VOS \| THIS IS CURREN](https://open.spotify.com/track/2XBatvKfsrJsNrW8DnIlJr) | [Curren](https://open.spotify.com/artist/4C4qBYVnF5J61XmJWjZkjG), [Slay Fox](https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j), [Davie Reel](https://open.spotify.com/artist/5G9AJMoxKbw9et8XwmixiT) | [COMO VOS \| THIS IS CURREN](https://open.spotify.com/album/2xxdAmFKjL7lJhk9HazSAX) | 2:52 |
-| 93 | [No Esperes](https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Esperes](https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW) | 3:14 |
+| 92 | [No Esperes](https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Esperes](https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW) | 3:14 |
+| 93 | [COMO VOS \| THIS IS CURREN](https://open.spotify.com/track/2XBatvKfsrJsNrW8DnIlJr) | [Curren](https://open.spotify.com/artist/4C4qBYVnF5J61XmJWjZkjG), [Slay Fox](https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j), [Davie Reel](https://open.spotify.com/artist/5G9AJMoxKbw9et8XwmixiT) | [COMO VOS \| THIS IS CURREN](https://open.spotify.com/album/2xxdAmFKjL7lJhk9HazSAX) | 2:52 |
 | 94 | [Tiempo Al Tiempo \(feat\. Goyo\)](https://open.spotify.com/track/35w0mouuaHqMZREv17LzvU) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Tiempo Al Tiempo \(feat\. Goyo\)](https://open.spotify.com/album/4GudHPMW0hOEB0UVofI8Qy) | 2:47 |
 | 95 | [SQD Quilla](https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [SQD Quilla](https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw) | 2:01 |
 | 96 | [LUNA LLENA](https://open.spotify.com/track/72Ldu7eqNDaJNs55JjlPxd) | [ESTÉREO FAM](https://open.spotify.com/artist/6jeSza4zrBFTWtwvMEAVan), [MC Piri](https://open.spotify.com/artist/5W7vbxMex5UtO8ugjXZvwp), [Semillah Skillz](https://open.spotify.com/artist/2uFdkDzuib4OBkfNECkc59) | [SORPRAIS](https://open.spotify.com/album/4Z7qxWoywFKtAPnbZ8x64w) | 3:07 |

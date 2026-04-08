@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Lainey Wilson & Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,971 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,023 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 33 | [Jesus Is A Friend Of Mine](https://open.spotify.com/track/33PoF5SazcDeQwGOfTvaZf) | [Ivey Asher](https://open.spotify.com/artist/7obS4EQwEA4Dx0hyGnpRsi) | [Jesus Is A Friend Of Mine](https://open.spotify.com/album/6kA4h4WcvodBY182THDqaZ) | 3:02 |
 | 34 | [LIFT MY EYES \(for MAF\)](https://open.spotify.com/track/0Sr0LIQRjhRJfna2mzovWQ) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [LIFT MY EYES \(for MAF\)](https://open.spotify.com/album/7FUgDXIGvOG8irT3hq4Dtf) | 3:44 |
 | 35 | [Morning & Evening](https://open.spotify.com/track/74GoBfkK3D21udBlPwZsDX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Morning & Evening](https://open.spotify.com/album/0FpnrCxGuggOQJCWFv5CJY) | 4:10 |
-| 36 | [WASTE SOME TIME](https://open.spotify.com/track/2ILaUBvEAGFGpEES1uHega) | [PARTY WAVE](https://open.spotify.com/artist/5MOUpRLvK6boZ3J5av1YK9), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WASTE SOME TIME](https://open.spotify.com/album/5BiS7WuOT5QbqmU5OKXgJY) | 3:26 |
+| 36 | [WASTE SOME TIME](https://open.spotify.com/track/2ILaUBvEAGFGpEES1uHega) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WASTE SOME TIME](https://open.spotify.com/album/5BiS7WuOT5QbqmU5OKXgJY) | 3:26 |
 | 37 | [AFRAID!](https://open.spotify.com/track/7CL73y6Alwtgh9UGeugLYH) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [AFRAID!](https://open.spotify.com/album/0MK4yks85NeMeaUhRKBHYj) | 2:44 |
 | 38 | [This I Know](https://open.spotify.com/track/6bsdgtmFKy5P9YAQORQ3Zv) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [This I Know](https://open.spotify.com/album/7MSCLeKboxBmtcQpVI8KP0) | 3:15 |
 | 39 | [home](https://open.spotify.com/track/0H7IfCWPYgWZ80V8Qf2kwJ) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [for the home](https://open.spotify.com/album/4d3MKmCcXevRfQAi5oXP4p) | 3:47 |

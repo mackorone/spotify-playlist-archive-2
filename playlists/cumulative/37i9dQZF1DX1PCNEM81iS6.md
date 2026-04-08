@@ -2,7 +2,7 @@
 
 ### [That Time I Got Reincarnated as a Slime](https://open.spotify.com/playlist/37i9dQZF1DX1PCNEM81iS6)
 
-> Music from "That Time I Got Reincarnated as a Slime"! ©川上泰樹・伏瀬・講談社／転スラ製作委員会
+> Music from "That Time I Got Reincarnated as a Slime"! © Taiki Kawakami, Fuse, KODANSHA/“Ten\-Sura” Project
 
 95 songs - 4 hr 42 min
 

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "BRASILIAN SKIES",
+        "url": "https://open.spotify.com/album/0zXeZw0oFC2Db99RqlfHur"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Takanaka",
+          "url": "https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353013,
+      "name": "BRASILIAN SKIES",
+      "url": "https://open.spotify.com/track/3bMc9oRaUWnojCrYTUXXcQ"
+    },
+    {
+      "album": {
         "name": "breakfast",
         "url": "https://open.spotify.com/album/09JHBF2CtK8UUhcvot8ZGX"
       },
@@ -204,6 +222,24 @@
       "duration_ms": 211333,
       "name": "Eureka",
       "url": "https://open.spotify.com/track/0ZNbXoRUhaSMhYcL4LWDg9"
+    },
+    {
+      "album": {
+        "name": "TAKANAKA",
+        "url": "https://open.spotify.com/album/6yFKbGAkjgnjQjfttbCAkW"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Takanaka",
+          "url": "https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327013,
+      "name": "I REMEMBER YOU",
+      "url": "https://open.spotify.com/track/2pnNh4K3tzSoqAy11vaXrH"
     },
     {
       "album": {
@@ -590,7 +626,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 243520,
       "name": "WINTER WITHOUT YOU",
       "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
@@ -1120,7 +1156,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 337573,
       "name": "\u30d4\u30a2\u30d5",
       "url": "https://open.spotify.com/track/18dvOWJvmNvEkolNJ2tRNS"
@@ -1300,7 +1336,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 249703,
       "name": "\u30e9\u30b9\u30c8\u30b7\u30fc\u30f3.",
       "url": "https://open.spotify.com/track/2Dn1yv0osM4HARV95xFWeB"
@@ -1534,7 +1570,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 218834,
       "name": "\u5fd8\u308c\u3066\u304f\u3060\u3055\u3044",
       "url": "https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds"
@@ -1898,7 +1934,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 223560,
       "name": "\u7570\u7aef\u5150\u306e\u57ce",
       "url": "https://open.spotify.com/track/64ZRvElUnHdkcjySVsX4rk"
@@ -2050,6 +2086,24 @@
       "duration_ms": 211920,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA"
+    },
+    {
+      "album": {
+        "name": "\u7fa4\u9752",
+        "url": "https://open.spotify.com/album/4nLIK2uFzYUJqLAfJZYgLx"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248444,
+      "name": "\u7fa4\u9752",
+      "url": "https://open.spotify.com/track/0T4AitQuq8IJhWBWuZwkFA"
     },
     {
       "album": {

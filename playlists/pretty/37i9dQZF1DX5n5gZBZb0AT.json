@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 977312,
+  "num_followers": 977460,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
+        "name": "MATUSHKA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/1SYGCQXfhjL8KnMXQ6ImsK"
+      },
+      "artists": [
+        {
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/12CXx3gXBn9QjGSNYzEh05"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
         "name": "MOTINHA 2.0 (Mete Marcha)",
         "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 118081,
       "name": "MOTINHA 2.0 (Mete Marcha)",
       "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
-        "name": "MATUSHKA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/1SYGCQXfhjL8KnMXQ6ImsK"
-      },
-      "artists": [
-        {
-          "name": "satirin",
-          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "MATUSHKA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/12CXx3gXBn9QjGSNYzEh05"
     },
     {
       "added_at": "2026-04-03 16:00:07",

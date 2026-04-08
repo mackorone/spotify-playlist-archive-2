@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Omah Lay, Mavo,  Didi B, Trafitti, Lekan, Kelvyn Boy  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,363 likes - 54 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,512 likes - 54 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 18 | [Fuji Hybrid](https://open.spotify.com/track/1YEQqgjU9a4lmZXAuG3iZh) | [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd) | [Fuji Hybrid](https://open.spotify.com/album/0LL1XkCqxCxA68S1dQsM2Q) | 2:53 |
 | 19 | [SoBoBo](https://open.spotify.com/track/0aEoCfJ7sVrrdfgYBsa5gB) | [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [K\-Zaka](https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR) | [Sobobo](https://open.spotify.com/album/0VauoW1IvT5UzwXdGjOs9k) | 2:19 |
 | 20 | [High Me](https://open.spotify.com/track/4IYmtaYuTItLD9a1CHgy8C) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [High Me](https://open.spotify.com/album/0DSCm5nfKpvciXozrAtMe2) | 2:33 |
-| 21 | [Omi là wó ràn](https://open.spotify.com/track/09hEXCt5cYgWXLg8n1gQyK) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Omi là wó ràn](https://open.spotify.com/album/0HsRdsKxgjvyXoU5iaxyCe) | 3:02 |
+| 21 | [Omí l'àwòrán](https://open.spotify.com/track/09hEXCt5cYgWXLg8n1gQyK) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Omí l'àwòrán](https://open.spotify.com/album/0HsRdsKxgjvyXoU5iaxyCe) | 3:02 |
 | 22 | [TEACH YOU HOW TO LUH ME](https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [TEACH YOU HOW TO LUH ME](https://open.spotify.com/album/7DQF3OuLxkjvqDvzS1tBM5) | 4:00 |
 | 23 | [GIRLFRIEND](https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [GIRLFRIEND](https://open.spotify.com/album/3nsAiu8BlehnoIwlJIwbRy) | 4:19 |
 | 24 | [Fan](https://open.spotify.com/track/7zyKtQOW3HtPCqaAWpYDtn) | [Wohdee](https://open.spotify.com/artist/3lEOvjSLQnYiE2fUqUKvzE), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Nile Ezra](https://open.spotify.com/artist/5YayPcD4jixf2lDXPmcLQ0) | [Fan](https://open.spotify.com/album/2TDAkOsoLMZDkEt923OSpA) | 2:46 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 53 | [Zikitam](https://open.spotify.com/track/0oaWtcLLfinD33n9YekqKz) | [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Zikitam](https://open.spotify.com/album/2VXVl5JTSUm8nUsFPtRW93) | 7:22 |
 | 54 | [We 2 Fly](https://open.spotify.com/track/4Ym5QOanjoiNXvWBIOyIh0) | [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2), [S1orDie](https://open.spotify.com/artist/1rxMZxcNgJiXunlNSAq8pY) | [+WE 2 FLY°](https://open.spotify.com/album/4NRUkjBzireLsRZ6BiP14v) | 2:50 |
 
-Snapshot ID: `AAAAABmpeyJURQdyTqAZyYn1REaYVldZ`
+Snapshot ID: `AAAAAD1N3Yd6JG9ypNV5mkZYc4gGDD41`

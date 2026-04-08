@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Dermot Kennedy, Arlo Parks, Disclosure and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,494 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,480 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 66 | [Learning Curve](https://open.spotify.com/track/5qhSQs3PlJSHj9M4f8O1N4) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Learning Curve](https://open.spotify.com/album/5SeD7yzWqU5oU0TNALAr3I) | 3:58 |
 | 67 | [Cut In Half](https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Cut In Half](https://open.spotify.com/album/0LEFdPWcty1wzOYTBebazM) | 2:41 |
 | 68 | [A.L.O.N.E.](https://open.spotify.com/track/27hYsmEv0oxDiCRtaePHHq) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [A.L.O.N.E.](https://open.spotify.com/album/1sDgdisZxO2s4AKt2TKUQf) | 3:24 |
-| 69 | [4 Us](https://open.spotify.com/track/5sCc7Jdb0REQRlo1qgtEeS) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Noah Booth](https://open.spotify.com/artist/5bmlm898bu8tqbAAlt3TCh), [Alex Condliffe](https://open.spotify.com/artist/3dFqyBhsezU3bAXdcZZbtP), [Emma Foster](https://open.spotify.com/artist/4TEr5M4CFUpIXQWbLoFwPj) | [4 Us](https://open.spotify.com/album/5DAhKKgBkWq1RPGrBDgSVB) | 3:17 |
+| 69 | [4 Us](https://open.spotify.com/track/5sCc7Jdb0REQRlo1qgtEeS) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [4 Us](https://open.spotify.com/album/5DAhKKgBkWq1RPGrBDgSVB) | 3:17 |
 | 70 | [Black Cherry Liqueur](https://open.spotify.com/track/0FTqriqVRsDGT96kH6RfgC) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Black Cherry Liqueur](https://open.spotify.com/album/2mpS1n2hOWhO49xwxyNNq7) | 3:05 |
 | 71 | [Lost In Your Blues](https://open.spotify.com/track/6IROP7Z00gxFrJvKHwE1uS) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Lost In Your Blues](https://open.spotify.com/album/0B0TyWChnMZqsvYUxGbpeg) | 2:48 |
 | 72 | [Girl On The Beat](https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Girl On The Beat](https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK) | 2:40 |

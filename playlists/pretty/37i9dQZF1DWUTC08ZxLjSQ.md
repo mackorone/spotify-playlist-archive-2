@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: B4D\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: DAL!A\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,202 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,204 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mystère](https://open.spotify.com/track/7zFanGy616pVNrElqZFezE) | [B4D](https://open.spotify.com/artist/7JozyqjvLoyOv39mxg71zQ) | [Mystère](https://open.spotify.com/album/0HGpiaauvzzvDaqrmXC4zb) | 3:19 |
-| 2 | [RASSMA](https://open.spotify.com/track/2BLuMnfGLbLfpyHuWAIwEe) | [AyeLee](https://open.spotify.com/artist/6QwrTKHDZ15WyIBSAoF854) | [APORIA](https://open.spotify.com/album/4q9nP2q2Y816WLbWItT1Qw) | 2:43 |
-| 3 | [الساقي](https://open.spotify.com/track/0CECKW3SUi0sjpJIUWvOyO) | [Bloodymarry](https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40) | [درب ١٧](https://open.spotify.com/album/2ZEfwK5SBnuRBXZcnbxgKX) | 5:49 |
-| 4 | [أبغى السلامة](https://open.spotify.com/track/5KL6RhFyuc3nyFXdj0GoBm) | [Dehmez](https://open.spotify.com/artist/1KsCygiMH1XK9ePJpqVUC1) | [أبغى السلامة](https://open.spotify.com/album/3w33AoSnXBnmEc2rnaaPmS) | 2:32 |
-| 5 | [Ambeh امبيه \(feat\. Alaa Al Hendi\)](https://open.spotify.com/track/412ibG77hNWzLkA8zEujw0) | [Etaf](https://open.spotify.com/artist/5clXopy7sGJ8Dniaj2Uu21), [Alaa Al Hendi](https://open.spotify.com/artist/6r7at5fcu4jX0fRlZEyOxn) | [Ambeh امبيه](https://open.spotify.com/album/1I9JjN2RM4nHGdESo5hMNq) | 3:13 |
-| 6 | [El Ghaly \- الغالي](https://open.spotify.com/track/7HYoCK8sD33WG9E8zjtdDx) | [Karamell](https://open.spotify.com/artist/0xlWY59sefpnkKzzbQhEx4), [El Nashmy](https://open.spotify.com/artist/4NqKM04BHakFHqu0wkDXKB) | [El Ghaly \- الغالي](https://open.spotify.com/album/1Ip6rfzTgNGehGe6eOrhJm) | 2:43 |
-| 7 | [Why?](https://open.spotify.com/track/7qFf6SSOAMxcg504aH6B24) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [Stargirl](https://open.spotify.com/album/0qmt9MtZFWsxzxh53yxiH7) | 3:45 |
-| 8 | [Geddam](https://open.spotify.com/track/1KsPd6rRp6swUpc5ErqDYF) | [Kordofani](https://open.spotify.com/artist/1htnAGNCx3KlWHEwemS2n9) | [Geddam](https://open.spotify.com/album/2QZmphHe31M4NCMvhbqHOj) | 2:30 |
-| 9 | [دوران](https://open.spotify.com/track/7EF2Q6rRLS2be68evPxzCf) | [Mafia Al\-Haykal](https://open.spotify.com/artist/7dkzNja44VVWYXOItjJ7kw), [ADAM](https://open.spotify.com/artist/5oLMBzEyhXilZhBr8BBagf), [S7li](https://open.spotify.com/artist/33woQzo7NefnqwzyC3zvg7) | [دوران](https://open.spotify.com/album/1qUpTDTo3liw4ip9fLYlkz) | 1:58 |
-| 10 | [NDOOR](https://open.spotify.com/track/3fnUy8PxiIXubLQBS3aFei) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [EL BA7R EL A3ZAM](https://open.spotify.com/album/2apOaSX0WSlo1k6HP9rOsv) | 3:00 |
+| 1 | [NDOOR](https://open.spotify.com/track/3fnUy8PxiIXubLQBS3aFei) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [EL BA7R EL A3ZAM](https://open.spotify.com/album/2apOaSX0WSlo1k6HP9rOsv) | 3:00 |
+| 2 | [Mystère](https://open.spotify.com/track/7zFanGy616pVNrElqZFezE) | [B4D](https://open.spotify.com/artist/7JozyqjvLoyOv39mxg71zQ) | [Mystère](https://open.spotify.com/album/0HGpiaauvzzvDaqrmXC4zb) | 3:19 |
+| 3 | [RASSMA](https://open.spotify.com/track/2BLuMnfGLbLfpyHuWAIwEe) | [AyeLee](https://open.spotify.com/artist/6QwrTKHDZ15WyIBSAoF854) | [APORIA](https://open.spotify.com/album/4q9nP2q2Y816WLbWItT1Qw) | 2:43 |
+| 4 | [الساقي](https://open.spotify.com/track/0CECKW3SUi0sjpJIUWvOyO) | [Bloodymarry](https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40) | [درب ١٧](https://open.spotify.com/album/2ZEfwK5SBnuRBXZcnbxgKX) | 5:49 |
+| 5 | [أبغى السلامة](https://open.spotify.com/track/5KL6RhFyuc3nyFXdj0GoBm) | [Dehmez](https://open.spotify.com/artist/1KsCygiMH1XK9ePJpqVUC1) | [أبغى السلامة](https://open.spotify.com/album/3w33AoSnXBnmEc2rnaaPmS) | 2:32 |
+| 6 | [Ambeh امبيه \(feat\. Alaa Al Hendi\)](https://open.spotify.com/track/412ibG77hNWzLkA8zEujw0) | [Etaf](https://open.spotify.com/artist/5clXopy7sGJ8Dniaj2Uu21), [Alaa Al Hendi](https://open.spotify.com/artist/6r7at5fcu4jX0fRlZEyOxn) | [Ambeh امبيه](https://open.spotify.com/album/1I9JjN2RM4nHGdESo5hMNq) | 3:13 |
+| 7 | [El Ghaly \- الغالي](https://open.spotify.com/track/7HYoCK8sD33WG9E8zjtdDx) | [Karamell](https://open.spotify.com/artist/0xlWY59sefpnkKzzbQhEx4), [El Nashmy](https://open.spotify.com/artist/4NqKM04BHakFHqu0wkDXKB) | [El Ghaly \- الغالي](https://open.spotify.com/album/1Ip6rfzTgNGehGe6eOrhJm) | 2:43 |
+| 8 | [Why?](https://open.spotify.com/track/7qFf6SSOAMxcg504aH6B24) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [Stargirl](https://open.spotify.com/album/0qmt9MtZFWsxzxh53yxiH7) | 3:45 |
+| 9 | [Geddam](https://open.spotify.com/track/1KsPd6rRp6swUpc5ErqDYF) | [Kordofani](https://open.spotify.com/artist/1htnAGNCx3KlWHEwemS2n9) | [Geddam](https://open.spotify.com/album/2QZmphHe31M4NCMvhbqHOj) | 2:30 |
+| 10 | [دوران](https://open.spotify.com/track/7EF2Q6rRLS2be68evPxzCf) | [Mafia Al\-Haykal](https://open.spotify.com/artist/7dkzNja44VVWYXOItjJ7kw), [ADAM](https://open.spotify.com/artist/5oLMBzEyhXilZhBr8BBagf), [S7li](https://open.spotify.com/artist/33woQzo7NefnqwzyC3zvg7) | [دوران](https://open.spotify.com/album/1qUpTDTo3liw4ip9fLYlkz) | 1:58 |
 | 11 | [ATTA](https://open.spotify.com/track/2ybQ1O9yA8DobJqdBCXE8D) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [ASLI](https://open.spotify.com/album/2anpPDMPSVCQnYe0SWXfVC) | 2:49 |
 | 12 | [شرطة الفراعنة / The Pharaohs’ Police](https://open.spotify.com/track/1snuLoJ3YNl7SeI6YbEy1J) | [BLAN](https://open.spotify.com/artist/3cId3JdsevaCZJ4Vc4gC7G), [Obito.Triple3](https://open.spotify.com/artist/7asvA6Yz9cItmIbt2HNUPQ) | [هندسة الكلام / The Architecture of Speech](https://open.spotify.com/album/22oDIrndiS6Avv0t2Putdq) | 3:12 |
 | 13 | [Leeh Habeity](https://open.spotify.com/track/4f3O6UjlpZ2TqwUdxsXfCz) | [Mariam Ghareeb](https://open.spotify.com/artist/2IMn8gRORrf8TOtKMtDkkk), [El Azraa](https://open.spotify.com/artist/0GyyijjtOwKN3MLBTyuijN) | [Leeh Habeity](https://open.spotify.com/album/71h7EEpo6LItIFD9dGCaRH) | 3:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 69 | [Mio!](https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO) | [Lullysnake](https://open.spotify.com/artist/4KliRHlaiBy3lAztDAD6cz) | [Mio!](https://open.spotify.com/album/45bACcrff6jn9j3yrniTuE) | 2:54 |
 | 70 | [70's](https://open.spotify.com/track/4Blh7kOHMqddHNw9dihg3y) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [70's](https://open.spotify.com/album/5sWPxAhokrsRcZfKiIaX0v) | 2:51 |
 
-Snapshot ID: `AAAAAH8lvYQ7hu8UFP+P9KfoMUA5IAJG`
+Snapshot ID: `AAAAAJutNsLhWCnLqesFAEyzmlYY+EBU`

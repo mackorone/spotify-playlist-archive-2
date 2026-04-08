@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 124,102 likes - 65 songs - 3 hr 20 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 124,100 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,5 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 58 | [Resonate](https://open.spotify.com/track/0E2fH6NozBE42Tn2iTdTbV) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Resonate](https://open.spotify.com/album/4mhVMZM9F3TVxnMaJKuo1e) | 3:13 |
 | 59 | [Use That Love](https://open.spotify.com/track/7zsI93sw3ETJRVmcOsmssV) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Use That Love](https://open.spotify.com/album/25cNbRC8JeX7H6rkoBdHzQ) | 3:24 |
 | 60 | [Midnight](https://open.spotify.com/track/4ZClsW1pvRVsFtzikoBnGy) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V) | [Midnight](https://open.spotify.com/album/1OuKovdj28l4GMHf7cM0qX) | 2:56 |
-| 61 | [Rainbow](https://open.spotify.com/track/6DwnR2VRbtzix2VJsU07O7) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Rainbow](https://open.spotify.com/album/3jSd2VBNQ9JWW0p9TrQ0xi) | 2:10 |
-| 62 | [Sh\*t's On F\*re](https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Sh\*t's On F\*re](https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS) | 4:04 |
-| 63 | [Amber Glow](https://open.spotify.com/track/6jUZwyDF8NsSp4OZyhaNhs) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Amber Glow](https://open.spotify.com/album/5lG4nDEF6WFft5TvGsfQaI) | 2:42 |
-| 64 | [Own It](https://open.spotify.com/track/0GIfm3CTQKVTMkQYnXcqbA) | [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ) | [Monstercat Uncaged Selections 01](https://open.spotify.com/album/3LOpxnvItG4xX5ZhyjCw5z) | 2:35 |
-| 65 | [Back To The Stars](https://open.spotify.com/track/3OKq64mBkh7YM1DNkH8kPA) | [Justin OH](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Back To The Stars](https://open.spotify.com/album/6jFaTrPsJvsWouDobDWUeF) | 3:42 |
 
-Snapshot ID: `AAAVSTIZOKi7MQvOpXtR1nLplv3ftKuD`
+Snapshot ID: `AAAVSkH2u4zNS2iJPO7NUCFaBSyw7JkJ`

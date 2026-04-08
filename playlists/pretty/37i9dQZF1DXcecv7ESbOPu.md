@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Bolaget & Dante och Bebe Rexha med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,104 likes - 98 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,094 likes - 98 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 67 | [Cartier](https://open.spotify.com/track/2o1uHXcKPrUgzWMCCwrb44) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [Cartier](https://open.spotify.com/album/3KcFigCkWoZJ7UOkOyYIdo) | 2:22 |
 | 68 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
 | 69 | [Ibbe's Song \(From the Netflix Series 'Love is Blind Sweden'\)](https://open.spotify.com/track/57NM4YDUlt4DzAONf7WbNM) | [ANIELA](https://open.spotify.com/artist/7jL4XNfIkjSR92sLxWizVs) | [Ibbe's Song \(From the Netflix Series 'Love is Blind Sweden'\)](https://open.spotify.com/album/6ZYuyWCci1h3jbG3BoxyWB) | 2:40 |
-| 70 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
+| 70 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx), [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
 | 71 | [Sanna](https://open.spotify.com/track/1JArDLyrDaun3rk7QGTYL3) | [Linus Kajman](https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb) | [Sanna](https://open.spotify.com/album/5sO87k3aF9evCASeVjlyfp) | 3:06 |
 | 72 | [600 Racks](https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [600 Racks](https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5) | 3:04 |
 | 73 | [KÄNSLAN](https://open.spotify.com/track/2sbu0gEoYmN8EzFl6JAyZo) | [Juniior](https://open.spotify.com/artist/2iB4oRsEnWjBqolEm67uPR), [BeatsBySindri](https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV) | [KÄNSLAN](https://open.spotify.com/album/2dRx6VJ0xtVIIhXY8rmRZz) | 2:23 |

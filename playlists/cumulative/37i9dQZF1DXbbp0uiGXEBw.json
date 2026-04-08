@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "EQUAL tr\u00f2n 5 n\u0103m: v\u1eabn \u0111\u1ec9nh, v\u1eabn ch\u00e1y \ud83d\udd25. \u1ea2nh b\u00eca: tlinh",
+  "description": "Th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh c\u00e1c ngh\u1ec7 s\u0129 n\u1eef Vi\u1ec7t Nam. \u1ea2nh b\u00eca: Ch\u00e2u B\u00f9i",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -956,6 +956,24 @@
       "duration_ms": 259245,
       "name": "Ch\u1eafc N\u00ean Th\u00f4i",
       "url": "https://open.spotify.com/track/0uaZKqtQxvVXoCCV4hAbBN"
+    },
+    {
+      "album": {
+        "name": "T\u00e2m Linh",
+        "url": "https://open.spotify.com/album/1o1BR5ZS0sJWDeKavKrgSy"
+      },
+      "artists": [
+        {
+          "name": "LYHAN",
+          "url": "https://open.spotify.com/artist/70swmqj7c3SHkkdf2SrSUy"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284651,
+      "name": "Ch\u1eb1n Tinh",
+      "url": "https://open.spotify.com/track/5qQ5rZkL8iu3ZT8fEs6RLj"
     },
     {
       "album": {
@@ -4985,6 +5003,28 @@
     },
     {
       "album": {
+        "name": "Nh\u1ea3 V\u00eda",
+        "url": "https://open.spotify.com/album/7x78hd6Pe7szoa3hHErcAH"
+      },
+      "artists": [
+        {
+          "name": "Ki\u1ec1u Anh",
+          "url": "https://open.spotify.com/artist/3hlJ2qli6WvQaJ1FqyTP02"
+        },
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206086,
+      "name": "Nh\u1ea3 V\u00eda",
+      "url": "https://open.spotify.com/track/4hnLrMr64jO7lq5J8fStmd"
+    },
+    {
+      "album": {
         "name": "Nh\u1eafm M\u1eaft Th\u1ea5y M\u00f9a H\u00e8 (Nh\u1ea1c Phim)",
         "url": "https://open.spotify.com/album/7jozXLciIE8b6eh8yM6UYi"
       },
@@ -5050,7 +5090,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 309527,
       "name": "Nh\u1eefng Con S\u00f4ng Ng\u00f3n Tay",
       "url": "https://open.spotify.com/track/7L1x5HHbP6SYKIzLvwTOEm"
@@ -6774,7 +6814,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 133784,
       "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
       "url": "https://open.spotify.com/track/1fK5jkUB093M5VtqmPIzYF"
@@ -7450,7 +7490,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 152275,
       "name": "Y\u00eau Hay Kh\u00f4ng Y\u00eau",
       "url": "https://open.spotify.com/track/17FutC42xWqmytCraSDLOC"
@@ -7700,7 +7740,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 220839,
       "name": "\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1 - From \"\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1\"",
       "url": "https://open.spotify.com/track/62bwj2FZsr0ljcap1FEf8g"

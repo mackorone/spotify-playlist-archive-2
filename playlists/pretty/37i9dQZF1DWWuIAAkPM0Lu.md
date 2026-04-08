@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik fra FABRÄK, Specktors, Lasse Skriver,  GUSTO og maaange flere  ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,351 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,348 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 15 | [another lifetime](https://open.spotify.com/track/744OAFav2hamI1uEGjI4jP) | [Simone Ledet](https://open.spotify.com/artist/2ySae0f4QEDCgMmjKAxVbX) | [another lifetime](https://open.spotify.com/album/3tSacnR8hLlzrWASnc6At1) | 3:46 |
 | 16 | [TEACH YOU HOW TO LUH ME](https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [TEACH YOU HOW TO LUH ME](https://open.spotify.com/album/7DQF3OuLxkjvqDvzS1tBM5) | 4:00 |
 | 17 | [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 |
-| 18 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
+| 18 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx), [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
 | 19 | [NÅR DU DRØMMER](https://open.spotify.com/track/1N8a7a8X0j36eNMKmwbkZi) | [Xander Linnet](https://open.spotify.com/artist/4bXHrRcSltf4w7u2g406TB) | [NÅR DU DRØMMER](https://open.spotify.com/album/5IpQ6ZTPmQ6k6yqPuA6HTB) | 3:07 |
 | 20 | [Et og Alt](https://open.spotify.com/track/5R1b2yWajMaAHprsF3y02g) | [LIGA](https://open.spotify.com/artist/6booSDXMipeW7NHm4ABRZr) | [Et og Alt](https://open.spotify.com/album/1YVUCLW9hfvbXbMDDFKgsv) | 2:35 |
 | 21 | [Crayons](https://open.spotify.com/track/6mRPNbIa1EgP5qdFZyD1kj) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Crayons](https://open.spotify.com/album/2Rfn9Sw0x80wIrJKQuBBYs) | 2:43 |

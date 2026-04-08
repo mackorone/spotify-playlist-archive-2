@@ -23476,7 +23476,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -40254,6 +40254,24 @@
       "duration_ms": 340706,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
+    },
+    {
+      "album": {
+        "name": "Sikte p\u00e5 livet",
+        "url": "https://open.spotify.com/album/2qrNBEj7uvJ2yj99ZaAB4s"
+      },
+      "artists": [
+        {
+          "name": "Thomas Tvedt",
+          "url": "https://open.spotify.com/artist/4EqPMRZuruGqExCJXAWDpc"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210973,
+      "name": "Sikte p\u00e5 livet",
+      "url": "https://open.spotify.com/track/3llQDbR0Y8JtqcPT1HjCw8"
     },
     {
       "album": {

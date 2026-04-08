@@ -6564,7 +6564,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 154285,
       "name": "Chrome",
       "url": "https://open.spotify.com/track/1a3QXN4HkhxUUXuaZMBdi5"
@@ -9384,6 +9384,32 @@
       "duration_ms": 221142,
       "name": "dontstopme!",
       "url": "https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5"
+    },
+    {
+      "album": {
+        "name": "DONTTRUSTME (Sullivan King & Benda Remix)",
+        "url": "https://open.spotify.com/album/5vzfF9XlQfmdNsRvvlXreI"
+      },
+      "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        },
+        {
+          "name": "Benda",
+          "url": "https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128142,
+      "name": "DONTTRUSTME - Sullivan King & Benda Remix",
+      "url": "https://open.spotify.com/track/7pddglpSVLghORfwW4zk8I"
     },
     {
       "album": {

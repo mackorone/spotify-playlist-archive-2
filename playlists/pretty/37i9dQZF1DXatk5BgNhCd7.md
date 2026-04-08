@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸 Angela Leiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,779 likes - 73 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,790 likes - 73 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 19 | [Sigo Enamorado de Ti](https://open.spotify.com/track/2SWaOfGa4h6ooa74n7RlQy) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Sigo Enamorado de Ti](https://open.spotify.com/album/56lcMd4CTxIcGjIREmU45f) | 3:46 |
 | 20 | [Tú Te Vas](https://open.spotify.com/track/2OewLnhdPvtSjM7DDluP4s) | [Héctor Montaner](https://open.spotify.com/artist/6hQiXGAiMZZop3H7U0X6EF) | [Tú Te Vas](https://open.spotify.com/album/4kvK6fxHvuZZLwQzRllw0w) | 2:58 |
 | 21 | [Aún](https://open.spotify.com/track/26nqQ0ShbBAVZmu8UfrXko) | [Alex Manga](https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ), [Enaldo Barrera Jr.](https://open.spotify.com/artist/73RHY7tqM7MunOCUTiHkmw) | [El Presidente Del Vallenato](https://open.spotify.com/album/1ziaaJ6W9Hr7sO3G545qms) | 3:21 |
-| 22 | [HDTPM](https://open.spotify.com/track/1hYNduHBrmeIabxnqOOiFW) | [Morenito De Fuego](https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV), [Camy G](https://open.spotify.com/artist/4pEGqFoAVzieLiThahCHtm), [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [HDTPM](https://open.spotify.com/album/0730CLjG64LbuV1WOxq1tj) | 3:17 |
+| 22 | [HDTPM](https://open.spotify.com/track/1hYNduHBrmeIabxnqOOiFW) | [Morenito De Fuego](https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV), [Camy G](https://open.spotify.com/artist/7sjGDZOuoOafP0oO9n7Nsu), [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [HDTPM](https://open.spotify.com/album/0730CLjG64LbuV1WOxq1tj) | 3:17 |
 | 23 | [Cosa Extraña](https://open.spotify.com/track/18z0OksR0zYfEHA7WkADf9) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Mal Necesario](https://open.spotify.com/album/7utWV0K0bud4V8tca7S5Sl) | 2:59 |
 | 24 | [Vienes Y Te Vas](https://open.spotify.com/track/00juchyjy0m5WkYqsHru6S) | [Los Hermanos Medina](https://open.spotify.com/artist/2QUO2NrRwGIaC1MLnzbfIh) | [Vienes Y Te Vas](https://open.spotify.com/album/22oodhlV2Q9hOCbcOyV4lQ) | 3:32 |
 | 25 | [Dos Amantes](https://open.spotify.com/track/5Nnd7tvjwHjexXjhbl0WSD) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Dos Amantes](https://open.spotify.com/album/7KHlnJ9FBIEDnHi899L3yh) | 3:08 |

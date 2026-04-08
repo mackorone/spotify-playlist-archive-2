@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
-  "num_followers": 143274,
+  "num_followers": 143283,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2026-03-20 04:00:59",
       "album": {
+        "name": "No Esperes",
+        "url": "https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Shine TTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "duration_ms": 194347,
+      "name": "No Esperes",
+      "url": "https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i"
+    },
+    {
+      "added_at": "2026-03-20 04:00:59",
+      "album": {
         "name": "COMO VOS | THIS IS CURREN",
         "url": "https://open.spotify.com/album/2xxdAmFKjL7lJhk9HazSAX"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 172421,
       "name": "COMO VOS | THIS IS CURREN",
       "url": "https://open.spotify.com/track/2XBatvKfsrJsNrW8DnIlJr"
-    },
-    {
-      "added_at": "2026-03-20 04:00:59",
-      "album": {
-        "name": "No Esperes",
-        "url": "https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW"
-      },
-      "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        },
-        {
-          "name": "Shine TTW",
-          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
-        }
-      ],
-      "duration_ms": 194347,
-      "name": "No Esperes",
-      "url": "https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i"
     },
     {
       "added_at": "2026-03-20 04:00:59",

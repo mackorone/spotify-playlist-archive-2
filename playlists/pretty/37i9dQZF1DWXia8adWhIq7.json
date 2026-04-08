@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112436,
+  "num_followers": 112440,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2026-03-20 15:09:32",
       "album": {
+        "name": "Samaritana",
+        "url": "https://open.spotify.com/album/7uW5JSvS0J8JSX9KHnVh01"
+      },
+      "artists": [
+        {
+          "name": "Jottap\u00ea",
+          "url": "https://open.spotify.com/artist/1ii6Ijm1XCGzkn5rkVJXmQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Samaritana",
+      "url": "https://open.spotify.com/track/73dmnilfUdTkyWbeGYErDI"
+    },
+    {
+      "added_at": "2026-03-20 15:09:32",
+      "album": {
         "name": "Flutuar",
         "url": "https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 214191,
       "name": "Flutuar",
       "url": "https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj"
-    },
-    {
-      "added_at": "2026-03-20 15:09:32",
-      "album": {
-        "name": "Samaritana",
-        "url": "https://open.spotify.com/album/7uW5JSvS0J8JSX9KHnVh01"
-      },
-      "artists": [
-        {
-          "name": "Jottap\u00ea",
-          "url": "https://open.spotify.com/artist/1ii6Ijm1XCGzkn5rkVJXmQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Samaritana",
-      "url": "https://open.spotify.com/track/73dmnilfUdTkyWbeGYErDI"
     },
     {
       "added_at": "2026-03-20 15:09:32",
@@ -735,26 +735,18 @@
     {
       "added_at": "2026-03-20 15:09:32",
       "album": {
-        "name": "Teu V\u00f4o",
-        "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
+        "name": "Nossa Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
       },
       "artists": [
         {
-          "name": "Felipe Vinii",
-          "url": "https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP"
-        },
-        {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Teu V\u00f4o",
-      "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
+      "duration_ms": 189154,
+      "name": "Nossa Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
     },
     {
       "added_at": "2026-03-20 15:09:32",
@@ -795,18 +787,26 @@
     {
       "added_at": "2026-03-20 15:09:32",
       "album": {
-        "name": "Nossa Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
+        "name": "Teu V\u00f4o",
+        "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
       },
       "artists": [
         {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
+          "name": "Felipe Vinii",
+          "url": "https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP"
+        },
+        {
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 189154,
-      "name": "Nossa Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
+      "duration_ms": 192000,
+      "name": "Teu V\u00f4o",
+      "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
     },
     {
       "added_at": "2026-03-20 15:09:32",
@@ -1015,22 +1015,18 @@
     {
       "added_at": "2026-03-20 15:09:32",
       "album": {
-        "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
-        "url": "https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH"
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
       },
       "artists": [
         {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        },
-        {
-          "name": "Igor Zolla",
-          "url": "https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX"
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
         }
       ],
-      "duration_ms": 179280,
-      "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
-      "url": "https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU"
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2026-03-20 15:09:32",
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2026-03-20 15:09:32",
       "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+        "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
+        "url": "https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH"
       },
       "artists": [
         {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "Igor Zolla",
+          "url": "https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX"
         }
       ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
+      "duration_ms": 179280,
+      "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
+      "url": "https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU"
     },
     {
       "added_at": "2026-03-20 15:09:32",

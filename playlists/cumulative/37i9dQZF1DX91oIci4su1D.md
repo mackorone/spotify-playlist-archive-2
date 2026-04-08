@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,262 songs - 3 day 3 hr 30 min
+1,263 songs - 3 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [By Now](https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe) | [By Now](https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX) | 2:33 | 2024-04-26 | 2024-08-31 |
 | [By Your Side](https://open.spotify.com/track/5tLtVHK1rTefQJi8o1OUUG) | [Robbie Seed](https://open.spotify.com/artist/6jbM9dszTY66L2Q7E1U0ll), [Maryjo Lilac](https://open.spotify.com/artist/5YNupIvg8JvyF7T7oqEwgq) | [By Your Side](https://open.spotify.com/album/5QSk5mRHCguee0yWQ9D9QY) | 3:36 | 2022-04-15 | 2023-04-09 |
 | [Café Del Mar](https://open.spotify.com/track/4QhrNJ1nmVUaQhINsAiFOX) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Café Del Mar](https://open.spotify.com/album/4lwXF6u716TTBpWWN8uzut) | 2:38 | 2023-06-02 | 2024-07-13 |
+| [Cahaya](https://open.spotify.com/track/2hzFBgx1kqrMmWKshBlWaB) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Cahaya](https://open.spotify.com/album/2MJqcwyjcA80tQ9cNswcwT) | 3:11 | 2026-04-03 |  |
 | [Calling](https://open.spotify.com/track/4ajFhKrMK1WZ0PQ15HyjAN) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn), [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [Calling](https://open.spotify.com/album/6NMZ25OHvfR4HzWIM1LJqq) | 3:42 | 2022-10-28 | 2024-02-17 |
 | [Calling Berlin](https://open.spotify.com/track/2K7W4hn3IoLEyY5EXWfoWC) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW) | [Calling Berlin](https://open.spotify.com/album/6umgHu9cCQ4WkGG4JOM0VH) | 3:09 | 2022-05-06 | 2023-06-10 |
 | [Calling For You](https://open.spotify.com/track/2f9WrxAjdhOgEXpjLXzOfu) | [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt), [GURLI](https://open.spotify.com/artist/3gGhgzj2JBJnEhnDdMJQHw) | [Calling For You](https://open.spotify.com/album/49jS8oDKVQikaagnTRNvVB) | 3:00 | 2024-06-14 | 2024-07-13 |
@@ -809,7 +810,7 @@
 | [Orbit 37](https://open.spotify.com/track/40fFjxtsBoIdTEL71kbp39) | [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Orbit 37](https://open.spotify.com/album/1F6PBJ4VSUq4KqoQVjPppM) | 2:54 | 2022-05-27 | 2023-05-20 |
 | [Orbital](https://open.spotify.com/track/293aty9q7lfkX34uMS9m1J) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Orbital](https://open.spotify.com/album/2yLAOO3R8McWCjTDJYF12F) | 3:29 | 2024-07-12 | 2025-05-17 |
 | [Orbital](https://open.spotify.com/track/1YP0dnGSrwpvMF18ONgO4C) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Alessandra Roncone](https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p) | [Orbital](https://open.spotify.com/album/1y8lbuql4l668IMedS8EkX) | 5:16 | 2025-05-16 | 2026-02-10 |
-| [Origins](https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Origins / ARP](https://open.spotify.com/album/3OoQvRYpRLTCETcNGbydvw) | 3:32 | 2025-10-03 |  |
+| [Origins](https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Origins / ARP](https://open.spotify.com/album/3OoQvRYpRLTCETcNGbydvw) | 3:32 | 2025-10-03 | 2026-04-08 |
 | [Orion](https://open.spotify.com/track/4jUfgt75bm6jogy5iMLVEZ) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla), [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss) | [Orion](https://open.spotify.com/album/0bzJlohenSutVgiW39yXI1) | 3:15 | 2024-07-26 | 2024-10-26 |
 | [Orkaan](https://open.spotify.com/track/0VFjEgr9njZFDUqOYvW4lT) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Orkaan](https://open.spotify.com/album/66lxk1HRuQvpRsplqxZaOT) | 3:15 | 2023-05-19 | 2023-06-10 |
 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 | 2022-06-10 | 2022-07-16 |

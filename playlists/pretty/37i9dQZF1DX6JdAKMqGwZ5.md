@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Rodrigo Cuevas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,882 likes - 120 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,879 likes - 120 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 33 | [Un beso y una flor](https://open.spotify.com/track/5W31WXmdZiFUzKcBmspJdG) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Un beso y una flor](https://open.spotify.com/album/4Qu1tWIqp9wzL18E5xfiRx) | 2:50 |
 | 34 | [tiene que ser más fácil](https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [tiene que ser más fácil](https://open.spotify.com/album/6xVdTAJCQAcjM4CyHiJjZa) | 3:50 |
 | 35 | [R.A.](https://open.spotify.com/track/6Cj8500MoZiy0qkaGULMEU) | [Hofe](https://open.spotify.com/artist/56J8Wxq3wAYCDHNwabMzrO), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [R.A.](https://open.spotify.com/album/7qgn05MWVnXhCTkdqqWIvA) | 2:03 |
-| 36 | [La balada final](https://open.spotify.com/track/1IDDxwuErbgUjTEbbRbNUq) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [La balada final](https://open.spotify.com/album/14bJvL1lAZWvfJXChuzPxS) | 2:55 |
+| 36 | [La Balada Final](https://open.spotify.com/track/1IDDxwuErbgUjTEbbRbNUq) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [La Balada Final](https://open.spotify.com/album/14bJvL1lAZWvfJXChuzPxS) | 2:55 |
 | 37 | [Contigo](https://open.spotify.com/track/7jCKhYFz4NHrbrajity2eA) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Contigo](https://open.spotify.com/album/4Yl8mtPufYDfj9n4FWgN9C) | 2:32 |
 | 38 | [El Bosque \[2025\]](https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [El Bosque \[2025\]](https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ) | 3:57 |
 | 39 | [Un Clásico \[2022\]](https://open.spotify.com/track/4HGwZV5u3gLKuKoSpONUbz) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [Un Clásico \[2022\]](https://open.spotify.com/album/49Ljbuf0AX1mUWMz2HBtZ8) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Thelma & James
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,330 likes - 149 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,323 likes - 149 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

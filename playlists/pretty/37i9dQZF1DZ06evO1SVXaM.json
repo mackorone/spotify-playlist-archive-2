@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3080125,
+  "num_followers": 3081040,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adGmAAAAAADoDyeV9bBT0CNc9rf4spoZ",
+  "snapshot_id": "adL3gAAAAACfwJ3rzy4w9IB29ujD7eUq",
   "tracks": [
     {
       "added_at": null,
@@ -783,22 +783,6 @@
       "duration_ms": 151933,
       "name": "Rockin' Robin",
       "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever, Michael",
-        "url": "https://open.spotify.com/album/6leeBdAohG7zhybC3Cmu8W"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 258160,
-      "name": "One Day In Your Life",
-      "url": "https://open.spotify.com/track/7vtaQNW7QHtQsLeshQlm3D"
     },
     {
       "added_at": null,

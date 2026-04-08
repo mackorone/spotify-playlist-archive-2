@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,948 likes - 200 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,881 likes - 200 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 199 | [Glaciär](https://open.spotify.com/track/5fB0ZdDjV6jIdForRz3OBa) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Glaciär](https://open.spotify.com/album/5YxrvbDAjw28e7B9lw4SUm) | 2:22 |
 | 200 | [Above It All](https://open.spotify.com/track/3GtMwSL6XvdMB0oMm3lkVD) | [Astrocalm](https://open.spotify.com/artist/1ZoNh8hKFOtOMDklPdhnCg) | [Above It All](https://open.spotify.com/album/21cxtg5ehPNvWAkd8uYlIt) | 2:42 |
 
-Snapshot ID: `AAAAANbLnfLIJlXGMPiMiIHcSTJ23pLw`
+Snapshot ID: `AAAAAIe/80JoQIyhy87ugYV/CE9JjHMu`

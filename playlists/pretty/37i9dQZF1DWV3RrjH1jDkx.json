@@ -1,6 +1,6 @@
 {
   "description": "Endelig fredag og ny musikk fra BLAKSTA, Bebe Rexha, vinni og mange flere!\ud83c\udfb5",
-  "num_followers": 200962,
+  "num_followers": 200955,
   "original_name": "New Music Friday Norway",
   "owner": {
     "name": "Spotify",
@@ -1032,12 +1032,12 @@
       },
       "artists": [
         {
-          "name": "Niah Steiner",
-          "url": "https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7"
-        },
-        {
           "name": "RAES",
           "url": "https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx"
+        },
+        {
+          "name": "Niah Steiner",
+          "url": "https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7"
         }
       ],
       "duration_ms": 178950,

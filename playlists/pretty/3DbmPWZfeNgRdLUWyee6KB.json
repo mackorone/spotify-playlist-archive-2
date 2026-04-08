@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAASg6R8EwdbSqkr+J0kySpcjAPfo+Wh",
+  "snapshot_id": "AAASiDP9nHIp6Dw1dlSLxiaao98xdra4",
   "tracks": [
     {
       "added_at": "2026-03-05 23:06:18",
@@ -415,6 +415,22 @@
       "duration_ms": 278576,
       "name": "Allora come ti va",
       "url": "https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS"
+    },
+    {
+      "added_at": "2026-04-07 10:34:15",
+      "album": {
+        "name": "Confession to Make",
+        "url": "https://open.spotify.com/album/45O096QdrsBc5oRpQ7kVi2"
+      },
+      "artists": [
+        {
+          "name": "DJ Kosho",
+          "url": "https://open.spotify.com/artist/4v0mYxAmKlG7pDYuiUfm87"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Confession to Make",
+      "url": "https://open.spotify.com/track/4BWbeI8yxhm6syj4P3K9yl"
     },
     {
       "added_at": "2026-03-02 16:22:09",
@@ -3187,6 +3203,70 @@
       "duration_ms": 235030,
       "name": "Prise au pi\u00e8ge",
       "url": "https://open.spotify.com/track/3llWxmfiYq8NmaKFIxEUZm"
+    },
+    {
+      "added_at": "2026-04-07 10:33:01",
+      "album": {
+        "name": "Ben Zelf Ook Bang",
+        "url": "https://open.spotify.com/album/2uCOTLMVDmovHeAB634nUS"
+      },
+      "artists": [
+        {
+          "name": "Vain",
+          "url": "https://open.spotify.com/artist/4tRzcUW6cv8dwq9ZzI4RAS"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Ben Zelf Ook Bang",
+      "url": "https://open.spotify.com/track/033unkA5mTh0HhibYAHqyo"
+    },
+    {
+      "added_at": "2026-04-07 10:33:54",
+      "album": {
+        "name": "Doc Holliday",
+        "url": "https://open.spotify.com/album/4XByeZcCRXXAl1jjnHGfro"
+      },
+      "artists": [
+        {
+          "name": "Austin-Tucker",
+          "url": "https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq"
+        }
+      ],
+      "duration_ms": 289968,
+      "name": "Doc Holliday",
+      "url": "https://open.spotify.com/track/3OohvRQPyZSKfyAeg1ph9A"
+    },
+    {
+      "added_at": "2026-04-07 10:33:57",
+      "album": {
+        "name": "Cuerdas Nocturnas",
+        "url": "https://open.spotify.com/album/1HZmIA87i8LsruJ1rSglCC"
+      },
+      "artists": [
+        {
+          "name": "NayroMusic",
+          "url": "https://open.spotify.com/artist/4bJJBolygs8H5vlKMNtxKc"
+        }
+      ],
+      "duration_ms": 169991,
+      "name": "Pierdo el Control",
+      "url": "https://open.spotify.com/track/3C0bku6a2HSE7D7SdR1h0r"
+    },
+    {
+      "added_at": "2026-04-07 10:34:01",
+      "album": {
+        "name": "I know he was",
+        "url": "https://open.spotify.com/album/3c6DVRc21XqgHrhbiiDX7n"
+      },
+      "artists": [
+        {
+          "name": "Si Rusty",
+          "url": "https://open.spotify.com/artist/1VbhbjoDwIar84obeTCV2M"
+        }
+      ],
+      "duration_ms": 169799,
+      "name": "I know he was",
+      "url": "https://open.spotify.com/track/2AsWONFdZM5unwVKDCSO4U"
     }
   ],
   "unique_name": "New Indie Music",

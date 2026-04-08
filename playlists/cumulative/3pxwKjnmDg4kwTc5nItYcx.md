@@ -2,9 +2,9 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Down\-tempo and easy listening music\. Cover: Teddy Swims
+> Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-891 songs - 1 day 23 hr 58 min
+897 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [23:42](https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 3:01 | 2025-04-04 | 2025-08-27 |
 | [2step \(feat\. Budjerah\)](https://open.spotify.com/track/5viJfHHj5qnP55zoEWMh97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [2step \(feat\. Budjerah\)](https://open.spotify.com/album/3wd91jE2MWmMsHjAP4TA7v) | 2:33 | 2022-05-10 | 2025-07-17 |
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-04-22 | 2025-08-27 |
+| [4:25](https://open.spotify.com/track/2cjQAWtDFoWVWdXr0oKfef) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Portal](https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB) | 4:37 | 2026-04-07 |  |
 | [4K \(feat\. Dean Brady\)](https://open.spotify.com/track/6wFg3WLN1543gMv1fsSvFT) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW), [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [4K \(feat\. Dean Brady\)](https://open.spotify.com/album/3ZX8g5zojqxeK9a97hNXJi) | 2:54 | 2025-08-27 |  |
 | [7 Minutes In Heaven](https://open.spotify.com/track/1BiZ9r6J68KPZiwO9aYHfj) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [7 Minutes In Heaven](https://open.spotify.com/album/5OBjaJBkBiB2lte0yM6BUa) | 3:36 | 2023-06-08 | 2025-08-27 |
 | [9 Feet Tall](https://open.spotify.com/track/5QbifeQkWWPvn6lvT3lXpl) | [Alex Frew](https://open.spotify.com/artist/6MAkYH7Pz4yusy6J11baeE) | [Cobalt](https://open.spotify.com/album/6u71sqyPz80VM8K8CCOgZf) | 3:30 | 2021-02-26 | 2025-08-27 |
@@ -282,6 +283,7 @@
 | [Funeral \(feat\. James Bay\)](https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Funeral \(feat\. James Bay\)](https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr) | 2:34 | 2021-05-08 | 2025-07-17 |
 | [Future Kids](https://open.spotify.com/track/5Cy20icxvxt8EnB2pIdVxf) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Future Kids](https://open.spotify.com/album/2aAF4bnWU9rrbK8mw70TGl) | 3:11 | 2021-02-12 | 2025-07-17 |
 | [Gentle With Me](https://open.spotify.com/track/2iimoY1Q4wE44jI34e9AlG) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Gentle With Me](https://open.spotify.com/album/6gJhfjZD2IL95yULmbPjU5) | 3:42 | 2025-08-27 |  |
+| [Gentleman](https://open.spotify.com/track/6URTOfc0nxjdDOW78EpWSR) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/1zjogtorX0HTkEfUQ1zot7) | 3:35 | 2026-04-07 |  |
 | [Get Down](https://open.spotify.com/track/3X0XZgfQlit1TWFC5uRUAT) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Conversations](https://open.spotify.com/album/2jRDlNeTYCcHl9qguqSlYy) | 3:39 | 2022-04-08 | 2025-08-27 |
 | [Get High](https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Get High](https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn) | 3:42 | 2021-02-06 | 2022-07-30 |
 | [Get Out Alive](https://open.spotify.com/track/2Zd132xBOYq7O6X6h30Iow) | [Alex Frew](https://open.spotify.com/artist/6MAkYH7Pz4yusy6J11baeE) | [Get Out Alive](https://open.spotify.com/album/3JjXvTcEPSUbYnmdKxlLSq) | 3:11 | 2020-06-12 | 2021-05-12 |
@@ -544,6 +546,7 @@
 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 | 2020-07-31 | 2021-05-12 |
 | [My Heart](https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Under the Surface](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) | 3:16 | 2019-08-27\* | 2019-11-11 |
 | [My Name](https://open.spotify.com/track/3rofV13MLdIYj3Hj2gigLe) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Conversations](https://open.spotify.com/album/2jRDlNeTYCcHl9qguqSlYy) | 3:26 | 2022-05-09 | 2025-08-27 |
+| [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 | 2026-04-07 |  |
 | [My Religion](https://open.spotify.com/track/03QMadxPFBHAeyVxYi3teS) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [My Religion](https://open.spotify.com/album/1NKiIeTtkYiMykZKSIePVl) | 3:20 | 2020-06-12 | 2021-05-12 |
 | [My Way](https://open.spotify.com/track/67CZNsG3SQ1S8O2BsjTo4R) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [My Way](https://open.spotify.com/album/1l9oYbtssYCsKBChiBseJm) | 3:30 | 2020-07-01 | 2021-05-12 |
 | [Navy Blue](https://open.spotify.com/track/2V5YXks1lzRLR4qx4NTADJ) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Navy Blue](https://open.spotify.com/album/3fa2dzsrpIZBgUniutmj7V) | 2:41 | 2019-09-27 | 2020-05-19 |
@@ -683,6 +686,7 @@
 | [Satellite](https://open.spotify.com/track/3xIP4i2mstqylCME7dek0G) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Satellite](https://open.spotify.com/album/5wmvoawQeyRINdlMJtZJlf) | 4:22 | 2019-08-27\* | 2020-05-19 |
 | [Saving Bugs \- Stripped Back](https://open.spotify.com/track/08PP85WolVTpwZkFU5npni) | [Chase Zera](https://open.spotify.com/artist/6HHwfKLPp4UtvfLEXpmVGl) | [Saving Bugs](https://open.spotify.com/album/3q0GNzzssAcizkBv61aiqR) | 3:16 | 2020-09-29 | 2025-07-17 |
 | [Say It Again](https://open.spotify.com/track/3DF9XSRvf0dFT3Om0Rj4KJ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Say It Again](https://open.spotify.com/album/1mgTS0tdQowCQkrOPxMVOG) | 3:36 | 2020-07-31 | 2021-05-12 |
+| [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 | 2026-04-07 |  |
 | [Say Nothing](https://open.spotify.com/track/4rDRcp3HUu0Yac7o7URJNY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Say Nothing / Strangers / History of Violence](https://open.spotify.com/album/3rSIMdxCuuWiXNTiXuqX6p) | 3:36 | 2019-12-16 | 2020-03-25 |
 | [Say to You](https://open.spotify.com/track/5eH0e7g26zWBwpGNeK3Gb0) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Say to You](https://open.spotify.com/album/22DKvHucok7t6wzlwEMVL0) | 3:14 | 2019-10-18 | 2021-05-12 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-29 | 2025-08-27 |
@@ -772,8 +776,9 @@
 | [The Bat Song](https://open.spotify.com/track/23RGWHqiObr6yE3lvgQLx0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Meanjin EP](https://open.spotify.com/album/6k4k7bEh9AWCDAGqVZyzFF) | 2:41 | 2022-08-12 | 2025-08-27 |
 | [The Book of You & I](https://open.spotify.com/track/6goVVcwzy7RtZdytF5XADW) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Book of You & I](https://open.spotify.com/album/3xHrlh93xHHP1c5zYiaUad) | 3:27 | 2020-03-20 | 2021-05-12 |
 | [The Brown Snake](https://open.spotify.com/track/1n9rCSKrSfoytMF2AkC1CU) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Meanjin EP](https://open.spotify.com/album/6k4k7bEh9AWCDAGqVZyzFF) | 3:15 | 2022-08-12 | 2025-08-27 |
-| [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-22 | 2025-08-27 |
+| [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-22 |  |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-05-15 | 2025-08-27 |
+| [The Good House](https://open.spotify.com/track/0XUQk2usQVojmf7QzScEcp) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [The Good House](https://open.spotify.com/album/4d1q9nvm7gOnc6GdCOKwpu) | 2:23 | 2026-04-07 |  |
 | [The Heights](https://open.spotify.com/track/0Bp1hCBkBhqrFqumpNoqkX) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [The Heights](https://open.spotify.com/album/1bdlo1pbTsWFURvrYc130d) | 3:19 | 2019-08-27\* | 2019-11-11 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 | 2025-08-27 |
 | [The Kids Are Alright](https://open.spotify.com/track/4Ww3dEzyEMq6hsqz4OU1Yh) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Honeydew](https://open.spotify.com/album/4aIFBYHViYgnKrh3wKXpkA) | 2:52 | 2020-06-19 | 2021-05-12 |
@@ -873,6 +878,7 @@
 | [When It Rains It Pours](https://open.spotify.com/track/6zQD47A7AYIz2iJJbpXDna) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [When It Rains It Pours](https://open.spotify.com/album/2wNdSPuphHn8QepF515wWV) | 4:13 | 2022-07-13 | 2025-08-27 |
 | [when the lights go out](https://open.spotify.com/track/3yBDhW2BqKSYgeZWDUIFoF) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [when the lights go out](https://open.spotify.com/album/0H3Pt1vUisleTDw1gdkloN) | 3:42 | 2020-04-23 | 2021-05-12 |
 | [Where Did She Go](https://open.spotify.com/track/6GtgLMKmrmICSUUdOHeTUS) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Where Did She Go](https://open.spotify.com/album/2W6wjoF6jzJa4dEJ2sK6zu) | 2:25 | 2025-03-21 | 2025-08-27 |
+| [Where Our Streets Met](https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes a Girl a Girl](https://open.spotify.com/album/4QqoZQ9YV7TOTrkohQQ5pQ) | 3:17 | 2026-04-07 |  |
 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 | 2021-02-26 | 2025-08-27 |
 | [Who I Am](https://open.spotify.com/track/1ANsuCNluOIsq35MDRk8Hr) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Who I Am](https://open.spotify.com/album/2m5dpEbMwgMyiRVFZDzDTC) | 3:24 | 2019-08-27\* | 2019-11-11 |
 | [Who's Laughing Now](https://open.spotify.com/track/73h4oe03sZy8bXfQLfnqMv) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Who's Laughing Now](https://open.spotify.com/album/4mxU9BZA47n0hZbQ220Q5B) | 3:00 | 2020-07-31 | 2021-05-12 |

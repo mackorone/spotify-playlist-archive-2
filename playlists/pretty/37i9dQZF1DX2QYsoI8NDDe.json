@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Loreto & Las Mar\u00edas \ud83d\udd25",
-  "num_followers": 580499,
+  "num_followers": 580493,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2026-04-03 06:01:02",
       "album": {
-        "name": "La Novia Del Pajarillo (En Vivo)",
-        "url": "https://open.spotify.com/album/4hYc8P71h1ByS2vHjItpQF"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 235434,
-      "name": "La Novia Del Pajarillo (En Vivo)",
-      "url": "https://open.spotify.com/track/1cqqXvOmdlhbMidw2Uvqtn"
-    },
-    {
-      "added_at": "2026-04-03 06:01:02",
-      "album": {
         "name": "Por Un Mal Amor",
         "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 193998,
       "name": "Por Un Mal Amor",
       "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
+    },
+    {
+      "added_at": "2026-04-03 06:01:02",
+      "album": {
+        "name": "La Novia Del Pajarillo (En Vivo)",
+        "url": "https://open.spotify.com/album/4hYc8P71h1ByS2vHjItpQF"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 235434,
+      "name": "La Novia Del Pajarillo (En Vivo)",
+      "url": "https://open.spotify.com/track/1cqqXvOmdlhbMidw2Uvqtn"
     },
     {
       "added_at": "2026-04-03 06:01:02",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-04-03 06:01:02",
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/2eBOyNtC1dh7Ur4cHHzNn3"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/6qquUxCCrA6TeSgcCf2VZr"
+    },
+    {
+      "added_at": "2026-04-03 06:01:02",
+      "album": {
         "name": "La Gran Se\u00f1ora (Banda)",
         "url": "https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 209160,
       "name": "La Competencia",
       "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
-    },
-    {
-      "added_at": "2026-04-03 06:01:02",
-      "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/2eBOyNtC1dh7Ur4cHHzNn3"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/6qquUxCCrA6TeSgcCf2VZr"
     },
     {
       "added_at": "2026-04-03 06:01:02",
@@ -463,26 +463,6 @@
     {
       "added_at": "2026-04-03 06:01:02",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/2ghjonEq2YTFUKEFKAliPX"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "Elaine Haro",
-          "url": "https://open.spotify.com/artist/2g55yY73Y02L4FpXJT02gS"
-        }
-      ],
-      "duration_ms": 158037,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/2ntfgqBFCGLrtyOXqzjiEY"
-    },
-    {
-      "added_at": "2026-04-03 06:01:02",
-      "album": {
         "name": "\u00bfARDIDA QUI\u00c9N?",
         "url": "https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 140854,
       "name": "\u00bfARDIDA QUI\u00c9N?",
       "url": "https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br"
+    },
+    {
+      "added_at": "2026-04-03 06:01:02",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/2ghjonEq2YTFUKEFKAliPX"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Elaine Haro",
+          "url": "https://open.spotify.com/artist/2g55yY73Y02L4FpXJT02gS"
+        }
+      ],
+      "duration_ms": 158037,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/2ntfgqBFCGLrtyOXqzjiEY"
     },
     {
       "added_at": "2026-04-03 06:01:02",
@@ -531,26 +531,6 @@
       "duration_ms": 424292,
       "name": "Popurr\u00ed Selena 2 - En Vivo",
       "url": "https://open.spotify.com/track/455yI1Lky2PYjGC2DYl1mC"
-    },
-    {
-      "added_at": "2026-04-03 06:01:02",
-      "album": {
-        "name": "No Puedo Odiarte",
-        "url": "https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        },
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 126386,
-      "name": "No Puedo Odiarte",
-      "url": "https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY"
     },
     {
       "added_at": "2026-04-03 06:01:02",
@@ -603,6 +583,26 @@
       "duration_ms": 190384,
       "name": "Culpa M\u00eda",
       "url": "https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2"
+    },
+    {
+      "added_at": "2026-04-03 06:01:02",
+      "album": {
+        "name": "No Puedo Odiarte",
+        "url": "https://open.spotify.com/album/12f2qMADSsSx9WRvxkMYyr"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 126386,
+      "name": "No Puedo Odiarte",
+      "url": "https://open.spotify.com/track/6hD8rcGx9ImZtZsa0r9mPY"
     },
     {
       "added_at": "2026-04-03 06:01:02",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-04-03 06:01:02",
       "album": {
-        "name": "Cuando Ama Una Mujer",
-        "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
-      },
-      "artists": [
-        {
-          "name": "Diana Hoyos",
-          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Cuando Ama Una Mujer",
-      "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
-    },
-    {
-      "added_at": "2026-04-03 06:01:02",
-      "album": {
         "name": "MEXICANA VOL. 2",
         "url": "https://open.spotify.com/album/5TI6LSYMxe2Tl21NnUb8u4"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 195060,
       "name": "Mi Reh\u00e9n",
       "url": "https://open.spotify.com/track/7IvhK66l8t2UQICRlg38W1"
+    },
+    {
+      "added_at": "2026-04-03 06:01:02",
+      "album": {
+        "name": "Cuando Ama Una Mujer",
+        "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
+      },
+      "artists": [
+        {
+          "name": "Diana Hoyos",
+          "url": "https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "Cuando Ama Una Mujer",
+      "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
     },
     {
       "added_at": "2026-04-03 06:01:02",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-04-03 06:01:02",
       "album": {
+        "name": "All\u00e1 Donde Vayas",
+        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
+      },
+      "artists": [
+        {
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+        }
+      ],
+      "duration_ms": 213316,
+      "name": "All\u00e1 Donde Vayas",
+      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
+    },
+    {
+      "added_at": "2026-04-03 06:01:02",
+      "album": {
         "name": "Que Tal?",
         "url": "https://open.spotify.com/album/3xX5hsUxsPjiK5MHKvm1U8"
       },
@@ -1135,6 +1151,22 @@
       "duration_ms": 260500,
       "name": "Que Tal?",
       "url": "https://open.spotify.com/track/4yeodKx69oHZKlG0p1d4An"
+    },
+    {
+      "added_at": "2026-04-03 06:01:02",
+      "album": {
+        "name": "Playa Sola",
+        "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
+      },
+      "artists": [
+        {
+          "name": "Jessi Valente",
+          "url": "https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs"
+        }
+      ],
+      "duration_ms": 164460,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
     },
     {
       "added_at": "2026-04-03 06:01:02",
@@ -1171,38 +1203,6 @@
     {
       "added_at": "2026-04-03 06:01:02",
       "album": {
-        "name": "Playa Sola",
-        "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
-      },
-      "artists": [
-        {
-          "name": "Jessi Valente",
-          "url": "https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs"
-        }
-      ],
-      "duration_ms": 164460,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"
-    },
-    {
-      "added_at": "2026-04-03 06:01:02",
-      "album": {
-        "name": "Lo Que Se Ve No Se Pregunta",
-        "url": "https://open.spotify.com/album/1t3qW7WWFgrfaUlbMoURGL"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 178489,
-      "name": "Lo Que Se Ve No Se Pregunta",
-      "url": "https://open.spotify.com/track/0mMakIqKvMHl7qHnbZkjOu"
-    },
-    {
-      "added_at": "2026-04-03 06:01:02",
-      "album": {
         "name": "Ning\u00fan Color Tiene Due\u00f1o",
         "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
       },
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-04-03 06:01:02",
       "album": {
-        "name": "All\u00e1 Donde Vayas",
-        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
+        "name": "Lo Que Se Ve No Se Pregunta",
+        "url": "https://open.spotify.com/album/1t3qW7WWFgrfaUlbMoURGL"
       },
       "artists": [
         {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 213316,
-      "name": "All\u00e1 Donde Vayas",
-      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
+      "duration_ms": 178489,
+      "name": "Lo Que Se Ve No Se Pregunta",
+      "url": "https://open.spotify.com/track/0mMakIqKvMHl7qHnbZkjOu"
     },
     {
       "added_at": "2026-04-03 06:01:02",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-04-03 06:01:02",
       "album": {
-        "name": "La Traici\u00f3n y El Contrabando (Deluxe)",
-        "url": "https://open.spotify.com/album/2BTtbzVyc4s0r3bIWuJB4W"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 205173,
-      "name": "bk",
-      "url": "https://open.spotify.com/track/4kXd3byDcibgGVJ19gYCSE"
-    },
-    {
-      "added_at": "2026-04-03 06:01:02",
-      "album": {
         "name": "Desde El Comienzo",
         "url": "https://open.spotify.com/album/0MhDjk87DWTAmYYiyoBjJ6"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 168344,
       "name": "Me Vale Perderte",
       "url": "https://open.spotify.com/track/2xv1Qn9FQtgMgApA8HVkie"
+    },
+    {
+      "added_at": "2026-04-03 06:01:02",
+      "album": {
+        "name": "La Traici\u00f3n y El Contrabando (Deluxe)",
+        "url": "https://open.spotify.com/album/2BTtbzVyc4s0r3bIWuJB4W"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "bk",
+      "url": "https://open.spotify.com/track/4kXd3byDcibgGVJ19gYCSE"
     },
     {
       "added_at": "2026-04-03 06:01:02",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-04-03 06:01:02",
       "album": {
-        "name": "MEXICANA: EN VIVO (Live)",
-        "url": "https://open.spotify.com/album/2vhsyZLikuL3F9qTKD5yPQ"
-      },
-      "artists": [
-        {
-          "name": "Carmen Goett",
-          "url": "https://open.spotify.com/artist/4oVApCVBzpV2e8GXntnNXf"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Me Gustas para a Veces - Live",
-      "url": "https://open.spotify.com/track/7rJuQz3iSeg427iVrkcrzR"
-    },
-    {
-      "added_at": "2026-04-03 06:01:02",
-      "album": {
         "name": "La Del Proceso",
         "url": "https://open.spotify.com/album/6AtKgzJ3tvQrUZgq03QVsm"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 177200,
       "name": "La Del Proceso",
       "url": "https://open.spotify.com/track/6Uvpogq0rwi7oan9JokAKe"
+    },
+    {
+      "added_at": "2026-04-03 06:01:02",
+      "album": {
+        "name": "MEXICANA: EN VIVO (Live)",
+        "url": "https://open.spotify.com/album/2vhsyZLikuL3F9qTKD5yPQ"
+      },
+      "artists": [
+        {
+          "name": "Carmen Goett",
+          "url": "https://open.spotify.com/artist/4oVApCVBzpV2e8GXntnNXf"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Me Gustas para a Veces - Live",
+      "url": "https://open.spotify.com/track/7rJuQz3iSeg427iVrkcrzR"
     },
     {
       "added_at": "2026-04-03 06:01:02",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-04-03 06:01:02",
       "album": {
-        "name": "Que Te Cambie La Suerte",
-        "url": "https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ"
-      },
-      "artists": [
-        {
-          "name": "Briseyda Solis",
-          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
-        }
-      ],
-      "duration_ms": 207614,
-      "name": "Que Te Cambie La Suerte",
-      "url": "https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2"
-    },
-    {
-      "added_at": "2026-04-03 06:01:02",
-      "album": {
         "name": "La Ilusionada de mi Vida",
         "url": "https://open.spotify.com/album/3IaWGkiH07TxCoQTTnopJw"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 161756,
       "name": "La Ilusionada de mi Vida",
       "url": "https://open.spotify.com/track/00ree0Nl3epzJnSlYcM1vL"
+    },
+    {
+      "added_at": "2026-04-03 06:01:02",
+      "album": {
+        "name": "Que Te Cambie La Suerte",
+        "url": "https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ"
+      },
+      "artists": [
+        {
+          "name": "Briseyda Solis",
+          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
+        }
+      ],
+      "duration_ms": 207614,
+      "name": "Que Te Cambie La Suerte",
+      "url": "https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2"
     },
     {
       "added_at": "2026-04-03 06:01:02",

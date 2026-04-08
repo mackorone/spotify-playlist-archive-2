@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 48855,
+  "num_followers": 48875,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,26 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
+        "name": "Mitti - Folk Vibes Of Punjab",
+        "url": "https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj"
+      },
+      "artists": [
+        {
+          "name": "Supriya Soni",
+          "url": "https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22"
+        },
+        {
+          "name": "Vanshika Joshi",
+          "url": "https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE"
+        }
+      ],
+      "duration_ms": 117109,
+      "name": "Baajre Da Sitta",
+      "url": "https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
         "name": "Sohni Mahiwal",
         "url": "https://open.spotify.com/album/2HpGttLBxp1R7Hvy0mmGZz"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 189767,
       "name": "Challa",
       "url": "https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
-        "name": "Mitti - Folk Vibes Of Punjab",
-        "url": "https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj"
-      },
-      "artists": [
-        {
-          "name": "Supriya Soni",
-          "url": "https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22"
-        },
-        {
-          "name": "Vanshika Joshi",
-          "url": "https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE"
-        }
-      ],
-      "duration_ms": 117109,
-      "name": "Baajre Da Sitta",
-      "url": "https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2"
     },
     {
       "added_at": "2026-01-13 11:20:11",

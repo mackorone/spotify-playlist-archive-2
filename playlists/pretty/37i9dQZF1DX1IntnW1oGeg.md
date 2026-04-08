@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IntnW1oGeg.md) - [plain]
 
 > Enjoy exclusive live performance videos from K\-Pop artists produced by Spotify! \(스포티파이가 프로듀싱한 케이팝 아티스트들의 특별한 라이브 퍼포먼스 비디오를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 560 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SWIM \(Performance Video\)](https://open.spotify.com/track/4wlEUhiWXY4ujj9bobwmMa) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/4y9MdW6bpJLTVeRSWwOSTs) | 2:46 |
-| 2 | [SWIM \(Performance Video\)](https://open.spotify.com/track/6tMMQtrhJijTnPvmeLBNAn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Performance Video\)](https://open.spotify.com/album/1764P8O4fqiKa7bXztICT2) | 2:46 |
+| 1 | [SWIM \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [SWIM \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD) | 2:42 |
+| 2 | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih) | 3:10 |
 | 3 | [On The Road](https://open.spotify.com/track/7lt0IFjlsY1FztH3g7POGP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [On The Road](https://open.spotify.com/album/4qLmONjxB0xKGGra65EIgT) | 4:12 |
 | 4 | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/track/5B5SLuIkevqp9KlCzxhupw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/album/2H001xNfwbodUi051OEO6Y) | 3:56 |
 | 5 | [O.O Pt\. 1 \(Baila\)](https://open.spotify.com/track/0c15Tj9dcB3VgwDya7roED) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [O.O Pt\. 1 \(Baila\)](https://open.spotify.com/album/3UBnxG8yJO6Bp1lMlLBMZB) | 3:43 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IntnW1oGeg.md) - [plain]
 | 19 | [Loose \(Korean Ver.\)](https://open.spotify.com/track/03HHGNtjpS5K6fRcwlX3Sx) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/47tBLYvFev5FbtKO9PHlWm) | 4:06 |
 | 20 | [Loose \(Korean Ver.\)](https://open.spotify.com/track/2RCriW55nKo1k49PcgnzeK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/4WEEEi1YvRwwPzXileG661) | 4:06 |
 
-Snapshot ID: `AAAAAJVNzjSdD+XebJlqBKk7dT5pJhxz`
+Snapshot ID: `AAAAAAFvqgieBejV1nPycmrSJ4AgQVzE`

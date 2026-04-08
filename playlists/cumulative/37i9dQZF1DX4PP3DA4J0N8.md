@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-231 songs - 11 hr 4 min
+232 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Remote Reflection \- Nature](https://open.spotify.com/track/3NULDr3HyykyYNsSQ0kZO6) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Remote Reflection](https://open.spotify.com/album/1mmWIt28tsHThSIUD6SguT) | 3:01 | 2024-08-15 |  |
 | [Remote Respite \- Rain](https://open.spotify.com/track/10taLrdqj10KfUHQynQEmT) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Remote Respite \(Rain\)](https://open.spotify.com/album/5s6KARP40CPhgmFyFJdX0L) | 2:50 | 2023-09-20 |  |
 | [River Birds \(Green Noise 220Hz HP\)](https://open.spotify.com/track/3Lr6j4FjEiaZAEjp6yUyRY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:22 | 2023-03-03 |  |
-| [River Close with Birds \- River](https://open.spotify.com/track/2KdUMPBKthc1lz3DascPlE) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Nature's Rain, Oceans, Rivers](https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo) | 2:17 | 2022-03-25 |  |
+| [River Close with Birds \- River](https://open.spotify.com/track/2KdUMPBKthc1lz3DascPlE) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Nature's Rain, Oceans, Rivers](https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo) | 2:17 | 2022-03-25 | 2026-04-08 |
 | [River Creek with Birds](https://open.spotify.com/track/5CK7gGerbMibYcXaifKK27) | [Deep Sleep FX](https://open.spotify.com/artist/52ZkV6bSNDshzq9BGTudae) | [River Creek with Birds](https://open.spotify.com/album/7D8W0fJf9Fbv2mNb2ytf8F) | 2:23 | 2023-03-03 |  |
 | [River Rain](https://open.spotify.com/track/1XGH1AZ0JONwKKkYuNEPdE) | [Out & About](https://open.spotify.com/artist/0asBrm3wPU6SWrI7OzrnFX) | [When It Rains...](https://open.spotify.com/album/5nKNpp7Rax9q5yyQITZhyF) | 5:55 | 2022-03-25 |  |
 | [River Shore](https://open.spotify.com/track/1yRUymHNlI4HnyhFXqou8r) | [Earth Science](https://open.spotify.com/artist/6uVNYr50zFJFtp3R1LYaab) | [Marymere Falls](https://open.spotify.com/album/4RD2hBbd6fz0clfEssVrct) | 3:19 | 2022-03-25 |  |
@@ -187,6 +187,7 @@
 | [Smoothe Suburban Forest Rain 2](https://open.spotify.com/track/2BhG0szLZb5rqpIdXu0hGh) | [Mori Desu](https://open.spotify.com/artist/3pocUa48FP2N3zVmIKRYxv) | [Smoothe Suburban Forest Rain](https://open.spotify.com/album/0Dk4VKHbpAqFAxntBbiAwG) | 2:34 | 2022-03-25 | 2025-10-27 |
 | [Soft & Crispy Rain](https://open.spotify.com/track/6bhxAE1z4FCDkJJKQBkV6f) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 1:58 | 2022-03-25 | 2023-06-20 |
 | [Soft Rain](https://open.spotify.com/track/1fBxbZ4Lt76i1ZRyrhTi4D) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part 1](https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK) | 2:55 | 2022-03-25 |  |
+| [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 | 2026-04-02 |  |
 | [Songs of the Forest](https://open.spotify.com/track/5DE0Jb0lxBWz5d73FyFqJL) | [Experience Nature](https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax) | [The Wind in the Woods](https://open.spotify.com/album/7G4BDFTsFB6Zq8XvhrCwwJ) | 4:11 | 2023-06-20 |  |
 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 | 2022-03-25 |  |
 | [Soothing Rain](https://open.spotify.com/track/5B7KrnudyvVieOvbrXG9Gs) | [Nuwan](https://open.spotify.com/artist/5Ntegr8o61PSRvEl9sazRU) | [Umbrella Sounds](https://open.spotify.com/album/4QzTCRjIsx21xIL0L8JaHi) | 2:39 | 2022-03-25 |  |

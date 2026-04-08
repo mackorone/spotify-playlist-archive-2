@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3895,
+  "num_followers": 3896,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "INSURGENCIA",
-        "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
-      },
-      "artists": [
-        {
-          "name": "Caos.808",
-          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "INSURGENCIA",
-      "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Roots (Extended)",
         "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 176899,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "INSURGENCIA",
+        "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
+      },
+      "artists": [
+        {
+          "name": "Caos.808",
+          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
+        }
+      ],
+      "duration_ms": 132600,
+      "name": "INSURGENCIA",
+      "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Where We Dive",
-        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
-      },
-      "artists": [
-        {
-          "name": "MEDICIS",
-          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
-        }
-      ],
-      "duration_ms": 240150,
-      "name": "Timecrash",
-      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "dealing with ghosts",
         "url": "https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 121578,
       "name": "outsider",
       "url": "https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Where We Dive",
+        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
+      },
+      "artists": [
+        {
+          "name": "MEDICIS",
+          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
+        }
+      ],
+      "duration_ms": 240150,
+      "name": "Timecrash",
+      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
     },
     {
       "added_at": "2025-11-20 17:00:08",

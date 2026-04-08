@@ -1,13 +1,213 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2725,
+  "num_followers": 2727,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASBUO/wPPu1Yo0XBouTEWaAIgqRNjs",
+  "snapshot_id": "AAASESUmxDAo/R4gBSqLOPBvCpRhrdK8",
   "tracks": [
+    {
+      "added_at": "2026-04-08 01:36:39",
+      "album": {
+        "name": "La Factoria",
+        "url": "https://open.spotify.com/album/2So7hXHWQrMyUhmkJVPtEW"
+      },
+      "artists": [
+        {
+          "name": "DJ MARC ASTELL",
+          "url": "https://open.spotify.com/artist/2laMIA9iOtGhKmy8OmiEQZ"
+        }
+      ],
+      "duration_ms": 403800,
+      "name": "La Factoria",
+      "url": "https://open.spotify.com/track/2wci85N0UXRiaI66UWC0y4"
+    },
+    {
+      "added_at": "2026-04-08 00:11:18",
+      "album": {
+        "name": "Here&Now",
+        "url": "https://open.spotify.com/album/0gUuLG4LGy9E6mw6xswUIx"
+      },
+      "artists": [
+        {
+          "name": "Archi K",
+          "url": "https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY"
+        }
+      ],
+      "duration_ms": 186125,
+      "name": "Niagara Falls",
+      "url": "https://open.spotify.com/track/6xwE2y6DfKLT1y6Q74QcvK"
+    },
+    {
+      "added_at": "2026-04-07 19:35:31",
+      "album": {
+        "name": "Stay All Night",
+        "url": "https://open.spotify.com/album/6njKn3WYFwzhaX08HFKWD3"
+      },
+      "artists": [
+        {
+          "name": "Ziozland",
+          "url": "https://open.spotify.com/artist/46nIUadh3lmdRPgfO4ciC6"
+        }
+      ],
+      "duration_ms": 205428,
+      "name": "Stay All Night",
+      "url": "https://open.spotify.com/track/0aSCQ2Epw0gMfk2hlwbk90"
+    },
+    {
+      "added_at": "2026-04-07 18:33:28",
+      "album": {
+        "name": "Pale Ashes",
+        "url": "https://open.spotify.com/album/7idJPWdSpG4iqQNjc3bX90"
+      },
+      "artists": [
+        {
+          "name": "Isaac Washington",
+          "url": "https://open.spotify.com/artist/2l0adiofBUN4cIVXnipldE"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Pale Ashes",
+      "url": "https://open.spotify.com/track/3PrMeGQon27sYLagTU0Jjb"
+    },
+    {
+      "added_at": "2026-04-07 12:43:30",
+      "album": {
+        "name": "Peja",
+        "url": "https://open.spotify.com/album/1XvwKLAvt4OkAw8HU1sTq6"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Peja",
+      "url": "https://open.spotify.com/track/6mEyImomnFBfgrjyW862ND"
+    },
+    {
+      "added_at": "2026-04-07 11:44:35",
+      "album": {
+        "name": "Lily Now Here",
+        "url": "https://open.spotify.com/album/76riVGz36aHI7bMi8kt2Kq"
+      },
+      "artists": [
+        {
+          "name": "Archi K",
+          "url": "https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY"
+        },
+        {
+          "name": "Sax I",
+          "url": "https://open.spotify.com/artist/4uXVh9b1QanWtx74LnHskW"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Lily Now Here",
+      "url": "https://open.spotify.com/track/15RarX2cBS48nyqBLebxri"
+    },
+    {
+      "added_at": "2026-04-07 11:12:00",
+      "album": {
+        "name": "Keep Pushin",
+        "url": "https://open.spotify.com/album/6rOf1vkOvjuuhXoDWd53Rr"
+      },
+      "artists": [
+        {
+          "name": "Gas Di Fede",
+          "url": "https://open.spotify.com/artist/4EUypOt280PxTdB9HCzSGv"
+        },
+        {
+          "name": "Michelle Weeks",
+          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
+        }
+      ],
+      "duration_ms": 338040,
+      "name": "Keep Pushin",
+      "url": "https://open.spotify.com/track/6HvQQNIgwZa58YzYEOWjFw"
+    },
+    {
+      "added_at": "2026-04-07 11:08:34",
+      "album": {
+        "name": "Vado",
+        "url": "https://open.spotify.com/album/2k8WSRAQ4zrQeMsfWrz9fz"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "duration_ms": 156992,
+      "name": "Vado",
+      "url": "https://open.spotify.com/track/5aUFH0IPjAdBQOpR0F1zQC"
+    },
+    {
+      "added_at": "2026-04-07 08:44:30",
+      "album": {
+        "name": "Dreams mobilia",
+        "url": "https://open.spotify.com/album/4rKIxNKvsm4OUlZ4OwhoJJ"
+      },
+      "artists": [
+        {
+          "name": "Mirror Vain",
+          "url": "https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7"
+        }
+      ],
+      "duration_ms": 194184,
+      "name": "Dreams mobilia",
+      "url": "https://open.spotify.com/track/7varKXqsq43mXl8iV9Lmfq"
+    },
+    {
+      "added_at": "2026-04-07 07:33:02",
+      "album": {
+        "name": "Riffle gun",
+        "url": "https://open.spotify.com/album/0lkcmLr2UtipAk2VyEBkLY"
+      },
+      "artists": [
+        {
+          "name": "Mirror Vain",
+          "url": "https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7"
+        }
+      ],
+      "duration_ms": 176064,
+      "name": "Riffle gun",
+      "url": "https://open.spotify.com/track/180XhecKAAcAiMDFb1wwJt"
+    },
+    {
+      "added_at": "2026-04-07 06:34:24",
+      "album": {
+        "name": "Me",
+        "url": "https://open.spotify.com/album/3xQKo4WKYsPDzNWneFEht1"
+      },
+      "artists": [
+        {
+          "name": "Mirror Vain",
+          "url": "https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7"
+        }
+      ],
+      "duration_ms": 162648,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/1x9os7V76PbeskTgo25YkE"
+    },
+    {
+      "added_at": "2026-04-07 04:43:32",
+      "album": {
+        "name": "Here&Now",
+        "url": "https://open.spotify.com/album/0gUuLG4LGy9E6mw6xswUIx"
+      },
+      "artists": [
+        {
+          "name": "Archi K",
+          "url": "https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Robowalk",
+      "url": "https://open.spotify.com/track/0baHZGMU54e7Utdgi4RoSb"
+    },
     {
       "added_at": "2026-04-06 22:20:59",
       "album": {

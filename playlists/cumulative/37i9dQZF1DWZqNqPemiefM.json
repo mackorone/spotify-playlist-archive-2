@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-31",
-  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: Shuta Hasunuma",
+  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: D.A.N.",
   "name": "Sora Ambient",
   "tracks": [
     {
@@ -726,6 +726,28 @@
       "duration_ms": 437906,
       "name": "A Sea Of Love",
       "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
+    },
+    {
+      "album": {
+        "name": "A Second is a Choir",
+        "url": "https://open.spotify.com/album/3tock7ZWYnbWqpUPoKCQwV"
+      },
+      "artists": [
+        {
+          "name": "Hara Alonso",
+          "url": "https://open.spotify.com/artist/4eQRBa0rDiIn1qsWegcM1i"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "A Second is a Choir",
+      "url": "https://open.spotify.com/track/6VLtQ4xqnSwrnVGxF3Iedf"
     },
     {
       "album": {
@@ -1895,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Uchuu",
+        "url": "https://open.spotify.com/album/2ixCaMmiea1LNAHUQOCUXh"
+      },
+      "artists": [
+        {
+          "name": "Oowets",
+          "url": "https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225214,
+      "name": "Birds Flying In The Endless Universe",
+      "url": "https://open.spotify.com/track/5hYvfvt3h8CxCUza8msT5h"
+    },
+    {
+      "album": {
         "name": "Bitsummer",
         "url": "https://open.spotify.com/album/4RSVUUq6KsWDCLeTjMSFny"
       },
@@ -2720,7 +2760,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 98360,
       "name": "CATTLE",
       "url": "https://open.spotify.com/track/6Fx8SSWIaMnFZv9eAGFIXm"
@@ -3064,6 +3104,24 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "album": {
+        "name": "Fragments EP, Vol. 1",
+        "url": "https://open.spotify.com/album/2e05XAQGQacjH3E6QjzIJi"
+      },
+      "artists": [
+        {
+          "name": "Elskavon",
+          "url": "https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313682,
+      "name": "Coastline (Fragments)",
+      "url": "https://open.spotify.com/track/1MqmBzBeS4i4DKcgpvy6Nr"
     },
     {
       "album": {
@@ -3663,6 +3721,24 @@
     },
     {
       "album": {
+        "name": "Extra Stars",
+        "url": "https://open.spotify.com/album/1tv1QA1RnLjex9udvtL77e"
+      },
+      "artists": [
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436760,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/71QTrn5Phk9jMvoz5mFJaG"
+    },
+    {
+      "album": {
         "name": "Dear (Haruhisa Tanaka Remix)",
         "url": "https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3"
       },
@@ -4028,6 +4104,24 @@
       "duration_ms": 419762,
       "name": "Dream in the Mist",
       "url": "https://open.spotify.com/track/0BNXz3hTDmx2vtvzz2g9MB"
+    },
+    {
+      "album": {
+        "name": "Dream Temperature",
+        "url": "https://open.spotify.com/album/39uTzE9ufl2jGxTcV6AtKl"
+      },
+      "artists": [
+        {
+          "name": "Anenon",
+          "url": "https://open.spotify.com/artist/1nDzzoDVAeT9c5PkreI1yI"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Dream Temperature",
+      "url": "https://open.spotify.com/track/7aGiE0Ie0bRXMb8SoSbzeQ"
     },
     {
       "album": {
@@ -7853,6 +7947,24 @@
     },
     {
       "album": {
+        "name": "la circulation silencieuse",
+        "url": "https://open.spotify.com/album/4ZyImCuB2iBG8QTExJIKoa"
+      },
+      "artists": [
+        {
+          "name": "attic",
+          "url": "https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "la circulation silencieuse",
+      "url": "https://open.spotify.com/track/3E3va6hFvGt05VGGgI9XRt"
+    },
+    {
+      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/1Yhu46oo43f64ZwT7g5HUo"
       },
@@ -8514,6 +8626,24 @@
       "duration_ms": 164346,
       "name": "Lucent",
       "url": "https://open.spotify.com/track/0grXriSrpdF2p51rIkNdpQ"
+    },
+    {
+      "album": {
+        "name": "Lips",
+        "url": "https://open.spotify.com/album/3UtPbex4PDom5Up7AfMHZZ"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107546,
+      "name": "LULL",
+      "url": "https://open.spotify.com/track/6hSrJKrASONXLrLekOg6Kc"
     },
     {
       "album": {
@@ -11333,6 +11463,24 @@
     },
     {
       "album": {
+        "name": "Purple Sunshine",
+        "url": "https://open.spotify.com/album/5NDODsJUEfw0SKxoNbbKuv"
+      },
+      "artists": [
+        {
+          "name": "D.A.N.",
+          "url": "https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517427,
+      "name": "Purple Sunshine",
+      "url": "https://open.spotify.com/track/0bNgicoJDD9CZagB9FH5fL"
+    },
+    {
+      "album": {
         "name": "Que llueva ```",
         "url": "https://open.spotify.com/album/6CxmskanWmgIjOvRatvUwr"
       },
@@ -12415,6 +12563,36 @@
     },
     {
       "album": {
+        "name": "Seagull and Bear",
+        "url": "https://open.spotify.com/album/7nwqYAJkg3wdQhhspwy8Nu"
+      },
+      "artists": [
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        },
+        {
+          "name": "Black Boboi",
+          "url": "https://open.spotify.com/artist/1d0tqPDaL5aLB0Ep2Zjcgn"
+        },
+        {
+          "name": "Eddna",
+          "url": "https://open.spotify.com/artist/1Rpj64xWIfbxKWe6p4gCsm"
+        },
+        {
+          "name": "Rosa Ansch\u00fctz",
+          "url": "https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272761,
+      "name": "Seagull and Bear",
+      "url": "https://open.spotify.com/track/7CXsJratutqUm4JjZUR9Ra"
+    },
+    {
+      "album": {
         "name": "Halcyon Phase",
         "url": "https://open.spotify.com/album/1UpZnQH8BwYpvX4FnxdILq"
       },
@@ -12680,6 +12858,24 @@
       "duration_ms": 244000,
       "name": "sequence_03",
       "url": "https://open.spotify.com/track/5NVo3uIs3ovNFSxA3mvOXV"
+    },
+    {
+      "album": {
+        "name": "Earth Expressions",
+        "url": "https://open.spotify.com/album/4NuG2YFq2u1jcawenqnPTi"
+      },
+      "artists": [
+        {
+          "name": "Dianna Lopez",
+          "url": "https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151562,
+      "name": "Sequoia Suns",
+      "url": "https://open.spotify.com/track/75MKoZvlGCpHDCF5u1xQLf"
     },
     {
       "album": {
@@ -13578,7 +13774,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-08",
       "duration_ms": 124008,
       "name": "sonate de la nuit la plus longue",
       "url": "https://open.spotify.com/track/2Pbew0pmEGDHP768nVSJkp"
@@ -14765,6 +14961,24 @@
     },
     {
       "album": {
+        "name": "Terra Ignota",
+        "url": "https://open.spotify.com/album/1brEAg2M3TIkZCTxqm8xrR"
+      },
+      "artists": [
+        {
+          "name": "Krakatau",
+          "url": "https://open.spotify.com/artist/7H9cgiR2zQWXNxZjPd3Vyk"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508500,
+      "name": "Terra Ignota",
+      "url": "https://open.spotify.com/track/5B24SUBDr4dL8gDEkSZWPO"
+    },
+    {
+      "album": {
         "name": "Minami Deutsch",
         "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
       },
@@ -15265,6 +15479,36 @@
     },
     {
       "album": {
+        "name": "Thinking / Shapes",
+        "url": "https://open.spotify.com/album/6she6EuXP7IcZqcK4y4uOV"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        },
+        {
+          "name": "Satsuki Shibano",
+          "url": "https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104022,
+      "name": "Thinking (ft. F\u00e9licia Atkinson, Yoshio Ojima and Satsuki Shibano)",
+      "url": "https://open.spotify.com/track/12kIN8EfjCRfuP8fZehoRh"
+    },
+    {
+      "album": {
         "name": "Thinking Iceberg",
         "url": "https://open.spotify.com/album/39mihYHeLbVIkXwKAgmujI"
       },
@@ -15280,6 +15524,24 @@
       "duration_ms": 770000,
       "name": "Thinking Iceberg",
       "url": "https://open.spotify.com/track/00cs65Ml2o8b245YEkQrsR"
+    },
+    {
+      "album": {
+        "name": "Thoughts On The Future",
+        "url": "https://open.spotify.com/album/4xYL1aDxfBoPZejOKoKvV8"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421566,
+      "name": "Thoughts On The Future",
+      "url": "https://open.spotify.com/track/6D0MpF3h4bFyfZAjlX8tvm"
     },
     {
       "album": {
@@ -17623,6 +17885,24 @@
     },
     {
       "album": {
+        "name": "\u65b0\u548c\u874b\u71ed",
+        "url": "https://open.spotify.com/album/28fhT2VxVcIO2iTvTmDdZP"
+      },
+      "artists": [
+        {
+          "name": "MEITEI",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387500,
+      "name": "\u65b0\u548c\u874b\u71ed",
+      "url": "https://open.spotify.com/track/0LGYE0yYO36eLgumHD4Qoh"
+    },
+    {
+      "album": {
         "name": "TENbient 3",
         "url": "https://open.spotify.com/album/4nGkqazGpoczvV8FKlgq1p"
       },
@@ -18128,6 +18408,28 @@
       "duration_ms": 597466,
       "name": "\u96f2\u306e\u901f\u5ea6",
       "url": "https://open.spotify.com/track/0qwCdemBX1SJ0bHbhd9B5e"
+    },
+    {
+      "album": {
+        "name": "\u9759\u5bc2\u5149\u308a\u3066",
+        "url": "https://open.spotify.com/album/6U0YMfAPjOeu1vxsAu0FDO"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        },
+        {
+          "name": "Yukihiko Yotsukura",
+          "url": "https://open.spotify.com/artist/6V5Bkn07G676EXpYMlohnT"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "\u971e",
+      "url": "https://open.spotify.com/track/6gyLJrir6GcZk6cOts0Sws"
     },
     {
       "album": {

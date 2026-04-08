@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 154852,
+  "num_followers": 154846,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Soft Rain",
+        "url": "https://open.spotify.com/album/5n24EJXwP5gq45z1kSYeJ4"
+      },
+      "artists": [
+        {
+          "name": "Hayden Ball",
+          "url": "https://open.spotify.com/artist/3QxIQABLndsIIpNMwllbGs"
+        }
+      ],
+      "duration_ms": 107877,
+      "name": "Forest Path Rain",
+      "url": "https://open.spotify.com/track/71XK20gRx6drD3M2VIH1q0"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "The Sound Of Rain",
         "url": "https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Soft Rain",
-        "url": "https://open.spotify.com/album/5n24EJXwP5gq45z1kSYeJ4"
-      },
-      "artists": [
-        {
-          "name": "Hayden Ball",
-          "url": "https://open.spotify.com/artist/3QxIQABLndsIIpNMwllbGs"
-        }
-      ],
-      "duration_ms": 107877,
-      "name": "Forest Path Rain",
-      "url": "https://open.spotify.com/track/71XK20gRx6drD3M2VIH1q0"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Peaceful Rain Recordings",
         "url": "https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM"
       },
@@ -283,6 +283,22 @@
       "duration_ms": 170000,
       "name": "Forest Rain",
       "url": "https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Woodland Drops",
+        "url": "https://open.spotify.com/album/716VqOhfwuYQ8dwRpudU2d"
+      },
+      "artists": [
+        {
+          "name": "Trenti",
+          "url": "https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53"
+        }
+      ],
+      "duration_ms": 138103,
+      "name": "Woodland Drops",
+      "url": "https://open.spotify.com/track/6yHL4GvpL9m5JqToTuG014"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -339,18 +355,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Woodland Drops",
-        "url": "https://open.spotify.com/album/716VqOhfwuYQ8dwRpudU2d"
+        "name": "Noise of Green",
+        "url": "https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL"
       },
       "artists": [
         {
-          "name": "Trenti",
-          "url": "https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53"
+          "name": "El Tiempo Central",
+          "url": "https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ"
         }
       ],
-      "duration_ms": 138103,
-      "name": "Woodland Drops",
-      "url": "https://open.spotify.com/track/6yHL4GvpL9m5JqToTuG014"
+      "duration_ms": 116987,
+      "name": "Wind My Waterfall",
+      "url": "https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -371,22 +387,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Noise of Green",
-        "url": "https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL"
-      },
-      "artists": [
-        {
-          "name": "El Tiempo Central",
-          "url": "https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ"
-        }
-      ],
-      "duration_ms": 116987,
-      "name": "Wind My Waterfall",
-      "url": "https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Suburban Forest Rain",
         "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 129000,
       "name": "Suburban Forest Rain 2",
       "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Nature Hideout",
+        "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
+      },
+      "artists": [
+        {
+          "name": "mahogany",
+          "url": "https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Nature Night-time",
+      "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -419,22 +435,6 @@
       "duration_ms": 158037,
       "name": "Piqueros",
       "url": "https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Nature Hideout",
-        "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
-      },
-      "artists": [
-        {
-          "name": "mahogany",
-          "url": "https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Nature Night-time",
-      "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Suburban Forest Rain",
+        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Suburban Forest Rain 1",
+      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Tr\u00f3pico",
         "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 184611,
       "name": "Tr\u00f3pico",
       "url": "https://open.spotify.com/track/24KbrtLvLX4QQevrVkMYRR"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Suburban Forest Rain",
-        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
-      },
-      "artists": [
-        {
-          "name": "Aquagirl",
-          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Suburban Forest Rain 1",
-      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -567,6 +567,22 @@
       "duration_ms": 241374,
       "name": "Chill Waves & Wind in Leaves",
       "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Natural Forest Quiet",
+        "url": "https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Gutierrez G.",
+          "url": "https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "Natural Forest Quiet",
+      "url": "https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -647,22 +663,6 @@
       "duration_ms": 154552,
       "name": "Moment Of Peace (Forest Birds)",
       "url": "https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Natural Forest Quiet",
-        "url": "https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Gutierrez G.",
-          "url": "https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "Natural Forest Quiet",
-      "url": "https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -799,34 +799,34 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Tropical wet forest in Columbia",
-        "url": "https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp"
+        "name": "Riverlight Through Leaves",
+        "url": "https://open.spotify.com/album/4eO9Q2g6EAwyvvkN4JtqQV"
       },
       "artists": [
         {
-          "name": "Nicoguga",
-          "url": "https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS"
+          "name": "Nature's Essence",
+          "url": "https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j"
         }
       ],
-      "duration_ms": 126375,
-      "name": "Tropical wet forest in Columbia",
-      "url": "https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc"
+      "duration_ms": 181132,
+      "name": "Riverlight Through Leaves",
+      "url": "https://open.spotify.com/track/08WqDRfDIHCroRHoYuAP66"
     },
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "In The Tides",
-        "url": "https://open.spotify.com/album/27qtne7V63arjRq9eMUxk7"
+        "name": "Calm Green Wave Sounds",
+        "url": "https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT"
       },
       "artists": [
         {
-          "name": "Neightbirds",
-          "url": "https://open.spotify.com/artist/2Sv82DcQL8WQoSbUjHorYJ"
+          "name": "EFX Mirelight",
+          "url": "https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv"
         }
       ],
-      "duration_ms": 124830,
-      "name": "Birds In The Rain",
-      "url": "https://open.spotify.com/track/4C7uEMH69SQp0nTUsj35Vb"
+      "duration_ms": 104374,
+      "name": "Calming Creek",
+      "url": "https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd"
     }
   ],
   "unique_name": "Sons da Natureza",

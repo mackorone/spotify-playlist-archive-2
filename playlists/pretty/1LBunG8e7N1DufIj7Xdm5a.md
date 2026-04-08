@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,262 songs - 9 day 10 hr 55 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,263 songs - 9 day 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2478,7 +2478,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 2468 | [La Danza del Caos \(another\)](https://open.spotify.com/track/3RNEEkANepWhox51k8wTYf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica pop in italiano 2025](https://open.spotify.com/album/28rwBadApgcQzz4GIG0fLX) | 2:14 |
 | 2469 | [Senza Freni](https://open.spotify.com/track/2GRveeMXZOxhAgg9qeE6mL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica pop in italiano 2025](https://open.spotify.com/album/28rwBadApgcQzz4GIG0fLX) | 3:15 |
 | 2470 | [Senza Freni \(another\)](https://open.spotify.com/track/0jpTbLnT0xjuX9FSZFp2uD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica pop in italiano 2025](https://open.spotify.com/album/28rwBadApgcQzz4GIG0fLX) | 3:34 |
-| 2471 | [Pipo Pipo](https://open.spotify.com/track/1dNbMI1AJk08iESjpQJh0r) | [FuzeTee](https://open.spotify.com/artist/0t9FKUjCQnKVWLWOrUikKp) | [Pipo Pipo](https://open.spotify.com/album/0M3yNIF7vUwnqfyh3pE3zG) | 2:02 |
+| 2471 | [Pipo Pipo](https://open.spotify.com/track/1dNbMI1AJk08iESjpQJh0r) | [Astro Alaprod](https://open.spotify.com/artist/3Iyv4bC7elXaXGahrlsk2l) | [Pipo Pipo](https://open.spotify.com/album/0M3yNIF7vUwnqfyh3pE3zG) | 2:02 |
 | 2472 | [Corazón en Llamas](https://open.spotify.com/track/3bMZFjOUMlGsbIGbzqPx1j) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral music in spanish 2025 \(Música viral en español 2025\)](https://open.spotify.com/album/35uL77785maVg1GbjzSdxk) | 2:05 |
 | 2473 | [Corazón en Llamas \(another\)](https://open.spotify.com/track/3YTVeQpB8PporHaMYfE7Z3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral music in spanish 2025 \(Música viral en español 2025\)](https://open.spotify.com/album/35uL77785maVg1GbjzSdxk) | 2:20 |
 | 2474 | [Bailando Bajo el Sol](https://open.spotify.com/track/6rWmZqGcf6XwisxAZvVRw7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral music in spanish 2025 \(Música viral en español 2025\)](https://open.spotify.com/album/35uL77785maVg1GbjzSdxk) | 2:46 |
@@ -4270,5 +4270,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4260 | [We all live in a Fantasy](https://open.spotify.com/track/1utF6RyVi98fnKc0Du68uH) | [Archi Deep](https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl) | [We all live in a Fantasy](https://open.spotify.com/album/5bT2StBoZlkx0WlM4d4KI3) | 2:07 |
 | 4261 | [Watching You Leave](https://open.spotify.com/track/0BMU6qKR64Beln8Zhl4VUe) | [ALLEY the band](https://open.spotify.com/artist/705pUhNAH2OimLCdheAma2) | [Telling Stories EP](https://open.spotify.com/album/3fZEmp4ghXG1h7z67zVyWm) | 3:40 |
 | 4262 | [I'm sky high](https://open.spotify.com/track/5PlMMYdPoZ2gnBYfXz9agR) | [Leandro Aguirre](https://open.spotify.com/artist/2uVhj1bGrGFPgunJ4BdB5I) | [I'm sky high](https://open.spotify.com/album/2ZkjDMyvicJva0YScI3rTA) | 3:51 |
+| 4263 | [Lejos de ayer](https://open.spotify.com/track/0PCO91XIa47CQpkgvHKAPH) | [Visitantes](https://open.spotify.com/artist/0nynsqah3R512QB7VBtvvT) | [Visitantes](https://open.spotify.com/album/0tZCqIeo3VfhEdMY7r7lFd) | 4:00 |
 
-Snapshot ID: `AAAIJdd8yniPTahYg8wNE9OK8LTCUCwG`
+Snapshot ID: `AAAIJhGSpQJhy6cmjaOBBBus7mj5JjMm`

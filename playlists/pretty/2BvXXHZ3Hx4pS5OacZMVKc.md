@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 131,170 likes - 173 songs - 8 hr 36 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 131,169 likes - 173 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 25 | [teamo](https://open.spotify.com/track/3vSa3awmVs6uJ5UsF2govU) | [c8o](https://open.spotify.com/artist/7BpMCntV4suo4ycD98VV6V) | [teamo](https://open.spotify.com/album/6I4YHk7PJmePPOn7W8JYjo) | 2:22 |
 | 26 | [Cash Out](https://open.spotify.com/track/4VIhfUoqGVL67qzjGDecDX) | [Schrandy](https://open.spotify.com/artist/16DOlPH2Uh5OyntSN9qlxz) | [Cash Out](https://open.spotify.com/album/1bbedyCgIrSX1hQSfUALky) | 2:22 |
 | 27 | [Tequila In My Cup](https://open.spotify.com/track/7pvfrf6ByPktJeVePqSxhW) | [Conni](https://open.spotify.com/artist/3V0uGOh5VeIp99phDIgWqU) | [Tequila In My Cup](https://open.spotify.com/album/7jBW3gPATnBq4DbcHKNQrF) | 2:15 |
-| 28 | [KILL ZONE](https://open.spotify.com/track/10QQjmucQgBlrKc0RPh2i2) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [KILL ZONE](https://open.spotify.com/album/2p2T64NBnD9KObNPGmeLZP) | 2:03 |
+| 28 | [KILL ZONE](https://open.spotify.com/track/10QQjmucQgBlrKc0RPh2i2) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [KILL ZONE \(OLD UPC VERSION\)](https://open.spotify.com/album/2p2T64NBnD9KObNPGmeLZP) | 2:03 |
 | 29 | [akina](https://open.spotify.com/track/177BaRPFyShVUsqPSoO8nw) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB) | [akina](https://open.spotify.com/album/22KmAzAlwdTa2td0bUKOtQ) | 2:56 |
 | 30 | [Do It All](https://open.spotify.com/track/0aP0fCi1CigVMWC9mIf89j) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 2:39 |
 | 31 | [Out Loud](https://open.spotify.com/track/3ZzzMP3Uvr3SQu6aFKmTbb) | [Xaron](https://open.spotify.com/artist/7MS6GFUsSbDdEvh9VMzgfD) | [Out Loud](https://open.spotify.com/album/1OH5LYKKTmZkwHoTR8Dd41) | 2:19 |

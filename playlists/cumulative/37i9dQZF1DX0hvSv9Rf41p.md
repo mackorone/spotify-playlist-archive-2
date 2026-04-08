@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 featuring Of The Trees & LYNY
 
-1,749 songs - 3 day 23 hr 18 min
+1,750 songs - 3 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Choppa](https://open.spotify.com/track/53QkBB86T4FMmhKT952l2s) | [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY), [Skellytn](https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3), [Gravity](https://open.spotify.com/artist/7LGmzpEzhmalpuXaKD5tPB) | [Choppa](https://open.spotify.com/album/0SUVXcOng0R5aixhVnoC3h) | 3:36 | 2024-12-20 | 2025-01-11 |
 | [Choppas](https://open.spotify.com/track/53KC0vl1WMkoMYrJkqwygf) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Cesqeaux](https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL) | [Choppas](https://open.spotify.com/album/2tL2mYx1by5C0Vne9ilN5Q) | 2:58 | 2023-12-08 | 2024-01-13 |
 | [CHOPPER DUB](https://open.spotify.com/track/0RFJRwnUGAKZNgE9L02QAC) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [CHOPPER DUB](https://open.spotify.com/album/1NRSFAr5jTDIXCZQAKynem) | 4:05 | 2025-10-03 | 2025-12-06 |
-| [Chrome](https://open.spotify.com/track/1a3QXN4HkhxUUXuaZMBdi5) | [Kill Safari](https://open.spotify.com/artist/3c0nrfhZe6afmto5cvYodR), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq), [Armanni Reign](https://open.spotify.com/artist/7eLk4SsrtZtCANV4X713uI) | [Chrome](https://open.spotify.com/album/4zUpe1Vv3aMgFyfcdBDASZ) | 2:34 | 2026-03-13 |  |
+| [Chrome](https://open.spotify.com/track/1a3QXN4HkhxUUXuaZMBdi5) | [Kill Safari](https://open.spotify.com/artist/3c0nrfhZe6afmto5cvYodR), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq), [Armanni Reign](https://open.spotify.com/artist/7eLk4SsrtZtCANV4X713uI) | [Chrome](https://open.spotify.com/album/4zUpe1Vv3aMgFyfcdBDASZ) | 2:34 | 2026-03-13 | 2026-04-08 |
 | [Circuit](https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Limbo Slice](https://open.spotify.com/artist/5flDeddXEgK6WWsI6PZk3d) | [Circuit](https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE) | 3:25 | 2026-02-20 | 2026-04-04 |
 | [CLICK](https://open.spotify.com/track/0of4XBoLyjnbhTDgIRvQT5) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [PSYCHEDELIC](https://open.spotify.com/artist/5BTAISzCbD7fqC7yd8HQ4p) | [CLICK](https://open.spotify.com/album/3zHItNxiOHLwIEkxZFcjTH) | 3:45 | 2024-04-05 | 2024-05-25 |
 | [close to the ground](https://open.spotify.com/track/4c9I1KjgMjT5d5kTqr4kVs) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [close to the ground](https://open.spotify.com/album/0HE3Jrsok3ALc5XRPrpVxN) | 2:45 | 2022-11-11 | 2023-07-15 |
@@ -443,6 +443,7 @@
 | [dontstopme!](https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:41 | 2023-10-20 | 2024-04-19 |
 | [dontstopme!](https://open.spotify.com/track/6CNXcjAeOvjTwJeNCEdfWs) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [dontstopme!](https://open.spotify.com/album/3GBBjfai3AbK7ma8hDU8ic) | 3:41 | 2023-07-21 | 2023-09-26 |
 | [dontstopme!](https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [dontstopme!](https://open.spotify.com/album/4F58jVM56GlkFSU6SbHw8m) | 3:41 | 2023-09-29 | 2023-10-24 |
+| [DONTTRUSTME \- Sullivan King & Benda Remix](https://open.spotify.com/track/7pddglpSVLghORfwW4zk8I) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [Benda](https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [DONTTRUSTME \(Sullivan King & Benda Remix\)](https://open.spotify.com/album/5vzfF9XlQfmdNsRvvlXreI) | 2:08 | 2026-04-07 |  |
 | [Don’t You](https://open.spotify.com/track/22KuNvUTXHXMWVTAHOVA5g) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Don’t You](https://open.spotify.com/album/1GqED9CbRT7TaDrnX0zVq6) | 3:36 | 2021-12-17 | 2022-02-19 |
 | [DOODLE](https://open.spotify.com/track/5DphXBn0OLpQHBXHkVmoyP) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [BACK TO BACK EP](https://open.spotify.com/album/145opVwQXtPCzwmMul7oXB) | 2:43 | 2024-09-20 | 2024-10-05 |
 | [Dopamine](https://open.spotify.com/track/06SYPTeNIfBFGJDpGepz5v) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [SIDEQUEST](https://open.spotify.com/album/23PvqNP9LBwte6EkdJQsBB) | 5:09 | 2023-12-01 | 2024-01-27 |

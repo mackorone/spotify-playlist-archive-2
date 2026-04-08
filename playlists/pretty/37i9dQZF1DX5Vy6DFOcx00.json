@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 4118201,
+  "num_followers": 4117841,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJrghU+biaGg9Ohna/3/i//Xwp15",
+  "snapshot_id": "AAAAAMxo/5mXrtYclFokyr8jfuW0adJM",
   "tracks": [
     {
       "added_at": "2026-04-01 17:45:51",
@@ -163,6 +163,22 @@
       "duration_ms": 491933,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
+    },
+    {
+      "added_at": "2026-04-07 21:44:49",
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 224216,
+      "name": "Legendary Lovers",
+      "url": "https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd"
     },
     {
       "added_at": "2026-02-25 16:52:50",
@@ -525,6 +541,22 @@
       "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
+      "added_at": "2026-04-07 21:44:49",
+      "album": {
+        "name": "Miss Behaves",
+        "url": "https://open.spotify.com/album/5wYCR4cyy7F4B9V9GGHbud"
+      },
+      "artists": [
+        {
+          "name": "Cece Natalie",
+          "url": "https://open.spotify.com/artist/41CdW0otOaIg40HyVDPm2F"
+        }
+      ],
+      "duration_ms": 187096,
+      "name": "Exitin",
+      "url": "https://open.spotify.com/track/04GobBF9S74lfUGKIYLkcP"
+    },
+    {
       "added_at": "2026-02-16 22:03:32",
       "album": {
         "name": "Shower",
@@ -539,22 +571,6 @@
       "duration_ms": 206166,
       "name": "Shower",
       "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
-    },
-    {
-      "added_at": "2026-03-17 22:16:22",
-      "album": {
-        "name": "Everything to Nothing",
-        "url": "https://open.spotify.com/album/4PpY5PtFDUqmjmDxpX5Qvo"
-      },
-      "artists": [
-        {
-          "name": "Michael Sanzone",
-          "url": "https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm"
-        }
-      ],
-      "duration_ms": 211375,
-      "name": "Everything to Nothing",
-      "url": "https://open.spotify.com/track/6ab1SdTkMuNwN7TOrOJkVX"
     },
     {
       "added_at": "2026-03-09 15:45:52",
@@ -687,22 +703,6 @@
       "duration_ms": 147500,
       "name": "An Eater",
       "url": "https://open.spotify.com/track/06GsIwIfcPjuaxlErmAcbB"
-    },
-    {
-      "added_at": "2026-02-25 16:52:50",
-      "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
     },
     {
       "added_at": "2026-02-20 06:12:41",

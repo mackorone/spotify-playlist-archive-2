@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Chelsea Plank
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,131 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,133 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 36 | [Oceans \- Live](https://open.spotify.com/track/26FAm0JGHPC70q1M7DQ8Zm) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [MATT CROCKER \- house partiii \(Vol\. 1\) \[Live\]](https://open.spotify.com/album/7ojAogNQ3CqOP7xJjnwVCp) | 6:14 |
 | 37 | [on my own ❨ ❨ ❍ ❩ ❩❩ i can’t do this](https://open.spotify.com/track/3UQC9h54bUt7qdPVZwoFug) | [AMXNRADIO](https://open.spotify.com/artist/4nrY1Pyzx6OyDgRWt69W1X), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Reflections ❍ ❩ ❩❩ Mi◗⠝⠊⠣⠓✝︎ℋ𝐲𝕸nᛋ \~ Vol.III](https://open.spotify.com/album/7nDFGD0k4IRnLUKSsc8auA) | 5:22 |
 | 38 | [white flag](https://open.spotify.com/track/2bDFjLTu0IwSpczOzTRd2D) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [white flag](https://open.spotify.com/album/7vPhlL30KvVGuLkAseCxQu) | 3:14 |
-| 39 | [WASTE SOME TIME](https://open.spotify.com/track/2ILaUBvEAGFGpEES1uHega) | [PARTY WAVE](https://open.spotify.com/artist/5MOUpRLvK6boZ3J5av1YK9), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WASTE SOME TIME](https://open.spotify.com/album/5BiS7WuOT5QbqmU5OKXgJY) | 3:26 |
+| 39 | [WASTE SOME TIME](https://open.spotify.com/track/2ILaUBvEAGFGpEES1uHega) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WASTE SOME TIME](https://open.spotify.com/album/5BiS7WuOT5QbqmU5OKXgJY) | 3:26 |
 | 40 | [FALLING 4 U](https://open.spotify.com/track/1joPWc6Zq4AxHTdPjaymx7) | [HOMECOMING](https://open.spotify.com/artist/4HNKPi9snti1H0ISjcTslT) | [FALLING 4 U](https://open.spotify.com/album/6O0l4aVhazPbxWTtXAuMCG) | 3:18 |
 | 41 | [You Say](https://open.spotify.com/track/0ijtMzTelqhuYIC7Q0UlHU) | [The Uprising](https://open.spotify.com/artist/4xemZhqiaGcE8slg7MQTD0), [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Roberto Rosso](https://open.spotify.com/artist/1j4W3yOBthwGj4wWrGPtfA), [Keross Music](https://open.spotify.com/artist/1HtXEUY5ekhBgwHBQsVkay) | [You Say](https://open.spotify.com/album/4F4gAgAr0jbgCBI8afR60z) | 3:45 |
 | 42 | [Feel So Good](https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Look, it's Green](https://open.spotify.com/album/2GUcf58yY6ChmzXR6DP6dC) | 2:11 |
