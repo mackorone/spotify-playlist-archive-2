@@ -267,6 +267,28 @@
     },
     {
       "album": {
+        "name": "Various Small Whistles and a Song",
+        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Jesse Perlstein",
+          "url": "https://open.spotify.com/artist/3WkuJtLGUUxCUjci8VCTAu"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Belzec Extermination Camp",
+      "url": "https://open.spotify.com/track/6TRDTNepSLMoCFr7XkW1ZY"
+    },
+    {
+      "album": {
         "name": "burning | counting (sleeping)",
         "url": "https://open.spotify.com/album/5vjlMxFRcp9EuvDmWOXSgA"
       },
@@ -910,7 +932,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 60000,
       "name": "Sullivan's Island Beach, Charleston",
       "url": "https://open.spotify.com/track/6vcdYEhlq2gUL5SLYWABPv"

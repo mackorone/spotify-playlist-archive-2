@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXL5bWfnjoIL.md) - [plain]
 
 > Enjoy music from "CHIBI MARUKO CHAN"! ©SAKURA PRODUCTION/NIPPON ANIMATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 23 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 534 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,18 +18,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXL5bWfnjoIL.md) - [plain]
 | 8 | [おどるポンポコリン](https://open.spotify.com/track/4jed23I3IGAZW3aAqpkSq3) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [おどるポンポコリン](https://open.spotify.com/album/7rvYbIj3JMCfHnQaBuqMnA) | 3:09 |
 | 9 | [100万年の幸せ!!](https://open.spotify.com/track/0xSURLXuMZHOFXW4CVp60c) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [I LOVE YOU \-now & forever\-](https://open.spotify.com/album/0SoH5TAoaS8tvirrWyygW6) | 4:39 |
 | 10 | [アララの呪文/ちびまる子ちゃんwith爆チュー問題](https://open.spotify.com/track/0qrXfYnBlM5evgPlZXsMW2) | [Chibi Maruko Chan](https://open.spotify.com/artist/6MINhV2wjwirRk4iMcIN4A) | [お笑い芸人★SONG STYLE](https://open.spotify.com/album/3EgBn5cW6LEWWlOMxeSBe3) | 3:10 |
-| 11 | [おどるポンポコリン](https://open.spotify.com/track/09TnsucrKhbEU4qQI5dkV0) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [「映画ちびまる子ちゃん　イタリアから来た少年」ミュージックアルバム](https://open.spotify.com/album/7al5UXDqg31Wfd8HIOc3tO) | 3:26 |
-| 12 | [あっけにとられた時のうた](https://open.spotify.com/track/5tnSwQFwX6NxOJ1dWli1Ez) | [Tama](https://open.spotify.com/artist/55ueRXj4O7NukDTAW4huB9) | [たま](https://open.spotify.com/album/5i7YhVVbKvKCDhNWyzvKI6) | 2:59 |
-| 13 | [じゃがバタコーンさん](https://open.spotify.com/track/0JsmFQKIYzb7lV91KxtNok) | [ManaKana](https://open.spotify.com/artist/5ygZ5IlxuBaEHI85qfNRqw) | [ベース・マガジン監修 唸る低音の魅力「このベースラインを聴け！」アニメ・特撮編](https://open.spotify.com/album/4jngC6lx5mRE6Ow1PqSV3x) | 2:31 |
-| 14 | [休日の歌（Viva La Vida）](https://open.spotify.com/track/4zi98A17mgNez5yqdL1rEl) | [DELiGHTED MINT](https://open.spotify.com/artist/0wJhg4uHETZjVz2aa7oyd6) | [THE BEST HITS](https://open.spotify.com/album/3YPC7lTaic1gL4KyLdf7Tf) | 3:47 |
-| 15 | [おどるポンポコリン](https://open.spotify.com/track/5bONEqxORd0jLZqBGpz1pC) | [E\-girls](https://open.spotify.com/artist/6CKN3GUiWMrESH1RKn3ecz) | [おどるポンポコリン](https://open.spotify.com/album/3R2zX1N6BqK5YKNP1ZbDIG) | 3:20 |
-| 16 | [すすめナンセンス](https://open.spotify.com/track/2Stxh7iuFT8Y2mFEqYr235) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [すすめナンセンス](https://open.spotify.com/album/6EiCvUnkaBlswYGgumQOpo) | 4:12 |
-| 17 | [キミを忘れないよ](https://open.spotify.com/track/4ClDTyw9XakQONBFENhdar) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [V](https://open.spotify.com/album/5EMbywoRGYkMs5JKQNxC1Y) | 4:36 |
-| 18 | [おどるポンポコリン](https://open.spotify.com/track/7fVKm1pcGylPfzKqRLyrHg) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [おどるポンポコリン](https://open.spotify.com/album/2stz6xLK1Rv6aL0SD9BA0D) | 3:08 |
-| 19 | [おーい!!](https://open.spotify.com/track/73NA5fSXLKYLg1GJKmEUll) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [おーい!!](https://open.spotify.com/album/5rbLyHi0sWC4D8sGFDBHVk) | 3:51 |
-| 20 | [ずっと ともだち](https://open.spotify.com/track/0e3bzmVGDbaHeuJIixJ3hW) | [アンドレア・シン・ネプ・ジュリア・シンニー](https://open.spotify.com/artist/7cYIhH8BQK6lw2gHc9qHuP) | [「映画ちびまる子ちゃん　イタリアから来た少年」ミュージックアルバム](https://open.spotify.com/album/7al5UXDqg31Wfd8HIOc3tO) | 1:21 |
-| 21 | [呪い](https://open.spotify.com/track/2ZvHVDjTYwRGnSAkQC0vCb) | [Hako Yamazaki](https://open.spotify.com/artist/271VKuMFfkvkOARw07aM3H) | [ハコのお箱](https://open.spotify.com/album/12Obk8FrTQWIwiYSeY7OcS) | 3:55 |
-| 22 | [人生いろいろ](https://open.spotify.com/track/5hIBNRNYo7zVcXNgbO4kCD) | [Chiyoko Shimakura](https://open.spotify.com/artist/53cuVCnpOQkB0gnNcoS3SC) | [浜口庫之助作品集を唄う](https://open.spotify.com/album/14B4MJcVtitpXxJmvwUAOZ) | 3:54 |
-| 23 | [ゆめいっぱい \- Cover](https://open.spotify.com/track/6LBsaxjOkXIkzliEt4YFid) | [有馬ゆみこ](https://open.spotify.com/artist/1oSTnOvEeh8zxbSBvtUYbw) | [ゆめいっぱい \(Cover\)](https://open.spotify.com/album/51AxOHsHEfEOlk9QfXl9GU) | 3:13 |
+| 11 | [おどるポンポコリン](https://open.spotify.com/track/4gCfLkI4jAntKMJ8e5LmfF) | [ManaKana](https://open.spotify.com/artist/5ygZ5IlxuBaEHI85qfNRqw), [泉谷しげる](https://open.spotify.com/artist/1sRCuHNqF6IgScyHVuMkVL) | [おどるポンポコリン / ちびまる子音頭](https://open.spotify.com/album/0OERhAMHFiYRpkw4G9M2Pl) | 3:23 |
+| 12 | [おどるポンポコリン](https://open.spotify.com/track/09TnsucrKhbEU4qQI5dkV0) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [「映画ちびまる子ちゃん　イタリアから来た少年」ミュージックアルバム](https://open.spotify.com/album/7al5UXDqg31Wfd8HIOc3tO) | 3:26 |
+| 13 | [あっけにとられた時のうた](https://open.spotify.com/track/5tnSwQFwX6NxOJ1dWli1Ez) | [Tama](https://open.spotify.com/artist/55ueRXj4O7NukDTAW4huB9) | [たま](https://open.spotify.com/album/5i7YhVVbKvKCDhNWyzvKI6) | 2:59 |
+| 14 | [ちびまる子音頭](https://open.spotify.com/track/4pIuIrio4Lpyk4ndMcV580) | [ManaKana](https://open.spotify.com/artist/5ygZ5IlxuBaEHI85qfNRqw) | [おどるポンポコリン / ちびまる子音頭](https://open.spotify.com/album/0OERhAMHFiYRpkw4G9M2Pl) | 2:58 |
+| 15 | [じゃがバタコーンさん](https://open.spotify.com/track/2H1FJIpp8hoDaq86hisXqQ) | [ManaKana](https://open.spotify.com/artist/5ygZ5IlxuBaEHI85qfNRqw) | [じゃがバタコーンさん](https://open.spotify.com/album/7vbjXLPlaADLofiYbkxtkM) | 2:34 |
+| 16 | [休日の歌（Viva La Vida）](https://open.spotify.com/track/4zi98A17mgNez5yqdL1rEl) | [DELiGHTED MINT](https://open.spotify.com/artist/0wJhg4uHETZjVz2aa7oyd6) | [THE BEST HITS](https://open.spotify.com/album/3YPC7lTaic1gL4KyLdf7Tf) | 3:47 |
+| 17 | [おどるポンポコリン](https://open.spotify.com/track/5bONEqxORd0jLZqBGpz1pC) | [E\-girls](https://open.spotify.com/artist/6CKN3GUiWMrESH1RKn3ecz) | [おどるポンポコリン](https://open.spotify.com/album/3R2zX1N6BqK5YKNP1ZbDIG) | 3:20 |
+| 18 | [すすめナンセンス](https://open.spotify.com/track/2Stxh7iuFT8Y2mFEqYr235) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [すすめナンセンス](https://open.spotify.com/album/6EiCvUnkaBlswYGgumQOpo) | 4:12 |
+| 19 | [キミを忘れないよ](https://open.spotify.com/track/4ClDTyw9XakQONBFENhdar) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [V](https://open.spotify.com/album/5EMbywoRGYkMs5JKQNxC1Y) | 4:36 |
+| 20 | [おどるポンポコリン](https://open.spotify.com/track/7fVKm1pcGylPfzKqRLyrHg) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [おどるポンポコリン](https://open.spotify.com/album/2stz6xLK1Rv6aL0SD9BA0D) | 3:08 |
+| 21 | [おーい!!](https://open.spotify.com/track/73NA5fSXLKYLg1GJKmEUll) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [おーい!!](https://open.spotify.com/album/5rbLyHi0sWC4D8sGFDBHVk) | 3:51 |
+| 22 | [ずっと ともだち](https://open.spotify.com/track/0e3bzmVGDbaHeuJIixJ3hW) | [アンドレア・シン・ネプ・ジュリア・シンニー](https://open.spotify.com/artist/7cYIhH8BQK6lw2gHc9qHuP) | [「映画ちびまる子ちゃん　イタリアから来た少年」ミュージックアルバム](https://open.spotify.com/album/7al5UXDqg31Wfd8HIOc3tO) | 1:21 |
+| 23 | [呪い](https://open.spotify.com/track/2ZvHVDjTYwRGnSAkQC0vCb) | [Hako Yamazaki](https://open.spotify.com/artist/271VKuMFfkvkOARw07aM3H) | [ハコのお箱](https://open.spotify.com/album/12Obk8FrTQWIwiYSeY7OcS) | 3:55 |
+| 24 | [人生いろいろ](https://open.spotify.com/track/5hIBNRNYo7zVcXNgbO4kCD) | [Chiyoko Shimakura](https://open.spotify.com/artist/53cuVCnpOQkB0gnNcoS3SC) | [浜口庫之助作品集を唄う](https://open.spotify.com/album/14B4MJcVtitpXxJmvwUAOZ) | 3:54 |
+| 25 | [ゆめいっぱい \- Cover](https://open.spotify.com/track/6LBsaxjOkXIkzliEt4YFid) | [有馬ゆみこ](https://open.spotify.com/artist/1oSTnOvEeh8zxbSBvtUYbw) | [ゆめいっぱい \(Cover\)](https://open.spotify.com/album/51AxOHsHEfEOlk9QfXl9GU) | 3:13 |
 
-Snapshot ID: `AAAAAMBJLUN8Czs4fF1aNXE9AatCWivi`
+Snapshot ID: `AAAAAK2TkJxtIlHC++Sy3BvuyVADGV3x`

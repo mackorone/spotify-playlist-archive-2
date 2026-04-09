@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAkJcQGqXxFdtjOyY9YNvMfRutnJOqx",
+  "snapshot_id": "AAAkJzR+nNKAhd5NP5oNCA/qGKsGscAB",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -747,6 +747,38 @@
       "duration_ms": 254995,
       "name": "Minority",
       "url": "https://open.spotify.com/track/7EahJBzq7oNuxktGieAJa4"
+    },
+    {
+      "added_at": "2026-04-08 07:33:51",
+      "album": {
+        "name": "Destroying Is Easy",
+        "url": "https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w"
+      },
+      "artists": [
+        {
+          "name": "Mat Partridge",
+          "url": "https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy"
+        }
+      ],
+      "duration_ms": 295906,
+      "name": "Copies",
+      "url": "https://open.spotify.com/track/3ZfXF6vUNS9229TSoNXUCA"
+    },
+    {
+      "added_at": "2026-04-08 07:38:45",
+      "album": {
+        "name": "Pancakes",
+        "url": "https://open.spotify.com/album/2rwC62yt7guLH8WAMGqNeg"
+      },
+      "artists": [
+        {
+          "name": "Sunday Lemonade",
+          "url": "https://open.spotify.com/artist/7fTdpGoJdp9BPY5Mdo82vj"
+        }
+      ],
+      "duration_ms": 242752,
+      "name": "Pancakes",
+      "url": "https://open.spotify.com/track/5BRqccEaTPHXI0zAzp8Hqr"
     }
   ],
   "unique_name": "Alternative Pop Archive",

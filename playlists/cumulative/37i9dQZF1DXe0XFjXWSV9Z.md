@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-200 songs - 12 hr 38 min
+201 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Por Ahí](https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:18 | 2021-10-20 |  |
 | [Porrovía](https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Porrovía](https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g) | 3:27 | 2021-10-20 |  |
 | [Primavera en la Selva](https://open.spotify.com/track/4hLkkCMgDmve1pRdqtHL1R) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:02 | 2021-10-20 | 2024-04-19 |
+| [Puerta del sol](https://open.spotify.com/track/7gLNpAOrOBpfhH3gSXdFQO) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Puerta del sol](https://open.spotify.com/album/7to1r45Wg55xqBzWhqHmMc) | 4:30 | 2025-05-19 |  |
 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 | 2021-10-20 | 2024-04-19 |
 | [Pájaro Zinzontle](https://open.spotify.com/track/511pu0YZEk21PSpghFADdy) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Mambo Mundial](https://open.spotify.com/album/0iOMXDWvDL5hlWkmguFPtl) | 3:38 | 2021-10-20 | 2025-10-30 |
 | [Que Tumba](https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [Que Tumba](https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr) | 3:16 | 2021-10-20 |  |
@@ -190,7 +191,7 @@
 | [The Link Is About to Die](https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:48 | 2022-02-15 | 2024-01-14 |
 | [The Link Is About to Die](https://open.spotify.com/track/4IZYR8grCH5snauh6rQFbV) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4R3BesBG4MgLth7TwqzHmO) | 3:48 | 2022-02-15 | 2024-04-19 |
 | [Todos tenemos hogar](https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Historia natural](https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N) | 3:43 | 2021-10-20 |  |
-| [Todos tenemos hogar](https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Infame Golpazo En Keroxen](https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4) | 3:54 | 2021-10-20 |  |
+| [Todos tenemos hogar](https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Infame Golpazo En Keroxen](https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4) | 3:54 | 2021-10-20 | 2026-04-09 |
 | [Tu y Yo](https://open.spotify.com/track/1JadQMSwfzMBZ9h3ymjPx0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Grupo Almendra](https://open.spotify.com/artist/59wBrEGZ8dlFTu48CxK6AK) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 4:28 | 2021-10-20 | 2023-08-10 |
 | [Un Silbido Amoroso](https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:35 | 2021-10-20 | 2024-02-22 |
 | [Un Silbido Amoroso](https://open.spotify.com/track/5rv29txs2vMnNlRl1Dg06o) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat, Vol\. 1](https://open.spotify.com/album/51CrmT3uzijQycjcdVQogr) | 2:35 | 2021-10-20 | 2024-04-19 |

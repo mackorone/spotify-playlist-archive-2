@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\-glitch.wiredheadphones.v2008.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.underscores =\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362,307 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,282 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 69 | [Do It \(Yves Remix\)](https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Do It \(Yves Remix\)](https://open.spotify.com/album/0GuK2xpYuOvNbFqhRuSRa3) | 3:17 |
 | 70 | [Wish it \(bite it\)](https://open.spotify.com/track/3p3OnuAP0OMcWR6DuRX1Lw) | [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4) | [I Just Remembered Everything Always Works Out for Me](https://open.spotify.com/album/6NANhYuZZfiJvR3dymAym3) | 2:25 |
 
-Snapshot ID: `AAAAAPMKuRxXP5K2TeKCYC/9wgtP7VsC`
+Snapshot ID: `AAAAAFsSr72J4T30UzhNabTFCQdW6vMH`

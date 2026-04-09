@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > 【POP YOURS DAY3】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 27AM
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,192 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,209 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285165,
+  "num_followers": 285182,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -667,30 +667,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Up On The Ridge",
-        "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        },
-        {
-          "name": "Del McCoury",
-          "url": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
-        }
-      ],
-      "duration_ms": 249213,
-      "name": "Pride (In The Name Of Love)",
-      "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 315345,
       "name": "Southern Cross",
       "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Up On The Ridge",
+        "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        },
+        {
+          "name": "Del McCoury",
+          "url": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
+        }
+      ],
+      "duration_ms": 249213,
+      "name": "Pride (In The Name Of Love)",
+      "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Closer You Get",
+        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "duration_ms": 345058,
+      "name": "Closer You Get",
+      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Pursuit of Happiness",
         "url": "https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 333000,
       "name": "Pursuit of Happiness",
       "url": "https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Closer You Get",
-        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
-      },
-      "artists": [
-        {
-          "name": "Arkansauce",
-          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
-        }
-      ],
-      "duration_ms": 345058,
-      "name": "Closer You Get",
-      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Elderly Woman Behind the Counter in a Small Town",
         "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 221913,
       "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
       "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1799,22 +1799,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Guess I'm Doing Fine",
-        "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
+        "name": "Songs From Neverland",
+        "url": "https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61"
       },
       "artists": [
         {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Honeywagon",
+          "url": "https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx"
         }
       ],
-      "duration_ms": 280441,
-      "name": "Guess I'm Doing Fine",
-      "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
+      "duration_ms": 222213,
+      "name": "P.Y.T.",
+      "url": "https://open.spotify.com/track/2MfO6yN6OBzQCPxuVILvMg"
     }
   ],
   "unique_name": "Bluegrass Covers",

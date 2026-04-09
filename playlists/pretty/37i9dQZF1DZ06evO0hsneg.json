@@ -1,12 +1,12 @@
 {
   "description": "This is Ramengvrl. The essential tracks, all in one playlist.",
-  "num_followers": 721,
+  "num_followers": 722,
   "original_name": "This Is Ramengvrl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAABosTNkaTR/UDKQE9GoNhcb",
+  "snapshot_id": "adRJAAAAAAD26PkYrDOWLp8cc+p43CfG",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Be My Baby",
+        "url": "https://open.spotify.com/album/0ivPMdVUDumsBrjGSfEARR"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Egnever",
+          "url": "https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I"
+        }
+      ],
+      "duration_ms": 151020,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Want Me Back",
         "url": "https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx"
       },
@@ -351,30 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRONOIA 2.0",
-        "url": "https://open.spotify.com/album/6PcoYWHfWZ9pgYyMcEewkt"
-      },
-      "artists": [
-        {
-          "name": "Matter Mos",
-          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Romantic Echoes",
-          "url": "https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "JOYFUL INTERLUDE",
-      "url": "https://open.spotify.com/track/4bltUbik9ccpBG0DI7nPyq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Speak English",
         "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
@@ -395,22 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be My Baby",
-        "url": "https://open.spotify.com/album/0ivPMdVUDumsBrjGSfEARR"
+        "name": "PRONOIA 2.0",
+        "url": "https://open.spotify.com/album/6PcoYWHfWZ9pgYyMcEewkt"
       },
       "artists": [
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
+        },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "Egnever",
-          "url": "https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I"
+          "name": "Romantic Echoes",
+          "url": "https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ"
         }
       ],
-      "duration_ms": 151020,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY"
+      "duration_ms": 161500,
+      "name": "JOYFUL INTERLUDE",
+      "url": "https://open.spotify.com/track/4bltUbik9ccpBG0DI7nPyq"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Onto The Next",
+        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 214109,
+      "name": "Onto The Next",
+      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOMBAE",
         "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 146184,
       "name": "BOMBAE",
       "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Onto The Next",
-        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 214109,
-      "name": "Onto The Next",
-      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
       "duration_ms": 230960,
       "name": "Us vs",
       "url": "https://open.spotify.com/track/06Fl6Sd3IA4pdK7vlAdTvr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
-        "url": "https://open.spotify.com/album/3hnyY0tfk314wgzqQUPrqm"
-      },
-      "artists": [
-        {
-          "name": "\u963f\u8fbe\u5a03",
-          "url": "https://open.spotify.com/artist/2eeDDDoYRBX8a2jRxLSv3D"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
-      "url": "https://open.spotify.com/track/6dnmu3KE5rm82eOSejssef"
     },
     {
       "added_at": null,
@@ -651,6 +631,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
+        "url": "https://open.spotify.com/album/3hnyY0tfk314wgzqQUPrqm"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u8fbe\u5a03",
+          "url": "https://open.spotify.com/artist/2eeDDDoYRBX8a2jRxLSv3D"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "WOMEN \u6211\u5011 (feat. Ramengvrl)",
+      "url": "https://open.spotify.com/track/6dnmu3KE5rm82eOSejssef"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5AUjW6mZQI7XgV61CBGMJl"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4DTA8AivgTv94WJ518CGAu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "no bethany",
         "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
@@ -671,22 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u65b0\u8bf4\u55312025 \u7b2c6\u671f (Live)",
-        "url": "https://open.spotify.com/album/5AUjW6mZQI7XgV61CBGMJl"
+        "name": "Ain't No MF (feat. pH-1)",
+        "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
       },
       "artists": [
         {
-          "name": "\u963f\u8fbe\u5a03",
-          "url": "https://open.spotify.com/artist/2eeDDDoYRBX8a2jRxLSv3D"
-        },
-        {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 169199,
-      "name": "WOMEN (\u6211\u4eec) - Live",
-      "url": "https://open.spotify.com/track/4DTA8AivgTv94WJ518CGAu"
+      "duration_ms": 149783,
+      "name": "Ain't No MF (feat. pH-1)",
+      "url": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL"
     },
     {
       "added_at": null,
@@ -707,22 +723,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't No MF (feat. pH-1)",
-        "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
+        "name": "Don't Touch Me",
+        "url": "https://open.spotify.com/album/1GKIAfBsroBZgXxPh0ujgM"
       },
       "artists": [
         {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
         },
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "Danilla",
+          "url": "https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 149783,
-      "name": "Ain't No MF (feat. pH-1)",
-      "url": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL"
+      "duration_ms": 281642,
+      "name": "Don't Touch Me",
+      "url": "https://open.spotify.com/track/5K9QwRdkw0SQ3B3xxPoxWy"
     },
     {
       "added_at": null,
@@ -763,30 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Touch Me",
-        "url": "https://open.spotify.com/album/1GKIAfBsroBZgXxPh0ujgM"
-      },
-      "artists": [
-        {
-          "name": "Marion Jola",
-          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
-        },
-        {
-          "name": "Danilla",
-          "url": "https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 281642,
-      "name": "Don't Touch Me",
-      "url": "https://open.spotify.com/track/5K9QwRdkw0SQ3B3xxPoxWy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Da Man",
         "url": "https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm"
       },
@@ -823,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FASHION",
-        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "FASHION",
-      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FACTS",
         "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
       },
@@ -855,6 +835,22 @@
       "duration_ms": 147928,
       "name": "FACTS",
       "url": "https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FASHION",
+        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "FASHION",
+      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
     },
     {
       "added_at": null,
@@ -915,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Ugly",
-        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
+        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
       },
       "artists": [
         {
@@ -924,9 +920,9 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 142018,
-      "name": "I'm Ugly",
-      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
+      "duration_ms": 150929,
+      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
     },
     {
       "added_at": null,
@@ -967,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Ugly",
+        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 142018,
+      "name": "I'm Ugly",
+      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHACHU MEAN",
         "url": "https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t"
       },
@@ -979,22 +991,6 @@
       "duration_ms": 214159,
       "name": "WHACHU MEAN",
       "url": "https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 150929,
-      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
     },
     {
       "added_at": null,

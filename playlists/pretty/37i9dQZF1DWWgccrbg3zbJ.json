@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 581469,
+  "num_followers": 581819,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -131,26 +131,30 @@
     {
       "added_at": "2026-02-24 07:51:12",
       "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
+        "name": "Alvorada",
+        "url": "https://open.spotify.com/album/0AAHmJXk4tvaE0e3jINJho"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         },
         {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
         },
         {
-          "name": "Maria Toledo",
-          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
+          "name": "Oph\u00e9lie Gaillard",
+          "url": "https://open.spotify.com/artist/2iV0Qpl8GsF2IDqFP9mwpj"
+        },
+        {
+          "name": "Romain L\u00e9cuyer",
+          "url": "https://open.spotify.com/artist/6KQoMDHBskwa6F66N0vZSZ"
         }
       ],
-      "duration_ms": 219093,
-      "name": "Saudade Vem Correndo",
-      "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
+      "duration_ms": 179853,
+      "name": "Tarde em itapu\u00e3",
+      "url": "https://open.spotify.com/track/1Qwzw8hbVa28uXYxHeamaT"
     },
     {
       "added_at": "2026-02-24 07:51:12",
@@ -179,30 +183,26 @@
     {
       "added_at": "2026-02-24 07:51:12",
       "album": {
-        "name": "Alvorada",
-        "url": "https://open.spotify.com/album/0AAHmJXk4tvaE0e3jINJho"
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
       "artists": [
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Vin\u00edcius de Moraes",
-          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
         },
         {
-          "name": "Oph\u00e9lie Gaillard",
-          "url": "https://open.spotify.com/artist/2iV0Qpl8GsF2IDqFP9mwpj"
-        },
-        {
-          "name": "Romain L\u00e9cuyer",
-          "url": "https://open.spotify.com/artist/6KQoMDHBskwa6F66N0vZSZ"
+          "name": "Maria Toledo",
+          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
         }
       ],
-      "duration_ms": 179853,
-      "name": "Tarde em itapu\u00e3",
-      "url": "https://open.spotify.com/track/1Qwzw8hbVa28uXYxHeamaT"
+      "duration_ms": 219093,
+      "name": "Saudade Vem Correndo",
+      "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
     },
     {
       "added_at": "2026-02-24 07:51:12",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-02-24 07:51:12",
       "album": {
-        "name": "Chico Buarque De Hollanda N\u00ba4",
-        "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Gente Humilde",
-      "url": "https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v"
-    },
-    {
-      "added_at": "2026-02-24 07:51:12",
-      "album": {
         "name": "O Poeta e o Viol\u00e3o",
         "url": "https://open.spotify.com/album/4cOgC6zXMJwrgmIvC6GJfF"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 246453,
       "name": "Tristeza",
       "url": "https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU"
+    },
+    {
+      "added_at": "2026-02-24 07:51:12",
+      "album": {
+        "name": "Chico Buarque De Hollanda N\u00ba4",
+        "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Gente Humilde",
+      "url": "https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v"
     },
     {
       "added_at": "2026-02-24 07:51:12",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-02-24 07:51:12",
       "album": {
-        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Children's Games",
-      "url": "https://open.spotify.com/track/0oiNDJWFLPQoAm35OwT66P"
-    },
-    {
-      "added_at": "2026-02-24 07:51:12",
-      "album": {
         "name": "O Melhor da Parceria",
         "url": "https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 160080,
       "name": "Insensatez",
       "url": "https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV"
+    },
+    {
+      "added_at": "2026-02-24 07:51:12",
+      "album": {
+        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Children's Games",
+      "url": "https://open.spotify.com/track/0oiNDJWFLPQoAm35OwT66P"
     },
     {
       "added_at": "2026-02-24 07:51:12",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-02-24 07:51:12",
       "album": {
-        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Tereza My Love",
-      "url": "https://open.spotify.com/track/5m4TzaOXvk1biOR3LdObVt"
-    },
-    {
-      "added_at": "2026-02-24 07:51:12",
-      "album": {
         "name": "A Bossa de Cauby Peixoto",
         "url": "https://open.spotify.com/album/5UQ4lXVHLjPV1u6KoyAkFg"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 157333,
       "name": "At\u00e9 Quem Sabe",
       "url": "https://open.spotify.com/track/2rdVCNThL8kxzsRzusmt5t"
+    },
+    {
+      "added_at": "2026-02-24 07:51:12",
+      "album": {
+        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Tereza My Love",
+      "url": "https://open.spotify.com/track/5m4TzaOXvk1biOR3LdObVt"
     },
     {
       "added_at": "2026-02-24 07:51:12",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-02-24 07:51:12",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 309066,
-      "name": "The Red Blouse",
-      "url": "https://open.spotify.com/track/4wBdGRxCaWFtqei59k5InB"
-    },
-    {
-      "added_at": "2026-02-24 07:51:12",
-      "album": {
         "name": "Wanda..Vagamente..",
         "url": "https://open.spotify.com/album/1tZZhPTwHPqNVLNbw38GPZ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 112744,
       "name": "Adriana",
       "url": "https://open.spotify.com/track/07jiARShTjI2U7p9vay1df"
+    },
+    {
+      "added_at": "2026-02-24 07:51:12",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 309066,
+      "name": "The Red Blouse",
+      "url": "https://open.spotify.com/track/4wBdGRxCaWFtqei59k5InB"
     },
     {
       "added_at": "2026-02-24 07:51:12",

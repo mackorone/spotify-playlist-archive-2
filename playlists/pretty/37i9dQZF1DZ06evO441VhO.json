@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18465,
+  "num_followers": 18469,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAABtCMiApXHgB4sIcQn/jMVs",
+  "snapshot_id": "adRJAAAAAADe14E/aooeh5r/7uI3hFpw",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panty Raid (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MFZB",
         "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 191066,
       "name": "Into You",
       "url": "https://open.spotify.com/track/2mZVENOSjFDXtUgWzucYEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Panty Raid (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Your Friends",
-        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 206178,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MFZB",
         "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 135693,
       "name": "Alone",
       "url": "https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 206178,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playmate Of The Year",
-        "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MFZB",
         "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 165640,
       "name": "Over the Edge",
       "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 198892,
-      "name": "A Long Way Down",
-      "url": "https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waste Of Mind",
         "url": "https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ"
       },
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Your Friends",
-        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
       "artists": [
         {
@@ -648,9 +632,25 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 210547,
-      "name": "Public Enemy Number One",
-      "url": "https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE"
+      "duration_ms": 198892,
+      "name": "A Long Way Down",
+      "url": "https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 196076,
+      "name": "Just The Tip",
+      "url": "https://open.spotify.com/track/0Jc21Wm0Ssr3AJJyzoz9Ji"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 210547,
+      "name": "Public Enemy Number One",
+      "url": "https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "III.II.",
         "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 181261,
       "name": "Licking on a Knife for Fun",
       "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 196076,
-      "name": "Just The Tip",
-      "url": "https://open.spotify.com/track/0Jc21Wm0Ssr3AJJyzoz9Ji"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 176405,
-      "name": "Evil Anonymous",
-      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 217401,
       "name": "Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole",
       "url": "https://open.spotify.com/track/4ABfHHCjRtxr1VcR8Y7X9N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 176405,
+      "name": "Evil Anonymous",
+      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
     },
     {
       "added_at": null,

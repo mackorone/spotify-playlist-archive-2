@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Levante, Serena Brancale e DELIA in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,154 likes - 117 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,157 likes - 117 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 91 | [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 |
 | 92 | [I'm In Trouble \(feat\. Norah Jones\)](https://open.spotify.com/track/5Q6BZ5oiOU4ugxV8ZFFzAP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Love or Lack Thereof](https://open.spotify.com/album/778SMcYzULEI52vOMo2rFX) | 3:40 |
 | 93 | [more than just a little bit](https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [more than just a little bit](https://open.spotify.com/album/3F8UGnSi7OTQg03Ag3xtxv) | 2:40 |
-| 94 | [SURFBOARD](https://open.spotify.com/track/2EoVbWzKPfeL4m32n0G384) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SURFBOARD](https://open.spotify.com/album/2j2albMg3mIwJpnOKgl7WF) | 3:32 |
+| 94 | [SURFBOARD](https://open.spotify.com/track/2EoVbWzKPfeL4m32n0G384) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SURFBOARD](https://open.spotify.com/album/2j2albMg3mIwJpnOKgl7WF) | 3:31 |
 | 95 | [\(KIERO +\)](https://open.spotify.com/track/3wGYSEBoGdRPFBvJCmugNJ) | [Muriel](https://open.spotify.com/artist/1H4RtXeHusPL9XHlsiQHuf) | [\(NUNCA + / KIERO +\)](https://open.spotify.com/album/3CTYclWmCZixRnwQaaWKJc) | 2:45 |
 | 96 | [non mi riconosco più](https://open.spotify.com/track/5ojvMkVsKzctAwISK4PbbV) | [iako](https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX) | [non mi riconosco più](https://open.spotify.com/album/3GWo7ojuhg0OfPu4ism5Qj) | 2:59 |
 | 97 | [Blu](https://open.spotify.com/track/6mpXviP6qIzSeSmK1suOW2) | [Edo](https://open.spotify.com/artist/1xZTUnNzrfheALu3TCcRof) | [Blu](https://open.spotify.com/album/75MNiy10N5QbLY1cjDxY8u) | 2:54 |

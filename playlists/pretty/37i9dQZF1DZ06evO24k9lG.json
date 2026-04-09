@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 63895,
+  "num_followers": 63909,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAAB/9X0lK5lwy3VyQhbt5RsU",
+  "snapshot_id": "adRJAAAAAAAdCM6ADdNoNcYLkoP/zVzE",
   "tracks": [
     {
       "added_at": null,
@@ -116,7 +116,7 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 221093,
+      "duration_ms": 220775,
       "name": "Distintos Destinos",
       "url": "https://open.spotify.com/track/3klDMS8I5WdQMD82aAhbha"
     },
@@ -180,7 +180,7 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 261560,
+      "duration_ms": 261619,
       "name": "Manantial de Amor",
       "url": "https://open.spotify.com/track/7Jj7xLUrsvHCiwOsNxzPPC"
     },
@@ -404,7 +404,7 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 306106,
+      "duration_ms": 306155,
       "name": "No Te Quiero Perder",
       "url": "https://open.spotify.com/track/0OF0Y4tv6s2mWWOmVzUAMA"
     },
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/235RP8gmp1yl5wWvp9oLh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 260545,
       "name": "Todo Se Acaba",
       "url": "https://open.spotify.com/track/7yRdBOPaGYhvHFMXbVJCPj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/235RP8gmp1yl5wWvp9oLh7"
     },
     {
       "added_at": null,

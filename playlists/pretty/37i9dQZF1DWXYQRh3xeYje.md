@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 
 > Vaundyの楽曲を1つのプレイリストで。All the essentials from Vaundy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,502 likes - 72 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,549 likes - 72 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYQRh3xeYje.md) - [plain]
 | 71 | [Somebody help us](https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/0hOBqS9AHeJXGqoDQ6gBy6) | 4:08 |
 | 72 | [Audio 007](https://open.spotify.com/track/3aNHHvXx1RyZnNZPhGzKFH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 1:11 |
 
-Snapshot ID: `AAAAAMEKu6DdV1zCpN7+YcK+lxV+qjWv`
+Snapshot ID: `AAAAALX03cgt9af40uMid/SvLCSW/HSx`

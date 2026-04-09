@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Bartofso
 
-384 songs - 17 hr 18 min
+385 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 | 2026-01-08 |  |
 | [No Handouts](https://open.spotify.com/track/2F2LGTyc3kiP7a1wfJUd1J) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [No Handouts](https://open.spotify.com/album/4vMtK9zOVRcop68ypi29jK) | 3:36 | 2026-02-19 | 2026-04-03 |
 | [No Lie](https://open.spotify.com/track/29QDdg7SxDDVRiPPveVG6I) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [No Lie](https://open.spotify.com/album/6nN5G3eQhTs5t9QdApVHmm) | 3:46 | 2026-03-25 |  |
-| [NO LIE](https://open.spotify.com/track/4dCK5jjjWgEODJrdo0Joh1) | [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [vendro](https://open.spotify.com/artist/7udaepa4ooqit76XwlGe4F) | [NO LIE](https://open.spotify.com/album/0Ew81HoM7PhRfftFXf7Qer) | 2:54 | 2026-03-26 |  |
+| [NO LIE](https://open.spotify.com/track/4dCK5jjjWgEODJrdo0Joh1) | [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [LV](https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7), [vendro](https://open.spotify.com/artist/7udaepa4ooqit76XwlGe4F), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [NO LIE](https://open.spotify.com/album/0Ew81HoM7PhRfftFXf7Qer) | 2:54 | 2026-03-26 |  |
 | [NO WARNING](https://open.spotify.com/track/3GIHaBBQj5TjxGdsyxYUHo) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [GIOVANNI I](https://open.spotify.com/album/0g71fSW5nHFxPwHuKpcKbv) | 3:15 | 2025-07-17 | 2025-08-15 |
 | [noord](https://open.spotify.com/track/7KqFp0nwYNVgMF8Co3ELGg) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [noord](https://open.spotify.com/album/1hur4aUfZ3azbyF5OVczdk) | 1:57 | 2025-08-14 | 2025-09-05 |
 | [Noord Africano](https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Noord Africano](https://open.spotify.com/album/0QlNKFqSnmpdzcuqBYY4x0) | 2:47 | 2025-07-17 | 2025-09-26 |
@@ -368,6 +368,7 @@
 | [VOOR DE FAMILY](https://open.spotify.com/track/4uvtQck40L034n3mvKQInH) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [VOOR DE FAMILY](https://open.spotify.com/album/2OAEEqmPyg6SvMI6kQ398p) | 2:13 | 2025-11-24 | 2025-12-19 |
 | [Waar Was Je?](https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Waar Was Je?](https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC) | 2:28 | 2026-01-15 |  |
 | [Waardering](https://open.spotify.com/track/4kBtYyfgzbZPVuqpNdKL7Q) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Waardering](https://open.spotify.com/album/6J3BH0JhrGNqfTCVbEtKNP) | 3:01 | 2026-02-12 | 2026-03-27 |
+| [Wagyu](https://open.spotify.com/track/0rVikiFqhfjczF3a9aATLf) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Wagyu](https://open.spotify.com/album/1MPKG1OXRsr3hjqsesGo77) | 2:48 | 2026-04-08 |  |
 | [walgelijk](https://open.spotify.com/track/5qv5qNOlYJCXgYj4Fmlt6d) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [INSOMNIA](https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW) | 3:40 | 2026-01-08 | 2026-02-06 |
 | [Warming up](https://open.spotify.com/track/4bO9GDQ6RX5IrpbhIQMnIS) | [Nass](https://open.spotify.com/artist/2vmQP2rkDh9bcyzhP1YVKU) | [Warming up](https://open.spotify.com/album/7aZsDpLkUujdXXwmCeefIf) | 2:02 | 2025-11-27 | 2026-02-06 |
 | [Was Het Waard](https://open.spotify.com/track/5o4Dxn2jRnUDv41Dd2iu5Z) | [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1), [Lef](https://open.spotify.com/artist/1MUxYVrXFiMh1wmP74mfu7) | [Gemiste Bladzijde](https://open.spotify.com/album/3kAoct1xTPuAVVW8aFWgWu) | 2:49 | 2025-12-18 | 2026-01-15 |

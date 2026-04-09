@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Buzzy Lee",
-  "num_followers": 96913,
+  "num_followers": 96926,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG3wQTelYP7zmIWOoY/3PCjVTZB0",
+  "snapshot_id": "AAAAAEPK8FN5jkL2Ds2kvVxRdBZC3KAt",
   "tracks": [
     {
       "added_at": "2026-04-01 16:00:36",
@@ -25,6 +25,102 @@
       "url": "https://open.spotify.com/track/3NrEbIEbmFLBKF5zruZLLX"
     },
     {
+      "added_at": "2026-04-08 18:54:44",
+      "album": {
+        "name": "Friendship Is The Truth",
+        "url": "https://open.spotify.com/album/6lMArNErrmtXlfSQnu38kQ"
+      },
+      "artists": [
+        {
+          "name": "Truthpaste",
+          "url": "https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Friendship Is The Truth",
+      "url": "https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4"
+    },
+    {
+      "added_at": "2026-04-08 18:25:59",
+      "album": {
+        "name": "I\u2019m Still Learning How To Leave You",
+        "url": "https://open.spotify.com/album/03E8Neqz8GSu5TFeaM5prG"
+      },
+      "artists": [
+        {
+          "name": "Harmony Tividad",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "duration_ms": 215715,
+      "name": "I\u2019m Still Learning How To Leave You",
+      "url": "https://open.spotify.com/track/5NZz5xUh1Vgz6DesC5SKYZ"
+    },
+    {
+      "added_at": "2026-04-08 16:00:07",
+      "album": {
+        "name": "Wendy Eisenberg",
+        "url": "https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5"
+      },
+      "artists": [
+        {
+          "name": "Wendy Eisenberg",
+          "url": "https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi"
+        }
+      ],
+      "duration_ms": 258537,
+      "name": "Meaning Business",
+      "url": "https://open.spotify.com/track/7b8Q7CPNLqnsHj8jwJKQ2x"
+    },
+    {
+      "added_at": "2026-04-08 16:00:07",
+      "album": {
+        "name": "S'mores",
+        "url": "https://open.spotify.com/album/4Fm5WcOWVEsjazq2cioq9n"
+      },
+      "artists": [
+        {
+          "name": "Isaac Stalling",
+          "url": "https://open.spotify.com/artist/3qfuw2kKPpDgkwvD0AJPsZ"
+        }
+      ],
+      "duration_ms": 154737,
+      "name": "S'mores",
+      "url": "https://open.spotify.com/track/4rhno1gIW5Is6gnCUj69tR"
+    },
+    {
+      "added_at": "2026-04-08 16:00:07",
+      "album": {
+        "name": "Green Wood",
+        "url": "https://open.spotify.com/album/3ZwWCMDgRve6DRXE8uelUK"
+      },
+      "artists": [
+        {
+          "name": "face of ancient gallery",
+          "url": "https://open.spotify.com/artist/0ZGx5KuOeOamwoQ2384MUz"
+        }
+      ],
+      "duration_ms": 205457,
+      "name": "Green Wood",
+      "url": "https://open.spotify.com/track/3oENjcvjsNwxfB3OPtQGwk"
+    },
+    {
+      "added_at": "2026-04-08 16:00:07",
+      "album": {
+        "name": "Something like an Angel",
+        "url": "https://open.spotify.com/album/4DvxQOqtxXKVfsNEKW92Ah"
+      },
+      "artists": [
+        {
+          "name": "Juke",
+          "url": "https://open.spotify.com/artist/1EAOtSJNVKF5eHIGLodlpW"
+        }
+      ],
+      "duration_ms": 185289,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/3lB4p614IjTS8rFYJS7BsL"
+    },
+    {
       "added_at": "2026-03-25 16:00:36",
       "album": {
         "name": "Wings",
@@ -39,6 +135,38 @@
       "duration_ms": 248981,
       "name": "Wings",
       "url": "https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Headlamp",
+        "url": "https://open.spotify.com/album/1HAWzhhJhj0j6lCCGNFn9F"
+      },
+      "artists": [
+        {
+          "name": "Ivy Knight",
+          "url": "https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Headlamp",
+      "url": "https://open.spotify.com/track/7x5G3YrfwKBRcLsBhS2CoN"
+    },
+    {
+      "added_at": "2026-04-08 16:00:07",
+      "album": {
+        "name": "Story's End",
+        "url": "https://open.spotify.com/album/1ZVufTemxbdERJ5wHFzyq2"
+      },
+      "artists": [
+        {
+          "name": "Maria Taylor",
+          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
+        }
+      ],
+      "duration_ms": 314500,
+      "name": "Shades of Blue",
+      "url": "https://open.spotify.com/track/1dlOl952KY5oU5aef4CUCi"
     },
     {
       "added_at": "2026-03-11 17:52:44",
@@ -57,6 +185,22 @@
       "url": "https://open.spotify.com/track/2S7iFa8MX5f9CgDxGoxzzy"
     },
     {
+      "added_at": "2026-04-08 16:00:07",
+      "album": {
+        "name": "Dripping Coffee",
+        "url": "https://open.spotify.com/album/58ZCECWGAExqhQuZ29Iz07"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Thornton",
+          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
+        }
+      ],
+      "duration_ms": 165218,
+      "name": "Dripping Coffee",
+      "url": "https://open.spotify.com/track/2aZanjLbCu3JHAz5CxSTIJ"
+    },
+    {
       "added_at": "2026-04-01 16:00:36",
       "album": {
         "name": "Companion",
@@ -73,20 +217,20 @@
       "url": "https://open.spotify.com/track/1hJaRe3VnckiLHn73ABng1"
     },
     {
-      "added_at": "2026-03-25 16:00:36",
+      "added_at": "2026-04-08 16:00:07",
       "album": {
-        "name": "Headlamp",
-        "url": "https://open.spotify.com/album/1HAWzhhJhj0j6lCCGNFn9F"
+        "name": "Your Side Of The Moon",
+        "url": "https://open.spotify.com/album/3Uk4QTcXscdX6n78NC8WZ5"
       },
       "artists": [
         {
-          "name": "Ivy Knight",
-          "url": "https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z"
+          "name": "Ryann Ross",
+          "url": "https://open.spotify.com/artist/4LlusKGPaCxnefSJFNulY6"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Headlamp",
-      "url": "https://open.spotify.com/track/7x5G3YrfwKBRcLsBhS2CoN"
+      "duration_ms": 249306,
+      "name": "Your Side Of The Moon",
+      "url": "https://open.spotify.com/track/5jRi5oRKtafH4U1EerxQOp"
     },
     {
       "added_at": "2026-04-01 16:00:36",
@@ -1067,154 +1211,6 @@
       "duration_ms": 204210,
       "name": "Buzzkill",
       "url": "https://open.spotify.com/track/7hgP72kTlZxBIq4eygnBgk"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "daredevil",
-        "url": "https://open.spotify.com/album/5YGaJlxKtmM6P4LlYYlajW"
-      },
-      "artists": [
-        {
-          "name": "superstar",
-          "url": "https://open.spotify.com/artist/43lfWCnHS0bf7PaqUjvN4J"
-        }
-      ],
-      "duration_ms": 186875,
-      "name": "daredevil",
-      "url": "https://open.spotify.com/track/23XKsN7zFE2N5NYGi3CoE1"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "Empty Of You",
-        "url": "https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2"
-      },
-      "artists": [
-        {
-          "name": "Dirty Blond",
-          "url": "https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM"
-        }
-      ],
-      "duration_ms": 181181,
-      "name": "Empty Of You",
-      "url": "https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "My Love Has No End",
-        "url": "https://open.spotify.com/album/5tOovmqbNXoQv9NovPbvzJ"
-      },
-      "artists": [
-        {
-          "name": "Joely June",
-          "url": "https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j"
-        }
-      ],
-      "duration_ms": 185529,
-      "name": "My Love Has No End",
-      "url": "https://open.spotify.com/track/1kanbaDN2gU9oZfznjiGNm"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "thread",
-        "url": "https://open.spotify.com/album/4j5R7izcwY1w8k45BexaDM"
-      },
-      "artists": [
-        {
-          "name": "anatu",
-          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
-        }
-      ],
-      "duration_ms": 148279,
-      "name": "thread",
-      "url": "https://open.spotify.com/track/5hybBsRdkEKaHDPLQ9uwMD"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "Mourning Dove",
-        "url": "https://open.spotify.com/album/41i7vdiC1CKg5TCPQxAlhQ"
-      },
-      "artists": [
-        {
-          "name": "Theo Kandel",
-          "url": "https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q"
-        }
-      ],
-      "duration_ms": 258160,
-      "name": "Mourning Dove",
-      "url": "https://open.spotify.com/track/6kvDSMslDzKxEZ06inXkIO"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "Almost",
-        "url": "https://open.spotify.com/album/1ThnhN3wDRCMzvbnLY1rif"
-      },
-      "artists": [
-        {
-          "name": "Lucy Clearwater",
-          "url": "https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj"
-        }
-      ],
-      "duration_ms": 240861,
-      "name": "Almost",
-      "url": "https://open.spotify.com/track/49f9v5GCGN6bT15K2xXzsp"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "Nick of Time",
-        "url": "https://open.spotify.com/album/3SqezFkvES8NhapcRZ0f8V"
-      },
-      "artists": [
-        {
-          "name": "Konradsen",
-          "url": "https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O"
-        },
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 182078,
-      "name": "Nick of Time",
-      "url": "https://open.spotify.com/track/6cDbus54svH0LbeHMDIaWJ"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "Memphis",
-        "url": "https://open.spotify.com/album/6NXsXVvkIR6J8r46DEcegT"
-      },
-      "artists": [
-        {
-          "name": "Anna Tivel",
-          "url": "https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Memphis",
-      "url": "https://open.spotify.com/track/6ZQCFUfUu4Xmajbw9QUFYU"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "After the Rain",
-        "url": "https://open.spotify.com/album/5aSSN5jhUE8GyOsU0etHfK"
-      },
-      "artists": [
-        {
-          "name": "Mirah",
-          "url": "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
-        }
-      ],
-      "duration_ms": 348866,
-      "name": "After the Rain",
-      "url": "https://open.spotify.com/track/0SpH7x5JSmNNbHaSH84mHU"
     }
   ],
   "unique_name": "Fresh Finds Folk",

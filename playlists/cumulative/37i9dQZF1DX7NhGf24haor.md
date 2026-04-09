@@ -4,7 +4,7 @@
 
 > Weekly new Hardstyle releases! Cover: D\-Sturb
 
-1,977 songs - 4 day 7 hr 55 min
+1,978 songs - 4 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,7 +995,8 @@
 | [Love Again](https://open.spotify.com/track/5Iyi2vA6w8daO8mFh3newK) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Love Again](https://open.spotify.com/album/1bWhkYp8LmaIN1Wm7db1o3) | 3:53 | 2025-02-22 | 2025-04-05 |
 | [Love Comes Again \(feat\. Jawny Sparklez\)](https://open.spotify.com/track/0i6j2Jlnur1PWBUlendM4H) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Jawny Sparklez](https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi) | [Love Comes Again \(feat\. Jawny Sparklez\)](https://open.spotify.com/album/0yAytHjsnfU690mWbMepWO) | 3:12 | 2025-09-08 | 2025-09-23 |
 | [Love Death](https://open.spotify.com/track/1H2HyRY6Z4krifebdRQqNY) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Love Death](https://open.spotify.com/album/2Y4Wkt6tTWwGI5yXM9olvN) | 3:12 | 2023-09-07 | 2023-12-02 |
-| [Love Generation](https://open.spotify.com/track/0HCukG2CWTk83lsSBhCQBa) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Love Generation](https://open.spotify.com/album/5gDN95574hVSb4H6WztVHj) | 2:38 | 2026-04-06 |  |
+| [Love Generation](https://open.spotify.com/track/0HCukG2CWTk83lsSBhCQBa) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Love Generation](https://open.spotify.com/album/5gDN95574hVSb4H6WztVHj) | 2:38 | 2026-04-06 | 2026-04-09 |
+| [Love Generation](https://open.spotify.com/track/3kxH84wDmwYJQQIs9e6bCN) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Love Generation](https://open.spotify.com/album/0ctgLGBpK2eLGlg1Fsm2hP) | 2:43 | 2026-04-08 |  |
 | [Love Is Gone \- Exhale Remix](https://open.spotify.com/track/5FWyfbOZ25bSOLBImIXumb) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT), [Exhale](https://open.spotify.com/artist/2QrVOps83HnQVMjNxqjFKQ) | [Love Is Gone \(Exhale Remix\)](https://open.spotify.com/album/78to8dlSVtAf7twGmdoknn) | 2:53 | 2022-12-08 | 2023-03-10 |
 | [Love Like Yours](https://open.spotify.com/track/60FjaVoaLYKEZmmYC7Gx5t) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22), [Kane Scott](https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu) | [Love Like Yours](https://open.spotify.com/album/7LhDrHd7GkACFuhA8muQ5b) | 3:13 | 2023-09-28 | 2024-02-02 |
 | [Love Me Better](https://open.spotify.com/track/6EiUTFWcpoabMxZ5KBLGuB) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Love Me Better](https://open.spotify.com/album/7auvVeh40brxIuVNB9Z0HD) | 3:06 | 2025-03-10 | 2025-05-13 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-4,989 songs - 11 day 4 hr 57 min
+4,990 songs - 11 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3422,7 +3422,7 @@
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-03-15 | 2022-03-23 |
 | [praying to the sky](https://open.spotify.com/track/0hzck1SKuiZM0x3oiAgeP3) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [LIL PEEP; PART ONE](https://open.spotify.com/album/7n4NXIQuDsb7C68oSBVF0M) | 3:59 | 2024-09-24 | 2024-09-27 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-04-10 | 2023-05-10 |
-| [PREACHER MAN](https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 3:01 | 2026-03-30 |  |
+| [PREACHER MAN](https://open.spotify.com/track/0fD7KBtQgPR1YCtuPAsyZJ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 3:01 | 2026-03-30 | 2026-04-09 |
 | [Predador de Perereca](https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v) | [BLOW RECORDS](https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [Predador de Perereca](https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM) | 3:06 | 2025-08-21 | 2025-11-01 |
 | [Prequel](https://open.spotify.com/track/3ZdwCZtXWJjMqHlSFgYfIg) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Popular Monster](https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD) | 3:53 | 2024-09-03 | 2024-09-08 |
 | [Presha](https://open.spotify.com/track/2tvYu1CPNCTmViowWzGw86) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:05 | 2023-11-20 | 2023-11-27 |
@@ -4868,6 +4868,7 @@
 | [World Cup](https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb) | [World Cup](https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE) | 4:16 | 2022-11-29 | 2022-12-28 |
 | [World's Smallest Violin](https://open.spotify.com/track/68EkhVWIeULhHxcbi1QhzK) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/7rbdgYKz1DI4gXMWveqS5T) | 3:00 | 2022-05-13 | 2022-05-25 |
 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5toviX45fuHcs6yy9HhZs2) | 2:58 | 2022-08-10 | 2022-08-31 |
+| [worry \- Slowed](https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [riserayss](https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib) | [worry](https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML) | 3:21 | 2026-04-08 |  |
 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-03-04 | 2025-03-26 |
 | [Worst Way](https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:40 | 2024-04-16 | 2025-07-05 |
 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-10-29 | 2022-12-28 |

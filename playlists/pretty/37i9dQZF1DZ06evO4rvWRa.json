@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638228,
+  "num_followers": 1638243,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAAC7Bxxq3k/fMKwvjT+A67Et",
+  "snapshot_id": "adRJAAAAAADA1C4rC1ZO2Vav8+8TFmZ/",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 153207,
+      "name": "Last Song (feat. Faouzia)",
+      "url": "https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A World I Don't Know",
         "url": "https://open.spotify.com/album/3noCGUpws1zv3tJ66AeFNE"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 111951,
       "name": "A World I Don't Know",
       "url": "https://open.spotify.com/track/12r9zcMRAnoADUQoOJR9yC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 153207,
-      "name": "Last Song (feat. Faouzia)",
-      "url": "https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 202210,
+      "name": "Eroina",
+      "url": "https://open.spotify.com/track/4KIy6jNEmGFl33RU84iL5P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "(MORE) Unsponsored Content",
         "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 152214,
       "name": "PS5",
       "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "World of Walker, Season One: Rise of the Drones",
-        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 202210,
-      "name": "Eroina",
-      "url": "https://open.spotify.com/track/4KIy6jNEmGFl33RU84iL5P"
     },
     {
       "added_at": null,
@@ -1027,22 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 240005,
-      "name": "Force",
-      "url": "https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slowed",
         "url": "https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 236400,
       "name": "Faded - Slowed Remix",
       "url": "https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 240005,
+      "name": "Force",
+      "url": "https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg"
     },
     {
       "added_at": null,

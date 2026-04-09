@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: manifest",
-  "num_followers": 578037,
+  "num_followers": 578105,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-04-02 21:00:25",
       "album": {
+        "name": "D\u00fcnya Yalan S\u00f6yl\u00fcyor",
+        "url": "https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7"
+      },
+      "artists": [
+        {
+          "name": "mor ve \u00f6tesi",
+          "url": "https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Cambaz",
+      "url": "https://open.spotify.com/track/3ZkA3JnqluUWzwr64BBkl4"
+    },
+    {
+      "added_at": "2026-04-02 21:00:25",
+      "album": {
         "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
         "url": "https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 196857,
       "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
       "url": "https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr"
-    },
-    {
-      "added_at": "2026-04-02 21:00:25",
-      "album": {
-        "name": "D\u00fcnya Yalan S\u00f6yl\u00fcyor",
-        "url": "https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7"
-      },
-      "artists": [
-        {
-          "name": "mor ve \u00f6tesi",
-          "url": "https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Cambaz",
-      "url": "https://open.spotify.com/track/3ZkA3JnqluUWzwr64BBkl4"
     },
     {
       "added_at": "2026-04-02 21:00:25",
@@ -435,18 +435,22 @@
     {
       "added_at": "2026-04-02 21:00:25",
       "album": {
-        "name": "Yaram\u0131zda Kals\u0131n",
-        "url": "https://open.spotify.com/album/3KxWgiua2gAClmIDcGAoIs"
+        "name": "Eyvahlar Olsun",
+        "url": "https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk"
       },
       "artists": [
         {
-          "name": "Onur Can \u00d6zcan",
-          "url": "https://open.spotify.com/artist/2QslFlDyZVpLYwfqyRDkNs"
+          "name": "Emre Fel",
+          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
+        },
+        {
+          "name": "Funktakl",
+          "url": "https://open.spotify.com/artist/6QgQib1hYAs8Y9OhiSoGoW"
         }
       ],
-      "duration_ms": 192500,
-      "name": "\u0130ntiha\u015fk",
-      "url": "https://open.spotify.com/track/0SrrvZUjqo1MtUyno4gGhA"
+      "duration_ms": 215172,
+      "name": "Bir G\u00fcld\u00fcn",
+      "url": "https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg"
     },
     {
       "added_at": "2026-04-02 21:00:25",
@@ -495,22 +499,18 @@
     {
       "added_at": "2026-04-02 21:00:25",
       "album": {
-        "name": "Eyvahlar Olsun",
-        "url": "https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk"
+        "name": "Yaram\u0131zda Kals\u0131n",
+        "url": "https://open.spotify.com/album/3KxWgiua2gAClmIDcGAoIs"
       },
       "artists": [
         {
-          "name": "Emre Fel",
-          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
-        },
-        {
-          "name": "Funktakl",
-          "url": "https://open.spotify.com/artist/6QgQib1hYAs8Y9OhiSoGoW"
+          "name": "Onur Can \u00d6zcan",
+          "url": "https://open.spotify.com/artist/2QslFlDyZVpLYwfqyRDkNs"
         }
       ],
-      "duration_ms": 215172,
-      "name": "Bir G\u00fcld\u00fcn",
-      "url": "https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg"
+      "duration_ms": 192500,
+      "name": "\u0130ntiha\u015fk",
+      "url": "https://open.spotify.com/track/0SrrvZUjqo1MtUyno4gGhA"
     },
     {
       "added_at": "2026-04-02 21:00:25",
@@ -531,6 +531,26 @@
       "duration_ms": 155669,
       "name": "MA CH\u00c9RIE",
       "url": "https://open.spotify.com/track/1dR9wy1C7PWn4HwEsgCRDv"
+    },
+    {
+      "added_at": "2026-04-02 21:00:25",
+      "album": {
+        "name": "\u00dcz\u00fclmedim Ki",
+        "url": "https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "duration_ms": 154402,
+      "name": "\u00dcz\u00fclmedim Ki",
+      "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"
     },
     {
       "added_at": "2026-04-02 21:00:25",
@@ -563,26 +583,6 @@
       "duration_ms": 169411,
       "name": "Geri Ver",
       "url": "https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG"
-    },
-    {
-      "added_at": "2026-04-02 21:00:25",
-      "album": {
-        "name": "\u00dcz\u00fclmedim Ki",
-        "url": "https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        },
-        {
-          "name": "B\u00fcken",
-          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
-        }
-      ],
-      "duration_ms": 154402,
-      "name": "\u00dcz\u00fclmedim Ki",
-      "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"
     },
     {
       "added_at": "2026-04-02 21:00:25",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-04-02 21:00:25",
       "album": {
-        "name": "Pa\u015fa G\u00f6n\u00fcl \u015eark\u0131lar\u0131",
-        "url": "https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T"
-      },
-      "artists": [
-        {
-          "name": "Sezen Aksu",
-          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
-        }
-      ],
-      "duration_ms": 186881,
-      "name": "Sen A\u011fla",
-      "url": "https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf"
-    },
-    {
-      "added_at": "2026-04-02 21:00:25",
-      "album": {
         "name": "K\u00fc\u00e7\u00fck Bir Yol",
         "url": "https://open.spotify.com/album/7jaKipywn8miD34MQ6G946"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 280739,
       "name": "K\u00fc\u00e7\u00fck Bir Yol",
       "url": "https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk"
+    },
+    {
+      "added_at": "2026-04-02 21:00:25",
+      "album": {
+        "name": "Pa\u015fa G\u00f6n\u00fcl \u015eark\u0131lar\u0131",
+        "url": "https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T"
+      },
+      "artists": [
+        {
+          "name": "Sezen Aksu",
+          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+        }
+      ],
+      "duration_ms": 186881,
+      "name": "Sen A\u011fla",
+      "url": "https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf"
     }
   ],
   "unique_name": "trend 2026",

@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-161 songs - 9 hr 42 min
+162 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Early Morning Rain](https://open.spotify.com/track/50cVjrNMWV8ZZ8DWlNImQB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:02 | 2021-12-22 | 2025-11-15 |
 | [El Sonido De La Jungla](https://open.spotify.com/track/3X9fYeMzViZNTg3FptCZZq) | [Nerea Llopis](https://open.spotify.com/artist/45DFCRFgVJdYToAWjPau6O) | [El Sonido De La Jungla](https://open.spotify.com/album/4UpQkIb1B3HDThLzEKI0DT) | 2:02 | 2021-12-22 |  |
 | [Evening Drizzle](https://open.spotify.com/track/6cT7dRMHzgURq44rPtFHUB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:00 | 2021-12-22 | 2024-03-28 |
+| [Everflow Basin Green Noise](https://open.spotify.com/track/6yZBV5DSJid7XUyAJEDriM) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Everflow Basin Green Noise](https://open.spotify.com/album/1XW7wRiuk1J9eJZQKW7Dwp) | 3:16 | 2026-04-02 |  |
 | [Exotic Jungle Life for Meditation and Deep Sleep](https://open.spotify.com/track/1c2q71mRUvPAjkNvPEjv4x) | [Nature Sounds in HD](https://open.spotify.com/artist/4OejBwsKe73jfbVP9Csef7) | [Nature Sound in HD](https://open.spotify.com/album/2FamwsbosEaAyFWlcIFFdF) | 6:00 | 2022-07-06 | 2022-11-13 |
 | [Florida Rain Storm](https://open.spotify.com/track/41ngfIhPv1DkwHozVjH5Yc) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 2:55 | 2021-12-22 | 2024-03-28 |
 | [Flying South \(Nature\)](https://open.spotify.com/track/5j49xdRfVVXfrH0oi6UkKv) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Flying South \(Nature\)](https://open.spotify.com/album/1vhivmFoFcs1WRHLwWA70R) | 3:00 | 2026-04-02 |  |
@@ -167,7 +168,7 @@
 | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/track/26MpviERp5F3eLwotmejx7) | [Sleeping Peace](https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw) | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/album/6WNnFWfsilmn4th5FDhBU2) | 8:52 | 2023-02-20 |  |
 | [Wild Forest Sleep](https://open.spotify.com/track/6yWZXCybu8fGOVOJo1mr6N) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Orchid Stories](https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V) | 2:58 | 2023-02-20 | 2026-04-03 |
 | [Wildlife Storm \(Nature\)](https://open.spotify.com/track/2qqME0ZRyHJjCkfNWZpnOC) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 2:04 | 2023-02-20 |  |
-| [Wind and the Crickets](https://open.spotify.com/track/3b2byusKjShwrcNTpPGFJ2) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Wind and the Crickets](https://open.spotify.com/album/0N9Fr3RD0HBSrXwhfL8if9) | 6:00 | 2025-11-11 |  |
+| [Wind and the Crickets](https://open.spotify.com/track/3b2byusKjShwrcNTpPGFJ2) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Wind and the Crickets](https://open.spotify.com/album/0N9Fr3RD0HBSrXwhfL8if9) | 6:00 | 2025-11-11 | 2026-04-09 |
 | [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 1:56 | 2026-04-02 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

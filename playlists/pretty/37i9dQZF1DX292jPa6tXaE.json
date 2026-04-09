@@ -1,13 +1,109 @@
 {
-  "description": "Discover the future of Punjabi Pop! Cover: Romey Maan",
-  "num_followers": 9643,
+  "description": "Discover the future of Punjabi Pop! Cover: Amber",
+  "num_followers": 9656,
   "original_name": "Fresh Finds Punjabi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ25UmFbx2BssW+vLOvwrAtITyET",
+  "snapshot_id": "AAAAAEtVvuRpvlqrRu17Hy0EOvBzIx0Z",
   "tracks": [
+    {
+      "added_at": "2026-04-08 07:30:05",
+      "album": {
+        "name": "Akhan",
+        "url": "https://open.spotify.com/album/77FY7ZHO7RdXO0pRbEXSRV"
+      },
+      "artists": [
+        {
+          "name": "Amber",
+          "url": "https://open.spotify.com/artist/6UIT9w4vJCXgsg77Ny9shS"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ"
+        }
+      ],
+      "duration_ms": 149374,
+      "name": "Akhan",
+      "url": "https://open.spotify.com/track/3UNLsUyfkw1FmrwCsUJLzK"
+    },
+    {
+      "added_at": "2026-04-08 07:30:05",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/5jVBEToIiwL2uUru2aZ0RA"
+      },
+      "artists": [
+        {
+          "name": "DRUFF",
+          "url": "https://open.spotify.com/artist/1trgpYDCtCp2ohqo7KlLS4"
+        },
+        {
+          "name": "Dark Soul Studioz",
+          "url": "https://open.spotify.com/artist/3EZPIndtuKArWIo9IgLMwg"
+        }
+      ],
+      "duration_ms": 137565,
+      "name": "King",
+      "url": "https://open.spotify.com/track/5vo7HuBC2PVypBkfYLRd6Y"
+    },
+    {
+      "added_at": "2026-04-08 07:30:05",
+      "album": {
+        "name": "No Signal",
+        "url": "https://open.spotify.com/album/7kslYtnYNjXHNOJTDtQRR9"
+      },
+      "artists": [
+        {
+          "name": "NVY",
+          "url": "https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "No Signal",
+      "url": "https://open.spotify.com/track/31dGwnWoxj5qtfQcEUliKU"
+    },
+    {
+      "added_at": "2026-04-08 07:30:05",
+      "album": {
+        "name": "Fan",
+        "url": "https://open.spotify.com/album/72cGaO9y005Rgde8zhDh1d"
+      },
+      "artists": [
+        {
+          "name": "Mankirat Randhawa",
+          "url": "https://open.spotify.com/artist/2nC4T3Fw6vY2VwXCMCJsBk"
+        },
+        {
+          "name": "DHXXMI",
+          "url": "https://open.spotify.com/artist/2faClnVMiEGl5SDa0FkrZ0"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Fan",
+      "url": "https://open.spotify.com/track/5qqtPWQvQyf3kaebMlAaT6"
+    },
+    {
+      "added_at": "2026-04-08 07:30:05",
+      "album": {
+        "name": "Nakhre",
+        "url": "https://open.spotify.com/album/4NGD6QPC311L4NPjVX5ky5"
+      },
+      "artists": [
+        {
+          "name": "Prince 047",
+          "url": "https://open.spotify.com/artist/7DgAHrFZo6Fw4MPfhwBbvo"
+        },
+        {
+          "name": "Jot Lail",
+          "url": "https://open.spotify.com/artist/2AjqNeAHsjeT7ouNlzMGlR"
+        }
+      ],
+      "duration_ms": 178511,
+      "name": "Nakhre",
+      "url": "https://open.spotify.com/track/4CrLCmOdAlXxppRySlsRvD"
+    },
     {
       "added_at": "2026-04-01 07:30:01",
       "album": {
@@ -835,74 +931,6 @@
     {
       "added_at": "2026-03-25 07:28:39",
       "album": {
-        "name": "Long Distance",
-        "url": "https://open.spotify.com/album/5JjUFbkyX4EwhBqqLkXnoU"
-      },
-      "artists": [
-        {
-          "name": "JOLLY BOI",
-          "url": "https://open.spotify.com/artist/6ZGzbykuzOGU4k2FNWOMqM"
-        },
-        {
-          "name": "Dark Soul Studioz",
-          "url": "https://open.spotify.com/artist/3EZPIndtuKArWIo9IgLMwg"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Long Distance",
-      "url": "https://open.spotify.com/track/0JMvXYOYpp00DVRsLhztjs"
-    },
-    {
-      "added_at": "2026-03-25 07:28:39",
-      "album": {
-        "name": "Hor Koi Na",
-        "url": "https://open.spotify.com/album/69T2CwKBqtKchlOqGdJ5X6"
-      },
-      "artists": [
-        {
-          "name": "ZAYL",
-          "url": "https://open.spotify.com/artist/1PI7HPN94FTYkS7cpGl9Ck"
-        },
-        {
-          "name": "Danny",
-          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
-        },
-        {
-          "name": "Suyash",
-          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
-        }
-      ],
-      "duration_ms": 137553,
-      "name": "Hor Koi Na",
-      "url": "https://open.spotify.com/track/23SktBfcrSzyEzGFFW8vow"
-    },
-    {
-      "added_at": "2026-03-25 07:28:39",
-      "album": {
-        "name": "Tere Hi Naal",
-        "url": "https://open.spotify.com/album/3t5SV8XU8nn1wfmdZaiz0Q"
-      },
-      "artists": [
-        {
-          "name": "Juhi Rai",
-          "url": "https://open.spotify.com/artist/2ZHEt5pbr89WP6P2Jar9al"
-        },
-        {
-          "name": "Leo Rana",
-          "url": "https://open.spotify.com/artist/3tAjZSorMLv8rskQQy0DLu"
-        },
-        {
-          "name": "Legacy",
-          "url": "https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "Tere Hi Naal",
-      "url": "https://open.spotify.com/track/1JXJBil223CD6kfgyqZI7a"
-    },
-    {
-      "added_at": "2026-03-25 07:28:39",
-      "album": {
         "name": "Taiyaar Sajna",
         "url": "https://open.spotify.com/album/6qVQrhodnP1qHixAzt2n1K"
       },
@@ -923,26 +951,6 @@
       "duration_ms": 174857,
       "name": "Taiyaar Sajna",
       "url": "https://open.spotify.com/track/03CvyEB1RZGKfFXhHd9PXc"
-    },
-    {
-      "added_at": "2026-03-25 07:28:39",
-      "album": {
-        "name": "Sohni Lagdi",
-        "url": "https://open.spotify.com/album/0EVDMHjAWwSGpXpcdsTc30"
-      },
-      "artists": [
-        {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ"
-        },
-        {
-          "name": "Tanya",
-          "url": "https://open.spotify.com/artist/1qWw0cSg9XvtAPTh8b6PuO"
-        }
-      ],
-      "duration_ms": 182785,
-      "name": "Sohni Lagdi",
-      "url": "https://open.spotify.com/track/7lzxmnkYtILQ0gcGhoH9i3"
     },
     {
       "added_at": "2026-03-25 07:28:39",
@@ -979,26 +987,6 @@
       "duration_ms": 179393,
       "name": "Dixie Road",
       "url": "https://open.spotify.com/track/7qmxsQYEl8CB9IizxE7iF0"
-    },
-    {
-      "added_at": "2026-03-25 07:28:39",
-      "album": {
-        "name": "Jaadu Kareya (Piano Version)",
-        "url": "https://open.spotify.com/album/2K3GuyI81ZMPAaVF7KnfR2"
-      },
-      "artists": [
-        {
-          "name": "Sawan Jhinjhania",
-          "url": "https://open.spotify.com/artist/4wdJaGrLfbWXtRVGxzDecF"
-        },
-        {
-          "name": "Vicky Saini",
-          "url": "https://open.spotify.com/artist/5hXzETRFqkHNvz8XF4uz9p"
-        }
-      ],
-      "duration_ms": 166648,
-      "name": "Jaadu Kareya (Piano Version)",
-      "url": "https://open.spotify.com/track/7z5apCKXUgXto6avlHoVNc"
     },
     {
       "added_at": "2026-03-25 07:28:39",

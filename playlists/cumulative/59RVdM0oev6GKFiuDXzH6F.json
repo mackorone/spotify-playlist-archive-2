@@ -6753,6 +6753,24 @@
     },
     {
       "album": {
+        "name": "Get Naughty",
+        "url": "https://open.spotify.com/album/3wKs5OkaYvLzEpwhikR50z"
+      },
+      "artists": [
+        {
+          "name": "Erisson",
+          "url": "https://open.spotify.com/artist/1yHGctnsBB6v3taOqQJCFk"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Get Naughty",
+      "url": "https://open.spotify.com/track/2D1HSXrCtNgVuUd2MmP2zg"
+    },
+    {
+      "album": {
         "name": "Get Real High",
         "url": "https://open.spotify.com/album/44Aa6OmcMPoRwSuMeILj6p"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 256317,
+  "num_followers": 256344,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-03-20 08:38:10",
       "album": {
+        "name": "Like I Do",
+        "url": "https://open.spotify.com/album/6RuRTsKl4067TT0a1cBrEA"
+      },
+      "artists": [
+        {
+          "name": "Hyzteria",
+          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
+        }
+      ],
+      "duration_ms": 158185,
+      "name": "Like I Do",
+      "url": "https://open.spotify.com/track/2C3hYcZLLDBD3FykbvgZ6o"
+    },
+    {
+      "added_at": "2026-03-20 08:38:10",
+      "album": {
         "name": "Hide U",
         "url": "https://open.spotify.com/album/1M1V1AUFqCvUMqREoveuAG"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 228099,
       "name": "Hide U",
       "url": "https://open.spotify.com/track/4V5CI7i0zZJxXUgwzfjuDI"
-    },
-    {
-      "added_at": "2026-03-20 08:38:10",
-      "album": {
-        "name": "Like I Do",
-        "url": "https://open.spotify.com/album/6RuRTsKl4067TT0a1cBrEA"
-      },
-      "artists": [
-        {
-          "name": "Hyzteria",
-          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
-        }
-      ],
-      "duration_ms": 158185,
-      "name": "Like I Do",
-      "url": "https://open.spotify.com/track/2C3hYcZLLDBD3FykbvgZ6o"
     },
     {
       "added_at": "2026-03-20 08:38:10",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-03-20 08:38:10",
       "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Darla Jade",
-          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
-        }
-      ],
-      "duration_ms": 187283,
-      "name": "Lighter",
-      "url": "https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO"
-    },
-    {
-      "added_at": "2026-03-20 08:38:10",
-      "album": {
         "name": "The Underground",
         "url": "https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 206890,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"
+    },
+    {
+      "added_at": "2026-03-20 08:38:10",
+      "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "duration_ms": 187283,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO"
     },
     {
       "added_at": "2026-03-20 08:38:10",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-03-20 08:38:10",
       "album": {
+        "name": "Keep Dancing",
+        "url": "https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG"
+      },
+      "artists": [
+        {
+          "name": "heylucas",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        },
+        {
+          "name": "Lily Denning",
+          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Keep Dancing",
+      "url": "https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP"
+    },
+    {
+      "added_at": "2026-03-20 08:38:10",
+      "album": {
         "name": "Welcome To My World",
         "url": "https://open.spotify.com/album/0g85Ir9Nj7RWzQFJHU5cAe"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 218617,
       "name": "Tales From Beyond",
       "url": "https://open.spotify.com/track/2PZdZJCcKJ82mXN90CGGz0"
-    },
-    {
-      "added_at": "2026-03-20 08:38:10",
-      "album": {
-        "name": "Keep Dancing",
-        "url": "https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG"
-      },
-      "artists": [
-        {
-          "name": "heylucas",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
-        },
-        {
-          "name": "Lily Denning",
-          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Keep Dancing",
-      "url": "https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP"
     },
     {
       "added_at": "2026-03-20 08:38:10",
@@ -1183,22 +1183,26 @@
     {
       "added_at": "2026-03-20 08:38:10",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
         },
         {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
         }
       ],
-      "duration_ms": 244391,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
+      "duration_ms": 258644,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
     }
   ],
   "unique_name": "Melodic & Euphoric",

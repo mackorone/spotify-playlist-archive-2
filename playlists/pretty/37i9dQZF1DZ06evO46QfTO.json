@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75219,
+  "num_followers": 75218,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAAAoONxkLUz2Lk1ZU9CrARqA",
+  "snapshot_id": "adRJAAAAAABs4V/HEdh4mEOmNiEm0Dax",
   "tracks": [
     {
       "added_at": null,
@@ -979,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D R E A M S I C L E (deluxe)",
+        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "cry in the car",
+      "url": "https://open.spotify.com/track/3b24OkUhLiDAG7EZWJ7sJY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D R E A M S I C L E",
         "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 197215,
       "name": "Better Than We Found It",
       "url": "https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D R E A M S I C L E (deluxe)",
-        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "cry in the car",
-      "url": "https://open.spotify.com/track/3b24OkUhLiDAG7EZWJ7sJY"
     }
   ],
   "unique_name": "This Is Maren Morris",

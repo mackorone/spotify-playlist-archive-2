@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 187611,
       "name": "5 In De Klok",
       "url": "https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG"
@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Gevangenis",
+        "url": "https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164305,
+      "name": "Gevangenis",
+      "url": "https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL"
+    },
+    {
+      "album": {
         "name": "Gina",
         "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
       },
@@ -744,7 +762,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 132274,
       "name": "Hallo",
       "url": "https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 131796,
       "name": "Sugardaddy",
       "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
@@ -1968,6 +1986,28 @@
       "duration_ms": 209600,
       "name": "Uit M'n Bol",
       "url": "https://open.spotify.com/track/0uCGho2Tyzcq3vTKerkWiQ"
+    },
+    {
+      "album": {
+        "name": "Van Brabant naar Bordeaux",
+        "url": "https://open.spotify.com/album/3tAR71Sp3TMaRyksREFpl6"
+      },
+      "artists": [
+        {
+          "name": "Frans Bauer",
+          "url": "https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW"
+        },
+        {
+          "name": "Kafke",
+          "url": "https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182382,
+      "name": "Van Brabant naar Bordeaux",
+      "url": "https://open.spotify.com/track/6jSvbOJNCvgeTBQS0LVlRk"
     },
     {
       "album": {
@@ -2126,6 +2166,28 @@
       "duration_ms": 226000,
       "name": "Vrijgezel",
       "url": "https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr"
+    },
+    {
+      "album": {
+        "name": "Waar Blijf Je Nou",
+        "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178432,
+      "name": "Waar Blijf Je Nou",
+      "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
     },
     {
       "album": {

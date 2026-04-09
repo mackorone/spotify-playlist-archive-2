@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 6962,
+  "num_followers": 6964,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAAAlmQ2gJ8qpsK+1uKMG79Nv",
+  "snapshot_id": "adRJAAAAAADhrHo+JcmZYFgBgbHQwdkN",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 230517,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/4eQ7eb2swQY6RobsmwmqsH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Ride",
         "url": "https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 221400,
       "name": "Wild Ride",
       "url": "https://open.spotify.com/track/41X89JT5axSqQYozs2op40"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 230517,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/4eQ7eb2swQY6RobsmwmqsH"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUR&",
-        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Relocate",
-      "url": "https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humo en la Trampa 3",
         "url": "https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 161929,
       "name": "Get Paid (feat. Durand Bernarr)",
       "url": "https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUR&",
+        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Relocate",
+      "url": "https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 171460,
+      "name": "Processing...",
+      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DUR&",
         "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 171460,
-      "name": "Processing...",
-      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sound Check",
         "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 213275,
-      "name": "Around",
-      "url": "https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4"
+      "duration_ms": 238000,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 173605,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Route",
         "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 173605,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sound Check",
         "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ"
+      "duration_ms": 213275,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 196582,
+      "name": "Hangin'",
+      "url": "https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alone Again",
         "url": "https://open.spotify.com/album/7fpCTI1h9vyPGzrCGAjKrf"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 205007,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/0Wk0GJno9JUtFpRRG1RpId"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 196582,
-      "name": "Hangin'",
-      "url": "https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae"
     },
     {
       "added_at": null,

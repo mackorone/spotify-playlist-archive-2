@@ -22259,6 +22259,28 @@
     },
     {
       "album": {
+        "name": "Prelude To A Kiss",
+        "url": "https://open.spotify.com/album/1Oq86wfztU3dBR2YFW7Qb1"
+      },
+      "artists": [
+        {
+          "name": "Ari Alexander",
+          "url": "https://open.spotify.com/artist/5TUPHEJx8yYHZvPg80482h"
+        },
+        {
+          "name": "Cecil Alexander",
+          "url": "https://open.spotify.com/artist/42oLcqYpvwyPY5BZO6oqfa"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210246,
+      "name": "Prelude To A Kiss",
+      "url": "https://open.spotify.com/track/5pLEYr7fOqi0My5ldsmX6v"
+    },
+    {
+      "album": {
         "name": "Cinematic Chromatics Vol. I",
         "url": "https://open.spotify.com/album/3yVLJzIPeXDArX0ik2pTBz"
       },
@@ -29092,7 +29114,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 367677,
       "name": "The Teacher - Revisited",
       "url": "https://open.spotify.com/track/5LdWK4c9Zu5R5VI8yAK14x"

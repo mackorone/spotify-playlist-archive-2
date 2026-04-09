@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,604 likes - 156 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,605 likes - 157 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,16 +153,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 143 | [Need to Know](https://open.spotify.com/track/0476QBUmuCw9RREzcqnNES) | [Count Bass D](https://open.spotify.com/artist/3P1ULKxhVEpywj0hogWT44), [Retrogott](https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll) | [The Count in Cologne](https://open.spotify.com/album/79hsQDmsHePmpPOiT32n83) | 2:59 |
 | 144 | [Awake](https://open.spotify.com/track/5lUfKyFUmWfIbrGjCpiFno) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 4:37 |
 | 145 | [Tom Edison](https://open.spotify.com/track/07V9RLJZnKZsGTgUtSUWrC) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:32 |
-| 146 | [Benjamin](https://open.spotify.com/track/5U3Tr6FXNvnFVzpl9mYStN) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 3:41 |
-| 147 | [Cadillac Christmas](https://open.spotify.com/track/0jltHrhWOhI5op9rgGmhgk) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:31 |
-| 148 | [U vs\. Me](https://open.spotify.com/track/5pBaBusnt3TlilvgQ2iXDA) | [Ashley Loren](https://open.spotify.com/artist/0nfs9fHoZi8sD5Wc8iJzRP) | [U vs\. Me](https://open.spotify.com/album/3fBZEmbujje5C9T70QitjI) | 4:08 |
-| 149 | [I'm The One \(Jingle Bells\)](https://open.spotify.com/track/1JgCZJT9mhWcZkerQVuRXY) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:56 |
-| 150 | [Christmas in Hollywood](https://open.spotify.com/track/0ovd1Hjlnd1jUyMINunnKi) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:59 |
-| 151 | [Nickels & Dimes](https://open.spotify.com/track/3rhgfQsqBYo22yw2mCGskJ) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 5:22 |
-| 152 | [Home](https://open.spotify.com/track/1axwzLgo9Iwn0Yf336Jj4T) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 2:56 |
-| 153 | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/63S7ixo9OYf1VLCRjGoBWI) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/4rKCnoYMhbRTdsaIxjjh7K) | 3:41 |
-| 154 | [These Lines](https://open.spotify.com/track/77VAC8qvK8KMdW3rwUrApo) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 4:41 |
-| 155 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
-| 156 | [Falling In Love](https://open.spotify.com/track/0zzqjHe6CUudt5UzKgS95v) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Retrospect](https://open.spotify.com/album/3W28uUSJbOrzH3WDbgSWX3) | 3:02 |
+| 146 | [It's a Celebration Every Time It Snows](https://open.spotify.com/track/5ZeCeE78uPgNKOrHISLVN4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:56 |
+| 147 | [Benjamin](https://open.spotify.com/track/5U3Tr6FXNvnFVzpl9mYStN) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 3:41 |
+| 148 | [Cadillac Christmas](https://open.spotify.com/track/0jltHrhWOhI5op9rgGmhgk) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:31 |
+| 149 | [U vs\. Me](https://open.spotify.com/track/5pBaBusnt3TlilvgQ2iXDA) | [Ashley Loren](https://open.spotify.com/artist/0nfs9fHoZi8sD5Wc8iJzRP) | [U vs\. Me](https://open.spotify.com/album/3fBZEmbujje5C9T70QitjI) | 4:08 |
+| 150 | [I'm The One \(Jingle Bells\)](https://open.spotify.com/track/1JgCZJT9mhWcZkerQVuRXY) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:56 |
+| 151 | [Christmas in Hollywood](https://open.spotify.com/track/0ovd1Hjlnd1jUyMINunnKi) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:59 |
+| 152 | [Nickels & Dimes](https://open.spotify.com/track/3rhgfQsqBYo22yw2mCGskJ) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 5:22 |
+| 153 | [Home](https://open.spotify.com/track/1axwzLgo9Iwn0Yf336Jj4T) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 2:56 |
+| 154 | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/63S7ixo9OYf1VLCRjGoBWI) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/4rKCnoYMhbRTdsaIxjjh7K) | 3:41 |
+| 155 | [These Lines](https://open.spotify.com/track/77VAC8qvK8KMdW3rwUrApo) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 4:41 |
+| 156 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
+| 157 | [Falling In Love](https://open.spotify.com/track/0zzqjHe6CUudt5UzKgS95v) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Retrospect](https://open.spotify.com/album/3W28uUSJbOrzH3WDbgSWX3) | 3:02 |
 
-Snapshot ID: `AcOQCgAAAACzHCMS+UU5ZiCWh2pZGxfq`
+Snapshot ID: `AcOVqgAAAAA1K0O+BCO4XzvxvRuaqkHM`

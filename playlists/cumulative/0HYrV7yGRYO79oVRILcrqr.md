@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-418 songs - 1 day 2 hr 8 min
+419 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [9/11 Dinamite](https://open.spotify.com/track/2ZfSQw1PBEyBt3YQZgZPEV) | [Italiani Medi](https://open.spotify.com/artist/6pDVMmLAVZr7n3249bB34G) | [Pasta con l'Odio](https://open.spotify.com/album/0z20JFHPazYmTBBeP5bMXP) | 3:08 | 2025-10-22 | 2025-11-28 |
 | [A Candle's Night](https://open.spotify.com/track/5SOKQmZoBsA4SaLKfntmE5) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [Dreamscape Odyssey](https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD) | 4:39 | 2026-03-31 |  |
 | [A favor del viento](https://open.spotify.com/track/3E5NnbloyZmsuLoP5tUqxF) | [P.R.O.A.](https://open.spotify.com/artist/6cMptGtvHkjH88qP0s57eO) | [A favor del viento](https://open.spotify.com/album/1l6vAcGBQETIZqsUNmaP7C) | 5:30 | 2025-09-25 | 2025-12-17 |
+| [A long road](https://open.spotify.com/track/6ObvonMRMfLmq8zMrNr1JJ) | [Sly Chic](https://open.spotify.com/artist/6qyCwtkYGE0XzZKd2eIrcs) | [A long road](https://open.spotify.com/album/5M65i3FVZWLclVqrIIvX9w) | 3:08 | 2026-04-08 |  |
 | [A Need For Speed](https://open.spotify.com/track/7fjXIJeA3gxuZVJuGQT5Vs) | [Thomas Blug](https://open.spotify.com/artist/5u06pLBt7EpsyZRi2BcV44), [Martin Engelien](https://open.spotify.com/artist/1dQhTNS8uFmj2GfDCHQ7Iq), [Ben Granfelt](https://open.spotify.com/artist/43cECndNaXkIuR3VnHss5e) | [A Need For Speed](https://open.spotify.com/album/5y32mI5YjygYOgCtHiVuGQ) | 3:30 | 2025-09-22 | 2025-12-17 |
 | [A ralentí](https://open.spotify.com/track/5d9ZbyfXEKs5lErqOH23M8) | [Luis Mera Lucky](https://open.spotify.com/artist/629odbW6ae9N0hHdmtwbpP) | [Sereno y aislado \(El viaje del pirata\)](https://open.spotify.com/album/6UeRvfX3oTwQ5Z7i3b7Cw3) | 3:48 | 2025-12-08 |  |
 | [A tutti i Costi](https://open.spotify.com/track/3xLZkXAHPDbntmFG4XjD9v) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [A tutti i Costi](https://open.spotify.com/album/3FlJOwFJ9UvX9fJNI6xykJ) | 3:27 | 2025-11-28 | 2025-12-17 |

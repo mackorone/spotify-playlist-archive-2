@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 62829,
+  "num_followers": 62865,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAACONmMnUg4fci51drXR+cOg",
+  "snapshot_id": "adRJAAAAAADJruPpu4ve7VBcXTHY02cQ",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Sagrado",
-        "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5L5R2hZwnVfJxegcskK5n6"
       },
       "artists": [
         {
           "name": "Silvana Estrada",
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
         }
       ],
-      "duration_ms": 198256,
-      "name": "Detesto En M\u00ed",
-      "url": "https://open.spotify.com/track/2V0qhsDoHYh5ugZ4FBXE8T"
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/5hPCcl7zLURnhKU1myysEq"
     },
     {
       "added_at": null,
@@ -415,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5L5R2hZwnVfJxegcskK5n6"
+        "name": "Lo Sagrado",
+        "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
       },
       "artists": [
         {
           "name": "Silvana Estrada",
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/5hPCcl7zLURnhKU1myysEq"
+      "duration_ms": 198256,
+      "name": "Detesto En M\u00ed",
+      "url": "https://open.spotify.com/track/2V0qhsDoHYh5ugZ4FBXE8T"
     },
     {
       "added_at": null,

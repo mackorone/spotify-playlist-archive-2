@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. Arkangel Musical de Tierra Caliente en portada. ",
-  "num_followers": 92419,
+  "num_followers": 92470,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Que Chulada!",
-        "url": "https://open.spotify.com/album/5HbkR6gBd0qRHIu1aHiH0R"
+        "name": "Esperando Tu Llamada",
+        "url": "https://open.spotify.com/album/3oDGzlvfKUsJ0NQpV8cAXj"
       },
       "artists": [
         {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 163506,
-      "name": "Que Chulos Ojos",
-      "url": "https://open.spotify.com/track/7llQO7QxIJ2C9H02w4Dwjv"
+      "duration_ms": 174066,
+      "name": "Brebaje",
+      "url": "https://open.spotify.com/track/3w3xwSJe6GhgqTfbVGhBbv"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -331,8 +331,24 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Esperando Tu Llamada",
-        "url": "https://open.spotify.com/album/3oDGzlvfKUsJ0NQpV8cAXj"
+        "name": "Que Chulada!",
+        "url": "https://open.spotify.com/album/5HbkR6gBd0qRHIu1aHiH0R"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Que Chulos Ojos",
+      "url": "https://open.spotify.com/track/7llQO7QxIJ2C9H02w4Dwjv"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "Morenita Labios Rojos",
+        "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
       },
       "artists": [
         {
@@ -340,25 +356,9 @@
           "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 174066,
-      "name": "Brebaje",
-      "url": "https://open.spotify.com/track/3w3xwSJe6GhgqTfbVGhBbv"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
-        "name": "18 Kilates",
-        "url": "https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 190544,
-      "name": "Veinte Mujeres de Negro",
-      "url": "https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6"
+      "duration_ms": 179146,
+      "name": "Soy Para Ti",
+      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "El Amor de Tu Vida",
-        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
+        "name": "18 Kilates",
+        "url": "https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h"
       },
       "artists": [
         {
-          "name": "Triny La Leyenda",
-          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
         }
       ],
-      "duration_ms": 278866,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
+      "duration_ms": 190544,
+      "name": "Veinte Mujeres de Negro",
+      "url": "https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
+        "name": "El Amor de Tu Vida",
+        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
+      },
+      "artists": [
+        {
+          "name": "Triny La Leyenda",
+          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
         "name": "Morenita Labios Rojos",
         "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
       },
@@ -424,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 179146,
-      "name": "Soy Para Ti",
-      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
+      "duration_ms": 128333,
+      "name": "Morenita Labios Rojos",
+      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -495,22 +511,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Morenita Labios Rojos",
-        "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 128333,
-      "name": "Morenita Labios Rojos",
-      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Eres Mi \u00c1ngel",
-        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Hermosa Tierra Caliente",
-      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "El Amor de Tu Vida",
         "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 205333,
       "name": "Dile",
       "url": "https://open.spotify.com/track/0RZ352rB5tBZ0Oepsu7ubJ"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "Eres Mi \u00c1ngel",
+        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Hermosa Tierra Caliente",
+      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
+        "name": "Inspirados por Ti",
+        "url": "https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb"
+      },
+      "artists": [
+        {
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
+        }
+      ],
+      "duration_ms": 256671,
+      "name": "La Ultima Copa",
+      "url": "https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
         "name": "Los De Tierra Caliente (En Vivo)",
         "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 1191237,
       "name": "Flor De Lim\u00f3n / Te Llegar\u00e1 Mi Olvido / Pobre Bohemio / Beso A Beso / Tierra Mala / El Caminante (En Vivo)",
       "url": "https://open.spotify.com/track/0rvBiev8PnkB3lwnFLmRuI"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
-        "name": "Inspirados por Ti",
-        "url": "https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb"
-      },
-      "artists": [
-        {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
-        }
-      ],
-      "duration_ms": 256671,
-      "name": "La Ultima Copa",
-      "url": "https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
+        "name": "Los Huaches En Vivo 2013",
+        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
+      },
+      "artists": [
+        {
+          "name": "Los Huaches De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
+        }
+      ],
+      "duration_ms": 276853,
+      "name": "Coyuca De Catalan (Zapateado)",
+      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
         "name": "La Luz de Tus Ojos / Cuesti\u00f3n Olvidada",
         "url": "https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Los Huaches En Vivo 2013",
-        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
+        "name": "Con Cartitas y Palabras",
+        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
       },
       "artists": [
         {
-          "name": "Los Huaches De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
+          "name": "Gabino y su Banda Chica",
+          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
         }
       ],
-      "duration_ms": 276853,
-      "name": "Coyuca De Catalan (Zapateado)",
-      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
+      "duration_ms": 145124,
+      "name": "Con Cartitas y Palabras",
+      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1075,22 +1091,6 @@
       "duration_ms": 200936,
       "name": "El Potosino y El Cocho",
       "url": "https://open.spotify.com/track/627QWPTPkNwbOwso8RnBem"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
-        "name": "Con Cartitas y Palabras",
-        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
-      },
-      "artists": [
-        {
-          "name": "Gabino y su Banda Chica",
-          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
-        }
-      ],
-      "duration_ms": 145124,
-      "name": "Con Cartitas y Palabras",
-      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
-      },
-      "artists": [
-        {
-          "name": "Martin Solis Y Su Grupo Inborrable",
-          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Preso Me Llevan",
-      "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "Exitos de La Victoria de Mexico: Volume 1",
         "url": "https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 169466,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
+      },
+      "artists": [
+        {
+          "name": "Martin Solis Y Su Grupo Inborrable",
+          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Preso Me Llevan",
+      "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Guerra De Corridos",
-        "url": "https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG"
+        "name": "Como Diablos Te Olvido",
+        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
       },
       "artists": [
         {
-          "name": "Banda Roja",
-          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
         }
       ],
-      "duration_ms": 152466,
-      "name": "Mis Errores Pagando",
-      "url": "https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS"
+      "duration_ms": 174706,
+      "name": "Vida de Rancho (Zapateado)",
+      "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Como Diablos Te Olvido",
-        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
+        "name": "Guerra De Corridos",
+        "url": "https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG"
       },
       "artists": [
         {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
+          "name": "Banda Roja",
+          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
         }
       ],
-      "duration_ms": 174706,
-      "name": "Vida de Rancho (Zapateado)",
-      "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
+      "duration_ms": 152466,
+      "name": "Mis Errores Pagando",
+      "url": "https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Se Equivoco Tu Corazon",
-        "url": "https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb"
-      },
-      "artists": [
-        {
-          "name": "La Marka",
-          "url": "https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "Lo Descubri En Tus Brazos",
-      "url": "https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "El Arroyito (Los Creadores del Sacadito)",
         "url": "https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 174400,
       "name": "Ya Est\u00e1n Cantando los Gallos",
       "url": "https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "Se Equivoco Tu Corazon",
+        "url": "https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb"
+      },
+      "artists": [
+        {
+          "name": "La Marka",
+          "url": "https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "Lo Descubri En Tus Brazos",
+      "url": "https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
-      },
-      "artists": [
-        {
-          "name": "Banda Roja",
-          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
-        }
-      ],
-      "duration_ms": 230706,
-      "name": "Aunque Est\u00e9s Lejos De M\u00ed",
-      "url": "https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 165305,
       "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
+      },
+      "artists": [
+        {
+          "name": "Banda Roja",
+          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "Aunque Est\u00e9s Lejos De M\u00ed",
+      "url": "https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
-      },
-      "artists": [
-        {
-          "name": "Banda Roja",
-          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
-        }
-      ],
-      "duration_ms": 163640,
-      "name": "Cuanto Te Quiero",
-      "url": "https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "El Nudo (Parangaricutirimicuaro)",
         "url": "https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 145697,
       "name": "El Nudo (Parangaricutirimicuaro)",
       "url": "https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
+      },
+      "artists": [
+        {
+          "name": "Banda Roja",
+          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "Cuanto Te Quiero",
+      "url": "https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD"
     },
     {
       "added_at": "2026-03-27 06:00:15",

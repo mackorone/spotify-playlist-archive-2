@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9135,
+  "num_followers": 9136,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAABvUzWhYOwr/zg5N6CBGDAP",
+  "snapshot_id": "adRJAAAAAABkaCvPxELrlKxVz7PlZlnu",
   "tracks": [
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face Card",
-        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
-      },
-      "artists": [
-        {
-          "name": "Mc Soffia",
-          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Face Card",
-      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 aqui, Slip nos ajudou",
         "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 140108,
       "name": "Eu Gosto",
       "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face Card",
+        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Face Card",
+      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
     },
     {
       "added_at": null,
@@ -659,34 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipmami On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/6frAHNzX2l0rZuiq9HG3Lz"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        },
-        {
-          "name": "OG Bahia",
-          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
-        }
-      ],
-      "duration_ms": 76363,
-      "name": "Slipmami On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/5nKndDZkMVKB5lSAHRX1mz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 aqui, Slip nos ajudou",
         "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
       },
@@ -723,6 +695,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slipmami On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/6frAHNzX2l0rZuiq9HG3Lz"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        },
+        {
+          "name": "OG Bahia",
+          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
+        }
+      ],
+      "duration_ms": 76363,
+      "name": "Slipmami On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/5nKndDZkMVKB5lSAHRX1mz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slipmami On The Radar Freestyle Pt. 2",
         "url": "https://open.spotify.com/album/6xZSYwLGujgmf7kHIUzNhM"
       },
@@ -743,26 +743,6 @@
       "duration_ms": 160645,
       "name": "Slipmami On The Radar Freestyle Pt. 2",
       "url": "https://open.spotify.com/track/5BZhhKdfLRCeZMD2rrGgb5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gostosa Posturada",
-        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Rainha do Vinho",
-      "url": "https://open.spotify.com/track/45uCTNJhmdGkU36vKPTXjX"
     },
     {
       "added_at": null,
@@ -811,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gostosa Posturada",
+        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Rainha do Vinho",
+      "url": "https://open.spotify.com/track/45uCTNJhmdGkU36vKPTXjX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DI\u00c1RIO DE UMA GAROTA SUBVERSIVA",
         "url": "https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 141742,
       "name": "HISTERIA",
       "url": "https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moranguinho",
-        "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 114465,
-      "name": "Moranguinho",
-      "url": "https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy"
     },
     {
       "added_at": null,
@@ -899,6 +883,22 @@
       "duration_ms": 233357,
       "name": "Set Btrem - As Minas do Rio",
       "url": "https://open.spotify.com/track/1FLx838ihRkUoYGncP31fz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moranguinho",
+        "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 114465,
+      "name": "Moranguinho",
+      "url": "https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy"
     },
     {
       "added_at": null,

@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Destroying Is Easy",
+        "url": "https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w"
+      },
+      "artists": [
+        {
+          "name": "Mat Partridge",
+          "url": "https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295906,
+      "name": "Copies",
+      "url": "https://open.spotify.com/track/3ZfXF6vUNS9229TSoNXUCA"
+    },
+    {
+      "album": {
         "name": "Crash Out",
         "url": "https://open.spotify.com/album/1JbvNRdQMbIdaOOyTwF3oA"
       },
@@ -1310,6 +1328,24 @@
       "duration_ms": 220211,
       "name": "Open Mind - Radio Edit",
       "url": "https://open.spotify.com/track/1Th8P3kgdtBbjkrkUmLRfY"
+    },
+    {
+      "album": {
+        "name": "Pancakes",
+        "url": "https://open.spotify.com/album/2rwC62yt7guLH8WAMGqNeg"
+      },
+      "artists": [
+        {
+          "name": "Sunday Lemonade",
+          "url": "https://open.spotify.com/artist/7fTdpGoJdp9BPY5Mdo82vj"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242752,
+      "name": "Pancakes",
+      "url": "https://open.spotify.com/track/5BRqccEaTPHXI0zAzp8Hqr"
     },
     {
       "album": {

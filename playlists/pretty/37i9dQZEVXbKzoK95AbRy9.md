@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,795 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,782 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 13 | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9), [Dj Andrabeat](https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C) | [MIXTAPE \- BIG G](https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3) | 2:57 |
 | 14 | [Hooligan](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:02 |
 | 15 | [Eu Me Apaixonei](https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Eu Me Apaixonei](https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA) | 3:25 |
-| 16 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/4y93vvzu2h8MITw7YyUTcI) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 |
+| 16 | [Última Saudade \(Ao Vivo\)](https://open.spotify.com/track/1tmD4Xpd1YNSGCG5AYqHDk) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4Mq8pVxLgoSIUGVp6dgYF8) | 2:30 |
 | 17 | [Ignora \(Ao Vivo\)](https://open.spotify.com/track/7dNXSf4lS30n1lBfFavQK5) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Velhos Hábitos, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L) | 2:59 |
 | 18 | [SET DO JAPA NK 2.0](https://open.spotify.com/track/1JZDwJgE9VSC0V2GR66z63) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [SET DO JAPA NK 2.0](https://open.spotify.com/album/0IJNesGOY68YOquXRgGENh) | 8:38 |
 | 19 | [Cheiro De Culpado \- Ao Vivo](https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Cheiro De Culpado \(Ao Vivo\)](https://open.spotify.com/album/3hYI6LURMi5rdYRn9slfn6) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [10 SEGUNDOS](https://open.spotify.com/track/48SYVECjCIwWWsqogDHWVF) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [10 SEGUNDOS](https://open.spotify.com/album/1Y4VDN6EZjy7dCBdixGHdl) | 2:34 |
 | 50 | [Apaga Apaga Apaga \- Ao Vivo](https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Toma Essa Verdade \(Ao Vivo\)](https://open.spotify.com/album/6vour1AXVo2RNRspJQjQoV) | 2:58 |
 
-Snapshot ID: `MWhsGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MWm9mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

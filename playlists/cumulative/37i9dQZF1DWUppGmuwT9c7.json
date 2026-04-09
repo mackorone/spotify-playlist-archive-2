@@ -397,6 +397,40 @@
     },
     {
       "album": {
+        "name": "BBL",
+        "url": "https://open.spotify.com/album/5L3C8nCw6eXzm5MvDA4Que"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        },
+        {
+          "name": "De Voorhoede",
+          "url": "https://open.spotify.com/artist/30P6li7INhXvV1XIPKlMBU"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "BBL",
+      "url": "https://open.spotify.com/track/3VvgwTBOtDPylEZHtPvBuz"
+    },
+    {
+      "album": {
         "name": "Ben Je Verliefd?",
         "url": "https://open.spotify.com/album/52bg2ZQ67d6TXMVg6Tg2uh"
       },
@@ -733,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Deze Nacht",
+        "url": "https://open.spotify.com/album/7MpGGoc3MKotYWfkr0jh5A"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167464,
+      "name": "Deze Nacht",
+      "url": "https://open.spotify.com/track/1xFfN67OYCNDS3yN70IKVd"
+    },
+    {
+      "album": {
         "name": "Diamanten Ring",
         "url": "https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc"
       },
@@ -986,6 +1038,24 @@
       "duration_ms": 171000,
       "name": "Ferry de Roze Flamingo",
       "url": "https://open.spotify.com/track/5CQoqXdZsczvoX7anShh1l"
+    },
+    {
+      "album": {
+        "name": "Fiesta Escalada",
+        "url": "https://open.spotify.com/album/3qEgGuGaHSRlGJhYO8oJu2"
+      },
+      "artists": [
+        {
+          "name": "Effe Serieus",
+          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135376,
+      "name": "Fiesta Escalada",
+      "url": "https://open.spotify.com/track/3qeU6sDU1cjZ0oCEh8YyFe"
     },
     {
       "album": {
@@ -2616,6 +2686,28 @@
       "duration_ms": 192500,
       "name": "Turk Uit De Kroeg",
       "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
+    },
+    {
+      "album": {
+        "name": "Uitslover",
+        "url": "https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        },
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155998,
+      "name": "Uitslover",
+      "url": "https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 304 likes - 2,123 songs - 5 day 5 hr 57 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 304 likes - 2,124 songs - 5 day 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2131,5 +2131,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2121 | [Picturesque](https://open.spotify.com/track/4idYpAc52sDGN48auh8GIz) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Picturesque](https://open.spotify.com/album/4mTZKZ8Ka3JJCCIY3ZHO04) | 4:00 |
 | 2122 | [Tu Alma](https://open.spotify.com/track/0CrlLgCEZMRbgtTshIfgVl) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Alma](https://open.spotify.com/album/1eK1aPMdKhSpW4c2uFGTx9) | 2:50 |
 | 2123 | [Pijane Zombie](https://open.spotify.com/track/0clPKNLv6oNHZcD1D7fZdO) | [PIWO COMPANY](https://open.spotify.com/artist/1RRpA28CRVATyesqmDj8Pz) | [Pijane Zombie](https://open.spotify.com/album/42sdo9NngvHMJCigtLGXFS) | 2:06 |
+| 2124 | [Lágrimas de Chuva](https://open.spotify.com/track/3bSWkB3k3KOOs0Ysz16Ptu) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Lágrimas de Chuva](https://open.spotify.com/album/3pEtVDAPRsBmaCITgCfok2) | 3:34 |
 
-Snapshot ID: `AAAI7weDLNAhbl86izYHxUsGmugRQtGs`
+Snapshot ID: `AAAI8FgNXyVkQyTnjLTfiEq2ROc8jQjh`

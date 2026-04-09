@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Emei
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,052 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,417 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [deja blues](https://open.spotify.com/track/6CzhJJTrQUxbVB4wNf4U1q) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [the nostalgia tapes](https://open.spotify.com/album/3SO3u6dMOH9criZfNzeLmG) | 2:31 |
 | 100 | [I SEE STARS](https://open.spotify.com/track/2MFWjDpYscQjEGa2wbq7F3) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [I SEE STARS](https://open.spotify.com/album/2SCOXLRicTMygItg8Ov5JP) | 2:48 |
 
-Snapshot ID: `AAAAALPEiSM/pQnpKZVDWbNWXHG7bGYB`
+Snapshot ID: `AAAAAFWp3xxY08QCG/b+EVsCyJCQB/S3`

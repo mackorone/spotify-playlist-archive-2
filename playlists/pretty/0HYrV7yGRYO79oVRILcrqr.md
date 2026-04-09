@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,778 likes - 140 songs - 9 hr 6 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,778 likes - 141 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,5 +148,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 138 | [État des lieux](https://open.spotify.com/track/1GQAQBdQoRuOtkFpdQwE7f) | [JESS ROGUE](https://open.spotify.com/artist/0OEZOb0EuhFa48QMKCvwYD) | [État des lieux](https://open.spotify.com/album/0n7aScRjf9Mja14dpTQBM4) | 3:34 |
 | 139 | [Twisted Heart](https://open.spotify.com/track/6tXyqROApirTypxgRWI0OL) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 2:57 |
 | 140 | [Золотом](https://open.spotify.com/track/5WvI8UliUjXmDLudsTwxlN) | [Маша Яблокова](https://open.spotify.com/artist/4sB4FO6pJwDMBwRJC8ntrq) | [Золотом](https://open.spotify.com/album/0Yc22TF8FZ8r8IqtG98LRM) | 3:53 |
+| 141 | [A long road](https://open.spotify.com/track/6ObvonMRMfLmq8zMrNr1JJ) | [Sly Chic](https://open.spotify.com/artist/6qyCwtkYGE0XzZKd2eIrcs) | [A long road](https://open.spotify.com/album/5M65i3FVZWLclVqrIIvX9w) | 3:08 |
 
-Snapshot ID: `AAALB427J9sWjRIOXLgxj3sgmTsyUcGF`
+Snapshot ID: `AAALCBO3NKymVhD3NzzNlXm8pMG8oIrF`

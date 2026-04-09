@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Omah Lay, Mavo,  Didi B, Trafitti, Lekan, Kelvyn Boy  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,512 likes - 54 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,651 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 33 | [What’s Up](https://open.spotify.com/track/14majQVTXSpC2HthtSWd2y) | [DJ K.O](https://open.spotify.com/artist/7yjvFR5JVrthgdUy0Vb0yF), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [What’s Up](https://open.spotify.com/album/1xLRummsukXMPldYeAIVZB) | 1:56 |
 | 34 | [Voodoo](https://open.spotify.com/track/7EoAz17odE257JEOhbHSfq) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Voodoo](https://open.spotify.com/album/3TIkFCdYozvbay67Ripiha) | 2:05 |
 | 35 | [Freedom](https://open.spotify.com/track/61qC0ONB1xNTs37TibITvd) | [Kimati](https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn) | [Freedom](https://open.spotify.com/album/1Cfmn8dWnDQLq0MGCj1SW7) | 3:05 |
-| 36 | [Joy \(feat\. Jux\)](https://open.spotify.com/track/5rdXPdk1QvAeoopHdtPkNF) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Joy \(feat\. Jux\)](https://open.spotify.com/album/3a2w2RtqfDtsZ0fAw9Q9uE) | 3:39 |
+| 36 | [Joy](https://open.spotify.com/track/5rdXPdk1QvAeoopHdtPkNF) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Joy](https://open.spotify.com/album/3a2w2RtqfDtsZ0fAw9Q9uE) | 3:39 |
 | 37 | [Eshi](https://open.spotify.com/track/41vLDgxEXiBLrPzDdadCii) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Eshi](https://open.spotify.com/album/27q36uZ59TRnM3w9q40V4C) | 3:12 |
 | 38 | [The One](https://open.spotify.com/track/27WoJt4YlPzv5OKpzrKnTx) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP), [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE) | [The One](https://open.spotify.com/album/4xyzGToWNHXzs4Buf1hgyN) | 3:50 |
 | 39 | [Forever](https://open.spotify.com/track/4SoitnOKMS23LbdKIirGs7) | [Lucid](https://open.spotify.com/artist/3cjEMTtZxe49tUrhUEwrVZ) | [Forever/German](https://open.spotify.com/album/2NLqhdQqhFPNn49D59Rm9L) | 2:50 |
@@ -52,15 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 42 | [Skii](https://open.spotify.com/track/21uCZlgIzqfLkcgrprkOdQ) | [Olummy Gold](https://open.spotify.com/artist/3mvS33kZdX5VB2wPQsAFpU) | [Perfect Time](https://open.spotify.com/album/3yyg75qcSozJ8joQ6EkFG6) | 2:50 |
 | 43 | [Ma Frasse](https://open.spotify.com/track/2jj9JjGNA0s5jM5IIzFXHq) | [Marioking XXXL](https://open.spotify.com/artist/4EFTG0qBZ4unFS4ovjeNtm) | [Ma Frasse](https://open.spotify.com/album/1fAqJH8lbfB08w8o6Qe95l) | 2:52 |
 | 44 | [Money](https://open.spotify.com/track/1jEFxzaf8WWPcNrmU96gVN) | [Charmaine 'L A](https://open.spotify.com/artist/0XbOSZeNvIJbqZrgdKypsP) | [Money](https://open.spotify.com/album/5tL0Es1QypmSnTCRzx0SPJ) | 2:58 |
-| 45 | [One Chance](https://open.spotify.com/track/738uSGm5K3OPpQyxAtWkbl) | [Vico da sporo](https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd), [Juakeem](https://open.spotify.com/artist/3b68wN3Y9CsuyFbMQTylcQ) | [One Chance](https://open.spotify.com/album/0DEdxNGI0ETJOtsee7bfZd) | 4:08 |
-| 46 | [Sleep On Who](https://open.spotify.com/track/5E8eQ5UUe6g05lwP9SrF0Y) | [Ayo Jaymax](https://open.spotify.com/artist/3pshAFH1TuJc3IXG5ZPQOF), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Easyscope](https://open.spotify.com/artist/1CddlLNu7GtSe08OO4cPdo) | [Sleep On Who](https://open.spotify.com/album/4GaFLboHi3j35OPKwn6fas) | 2:39 |
-| 47 | [CHANGE](https://open.spotify.com/track/2ilviyc5XdaEjBtwj3iHvG) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [CHANGE](https://open.spotify.com/album/5Gwn0C6YaMhqOMIycr43H4) | 2:39 |
-| 48 | [Favorite](https://open.spotify.com/track/4Aw9OJJDJFCbVlVBAb0EdM) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Favorite](https://open.spotify.com/album/7LcNdnjDCwb9SLjDxi2FPP) | 4:19 |
-| 49 | [Home on the Range](https://open.spotify.com/track/4QiWYpCnD5TipN2AycUy2i) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [Home on the Range // Back Home](https://open.spotify.com/album/5FMSAdmLudQYXyLWLfoya7) | 1:37 |
-| 50 | [Nothin Like Me](https://open.spotify.com/track/0Lztp0wEBoch8sPiZxKUi9) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Nothin Like Me](https://open.spotify.com/album/7HHWvtqaJyUfIcnojnZb8v) | 2:12 |
-| 51 | [I Love You Out Loud](https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [I Love You Out Loud](https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M) | 3:33 |
-| 52 | [LOVERGRL](https://open.spotify.com/track/6wA1wI0snn9XNKSWgYbon9) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [LOVERGRL](https://open.spotify.com/album/6Gd9wLXhjDyOPTh7DqbFOO) | 2:33 |
-| 53 | [Zikitam](https://open.spotify.com/track/0oaWtcLLfinD33n9YekqKz) | [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Zikitam](https://open.spotify.com/album/2VXVl5JTSUm8nUsFPtRW93) | 7:22 |
-| 54 | [We 2 Fly](https://open.spotify.com/track/4Ym5QOanjoiNXvWBIOyIh0) | [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2), [S1orDie](https://open.spotify.com/artist/1rxMZxcNgJiXunlNSAq8pY) | [+WE 2 FLY°](https://open.spotify.com/album/4NRUkjBzireLsRZ6BiP14v) | 2:50 |
+| 45 | [Sleep On Who](https://open.spotify.com/track/5E8eQ5UUe6g05lwP9SrF0Y) | [Ayo Jaymax](https://open.spotify.com/artist/3pshAFH1TuJc3IXG5ZPQOF), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Easyscope](https://open.spotify.com/artist/12XWjcOHmJKFDfd4wr7YOh) | [Sleep On Who](https://open.spotify.com/album/4GaFLboHi3j35OPKwn6fas) | 2:39 |
+| 46 | [CHANGE](https://open.spotify.com/track/2ilviyc5XdaEjBtwj3iHvG) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [CHANGE](https://open.spotify.com/album/5Gwn0C6YaMhqOMIycr43H4) | 2:39 |
+| 47 | [Favorite](https://open.spotify.com/track/4Aw9OJJDJFCbVlVBAb0EdM) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Favorite](https://open.spotify.com/album/7LcNdnjDCwb9SLjDxi2FPP) | 4:19 |
+| 48 | [Home on the Range](https://open.spotify.com/track/4QiWYpCnD5TipN2AycUy2i) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [Home on the Range // Back Home](https://open.spotify.com/album/5FMSAdmLudQYXyLWLfoya7) | 1:37 |
+| 49 | [Nothin Like Me](https://open.spotify.com/track/0Lztp0wEBoch8sPiZxKUi9) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Nothin Like Me](https://open.spotify.com/album/7HHWvtqaJyUfIcnojnZb8v) | 2:12 |
+| 50 | [I Love You Out Loud](https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [I Love You Out Loud](https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M) | 3:33 |
+| 51 | [LOVERGRL](https://open.spotify.com/track/6wA1wI0snn9XNKSWgYbon9) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [LOVERGRL](https://open.spotify.com/album/6Gd9wLXhjDyOPTh7DqbFOO) | 2:33 |
+| 52 | [Zikitam](https://open.spotify.com/track/0oaWtcLLfinD33n9YekqKz) | [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Zikitam](https://open.spotify.com/album/2VXVl5JTSUm8nUsFPtRW93) | 7:22 |
+| 53 | [We 2 Fly](https://open.spotify.com/track/4Ym5QOanjoiNXvWBIOyIh0) | [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2), [S1orDie](https://open.spotify.com/artist/1rxMZxcNgJiXunlNSAq8pY) | [+WE 2 FLY°](https://open.spotify.com/album/4NRUkjBzireLsRZ6BiP14v) | 2:50 |
 
-Snapshot ID: `AAAAAD1N3Yd6JG9ypNV5mkZYc4gGDD41`
+Snapshot ID: `AAAAAPgLKNijXczqVW44PJO2fvqju2Ye`

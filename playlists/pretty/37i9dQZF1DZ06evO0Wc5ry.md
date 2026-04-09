@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,458 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,473 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 38 | [Morris Brown \(feat\. Scar & Sleepy Brown\)](https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Scar](https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:24 |
 | 39 | [Ain't No Thang](https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:38 |
 | 40 | [Humble Mumble \(feat\. Erykah Badu\)](https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:50 |
-| 41 | [Walk It Out \- Remix](https://open.spotify.com/track/2FC0wf2DyEq16TouxXJCxJ) | [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Beat'n Down Yo Block \(Deluxe Edition\)](https://open.spotify.com/album/5C7NyeW6pFBCwyBvu9nu05) | 4:54 |
+| 41 | [Funkin' Around](https://open.spotify.com/track/049tw2MgDBdrtzZQjqtcdh) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Big Boi & Dre Present...OutKast](https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It) | 4:34 |
 | 42 | [Idlewild Blue \(Don'tchu Worry 'Bout Me\)](https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 3:24 |
-| 43 | [Funkin' Around](https://open.spotify.com/track/049tw2MgDBdrtzZQjqtcdh) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Big Boi & Dre Present...OutKast](https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It) | 4:34 |
+| 43 | [Walk It Out \- Remix](https://open.spotify.com/track/2FC0wf2DyEq16TouxXJCxJ) | [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Beat'n Down Yo Block \(Deluxe Edition\)](https://open.spotify.com/album/5C7NyeW6pFBCwyBvu9nu05) | 4:54 |
 | 44 | [Throw Your Hands Up \(feat\. Outkast\)](https://open.spotify.com/track/7LTyTsaXmJ7A1YtNo24XhN) | [8Ball](https://open.spotify.com/artist/6B16XZWuJ9VERn7pXxCIda), [MJG](https://open.spotify.com/artist/6pDFdYZARPitpkfm44UsOQ), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [We Are The South \(Greatest Hits\)](https://open.spotify.com/album/50TNviDm3rDP4409wtFwDQ) | 5:25 |
 | 45 | [Trans DF Express \(feat\. Cee\-Lo, Outkast, Big Gipp & Backbone\) \- Club Mix](https://open.spotify.com/track/14W0RdvOB36Hcu2gvTgXrJ) | [Dungeon Family](https://open.spotify.com/artist/1ElKnrmCBRnIjTrrzkAL42), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Big Gipp](https://open.spotify.com/artist/7e36DF0IaZI4JXfIf95ppT), [Backbone](https://open.spotify.com/artist/2zkto0g1GbzlSAINp3UiLh) | [Even In Darkness](https://open.spotify.com/album/2n4GKr0nKfFWoSTWZuNB9Z) | 4:48 |
 | 46 | [Hollywood Divorce \(feat\. Snoop Dogg & Lil' Wayne\)](https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 5:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 49 | [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 |
 | 50 | [Chronomentrophobia](https://open.spotify.com/track/0rZTj6vFpLrQ4z9PKQIqM4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 2:12 |
 
-Snapshot ID: `adL3gAAAAAA620oXyPm2+Hr8voxmaGxV`
+Snapshot ID: `adRJAAAAAABwAa+T5haqTczjkgy/9UUZ`

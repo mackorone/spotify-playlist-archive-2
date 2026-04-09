@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1214014,
+  "num_followers": 1214057,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAABp4odoLQtGshZg/u7wpjRQ",
+  "snapshot_id": "adRJAAAAAADrhpjU2Nr7OXgLNSSliKGc",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thinking Of You",
+        "url": "https://open.spotify.com/album/6QMt0VIXFUFDrYaDBnjfYO"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 291093,
+      "name": "Thinking Of You - Acoustic Version",
+      "url": "https://open.spotify.com/track/0Yqu5nJ5GxMR0Iwxo0eHKa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 198461,
       "name": "I'M HIS, HE'S MINE (feat. Doechii)",
       "url": "https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thinking Of You",
-        "url": "https://open.spotify.com/album/6QMt0VIXFUFDrYaDBnjfYO"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 291093,
-      "name": "Thinking Of You - Acoustic Version",
-      "url": "https://open.spotify.com/track/0Yqu5nJ5GxMR0Iwxo0eHKa"
     },
     {
       "added_at": null,

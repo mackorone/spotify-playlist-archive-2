@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 104 songs - 6 hr 4 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 107 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,8 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 102 | [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 |
 | 103 | [If I Go Missin’](https://open.spotify.com/track/3koc8F4pJ8i4iuCl4NerLk) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [If I Go Missin’](https://open.spotify.com/album/2g0zHOLzQcbsxYw8TlE7XJ) | 3:40 |
 | 104 | [You're So Uninviting](https://open.spotify.com/track/1U6hp7lzgST4lzxRIR1VvW) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k), [Molly Coleman](https://open.spotify.com/artist/3zVctuiATB47XZXKAgzPZD) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 3:15 |
+| 105 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 |
+| 106 | [Dollface](https://open.spotify.com/track/2gJlmzqblAarjB9FPa3WaD) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [Dollface](https://open.spotify.com/album/4JxQ2wpp7DQKnPoAsvxMNq) | 3:09 |
+| 107 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 |
 
-Snapshot ID: `AAAOB6gYF6kGYrw/CdCnNNrQjDH64l5e`
+Snapshot ID: `AAAOCvLQKs+sZqpUtJI10NYUrl/3BYvl`

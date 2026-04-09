@@ -418,7 +418,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 156612,
       "name": "Bitter Cup",
       "url": "https://open.spotify.com/track/1aC2XHu88jjgv3k6Eumd8C"
@@ -2220,6 +2220,36 @@
       "duration_ms": 202960,
       "name": "It's Gonna Get Better",
       "url": "https://open.spotify.com/track/2FAe8dckXKBLgKoiDEkdi8"
+    },
+    {
+      "album": {
+        "name": "JESUS LOVES ME",
+        "url": "https://open.spotify.com/album/2RYXajwuPeoUcfLa38irCx"
+      },
+      "artists": [
+        {
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
+        },
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "Derek Ryan",
+          "url": "https://open.spotify.com/artist/73082XnqLoO2xyCv8vzEed"
+        },
+        {
+          "name": "UPSIDE DOWN KINGDOMS",
+          "url": "https://open.spotify.com/artist/77vVxW0MA0FCKCnZHFAQGq"
+        }
+      ],
+      "date_added": "2026-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194437,
+      "name": "JESUS LOVES ME",
+      "url": "https://open.spotify.com/track/6uIarf6X3laYslxgXiii8m"
     },
     {
       "album": {

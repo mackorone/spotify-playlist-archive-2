@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,621 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,613 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 40 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
 | 41 | [Costi x OFF THE BOOTH \(Taxin vika\)](https://open.spotify.com/track/5wa57ymHinnOMOUpjLUsWP) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g) | [Costi x OFF THE BOOTH \(Taxin vika\)](https://open.spotify.com/album/05BwBT7kYPLtqNUZ3cUjvD) | 2:02 |
 | 42 | [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 3:16 |
-| 43 | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G) | 3:26 |
-| 44 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
-| 45 | [20:30 \(feat\. Karim B\)](https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd), [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [20:30 \(feat\. Karim B\)](https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG) | 2:51 |
-| 46 | [Aikuinen mies](https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:05 |
-| 47 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
-| 48 | [DD](https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 1:55 |
-| 49 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
-| 50 | [OMG \(feat\. Evelina\)](https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [OMG \(feat\. Evelina\)](https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d) | 3:21 |
+| 43 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
+| 44 | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G) | 3:26 |
+| 45 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
+| 46 | [20:30 \(feat\. Karim B\)](https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd), [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [20:30 \(feat\. Karim B\)](https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG) | 2:51 |
+| 47 | [Aikuinen mies](https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:05 |
+| 48 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
+| 49 | [DD](https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Shakespeare 2](https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi) | 1:55 |
+| 50 | [Anteeks](https://open.spotify.com/track/0v5kGCRM6aBsXHhRY1mKB7) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Anteeks](https://open.spotify.com/album/7ykVkX02A8Nnom9eXIG5BL) | 3:10 |
 
 Snapshot ID: `AAAAAFzquVEmLbkXgq2RV7hXRQMszD8Y`

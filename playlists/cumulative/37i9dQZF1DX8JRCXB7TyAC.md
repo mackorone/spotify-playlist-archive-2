@@ -4,11 +4,11 @@
 
 > Workout with Haryanvi Songs.
 
-182 songs - 8 hr 55 min
+183 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0008](https://open.spotify.com/track/3QbBAFPQh3BOcGHUiSRGMV) | [R Maan](https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n) | [0008](https://open.spotify.com/album/2HvTVuae3QUQEM9SiyzqHT) | 2:41 | 2025-09-29 |  |
+| [0008](https://open.spotify.com/track/3QbBAFPQh3BOcGHUiSRGMV) | [R Maan](https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n) | [0008](https://open.spotify.com/album/2HvTVuae3QUQEM9SiyzqHT) | 2:41 | 2025-09-29 | 2026-04-09 |
 | [12 Bande](https://open.spotify.com/track/2KcTIyH6LF1yKEysNFViph) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [12 Bande](https://open.spotify.com/album/2z3ehE5Rn7AAQFuqQjkNJ5) | 2:45 | 2025-12-23 |  |
 | [18 Lakh](https://open.spotify.com/track/4rz26F2pzUAa8IC8Y0XOTQ) | [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [18 Lakh](https://open.spotify.com/album/3QXb9c5hnpj1nlUXSXQNiT) | 2:57 | 2023-07-24 | 2023-11-10 |
 | [2 Numbari](https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E) | [2 Numbari](https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa) | 3:32 | 2023-07-24 |  |
@@ -142,6 +142,7 @@
 | [Pehlwan](https://open.spotify.com/track/1SnFnbxHkldx3dZxgv7RVw) | [Rahul Dhandlaniya](https://open.spotify.com/artist/3uIl3S4LSdiqMj19bqlDBX), [Vishvajeet Choudhary](https://open.spotify.com/artist/1mfAGblExpLNFZtiv88m9D), [Yogesh Jakhodiya](https://open.spotify.com/artist/36MYlNNUlZ9cZqLJMqxJVA) | [Pehlwan](https://open.spotify.com/album/42YOUQe0aQBmprIsQzvKiJ) | 2:32 | 2024-10-10 | 2025-12-11 |
 | [Permit Badmashi Ka](https://open.spotify.com/track/4vfB7k5UOlEbpIXkGbHcmv) | [Mohit Sharma](https://open.spotify.com/artist/6Nzqi199UwJFiHQ6Rgc3j1), [Aashu Twinkle](https://open.spotify.com/artist/4FRJTLxHjNzFyPBzAAsNhQ) | [Permit Badmashi Ka](https://open.spotify.com/album/5iGqNO2rqsjGQYWlIhHA2F) | 2:44 | 2024-03-01 | 2024-04-19 |
 | [Permit Badmashi Ka](https://open.spotify.com/track/4LNFYpktI8O0y9H20Bh5xU) | [RK Crew](https://open.spotify.com/artist/5F6yXom1OtJEXonwTvHsaw), [Mohit Sharma](https://open.spotify.com/artist/6Nzqi199UwJFiHQ6Rgc3j1), [Aashu Twinkle](https://open.spotify.com/artist/4FRJTLxHjNzFyPBzAAsNhQ) | [Permit Badmashi Ka](https://open.spotify.com/album/41xz0NFiekwYRNgAeLibQM) | 2:44 | 2023-07-24 | 2025-01-21 |
+| [Petrol](https://open.spotify.com/track/5B60tnqylP3wRYjJvtcj5y) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Petrol](https://open.spotify.com/album/5a24ONxmGIedTYLgg5smpR) | 2:55 | 2026-04-07 |  |
 | [Pistal Te Mehnga Lehnga](https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm), [Anjali Raghav](https://open.spotify.com/artist/4tnyxnjCVBlkqaefQ6fgbv) | [Pistal Te Mehnga Lehnga](https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29) | 2:42 | 2023-07-24 |  |
 | [Pistol](https://open.spotify.com/track/1sZtZDs3SYWyYA18M79f1I) | [Star Boy Loc](https://open.spotify.com/artist/3fa7rhEoajjrGyb6a3IAqv), [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [G Skillz](https://open.spotify.com/artist/3V5mKE1yJ49wg4h4Aq4ynE), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Suyyash Rai](https://open.spotify.com/artist/3pHc4pzMYKmMrz528fJs3T), [Aaryamann Sseth](https://open.spotify.com/artist/3CU5IBRlMqEUr7xQGkvOvd) | [Pistol](https://open.spotify.com/album/27NV0KZpszewPQkeWvSdqz) | 2:28 | 2025-04-04 | 2025-09-21 |
 | [Pittal Barse](https://open.spotify.com/track/2IRWsNh81Fe0Wu5eCduNjk) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kala Dighal](https://open.spotify.com/artist/2jGSpZI7OdOpA0Hst8L0Fa) | [Pittal Barse](https://open.spotify.com/album/2eUM1YnCd5FCeVPQPYejy9) | 2:36 | 2026-02-17 |  |

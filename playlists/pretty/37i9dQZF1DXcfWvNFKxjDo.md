@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,457 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,450 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 16 | [The Sundown](https://open.spotify.com/track/4jrTduVWEVJ0tACKisbklO) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [The Sundown](https://open.spotify.com/album/0Go8qw8gZb9tuYj9UChfsk) | 2:50 |
 | 17 | [Lete Sound \(Restore Local Sessions 001\)](https://open.spotify.com/track/0SU9TnI7NcHKxiPa7TGxOO) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4), [Juliani](https://open.spotify.com/artist/6DeHceVetXHpLmvmqDpTD7) | [Lete Sound \(Restore Local Sessions 001\)](https://open.spotify.com/album/6RxCoZTc7ajcgAHcDvUZ4R) | 3:02 |
 | 18 | [Hide U](https://open.spotify.com/track/6uWF5iHgYtdjYtuZhzXXpA) | [Darren Bailie](https://open.spotify.com/artist/6y99awMYOaaGNJC7Iu6S0b), [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Valiant Kings](https://open.spotify.com/artist/0Ove2V8lnCY3KBBY0YFCrT) | [Hide U](https://open.spotify.com/album/73pgM1y7imQFv5zmCHcPpx) | 2:26 |
-| 19 | [Maximus](https://open.spotify.com/track/4Fv8i3UclMApElfQPTGpYi) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Lavie](https://open.spotify.com/artist/6OA1Q92AJSSH2GLzAKVjUY) | [Maximus](https://open.spotify.com/album/4aM8NJ35OmoyCurTAU9oBG) | 3:07 |
+| 19 | [Maximus](https://open.spotify.com/track/4Fv8i3UclMApElfQPTGpYi) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Lavie](https://open.spotify.com/artist/5UsClkLWGbLmiDQL5XYt99) | [Maximus](https://open.spotify.com/album/4aM8NJ35OmoyCurTAU9oBG) | 3:07 |
 | 20 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 |
 | 21 | [Overdose](https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Overdose](https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT) | 2:51 |
 | 22 | [CHICA 305](https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CHICA 305](https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2) | 3:08 |

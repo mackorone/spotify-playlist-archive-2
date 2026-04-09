@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Claudia Valentina
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,442 likes - 274 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,441 likes - 274 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 93 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 |
 | 94 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |
 | 95 | [pretty](https://open.spotify.com/track/5BCaPnsHqowMxitUiMZZF2) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [pretty](https://open.spotify.com/album/0Saa8EmKCUN2EUnCy4szRc) | 2:40 |
-| 96 | [My Type](https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3) | [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX), [Dux n Bass](https://open.spotify.com/artist/5LlJwFI0pt18QEmRZMT7EA), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [My Type](https://open.spotify.com/album/1cgA9S7KgDpQhG9045suo2) | 3:04 |
+| 96 | [My Type](https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3) | [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX), [DUX](https://open.spotify.com/artist/2SQIvDK5WYmadA8xuHyBY7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [My Type](https://open.spotify.com/album/1cgA9S7KgDpQhG9045suo2) | 3:04 |
 | 97 | [Never Be The Same](https://open.spotify.com/track/3ULxtlPyKErdQl6EsyRoUz) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Home Truths](https://open.spotify.com/album/68zLKbOglU5BivfAtoBUno) | 2:56 |
 | 98 | [Chamomile](https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Chamomile](https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P) | 3:07 |
 | 99 | [Excuse Me](https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [One Time](https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu) | 2:19 |

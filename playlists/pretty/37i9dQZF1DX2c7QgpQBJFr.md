@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹 cover: SaintPaul
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,412 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,417 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
 | 2 | [BUONA DOMENICA](https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BUONA DOMENICA](https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn) | 3:07 |
-| 3 | [Insieme soli](https://open.spotify.com/track/5brKSCd3u5yKSczITGUKOW) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Frenkie G](https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k) | [Insieme soli](https://open.spotify.com/album/5zWiIA2ZIZdstbl2N6107q) | 2:46 |
+| 3 | [Insieme soli](https://open.spotify.com/track/5brKSCd3u5yKSczITGUKOW) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Frenkie G](https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Insieme soli](https://open.spotify.com/album/5zWiIA2ZIZdstbl2N6107q) | 2:46 |
 | 4 | [la noia che ho negli occhi](https://open.spotify.com/track/7geFf6RDEWnrDdYUtR7KtB) | [VEROSIMILE](https://open.spotify.com/artist/6K9KfaUxJIKk6qZh9a1fVG) | [PIANO TERRA](https://open.spotify.com/album/6Rjji81ps1n8JJrYBywcdF) | 2:36 |
 | 5 | [Poesie Clandestine](https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Poesie Clandestine](https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm) | 3:03 |
 | 6 | [DISINCANTO](https://open.spotify.com/track/4lxrVDGmkUTivSFDylC26Z) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [DISINCANTO](https://open.spotify.com/album/5uUhwToRipr5CJerXxNz8K) | 3:27 |

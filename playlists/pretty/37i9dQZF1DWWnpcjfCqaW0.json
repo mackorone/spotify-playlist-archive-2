@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 298255,
+  "num_followers": 298262,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Complete Capitol Hits Of Faron Young",
-        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
-      },
-      "artists": [
-        {
-          "name": "Faron Young",
-          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Goin' Steady",
-      "url": "https://open.spotify.com/track/5PBGdSfxhjSuJHfagUNOCl"
-    },
-    {
-      "added_at": "2026-02-17 04:48:24",
-      "album": {
         "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
         "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 157000,
       "name": "A Dear John Letter",
       "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
+    },
+    {
+      "added_at": "2026-02-17 04:48:24",
+      "album": {
+        "name": "The Complete Capitol Hits Of Faron Young",
+        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
+      },
+      "artists": [
+        {
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Goin' Steady",
+      "url": "https://open.spotify.com/track/5PBGdSfxhjSuJHfagUNOCl"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
+        "name": "The Essential Porter Wagoner",
+        "url": "https://open.spotify.com/album/76ijhEyT4DEJuwoyHd5bEk"
       },
       "artists": [
         {
-          "name": "Hank Locklin",
-          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
         }
       ],
-      "duration_ms": 151419,
-      "name": "Send Me the Pillow You Dream On",
-      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
+      "duration_ms": 166040,
+      "name": "A Satisfied Mind",
+      "url": "https://open.spotify.com/track/0L9wb8Sy398mMog38XcfND"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Essential Porter Wagoner",
-        "url": "https://open.spotify.com/album/76ijhEyT4DEJuwoyHd5bEk"
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
       },
       "artists": [
         {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
         }
       ],
-      "duration_ms": 166040,
-      "name": "A Satisfied Mind",
-      "url": "https://open.spotify.com/track/0L9wb8Sy398mMog38XcfND"
+      "duration_ms": 151419,
+      "name": "Send Me the Pillow You Dream On",
+      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "Red Hot / Pearly Lee",
-        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/7JiYSwAMa7hUHWjiD372m5"
       },
       "artists": [
         {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+          "name": "Hank Thompson",
+          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
+        },
+        {
+          "name": "Hank Thompson And His Brazos Valley Boys",
+          "url": "https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk"
         }
       ],
-      "duration_ms": 149705,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
+      "duration_ms": 177866,
+      "name": "Wildwood Flower - Instrumental",
+      "url": "https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3"
     }
   ],
   "unique_name": "50s Country",

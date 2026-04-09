@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: ELISHIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,838 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,845 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 29 | [Two Sides](https://open.spotify.com/track/6vZxjw80hqvVQEX7FEttrW) | [Alli Kate](https://open.spotify.com/artist/4fLRDDrccUS9PGA154uwmA) | [Two Sides](https://open.spotify.com/album/7x1bthXsgnSaKYYcr5JYDa) | 2:43 |
 | 30 | [THE FUTURE, YOU'LL LOVE IT](https://open.spotify.com/track/5eGisUR8gKRk1hjQUHBK2a) | [dœgægé](https://open.spotify.com/artist/1nzDJPQb3GT8kHt9ryhnIH) | [MARKETING](https://open.spotify.com/album/4Lkd6hIOC8IWpnBWl5BINY) | 4:54 |
 | 31 | [Moral Compass](https://open.spotify.com/track/4RbtHpN1lEWeSkiR81Lf3b) | [Chrome Cage](https://open.spotify.com/artist/6lbhfHSqZZ2Z7DcNg3GKg3) | [Moral Compass](https://open.spotify.com/album/7mFr6GtN9pGWvdLhfPVrTa) | 2:05 |
-| 32 | [Spiderweb](https://open.spotify.com/track/7kWd9l6xNc9A6lIgQfkIu8) | [Future Shade](https://open.spotify.com/artist/0VQryHw3noeVXQ3cDvO1OE), [Jannah Beth](https://open.spotify.com/artist/6eC2CFvVSX6FZRJqTqXwZh) | [Spiderweb](https://open.spotify.com/album/3kFrJuoQvX4f0mTmqnWAUI) | 3:23 |
+| 32 | [Spiderweb](https://open.spotify.com/track/7kWd9l6xNc9A6lIgQfkIu8) | [Jannah Beth](https://open.spotify.com/artist/6eC2CFvVSX6FZRJqTqXwZh) | [Spiderweb](https://open.spotify.com/album/3kFrJuoQvX4f0mTmqnWAUI) | 3:23 |
 | 33 | [Babytooth](https://open.spotify.com/track/3CfMwRTHmtzUToOcqgzXhF) | [Molly Jane](https://open.spotify.com/artist/68eZomxxQjWkOUwBqJ9iIs) | [Babytooth](https://open.spotify.com/album/5FjIwivxMrc2basbR7DfzY) | 3:55 |
 | 34 | [Postcard](https://open.spotify.com/track/6lwsb0DsHHeUgM9y0DTvFW) | [Camille Trail](https://open.spotify.com/artist/5sW2cWFuoa25wJhlUoQfRA) | [Postcard](https://open.spotify.com/album/15wqFnPI22eE70wTlxIdA8) | 2:39 |
 | 35 | [Shotgun](https://open.spotify.com/track/6NV0WlYyjQGNSNP0NKYUyV) | [Figurehead](https://open.spotify.com/artist/6rhoxEDKNmzCWsfAUsSILs) | [Shotgun](https://open.spotify.com/album/1ozbCcP2PdaDrKMZOQoEPB) | 3:21 |

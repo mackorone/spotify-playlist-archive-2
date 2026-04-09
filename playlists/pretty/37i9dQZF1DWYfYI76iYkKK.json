@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 131120,
+  "num_followers": 131126,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u5982\u679c\u4e0d\u662f\u6211\u7684 (\u96fb\u5f71\u300a\u5973\u5b69\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/2D3KOGicdefBP8iPlOW9F5"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Wang",
-          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
-        }
-      ],
-      "duration_ms": 218072,
-      "name": "\u5982\u679c\u4e0d\u662f\u6211\u7684 - \u96fb\u5f71\u300a\u5973\u5b69\u300b\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/1BicVGrtJTih4Vlqg8o9I0"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "Say You\u2019re Sorry",
         "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 136400,
       "name": "Say You\u2019re Sorry",
       "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u5982\u679c\u4e0d\u662f\u6211\u7684 (\u96fb\u5f71\u300a\u5973\u5b69\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/2D3KOGicdefBP8iPlOW9F5"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "duration_ms": 218072,
+      "name": "\u5982\u679c\u4e0d\u662f\u6211\u7684 - \u96fb\u5f71\u300a\u5973\u5b69\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/1BicVGrtJTih4Vlqg8o9I0"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u518a\u8449\u4e00\uff1a\u4e00\u8207\u4e00",
-        "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
-      },
-      "artists": [
-        {
-          "name": "\u5433\u9752\u5cf0",
-          "url": "https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8"
-        }
-      ],
-      "duration_ms": 295025,
-      "name": "\u5e74\u8f2a\u8aaa",
-      "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
         "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 221073,
       "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
       "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u518a\u8449\u4e00\uff1a\u4e00\u8207\u4e00",
+        "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u9752\u5cf0",
+          "url": "https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8"
+        }
+      ],
+      "duration_ms": 295025,
+      "name": "\u5e74\u8f2a\u8aaa",
+      "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u4e0d\u4f54\u5730\u65b9",
-        "url": "https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm"
+        "name": "\u611b\u7684\u5c0d\u767d",
+        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
       },
       "artists": [
         {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
         }
       ],
-      "duration_ms": 279444,
-      "name": "\u4e0d\u4f54\u5730\u65b9",
-      "url": "https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d"
+      "duration_ms": 185077,
+      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
+      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

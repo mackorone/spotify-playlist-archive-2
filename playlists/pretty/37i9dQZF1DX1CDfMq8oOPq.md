@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > CADÊ O BONDE DO ESCULACHO?? // Ciça
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,527 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,546 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 7 | [Pq Vc Não Me Liga?](https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [winx](https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY) | [É Disso Que Eu Me Alimento](https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg) | 2:58 |
 | 8 | [Set Ajc 2](https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Set Ajc 2](https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm) | 4:25 |
 | 9 | [Big D!!!!! Pt\. 2](https://open.spotify.com/track/2Sb6RKbJkOKJcC4JAoeAaB) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Taurus, Vol\. 2](https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4) | 2:20 |
-| 10 | [Energy](https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:59 |
-| 11 | [JA FAZEM HORAS](https://open.spotify.com/track/3ktjRiYWnKIJv277yiaDGC) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [Dukke Beats](https://open.spotify.com/artist/3KNAaZbqoQXjS4omCogmjr) | [SEM ESTRESSE](https://open.spotify.com/album/3C7I3CVyHFbTtpFdIcxMpl) | 2:10 |
+| 10 | [JA FAZEM HORAS](https://open.spotify.com/track/3ktjRiYWnKIJv277yiaDGC) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [Dukke Beats](https://open.spotify.com/artist/3KNAaZbqoQXjS4omCogmjr) | [SEM ESTRESSE](https://open.spotify.com/album/3C7I3CVyHFbTtpFdIcxMpl) | 2:10 |
+| 11 | [Energy](https://open.spotify.com/track/2bbqTnm2KkGAH4kFvnlMeU) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:59 |
 | 12 | [Segredo e Feitiço](https://open.spotify.com/track/0D8mEHdvyM9NmB9ZfbwUGq) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Cassiano Franco](https://open.spotify.com/artist/29bHvBNqGzhD2axXzvOQuA), [Proditeogovernate](https://open.spotify.com/artist/7GDuiI3HER66NXs5X2oqPb) | [É Disso Que Eu Me Alimento](https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg) | 2:52 |
 | 13 | [Liberdade](https://open.spotify.com/track/4u3ZKIMsLAiikFqxOsnXSp) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:12 |
 | 14 | [tranquila & Calma](https://open.spotify.com/track/4NC1JnWuLIo0Dfds2SQ674) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [Tranquila & calma](https://open.spotify.com/album/5SiQ8k3NEpybLBG6SW0bRv) | 2:28 |

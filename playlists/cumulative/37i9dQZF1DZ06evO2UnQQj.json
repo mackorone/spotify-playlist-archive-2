@@ -894,7 +894,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 170501,
       "name": "Demanda",
       "url": "https://open.spotify.com/track/4ZT9Qr6fbClWgOQ4miaGm8"
@@ -2643,6 +2643,28 @@
     },
     {
       "album": {
+        "name": "O Que Me Diss Respeito",
+        "url": "https://open.spotify.com/album/4QI5KoVbqpHo7NJ0wcKR9d"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Yangprj",
+          "url": "https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152769,
+      "name": "O Que Me Diss Respeito",
+      "url": "https://open.spotify.com/track/7pCKZTpoXBpSEaYk54nj3C"
+    },
+    {
+      "album": {
         "name": "O Rap t\u00e1 na Rua!",
         "url": "https://open.spotify.com/album/0fgUHW2KK0ZtRizqv3WrjF"
       },
@@ -3974,7 +3996,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 457683,
       "name": "Trof\u00e9u",
       "url": "https://open.spotify.com/track/1ALhLQSxLAFVJ0O61ZoeVN"
@@ -4198,7 +4220,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 131900,
       "name": "Um Brinde Aos Reais",
       "url": "https://open.spotify.com/track/1CxYPghcKOKyT1XTDtHO7x"

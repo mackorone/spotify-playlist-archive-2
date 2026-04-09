@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 
 > Our editor's picks for the biggest Drum & Bass bangers of 2024\. Cover: Charlotte Plank
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,203 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,220 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 | 3 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 |
 | 4 | [Unfinished Business](https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Unfinished Business](https://open.spotify.com/album/7jsXqctphtpjxSyprnVlNf) | 3:16 |
 | 5 | [Green & Gold \(feat\. Charlotte Plank & Riko Dan\)](https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Green & Gold \(feat\. Charlotte Plank & Riko Dan\)](https://open.spotify.com/album/5USMLXcmyO4BdAeQaOEql2) | 2:40 |
-| 6 | [My Type](https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3) | [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX), [Dux n Bass](https://open.spotify.com/artist/5LlJwFI0pt18QEmRZMT7EA), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [My Type](https://open.spotify.com/album/1cgA9S7KgDpQhG9045suo2) | 3:04 |
+| 6 | [My Type](https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3) | [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX), [DUX](https://open.spotify.com/artist/2SQIvDK5WYmadA8xuHyBY7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [My Type](https://open.spotify.com/album/1cgA9S7KgDpQhG9045suo2) | 3:04 |
 | 7 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 |
 | 8 | [Sinner](https://open.spotify.com/track/7davhOXjwqodNIrR5Jt96U) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Sinner](https://open.spotify.com/album/69n3qTgvr99gPLX3kW2BVW) | 2:37 |
 | 9 | [Indestructible](https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Indestructible](https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7) | 2:40 |

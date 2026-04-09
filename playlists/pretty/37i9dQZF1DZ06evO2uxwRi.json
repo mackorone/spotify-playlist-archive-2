@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43577,
+  "num_followers": 43578,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAAC4w0K+587Cs5+28rksJjcf",
+  "snapshot_id": "adRJAAAAAADT49hDIXzrE6nHv9WABCcJ",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,25 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 196027,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/4Q4jKJIvLEWZsFcTg9eKKH"
+      "duration_ms": 218509,
+      "name": "Treat Yourself",
+      "url": "https://open.spotify.com/track/3zV9ltwPTs7awTjWbnxm8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "Something I Call Personality",
+      "url": "https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
       "duration_ms": 178823,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "Something I Call Personality",
-      "url": "https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 110938,
-      "name": "Cups",
-      "url": "https://open.spotify.com/track/4iG3bUKDg0F5bKPGpmHMEU"
+      "duration_ms": 204972,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
     },
     {
       "added_at": null,
@@ -568,15 +568,15 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 204972,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
+      "duration_ms": 110938,
+      "name": "Cups",
+      "url": "https://open.spotify.com/track/4iG3bUKDg0F5bKPGpmHMEU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo, Pt. II",
-        "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 162360,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/14jDhyykJv5yVu84baSjkJ"
+      "duration_ms": 167733,
+      "name": "Sincerely Me",
+      "url": "https://open.spotify.com/track/2r4ANDbGuwFVv5zTjJPrTZ"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
+        "name": "From The Screen To Your Stereo, Pt. II",
+        "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 167733,
-      "name": "Sincerely Me",
-      "url": "https://open.spotify.com/track/2r4ANDbGuwFVv5zTjJPrTZ"
+      "duration_ms": 162360,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/14jDhyykJv5yVu84baSjkJ"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 217413,
-      "name": "It's Not Your Fault",
-      "url": "https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Found Glory",
         "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 168333,
       "name": "Better Off Dead",
       "url": "https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "It's Not Your Fault",
+      "url": "https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f"
     },
     {
       "added_at": null,

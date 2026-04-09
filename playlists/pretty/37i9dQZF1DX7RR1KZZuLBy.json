@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 66714,
+  "num_followers": 66728,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,18 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Spirit Of David",
-        "url": "https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h"
+        "name": "Cover The Earth (Live In New York)",
+        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
       },
       "artists": [
         {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        },
-        {
-          "name": "Radical For Christ",
-          "url": "https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 306533,
-      "name": "No Weapon",
-      "url": "https://open.spotify.com/track/4OK1XrubP6GJs4f6czk8Jg"
+      "duration_ms": 713409,
+      "name": "The Story I'll Tell - Live",
+      "url": "https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -675,18 +671,22 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Cover The Earth (Live In New York)",
-        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
+        "name": "Spirit Of David",
+        "url": "https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h"
       },
       "artists": [
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Radical For Christ",
+          "url": "https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA"
         }
       ],
-      "duration_ms": 713409,
-      "name": "The Story I'll Tell - Live",
-      "url": "https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A"
+      "duration_ms": 306533,
+      "name": "No Weapon",
+      "url": "https://open.spotify.com/track/4OK1XrubP6GJs4f6czk8Jg"
     },
     {
       "added_at": "2024-08-16 00:01:00",

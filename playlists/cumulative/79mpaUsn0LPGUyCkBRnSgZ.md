@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,107 songs - 2 day 23 hr 56 min
+1,108 songs - 3 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [NO QUESTIONS ASKED](https://open.spotify.com/track/1OzmA3aBR7QK94L2tReAeD) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 5:59 | 2025-08-12 |  |
 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 | 2024-03-24 |  |
 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 | 2023-06-22 | 2023-07-11 |
+| [Not Broken](https://open.spotify.com/track/5X5rDwKQOnxwJbrDzBt4vf) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [And The Voice Said](https://open.spotify.com/album/2IBArX0JnPTNVhJ1tVbGoo) | 3:22 | 2026-04-08 |  |
 | [Nothing Lasts Forever](https://open.spotify.com/track/2Mc7SYpQ0KLJU6EjXnvqiW) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Caramel](https://open.spotify.com/album/1TD2nV7Pp2xwLNE2W413CS) | 3:03 | 2023-11-07 |  |
 | [Nothing’s Impossible](https://open.spotify.com/track/1UegvfqeikDPozAcaIWIuI) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 4:08 | 2023-03-15 |  |
 | [November](https://open.spotify.com/track/2OE3bxq85LrwyhQov9R8Vo) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Rubblebucket](https://open.spotify.com/album/1NC7PSvb5XaF5P4gh9tyM5) | 5:28 | 2024-01-03 | 2024-01-05 |

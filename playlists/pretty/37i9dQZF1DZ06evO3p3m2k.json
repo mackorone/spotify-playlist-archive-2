@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5584,
+  "num_followers": 5586,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAAANiaKty2VRZBvhkgd5FVwh",
+  "snapshot_id": "adRJAAAAAAAC3lsrleOgfTDrBdFOMxC8",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 208090,
-      "name": "Coraz\u00f3n en Crisis",
-      "url": "https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I"
+      "duration_ms": 147490,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 147490,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W"
+      "duration_ms": 208090,
+      "name": "Coraz\u00f3n en Crisis",
+      "url": "https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I"
     },
     {
       "added_at": null,

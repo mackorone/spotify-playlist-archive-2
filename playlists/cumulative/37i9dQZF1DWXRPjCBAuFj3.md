@@ -4,7 +4,7 @@
 
 > Giovani re, piccole star, si ricorderanno di noi 📈  Sfera in cover
 
-1,011 songs - 2 day 4 hr 12 min
+1,012 songs - 2 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -763,6 +763,7 @@
 | [RATATA](https://open.spotify.com/track/3QjM7blH1a157YfP8G33TA) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [20 \(Deluxe Edition\)](https://open.spotify.com/album/5k3P92L8FfhP1n8ye6FotE) | 3:34 | 2026-01-15 |  |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-21 | 2025-07-04 |
 | [RAZONES \(feat\. Morad\)](https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:04 | 2023-11-23 | 2024-05-11 |
+| [re bowser \(feat\. Khodi\)](https://open.spotify.com/track/4XcsVgIeHtW4EDrcPUXCez) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [NO REGULAR MUSIC 2.5](https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n) | 1:50 | 2026-04-08 |  |
 | [READY ROCK \(2/3\)](https://open.spotify.com/track/6PpHEYTevowFW2TwLDNCRv) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ASPETTANDO LA BELLA VITA \- Before and After](https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5) | 2:35 | 2025-10-14 |  |
 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 | 2022-06-29 | 2022-10-22 |
 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 | 2023-03-03 | 2023-07-27 |

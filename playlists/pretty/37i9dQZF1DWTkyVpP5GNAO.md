@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Karen Espinosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,691 likes - 70 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,759 likes - 70 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

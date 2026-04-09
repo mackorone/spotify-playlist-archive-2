@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Obia le Chef",
-  "num_followers": 89858,
+  "num_followers": 89856,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -640,16 +640,16 @@
       },
       "artists": [
         {
+          "name": "DO, the Outcast",
+          "url": "https://open.spotify.com/artist/2VCNkwwvTrXkHJ09SbssUP"
+        },
+        {
           "name": "Kris the $pirit",
           "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
         },
         {
           "name": "Lightitupav",
           "url": "https://open.spotify.com/artist/388JJVyR92c0JwTkEPOiHB"
-        },
-        {
-          "name": "DO, the Outcast",
-          "url": "https://open.spotify.com/artist/2VCNkwwvTrXkHJ09SbssUP"
         }
       ],
       "duration_ms": 199693,

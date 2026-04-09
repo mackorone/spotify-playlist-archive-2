@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,178 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,182 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [виски с молоком](https://open.spotify.com/track/1JYcDkXdWTPKdVU1S82UHO) | [снялцепи](https://open.spotify.com/artist/2U8WjSfWrXusGaZXinLUtl) | [виски с молоком](https://open.spotify.com/album/4qb91eb53PXwNF00uMFaVO) | 1:01 |
 | 50 | [MARTINE ROSE](https://open.spotify.com/track/5AVrwT3q2nFWHDwuPILwrf) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [greyrock](https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L) | [MARTINE ROSE](https://open.spotify.com/album/7Je8rk60eM7LPvvZj9FiDy) | 3:06 |
 
-Snapshot ID: `MWhsGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MWm9mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

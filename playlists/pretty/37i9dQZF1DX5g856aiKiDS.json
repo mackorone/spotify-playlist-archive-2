@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 517513,
+  "num_followers": 517523,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 191994,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 219106,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 191994,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
+        "name": "SLATE",
+        "url": "https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+        }
+      ],
+      "duration_ms": 232227,
+      "name": "Paint On Spring - Remastering",
+      "url": "https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
         "name": "i\u2019m like that (feat. Loco)",
         "url": "https://open.spotify.com/album/5LzADECg642S1CvXPymtQ0"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 135258,
       "name": "i\u2019m like that (feat. Loco)",
       "url": "https://open.spotify.com/track/2pxKB19fIuNoP7l3YuWZCh"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
-        "name": "SLATE",
-        "url": "https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
-        }
-      ],
-      "duration_ms": 232227,
-      "name": "Paint On Spring - Remastering",
-      "url": "https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
-        "name": "That Kind Of Love",
-        "url": "https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm"
-      },
-      "artists": [
-        {
-          "name": "I'MIN",
-          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "That Kind of Love",
-      "url": "https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 245413,
       "name": "Rain Song (Feat. Colde)",
       "url": "https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
+        "name": "That Kind Of Love",
+        "url": "https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm"
+      },
+      "artists": [
+        {
+          "name": "I'MIN",
+          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "That Kind of Love",
+      "url": "https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
-        "name": "Amusement Park",
-        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Amusement Park",
-      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
         "name": "Absence 'Side A'",
         "url": "https://open.spotify.com/album/294edGP7qQdiIXxZlQNPki"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 215795,
       "name": "Love like that",
       "url": "https://open.spotify.com/track/4WdOTZKQ9HzUqo5VEGiLGf"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
+        "name": "Amusement Park",
+        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "Amusement Park",
+      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 271215,
-      "name": "Popo (How deep is our love?)",
-      "url": "https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
         "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
         "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 198749,
       "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 271215,
+      "name": "Popo (How deep is our love?)",
+      "url": "https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
+        "name": "Like a Fool",
+        "url": "https://open.spotify.com/album/6qUbqU5WUNc4tQuwdVsFMQ"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "Like a Fool",
+      "url": "https://open.spotify.com/track/3yjlkUlDhK2XwLlOM6TO5Q"
+    },
+    {
+      "added_at": "2026-04-06 02:07:28",
+      "album": {
         "name": "Our Love is Great",
         "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
       },
@@ -843,22 +863,6 @@
       "duration_ms": 233003,
       "name": "Maybe It\u2019s Not Our Fault",
       "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
-    },
-    {
-      "added_at": "2026-04-06 02:07:28",
-      "album": {
-        "name": "It's Raining",
-        "url": "https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE"
-      },
-      "artists": [
-        {
-          "name": "Vincent Blue",
-          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
-        }
-      ],
-      "duration_ms": 214326,
-      "name": "It's Raining",
-      "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
     },
     {
       "added_at": "2026-04-06 02:07:28",
@@ -887,22 +891,18 @@
     {
       "added_at": "2026-04-06 02:07:28",
       "album": {
-        "name": "Like a Fool",
-        "url": "https://open.spotify.com/album/6qUbqU5WUNc4tQuwdVsFMQ"
+        "name": "It's Raining",
+        "url": "https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE"
       },
       "artists": [
         {
-          "name": "NIve",
-          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
         }
       ],
-      "duration_ms": 214426,
-      "name": "Like a Fool",
-      "url": "https://open.spotify.com/track/3yjlkUlDhK2XwLlOM6TO5Q"
+      "duration_ms": 214326,
+      "name": "It's Raining",
+      "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
     }
   ],
   "unique_name": "Dalkom Cafe",

@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 142723,
       "name": "1minute",
       "url": "https://open.spotify.com/track/3LtvwYGG6s3myDXIyXYvHZ"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 175619,
       "name": "DELU",
       "url": "https://open.spotify.com/track/44E0VvPJ7ITef2q6V9oqUd"
@@ -770,6 +770,24 @@
       "duration_ms": 186106,
       "name": "Don't Mind Me",
       "url": "https://open.spotify.com/track/71TSyrnZGY4fE6b4lh9SVV"
+    },
+    {
+      "album": {
+        "name": "Who is she",
+        "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Don't mind me",
+      "url": "https://open.spotify.com/track/561DbHbrzgHdPmPgyiDLQz"
     },
     {
       "album": {
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 177837,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/3gu28iWFnrj9fzZO523qxf"
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 220845,
       "name": "Fly away",
       "url": "https://open.spotify.com/track/4uh6rj3FryYQXMz9zLqDKL"
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 184573,
       "name": "Let It",
       "url": "https://open.spotify.com/track/7EUIqHUc6qKk7iVdG1W7RE"
@@ -2296,7 +2314,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 168773,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3p4f4grxx7hLgzChdbtoGK"
@@ -3292,6 +3310,24 @@
       "duration_ms": 192928,
       "name": "\ub728\uac81\uc9c0\uac00 \uc54a\uc544",
       "url": "https://open.spotify.com/track/0qvvVjOfRfiAlUrt0TDPdU"
+    },
+    {
+      "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/0XAkvjvpmtHRaOtjKn60HS"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201848,
+      "name": "\uc5b4\ub5bb\uac8c \ub9d0\ud574 How Can I Say",
+      "url": "https://open.spotify.com/track/1gakoxacOGcAA4K9HjXkdU"
     },
     {
       "album": {

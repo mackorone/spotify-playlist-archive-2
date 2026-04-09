@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 893 likes - 136 songs - 8 hr 20 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 892 likes - 136 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [goodbye](https://open.spotify.com/track/4JaOFKSDjDtEBee1bJOxjI) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [goodbye](https://open.spotify.com/album/0wG69WeVzlbyg2rRCnUQmf) | 3:35 |
-| 2 | [Ashes](https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Ashes](https://open.spotify.com/album/3sG4UIFpkZKghgMzSmh0x1) | 3:40 |
+| 2 | [Ashes](https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Ashes](https://open.spotify.com/album/3sG4UIFpkZKghgMzSmh0x1) | 3:33 |
 | 3 | [Два серця](https://open.spotify.com/track/1pkfxxopKZB7QVOvzjTjP7) | [ЛЮТА](https://open.spotify.com/artist/5XFjkWAijGDE0j4yAF4ftC) | [Два серця](https://open.spotify.com/album/5J6MYfGrjHdIIiSQ4Ium49) | 2:45 |
 | 4 | [Spinning](https://open.spotify.com/track/5Q7LRkw84x7diqZ1ZHHTfd) | [Hard To Miss](https://open.spotify.com/artist/4hRymrneFOk2xnFNrerPLR) | [Spinning](https://open.spotify.com/album/3aeYcTvgmX1OvUAosl6vcE) | 3:48 |
 | 5 | [Standing on the Edge](https://open.spotify.com/track/4BCMHUgmnmD4v42FiocYr8) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Standing on the Edge](https://open.spotify.com/album/2MzZEWMpDN2gXyGoKFbMcc) | 2:38 |

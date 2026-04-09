@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: numa, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: PFOERTNER, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 98048,
       "name": "4ever young",
       "url": "https://open.spotify.com/track/56ttpj0R2j2g0D8D4pNRn8"
@@ -2969,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "Black & White Movie",
+        "url": "https://open.spotify.com/album/667wEshq0rExIu8xYIMfrP"
+      },
+      "artists": [
+        {
+          "name": "Ella Xylour",
+          "url": "https://open.spotify.com/artist/2k98nLSwJfN6ZDug9Hjx8G"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162004,
+      "name": "Black & White Movie",
+      "url": "https://open.spotify.com/track/25NzjKXpXyOrUF0ulEHz8g"
+    },
+    {
+      "album": {
         "name": "Black Horses",
         "url": "https://open.spotify.com/album/2qE6CrrfYO0LbXRFAjwMvo"
       },
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 187861,
       "name": "Bussi",
       "url": "https://open.spotify.com/track/4oJnrR1IuAumWsnRo3EH5f"
@@ -8665,6 +8683,24 @@
     },
     {
       "album": {
+        "name": "famous",
+        "url": "https://open.spotify.com/album/1pDcaFXHoSukO2Q0fTOpau"
+      },
+      "artists": [
+        {
+          "name": "PFOERTNER",
+          "url": "https://open.spotify.com/artist/3hMw3oWf2mhOG4qBCOJKrC"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155208,
+      "name": "famous",
+      "url": "https://open.spotify.com/track/2g55ohgMpaLyVpxsLyQTy7"
+    },
+    {
+      "album": {
         "name": "Fang mich auf",
         "url": "https://open.spotify.com/album/5C3KuIzTREekOsltgyRlQG"
       },
@@ -8680,6 +8716,28 @@
       "duration_ms": 158919,
       "name": "Fang mich auf",
       "url": "https://open.spotify.com/track/4pA0PpsxIPVhwwwSCiveY2"
+    },
+    {
+      "album": {
+        "name": "faceless kids",
+        "url": "https://open.spotify.com/album/4OwRvTAvE9Bp9yOWfJK0Ej"
+      },
+      "artists": [
+        {
+          "name": "OSCAR BLAZEE",
+          "url": "https://open.spotify.com/artist/0d4e0v5vr6GH6jzUxJj2x5"
+        },
+        {
+          "name": "dog bliss",
+          "url": "https://open.spotify.com/artist/5TfzCYw5bv6jpJiGBPKHAZ"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167818,
+      "name": "fashion freaks",
+      "url": "https://open.spotify.com/track/5GvAGbzXx7iry3DXY2m7WK"
     },
     {
       "album": {
@@ -12023,6 +12081,24 @@
     },
     {
       "album": {
+        "name": "holy",
+        "url": "https://open.spotify.com/album/2Uc9kRf0c29G46fcxiPbcg"
+      },
+      "artists": [
+        {
+          "name": "Babe Minor",
+          "url": "https://open.spotify.com/artist/6FjnMgophNZSoIct9Ove5P"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305267,
+      "name": "holy",
+      "url": "https://open.spotify.com/track/7jS7fvxmn1nZV3vCpgcuzz"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/6VpXa0Z8UDAx35LrmbKqZh"
       },
@@ -13930,7 +14006,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 196834,
       "name": "jetzt und hier",
       "url": "https://open.spotify.com/track/3P8JqGTeBAdEmYmE2tYZy3"
@@ -21048,7 +21124,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 202115,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/53MgXRatrlUs1wBgMjqyvF"

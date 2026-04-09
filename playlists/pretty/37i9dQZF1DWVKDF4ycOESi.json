@@ -1,6 +1,6 @@
 {
   "description": "Nuovi brani di BLANCO, Sayf, Serena Brancale con Levante e DELIA, Tiziano Ferro con Giorgia, Ditonellapiaga e tanti altri.",
-  "num_followers": 359585,
+  "num_followers": 359572,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
@@ -494,6 +494,10 @@
         {
           "name": "Frenkie G",
           "url": "https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k"
+        },
+        {
+          "name": "VTR",
+          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
         }
       ],
       "duration_ms": 166015,
@@ -735,7 +739,7 @@
     {
       "added_at": "2026-04-03 07:51:19",
       "album": {
-        "name": "Stessa Persona",
+        "name": "Stessa Persona (feat. Neima Ezza)",
         "url": "https://open.spotify.com/album/0f5UCuQZYoDKdUUWKhzRMU"
       },
       "artists": [
@@ -744,16 +748,16 @@
           "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
         },
         {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
           "name": "SHUNE",
           "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
         }
       ],
       "duration_ms": 137611,
-      "name": "Stessa Persona",
+      "name": "Stessa Persona (feat. Neima Ezza)",
       "url": "https://open.spotify.com/track/68zEuQqB3lf4hIxtKjWU3O"
     },
     {

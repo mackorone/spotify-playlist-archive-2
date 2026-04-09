@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Kota The Friend",
-  "num_followers": 1568428,
+  "num_followers": 1568390,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -767,26 +767,22 @@
     {
       "added_at": "2026-04-03 04:07:15",
       "album": {
-        "name": "Everything Allocated",
-        "url": "https://open.spotify.com/album/0d8VO6wtDm5NoPjR8N4YUi"
+        "name": "EGYPT (Remix)",
+        "url": "https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         },
         {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Everything Allocated",
-      "url": "https://open.spotify.com/track/6wUsnG6BpMPjuuQ7KQgQjD"
+      "duration_ms": 165643,
+      "name": "EGYPT - Remix",
+      "url": "https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL"
     },
     {
       "added_at": "2026-04-03 04:07:15",
@@ -815,22 +811,26 @@
     {
       "added_at": "2026-04-03 04:07:15",
       "album": {
-        "name": "EGYPT (Remix)",
-        "url": "https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2"
+        "name": "Everything Allocated",
+        "url": "https://open.spotify.com/album/0d8VO6wtDm5NoPjR8N4YUi"
       },
       "artists": [
         {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         },
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 165643,
-      "name": "EGYPT - Remix",
-      "url": "https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL"
+      "duration_ms": 173266,
+      "name": "Everything Allocated",
+      "url": "https://open.spotify.com/track/6wUsnG6BpMPjuuQ7KQgQjD"
     },
     {
       "added_at": "2026-04-03 04:07:15",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-04-03 04:07:15",
       "album": {
-        "name": "what will they say",
-        "url": "https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 157591,
-      "name": "what will they say",
-      "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
-    },
-    {
-      "added_at": "2026-04-03 04:07:15",
-      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 193883,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
+    },
+    {
+      "added_at": "2026-04-03 04:07:15",
+      "album": {
+        "name": "what will they say",
+        "url": "https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 157591,
+      "name": "what will they say",
+      "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
     }
   ],
   "unique_name": "Spilled Ink",

@@ -358,7 +358,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 161805,
       "name": "Ain't I Good For You",
       "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "bad love",
+        "url": "https://open.spotify.com/album/5UOUHu039hIcPummNWbnba"
+      },
+      "artists": [
+        {
+          "name": "vinc3nt",
+          "url": "https://open.spotify.com/artist/6nBeQPfGxAhzevj6h3DBMK"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150947,
+      "name": "bad love",
+      "url": "https://open.spotify.com/track/7KRsFkL3hpRhcwv02E3HN2"
+    },
+    {
+      "album": {
         "name": "Yemaya",
         "url": "https://open.spotify.com/album/6nDZtCZBuZW7JUY0LxwEtN"
       },
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 170517,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP"
@@ -3618,6 +3636,28 @@
       "duration_ms": 311373,
       "name": "Full Time (Part Time Allthetime)",
       "url": "https://open.spotify.com/track/5TDsWeQtaNonNuhY5PMfV3"
+    },
+    {
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155960,
+      "name": "Funny Friends",
+      "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
     },
     {
       "album": {
@@ -6554,7 +6594,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 252503,
       "name": "Marking My Time - BADBADNOTGOOD Edit",
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
@@ -8886,6 +8926,28 @@
       "duration_ms": 244933,
       "name": "Send My Love",
       "url": "https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr"
+    },
+    {
+      "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
     },
     {
       "album": {

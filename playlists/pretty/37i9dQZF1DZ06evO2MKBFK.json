@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 633963,
+  "num_followers": 633997,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAAASUCALgisa+TY89jWu8zLs",
+  "snapshot_id": "adRJAAAAAABCM4cE77NjlgDpMVNQZ7j4",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "Cafe",
-      "url": "https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Special Edition 'Still Alive'",
         "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 198533,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "Cafe",
+      "url": "https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGBANG Vol.1",
-        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 194280,
-      "name": "Dirty Cash",
-      "url": "https://open.spotify.com/track/0yZKieKXhoehUMVpYiGwWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lollipop Pt.2",
         "url": "https://open.spotify.com/album/4VPoZSOEnpfUu36fILrqA1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 200248,
       "name": "Lollipop Part.2",
       "url": "https://open.spotify.com/track/7jJnHoPel2hxKFlcLgTmoJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIGBANG Vol.1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 194280,
+      "name": "Dirty Cash",
+      "url": "https://open.spotify.com/track/0yZKieKXhoehUMVpYiGwWj"
     },
     {
       "added_at": null,

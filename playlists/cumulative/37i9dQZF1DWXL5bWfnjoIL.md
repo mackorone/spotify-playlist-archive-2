@@ -4,7 +4,7 @@
 
 > Enjoy music from "CHIBI MARUKO CHAN"! ©SAKURA PRODUCTION/NIPPON ANIMATION
 
-23 songs - 1 hr 21 min
+26 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,12 +17,15 @@
 | [おどるポンポコリン](https://open.spotify.com/track/5bONEqxORd0jLZqBGpz1pC) | [E\-girls](https://open.spotify.com/artist/6CKN3GUiWMrESH1RKn3ecz) | [おどるポンポコリン](https://open.spotify.com/album/3R2zX1N6BqK5YKNP1ZbDIG) | 3:20 | 2026-03-29 |  |
 | [おどるポンポコリン](https://open.spotify.com/track/7fVKm1pcGylPfzKqRLyrHg) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [おどるポンポコリン](https://open.spotify.com/album/2stz6xLK1Rv6aL0SD9BA0D) | 3:08 | 2026-03-29 |  |
 | [おどるポンポコリン](https://open.spotify.com/track/4jed23I3IGAZW3aAqpkSq3) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [おどるポンポコリン](https://open.spotify.com/album/7rvYbIj3JMCfHnQaBuqMnA) | 3:09 | 2026-03-29 |  |
+| [おどるポンポコリン](https://open.spotify.com/track/4gCfLkI4jAntKMJ8e5LmfF) | [ManaKana](https://open.spotify.com/artist/5ygZ5IlxuBaEHI85qfNRqw), [泉谷しげる](https://open.spotify.com/artist/1sRCuHNqF6IgScyHVuMkVL) | [おどるポンポコリン / ちびまる子音頭](https://open.spotify.com/album/0OERhAMHFiYRpkw4G9M2Pl) | 3:23 | 2026-04-09 |  |
 | [おどるポンポコリン](https://open.spotify.com/track/09TnsucrKhbEU4qQI5dkV0) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [「映画ちびまる子ちゃん　イタリアから来た少年」ミュージックアルバム](https://open.spotify.com/album/7al5UXDqg31Wfd8HIOc3tO) | 3:26 | 2026-03-29 |  |
 | [おどるポンポコリン～ちびまる子ちゃん 誕生 25th Version～](https://open.spotify.com/track/5wRcS2hS5C97vBgr5ga4nG) | [B.B.QUEENS](https://open.spotify.com/artist/4JqWbQDxluABEUVJ3bLVQ1) | [ROYAL STRAIGHT B.B.QUEENS](https://open.spotify.com/album/714trjyhZ51pqjDbpkeFu2) | 3:09 | 2026-03-29 |  |
 | [おーい!!](https://open.spotify.com/track/73NA5fSXLKYLg1GJKmEUll) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [おーい!!](https://open.spotify.com/album/5rbLyHi0sWC4D8sGFDBHVk) | 3:51 | 2026-03-29 |  |
-| [じゃがバタコーンさん](https://open.spotify.com/track/0JsmFQKIYzb7lV91KxtNok) | [ManaKana](https://open.spotify.com/artist/5ygZ5IlxuBaEHI85qfNRqw) | [ベース・マガジン監修 唸る低音の魅力「このベースラインを聴け！」アニメ・特撮編](https://open.spotify.com/album/4jngC6lx5mRE6Ow1PqSV3x) | 2:31 | 2026-03-29 |  |
+| [じゃがバタコーンさん](https://open.spotify.com/track/0JsmFQKIYzb7lV91KxtNok) | [ManaKana](https://open.spotify.com/artist/5ygZ5IlxuBaEHI85qfNRqw) | [ベース・マガジン監修 唸る低音の魅力「このベースラインを聴け！」アニメ・特撮編](https://open.spotify.com/album/4jngC6lx5mRE6Ow1PqSV3x) | 2:31 | 2026-03-29 | 2026-04-09 |
+| [じゃがバタコーンさん](https://open.spotify.com/track/2H1FJIpp8hoDaq86hisXqQ) | [ManaKana](https://open.spotify.com/artist/5ygZ5IlxuBaEHI85qfNRqw) | [じゃがバタコーンさん](https://open.spotify.com/album/7vbjXLPlaADLofiYbkxtkM) | 2:34 | 2026-04-09 |  |
 | [すすめナンセンス](https://open.spotify.com/track/2Stxh7iuFT8Y2mFEqYr235) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [すすめナンセンス](https://open.spotify.com/album/6EiCvUnkaBlswYGgumQOpo) | 4:12 | 2026-03-29 |  |
 | [ずっと ともだち](https://open.spotify.com/track/0e3bzmVGDbaHeuJIixJ3hW) | [アンドレア・シン・ネプ・ジュリア・シンニー](https://open.spotify.com/artist/7cYIhH8BQK6lw2gHc9qHuP) | [「映画ちびまる子ちゃん　イタリアから来た少年」ミュージックアルバム](https://open.spotify.com/album/7al5UXDqg31Wfd8HIOc3tO) | 1:21 | 2026-03-29 |  |
+| [ちびまる子音頭](https://open.spotify.com/track/4pIuIrio4Lpyk4ndMcV580) | [ManaKana](https://open.spotify.com/artist/5ygZ5IlxuBaEHI85qfNRqw) | [おどるポンポコリン / ちびまる子音頭](https://open.spotify.com/album/0OERhAMHFiYRpkw4G9M2Pl) | 2:58 | 2026-04-09 |  |
 | [ゆめいっぱい \- Cover](https://open.spotify.com/track/6LBsaxjOkXIkzliEt4YFid) | [有馬ゆみこ](https://open.spotify.com/artist/1oSTnOvEeh8zxbSBvtUYbw) | [ゆめいっぱい \(Cover\)](https://open.spotify.com/album/51AxOHsHEfEOlk9QfXl9GU) | 3:13 | 2026-03-29 |  |
 | [アララの呪文/ちびまる子ちゃんwith爆チュー問題](https://open.spotify.com/track/0qrXfYnBlM5evgPlZXsMW2) | [Chibi Maruko Chan](https://open.spotify.com/artist/6MINhV2wjwirRk4iMcIN4A) | [お笑い芸人★SONG STYLE](https://open.spotify.com/album/3EgBn5cW6LEWWlOMxeSBe3) | 3:10 | 2026-03-29 |  |
 | [キミを忘れないよ](https://open.spotify.com/track/4ClDTyw9XakQONBFENhdar) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [V](https://open.spotify.com/album/5EMbywoRGYkMs5JKQNxC1Y) | 4:36 | 2026-03-29 |  |

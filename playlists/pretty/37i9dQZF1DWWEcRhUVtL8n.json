@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Sofia D'Angelo",
-  "num_followers": 1672685,
+  "num_followers": 1672626,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Days Of Us",
-        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "So What",
         "url": "https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 271213,
       "name": "So What",
       "url": "https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Days Of Us",
+        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/4euJCjgfNymsvUFMJ6W8jd"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 153101,
       "name": "Blue",
       "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -827,22 +827,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "LEZ GO!",
-        "url": "https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv"
+        "name": "Rabbits Can Swim",
+        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
       },
       "artists": [
         {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        },
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
         }
       ],
-      "duration_ms": 164566,
-      "name": "LEZ GO!",
-      "url": "https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC"
+      "duration_ms": 253675,
+      "name": "Rabbits Can Swim",
+      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -863,6 +859,26 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
+        "name": "LEZ GO!",
+        "url": "https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        },
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 164566,
+      "name": "LEZ GO!",
+      "url": "https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
         "name": "The Clearing",
         "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 229880,
       "name": "Just Two Girls",
       "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Rabbits Can Swim",
-        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 253675,
-      "name": "Rabbits Can Swim",
-      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
     },
     {
+      "added_at": "2026-04-03 04:02:32",
+      "album": {
+        "name": "2515",
+        "url": "https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 241100,
+      "name": "2515",
+      "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
+    },
+    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "In Twos",
@@ -1121,22 +1137,6 @@
       "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
     },
     {
-      "added_at": "2026-04-03 04:02:32",
-      "album": {
-        "name": "2515",
-        "url": "https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 241100,
-      "name": "2515",
-      "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
-    },
-    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "The Lady on the Moon",
@@ -1151,22 +1151,6 @@
       "duration_ms": 187720,
       "name": "The Lady on the Moon",
       "url": "https://open.spotify.com/track/4N00gwXcw0WQzxngbwztnu"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2026-03-20 04:00:48",
       "album": {
-        "name": "Stupid Bitches",
-        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
       },
       "artists": [
         {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 211893,
-      "name": "Stupid Bitches",
-      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1223,6 +1207,22 @@
       "duration_ms": 116000,
       "name": "Messy Hair",
       "url": "https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "Stupid Bitches",
+        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Stupid Bitches",
+      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1357,6 +1357,22 @@
       "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
     },
     {
+      "added_at": "2026-03-27 05:14:04",
+      "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt"
+    },
+    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "Drama King",
@@ -1387,22 +1403,6 @@
       "duration_ms": 139363,
       "name": "Roamer",
       "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
-    },
-    {
-      "added_at": "2026-03-27 05:14:04",
-      "album": {
-        "name": "Never Let Go",
-        "url": "https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM"
-      },
-      "artists": [
-        {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1501,6 +1501,26 @@
       "url": "https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr"
     },
     {
+      "added_at": "2026-04-03 04:34:33",
+      "album": {
+        "name": "Reputation / Bobby",
+        "url": "https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 235705,
+      "name": "Reputation (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL"
+    },
+    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "Fine",
@@ -1585,6 +1605,22 @@
       "url": "https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp"
     },
     {
+      "added_at": "2026-03-27 05:14:04",
+      "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 265278,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN"
+    },
+    {
       "added_at": "2026-03-20 04:00:48",
       "album": {
         "name": "Hi My Love",
@@ -1599,22 +1635,6 @@
       "duration_ms": 176486,
       "name": "Hi My Love",
       "url": "https://open.spotify.com/track/5ZHRKtrosRwOzUHv7WmyGK"
-    },
-    {
-      "added_at": "2026-03-27 05:14:04",
-      "album": {
-        "name": "Come To God",
-        "url": "https://open.spotify.com/album/3LdJFujF3iS82kdG8KMNdo"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 157446,
-      "name": "Come To God",
-      "url": "https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J"
     },
     {
       "added_at": "2026-03-20 04:00:48",
@@ -1639,54 +1659,18 @@
     {
       "added_at": "2026-03-27 05:14:04",
       "album": {
-        "name": "Icarus",
-        "url": "https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn"
+        "name": "Come To God",
+        "url": "https://open.spotify.com/album/3LdJFujF3iS82kdG8KMNdo"
       },
       "artists": [
         {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
         }
       ],
-      "duration_ms": 265278,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN"
-    },
-    {
-      "added_at": "2026-04-03 04:34:33",
-      "album": {
-        "name": "Reputation / Bobby",
-        "url": "https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 235705,
-      "name": "Reputation (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL"
-    },
-    {
-      "added_at": "2026-03-20 04:00:48",
-      "album": {
-        "name": "just friends",
-        "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
-      },
-      "artists": [
-        {
-          "name": "camille blackman",
-          "url": "https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc"
-        }
-      ],
-      "duration_ms": 208363,
-      "name": "just friends",
-      "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
+      "duration_ms": 157446,
+      "name": "Come To God",
+      "url": "https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J"
     },
     {
       "added_at": "2026-03-27 05:14:04",
@@ -1703,6 +1687,22 @@
       "duration_ms": 225477,
       "name": "Kiss&Tell",
       "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
+    },
+    {
+      "added_at": "2026-03-20 04:00:48",
+      "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
+      },
+      "artists": [
+        {
+          "name": "camille blackman",
+          "url": "https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc"
+        }
+      ],
+      "duration_ms": 208363,
+      "name": "just friends",
+      "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
     }
   ],
   "unique_name": "Indie Pop",

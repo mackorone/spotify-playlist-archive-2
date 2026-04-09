@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258 likes - 119 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 260 likes - 119 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 60 | [You Got Something](https://open.spotify.com/track/4K1atQYqkLTKgDIizEqSr1) | [Rochelle](https://open.spotify.com/artist/55RKbZHb1yAXuvEHTIyaxJ) | [\#Clubvibes](https://open.spotify.com/album/3Io7HqKhxzrSIIdXA9bGhX) | 3:03 |
 | 61 | [Write Our Names](https://open.spotify.com/track/04L0p8GVp0O2OL8MXMjlsB) | [Moxie Raia](https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [931 Reloaded](https://open.spotify.com/album/6uwfQz4ZsOX5VZ2cj8KmfX) | 4:05 |
 | 62 | [PARA OLVIDARME DE TI](https://open.spotify.com/track/35KAbrp0kn0kqjTVL7qHjE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:40 |
-| 63 | [Take the Money and Run](https://open.spotify.com/track/19tMN8umiBe8059CFFuAJO) | [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [We Got This \(Special Edition\)](https://open.spotify.com/album/449UVVqfNmuvAJ5DmzqaeD) | 2:44 |
-| 64 | [boy you turn me](https://open.spotify.com/track/5xM6Saib7CixujU8BFW2eN) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [boy you turn me](https://open.spotify.com/album/0yYcF3WuWkHIYpsyWUpRfA) | 3:12 |
+| 63 | [boy you turn me](https://open.spotify.com/track/5xM6Saib7CixujU8BFW2eN) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [boy you turn me](https://open.spotify.com/album/0yYcF3WuWkHIYpsyWUpRfA) | 3:12 |
+| 64 | [Take the Money and Run](https://open.spotify.com/track/19tMN8umiBe8059CFFuAJO) | [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [We Got This \(Special Edition\)](https://open.spotify.com/album/449UVVqfNmuvAJ5DmzqaeD) | 2:44 |
 | 65 | [Absofuckinglutely](https://open.spotify.com/track/1p3vZodO5QqYSWUrjqgsXe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC) | 3:23 |
 | 66 | [Can't Get Enough](https://open.spotify.com/track/2jvE5LxxAC1XX6pjSgUHf7) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hope](https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj) | 3:12 |
 | 67 | [Holy Love](https://open.spotify.com/track/0f4px6Ke8B28tqXoc9QZSP) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Holy Love](https://open.spotify.com/album/72hLhU3ag5VdY6kbpnXvFM) | 2:58 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 78 | [Sellotape](https://open.spotify.com/track/2Wvsl6iJXxtHd3b17C7aZ5) | [Alexandru](https://open.spotify.com/artist/7BV24wLOUYAjUipNBRn3mK) | [Sellotape](https://open.spotify.com/album/3dm7sl4eVeS5bx7TkbpD3u) | 3:20 |
 | 79 | [Bonnie and Clyde](https://open.spotify.com/track/6h61j9KAM3OkF8OxL0B6yH) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 2:47 |
 | 80 | [Warrior](https://open.spotify.com/track/16eOb6ZJoI7SjOGLsdAuPf) | [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Warrior](https://open.spotify.com/album/5RxilnkuJWcVk67WGbU2i8) | 3:48 |
-| 81 | [Killer](https://open.spotify.com/track/1I5yDkgWPTEFh2kRGpsXnV) | [Skism](https://open.spotify.com/artist/4P81VkbUxQrMmNwYnzliqJ), [DC Breaks](https://open.spotify.com/artist/4D5VLxuFvZ058Z5S8YmE47), [Dee Freer](https://open.spotify.com/artist/65C9c2Gl9jUDyhNdJlnhXk) | [Division Series Part 1](https://open.spotify.com/album/11e0y9RoMwOIxepGERPRC1) | 5:05 |
+| 81 | [Killer \- Tantrum Desire Remix](https://open.spotify.com/track/5MDkUf9LMhBqizMC6z3b9v) | [Skism](https://open.spotify.com/artist/4P81VkbUxQrMmNwYnzliqJ), [DC Breaks](https://open.spotify.com/artist/4D5VLxuFvZ058Z5S8YmE47), [Dee Freer](https://open.spotify.com/artist/65C9c2Gl9jUDyhNdJlnhXk), [Tantrum Desire](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS) | [Division Series Part 1](https://open.spotify.com/album/11e0y9RoMwOIxepGERPRC1) | 4:44 |
 | 82 | [Fly \- Radio Version](https://open.spotify.com/track/2d3FYOTWozvoxoiXZhiaeG) | [Mark With a K](https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ), [Maegan Cottone](https://open.spotify.com/artist/3d8BRJdkVQMFmdRu2eR3yg) | [Forever Young](https://open.spotify.com/album/3CkCzMKZtnEGLEdRx6Jwq5) | 3:13 |
 | 83 | [Closer](https://open.spotify.com/track/2Iib7HMLBNv9xjYYzSUd8p) | [Ferras](https://open.spotify.com/artist/3ZajykUFFll0Xwgal0fQfO) | [Closer](https://open.spotify.com/album/10xMwfShJrqB5AMXDAvQaJ) | 4:32 |
 | 84 | [Sucker](https://open.spotify.com/track/4xVmb9KmPp1cV5uo78869g) | [Misunderstood](https://open.spotify.com/artist/4WYL3FlpuOq1TPtVu8rA1G) | [Sucker / Imma Do My Thang](https://open.spotify.com/album/2VNqLVCqxcCQpDokaUuBpC) | 3:04 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 118 | [The Greatest \- Vocal Mix](https://open.spotify.com/track/1lEeOgUqCTAYK9rBA3gPBc) | [Mell Tierra](https://open.spotify.com/artist/0mRnzQ57yTuNxmAQWqKzYO), [Maegan Cottone](https://open.spotify.com/artist/3d8BRJdkVQMFmdRu2eR3yg) | [The Greatest](https://open.spotify.com/album/6ssf0Pv7erh4z26k7Iu2Tl) | 5:37 |
 | 119 | [Girls \- Radio Edit](https://open.spotify.com/track/4R87R0NWr7o6kE7lYqRi6p) | [Yves Larock & Tony Sylla](https://open.spotify.com/artist/1hbYJOKyrqE7h6nxPlBpZu), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Girls \(Radio Edit\)](https://open.spotify.com/album/6Fc4SUyyITx6ZWy9v9p2Qc) | 3:25 |
 
-Snapshot ID: `AcOP9gAAAADQ3eY7irelHohNOMhimr2a`
+Snapshot ID: `AcOVlgAAAACtRGu6btPiPCA7IeEyOdnx`

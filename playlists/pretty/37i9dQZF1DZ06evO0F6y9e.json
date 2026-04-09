@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1111098,
+  "num_followers": 1111327,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAABWz0yovnbiq2sp/exbZfIX",
+  "snapshot_id": "adRJAAAAAADy/dPNuoCrBj4RYAR67bA7",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amor So\u00f1ado",
-        "url": "https://open.spotify.com/album/3wJhgrOnIBr48L7sHR1CXr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "El Amor So\u00f1ado",
-      "url": "https://open.spotify.com/track/70ncc1JFwpmMxfmyfGC7nL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa (En Vivo)",
         "url": "https://open.spotify.com/album/6Mwro5bwXUMFUKVNjEwgPy"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 263100,
       "name": "T\u00fa (En Vivo)",
       "url": "https://open.spotify.com/track/3nT2AC1cXNCFYL2FDIzwGp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Amor So\u00f1ado",
+        "url": "https://open.spotify.com/album/3wJhgrOnIBr48L7sHR1CXr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "El Amor So\u00f1ado",
+      "url": "https://open.spotify.com/track/70ncc1JFwpmMxfmyfGC7nL"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Canse de Amarte",
-        "url": "https://open.spotify.com/album/3dICCmVAjGk6jEStG8ajYD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Corporacion",
-          "url": "https://open.spotify.com/artist/4cFJzREymbjXas09arEp5o"
-        }
-      ],
-      "duration_ms": 198294,
-      "name": "Me Canse de Amarte",
-      "url": "https://open.spotify.com/track/2aGJ0y8jMmS4szjb4COtMG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 214067,
       "name": "Deja (En Vivo)",
       "url": "https://open.spotify.com/track/061ZBrJy7HX9bSQR0uw77g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Canse de Amarte",
+        "url": "https://open.spotify.com/album/3dICCmVAjGk6jEStG8ajYD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Corporacion",
+          "url": "https://open.spotify.com/artist/4cFJzREymbjXas09arEp5o"
+        }
+      ],
+      "duration_ms": 198294,
+      "name": "Me Canse de Amarte",
+      "url": "https://open.spotify.com/track/2aGJ0y8jMmS4szjb4COtMG"
     },
     {
       "added_at": null,

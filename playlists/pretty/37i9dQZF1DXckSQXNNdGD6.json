@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Ouineta.",
-  "num_followers": 21319,
+  "num_followers": 21317,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,18 @@
     {
       "added_at": "2026-04-07 22:00:22",
       "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/24zbNGOGUKdAzsHIsa7zxL"
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn"
       },
       "artists": [
         {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Juacko",
-          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
         }
       ],
-      "duration_ms": 131150,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr"
+      "duration_ms": 156000,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP"
     },
     {
       "added_at": "2026-04-07 22:00:22",
@@ -323,18 +319,22 @@
     {
       "added_at": "2026-04-07 22:00:22",
       "album": {
-        "name": "Primavera",
-        "url": "https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn"
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/24zbNGOGUKdAzsHIsa7zxL"
       },
       "artists": [
         {
-          "name": "Joanna Crass",
-          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP"
+      "duration_ms": 131150,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr"
     },
     {
       "added_at": "2026-04-07 22:00:22",

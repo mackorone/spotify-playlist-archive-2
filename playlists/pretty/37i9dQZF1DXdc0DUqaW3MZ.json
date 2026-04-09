@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 375084,
+  "num_followers": 375117,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -963,30 +963,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
-      },
-      "artists": [
-        {
-          "name": "Sensur\u00e9",
-          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
-        },
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        },
-        {
-          "name": "Rastreep",
-          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
+      },
+      "artists": [
+        {
+          "name": "Sensur\u00e9",
+          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
+        },
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        },
+        {
+          "name": "Rastreep",
+          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "DUN DI DUN",
-        "url": "https://open.spotify.com/album/6yiQLSFVe8zT2NtvPBedUd"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        },
-        {
-          "name": "SOXX",
-          "url": "https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw"
-        }
-      ],
-      "duration_ms": 162439,
-      "name": "DUN DI DUN",
-      "url": "https://open.spotify.com/track/3Z9nSzxrucQVMXS8cfOYzr"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "DUN DI DUN",
+        "url": "https://open.spotify.com/album/6yiQLSFVe8zT2NtvPBedUd"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        },
+        {
+          "name": "SOXX",
+          "url": "https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw"
+        }
+      ],
+      "duration_ms": 162439,
+      "name": "DUN DI DUN",
+      "url": "https://open.spotify.com/track/3Z9nSzxrucQVMXS8cfOYzr"
     },
     {
       "added_at": "2026-03-13 00:00:07",

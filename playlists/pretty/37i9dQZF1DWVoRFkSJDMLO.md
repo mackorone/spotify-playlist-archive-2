@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in world music\. From the continent, to the islands with Omah Lay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,781 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,804 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 6 | [WE JUS CHILLIN](https://open.spotify.com/track/3jaRYEhFhFZncOx5gjPOEa) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [WE JUS CHILLIN](https://open.spotify.com/album/0PU0q4665CcVBcDRG5aEnS) | 2:29 |
 | 7 | [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 |
 | 8 | [I Believe In Better](https://open.spotify.com/track/4DQ5zn0wZytaZYM6UjLlMY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Believe In Better](https://open.spotify.com/album/5JEpbiNqmy1IfsdrM8SQks) | 2:33 |
-| 9 | [Joy \(feat\. Jux\)](https://open.spotify.com/track/5rdXPdk1QvAeoopHdtPkNF) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Joy \(feat\. Jux\)](https://open.spotify.com/album/3a2w2RtqfDtsZ0fAw9Q9uE) | 3:39 |
+| 9 | [Joy](https://open.spotify.com/track/5rdXPdk1QvAeoopHdtPkNF) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Joy](https://open.spotify.com/album/3a2w2RtqfDtsZ0fAw9Q9uE) | 3:39 |
 | 10 | [Paranoid Riddim \- Brawta Mini Mix](https://open.spotify.com/track/4rxs0CmzPD7MMLGxHcszWO) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Y2K Dancehall Gold \(Paranoid Riddim\)](https://open.spotify.com/album/4xpzGwgcdCCGAWzkiCur9w) | 4:03 |
 | 11 | [PopStar](https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [PopStar](https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL) | 2:36 |
 | 12 | [Bounce](https://open.spotify.com/track/6gBThFhnhTl3gf5KKWVzlY) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Bounce](https://open.spotify.com/album/2kINW1AylHJXbip4jDmDFm) | 2:43 |

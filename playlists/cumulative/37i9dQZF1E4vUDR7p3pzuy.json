@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, This Eternal Decay, JUST LIZZY and more",
+  "description": "With Ari Mason, This Eternal Decay, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -732,7 +732,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 152842,
       "name": "Bar Fight with Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/7qHzNi3KQOrMKAitWSd8rM"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 293142,
       "name": "Black Death Party",
       "url": "https://open.spotify.com/track/795CxOmL0SPYFCw5aHlZBE"
@@ -1644,6 +1644,24 @@
       "duration_ms": 208500,
       "name": "Cocoon - Redux",
       "url": "https://open.spotify.com/track/4fxBZYoB8NYG01fjZUvzVg"
+    },
+    {
+      "album": {
+        "name": "Come Away With Me",
+        "url": "https://open.spotify.com/album/6Hz5supO2FCCiOicqBTbxQ"
+      },
+      "artists": [
+        {
+          "name": "Powersiren",
+          "url": "https://open.spotify.com/artist/559zNEbrpnS3vGH2os9LYe"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230475,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/2eAarNEvaN2AeEpYE6rcwX"
     },
     {
       "album": {
@@ -2391,6 +2409,24 @@
     },
     {
       "album": {
+        "name": "Devine",
+        "url": "https://open.spotify.com/album/1n5kYCRt4NTc2aIXwl3x73"
+      },
+      "artists": [
+        {
+          "name": "Something Broke",
+          "url": "https://open.spotify.com/artist/2S1Wi59Xgn8PkgdKoI0q86"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257806,
+      "name": "Devine",
+      "url": "https://open.spotify.com/track/1dyeriqJfJaBo8exe4rIrf"
+    },
+    {
+      "album": {
         "name": "Diamond Dust",
         "url": "https://open.spotify.com/album/4z3rc3W4CbW3jks9iOIY5n"
       },
@@ -2706,7 +2742,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 153000,
       "name": "Electron Echo",
       "url": "https://open.spotify.com/track/6J9sNFT4cgfHCw2s23L8nJ"
@@ -3896,7 +3932,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 390765,
       "name": "HEADRUSH",
       "url": "https://open.spotify.com/track/5LWbpBBZBZCF2EYzhc7FzO"
@@ -4044,7 +4080,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 272359,
       "name": "Hingi \"Beauty\" (Part II)",
       "url": "https://open.spotify.com/track/0SoaBgTod3yMZLzI8sGCJ0"
@@ -4898,7 +4934,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 186803,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/4468rcPpL0NyU9uu2NCPQm"
@@ -5386,7 +5422,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -5858,7 +5894,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 197811,
       "name": "MINOTAUR",
       "url": "https://open.spotify.com/track/47My6EV8qNkxAqYDe1HsxQ"
@@ -6498,6 +6534,24 @@
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
+    },
+    {
+      "album": {
+        "name": "Only daughter",
+        "url": "https://open.spotify.com/album/42iNG5Clr2QVuQDPc1hXKK"
+      },
+      "artists": [
+        {
+          "name": "Cherry Rype",
+          "url": "https://open.spotify.com/artist/4w2UzxcZUIGFRo7znd5gCl"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248470,
+      "name": "Only daughter",
+      "url": "https://open.spotify.com/track/38Uli9oYCw1rQDkV8PH8RX"
     },
     {
       "album": {
@@ -7264,7 +7318,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 186549,
       "name": "Robey Ven",
       "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
@@ -8062,7 +8116,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -8720,7 +8774,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 240744,
       "name": "Sweet Nightmare",
       "url": "https://open.spotify.com/track/3FCyLMarwPGkjLi9TWbgcO"
@@ -10784,7 +10838,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
@@ -10950,6 +11004,24 @@
       "duration_ms": 130909,
       "name": "Yes (I Do)",
       "url": "https://open.spotify.com/track/11fWiXfXhNeWr6bJa2cU9U"
+    },
+    {
+      "album": {
+        "name": "Yielding And Melting",
+        "url": "https://open.spotify.com/album/6ENiqZfxDJvYk0vKez6UP8"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199915,
+      "name": "Yielding And Melting",
+      "url": "https://open.spotify.com/track/1cOjn8QDRIDGxCb8H1q4vC"
     },
     {
       "album": {

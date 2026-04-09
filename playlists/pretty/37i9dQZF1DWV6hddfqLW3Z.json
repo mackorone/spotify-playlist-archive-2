@@ -387,6 +387,22 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
+        "name": "Multishow Ao Vivo Vanessa da Mata",
+        "url": "https://open.spotify.com/album/7q8glgZ0K2PgqTahLyVWnz"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "Um Dia, um Adeus - Ao Vivo",
+      "url": "https://open.spotify.com/track/5MnZisUGPBNKrV4jF9BHt8"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
         "name": "F\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 212601,
       "name": "F\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
-        "name": "Multishow Ao Vivo Vanessa da Mata",
-        "url": "https://open.spotify.com/album/7q8glgZ0K2PgqTahLyVWnz"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Um Dia, um Adeus - Ao Vivo",
-      "url": "https://open.spotify.com/track/5MnZisUGPBNKrV4jF9BHt8"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Top Hits",
-        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 249706,
-      "name": "Lenha",
-      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Ofert\u00f3rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 200045,
       "name": "Reconvexo - Ao Vivo",
       "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Top Hits",
+        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "Lenha",
+      "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 160238,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
         "name": "Todas Elas (Deluxe)",
         "url": "https://open.spotify.com/album/34Z3IDAEuX79HesCNLuqL1"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Voltar \u00e0 Bahia",
-      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Beleza. Mas agora a gente faz o que com isso?",
         "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 158461,
       "name": "A Janela, Carolina",
       "url": "https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Voltar \u00e0 Bahia",
+      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "When The Wind Blows (Private Sessions)",
-        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 244393,
-      "name": "When The Wind Blows - Private Sessions",
-      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "When The Wind Blows (Private Sessions)",
+        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 244393,
+      "name": "When The Wind Blows - Private Sessions",
+      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
     },
     {
       "added_at": "2025-11-25 18:54:26",

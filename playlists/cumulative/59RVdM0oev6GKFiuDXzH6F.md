@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,111 songs - 2 day 9 hr 17 min
+1,112 songs - 2 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Get It On](https://open.spotify.com/track/4QryNI4cucQVq1a18UFQf4) | [eta](https://open.spotify.com/artist/2FSu23hGhue4feJAI3hqhH), [Scrubs](https://open.spotify.com/artist/4wyBp64RJp2LYVBfph72Eq) | [Get It On](https://open.spotify.com/album/3yMxB6z0HrcHPRvU3fngce) | 3:17 | 2023-08-10 | 2023-12-14 |
 | [Get Low](https://open.spotify.com/track/6tj1oCWq8QkShD7Vuy32jA) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P) | [Get Low](https://open.spotify.com/album/42T9vOwFLuLmFDqWqBk0Zb) | 2:37 | 2023-02-17 | 2023-08-02 |
 | [Get Naughty](https://open.spotify.com/track/7MpGvAMPPNOWyRQhtb2B9n) | [DJ Phiil](https://open.spotify.com/artist/35znlAHDErseuKLFWNbM0E) | [Get Naughty](https://open.spotify.com/album/078Yv8kYGcwLwuOKufsViS) | 3:27 | 2025-09-12 |  |
+| [Get Naughty](https://open.spotify.com/track/2D1HSXrCtNgVuUd2MmP2zg) | [Erisson](https://open.spotify.com/artist/1yHGctnsBB6v3taOqQJCFk) | [Get Naughty](https://open.spotify.com/album/3wKs5OkaYvLzEpwhikR50z) | 3:03 | 2026-04-08 |  |
 | [Get Real High](https://open.spotify.com/track/3Ku4xcxvaRIRJAUNBZYQMy) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Get Real High](https://open.spotify.com/album/44Aa6OmcMPoRwSuMeILj6p) | 3:06 | 2023-05-01 | 2023-05-24 |
 | [Get Shaky](https://open.spotify.com/track/3lmvwxi0iX53UAwrl5YShV) | [Ian Carey Project](https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Get Shaky](https://open.spotify.com/album/0MgNmWt1iK8KnEG50nxH4u) | 2:43 | 2023-10-26 | 2024-09-26 |
 | [Get Shaky \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/42O31gY8N28p4DAk7YYkeM) | [Ian Carey Project](https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Get Shaky \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/5zy8MwNKpdh8E8nLnEQgHi) | 2:30 | 2023-04-14 | 2024-09-26 |

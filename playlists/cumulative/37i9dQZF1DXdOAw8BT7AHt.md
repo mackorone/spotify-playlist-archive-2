@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Tiger's Jaw
 
-686 songs - 1 day 10 hr 25 min
+687 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [Wisteria](https://open.spotify.com/track/7q5j5GjFRsu5C8udZqjrKO) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [Wisteria](https://open.spotify.com/album/2PYOmDSmGSY36LGjGMLB8A) | 4:52 | 2025-02-07 |  |
 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 | 2023-11-13 | 2025-02-08 |
 | [Wretched Trajectory](https://open.spotify.com/track/607oeYyNz1K55WF6foHzus) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Wretched Trajectory](https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y) | 2:46 | 2024-10-10 | 2024-11-19 |
+| [XO](https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg) | [How Much Art](https://open.spotify.com/artist/588xSD6VuBMAZf1xqf6qPy) | [XO](https://open.spotify.com/album/46AHcZ5qg9wiXaTOyOQoTD) | 2:56 | 2026-04-08 |  |
 | [Y a pu d'poude dans poude](https://open.spotify.com/track/7yqBu5Err3V56zeg4bLdMB) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [Y a pu d'poude dans poude](https://open.spotify.com/album/3zDjZy9W8RVjSrruCLrJ7j) | 2:48 | 2024-11-15 | 2024-12-10 |
 | [Yankee Trails](https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [PRUDE](https://open.spotify.com/album/4SiGEjeock157xR33nCQdb) | 2:47 | 2024-10-10 | 2025-02-08 |
 | [Yo Homo](https://open.spotify.com/track/0VsjCGFUsf5EydQvlIg0k4) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Yo Homo](https://open.spotify.com/album/6BFEkqiI3CAxHLMWxyR0W0) | 3:42 | 2024-06-14 | 2024-07-16 |

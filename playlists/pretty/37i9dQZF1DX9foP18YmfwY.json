@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 375944,
+  "num_followers": 376029,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
+        "name": "Se Eu Tenho o Hoje",
+        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 327961,
+      "name": "Se Eu Tenho o Hoje",
+      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
         "name": "Inflama-Me",
         "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 401500,
       "name": "Inflama-Me",
       "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
-        "name": "Se Eu Tenho o Hoje",
-        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 327961,
-      "name": "Se Eu Tenho o Hoje",
-      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
     },
     {
       "added_at": "2026-03-27 19:13:13",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
-      },
-      "artists": [
-        {
-          "name": "Dyego Afonso",
-          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 405000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
         "name": "Msh ao Teu Lado 2026",
         "url": "https://open.spotify.com/album/1TTKprWxOR3LeOC30P8y6M"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 298155,
       "name": "Cora\u00e7\u00e3o Ferido",
       "url": "https://open.spotify.com/track/4dRpyB80k0HVhW5NVuTDmP"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
+      },
+      "artists": [
+        {
+          "name": "Dyego Afonso",
+          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 405000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
     },
     {
       "added_at": "2026-03-27 19:13:13",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
-        "name": "Ser Mais do Que Ter (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        },
-        {
-          "name": "F\u00e1tima Souza",
-          "url": "https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m"
-        }
-      ],
-      "duration_ms": 446526,
-      "name": "Ser Mais do Que Ter - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 177322,
       "name": "Cora\u00e7\u00e3o de M\u00e3e",
       "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
+        "name": "Ser Mais do Que Ter (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        },
+        {
+          "name": "F\u00e1tima Souza",
+          "url": "https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m"
+        }
+      ],
+      "duration_ms": 446526,
+      "name": "Ser Mais do Que Ter - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35"
     }
   ],
   "unique_name": "M\u00fasica Cat\u00f3lica ",

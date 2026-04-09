@@ -2965,6 +2965,28 @@
     },
     {
       "album": {
+        "name": "Along In A Crowd",
+        "url": "https://open.spotify.com/album/6I9TfOGN2qv1XrkAZpMDgC"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Along In A Crowd",
+      "url": "https://open.spotify.com/track/3bb4NlMrZx2oi75KlY4TJ4"
+    },
+    {
+      "album": {
         "name": "JAGUAR II",
         "url": "https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw"
       },
@@ -14470,7 +14492,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 272423,
       "name": "Deep Harbour - Anz Defensive Mix",
       "url": "https://open.spotify.com/track/6eQUx4zfABBernRRPoUT8Y"
@@ -14496,7 +14518,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 234585,
       "name": "Deep Harbour - Anz Safe Place Mix",
       "url": "https://open.spotify.com/track/6nfdm0c9REAUs4Mch9bXTo"
@@ -28168,7 +28190,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 182533,
       "name": "Hidden Track",
       "url": "https://open.spotify.com/track/4Z8sgj3RKw7ubd3U9FrXSs"
@@ -59271,7 +59293,7 @@
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 123866,
+      "duration_ms": 123865,
       "name": "Stop Counting My Poccets",
       "url": "https://open.spotify.com/track/4POZ7rt05ZOcZCO8MwNDDa"
     },
@@ -70970,7 +70992,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 192440,
       "name": "When The Fat Lady Sings",
       "url": "https://open.spotify.com/track/3jiJa8iROPRh40Ihmb4aVS"

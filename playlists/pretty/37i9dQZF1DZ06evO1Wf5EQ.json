@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAAAqC3WIOwb5G/ww11sH0yCp",
+  "snapshot_id": "adRJAAAAAAD3GbhXKqk7kcExeRmF2p6a",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Department Q (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
+        "name": "They Will Kill You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4zI0xlmNa7wJGKx31W4jHU"
       },
       "artists": [
         {
           "name": "Carlos Rafael Rivera",
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        },
-        {
-          "name": "Alejandro Rafael Rivera",
-          "url": "https://open.spotify.com/artist/7lQk0Mnfyr5MTaxjKEdRa7"
-        },
-        {
-          "name": "Brian Kilgore",
-          "url": "https://open.spotify.com/artist/19hHxqWssEZPiOWfklrBJ7"
         }
       ],
-      "duration_ms": 36448,
-      "name": "Department Q",
-      "url": "https://open.spotify.com/track/39Vwrh3qa7GOTpSJBYoKAj"
+      "duration_ms": 116411,
+      "name": "Maria Reeves",
+      "url": "https://open.spotify.com/track/051RWMYpTL1ZYjZR3C9rGa"
     },
     {
       "added_at": null,
@@ -131,18 +123,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "They Will Kill You (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4zI0xlmNa7wJGKx31W4jHU"
+        "name": "Department Q (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
       },
       "artists": [
         {
           "name": "Carlos Rafael Rivera",
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        },
+        {
+          "name": "Alejandro Rafael Rivera",
+          "url": "https://open.spotify.com/artist/7lQk0Mnfyr5MTaxjKEdRa7"
+        },
+        {
+          "name": "Brian Kilgore",
+          "url": "https://open.spotify.com/artist/19hHxqWssEZPiOWfklrBJ7"
         }
       ],
-      "duration_ms": 116411,
-      "name": "Maria Reeves",
-      "url": "https://open.spotify.com/track/051RWMYpTL1ZYjZR3C9rGa"
+      "duration_ms": 36448,
+      "name": "Department Q",
+      "url": "https://open.spotify.com/track/39Vwrh3qa7GOTpSJBYoKAj"
     },
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "They Will Kill You (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4zI0xlmNa7wJGKx31W4jHU"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 96545,
       "name": "The Sisters",
       "url": "https://open.spotify.com/track/6kqZD0L7nnLyjDHVKi3SwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
     },
     {
       "added_at": null,

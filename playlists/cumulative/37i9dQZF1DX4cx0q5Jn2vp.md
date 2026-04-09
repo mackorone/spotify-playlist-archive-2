@@ -4,7 +4,7 @@
 
 > <3<3<3<3
 
-298 songs - 17 hr 43 min
+300 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Minamahal](https://open.spotify.com/track/024Y5EwwmImmQTqvTAE0tw) | [Ashtine Olviga](https://open.spotify.com/artist/4KDTAaBSkt26X8pFwlV0V5), [Andres Muhlach](https://open.spotify.com/artist/3g6gDjNOWyUSJOZgg7zIpy) | [Minamahal](https://open.spotify.com/album/5xsbAfyymwAiBKJ5Zb6Y9q) | 3:48 | 2025-09-26 | 2025-10-10 |
 | [Mirasol](https://open.spotify.com/track/7zLBGK5lDf5cnAA3ea4xR9) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Mirasol](https://open.spotify.com/album/4K1X6LZLGRSOXBBaGAqvft) | 3:27 | 2024-10-24 | 2024-11-30 |
 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2024-01-10 | 2026-01-27 |
-| [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-06-05 |  |
+| [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-06-05 | 2026-04-09 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-11-04 |  |
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-06-11 | 2024-07-03 |
 | [My Favorite Movie](https://open.spotify.com/track/4rogQcTh9fZvqH6aCUGxuB) | [Gilyan Saludes](https://open.spotify.com/artist/0O9bX2IzP7MxBcpAel5twJ) | [My Favorite Movie](https://open.spotify.com/album/12FgPn7XtNi0REhdTw4DMG) | 3:50 | 2022-04-04 | 2022-07-28 |
@@ -219,6 +219,7 @@
 | [Orasa](https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Orasa](https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq) | 3:48 | 2023-09-13 | 2023-10-19 |
 | [OSA](https://open.spotify.com/track/1rKAz5oWjcoihrFfdhO6cW) | [LILY](https://open.spotify.com/artist/1DFzp62fQet0UoMHoJPn4u) | [OSA](https://open.spotify.com/album/65P7mKpsgmluScj2c7cQYr) | 3:35 | 2025-11-24 | 2025-12-02 |
 | [OYAYI](https://open.spotify.com/track/5iXSkIei0VoKtw8tpsupg3) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Keene Leonor](https://open.spotify.com/artist/71B2UzHJV0hBcWOMY5kUOb) | [OYAYI](https://open.spotify.com/album/6Ds1JbP4vYQ69HmRYPvyBA) | 5:24 | 2024-10-24 | 2024-11-07 |
+| [Pagmamahal](https://open.spotify.com/track/2wDKvXRpikiUEvNBEjGRPa) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Pagmamahal](https://open.spotify.com/album/4veS7T0v7QLIXnpT3pkMci) | 3:08 | 2026-04-08 |  |
 | [Pagtingin](https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Pagtingin](https://open.spotify.com/album/4a0SAaOEW4bxKEvSqSDoQz) | 3:47 | 2022-04-04 | 2022-07-29 |
 | [Pahina](https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 4:09 | 2025-10-10 |  |
 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 | 2024-09-04 | 2025-11-11 |
@@ -255,7 +256,7 @@
 | [Star Song](https://open.spotify.com/track/5TGaPefQfu1Z2exPWU96Vf) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Star Song](https://open.spotify.com/album/1XHBSxQuqSPrzJEmzlKRUB) | 3:56 | 2026-02-10 | 2026-03-10 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-06-11 |  |
 | [Still You](https://open.spotify.com/track/01tlnMZbaHDRuEqdfTbsJo) | [Kyle Juliano](https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5) | [Still You](https://open.spotify.com/album/1G2LUZmx7vzYuam4IVggZv) | 3:28 | 2022-04-04 | 2022-07-29 |
-| [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:03 | 2025-11-05 |  |
+| [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:03 | 2025-11-05 | 2026-04-09 |
 | [Summa Cum Laude](https://open.spotify.com/track/4xnPpy340UhTzo9JdwF5s0) | [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [Summa Cum Laude](https://open.spotify.com/album/5lHWVk8A2xtU2xgiG2KyP5) | 3:22 | 2026-01-26 | 2026-03-10 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2022-06-27 | 2025-07-08 |
 | [Supernova](https://open.spotify.com/track/7bH0QVI7g7kxRN7jN20NyE) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Supernova](https://open.spotify.com/album/3nKKFRuqnq2V1iIYFTCEgV) | 3:54 | 2025-04-14 | 2025-06-03 |
@@ -267,6 +268,7 @@
 | [Take A Chance With Me](https://open.spotify.com/track/21acb66djKRlDPJOXRBCkc) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/0Cu6JzzodKQ5Lzccubu5zj) | 5:03 | 2025-03-03 |  |
 | [Tangi](https://open.spotify.com/track/6gZiPX4GZd3wm2Ko4f3LX3) | [Carl Beley](https://open.spotify.com/artist/50JLRPX2SAUwAfMglz3LiJ) | [Tangi](https://open.spotify.com/album/6icZ498dwWlfGWCGVGoobH) | 4:01 | 2024-12-04 | 2024-12-17 |
 | [Tanging Dahilan](https://open.spotify.com/track/23sa0BogsmnZXkXT7bHDYK) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Daylight](https://open.spotify.com/album/0X7VQJn05fiB3BKGaxeI3M) | 3:08 | 2022-04-04 | 2022-07-29 |
+| [Tanging Hiling](https://open.spotify.com/track/7I6XHxhVPKAZECf4H09lu0) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Tanging Hiling](https://open.spotify.com/album/30YFM6tq4PDTm7WEDvOIxY) | 4:10 | 2026-04-08 |  |
 | [Tanging Ikaw](https://open.spotify.com/track/1mT8L0Da9RmYbx9TUpqU1y) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Tanging Ikaw](https://open.spotify.com/album/5Vo9ijLxjWDZfl11vJhc4a) | 2:56 | 2025-03-18 | 2025-04-15 |
 | [TAPAT](https://open.spotify.com/track/6o54Q9Ueqp6tXraenVdpO8) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [TAPAT](https://open.spotify.com/album/1gfiwsfSxGvBo7SsJSKgqS) | 2:01 | 2025-12-08 | 2026-01-15 |
 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 | 2022-06-27 | 2022-11-28 |

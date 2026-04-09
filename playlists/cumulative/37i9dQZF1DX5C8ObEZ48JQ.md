@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM?si=fa9ggMqLQ\_S9bS7Jgca\_lQ">Hildah Watiri</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1lmt7WTILm10srwXjf4F0M?si=CdlP0hN1TQypn2M3FKRUpw">Phany Love</a>\. Artwork: Isu Kim.
 
 1,460 songs - 3 day 0 hr 55 min
 

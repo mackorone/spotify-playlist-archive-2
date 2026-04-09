@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Trobi, LUNA & Bilal Wahib, Chris Stussy, Ravyn Lenae & Dominic Fike en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,441 likes - 86 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,438 likes - 86 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

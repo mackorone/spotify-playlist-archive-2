@@ -50965,6 +50965,28 @@
     },
     {
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/3a2w2RtqfDtsZ0fAw9Q9uE"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219619,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/5rdXPdk1QvAeoopHdtPkNF"
+    },
+    {
+      "album": {
         "name": "Liberian Boy",
         "url": "https://open.spotify.com/album/1l1ZbJu5nz1CQXK3DwcOnc"
       },
@@ -51038,28 +51060,6 @@
       "duration_ms": 182488,
       "name": "JOY",
       "url": "https://open.spotify.com/track/7m0KC7T9QGF6Lbi41vH5xY"
-    },
-    {
-      "album": {
-        "name": "Joy (feat. Jux)",
-        "url": "https://open.spotify.com/album/3a2w2RtqfDtsZ0fAw9Q9uE"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        }
-      ],
-      "date_added": "2026-04-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219619,
-      "name": "Joy (feat. Jux)",
-      "url": "https://open.spotify.com/track/5rdXPdk1QvAeoopHdtPkNF"
     },
     {
       "album": {
@@ -75876,7 +75876,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 248593,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/738uSGm5K3OPpQyxAtWkbl"
@@ -92485,7 +92485,7 @@
         },
         {
           "name": "Easyscope",
-          "url": "https://open.spotify.com/artist/1CddlLNu7GtSe08OO4cPdo"
+          "url": "https://open.spotify.com/artist/12XWjcOHmJKFDfd4wr7YOh"
         }
       ],
       "date_added": "2026-04-03",

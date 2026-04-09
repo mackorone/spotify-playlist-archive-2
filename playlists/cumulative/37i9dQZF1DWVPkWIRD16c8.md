@@ -4,7 +4,7 @@
 
 > Help your faith keep up with these gas prices.
 
-274 songs - 16 hr 15 min
+275 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Beautiful Day](https://open.spotify.com/track/5CpLuLmPq50KMIHoUA4L8Z) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7) | [Ready to Fly](https://open.spotify.com/album/3diCugOQoocNtu1ToEARHb) | 3:10 | 2019-11-20 | 2024-04-19 |
 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 | 2024-06-07 |  |
 | [Better Things](https://open.spotify.com/track/6BNoldCHXY2BkUvkdtHMwG) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Better Things](https://open.spotify.com/album/6EzwjnweQ1MsVCg1OBSURX) | 2:16 | 2025-09-14 | 2026-03-24 |
-| [Bitter Cup](https://open.spotify.com/track/1aC2XHu88jjgv3k6Eumd8C) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4), [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Bitter Cup](https://open.spotify.com/album/1MYvXf2utnr7N7ZzEwPsqH) | 2:36 | 2026-03-23 |  |
+| [Bitter Cup](https://open.spotify.com/track/1aC2XHu88jjgv3k6Eumd8C) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4), [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Bitter Cup](https://open.spotify.com/album/1MYvXf2utnr7N7ZzEwPsqH) | 2:36 | 2026-03-23 | 2026-04-09 |
 | [Black Sheep](https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Black Sheep](https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI) | 3:53 | 2024-12-11 |  |
 | [Blessings](https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ) | [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Blessings](https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc) | 4:58 | 2019-11-20 | 2024-06-08 |
 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 | 2024-06-07 | 2025-09-15 |
@@ -125,6 +125,7 @@
 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/18lQZaMVdNa4qwbi3tHPKP) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:42 | 2024-06-07 |  |
 | [IN THE LIGHT](https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [STEPPIN in the LIGHT](https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I) | 2:46 | 2024-06-07 |  |
 | [It's Gonna Get Better](https://open.spotify.com/track/2FAe8dckXKBLgKoiDEkdi8) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Better](https://open.spotify.com/album/4nrfC2KI741CXHq1wqvHoY) | 3:22 | 2019-11-20 | 2024-06-08 |
+| [JESUS LOVES ME](https://open.spotify.com/track/6uIarf6X3laYslxgXiii8m) | [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Derek Ryan](https://open.spotify.com/artist/73082XnqLoO2xyCv8vzEed), [UPSIDE DOWN KINGDOMS](https://open.spotify.com/artist/77vVxW0MA0FCKCnZHFAQGq) | [JESUS LOVES ME](https://open.spotify.com/album/2RYXajwuPeoUcfLa38irCx) | 3:14 | 2026-03-23 |  |
 | [Just Watch](https://open.spotify.com/track/6AENZlyGRmIY9GdXeHKRuX) | [WildTribe](https://open.spotify.com/artist/4tVUFyIMhjYGgHvB2PBrli), [Beacon Light](https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk), [Tina Parol](https://open.spotify.com/artist/4Zds9MBMtEgBdze6Jzvmrb) | [Just Watch](https://open.spotify.com/album/4YK7MjKjgrrdGoEOtwAviI) | 2:41 | 2025-09-14 | 2025-12-13 |
 | [Learning To Let Go](https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Real Me](https://open.spotify.com/album/78GU0GtHUsMuU140MvN1wu) | 2:52 | 2024-06-07 |  |
 | [Let It Out](https://open.spotify.com/track/2kNmso15KtU1Ufpc50yapP) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Fading West](https://open.spotify.com/album/1GyzM6vN5fWs2RDCLmJTIz) | 3:19 | 2024-12-11 |  |

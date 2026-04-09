@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Look for the Force",
+        "url": "https://open.spotify.com/album/4hid5dlCRtnbGVydxpCijo"
+      },
+      "artists": [
+        {
+          "name": "Royish Good Looks",
+          "url": "https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Look for the Force",
+      "url": "https://open.spotify.com/track/7mHVL6sPURkaYe5kqCv5aH"
+    },
+    {
+      "album": {
         "name": "Days of Thunder",
         "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
       },

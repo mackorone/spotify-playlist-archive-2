@@ -2,7 +2,7 @@
 
 ### [Dark & Gothic](https://open.spotify.com/playlist/37i9dQZF1DX0Nb1cyWS6Tq)
 
-> Bela Lugosi's Dead..\. Bauhaus on cover.
+> Release the bats..\. The Cure on cover.
 
 306 songs - 22 hr 55 min
 
@@ -16,7 +16,7 @@
 | [A Strange Kind of Love \(Version One\)](https://open.spotify.com/track/2vInkApeMMPyaMHD2PSp6J) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/4evNdyZjrJGLHWf2azyaCh) | 3:48 | 2021-10-15 | 2022-04-21 |
 | [A Strange Kind of Love \- Version One](https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 3:48 | 2021-10-15 | 2024-04-19 |
 | [Acto de Fe](https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Sigilos y Decretos](https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11) | 3:50 | 2022-08-05 | 2022-09-29 |
-| [Adrenaline](https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw) | [Rosetta Stone](https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK) | [Adrenaline](https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4) | 3:40 | 2021-10-15 |  |
+| [Adrenaline](https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw) | [Rosetta Stone](https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK) | [Adrenaline](https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4) | 3:40 | 2021-10-15 | 2026-04-09 |
 | [Alice](https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV) | 3:34 | 2021-10-15 | 2025-01-10 |
 | [Alice \- John Peel Session: 1982](https://open.spotify.com/track/6nefKdxxJKH9dWlDqdCXmm) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [John Peel Session: 1982](https://open.spotify.com/album/6G7TJnef3i2Yc0bj9UIwaU) | 3:31 | 2021-10-15 | 2022-07-16 |
 | [All We Ever Wanted Was Everything](https://open.spotify.com/track/5ZpXCWCfCL4S6lwrzkmMPQ) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Sky's Gone Out](https://open.spotify.com/album/0Hh7gRebN47X3Ls1dk0ZDV) | 3:52 | 2021-10-15 | 2022-07-29 |
@@ -29,7 +29,7 @@
 | [Are We Still Married?](https://open.spotify.com/track/5E5rlGUOf6IlGQc3N0KeqY) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Home Is In Your Head](https://open.spotify.com/album/0iu87N3DLIcl8QNP1KoNcT) | 2:51 | 2021-10-15 | 2022-04-19 |
 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 | 2021-10-15 |  |
 | [Asimilasyon](https://open.spotify.com/track/513Btbko3502Gth1g7Seyj) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnizlik](https://open.spotify.com/album/5X9YAncsCpzA5XaHCjads4) | 4:14 | 2021-10-15 | 2022-11-14 |
-| [Astrónomo Insumiso](https://open.spotify.com/track/4jAvNrbowuSgqta1xr3Crc) | [Equinoxious](https://open.spotify.com/artist/7lCXpzIudWHsKQ6PMGECaZ) | [Cosmódromo](https://open.spotify.com/album/2oxzZvPi4tKqFj6rh3FfTC) | 4:45 | 2021-10-15 | 2025-12-25 |
+| [Astrónomo Insumiso](https://open.spotify.com/track/4jAvNrbowuSgqta1xr3Crc) | [Equinoxious](https://open.spotify.com/artist/7lCXpzIudWHsKQ6PMGECaZ) | [Cosmódromo](https://open.spotify.com/album/2oxzZvPi4tKqFj6rh3FfTC) | 4:45 | 2021-10-15 |  |
 | [At Moment's Edge](https://open.spotify.com/track/0Rj53bVPLOT1uToDVxuClY) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 5:10 | 2023-10-13 | 2024-02-03 |
 | [Atmosphere](https://open.spotify.com/track/0NBgmP6Yg5xZYsnIZ0pGdo) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 4:10 | 2021-10-15 |  |
 | [Atmosphere \- 2020 Digital Remaster](https://open.spotify.com/track/7k42ztYdHyKWrKrENxwjkV) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Atmosphere](https://open.spotify.com/album/5bXAysvuhQbyWllgYuahwt) | 4:12 | 2021-10-15 | 2024-04-19 |
@@ -62,7 +62,7 @@
 | [Christian Woman](https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 8:58 | 2021-10-15 |  |
 | [Christine](https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 2:59 | 2023-03-17 |  |
 | [Cities In Dust \- Extended Version](https://open.spotify.com/track/630WO6Hx9ma8QSx2Ey1WKx) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox \(Remastered & Expanded\)](https://open.spotify.com/album/1dGCktgKqiCSlf5PxDZ6Up) | 6:49 | 2021-10-15 | 2022-06-27 |
-| [Come to Me](https://open.spotify.com/track/5j2UiZuZD1McC4NLjUTMMB) | [Robin Carolan](https://open.spotify.com/artist/0We3iIO3yy6XpQ7OSxDVnn) | [Nosferatu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qlFrMn86Pj4AiLkialz9x) | 2:01 | 2025-01-09 |  |
+| [Come to Me](https://open.spotify.com/track/5j2UiZuZD1McC4NLjUTMMB) | [Robin Carolan](https://open.spotify.com/artist/0We3iIO3yy6XpQ7OSxDVnn) | [Nosferatu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qlFrMn86Pj4AiLkialz9x) | 2:01 | 2025-01-09 | 2026-04-09 |
 | [Cosmos](https://open.spotify.com/track/1aNUGgqEc82XTww92M7WM9) | [Transmission](https://open.spotify.com/artist/5UUwxW4pwQAwTDefyPzcvD) | [Cosmos](https://open.spotify.com/album/1aMjqS4T9NdrNsYyjx9oOg) | 4:53 | 2021-10-15 | 2022-04-15 |
 | [Cossacks Are](https://open.spotify.com/track/4ihCn6wzja5AOxVZdahR5z) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [The Drift](https://open.spotify.com/album/3A7Gfj808zT13fi4M4OrwT) | 4:32 | 2021-10-15 | 2022-07-29 |
 | [Cut The Tree](https://open.spotify.com/track/5qqLatt5qjPHoIUpZYGhgw) | [The Wolfgang Press](https://open.spotify.com/artist/30JExXexrTakSa79ce2mn8) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 5:35 | 2022-08-09 | 2022-11-29 |
@@ -182,7 +182,7 @@
 | [Moonchild](https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [The Nephilim](https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP) | 5:40 | 2021-10-15 | 2024-04-19 |
 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 | 2021-10-15 |  |
 | [Mr Clarinet](https://open.spotify.com/track/2zNjck6Vtrfn6rLqlSjVij) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Hee Haw](https://open.spotify.com/album/6ospyfDSkoyS7wrBIpzN38) | 3:43 | 2021-10-15 | 2022-07-29 |
-| [Muscoviet Mosquito](https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 4:03 | 2022-08-09 | 2026-03-10 |
+| [Muscoviet Mosquito](https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 4:03 | 2022-08-09 |  |
 | [Nag, Nag, Nag](https://open.spotify.com/track/5KwcUvb8PYj690XQ5K06ld) | [Cabaret Voltaire](https://open.spotify.com/artist/2kS4yz85MaZlxp2VaS3BEe) | [The Living Legends](https://open.spotify.com/album/2GStT6GQ5HtjeZcCQJWdYh) | 4:41 | 2021-10-15 | 2022-04-17 |
 | [New Liberty](https://open.spotify.com/track/1aPmHyd7NDfugpIzgZ3Opx) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Fuse](https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw) | 3:08 | 2024-08-19 | 2024-11-13 |
 | [Nick The Stripper](https://open.spotify.com/track/5Oxdn1XWn1Gvreq0aTLNh8) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Lilliput](https://open.spotify.com/album/1c2QIcoBAm2fB2YUcDe0v7) | 3:54 | 2021-10-15 | 2022-04-21 |

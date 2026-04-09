@@ -519,6 +519,28 @@
     },
     {
       "album": {
+        "name": "bound to",
+        "url": "https://open.spotify.com/album/3yNcK5owpXiJMFIRQjZsqL"
+      },
+      "artists": [
+        {
+          "name": "Tandems '91",
+          "url": "https://open.spotify.com/artist/26M4OH74JFmRZ2qDJ77sif"
+        },
+        {
+          "name": "Serif",
+          "url": "https://open.spotify.com/artist/0HEonjJEXyvmEYH7yvcZo1"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167837,
+      "name": "bound to",
+      "url": "https://open.spotify.com/track/6Z0HRaEh6CrO7BTmG3RDhn"
+    },
+    {
+      "album": {
         "name": "Love And Soul",
         "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
       },
@@ -1210,7 +1232,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 267200,
       "name": "Hirap Aminin",
       "url": "https://open.spotify.com/track/0kgUhEf0mifj4qTMKiUxqD"
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 180923,
       "name": "i know u by heart",
       "url": "https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY"
@@ -1738,7 +1760,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 183024,
       "name": "Kupido",
       "url": "https://open.spotify.com/track/2ORqUATcWTPab0J6a0cEya"
@@ -1832,6 +1854,24 @@
       "duration_ms": 178488,
       "name": "Libu-Libong Buwan (Uuwian)",
       "url": "https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez"
+    },
+    {
+      "album": {
+        "name": "Lifetime (Reimagined)",
+        "url": "https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277894,
+      "name": "Lifetime (Reimagined)",
+      "url": "https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG"
     },
     {
       "album": {
@@ -2572,7 +2612,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 188190,
       "name": "Pagmamahal",
       "url": "https://open.spotify.com/track/2wDKvXRpikiUEvNBEjGRPa"
@@ -2940,7 +2980,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 130064,
       "name": "Pilit Pinili",
       "url": "https://open.spotify.com/track/60o3NGP1Tj0eTv0Q5tOKFQ"
@@ -3200,7 +3240,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 253000,
       "name": "Saan-saan",
       "url": "https://open.spotify.com/track/63gFonBTMqMR8BRJz0qVXp"
@@ -3769,6 +3809,24 @@
     },
     {
       "album": {
+        "name": "Tanging Hiling",
+        "url": "https://open.spotify.com/album/30YFM6tq4PDTm7WEDvOIxY"
+      },
+      "artists": [
+        {
+          "name": "Noah Alejandre",
+          "url": "https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250533,
+      "name": "Tanging Hiling",
+      "url": "https://open.spotify.com/track/7I6XHxhVPKAZECf4H09lu0"
+    },
+    {
+      "album": {
         "name": "TAPAT",
         "url": "https://open.spotify.com/album/1gfiwsfSxGvBo7SsJSKgqS"
       },
@@ -4228,7 +4286,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 264413,
       "name": "With a Smile (feat. Kelly Badon)",
       "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"

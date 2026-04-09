@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: numa, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: PFOERTNER, Artwork: Isu Kim
 
-1,629 songs - 3 day 18 hr 41 min
+1,633 songs - 3 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [30h Amsterdam](https://open.spotify.com/track/19CHJ3mdskuC3R36pWNszz) | [Westhafen](https://open.spotify.com/artist/6dHHSlyq4f5PqpA2z0uSyd) | [30h Amsterdam](https://open.spotify.com/album/5snGSfi1rzUCx9R9u5U7qu) | 3:53 | 2022-07-13 | 2022-09-01 |
 | [42 Herzen](https://open.spotify.com/track/2sJsHAgb3cIfOSYohlTb9e) | [antwort42](https://open.spotify.com/artist/3tt3iKd8s7aXdgfSmfb4B5) | [Vier/Zwei](https://open.spotify.com/album/1jHf9C7NrMFgzORwO7TzNQ) | 3:09 | 2023-01-04 | 2023-02-16 |
 | [444](https://open.spotify.com/track/6A0kXgaun0zxhtjs28UKw0) | [North Naim](https://open.spotify.com/artist/21M0q2WeCiN12Pa1UWpNCj) | [444](https://open.spotify.com/album/7LpLN7N13cHYadIiadDVYw) | 3:18 | 2022-05-04 | 2022-05-19 |
-| [4ever young](https://open.spotify.com/track/56ttpj0R2j2g0D8D4pNRn8) | [juizz](https://open.spotify.com/artist/136CiaFpOUf41xfSHsHjOJ), [gustl](https://open.spotify.com/artist/6Jbkr6iLebYzxpaJj7dYjs) | [4ever young](https://open.spotify.com/album/6OKRQluVl3LzpEcqLRSEfT) | 1:38 | 2026-02-25 |  |
+| [4ever young](https://open.spotify.com/track/56ttpj0R2j2g0D8D4pNRn8) | [juizz](https://open.spotify.com/artist/136CiaFpOUf41xfSHsHjOJ), [gustl](https://open.spotify.com/artist/6Jbkr6iLebYzxpaJj7dYjs) | [4ever young](https://open.spotify.com/album/6OKRQluVl3LzpEcqLRSEfT) | 1:38 | 2026-02-25 | 2026-04-09 |
 | [5 Minuten](https://open.spotify.com/track/7w2iif1Z58qbW9sdOdJRPF) | [Liener](https://open.spotify.com/artist/3DjVJgrGidS1mxzJZiBbNr) | [5 Minuten](https://open.spotify.com/album/5BL4f9fH95eAnjruKjSKrG) | 3:31 | 2022-04-27 | 2022-05-19 |
 | [5 TB Geduld](https://open.spotify.com/track/3RqYqQWdCZpry51W6CDD33) | [Thelma Malar](https://open.spotify.com/artist/7bJLeTkRR8doK2Y59z6A7H) | [5 TB Geduld](https://open.spotify.com/album/0k91h6loKizIapwHV1OfwR) | 2:37 | 2025-08-13 | 2025-09-11 |
 | [5778](https://open.spotify.com/track/0lQ8MwXv5B7GSDIrALw2x5) | [Jonas Schilling](https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf) | [5778](https://open.spotify.com/album/5iEDxd5JCvUxOrDP96Een5) | 6:34 | 2022-07-06 | 2022-11-24 |
@@ -170,6 +170,7 @@
 | [bittersüß](https://open.spotify.com/track/0RzNGx6VUOF7Dx8vrT5k3q) | [Ella](https://open.spotify.com/artist/7BYZSxoQ6bR249F9EQncPN) | [bittersüß](https://open.spotify.com/album/5WNNBQuB5GIUOHoDEHnt3v) | 2:16 | 2025-11-05 | 2026-03-05 |
 | [Bizarre](https://open.spotify.com/track/2C4R9w75EB2L0WtikmZhqz) | [Grundeis](https://open.spotify.com/artist/7KvUT9udHg6tPuKWwPdQ4p) | [Bizarre](https://open.spotify.com/album/18IXtlSgWQFWk3Pb7L6P7X) | 2:49 | 2024-08-28 | 2024-10-03 |
 | [Björk](https://open.spotify.com/track/4moOB7UcTNq1NxcKuvwvth) | [Sable](https://open.spotify.com/artist/5ON1yVnF128IpSkIdqkupZ) | [Björk](https://open.spotify.com/album/03sy3eZz5Ii1B9TaGMfcoI) | 3:12 | 2025-11-05 | 2026-03-19 |
+| [Black & White Movie](https://open.spotify.com/track/25NzjKXpXyOrUF0ulEHz8g) | [Ella Xylour](https://open.spotify.com/artist/2k98nLSwJfN6ZDug9Hjx8G) | [Black & White Movie](https://open.spotify.com/album/667wEshq0rExIu8xYIMfrP) | 2:42 | 2026-04-08 |  |
 | [Black Horses](https://open.spotify.com/track/1t9tVgHKBxVXqJapWlvakJ) | [Lucy 22](https://open.spotify.com/artist/1Y2zpWghC2JzicNPGf4VMg), [Indieclimb](https://open.spotify.com/artist/5wk5mLirrHPNbkvor0f5S2) | [Black Horses](https://open.spotify.com/album/2qE6CrrfYO0LbXRFAjwMvo) | 4:35 | 2022-09-28 | 2022-10-27 |
 | [Black Queens](https://open.spotify.com/track/3YqRVv2RFWMQhcza2ZPrtc) | [Queenwho](https://open.spotify.com/artist/4b0hnlYMN1Pl30rU6SYcFC) | [Black Queens](https://open.spotify.com/album/5rHj1I2UxgiUDdYXuyNeh1) | 2:51 | 2023-04-05 | 2023-04-20 |
 | [Black Sesame](https://open.spotify.com/track/7wxKP5puWTtABvOfDKDZR1) | [Jeannel](https://open.spotify.com/artist/69kqP1mHMwDajWdU2XKZLZ) | [Black Sesame](https://open.spotify.com/album/1k1GjbmfI7V3vfuhQlTSEM) | 3:03 | 2022-05-18 | 2022-06-23 |
@@ -232,7 +233,7 @@
 | [Built For This](https://open.spotify.com/track/6j5ZJ2jF4mPePeaBnGDqGt) | [KRYSTOF](https://open.spotify.com/artist/7CF7fNQEs6zywjgKSLGE4R) | [Built For This](https://open.spotify.com/album/43fSRuGKZtboo0MJwy9eGG) | 3:10 | 2023-07-12 | 2023-07-27 |
 | [Burning](https://open.spotify.com/track/078INFolOMlxdkBWhItdY5) | [Lucy Fair](https://open.spotify.com/artist/6sEqKHhuSzUK1egrdbgQRd) | [Burning](https://open.spotify.com/album/3LQu9iJDgsD0PBNxrIPK5c) | 3:09 | 2024-10-09 | 2025-01-23 |
 | [Bury](https://open.spotify.com/track/5OSqJ1CTt014a9INi0HLUU) | [Enola Reverof](https://open.spotify.com/artist/01e3nElOItks5SiotTKWA4) | [Bury](https://open.spotify.com/album/6PROlvRu6Bdg4pibyt0djK) | 3:47 | 2022-10-05 | 2022-10-27 |
-| [Bussi](https://open.spotify.com/track/4oJnrR1IuAumWsnRo3EH5f) | [FESCH](https://open.spotify.com/artist/7y78NE05jUeQmUgkIBUezP) | [Bussi](https://open.spotify.com/album/2QPeygUWUFiZfdy09YcWhR) | 3:07 | 2026-03-04 |  |
+| [Bussi](https://open.spotify.com/track/4oJnrR1IuAumWsnRo3EH5f) | [FESCH](https://open.spotify.com/artist/7y78NE05jUeQmUgkIBUezP) | [Bussi](https://open.spotify.com/album/2QPeygUWUFiZfdy09YcWhR) | 3:07 | 2026-03-04 | 2026-04-09 |
 | [Busy Overthinking](https://open.spotify.com/track/6iHnOivqyolVuAeR576xBI) | [Bae Blade](https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA) | [Busy Overthinking](https://open.spotify.com/album/5V0h8Vw3Gw8oaZ93AgpRp1) | 3:26 | 2023-08-23 | 2023-09-14 |
 | [By the Sea](https://open.spotify.com/track/3HsUSsTHJS6Xt1ZVrUM9DM) | [The Komets](https://open.spotify.com/artist/4ACTgWHhFRo3ZbxRpBXUSj) | [Into Bloom](https://open.spotify.com/album/6zRMHHL2ijmWB4IjLBbNoL) | 3:06 | 2022-07-06 | 2022-08-04 |
 | [Bye Bye](https://open.spotify.com/track/4voW9PvdPMb9rdbMCycnrb) | [Leona Shijaku](https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj) | [Bye Bye](https://open.spotify.com/album/0ThgpnHwp5cejxZLmFgHUv) | 2:28 | 2023-09-13 | 2023-09-21 |
@@ -478,7 +479,9 @@
 | [Falling Apart](https://open.spotify.com/track/2y1H7CxjWOorpoplmKJHtU) | [CRIMER](https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX) | [Fake Nails](https://open.spotify.com/album/52JHP8MgyTDqhjWMkwLQC1) | 3:41 | 2022-01-05 | 2022-04-28 |
 | [Falling Deeper](https://open.spotify.com/track/3JqnocKMkWkWoGy6WD5les) | [Shana](https://open.spotify.com/artist/00Xxn1FT2lQsbwD8aaytaZ) | [Falling Deeper](https://open.spotify.com/album/0B0o56lIYpnbSLYDYXnM8p) | 3:18 | 2022-06-22 | 2022-06-30 |
 | [Falling Water](https://open.spotify.com/track/59BeJsUrh1RQo8gI5NcQ7a) | [Dews](https://open.spotify.com/artist/1i7UBFv3yetbDQgSrevr9G) | [Falling Water](https://open.spotify.com/album/03FpiVmDI1xLKfQHY8CZZs) | 3:55 | 2023-03-22 | 2023-06-01 |
+| [famous](https://open.spotify.com/track/2g55ohgMpaLyVpxsLyQTy7) | [PFOERTNER](https://open.spotify.com/artist/3hMw3oWf2mhOG4qBCOJKrC) | [famous](https://open.spotify.com/album/1pDcaFXHoSukO2Q0fTOpau) | 2:35 | 2026-04-08 |  |
 | [Fang mich auf](https://open.spotify.com/track/4pA0PpsxIPVhwwwSCiveY2) | [Kristmann](https://open.spotify.com/artist/7KLZbk0PSap7F23qLNdYim) | [Fang mich auf](https://open.spotify.com/album/5C3KuIzTREekOsltgyRlQG) | 2:38 | 2025-03-26 | 2026-01-15 |
+| [fashion freaks](https://open.spotify.com/track/5GvAGbzXx7iry3DXY2m7WK) | [OSCAR BLAZEE](https://open.spotify.com/artist/0d4e0v5vr6GH6jzUxJj2x5), [dog bliss](https://open.spotify.com/artist/5TfzCYw5bv6jpJiGBPKHAZ) | [faceless kids](https://open.spotify.com/album/4OwRvTAvE9Bp9yOWfJK0Ej) | 2:47 | 2026-04-08 |  |
 | [Fassade](https://open.spotify.com/track/0v5zo1sbZU6Cu6L6NcQI72) | [Angelina](https://open.spotify.com/artist/3MUuMOEdNvxfw2bGxRjVYP) | [Fassade](https://open.spotify.com/album/5nhjJQNu3FBV0ePQvehfYq) | 2:21 | 2026-02-12 |  |
 | [Fear Of Failing](https://open.spotify.com/track/7qTPFUNyS7BOIXbkHfQQz4) | [Minoa](https://open.spotify.com/artist/65NZk6IZ0jdkHO7L0laAvG) | [Fear Of Failing](https://open.spotify.com/album/3nTUlXG8vbU4CSefdXpjsG) | 6:02 | 2022-01-19 | 2022-02-17 |
 | [Feel](https://open.spotify.com/track/5BOgK9BkIZ4otm3sbHN5yP) | [KCE](https://open.spotify.com/artist/2cBEKV8ZS4PnGEW5FJGvD7) | [Feel](https://open.spotify.com/album/7gFxESOukJcENEoH8kuE4W) | 3:23 | 2026-02-12 |  |
@@ -659,6 +662,7 @@
 | [Holding Your Heart](https://open.spotify.com/track/141GEs0sthqirmbpV6nnmF) | [EX GENERATION](https://open.spotify.com/artist/7aePbjQ413f884sVyRtQtn) | [Holding Your Heart](https://open.spotify.com/album/2WAECECNXHxWF6ElsM2PHW) | 3:40 | 2024-04-24 | 2024-10-24 |
 | [Hologram](https://open.spotify.com/track/23df8gbzAWOfsfUbXxQCDb) | [Buridan](https://open.spotify.com/artist/2mOHwtga6C4ES7wkxmmT4g) | [Hologram](https://open.spotify.com/album/7K1AACMxBSSTCoCKbUM8eG) | 6:36 | 2023-02-15 | 2023-07-06 |
 | [Hologram](https://open.spotify.com/track/3QUiaFjKkp3EkCuJ7pa1PX) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Hologram](https://open.spotify.com/album/6etgircCabewA3pqdJCZnH) | 3:55 | 2022-01-05 | 2022-01-27 |
+| [holy](https://open.spotify.com/track/7jS7fvxmn1nZV3vCpgcuzz) | [Babe Minor](https://open.spotify.com/artist/6FjnMgophNZSoIct9Ove5P) | [holy](https://open.spotify.com/album/2Uc9kRf0c29G46fcxiPbcg) | 5:05 | 2026-04-08 |  |
 | [Holy](https://open.spotify.com/track/34hcgOv5JBP7O9FFlQFJxU) | [Ben Moon](https://open.spotify.com/artist/7jbtJh1q1JfzPYL2f7aWzO) | [Holy](https://open.spotify.com/album/6VpXa0Z8UDAx35LrmbKqZh) | 2:50 | 2024-04-10 | 2024-10-10 |
 | [Home](https://open.spotify.com/track/1FffQDQpQS0bcTbMpZv5Iz) | [Aylin Celik](https://open.spotify.com/artist/4VXfrQlYdAe5DZ04GQevRa) | [Home](https://open.spotify.com/album/0wDomSIPvt9DpQclKBpJvx) | 2:52 | 2022-01-12 | 2022-02-03 |
 | [honey](https://open.spotify.com/track/2NOciZD4Vv6EjSMYlj81SV) | [Dolphin Love](https://open.spotify.com/artist/4uT5ywK30prkNZbf4BlQVh) | [honey](https://open.spotify.com/album/0lwPGoAbC3rG8lDEXMLAKc) | 3:07 | 2022-01-05 | 2022-03-08 |
@@ -763,7 +767,7 @@
 | [Jeden Tag](https://open.spotify.com/track/1XglgN350hjk3Ermt2RElS) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Jeden Tag](https://open.spotify.com/album/2eleZ2TnP62ssipTw6PXQ5) | 2:17 | 2022-04-20 | 2022-05-12 |
 | [Jemand der vermisst](https://open.spotify.com/track/4jEU06FcMNZO89VxE7FDGa) | [SHIMMER.](https://open.spotify.com/artist/1z0aR4prJcIq4u9AyYRuBL) | [Jemand der vermisst](https://open.spotify.com/album/5yKlA0FfXHMUbSnmqQXTSf) | 3:23 | 2023-10-25 | 2024-02-08 |
 | [Jessiwhat](https://open.spotify.com/track/0tUwFlK44pv6GDwXCmK0DD) | [Jessiquoi](https://open.spotify.com/artist/3vwTFXjZQqcFhvwefeFaSB) | [Jessiwhat](https://open.spotify.com/album/1WoYKgdRneKdUxSVggUhbx) | 3:06 | 2023-05-24 | 2023-06-08 |
-| [jetzt und hier](https://open.spotify.com/track/3P8JqGTeBAdEmYmE2tYZy3) | [ENYA BOBAN](https://open.spotify.com/artist/6coyoepdk8cngGloJADii6) | [jetzt und hier](https://open.spotify.com/album/4uMyXcbnc9FzDHNeLjTJOG) | 3:16 | 2026-03-11 |  |
+| [jetzt und hier](https://open.spotify.com/track/3P8JqGTeBAdEmYmE2tYZy3) | [ENYA BOBAN](https://open.spotify.com/artist/6coyoepdk8cngGloJADii6) | [jetzt und hier](https://open.spotify.com/album/4uMyXcbnc9FzDHNeLjTJOG) | 3:16 | 2026-03-11 | 2026-04-09 |
 | [John Stamos](https://open.spotify.com/track/1zCvb6GfVWu8yITp0eUN8v) | [Carl Schilde](https://open.spotify.com/artist/5Q8NqHhDLpbrTxyIrbNhFb) | [Europop](https://open.spotify.com/album/6OTKBvjeHGtlSHzWaPk73m) | 3:48 | 2022-02-09 | 2022-02-24 |
 | [Jona](https://open.spotify.com/track/4jbP7IHZ4v6BnpVz6i4GT1) | [Penny Arcade](https://open.spotify.com/artist/2LccQibLSite2i1EB1QRxe) | [Backwater Collage](https://open.spotify.com/album/461MmPwDWg1kCu9MR2opz3) | 3:13 | 2024-12-04 | 2025-01-10 |
 | [Jona](https://open.spotify.com/track/7dJ4WXrjst71fFyaAysbD5) | [Penny Arcade](https://open.spotify.com/artist/2LccQibLSite2i1EB1QRxe) | [Jona](https://open.spotify.com/album/2DVNB1JixiCfPYV5UCMFdb) | 3:13 | 2024-01-24 | 2024-06-27 |
@@ -1150,7 +1154,7 @@
 | [Reach](https://open.spotify.com/track/0RD6CxPuqwu7BA3KrdEF3d) | [Jovid](https://open.spotify.com/artist/3MEA1cUi2zYPg30gCotF0g) | [Reach](https://open.spotify.com/album/0uP8zobQKYxa0TXKTD0u9K) | 3:11 | 2022-07-20 | 2022-09-15 |
 | [Read Me Empty](https://open.spotify.com/track/0NjZ1MGA9kgvnuTlnVWYyU) | [Roomer](https://open.spotify.com/artist/7hXtMXAZsLo6LF4qYfj2Ef) | [Read Me Empty](https://open.spotify.com/album/5WWQBwjYnb0ADatAuHOoCI) | 3:37 | 2022-05-11 | 2022-06-09 |
 | [ready now](https://open.spotify.com/track/6FBe4eVw7wV48G3iijUbmj) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [ready now](https://open.spotify.com/album/0ZegvEThUFYoa8ZnD12Dn4) | 2:56 | 2022-04-06 | 2022-07-07 |
-| [Real Life](https://open.spotify.com/track/53MgXRatrlUs1wBgMjqyvF) | [Leon Blane](https://open.spotify.com/artist/2TG1F0M1xO9SkvnjeQkzgu) | [Real Life](https://open.spotify.com/album/1hcU2bUjDeOhzmfqHTKjsL) | 3:22 | 2026-03-18 |  |
+| [Real Life](https://open.spotify.com/track/53MgXRatrlUs1wBgMjqyvF) | [Leon Blane](https://open.spotify.com/artist/2TG1F0M1xO9SkvnjeQkzgu) | [Real Life](https://open.spotify.com/album/1hcU2bUjDeOhzmfqHTKjsL) | 3:22 | 2026-03-18 | 2026-04-09 |
 | [Recent Dreams](https://open.spotify.com/track/3mysAJygmjPesmxLlXFEvn) | [Tanzcafé Attersee](https://open.spotify.com/artist/0LEwqMTDiitSfmrKUiGUfE), [Toby Whyle](https://open.spotify.com/artist/6OK4uiQe9BNxePmZm7vV65) | [Recent Dreams](https://open.spotify.com/album/1hr7lVg6evaCtP9zTIPdyB) | 4:07 | 2023-07-26 | 2024-01-25 |
 | [record player](https://open.spotify.com/track/6ywvC1LCLmUdIYiRJNynS8) | [cornelius](https://open.spotify.com/artist/4VSm0yiY0JB8pPDI8nVPt6), [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [record player](https://open.spotify.com/album/4EfKkOzZiDlnEwkS4H5U1N) | 2:36 | 2025-02-05 | 2025-02-28 |
 | [Red And Yellow All Over](https://open.spotify.com/track/7cmDbyTSuwK5EVbxMjSPeG) | [Jealous](https://open.spotify.com/artist/0VCf4hjBKWDodCDO7U8yJO) | [Red And Yellow All Over](https://open.spotify.com/album/0Js8XmodtBj4ekBJOECxUy) | 5:01 | 2023-03-15 | 2023-04-27 |

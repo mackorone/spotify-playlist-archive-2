@@ -1,15 +1,103 @@
 {
   "description": "<a href=\"spotify:artist:6wMr4zKPrrR0UVz08WtUWc\">Black Coffee</a>'s favorite tracks. Updated regularly. Curated by Black Coffee. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 216290,
+  "num_followers": 216386,
   "original_name": "Black Coffee's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACEQ0Z30MxlbFj543Sv1Sc0bfJ9i",
+  "snapshot_id": "AAAAAPZYKGUIXzj7t36GQ1znAOtpDxYh",
   "tracks": [
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5DLdcrZst7mOZJjjBpw0RK"
+      },
+      "artists": [
+        {
+          "name": "Fraser Jones",
+          "url": "https://open.spotify.com/artist/4FF2LXiM8JRMoirB0HTrcg"
+        },
+        {
+          "name": "P\u00c6DE",
+          "url": "https://open.spotify.com/artist/0q9ulkly0h5gV9BLdyQGnQ"
+        }
+      ],
+      "duration_ms": 346709,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3quyMFpRl6Me3xdhFAnePR"
+    },
+    {
+      "added_at": "2026-04-08 15:42:19",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/32VdaW73yVaA6XjQb83LCM"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomer",
+          "url": "https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj"
+        },
+        {
+          "name": "Ricardo Gi",
+          "url": "https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c"
+        }
+      ],
+      "duration_ms": 337860,
+      "name": "Automatic - Extended Mix",
+      "url": "https://open.spotify.com/track/6cv3sEj7brnJ2m6s6uGoMp"
+    },
+    {
+      "added_at": "2026-04-08 15:42:19",
+      "album": {
+        "name": "Calling Mine",
+        "url": "https://open.spotify.com/album/6mwo5rEHvWhuZi3tRQvhNi"
+      },
+      "artists": [
+        {
+          "name": "D-Malice",
+          "url": "https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Calling Mine",
+      "url": "https://open.spotify.com/track/1JRFvEe3KLaMBs2CheFmCT"
+    },
+    {
+      "added_at": "2026-04-08 15:42:19",
+      "album": {
+        "name": "Choli Ke Peeche",
+        "url": "https://open.spotify.com/album/7srKd2vN6z7kfwIY66eRLF"
+      },
+      "artists": [
+        {
+          "name": "L\u00a5O",
+          "url": "https://open.spotify.com/artist/5ntG7VhN9iZ6Mg7K0x1EAr"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Choli Ke Peeche",
+      "url": "https://open.spotify.com/track/7mkg15ownMhaRY5OL6hprN"
+    },
+    {
+      "added_at": "2026-04-08 15:42:19",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/5WWwx9ofZYK1NwagUTcXFG"
+      },
+      "artists": [
+        {
+          "name": "Choujaa",
+          "url": "https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/5kU0vd9onuQvaYKOBpgDX5"
+    },
+    {
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "So Real",
         "url": "https://open.spotify.com/album/2rJAnHVaoYdRRMca2fv0uV"
@@ -33,7 +121,7 @@
       "url": "https://open.spotify.com/track/5UzHzwat1mg3u2XQDDBvuE"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Elders Calling (Radio Edit)",
         "url": "https://open.spotify.com/album/7yzlOS6g8KBuPfrv38f6WW"
@@ -49,7 +137,7 @@
       "url": "https://open.spotify.com/track/794JWL5giwIpLuIPARuQwH"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4QMIppk9naUARDoTKV0tIQ"
@@ -69,7 +157,7 @@
       "url": "https://open.spotify.com/track/6q3n1AlWzu5sPSnIP1MKHf"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "The Underground",
         "url": "https://open.spotify.com/album/4ijtWbbT2cVr0ZbLSwFM0A"
@@ -93,7 +181,7 @@
       "url": "https://open.spotify.com/track/4lbrsNo6WpZ5vpX77mLjJ3"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "The Sound (Urmet K Remix)",
         "url": "https://open.spotify.com/album/3ndBka3weFzz459XqSiITL"
@@ -121,7 +209,7 @@
       "url": "https://open.spotify.com/track/2y7b6fUq9nWozu181ZRrqT"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Mirror Dance (Yoruba Soul Remix)",
         "url": "https://open.spotify.com/album/19DDma4B3suMC8pZZk0BO1"
@@ -145,7 +233,27 @@
       "url": "https://open.spotify.com/track/2dViR2V6fHWWRX5no1DBhm"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/1rj5RrpDFFfwR9FES3DQMG"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Karma",
+          "url": "https://open.spotify.com/artist/4j9QSI0NP79f4KkFgVI86L"
+        },
+        {
+          "name": "Mudboy",
+          "url": "https://open.spotify.com/artist/5zMXUvySRnfZWwOO1Wy5Ea"
+        }
+      ],
+      "duration_ms": 440652,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/2148hBMPFFurQaJzFkLYIf"
+    },
+    {
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/0IqYZu38c8xwcLCQnpFC67"
@@ -165,7 +273,7 @@
       "url": "https://open.spotify.com/track/5RWN7jqjecmigM40x8L6A7"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Four Women (DESIREE Remix)",
         "url": "https://open.spotify.com/album/0eHZsn0A8VZXHJ0vRf4hLe"
@@ -185,7 +293,7 @@
       "url": "https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/5tkzg3a1ZqIdWUr1wSlNqa"
@@ -205,7 +313,7 @@
       "url": "https://open.spotify.com/track/5fYZKXkx70SaDPQ0FbJCn5"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Bare Earth",
         "url": "https://open.spotify.com/album/3VT6FjcTZWR5W4ZUc31URR"
@@ -221,7 +329,7 @@
       "url": "https://open.spotify.com/track/74oyFcS8W7oeoV3Ckf3HCV"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Kabara",
         "url": "https://open.spotify.com/album/22VFEijjnkZs4j5exRqQS3"
@@ -237,7 +345,7 @@
       "url": "https://open.spotify.com/track/0JkEIVyvbow1jgpKQOIFl3"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Long Time",
         "url": "https://open.spotify.com/album/1l2zILlJXDTu8yGgvVcrYm"
@@ -265,7 +373,7 @@
       "url": "https://open.spotify.com/track/2dOJOrURh0uJJ3I9mFqeq2"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Tribal Frequency",
         "url": "https://open.spotify.com/album/2Pb0dTidnuKxus21JF47Nk"
@@ -281,7 +389,7 @@
       "url": "https://open.spotify.com/track/4GAbrrA4yEavVJh5QweJSB"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Release Your Pain",
         "url": "https://open.spotify.com/album/2s31OzN004PfyoIiXCOhvk"
@@ -301,7 +409,7 @@
       "url": "https://open.spotify.com/track/5yYecKiUHZc2O8C5AR2AmF"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Baba",
         "url": "https://open.spotify.com/album/00NL24i0PJgK0Tt0oVJfgi"
@@ -317,7 +425,7 @@
       "url": "https://open.spotify.com/track/3RcTPKf2CKRipt3zMi1rID"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "White Lines",
         "url": "https://open.spotify.com/album/7e5y2cpQWoX2Q5NAxKxBnC"
@@ -333,7 +441,7 @@
       "url": "https://open.spotify.com/track/5r3QFIVxA6jqAuflL4cIP4"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Back Again",
         "url": "https://open.spotify.com/album/5WNojj3EADQh2TvZjr7voC"
@@ -349,7 +457,7 @@
       "url": "https://open.spotify.com/track/1HdAiPnfkACZnDlCPCRIlG"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/4Edvs9Ts45AaIi9RyJI41j"
@@ -373,7 +481,7 @@
       "url": "https://open.spotify.com/track/0sfXBVmMupngHnNW1hsuFj"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/445V8AGnQMR1i7RXBhj4c3"
@@ -389,7 +497,7 @@
       "url": "https://open.spotify.com/track/5o79o5fhrP4a3uaDh28a9X"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Judgement Dance",
         "url": "https://open.spotify.com/album/0JsHoNMDiVjrB7bbijOas9"
@@ -405,7 +513,7 @@
       "url": "https://open.spotify.com/track/4zjpvZieu97962sZP6LZip"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Mean 2 Me",
         "url": "https://open.spotify.com/album/0npUtWGx1oEk4AXLoNvhKm"
@@ -429,7 +537,7 @@
       "url": "https://open.spotify.com/track/6IMJPS60S4PuO4dsyGSaDc"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Acido",
         "url": "https://open.spotify.com/album/47Q7qUponqCNN16ivl3w3G"
@@ -445,7 +553,7 @@
       "url": "https://open.spotify.com/track/7AC11mYcOdZk58gfjGXqj2"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Amanxeba",
         "url": "https://open.spotify.com/album/4ttS802ELtFOFDmmHy5cOH"
@@ -469,7 +577,7 @@
       "url": "https://open.spotify.com/track/6VHr1u0x0yT3iWH1dfFdxh"
     },
     {
-      "added_at": "2026-04-01 18:23:31",
+      "added_at": "2026-04-08 15:42:19",
       "album": {
         "name": "Runi",
         "url": "https://open.spotify.com/album/5r0y5EG6VrXH5s9lwh1ScG"
@@ -483,114 +591,6 @@
       "duration_ms": 298000,
       "name": "Runi",
       "url": "https://open.spotify.com/track/5RJQ2hrUhA3r8ZhuYe6fEt"
-    },
-    {
-      "added_at": "2026-04-01 18:23:31",
-      "album": {
-        "name": "Party Started (feat. French Caviar)",
-        "url": "https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Ochok",
-          "url": "https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        },
-        {
-          "name": "KAYA",
-          "url": "https://open.spotify.com/artist/7igXJX2v4kumgqAl13JMTJ"
-        },
-        {
-          "name": "French Caviar",
-          "url": "https://open.spotify.com/artist/5DW1slepFlsU3WcGRkJDqb"
-        }
-      ],
-      "duration_ms": 143801,
-      "name": "Party Started (feat. French Caviar)",
-      "url": "https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6"
-    },
-    {
-      "added_at": "2026-04-01 18:23:31",
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/6NRCdau0GXZLEAm3MPUXEd"
-      },
-      "artists": [
-        {
-          "name": "Mozash",
-          "url": "https://open.spotify.com/artist/7bPVqhDVTJcrd3JM48EtuC"
-        }
-      ],
-      "duration_ms": 254260,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/6aw79X3YVGaFGPrN3ZwKAd"
-    },
-    {
-      "added_at": "2026-04-01 18:23:31",
-      "album": {
-        "name": "Just Like That",
-        "url": "https://open.spotify.com/album/14qfiADyG0SCQzPl5I2IxG"
-      },
-      "artists": [
-        {
-          "name": "Afro Exotiq",
-          "url": "https://open.spotify.com/artist/1u42YFJFM9CC3bhfoB0suE"
-        }
-      ],
-      "duration_ms": 160635,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/4fZjvsq9wfXrpmFu2DuTGK"
-    },
-    {
-      "added_at": "2026-04-01 18:23:31",
-      "album": {
-        "name": "Room 1.6",
-        "url": "https://open.spotify.com/album/39BXgDOM44IXqJmFgvC4KW"
-      },
-      "artists": [
-        {
-          "name": "SOMMERS (UK)",
-          "url": "https://open.spotify.com/artist/6cmL8CNoQQKRMGHpuSqXcv"
-        }
-      ],
-      "duration_ms": 299250,
-      "name": "Room 1.6",
-      "url": "https://open.spotify.com/track/0vo0kJm9RzLth7nDXv9tLG"
-    },
-    {
-      "added_at": "2026-04-01 18:23:31",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/51TwelzwgAvsb746BXOCU8"
-      },
-      "artists": [
-        {
-          "name": "Ewerseen",
-          "url": "https://open.spotify.com/artist/23BaLIAqxy7EayKqACLKPG"
-        },
-        {
-          "name": "Fonsa",
-          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
-        },
-        {
-          "name": "J\u00e4ger",
-          "url": "https://open.spotify.com/artist/4cVjl1zOW16ZZyzvNV6qAg"
-        },
-        {
-          "name": "Alex Laine",
-          "url": "https://open.spotify.com/artist/66TgNK79uRGaGOxeVYA8Ve"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/7yhwT6geUZxf62O6u0LjMK"
     }
   ],
   "unique_name": "Black Coffee's track IDs",

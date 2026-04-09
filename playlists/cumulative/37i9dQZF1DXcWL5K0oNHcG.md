@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Jon Onabowu\. Artwork: Joy Yamusangie.
 
-1,648 songs - 5 day 8 hr 41 min
+1,649 songs - 5 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1073,6 +1073,7 @@
 | [Powerful Vulnerability](https://open.spotify.com/track/4uAgZ5xEZ63DlcVcTwPoJU) | [Julia Kadel Trio](https://open.spotify.com/artist/6v52JqviYmn3ojHp4H2Y0A) | [Powerful Vulnerability](https://open.spotify.com/album/7vieF6tvzdmNQtWyN2qNEY) | 7:25 | 2023-03-15 | 2023-05-11 |
 | [PPDQ](https://open.spotify.com/track/5ZZ6dv2PcHJQWbQrhLJ1PY) | [Antoine Berjeaut](https://open.spotify.com/artist/0xkHhnHO6QHTFUUrJpHM2G) | [PPDQ](https://open.spotify.com/album/3oLAYwy4q1spU647ZnKgzt) | 3:01 | 2022-03-30 | 2022-04-27 |
 | [Precipice](https://open.spotify.com/track/2xeUMDG0vU2SB2A8wY5wyZ) | [Matt Slocum](https://open.spotify.com/artist/6JEdeepCpNmTEaixWmT6e9) | [With Love And Sadness](https://open.spotify.com/album/6DKf6iakI0t1jHC1VPyl6C) | 8:28 | 2022-04-06 | 2022-05-05 |
+| [Prelude To A Kiss](https://open.spotify.com/track/5pLEYr7fOqi0My5ldsmX6v) | [Ari Alexander](https://open.spotify.com/artist/5TUPHEJx8yYHZvPg80482h), [Cecil Alexander](https://open.spotify.com/artist/42oLcqYpvwyPY5BZO6oqfa) | [Prelude To A Kiss](https://open.spotify.com/album/1Oq86wfztU3dBR2YFW7Qb1) | 3:30 | 2026-04-08 |  |
 | [Prelude/Arc of Light](https://open.spotify.com/track/3ZXjdWUWr2gGIdaLSLx7ol) | [Nick Marks](https://open.spotify.com/artist/24oDE0vaH0JH83VNAQ7pGL) | [Cinematic Chromatics Vol\. I](https://open.spotify.com/album/3yVLJzIPeXDArX0ik2pTBz) | 4:59 | 2023-09-27 | 2023-12-09 |
 | [Press Start](https://open.spotify.com/track/59OPrWGtvJHCa6BOj8pVuN) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2) | [Press Start](https://open.spotify.com/album/5zbognXVIVPduH2tHKw40s) | 1:47 | 2022-02-02 | 2022-03-17 |
 | [Pride](https://open.spotify.com/track/0CewzhlflrnWa7Vd0V6okf) | [Sam Redmore](https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6) | [Pride](https://open.spotify.com/album/2UTmTwsirD3WVwdnsDhqAZ) | 4:38 | 2024-09-18 | 2025-03-20 |
@@ -1412,7 +1413,7 @@
 | [The Sun Song \(Precious Energy\)](https://open.spotify.com/track/3vmDjZ9fq7iRzJWPvzAN7K) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T), [Logan Butler](https://open.spotify.com/artist/7A57mikbdnFdDUWj0jEs6U), [Rodney Whitaker](https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv) | [Open Up Your Senses](https://open.spotify.com/album/2QsIPiMux0wUjBpYyToako) | 4:15 | 2025-12-03 | 2026-01-15 |
 | [The Sunrise Fool](https://open.spotify.com/track/24s4OlQJtHIy36eYrSss9s) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Sunrise Fool](https://open.spotify.com/album/3aF7jsWfr5K70XL0tV0ca6) | 2:54 | 2024-11-06 | 2024-11-21 |
 | [The Tall Green](https://open.spotify.com/track/1bmu8RVV7Eitpii25TqXTX) | [Homer](https://open.spotify.com/artist/7ANZyzPbMcdINl4ZP6wmyb), [Kendra McKinley](https://open.spotify.com/artist/7Isx4fVPiWKyIp46kghIVI) | [The Tall Green](https://open.spotify.com/album/5eTL3qfCqatjSlLgznvQic) | 4:04 | 2026-03-25 |  |
-| [The Teacher \- Revisited](https://open.spotify.com/track/5LdWK4c9Zu5R5VI8yAK14x) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [The Teacher \(Revisited\)](https://open.spotify.com/album/18ITbuxyCg2telbJt4f7uG) | 6:07 | 2025-04-02 |  |
+| [The Teacher \- Revisited](https://open.spotify.com/track/5LdWK4c9Zu5R5VI8yAK14x) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [The Teacher \(Revisited\)](https://open.spotify.com/album/18ITbuxyCg2telbJt4f7uG) | 6:07 | 2025-04-02 | 2026-04-09 |
 | [The Toro](https://open.spotify.com/track/5N2KR3R4mvvAst6J71Hv8S) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [The Toro](https://open.spotify.com/album/77AWJqA0ENHe9WRW6g0tC5) | 6:43 | 2025-03-26 | 2026-03-05 |
 | [The Unknown](https://open.spotify.com/track/3b4t9KTy40eagXOvLavU1U) | [Hiromuトリオ](https://open.spotify.com/artist/3fzQgygmoz4JfqJXQT6NPN) | [The Unknown](https://open.spotify.com/album/5HDcwGJboLB2BG1qAtYRaq) | 7:54 | 2022-09-21 | 2022-12-01 |
 | [The Unknown \- Rework](https://open.spotify.com/track/45qxOEcnwOClF2dmMBArtQ) | [Rosie Turton](https://open.spotify.com/artist/5XhOg4JXERUGJbf6DQTPdT) | [Expansions and Transformations: Part I & II](https://open.spotify.com/album/7JoT3GXiPRsG63iZ5dYORS) | 6:53 | 2022-01-19 | 2022-02-17 |

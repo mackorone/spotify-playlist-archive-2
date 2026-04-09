@@ -4,7 +4,7 @@
 
 > This is Limoblaze\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 56 min
+71 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [For Me](https://open.spotify.com/track/6lnXNuAixFoNuoEe2dXb6d) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Afrobeats Rap and Jesus](https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe) | 3:14 | 2025-07-15 |  |
 | [Freedom](https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Freedom](https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9) | 2:40 | 2025-07-15 |  |
 | [Give Myself Away](https://open.spotify.com/track/1GcD8xVlsprkStOcDyv2tC) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Afrobeats Rap and Jesus](https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe) | 3:19 | 2025-07-15 | 2025-07-16 |
-| [God Did It](https://open.spotify.com/track/7pVIeCpV1hDZ6wTH8u8ii9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God Did It](https://open.spotify.com/album/6dRajCOUZ0LMTdmAlRRTbJ) | 2:39 | 2026-01-18 |  |
+| [God Did It](https://open.spotify.com/track/73AbkIeEcFzf2rLQUbamQU) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:37 | 2026-04-09 |  |
+| [God Did It](https://open.spotify.com/track/7pVIeCpV1hDZ6wTH8u8ii9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God Did It](https://open.spotify.com/album/6dRajCOUZ0LMTdmAlRRTbJ) | 2:39 | 2026-01-18 | 2026-04-09 |
 | [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 | 2025-07-15 |  |
 | [Good God](https://open.spotify.com/track/0oBjCx63OwKT7anxNGO48A) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God's Favourite Baby](https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF) | 3:35 | 2025-07-15 |  |
 | [Good God II](https://open.spotify.com/track/1Ha5DuFk9G2q3dsncQtGQ9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 3:01 | 2025-07-15 |  |

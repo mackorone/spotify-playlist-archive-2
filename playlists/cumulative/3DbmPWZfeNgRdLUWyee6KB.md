@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-898 songs - 2 day 4 hr 38 min
+901 songs - 2 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Fire Fire](https://open.spotify.com/track/5kocHOL5zvOMxyi5ajD95W) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Odd Creations](https://open.spotify.com/album/7ywm5pYJfnPdnK7cC1owlx) | 2:22 | 2026-02-23 | 2026-03-25 |
 | [Fire of a Romance](https://open.spotify.com/track/01VaTr7Ogz81bKPB4ElbD9) | [Luke Assem](https://open.spotify.com/artist/0TqL3o1xboCvsPXD4A8cF0) | [Fire of a Romance](https://open.spotify.com/album/3X9jGTNs2rqdVCkHi0DFo1) | 2:52 | 2026-01-20 | 2026-02-20 |
 | [Fire on the Loose](https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV) | [Peder Pan](https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV) | [Fire on the Loose](https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5) | 4:04 | 2026-02-08 | 2026-03-07 |
+| [Fish Tank](https://open.spotify.com/track/2hDnvkxpCSo57nPmEMN6ND) | [Buckeye Belle](https://open.spotify.com/artist/1f5o9LL9uj7X7KOBVpSiGa) | [I'd Rather Be Sleeping](https://open.spotify.com/album/4sBEZPvbIVcubfxcde4KOR) | 3:44 | 2026-04-08 |  |
 | [Floto](https://open.spotify.com/track/0cpVDFhmJ5mRssyaE8ZjAo) | [Manu Geijo](https://open.spotify.com/artist/1Lcqhy5qgKAS6bvwjXIoxs) | [Floto](https://open.spotify.com/album/2Z8DVQAobcZtSFHc05afHk) | 3:58 | 2026-02-25 | 2026-03-25 |
 | [FLY \- Original Mix](https://open.spotify.com/track/0KGD6zRqbj2EgGeAmwB76v) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [J1 GTB](https://open.spotify.com/artist/6mm0pxFY41cqM9kjJve4jH) | [FLY \(Original Mix\)](https://open.spotify.com/album/5MUfhF7oOQvpysNAphGwEm) | 2:58 | 2026-04-02 |  |
 | [follow my rhythm](https://open.spotify.com/track/0MiJdUtnv11W5MGNOMxGAB) | [MIRIIEM](https://open.spotify.com/artist/44UwKvv3KL8W83pbxsID5t), [Von Hortix](https://open.spotify.com/artist/5e0Spjepkjnoo1qJIGtcjQ) | [follow my rhythm](https://open.spotify.com/album/74OBwZJzchBJf6fpjrCFm9) | 1:59 | 2026-03-17 |  |
@@ -536,6 +537,7 @@
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2026-02-22 | 2026-03-25 |
 | [Noah \- Radio Edit](https://open.spotify.com/track/1x58z8IfXZpTsWWqJaHV1B) | [Bob Birthisel](https://open.spotify.com/artist/4uc4QBJqxmjH3I6QnA3IdT), [Phil Keaggy](https://open.spotify.com/artist/1bAzlT6fMBcvCfwgh4S3Xl) | [Noah \(Radio Edit\)](https://open.spotify.com/album/4OUb2YjMiE9fRJAGiNpFKk) | 4:20 | 2025-10-06 | 2025-11-29 |
 | [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 | 2026-04-01 |  |
+| [Nostalgia](https://open.spotify.com/track/0b2mrLjNxBfCq2hl97Yb4a) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Detached](https://open.spotify.com/album/4VpODvxBTAEv2PVNXSTjYC) | 3:15 | 2026-04-08 |  |
 | [Nostalgia \(Remastered\)](https://open.spotify.com/track/1BiivaZNsUDEgm8at5T5Et) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Pakhi Adhikari Kalipada](https://open.spotify.com/artist/7ozw5g9CS05d0lgbhPAmNv) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:49 | 2023-04-20 | 2025-11-29 |
 | [Not a French Song](https://open.spotify.com/track/0XdvcUFPQA7YPzvnhlLCzI) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Not a French Song](https://open.spotify.com/album/0hC9O2mioBqHlmao5R9Qim) | 2:32 | 2026-02-16 | 2026-03-15 |
 | [Nothing but a Memory](https://open.spotify.com/track/68tcsrNM7NoCbRE0EW4x9A) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [Nothing but a Memory](https://open.spotify.com/album/3SWH29p4dFHzyY9fAbboOy) | 3:06 | 2025-12-17 | 2026-01-15 |
@@ -809,6 +811,7 @@
 | [Tu ausencia](https://open.spotify.com/track/6rJGg89ohWCGPpNFqF7oyS) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Todo le di](https://open.spotify.com/album/0hBx33VEllkcMu4KYo3Po4) | 2:46 | 2025-11-25 | 2026-01-05 |
 | [Tu sei il mattino \- Piano Session](https://open.spotify.com/track/63anGwrNVIxGxz0OMzssTm) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Tu sei il mattino \(Piano Session\)](https://open.spotify.com/album/7IpfxmHboA90UemDiIkqYM) | 3:24 | 2025-12-21 | 2026-01-15 |
 | [Tu último trofeo](https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [Tu último trofeo](https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt) | 3:06 | 2026-02-11 | 2026-03-15 |
+| [Turquoise](https://open.spotify.com/track/2dO2mAcDNcrEMsQEZUoXMm) | [MAOOSA](https://open.spotify.com/artist/6Q2Tv4sMicVl2LKTnqzdyV) | [Brief](https://open.spotify.com/album/7mEjaLB5Fie1yvtMSJCHK7) | 3:35 | 2026-04-08 |  |
 | [Tut mir leid](https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Tut mir leid](https://open.spotify.com/album/0n9XCoVEilAtTja23wEBhw) | 5:54 | 2026-02-09 |  |
 | [Twinski](https://open.spotify.com/track/5l03og7WPmgomYbfhkEYLI) | [Kenniigram](https://open.spotify.com/artist/21ZA59JOT9aofUdUj2daa5) | [Swaggernista](https://open.spotify.com/album/4ZSEQM1mr5MRg52c7ay9ID) | 1:49 | 2026-01-14 | 2026-02-20 |
 | [Twisters](https://open.spotify.com/track/5mJejnNmyuVyz4ZPRnOFVi) | [RDC Music Cove](https://open.spotify.com/artist/3Oyfp9uC2fdI4kIY1hvAeo) | [Twisters](https://open.spotify.com/album/40L0Ft7mgPOAG3fmwWQwmL) | 4:35 | 2026-03-09 |  |

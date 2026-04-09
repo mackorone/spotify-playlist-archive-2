@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-164 songs - 8 hr 45 min
+165 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Freak Pilla](https://open.spotify.com/track/1oaApC2ZrcPGBN2ElEjCH4) | [Dinakar](https://open.spotify.com/artist/5Tce6h7cDIRqezZzHrOYhR) | [Rose Day Special](https://open.spotify.com/album/2WTkfR52IqbmEj9gySNNdH) | 3:20 | 2021-06-24 | 2022-08-13 |
 | [Freak Pilla](https://open.spotify.com/track/529gQ4C2Ny0Rnm16HQSoAa) | [Dinakar](https://open.spotify.com/artist/5Tce6h7cDIRqezZzHrOYhR), [Neethu Naduvathettu](https://open.spotify.com/artist/7md9on9sWhaP0lj7992HBs) | [Lovers Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7lPSEpV0fElpEuwWktYWhW) | 3:21 | 2021-06-24 | 2022-07-29 |
 | [Game Changer Teaser Theme \(From "Game Changer"\) \(Telugu\)](https://open.spotify.com/track/0PvmPyJUbKxIqCkHF6KhTO) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer Teaser Theme \(From "Game Changer"\) \(Telugu\)](https://open.spotify.com/album/1yK88UGCRnCd0rlCmJ5R12) | 1:38 | 2024-11-12 | 2025-10-26 |
-| [Ghaati Theme](https://open.spotify.com/track/0Gv0dkofefppyS3PQSDOyR) | [Nagavelli Vidya Sagar](https://open.spotify.com/artist/2ik2sh5tUx1dFIB5AI5cxt) | [GHAATI](https://open.spotify.com/album/3w6G6aozcvPqRawcI1o4UA) | 0:43 | 2025-01-09 |  |
+| [Ghaati Theme](https://open.spotify.com/track/0Gv0dkofefppyS3PQSDOyR) | [Nagavelli Vidya Sagar](https://open.spotify.com/artist/2ik2sh5tUx1dFIB5AI5cxt) | [GHAATI](https://open.spotify.com/album/3w6G6aozcvPqRawcI1o4UA) | 0:43 | 2025-01-09 | 2026-04-09 |
 | [GlobeTrotter \(From "Varanasi"\)](https://open.spotify.com/track/1yamFTTVl9UymBBKeVRewV) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Chaitanya Prasad](https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf) | [GlobeTrotter \(From "Varanasi"\)](https://open.spotify.com/album/3F9p3s24oL5KZjzc1qfRwp) | 3:35 | 2025-11-11 |  |
 | [Goodachari Main Theme](https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 2:57 | 2024-08-23 |  |
 | [Gudilo Badilo Madilo](https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q) | [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:24 | 2021-06-24 | 2024-08-24 |
@@ -92,6 +92,7 @@
 | [Let's Party All Night](https://open.spotify.com/track/2eAw9wwoNsqLXVv8VjQgSX) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Jaya Janaki Nayaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Jp6raaiCBdOWJMQofquHM) | 4:11 | 2021-06-24 | 2024-08-24 |
 | [Listen to Story \- Freak Pilla](https://open.spotify.com/track/3FslWKeri9zykXECz92NlL) | [Dinakar](https://open.spotify.com/artist/2g6YRAePxQ1H27zigqdtZH), [Neethu Naduvathettu](https://open.spotify.com/artist/7md9on9sWhaP0lj7992HBs) | [Lovers Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gUIECPXhyYSekLbAexlHK) | 3:18 | 2021-06-24 | 2024-08-24 |
 | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob) | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF) | 1:14 | 2024-09-16 |  |
+| [Make Way For The King \(From "Raaka"\)](https://open.spotify.com/track/5udwgBtaoN6UTjp7PJ1aiL) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Dhp](https://open.spotify.com/artist/77NUvfelg2oWph4u620NwF) | [Make Way For The King \(From "Raaka"\)](https://open.spotify.com/album/6TMNTFvioQQBWEVzZV0Vro) | 1:55 | 2026-04-08 |  |
 | [Mass Theme Of Pushpa](https://open.spotify.com/track/4kyFdoTanak2xGGLvxQE7u) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:55 | 2024-08-23 |  |
 | [MCA](https://open.spotify.com/track/5MhnpBzKRDQpeAJgR7vmHV) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [MCA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4q7TQdPkWFRzo3CkhqQe4Q) | 3:17 | 2021-06-24 | 2022-07-29 |
 | [MCA](https://open.spotify.com/track/7h5QJLJ1KtgChdKnj8kXqG) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:17 | 2021-06-24 | 2024-08-24 |

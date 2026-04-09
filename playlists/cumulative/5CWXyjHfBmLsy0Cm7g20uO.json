@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Finale (from \"Undertale\")",
+        "url": "https://open.spotify.com/album/6jQwcZcSEfZQSwkksknSGd"
+      },
+      "artists": [
+        {
+          "name": "Serious Yisus",
+          "url": "https://open.spotify.com/artist/6WkKiqAhtTlBIl5sNg5XMi"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111789,
+      "name": "Finale (from \"Undertale\")",
+      "url": "https://open.spotify.com/track/6G0Ga8838jfNUcoHj7mqDO"
+    },
+    {
+      "album": {
         "name": "Can You Hear It? (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89"
       },

@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-951 songs - 2 day 2 hr 52 min
+955 songs - 2 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,6 +898,7 @@
 | [Way Back Home](https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Take](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) | 3:34 | 2021-12-07 |  |
 | [Way to Go](https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Gee \- The First Mini Album](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) | 3:03 | 2021-12-07 | 2022-07-10 |
 | [We DO](https://open.spotify.com/track/2y3RsLPUpPcMUdzluiJtNE) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [We DO](https://open.spotify.com/album/2O4FwZ1cE8PHsP0PAf6Vtr) | 3:41 | 2021-12-07 | 2022-06-02 |
+| [we don't go to bed tonight](https://open.spotify.com/track/4YYLKkdYHTiqHLuwLE2Bnl) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [we don't go to bed tonight](https://open.spotify.com/album/1O7eVWHIgUPkkLlwp9PnNk) | 3:03 | 2026-04-08 |  |
 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 | 2021-12-07 | 2023-06-12 |
 | [We Go \(Bang Chan, Changbin, HAN\)](https://open.spotify.com/track/5GhuFbB6NjKzehvws0GGUP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:37 | 2022-08-18 | 2023-07-08 |
 | [We Go \(Bang Chan, Changbin, HAN\)](https://open.spotify.com/track/6CEeCkgm0C1d0ZnpIvLSCk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0Kp2UZGWRQHa3B5e8t93rI) | 2:37 | 2022-03-24 | 2022-04-14 |
@@ -909,6 +910,7 @@
 | [What The Flower](https://open.spotify.com/track/3uVqwK7jRfNb04b5i4hJqT) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:25 | 2022-03-24 | 2022-04-09 |
 | [What You Waiting For](https://open.spotify.com/track/4uLmKWOb8hl49MYYAc4bnn) | [R.Tee, Anda](https://open.spotify.com/artist/3ygsv4GXldk6VqwphHZvSR) | [What You Waiting For](https://open.spotify.com/album/2YuKK7Pr7WPADeTUwaXrn1) | 2:54 | 2022-03-24 | 2022-04-08 |
 | [What You Want](https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want](https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE) | 3:14 | 2026-01-30 |  |
+| [What's a girl to do](https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [What's a girl to do](https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS) | 2:10 | 2026-04-08 |  |
 | [Wheel of the year](https://open.spotify.com/track/2cSPQRjVCkmPDiVfKSOgbj) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:48 | 2021-12-29 | 2022-04-15 |
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-12-19 | 2023-05-17 |
 | [When We Disco \(Duet with SUNMI\)](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) | 3:44 | 2022-01-03 | 2022-04-21 |
@@ -918,6 +920,7 @@
 | [Whiplash](https://open.spotify.com/track/7af1XfpPIcAhu3850yCOk1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 5th MINI ALBUM \[CHASE\]](https://open.spotify.com/album/6HwY3FwprtqsmMuoLnXWhT) | 3:21 | 2021-12-07 | 2022-06-16 |
 | [WHISTLE](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 3:31 | 2022-08-12 | 2024-04-19 |
 | [WHISTLE](https://open.spotify.com/track/3hfN1wQSiLPa6b1RX5Kfbj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0zlJOlDdsJ6Y14GnPoYGD8) | 3:31 | 2022-03-24 |  |
+| [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 | 2026-04-08 |  |
 | [Why Why Why](https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Why Why Why](https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q) | 3:26 | 2021-12-07 | 2022-07-13 |
 | [WICKED](https://open.spotify.com/track/6zRZyfYNsvgl1y6H5mkR1x) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 2:37 | 2025-07-09 |  |
 | [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-03-05 | 2025-01-22 |
@@ -946,6 +949,7 @@
 | [가위바위보 Eeny meeny miny moe](https://open.spotify.com/track/5hy45ZHbIypFH2NsiEyc0Z) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Too Much Part 1](https://open.spotify.com/album/0spXOvUlUo1EUDs13nlXki) | 2:43 | 2025-11-05 | 2025-12-09 |
 | [기기괴괴](https://open.spotify.com/track/6ZERrx4VYGplqKlydGcLMi) | [PinkFantasy](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) | [기기괴괴](https://open.spotify.com/album/296fyWl3wGRk4pB7sbaAwx) | 3:31 | 2022-03-24 | 2022-04-17 |
 | [끝](https://open.spotify.com/track/00i5R78QV23krGPEVZyZVH) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o) | 4:03 | 2022-03-24 | 2022-04-19 |
+| [눈에 거슬리고 싶어 \(Eye\-Poppin'\)](https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Kick](https://open.spotify.com/album/6w4EhlJd0BAXvE24KuaE8j) | 2:42 | 2026-04-08 |  |
 | [돌덩이](https://open.spotify.com/track/6A9QEWYXpXLMeJLRjGsIJ1) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/5C4yOEsxV7n42RnBanLO2u) | 3:29 | 2022-03-24 | 2022-04-21 |
 | [비상](https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:30 | 2022-03-24 | 2022-04-20 |
 | [빙빙마마](https://open.spotify.com/track/5FkpfK3O4lPoUBGBwfz8Qk) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [L + \- 2](https://open.spotify.com/album/5eCPfDLMPmD3TKKpdtL989) | 3:56 | 2022-03-24 | 2022-04-13 |

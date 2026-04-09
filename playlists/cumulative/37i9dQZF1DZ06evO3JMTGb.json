@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Planetes",
+        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 688006,
+      "name": "Myrian Myriad",
+      "url": "https://open.spotify.com/track/2yrejC1lOTJ7eCcQXRar6v"
+    },
+    {
+      "album": {
         "name": "Island Alchemy",
         "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
@@ -542,7 +560,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 364837,
       "name": "Net (Neverendingthing)",
       "url": "https://open.spotify.com/track/1cw9KWKpaqFS2c8HFV27zV"

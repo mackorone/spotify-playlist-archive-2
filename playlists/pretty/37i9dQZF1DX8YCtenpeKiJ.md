@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 
 > The most scary soundscapes to soundtrack your Halloween..
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,118 likes - 134 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,103 likes - 134 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 | 11 | [Howl in the Night](https://open.spotify.com/track/3K75e8jZltmSDTLyC9DiuT) | [Raven House](https://open.spotify.com/artist/5aoaPSwe4NsgotodMdnjvX) | [Howl in the Night](https://open.spotify.com/album/0lpHEwyRwjc95lmrJpTgWs) | 3:19 |
 | 12 | [Boil and Trouble](https://open.spotify.com/track/4rcTHg4mxGlKsOO6HkAjEo) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Soundscapes](https://open.spotify.com/album/1lxnKhVwyTy8WKH6gNq1jH) | 4:52 |
 | 13 | [The Vampire's Lair](https://open.spotify.com/track/0RPnFu1KUpqh1cYYfaPr8J) | [Haunted Heights](https://open.spotify.com/artist/43YNwiGvh2wHRrKK8m3trR) | [Scary Halloween Sounds](https://open.spotify.com/album/5i1xFxHwnH40tevnEFQa8C) | 3:16 |
-| 14 | [Can't Look](https://open.spotify.com/track/63Ol3fSd38ntvKPeolso9C) | [Dark Ambience](https://open.spotify.com/artist/5neeMavY4cbA1qi7k6FIZd) | [Happy Halloween](https://open.spotify.com/album/4AimucFsDRWQnVibO5l1yV) | 3:12 |
+| 14 | [Can't Look](https://open.spotify.com/track/63Ol3fSd38ntvKPeolso9C) | [Dark Ambience](https://open.spotify.com/artist/5cSMY9945HqCABNj9zUNKZ) | [Happy Halloween](https://open.spotify.com/album/4AimucFsDRWQnVibO5l1yV) | 3:12 |
 | 15 | [Ghosts in the Yard](https://open.spotify.com/track/4lYnKyvUnRUPYtEVvsC4Hw) | [October Monsters](https://open.spotify.com/artist/7IFfQmVbdIBFsGKoYXqgID) | [Haunted Halloween Sounds](https://open.spotify.com/album/5mOVPp87jBaFRXTDqpQ6Hv) | 2:45 |
 | 16 | [Eerie Graveyard Storm](https://open.spotify.com/track/5wCdOqAzA0cnQoH1VGVLRr) | [Haunted Heights](https://open.spotify.com/artist/43YNwiGvh2wHRrKK8m3trR) | [Scary Halloween Sounds](https://open.spotify.com/album/5i1xFxHwnH40tevnEFQa8C) | 4:00 |
 | 17 | [Lurken and Craven](https://open.spotify.com/track/6Ky8KQq6gKUv6KZ8R2VFzI) | [Polar Nights](https://open.spotify.com/artist/33Hll6SKYnTy9REz2gWlaG) | [The Cursed Path of Everlasting Loneliness](https://open.spotify.com/album/3SDUxuCLx42hA4J7T8NRTa) | 4:15 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 | 52 | [Spooky Forest Enchantment](https://open.spotify.com/track/2zVlvyKnSVg7drIIygxvgU) | [Haunted Heights](https://open.spotify.com/artist/43YNwiGvh2wHRrKK8m3trR) | [Scary Halloween Sounds](https://open.spotify.com/album/5i1xFxHwnH40tevnEFQa8C) | 3:04 |
 | 53 | [Cursed Zombie Melodies](https://open.spotify.com/track/6quAjZimfwXjCdBDn45dtv) | [Gail Donovan](https://open.spotify.com/artist/0cvQsGKGSHaZ5HraPH4ptv) | [Cursed Zombie Melodies](https://open.spotify.com/album/5mjcwQmKlJCmet278Nz3oj) | 2:12 |
 | 54 | [Alone We're Left](https://open.spotify.com/track/49iLIBbtL2jM321Drnj7I0) | [Prof\. Scape](https://open.spotify.com/artist/3UKpj8jskGniw2HTDY7sa6) | [Let There Be Dark](https://open.spotify.com/album/7sw4lczTvr6zdbXiGz2lbp) | 5:06 |
-| 55 | [Hello Halloween](https://open.spotify.com/track/0xZqbMrmH4br4P3YFjD0tO) | [Dark Ambience](https://open.spotify.com/artist/5neeMavY4cbA1qi7k6FIZd) | [Happy Halloween](https://open.spotify.com/album/4AimucFsDRWQnVibO5l1yV) | 3:12 |
+| 55 | [Hello Halloween](https://open.spotify.com/track/0xZqbMrmH4br4P3YFjD0tO) | [Dark Ambience](https://open.spotify.com/artist/5cSMY9945HqCABNj9zUNKZ) | [Happy Halloween](https://open.spotify.com/album/4AimucFsDRWQnVibO5l1yV) | 3:12 |
 | 56 | [Scary Sounds: Unearthly Howls](https://open.spotify.com/track/7b52hn2KNIxpRfyCK67N3o) | [Scary Halloween Night Ambient](https://open.spotify.com/artist/1ufD35Phdijiuma3h02SdK) | [Haunted Forest Ambience: Creepy Halloween Music full of Scary Sound Effects and Spooky Noises](https://open.spotify.com/album/2XIDHYH5KMbeCnVsK48QY6) | 3:26 |
 | 57 | [Cursed House](https://open.spotify.com/track/28c9leThKHVWP9yb1VJbk1) | [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y), [Horror Music Collection](https://open.spotify.com/artist/4PhTHcrcuHr6kihYKkYzxe) | [Halloween Hits – Vol\. 1, Spooktacular Hits Only!](https://open.spotify.com/album/7EtnX5JBfhzhGE6qBuv5t5) | 4:02 |
 | 58 | [Ghost Town](https://open.spotify.com/track/675QHyjDmsJjBAErfQt7TL) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Soundscapes](https://open.spotify.com/album/1lxnKhVwyTy8WKH6gNq1jH) | 3:21 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 | 93 | [Devil's Cauldron](https://open.spotify.com/track/62mrbUVRK0Ony4xII2rPUD) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Soundscapes](https://open.spotify.com/album/1lxnKhVwyTy8WKH6gNq1jH) | 3:16 |
 | 94 | [In the Basement](https://open.spotify.com/track/2M9XfHIsEYZg3DsZxYFBlm) | [Solis Reverie](https://open.spotify.com/artist/5HuBzRd3f2vV1gResOL6SQ) | [Spellbound Slumbering Haven](https://open.spotify.com/album/5meKG4MgP3CpXubX2weGx6) | 2:00 |
 | 95 | [Goblins](https://open.spotify.com/track/2uXM5ay4qmjTPK3XAzSv2e) | [Pragius](https://open.spotify.com/artist/2LliWMVzJrsQmsRfEn8NVJ) | [Creepy Ambience](https://open.spotify.com/album/32LgDWdMoovNxQDvj5z1Ln) | 3:47 |
-| 96 | [Misty Dark Night](https://open.spotify.com/track/3xeKzfMiL1avVFcwmJPv3m) | [Dark Ambience](https://open.spotify.com/artist/5neeMavY4cbA1qi7k6FIZd) | [Happy Halloween](https://open.spotify.com/album/4AimucFsDRWQnVibO5l1yV) | 3:40 |
+| 96 | [Misty Dark Night](https://open.spotify.com/track/3xeKzfMiL1avVFcwmJPv3m) | [Dark Ambience](https://open.spotify.com/artist/5cSMY9945HqCABNj9zUNKZ) | [Happy Halloween](https://open.spotify.com/album/4AimucFsDRWQnVibO5l1yV) | 3:40 |
 | 97 | [Dark Forest](https://open.spotify.com/track/6Jt5y3oAOHMPqBu1E4glNE) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Soundscapes](https://open.spotify.com/album/1lxnKhVwyTy8WKH6gNq1jH) | 3:39 |
 | 98 | [Creepy Sound Effects \(Halloween\)](https://open.spotify.com/track/5NZFx4TSzcVy47d9CZ0Gzr) | [Scary Halloween Sounds](https://open.spotify.com/artist/03diemJmgU97kswAF7s8e6) | [Scary Halloween Sounds \- Halloween Music](https://open.spotify.com/album/0PmxDAWxIoit477d8jk7Kc) | 4:08 |
 | 99 | [Howling Halloween](https://open.spotify.com/track/4HzSBEgHvYx0kKnDfRf1YD) | [Spooky Town](https://open.spotify.com/artist/58QGSIwd3JGC1xTPBa2OM5) | [Howling Halloween](https://open.spotify.com/album/6be0UbUuSs9AsybSxVA3vm) | 2:34 |

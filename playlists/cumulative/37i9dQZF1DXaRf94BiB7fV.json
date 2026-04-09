@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Deeksha Toor",
+  "description": "The best new music by independent artists and labels in India. Cover - Imon",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -3765,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "Behisaab",
+        "url": "https://open.spotify.com/album/5OvNBq6bgDMif6VXJiXs1o"
+      },
+      "artists": [
+        {
+          "name": "Niyam",
+          "url": "https://open.spotify.com/artist/5gSTgaslwP1tp7SO8cHBYL"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174497,
+      "name": "Behisaab",
+      "url": "https://open.spotify.com/track/3j2aNckJSXNJ56gpKmmfvm"
+    },
+    {
+      "album": {
         "name": "Behne Do",
         "url": "https://open.spotify.com/album/6PJiC7BJb41vPkog2h2yeW"
       },
@@ -5876,6 +5894,28 @@
       "duration_ms": 259772,
       "name": "Chasm City",
       "url": "https://open.spotify.com/track/3ZKeNguEN4fyIDdv1pjQLB"
+    },
+    {
+      "album": {
+        "name": "Chauliye",
+        "url": "https://open.spotify.com/album/0z7UsLZXOBnlkMD00O3upi"
+      },
+      "artists": [
+        {
+          "name": "Anjali Bansal",
+          "url": "https://open.spotify.com/artist/5JgRavNRJv5cUetrSWb25t"
+        },
+        {
+          "name": "Aditya Bansal",
+          "url": "https://open.spotify.com/artist/2Jh2DwaTKsCM2ggWsQL2jK"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Chauliye",
+      "url": "https://open.spotify.com/track/15ApCH6ec35pzXzPUiPTUQ"
     },
     {
       "album": {
@@ -8199,6 +8239,24 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Be",
+        "url": "https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv"
+      },
+      "artists": [
+        {
+          "name": "Temsu Clover",
+          "url": "https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200020,
+      "name": "Don't Wanna Be",
+      "url": "https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399"
+    },
+    {
+      "album": {
         "name": "Doom's My Religion",
         "url": "https://open.spotify.com/album/0HnuI4jr1R3aGi1bpou7dC"
       },
@@ -8748,7 +8806,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 213640,
       "name": "Dualities",
       "url": "https://open.spotify.com/track/1yNJ4983sSzzObyQSlq3WY"
@@ -10564,7 +10622,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 204000,
       "name": "GIRL",
       "url": "https://open.spotify.com/track/1zIDzzt7QxjEmGV2TfBE80"
@@ -27142,7 +27200,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 211200,
       "name": "Raazdari",
       "url": "https://open.spotify.com/track/0xFFo2mOlNjvkQghdFbFHc"
@@ -30780,7 +30838,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 151242,
       "name": "So Jaana",
       "url": "https://open.spotify.com/track/4Avuf1H2DQtyo10cQSaT9L"
@@ -38174,6 +38232,24 @@
       "duration_ms": 275142,
       "name": "Zindagi Tu Hi Bata",
       "url": "https://open.spotify.com/track/2IcTJbUMjwjpXa0tAzHkCs"
+    },
+    {
+      "album": {
+        "name": "Ziya",
+        "url": "https://open.spotify.com/album/0zNXF93AK67GBH6aX0zOrT"
+      },
+      "artists": [
+        {
+          "name": "Imon",
+          "url": "https://open.spotify.com/artist/3bY660IbtBeAyjjch0QsjA"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305270,
+      "name": "Ziya",
+      "url": "https://open.spotify.com/track/4tHsA78n8KI3TwQ95FEFgG"
     },
     {
       "album": {

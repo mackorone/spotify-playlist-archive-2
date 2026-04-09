@@ -4,7 +4,7 @@
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: YUVI
 
-1,191 songs - 2 day 10 hr 48 min
+1,192 songs - 2 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Голограма](https://open.spotify.com/track/6Znk95xsZ3d4zxSg12nMzK) | [TENDITNA](https://open.spotify.com/artist/4astXOaSlmzra789FKiaie), [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [Голограма](https://open.spotify.com/album/2FiNJqMUb5QMmvRxTr6mfS) | 3:12 | 2026-01-06 | 2026-03-20 |
 | [ГОЛОД](https://open.spotify.com/track/7N0osHG4lAmfPnWF8EbTOi) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [ГОЛОД](https://open.spotify.com/album/4cB993z7atE4pJl7UINxvu) | 2:07 | 2024-11-05 | 2024-12-05 |
 | [Голос](https://open.spotify.com/track/34nKvwYno3owf9bSGFMtEF) | [АЗІЗА](https://open.spotify.com/artist/6enXW3gpJ7z65qvyaCVP0k) | [Голос](https://open.spotify.com/album/4ASD5cx18v67JRHeskNg7k) | 2:08 | 2025-01-07 | 2025-02-05 |
+| [гори](https://open.spotify.com/track/3lLpWaRXx4a4c9rIidLzT5) | [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [гори](https://open.spotify.com/album/20kwipcyiuXmE9w1tlpx8N) | 3:13 | 2026-04-08 |  |
 | [Гра в бісер](https://open.spotify.com/track/2q3eKvb9SfULxe9eUDBU8k) | [Схожа](https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC) | [Гра в бісер](https://open.spotify.com/album/5sZHYIZUjc8OCyfLptB3v5) | 3:46 | 2025-11-04 | 2025-12-04 |
 | [Гравітація](https://open.spotify.com/track/0rbUh1wMuKJQLoNWKvPEGs) | [Michelle Andrade](https://open.spotify.com/artist/3xT2YG5knwqo4duPeQ6x9S) | [Гравітація](https://open.spotify.com/album/04TqwvUynUkpzOeuumpARo) | 2:22 | 2025-07-01 | 2025-08-06 |
 | [Грай](https://open.spotify.com/track/7rkbUy6cMw1PaKs5KwxcA9) | [Anastasia Scar](https://open.spotify.com/artist/27m6wTTcB1UUxD0ntEUe10), [Manifesto](https://open.spotify.com/artist/4D2Qtq1jaX07pQIbFp5LCX) | [Грай](https://open.spotify.com/album/4YOkw1FIKItuNEWJNk7qfx) | 2:11 | 2025-03-04 | 2025-04-02 |

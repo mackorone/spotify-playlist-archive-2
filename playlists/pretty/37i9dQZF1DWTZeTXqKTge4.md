@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Obia le Chef
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,858 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,856 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 32 | [ÇA VA TOUTE PÉTER](https://open.spotify.com/track/2Tenhmvaqjo87WwnS2iqkb) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [RÉTROGRADE](https://open.spotify.com/album/4zxj7EZa3rG3w3auLjmrgp) | 4:13 |
 | 33 | [Emilio Pucci](https://open.spotify.com/track/1hOlzYeuNihAGmYLOdZTX3) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [M.O.R.T](https://open.spotify.com/album/6g4trOiDRYQmdaH2LKf7KU) | 1:57 |
 | 34 | [Yeah Yeah](https://open.spotify.com/track/7eX0iDWG4RbOdbe7NWQ61k) | [Jeune Lowkeyy](https://open.spotify.com/artist/4BjbwKT6pEG6SGRbHI2K2o), [jayytrip](https://open.spotify.com/artist/2e6q910KY1oq5AtjD56vNO) | [Yeah Yeah](https://open.spotify.com/album/1q73MDKTKl64IxJwUVOo2G) | 2:43 |
-| 35 | [How's That Taste?!](https://open.spotify.com/track/11uqCzhRPsQuAVayCOGtBr) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Lightitupav](https://open.spotify.com/artist/388JJVyR92c0JwTkEPOiHB), [DO, the Outcast](https://open.spotify.com/artist/2VCNkwwvTrXkHJ09SbssUP) | [How's That Taste?!](https://open.spotify.com/album/59OizN68ItxSdS6GvzT2Lt) | 3:19 |
+| 35 | [How's That Taste?!](https://open.spotify.com/track/11uqCzhRPsQuAVayCOGtBr) | [DO, the Outcast](https://open.spotify.com/artist/2VCNkwwvTrXkHJ09SbssUP), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Lightitupav](https://open.spotify.com/artist/388JJVyR92c0JwTkEPOiHB) | [How's That Taste?!](https://open.spotify.com/album/59OizN68ItxSdS6GvzT2Lt) | 3:19 |
 | 36 | [F\*\*K HERMÈS & BALENCIAGA](https://open.spotify.com/track/07xMg3Xk37tXhPNOwprlq8) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [ST\-HENRI Vol.1](https://open.spotify.com/album/2wKC5mMqsVEdnwJ3ZAZBOi) | 3:00 |
 | 37 | [AIN'T SAFE](https://open.spotify.com/track/0xtMQv07ssSnF5VanYyKOW) | [Speng Squire](https://open.spotify.com/artist/1xtxdFPGw2IVa9BMxWtiUa), [Klee 013](https://open.spotify.com/artist/0aNtPiu2JBVTCYCZdRqdhM) | [AIN'T SAFE](https://open.spotify.com/album/27MZi0bZX5ddMaPdHmH0Rj) | 2:12 |
 | 38 | [Late Night](https://open.spotify.com/track/0PNIqDOTMuAL7TCmdlRIi1) | [OTT](https://open.spotify.com/artist/5LkdWNmBgHZySEqrmbZD47) | [Late Night](https://open.spotify.com/album/0baewQWCyS8SaILQSKJvev) | 2:28 |

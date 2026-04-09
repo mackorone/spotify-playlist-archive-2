@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Mallavora",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: The Callous Daoboys",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -822,7 +822,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 269564,
       "name": "Atrophy",
       "url": "https://open.spotify.com/track/0AOpsarmSxzloZxLrW8ZZp"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 215051,
       "name": "Atrophy",
       "url": "https://open.spotify.com/track/3Ej7t4j9v6Amm5ce8mJPqi"
@@ -1848,6 +1848,24 @@
       "duration_ms": 121887,
       "name": "BUILT DIFFERENT",
       "url": "https://open.spotify.com/track/4A6x4xysSZRxf5IUgENLLA"
+    },
+    {
+      "album": {
+        "name": "Fear Of",
+        "url": "https://open.spotify.com/album/3S5gRsMAiZfGDSK1TMfa6E"
+      },
+      "artists": [
+        {
+          "name": "Commitment",
+          "url": "https://open.spotify.com/artist/6BDSYruuDE2UN8FidNylVn"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77197,
+      "name": "Bukakkracy",
+      "url": "https://open.spotify.com/track/4kwRaFXh69D7Zd7aXWhULx"
     },
     {
       "album": {
@@ -4981,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "A Brief Glimpse of Solace",
+        "url": "https://open.spotify.com/album/1hWehO8t95BzMKbgoFSsLu"
+      },
+      "artists": [
+        {
+          "name": "Houses We Die In",
+          "url": "https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234071,
+      "name": "flowers in february",
+      "url": "https://open.spotify.com/track/6TNNIj1wUHf1Y6HBioNyjh"
+    },
+    {
+      "album": {
         "name": "I Killed The Old Me",
         "url": "https://open.spotify.com/album/4DBgXswhTkv4cfoWlz26LU"
       },
@@ -5353,6 +5389,24 @@
     },
     {
       "album": {
+        "name": "Furious Icon",
+        "url": "https://open.spotify.com/album/6Q89PGh5FcySyEvL8mg8Di"
+      },
+      "artists": [
+        {
+          "name": "PLUME",
+          "url": "https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "Furious Icon",
+      "url": "https://open.spotify.com/track/0SSzPYBUXms4ZzIguZ4nHo"
+    },
+    {
+      "album": {
         "name": "Fusion",
         "url": "https://open.spotify.com/album/4mZ5cJVy6Clf7bFmSaSkFo"
       },
@@ -5484,6 +5538,24 @@
       "duration_ms": 178622,
       "name": "Gift of Life",
       "url": "https://open.spotify.com/track/7usTs2xTjmCXa2KpBUo91n"
+    },
+    {
+      "album": {
+        "name": "Gigantic Parasite Tongue",
+        "url": "https://open.spotify.com/album/3Hq9OZHYIsZYrpitjtO9EH"
+      },
+      "artists": [
+        {
+          "name": "The Callous Daoboys",
+          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257246,
+      "name": "Gigantic Parasite Tongue",
+      "url": "https://open.spotify.com/track/4Bv4jUCR08CSoDQRqhIPdT"
     },
     {
       "album": {
@@ -5888,6 +5960,24 @@
       "duration_ms": 188936,
       "name": "Half Empty",
       "url": "https://open.spotify.com/track/65NcWSuJxjHgbgQapLmEYF"
+    },
+    {
+      "album": {
+        "name": "HALF REMAIN",
+        "url": "https://open.spotify.com/album/1Qjmn3rFc9cFRqyfhhr9dK"
+      },
+      "artists": [
+        {
+          "name": "Weeping Wound",
+          "url": "https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198155,
+      "name": "HALF REMAIN",
+      "url": "https://open.spotify.com/track/3NrTgAVCfkyctFBxZvpu9i"
     },
     {
       "album": {
@@ -9042,7 +9132,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 198924,
       "name": "NO HOME LEFT TO FIND",
       "url": "https://open.spotify.com/track/3GBW3ISQc8jAQojA28IW18"
@@ -10042,7 +10132,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 245451,
       "name": "poison",
       "url": "https://open.spotify.com/track/7KkltGeZGKDRclb1RoGk2z"
@@ -13246,7 +13336,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 151285,
       "name": "thorns",
       "url": "https://open.spotify.com/track/6UxGXtVucF6wYINmQLnolY"
@@ -13832,6 +13922,24 @@
       "duration_ms": 197124,
       "name": "vain conceit",
       "url": "https://open.spotify.com/track/5deTZlsApQuqK6U7zkGdb9"
+    },
+    {
+      "album": {
+        "name": "Vanilla Latte",
+        "url": "https://open.spotify.com/album/01Kui9a3rkdckJen3duPvC"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144973,
+      "name": "Vanilla Latte",
+      "url": "https://open.spotify.com/track/07pkzqGG7U0NXnVlBokdmW"
     },
     {
       "album": {
@@ -14470,7 +14578,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 148175,
       "name": "without a trace",
       "url": "https://open.spotify.com/track/1JyFOk995wuumTB5ZQFJoW"

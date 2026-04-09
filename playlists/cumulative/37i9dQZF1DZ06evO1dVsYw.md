@@ -4,7 +4,7 @@
 
 > This is Racionais MC's\. The essential tracks, all in one playlist.
 
-48 songs - 4 hr 21 min
+49 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Formula Mágica da Paz \- Ao Vivo](https://open.spotify.com/track/4aVBWmgp19jJJkUGN7mypV) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [1000 Trutas 1000 Tretas \(Ao Vivo\)](https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude) | 11:20 | 2023-09-18 |  |
 | [Formula Mágica de Paz](https://open.spotify.com/track/4QsfSMCOEmTbPzHCCLbhgr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 10:39 | 2023-09-18 |  |
 | [Hey Boy](https://open.spotify.com/track/1eluAGIOxgYMXOpT8UHJHz) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 5:10 | 2023-09-18 | 2023-12-14 |
+| [Hey Boy](https://open.spotify.com/track/5UB7T65eDqeuyU8FooCFBu) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais Mc's](https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4) | 5:10 | 2026-04-09 |  |
 | [Homem na Estrada](https://open.spotify.com/track/10CaXTAohMFQeFWZGfnGyC) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 8:41 | 2023-09-18 |  |
 | [Intro \- People Get Up And Drive Your Funky Soul \- Ao Vivo](https://open.spotify.com/track/0mxcW0LJMBXHVT8PXaD8H0) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 2:45 | 2023-12-23 |  |
 | [Introdução](https://open.spotify.com/track/0AIGUzrv8GEO3fZfmsOPNT) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ) | 0:36 | 2026-04-06 |  |

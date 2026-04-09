@@ -67,18 +67,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Perdi La Cuenta",
-        "url": "https://open.spotify.com/album/3o4Z7JpwF3arUnwl9W7hAz"
+        "name": "DIOS me dio colores",
+        "url": "https://open.spotify.com/album/6Ap9zoh5gSzckGmTXWbIJ5"
       },
       "artists": [
         {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
         }
       ],
-      "duration_ms": 183272,
-      "name": "Perdi La Cuenta",
-      "url": "https://open.spotify.com/track/7vXmcjJ7fSvYfHP9aEqU8s"
+      "duration_ms": 183135,
+      "name": "DIOS me dio colores",
+      "url": "https://open.spotify.com/track/1VxbYLgB905OCiWWWb2bcm"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "DIOS me dio colores",
-        "url": "https://open.spotify.com/album/6Ap9zoh5gSzckGmTXWbIJ5"
+        "name": "Perdi La Cuenta",
+        "url": "https://open.spotify.com/album/3o4Z7JpwF3arUnwl9W7hAz"
       },
       "artists": [
         {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
         }
       ],
-      "duration_ms": 183135,
-      "name": "DIOS me dio colores",
-      "url": "https://open.spotify.com/track/1VxbYLgB905OCiWWWb2bcm"
+      "duration_ms": 183272,
+      "name": "Perdi La Cuenta",
+      "url": "https://open.spotify.com/track/7vXmcjJ7fSvYfHP9aEqU8s"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
+        "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
+      },
+      "artists": [
+        {
+          "name": "Reynaldo Santiago \" Chino \"",
+          "url": "https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Camino Al Cielo (Versi\u00f3n Merengue)",
+      "url": "https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "PR24SIETE Soy de Aqu\u00ed",
         "url": "https://open.spotify.com/album/15gMI3J7lxW9ZBPTNVy4vz"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 164516,
       "name": "QUIERO A MI PUEBLO (PR24SIETE)",
       "url": "https://open.spotify.com/track/7tty3poKASR5Wp6sXI3Kf9"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
-        "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
-      },
-      "artists": [
-        {
-          "name": "Reynaldo Santiago \" Chino \"",
-          "url": "https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Camino Al Cielo (Versi\u00f3n Merengue)",
-      "url": "https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
+      },
+      "artists": [
+        {
+          "name": "Tommy Bueno",
+          "url": "https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR"
+        },
+        {
+          "name": "Lisan Beat",
+          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
         "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 182474,
       "name": "Quema",
       "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Lejos",
-        "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
-      },
-      "artists": [
-        {
-          "name": "Tommy Bueno",
-          "url": "https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR"
-        },
-        {
-          "name": "Lisan Beat",
-          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -763,6 +763,26 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Siempre Has Sido Fiel",
+        "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        },
+        {
+          "name": "Kaelyn Reese",
+          "url": "https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Siempre Has Sido Fiel",
+      "url": "https://open.spotify.com/track/0ExRFTBr0xfteBCElp0kI2"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Entre Familia",
         "url": "https://open.spotify.com/album/5AA6llt0xgT2wPXcrW5DyO"
       },
@@ -819,22 +839,18 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Siempre Has Sido Fiel",
-        "url": "https://open.spotify.com/album/5MapDgrCSpghEvUw29FE1L"
+        "name": "Ped\u00ed Un Deseo",
+        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
       },
       "artists": [
         {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        },
-        {
-          "name": "Kaelyn Reese",
-          "url": "https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl"
+          "name": "Yaronk Rouse",
+          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
         }
       ],
-      "duration_ms": 171764,
-      "name": "Siempre Has Sido Fiel",
-      "url": "https://open.spotify.com/track/0ExRFTBr0xfteBCElp0kI2"
+      "duration_ms": 196156,
+      "name": "Ped\u00ed Un Deseo",
+      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -851,22 +867,6 @@
       "duration_ms": 147672,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Ped\u00ed Un Deseo",
-        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
-      },
-      "artists": [
-        {
-          "name": "Yaronk Rouse",
-          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
-        }
-      ],
-      "duration_ms": 196156,
-      "name": "Ped\u00ed Un Deseo",
-      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Mec\u00e1nico",
+        "url": "https://open.spotify.com/album/2VDjp95mLNDABNI9G2NNkU"
+      },
+      "artists": [
+        {
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+        }
+      ],
+      "duration_ms": 179170,
+      "name": "Mec\u00e1nico",
+      "url": "https://open.spotify.com/track/76KXw6LImaUZKAn6YPceNq"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Mec\u00e1nico",
-        "url": "https://open.spotify.com/album/2VDjp95mLNDABNI9G2NNkU"
-      },
-      "artists": [
-        {
-          "name": "David Muguercia",
-          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
-        }
-      ],
-      "duration_ms": 179170,
-      "name": "Mec\u00e1nico",
-      "url": "https://open.spotify.com/track/76KXw6LImaUZKAn6YPceNq"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Grande y Maravillosas Son Tus Obras",
+        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "duration_ms": 246919,
+      "name": "Grande y Maravillosas Son Tus Obras",
+      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Agua Viva",
         "url": "https://open.spotify.com/album/07qYY30VHBfIzrmcPHhinF"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 173332,
       "name": "M\u00e1s de Una Vez",
       "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
-        "url": "https://open.spotify.com/album/5OJF5gjJmi6RhI0YnqQBuU"
-      },
-      "artists": [
-        {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
-        }
-      ],
-      "duration_ms": 139839,
-      "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
-      "url": "https://open.spotify.com/track/1jm1I2fv53f1xH3DFTYR2D"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
+        "url": "https://open.spotify.com/album/5OJF5gjJmi6RhI0YnqQBuU"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "duration_ms": 139839,
+      "name": "Ech\u00f3 A La Mar Los Carros Del Fara\u00f3n",
+      "url": "https://open.spotify.com/track/1jm1I2fv53f1xH3DFTYR2D"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "ENERGY",
         "url": "https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 195133,
       "name": "Nos Vamos A Gozar",
       "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Grande y Maravillosas Son Tus Obras",
-        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
-      },
-      "artists": [
-        {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
-        }
-      ],
-      "duration_ms": 246919,
-      "name": "Grande y Maravillosas Son Tus Obras",
-      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1319,6 +1319,26 @@
       "duration_ms": 209837,
       "name": "Baila",
       "url": "https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "La Criolla",
+        "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
+      },
+      "artists": [
+        {
+          "name": "BuiltOn Purpose",
+          "url": "https://open.spotify.com/artist/3jKdeKwnpmGGsZwkg8RypA"
+        },
+        {
+          "name": "Giovani",
+          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
+        }
+      ],
+      "duration_ms": 160285,
+      "name": "La Criolla",
+      "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1383,26 +1403,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "La Criolla",
-        "url": "https://open.spotify.com/album/3UlKZOXdj6lqe9eyssrjFP"
-      },
-      "artists": [
-        {
-          "name": "BuiltOn Purpose",
-          "url": "https://open.spotify.com/artist/3jKdeKwnpmGGsZwkg8RypA"
-        },
-        {
-          "name": "Giovani",
-          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
-        }
-      ],
-      "duration_ms": 160285,
-      "name": "La Criolla",
-      "url": "https://open.spotify.com/track/3pEBiQSYCtSC1wyNIeNvgH"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/4EzCYYPYJhbpVVVYoNj1xy"
       },
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Te Entrego Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 207965,
+      "name": "Te Entrego Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Mi Creador",
         "url": "https://open.spotify.com/album/16X429nrjpTB4Slqplq98d"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 176038,
       "name": "Mi Creador",
       "url": "https://open.spotify.com/track/5VIG2ergnmxEFEU3is0dMj"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "Te Entrego Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 207965,
-      "name": "Te Entrego Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
-        "name": "Corro a Ti",
-        "url": "https://open.spotify.com/album/4I9ZoZ53UKl31RaFYedPAP"
-      },
-      "artists": [
-        {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Corro a Ti",
-      "url": "https://open.spotify.com/track/1sR3k6e5fuCQrHHMWjUkM5"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
         "name": "Absoluto",
         "url": "https://open.spotify.com/album/4PllLhV4CKScbqcYqffkov"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2026-03-29 00:09:04",
       "album": {
+        "name": "Corro a Ti",
+        "url": "https://open.spotify.com/album/4I9ZoZ53UKl31RaFYedPAP"
+      },
+      "artists": [
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Corro a Ti",
+      "url": "https://open.spotify.com/track/1sR3k6e5fuCQrHHMWjUkM5"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
         "name": "Al ritmo del Esp\u00edritu de Dios",
         "url": "https://open.spotify.com/album/4hzynhzd2QNuf221J1dKXj"
       },
@@ -1571,6 +1571,22 @@
       "duration_ms": 219688,
       "name": "Al ritmo del Esp\u00edritu de Dios",
       "url": "https://open.spotify.com/track/5ZT3qvf2KcmBrxMbOR0OtA"
+    },
+    {
+      "added_at": "2026-03-29 00:09:04",
+      "album": {
+        "name": "ETE' MUNDO",
+        "url": "https://open.spotify.com/album/1JTQXLQlkOsJENEK7OoVTF"
+      },
+      "artists": [
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        }
+      ],
+      "duration_ms": 162551,
+      "name": "ETE' MUNDO",
+      "url": "https://open.spotify.com/track/5mxXHC2esSHpS76ZZferdn"
     },
     {
       "added_at": "2026-03-29 00:09:04",
@@ -1591,22 +1607,6 @@
       "duration_ms": 210058,
       "name": "M\u00e1s Que Ayer",
       "url": "https://open.spotify.com/track/2PUqm44YdZFxDvFEM04xyH"
-    },
-    {
-      "added_at": "2026-03-29 00:09:04",
-      "album": {
-        "name": "ETE' MUNDO",
-        "url": "https://open.spotify.com/album/1JTQXLQlkOsJENEK7OoVTF"
-      },
-      "artists": [
-        {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
-        }
-      ],
-      "duration_ms": 162551,
-      "name": "ETE' MUNDO",
-      "url": "https://open.spotify.com/track/5mxXHC2esSHpS76ZZferdn"
     },
     {
       "added_at": "2026-03-29 00:09:04",

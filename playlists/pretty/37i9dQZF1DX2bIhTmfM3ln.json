@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 58551,
+  "num_followers": 58612,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-04-03 00:01:35",
       "album": {
+        "name": "HGF",
+        "url": "https://open.spotify.com/album/6M9MsS9A5fFSGd6yMjVQdq"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "HGF",
+      "url": "https://open.spotify.com/track/1CKrhdDdnHFk1EGsLVwUnR"
+    },
+    {
+      "added_at": "2026-04-03 00:01:35",
+      "album": {
         "name": "DEARLY",
         "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 181495,
       "name": "DEARLY",
       "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
-    },
-    {
-      "added_at": "2026-04-03 00:01:35",
-      "album": {
-        "name": "HGF",
-        "url": "https://open.spotify.com/album/6M9MsS9A5fFSGd6yMjVQdq"
-      },
-      "artists": [
-        {
-          "name": "Mckay",
-          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "HGF",
-      "url": "https://open.spotify.com/track/1CKrhdDdnHFk1EGsLVwUnR"
     },
     {
       "added_at": "2026-04-03 00:01:35",

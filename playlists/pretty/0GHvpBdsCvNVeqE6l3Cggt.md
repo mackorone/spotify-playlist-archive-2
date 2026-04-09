@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 46 songs - 2 hr 56 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 48 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 44 | [Not There](https://open.spotify.com/track/5qu1ZbZglE1eEpketsdNCL) | [blanket season](https://open.spotify.com/artist/6MkM0uop587AXtnDFsQJMC) | [Not There](https://open.spotify.com/album/2OpqAFx1fBVA2Ap2SBoXkR) | 3:04 |
 | 45 | [Something Better](https://open.spotify.com/track/0mtt3La0vOFO0jjUBzDyDe) | [Buffy](https://open.spotify.com/artist/2cduAtZPJsBg9LGGbS2Ktp) | [Something Better](https://open.spotify.com/album/2bGyHyfbRmdiEazFAZgdyu) | 4:28 |
 | 46 | [Minority](https://open.spotify.com/track/7EahJBzq7oNuxktGieAJa4) | [Catii](https://open.spotify.com/artist/5VWLPyWRDkbnaiV5LYSnXv) | [Minority](https://open.spotify.com/album/1T9q32c5d8PPBg72mbu12Q) | 4:14 |
+| 47 | [Copies](https://open.spotify.com/track/3ZfXF6vUNS9229TSoNXUCA) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Destroying Is Easy](https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w) | 4:55 |
+| 48 | [Pancakes](https://open.spotify.com/track/5BRqccEaTPHXI0zAzp8Hqr) | [Sunday Lemonade](https://open.spotify.com/artist/7fTdpGoJdp9BPY5Mdo82vj) | [Pancakes](https://open.spotify.com/album/2rwC62yt7guLH8WAMGqNeg) | 4:02 |
 
-Snapshot ID: `AAAkJcQGqXxFdtjOyY9YNvMfRutnJOqx`
+Snapshot ID: `AAAkJzR+nNKAhd5NP5oNCA/qGKsGscAB`

@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-380 songs - 1 day 3 hr 29 min
+382 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Look At My Snowman](https://open.spotify.com/track/4vHHYqYkDDuf8SZnraMjXV) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossroads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 4:24 | 2022-02-22 |  |
 | [Lost](https://open.spotify.com/track/7bwj1PDvfKqa0AvAhK9bwN) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 2:42 | 2022-01-07 |  |
 | [Lotusland](https://open.spotify.com/track/0XK0t54tahEMTfvSf73iUu) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Arcadia](https://open.spotify.com/album/6gy6mL4HSYzlYFgumVCdYK) | 4:40 | 2022-01-07 | 2023-08-19 |
+| [LULL](https://open.spotify.com/track/6hSrJKrASONXLrLekOg6Kc) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Lips](https://open.spotify.com/album/3UtPbex4PDom5Up7AfMHZZ) | 1:47 | 2026-04-08 |  |
 | [Luminance](https://open.spotify.com/track/4c6yOy3ue1sYWKWxaedSev) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [井口理](https://open.spotify.com/artist/573aEcIHzIyX9guZtasykj) | [国宝　オリジナル・サウンドトラック](https://open.spotify.com/album/71zMCedoxuCj0m108ODrFL) | 4:39 | 2025-08-29 |  |
 | [Luminous](https://open.spotify.com/track/0x3TVsyBVHoaZnZVDdg1Vt) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Blue](https://open.spotify.com/album/1iP5wtr2dm9MdiMvwaOlgY) | 2:23 | 2022-01-07 | 2023-04-22 |
 | [lunar longing](https://open.spotify.com/track/6eKuXiRbo9ElFZO1f3lQWk) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [lunar longing](https://open.spotify.com/album/4zOzOegSYCfl8o7qTTwTEP) | 2:54 | 2025-09-18 |  |
@@ -246,9 +247,10 @@
 | [Postcards](https://open.spotify.com/track/6PiGxd8jyfWCGPojb4tpf5) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 5:36 | 2022-01-07 |  |
 | [Prayer](https://open.spotify.com/track/7LgljzzT4CGyJ7Fv8qwWJO) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Time](https://open.spotify.com/album/1jtleXgBwqCJGqWBPorJgX) | 2:38 | 2025-05-02 |  |
 | [Prepare](https://open.spotify.com/track/7uqejCQTcEWr9H9ivSBtAx) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Prepare](https://open.spotify.com/album/6W0VH3DLSiLxEjVyyw0AjJ) | 3:06 | 2022-01-07 |  |
+| [Purple Sunshine](https://open.spotify.com/track/0bNgicoJDD9CZagB9FH5fL) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [Purple Sunshine](https://open.spotify.com/album/5NDODsJUEfw0SKxoNbbKuv) | 8:37 | 2026-04-08 |  |
 | [Rain](https://open.spotify.com/track/412C2GI5PBX8xkXyMsYfsA) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Rain](https://open.spotify.com/album/7BszHuPZtbiKu0z4nZoF07) | 1:37 | 2025-12-02 | 2026-03-28 |
 | [raitenn](https://open.spotify.com/track/6TN0dfPDwMchr4wrVYmc63) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kingen](https://open.spotify.com/album/0NbcRh4G7C3tJITIKhLLkf) | 3:02 | 2023-03-11 | 2023-08-19 |
-| [REALM](https://open.spotify.com/track/6MlWSNGsSVLn2VAEwSM7BY) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [REALM](https://open.spotify.com/album/7bXpq0vkGVmGPsvcRGyBnR) | 1:49 | 2026-03-09 |  |
+| [REALM](https://open.spotify.com/track/6MlWSNGsSVLn2VAEwSM7BY) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [REALM](https://open.spotify.com/album/7bXpq0vkGVmGPsvcRGyBnR) | 1:49 | 2026-03-09 | 2026-04-09 |
 | [Rear View](https://open.spotify.com/track/1zlOiXXQostUPBPinAuW8A) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Crépuscule I & II](https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs) | 3:22 | 2023-01-13 | 2025-05-07 |
 | [reflexion](https://open.spotify.com/track/1y9G6HMl6O8KjiqFtbSSln) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [reflexion](https://open.spotify.com/album/4GPjix84e1rc8JLsmEBkk9) | 1:56 | 2026-02-10 | 2026-03-17 |
 | [Refu](https://open.spotify.com/track/0nr7iWQZW0bHDeK4SiuZnD) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Lu](https://open.spotify.com/album/5siMengKn4MqakEPyEv2sI) | 7:28 | 2025-03-21 |  |
@@ -280,7 +282,7 @@
 | [Silky Lake](https://open.spotify.com/track/1o2iyJBJNMG8kJI3dCI9aS) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Humid Sun](https://open.spotify.com/album/3DxHQ1mr556sKBOrQZa3ZB) | 3:44 | 2025-12-02 |  |
 | [Simple](https://open.spotify.com/track/3NycsY2xkMtw46D7rlUs3v) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 3:12 | 2022-03-25 |  |
 | [Sink](https://open.spotify.com/track/2sIqJEaOkljoxWkK6xeCXz) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Escapism](https://open.spotify.com/album/0lbBP62BrruZ4TYc4NFetE) | 6:24 | 2022-01-07 |  |
-| [Sketch\#1](https://open.spotify.com/track/13jMKwAdRtkLfjz6a0Pml1) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Afterimage](https://open.spotify.com/album/7I3QjuOUAde7BUD5nrXbwX) | 7:25 | 2024-12-14 |  |
+| [Sketch\#1](https://open.spotify.com/track/13jMKwAdRtkLfjz6a0Pml1) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Afterimage](https://open.spotify.com/album/7I3QjuOUAde7BUD5nrXbwX) | 7:25 | 2024-12-14 | 2026-04-09 |
 | [SLEEP](https://open.spotify.com/track/4hNzwEykt9DWUiU7KRf6Pr) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:25 | 2022-12-30 | 2023-08-19 |
 | [Slow Flow](https://open.spotify.com/track/36rMFJK7q1LOwc3JBD6gne) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Soothe & Sleep, Vol.1](https://open.spotify.com/album/4cnvrE64yUSs7WlrfIzpAH) | 4:54 | 2022-07-22 | 2022-08-04 |
 | [Slow Flow](https://open.spotify.com/track/6gOotEcEdpVVxcGCpETBg4) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Slow Flow](https://open.spotify.com/album/28aB0w9WKYvpQeyoOATEfh) | 4:54 | 2022-01-07 |  |

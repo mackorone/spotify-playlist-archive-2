@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 99609,
+  "num_followers": 99624,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAACkgWyUH3/P/5WnEGZwZDI1",
+  "snapshot_id": "adRJAAAAAADekhmNc2tvhnLL9iKj//2C",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 174556,
-      "name": "Para Ser Respetado",
-      "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 145716,
       "name": "Mi Buena Suerte",
       "url": "https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 174556,
+      "name": "Para Ser Respetado",
+      "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1as De Revista",
-        "url": "https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 147480,
-      "name": "Ni\u00f1as De Revista",
-      "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 186261,
       "name": "Se Oyen Recio Los Disparos",
       "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni\u00f1as De Revista",
+        "url": "https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 147480,
+      "name": "Ni\u00f1as De Revista",
+      "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sky Blue",
-        "url": "https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 162358,
-      "name": "Sky Blue",
-      "url": "https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 148344,
       "name": "La Fiesta Ya Empezo",
       "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sky Blue",
+        "url": "https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 162358,
+      "name": "Sky Blue",
+      "url": "https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sangre De Rancho",
+        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 168881,
+      "name": "Sangre De Rancho",
+      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paris & Grecia",
         "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 165587,
       "name": "Paris & Grecia",
       "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sangre De Rancho",
-        "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 168881,
-      "name": "Sangre De Rancho",
-      "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dime x Que",
-        "url": "https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 173854,
-      "name": "Dime x Que",
-      "url": "https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL CH",
         "url": "https://open.spotify.com/album/0tL2W3AxUGbAOtZHP48VBs"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 153705,
       "name": "EL CH",
       "url": "https://open.spotify.com/track/1435eaau7EznWMUd1Kr1Kd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dime x Que",
+        "url": "https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 173854,
+      "name": "Dime x Que",
+      "url": "https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU"
     },
     {
       "added_at": null,

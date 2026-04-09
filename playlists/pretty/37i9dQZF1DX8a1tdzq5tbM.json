@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1781364,
+  "num_followers": 1781737,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Every Word",
-        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
-      },
-      "artists": [
-        {
-          "name": "Ercola",
-          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
-        },
-        {
-          "name": "Daniella",
-          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
-      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Toys Are Nuts Remixes",
         "url": "https://open.spotify.com/album/5V2OID9LYLcd84BGiCYHhx"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 306000,
       "name": "Toys Are Nuts - Hardwell & Rehab Remix",
       "url": "https://open.spotify.com/track/7fvkfIQ4AsdNxDd45yR02F"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Every Word",
+        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
+      },
+      "artists": [
+        {
+          "name": "Ercola",
+          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
+        },
+        {
+          "name": "Daniella",
+          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
+      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Bellatrax",
-          "url": "https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE"
-        },
-        {
-          "name": "Sophia May",
-          "url": "https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
-      "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Make Your Move",
         "url": "https://open.spotify.com/album/3dQXJeWW3lQVy5DiEK3vxV"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 180133,
       "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
       "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Bellatrax",
+          "url": "https://open.spotify.com/artist/0tHbQT6zoj3pYpn5QUJveE"
+        },
+        {
+          "name": "Sophia May",
+          "url": "https://open.spotify.com/artist/5f2X43MBIQUucziUGfZbjg"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
+      "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Come into My Life (10th Anniversary)",
-        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        }
-      ],
-      "duration_ms": 213305,
-      "name": "Freed from Desire",
-      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Bunkka",
         "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 253933,
       "name": "Ready Steady Go - Extended Mix",
       "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Come into My Life (10th Anniversary)",
+        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "duration_ms": 213305,
+      "name": "Freed from Desire",
+      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Bunkka",
         "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 228493,
       "name": "Starry Eyed Surprise",
       "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Put Your Hands Up For Detroit",
+        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 393333,
+      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
+      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Pacha Ibiza - The House Collection (2000-2009)",
         "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
       },
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
-      "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Put Your Hands Up For Detroit",
-        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
       },
       "artists": [
         {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 393333,
-      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
-      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
+      "duration_ms": 201413,
+      "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
+      "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Deep Inside (2009 Mixes)",
+        "url": "https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 392668,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1883,18 +1899,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Deep Inside (2009 Mixes)",
-        "url": "https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI"
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
       },
       "artists": [
         {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 392668,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s"
+      "duration_ms": 217000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1911,22 +1927,6 @@
       "duration_ms": 719133,
       "name": "Forever Today",
       "url": "https://open.spotify.com/track/2QGEeY7qFUPMapnkRg4ssa"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ"
+      },
+      "artists": [
+        {
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gone - Radio Edit",
+      "url": "https://open.spotify.com/track/7okxXBe93gMNiXqOd6cCdU"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Elements of Life",
         "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 420546,
       "name": "Everything (feat. JES)",
       "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ"
-      },
-      "artists": [
-        {
-          "name": "Lasgo",
-          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Gone - Radio Edit",
-      "url": "https://open.spotify.com/track/7okxXBe93gMNiXqOd6cCdU"
     },
     {
       "added_at": "2024-07-12 15:40:20",

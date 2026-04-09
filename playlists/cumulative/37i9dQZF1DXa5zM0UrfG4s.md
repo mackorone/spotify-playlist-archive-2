@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-446 songs - 20 hr 23 min
+447 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Baksetefylla](https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO) | [Malene Axling](https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ) | [Baksetefylla](https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe) | 2:29 | 2022-05-19 | 2026-03-15 |
 | [Balladen om Morgan Kane](https://open.spotify.com/track/6mdY8t48E0adwWPOEt1tSS) | [Frøya](https://open.spotify.com/artist/2w8eUfLsUbiX7MQyTW13S6) | [Fri som fuglen](https://open.spotify.com/album/2tC4KKNpTxONyjF3LYJ6F5) | 3:51 | 2022-03-31 | 2022-04-20 |
 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 | 2021-12-16 |  |
-| [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 | 2021-12-16 |  |
+| [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 | 2021-12-16 | 2026-04-09 |
 | [Bare så du vett det](https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Stavangerkameratene](https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk) | 3:30 | 2022-07-28 | 2024-02-09 |
 | [Bare så du vett det](https://open.spotify.com/track/0MPznfQfw2r2XWJlhPoyWN) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Bare så du vett det](https://open.spotify.com/album/6vutuz8BvdPdSq7gy2xWgw) | 3:31 | 2021-12-16 | 2022-07-29 |
 | [Berre i natt](https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Berre i natt](https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj) | 3:49 | 2021-12-16 |  |
@@ -172,6 +172,7 @@
 | [GUT OG KAR](https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF) | [Skei & PT](https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV), [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC) | [GUT OG KAR](https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e) | 3:07 | 2025-07-03 |  |
 | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 | 2022-01-06 |  |
 | [Går det bra?](https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Går det bra?](https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp) | 2:23 | 2025-08-14 |  |
+| [Går i hundre](https://open.spotify.com/track/6bSCsSwV5iHwftQ17G1Vuj) | [Knivblad](https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng) | [Går i hundre](https://open.spotify.com/album/5dF8qDJtjtq0f0eH9U4v5J) | 2:41 | 2026-04-07 |  |
 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 | 2022-08-25 | 2023-08-07 |
 | [HAALAND](https://open.spotify.com/track/0LOCSZsi6mwN14aWHi8VCI) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X) | [HAALAND](https://open.spotify.com/album/6oBrrSkRLcvyVWe9ZwIvMl) | 1:44 | 2022-08-31 | 2022-10-14 |
 | [Haill](https://open.spotify.com/track/7LoN2tKObVtaCwYu7pk4BX) | [Maria Haukaas Mittet](https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B) | [Haill](https://open.spotify.com/album/5TaAEY29cHfSagrvmgBLnY) | 3:44 | 2025-08-28 | 2025-12-05 |

@@ -1,15 +1,15 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1086651,
+  "num_followers": 1086738,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEOnD9q/p6rYulm36O5AD1MSTxWr",
+  "snapshot_id": "AAAAAKU9lgJrlutcBzCs56o0Um7U2g16",
   "tracks": [
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Creep EP",
         "url": "https://open.spotify.com/album/1w1LIhUSQLKew0dYwiVX2q"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Zombie - Acoustic Version",
+      "url": "https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
@@ -57,7 +73,55 @@
       "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "Siamese Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 198560,
+      "name": "Disarm - Acoustic",
+      "url": "https://open.spotify.com/track/1CfFF36728zzSOcSLzj74U"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "A Beautiful Lie (20 Year Anniversary)",
+        "url": "https://open.spotify.com/album/7agt72GwSxZYPmx4Uu8S3U"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 206201,
+      "name": "The Kill - Acoustic",
+      "url": "https://open.spotify.com/track/3bedSjXvV2wByMkSf8cTx4"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "Punk Goes Acoustic, Vol. 3",
+        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "A Decade Under The Influence - Acoustic",
+      "url": "https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
@@ -73,7 +137,7 @@
       "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Retro Active",
         "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
@@ -89,7 +153,7 @@
       "url": "https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/4oieM9FgOhdsYIssk1SoM2"
@@ -113,7 +177,7 @@
       "url": "https://open.spotify.com/track/1BMDaiVYDREQnrQZA7Drpk"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
@@ -129,7 +193,7 @@
       "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
@@ -145,7 +209,7 @@
       "url": "https://open.spotify.com/track/3QcDpzfdr3wSmap8SA14DJ"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Dust in the Wind (From 'Queen of the Ring - Music From The Motion Picture')",
         "url": "https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq"
@@ -173,23 +237,7 @@
       "url": "https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "The Middle - Acoustic Version",
-      "url": "https://open.spotify.com/track/7HJmJYQqBq2tn7RleFlun5"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Pardon Me",
         "url": "https://open.spotify.com/album/0ki1gVexSfmfMxVYWMTB3A"
@@ -205,7 +253,23 @@
       "url": "https://open.spotify.com/track/2Yzw1oQwuCJDglARieFOEY"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "The Middle - Acoustic Version",
+      "url": "https://open.spotify.com/track/7HJmJYQqBq2tn7RleFlun5"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "MTV Unplugged (Live)",
         "url": "https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo"
@@ -225,7 +289,7 @@
       "url": "https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Aeroplane Flies High (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
@@ -241,7 +305,7 @@
       "url": "https://open.spotify.com/track/1hUD0aBTicbHb5G3p5P79e"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Teenage Dirtbag 2020 / Mope",
         "url": "https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16"
@@ -257,7 +321,7 @@
       "url": "https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Boxes (Acoustic)",
         "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
@@ -273,7 +337,7 @@
       "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "The Reason (Acoustic) / Right Before Your Eyes",
         "url": "https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36"
@@ -289,7 +353,7 @@
       "url": "https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "The Best Of...",
         "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
@@ -305,7 +369,7 @@
       "url": "https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Live From Soho",
         "url": "https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq"
@@ -321,7 +385,7 @@
       "url": "https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
@@ -337,7 +401,7 @@
       "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "The Poison (Deluxe Version)",
         "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
@@ -353,7 +417,7 @@
       "url": "https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX"
@@ -369,7 +433,7 @@
       "url": "https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Decode",
         "url": "https://open.spotify.com/album/043vwbrz69dFkM7LL5bBo2"
@@ -385,7 +449,7 @@
       "url": "https://open.spotify.com/track/5JxZgmOjx6j1StzrOq85HK"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Talihina Sky",
         "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
@@ -401,7 +465,7 @@
       "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Broken Machine (Deluxe)",
         "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
@@ -417,7 +481,7 @@
       "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
@@ -433,7 +497,7 @@
       "url": "https://open.spotify.com/track/5QPg2mhf4lXe53bj4hhuO7"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
@@ -449,7 +513,7 @@
       "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "SoCal Sessions",
         "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
@@ -465,23 +529,7 @@
       "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
-        "name": "Shooting Stars (in the Woods)",
-        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 263088,
-      "name": "Shooting Stars - in the Woods",
-      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Kill The Noise (Acoustic)",
         "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
@@ -497,23 +545,23 @@
       "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
-        "name": "Siamese Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+        "name": "Shooting Stars (in the Woods)",
+        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
         }
       ],
-      "duration_ms": 198560,
-      "name": "Disarm - Acoustic",
-      "url": "https://open.spotify.com/track/1CfFF36728zzSOcSLzj74U"
+      "duration_ms": 263088,
+      "name": "Shooting Stars - in the Woods",
+      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Pride (In The Name Of Love) [Songs Of Surrender]",
         "url": "https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Order In Decline B-Sides",
         "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
@@ -545,7 +593,7 @@
       "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Us and Them (Deluxe Edition)",
         "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
@@ -577,7 +625,7 @@
       "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
@@ -593,7 +641,7 @@
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Wolfmother (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
@@ -609,7 +657,7 @@
       "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Legendary (Acoustic)",
         "url": "https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x"
@@ -625,7 +673,7 @@
       "url": "https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Many of Horror (MTV Unplugged Live; Edit)",
         "url": "https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu"
@@ -641,7 +689,7 @@
       "url": "https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "When Incubus Attacks, Vol. 1",
         "url": "https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw"
@@ -657,7 +705,7 @@
       "url": "https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "bloody valentine (Acoustic)",
         "url": "https://open.spotify.com/album/6b3coyUziyxHqt8h5UiSkU"
@@ -677,7 +725,7 @@
       "url": "https://open.spotify.com/track/4Uah1pyFsLEsw4eauJvuNF"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "The Best Of - Volume One",
         "url": "https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5"
@@ -693,7 +741,7 @@
       "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/5jInHIOP1Ca3j1vza33bvu"
@@ -709,7 +757,7 @@
       "url": "https://open.spotify.com/track/7bSHKIEXocorAU4pvmJaeN"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
@@ -725,7 +773,7 @@
       "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Wrong Side Of Heaven (Acoustic)",
         "url": "https://open.spotify.com/album/2p7EHDph1VrRTfgF9YpzCQ"
@@ -741,7 +789,7 @@
       "url": "https://open.spotify.com/track/2pDUQD1PCN7nYNay2G22Qy"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Bad Life (acoustic)",
         "url": "https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI"
@@ -761,7 +809,7 @@
       "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "Free (Deluxe)",
         "url": "https://open.spotify.com/album/0mRS9byJHTnRXaaJaxDM8Z"
@@ -777,7 +825,7 @@
       "url": "https://open.spotify.com/track/7r8Ut9Pn4kzEJwNFtgDQKr"
     },
     {
-      "added_at": "2025-02-28 05:00:31",
+      "added_at": "2026-04-08 19:46:17",
       "album": {
         "name": "My Heart Will Always Be the B-Side to My Tongue",
         "url": "https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H"
@@ -791,54 +839,6 @@
       "duration_ms": 192133,
       "name": "Grand Theft Autumn / Where Is Your Boy - Acoustic",
       "url": "https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "I Can't Stand It - Acoustic",
-      "url": "https://open.spotify.com/track/2QgoSgNAeaN0GBNq7qNSaL"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
-        "name": "fleabag (acoustic)",
-        "url": "https://open.spotify.com/album/5TER2W8dPyfyUIO3FjheKf"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "fleabag - acoustic",
-      "url": "https://open.spotify.com/track/7GOXymmseLpEUAveeA03hK"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
-      },
-      "artists": [
-        {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
-        }
-      ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
     }
   ],
   "unique_name": "Acoustic Rock",

@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: RAMMA & Cindy Cats",
-  "num_followers": 170146,
+  "num_followers": 170161,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Campanas en la Noche",
-      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Peluson Of Milk",
         "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 181826,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/0lZLhOrIYSAnMeEICJnYSH"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Despierta",
         "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 250357,
       "name": "Personalmente",
       "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/0lZLhOrIYSAnMeEICJnYSH"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -599,26 +599,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Tango 4",
-        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Locales Calientes",
         "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 247419,
       "name": "Tan Distintos",
       "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "En La Vereda del Sol",
-        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 173746,
-      "name": "Inconsciente Colectivo",
-      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 160369,
       "name": "Josefina",
       "url": "https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "En La Vereda del Sol",
+        "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "Inconsciente Colectivo",
+      "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 156738,
-      "name": "Nena, dime algo.",
-      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Dejo Atr\u00e1s",
         "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 156738,
+      "name": "Nena, dime algo.",
+      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 250696,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Xtrapolar",
-        "url": "https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h"
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
         }
       ],
-      "duration_ms": 183592,
-      "name": "X siempre",
-      "url": "https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB"
+      "duration_ms": 228000,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1343,6 +1327,22 @@
       "duration_ms": 217805,
       "name": "Te Enfadas",
       "url": "https://open.spotify.com/track/0gTNja0vnCU8Y1WNovBn2x"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Xtrapolar",
+        "url": "https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 183592,
+      "name": "X siempre",
+      "url": "https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Lo Que Perd\u00ed",
-        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
-      },
-      "artists": [
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 223096,
-      "name": "Lo Que Perd\u00ed",
-      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
+        "name": "Lo Que Perd\u00ed",
+        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
+      },
+      "artists": [
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 223096,
+      "name": "Lo Que Perd\u00ed",
+      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
         "name": "Garc\u00eda, el M\u00e1s Grande",
         "url": "https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua"
       },
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
+        "name": "Las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 179782,
+      "name": "Las Ara\u00f1as",
+      "url": "https://open.spotify.com/track/0DC2xgdAaunixqno818mZo"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
         "name": "Como Un Cuento",
         "url": "https://open.spotify.com/album/1Ki4nbbat5sivyij8b57Kv"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 287114,
       "name": "Como Un Cuento",
       "url": "https://open.spotify.com/track/2lKQSh2RQ9z3yhfHOpKTqw"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
-        "name": "Las Ara\u00f1as",
-        "url": "https://open.spotify.com/album/146l6kCOT77xMMjJQIPeTK"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 179782,
-      "name": "Las Ara\u00f1as",
-      "url": "https://open.spotify.com/track/0DC2xgdAaunixqno818mZo"
     },
     {
       "added_at": "2026-02-04 16:00:36",

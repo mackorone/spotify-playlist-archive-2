@@ -10739,6 +10739,32 @@
     },
     {
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/5cD2Qnr2qJv4mLNiH1MGMM"
+      },
+      "artists": [
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Tyohaar",
+          "url": "https://open.spotify.com/artist/5WUd1VvyntoVVqqyND7AsA"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Piya/ I Wanna?",
+      "url": "https://open.spotify.com/track/6K4qGIKnv0KV3GSdXnK23O"
+    },
+    {
+      "album": {
         "name": "Thamma (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2PDsLEBY2f09kcKoGnlmub"
       },
@@ -11484,7 +11510,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 206023,
       "name": "Rang",
       "url": "https://open.spotify.com/track/1lYdEfyIy0AjjuzMTcwwh5"
@@ -12528,7 +12554,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 207857,
       "name": "Sau Shart Manzoor",
       "url": "https://open.spotify.com/track/6HfayXXA0WZJTaB5kWB6SK"
@@ -13000,6 +13026,28 @@
       "duration_ms": 122748,
       "name": "SPEAKERTOWN",
       "url": "https://open.spotify.com/track/4Tdp143MfFfudPg5VoW1ps"
+    },
+    {
+      "album": {
+        "name": "Starstruck",
+        "url": "https://open.spotify.com/album/2WJJRkBgHsxIkSX1o0Au6Z"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "somanshu",
+          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156477,
+      "name": "Starstruck",
+      "url": "https://open.spotify.com/track/4B3Zu3ZkocQJ5uZ0LSVi2z"
     },
     {
       "album": {

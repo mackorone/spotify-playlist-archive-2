@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 303000,
       "name": "Always With You",
       "url": "https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 304295,
       "name": "BLUE GIANT",
       "url": "https://open.spotify.com/track/30eL5h0PUssrOfDsVWTRd0"
@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "feelight!",
+        "url": "https://open.spotify.com/album/6w01FQT5vZAQNTJbaaS31r"
+      },
+      "artists": [
+        {
+          "name": "Limit",
+          "url": "https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "feelight!",
+      "url": "https://open.spotify.com/track/7EXuQTtIgQ19kxRkFlN2g3"
+    },
+    {
+      "album": {
         "name": "Monthly Youthonic, Vol.1",
         "url": "https://open.spotify.com/album/0mgwAirSdWtq4Q7LuzwHSY"
       },
@@ -934,6 +952,28 @@
       "duration_ms": 194360,
       "name": "Gwichanist",
       "url": "https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw"
+    },
+    {
+      "album": {
+        "name": "Have a good Sunday!",
+        "url": "https://open.spotify.com/album/5SZw6Hj2lbH6P1ZfMeh9Cx"
+      },
+      "artists": [
+        {
+          "name": "chorim",
+          "url": "https://open.spotify.com/artist/0Lw3RrzOZdrQFcWy9kYtEW"
+        },
+        {
+          "name": "\uc655\uc6b0\uc601",
+          "url": "https://open.spotify.com/artist/6hP7yS9ZIDRRWtw5LaxICi"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239019,
+      "name": "Have a good Sunday! (Feat. Wang WooYoung)",
+      "url": "https://open.spotify.com/track/7dBnxSbtW5TYC6hORAu0jo"
     },
     {
       "album": {

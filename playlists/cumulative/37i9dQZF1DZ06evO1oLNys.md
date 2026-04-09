@@ -4,7 +4,7 @@
 
 > This is Lia Kohl\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 54 min
+56 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [As Sweet As](https://open.spotify.com/track/6NZF11LlZ3BlTakjNkrpFi) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [In the Deep Drift You Will Find the Most Serene of Lullabies](https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9) | 4:20 | 2026-03-27 |  |
 | [Basketball Court](https://open.spotify.com/track/2Wrr8X4LvPFvucyaDxqs2q) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Various Small Whistles and a Song](https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk) | 1:00 | 2026-03-29 |  |
 | [became daily today](https://open.spotify.com/track/6lMpeGCEAbyaODknLJc9uf) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [The Ceiling Reposes](https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz) | 4:35 | 2026-03-27 |  |
+| [Belzec Extermination Camp](https://open.spotify.com/track/6TRDTNepSLMoCFr7XkW1ZY) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Jesse Perlstein](https://open.spotify.com/artist/3WkuJtLGUUxCUjci8VCTAu) | [Various Small Whistles and a Song](https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk) | 1:00 | 2026-04-09 |  |
 | [burning \| counting \(sleeping\)](https://open.spotify.com/track/1PGgpr46xeeFsyQhHsEYem) | [Whitney Johnson](https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [burning \| counting \(sleeping\)](https://open.spotify.com/album/5vjlMxFRcp9EuvDmWOXSgA) | 2:27 | 2026-03-27 |  |
 | [Car Alarm, Turn Signal](https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Ka Baird](https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6) | [Car Alarm, Turn Signal](https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z) | 4:47 | 2026-03-27 |  |
 | [Car Horns](https://open.spotify.com/track/0XJt8Gk8Z0pEDLDDi8DngI) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Patrick Shiroishi](https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2) | [Normal Sounds](https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP) | 4:25 | 2026-03-27 |  |
@@ -51,7 +52,7 @@
 | [Song for Soft\-Serve](https://open.spotify.com/track/1XylhcN6j3T4jZXGug2osW) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Recipe for a Boiled Egg](https://open.spotify.com/album/5BSfKYCvpUbPSivWRESu00) | 2:25 | 2026-04-08 |  |
 | [Stone Piece I](https://open.spotify.com/track/4YKtbKS2yNpI4go04yh2x1) | [Whitney Deanne Johnson](https://open.spotify.com/artist/0bYFegqSy4kotn92Pb3KTb), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Whitney Johnson](https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt) | [Stone Piece I](https://open.spotify.com/album/7AvRPX7SFGboxDbsieV3SL) | 7:29 | 2026-03-29 |  |
 | [Stone Piece I](https://open.spotify.com/track/2grSOpj4MBHZgnTzDfHxe9) | [Whitney Johnson](https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Stone Piece I](https://open.spotify.com/album/1CN5HD5HUgaLKw1qrbxShy) | 7:29 | 2026-03-27 | 2026-03-29 |
-| [Sullivan's Island Beach, Charleston](https://open.spotify.com/track/6vcdYEhlq2gUL5SLYWABPv) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Various Small Whistles and a Song](https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk) | 1:00 | 2026-04-08 |  |
+| [Sullivan's Island Beach, Charleston](https://open.spotify.com/track/6vcdYEhlq2gUL5SLYWABPv) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Various Small Whistles and a Song](https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk) | 1:00 | 2026-04-08 | 2026-04-09 |
 | [Tea at Dawn](https://open.spotify.com/track/0mo7FxYAf19enHBdvmF0hd) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Recipe for a Boiled Egg](https://open.spotify.com/album/5BSfKYCvpUbPSivWRESu00) | 0:54 | 2026-04-05 | 2026-04-06 |
 | [Tennis Court Light, Snow](https://open.spotify.com/track/7ggIC0pfqHen3QI2qRF2O9) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Normal Sounds](https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP) | 4:41 | 2026-03-27 |  |
 | [the moment a zipper](https://open.spotify.com/track/3oKbjge11bGrq7xABhauTj) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [The Ceiling Reposes](https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz) | 5:21 | 2026-03-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 142153,
+  "num_followers": 142140,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
-        "name": "The Great Awakening",
-        "url": "https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN"
-      },
-      "artists": [
-        {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
-        }
-      ],
-      "duration_ms": 190728,
-      "name": "Can't Get You Out of My Head",
-      "url": "https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
         "name": "brainrot",
         "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 132111,
       "name": "brainrot",
       "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
+        "name": "The Great Awakening",
+        "url": "https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "duration_ms": 190728,
+      "name": "Can't Get You Out of My Head",
+      "url": "https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h"
     },
     {
       "added_at": "2025-11-03 08:50:06",

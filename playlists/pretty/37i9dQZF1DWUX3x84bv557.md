@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,728 likes - 81 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,731 likes - 81 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -556,7 +556,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 243898,
       "name": "Lair 10",
       "url": "https://open.spotify.com/track/4ICfUmLK13c9zPEggxIbbf"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 308280,
       "name": "Memory of Future Melody",
       "url": "https://open.spotify.com/track/526K5riGysdt3Efrra6JXk"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 243394,
       "name": "Red Eel Dream",
       "url": "https://open.spotify.com/track/0vxBRncqPeIdYfJz0HbRNM"
@@ -958,6 +958,32 @@
       "duration_ms": 387613,
       "name": "Remote Polyphony",
       "url": "https://open.spotify.com/track/6lypDVMsRr7SCqt16HrXnZ"
+    },
+    {
+      "album": {
+        "name": "Scorpio Purple Skies",
+        "url": "https://open.spotify.com/album/5Eek4r3W8t3E2LBcev8VxH"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544000,
+      "name": "Scorpio Purple Skies",
+      "url": "https://open.spotify.com/track/0GydOrRZ2hKJATbVUBVNgE"
     },
     {
       "album": {

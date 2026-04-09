@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-626 songs - 1 day 8 hr 15 min
+627 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Pink Noise Dreamscape](https://open.spotify.com/track/0JLOIkyPKPEhUykR63YJFl) | [BBVB](https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP) | [Pink Noise Dreamscape](https://open.spotify.com/album/3QPfOMSfVydZE7ESKo4frz) | 3:24 | 2025-02-04 | 2025-02-27 |
 | [Pink Noise Dreamscape](https://open.spotify.com/track/1gV3cuP1WeUSzdz23LPDIP) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Pink Noise Dreamscape](https://open.spotify.com/album/5WQ8yzLy303xPRsC3LaKhg) | 3:02 | 2023-03-16 | 2023-10-28 |
 | [Pink Noise Dreamscape](https://open.spotify.com/track/7BWTOzUZe0w1X5xhCWUaNJ) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [Pink Noise Dreamscape](https://open.spotify.com/album/2H1M1EHTrNREdvwryv6Hl8) | 2:54 | 2025-12-09 |  |
+| [Pink Noise Drift](https://open.spotify.com/track/3gHagbLD2b9OfF83iRt6EC) | [Noise State](https://open.spotify.com/artist/66CVRU3foa4RCKW7ii9vT1) | [Pink Noise Drift](https://open.spotify.com/album/3ldsAiPlMRmu6lhEgz2dmQ) | 3:23 | 2026-03-31 |  |
 | [Pink Noise Dry Air](https://open.spotify.com/track/0SE11YWSsL5sRstBzieN3r) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Pink Noise \- Find your inner peace](https://open.spotify.com/album/3kc8lPIS29Kk95PyjXIZTh) | 2:30 | 2022-10-26 | 2023-03-18 |
 | [Pink Noise Echo](https://open.spotify.com/track/0EVK8swD1YcVo3iBm1kyBP) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Pleasant Pink Noise](https://open.spotify.com/album/6NZN7DQYRGrVibJhnpZtQi) | 3:42 | 2022-10-26 | 2023-03-18 |
 | [Pink Noise Endless](https://open.spotify.com/track/25WWFVlQtzccvTkmBBwa1g) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Pink Noise Slow Down](https://open.spotify.com/album/2QJbHLWT1VaEa1C8cudpw8) | 2:55 | 2023-03-16 |  |
@@ -384,7 +385,7 @@
 | [Pink Noise for Tranquility](https://open.spotify.com/track/6Ibp1yXeTZY5au5i3AgXR8) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Nature's Pink Noise](https://open.spotify.com/album/24AmrnX6tCSQjb5qjDaNi5) | 4:06 | 2022-06-10 |  |
 | [Pink Noise fountain](https://open.spotify.com/track/2R2U2lPeujARSFRc4mVC6i) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Pink Noise fountain](https://open.spotify.com/album/2zsk3xVhNRDW94vu6i3u4y) | 3:22 | 2022-08-02 | 2023-03-18 |
 | [Pink Noise Frequency Bliss](https://open.spotify.com/track/3akh1Sjb4UxtE6GVnpA76e) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Pink Noise Hz](https://open.spotify.com/album/5kw0eQ2Kt85ovdYPu35j3c) | 2:32 | 2023-03-16 |  |
-| [Pink Noise Glow](https://open.spotify.com/track/58nOMJCuSLeQtWAVTTNoSR) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Pink Noise Glow](https://open.spotify.com/album/5PAoaes5m0oruy2Yg94MHb) | 2:53 | 2026-03-31 |  |
+| [Pink Noise Glow](https://open.spotify.com/track/58nOMJCuSLeQtWAVTTNoSR) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Pink Noise Glow](https://open.spotify.com/album/5PAoaes5m0oruy2Yg94MHb) | 2:53 | 2026-03-31 | 2026-04-09 |
 | [Pink Noise Gol Gumbaz](https://open.spotify.com/track/1MZ2KdAqW7pNY6RKLaQAnj) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Pink Verb](https://open.spotify.com/album/6MWLIcFeKcIH2lDrHo7fP0) | 3:58 | 2021-12-01 | 2022-10-27 |
 | [Pink Noise Healing Energies](https://open.spotify.com/track/1zFjaAiPxL4HiVUdWBsKR7) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Pink Noise Healing Energies](https://open.spotify.com/album/1PzCp219ChBsQrBuinFRLV) | 3:14 | 2025-12-09 |  |
 | [Pink Noise Helper](https://open.spotify.com/track/665cUi6QtVzeP0Z6Hi4NEr) | [San Sebastiano](https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4) | [Zarata Arrosa](https://open.spotify.com/album/7EPl3Pl6Hm5e3sRCaLtO6K) | 3:04 | 2023-03-16 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 222287,
+  "num_followers": 222298,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-04-02 22:01:49",
       "album": {
-        "name": "Little Storm",
-        "url": "https://open.spotify.com/album/3SG6ai3jzNsouC1LIn6BIx"
-      },
-      "artists": [
-        {
-          "name": "Beth McBride",
-          "url": "https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "Warm Weather Song",
-      "url": "https://open.spotify.com/track/0a6MgmYXX8QCCmCPNRMshq"
-    },
-    {
-      "added_at": "2026-04-02 22:01:49",
-      "album": {
         "name": "A Dangerous Thing",
         "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 215573,
       "name": "A Dangerous Thing",
       "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
+    },
+    {
+      "added_at": "2026-04-02 22:01:49",
+      "album": {
+        "name": "Little Storm",
+        "url": "https://open.spotify.com/album/3SG6ai3jzNsouC1LIn6BIx"
+      },
+      "artists": [
+        {
+          "name": "Beth McBride",
+          "url": "https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "Warm Weather Song",
+      "url": "https://open.spotify.com/track/0a6MgmYXX8QCCmCPNRMshq"
     },
     {
       "added_at": "2026-04-02 22:01:49",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-04-02 22:01:49",
       "album": {
-        "name": "I Miss You, I Do",
-        "url": "https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 239748,
-      "name": "Took the Train 'til the End",
-      "url": "https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL"
-    },
-    {
-      "added_at": "2026-04-02 22:01:49",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2026-04-02 22:01:49",
       "album": {
-        "name": "My Roots",
-        "url": "https://open.spotify.com/album/6u0GjfYg4KepFzTXgOuXes"
+        "name": "I Miss You, I Do",
+        "url": "https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU"
       },
       "artists": [
         {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
         }
       ],
-      "duration_ms": 159697,
-      "name": "Tennessee",
-      "url": "https://open.spotify.com/track/3srDr6WrS76aa0fjbLZdhr"
+      "duration_ms": 239748,
+      "name": "Took the Train 'til the End",
+      "url": "https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL"
     },
     {
       "added_at": "2026-04-02 22:01:49",
@@ -927,6 +911,22 @@
     {
       "added_at": "2026-04-02 22:01:49",
       "album": {
+        "name": "My Roots",
+        "url": "https://open.spotify.com/album/6u0GjfYg4KepFzTXgOuXes"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 159697,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/3srDr6WrS76aa0fjbLZdhr"
+    },
+    {
+      "added_at": "2026-04-02 22:01:49",
+      "album": {
         "name": "Wild Geese, Wild Love / Day 2000 Awake",
         "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-04-02 22:01:49",
       "album": {
-        "name": "i went outside",
-        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "i went outside",
-      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
-    },
-    {
-      "added_at": "2026-04-02 22:01:49",
-      "album": {
         "name": "A Chosen Family",
         "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 235392,
       "name": "I Let the Good Ones Go",
       "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
+    },
+    {
+      "added_at": "2026-04-02 22:01:49",
+      "album": {
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
     },
     {
       "added_at": "2026-04-02 22:01:49",

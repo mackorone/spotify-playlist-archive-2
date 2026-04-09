@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "SEYCHELLES",
+        "url": "https://open.spotify.com/album/7BQPfd39YTObQGamGhDF7g"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Takanaka",
+          "url": "https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252666,
+      "name": "OH! TENGO SUERTE",
+      "url": "https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN"
+    },
+    {
+      "album": {
         "name": "Susanna",
         "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
       },
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 257533,
       "name": "SAMBA DE \u604b\u3057\u3066",
       "url": "https://open.spotify.com/track/2ntJXSC98pIAiGwigge8Nm"

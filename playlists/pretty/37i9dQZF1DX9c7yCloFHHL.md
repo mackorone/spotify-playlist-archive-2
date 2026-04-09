@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Gigi Masin
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,398 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,419 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lost](https://open.spotify.com/track/2DuasMw3GCPD60hqpx0QGU) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Lost](https://open.spotify.com/album/4A6GPQTSjb6qoNCYDuanwl) | 5:26 |
 | 2 | [Circle 64](https://open.spotify.com/track/0pDXlKuA4JG6eNTvwZFEvV) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Peia](https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2) | [Circle 64](https://open.spotify.com/album/4j3I9e40gYkBJVLNqFD6Bo) | 3:46 |
-| 3 | [Enough Grace](https://open.spotify.com/track/1j1IknlvyqlWymlU0utvxz) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Polaroid Piano 15th Anniversary Edition](https://open.spotify.com/album/0XJkpOnx4Kpu1ulhnZl1vf) | 3:08 |
+| 3 | [Enough Grace](https://open.spotify.com/track/1j1IknlvyqlWymlU0utvxz) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Polaroid Piano \(15th Anniversary Edition\)](https://open.spotify.com/album/0XJkpOnx4Kpu1ulhnZl1vf) | 3:08 |
 | 4 | [White Eye](https://open.spotify.com/track/0xPDQFesN5FNXSFs8QjEya) | [aus isoda](https://open.spotify.com/artist/7s3VfUpUHI84BUZsLYRxaT), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [Kenichiro Isoda](https://open.spotify.com/artist/5kUr7ReGZPQYssNxaKjyAC), [磯田健一郎](https://open.spotify.com/artist/3rFwskAbReckTSOvClgBCt) | [Interwoven](https://open.spotify.com/album/0T9fsB9gx7gTBrAzkyZ4Uc) | 3:57 |
 | 5 | [Orvis Spring 1969](https://open.spotify.com/track/2ybdcOoateEK4da1LCR6pQ) | [Doc No](https://open.spotify.com/artist/0RTNTHxxhRz2BQbPYHY7SC) | [Greenfield Park](https://open.spotify.com/album/06F6yvdZzSqE8zcKGrg67X) | 2:31 |
 | 6 | [highest form \(roygbiv\)](https://open.spotify.com/track/52mec5yAxDR9QVMuzw5g30) | [Weareforests](https://open.spotify.com/artist/6hp6bAatsGOLg6L2p4LF0A), [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [highest form \(roygbiv\)](https://open.spotify.com/album/5pymI8J1xohwsxPjp4wsr2) | 5:20 |

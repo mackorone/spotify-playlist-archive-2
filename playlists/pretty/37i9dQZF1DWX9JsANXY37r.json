@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123681,
+  "num_followers": 123678,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
+        "name": "Blue Lights",
+        "url": "https://open.spotify.com/album/3AtIuMIhH7mWk5p2JwfJRJ"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 250454,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/1cfs0qXoMWheM0s8Rq7jf0"
+    },
+    {
+      "added_at": "2025-10-25 00:54:02",
+      "album": {
         "name": "Nossa Chance",
         "url": "https://open.spotify.com/album/6H4qpKGByTw5x6ptH0ERO5"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 224881,
       "name": "Nossa Chance",
       "url": "https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV"
-    },
-    {
-      "added_at": "2025-10-25 00:54:02",
-      "album": {
-        "name": "Blue Lights",
-        "url": "https://open.spotify.com/album/3AtIuMIhH7mWk5p2JwfJRJ"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 250454,
-      "name": "Blue Lights",
-      "url": "https://open.spotify.com/track/1cfs0qXoMWheM0s8Rq7jf0"
     },
     {
       "added_at": "2025-10-25 00:54:02",

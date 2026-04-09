@@ -1142,10 +1142,40 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 305142,
       "name": "Killer",
       "url": "https://open.spotify.com/track/1I5yDkgWPTEFh2kRGpsXnV"
+    },
+    {
+      "album": {
+        "name": "Division Series Part 1",
+        "url": "https://open.spotify.com/album/11e0y9RoMwOIxepGERPRC1"
+      },
+      "artists": [
+        {
+          "name": "Skism",
+          "url": "https://open.spotify.com/artist/4P81VkbUxQrMmNwYnzliqJ"
+        },
+        {
+          "name": "DC Breaks",
+          "url": "https://open.spotify.com/artist/4D5VLxuFvZ058Z5S8YmE47"
+        },
+        {
+          "name": "Dee Freer",
+          "url": "https://open.spotify.com/artist/65C9c2Gl9jUDyhNdJlnhXk"
+        },
+        {
+          "name": "Tantrum Desire",
+          "url": "https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284571,
+      "name": "Killer - Tantrum Desire Remix",
+      "url": "https://open.spotify.com/track/5MDkUf9LMhBqizMC6z3b9v"
     },
     {
       "album": {

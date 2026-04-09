@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,008 likes - 160 songs - 8 hr 56 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,007 likes - 160 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 83 | [Afterlife](https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Afterlife](https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c) | 3:04 |
 | 84 | [SICK FUCK](https://open.spotify.com/track/77A94wc7fOY0vuMffWELYJ) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [SICK FUCK](https://open.spotify.com/album/6lAZHBlWEvprlhgX4pMKWN) | 2:33 |
 | 85 | [Echo Chamber](https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Echo Chamber](https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4) | 4:13 |
-| 86 | [SURFBOARD](https://open.spotify.com/track/2EoVbWzKPfeL4m32n0G384) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SURFBOARD](https://open.spotify.com/album/2j2albMg3mIwJpnOKgl7WF) | 3:32 |
+| 86 | [SURFBOARD](https://open.spotify.com/track/2EoVbWzKPfeL4m32n0G384) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [SURFBOARD](https://open.spotify.com/album/2j2albMg3mIwJpnOKgl7WF) | 3:31 |
 | 87 | [Innuendo \(I Get U\)](https://open.spotify.com/track/1D84CoKziCbQw6NWVxorq4) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:28 |
 | 88 | [Die Living](https://open.spotify.com/track/2oKsaWKGDnYD5V0Q8SiSVK) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Die Living](https://open.spotify.com/album/77gWAhX5gNNkBCOCrPtJTl) | 2:50 |
 | 89 | [U Can't Come Home](https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [U Can’t Come Home](https://open.spotify.com/album/6L71fSWcS2PbjB6B9slBqO) | 3:16 |

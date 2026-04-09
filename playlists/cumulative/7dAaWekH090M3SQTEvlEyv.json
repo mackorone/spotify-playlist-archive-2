@@ -210,7 +210,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 133199,
       "name": "\u3046\u308b\u305f\u30fc\u308b",
       "url": "https://open.spotify.com/track/2IhTr14slzROSQKtZ3CjUH"
@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30f3\u30bf\u306b\u8a00\u3063\u3066\u3093\u306e\uff01",
+        "url": "https://open.spotify.com/album/2I38UN7Ws4f19n1pu0jHDN"
+      },
+      "artists": [
+        {
+          "name": "\u3074\u30fc\u306a\u305f",
+          "url": "https://open.spotify.com/artist/3zPzQnEfIunvuYDX0iUJju"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133651,
+      "name": "\u30a2\u30f3\u30bf\u306b\u8a00\u3063\u3066\u3093\u306e\uff01",
+      "url": "https://open.spotify.com/track/3KaZDoUNLRzLgVIfJKTxrH"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30f4\u30a1\u30fc\u30c8",
         "url": "https://open.spotify.com/album/6tjcL58JcghZh1NSS2jhm1"
       },
@@ -512,7 +534,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 171256,
       "name": "\u30aa\u30fc\u30d1\u30fc\u30c4 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3tL7eD0waUbLBmaJw2V3z5"
@@ -890,10 +912,40 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 172840,
       "name": "\u30d0\u30c3\u30ab\u30a2\u30ce",
       "url": "https://open.spotify.com/track/3fvkfg1QFOFExUhkt78w9Q"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a1\u30b5\u30fc\u30c9\u30fb\u30af\u30a8\u30b9\u30c1\u30e7\u30f3\uff08\u6817\u5c71\u5915\u7483Remix\uff09",
+        "url": "https://open.spotify.com/album/4m2xumqy0xq9a549YgLey0"
+      },
+      "artists": [
+        {
+          "name": "32ki",
+          "url": "https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX"
+        },
+        {
+          "name": "\u6817\u5c71\u5915\u7483",
+          "url": "https://open.spotify.com/artist/529IDKZNOrCoMaR4xW0JlN"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254125,
+      "name": "\u30d5\u30a1\u30b5\u30fc\u30c9\u30fb\u30af\u30a8\u30b9\u30c1\u30e7\u30f3\uff08\u6817\u5c71\u5915\u7483Remix\uff09 (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/2juafeYe2FXUavGP9nz0Ai"
     },
     {
       "album": {
@@ -1442,10 +1494,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 252467,
       "name": "\u5343\u672c\u685c",
       "url": "https://open.spotify.com/track/38mUTswfszVFQ952r89AP8"
+    },
+    {
+      "album": {
+        "name": "\u540c\u21c6\u540c",
+        "url": "https://open.spotify.com/album/2diJ4lBb3TmJLcMGEWdnru"
+      },
+      "artists": [
+        {
+          "name": "\u8aad\u8c37\u3042\u304b\u306d",
+          "url": "https://open.spotify.com/artist/6hmC01ibmH7YxREDOvLaqE"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "\u540c\u21c6\u540c",
+      "url": "https://open.spotify.com/track/0x6IShZTkv9q5IM1uZVnxg"
     },
     {
       "album": {

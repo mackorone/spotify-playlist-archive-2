@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 296222,
       "name": "Acrobata",
       "url": "https://open.spotify.com/track/7B0NSAx83OyUxYAQGLC3zo"
@@ -10121,6 +10121,28 @@
     },
     {
       "album": {
+        "name": "Duori",
+        "url": "https://open.spotify.com/album/0GdYr6ch8i3H9V4sKp4Es0"
+      },
+      "artists": [
+        {
+          "name": "Heith",
+          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
+        },
+        {
+          "name": "Tarawangsawelas",
+          "url": "https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Duori",
+      "url": "https://open.spotify.com/track/23Q0919ERtsAmjJ2ZPM9nP"
+    },
+    {
+      "album": {
         "name": "Cosmorama",
         "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
       },
@@ -18387,6 +18409,24 @@
     },
     {
       "album": {
+        "name": "tide pool bath",
+        "url": "https://open.spotify.com/album/5PAVbxYHq9iIX39iKW3MpM"
+      },
+      "artists": [
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "it takes time",
+      "url": "https://open.spotify.com/track/00WzBoS7EAvWXUXezfnTqV"
+    },
+    {
+      "album": {
         "name": "Breakout 003",
         "url": "https://open.spotify.com/album/5IXOVAoG5jPP8f68x3FfDO"
       },
@@ -25927,6 +25967,24 @@
     },
     {
       "album": {
+        "name": "Mutu Beton",
+        "url": "https://open.spotify.com/album/0iRTF0tjmihntXOJHjta5h"
+      },
+      "artists": [
+        {
+          "name": "KUNTARI",
+          "url": "https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190164,
+      "name": "Parai",
+      "url": "https://open.spotify.com/track/2qf5UQ0HS0RNcwDsljnqRj"
+    },
+    {
+      "album": {
         "name": "Cycle",
         "url": "https://open.spotify.com/album/1bAo2qPVNw0wnUU8CUyC5o"
       },
@@ -26754,7 +26812,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 198500,
       "name": "Please Please Dear Seagull",
       "url": "https://open.spotify.com/track/1bYF5hfIPfGiKSnxGzXgTj"
@@ -28658,6 +28716,24 @@
       "duration_ms": 272098,
       "name": "Rikta",
       "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
+    },
+    {
+      "album": {
+        "name": "Terra",
+        "url": "https://open.spotify.com/album/3qW1EhwK8CFXd4tiUMg7mk"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Rings",
+      "url": "https://open.spotify.com/track/6bOyGWxyLOO7DcaAXYF4wZ"
     },
     {
       "album": {
@@ -32658,7 +32734,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 289611,
       "name": "Subway Surfer",
       "url": "https://open.spotify.com/track/1oJyBtv3pSCDxrb3KgRjwV"
@@ -37188,7 +37264,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 184922,
       "name": "Un pomeriggio di sole mi sono accorto che stavo correndo",
       "url": "https://open.spotify.com/track/6G53tWdq2h3EMVjNuGXRz8"

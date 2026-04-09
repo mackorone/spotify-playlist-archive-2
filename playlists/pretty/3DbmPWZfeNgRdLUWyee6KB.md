@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 194 songs - 11 hr 15 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 197 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,5 +202,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 192 | [Doc Holliday](https://open.spotify.com/track/3OohvRQPyZSKfyAeg1ph9A) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Doc Holliday](https://open.spotify.com/album/4XByeZcCRXXAl1jjnHGfro) | 4:49 |
 | 193 | [Pierdo el Control](https://open.spotify.com/track/3C0bku6a2HSE7D7SdR1h0r) | [NayroMusic](https://open.spotify.com/artist/4bJJBolygs8H5vlKMNtxKc) | [Cuerdas Nocturnas](https://open.spotify.com/album/1HZmIA87i8LsruJ1rSglCC) | 2:49 |
 | 194 | [I know he was](https://open.spotify.com/track/2AsWONFdZM5unwVKDCSO4U) | [Si Rusty](https://open.spotify.com/artist/1VbhbjoDwIar84obeTCV2M) | [I know he was](https://open.spotify.com/album/3c6DVRc21XqgHrhbiiDX7n) | 2:49 |
+| 195 | [Nostalgia](https://open.spotify.com/track/0b2mrLjNxBfCq2hl97Yb4a) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Detached](https://open.spotify.com/album/4VpODvxBTAEv2PVNXSTjYC) | 3:15 |
+| 196 | [Fish Tank](https://open.spotify.com/track/2hDnvkxpCSo57nPmEMN6ND) | [Buckeye Belle](https://open.spotify.com/artist/1f5o9LL9uj7X7KOBVpSiGa) | [I'd Rather Be Sleeping](https://open.spotify.com/album/4sBEZPvbIVcubfxcde4KOR) | 3:44 |
+| 197 | [Turquoise](https://open.spotify.com/track/2dO2mAcDNcrEMsQEZUoXMm) | [MAOOSA](https://open.spotify.com/artist/6Q2Tv4sMicVl2LKTnqzdyV) | [Brief](https://open.spotify.com/album/7mEjaLB5Fie1yvtMSJCHK7) | 3:35 |
 
-Snapshot ID: `AAASiDP9nHIp6Dw1dlSLxiaao98xdra4`
+Snapshot ID: `AAASi65TBI2VpCKvueLCrXe/1AN4yjzv`

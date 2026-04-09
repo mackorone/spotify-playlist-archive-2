@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310773,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/5UB7T65eDqeuyU8FooCFBu"
+    },
+    {
+      "album": {
         "name": "Raio X do Brasil",
         "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Codiciado en portada.",
-  "num_followers": 529035,
+  "num_followers": 529058,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "Bajo El Agua",
+        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 183051,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "Dueles",
         "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
       },
@@ -507,18 +523,18 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Bajo El Agua",
-        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
+        "name": "Soy Tan Tuyo",
+        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
       },
       "artists": [
         {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
         }
       ],
-      "duration_ms": 183051,
-      "name": "Bajo El Agua",
-      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
+      "duration_ms": 220377,
+      "name": "Soy Tan Tuyo",
+      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -543,22 +559,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Soy Tan Tuyo",
-        "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Soy Tan Tuyo",
-      "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "HOME RUN",
         "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
       },
@@ -571,26 +571,6 @@
       "duration_ms": 207886,
       "name": "HOME RUN",
       "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "LO LOGRAMOS",
-        "url": "https://open.spotify.com/album/3b3xjKsM9yLxa4Cob0Qn22"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 205237,
-      "name": "LO LOGRAMOS",
-      "url": "https://open.spotify.com/track/1dg9Gf4LclMVJ9HuKp0sgF"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -611,6 +591,26 @@
       "duration_ms": 193220,
       "name": "Toca Disfrutar",
       "url": "https://open.spotify.com/track/7HGqMeJcReCpKZlVMwqIST"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "LO LOGRAMOS",
+        "url": "https://open.spotify.com/album/3b3xjKsM9yLxa4Cob0Qn22"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 205237,
+      "name": "LO LOGRAMOS",
+      "url": "https://open.spotify.com/track/1dg9Gf4LclMVJ9HuKp0sgF"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
+        "name": "MENEAITO",
+        "url": "https://open.spotify.com/album/7sgfvjpY5treCYZE8UEcnV"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "MENEAITO",
+      "url": "https://open.spotify.com/track/61WA3mLFQiGmtBBxUjyjsC"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
         "name": "La Competencia",
         "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 209160,
       "name": "La Competencia",
       "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
-        "name": "MENEAITO",
-        "url": "https://open.spotify.com/album/7sgfvjpY5treCYZE8UEcnV"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "MENEAITO",
-      "url": "https://open.spotify.com/track/61WA3mLFQiGmtBBxUjyjsC"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Mi Familia Y Mis Hijos",
-        "url": "https://open.spotify.com/album/7EKYTl7S3S0pk9VkqftvIB"
-      },
-      "artists": [
-        {
-          "name": "Victor Eme",
-          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
-        }
-      ],
-      "duration_ms": 144637,
-      "name": "Mi Familia Y Mis Hijos",
-      "url": "https://open.spotify.com/track/4FJEUVbRU0LWOCYlpkx0Zq"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "NO TE OLVIDES",
         "url": "https://open.spotify.com/album/2OHw4drNof6J46PxVsqSf0"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 179997,
       "name": "NO TE OLVIDES",
       "url": "https://open.spotify.com/track/41wRME3Q9CtY8rYG9oQs1c"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Mi Familia Y Mis Hijos",
+        "url": "https://open.spotify.com/album/7EKYTl7S3S0pk9VkqftvIB"
+      },
+      "artists": [
+        {
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+        }
+      ],
+      "duration_ms": 144637,
+      "name": "Mi Familia Y Mis Hijos",
+      "url": "https://open.spotify.com/track/4FJEUVbRU0LWOCYlpkx0Zq"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Tu Carita",
-        "url": "https://open.spotify.com/album/0CiF0wSA867u1Tm8a13tJS"
-      },
-      "artists": [
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Tu Carita",
-      "url": "https://open.spotify.com/track/0WVjbZKrJvX1pszaQ3Y0pT"
-    },
-    {
-      "added_at": "2026-03-27 06:00:17",
-      "album": {
         "name": "Desde Los Angeles (En Vivo)",
         "url": "https://open.spotify.com/album/4Qo9B9QZhwqV579sX7lriE"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2026-03-27 06:00:17",
       "album": {
-        "name": "Por Debajo del Agua",
-        "url": "https://open.spotify.com/album/12hMfDfs7nnq0ML9SNjRno"
+        "name": "Tu Carita",
+        "url": "https://open.spotify.com/album/0CiF0wSA867u1Tm8a13tJS"
       },
       "artists": [
         {
-          "name": "Punto Final",
-          "url": "https://open.spotify.com/artist/4S8SyDPk41f7rfBU9IAdkA"
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
         }
       ],
-      "duration_ms": 247479,
-      "name": "Por Debajo del Agua",
-      "url": "https://open.spotify.com/track/0A1PJPNx8tZXHuew1cT0Ym"
+      "duration_ms": 219130,
+      "name": "Tu Carita",
+      "url": "https://open.spotify.com/track/0WVjbZKrJvX1pszaQ3Y0pT"
     },
     {
       "added_at": "2026-03-27 06:00:17",
@@ -1447,6 +1431,22 @@
       "duration_ms": 186000,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/1uh8sWHg8QcCs8K9S2NDZM"
+    },
+    {
+      "added_at": "2026-03-27 06:00:17",
+      "album": {
+        "name": "Por Debajo del Agua",
+        "url": "https://open.spotify.com/album/12hMfDfs7nnq0ML9SNjRno"
+      },
+      "artists": [
+        {
+          "name": "Punto Final",
+          "url": "https://open.spotify.com/artist/4S8SyDPk41f7rfBU9IAdkA"
+        }
+      ],
+      "duration_ms": 247479,
+      "name": "Por Debajo del Agua",
+      "url": "https://open.spotify.com/track/0A1PJPNx8tZXHuew1cT0Ym"
     },
     {
       "added_at": "2026-03-27 06:00:17",

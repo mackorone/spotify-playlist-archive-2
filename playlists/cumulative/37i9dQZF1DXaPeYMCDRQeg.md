@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-481 songs - 1 day 5 hr 42 min
+482 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Show You \(Remix\) \[feat\. Q\] \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/1wA1tFOHx167N1My7frqIH) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Show You \(Remix\) \[feat\. Q\] \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/03lVjJUyEISCC3TatvgC5J) | 4:16 | 2021-12-15 | 2022-07-29 |
 | [Shower Tears \(feat\. Summer Walker\)](https://open.spotify.com/track/5g8frSfNnBYjSpLkLtFnCd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:27 | 2025-09-19 | 2025-11-15 |
 | [SHOWING YOU](https://open.spotify.com/track/6a5vE6GHrLSyqbbojVH1iy) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 4:46 | 2024-01-31 | 2024-06-04 |
+| [Sinner](https://open.spotify.com/track/0MUSX7J41ns5rBseSaxuyT) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Sinner](https://open.spotify.com/album/4pXAW15Q6SBg09Sl7lYxFF) | 2:51 | 2026-04-08 |  |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2024-06-20 | 2024-06-30 |
 | [Slide](https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Slide](https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2) | 3:58 | 2021-12-15 | 2023-02-11 |
 | [Slide](https://open.spotify.com/track/7sTAYVAStUg1sAojy0Vwq7) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [LOVE UPTEMPO: MAX](https://open.spotify.com/album/5msmjfLW8fnTUppf1MyRGf) | 1:59 | 2025-08-29 | 2025-09-06 |
@@ -462,7 +463,7 @@
 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 | 2025-08-25 | 2025-12-13 |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-02-11 |
 | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/0A7xgfdP4RKVJD95kF0dx6) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [New Light](https://open.spotify.com/album/3BY4kqH3wxKXvnDK6GUqH4) | 3:08 | 2021-12-15 | 2022-10-15 |
-| [What Do You Like](https://open.spotify.com/track/3kQfwrH3xDoC8G24CvcFMm) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [What Do You Like](https://open.spotify.com/album/4BS6ymE5V0gi6bQXr1D3XP) | 2:37 | 2026-02-06 |  |
+| [What Do You Like](https://open.spotify.com/track/3kQfwrH3xDoC8G24CvcFMm) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [What Do You Like](https://open.spotify.com/album/4BS6ymE5V0gi6bQXr1D3XP) | 2:37 | 2026-02-06 | 2026-04-09 |
 | [What You Deserve](https://open.spotify.com/track/1y5G5QFWuUmEF7O2CSck9v) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 2:55 | 2021-12-15 | 2022-07-29 |
 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 | 2021-12-15 | 2023-02-11 |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-08-07 |  |

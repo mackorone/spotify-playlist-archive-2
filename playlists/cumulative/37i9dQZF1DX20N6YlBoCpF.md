@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Juanita du Plessis, Chris Steyn, Zoé en meer!
 
-2,508 songs - 5 day 19 hr 34 min
+2,509 songs - 5 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [A \- Okay](https://open.spotify.com/track/5OTagqFDzdvitBt49IpPij) | [Armand Barnard](https://open.spotify.com/artist/50UEudz9B1sg3tYVRD5OTe) | [A \- Okay](https://open.spotify.com/album/1GPgm6BbpWWi7yiL2qzkiL) | 2:40 | 2024-03-07 | 2024-04-19 |
 | [Aan 'n Stukkie Biltong](https://open.spotify.com/track/1j02cUt4Fb9Fel2lgicwbn) | [Chris van der Westhuizen](https://open.spotify.com/artist/29f30cR7q8nOrYRHLewv69) | [Aan 'n Stukkie Biltong](https://open.spotify.com/album/6qG3gm1FETtoZUSYg5GxBQ) | 3:30 | 2024-07-11 | 2024-07-19 |
 | [Aan Beweeg](https://open.spotify.com/track/17esBraPyd3q41QJPyEklH) | [Jo\-Helen](https://open.spotify.com/artist/2vc2Im8aifsoroOX8aexDQ) | [Aan Beweeg](https://open.spotify.com/album/3Sb0vIqcArGdPP9EJ7Aih6) | 3:26 | 2024-07-25 | 2024-08-16 |
-| [Aan My Sy](https://open.spotify.com/track/5jZzS7X6DglSX3TuvKD2jm) | [Justin Coetzee](https://open.spotify.com/artist/4gtgBeq9fxIuKdgBX0DjIj) | [Aan My Sy](https://open.spotify.com/album/2fqSBtbZtOhGhkfSvpzIbV) | 3:24 | 2026-01-15 |  |
+| [Aan My Sy](https://open.spotify.com/track/5jZzS7X6DglSX3TuvKD2jm) | [Justin Coetzee](https://open.spotify.com/artist/4gtgBeq9fxIuKdgBX0DjIj) | [Aan My Sy](https://open.spotify.com/album/2fqSBtbZtOhGhkfSvpzIbV) | 3:24 | 2026-01-15 | 2026-04-09 |
 | [Aan Soos Brakpan](https://open.spotify.com/track/4oOCQEM8Cfvab9EY56dkC0) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Aan Soos Brakpan](https://open.spotify.com/album/2TaF67gjBKkEvBjxQAKZRp) | 3:07 | 2023-09-14 | 2023-12-01 |
 | [AANDAG](https://open.spotify.com/track/518VQzRwixbp4OtrgD8WIC) | [Chessiwessi](https://open.spotify.com/artist/6llfxl71GpFMJ7SLQibAcT), [Op Die Plaas](https://open.spotify.com/artist/7BRNJ64qLpEYgLnczJ0Hhu) | [AANDAG](https://open.spotify.com/album/1X08SQ0pJoFl1XtFolFz0c) | 2:21 | 2025-03-27 | 2025-04-04 |
 | [Aandagvraat](https://open.spotify.com/track/7HATioV1qLMUtJpEDsXwYT) | [Fabel](https://open.spotify.com/artist/369Uko5udJlYpqdMWBG98X) | [Aandagvraat](https://open.spotify.com/album/73bcKZ18mBoZiWOcu5oBhA) | 2:51 | 2025-05-22 | 2025-05-30 |
@@ -1445,6 +1445,7 @@
 | [Milkshakes By OJ's](https://open.spotify.com/track/6yfmkWXzrCeBeDmUl0mciw) | [Monya](https://open.spotify.com/artist/33I6EfjZ8Wo47WgupE7Pan) | [Milkshakes By OJ's](https://open.spotify.com/album/78a89hgztXzjGXahBKz0NZ) | 3:11 | 2024-06-27 | 2024-08-02 |
 | [Mis my](https://open.spotify.com/track/2bGbJ30UaLSESbtAXJ5jnO) | [Carmen Basson](https://open.spotify.com/artist/0hyNjsczkVXKc5hVV6o7qb) | [Mis my](https://open.spotify.com/album/0rnEljh6cKz3I0Uh5MeSdC) | 3:13 | 2023-05-11 | 2023-05-26 |
 | [Misgeloop](https://open.spotify.com/track/3mALPrvV2CIHbWhF6Nw1pL) | [Esmé Fox](https://open.spotify.com/artist/2soXQDHomd9ZOGEEPMrswb) | [Misgeloop](https://open.spotify.com/album/248p7ggn15gn8kNBAGA1ez) | 3:34 | 2023-03-23 | 2023-04-14 |
+| [Miskien Is Ek Barabbas](https://open.spotify.com/track/2fVOY0vFMVrMZ1sDQ0KIVr) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Openbaring](https://open.spotify.com/album/38NFn6uKtaJyvSUASWQnTn) | 3:35 | 2026-04-08 |  |
 | [Misverstaan \(2024\)](https://open.spotify.com/track/5tFCGavNR2mbsFcj9yW9Ku) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Misverstaan \(2024\)](https://open.spotify.com/album/7lTUvZ0IKMrLTUfjabcKvd) | 3:30 | 2024-05-09 | 2024-05-24 |
 | [MK Dae](https://open.spotify.com/track/7IdZJkoFdviBahi3AZmqEx) | [Kerk Straat](https://open.spotify.com/artist/5xHpQC0SV90NoM2cqyL8i9) | [MK Dae](https://open.spotify.com/album/0wXgVW1XsPTYkuSmc2v2Jm) | 4:28 | 2026-03-26 | 2026-04-03 |
 | [Moedertaal](https://open.spotify.com/track/1QUYqzJsu9nkJZpf4B1rNS) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO), [CHARLIZE BERG](https://open.spotify.com/artist/0sm5h6GieSMumfzCc2ZONn) | [Moedertaal](https://open.spotify.com/album/1Sq0CkOzNJNqDMMNBosvp2) | 3:33 | 2025-11-13 | 2025-12-19 |

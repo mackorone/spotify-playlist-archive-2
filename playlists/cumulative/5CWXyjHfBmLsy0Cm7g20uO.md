@@ -4,7 +4,7 @@
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-144 songs - 9 hr 1 min
+145 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [EXODUS](https://open.spotify.com/track/0fhElyqSxUy5IncqVwxt8L) | [Sierra Levesque](https://open.spotify.com/artist/5ovcQlmQG16m2jnnsbc3T6) | [NEW GENERATION](https://open.spotify.com/album/6KI45fnfdVkX7nNL2gnaDZ) | 3:04 | 2025-10-14 |  |
 | [Fade \(Live\)](https://open.spotify.com/track/7yqJu1h8HnT96zKs4YSPFC) | [Yerek](https://open.spotify.com/artist/406dGCdpaq4gKDb4XkQWuD), [Amarouka](https://open.spotify.com/artist/6lEUIMlGdAE7PHdg1tPxgt) | [Happy Sin Remains \- Concert Fiction \(Live\)](https://open.spotify.com/album/7w8049JNhfBO2Y7AGHROpM) | 4:53 | 2025-09-30 |  |
 | [Fading Away](https://open.spotify.com/track/20IXFU1YGicHcYTZaAHAg2) | [Cobalt](https://open.spotify.com/artist/1cQHLLtaQ9qChhiyWnCVYh) | [Dot \. Wav](https://open.spotify.com/album/1vONFRvPR6eSLTcFlUAjGP) | 2:36 | 2025-09-02 | 2026-01-15 |
+| [Finale \(from "Undertale"\)](https://open.spotify.com/track/6G0Ga8838jfNUcoHj7mqDO) | [Serious Yisus](https://open.spotify.com/artist/6WkKiqAhtTlBIl5sNg5XMi) | [Finale \(from "Undertale"\)](https://open.spotify.com/album/6jQwcZcSEfZQSwkksknSGd) | 1:51 | 2026-04-08 |  |
 | [Fire](https://open.spotify.com/track/4Fq0pL43Y8dJ9MCSDd2TsC) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 3:06 | 2025-11-06 |  |
 | [Flora Majour](https://open.spotify.com/track/54q9YNbjKBXqcCSGZfMMus) | [Draemus](https://open.spotify.com/artist/5hzdJjgZH1FfQYnDVbKaV1) | [Flora Majour](https://open.spotify.com/album/3Qu2lRJcetxUT2f6aqXbkP) | 2:30 | 2025-11-19 |  |
 | [Flying Free Forever](https://open.spotify.com/track/0wHfp0B55S4BAcG1PFEkth) | [Richard Dobeson](https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH) | [Call Of Dreams](https://open.spotify.com/album/7x7tNtFxr9HtMol8KE5ARR) | 3:18 | 2024-01-29 |  |

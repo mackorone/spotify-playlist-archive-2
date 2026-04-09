@@ -16095,6 +16095,32 @@
     },
     {
       "album": {
+        "name": "NO REGULAR MUSIC 2.5",
+        "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "Khodi",
+          "url": "https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110551,
+      "name": "re bowser (feat. Khodi)",
+      "url": "https://open.spotify.com/track/4XcsVgIeHtW4EDrcPUXCez"
+    },
+    {
+      "album": {
         "name": "ASPETTANDO LA BELLA VITA - Before and After",
         "url": "https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5"
       },

@@ -76451,6 +76451,24 @@
     },
     {
       "album": {
+        "name": "\u041e\u0441\u0435\u043d\u044c (\u041f\u0430\u0445\u043d\u0435\u0442 \u0436\u0436\u0451\u043d\u043e\u0439 \u0433\u0430\u0440\u044c\u044e...)",
+        "url": "https://open.spotify.com/album/6p7RGXtXeYmq9raQ3SDah9"
+      },
+      "artists": [
+        {
+          "name": "S T O L I C A",
+          "url": "https://open.spotify.com/artist/5SAai3KeQhtyfBIKpWAtaf"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147004,
+      "name": "\u041e\u0441\u0435\u043d\u044c (\u041f\u0430\u0445\u043d\u0435\u0442 \u0436\u0436\u0451\u043d\u043e\u0439 \u0433\u0430\u0440\u044c\u044e...)",
+      "url": "https://open.spotify.com/track/7kpVQ2VRlYWhDBQjfhNu9r"
+    },
+    {
+      "album": {
         "name": "\u0422\u0430\u043c, \u0433\u0434\u0435 \u0442\u044b...",
         "url": "https://open.spotify.com/album/2Qw8e3RYWPEl6IhkH2cadJ"
       },

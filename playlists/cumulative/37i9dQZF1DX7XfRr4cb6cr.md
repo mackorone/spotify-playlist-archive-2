@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-404 songs - 1 day 7 hr 45 min
+405 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Chasing Shadows, Pt\. 1](https://open.spotify.com/track/5lrxlHcu8D2Sl9807ZBI80) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 5:04 | 2022-12-30 |  |
 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 | 2022-01-21 | 2023-10-06 |
 | [Come Prima](https://open.spotify.com/track/3ufBy6taAXx6iiXxt2VaZO) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Memorie I](https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It) | 7:19 | 2025-05-22 |  |
-| [Confrontation 1](https://open.spotify.com/track/5Im1AfLERv9rAIgBNX8yDp) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [This Stolen Country of Mine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C5ZkhlDDMKQnSmVG1x58u) | 6:50 | 2025-09-04 |  |
+| [Confrontation 1](https://open.spotify.com/track/5Im1AfLERv9rAIgBNX8yDp) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [This Stolen Country of Mine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C5ZkhlDDMKQnSmVG1x58u) | 6:50 | 2025-09-04 | 2026-04-09 |
 | [Contrail](https://open.spotify.com/track/0kUaVSpFJ1c5If3fK3S8CX) | [Kane Ikin](https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4) | [Contrail](https://open.spotify.com/album/32ksiUukA1qPs0FrHTklxr) | 4:41 | 2022-05-25 |  |
 | [Cosmogonia](https://open.spotify.com/track/6N8uXuMNsqpnelQpskxC0j) | [Yom](https://open.spotify.com/artist/2A8lfnul2PK2wGs1Rgsb95) | [Cosmogonia](https://open.spotify.com/album/4y9X1Qi3cZ9vISGYszfi5t) | 5:34 | 2026-02-27 | 2026-04-04 |
 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 | 2022-01-21 | 2025-07-04 |
@@ -84,6 +84,7 @@
 | [Dark Forces \- Robot Koch Rework](https://open.spotify.com/track/4w0hEOSam21FwnUteS9rxl) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Dark Forces \(Robot Koch Rework\)](https://open.spotify.com/album/1lsP6JqNGnwuSRhb5eYBfK) | 3:41 | 2022-08-05 | 2024-04-19 |
 | [Dark Winter](https://open.spotify.com/track/73orZD0yHBLs3WVNfPUHqU) | [J\. M\. Quintana Cámara](https://open.spotify.com/artist/17uGmjKhL5hlpn6e7dg2Vm) | [Dark Winter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0htBWUZ75jV9nmlcqVOXwE) | 1:47 | 2023-04-21 | 2023-10-06 |
 | [Dawn](https://open.spotify.com/track/4oDNWNDEQIVvwyadCsf2oH) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt), [OS.SO](https://open.spotify.com/artist/5O11auA9UW7ZBACNBMBsBu) | [Dawn](https://open.spotify.com/album/2GlDx3myOwcCARNtUTJkXr) | 2:47 | 2025-05-22 |  |
+| [day zero \- Antonio Ruscito remix](https://open.spotify.com/track/3a4buPeIvfL98xjkxEdH8a) | [Hiroi Sekai](https://open.spotify.com/artist/0F08w8WimsgmKCY23QYOdp), [Antonio Ruscito](https://open.spotify.com/artist/19VijfWk6WX2SApMtkI0oU) | [day zero \(Antonio Ruscito remix\)](https://open.spotify.com/album/13a1dPIv848LqHbtx9l0Yt) | 5:03 | 2026-04-03 |  |
 | [Dead People's Things](https://open.spotify.com/track/1jQhHBdhnaZv5q67sHA1uK) | [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Morals and Dogma](https://open.spotify.com/album/5V3rLsAGpM63kE3SLPAMDW) | 18:35 | 2022-01-21 | 2022-07-29 |
 | [Dead People's Things](https://open.spotify.com/track/26slB6pfz5F8T723pMq32K) | [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Morals and Dogma](https://open.spotify.com/album/5e3JPH2QTLpZA0ply1f98Z) | 18:35 | 2022-07-22 | 2024-04-19 |
 | [Death, Reverb and Decay](https://open.spotify.com/track/3BZJ6Uqy7z1s2izOjUs2ci) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [John Also Bennett](https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Death, Reverb and Decay](https://open.spotify.com/album/2M1uZvWZxhHv5fqLd15JRj) | 7:24 | 2026-02-27 |  |

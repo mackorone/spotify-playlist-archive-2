@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 703 songs - 1 day 21 hr 49 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 704 songs - 1 day 21 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -711,5 +711,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 701 | [cowboy\-3.com](https://open.spotify.com/track/72BXuFsvDf6J8jngG8sLXR) | [Sam Weber](https://open.spotify.com/artist/5S7A3k8YvGhc78LKeqe8gl) | [Shape Confused Cowboy Be You](https://open.spotify.com/album/3StXqvVFi65vodaxP8g3L2) | 3:37 |
 | 702 | [The Fall](https://open.spotify.com/track/3kMUw8BxwpzZWKSszhwuNh) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [POMPEII // UTILITY](https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR) | 1:36 |
 | 703 | [Come Back Home](https://open.spotify.com/track/1LaPSXV3r45kFKts3uLc70) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Internet Killed The Neighborhood](https://open.spotify.com/album/4Yaz8lXm3PIdnXrD652wxD) | 3:26 |
+| 704 | [Not Broken](https://open.spotify.com/track/5X5rDwKQOnxwJbrDzBt4vf) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [And The Voice Said](https://open.spotify.com/album/2IBArX0JnPTNVhJ1tVbGoo) | 3:22 |
 
-Snapshot ID: `AAAI42RU8cvO45ygXOAyl+oq1Ed6JJJa`
+Snapshot ID: `AAAI5NhlBrx5igOzLumVLhUHWJSJiY1x`

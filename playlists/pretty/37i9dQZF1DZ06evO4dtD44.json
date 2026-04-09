@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 62996,
+  "num_followers": 63000,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAAD2StgWF+fj0eY6ViIjml05",
+  "snapshot_id": "adRJAAAAAADL88ucOt7iK7qMewJBww75",
   "tracks": [
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Mito (Digital Edition)",
-        "url": "https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv"
+        "name": "Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 171546,
-      "name": "Coisa Mais Linda",
-      "url": "https://open.spotify.com/track/2EQXKBGTaFU29HLIiL7FCj"
+      "duration_ms": 225071,
+      "name": "Falsa Baiana",
+      "url": "https://open.spotify.com/track/7nis0pALSkz4Tai1hJilet"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
       "duration_ms": 176360,
       "name": "Voc\u00ea Vai Ver",
       "url": "https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Mito (Digital Edition)",
+        "url": "https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Coisa Mais Linda",
+      "url": "https://open.spotify.com/track/2EQXKBGTaFU29HLIiL7FCj"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
       "duration_ms": 171253,
       "name": "Um Abraco No Bonfa - Live At Carnegie Hall/1964",
       "url": "https://open.spotify.com/track/7liJC6YxpvOly4zq6X5JJg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 225071,
-      "name": "Falsa Baiana",
-      "url": "https://open.spotify.com/track/7nis0pALSkz4Tai1hJilet"
     },
     {
       "added_at": null,

@@ -2961,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "Puerta del sol",
+        "url": "https://open.spotify.com/album/7to1r45Wg55xqBzWhqHmMc"
+      },
+      "artists": [
+        {
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270090,
+      "name": "Puerta del sol",
+      "url": "https://open.spotify.com/track/7gLNpAOrOBpfhH3gSXdFQO"
+    },
+    {
+      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 234603,
       "name": "Todos tenemos hogar",
       "url": "https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv"

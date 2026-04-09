@@ -1,13 +1,29 @@
 {
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Mallavora",
-  "num_followers": 33308,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: The Callous Daoboys",
+  "num_followers": 33356,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOiSuH1Me31gQRsBrGddR2kCmq3L",
+  "snapshot_id": "AAAAAG2WcHQZo47gcHgcQwkG0iPH1YNg",
   "tracks": [
+    {
+      "added_at": "2026-04-08 04:00:31",
+      "album": {
+        "name": "Gigantic Parasite Tongue",
+        "url": "https://open.spotify.com/album/3Hq9OZHYIsZYrpitjtO9EH"
+      },
+      "artists": [
+        {
+          "name": "The Callous Daoboys",
+          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
+        }
+      ],
+      "duration_ms": 257246,
+      "name": "Gigantic Parasite Tongue",
+      "url": "https://open.spotify.com/track/4Bv4jUCR08CSoDQRqhIPdT"
+    },
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 216151,
       "name": "Host",
       "url": "https://open.spotify.com/track/6MP0zsi25mgQafDXkLCUOD"
+    },
+    {
+      "added_at": "2026-04-08 04:00:31",
+      "album": {
+        "name": "Vanilla Latte",
+        "url": "https://open.spotify.com/album/01Kui9a3rkdckJen3duPvC"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        }
+      ],
+      "duration_ms": 144973,
+      "name": "Vanilla Latte",
+      "url": "https://open.spotify.com/track/07pkzqGG7U0NXnVlBokdmW"
     },
     {
       "added_at": "2026-04-01 04:00:22",
@@ -45,20 +77,20 @@
       "url": "https://open.spotify.com/track/4JnkgvDRTyhdZ2t7EjkNKM"
     },
     {
-      "added_at": "2026-04-01 04:00:22",
+      "added_at": "2026-04-08 04:00:31",
       "album": {
-        "name": "BITE THIS!",
-        "url": "https://open.spotify.com/album/569CdzjfXOZS5ny6zrZqkh"
+        "name": "Fear Of",
+        "url": "https://open.spotify.com/album/3S5gRsMAiZfGDSK1TMfa6E"
       },
       "artists": [
         {
-          "name": "Resistor",
-          "url": "https://open.spotify.com/artist/52lTghPxufssfXy3Z9rBtA"
+          "name": "Commitment",
+          "url": "https://open.spotify.com/artist/6BDSYruuDE2UN8FidNylVn"
         }
       ],
-      "duration_ms": 152683,
-      "name": "XXXL",
-      "url": "https://open.spotify.com/track/7jrplzFgXDcm5u1tYTTggc"
+      "duration_ms": 77197,
+      "name": "Bukakkracy",
+      "url": "https://open.spotify.com/track/4kwRaFXh69D7Zd7aXWhULx"
     },
     {
       "added_at": "2026-04-01 04:00:22",
@@ -75,6 +107,90 @@
       "duration_ms": 165420,
       "name": "Crucifix",
       "url": "https://open.spotify.com/track/211ixSQEaqHyFNn64O3xxT"
+    },
+    {
+      "added_at": "2026-04-08 04:00:31",
+      "album": {
+        "name": "HALF REMAIN",
+        "url": "https://open.spotify.com/album/1Qjmn3rFc9cFRqyfhhr9dK"
+      },
+      "artists": [
+        {
+          "name": "Weeping Wound",
+          "url": "https://open.spotify.com/artist/6YXj8wWQGAopBQLxF1zjRn"
+        }
+      ],
+      "duration_ms": 198155,
+      "name": "HALF REMAIN",
+      "url": "https://open.spotify.com/track/3NrTgAVCfkyctFBxZvpu9i"
+    },
+    {
+      "added_at": "2026-04-01 04:00:22",
+      "album": {
+        "name": "BITE THIS!",
+        "url": "https://open.spotify.com/album/569CdzjfXOZS5ny6zrZqkh"
+      },
+      "artists": [
+        {
+          "name": "Resistor",
+          "url": "https://open.spotify.com/artist/52lTghPxufssfXy3Z9rBtA"
+        }
+      ],
+      "duration_ms": 152683,
+      "name": "XXXL",
+      "url": "https://open.spotify.com/track/7jrplzFgXDcm5u1tYTTggc"
+    },
+    {
+      "added_at": "2026-04-08 04:00:31",
+      "album": {
+        "name": "A Brief Glimpse of Solace",
+        "url": "https://open.spotify.com/album/1hWehO8t95BzMKbgoFSsLu"
+      },
+      "artists": [
+        {
+          "name": "Houses We Die In",
+          "url": "https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk"
+        }
+      ],
+      "duration_ms": 234071,
+      "name": "flowers in february",
+      "url": "https://open.spotify.com/track/6TNNIj1wUHf1Y6HBioNyjh"
+    },
+    {
+      "added_at": "2026-04-01 04:00:22",
+      "album": {
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/1g9Nwo7JWytEO4p6bjifsV"
+      },
+      "artists": [
+        {
+          "name": "Blue Medusa",
+          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "duration_ms": 263161,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/0fN3tONYZxGcuwyr5IoTZ1"
+    },
+    {
+      "added_at": "2026-04-08 04:00:31",
+      "album": {
+        "name": "Furious Icon",
+        "url": "https://open.spotify.com/album/6Q89PGh5FcySyEvL8mg8Di"
+      },
+      "artists": [
+        {
+          "name": "PLUME",
+          "url": "https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Furious Icon",
+      "url": "https://open.spotify.com/track/0SSzPYBUXms4ZzIguZ4nHo"
     },
     {
       "added_at": "2026-04-01 04:00:22",
@@ -111,54 +227,18 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "Glare",
-        "url": "https://open.spotify.com/album/10XeoG5Mkj2r0eESEwFwGn"
+        "name": "Bottom Feeder",
+        "url": "https://open.spotify.com/album/61KI02dJ1qjbehSZAOVXYH"
       },
       "artists": [
         {
-          "name": "Melting",
-          "url": "https://open.spotify.com/artist/278giTAVjr5a29IC3LOwRF"
+          "name": "Glasslands",
+          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
         }
       ],
-      "duration_ms": 226380,
-      "name": "Glare",
-      "url": "https://open.spotify.com/track/0QgCjOPLRaCPMDbpwNAV4U"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Checkmate",
-        "url": "https://open.spotify.com/album/1g9Nwo7JWytEO4p6bjifsV"
-      },
-      "artists": [
-        {
-          "name": "Blue Medusa",
-          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        }
-      ],
-      "duration_ms": 263161,
-      "name": "Checkmate",
-      "url": "https://open.spotify.com/track/0fN3tONYZxGcuwyr5IoTZ1"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "The Way Things Should End",
-        "url": "https://open.spotify.com/album/0SrBH11qxiYYQWMFfJqlmY"
-      },
-      "artists": [
-        {
-          "name": "Torn Open",
-          "url": "https://open.spotify.com/artist/1XLYwoarb8vwv77W7UxGgX"
-        }
-      ],
-      "duration_ms": 198685,
-      "name": "The Way Things Should End",
-      "url": "https://open.spotify.com/track/6mp7GUe0MvvtctUYkJCgN1"
+      "duration_ms": 243702,
+      "name": "Bottom Feeder",
+      "url": "https://open.spotify.com/track/3AnhZAWyfd0xoJDThaI5ud"
     },
     {
       "added_at": "2026-04-01 04:00:22",
@@ -183,6 +263,70 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
+        "name": "Rip",
+        "url": "https://open.spotify.com/album/64b596DrbceGFZ4pZQ3gp7"
+      },
+      "artists": [
+        {
+          "name": "Showing Teeth",
+          "url": "https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv"
+        }
+      ],
+      "duration_ms": 192966,
+      "name": "Rip",
+      "url": "https://open.spotify.com/track/189BviPaRZsYE0TEoxpqKq"
+    },
+    {
+      "added_at": "2026-04-01 04:00:22",
+      "album": {
+        "name": "Glare",
+        "url": "https://open.spotify.com/album/10XeoG5Mkj2r0eESEwFwGn"
+      },
+      "artists": [
+        {
+          "name": "Melting",
+          "url": "https://open.spotify.com/artist/278giTAVjr5a29IC3LOwRF"
+        }
+      ],
+      "duration_ms": 226380,
+      "name": "Glare",
+      "url": "https://open.spotify.com/track/0QgCjOPLRaCPMDbpwNAV4U"
+    },
+    {
+      "added_at": "2026-04-01 04:00:22",
+      "album": {
+        "name": "Make Us Whole Again",
+        "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "duration_ms": 232944,
+      "name": "Make Us Whole Again",
+      "url": "https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP"
+    },
+    {
+      "added_at": "2026-04-01 04:00:22",
+      "album": {
+        "name": "Sharp Teeth",
+        "url": "https://open.spotify.com/album/4MSbUy9NDCRRs3EjAJQBzQ"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "Sharp Teeth",
+      "url": "https://open.spotify.com/track/2iruoTNGENcCv0UtfRuN81"
+    },
+    {
+      "added_at": "2026-04-01 04:00:22",
+      "album": {
         "name": "Eyes seeing eyes",
         "url": "https://open.spotify.com/album/6LzsZ4cvkuBSUSc5dVd6hp"
       },
@@ -199,50 +343,82 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "Bottom Feeder",
-        "url": "https://open.spotify.com/album/61KI02dJ1qjbehSZAOVXYH"
+        "name": "The Way Things Should End",
+        "url": "https://open.spotify.com/album/0SrBH11qxiYYQWMFfJqlmY"
       },
       "artists": [
         {
-          "name": "Glasslands",
-          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
+          "name": "Torn Open",
+          "url": "https://open.spotify.com/artist/1XLYwoarb8vwv77W7UxGgX"
         }
       ],
-      "duration_ms": 243702,
-      "name": "Bottom Feeder",
-      "url": "https://open.spotify.com/track/3AnhZAWyfd0xoJDThaI5ud"
+      "duration_ms": 198685,
+      "name": "The Way Things Should End",
+      "url": "https://open.spotify.com/track/6mp7GUe0MvvtctUYkJCgN1"
     },
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "Safety On",
-        "url": "https://open.spotify.com/album/0520M5LPyG3nTMa6OwYqr3"
+        "name": "Falling Away From Me",
+        "url": "https://open.spotify.com/album/5A7n31Nnnn8n4Rqx9ieuHN"
       },
       "artists": [
         {
-          "name": "Dry Socket",
-          "url": "https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm"
+          "name": "Overlaps",
+          "url": "https://open.spotify.com/artist/422HBf4XVfUisbvXKTnm7v"
         }
       ],
-      "duration_ms": 115598,
-      "name": "Safety On",
-      "url": "https://open.spotify.com/track/6fOYgQP1teXtqPk9JdSFva"
+      "duration_ms": 265384,
+      "name": "Falling Away From Me",
+      "url": "https://open.spotify.com/track/5aZOUaaWL6f2krMnSapHKT"
     },
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "Rip",
-        "url": "https://open.spotify.com/album/64b596DrbceGFZ4pZQ3gp7"
+        "name": "Pale Shadow",
+        "url": "https://open.spotify.com/album/2TyPcUmxmYhcEGZooeg9ac"
       },
       "artists": [
         {
-          "name": "Showing Teeth",
-          "url": "https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv"
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
         }
       ],
-      "duration_ms": 192966,
-      "name": "Rip",
-      "url": "https://open.spotify.com/track/189BviPaRZsYE0TEoxpqKq"
+      "duration_ms": 205384,
+      "name": "Pale Shadow",
+      "url": "https://open.spotify.com/track/6foUpoZ99QPkjPdzoBgyJz"
+    },
+    {
+      "added_at": "2026-04-01 04:00:22",
+      "album": {
+        "name": "Moira (Rerecorded)",
+        "url": "https://open.spotify.com/album/6hVta7RA9EBIWyfVqvPbJA"
+      },
+      "artists": [
+        {
+          "name": "Sun Eater",
+          "url": "https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M"
+        }
+      ],
+      "duration_ms": 273040,
+      "name": "Moira - Rerecorded",
+      "url": "https://open.spotify.com/track/5jxs5HVcBDDuz83hLOO38K"
+    },
+    {
+      "added_at": "2026-04-01 04:00:22",
+      "album": {
+        "name": "The Anatomy of Surviving",
+        "url": "https://open.spotify.com/album/0h8yjW4Sh3ypDhZFWZnFWh"
+      },
+      "artists": [
+        {
+          "name": "Vicious Rain",
+          "url": "https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp"
+        }
+      ],
+      "duration_ms": 253026,
+      "name": "Gods of Glass & Wire",
+      "url": "https://open.spotify.com/track/7wGrjVMCed0S0yeWS72T9L"
     },
     {
       "added_at": "2026-04-01 04:00:22",
@@ -279,22 +455,6 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "Make Us Whole Again",
-        "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 232944,
-      "name": "Make Us Whole Again",
-      "url": "https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
         "name": "Tragedy of The Commons",
         "url": "https://open.spotify.com/album/5N2Asaw4Vv1TGCOuUYO8s4"
       },
@@ -311,54 +471,6 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "The Anatomy of Surviving",
-        "url": "https://open.spotify.com/album/0h8yjW4Sh3ypDhZFWZnFWh"
-      },
-      "artists": [
-        {
-          "name": "Vicious Rain",
-          "url": "https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp"
-        }
-      ],
-      "duration_ms": 253026,
-      "name": "Gods of Glass & Wire",
-      "url": "https://open.spotify.com/track/7wGrjVMCed0S0yeWS72T9L"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Falling Away From Me",
-        "url": "https://open.spotify.com/album/5A7n31Nnnn8n4Rqx9ieuHN"
-      },
-      "artists": [
-        {
-          "name": "Overlaps",
-          "url": "https://open.spotify.com/artist/422HBf4XVfUisbvXKTnm7v"
-        }
-      ],
-      "duration_ms": 265384,
-      "name": "Falling Away From Me",
-      "url": "https://open.spotify.com/track/5aZOUaaWL6f2krMnSapHKT"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Moira (Rerecorded)",
-        "url": "https://open.spotify.com/album/6hVta7RA9EBIWyfVqvPbJA"
-      },
-      "artists": [
-        {
-          "name": "Sun Eater",
-          "url": "https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M"
-        }
-      ],
-      "duration_ms": 273040,
-      "name": "Moira - Rerecorded",
-      "url": "https://open.spotify.com/track/5jxs5HVcBDDuz83hLOO38K"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
         "name": "Sucker Punch",
         "url": "https://open.spotify.com/album/1za5pWXT62Ul5qIlCmihGQ"
       },
@@ -371,38 +483,6 @@
       "duration_ms": 230025,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/2KHKREFlFgNiPSEiyZR4P7"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Pale Shadow",
-        "url": "https://open.spotify.com/album/2TyPcUmxmYhcEGZooeg9ac"
-      },
-      "artists": [
-        {
-          "name": "What Lies Below",
-          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "Pale Shadow",
-      "url": "https://open.spotify.com/track/6foUpoZ99QPkjPdzoBgyJz"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Who We \u042f",
-        "url": "https://open.spotify.com/album/5HeJa8X9yZvAFsHsutO3HY"
-      },
-      "artists": [
-        {
-          "name": "DUST IN MIND",
-          "url": "https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7"
-        }
-      ],
-      "duration_ms": 274613,
-      "name": "Who We \u042f",
-      "url": "https://open.spotify.com/track/7C1c8R2ezJf0PNMFteaCWK"
     },
     {
       "added_at": "2026-04-01 04:00:22",
@@ -427,18 +507,18 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "NO LIES.",
-        "url": "https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh"
+        "name": "Safety On",
+        "url": "https://open.spotify.com/album/0520M5LPyG3nTMa6OwYqr3"
       },
       "artists": [
         {
-          "name": "paradise fell.",
-          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
+          "name": "Dry Socket",
+          "url": "https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm"
         }
       ],
-      "duration_ms": 206811,
-      "name": "NO LIES.",
-      "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
+      "duration_ms": 115598,
+      "name": "Safety On",
+      "url": "https://open.spotify.com/track/6fOYgQP1teXtqPk9JdSFva"
     },
     {
       "added_at": "2026-04-01 04:00:22",
@@ -459,50 +539,66 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "Sharp Teeth",
-        "url": "https://open.spotify.com/album/4MSbUy9NDCRRs3EjAJQBzQ"
+        "name": "GIMP",
+        "url": "https://open.spotify.com/album/5zJWFOERmeyQmDCKP4LORB"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV"
+          "name": "Aurora View",
+          "url": "https://open.spotify.com/artist/4MkU5wBIKoNteEBqXTpMuA"
         }
       ],
-      "duration_ms": 184640,
-      "name": "Sharp Teeth",
-      "url": "https://open.spotify.com/track/2iruoTNGENcCv0UtfRuN81"
+      "duration_ms": 240568,
+      "name": "GIMP",
+      "url": "https://open.spotify.com/track/3p7H5WSJoa5ds2nH4hlzaE"
     },
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "HIDE FROM THE LIGHT",
-        "url": "https://open.spotify.com/album/5cLwOTfMHRD4nuFdtWY2Gs"
+        "name": "Anywhere But Here",
+        "url": "https://open.spotify.com/album/5fixRDMNxDv5L58J8jhEpG"
       },
       "artists": [
         {
-          "name": "DIESECT",
-          "url": "https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB"
+          "name": "Moodring",
+          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
         }
       ],
-      "duration_ms": 198924,
-      "name": "NO HOME LEFT TO FIND",
-      "url": "https://open.spotify.com/track/3GBW3ISQc8jAQojA28IW18"
+      "duration_ms": 200558,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/59zuxuMunHtFDKYPq1EtR0"
     },
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "Sulphur",
-        "url": "https://open.spotify.com/album/3OMSTDix0gDujYK7Bdv2tq"
+        "name": "Who We \u042f",
+        "url": "https://open.spotify.com/album/5HeJa8X9yZvAFsHsutO3HY"
       },
       "artists": [
         {
-          "name": "Pyrokinesis",
-          "url": "https://open.spotify.com/artist/2fafP7QTEavCsKGAstcL0I"
+          "name": "DUST IN MIND",
+          "url": "https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7"
         }
       ],
-      "duration_ms": 215051,
-      "name": "Atrophy",
-      "url": "https://open.spotify.com/track/3Ej7t4j9v6Amm5ce8mJPqi"
+      "duration_ms": 274613,
+      "name": "Who We \u042f",
+      "url": "https://open.spotify.com/track/7C1c8R2ezJf0PNMFteaCWK"
+    },
+    {
+      "added_at": "2026-04-01 04:00:22",
+      "album": {
+        "name": "NO LIES.",
+        "url": "https://open.spotify.com/album/6OQshUiS1eZqvP1y28fqvh"
+      },
+      "artists": [
+        {
+          "name": "paradise fell.",
+          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
+        }
+      ],
+      "duration_ms": 206811,
+      "name": "NO LIES.",
+      "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
     },
     {
       "added_at": "2026-04-01 04:00:22",
@@ -539,22 +635,6 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "GIMP",
-        "url": "https://open.spotify.com/album/5zJWFOERmeyQmDCKP4LORB"
-      },
-      "artists": [
-        {
-          "name": "Aurora View",
-          "url": "https://open.spotify.com/artist/4MkU5wBIKoNteEBqXTpMuA"
-        }
-      ],
-      "duration_ms": 240568,
-      "name": "GIMP",
-      "url": "https://open.spotify.com/track/3p7H5WSJoa5ds2nH4hlzaE"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
         "name": "Echoes of May",
         "url": "https://open.spotify.com/album/4BdG9XGElwQBPgrC0yyoOI"
       },
@@ -571,54 +651,6 @@
     {
       "added_at": "2026-04-01 04:00:22",
       "album": {
-        "name": "thorns",
-        "url": "https://open.spotify.com/album/6E9bGJTOPluesJSdZDrSHO"
-      },
-      "artists": [
-        {
-          "name": "Dead Butterflies",
-          "url": "https://open.spotify.com/artist/5WO18L6Q3DbrDR5fJCxGtJ"
-        }
-      ],
-      "duration_ms": 151285,
-      "name": "thorns",
-      "url": "https://open.spotify.com/track/6UxGXtVucF6wYINmQLnolY"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "poison",
-        "url": "https://open.spotify.com/album/2XMim5dAsDEPseFWvin9q8"
-      },
-      "artists": [
-        {
-          "name": "Houses We Die In",
-          "url": "https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk"
-        }
-      ],
-      "duration_ms": 245451,
-      "name": "poison",
-      "url": "https://open.spotify.com/track/7KkltGeZGKDRclb1RoGk2z"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Anywhere But Here",
-        "url": "https://open.spotify.com/album/5fixRDMNxDv5L58J8jhEpG"
-      },
-      "artists": [
-        {
-          "name": "Moodring",
-          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
-        }
-      ],
-      "duration_ms": 200558,
-      "name": "Anywhere But Here",
-      "url": "https://open.spotify.com/track/59zuxuMunHtFDKYPq1EtR0"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
         "name": "Angel Wings",
         "url": "https://open.spotify.com/album/3gBFaWWZO6idpj9fNEbRPu"
       },
@@ -631,22 +663,6 @@
       "duration_ms": 162039,
       "name": "Angel Wings",
       "url": "https://open.spotify.com/track/6Jix6cYFQwVtxsq2Z689sJ"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "without a trace",
-        "url": "https://open.spotify.com/album/6r4WRDPNRX0t6y4CRDsP7Y"
-      },
-      "artists": [
-        {
-          "name": "Chamber",
-          "url": "https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN"
-        }
-      ],
-      "duration_ms": 148175,
-      "name": "without a trace",
-      "url": "https://open.spotify.com/track/1JyFOk995wuumTB5ZQFJoW"
     },
     {
       "added_at": "2026-04-01 04:00:22",
@@ -679,22 +695,6 @@
       "duration_ms": 187546,
       "name": "Dumb Luck",
       "url": "https://open.spotify.com/track/1OwROWAf1P7VzgETtowT5A"
-    },
-    {
-      "added_at": "2026-04-01 04:00:22",
-      "album": {
-        "name": "Umbra",
-        "url": "https://open.spotify.com/album/1FIRKhOl5ylnTHRHSPnG7E"
-      },
-      "artists": [
-        {
-          "name": "Artifact",
-          "url": "https://open.spotify.com/artist/114EA4vHfmjmssp3RlATTv"
-        }
-      ],
-      "duration_ms": 269564,
-      "name": "Atrophy",
-      "url": "https://open.spotify.com/track/0AOpsarmSxzloZxLrW8ZZp"
     },
     {
       "added_at": "2026-04-01 04:00:22",

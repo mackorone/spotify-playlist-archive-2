@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 > JOURNEY OF A LIFETIME \-\- TOUR ONSALE NOW \-\- ZEDSDEAD.NET
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,651 likes - 14 songs - 47 min 28 sec
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,647 likes - 14 songs - 47 min 28 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

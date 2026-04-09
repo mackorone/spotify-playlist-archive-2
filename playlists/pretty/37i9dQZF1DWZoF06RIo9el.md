@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de marzo 2026\. Cover: María Isabel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,555,856 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,555,780 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 10 | [Te Daré](https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:07 |
 | 11 | [ganga](https://open.spotify.com/track/7gyHVcxDQ0uMnWwGTsE9YX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [El Randal](https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU) | [ganga](https://open.spotify.com/album/7hUNrguCnr82K3zt93l1pQ) | 2:45 |
 | 12 | [Bbsita Te VeS Bien](https://open.spotify.com/track/76NMjRUQOGpJf6HfWojhMt) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [El SEI66EIS](https://open.spotify.com/album/35Ti0k1sTuvL2UdCtSieZY) | 3:03 |
-| 13 | ["EMHDM"](https://open.spotify.com/track/5NbIHx26LyFkW2oSNSCYBV) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | ["EMHDM"](https://open.spotify.com/album/3biFY6bFZVVEqy9DPYu5KI) | 3:03 |
-| 14 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 |
+| 13 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 |
+| 14 | ["EMHDM"](https://open.spotify.com/track/5NbIHx26LyFkW2oSNSCYBV) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | ["EMHDM"](https://open.spotify.com/album/3biFY6bFZVVEqy9DPYu5KI) | 3:03 |
 | 15 | [FLAITEERA](https://open.spotify.com/track/2mh6vP7zo6mDXXKLnpHLPt) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Kennat](https://open.spotify.com/artist/638YptdwVSImAVaR5aUagq), [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP) | [FLAITEERA](https://open.spotify.com/album/4IuwTipm83UsyGlgQclqW8) | 4:04 |
 | 16 | [CHAMPAGNE](https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SUPERARTE](https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g) | 3:27 |
 | 17 | [Sin Fin](https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Sin Fin](https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk) | 2:52 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 28 | [Los Paracaídas](https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Los Paracaídas](https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF) | 3:09 |
 | 29 | [11:11pm](https://open.spotify.com/track/07wQKLfoZcloCEfVfdQtA7) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [11:11pm](https://open.spotify.com/album/0o4SYeBmX74gFITqRgErxp) | 3:15 |
 | 30 | [pecos](https://open.spotify.com/track/1U4gvn7EQFC2RQgaYEthVa) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [pecos](https://open.spotify.com/album/52UqQdtl1tkSGMiSM7d8OV) | 3:07 |
-| 31 | [el silencio](https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [el silencio](https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL) | 3:38 |
-| 32 | [no me importa](https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [no me importa](https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL) | 3:20 |
+| 31 | [no me importa](https://open.spotify.com/track/6O4QnV6zuewfbBhVW4YghD) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [no me importa](https://open.spotify.com/album/3Tbq5jFyncpgjEiZeJH5mL) | 3:20 |
+| 32 | [el silencio](https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [el silencio](https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL) | 3:38 |
 | 33 | [ENCONTREMOS UNA MANERA](https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [ENCONTREMOS UNA MANERA](https://open.spotify.com/album/6f1tNlGmy7U1rIn9Ye94RC) | 2:14 |
 | 34 | [brb](https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [brb](https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl) | 2:36 |
 | 35 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |

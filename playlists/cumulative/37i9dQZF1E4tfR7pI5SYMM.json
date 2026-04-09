@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 268510,
       "name": "Control",
       "url": "https://open.spotify.com/track/7DGsGpngDhy1kNi5ZHBNMl"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 218090,
       "name": "Death Is On the Way",
       "url": "https://open.spotify.com/track/0rqvCzTbRnQTQLFpbg7Xbh"
@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -4098,7 +4098,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -4726,7 +4726,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 260622,
       "name": "Man In The Box",
       "url": "https://open.spotify.com/track/1NgkJEwzFtPCkPcGu4f11k"
@@ -5214,6 +5214,24 @@
       "duration_ms": 326507,
       "name": "mosquito's wing",
       "url": "https://open.spotify.com/track/3V5DsjUPjon53mu0iF4GaH"
+    },
+    {
+      "album": {
+        "name": "Moth (The Fire Trilogy Part III)",
+        "url": "https://open.spotify.com/album/5SZP0p1IfIZ6fe5AZQzXCz"
+      },
+      "artists": [
+        {
+          "name": "Cvlt Ov the Svn",
+          "url": "https://open.spotify.com/artist/2KVSnLE8OkCi50mbRsBtWU"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187977,
+      "name": "Moth - The Fire Trilogy Part III",
+      "url": "https://open.spotify.com/track/3AMbsn091eCwe7VXPuXyUZ"
     },
     {
       "album": {
@@ -6234,7 +6252,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -6982,7 +7000,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 234260,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/1QOude6pzrZetbqUphPKXC"
@@ -7022,7 +7040,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 219333,
       "name": "Shadow Sun",
       "url": "https://open.spotify.com/track/6NxMk012STcCepEzfxDCOD"
@@ -7076,7 +7094,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -7094,7 +7112,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 209933,
       "name": "She Haunts the Night",
       "url": "https://open.spotify.com/track/0CBfmGzrW3mEeW3CqIJM5w"
@@ -7454,7 +7472,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 266080,
       "name": "Spasm Prayer",
       "url": "https://open.spotify.com/track/5zH5qcz2LOR6dhKvC0IGj6"
@@ -7938,7 +7956,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 258147,
       "name": "Tension - 442 Hz",
       "url": "https://open.spotify.com/track/1yUz9pCTAuytgs56FFb1wa"
@@ -8082,7 +8100,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 218408,
       "name": "The EyePhone Is My New Religion",
       "url": "https://open.spotify.com/track/3dqgKYCTzGdwPiOlSYrEpz"
@@ -8226,7 +8244,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 203875,
       "name": "The Ides Of March",
       "url": "https://open.spotify.com/track/7opbt4XHN7lcTjGsqWv8ws"
@@ -8895,6 +8913,28 @@
     },
     {
       "album": {
+        "name": "Torn Away (ghostbells remix)",
+        "url": "https://open.spotify.com/album/48BvrZz45U21V6BQMCBYaM"
+      },
+      "artists": [
+        {
+          "name": "Cemetery Skyline",
+          "url": "https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab"
+        },
+        {
+          "name": "ghostbells",
+          "url": "https://open.spotify.com/artist/7EcUTHb15yUmZQ2ZNY49Gl"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193986,
+      "name": "Torn Away - ghostbells remix",
+      "url": "https://open.spotify.com/track/37DAvKadx7VugzqeLwYkkd"
+    },
+    {
+      "album": {
         "name": "Toten Danse",
         "url": "https://open.spotify.com/album/6QXDUFEbDgBuvjZj5aUSbB"
       },
@@ -9328,7 +9368,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -9418,7 +9458,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -9588,7 +9628,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 160812,
       "name": "We're All Pretending",
       "url": "https://open.spotify.com/track/01YMRsDaqFwzL0crgns9ug"

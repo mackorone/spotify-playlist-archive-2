@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 71182,
+  "num_followers": 71183,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Fri",
-        "url": "https://open.spotify.com/album/5f8H1KwJEnHUdJESdUdkqF"
-      },
-      "artists": [
-        {
-          "name": "Rhymes & Riddim",
-          "url": "https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3"
-        },
-        {
-          "name": "Robert Athill",
-          "url": "https://open.spotify.com/artist/6i51ZqGXrs1KqmjugQxqL6"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Fri (feat. Robert Athill)",
-      "url": "https://open.spotify.com/track/3AJ7HhpCdI5bc4mchElu4M"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Marknadens soldat",
         "url": "https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 251000,
       "name": "Mediak\u00e5t feat. Timbuktu",
       "url": "https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Fri",
+        "url": "https://open.spotify.com/album/5f8H1KwJEnHUdJESdUdkqF"
+      },
+      "artists": [
+        {
+          "name": "Rhymes & Riddim",
+          "url": "https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3"
+        },
+        {
+          "name": "Robert Athill",
+          "url": "https://open.spotify.com/artist/6i51ZqGXrs1KqmjugQxqL6"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Fri (feat. Robert Athill)",
+      "url": "https://open.spotify.com/track/3AJ7HhpCdI5bc4mchElu4M"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Irie",
-        "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
-      },
-      "artists": [
-        {
-          "name": "Silly Selection",
-          "url": "https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr"
-        }
-      ],
-      "duration_ms": 203065,
-      "name": "Irie",
-      "url": "https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "RONGO",
         "url": "https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 214000,
       "name": "Vassaste kniven i l\u00e5dan",
       "url": "https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Irie",
+        "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
+      },
+      "artists": [
+        {
+          "name": "Silly Selection",
+          "url": "https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr"
+        }
+      ],
+      "duration_ms": 203065,
+      "name": "Irie",
+      "url": "https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -879,18 +879,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "S\u00e5 fakking fin",
-        "url": "https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA"
+        "name": "H\u00e5ll i dig",
+        "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
       },
       "artists": [
         {
-          "name": "Robinholta",
-          "url": "https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc"
+          "name": "Wagwan",
+          "url": "https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS"
+        },
+        {
+          "name": "Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
         }
       ],
-      "duration_ms": 160000,
-      "name": "S\u00e5 fakking fin",
-      "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
+      "duration_ms": 198500,
+      "name": "H\u00e5ll i dig",
+      "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
     },
     {
       "added_at": "2024-06-24 11:19:01",

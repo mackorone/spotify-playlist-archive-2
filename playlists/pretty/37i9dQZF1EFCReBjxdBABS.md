@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 128 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 129 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 15 | [Live Off](https://open.spotify.com/track/3967Uo1G05njseUUCnev2w) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:35 |
 | 16 | [God & Country](https://open.spotify.com/track/6IFlMgM8RvY4wA7dyxywKA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:19 |
 | 17 | [Don't We All \(Acoustic\)](https://open.spotify.com/track/7kwSLtR8B2XOtBtorr372O) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 2:41 |
-| 18 | [When My Baby’s In Boots](https://open.spotify.com/track/5zNMcnKplFdDiS5P5rsdNR) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Into The Neon](https://open.spotify.com/album/4x2LrG46EWrM6jkCie0YuU) | 3:03 |
-| 19 | [Praying Woman](https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:51 |
+| 18 | [Praying Woman](https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:51 |
+| 19 | [When My Baby’s In Boots](https://open.spotify.com/track/5zNMcnKplFdDiS5P5rsdNR) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Into The Neon](https://open.spotify.com/album/4x2LrG46EWrM6jkCie0YuU) | 3:03 |
 | 20 | [It Won't Be Long](https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [It Won't Be Long](https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv) | 3:17 |
 | 21 | [Raised Up](https://open.spotify.com/track/4A36Q1EDsHuKUvhtpAVh0i) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:21 |
 | 22 | [Road Runner](https://open.spotify.com/track/6wd6VSMss7ALrAsPLhfbH7) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:46 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 43 | [shoulder to cry on](https://open.spotify.com/track/7zz6wV4jVkvAOcfrp0hhDl) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:06 |
 | 44 | [Couldn't Care Less](https://open.spotify.com/track/2FoOjasGOWt4sDIOYdgV1m) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:59 |
 | 45 | [Thing About Me](https://open.spotify.com/track/6ZXRXTEWUgTJ1CZto38nbT) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Jaden Hamilton](https://open.spotify.com/album/0wGXb4LwelW4nLNeJ5jWm3) | 3:05 |
-| 46 | [christmas comes in waves](https://open.spotify.com/track/0wYQEHRa98AdPdmOofZXbS) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [christmas comes in waves](https://open.spotify.com/album/6lIIrC3M60Oi45B7D0QAyQ) | 3:41 |
-| 47 | [King Ranch, King George, King James](https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:12 |
+| 46 | [King Ranch, King George, King James](https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:12 |
+| 47 | [christmas comes in waves](https://open.spotify.com/track/0wYQEHRa98AdPdmOofZXbS) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [christmas comes in waves](https://open.spotify.com/album/6lIIrC3M60Oi45B7D0QAyQ) | 3:41 |
 | 48 | [Jesus, My Mama, My Therapist](https://open.spotify.com/track/2aIYyC8gSLw0H3CNLhGajr) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Jesus, My Mama, My Therapist](https://open.spotify.com/album/5q6jZfZ06KkTYYMwfpWVxi) | 3:04 |
 | 49 | [Missing Someone](https://open.spotify.com/track/387XW95DcrQW06KPSnpoEN) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Bigger Houses](https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ) | 3:05 |
 | 50 | [Friend of Mine](https://open.spotify.com/track/5UKwBJycucZowKOzoBLONt) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Sad Songs for the Soul](https://open.spotify.com/album/4VU4XCA8IwDF9JVXEbIeQi) | 3:17 |
@@ -130,11 +130,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 120 | [Strangers](https://open.spotify.com/track/5yJsqZ7wqN5uelgFmeltnS) | [Death Be Not Proud](https://open.spotify.com/artist/2zM0ub5AFTBuG2MJh8wjQ9) | [Anatomy](https://open.spotify.com/album/5B1eGWbR76aQPrA4VzePl9) | 4:32 |
 | 121 | [Right Direction](https://open.spotify.com/track/0pZtQnu1u8lYkvt8bbuPG8) | [Courtney Cole](https://open.spotify.com/artist/16K3uNOhyu14NcyCx63D4L) | [Earthquake](https://open.spotify.com/album/2Br48aiOLlh9BgwjJ17gTY) | 3:06 |
 | 122 | [Second Hand](https://open.spotify.com/track/6btNUCsS1PkecQaY5434eE) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:04 |
-| 123 | [Why Why Why](https://open.spotify.com/track/5f93O4SF1ckOKOohzuqAMJ) | [Cooper Riley](https://open.spotify.com/artist/794UG1owjPTy0oFi9aM6XA) | [Why Why Why](https://open.spotify.com/album/3oUQb7vKsXx4BP8ve41J7W) | 3:15 |
-| 124 | [Cold Water](https://open.spotify.com/track/7jz4rqeSIv1LJpac6IQG34) | [Tranquilla](https://open.spotify.com/artist/4KdUd1THBpqIbfVxgqXfLz), [Obeds](https://open.spotify.com/artist/0HFp2bgInRmPn12k5KBYYt) | [Cold Water](https://open.spotify.com/album/5ON0W8Hm2AUSsoMZF6n5ig) | 4:04 |
-| 125 | [Just What I Wanted](https://open.spotify.com/track/5wqbvckLKX6fwlWbfiPFRV) | [Bling Bling](https://open.spotify.com/artist/7LSPQ8cAwOgviHtqG8D1Lg) | [Just What I Wanted](https://open.spotify.com/album/6Ir9ErdBRT1nfLnLD64JLR) | 2:04 |
-| 126 | [No Good Reason](https://open.spotify.com/track/3uFxAVJ6BNpcpbBYtubeeJ) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Jordan Walker](https://open.spotify.com/artist/7i17Lwe8Ds1mTCfGCVmvr3) | [Heart Like a Songwriter](https://open.spotify.com/album/4cVgPhm5hnTOe604QyhJnk) | 3:39 |
-| 127 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
-| 128 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
+| 123 | [Time Will Tell \- Demo](https://open.spotify.com/track/1fQVCwEFROQ3uqnqPTjHoP) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Dallas Wilson](https://open.spotify.com/artist/0ueAhTxK4uzP6XOPSq7vrn) | [Time Will Tell \(Demo\)](https://open.spotify.com/album/2LSHj1QMjgHYKS2IQzKHmp) | 3:19 |
+| 124 | [Why Why Why](https://open.spotify.com/track/5f93O4SF1ckOKOohzuqAMJ) | [Cooper Riley](https://open.spotify.com/artist/794UG1owjPTy0oFi9aM6XA) | [Why Why Why](https://open.spotify.com/album/3oUQb7vKsXx4BP8ve41J7W) | 3:15 |
+| 125 | [Cold Water](https://open.spotify.com/track/7jz4rqeSIv1LJpac6IQG34) | [Tranquilla](https://open.spotify.com/artist/4KdUd1THBpqIbfVxgqXfLz), [Obeds](https://open.spotify.com/artist/0HFp2bgInRmPn12k5KBYYt) | [Cold Water](https://open.spotify.com/album/5ON0W8Hm2AUSsoMZF6n5ig) | 4:04 |
+| 126 | [Just What I Wanted](https://open.spotify.com/track/5wqbvckLKX6fwlWbfiPFRV) | [Bling Bling](https://open.spotify.com/artist/7LSPQ8cAwOgviHtqG8D1Lg) | [Just What I Wanted](https://open.spotify.com/album/6Ir9ErdBRT1nfLnLD64JLR) | 2:04 |
+| 127 | [No Good Reason](https://open.spotify.com/track/3uFxAVJ6BNpcpbBYtubeeJ) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Jordan Walker](https://open.spotify.com/artist/7i17Lwe8Ds1mTCfGCVmvr3) | [Heart Like a Songwriter](https://open.spotify.com/album/4cVgPhm5hnTOe604QyhJnk) | 3:39 |
+| 128 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
+| 129 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcOP9gAAAADqtjYhhTeQcFudF8y191ME`
+Snapshot ID: `AcOVlgAAAAA0R3AyEz8tlhrbRjkHpZ6D`

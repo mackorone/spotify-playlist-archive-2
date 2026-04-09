@@ -1,44 +1,76 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Rockie Rode",
-  "num_followers": 255562,
+  "num_followers": 255627,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFHnPxULIBqtvAn6ro1x5i+riQga",
+  "snapshot_id": "AAAAAGZfWryEDeWAN+j76JforaG0r3Hy",
   "tracks": [
     {
-      "added_at": "2026-04-01 16:00:37",
+      "added_at": "2026-04-08 16:00:06",
       "album": {
-        "name": "Switcheroo",
-        "url": "https://open.spotify.com/album/6Wx8B7uw0trE9PQRXfIA78"
+        "name": "Crybaby",
+        "url": "https://open.spotify.com/album/1yjYllIw1d3OZoRgPcTGBA"
       },
       "artists": [
         {
-          "name": "Gelli Haha",
-          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
         }
       ],
-      "duration_ms": 224418,
-      "name": "Klouds Will Carry Me To Sleep",
-      "url": "https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk"
+      "duration_ms": 175597,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
     },
     {
-      "added_at": "2026-04-01 16:00:37",
+      "added_at": "2026-04-08 16:00:06",
       "album": {
-        "name": "Tethered",
-        "url": "https://open.spotify.com/album/3UhgtMPRpwgdjVkExAGZOo"
+        "name": "FALLINFORU",
+        "url": "https://open.spotify.com/album/05717ezKBBLNKFiIRpqLD1"
       },
       "artists": [
         {
-          "name": "Eilish Constance",
-          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
+          "name": "jonie",
+          "url": "https://open.spotify.com/artist/4qI070Q4VrKFF2gHXzGRNa"
         }
       ],
-      "duration_ms": 203312,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/0r3lhQvFpzXSgm86156k1w"
+      "duration_ms": 177000,
+      "name": "FALLINFORU",
+      "url": "https://open.spotify.com/track/2eOK6VYIsnUsOvTTkEcZkJ"
+    },
+    {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "Better Angels",
+        "url": "https://open.spotify.com/album/5oZuk5EIEG4licuoLSpgrz"
+      },
+      "artists": [
+        {
+          "name": "sadie",
+          "url": "https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc"
+        }
+      ],
+      "duration_ms": 160616,
+      "name": "Better Angels",
+      "url": "https://open.spotify.com/track/4dVmB6Y60E2U5tK79G2dhK"
+    },
+    {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "1LDK",
+        "url": "https://open.spotify.com/album/1yOAFtL7Oh7ymsA3zj8zGL"
+      },
+      "artists": [
+        {
+          "name": "1LDK",
+          "url": "https://open.spotify.com/artist/1USj21nwWPxhGoXmQ3BkrF"
+        }
+      ],
+      "duration_ms": 172379,
+      "name": "Second Choice",
+      "url": "https://open.spotify.com/track/26ep2tMoZo02kfIP8rAWfs"
     },
     {
       "added_at": "2026-03-18 17:42:54",
@@ -61,6 +93,102 @@
       "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
     },
     {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "KookieCannibal",
+        "url": "https://open.spotify.com/album/7ygysUSDfyvk1ajHe139vp"
+      },
+      "artists": [
+        {
+          "name": "My Precious Bunny",
+          "url": "https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2"
+        }
+      ],
+      "duration_ms": 227453,
+      "name": "KookieCannibal",
+      "url": "https://open.spotify.com/track/4cBvn41NnVmR7EZmbI18xW"
+    },
+    {
+      "added_at": "2026-04-01 16:00:37",
+      "album": {
+        "name": "Switcheroo",
+        "url": "https://open.spotify.com/album/6Wx8B7uw0trE9PQRXfIA78"
+      },
+      "artists": [
+        {
+          "name": "Gelli Haha",
+          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
+        }
+      ],
+      "duration_ms": 224418,
+      "name": "Klouds Will Carry Me To Sleep",
+      "url": "https://open.spotify.com/track/7EcldKQZHuizgKU4b7UbSk"
+    },
+    {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "Birding",
+        "url": "https://open.spotify.com/album/4LRV1hTTosrrR7cdWyqyJo"
+      },
+      "artists": [
+        {
+          "name": "deary",
+          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
+        }
+      ],
+      "duration_ms": 309947,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2ipXB1iXNOVsNiAuWkTsY3"
+    },
+    {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "some thing special",
+        "url": "https://open.spotify.com/album/6pdUSQwLYO1lce2tbv5NbT"
+      },
+      "artists": [
+        {
+          "name": "Rosacea boy",
+          "url": "https://open.spotify.com/artist/61YfdcpPNccLF3vgbHKKj1"
+        }
+      ],
+      "duration_ms": 172016,
+      "name": "some thing special",
+      "url": "https://open.spotify.com/track/5C1axVGQqPrmZMzFA7pE6R"
+    },
+    {
+      "added_at": "2026-04-01 16:00:37",
+      "album": {
+        "name": "Tethered",
+        "url": "https://open.spotify.com/album/3UhgtMPRpwgdjVkExAGZOo"
+      },
+      "artists": [
+        {
+          "name": "Eilish Constance",
+          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
+        }
+      ],
+      "duration_ms": 203312,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/0r3lhQvFpzXSgm86156k1w"
+    },
+    {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/4whtYd1azyX3WMI0CR8biu"
+      },
+      "artists": [
+        {
+          "name": "Alana Markel",
+          "url": "https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Restart",
+      "url": "https://open.spotify.com/track/2xbN36IbgTx5iNzwAQi0Th"
+    },
+    {
       "added_at": "2026-03-11 17:52:17",
       "album": {
         "name": "Never change, love you always",
@@ -75,6 +203,22 @@
       "duration_ms": 204554,
       "name": "Do you miss me at all",
       "url": "https://open.spotify.com/track/2qNlbiYVufbqIvxBugp3Rf"
+    },
+    {
+      "added_at": "2026-04-08 16:00:06",
+      "album": {
+        "name": "Too High",
+        "url": "https://open.spotify.com/album/2D4dPVB0sqry9nQsstRz22"
+      },
+      "artists": [
+        {
+          "name": "justineisdreaming",
+          "url": "https://open.spotify.com/artist/2oMHMRgVWBUPkVVHlA2m9G"
+        }
+      ],
+      "duration_ms": 189803,
+      "name": "Too High",
+      "url": "https://open.spotify.com/track/2wdTJYMzFUwerk3ogZdyS0"
     },
     {
       "added_at": "2026-03-25 16:00:36",
@@ -577,22 +721,6 @@
       "url": "https://open.spotify.com/track/2dJtc47ndRI9l7v581krkc"
     },
     {
-      "added_at": "2026-02-25 17:24:17",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/0CQbOuXYpIQd5Ko7Ivkegh"
-      },
-      "artists": [
-        {
-          "name": "After Louise",
-          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
-        }
-      ],
-      "duration_ms": 201999,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/4dwoGWHlmtSHT42PCnLcMa"
-    },
-    {
       "added_at": "2026-03-04 17:27:54",
       "album": {
         "name": "KHAZNA",
@@ -933,38 +1061,6 @@
       "url": "https://open.spotify.com/track/36vGZ3MJUeXWHgmLT99w48"
     },
     {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "IDIED",
-        "url": "https://open.spotify.com/album/6xfGkbJGN9P8a79I6lNxXU"
-      },
-      "artists": [
-        {
-          "name": "willoh",
-          "url": "https://open.spotify.com/artist/6v2hMJj6ubSkm1Moc8zhTy"
-        }
-      ],
-      "duration_ms": 130243,
-      "name": "IDIED",
-      "url": "https://open.spotify.com/track/27EndTXJMq8cxMbqAGtCuR"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "Overspill",
-        "url": "https://open.spotify.com/album/1r9J072p60RejqZEVbeI6e"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 182745,
-      "name": "Overspill",
-      "url": "https://open.spotify.com/track/49nB9OaFviDvPRA4gc9VKE"
-    },
-    {
       "added_at": "2026-02-04 17:00:09",
       "album": {
         "name": "MARIGOLD",
@@ -1011,110 +1107,6 @@
       "duration_ms": 134117,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "AQUA-VISION",
-        "url": "https://open.spotify.com/album/6W7047CNWGgWmHHCNe6hh0"
-      },
-      "artists": [
-        {
-          "name": "Kuomo",
-          "url": "https://open.spotify.com/artist/3ETRyR7jFwyWfRT18A3qm4"
-        }
-      ],
-      "duration_ms": 128360,
-      "name": "BLINDED",
-      "url": "https://open.spotify.com/track/4BjZJvjU8KAvOKlhjT0d3Q"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/02EJfVkkteoiBr57ddPjed"
-      },
-      "artists": [
-        {
-          "name": "Immaterialize",
-          "url": "https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by"
-        },
-        {
-          "name": "Fire-Toolz",
-          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
-        }
-      ],
-      "duration_ms": 240775,
-      "name": "Everything But Myself",
-      "url": "https://open.spotify.com/track/7yXxQ1fi5jtoDgElHzkwBk"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "feeling",
-        "url": "https://open.spotify.com/album/21woMWD0gB23EkVvdPruJJ"
-      },
-      "artists": [
-        {
-          "name": "heartbleeder",
-          "url": "https://open.spotify.com/artist/50ILRM1ASU9bh0NxSCiLih"
-        }
-      ],
-      "duration_ms": 186552,
-      "name": "feeling",
-      "url": "https://open.spotify.com/track/67uSWA86IXxTdTMm6psIJm"
-    },
-    {
-      "added_at": "2026-01-28 17:00:07",
-      "album": {
-        "name": "Hibiscus",
-        "url": "https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn"
-      },
-      "artists": [
-        {
-          "name": "Carr\u00e9",
-          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
-        },
-        {
-          "name": "Bbyafricka",
-          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
-        }
-      ],
-      "duration_ms": 179808,
-      "name": "Hibiscus",
-      "url": "https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "Where To?",
-        "url": "https://open.spotify.com/album/56sUoj0gY6y7ZgyQtMYV2u"
-      },
-      "artists": [
-        {
-          "name": "Michelle Blades",
-          "url": "https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Dear Friend",
-      "url": "https://open.spotify.com/track/7u3Ts1PL8rZyKW4pBAP7G5"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "Faded Rose",
-        "url": "https://open.spotify.com/album/7icUm5JO3OqOzNXSRPMRJw"
-      },
-      "artists": [
-        {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
-        }
-      ],
-      "duration_ms": 241488,
-      "name": "Faded Rose",
-      "url": "https://open.spotify.com/track/6WhmOQNVS9MHcUa6kc1nxO"
     },
     {
       "added_at": "2026-01-21 17:00:04",

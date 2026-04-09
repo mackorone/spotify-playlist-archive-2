@@ -807,6 +807,22 @@
     {
       "added_at": "2026-04-02 22:00:45",
       "album": {
+        "name": "Jag \u00c4r",
+        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Magk\u00e4nsla",
+      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
+    },
+    {
+      "added_at": "2026-04-02 22:00:45",
+      "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/64LKeh7Ban8XpiuPWb9MnC"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2026-04-02 22:00:45",
       "album": {
-        "name": "Jag \u00c4r",
-        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
+        "name": "Ingen vet",
+        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
         }
       ],
-      "duration_ms": 183160,
-      "name": "Magk\u00e4nsla",
-      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
+      "duration_ms": 160975,
+      "name": "Ingen vet",
+      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
     },
     {
       "added_at": "2026-04-02 22:00:45",
@@ -859,18 +875,18 @@
     {
       "added_at": "2026-04-02 22:00:45",
       "album": {
-        "name": "Ingen vet",
-        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+        "name": "T\u00e5rar",
+        "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
       },
       "artists": [
         {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
         }
       ],
-      "duration_ms": 160975,
-      "name": "Ingen vet",
-      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+      "duration_ms": 182567,
+      "name": "T\u00e5rar",
+      "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
     },
     {
       "added_at": "2026-04-02 22:00:45",
@@ -887,22 +903,6 @@
       "duration_ms": 229770,
       "name": "Inner City Ghosts",
       "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
-    },
-    {
-      "added_at": "2026-04-02 22:00:45",
-      "album": {
-        "name": "T\u00e5rar",
-        "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 182567,
-      "name": "T\u00e5rar",
-      "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
     },
     {
       "added_at": "2026-04-02 22:00:45",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-04-02 22:00:45",
       "album": {
-        "name": "H\u00f6kvind",
-        "url": "https://open.spotify.com/album/7cVQz9yUVtm6RGhFkd7rQe"
-      },
-      "artists": [
-        {
-          "name": "Les Big Byrd",
-          "url": "https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap"
-        }
-      ],
-      "duration_ms": 430892,
-      "name": "H\u00f6kvind",
-      "url": "https://open.spotify.com/track/6EjYa0k1UBaSx6lMg6kZBB"
-    },
-    {
-      "added_at": "2026-04-02 22:00:45",
-      "album": {
         "name": "Fredagskv\u00e4llsblues",
         "url": "https://open.spotify.com/album/4nwPui9AD6M1OAJoIf2Ifn"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 243026,
       "name": "Fredagskv\u00e4llsblues",
       "url": "https://open.spotify.com/track/0VGSiDMjJOHLbEaOMba2IW"
+    },
+    {
+      "added_at": "2026-04-02 22:00:45",
+      "album": {
+        "name": "H\u00f6kvind",
+        "url": "https://open.spotify.com/album/7cVQz9yUVtm6RGhFkd7rQe"
+      },
+      "artists": [
+        {
+          "name": "Les Big Byrd",
+          "url": "https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap"
+        }
+      ],
+      "duration_ms": 430892,
+      "name": "H\u00f6kvind",
+      "url": "https://open.spotify.com/track/6EjYa0k1UBaSx6lMg6kZBB"
     },
     {
       "added_at": "2026-04-02 22:00:45",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-04-02 22:00:45",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
-      },
-      "artists": [
-        {
-          "name": "Pernilla Andersson",
-          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
-        }
-      ],
-      "duration_ms": 224168,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
-    },
-    {
-      "added_at": "2026-04-02 22:00:45",
-      "album": {
         "name": "Sunday Love",
         "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 316373,
       "name": "Sunday Love",
       "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
+    },
+    {
+      "added_at": "2026-04-02 22:00:45",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
+      },
+      "artists": [
+        {
+          "name": "Pernilla Andersson",
+          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
+        }
+      ],
+      "duration_ms": 224168,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
     },
     {
       "added_at": "2026-04-02 22:00:45",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-04-02 22:00:45",
       "album": {
-        "name": "Stanna tiden",
-        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
-      },
-      "artists": [
-        {
-          "name": "Casanovas",
-          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
-        }
-      ],
-      "duration_ms": 192875,
-      "name": "Stanna tiden",
-      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
-    },
-    {
-      "added_at": "2026-04-02 22:00:45",
-      "album": {
         "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
         "url": "https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 225466,
       "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
       "url": "https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2"
+    },
+    {
+      "added_at": "2026-04-02 22:00:45",
+      "album": {
+        "name": "Stanna tiden",
+        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
+      },
+      "artists": [
+        {
+          "name": "Casanovas",
+          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
+        }
+      ],
+      "duration_ms": 192875,
+      "name": "Stanna tiden",
+      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
     },
     {
       "added_at": "2026-04-02 22:00:45",

@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116882,
+  "num_followers": 116889,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAABsvZWTx5J7GKphNdDWjgVs",
+  "snapshot_id": "adRJAAAAAADfwDAPawcb45F6AnhRxma3",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 420453,
-      "name": "Se Eu Pudesse (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 773437,
       "name": "Tu \u00c9s Tudo",
       "url": "https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 420453,
+      "name": "Se Eu Pudesse (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo Volta ao Seu Lugar",
-        "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 292755,
-      "name": "Nada Pode Calar Um Adorador",
-      "url": "https://open.spotify.com/track/6wSUMbiuYkOzN5YzZ4Y3Vs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 259862,
       "name": "Assume A Responsa",
       "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tudo Volta ao Seu Lugar",
+        "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 292755,
+      "name": "Nada Pode Calar Um Adorador",
+      "url": "https://open.spotify.com/track/6wSUMbiuYkOzN5YzZ4Y3Vs"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 354493,
-      "name": "Minha Alma Te Ama (Ao Vivo)",
-      "url": "https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 487384,
       "name": "A Casa \u00e9 Sua + Labareda",
       "url": "https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 354493,
+      "name": "Minha Alma Te Ama (Ao Vivo)",
+      "url": "https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palavras e Palavras (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1olSAUdtz26YmJofmGylw8"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 326136,
-      "name": "Palavras e Palavras - Ao Vivo",
-      "url": "https://open.spotify.com/track/43OlvJkIi2Gezfx1fajFPl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bra\u00e7os de Amor",
         "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 332333,
       "name": "Bra\u00e7os de Amor",
       "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palavras e Palavras (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1olSAUdtz26YmJofmGylw8"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 326136,
+      "name": "Palavras e Palavras - Ao Vivo",
+      "url": "https://open.spotify.com/track/43OlvJkIi2Gezfx1fajFPl"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Em Troca",
-      "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 236470,
       "name": "Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Em Troca",
+      "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
     },
     {
       "added_at": null,

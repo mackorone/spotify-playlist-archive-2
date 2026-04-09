@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: MercyMe",
-  "num_followers": 668082,
+  "num_followers": 668183,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-03-21 07:41:08",
       "album": {
-        "name": "I Am Loved",
-        "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 432640,
-      "name": "I Am Loved",
-      "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
-    },
-    {
-      "added_at": "2026-03-21 07:41:08",
-      "album": {
         "name": "Over And Underneath",
         "url": "https://open.spotify.com/album/6owfUdoDWVCB7S00NDKPKM"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 241826,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/6qdpQ6jPiaCYE9Qw4nZVuD"
+    },
+    {
+      "added_at": "2026-03-21 07:41:08",
+      "album": {
+        "name": "I Am Loved",
+        "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 432640,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
     },
     {
       "added_at": "2026-03-21 07:41:08",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-03-21 07:41:08",
       "album": {
-        "name": "These Simple Truths",
-        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        }
-      ],
-      "duration_ms": 260613,
-      "name": "You Love Me Anyway",
-      "url": "https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9"
-    },
-    {
-      "added_at": "2026-03-21 07:41:08",
-      "album": {
         "name": "Keep Me In The Moment (Radio Version)",
         "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 207432,
       "name": "Keep Me In The Moment - Radio Version",
       "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
+    },
+    {
+      "added_at": "2026-03-21 07:41:08",
+      "album": {
+        "name": "These Simple Truths",
+        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "duration_ms": 260613,
+      "name": "You Love Me Anyway",
+      "url": "https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9"
     },
     {
       "added_at": "2026-03-21 07:41:08",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-03-21 07:41:08",
       "album": {
-        "name": "God Is on the Move",
-        "url": "https://open.spotify.com/album/3TSVJAkYFaZXtVEaQgXED0"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 176615,
-      "name": "God Is on the Move",
-      "url": "https://open.spotify.com/track/4YZkx9hCBOdaI71lzKEnOx"
-    },
-    {
-      "added_at": "2026-03-21 07:41:08",
-      "album": {
         "name": "Goodness of God (Radio Version)",
         "url": "https://open.spotify.com/album/6PSBzgkRIDZaILu4gdYTOE"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 236213,
       "name": "Goodness of God - Radio Version",
       "url": "https://open.spotify.com/track/665Ki3oftw2evstCgtmiSw"
+    },
+    {
+      "added_at": "2026-03-21 07:41:08",
+      "album": {
+        "name": "God Is on the Move",
+        "url": "https://open.spotify.com/album/3TSVJAkYFaZXtVEaQgXED0"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "duration_ms": 176615,
+      "name": "God Is on the Move",
+      "url": "https://open.spotify.com/track/4YZkx9hCBOdaI71lzKEnOx"
     },
     {
       "added_at": "2026-03-21 07:41:08",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2026-03-21 07:41:08",
       "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
+    },
+    {
+      "added_at": "2026-03-21 07:41:08",
+      "album": {
         "name": "Big God",
         "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
       },
@@ -2427,22 +2443,6 @@
       "duration_ms": 184733,
       "name": "Start A Fire",
       "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
-    },
-    {
-      "added_at": "2026-03-21 07:41:08",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
     },
     {
       "added_at": "2026-03-21 07:41:08",

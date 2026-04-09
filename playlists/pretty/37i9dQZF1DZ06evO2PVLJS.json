@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1121444,
+  "num_followers": 1121537,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAACG8GVMK4bY8TwkJCrUxdXN",
+  "snapshot_id": "adRJAAAAAAB3Oa5DTy5gIPKfqhgFOb+w",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Del Pueblo",
-        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "La Ley de la Vida",
-      "url": "https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Tu Maldito Amor",
         "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 206840,
       "name": "Aunque Mal Paguen Ellas (with Roberto Carlos)",
       "url": "https://open.spotify.com/track/16tSlxrIF7hDvU1VXkpL6U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "La Ley de la Vida",
+      "url": "https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr"
     },
     {
       "added_at": null,

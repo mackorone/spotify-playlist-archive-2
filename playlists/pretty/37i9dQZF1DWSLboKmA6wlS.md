@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: Jduck\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,277 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,279 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 23 | [จากกันไม่เสียใจ \(Anhedonia\)](https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0) | [SWANOVFIELD](https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc) | [จากกันไม่เสียใจ \(Anhedonia\)](https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb) | 3:56 |
 | 24 | [ดอกไม้ในอวกาศ](https://open.spotify.com/track/0vzGIITHJKVGwbBjtrQMgk) | [Panch](https://open.spotify.com/artist/2iDEgAXlK5O2vKMwvO2IMR), [PENGUIN VILLA](https://open.spotify.com/artist/2nO6v6ZnigodGqi7kZfEY6) | [ดอกไม้ในอวกาศ](https://open.spotify.com/album/4WzbhAB3tUKYzijkOw12Db) | 3:57 |
 | 25 | [ถ้าเธอรักเขา \(Pls.Out\)](https://open.spotify.com/track/76mAxCVZZLW3ruv7lDpdM6) | [Fah Naritsa](https://open.spotify.com/artist/3McyFK0pD7IHHLLlk2O20J) | [ถ้าเธอรักเขา \(Pls.Out\)](https://open.spotify.com/album/55eAwsSu6G1XWxp3A4ifDR) | 4:34 |
-| 26 | [เด็กกว่าแล้วไง\(เป็นแฟนเธอได้แล้วกัน\)](https://open.spotify.com/track/5Eia4n0TGuIJxxMTEc2YMb) | [EYE Nuttanichar](https://open.spotify.com/artist/0Zz8nyoky80zR9W05adPu1) | [เด็กกว่าแล้วไง\(เป็นแฟนเธอได้แล้วกัน\)](https://open.spotify.com/album/7LwAHr6GsDIcS0U21WfSJV) | 3:09 |
-| 27 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |
+| 26 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |
+| 27 | [เด็กกว่าแล้วไง\(เป็นแฟนเธอได้แล้วกัน\)](https://open.spotify.com/track/5Eia4n0TGuIJxxMTEc2YMb) | [EYE Nuttanichar](https://open.spotify.com/artist/0Zz8nyoky80zR9W05adPu1) | [เด็กกว่าแล้วไง\(เป็นแฟนเธอได้แล้วกัน\)](https://open.spotify.com/album/7LwAHr6GsDIcS0U21WfSJV) | 3:09 |
 | 28 | [เปลี่ยนไปแล้ว \- It'S Over](https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB) | [mita.](https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs) | [เปลี่ยนไปแล้ว \(It'S Over\)](https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE) | 4:00 |
 | 29 | [เรื่องของเรื่อง](https://open.spotify.com/track/6RvUaEjzkMQPD0CPfRnIkQ) | [ossey](https://open.spotify.com/artist/4M0X6x1jVeztDUmhHY9ZhU) | [เรื่องของเรื่อง](https://open.spotify.com/album/3npcOAiTi992g0JDKdHgSi) | 3:37 |
 | 30 | [เมดูซา](https://open.spotify.com/track/2aY504oSaFaF6ALq5gqfuD) | [PAPERCUP](https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk) | [เมดูซา](https://open.spotify.com/album/02FxppO27bX1sTyyx6eMXB) | 3:01 |
@@ -50,19 +50,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 40 | [นิทานหลอกเด็ก \(fairytale\)](https://open.spotify.com/track/2Im2FwYxknMHkbcfIqmbHB) | [zene](https://open.spotify.com/artist/0BOZsgBYGqT4E25Wta1Hru) | [นิทานหลอกเด็ก \(fairytale\)](https://open.spotify.com/album/5e7aho7zMkYHZlklzyVBu6) | 2:50 |
 | 41 | [จะดีกว่าเดิม](https://open.spotify.com/track/4phUpziIYbWDXytcL83NEw) | [Ohmchom](https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9) | [จะดีกว่าเดิม](https://open.spotify.com/album/3TAyz9HaDGqsZ1msdGjjuN) | 2:00 |
 | 42 | [เก็บไม่เป็น \(My Bad\)](https://open.spotify.com/track/6096LGSSYcW5I8ogU32uSj) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [เก็บไม่เป็น \(My Bad\)](https://open.spotify.com/album/7yZ8sXtYBDPr3fWIaXyYTq) | 2:53 |
-| 43 | [First Take](https://open.spotify.com/track/3yZgdkXPYaXqkU2tTEZ63d) | [Chermin](https://open.spotify.com/artist/5LcWM9WkyHFOHI6bMMMAc6) | [First Take](https://open.spotify.com/album/3noHrPKz3uCkSQmpRoJqKo) | 3:43 |
-| 44 | [อยากบอกครั้งสุดท้าย \(One Last Goodbye\)](https://open.spotify.com/track/2UV6ljthOVt0vwTUO6HiwG) | [on/no](https://open.spotify.com/artist/76w5A8cWkupod7k32aUSEa) | [อยากบอกครั้งสุดท้าย \(One Last Goodbye\)](https://open.spotify.com/album/1QyUtGkK9u8GClUFv54mXG) | 3:16 |
+| 43 | [อยากบอกครั้งสุดท้าย \(One Last Goodbye\)](https://open.spotify.com/track/2UV6ljthOVt0vwTUO6HiwG) | [on/no](https://open.spotify.com/artist/76w5A8cWkupod7k32aUSEa) | [อยากบอกครั้งสุดท้าย \(One Last Goodbye\)](https://open.spotify.com/album/1QyUtGkK9u8GClUFv54mXG) | 3:16 |
+| 44 | [First Take](https://open.spotify.com/track/3yZgdkXPYaXqkU2tTEZ63d) | [Chermin](https://open.spotify.com/artist/5LcWM9WkyHFOHI6bMMMAc6) | [First Take](https://open.spotify.com/album/3noHrPKz3uCkSQmpRoJqKo) | 3:43 |
 | 45 | [คิดถึงเธออีกแล้ว](https://open.spotify.com/track/6SLXzYoPzuzhK73XNne8XZ) | [TEAM](https://open.spotify.com/artist/2Dm8W7POMJQsCGDpum1osw) | [คิดถึงเธออีกแล้ว](https://open.spotify.com/album/2mmAa58aKg0njzI6UPdL5W) | 3:10 |
 | 46 | [ภาพเรา](https://open.spotify.com/track/4IO5XrgTEJmSkeX49WFQa2) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ภาพเรา](https://open.spotify.com/album/4TyLJsokFClIRkyeurMKjG) | 3:40 |
 | 47 | [ก่อนเธอจะรักคนใหม่ \- Before](https://open.spotify.com/track/4aNgOJCasw7aKsffY74L9w) | [RATTHEE](https://open.spotify.com/artist/6HJVZXxSTP8eE7L8xPXKKh) | [ก่อนเธอจะรักคนใหม่ \(Before\)](https://open.spotify.com/album/5Ytn6vRML51iOgPu6n3gge) | 3:46 |
-| 48 | [ไม่ได้ชอบ](https://open.spotify.com/track/09u67EylNXvhuMIBD17yQc) | [KABii](https://open.spotify.com/artist/00NCrNASle1HNVaqNUa0ts), [$LUTTYP](https://open.spotify.com/artist/2ZG0PBRopuCGFDBWdrVaYb) | [ไม่ได้ชอบ](https://open.spotify.com/album/5jOBjB4KRxdYrVtPlyHrZC) | 3:29 |
-| 49 | [กุญแจห้องซ่อนไว้ที่เดิม](https://open.spotify.com/track/7vKrQvhRIWZx6wAHjehLOB) | [Jassmin](https://open.spotify.com/artist/396JxNvlndih0y0IEb5xip) | [Growing Wings](https://open.spotify.com/album/0Jyiu1lkUMjaSpkQbFfG2r) | 3:24 |
+| 48 | [กุญแจห้องซ่อนไว้ที่เดิม](https://open.spotify.com/track/7vKrQvhRIWZx6wAHjehLOB) | [Jassmin](https://open.spotify.com/artist/396JxNvlndih0y0IEb5xip) | [Growing Wings](https://open.spotify.com/album/0Jyiu1lkUMjaSpkQbFfG2r) | 3:24 |
+| 49 | [ไม่ได้ชอบ](https://open.spotify.com/track/09u67EylNXvhuMIBD17yQc) | [KABii](https://open.spotify.com/artist/00NCrNASle1HNVaqNUa0ts), [$LUTTYP](https://open.spotify.com/artist/2ZG0PBRopuCGFDBWdrVaYb) | [ไม่ได้ชอบ](https://open.spotify.com/album/5jOBjB4KRxdYrVtPlyHrZC) | 3:29 |
 | 50 | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7) | [Vaals](https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u) | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc) | 3:08 |
 | 51 | [Deep Sea Monster](https://open.spotify.com/track/0jqWeLZDT99FyY7uDtRldJ) | [HEADLESS SCULPTURES](https://open.spotify.com/artist/1N8WE8etYFapd7lt9RJNhB) | [Deep Sea Monster](https://open.spotify.com/album/4QvdtqP4c48Vq09kOQOxXV) | 4:46 |
 | 52 | [ไม่พร้อมฟัง \- Yum Yum](https://open.spotify.com/track/2M402fhMdfEnN6ubcczakm) | [ax’an](https://open.spotify.com/artist/6ZpMsyqO6kymsc0cyPpRuB) | [ไม่พร้อมฟัง \(Yum Yum\)](https://open.spotify.com/album/3OtebzeLCguedVJaN5so0m) | 3:13 |
 | 53 | [ก็แค่น้อยใจ](https://open.spotify.com/track/1k6Szm0eZc8A0HCCL3v8Bd) | [PAIRY](https://open.spotify.com/artist/6G6MRBKezYH9TPzzth53Ep) | [ก็แค่น้อยใจ](https://open.spotify.com/album/4tq9zyAVTK6q0IqJUYVLgw) | 2:28 |
-| 54 | [Lake](https://open.spotify.com/track/3ltcYTFX6Dpsr54OiL1kaG) | [wake by woof](https://open.spotify.com/artist/3RFxP63cZb4a1QvpHWNPGj) | [Lake](https://open.spotify.com/album/7A7U2aZ7jx9rttKZNP6qau) | 4:06 |
-| 55 | [ii uu](https://open.spotify.com/track/7mPrazW5UjgJpmM8Z0rvAQ) | [HAYDEN](https://open.spotify.com/artist/6VxLIdqbuN1MWLW5NaPHmz) | [ii uu](https://open.spotify.com/album/4iuFYXbjfMnePLI7RMD13I) | 3:14 |
+| 54 | [ii uu](https://open.spotify.com/track/7mPrazW5UjgJpmM8Z0rvAQ) | [HAYDEN](https://open.spotify.com/artist/6VxLIdqbuN1MWLW5NaPHmz) | [ii uu](https://open.spotify.com/album/4iuFYXbjfMnePLI7RMD13I) | 3:14 |
+| 55 | [Lake](https://open.spotify.com/track/3ltcYTFX6Dpsr54OiL1kaG) | [wake by woof](https://open.spotify.com/artist/3RFxP63cZb4a1QvpHWNPGj) | [Lake](https://open.spotify.com/album/7A7U2aZ7jx9rttKZNP6qau) | 4:06 |
 | 56 | [เผลอทักไป](https://open.spotify.com/track/0H7ey7sBM9jkznYFKnRc7W) | [Blackwolf BOY](https://open.spotify.com/artist/1eZ71wjLok7uYBUMcBOZQq) | [เผลอทักไป](https://open.spotify.com/album/1ZPzlOJQhxQsmBxnxT6kHy) | 4:31 |
 | 57 | [สัมผัสโกหก](https://open.spotify.com/track/0o4lQPKg7aFhQU6g32Q0I6) | [Ohmchom](https://open.spotify.com/artist/4ImLDxx5rGj4jaXUMg10V9) | [สัมผัสโกหก](https://open.spotify.com/album/1RoyATW49Dkwq5gn23SsHx) | 3:07 |
 | 58 | [รู้หรือเปล่า](https://open.spotify.com/track/6C2VLOtIeJcblw0bKBhVVH) | [Aesia](https://open.spotify.com/artist/3gwJkZwWf9dbTts5c2OhwN) | [รู้หรือเปล่า](https://open.spotify.com/album/6uNPzZpnVyCxdLOWaJVRET) | 3:46 |

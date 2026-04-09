@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-132 songs - 7 hr 12 min
+133 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [The Best Kind](https://open.spotify.com/track/4QBnvCvtwniPVGNgqDPFQT) | [Lee Langston](https://open.spotify.com/artist/1lrPBxFvIFSAzT1vNJOnNT) | [The Best Kind](https://open.spotify.com/album/0SnM6LgLYRjPgTI6QvmzTD) | 3:45 | 2026-01-14 |  |
 | [The Goal](https://open.spotify.com/track/4P7rS04aNt7MWwvOpoQF7c) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Runnin’ Outta Time](https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK) | 3:12 | 2026-01-14 |  |
 | [Thing About Me](https://open.spotify.com/track/6ZXRXTEWUgTJ1CZto38nbT) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Jaden Hamilton](https://open.spotify.com/album/0wGXb4LwelW4nLNeJ5jWm3) | 3:05 | 2026-01-14 |  |
+| [Time Will Tell \- Demo](https://open.spotify.com/track/1fQVCwEFROQ3uqnqPTjHoP) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Dallas Wilson](https://open.spotify.com/artist/0ueAhTxK4uzP6XOPSq7vrn) | [Time Will Tell \(Demo\)](https://open.spotify.com/album/2LSHj1QMjgHYKS2IQzKHmp) | 3:19 | 2026-04-08 |  |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/1j1hE1uyIWcEMLSvMNPBss) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:14 | 2026-01-14 |  |
 | [True North](https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:13 | 2026-01-14 |  |
 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 | 2026-01-14 |  |

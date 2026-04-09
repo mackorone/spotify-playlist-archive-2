@@ -1,6 +1,6 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 194742,
+  "num_followers": 194764,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-04-06 07:04:48",
       "album": {
+        "name": "Songs of Love",
+        "url": "https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Madhubala",
+      "url": "https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v"
+    },
+    {
+      "added_at": "2026-04-06 07:04:48",
+      "album": {
         "name": "Dilbar",
         "url": "https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 168545,
       "name": "Dilbar",
       "url": "https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL"
-    },
-    {
-      "added_at": "2026-04-06 07:04:48",
-      "album": {
-        "name": "Songs of Love",
-        "url": "https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Madhubala",
-      "url": "https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v"
     },
     {
       "added_at": "2026-04-06 07:04:48",

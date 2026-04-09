@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,203 songs - 9 day 7 hr 57 min
+4,204 songs - 9 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4183,6 +4183,7 @@
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2025-05-15 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/2cAg7yZkWtjCjR67hOnIAZ) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Мы зарастаем серебром](https://open.spotify.com/album/4lgfLNI3kUVQK8h4SlVepm) | 3:52 | 2025-05-22 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 | 2025-11-16 |  |
+| [Осень \(Пахнет жжёной гарью...\)](https://open.spotify.com/track/7kpVQ2VRlYWhDBQjfhNu9r) | [S T O L I C A](https://open.spotify.com/artist/5SAai3KeQhtyfBIKpWAtaf) | [Осень \(Пахнет жжёной гарью...\)](https://open.spotify.com/album/6p7RGXtXeYmq9raQ3SDah9) | 2:27 | 2026-04-08 |  |
 | [Потанцуй со мной](https://open.spotify.com/track/16VPoNNjPfXhmH4J2M3MDA) | [Алмазные рудники](https://open.spotify.com/artist/1Pzg3icbv2hR9yJ2b4WU0p) | [Там, где ты...](https://open.spotify.com/album/2Qw8e3RYWPEl6IhkH2cadJ) | 2:36 | 2025-05-05 |  |
 | [Рыжая девочка\-осень](https://open.spotify.com/track/4H7o6gTT8S1PoK5xsHAWCR) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень](https://open.spotify.com/album/4K91LPYMgFjWnGBalCGnRO) | 2:23 | 2026-01-15 |  |
 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 | 2025-11-22 |  |

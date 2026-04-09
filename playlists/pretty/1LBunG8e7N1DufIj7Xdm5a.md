@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,263 songs - 9 day 10 hr 59 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,265 songs - 9 day 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4271,5 +4271,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4261 | [Watching You Leave](https://open.spotify.com/track/0BMU6qKR64Beln8Zhl4VUe) | [ALLEY the band](https://open.spotify.com/artist/705pUhNAH2OimLCdheAma2) | [Telling Stories EP](https://open.spotify.com/album/3fZEmp4ghXG1h7z67zVyWm) | 3:40 |
 | 4262 | [I'm sky high](https://open.spotify.com/track/5PlMMYdPoZ2gnBYfXz9agR) | [Leandro Aguirre](https://open.spotify.com/artist/2uVhj1bGrGFPgunJ4BdB5I) | [I'm sky high](https://open.spotify.com/album/2ZkjDMyvicJva0YScI3rTA) | 3:51 |
 | 4263 | [Lejos de ayer](https://open.spotify.com/track/0PCO91XIa47CQpkgvHKAPH) | [Visitantes](https://open.spotify.com/artist/0nynsqah3R512QB7VBtvvT) | [Visitantes](https://open.spotify.com/album/0tZCqIeo3VfhEdMY7r7lFd) | 4:00 |
+| 4264 | [Remain with Grey](https://open.spotify.com/track/4pnj4tte4lPQ5R6OWa0SUZ) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Remain with Grey](https://open.spotify.com/album/6NvuxISNMzES9LPDmKBWvW) | 3:34 |
+| 4265 | [Осень \(Пахнет жжёной гарью...\)](https://open.spotify.com/track/7kpVQ2VRlYWhDBQjfhNu9r) | [S T O L I C A](https://open.spotify.com/artist/5SAai3KeQhtyfBIKpWAtaf) | [Осень \(Пахнет жжёной гарью...\)](https://open.spotify.com/album/6p7RGXtXeYmq9raQ3SDah9) | 2:27 |
 
-Snapshot ID: `AAAIJhGSpQJhy6cmjaOBBBus7mj5JjMm`
+Snapshot ID: `AAAIKHXf3koNxEFqMZiNGJO3TCHBlwHP`

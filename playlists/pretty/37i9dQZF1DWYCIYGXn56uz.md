@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Sarah Toscano
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,030 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,039 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 10 | [Tutte Le Ragazze Vogliono Canzoni D'Amore](https://open.spotify.com/track/1D8tT3ubjjLQJlPV6OPSey) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Tutte Le Ragazze Vogliono Canzoni D'Amore](https://open.spotify.com/album/4hZpfHAZaxGVuvWjkJo96C) | 2:29 |
 | 11 | [FARFALLE \(nello stomaco\)](https://open.spotify.com/track/6nFCfQyV8ZzcgCNRGIyYyp) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [FARFALLE \(nello stomaco\)](https://open.spotify.com/album/4ammq1UZhwOSpK5nYG6Asu) | 2:40 |
 | 12 | [DIMMI CHE MI VUOI](https://open.spotify.com/track/2K8c3Q6BCsW7xx1j4um4kz) | [Gard](https://open.spotify.com/artist/25p6aXpMXAHmFj2jkukiVo) | [DIMMI CHE MI VUOI](https://open.spotify.com/album/72fqsHsIMKDS586Fk56Oo3) | 3:27 |
-| 13 | [Insieme soli](https://open.spotify.com/track/5brKSCd3u5yKSczITGUKOW) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Frenkie G](https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k) | [Insieme soli](https://open.spotify.com/album/5zWiIA2ZIZdstbl2N6107q) | 2:46 |
+| 13 | [Insieme soli](https://open.spotify.com/track/5brKSCd3u5yKSczITGUKOW) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Frenkie G](https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Insieme soli](https://open.spotify.com/album/5zWiIA2ZIZdstbl2N6107q) | 2:46 |
 | 14 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 |
 | 15 | [SEGRETO](https://open.spotify.com/track/2R92blPwwdZDGYYVXO8lPj) | [plasma](https://open.spotify.com/artist/4ct6fFxYrQCgyveC8ILww4) | [SEGRETO](https://open.spotify.com/album/2xjHYFQj5tVqgtoIjgou3R) | 2:39 |
 | 16 | [Cattive strade](https://open.spotify.com/track/2xk9N1lTxsL1JMw7cdYpkm) | [Michele](https://open.spotify.com/artist/09SugeHwJSpuB2SToMLX5O) | [Cattive strade](https://open.spotify.com/album/4xM8hVxfpRdmMbkMP1esCh) | 2:58 |

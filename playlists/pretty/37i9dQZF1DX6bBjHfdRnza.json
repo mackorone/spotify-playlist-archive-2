@@ -1,13 +1,29 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Osmosis Jones. Curated by human Spotify editors. \n",
-  "num_followers": 211688,
+  "num_followers": 211716,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPadkbq9+dxsRc/SmA8qh3XGpt4z",
+  "snapshot_id": "AAAAANa83zNBWJG6lUCmexPOX0oTS8Zh",
   "tracks": [
+    {
+      "added_at": "2026-04-03 04:02:29",
+      "album": {
+        "name": "TU",
+        "url": "https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI"
+      },
+      "artists": [
+        {
+          "name": "fromclay",
+          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "TU",
+      "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"
+    },
     {
       "added_at": "2026-04-03 04:02:29",
       "album": {
@@ -25,20 +41,164 @@
       "url": "https://open.spotify.com/track/56kEN75zpdmdlprv6VlejQ"
     },
     {
-      "added_at": "2026-04-03 04:02:29",
+      "added_at": "2026-04-08 16:58:31",
       "album": {
-        "name": "TU",
-        "url": "https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI"
+        "name": "wav.",
+        "url": "https://open.spotify.com/album/3ZGHNX5i4aaHmYZgslN4fU"
       },
       "artists": [
         {
-          "name": "fromclay",
-          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+          "name": "Harrison First",
+          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
         }
       ],
-      "duration_ms": 160000,
-      "name": "TU",
-      "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"
+      "duration_ms": 180299,
+      "name": "the benefactor",
+      "url": "https://open.spotify.com/track/53cBYaLXJTXOA9jtSIW6Ka"
+    },
+    {
+      "added_at": "2026-04-01 16:59:55",
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/5Zr1RpCtSSjJSQLvFYJXSb"
+      },
+      "artists": [
+        {
+          "name": "Ontonic",
+          "url": "https://open.spotify.com/artist/2ubj9n9jrEgvG6pbegX06x"
+        }
+      ],
+      "duration_ms": 227527,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6u5uJUkN4Virf2lLxRCcve"
+    },
+    {
+      "added_at": "2026-04-08 16:58:31",
+      "album": {
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/6w4hRBUxJkWg6e4TEtKTOi"
+      },
+      "artists": [
+        {
+          "name": "Juliann",
+          "url": "https://open.spotify.com/artist/4bG9d26SI12e3d3gQkUwJg"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/5ggI0yUk07SOIjgq6URRM8"
+    },
+    {
+      "added_at": "2026-03-18 17:43:09",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
+      },
+      "artists": [
+        {
+          "name": "Ben Van Kuringen",
+          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
+    },
+    {
+      "added_at": "2026-04-08 16:58:31",
+      "album": {
+        "name": "Left Foot Right Foot",
+        "url": "https://open.spotify.com/album/2szB8PZLwss07ai7hy6GMz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gold",
+          "url": "https://open.spotify.com/artist/2AUIc8LBUY3YOJanUGnFoR"
+        }
+      ],
+      "duration_ms": 163004,
+      "name": "Left Foot Right Foot",
+      "url": "https://open.spotify.com/track/4NqzQ8jpz7YmET9fOAlOB1"
+    },
+    {
+      "added_at": "2026-04-08 16:58:31",
+      "album": {
+        "name": "In Love With My 909",
+        "url": "https://open.spotify.com/album/12gHWhgeVPkESG8PlGm98Q"
+      },
+      "artists": [
+        {
+          "name": "Blaise Bracic",
+          "url": "https://open.spotify.com/artist/4r61NJYpoMYek97nrUPfvN"
+        }
+      ],
+      "duration_ms": 169218,
+      "name": "In Love With My 909",
+      "url": "https://open.spotify.com/track/17uV2PyLB4lRGIMnsI3WHy"
+    },
+    {
+      "added_at": "2026-03-13 04:00:43",
+      "album": {
+        "name": "Space Funk",
+        "url": "https://open.spotify.com/album/0Nf43k9YMvQ0mo6A41w1kC"
+      },
+      "artists": [
+        {
+          "name": "Jackyboom",
+          "url": "https://open.spotify.com/artist/4CN3qy1m5QklCe8Sh2HnId"
+        }
+      ],
+      "duration_ms": 170091,
+      "name": "Space Funk",
+      "url": "https://open.spotify.com/track/7kNGpPxG8mGt8KoQGxTJ6O"
+    },
+    {
+      "added_at": "2026-03-18 17:43:09",
+      "album": {
+        "name": "GTFU",
+        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
+      },
+      "artists": [
+        {
+          "name": "Wal",
+          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
+        }
+      ],
+      "duration_ms": 230551,
+      "name": "What Ya Got",
+      "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
+    },
+    {
+      "added_at": "2026-03-20 04:00:52",
+      "album": {
+        "name": "TAKIN PICTURES",
+        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "TAKIN PICTURES",
+      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
+    },
+    {
+      "added_at": "2026-04-08 16:58:31",
+      "album": {
+        "name": "Thru My Mind",
+        "url": "https://open.spotify.com/album/2wn0WWrngnyfe5e0vy0h7D"
+      },
+      "artists": [
+        {
+          "name": "Sensu",
+          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
+        }
+      ],
+      "duration_ms": 151968,
+      "name": "Thru My Mind",
+      "url": "https://open.spotify.com/track/2IOkHMQbAuAxcH6SqCqm1w"
     },
     {
       "added_at": "2026-04-01 16:59:55",
@@ -77,6 +237,70 @@
       "url": "https://open.spotify.com/track/0QfHRJwzVFgNLQwZmMpUfz"
     },
     {
+      "added_at": "2026-04-08 16:58:31",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1qU8qgMwxHt7s4Jj632iaQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "duration_ms": 192096,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/6AcFYx1NCCRn21Kz104Lyv"
+    },
+    {
+      "added_at": "2026-03-25 16:00:36",
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/3jSEJZJVWl7BtoXg1Z0I6t"
+      },
+      "artists": [
+        {
+          "name": "ForgiveMeTommy!",
+          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
+        }
+      ],
+      "duration_ms": 250320,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/4vlSOYbHKPSMF6MuNSUeIR"
+    },
+    {
+      "added_at": "2026-04-08 18:52:53",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/1KmCB3zdqrH4cxI7c3kyTJ"
+      },
+      "artists": [
+        {
+          "name": "KSMBA",
+          "url": "https://open.spotify.com/artist/6Mlg0F6j2vEBt6d4LqGjoS"
+        }
+      ],
+      "duration_ms": 185742,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/66PKx8UjBJtOsZFUytpUns"
+    },
+    {
+      "added_at": "2026-04-08 18:52:53",
+      "album": {
+        "name": "Made Me",
+        "url": "https://open.spotify.com/album/6SKEiX25clMT3ooDbUA7Gd"
+      },
+      "artists": [
+        {
+          "name": "Flaurese",
+          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
+        }
+      ],
+      "duration_ms": 218940,
+      "name": "Made Me",
+      "url": "https://open.spotify.com/track/3N8CZd85wtAaTnhnYtj1kx"
+    },
+    {
       "added_at": "2026-04-01 16:59:55",
       "album": {
         "name": "Grab Me Water",
@@ -99,70 +323,6 @@
       "duration_ms": 205162,
       "name": "Grab Me Water",
       "url": "https://open.spotify.com/track/2aLzIJ1mikuw6xWuynqycG"
-    },
-    {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "Space Funk",
-        "url": "https://open.spotify.com/album/0Nf43k9YMvQ0mo6A41w1kC"
-      },
-      "artists": [
-        {
-          "name": "Jackyboom",
-          "url": "https://open.spotify.com/artist/4CN3qy1m5QklCe8Sh2HnId"
-        }
-      ],
-      "duration_ms": 170091,
-      "name": "Space Funk",
-      "url": "https://open.spotify.com/track/7kNGpPxG8mGt8KoQGxTJ6O"
-    },
-    {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/3jSEJZJVWl7BtoXg1Z0I6t"
-      },
-      "artists": [
-        {
-          "name": "ForgiveMeTommy!",
-          "url": "https://open.spotify.com/artist/55gwBuz7mELCtvJDIVHQOA"
-        }
-      ],
-      "duration_ms": 250320,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/4vlSOYbHKPSMF6MuNSUeIR"
-    },
-    {
-      "added_at": "2026-04-01 16:59:55",
-      "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/5Zr1RpCtSSjJSQLvFYJXSb"
-      },
-      "artists": [
-        {
-          "name": "Ontonic",
-          "url": "https://open.spotify.com/artist/2ubj9n9jrEgvG6pbegX06x"
-        }
-      ],
-      "duration_ms": 227527,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/6u5uJUkN4Virf2lLxRCcve"
-    },
-    {
-      "added_at": "2026-03-20 04:00:52",
-      "album": {
-        "name": "TAKIN PICTURES",
-        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
-      },
-      "artists": [
-        {
-          "name": "MAYV",
-          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "TAKIN PICTURES",
-      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
     },
     {
       "added_at": "2026-04-01 16:59:55",
@@ -195,38 +355,6 @@
       "duration_ms": 232367,
       "name": "Wicked With You",
       "url": "https://open.spotify.com/track/1NUrZluiGCRucIvcjiRMCM"
-    },
-    {
-      "added_at": "2026-03-18 17:43:09",
-      "album": {
-        "name": "GTFU",
-        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
-      },
-      "artists": [
-        {
-          "name": "Wal",
-          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
-        }
-      ],
-      "duration_ms": 230551,
-      "name": "What Ya Got",
-      "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
-    },
-    {
-      "added_at": "2026-03-18 17:43:09",
-      "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
-      },
-      "artists": [
-        {
-          "name": "Ben Van Kuringen",
-          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
     },
     {
       "added_at": "2026-03-18 17:43:09",
@@ -437,22 +565,6 @@
       "url": "https://open.spotify.com/track/5E5U0bpj6Tnkf4qt77UMp1"
     },
     {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "HOT2GETHER",
-        "url": "https://open.spotify.com/album/7bx6e0mDVEojuWgE5R8WbR"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ssous",
-          "url": "https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA"
-        }
-      ],
-      "duration_ms": 227175,
-      "name": "HOT2GETHER",
-      "url": "https://open.spotify.com/track/42xIZe5NvQfivd1DibNP4i"
-    },
-    {
       "added_at": "2026-03-18 17:43:09",
       "album": {
         "name": "Keep It Movin'",
@@ -525,26 +637,6 @@
       "url": "https://open.spotify.com/track/3Y6WpaFCUrNg9fkOCro8Pp"
     },
     {
-      "added_at": "2026-03-05 04:25:05",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/6S19rfBuAOHCkUkk9pYtCv"
-      },
-      "artists": [
-        {
-          "name": "Aures",
-          "url": "https://open.spotify.com/artist/39xkt555pu4TqjWuwdDl3E"
-        },
-        {
-          "name": "NOGE",
-          "url": "https://open.spotify.com/artist/4X6TZPjwVwLKCjLdnRX5NI"
-        }
-      ],
-      "duration_ms": 244965,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4kBK0q8pXP41R1GczinXq9"
-    },
-    {
       "added_at": "2026-03-11 17:10:27",
       "album": {
         "name": "Amor Fati",
@@ -613,26 +705,6 @@
       "url": "https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE"
     },
     {
-      "added_at": "2026-03-05 04:25:05",
-      "album": {
-        "name": "Triple Threat",
-        "url": "https://open.spotify.com/album/5qdvmo829ORMmbvRvHpPN8"
-      },
-      "artists": [
-        {
-          "name": "Lokal",
-          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
-        },
-        {
-          "name": "Fake Two Piece",
-          "url": "https://open.spotify.com/artist/27IFgyXx2g8s6PP7a6LDya"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Triple Threat",
-      "url": "https://open.spotify.com/track/3iBn6LD2StVvA9eMpaab2d"
-    },
-    {
       "added_at": "2026-03-11 17:10:27",
       "album": {
         "name": "CARGO / NOTCH",
@@ -667,38 +739,6 @@
       "duration_ms": 208372,
       "name": "Daddy's Got A Gun",
       "url": "https://open.spotify.com/track/5lTLXjOzbA9MAregavAu0U"
-    },
-    {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "Q Drop EP",
-        "url": "https://open.spotify.com/album/1OBJNFNvqBrNoFk8CQzUP0"
-      },
-      "artists": [
-        {
-          "name": "Mellizos",
-          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Q Drop",
-      "url": "https://open.spotify.com/track/3TsGOcgjhjHWFDVzZK9IY8"
-    },
-    {
-      "added_at": "2026-03-05 04:25:05",
-      "album": {
-        "name": "We Bump",
-        "url": "https://open.spotify.com/album/0dtMXCtB4H96GuzCIpvH6M"
-      },
-      "artists": [
-        {
-          "name": "logeybear",
-          "url": "https://open.spotify.com/artist/2O68UspB1Ei8cR0x8vtSgB"
-        }
-      ],
-      "duration_ms": 211071,
-      "name": "We Bump",
-      "url": "https://open.spotify.com/track/0ycX5qVMMoi6kS4j8Cxcl3"
     },
     {
       "added_at": "2026-03-13 04:00:43",
@@ -997,38 +1037,6 @@
       "url": "https://open.spotify.com/track/5h3PqklN6mnrMYyKOCW2ly"
     },
     {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Bounce 03",
-        "url": "https://open.spotify.com/album/1j9noJqTsXq0vlHOPouLmx"
-      },
-      "artists": [
-        {
-          "name": "3LEEZA",
-          "url": "https://open.spotify.com/artist/7xoexOjio0HiK5aUmPWsjO"
-        }
-      ],
-      "duration_ms": 231382,
-      "name": "Bounce 03",
-      "url": "https://open.spotify.com/track/6x38ulkw93vhg3MEaX9Agy"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Directions EP",
-        "url": "https://open.spotify.com/album/2PJiTaXSMhzfNgka56LnXN"
-      },
-      "artists": [
-        {
-          "name": "FLORENTIA",
-          "url": "https://open.spotify.com/artist/34FR7Jh5TlMsmEVUlHVzmD"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "Directions",
-      "url": "https://open.spotify.com/track/4cFoSG4m7W9rEQEnxeuoyB"
-    },
-    {
       "added_at": "2026-02-06 05:00:44",
       "album": {
         "name": "My Body",
@@ -1059,22 +1067,6 @@
       "duration_ms": 216774,
       "name": "think & dream",
       "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
-    },
-    {
-      "added_at": "2026-01-28 16:55:42",
-      "album": {
-        "name": "Fell So Out",
-        "url": "https://open.spotify.com/album/7kqCL8iWoPfyjx8XheSEur"
-      },
-      "artists": [
-        {
-          "name": "From Dave",
-          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
-        }
-      ],
-      "duration_ms": 173171,
-      "name": "Fell So Out",
-      "url": "https://open.spotify.com/track/1vsA7hZEn4XKdvRkxDz9ov"
     },
     {
       "added_at": "2026-01-15 15:31:15",

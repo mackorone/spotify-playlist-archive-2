@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,711 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,764 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 36 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
 | 37 | [Dancing In The Street](https://open.spotify.com/track/6iJLTnTP6JlqdfVtE3bywO) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Greatest Hits](https://open.spotify.com/album/3FfXp6sziy6wygJglzvzO7) | 2:39 |
 | 38 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- Universal Masters Collection](https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs) | 7:08 |
-| 39 | [Ain't No Sunshine](https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Best Of Bill Withers: Lean On Me](https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e) | 2:03 |
-| 40 | [Smiling Faces Sometimes](https://open.spotify.com/track/1ajJsHKxOwsGYpoFGXe1QL) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb) | 3:15 |
-| 41 | [Hang On In There Baby](https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Soul, Vol\. 1](https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT) | 3:53 |
+| 39 | [Hang On In There Baby](https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Soul, Vol\. 1](https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT) | 3:53 |
+| 40 | [Ain't No Sunshine](https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Best Of Bill Withers: Lean On Me](https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e) | 2:03 |
+| 41 | [Smiling Faces Sometimes](https://open.spotify.com/track/1ajJsHKxOwsGYpoFGXe1QL) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb) | 3:15 |
 | 42 | [Son Of A Preacher Man](https://open.spotify.com/track/4UCIi4gRVUG7x4nFGQiKmo) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Silver Collection](https://open.spotify.com/album/4HpfxzhcJ8a3zoUvLG0R5R) | 2:26 |
 | 43 | [It's Your Thing](https://open.spotify.com/track/6M9LLUNwl8tBZCeWS9nH4c) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Summer Breeze \- The Best Of](https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe) | 2:46 |
 | 44 | [River Deep, Mountain High](https://open.spotify.com/track/3wMqRnny1MIRLuv3tjUJO6) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Proud Mary: The Best Of Ike & Tina Turner](https://open.spotify.com/album/2UCdfQEDgzWtbzpaD4Mo47) | 3:27 |

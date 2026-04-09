@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 
 > This is Victor Ray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,831 likes - 18 songs - 57 min 41 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,835 likes - 18 songs - 57 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 | 17 | [Like The Moon](https://open.spotify.com/track/38UHOSV8sYkMCGM8wPo7Eq) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 2:57 |
 | 18 | [A Little Less Lonely](https://open.spotify.com/track/1bgIZITln5cavD4ucPMXYL) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 3:16 |
 
-Snapshot ID: `adL3gAAAAADjBm57ARWH8gr6tGMqNfG2`
+Snapshot ID: `adRJAAAAAAAsi9Ef/6QekHdyyNEndQMz`

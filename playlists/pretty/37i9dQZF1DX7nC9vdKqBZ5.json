@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1507475,
+  "num_followers": 1507420,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
       },
       "artists": [
         {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
         }
       ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
+      "duration_ms": 214613,
+      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
-        "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
       },
       "artists": [
         {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 196347,
-      "name": "C\u00e9u Azul (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "O Sol",
         "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 209000,
       "name": "O Sol",
       "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 196347,
+      "name": "C\u00e9u Azul (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1403,6 +1403,26 @@
       "duration_ms": 184267,
       "name": "Fica",
       "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Alto Mar (Sessions)",
+        "url": "https://open.spotify.com/album/1WM4nNIbeBe9hzYecKlMA9"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 200658,
+      "name": "Alto Mar - Sessions",
+      "url": "https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1435,26 +1455,6 @@
       "duration_ms": 148669,
       "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/3kMHVWe0BSWGVByMeYKAHu"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Alto Mar (Sessions)",
-        "url": "https://open.spotify.com/album/1WM4nNIbeBe9hzYecKlMA9"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 200658,
-      "name": "Alto Mar - Sessions",
-      "url": "https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Morena (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Morena (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
         "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 191839,
       "name": "Certeza - Ao Vivo",
       "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Morena (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Morena (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
     },
     {
       "added_at": "2024-08-02 18:37:00",

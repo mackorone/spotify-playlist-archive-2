@@ -1,13 +1,109 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT?si=X2KwqcXsSfO_VQgT3Qxn7w\">Devin Tracy</a>. Updates every Wednesday.",
-  "num_followers": 279486,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe?si=Kv7lyJUvTb61i7XZSH8h9w\">Khal!l</a>. Updates every Wednesday.",
+  "num_followers": 279530,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKh0XTcOESqejTIjSGOZJINR4bhb",
+  "snapshot_id": "AAAAAD+LkHNpT5Md6Vk8M0B90LxkND5R",
   "tracks": [
+    {
+      "added_at": "2026-04-08 17:00:32",
+      "album": {
+        "name": "THE DANGER",
+        "url": "https://open.spotify.com/album/457TT3OqecApiXp4S5MdUY"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 119500,
+      "name": "THE DANGER",
+      "url": "https://open.spotify.com/track/2tuUWtr4zhmkFy2C8vViv0"
+    },
+    {
+      "added_at": "2026-04-08 17:00:32",
+      "album": {
+        "name": "LUber",
+        "url": "https://open.spotify.com/album/5S6j5rGzzXNZDiXViRQcEE"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "LUber",
+      "url": "https://open.spotify.com/track/08xEJQb6PB0vxxEpdlhT0o"
+    },
+    {
+      "added_at": "2026-04-08 17:00:32",
+      "album": {
+        "name": "At Least She's Beautiful",
+        "url": "https://open.spotify.com/album/1vf84Ai74VCCS3PGiKiHVT"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "At Least She's Beautiful",
+      "url": "https://open.spotify.com/track/4jvRnPkFE4752PQjZH2dlu"
+    },
+    {
+      "added_at": "2026-04-08 17:00:32",
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 153654,
+      "name": "S.I.M.P.L.E",
+      "url": "https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb"
+    },
+    {
+      "added_at": "2026-04-08 17:00:32",
+      "album": {
+        "name": "The One That Got Away",
+        "url": "https://open.spotify.com/album/5qe53xZhWuWx2b7Zi0xYol"
+      },
+      "artists": [
+        {
+          "name": "CHOSZN",
+          "url": "https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK"
+        }
+      ],
+      "duration_ms": 200378,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/3E3COGPE9pEbBAa2YnQsRX"
+    },
+    {
+      "added_at": "2026-04-08 17:00:32",
+      "album": {
+        "name": "Whatever You Say",
+        "url": "https://open.spotify.com/album/64l64OHzNypKGH2jFDiqEN"
+      },
+      "artists": [
+        {
+          "name": "Allyn",
+          "url": "https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3"
+        }
+      ],
+      "duration_ms": 152957,
+      "name": "Whatever You Say",
+      "url": "https://open.spotify.com/track/1vu2iA2jtTXeKDe6ZreanQ"
+    },
     {
       "added_at": "2026-04-01 16:33:50",
       "album": {
@@ -979,22 +1075,6 @@
       "duration_ms": 198894,
       "name": "Waiting For You (feat. Reggie Dartey)",
       "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
-    },
-    {
-      "added_at": "2026-02-01 04:54:13",
-      "album": {
-        "name": "White Flag",
-        "url": "https://open.spotify.com/album/4I3eWUXAc2jS6a3ZiORnRn"
-      },
-      "artists": [
-        {
-          "name": "Lee Lewis",
-          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
-        }
-      ],
-      "duration_ms": 196510,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/15ogUxj5nlIwXqq6h54fiH"
     },
     {
       "added_at": "2026-02-01 04:54:13",

@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 한로로\(HANRORO\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,308 songs - 3 day 7 hr 4 min
+1,310 songs - 3 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Daydreamer](https://open.spotify.com/track/3SFEmtI1gkOoIwe2zPeSsU) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Daydreamer](https://open.spotify.com/album/1OQAB8ZQaN5d7xpkxkH8C7) | 4:30 | 2025-01-30 | 2025-04-11 |
 | [DDDD!](https://open.spotify.com/track/7uP6YcBFEsOMf7CxuqrjPh) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [DDDD!](https://open.spotify.com/album/0RUSetshoG0y6QABMEzLJw) | 4:58 | 2025-09-02 | 2025-10-10 |
 | [Dead end street](https://open.spotify.com/track/493DKBNm3txw82eK4E9u95) | [Leebull Kim](https://open.spotify.com/artist/2hgrTOhZ18zSBEMbiQldoB) | [Dead end street](https://open.spotify.com/album/7FWqnSK5Qm0wA2Jt0gDMEi) | 4:22 | 2021-12-21 | 2022-04-22 |
-| [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 | 2026-02-25 |  |
+| [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 | 2026-02-25 | 2026-04-09 |
 | [dear \- monstera ver.](https://open.spotify.com/track/67tqFgcYqw6eIcrkf9wN3E) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [dear \(monstera ver.\)](https://open.spotify.com/album/1n7j1w0rcDrbiQnKnBGmws) | 3:57 | 2025-10-30 | 2025-11-29 |
 | [dear ari](https://open.spotify.com/track/2DdGj1EfEHM6nPn85yNXsx) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 2:19 | 2025-06-27 | 2025-09-12 |
 | [Dear Day](https://open.spotify.com/track/0AHPzmxZ6NH1PRpDLlXnyo) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Dear Day](https://open.spotify.com/album/5tc2pEYvxlIXiShZkKyLd8) | 2:57 | 2025-07-22 | 2025-07-24 |
@@ -335,6 +335,7 @@
 | [Failure story](https://open.spotify.com/track/1uPOeYYJW6uI4BSCSPjsM1) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Flex](https://open.spotify.com/album/0xZT3BXMksrqFn0oKO33Qq) | 3:33 | 2022-01-27 | 2022-06-30 |
 | [FALL](https://open.spotify.com/track/6vUrSRRrSAcTUZMbGyds1C) | [DWIGON](https://open.spotify.com/artist/43IGet85Estmbg7gKpsOJa) | [All the Month I spent with you : OCTOBER](https://open.spotify.com/album/4DoGu8sHkPjfynT0GSA1wc) | 4:01 | 2022-03-31 | 2022-04-18 |
 | [fall apart](https://open.spotify.com/track/4jAVpxfvPYN09k2uzax9DS) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [on and on](https://open.spotify.com/album/1zaYXYzPbFzUrQHl7APGZY) | 2:15 | 2024-11-20 | 2025-01-31 |
+| [Fall Into The Sky](https://open.spotify.com/track/13e8aevTarVIQWjcvHvoYq) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Fall Into The Sky](https://open.spotify.com/album/2rRWNBAA284jBTCloAeemh) | 3:50 | 2026-04-08 |  |
 | [Fallin'](https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Fallin'](https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8) | 3:16 | 2025-06-05 | 2025-07-11 |
 | [Fallin'](https://open.spotify.com/track/1HshcipCZ4rEiNfKckNShW) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [Modern, Mild](https://open.spotify.com/album/2pEKX0SvaeJ289AtEEieL9) | 3:11 | 2021-12-12 | 2022-07-27 |
 | [Falling](https://open.spotify.com/track/67mNsloLtulun2pLmuh42B) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Falling](https://open.spotify.com/album/4JyOtpXsV3MX5eBLGjAE68) | 3:38 | 2025-08-07 | 2025-09-06 |
@@ -349,7 +350,7 @@
 | [Fine](https://open.spotify.com/track/6VVNdVTR3akq26mrvlEUQJ) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [Fine](https://open.spotify.com/album/6KXd8ZKlGFulveeHsOH5cX) | 2:57 | 2022-03-31 | 2022-04-13 |
 | [FINE](https://open.spotify.com/track/1HP9RKXLLbanlco3KB0QsN) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [FINE](https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks) | 2:37 | 2022-07-08 | 2022-08-09 |
 | [Fire](https://open.spotify.com/track/0h1KusfiDFqqWhHNPcKn0V) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [Two Faces](https://open.spotify.com/album/1xtsl99YsUY2QBbMIRQqzC) | 5:00 | 2022-12-21 | 2023-01-05 |
-| [firefly](https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [firefly](https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf) | 4:29 | 2026-02-16 |  |
+| [firefly](https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [firefly](https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf) | 4:29 | 2026-02-16 | 2026-04-09 |
 | [First Night](https://open.spotify.com/track/1gxhjVlAXCUlLqP0lw1TIH) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [First Night](https://open.spotify.com/album/4ALF5JtHvUpEYRjgTsG9jM) | 3:36 | 2025-01-09 | 2025-03-15 |
 | [First Sight](https://open.spotify.com/track/5hQRt83sxBT4nNHF8ux8iQ) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/6zQpQHGZZA6OZcF1meqpUI) | 3:33 | 2025-07-10 | 2025-07-23 |
 | [First Time](https://open.spotify.com/track/1w8eS94wSGqXJxbXWsmuig) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:39 | 2022-03-31 | 2022-04-16 |
@@ -841,6 +842,7 @@
 | [Pieces of You](https://open.spotify.com/track/2jpe84i9oCt3ADO87rwuKu) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Pieces of You](https://open.spotify.com/album/5esntY1qMQj4JEfadP5aIX) | 3:36 | 2026-02-09 | 2026-03-30 |
 | [Piscis](https://open.spotify.com/track/3Mp0lsOnz9Srf6zW3EntnF) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [The Oddscape](https://open.spotify.com/album/7wfohCLnRXfhaZUXIOstum) | 4:05 | 2024-11-29 | 2025-01-31 |
 | [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 | 2025-05-28 | 2025-06-14 |
+| [PLAN A](https://open.spotify.com/track/6k1CqsKG53lBKrRfrcMm6l) | [JongYeon](https://open.spotify.com/artist/20dobUAxxreg2p8Rqn13aT) | [PLAN A](https://open.spotify.com/album/6RCdgxtpxkbCZRwzBIEKdu) | 5:03 | 2026-04-08 |  |
 | [Play With Me!](https://open.spotify.com/track/4CmF4iIoV7Wafddq0M0Ni7) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Play With Me!](https://open.spotify.com/album/1LAmZS4Qhapw80O54zH8Ib) | 3:55 | 2022-03-09 | 2022-04-03 |
 | [Player 1](https://open.spotify.com/track/6go0riAOZ7nZyDPpRjZ53N) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Player 1](https://open.spotify.com/album/0UyEaKpAyUP09apb6Rmb3G) | 3:38 | 2025-07-29 | 2025-09-23 |
 | [Playing Guitar 기타를 치며](https://open.spotify.com/track/2orUiubkXn0WUhosdNvKIr) | [Mineri](https://open.spotify.com/artist/248cYeF1SitJc42qGZ8QUi) | [Playing Guitar 기타를 치며](https://open.spotify.com/album/6YmxeaHHfdWGOeH64rW6zN) | 3:33 | 2022-03-31 | 2022-04-05 |

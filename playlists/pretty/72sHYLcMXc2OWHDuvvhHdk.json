@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAKVgwih/ji3SxaEm/WcWCvWK06jSGy",
+  "snapshot_id": "AAAKWMQkHC6HcztkKZ/v9mjpB+Uznpyl",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -41367,6 +41367,38 @@
       "duration_ms": 214719,
       "name": "Back Off",
       "url": "https://open.spotify.com/track/2bQgelNCpFZjqEqXrQQsXr"
+    },
+    {
+      "added_at": "2026-04-08 18:43:43",
+      "album": {
+        "name": "Lmk",
+        "url": "https://open.spotify.com/album/3eHGoySyjka90SmBKOWiIL"
+      },
+      "artists": [
+        {
+          "name": "Juan Tamales",
+          "url": "https://open.spotify.com/artist/2nuUPviqbuKmJlYVxvq0PT"
+        }
+      ],
+      "duration_ms": 180096,
+      "name": "Lmk",
+      "url": "https://open.spotify.com/track/1fI1fxzmGHs7PnSF0iDHhH"
+    },
+    {
+      "added_at": "2026-04-08 18:51:21",
+      "album": {
+        "name": "Barefoot",
+        "url": "https://open.spotify.com/album/2z2LWb5kJqtUASMgmnAbAv"
+      },
+      "artists": [
+        {
+          "name": "Draig",
+          "url": "https://open.spotify.com/artist/3bPNs4WxtWGGaWGY9HSFLR"
+        }
+      ],
+      "duration_ms": 156544,
+      "name": "Out There Alone",
+      "url": "https://open.spotify.com/track/3fsvOPJlvhPoUo0IqFmk4S"
     }
   ],
   "unique_name": "Cruise Music",

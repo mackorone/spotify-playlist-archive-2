@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-116 songs - 6 hr 44 min
+118 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cherry Lipgloss](https://open.spotify.com/track/2RFrSB9j4Bijrz4YWiZWM3) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [SHY2K](https://open.spotify.com/album/5idFFAYK8aZ15scmZFtk9n) | 2:03 | 2025-11-17 | 2025-12-07 |
 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 | 2025-11-19 | 2025-12-13 |
 | [Colors](https://open.spotify.com/track/7kCVr4F8BZF1FqRvCRoZrN) | [LOVEBOYI](https://open.spotify.com/artist/67alZX1HqejXZ8D1osWKVb) | [BITE ME](https://open.spotify.com/album/3VEDv1sWPxO4FJn2Kv8W75) | 3:16 | 2026-02-05 | 2026-02-27 |
+| [Copies](https://open.spotify.com/track/3ZfXF6vUNS9229TSoNXUCA) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Destroying Is Easy](https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w) | 4:55 | 2026-04-08 |  |
 | [Crash Out](https://open.spotify.com/track/3kVUVbCU7gVR6EQU0BCT9v) | [Scilence](https://open.spotify.com/artist/2TXsHSIhrbcGHL0sWUzdnp) | [Crash Out](https://open.spotify.com/album/1JbvNRdQMbIdaOOyTwF3oA) | 4:12 | 2026-01-25 | 2026-02-22 |
 | [Dakota](https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Language.Sex.Violence.Other?](https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP) | 4:57 | 2021-03-29 |  |
 | [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 | 2025-12-08 | 2025-12-28 |
@@ -80,6 +81,7 @@
 | [Ocean](https://open.spotify.com/track/2bFyGEUX5XbrvR7a0xb8kg) | [S\. Lithgow](https://open.spotify.com/artist/5KAF3JLJzJ6Wz290F7yzYE) | [Ocean](https://open.spotify.com/album/6k6Mm0cN1KMKYAam21oTQc) | 4:43 | 2026-02-19 | 2026-03-06 |
 | [Only You](https://open.spotify.com/track/3B6AKdVGauMT11fwUWJ8Ga) | [Kaðlín](https://open.spotify.com/artist/30QneQaLsKZZ5pLoRNg1TZ) | [Only You](https://open.spotify.com/album/6Lly4v5CpIs8zsDxS1iqlk) | 1:02 | 2025-12-01 | 2025-12-13 |
 | [Open Mind \- Radio Edit](https://open.spotify.com/track/1Th8P3kgdtBbjkrkUmLRfY) | [Pol Sembrano](https://open.spotify.com/artist/5n6eyDpDiKTKxG9BTPAC00) | [Open Mind \(Radio Edit\)](https://open.spotify.com/album/6sMLueYKYIsJE6aa5JBvVh) | 3:40 | 2025-12-29 | 2026-01-29 |
+| [Pancakes](https://open.spotify.com/track/5BRqccEaTPHXI0zAzp8Hqr) | [Sunday Lemonade](https://open.spotify.com/artist/7fTdpGoJdp9BPY5Mdo82vj) | [Pancakes](https://open.spotify.com/album/2rwC62yt7guLH8WAMGqNeg) | 4:02 | 2026-04-08 |  |
 | [Panorama](https://open.spotify.com/track/2ujuuoIQYTGRuHi21rHsq4) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Rotation](https://open.spotify.com/album/28RHd7GLjkq20xYnll14Sf) | 2:48 | 2025-10-13 |  |
 | [People Run Dry](https://open.spotify.com/track/66lBvRguoKVNAIBymIP17G) | [Vinther](https://open.spotify.com/artist/5T6gYcFjSGU9batnL7c4LA) | [People Run Dry](https://open.spotify.com/album/05EJHnYqtEVjtoK9oMkcKe) | 3:13 | 2025-12-09 | 2025-12-28 |
 | [People's Game \- Riky Dainesi Remix](https://open.spotify.com/track/3cM78eVwhptGKn4fZYJzaC) | [B3NNY R](https://open.spotify.com/artist/746FzmylKASljW5r63AKkP), [Riky Dainesi](https://open.spotify.com/artist/0PaqLD8MGoPEYcdJL0sB0L) | [People's Game \(Riky Dainesi Remix\)](https://open.spotify.com/album/7eb9XnMUrBLmj4qJETUJhu) | 3:15 | 2026-04-01 |  |

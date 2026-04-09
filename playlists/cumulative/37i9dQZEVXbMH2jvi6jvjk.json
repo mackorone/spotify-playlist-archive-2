@@ -3196,7 +3196,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 246449,
       "name": "AmaRider",
       "url": "https://open.spotify.com/track/1eXAX85fhHNygLTnnA49Dp"
@@ -5019,12 +5019,12 @@
         },
         {
           "name": "Thobani White",
-          "url": "https://open.spotify.com/artist/6d55WqAPu5RQ3HDxdYsPwo"
+          "url": "https://open.spotify.com/artist/49u46uLKW37rLZJDS06Rrg"
         }
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 292897,
       "name": "Baba Yilwa",
       "url": "https://open.spotify.com/track/7CbWbPUUmRYBI0uio0Bc7L"
@@ -6942,7 +6942,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 358008,
       "name": "Bengicela (feat. JAZZWRLD)",
       "url": "https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx"
@@ -7110,6 +7110,44 @@
       "duration_ms": 84395,
       "name": "BETTER NOW INTERLUDE",
       "url": "https://open.spotify.com/track/10Cnsm4CZl9shbj5jU32As"
+    },
+    {
+      "album": {
+        "name": "Bha Bha (feat. Colkaze & Ashley Shane)",
+        "url": "https://open.spotify.com/album/10FaphaP0mENadwExVvARL"
+      },
+      "artists": [
+        {
+          "name": "Seeyah",
+          "url": "https://open.spotify.com/artist/1ScheniypyvqpRJLWWYX15"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Senzo02",
+          "url": "https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ"
+        },
+        {
+          "name": "Dj Cozyy",
+          "url": "https://open.spotify.com/artist/0AWAA2SrVcH1inudHCUA8K"
+        },
+        {
+          "name": "Colkaze",
+          "url": "https://open.spotify.com/artist/3f6UNjHAy4DiEtL0sWLZqq"
+        },
+        {
+          "name": "Ashley Shane",
+          "url": "https://open.spotify.com/artist/36Kcj1slpJrPQzrAbBoJR2"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361178,
+      "name": "Bha Bha (feat. Colkaze & Ashley Shane)",
+      "url": "https://open.spotify.com/track/7KtTerLyAmNlIcnXteqF9N"
     },
     {
       "album": {
@@ -7964,7 +8002,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-02",
+      "date_removed": null,
       "duration_ms": 206315,
       "name": "Blueberry Skies",
       "url": "https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6"
@@ -23083,6 +23121,24 @@
     },
     {
       "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "album": {
         "name": "iMali",
         "url": "https://open.spotify.com/album/6ggoVHjrshZtOhuEpHjOXN"
       },
@@ -23278,7 +23334,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 276688,
       "name": "Imizamo Yami - Part 1",
       "url": "https://open.spotify.com/track/1jVyOMXhcoMOKxZaOjLIS2"
@@ -24196,7 +24252,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 218443,
       "name": "Inomnikazi (feat. Thembani)",
       "url": "https://open.spotify.com/track/7AihPCGkjTBJWsbPxYv0Ga"
@@ -28577,6 +28633,28 @@
     },
     {
       "album": {
+        "name": "Izethembiso",
+        "url": "https://open.spotify.com/album/2I7wr8XqNpmfMFPRzLL5eT"
+      },
+      "artists": [
+        {
+          "name": "Umlabalaba",
+          "url": "https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY"
+        },
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295706,
+      "name": "Kwelemcabango",
+      "url": "https://open.spotify.com/track/6AzZJCKaFwF0HziGm8iDr9"
+    },
+    {
+      "album": {
         "name": "Kwelinye (feat. Keynote)",
         "url": "https://open.spotify.com/album/24TZ4ZmMcYuc5MllwlSPmr"
       },
@@ -31342,7 +31420,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 395493,
       "name": "Lutho (feat. De Rose)",
       "url": "https://open.spotify.com/track/54gOExDYI4WmDlwQaygLDp"
@@ -36035,6 +36113,32 @@
     },
     {
       "album": {
+        "name": "Nam Angeke",
+        "url": "https://open.spotify.com/album/4WGQK6EvgEUa8vGP8RcwCt"
+      },
+      "artists": [
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Sami'Kay",
+          "url": "https://open.spotify.com/artist/7zlPsI1JA3iBmLOZIlLRQ7"
+        },
+        {
+          "name": "MSA",
+          "url": "https://open.spotify.com/artist/4BH1zvz8ZEu7RqwaY5ygkI"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256313,
+      "name": "Nam Angeke",
+      "url": "https://open.spotify.com/track/4RLmqf3MOWLJZRwuip6Xgc"
+    },
+    {
+      "album": {
         "name": "The Konka Mixtape : Sweet & Dust",
         "url": "https://open.spotify.com/album/0mXnuIDflZg2NIyCmT5y9f"
       },
@@ -37856,7 +37960,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 412035,
       "name": "Ngyozama (feat. Sykes, Young Stunna, Nkosazana Daughter, Tracy & Thatohatsi)",
       "url": "https://open.spotify.com/track/30jHPgouy6TBqiykdGwbOe"
@@ -39636,7 +39740,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -46066,7 +46170,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 258324,
       "name": "Sengithole Omunye",
       "url": "https://open.spotify.com/track/46rac4X07nXvGTPezZKMSu"
@@ -56913,6 +57017,32 @@
     },
     {
       "album": {
+        "name": "Love & RnB",
+        "url": "https://open.spotify.com/album/0n3fDeRoKuCPqlQc8iTHPI"
+      },
+      "artists": [
+        {
+          "name": "High_Rising_MJ",
+          "url": "https://open.spotify.com/artist/3lrsxMIdN3ovDQVXIkFozq"
+        },
+        {
+          "name": "Ovuyonke",
+          "url": "https://open.spotify.com/artist/1PUJY8Y2zROwux5qnaGb9O"
+        },
+        {
+          "name": "Dusse wavy",
+          "url": "https://open.spotify.com/artist/2RE980wJCfjFzi4G31x4WZ"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217820,
+      "name": "uThando",
+      "url": "https://open.spotify.com/track/7pvU9jLGMQwQybI12nBVc4"
+    },
+    {
+      "album": {
         "name": "Kurhula",
         "url": "https://open.spotify.com/album/13msT9b5VOsDENyqMX7V1c"
       },
@@ -57766,7 +57896,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 374237,
       "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
       "url": "https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl"

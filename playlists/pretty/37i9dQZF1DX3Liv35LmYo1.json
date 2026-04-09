@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 2198,
+  "num_followers": 2203,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Minoxidil Life crisis",
+        "url": "https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wright",
+          "url": "https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7"
+        }
+      ],
+      "duration_ms": 314504,
+      "name": "Minoxidil Life crisis",
+      "url": "https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "'I Wanted More' EP",
         "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 333694,
       "name": "I Wanted More",
       "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5"
-      },
-      "artists": [
-        {
-          "name": "Polito",
-          "url": "https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO"
-        }
-      ],
-      "duration_ms": 220743,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Minoxidil Life crisis",
-        "url": "https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3"
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5"
       },
       "artists": [
         {
-          "name": "Morgan Wright",
-          "url": "https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7"
+          "name": "Polito",
+          "url": "https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO"
         }
       ],
-      "duration_ms": 314504,
-      "name": "Minoxidil Life crisis",
-      "url": "https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha"
+      "duration_ms": 220743,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC"
     },
     {
       "added_at": "2023-08-31 14:00:00",

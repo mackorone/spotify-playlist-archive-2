@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Haute & Freddy
 
-569 songs - 1 day 6 hr 55 min
+570 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [cut my fingers off](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [cut my fingers off](https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo) | 2:19 | 2022-05-17 | 2023-01-14 |
 | [Cut The Cloth, Didn't I](https://open.spotify.com/track/3W8OGQbgnuOc1x1lu3WkEo) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Cut The Cloth, Didn't I](https://open.spotify.com/album/4xOT2TCqRaeUSXSgSQhplY) | 2:37 | 2025-03-21 | 2025-05-17 |
 | [DA DA DA](https://open.spotify.com/track/0edVUyI6gmCfm4Ka6YxSDt) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [DA DA DA](https://open.spotify.com/album/6BqQ0NgA85BDf5lNtXoXob) | 2:18 | 2025-04-25 | 2025-08-18 |
-| [Dance The Pain Away](https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Dance The Pain Away](https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC) | 3:39 | 2026-01-09 |  |
+| [Dance The Pain Away](https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Dance The Pain Away](https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC) | 3:39 | 2026-01-09 | 2026-04-09 |
 | [Dangerous](https://open.spotify.com/track/2sxpbOUUSzRrms8vSZwxvo) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [TROY](https://open.spotify.com/artist/72rBhryT48xN1YJ1ygEWrj), [Diana Rivera\-Herrans](https://open.spotify.com/artist/642h5sVW7rt43WPfEHkL1k) | [EPIC: The Vengeance Saga \(Official Concept Album\)](https://open.spotify.com/album/5P7YyqqjHuq7mSLqIY06jE) | 3:24 | 2025-05-23 | 2025-11-15 |
 | [Danke Schoen](https://open.spotify.com/track/0udPmR2HQO8iaCMqF6rrIL) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/1kwJPORCIZEZ57iE9mziXZ) | 2:38 | 2023-02-02 | 2023-02-05 |
 | [Danke Schoen](https://open.spotify.com/track/4uq0JdZB0O52Zw3OHl3O1n) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/3aDnLvCqgLNPDY3Jk3hI71) | 2:38 | 2023-02-02 | 2023-06-28 |
@@ -439,6 +439,7 @@
 | [She Wants Me \(To Be Loved\)](https://open.spotify.com/track/1yS9wpv8GW2c8tHC7P85JJ) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:19 | 2022-10-21 | 2023-02-17 |
 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-02-23 | 2024-03-23 |
 | [Should've Been Me](https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:11 | 2022-05-17 | 2023-09-23 |
+| [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 | 2026-04-08 |  |
 | [Shy Girl](https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Shy Girl](https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5) | 3:07 | 2025-05-16 | 2025-09-20 |
 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 | 2025-04-04 | 2026-02-28 |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-27 | 2024-10-26 |

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM?si=fa9ggMqLQ\_S9bS7Jgca\_lQ">Hildah Watiri</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1lmt7WTILm10srwXjf4F0M?si=CdlP0hN1TQypn2M3FKRUpw">Phany Love</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,018 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,033 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fall](https://open.spotify.com/track/4vTj1RvJpxFu6QHRchAcQx) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM) | [Fall](https://open.spotify.com/album/3farOkHVZOUHuUuDHGDsAZ) | 3:09 |
-| 2 | [Huyu](https://open.spotify.com/track/5JAzcszRsbRkoL3nTccHCN) | [Phany Love](https://open.spotify.com/artist/1lmt7WTILm10srwXjf4F0M) | [Huyu](https://open.spotify.com/album/1SdpIxkVgnlZCOjSIa8rPK) | 2:23 |
+| 1 | [Huyu](https://open.spotify.com/track/5JAzcszRsbRkoL3nTccHCN) | [Phany Love](https://open.spotify.com/artist/1lmt7WTILm10srwXjf4F0M) | [Huyu](https://open.spotify.com/album/1SdpIxkVgnlZCOjSIa8rPK) | 2:23 |
+| 2 | [Fall](https://open.spotify.com/track/4vTj1RvJpxFu6QHRchAcQx) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM) | [Fall](https://open.spotify.com/album/3farOkHVZOUHuUuDHGDsAZ) | 3:09 |
 | 3 | [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 |
 | 4 | [Nipende](https://open.spotify.com/track/1E7zvR5rjAQ8iXUzusdjZl) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 5:15 |
 | 5 | [Kunsi](https://open.spotify.com/track/1xzH5d9JY29iODeluAJI3c) | [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Kunsi](https://open.spotify.com/album/1vLg88ntF2JvhGajvYGJEx) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [FOMO](https://open.spotify.com/track/377eS1e6iGiDVqOXQbYVXN) | [Africanvic](https://open.spotify.com/artist/49TbpwxzixxceH2mXHXkby) | [FOMO](https://open.spotify.com/album/0v3H537LWodCKDdkFqBpek) | 2:57 |
 | 50 | [Sneaky Link](https://open.spotify.com/track/3YDt11AUb5rwwbrLcygGag) | [Brokuod](https://open.spotify.com/artist/6uYPGiuDI0H0SFB9FbJxHk) | [Sneaky Link](https://open.spotify.com/album/5cXKp2GlZYjrB1uzeU1JYA) | 3:00 |
 
-Snapshot ID: `AAAAACmJIzNTnocXTVnhGeVLTMiS0kiA`
+Snapshot ID: `AAAAAD+iGWHoaBCVlJ1DZak5t8jk/N3d`

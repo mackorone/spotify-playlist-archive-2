@@ -1,6 +1,6 @@
 {
   "description": "Start you day with God and let these songs set you up to have a GOoD morning! ",
-  "num_followers": 122145,
+  "num_followers": 122168,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-03-23 15:10:13",
       "album": {
-        "name": "Be Glad (Live)",
-        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 533500,
-      "name": "Be Glad - Live",
-      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
-    },
-    {
-      "added_at": "2026-03-23 15:10:13",
-      "album": {
         "name": "Brand New (feat. Terrian)",
         "url": "https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ"
       },
@@ -579,22 +563,18 @@
     {
       "added_at": "2026-03-23 15:10:13",
       "album": {
-        "name": "Monday Morning Faith (Acoustic)",
-        "url": "https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi"
+        "name": "Be Glad (Live)",
+        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Chelsea Plank",
-          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 338493,
-      "name": "Monday Morning Faith - Acoustic",
-      "url": "https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z"
+      "duration_ms": 533500,
+      "name": "Be Glad - Live",
+      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
     },
     {
       "added_at": "2026-03-23 15:10:13",
@@ -611,6 +591,26 @@
       "duration_ms": 207969,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP"
+    },
+    {
+      "added_at": "2026-03-23 15:10:13",
+      "album": {
+        "name": "Monday Morning Faith (Acoustic)",
+        "url": "https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        }
+      ],
+      "duration_ms": 338493,
+      "name": "Monday Morning Faith - Acoustic",
+      "url": "https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z"
     },
     {
       "added_at": "2026-03-23 15:10:13",

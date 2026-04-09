@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Excede o Entendimento (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr"
+      },
+      "artists": [
+        {
+          "name": "Lis Avancini",
+          "url": "https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224556,
+      "name": "Excede o Entendimento - Ao Vivo",
+      "url": "https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr"
+    },
+    {
+      "album": {
         "name": "Deixa-Te Modelar",
         "url": "https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq"
       },

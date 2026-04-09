@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 20297,
+  "num_followers": 20303,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2026-04-07 05:36:00",
       "album": {
+        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        },
+        {
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Luv Luv Luv",
+      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
+    },
+    {
+      "added_at": "2026-04-07 05:36:00",
+      "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.10",
         "url": "https://open.spotify.com/album/54gULZ4uWxUIqt8Ehj2wAf"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 220506,
       "name": "FRR",
       "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
-    },
-    {
-      "added_at": "2026-04-07 05:36:00",
-      "album": {
-        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        },
-        {
-          "name": "SUNG HAN BIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Luv Luv Luv",
-      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
     },
     {
       "added_at": "2026-04-07 05:36:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-04-07 05:36:00",
       "album": {
-        "name": "bimil:ier vol.1 \"so this is love\"",
-        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 203425,
-      "name": "so this is love",
-      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
-    },
-    {
-      "added_at": "2026-04-07 05:36:00",
-      "album": {
         "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 237030,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
+    },
+    {
+      "added_at": "2026-04-07 05:36:00",
+      "album": {
+        "name": "bimil:ier vol.1 \"so this is love\"",
+        "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 203425,
+      "name": "so this is love",
+      "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
     },
     {
       "added_at": "2026-04-07 05:36:00",
@@ -615,6 +615,30 @@
     {
       "added_at": "2026-04-07 05:36:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
+    },
+    {
+      "added_at": "2026-04-07 05:36:00",
+      "album": {
         "name": "TRUST ME",
         "url": "https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL"
       },
@@ -627,22 +651,6 @@
       "duration_ms": 172306,
       "name": "LA SOL MI",
       "url": "https://open.spotify.com/track/5dAsiF46QiGmW9BEc2kIYl"
-    },
-    {
-      "added_at": "2026-04-07 05:36:00",
-      "album": {
-        "name": "Jay Park Season 1",
-        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219742,
-      "name": "Your/My",
-      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
       "added_at": "2026-04-07 05:36:00",
@@ -695,6 +703,22 @@
     {
       "added_at": "2026-04-07 05:36:00",
       "album": {
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
+    },
+    {
+      "added_at": "2026-04-07 05:36:00",
+      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -707,30 +731,6 @@
       "duration_ms": 164253,
       "name": "Don't wanna leave tonight",
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
-    },
-    {
-      "added_at": "2026-04-07 05:36:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2026-04-07 05:36:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-04-07 05:36:00",
       "album": {
-        "name": "Our Universe (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I"
-      },
-      "artists": [
-        {
-          "name": "Hayoung Song",
-          "url": "https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Give U the Universe",
-      "url": "https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4"
-    },
-    {
-      "added_at": "2026-04-07 05:36:00",
-      "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 212093,
       "name": "Pit a Pat",
       "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
+    },
+    {
+      "added_at": "2026-04-07 05:36:00",
+      "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I"
+      },
+      "artists": [
+        {
+          "name": "Hayoung Song",
+          "url": "https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Give U the Universe",
+      "url": "https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4"
     },
     {
       "added_at": "2026-04-07 05:36:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Solecito, alberquita, unas miches, y música nueva para disfrutar de las vacaciones! 🏖️🥵 Sofía Reyes en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159,681 likes - 54 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159,655 likes - 54 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

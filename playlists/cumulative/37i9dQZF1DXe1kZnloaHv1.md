@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-145 songs - 7 hr 50 min
+147 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [0%](https://open.spotify.com/track/0icOs4M7c2T5bcXJhkugww) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Observe](https://open.spotify.com/album/07IjUwHMGJZvlWafbHg6Sm) | 3:16 | 2025-04-16 |  |
 | [30](https://open.spotify.com/track/63PTI4RY0rVOA6qbNs1PPe) | [Kisum](https://open.spotify.com/artist/1CArfopvfCxakFJHup55FW) | [30](https://open.spotify.com/album/19Z7Yg0RdX5Z4YnJKL4yvd) | 2:50 | 2024-04-17 |  |
 | [ABCDEFG](https://open.spotify.com/track/0LMRmQKSqfpSPUfhm1T14m) | [YUN:ON](https://open.spotify.com/artist/6yuabyX2qxNTeUTQAHCcnM) | [ABCDEFG](https://open.spotify.com/album/79GnqGWm4Bqaz1oO9It55w) | 2:37 | 2025-05-22 |  |
-| [Always With You](https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Always With You](https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a) | 5:03 | 2023-11-09 |  |
+| [Always With You](https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Always With You](https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a) | 5:03 | 2023-11-09 | 2026-04-09 |
 | [Artificial Grass](https://open.spotify.com/track/1GQnsBrIvXjHtaVFuWtcS9) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:45 | 2026-03-18 |  |
 | [Backstage Story](https://open.spotify.com/track/3bLybaAVj2CSDUWMiHykEa) | [오상아](https://open.spotify.com/artist/1J00c4vzJdwmgNAIIjcYQH) | [Backstage Story\(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6tWaMl4sj53AGpqTwYnA1u) | 3:18 | 2023-11-09 | 2025-05-08 |
 | [Baep Sae](https://open.spotify.com/track/5bjv9H1rZGZBuR6Rx2DPal) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [It's Okay, Dear](https://open.spotify.com/album/2MoJZKoJwnJh1X9a34usAC) | 3:20 | 2024-04-17 |  |
@@ -23,7 +23,7 @@
 | [Because of Drinking](https://open.spotify.com/track/2ike0PkIoeAHpWZnWDuAsX) | [CODA BRIDGE](https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca) | [Because of Drinking](https://open.spotify.com/album/5qL4VOjX5PwYBa1qHG1vJB) | 3:14 | 2023-11-09 | 2026-03-18 |
 | [Birthday](https://open.spotify.com/track/6MEUjaZJqKQpjTnmMi2wh1) | [Puer Kim](https://open.spotify.com/artist/3zeIa8DBS4RLjSb5oXwcUP) | [I'm Sorry and Congratulations](https://open.spotify.com/album/4vw92ZDmek6fC9ngrfnLfD) | 2:31 | 2023-11-09 | 2026-03-11 |
 | [Blue Frog \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/05mUYNwDJBeUdWv94njtDN) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [PSY SIX RULES, Pt\. 1](https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR) | 3:27 | 2023-11-09 | 2025-05-22 |
-| [BLUE GIANT](https://open.spotify.com/track/30eL5h0PUssrOfDsVWTRd0) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [BLUE GIANT](https://open.spotify.com/album/3rEUlorNRsBYyAY5oAmBg3) | 5:04 | 2023-11-09 |  |
+| [BLUE GIANT](https://open.spotify.com/track/30eL5h0PUssrOfDsVWTRd0) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [BLUE GIANT](https://open.spotify.com/album/3rEUlorNRsBYyAY5oAmBg3) | 5:04 | 2023-11-09 | 2026-04-09 |
 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 | 2023-11-09 | 2025-05-22 |
 | [break](https://open.spotify.com/track/7zpNqcJpxeTBmow2bwA2dR) | [Kim Neuk](https://open.spotify.com/artist/6g3wwcrVl0v453lpIoYENy) | [break](https://open.spotify.com/album/7HFgQWVEuvH3iTkNfkLlPd) | 1:47 | 2026-03-04 |  |
 | [Breeze](https://open.spotify.com/track/3bkSpl9J6jPIkJF79204cd) | [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Breeze](https://open.spotify.com/album/6mAKz4Er700vwjc5EKU3zf) | 3:35 | 2023-11-09 |  |
@@ -47,6 +47,7 @@
 | [everything is bothersome](https://open.spotify.com/track/37M5iTQTitE9a9RE909yAJ) | [0415](https://open.spotify.com/artist/49EamolQqzPhub6zY9By4A) | [everything is bothersome](https://open.spotify.com/album/3DNC7ASLsa73bC1oCtwmQh) | 3:40 | 2025-06-25 |  |
 | [Fake Flower \(feat\. Nucksal\)](https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:59 | 2023-11-09 |  |
 | [favorite things](https://open.spotify.com/track/2dCEOB0ETs7xydmxUVL7lg) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [favorite things](https://open.spotify.com/album/47LNVoOXsgKbKlq3EGIKSF) | 3:42 | 2026-04-01 |  |
+| [feelight!](https://open.spotify.com/track/7EXuQTtIgQ19kxRkFlN2g3) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [feelight!](https://open.spotify.com/album/6w01FQT5vZAQNTJbaaS31r) | 3:05 | 2026-04-08 |  |
 | [flow](https://open.spotify.com/track/5bxyh1CcujeiaByDCetPO3) | [최영인](https://open.spotify.com/artist/3p61qhWNmHG31V9j8x2M6o) | [Monthly Youthonic, Vol.1](https://open.spotify.com/album/0mgwAirSdWtq4Q7LuzwHSY) | 3:54 | 2025-07-02 |  |
 | [For A Rest](https://open.spotify.com/track/7tf0PW00oVcsubvggP4abK) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [For A Rest](https://open.spotify.com/album/1bW5rp20c5kpYd43Wkfbok) | 3:20 | 2026-03-04 |  |
 | [Forever Dumb \(feat\. SAM KIM\)](https://open.spotify.com/track/3V9eMQIX6COtvoRUXLoZe9) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [So!YoON!](https://open.spotify.com/album/07hwLp0d8O69sKwdKqOSdM) | 3:52 | 2023-11-09 | 2026-02-26 |
@@ -58,6 +59,7 @@
 | [Going Under](https://open.spotify.com/track/6pmSjlslSDwvKrhm2eD49o) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:16 | 2025-07-23 |  |
 | [Gulping laziness](https://open.spotify.com/track/03Z63iglmQEP6XtIJ9DmNI) | [weather](https://open.spotify.com/artist/4F26Ae7GmQK9iqv4M7vJsr) | [Gulping laziness](https://open.spotify.com/album/7oHqgsdNXSol1p0H8jnCwj) | 1:53 | 2025-05-22 |  |
 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 | 2025-10-17 |  |
+| [Have a good Sunday! \(Feat\. Wang WooYoung\)](https://open.spotify.com/track/7dBnxSbtW5TYC6hORAu0jo) | [chorim](https://open.spotify.com/artist/0Lw3RrzOZdrQFcWy9kYtEW), [왕우영](https://open.spotify.com/artist/6hP7yS9ZIDRRWtw5LaxICi) | [Have a good Sunday!](https://open.spotify.com/album/5SZw6Hj2lbH6P1ZfMeh9Cx) | 3:59 | 2026-04-08 |  |
 | [hedgehog](https://open.spotify.com/track/2SxA30by4pd5qe3l51w1C2) | [Gem i](https://open.spotify.com/artist/0y5WRR0mZAba6oEEquKe6p) | [HEDGEHOG](https://open.spotify.com/album/6ufwHevkTE4KoHoPttcsVq) | 3:02 | 2025-07-31 |  |
 | [Holiday](https://open.spotify.com/track/6EK23kYj5odyKUxLSXK3JS) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Holiday](https://open.spotify.com/album/3WXTRGYDn5wZ7viTikD0KD) | 3:58 | 2023-11-09 | 2026-02-26 |
 | [Homebody](https://open.spotify.com/track/6N2d5ik13stTUx3aMLuKUH) | [6Allmy Sunshine](https://open.spotify.com/artist/554mb4DkPmrRGhpVz7o0Rr) | [Homebody](https://open.spotify.com/album/0hgcL8aqYqpe2EpWO5YwyF) | 3:44 | 2025-07-02 |  |

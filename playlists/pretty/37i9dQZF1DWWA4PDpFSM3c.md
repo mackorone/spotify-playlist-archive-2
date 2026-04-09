@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,020 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,058 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 15 | [Chilipiga](https://open.spotify.com/track/5J3Gykr4QdXzgbRGlusUrM) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:28 |
 | 16 | [Aa Seetadevi Navvula](https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Rowdy Fellow](https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v) | 4:15 |
 | 17 | [Ee Raathale](https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Radhe Shyam \(Telugu\)](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 3:52 |
-| 18 | [Ay Pilla \- Telugu](https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK) | [Love Story](https://open.spotify.com/album/2qPF34ldSTpFg8SEywoQ8E) | 4:13 |
-| 19 | [Madhurame](https://open.spotify.com/track/4sbR8sUkAe6tJTooAQauEe) | [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 5:43 |
+| 18 | [Madhurame](https://open.spotify.com/track/4sbR8sUkAe6tJTooAQauEe) | [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 5:43 |
+| 19 | [Ay Pilla \- Telugu](https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK) | [Love Story](https://open.spotify.com/album/2qPF34ldSTpFg8SEywoQ8E) | 4:13 |
 | 20 | [Manasavacha](https://open.spotify.com/track/0OfaxrkK5wNf6Gotdph5Jz) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Godavari](https://open.spotify.com/album/2OyJ5P81elIOSPFSj2gnkE) | 4:47 |
 | 21 | [Manasu Palike](https://open.spotify.com/track/4Yqrf3I0S7SOBhWOGVU7fU) | [Rakendu Mouli](https://open.spotify.com/artist/10BBtazfegYIDgF3gxzImU) | [Andala Rakshasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pAVF1q5XzPoDy2yINgOjg) | 3:48 |
 | 22 | [Gaaju Bomma \(From "Hi Nanna"\)](https://open.spotify.com/track/6r6LuaWod5nW43TQny7ndd) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Gaaju Bomma \(From "Hi Nanna"\)](https://open.spotify.com/album/1KQY2FCmofyNFNzsMyMt9n) | 4:26 |

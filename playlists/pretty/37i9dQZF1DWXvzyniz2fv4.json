@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158861,
+  "num_followers": 158858,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-03-27 19:25:35",
       "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X"
+      },
+      "artists": [
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
+    },
+    {
+      "added_at": "2026-03-27 19:25:35",
+      "album": {
         "name": "OCANV",
         "url": "https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 225138,
       "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
       "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
-    },
-    {
-      "added_at": "2026-03-27 19:25:35",
-      "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X"
-      },
-      "artists": [
-        {
-          "name": "DONATTO",
-          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
     },
     {
       "added_at": "2026-03-27 19:25:35",

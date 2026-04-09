@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-173 songs - 11 hr 31 min
+174 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Con Que Derecho](https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j) | [Gran Sismo Tropikal](https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs) | [Siempre Arriba](https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR) | 4:06 | 2023-03-03 | 2024-04-19 |
 | [Con Quien Te Olvido](https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe) | [Los Potros Del Sur](https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY) | [Hecho y Derecho](https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6) | 3:28 | 2023-03-03 | 2026-02-18 |
 | [Cómo Dejar de Amarte y Otros](https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 5:16 | 2023-03-03 | 2026-04-02 |
-| [Cómo Quisiera](https://open.spotify.com/track/1uNMTskDd2HBF5UOdV5cdY) | [Los Machos de la Cumbia](https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH), [Toly Fu](https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH) | [Cómo Quisiera](https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL) | 3:50 | 2025-02-07 |  |
+| [Cómo Quisiera](https://open.spotify.com/track/1uNMTskDd2HBF5UOdV5cdY) | [Los Machos de la Cumbia](https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH), [Toly Fu](https://open.spotify.com/artist/4jCc0YkArDVaVzswZyMtyH) | [Cómo Quisiera](https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL) | 3:50 | 2025-02-07 | 2026-04-09 |
 | [Dame Tu Pelo Niña](https://open.spotify.com/track/4ht12mGJ4B7wf7cJ4wmxuI) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq), [René Inostroza](https://open.spotify.com/artist/6XV9G9NCLb6xx1FCxLddDG) | [Guarachas Rancheras](https://open.spotify.com/album/6nASV1w9xlItVsMV9QTSaI) | 3:08 | 2023-03-03 | 2026-01-15 |
 | [De los Besos Que Te Di](https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [De los Besos Que Te Di](https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD) | 2:43 | 2025-08-01 |  |
 | [De Paisano a Paisano](https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:14 | 2023-03-03 | 2026-03-19 |
@@ -162,6 +162,7 @@
 | [Tenemos Sed](https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew) | [La Banda Tropikal de Vallenar](https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD) | [Con Más Sed, Sed, Sed](https://open.spotify.com/album/36JZENel0gYjI758f7wdDL) | 3:31 | 2023-03-03 | 2026-03-27 |
 | [Tengo Que Olvidar](https://open.spotify.com/track/1bulmqK7DEFoD39t3Oh7Wv) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Tengo Que Olvidar](https://open.spotify.com/album/16xfSSoDDHPQccvkyP3BF1) | 5:03 | 2025-02-07 |  |
 | [Tequila y Ron](https://open.spotify.com/track/6lcF2tjoK1kLwlxYdGRIkw) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Tequila y Ron](https://open.spotify.com/album/2C6JZAGFsgvtd0FDqHrZNX) | 2:40 | 2025-06-13 |  |
+| [Tio Borrachales](https://open.spotify.com/track/51RQ8sG1m8gldM1oEM0OkE) | [Los Súper Sicarios](https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4) | [La Sustancia](https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1) | 2:53 | 2026-02-19 |  |
 | [Traicionera / Como Dejar de Amarte / Entre Golpes y Besos \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Traicionera / Como Dejar de Amarte / Entre Golpes y Besos \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut) | 11:24 | 2023-03-03 | 2025-07-31 |
 | [Tu Amor Barato](https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g), [Incondicionales](https://open.spotify.com/artist/0INHt4DwMkY5lMtHdbdSog) | [Tu Amor Barato](https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA) | 3:16 | 2023-05-29 |  |
 | [Tu Me Estrujaste](https://open.spotify.com/track/3x5RC95BsHI7AgDtFIMiYf) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:32 | 2023-03-03 | 2025-12-18 |

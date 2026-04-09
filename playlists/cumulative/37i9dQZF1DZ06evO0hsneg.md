@@ -4,10 +4,11 @@
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 39 min
+68 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/4DTA8AivgTv94WJ518CGAu) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5AUjW6mZQI7XgV61CBGMJl) | 0:00 | 2026-02-27 |  |
 | [Ain't Gonna Give Up](https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Ain't Gonna Give Up](https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3) | 3:53 | 2023-05-02 |  |
 | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm) | 2:29 | 2023-05-02 |  |
 | [Alpha Girl \- Array Remix](https://open.spotify.com/track/0ONxHOgJt0q2UIw37WbW0q) | [JRSCK](https://open.spotify.com/artist/5gvWjdRl83QGWMxpbjq1uI), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Xpressionizm](https://open.spotify.com/album/0Gu6vQSTNQAEz8CCvqyMpj) | 6:19 | 2023-08-30 | 2024-09-06 |
@@ -72,7 +73,6 @@
 | [WHACHU MEAN](https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHACHU MEAN](https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t) | 3:34 | 2023-05-02 |  |
 | [whats ur problem](https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 | 2023-05-02 | 2025-12-02 |
 | [WHO DIS?](https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHO DIS?](https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw) | 2:04 | 2023-05-02 |  |
-| [WOMEN \(我们\) \- Live](https://open.spotify.com/track/4DTA8AivgTv94WJ518CGAu) | [阿达娃](https://open.spotify.com/artist/2eeDDDoYRBX8a2jRxLSv3D), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [新说唱2025 第6期 \(Live\)](https://open.spotify.com/album/5AUjW6mZQI7XgV61CBGMJl) | 2:49 | 2026-02-27 |  |
 | [WOMEN 我們 \(feat\. Ramengvrl\)](https://open.spotify.com/track/6dnmu3KE5rm82eOSejssef) | [阿达娃](https://open.spotify.com/artist/2eeDDDoYRBX8a2jRxLSv3D), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WOMEN 我們 \(feat\. Ramengvrl\)](https://open.spotify.com/album/3hnyY0tfk314wgzqQUPrqm) | 3:02 | 2025-10-02 |  |
 | [Xtra McNasty \(Feat\. Jessi, Awich, MILLI, Ramengvrl, Lil Cherry, MIRANI, Maliibu Miitch, CAMO\)](https://open.spotify.com/track/1uUbO4jTqULg0l0FDdVGmn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Xtra McNasty](https://open.spotify.com/album/0dC0699Ls8Sx9gmTQFRJj3) | 6:07 | 2024-07-29 |  |
 | [yellow fever \(feat\. Ramengvrl & YAYOI DAIMON\)](https://open.spotify.com/track/6mrHgesCVZEEDxiS6aovn6) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Yayoi Daimon](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb) | [yellow fever \(feat\. Ramengvrl & YAYOI DAIMON\)](https://open.spotify.com/album/4mfzgLen8EtrAFZIrOKJEN) | 2:46 | 2023-05-02 | 2025-08-12 |

@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "A Jaguar II Christmas: The Orchestral Arrangements",
+        "url": "https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "It's a Celebration Every Time It Snows",
+      "url": "https://open.spotify.com/track/5ZeCeE78uPgNKOrHISLVN4"
+    },
+    {
+      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },

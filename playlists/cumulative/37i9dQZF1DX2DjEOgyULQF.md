@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-430 songs - 20 hr 18 min
+431 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Berolige](https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Berolige](https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF) | 2:36 | 2024-04-01 | 2026-04-04 |
 | [Bird Bath Opus](https://open.spotify.com/track/0JdkqE8WG3f638p5SRHhZ2) | [Infam Enn](https://open.spotify.com/artist/23AEFnMnAxHi3UfuJlR9R6) | [Bird Bath Opus](https://open.spotify.com/album/1LhDh8ViMClWffkyg1Gd0e) | 3:00 | 2025-05-21 |  |
 | [Birds In The Cul\-De\-Sac](https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds In The Cul\-De\-Sac](https://open.spotify.com/album/7sUigBnrLRsr8JD3oCVNfq) | 1:05 | 2026-04-03 |  |
+| [Birds Singing In The Park](https://open.spotify.com/track/6PvZUOTuc5K7hHawZv8FD9) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds Singing In The Park](https://open.spotify.com/album/2wdnVPooTFEX6h6N1OFoVV) | 1:02 | 2026-04-03 |  |
 | [Blissed Out](https://open.spotify.com/track/2f87y9hlltwy95cG6FrTle) | [Soul Editor](https://open.spotify.com/artist/6ha711zIsbNRtnnoUF3rTU) | [Blissed Out](https://open.spotify.com/album/3Jy207hzZVAYlhiOskbDrD) | 2:32 | 2026-01-08 | 2026-04-04 |
 | [Blue River Hills](https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Blue River Hills](https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9) | 2:37 | 2026-04-03 |  |
 | [Blurred Valley](https://open.spotify.com/track/57f9MmWo5Vy8nUT4Hhwd4O) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Blurred Valley](https://open.spotify.com/album/6X2xsKywJbeV3Y2EWIUOIZ) | 2:31 | 2025-09-10 |  |
@@ -121,7 +122,7 @@
 | [Eternal Now](https://open.spotify.com/track/4QQ8n1F9MwBLHnemQCoYob) | [Knot Released](https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY) | [Eternal Now](https://open.spotify.com/album/2Z1tt4Z8Jx6EGdZSAcuWoN) | 2:14 | 2026-04-03 |  |
 | [Eternally](https://open.spotify.com/track/6ee3Zz8m66BxfnB4ARUWSA) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Eternally](https://open.spotify.com/album/4ZXUEUdcDJEqKwdtXFxojg) | 3:04 | 2025-12-17 | 2026-04-04 |
 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 | 2025-11-03 |
-| [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 |  |
+| [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 | 2026-04-09 |
 | [Everbound](https://open.spotify.com/track/3ukMCHjdNl8qExi9R9cydc) | [Lore](https://open.spotify.com/artist/5iAmH8roFlCIzK73jFSV5G) | [Everbound](https://open.spotify.com/album/173m3DmZedeHBdzJFY6Sws) | 2:54 | 2026-04-03 |  |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 | 2026-04-04 |
 | [Exploring Textures](https://open.spotify.com/track/27KqGoyfodOPmOGt7Aw9Z6) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Exploring Textures](https://open.spotify.com/album/6uZUjhCErSJ1mlT7OSbbrv) | 2:57 | 2025-07-22 | 2026-04-04 |

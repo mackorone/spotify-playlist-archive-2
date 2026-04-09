@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With UrvTek, Learke, sixwing and more",
+  "description": "With UrvTek, sixwing, Learke and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 181777,
       "name": "BEAR YOUR FANGS",
       "url": "https://open.spotify.com/track/6Rl5PrsLA0Vz9bx3E0QV9G"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 102969,
       "name": "Bulletproof - Remix",
       "url": "https://open.spotify.com/track/74stzgE3eN8PLxBtn3S0Un"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 209958,
       "name": "CATASTR0PHZ1NG ALL BY URSELF",
       "url": "https://open.spotify.com/track/3OhN8qX8J6AP2aDWPiPIHa"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 172109,
       "name": "Catdelions IIS",
       "url": "https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj"
@@ -2326,7 +2326,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 110797,
       "name": "HEWWO! OwO",
       "url": "https://open.spotify.com/track/0WhV2zxgPNcx8NfgsRJOgh"
@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 164746,
       "name": "KILL YOURSELF",
       "url": "https://open.spotify.com/track/13rSC7PiWGDR15lZxgrxtw"
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 131374,
       "name": "LESBIAN FURRY RAVE",
       "url": "https://open.spotify.com/track/6SqGrvaHJuJvfuCSNKNAS4"
@@ -4240,7 +4240,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 103269,
       "name": "Playground",
       "url": "https://open.spotify.com/track/4CM1J83MAkCeJsW4U6RUep"
@@ -4612,7 +4612,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 159354,
       "name": "Samoyed Song",
       "url": "https://open.spotify.com/track/43NZSHrCTxb1Tm9he7BAox"
@@ -5327,6 +5327,24 @@
     },
     {
       "album": {
+        "name": "The New 4lung Album",
+        "url": "https://open.spotify.com/album/7ktcibSjb9UykTwVGR92NU"
+      },
+      "artists": [
+        {
+          "name": "4lung",
+          "url": "https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Thousand Yard Stare",
+      "url": "https://open.spotify.com/track/3EqZg2dru5gXiRH9sdUeQI"
+    },
+    {
+      "album": {
         "name": "TOYBOX",
         "url": "https://open.spotify.com/album/0qVcWWsothFt6lkB6R4o3m"
       },
@@ -5440,7 +5458,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 148500,
       "name": "VICTIMiZED",
       "url": "https://open.spotify.com/track/6K8EAeBdTspjpkHwuIn7H9"
@@ -5632,7 +5650,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 205125,
       "name": "www.PUPPYLUV.xoxo",
       "url": "https://open.spotify.com/track/1CnRrvxklPzRwC2oZhJhSZ"

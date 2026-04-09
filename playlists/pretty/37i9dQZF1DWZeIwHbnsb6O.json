@@ -1,6 +1,6 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos. Juan Gabriel en portada.",
-  "num_followers": 348303,
+  "num_followers": 348486,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,54 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/37hzzmje0NL0lKmAbcHZop"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "La de la Mochila Azul",
+      "url": "https://open.spotify.com/track/4eDbJ81SQHYN1oV2qUmr2j"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Las Numero 1 De Estela Nu\u00f1ez",
+        "url": "https://open.spotify.com/album/6hTXiPN5rX7Beamc05glhq"
+      },
+      "artists": [
+        {
+          "name": "Estela Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Una L\u00e1grima - Una Lacrima",
+      "url": "https://open.spotify.com/track/6P4mD0UiVmjcuURvsbVtc5"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "Historia De Un Idolo Vol.II",
         "url": "https://open.spotify.com/album/10xkQkDuJeUoGotXr48raI"
       },
@@ -875,22 +923,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 189813,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "e5",
         "url": "https://open.spotify.com/album/7mddPROCwZWxiYdK1Rpmwr"
       },
@@ -955,22 +987,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Las Numero 1 De Estela Nu\u00f1ez",
-        "url": "https://open.spotify.com/album/6hTXiPN5rX7Beamc05glhq"
-      },
-      "artists": [
-        {
-          "name": "Estela Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Una L\u00e1grima - Una Lacrima",
-      "url": "https://open.spotify.com/track/6P4mD0UiVmjcuURvsbVtc5"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "Tesoros De Coleccion - Gualberto Castro",
         "url": "https://open.spotify.com/album/1larO2IxJUB00ju9MTGTfv"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 212800,
       "name": "La Felicidad",
       "url": "https://open.spotify.com/track/4HfazXWeoXF1Tg4IRQUz7U"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/37hzzmje0NL0lKmAbcHZop"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "La de la Mochila Azul",
-      "url": "https://open.spotify.com/track/4eDbJ81SQHYN1oV2qUmr2j"
     }
   ],
   "unique_name": "Los 70 M\u00e9xico",

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-413 songs - 23 hr 12 min
+414 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Yeti](https://open.spotify.com/track/5Im51GtWo7shSTcT1lLyu5) | [The Lunar Conspiracy](https://open.spotify.com/artist/5s8FHpyZT9uMPbPpnZGhPA) | [Yeti](https://open.spotify.com/album/1y52VUBQmPBqDw4lOKK5Dk) | 4:30 | 2025-12-26 | 2026-01-15 |
 | [You cannot be serious](https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 4:42 | 2026-03-17 |  |
 | [You Got the Feeling](https://open.spotify.com/track/4k6zhS7VG4AadaoJHpcb3k) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 4:13 | 2025-11-24 | 2026-01-05 |
+| [You Make Me Feel](https://open.spotify.com/track/6GowrMYjvh0Ercfkg8QQfC) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [You Make Me Feel](https://open.spotify.com/album/2b3uNUKmyiWJCaxQtXSmhq) | 3:11 | 2026-04-08 |  |
 | [You Never Died](https://open.spotify.com/track/3JBFbPQRqufCifcueo0BeG) | [Boneyard Lily](https://open.spotify.com/artist/4X258WlI0oC78zl7HC2jMn) | [You Never Died](https://open.spotify.com/album/57brjzlWROvtNLEMsNNnem) | 3:38 | 2025-11-11 | 2025-12-01 |
 | [young frankenstein](https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8) | [open](https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB) | [young frankenstein](https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf) | 2:59 | 2025-12-04 | 2026-01-05 |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2026-02-07 | 2026-03-03 |

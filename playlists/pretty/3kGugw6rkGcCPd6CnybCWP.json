@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAOB6gYF6kGYrw/CdCnNNrQjDH64l5e",
+  "snapshot_id": "AAAOCvLQKs+sZqpUtJI10NYUrl/3BYvl",
   "tracks": [
     {
       "added_at": "2026-03-31 12:00:09",
@@ -1711,6 +1711,58 @@
       "duration_ms": 195320,
       "name": "You're So Uninviting",
       "url": "https://open.spotify.com/track/1U6hp7lzgST4lzxRIR1VvW"
+    },
+    {
+      "added_at": "2026-04-08 09:04:01",
+      "album": {
+        "name": "A Bridge Across the Sea",
+        "url": "https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d"
+      },
+      "artists": [
+        {
+          "name": "Drawing on Scars",
+          "url": "https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu"
+        },
+        {
+          "name": "Jodie Reid",
+          "url": "https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u"
+        }
+      ],
+      "duration_ms": 188403,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6"
+    },
+    {
+      "added_at": "2026-04-08 09:04:09",
+      "album": {
+        "name": "Dollface",
+        "url": "https://open.spotify.com/album/4JxQ2wpp7DQKnPoAsvxMNq"
+      },
+      "artists": [
+        {
+          "name": "Wikka",
+          "url": "https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq"
+        }
+      ],
+      "duration_ms": 189753,
+      "name": "Dollface",
+      "url": "https://open.spotify.com/track/2gJlmzqblAarjB9FPa3WaD"
+    },
+    {
+      "added_at": "2026-04-08 12:54:27",
+      "album": {
+        "name": "Down and Out",
+        "url": "https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh"
+      },
+      "artists": [
+        {
+          "name": "White Star Line",
+          "url": "https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh"
+        }
+      ],
+      "duration_ms": 222155,
+      "name": "Down and Out",
+      "url": "https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

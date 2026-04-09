@@ -1,6 +1,6 @@
 {
-  "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Ana Gabriel",
-  "num_followers": 468723,
+  "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Lola Beltr\u00e1n",
+  "num_followers": 468849,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -675,8 +675,8 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 151120,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
+      "duration_ms": 184626,
+      "name": "Soy lo prohibido",
+      "url": "https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 114369,
-      "name": "Me Sacaron Del Tenampa",
-      "url": "https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Soy Lo Prohibido",
         "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 217040,
       "name": "Te Qued\u00f3 Grande La Yegua",
       "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 114369,
+      "name": "Me Sacaron Del Tenampa",
+      "url": "https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1451,22 +1451,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Por Amor A Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
+        "name": "En Vivo, Desde Su Lugar",
+        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        },
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 265853,
-      "name": "Himno A La Humildad",
-      "url": "https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT"
+      "duration_ms": 162146,
+      "name": "Cheque En Blanco - Live",
+      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1487,18 +1483,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "En Vivo, Desde Su Lugar",
-        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 162146,
-      "name": "Cheque En Blanco - Live",
-      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
+      "duration_ms": 265853,
+      "name": "Himno A La Humildad",
+      "url": "https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1736,9 +1736,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 160240,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/28vqZLZyXePnLCCFtRxaO3"
+      "duration_ms": 188360,
+      "name": "Como Tu Decidas",
+      "url": "https://open.spotify.com/track/6VtPNnCf12fB1iXHRT21IG"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Mi Forma De Sentir",
-        "url": "https://open.spotify.com/album/44cukglFht4O2fmdNHMbfb"
+        "name": "Antologia el Poeta del Pueblo Con Mariachi",
+        "url": "https://open.spotify.com/album/72zXuJGYw1YGmc7Ue0996l"
       },
       "artists": [
         {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 244560,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/5lgpyVntKs6yFvzSvbMJff"
+      "duration_ms": 160240,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/28vqZLZyXePnLCCFtRxaO3"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1835,6 +1835,22 @@
       "duration_ms": 193186,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/15vyZX2dCWO1alNLe8YjZs"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Mi Forma De Sentir",
+        "url": "https://open.spotify.com/album/44cukglFht4O2fmdNHMbfb"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 244560,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/5lgpyVntKs6yFvzSvbMJff"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1883,22 +1899,6 @@
       "duration_ms": 231093,
       "name": "Cucurrucucu Paloma",
       "url": "https://open.spotify.com/track/4SYjzX3PaRgTxPlwI9lAJx"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "Antologia el Poeta del Pueblo Con Mariachi",
-        "url": "https://open.spotify.com/album/72zXuJGYw1YGmc7Ue0996l"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Como Tu Decidas",
-      "url": "https://open.spotify.com/track/6VtPNnCf12fB1iXHRT21IG"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1955,8 +1955,8 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
       "artists": [
         {
@@ -1964,9 +1964,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 184626,
-      "name": "Soy lo prohibido",
-      "url": "https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO"
+      "duration_ms": 151120,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2263,8 +2263,8 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Que De Raro Tiene",
-        "url": "https://open.spotify.com/album/0z0b1XLyoRBYwXF2SRTvZ3"
+        "name": "35 Anniversary Re-mastered Series, Vol. 7",
+        "url": "https://open.spotify.com/album/0faSI8clCnZRnLXAb0NFcE"
       },
       "artists": [
         {
@@ -2272,9 +2272,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 201933,
-      "name": "Que De Raro Tiene",
-      "url": "https://open.spotify.com/track/4vw2HFJXdHtjauDfb7nqRi"
+      "duration_ms": 236480,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/1Uol5x9ClPOm9X2F3lsyNR"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -2343,8 +2343,8 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "35 Anniversary Re-mastered Series, Vol. 7",
-        "url": "https://open.spotify.com/album/0faSI8clCnZRnLXAb0NFcE"
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/0z0b1XLyoRBYwXF2SRTvZ3"
       },
       "artists": [
         {
@@ -2352,9 +2352,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/1Uol5x9ClPOm9X2F3lsyNR"
+      "duration_ms": 201933,
+      "name": "Que De Raro Tiene",
+      "url": "https://open.spotify.com/track/4vw2HFJXdHtjauDfb7nqRi"
     },
     {
       "added_at": "2024-07-03 18:18:42",

@@ -7531,6 +7531,24 @@
     },
     {
       "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/2b3uNUKmyiWJCaxQtXSmhq"
+      },
+      "artists": [
+        {
+          "name": "James Sebastian",
+          "url": "https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191029,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/6GowrMYjvh0Ercfkg8QQfC"
+    },
+    {
+      "album": {
         "name": "You Never Died",
         "url": "https://open.spotify.com/album/57brjzlWROvtNLEMsNNnem"
       },

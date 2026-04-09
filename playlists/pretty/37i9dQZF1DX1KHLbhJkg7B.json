@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Gavin Adcock",
-  "num_followers": 135879,
+  "num_followers": 135893,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-03-23 12:34:05",
       "album": {
-        "name": "Here Without You",
-        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 246152,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
-    },
-    {
-      "added_at": "2026-03-23 12:34:05",
-      "album": {
         "name": "The Night The Lights Went Out In Georgia",
         "url": "https://open.spotify.com/album/2Y3bfuOSg8kDUHvTlSPrPP"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 256501,
       "name": "The Night The Lights Went Out In Georgia",
       "url": "https://open.spotify.com/track/1jZvywRaT7pNoFMVvaLoP5"
+    },
+    {
+      "added_at": "2026-03-23 12:34:05",
+      "album": {
+        "name": "Here Without You",
+        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 246152,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
     },
     {
       "added_at": "2026-03-23 12:34:05",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-03-23 12:34:05",
       "album": {
+        "name": "Clay Pigeons",
+        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
+    },
+    {
+      "added_at": "2026-03-23 12:34:05",
+      "album": {
         "name": "When A Man Loves A Woman",
         "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 168266,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
-    },
-    {
-      "added_at": "2026-03-23 12:34:05",
-      "album": {
-        "name": "Clay Pigeons",
-        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Clay Pigeons",
-      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
     },
     {
       "added_at": "2026-03-23 12:34:05",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-03-23 12:34:05",
       "album": {
+        "name": "Pure BS (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
+    },
+    {
+      "added_at": "2026-03-23 12:34:05",
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": "2026-03-23 12:34:05",
-      "album": {
-        "name": "Pure BS (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
     },
     {
       "added_at": "2026-03-23 12:34:05",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-03-23 12:34:05",
       "album": {
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
+    },
+    {
+      "added_at": "2026-03-23 12:34:05",
+      "album": {
         "name": "Country Never Dies",
         "url": "https://open.spotify.com/album/2a6THopXVAZN4ivuKdOi2d"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 206213,
       "name": "Slow Hand",
       "url": "https://open.spotify.com/track/2dXkp8a86uDRuRJhQsjVTx"
-    },
-    {
-      "added_at": "2026-03-23 12:34:05",
-      "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
     },
     {
       "added_at": "2026-03-23 12:34:05",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-03-23 12:34:05",
       "album": {
+        "name": "You're Still The One",
+        "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Waters Band",
+          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
+        }
+      ],
+      "duration_ms": 195455,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
+    },
+    {
+      "added_at": "2026-03-23 12:34:05",
+      "album": {
         "name": "Country Never Dies",
         "url": "https://open.spotify.com/album/2a6THopXVAZN4ivuKdOi2d"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 156933,
       "name": "Yukon",
       "url": "https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK"
-    },
-    {
-      "added_at": "2026-03-23 12:34:05",
-      "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Waters Band",
-          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
-        }
-      ],
-      "duration_ms": 195455,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
     },
     {
       "added_at": "2026-03-23 12:34:05",

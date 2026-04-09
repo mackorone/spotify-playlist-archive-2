@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "67 (Six Seven)",
+        "url": "https://open.spotify.com/album/6aswOmAGHTLueEXsSjITkw"
+      },
+      "artists": [
+        {
+          "name": "Gazan",
+          "url": "https://open.spotify.com/artist/4Qdtzv8titXp66B9nwAstz"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83250,
+      "name": "67 (Six Seven)",
+      "url": "https://open.spotify.com/track/7wdSCi9346RbeHjFsB6TFX"
+    },
+    {
+      "album": {
         "name": "7DIGITS",
         "url": "https://open.spotify.com/album/2U2xKvOJfj0FdVbUqlkFKF"
       },
@@ -8330,7 +8348,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 154954,
       "name": "Berghain - Remix",
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
@@ -15918,7 +15936,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 220080,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
@@ -22539,6 +22557,24 @@
     },
     {
       "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391268,
+      "name": "Fabienk",
+      "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
+    },
+    {
+      "album": {
         "name": "Fable",
         "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
       },
@@ -23530,7 +23566,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -25374,6 +25410,36 @@
       "duration_ms": 218005,
       "name": "Fuckin Wit Ya'll",
       "url": "https://open.spotify.com/track/5lUZFgQAL3wFqpfyPHM9P8"
+    },
+    {
+      "album": {
+        "name": "Fuera Del Planeta (Remix)",
+        "url": "https://open.spotify.com/album/2WL5elAhlbqOCSfMn586u5"
+      },
+      "artists": [
+        {
+          "name": "Eloy",
+          "url": "https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu"
+        },
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Fuera Del Planeta (Remix)",
+      "url": "https://open.spotify.com/track/3IAmbUs1NB8XwfhNYUXuLA"
     },
     {
       "album": {
@@ -28108,6 +28174,24 @@
       "duration_ms": 166896,
       "name": "Gunfinger (Salute)",
       "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
+    },
+    {
+      "album": {
+        "name": "Funny Deutsch LassTunesDeutsch",
+        "url": "https://open.spotify.com/album/6wyeFhsocC5xcpQ2keCq7e"
+      },
+      "artists": [
+        {
+          "name": "LassTunesDeutsch",
+          "url": "https://open.spotify.com/artist/0u7QUzzZBPfEfI6CDjxtWV"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83344,
+      "name": "Guten Morgen, alles gut. Kein Stress, kein Problem.",
+      "url": "https://open.spotify.com/track/1ef1z115Kj73tEcaAsJUEs"
     },
     {
       "album": {
@@ -31922,7 +32006,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 428649,
       "name": "Hunting The Wren - The Immortal Man Version",
       "url": "https://open.spotify.com/track/4C3TNDpxyXA2FxpEvp1pqt"
@@ -34426,7 +34510,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 160487,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/70HMyw5ZheaR4bxu6E7SSS"
@@ -73808,7 +73892,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 344009,
       "name": "Titanium x Please Me - Slowed",
       "url": "https://open.spotify.com/track/4T85LIjCmp9z5NjTi40dLJ"
@@ -79980,7 +80064,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 188095,
       "name": "We Do What We Want - Edit",
       "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
@@ -80798,7 +80882,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 199738,
       "name": "When I Stand",
       "url": "https://open.spotify.com/track/7zaMzteK8ExKLUvJaUpX9w"

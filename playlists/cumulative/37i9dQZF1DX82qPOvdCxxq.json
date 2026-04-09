@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Kaelob Mecum",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Praise Lubangu",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 121041,
       "name": "Barter",
       "url": "https://open.spotify.com/track/7MFbesTdcv5KiSFORxThgQ"
@@ -4594,7 +4594,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 221183,
       "name": "Down To Earth",
       "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
@@ -11255,6 +11255,24 @@
     },
     {
       "album": {
+        "name": "looking for You",
+        "url": "https://open.spotify.com/album/09JJYTEAPsuiG15YXBUXGL"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153281,
+      "name": "looking for You",
+      "url": "https://open.spotify.com/track/2pwzpvKhbiz67yu6QZpVXJ"
+    },
+    {
+      "album": {
         "name": "Looking For You",
         "url": "https://open.spotify.com/album/1aTvlq0SGiumz0Rkx9XMMB"
       },
@@ -13593,6 +13611,24 @@
     },
     {
       "album": {
+        "name": "Off Days",
+        "url": "https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Off Days",
+      "url": "https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz"
+    },
+    {
+      "album": {
         "name": "Finally Free",
         "url": "https://open.spotify.com/album/1OYhVxPpcpU6K7ZLtvhP6i"
       },
@@ -15542,7 +15578,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 212439,
       "name": "Rise",
       "url": "https://open.spotify.com/track/55FGAVwbRH3o5PPc0UC7ai"
@@ -16952,7 +16988,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 142608,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/7kyseZ7IHFT5R8hfw9Uvra"
@@ -17941,6 +17977,24 @@
     },
     {
       "album": {
+        "name": "Tears Hit The Floor",
+        "url": "https://open.spotify.com/album/0z0N6qveSSR7ZDjfISwhk9"
+      },
+      "artists": [
+        {
+          "name": "Kim Viera",
+          "url": "https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217151,
+      "name": "Tears Hit The Floor",
+      "url": "https://open.spotify.com/track/6qsGfbhMgBMmVuej3KZ7Oi"
+    },
+    {
+      "album": {
         "name": "Tender Love",
         "url": "https://open.spotify.com/album/3A4hndO1mMtdSTtzzFcZRu"
       },
@@ -18884,6 +18938,28 @@
       "duration_ms": 222680,
       "name": "To The Dust",
       "url": "https://open.spotify.com/track/57M6k69lGmqMwnLOTtvaHI"
+    },
+    {
+      "album": {
+        "name": "Nueva Era",
+        "url": "https://open.spotify.com/album/2po1xCUI5uKV1mTxBpug0N"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194611,
+      "name": "Toda Mi Alma",
+      "url": "https://open.spotify.com/track/6j081dz8YMlE4ieKNwLDxC"
     },
     {
       "album": {
@@ -19948,7 +20024,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 179047,
       "name": "Waterfall - Edit",
       "url": "https://open.spotify.com/track/0Ex4LayPEy56W7a0ym069O"
@@ -20528,6 +20604,24 @@
       "duration_ms": 178800,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/3HHt1JXleD0eHuRNxVXOW7"
+    },
+    {
+      "album": {
+        "name": "white flag",
+        "url": "https://open.spotify.com/album/7vPhlL30KvVGuLkAseCxQu"
+      },
+      "artists": [
+        {
+          "name": "Praise Lubangu",
+          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194463,
+      "name": "white flag",
+      "url": "https://open.spotify.com/track/2bDFjLTu0IwSpczOzTRd2D"
     },
     {
       "album": {

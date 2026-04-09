@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di BLANCO, Sayf, Serena Brancale con Levante e DELIA, Tiziano Ferro con Giorgia, Ditonellapiaga e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,585 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,572 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 24 | [Beams](https://open.spotify.com/track/7AieCEz0Kpv2c8L63LXcWw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Beams](https://open.spotify.com/album/6Gjsdtw3nw3GV5IrwFmT4G) | 3:39 |
 | 25 | [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 |
 | 26 | [Monghidoro](https://open.spotify.com/track/2epjwgaiv623eAKqYj012v) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Monghidoro](https://open.spotify.com/album/4OYiBkmlSBre8h36QeTltr) | 4:00 |
-| 27 | [Insieme soli](https://open.spotify.com/track/5brKSCd3u5yKSczITGUKOW) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Frenkie G](https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k) | [Insieme soli](https://open.spotify.com/album/5zWiIA2ZIZdstbl2N6107q) | 2:46 |
+| 27 | [Insieme soli](https://open.spotify.com/track/5brKSCd3u5yKSczITGUKOW) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Frenkie G](https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Insieme soli](https://open.spotify.com/album/5zWiIA2ZIZdstbl2N6107q) | 2:46 |
 | 28 | [Mamma Mezzanotte](https://open.spotify.com/track/4pDdlC0APzRn8C9mcEUJk4) | [Zara Colombo](https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx) | [Madre Lingua](https://open.spotify.com/album/1naMbMqwfCgeIRsBmaue8x) | 2:47 |
 | 29 | [JURNATA 'E SOLE](https://open.spotify.com/track/7IqOqo9LfqTxzj174TETUH) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [JURNATA 'E SOLE](https://open.spotify.com/album/0CkovfE5wxMjWrLU4xcz7E) | 2:46 |
 | 30 | [Sungazer](https://open.spotify.com/track/504TpZVrxvCzC9Cy15jMti) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sungazer](https://open.spotify.com/album/4Bl9c6aAUaDPLRYrf3fiDI) | 4:34 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 39 | [Daisies](https://open.spotify.com/track/2p0TmpuZ89eJvoQ9WUFEfT) | [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx), [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Daisies](https://open.spotify.com/album/2n3YanLvFnIWQVeS43870v) | 2:58 |
 | 40 | [FINE SHYT](https://open.spotify.com/track/0QQIwtK9jesALcXOdluLRU) | [ayo ally](https://open.spotify.com/artist/6Xa2PfSltPs34Bi5OP6nQR) | [FINE SHYT](https://open.spotify.com/album/41RuH0Av8Vv4R51RyMPafI) | 2:27 |
 | 41 | [\#ennyp](https://open.spotify.com/track/5i1Fzs7ylTdu2uoUujL5D1) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [\#ennyp](https://open.spotify.com/album/4NAudiTZW30MVLZqbMSTps) | 2:39 |
-| 42 | [Stessa Persona](https://open.spotify.com/track/68zEuQqB3lf4hIxtKjWU3O) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Stessa Persona](https://open.spotify.com/album/0f5UCuQZYoDKdUUWKhzRMU) | 2:17 |
+| 42 | [Stessa Persona \(feat\. Neima Ezza\)](https://open.spotify.com/track/68zEuQqB3lf4hIxtKjWU3O) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Stessa Persona \(feat\. Neima Ezza\)](https://open.spotify.com/album/0f5UCuQZYoDKdUUWKhzRMU) | 2:17 |
 | 43 | [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 |
 | 44 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |
 | 45 | [LAMBORGHINI PARANOIA \(feat\. YD Frost\)](https://open.spotify.com/track/74L1kP33RAeLpW2Md7NXBz) | [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7), [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4) | [OPERA D'ARTE](https://open.spotify.com/album/3K7fwg7S0UjKffOPdTUVC8) | 2:56 |

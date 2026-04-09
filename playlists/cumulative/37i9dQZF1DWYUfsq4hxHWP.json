@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Sheyna Gee, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Callie Prince, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -8188,7 +8188,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 253568,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/2hCWjPNPPnkh71kaFUjRck"
@@ -16718,7 +16718,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 209520,
       "name": "Easy on the Eyes",
       "url": "https://open.spotify.com/track/1faG1H39yrek0tm1j3wslk"
@@ -17920,6 +17920,24 @@
       "duration_ms": 184153,
       "name": "Falling Apartment",
       "url": "https://open.spotify.com/track/7xRVObMJJXBk5nOQttygYC"
+    },
+    {
+      "album": {
+        "name": "Falling Short",
+        "url": "https://open.spotify.com/album/09PpHh1AEoMJrwOKqAE3Bk"
+      },
+      "artists": [
+        {
+          "name": "Hudson Macready",
+          "url": "https://open.spotify.com/artist/6P00UEN5OmbxLCLXPT6ZNa"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185393,
+      "name": "Falling Short",
+      "url": "https://open.spotify.com/track/58sKIiP59fNcASrfUzVAXH"
     },
     {
       "album": {
@@ -20546,7 +20564,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 195194,
       "name": "Girl Out In Nevada",
       "url": "https://open.spotify.com/track/1PWaYO4hyrQDD8AeOcy90k"
@@ -26135,6 +26153,24 @@
     },
     {
       "album": {
+        "name": "honey, have i lost my mind?",
+        "url": "https://open.spotify.com/album/25WQgU0mYJeGZ59SgGjXPm"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193228,
+      "name": "honey, have i lost my mind?",
+      "url": "https://open.spotify.com/track/5je62XgKGO5LLHklklRR3l"
+    },
+    {
+      "album": {
         "name": "Honeydew & Hennessy",
         "url": "https://open.spotify.com/album/49s6EwjZHmGY7e5I8kTyj6"
       },
@@ -28153,6 +28189,24 @@
     },
     {
       "album": {
+        "name": "I Miss Him",
+        "url": "https://open.spotify.com/album/5ctozlJgHQfAnO6ELfbJu7"
+      },
+      "artists": [
+        {
+          "name": "Madison Parks",
+          "url": "https://open.spotify.com/artist/1iAz4Dk2zcinQMqtLaHPRT"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183219,
+      "name": "I Miss Him",
+      "url": "https://open.spotify.com/track/5d2uxTuOjgRgHj0jjrQvhA"
+    },
+    {
+      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/3Ty3AtUvfPmp4DztOUWIMy"
       },
@@ -29270,7 +29324,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 204622,
       "name": "If It Ain't Ours",
       "url": "https://open.spotify.com/track/2SpzGCL80I7QjfG2biFU6T"
@@ -35109,6 +35163,24 @@
     },
     {
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/6dialcQabBKSrQzneuRZAt"
+      },
+      "artists": [
+        {
+          "name": "Callie Prince",
+          "url": "https://open.spotify.com/artist/4TJUkCo1id8DMAaUNmhNcq"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173635,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/2wTe6Oyx1fYSzPJxkz9g0Q"
+    },
+    {
+      "album": {
         "name": "Lose Somebody You Love",
         "url": "https://open.spotify.com/album/2cljVPOjMLcwYh51w94RSE"
       },
@@ -35534,7 +35606,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 192012,
       "name": "love looks like",
       "url": "https://open.spotify.com/track/1Na8hf1vwgoxaAenBWCTY5"
@@ -43232,6 +43304,24 @@
       "duration_ms": 174322,
       "name": "Painting Faces",
       "url": "https://open.spotify.com/track/0oyxTyaFHBRgxURQ7ZdyAn"
+    },
+    {
+      "album": {
+        "name": "paloma",
+        "url": "https://open.spotify.com/album/1jWxzB439p4Edc5L7LmaTo"
+      },
+      "artists": [
+        {
+          "name": "Ashley Anne",
+          "url": "https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200361,
+      "name": "paloma",
+      "url": "https://open.spotify.com/track/1jf0kGhPYaOmsDzCm0lDI4"
     },
     {
       "album": {
@@ -52125,6 +52215,24 @@
     },
     {
       "album": {
+        "name": "Southern Rock",
+        "url": "https://open.spotify.com/album/4F5BHJ6Pu2HFfA3RU6hGUS"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Daniels",
+          "url": "https://open.spotify.com/artist/7tkuLHX8bn8WkTZtJ5AqiM"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201905,
+      "name": "Southern Rock",
+      "url": "https://open.spotify.com/track/2eaav9TAOQiurXbsUTsrZ9"
+    },
+    {
+      "album": {
         "name": "Sparkle",
         "url": "https://open.spotify.com/album/7zTwU1TyIM0RgiWIvDkTMp"
       },
@@ -52832,6 +52940,24 @@
       "duration_ms": 193875,
       "name": "Story to Tell",
       "url": "https://open.spotify.com/track/27aeEWFkcZuOk6quYdzyW8"
+    },
+    {
+      "album": {
+        "name": "Stranded",
+        "url": "https://open.spotify.com/album/1I7okWoOVrQx9XF93HvnPe"
+      },
+      "artists": [
+        {
+          "name": "Austin Mackay",
+          "url": "https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/6oFaDI1iezn00N0GR28Zto"
     },
     {
       "album": {

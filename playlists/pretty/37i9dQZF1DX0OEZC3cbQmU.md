@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Get Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,341,500 likes - 75 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,341,719 likes - 75 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

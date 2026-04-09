@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-361 songs - 20 hr 59 min
+362 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bella](https://open.spotify.com/track/1r0MnlvB9W7GUgzADjqDPd) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Fruto del Amor](https://open.spotify.com/album/4zCUpvEm7fsCC1DFVQkxDb) | 3:54 | 2025-06-10 |  |
 | [Berretines de Verduga](https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [Con Síndrome de Abstinencia](https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ) | 2:56 | 2025-06-10 |  |
 | [Besame](https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:52 | 2024-10-11 |  |
+| [Boquita Perfumada](https://open.spotify.com/track/3MLq3n8fNlubRM2FmPREbF) | [Sexteto Imperial](https://open.spotify.com/artist/7Ij3qRinMFtEpzRghKIHtE) | [Boquita Perfumada](https://open.spotify.com/album/6DTMt3s7wVmf9KD2FwZoMG) | 4:12 | 2026-02-27 |  |
 | [Borracho](https://open.spotify.com/track/7FdNfqIn8z06rVsAnqASrx) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Borracho](https://open.spotify.com/album/02Pflv12FdcVuONRElkjio) | 4:26 | 2025-02-28 | 2025-03-15 |
 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 | 2023-05-05 |  |
 | [Bésame](https://open.spotify.com/track/3EwVVCR1edumeTl8iXI947) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Bésame](https://open.spotify.com/album/4AnpTVLKyfjO4vxfjGedpJ) | 2:37 | 2025-06-27 | 2025-07-05 |
@@ -305,7 +306,7 @@
 | [Soy Favela \- En Vivo](https://open.spotify.com/track/4G4Ml1TZ2NEKxlbhzS2dPp) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Soy Favela \(En Vivo\)](https://open.spotify.com/album/45vcCBdIHoS8Sil8FZNJlB) | 2:57 | 2024-10-11 | 2025-06-11 |
 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2023-05-05 |  |
 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 | 2023-05-05 | 2025-11-21 |
-| [Tarjetita de Invitacion](https://open.spotify.com/track/4DxGfLYbOD32hr5EMF8HV1) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Todo Bien](https://open.spotify.com/album/7qbyuCscYdunQu1IMTmQpv) | 3:25 | 2025-11-20 |  |
+| [Tarjetita de Invitacion](https://open.spotify.com/track/4DxGfLYbOD32hr5EMF8HV1) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Todo Bien](https://open.spotify.com/album/7qbyuCscYdunQu1IMTmQpv) | 3:25 | 2025-11-20 | 2026-04-09 |
 | [Te Amo](https://open.spotify.com/track/50WtswE20cDFRHe183OXkW) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Te Amo](https://open.spotify.com/album/260Sbv1NKuKSMi9QunvtsI) | 2:50 | 2024-06-07 | 2024-10-26 |
 | [Te Amo X Nos Cruzamos](https://open.spotify.com/track/2N9CiKGk11gNLG90io1D1L) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [La Fusion](https://open.spotify.com/artist/2F09CbW6hmjxeboIJ03TmN) | [Te Amo X Nos Cruzamos](https://open.spotify.com/album/4iCxlTuoSMfvYM7CumWsFz) | 4:11 | 2024-05-10 | 2024-10-12 |
 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 | 2023-05-05 | 2023-11-07 |

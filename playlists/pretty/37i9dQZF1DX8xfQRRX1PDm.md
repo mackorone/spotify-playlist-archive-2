@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,278,226 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279,116 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Kyaa Baat Haii 2.0](https://open.spotify.com/track/0RNMEHUopgrDVk7XE4xRdp) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Govinda Naam Mera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ITI5Ck5zhQ3WTNfwiesZ9) | 2:56 |
 | 75 | [Shaitan Ka Saala](https://open.spotify.com/track/59vbPXCgc6oxbSzMfVBLNb) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Housefull 4](https://open.spotify.com/album/61yDeessJaxmW5NiWFVcxK) | 2:27 |
 
-Snapshot ID: `AAAAALUekt6a88al+VT7nNP/1x66z8PG`
+Snapshot ID: `AAAAAH1FIuTHlhPzzhYOr+8bnhtA76u1`

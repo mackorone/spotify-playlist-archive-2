@@ -322,7 +322,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 228112,
       "name": "Annie",
       "url": "https://open.spotify.com/track/3mq7jmzBYNJFIok9xjjSA4"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 264037,
       "name": "Bad Bitch (Bonus Track)",
       "url": "https://open.spotify.com/track/4pCkOPhDf0jHYpAmSOFYg2"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 250414,
       "name": "Cliche",
       "url": "https://open.spotify.com/track/5NVeHtdTszfC2Ub69fnQiG"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 211533,
       "name": "Don't Break Me Down",
       "url": "https://open.spotify.com/track/7g5tIBg1W2ySyFeds4Iurv"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 202133,
       "name": "Every Girl",
       "url": "https://open.spotify.com/track/4C4oQjntCiPjPltwKoSll7"
@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -2321,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Barefoot and Pregnant",
+        "url": "https://open.spotify.com/album/5luiVWBFpAODZvAFZhwb24"
+      },
+      "artists": [
+        {
+          "name": "The Dollyrots",
+          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193952,
+      "name": "Get Weird",
+      "url": "https://open.spotify.com/track/3Wkni7PSIfbHRThUDI8QT1"
+    },
+    {
+      "album": {
         "name": "Sunday Love",
         "url": "https://open.spotify.com/album/4LFgpooWdKKkdaFPLNhHWU"
       },
@@ -2332,7 +2350,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 229506,
       "name": "Get You Off",
       "url": "https://open.spotify.com/track/0ZgaHE56xKJQhV2wroTuH5"
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 261981,
       "name": "Glass Eyes Cryin'",
       "url": "https://open.spotify.com/track/1pr01IymP1cUpd4efyrUzs"
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 168855,
       "name": "Hell and Everything Between",
       "url": "https://open.spotify.com/track/48CWlDiqiNvbq2Uouin6FG"
@@ -2786,7 +2804,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 161013,
       "name": "Hot Tonight",
       "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
@@ -2844,6 +2862,24 @@
       "duration_ms": 229484,
       "name": "How Much More",
       "url": "https://open.spotify.com/track/3qonuZK4AphPDd6lCcHFog"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Studs",
+        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
+      },
+      "artists": [
+        {
+          "name": "Morningwood",
+          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "How You Know It\u2019s Love",
+      "url": "https://open.spotify.com/track/3L8o36BnvWlXJ1j9tLJbjG"
     },
     {
       "album": {
@@ -2930,7 +2966,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 181211,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/5PV10jClkV9Z2sds0pR3PX"
@@ -2966,7 +3002,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 168000,
       "name": "I am so bored now",
       "url": "https://open.spotify.com/track/0d5xoD4hyuTJF3GlGGzV4s"
@@ -3334,7 +3370,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -4134,7 +4170,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 222933,
       "name": "messy",
       "url": "https://open.spotify.com/track/3LfW2tSMgOp93RTUlJHuD2"
@@ -4314,7 +4350,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -4350,7 +4386,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -4876,7 +4912,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 167200,
       "name": "Out of My Hands",
       "url": "https://open.spotify.com/track/4JoogJiCunKKv7bgl8fMP6"
@@ -4984,7 +5020,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 245296,
       "name": "Party in Hell",
       "url": "https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t"
@@ -5038,7 +5074,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 87433,
       "name": "Plugged in Riot",
       "url": "https://open.spotify.com/track/3DnirJo3W10Zq2lERV2FvK"
@@ -5254,7 +5290,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 219080,
       "name": "Queens and Pharaohs",
       "url": "https://open.spotify.com/track/4O9XXHFVDCbIH1hu9d8qWN"
@@ -5604,6 +5640,24 @@
       "duration_ms": 152571,
       "name": "SIRENS",
       "url": "https://open.spotify.com/track/4T3mKvByGCzemF2INupkPk"
+    },
+    {
+      "album": {
+        "name": "So Many Bullets",
+        "url": "https://open.spotify.com/album/5VGhjIpStvsCjqGPGGqiNn"
+      },
+      "artists": [
+        {
+          "name": "Sweet Talk!",
+          "url": "https://open.spotify.com/artist/0VXxW6UvN5sDxe1to9AFef"
+        }
+      ],
+      "date_added": "2026-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184848,
+      "name": "So Many Bullets",
+      "url": "https://open.spotify.com/track/29VkXvAbzDqh345Q447uoZ"
     },
     {
       "album": {
@@ -6688,7 +6742,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 129660,
       "name": "What You See",
       "url": "https://open.spotify.com/track/5oLra2jYU0gsoo4ZSIFGsE"
@@ -6908,7 +6962,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-29",
+      "date_removed": null,
       "duration_ms": 190616,
       "name": "You're So Boring",
       "url": "https://open.spotify.com/track/1YKafihyFLxNnaCr14C0wP"

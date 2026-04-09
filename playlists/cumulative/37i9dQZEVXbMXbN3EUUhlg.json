@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
@@ -3032,7 +3032,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/2UR43PuH6ySuNQjJGfF5zh"
@@ -17364,7 +17364,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 227660,
       "name": "Into the Sun",
       "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
@@ -26158,7 +26158,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
@@ -27864,7 +27864,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 172796,
       "name": "Please",
       "url": "https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB"
@@ -30999,6 +30999,24 @@
     },
     {
       "album": {
+        "name": "Manifesto Musical 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6xWtWF4IELcn31NEU5eMcq"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Saudade De Quem Eu Sou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3xgrWGYrqZVL7aAvZTm2MA"
+    },
+    {
+      "album": {
         "name": "Manifesto Musical 2 (Ao Vivo / EP4)",
         "url": "https://open.spotify.com/album/5eeXmA5MzujMCU7OMy194q"
       },
@@ -31054,7 +31072,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
@@ -31080,7 +31098,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/5SnOzmKt8r7GUjkBzV4Lvd"
@@ -40313,6 +40331,24 @@
     },
     {
       "album": {
+        "name": "Manifesto Musical 2, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Mq8pVxLgoSIUGVp6dgYF8"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150449,
+      "name": "\u00daltima Saudade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1tmD4Xpd1YNSGCG5AYqHDk"
+    },
+    {
+      "album": {
         "name": "Manifesto Musical 2 (Ao Vivo / EP1)",
         "url": "https://open.spotify.com/album/4HothMjvojSA740SFUAiRC"
       },
@@ -40342,7 +40378,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 150449,
       "name": "\u00daltima Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/4y93vvzu2h8MITw7YyUTcI"

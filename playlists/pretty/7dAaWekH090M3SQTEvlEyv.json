@@ -6,23 +6,47 @@
     "name": "Netmune",
     "url": "https://open.spotify.com/user/31e6dqbfoohkwlm47nh6e763jbnm"
   },
-  "snapshot_id": "AAAD8Nq3TpKNBJ9EaCKCJ+mBC5fzLeB5",
+  "snapshot_id": "AAAECL4QoReR2xtJ+7ma0EJgAAFvpjq5",
   "tracks": [
     {
-      "added_at": "2026-03-25 06:51:22",
+      "added_at": "2026-03-25 06:54:18",
       "album": {
-        "name": "\u30c7\u30ed\u30b9\u30b5\u30f3\u30c8\u30b9",
-        "url": "https://open.spotify.com/album/7aQIYdwuQ2eVhqM19FO5X5"
+        "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/23fpOlEQVNLeM6jRvfDpqW"
       },
       "artists": [
         {
-          "name": "\u5c71\u672c",
-          "url": "https://open.spotify.com/artist/00fzpOBrYFD3sfklXqTkBU"
+          "name": "Omoi",
+          "url": "https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
-      "duration_ms": 201265,
-      "name": "\u30c7\u30ed\u30b9\u30b5\u30f3\u30c8\u30b9",
-      "url": "https://open.spotify.com/track/5W6i71A1a4cZL9bQ6CN4qv"
+      "duration_ms": 208563,
+      "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/01RfcnlgOJRqPANze1CPji"
+    },
+    {
+      "added_at": "2026-03-25 08:26:20",
+      "album": {
+        "name": "\u305f\u3073\u3060\u3061\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/3pKpB03sbYNtMptfJpjCae"
+      },
+      "artists": [
+        {
+          "name": "\u70cf\u5c4b\u8336\u623f",
+          "url": "https://open.spotify.com/artist/0B47xY6dxvEFMB6Rx2qCy6"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "\u305f\u3073\u3060\u3061\u306e\u3046\u305f (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7szhYsCx1lqZ7p3mCqqGYq"
     },
     {
       "added_at": "2026-03-18 07:25:52",
@@ -49,6 +73,38 @@
       "url": "https://open.spotify.com/track/2cFwQJ4AAjWyGx1n14nZNp"
     },
     {
+      "added_at": "2026-04-01 05:33:57",
+      "album": {
+        "name": "\u544a\u767d",
+        "url": "https://open.spotify.com/album/4HWA2M7hqFKW1mLytoNNuP"
+      },
+      "artists": [
+        {
+          "name": "\u5185\u7dd2\u306e\u30d4\u30a2\u30b9",
+          "url": "https://open.spotify.com/artist/7qBT0UgBDfLt3ZpKLUzFBL"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "\u544a\u767d",
+      "url": "https://open.spotify.com/track/3PwqBFAzwCxFLznnK6hKzp"
+    },
+    {
+      "added_at": "2026-03-25 06:51:22",
+      "album": {
+        "name": "\u30c7\u30ed\u30b9\u30b5\u30f3\u30c8\u30b9",
+        "url": "https://open.spotify.com/album/7aQIYdwuQ2eVhqM19FO5X5"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c",
+          "url": "https://open.spotify.com/artist/00fzpOBrYFD3sfklXqTkBU"
+        }
+      ],
+      "duration_ms": 201265,
+      "name": "\u30c7\u30ed\u30b9\u30b5\u30f3\u30c8\u30b9",
+      "url": "https://open.spotify.com/track/5W6i71A1a4cZL9bQ6CN4qv"
+    },
+    {
       "added_at": "2026-03-18 07:26:31",
       "album": {
         "name": "\u500b\u3005\u3005\u3005\u3005\u3005\u4eba",
@@ -63,42 +119,6 @@
       "duration_ms": 180271,
       "name": "\u500b\u3005\u3005\u3005\u3005\u3005\u4eba",
       "url": "https://open.spotify.com/track/1QPzvGlrRXbv3KVH2lgyJv"
-    },
-    {
-      "added_at": "2026-03-25 06:51:43",
-      "album": {
-        "name": "\u3046\u308b\u305f\u30fc\u308b",
-        "url": "https://open.spotify.com/album/4WJJVFIRtFKtPUAtcv7h4R"
-      },
-      "artists": [
-        {
-          "name": "\u85e4\u539f\u30cf\u30ac\u30cd",
-          "url": "https://open.spotify.com/artist/0gM20ZoAYxtUaRC88N9AWr"
-        }
-      ],
-      "duration_ms": 133199,
-      "name": "\u3046\u308b\u305f\u30fc\u308b",
-      "url": "https://open.spotify.com/track/2IhTr14slzROSQKtZ3CjUH"
-    },
-    {
-      "added_at": "2026-03-25 08:26:20",
-      "album": {
-        "name": "\u305f\u3073\u3060\u3061\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/3pKpB03sbYNtMptfJpjCae"
-      },
-      "artists": [
-        {
-          "name": "\u70cf\u5c4b\u8336\u623f",
-          "url": "https://open.spotify.com/artist/0B47xY6dxvEFMB6Rx2qCy6"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "\u305f\u3073\u3060\u3061\u306e\u3046\u305f (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/7szhYsCx1lqZ7p3mCqqGYq"
     },
     {
       "added_at": "2026-02-25 06:52:46",
@@ -157,48 +177,52 @@
       "url": "https://open.spotify.com/track/1qHn38paFvzaDJmML1rQbV"
     },
     {
-      "added_at": "2026-03-25 06:54:18",
+      "added_at": "2026-04-08 05:07:21",
       "album": {
-        "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba",
-        "url": "https://open.spotify.com/album/23fpOlEQVNLeM6jRvfDpqW"
+        "name": "\u30a2\u30f3\u30bf\u306b\u8a00\u3063\u3066\u3093\u306e\uff01",
+        "url": "https://open.spotify.com/album/2I38UN7Ws4f19n1pu0jHDN"
       },
       "artists": [
         {
-          "name": "Omoi",
-          "url": "https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq"
+          "name": "\u3074\u30fc\u306a\u305f",
+          "url": "https://open.spotify.com/artist/3zPzQnEfIunvuYDX0iUJju"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 133651,
+      "name": "\u30a2\u30f3\u30bf\u306b\u8a00\u3063\u3066\u3093\u306e\uff01",
+      "url": "https://open.spotify.com/track/3KaZDoUNLRzLgVIfJKTxrH"
+    },
+    {
+      "added_at": "2026-04-08 05:07:39",
+      "album": {
+        "name": "\u30d5\u30a1\u30b5\u30fc\u30c9\u30fb\u30af\u30a8\u30b9\u30c1\u30e7\u30f3\uff08\u6817\u5c71\u5915\u7483Remix\uff09",
+        "url": "https://open.spotify.com/album/4m2xumqy0xq9a549YgLey0"
+      },
+      "artists": [
+        {
+          "name": "32ki",
+          "url": "https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX"
+        },
+        {
+          "name": "\u6817\u5c71\u5915\u7483",
+          "url": "https://open.spotify.com/artist/529IDKZNOrCoMaR4xW0JlN"
         },
         {
           "name": "Hatsune Miku",
           "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 208563,
-      "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/01RfcnlgOJRqPANze1CPji"
-    },
-    {
-      "added_at": "2026-04-01 05:33:31",
-      "album": {
-        "name": "\u3080 (\u88cf) [feat. \u91cd\u97f3\u30c6\u30c8 & \u8db3\u7acb\u30ec\u30a4]",
-        "url": "https://open.spotify.com/album/6v7Nlaq28LvWRn3eCMyBXT"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u6f20\u6ce2\u65b0",
-          "url": "https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h"
         },
         {
-          "name": "Teto Kasane",
-          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
-        },
-        {
-          "name": "\u8db3\u7acb\u30ec\u30a4",
-          "url": "https://open.spotify.com/artist/09LPuYjoLMEJWne9bpvIBG"
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
         }
       ],
-      "duration_ms": 76411,
-      "name": "\u3080 (\u88cf) [feat. \u91cd\u97f3\u30c6\u30c8 & \u8db3\u7acb\u30ec\u30a4]",
-      "url": "https://open.spotify.com/track/0WHIf96VZOYrLOKuEujnIW"
+      "duration_ms": 254125,
+      "name": "\u30d5\u30a1\u30b5\u30fc\u30c9\u30fb\u30af\u30a8\u30b9\u30c1\u30e7\u30f3\uff08\u6817\u5c71\u5915\u7483Remix\uff09 (feat. \u521d\u97f3\u30df\u30af&\u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/2juafeYe2FXUavGP9nz0Ai"
     },
     {
       "added_at": "2026-03-11 06:14:45",
@@ -225,22 +249,6 @@
       "url": "https://open.spotify.com/track/4kKTrkZhZkurDH9TlCg9gX"
     },
     {
-      "added_at": "2026-04-01 05:33:57",
-      "album": {
-        "name": "\u544a\u767d",
-        "url": "https://open.spotify.com/album/4HWA2M7hqFKW1mLytoNNuP"
-      },
-      "artists": [
-        {
-          "name": "\u5185\u7dd2\u306e\u30d4\u30a2\u30b9",
-          "url": "https://open.spotify.com/artist/7qBT0UgBDfLt3ZpKLUzFBL"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "\u544a\u767d",
-      "url": "https://open.spotify.com/track/3PwqBFAzwCxFLznnK6hKzp"
-    },
-    {
       "added_at": "2026-03-11 06:14:22",
       "album": {
         "name": "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc",
@@ -265,40 +273,60 @@
       "url": "https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ"
     },
     {
-      "added_at": "2026-03-25 06:54:01",
+      "added_at": "2026-04-08 05:08:33",
       "album": {
-        "name": "\u30aa\u30fc\u30d1\u30fc\u30c4",
-        "url": "https://open.spotify.com/album/5p1j6ItJ0lyWqNFr1qxcMR"
+        "name": "\u5343\u672c\u685c",
+        "url": "https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh"
       },
       "artists": [
         {
-          "name": "\u716e\u30eb\u679c\u5b9f",
-          "url": "https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+          "name": "KuroUsa(WhiteFlame)",
+          "url": "https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF"
         }
       ],
-      "duration_ms": 171256,
-      "name": "\u30aa\u30fc\u30d1\u30fc\u30c4 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/3tL7eD0waUbLBmaJw2V3z5"
+      "duration_ms": 252467,
+      "name": "\u5343\u672c\u685c",
+      "url": "https://open.spotify.com/track/38mUTswfszVFQ952r89AP8"
     },
     {
-      "added_at": "2026-04-01 05:35:09",
+      "added_at": "2026-04-01 05:33:31",
       "album": {
-        "name": "\u30d0\u30c3\u30ab\u30a2\u30ce",
-        "url": "https://open.spotify.com/album/5jtmHm0TM1OspkG93f8P2E"
+        "name": "\u3080 (\u88cf) [feat. \u91cd\u97f3\u30c6\u30c8 & \u8db3\u7acb\u30ec\u30a4]",
+        "url": "https://open.spotify.com/album/6v7Nlaq28LvWRn3eCMyBXT"
       },
       "artists": [
         {
-          "name": "Chinozo",
-          "url": "https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx"
+          "name": "\u5927\u6f20\u6ce2\u65b0",
+          "url": "https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        },
+        {
+          "name": "\u8db3\u7acb\u30ec\u30a4",
+          "url": "https://open.spotify.com/artist/09LPuYjoLMEJWne9bpvIBG"
         }
       ],
-      "duration_ms": 172840,
-      "name": "\u30d0\u30c3\u30ab\u30a2\u30ce",
-      "url": "https://open.spotify.com/track/3fvkfg1QFOFExUhkt78w9Q"
+      "duration_ms": 76411,
+      "name": "\u3080 (\u88cf) [feat. \u91cd\u97f3\u30c6\u30c8 & \u8db3\u7acb\u30ec\u30a4]",
+      "url": "https://open.spotify.com/track/0WHIf96VZOYrLOKuEujnIW"
+    },
+    {
+      "added_at": "2026-04-08 05:09:35",
+      "album": {
+        "name": "\u540c\u21c6\u540c",
+        "url": "https://open.spotify.com/album/2diJ4lBb3TmJLcMGEWdnru"
+      },
+      "artists": [
+        {
+          "name": "\u8aad\u8c37\u3042\u304b\u306d",
+          "url": "https://open.spotify.com/artist/6hmC01ibmH7YxREDOvLaqE"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "\u540c\u21c6\u540c",
+      "url": "https://open.spotify.com/track/0x6IShZTkv9q5IM1uZVnxg"
     },
     {
       "added_at": "2026-04-01 05:35:15",

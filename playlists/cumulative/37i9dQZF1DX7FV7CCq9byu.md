@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,603 songs - 3 day 10 hr 11 min
+1,605 songs - 3 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [Love is for Losers](https://open.spotify.com/track/5QcofXOqhJBxkUKftdRA0Q) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Love is for Losers](https://open.spotify.com/album/2KUV1COZY4KFM2mtOA5cBs) | 3:24 | 2025-09-04 | 2025-10-10 |
 | [love isn't everything](https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [love isn't everything](https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77) | 3:27 | 2026-03-13 |  |
 | [Love Language](https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Love Language](https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T) | 2:57 | 2025-06-05 | 2025-07-11 |
+| [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 | 2026-04-08 |  |
 | [Love Me Gentle](https://open.spotify.com/track/7bwgNZrJm4fnLFTxVJnzpf) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Love Me Gentle](https://open.spotify.com/album/3wz8VI2kJn9fx3NVmb1WON) | 2:37 | 2025-07-03 | 2025-08-15 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-01-09 | 2025-03-28 |
 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 | 2025-03-24 | 2025-05-02 |
@@ -1056,6 +1057,7 @@
 | [Papier Mâché](https://open.spotify.com/track/37yG0To4lRmF6JecllJOci) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Papier Mâché](https://open.spotify.com/album/1i2IyndS9yTJomdnDfFfTr) | 3:24 | 2025-10-23 | 2025-12-12 |
 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 | 2026-02-19 | 2026-03-27 |
 | [PARASITE](https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [PARASITE](https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH) | 3:40 | 2025-01-23 | 2025-03-07 |
+| [Pardon Me](https://open.spotify.com/track/4pnbLZ74D1KUCqDHwe2CXn) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [Pardon Me](https://open.spotify.com/album/7A2lM8Nv9uSsopJk5PvaRp) | 2:18 | 2026-04-08 |  |
 | [Park Lane](https://open.spotify.com/track/5PHbvmVOCDWVaA2IYhqiu4) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb), [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW) | [Park Lane](https://open.spotify.com/album/1TFk5rn7EGrFavtEYruhpS) | 3:07 | 2025-04-04 | 2025-05-09 |
 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-08-09 | 2024-09-13 |
 | [Passenger Seat](https://open.spotify.com/track/67GgkBHYX6x3qzXkNqS5oJ) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Passenger Seat](https://open.spotify.com/album/3mBqgeRuQBZkt4Vi5ZJZ6Z) | 2:56 | 2024-12-13 | 2025-02-28 |

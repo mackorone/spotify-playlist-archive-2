@@ -775,6 +775,28 @@
     },
     {
       "album": {
+        "name": "Exciting Spring",
+        "url": "https://open.spotify.com/album/6rCeDCId3sMLmD7EceaCbH"
+      },
+      "artists": [
+        {
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+        },
+        {
+          "name": "Eunbyeol",
+          "url": "https://open.spotify.com/artist/6w4yTmsjdEcvc2nKuQo6gJ"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182053,
+      "name": "Exciting Spring (Feat. Eunbyeol)",
+      "url": "https://open.spotify.com/track/4Y8k1ip0uZqRDEk4Umo6mz"
+    },
+    {
+      "album": {
         "name": "Season Note",
         "url": "https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM"
       },
@@ -1656,7 +1678,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 161739,
       "name": "Love is You",
       "url": "https://open.spotify.com/track/1wtmCl6XTMaJVQmHpVI4Gu"

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: YUNA\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BTS\) \(Enjoy a playlist of songs that support music video features!\)
 
-207 songs - 11 hr 28 min
+209 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,8 @@
 | [HANDS UP](https://open.spotify.com/track/5A6Hz16MM07t7yYacvB8fO) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/5LZ71KaercZEeBpGk3AOMp) | 3:24 | 2025-07-15 |  |
 | [HER](https://open.spotify.com/track/3H3PlGOLu5RqW8oC4upoi9) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/6oe7WSv4pqbz3xC7MFTxm5) | 2:49 | 2025-07-15 | 2025-08-20 |
 | [HomeRUN](https://open.spotify.com/track/2QPjIYPYysnKvZwyVKTXaP) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [HomeRUN](https://open.spotify.com/album/0duN67iQTQ2rmPx0SwdGHi) | 3:01 | 2025-12-03 |  |
+| [Hooligan](https://open.spotify.com/track/4TZc4KyZrSOcKCdrTKVYdS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Hooligan](https://open.spotify.com/album/7Gdn1kwr0LZ39avRoflJd8) | 3:57 | 2026-04-08 |  |
+| [Hooligan](https://open.spotify.com/track/7lMEAMyUDYJpaz836g1xqD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Hooligan](https://open.spotify.com/album/32mqFjNgLRT0UCXzHSkXQR) | 3:57 | 2026-04-08 |  |
 | [Hoper](https://open.spotify.com/track/2sGgvD7scKREQ9m6jF5OOy) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Hoper](https://open.spotify.com/album/6QFchbXLvkIHoLSqNsBgfU) | 4:26 | 2025-07-15 | 2025-08-20 |
 | [HOT](https://open.spotify.com/track/7fP3shmsikBUs6T3zb1Rjt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/7gnwr4YOfrLOEPU1skJrfB) | 2:49 | 2025-07-15 | 2025-08-20 |
 | [HUNTER](https://open.spotify.com/track/18kHW2mhGfcId0uQwgtYbI) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [HUNTER](https://open.spotify.com/album/6QpzWf1z5xdTWKTyXWGyIb) | 3:00 | 2025-08-13 |  |

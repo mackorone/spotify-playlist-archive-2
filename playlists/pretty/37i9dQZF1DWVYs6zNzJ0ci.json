@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Los Pericos & Nonpalidece",
-  "num_followers": 1170848,
+  "num_followers": 1170757,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -103,18 +103,22 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "Inefable",
-        "url": "https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp"
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 207879,
-      "name": "Confianza",
-      "url": "https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue"
+      "duration_ms": 223783,
+      "name": "Un Desperdicio",
+      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -147,22 +151,18 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "a new star (1 9 9 3)",
-        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+        "name": "Inefable",
+        "url": "https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 223783,
-      "name": "Un Desperdicio",
-      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
+      "duration_ms": 207879,
+      "name": "Confianza",
+      "url": "https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "El Sonido Real",
+        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 385560,
+      "name": "Mi Sol",
+      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "7 Vidas",
         "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 201347,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "El Sonido Real",
-        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 385560,
-      "name": "Mi Sol",
-      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
         "name": "Tu Presencia",
         "url": "https://open.spotify.com/album/759hFA2ZJM27HKYvBUjccm"
       },
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2026-03-27 03:00:31",
       "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Zendaya",
-      "url": "https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
         "name": "Hasta Que Me Olvides",
         "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
       },
@@ -1671,26 +1671,6 @@
       "duration_ms": 255744,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
-    },
-    {
-      "added_at": "2026-03-27 03:00:31",
-      "album": {
-        "name": "La Tierra del Desencanto",
-        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
-      },
-      "artists": [
-        {
-          "name": "BlackDali",
-          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
-        },
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 249542,
-      "name": "La Tierra del Desencanto",
-      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
     },
     {
       "added_at": "2026-03-27 03:00:31",
@@ -1715,6 +1695,26 @@
       "duration_ms": 206794,
       "name": "Lo que piensen de mi",
       "url": "https://open.spotify.com/track/5rcTB3yayyjw5I1ZhpLHkp"
+    },
+    {
+      "added_at": "2026-03-27 03:00:31",
+      "album": {
+        "name": "La Tierra del Desencanto",
+        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
+      },
+      "artists": [
+        {
+          "name": "BlackDali",
+          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
+        },
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 249542,
+      "name": "La Tierra del Desencanto",
+      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
     },
     {
       "added_at": "2026-03-27 03:00:31",

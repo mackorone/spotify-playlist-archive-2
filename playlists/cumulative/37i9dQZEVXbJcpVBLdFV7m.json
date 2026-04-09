@@ -12467,6 +12467,24 @@
     },
     {
       "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391268,
+      "name": "Fabienk",
+      "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
+    },
+    {
+      "album": {
         "name": "Fable",
         "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
       },
@@ -21492,7 +21510,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 189746,
       "name": "Like Animals",
       "url": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP"
@@ -23262,7 +23280,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
@@ -29908,7 +29926,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 187620,
       "name": "Please Me x Titanium",
       "url": "https://open.spotify.com/track/5xopbIDOEEqHIMEEQhHj6a"
@@ -32102,7 +32120,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -35646,7 +35664,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 208662,
       "name": "Stephanie - Afro House Mix",
       "url": "https://open.spotify.com/track/5XnrZjOoF7UUzGf3DGdUO8"
@@ -38231,6 +38249,24 @@
     },
     {
       "album": {
+        "name": "They don't care about us (Afro Remix)",
+        "url": "https://open.spotify.com/album/7rFVqZWQf6A75IpECWuebx"
+      },
+      "artists": [
+        {
+          "name": "ZENO",
+          "url": "https://open.spotify.com/artist/0Jpb9PylU2pqIeahFhWvyq"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193475,
+      "name": "They don't care about us - Afro Remix",
+      "url": "https://open.spotify.com/track/6PiihOBjBw5TMLG7cvOsjW"
+    },
+    {
+      "album": {
         "name": "Thick Of It (feat. Trippie Redd) / Low",
         "url": "https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH"
       },
@@ -38754,7 +38790,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 344009,
       "name": "Titanium x Please Me - Slowed",
       "url": "https://open.spotify.com/track/4T85LIjCmp9z5NjTi40dLJ"
@@ -42058,7 +42094,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 199738,
       "name": "When I Stand",
       "url": "https://open.spotify.com/track/7zaMzteK8ExKLUvJaUpX9w"
@@ -45064,6 +45100,24 @@
       "duration_ms": 212957,
       "name": "\u0411\u0443\u043b\u0435\u0432\u0430\u0440\u0434\u0430",
       "url": "https://open.spotify.com/track/7ESOjeoe9blHDhUjkJmWxP"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0432\u043e\u0439\u043d\u0438\u043a",
+        "url": "https://open.spotify.com/album/6FnFz0blcwU89v2bDKDlB5"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u0411\u0435\u043b\u0447\u0435\u0432",
+          "url": "https://open.spotify.com/artist/55DqEEaOVrdHFkOJdJMoow"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "\u0411\u0443\u043b\u0435\u0432\u0430\u0440\u0434\u044a\u0442",
+      "url": "https://open.spotify.com/track/6dx7xYt0SycFnj8EDzYUY7"
     },
     {
       "album": {

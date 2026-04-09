@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-663 songs - 1 day 17 hr 33 min
+666 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Avec Moi](https://open.spotify.com/track/437ruWTD5PwBnpipbD2SNv) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Futur Sampler Vol\. 2](https://open.spotify.com/album/4VbE8jvuLZCNTfUm5ycqjq) | 5:39 | 2024-10-13 |  |
 | [Baby](https://open.spotify.com/track/5TR9M7RoOrUaohDO1HnnAf) | [David Lowe](https://open.spotify.com/artist/52dT7EHXa4b74ozIjFISzD), [Micah Baxter](https://open.spotify.com/artist/1IHY1bbjZvKR7QSjUAjCje) | [Baby](https://open.spotify.com/album/1SGZIgUkut9V91uEXZrUZR) | 6:09 | 2023-08-13 | 2023-09-26 |
 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 | 2023-03-19 | 2023-04-01 |
+| [Baby Beat Box \- ProOne79 Remix](https://open.spotify.com/track/3dKD7n75H2KWe19IEWMrcG) | [Stylophonic](https://open.spotify.com/artist/2xJOPOUvVAPRWU1hcNtsq1), [ProOne79](https://open.spotify.com/artist/1BWkFxDS5l1CgR0QpOfI5b) | [Baby Beat Box \(2026 Remixes\)](https://open.spotify.com/album/0Yr216EUviOAzrwj2YZwyQ) | 4:30 | 2026-04-08 |  |
 | [Back N Forth](https://open.spotify.com/track/1lu9DGjufsxS6m7CnuL1An) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Back N Forth](https://open.spotify.com/album/0DGlrQi4k2PkBTXiZ0Bbre) | 2:12 | 2023-02-19 | 2023-03-13 |
 | [Back Out](https://open.spotify.com/track/5NVvOLD77ShDwUYRaRtRbX) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk), [Panna \(BR\)](https://open.spotify.com/artist/34YgnaBrdRLtuwExinbk0t) | [Back Out](https://open.spotify.com/album/7nTo5MrORIqbLQ7CHt7Psu) | 6:33 | 2023-07-16 | 2023-08-20 |
 | [Back To The Groove](https://open.spotify.com/track/6lTX898JuTfnT6l0tx5gKV) | [Thunder DJ AI](https://open.spotify.com/artist/7ba9PcoyvqG1loN3hReWM6) | [Back To The Groove](https://open.spotify.com/album/62p4HL44U6NqmzXO8Be4r3) | 4:38 | 2026-03-02 |  |
@@ -487,6 +488,7 @@
 | [Roots Of House Music](https://open.spotify.com/track/0yFuwfNxXHerJmBEtMPzyS) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Roots Of House Music](https://open.spotify.com/album/5cTGR5XmPnc60KJm6H0PyG) | 3:08 | 2023-01-29 | 2023-02-20 |
 | [Ruff Cutz](https://open.spotify.com/track/7ncQGjZ7XZ5TzhWCe7FBJK) | [Jack Walker \(UK\)](https://open.spotify.com/artist/4JT6E1f3uUYXZP0ZeRxW5y) | [Ruff Cutz](https://open.spotify.com/album/4TON0Tx2gEnDc4IMmh6oAL) | 3:26 | 2023-09-24 | 2023-12-14 |
 | [Rumblah](https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Rumblah](https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv) | 4:02 | 2023-01-29 | 2023-03-06 |
+| [Rumble](https://open.spotify.com/track/79B9cNag9L2XXyRnE6k1Mk) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Rumble](https://open.spotify.com/album/2hwo0WqHNsXTErsyegzU1p) | 3:01 | 2026-04-08 |  |
 | [Running Free \- Original Mix](https://open.spotify.com/track/30eWAzqHvSY0ErAZMX0Z1k) | [Bartolomeo Di Chiara](https://open.spotify.com/artist/79HWXwdfrEFu327dotcqph) | [Running Free \(Original Mix\)](https://open.spotify.com/album/2aBo8ygGHhvuSZMHZwhb00) | 4:58 | 2026-04-05 |  |
 | [Saint of the Broken](https://open.spotify.com/track/25Avv41cgENKDtjAuzEUEl) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [Neon Renaissance](https://open.spotify.com/album/0ChsRFFcUtNRfoq2PsmEvZ) | 2:00 | 2026-03-23 |  |
 | [Samsara](https://open.spotify.com/track/4U91micKPBG76g9oKoICVk) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Samsara / Hangover](https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo) | 2:58 | 2023-04-16 | 2023-05-01 |
@@ -651,6 +653,7 @@
 | [Will You Come Back \- Radio Mix](https://open.spotify.com/track/4XjiZgrAi8bJqywg9YJCY2) | [Angelo Draetta](https://open.spotify.com/artist/16gj3v4KRvdAt6jEZZHX7k) | [Will You Come Back](https://open.spotify.com/album/41ID9K7lNifF62rpmvcGxy) | 3:58 | 2025-12-22 | 2026-01-03 |
 | [Witch hunter](https://open.spotify.com/track/45emzk7r12P23egrFgiqnu) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Witch hunter](https://open.spotify.com/album/6VA3TDy7ztR7L8QYqyOCNT) | 3:32 | 2026-04-05 |  |
 | [WITHOUT YOU](https://open.spotify.com/track/2VvUvR1Cet5eNEb8TyjxW7) | [DYEPA'](https://open.spotify.com/artist/7b7hWy8ITrscmKdRb8WjMv) | [WITHOUT YOU](https://open.spotify.com/album/0vW2qzjESsMoebRpfhf3q0) | 3:08 | 2025-12-16 | 2026-01-03 |
+| [Words Never Spoken](https://open.spotify.com/track/2qSeZi0OiZXN7jvsSwYgGi) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [The Seadix](https://open.spotify.com/album/57KXLCCEgLNCP9yCd54ZEq) | 4:02 | 2026-04-08 |  |
 | [Work It](https://open.spotify.com/track/7jAbu1bvEH0lgWO6860KXw) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ) | [Milano Downtown III](https://open.spotify.com/album/5abIHUF2v00mKzgEqfalya) | 3:12 | 2024-10-13 |  |
 | [Work That Pressure](https://open.spotify.com/track/2PC3Jfjvk3fWgD6y6J3EOq) | [Thunder DJ AI](https://open.spotify.com/artist/7ba9PcoyvqG1loN3hReWM6) | [Work That Pressure](https://open.spotify.com/album/0AcPZrgCXPwtKxUxBuSJMW) | 3:47 | 2026-02-22 |  |
 | [Wrapper on the Wire](https://open.spotify.com/track/0lSiyNMqHyU7UzTC1T6IC1) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Ethereal Escape: Dreamy & Atmospheric \(Vol\. 1\)](https://open.spotify.com/album/1ybO61ut249vWI2ti1CH3A) | 3:04 | 2026-04-04 |  |

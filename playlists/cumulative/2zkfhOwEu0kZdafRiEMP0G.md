@@ -4,7 +4,7 @@
 
 > 
 
-124 songs - 8 hr 38 min
+125 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Lavender Sunflower](https://open.spotify.com/track/1au2UduxcvHfa0fZS3Szci) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 2:31 | 2026-03-30 |  |
 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 | 2026-03-30 |  |
 | [Light My Candle](https://open.spotify.com/track/7uSxlYmb19TczZ3AP1s3tO) | [Adam Pascal](https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi), [Rosario Dawson](https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX) | [RENT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ) | 4:10 | 2025-07-13 | 2025-11-05 |
+| [Look for the Force](https://open.spotify.com/track/7mHVL6sPURkaYe5kqCv5aH) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Look for the Force](https://open.spotify.com/album/4hid5dlCRtnbGVydxpCijo) | 2:49 | 2026-04-08 |  |
 | [Los Angeles](https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/54xM746igJkdPJenRhW1za) | 6:29 | 2026-03-30 |  |
 | [Master and Apprentice](https://open.spotify.com/track/1fUfmJmdubIkIBn2yIctbi) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Master and Apprentice](https://open.spotify.com/album/686otqGNkQF90lL7Ok3GGQ) | 2:13 | 2025-11-05 |  |
 | [Maul's Revenge](https://open.spotify.com/track/2KT8DVAMX7MLxSuAmaIbOl) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Maul's Revenge](https://open.spotify.com/album/65aG5hYGhsppIZl96jUwXj) | 2:27 | 2026-01-31 |  |

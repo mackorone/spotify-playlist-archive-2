@@ -25690,7 +25690,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -28622,7 +28622,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 179149,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY"
@@ -33138,6 +33138,48 @@
       "duration_ms": 187663,
       "name": "Miss Me - Slowed + Reverb",
       "url": "https://open.spotify.com/track/5DlsEd6oGvxn32M0dHMoFE"
+    },
+    {
+      "album": {
+        "name": "Pavarotti - The Duets",
+        "url": "https://open.spotify.com/album/3IstmfY97BfXzFXhayzvh5"
+      },
+      "artists": [
+        {
+          "name": "Bono",
+          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
+        },
+        {
+          "name": "The Edge",
+          "url": "https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP"
+        },
+        {
+          "name": "Adam Clayton",
+          "url": "https://open.spotify.com/artist/4VNYuBtDAKCIisEyieUVzc"
+        },
+        {
+          "name": "Larry Mullen",
+          "url": "https://open.spotify.com/artist/7pXqR1naGFkoVEcFHjn3jb"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Passengers",
+          "url": "https://open.spotify.com/artist/4GCWiBjgcpUciB55iT5bel"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272426,
+      "name": "Miss Sarajevo - Single Radio Edit",
+      "url": "https://open.spotify.com/track/4jAI86VIBB7xlaKEzWL1og"
     },
     {
       "album": {
@@ -39532,7 +39574,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 187620,
       "name": "Please Me x Titanium",
       "url": "https://open.spotify.com/track/5xopbIDOEEqHIMEEQhHj6a"
@@ -45080,7 +45122,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Soir\u00e9e mondaine",
       "url": "https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn"
@@ -54618,7 +54660,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 199738,
       "name": "When I Stand",
       "url": "https://open.spotify.com/track/7zaMzteK8ExKLUvJaUpX9w"
@@ -54643,7 +54685,7 @@
     },
     {
       "album": {
-        "name": "Where Have You Been (feat. RHEA)",
+        "name": "Where Have You Been",
         "url": "https://open.spotify.com/album/4mjdKbLjFJPtKCOHZx4pkY"
       },
       "artists": [
@@ -54660,7 +54702,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156923,
-      "name": "Where Have You Been (feat. RHEA)",
+      "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/4RlnD1zo3kAvARMvzhp4qa"
     },
     {

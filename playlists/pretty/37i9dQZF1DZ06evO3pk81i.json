@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 9351,
+  "num_followers": 9361,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAAC5R4lzR992W6qxHPhLHHUQ",
+  "snapshot_id": "adRJAAAAAACtbNGwBfF5rA2CykBzeagZ",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Una Mirada",
-        "url": "https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 201898,
-      "name": "Con Una Mirada",
-      "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Expectante",
         "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 154656,
       "name": "Expectante",
       "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Una Mirada",
+        "url": "https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 201898,
+      "name": "Con Una Mirada",
+      "url": "https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Bueno Y Lo Malo",
-        "url": "https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm"
       },
       "artists": [
         {
@@ -556,17 +556,13 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         },
         {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        },
-        {
-          "name": "Julio Caesar",
-          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 162625,
-      "name": "Lo Bueno Y Lo Malo",
-      "url": "https://open.spotify.com/track/3max574PT1q80JWMAGkdUY"
+      "duration_ms": 170150,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A"
     },
     {
       "added_at": null,
@@ -591,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm"
+        "name": "Lo Bueno Y Lo Malo",
+        "url": "https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4"
       },
       "artists": [
         {
@@ -600,13 +596,17 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         },
         {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
         }
       ],
-      "duration_ms": 170150,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A"
+      "duration_ms": 162625,
+      "name": "Lo Bueno Y Lo Malo",
+      "url": "https://open.spotify.com/track/3max574PT1q80JWMAGkdUY"
     },
     {
       "added_at": null,

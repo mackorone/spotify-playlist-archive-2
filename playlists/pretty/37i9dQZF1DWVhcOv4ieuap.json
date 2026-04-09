@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1040221,
+  "num_followers": 1040136,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2026-04-03 04:02:17",
       "album": {
-        "name": "Hasta Jes\u00fas Tuvo un Mal D\u00eda",
-        "url": "https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY"
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
       },
       "artists": [
         {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
         }
       ],
-      "duration_ms": 195008,
-      "name": "Hasta Jes\u00fas Tuvo un Mal D\u00eda",
-      "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
     },
     {
       "added_at": "2026-04-03 04:02:17",
@@ -1115,18 +1111,22 @@
     {
       "added_at": "2026-04-03 04:02:17",
       "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3?",
-        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+        "name": "Hasta Jes\u00fas Tuvo un Mal D\u00eda",
+        "url": "https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY"
       },
       "artists": [
         {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 174546,
-      "name": "\u00bfC\u00f3mo Pas\u00f3?",
-      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+      "duration_ms": 195008,
+      "name": "Hasta Jes\u00fas Tuvo un Mal D\u00eda",
+      "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
     },
     {
       "added_at": "2026-04-03 04:02:17",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-04-03 04:02:17",
       "album": {
-        "name": "CUCARACHEO",
-        "url": "https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Jay Kabalan",
-          "url": "https://open.spotify.com/artist/3CY1f5QW3qx9FmbkQGOwbm"
-        }
-      ],
-      "duration_ms": 153903,
-      "name": "CUCARACHEO",
-      "url": "https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW"
-    },
-    {
-      "added_at": "2026-04-03 04:02:17",
-      "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 228186,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
+    },
+    {
+      "added_at": "2026-04-03 04:02:17",
+      "album": {
+        "name": "CUCARACHEO",
+        "url": "https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Jay Kabalan",
+          "url": "https://open.spotify.com/artist/3CY1f5QW3qx9FmbkQGOwbm"
+        }
+      ],
+      "duration_ms": 153903,
+      "name": "CUCARACHEO",
+      "url": "https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW"
     },
     {
       "added_at": "2026-04-03 04:02:17",

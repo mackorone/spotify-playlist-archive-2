@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: D\-Sturb
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,499 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,569 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love Generation](https://open.spotify.com/track/0HCukG2CWTk83lsSBhCQBa) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Love Generation](https://open.spotify.com/album/5gDN95574hVSb4H6WztVHj) | 2:38 |
+| 1 | [Love Generation](https://open.spotify.com/track/3kxH84wDmwYJQQIs9e6bCN) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Love Generation](https://open.spotify.com/album/0ctgLGBpK2eLGlg1Fsm2hP) | 2:43 |
 | 2 | [Sacred Oath \(Defqon.1 2026 Anthem\)](https://open.spotify.com/track/0S9f4Q3EpMzK7oqJRgLER1) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [Sacred Oath \(Defqon.1 2026 Anthem\)](https://open.spotify.com/album/7r4jQKMJPEQkPhRZbvL5Fc) | 4:58 |
 | 3 | [Filthy Rave](https://open.spotify.com/track/4JaRupx6zn14ogukDrpDBT) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Filthy Rave](https://open.spotify.com/album/7hxKX4sSm6q1QMxgKzqr7s) | 3:01 |
 | 4 | [Renegade Master](https://open.spotify.com/track/1O14Ntpd6CE1cZ9NmNvD5x) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Renegade Master](https://open.spotify.com/album/69GOFplxX45nGgZfmv0YX7) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Shock The Future](https://open.spotify.com/track/3bxP5pHkuyG3mRjE8YEZ7f) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Shock The Future](https://open.spotify.com/album/5gKQDpCpbAm2EHl1pNRoND) | 2:48 |
 | 100 | [SURGING SPARKS \- Energy Festival 2026 Anthem](https://open.spotify.com/track/5vGXxQ19nD3udCHeWtzBP0) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Teal](https://open.spotify.com/artist/1rZTUrXEHSOC6Q5nn3484A), [MC Pez](https://open.spotify.com/artist/2mJl47Ubcj6PS9tovXs4dK) | [SURGING SPARKS \(Energy Festival 2026 Anthem\)](https://open.spotify.com/album/2atOVXX8Gma5vSEQeoMY2N) | 4:06 |
 
-Snapshot ID: `AAAAAKHE5V8ybXl1m9Nr2pjrf/85720T`
+Snapshot ID: `AAAAAIH5vdsscrzORGuSNz4Il0C28IBn`

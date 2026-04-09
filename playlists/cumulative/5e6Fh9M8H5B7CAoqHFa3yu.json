@@ -20401,6 +20401,24 @@
     },
     {
       "album": {
+        "name": "L\u00e1grimas de Chuva",
+        "url": "https://open.spotify.com/album/3pEtVDAPRsBmaCITgCfok2"
+      },
+      "artists": [
+        {
+          "name": "Nine Angel",
+          "url": "https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "L\u00e1grimas de Chuva",
+      "url": "https://open.spotify.com/track/3bSWkB3k3KOOs0Ysz16Ptu"
+    },
+    {
+      "album": {
         "name": "The Mad Sunday",
         "url": "https://open.spotify.com/album/22xvWyrGCj7bk8GTA5buRd"
       },

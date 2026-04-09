@@ -1,13 +1,65 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2727,
+  "num_followers": 2729,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASESUmxDAo/R4gBSqLOPBvCpRhrdK8",
+  "snapshot_id": "AAASFHF98vh6e2ZcVvdR9ss4g9wq45uD",
   "tracks": [
+    {
+      "added_at": "2026-04-08 18:25:31",
+      "album": {
+        "name": "The Seadix",
+        "url": "https://open.spotify.com/album/57KXLCCEgLNCP9yCd54ZEq"
+      },
+      "artists": [
+        {
+          "name": "The Seadix",
+          "url": "https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB"
+        }
+      ],
+      "duration_ms": 242785,
+      "name": "Words Never Spoken",
+      "url": "https://open.spotify.com/track/2qSeZi0OiZXN7jvsSwYgGi"
+    },
+    {
+      "added_at": "2026-04-08 12:57:58",
+      "album": {
+        "name": "Baby Beat Box (2026 Remixes)",
+        "url": "https://open.spotify.com/album/0Yr216EUviOAzrwj2YZwyQ"
+      },
+      "artists": [
+        {
+          "name": "Stylophonic",
+          "url": "https://open.spotify.com/artist/2xJOPOUvVAPRWU1hcNtsq1"
+        },
+        {
+          "name": "ProOne79",
+          "url": "https://open.spotify.com/artist/1BWkFxDS5l1CgR0QpOfI5b"
+        }
+      ],
+      "duration_ms": 270472,
+      "name": "Baby Beat Box - ProOne79 Remix",
+      "url": "https://open.spotify.com/track/3dKD7n75H2KWe19IEWMrcG"
+    },
+    {
+      "added_at": "2026-04-08 10:48:56",
+      "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/2hwo0WqHNsXTErsyegzU1p"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/79B9cNag9L2XXyRnE6k1Mk"
+    },
     {
       "added_at": "2026-04-08 01:36:39",
       "album": {

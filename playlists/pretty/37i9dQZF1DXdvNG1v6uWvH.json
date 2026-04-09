@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of OneRepublic,  Bebe Rexha og m\u00f6rgum fleiri!",
-  "num_followers": 9613,
+  "num_followers": 9612,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -136,7 +136,7 @@
       },
       "artists": [
         {
-          "name": "Darri",
+          "name": "H\u00e1ski",
           "url": "https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE"
         }
       ],
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-04-03 00:00:01",
       "album": {
-        "name": "Shine Again",
-        "url": "https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 245564,
-      "name": "Shine Again",
-      "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
-    },
-    {
-      "added_at": "2026-04-03 00:00:01",
-      "album": {
         "name": "CLARITY OF MIND",
         "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
       },
@@ -283,22 +267,6 @@
       "duration_ms": 192419,
       "name": "I AM",
       "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
-    },
-    {
-      "added_at": "2026-04-03 00:00:01",
-      "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "In A Life",
-      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
     },
     {
       "added_at": "2026-04-03 00:00:01",
@@ -319,22 +287,34 @@
     {
       "added_at": "2026-04-03 00:00:01",
       "album": {
-        "name": "R3SET",
-        "url": "https://open.spotify.com/album/1rhnav9zlFHm5zbyVIy2jR"
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
       "artists": [
         {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 227200,
-      "name": "RUSSIAN ROULETT3",
-      "url": "https://open.spotify.com/track/4wiNxNXwnhVdwvxedo40FK"
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "added_at": "2026-04-03 00:00:01",
+      "album": {
+        "name": "Shine Again",
+        "url": "https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 245564,
+      "name": "Shine Again",
+      "url": "https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV"
     },
     {
       "added_at": "2026-04-03 00:00:01",
@@ -387,6 +367,26 @@
       "duration_ms": 240000,
       "name": "TEACH YOU HOW TO LUH ME",
       "url": "https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp"
+    },
+    {
+      "added_at": "2026-04-03 00:00:01",
+      "album": {
+        "name": "R3SET",
+        "url": "https://open.spotify.com/album/1rhnav9zlFHm5zbyVIy2jR"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "RUSSIAN ROULETT3",
+      "url": "https://open.spotify.com/track/4wiNxNXwnhVdwvxedo40FK"
     },
     {
       "added_at": "2026-04-03 00:00:01",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-04-03 00:00:01",
       "album": {
-        "name": "Age of the Ram",
-        "url": "https://open.spotify.com/album/7qSbOinSadHKhs2OkjKvEP"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 184383,
-      "name": "Lonesome Dove",
-      "url": "https://open.spotify.com/track/3ossErA68C3bYNofQgQDsB"
-    },
-    {
-      "added_at": "2026-04-03 00:00:01",
-      "album": {
         "name": "Dangerous Lover",
         "url": "https://open.spotify.com/album/2EIRNYg9YwfZt0iRuuUFCh"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 204323,
       "name": "Dangerous Lover",
       "url": "https://open.spotify.com/track/6k5MFxx07WH3p0cC6DK9PD"
+    },
+    {
+      "added_at": "2026-04-03 00:00:01",
+      "album": {
+        "name": "Age of the Ram",
+        "url": "https://open.spotify.com/album/7qSbOinSadHKhs2OkjKvEP"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 184383,
+      "name": "Lonesome Dove",
+      "url": "https://open.spotify.com/track/3ossErA68C3bYNofQgQDsB"
     },
     {
       "added_at": "2026-04-03 00:00:01",
@@ -507,30 +507,6 @@
       "duration_ms": 178834,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/48UKanzGLbagrgYxcH2cuS"
-    },
-    {
-      "added_at": "2026-04-03 00:00:01",
-      "album": {
-        "name": "Miami Bass EP",
-        "url": "https://open.spotify.com/album/1s0gNnL4DmkqARYwCWshfV"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Rafael Cerato",
-          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
-        },
-        {
-          "name": "Mike Trix",
-          "url": "https://open.spotify.com/artist/2vmKxJmgwEQBG3tBQ93S3U"
-        }
-      ],
-      "duration_ms": 208593,
-      "name": "Miami Bass",
-      "url": "https://open.spotify.com/track/1ZWQVtzaaOptvTtD2nKE10"
     },
     {
       "added_at": "2026-04-03 00:00:01",
@@ -591,18 +567,26 @@
     {
       "added_at": "2026-04-03 00:00:01",
       "album": {
-        "name": "Montgomery Ricky (Plus 3)",
-        "url": "https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi"
+        "name": "Miami Bass EP",
+        "url": "https://open.spotify.com/album/1s0gNnL4DmkqARYwCWshfV"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        },
+        {
+          "name": "Mike Trix",
+          "url": "https://open.spotify.com/artist/2vmKxJmgwEQBG3tBQ93S3U"
         }
       ],
-      "duration_ms": 205652,
-      "name": "Some Kind of Man",
-      "url": "https://open.spotify.com/track/0Ci9ch7w390MXYK9kr84Ma"
+      "duration_ms": 208593,
+      "name": "Miami Bass",
+      "url": "https://open.spotify.com/track/1ZWQVtzaaOptvTtD2nKE10"
     },
     {
       "added_at": "2026-04-03 00:00:01",
@@ -663,6 +647,22 @@
     {
       "added_at": "2026-04-03 00:00:01",
       "album": {
+        "name": "Montgomery Ricky (Plus 3)",
+        "url": "https://open.spotify.com/album/1yBN6eCHN8Iw1mmjsAYwyi"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 205652,
+      "name": "Some Kind of Man",
+      "url": "https://open.spotify.com/track/0Ci9ch7w390MXYK9kr84Ma"
+    },
+    {
+      "added_at": "2026-04-03 00:00:01",
+      "album": {
         "name": "His Eye Is On The Sparrow",
         "url": "https://open.spotify.com/album/3jwDTqswtCkwNNRAEsrpaP"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 200915,
       "name": "His Eye Is On the Sparrow",
       "url": "https://open.spotify.com/track/44ttLSp3iiAF2IL2Phl0rJ"
-    },
-    {
-      "added_at": "2026-04-03 00:00:01",
-      "album": {
-        "name": "Want Love",
-        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 200791,
-      "name": "Want Love",
-      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
     },
     {
       "added_at": "2026-04-03 00:00:01",
@@ -711,6 +695,22 @@
     {
       "added_at": "2026-04-03 00:00:01",
       "album": {
+        "name": "Want Love",
+        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 200791,
+      "name": "Want Love",
+      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
+    },
+    {
+      "added_at": "2026-04-03 00:00:01",
+      "album": {
         "name": "American Wedding",
         "url": "https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 191943,
       "name": "American Wedding",
       "url": "https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942"
+    },
+    {
+      "added_at": "2026-04-03 00:00:01",
+      "album": {
+        "name": "Braindead",
+        "url": "https://open.spotify.com/album/1876TznZD8zvEDcDac5Cqi"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 127895,
+      "name": "Braindead",
+      "url": "https://open.spotify.com/track/2m2OKZaPIujps0Ehk7TeSz"
     },
     {
       "added_at": "2026-04-03 00:00:01",
@@ -743,22 +759,6 @@
       "duration_ms": 140048,
       "name": "IMPATIENCE",
       "url": "https://open.spotify.com/track/2ZVORu23jX56c0ZHzxMDQh"
-    },
-    {
-      "added_at": "2026-04-03 00:00:01",
-      "album": {
-        "name": "Braindead",
-        "url": "https://open.spotify.com/album/1876TznZD8zvEDcDac5Cqi"
-      },
-      "artists": [
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 127895,
-      "name": "Braindead",
-      "url": "https://open.spotify.com/track/2m2OKZaPIujps0Ehk7TeSz"
     },
     {
       "added_at": "2026-04-03 00:00:01",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-04-03 00:00:01",
       "album": {
+        "name": "Burning Down The Curtains",
+        "url": "https://open.spotify.com/album/1hI3UL0YtFzMY4WCcRPCXf"
+      },
+      "artists": [
+        {
+          "name": "Those Without",
+          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
+        }
+      ],
+      "duration_ms": 162312,
+      "name": "Burning Down The Curtains",
+      "url": "https://open.spotify.com/track/0dvAk9oM4wIyEJjpre6mcQ"
+    },
+    {
+      "added_at": "2026-04-03 00:00:01",
+      "album": {
         "name": "One I Want",
         "url": "https://open.spotify.com/album/42jfsbK5PVvIgErI4Z5KqK"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 111453,
       "name": "One I Want",
       "url": "https://open.spotify.com/track/5CY36NZEfn5Z6lq4936oz4"
-    },
-    {
-      "added_at": "2026-04-03 00:00:01",
-      "album": {
-        "name": "Burning Down The Curtains",
-        "url": "https://open.spotify.com/album/1hI3UL0YtFzMY4WCcRPCXf"
-      },
-      "artists": [
-        {
-          "name": "Those Without",
-          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
-        }
-      ],
-      "duration_ms": 162312,
-      "name": "Burning Down The Curtains",
-      "url": "https://open.spotify.com/track/0dvAk9oM4wIyEJjpre6mcQ"
     },
     {
       "added_at": "2026-04-03 00:00:01",
@@ -927,6 +927,22 @@
       "duration_ms": 228488,
       "name": "Smile More",
       "url": "https://open.spotify.com/track/3cvxnOEMYkOWKKi3yJbZ1Y"
+    },
+    {
+      "added_at": "2026-04-03 00:00:01",
+      "album": {
+        "name": "Turnaround / I'm Hooked",
+        "url": "https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 194227,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5"
     },
     {
       "added_at": "2026-04-03 00:00:01",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2026-04-03 00:00:01",
       "album": {
-        "name": "Turnaround / I'm Hooked",
-        "url": "https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw"
-      },
-      "artists": [
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 194227,
-      "name": "Turnaround",
-      "url": "https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5"
-    },
-    {
-      "added_at": "2026-04-03 00:00:01",
-      "album": {
         "name": "ionnalee's MOUTH OF A RIVER, pt. 1",
         "url": "https://open.spotify.com/album/2TCWZ0EZ1Nd4IdFk69arX7"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-04-03 00:00:01",
       "album": {
-        "name": "wav.",
-        "url": "https://open.spotify.com/album/3ZGHNX5i4aaHmYZgslN4fU"
-      },
-      "artists": [
-        {
-          "name": "Harrison First",
-          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
-        }
-      ],
-      "duration_ms": 180299,
-      "name": "the benefactor",
-      "url": "https://open.spotify.com/track/53cBYaLXJTXOA9jtSIW6Ka"
-    },
-    {
-      "added_at": "2026-04-03 00:00:01",
-      "album": {
         "name": "Soaring",
         "url": "https://open.spotify.com/album/0ALI5lP9Vo94YoJZy8OoRk"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 136615,
       "name": "Soaring",
       "url": "https://open.spotify.com/track/3t61xVGeNITVblylUfIHU0"
+    },
+    {
+      "added_at": "2026-04-03 00:00:01",
+      "album": {
+        "name": "wav.",
+        "url": "https://open.spotify.com/album/3ZGHNX5i4aaHmYZgslN4fU"
+      },
+      "artists": [
+        {
+          "name": "Harrison First",
+          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
+        }
+      ],
+      "duration_ms": 180299,
+      "name": "the benefactor",
+      "url": "https://open.spotify.com/track/53cBYaLXJTXOA9jtSIW6Ka"
     },
     {
       "added_at": "2026-04-03 00:00:01",

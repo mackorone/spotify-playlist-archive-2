@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-896 songs - 1 day 13 hr 6 min
+897 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Limitless Skies](https://open.spotify.com/track/50fJ7QZY9ixTAFjKMJOJp4) | [Mr\. Kensington](https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ) | [Limitless Skies](https://open.spotify.com/album/6g6fHQPyUnOY0CGwsXHzIM) | 3:22 | 2025-03-17 |  |
 | [Lis \(Piano Version\)](https://open.spotify.com/track/16rISbFHL5KBy4ii3dHV62) | [Mu'gambi](https://open.spotify.com/artist/0POFV4SryqA52VkOW2aTNj) | [Lis](https://open.spotify.com/album/3R4825725fGNCm2qfCqXcu) | 2:36 | 2023-10-29 | 2024-11-16 |
 | [listening](https://open.spotify.com/track/6sajUbc6aBP8WJi6nPUkfh) | [Sonyakisa](https://open.spotify.com/artist/728hgfnSJp9RITrCa8Se51) | [listening](https://open.spotify.com/album/507yNQNug3ziFZiSTAroIe) | 2:16 | 2023-10-29 | 2024-10-24 |
+| [Little Dancer](https://open.spotify.com/track/6G3denWKzINLa5MueYZDrE) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Little Dancer](https://open.spotify.com/album/5AGnQrJxn6QM9t3YNiWYmJ) | 2:33 | 2026-04-08 |  |
 | [Little Life](https://open.spotify.com/track/3kBlW30pIiwSkzZp2woM3t) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Little Life](https://open.spotify.com/album/6UJtCZVMx3FSKsmanfHCM1) | 2:11 | 2025-01-31 |  |
 | [Little Star](https://open.spotify.com/track/2nnMO69KLSTfmjvTYZcDZw) | [Alex Varmatt](https://open.spotify.com/artist/0SjJkGka0ZbdOvQu5FDXSx) | [Little Star](https://open.spotify.com/album/4yQNhbs5UyCylnvnPq5wp6) | 1:57 | 2024-08-04 | 2025-06-03 |
 | [Living Breath](https://open.spotify.com/track/5LRslJUDJjRAGFM63NP3uo) | [Olha Shustova](https://open.spotify.com/artist/43CI8IOHXnklTvPQaou8lN) | [Back To Life](https://open.spotify.com/album/6d2tEb80HYcEsycz19Fm1f) | 2:32 | 2025-09-08 |  |

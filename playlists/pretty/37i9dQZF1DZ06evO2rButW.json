@@ -1,29 +1,13 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 779465,
+  "num_followers": 779589,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAACtRUQ/N0itU1dpu3bMxHla",
+  "snapshot_id": "adRJAAAAAAAiBOI0IBoqZOZPzd7SVAMC",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mon Laferte (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 258967,
-      "name": "Femme Fatale - Spotify Sessions",
-      "url": "https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f"
-    },
     {
       "added_at": null,
       "album": {
@@ -344,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 262178,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/16dQDMg1coaX1FrIKZIgtt"
+      "duration_ms": 250162,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ"
     },
     {
       "added_at": null,
@@ -412,9 +396,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 249805,
-      "name": "Vida Normal",
-      "url": "https://open.spotify.com/track/4Vpzf68gIqtlE7ADqmAVem"
+      "duration_ms": 262178,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/16dQDMg1coaX1FrIKZIgtt"
     },
     {
       "added_at": null,
@@ -867,6 +851,22 @@
       "duration_ms": 242478,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/16mjP6OLNMordGg9FowQrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Se Me Va A Quemar El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7"
     }
   ],
   "unique_name": "This Is Mon Laferte",

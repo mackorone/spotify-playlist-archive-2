@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 192000,
       "name": "Dear",
       "url": "https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi"
@@ -6095,6 +6095,24 @@
     },
     {
       "album": {
+        "name": "Fall Into The Sky",
+        "url": "https://open.spotify.com/album/2rRWNBAA284jBTCloAeemh"
+      },
+      "artists": [
+        {
+          "name": "DADADA",
+          "url": "https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230937,
+      "name": "Fall Into The Sky",
+      "url": "https://open.spotify.com/track/13e8aevTarVIQWjcvHvoYq"
+    },
+    {
+      "album": {
         "name": "Fallin'",
         "url": "https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8"
       },
@@ -6362,7 +6380,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 269222,
       "name": "firefly",
       "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
@@ -15572,6 +15590,24 @@
       "duration_ms": 248013,
       "name": "Pixels",
       "url": "https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz"
+    },
+    {
+      "album": {
+        "name": "PLAN A",
+        "url": "https://open.spotify.com/album/6RCdgxtpxkbCZRwzBIEKdu"
+      },
+      "artists": [
+        {
+          "name": "JongYeon",
+          "url": "https://open.spotify.com/artist/20dobUAxxreg2p8Rqn13aT"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303061,
+      "name": "PLAN A",
+      "url": "https://open.spotify.com/track/6k1CqsKG53lBKrRfrcMm6l"
     },
     {
       "album": {

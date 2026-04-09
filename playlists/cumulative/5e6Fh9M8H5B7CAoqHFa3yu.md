@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,051 songs - 5 day 1 hr 42 min
+2,052 songs - 5 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1074,6 +1074,7 @@
 | [Luv Hug](https://open.spotify.com/track/7AfipMJ54S6m004iJ3DvM9) | [Shunda K](https://open.spotify.com/artist/25EMx35978LX76CR9xPBhH), [Brittany Coney](https://open.spotify.com/artist/0jxdssOxFO2Z612ZOMbN1T) | [The Most Wanted](https://open.spotify.com/album/1T5GaDlXrcvs3UP1KBkQ0Q) | 3:44 | 2025-10-07 |  |
 | [LUXO E LUTA](https://open.spotify.com/track/5370OoXFtKXzk9Hh6hIP6x) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 2:50 | 2026-01-25 |  |
 | [Lá Vem o Boi](https://open.spotify.com/track/0Vm25uSSsMKKE8eQypw1CI) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Lá Vem o Boi](https://open.spotify.com/album/6NN2sEXOP7TcRJIRavvcpm) | 3:18 | 2025-06-21 |  |
+| [Lágrimas de Chuva](https://open.spotify.com/track/3bSWkB3k3KOOs0Ysz16Ptu) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Lágrimas de Chuva](https://open.spotify.com/album/3pEtVDAPRsBmaCITgCfok2) | 3:34 | 2026-04-08 |  |
 | [Mad Dub \- Injham Remix](https://open.spotify.com/track/5nSdGrZvw7WjqdkyJuffEa) | [Mexican Stepper](https://open.spotify.com/artist/0LkpURD28re1NOBsAWSZQq), [Injham](https://open.spotify.com/artist/6fIm3DkNqvgAJ9JEHOGrjT) | [The Mad Sunday](https://open.spotify.com/album/22xvWyrGCj7bk8GTA5buRd) | 6:48 | 2024-05-01 |  |
 | [Mad Sunday](https://open.spotify.com/track/2ZggWhP07MF2KeIwzGSFA1) | [Mexican Stepper](https://open.spotify.com/artist/0LkpURD28re1NOBsAWSZQq) | [The Mad Sunday](https://open.spotify.com/album/22xvWyrGCj7bk8GTA5buRd) | 5:58 | 2024-05-01 |  |
 | [Madre Tierra \(Arkawa Edit\)](https://open.spotify.com/track/2D8ocyp94eSor1RKnzJBd6) | [Julia Zahn](https://open.spotify.com/artist/3Xif1ihsO2iQa5iWeWEIML) | [Madre Tierra \(Arkawa Edit\)](https://open.spotify.com/album/6vqGL9hn4BSADeGXs8pH7q) | 3:28 | 2025-09-30 |  |

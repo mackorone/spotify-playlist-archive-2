@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402490,
+  "num_followers": 402470,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mars 2026",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2026-03-31 22:00:12",
       "album": {
+        "name": "Miss Kitoko",
+        "url": "https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 149916,
+      "name": "Miss Kitoko",
+      "url": "https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk"
+    },
+    {
+      "added_at": "2026-03-31 22:00:12",
+      "album": {
         "name": "Berghain (Remix)",
         "url": "https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 154954,
       "name": "Berghain - Remix",
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
-    },
-    {
-      "added_at": "2026-03-31 22:00:12",
-      "album": {
-        "name": "Miss Kitoko",
-        "url": "https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 149916,
-      "name": "Miss Kitoko",
-      "url": "https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk"
     },
     {
       "added_at": "2026-03-31 22:00:12",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-03-31 22:00:12",
       "album": {
-        "name": "Lettre",
-        "url": "https://open.spotify.com/album/2WqcSYRkddq5eAyEL0hZ0G"
-      },
-      "artists": [
-        {
-          "name": "Margane",
-          "url": "https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb"
-        }
-      ],
-      "duration_ms": 219415,
-      "name": "Lettre",
-      "url": "https://open.spotify.com/track/1CUIqcCDWdAnSHBT2qtc09"
-    },
-    {
-      "added_at": "2026-03-31 22:00:12",
-      "album": {
         "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
         "url": "https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 172897,
       "name": "Cora\u00e7\u00e3o - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP"
+    },
+    {
+      "added_at": "2026-03-31 22:00:12",
+      "album": {
+        "name": "Lettre",
+        "url": "https://open.spotify.com/album/2WqcSYRkddq5eAyEL0hZ0G"
+      },
+      "artists": [
+        {
+          "name": "Margane",
+          "url": "https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb"
+        }
+      ],
+      "duration_ms": 219415,
+      "name": "Lettre",
+      "url": "https://open.spotify.com/track/1CUIqcCDWdAnSHBT2qtc09"
     },
     {
       "added_at": "2026-03-31 22:00:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 564 likes - 2,493 songs - 6 day 1 hr 43 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 564 likes - 2,495 songs - 6 day 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2501,5 +2501,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2491 | [Facebook Friends](https://open.spotify.com/track/0JZDRLPLN77J9R3qZwrNxO) | [Jennifer Cooper](https://open.spotify.com/artist/6DbSjGrury2M8peAmVIJiF) | [Facebook Friends](https://open.spotify.com/album/4qJ5G32hZ2O0FCn2mjbWrO) | 4:06 |
 | 2492 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 |
 | 2493 | [Back Off](https://open.spotify.com/track/2bQgelNCpFZjqEqXrQQsXr) | [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Jazzette](https://open.spotify.com/album/1Es6dYDX9qHLZGeqxdxMav) | 3:34 |
+| 2494 | [Lmk](https://open.spotify.com/track/1fI1fxzmGHs7PnSF0iDHhH) | [Juan Tamales](https://open.spotify.com/artist/2nuUPviqbuKmJlYVxvq0PT) | [Lmk](https://open.spotify.com/album/3eHGoySyjka90SmBKOWiIL) | 3:00 |
+| 2495 | [Out There Alone](https://open.spotify.com/track/3fsvOPJlvhPoUo0IqFmk4S) | [Draig](https://open.spotify.com/artist/3bPNs4WxtWGGaWGY9HSFLR) | [Barefoot](https://open.spotify.com/album/2z2LWb5kJqtUASMgmnAbAv) | 2:36 |
 
-Snapshot ID: `AAAKVgwih/ji3SxaEm/WcWCvWK06jSGy`
+Snapshot ID: `AAAKWMQkHC6HcztkKZ/v9mjpB+Uznpyl`

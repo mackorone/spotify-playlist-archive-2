@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:3ag9Q03DMBdEd0IExnBmE4\">Jbeezy.Lfg</a> ",
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:0RRUXaSteOOZzo5gMCAeuX\">Hardnard</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 244442,
       "name": "5 O'clock",
       "url": "https://open.spotify.com/track/7wfisKDLwXLYdpKjsNMpBi"
@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 133728,
       "name": "Bad Decisionz",
       "url": "https://open.spotify.com/track/4qC7vODIdJIuXnYUSOEy1j"
@@ -6749,6 +6749,28 @@
     },
     {
       "album": {
+        "name": "800\u00b0",
+        "url": "https://open.spotify.com/album/7e3hhfraCkpy4Osb8ZnHsa"
+      },
+      "artists": [
+        {
+          "name": "12k Gotti",
+          "url": "https://open.spotify.com/artist/2tXGUIXdUyzhdcD5UcuJuH"
+        },
+        {
+          "name": "Sideshow",
+          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151584,
+      "name": "Brotherly Hoods - feat. Sideshow",
+      "url": "https://open.spotify.com/track/178moNgwTqsgHsk2e6K3tR"
+    },
+    {
+      "album": {
         "name": "WIZ THE DONN",
         "url": "https://open.spotify.com/album/2Sw6EUCOtcGylBEnZmbgVO"
       },
@@ -7050,6 +7072,24 @@
       "duration_ms": 114193,
       "name": "Busy Body",
       "url": "https://open.spotify.com/track/6xQWKkfkobpwY8BniNIW7K"
+    },
+    {
+      "album": {
+        "name": "Smaxk Season 2",
+        "url": "https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr"
+      },
+      "artists": [
+        {
+          "name": "Hardnard",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111699,
+      "name": "Butta B",
+      "url": "https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA"
     },
     {
       "album": {
@@ -10070,7 +10110,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 151728,
       "name": "Die a great.",
       "url": "https://open.spotify.com/track/5uq1U15P6cCTmweW1ph1Hd"
@@ -20213,6 +20253,48 @@
     },
     {
       "album": {
+        "name": "Juice Week, Pt. 2",
+        "url": "https://open.spotify.com/album/1P4zjV9j3km0f6gK9wXWWp"
+      },
+      "artists": [
+        {
+          "name": "Juice Week",
+          "url": "https://open.spotify.com/artist/1Y3f8Ba5dnXKuFcpWWgOLO"
+        },
+        {
+          "name": "Juice",
+          "url": "https://open.spotify.com/artist/11mO3n36uvFCM257KCyA6c"
+        },
+        {
+          "name": "Tuesday",
+          "url": "https://open.spotify.com/artist/5OBJmOKG5DTgUcS3JPWAgl"
+        },
+        {
+          "name": "RaiDawg",
+          "url": "https://open.spotify.com/artist/1DsWLQLlAHoB7CP1dTCwby"
+        },
+        {
+          "name": "Theehotone",
+          "url": "https://open.spotify.com/artist/74Jv23F5bAtMmRtrm63slO"
+        },
+        {
+          "name": "Lul Asia",
+          "url": "https://open.spotify.com/artist/1RjhFLAZNrFGVVCOp2gUfX"
+        },
+        {
+          "name": "Pinaa",
+          "url": "https://open.spotify.com/artist/6m3J0qwd5DOHkzvDwW6RNJ"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164232,
+      "name": "Juice Week, Pt. 2",
+      "url": "https://open.spotify.com/track/322CZq06Nz41urWUajTQxI"
+    },
+    {
+      "album": {
         "name": "Juicy Crab",
         "url": "https://open.spotify.com/album/3zJ24pnswoe8qUKLQMndJ8"
       },
@@ -25314,7 +25396,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 144165,
       "name": "Moneydance",
       "url": "https://open.spotify.com/track/3AWzUWHgeMhsLBo3phPDVj"
@@ -27564,7 +27646,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 153600,
       "name": "No Heart",
       "url": "https://open.spotify.com/track/2bFn2KpjuNdTDkHgiwMXhk"
@@ -34583,6 +34665,28 @@
     },
     {
       "album": {
+        "name": "Show Me Sumn",
+        "url": "https://open.spotify.com/album/2gZAF7FyVVhUJEZO2wp0RB"
+      },
+      "artists": [
+        {
+          "name": "Hood Tali",
+          "url": "https://open.spotify.com/artist/3zE7bOr2rPmW2ZYzG9VZRN"
+        },
+        {
+          "name": "Doomsday",
+          "url": "https://open.spotify.com/artist/1vsoeV1jRYN0GrUVsR0SBA"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136258,
+      "name": "Show Me Sumn",
+      "url": "https://open.spotify.com/track/6FDkbIJsURB0SErITQzfHM"
+    },
+    {
+      "album": {
         "name": "Show of Hands",
         "url": "https://open.spotify.com/album/6qsbJKM0Z5pGB3flxfYlEr"
       },
@@ -35268,7 +35372,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 193883,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
@@ -41727,6 +41831,28 @@
     },
     {
       "album": {
+        "name": "Wata",
+        "url": "https://open.spotify.com/album/0Y87XYGHA1o8ZtaNdXd7pu"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        },
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113824,
+      "name": "Wata",
+      "url": "https://open.spotify.com/track/6zuBr0T4FNsaqT0ThVRDZF"
+    },
+    {
+      "album": {
         "name": "Watch It Burn",
         "url": "https://open.spotify.com/album/5YNn4y6IkGRXsA09zDgG8R"
       },
@@ -44228,6 +44354,28 @@
       "duration_ms": 161648,
       "name": "Your The One",
       "url": "https://open.spotify.com/track/5rzB3KJ2v3Br3XKjQPArxG"
+    },
+    {
+      "album": {
+        "name": "YSL Sweats",
+        "url": "https://open.spotify.com/album/7M2UAHARJ5Yjxw7LtUnp9o"
+      },
+      "artists": [
+        {
+          "name": "Kromow",
+          "url": "https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA"
+        },
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171177,
+      "name": "YSL Sweats",
+      "url": "https://open.spotify.com/track/1Vla18zl8sK8gMWdWvpYpg"
     },
     {
       "album": {

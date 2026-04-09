@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,490 likes - 39 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,470 likes - 39 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 4 | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 |
 | 5 | [Pocahontas](https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:48 |
 | 6 | [Griddlë](https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:37 |
-| 7 | [Berghain \- Remix](https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain \(Remix\)](https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR) | 2:34 |
-| 8 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 |
+| 7 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 |
+| 8 | [Berghain \- Remix](https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain \(Remix\)](https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR) | 2:34 |
 | 9 | [Be With You](https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Be With You](https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n) | 3:35 |
 | 10 | [BRITTANY MURPHY.](https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:44 |
 | 11 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 28 | [Script \(feat\. 2L\)](https://open.spotify.com/track/6pSjIMSllXgPs9EDP6lHAD) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX), [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Script \(feat\. 2L\)](https://open.spotify.com/album/5rcERDsf8w982QDz219hmC) | 3:16 |
 | 29 | [verden](https://open.spotify.com/track/4Ak1ze9cxOduO9BsbJkI5O) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [PRINT](https://open.spotify.com/album/1sZ1EplSM9SsQJZzg1QZVM) | 3:23 |
 | 30 | [PROMESSES](https://open.spotify.com/track/30THfyXiixGNGYVd5CJy1D) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [PROMESSES](https://open.spotify.com/album/5UoPqXxD9jTr9HQBYm0mdA) | 2:55 |
-| 31 | [Lettre](https://open.spotify.com/track/1CUIqcCDWdAnSHBT2qtc09) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Lettre](https://open.spotify.com/album/2WqcSYRkddq5eAyEL0hZ0G) | 3:39 |
-| 32 | [Coração \- A COLORS SHOW](https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Coração \- A COLORS SHOW](https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk) | 2:52 |
+| 31 | [Coração \- A COLORS SHOW](https://open.spotify.com/track/7Cc6xpJYfWtv5rd6njoscP) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Coração \- A COLORS SHOW](https://open.spotify.com/album/50E5vM6nba29Ue1RDs16kk) | 2:52 |
+| 32 | [Lettre](https://open.spotify.com/track/1CUIqcCDWdAnSHBT2qtc09) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Lettre](https://open.spotify.com/album/2WqcSYRkddq5eAyEL0hZ0G) | 3:39 |
 | 33 | [MAMAN M'A DIT NON](https://open.spotify.com/track/5CR23EycKSh9W9LG7XaEZL) | [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n) | [MAMAN M'A DIT NON](https://open.spotify.com/album/0yAHn2c8wQZHnO70o4xNvQ) | 1:54 |
 | 34 | [AMOUR IMMENSE](https://open.spotify.com/track/1MlRa0GirgpGJbCx9R6wsO) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [AMOUR IMMENSE](https://open.spotify.com/album/4LcZY5g6zmDp93dh5PFUkd) | 2:17 |
 | 35 | [Bleu](https://open.spotify.com/track/5QgOSe0IWekbANgFkwqBz5) | [Antonin](https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC) | [Bleu](https://open.spotify.com/album/33Zk8TkJpJBKx58OYNQfRg) | 2:40 |

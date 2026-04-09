@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Dollface",
+        "url": "https://open.spotify.com/album/4JxQ2wpp7DQKnPoAsvxMNq"
+      },
+      "artists": [
+        {
+          "name": "Wikka",
+          "url": "https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189753,
+      "name": "Dollface",
+      "url": "https://open.spotify.com/track/2gJlmzqblAarjB9FPa3WaD"
+    },
+    {
+      "album": {
         "name": "Don't Be The Victim",
         "url": "https://open.spotify.com/album/7JDzrgzkJcP4O53rugLCCZ"
       },
@@ -1144,6 +1162,24 @@
       "duration_ms": 161374,
       "name": "Don\u2019t Say No to Hitler",
       "url": "https://open.spotify.com/track/5pfAfzVMrjNvGP4pa4UIeJ"
+    },
+    {
+      "album": {
+        "name": "Down and Out",
+        "url": "https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh"
+      },
+      "artists": [
+        {
+          "name": "White Star Line",
+          "url": "https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222155,
+      "name": "Down and Out",
+      "url": "https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e"
     },
     {
       "album": {
@@ -3902,6 +3938,28 @@
       "duration_ms": 179848,
       "name": "Sweet Lover",
       "url": "https://open.spotify.com/track/7bV3prZwAoq9mekXMRXm0U"
+    },
+    {
+      "album": {
+        "name": "A Bridge Across the Sea",
+        "url": "https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d"
+      },
+      "artists": [
+        {
+          "name": "Drawing on Scars",
+          "url": "https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu"
+        },
+        {
+          "name": "Jodie Reid",
+          "url": "https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188403,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6"
     },
     {
       "album": {

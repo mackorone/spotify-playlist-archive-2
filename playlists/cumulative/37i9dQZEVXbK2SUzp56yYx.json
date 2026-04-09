@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 157213,
       "name": "Bass da da da (Sentad\u00e3o)",
       "url": "https://open.spotify.com/track/7H7ZaKNujnBdb7goF9ZcWU"
@@ -9124,7 +9124,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 180543,
       "name": "FYA",
       "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
@@ -18678,7 +18678,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -28067,6 +28067,24 @@
     },
     {
       "album": {
+        "name": "where am i supposed to go?",
+        "url": "https://open.spotify.com/album/7pWSUMq5urgY7YyAVXPRFY"
+      },
+      "artists": [
+        {
+          "name": "ridgeclub",
+          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "where am i supposed to go?",
+      "url": "https://open.spotify.com/track/5oJ5dK2Dctm6Es33jhnRsK"
+    },
+    {
+      "album": {
         "name": "Where Have You Been (Orchestra Remix)",
         "url": "https://open.spotify.com/album/0Zdfg8LuVIZnzkVxUnHBGz"
       },
@@ -33844,7 +33862,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 186282,
       "name": "\u0414\u043e\u043b\u044c\u0447\u0435 \u0413\u0430\u0431\u0431\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/1ZZqucWdlA5rR3DhrU6JCB"
@@ -41162,7 +41180,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 172307,
       "name": "\u041f\u043b\u0430\u043a\u0430\u043b\u0430 \u043d\u0430\u0434\u0435\u0436\u0434\u0430",
       "url": "https://open.spotify.com/track/5vU0oWfaMLgztQLYcmBtuP"
@@ -42044,7 +42062,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 265714,
       "name": "\u041f\u0440\u0430\u0441\u043a\u043e\u0432\u044c\u044f (Uma2rman \"\u0417\u0432\u0451\u0437\u0434\u044b \u0441\u0447\u0438\u0442\u0430\u044e\u0442 \u043d\u0430\u0441\")",
       "url": "https://open.spotify.com/track/7bWCOfRj7riGdF4QLJ0sTK"
@@ -45770,7 +45788,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 163000,
       "name": "\u0422\u043e\u043d\u0443",
       "url": "https://open.spotify.com/track/3dxOjnX03UHPUYW7bBikVu"

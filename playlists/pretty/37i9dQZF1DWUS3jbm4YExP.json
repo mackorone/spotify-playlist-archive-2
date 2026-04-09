@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 870052,
+  "num_followers": 870166,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Ka Rica-Tar",
-        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
-      },
-      "artists": [
-        {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Kingdom of D'mt",
-      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
+        "name": "Ka Rica-Tar",
+        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
+      },
+      "artists": [
+        {
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Kingdom of D'mt",
+      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -827,18 +827,22 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+        "name": "Kolaba",
+        "url": "https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW"
       },
       "artists": [
         {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+          "name": "Afriquoi",
+          "url": "https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT"
+        },
+        {
+          "name": "Kudaushe Matimba",
+          "url": "https://open.spotify.com/artist/0To9zwZ50qjiPoWKnESnKt"
         }
       ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
+      "duration_ms": 238420,
+      "name": "Kudaushe",
+      "url": "https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -859,22 +863,18 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Kolaba",
-        "url": "https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW"
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
       },
       "artists": [
         {
-          "name": "Afriquoi",
-          "url": "https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT"
-        },
-        {
-          "name": "Kudaushe Matimba",
-          "url": "https://open.spotify.com/artist/0To9zwZ50qjiPoWKnESnKt"
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
         }
       ],
-      "duration_ms": 238420,
-      "name": "Kudaushe",
-      "url": "https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS"
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Como Fuego",
-        "url": "https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 184925,
-      "name": "Como Fuego",
-      "url": "https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
-        "name": "Heron",
-        "url": "https://open.spotify.com/album/6BFxfsqr0HQgFS0uuDmtLe"
-      },
-      "artists": [
-        {
-          "name": "Savana Funk",
-          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
-        }
-      ],
-      "duration_ms": 284586,
-      "name": "Heron",
-      "url": "https://open.spotify.com/track/0YVTVXDWhqoYtiRrpffj4E"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
         "name": "Xover",
         "url": "https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp"
       },
@@ -1151,6 +1119,38 @@
       "duration_ms": 196586,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
+        "name": "Heron",
+        "url": "https://open.spotify.com/album/6BFxfsqr0HQgFS0uuDmtLe"
+      },
+      "artists": [
+        {
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
+        }
+      ],
+      "duration_ms": 284586,
+      "name": "Heron",
+      "url": "https://open.spotify.com/track/0YVTVXDWhqoYtiRrpffj4E"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
+        "name": "Como Fuego",
+        "url": "https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 184925,
+      "name": "Como Fuego",
+      "url": "https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
+        "name": "Space Echo (Analog Africa No. 20)",
+        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
+      },
+      "artists": [
+        {
+          "name": "Abel Lima",
+          "url": "https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Corre Riba, Corre Baixo",
+      "url": "https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -1283,6 +1299,22 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
+        "name": "Kundela Mawedi",
+        "url": "https://open.spotify.com/album/5AHhPN1GiSsxdlbBZmlThN"
+      },
+      "artists": [
+        {
+          "name": "Atabasca",
+          "url": "https://open.spotify.com/artist/2vIpX7cPlF9qmWNac8TbKi"
+        }
+      ],
+      "duration_ms": 337241,
+      "name": "Kundela Mawedi",
+      "url": "https://open.spotify.com/track/3lGcSLtbK1vBbm7CbXWULD"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -1311,34 +1343,18 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Kundela Mawedi",
-        "url": "https://open.spotify.com/album/5AHhPN1GiSsxdlbBZmlThN"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2KJQezpbUUud8CIBprtgV3"
       },
       "artists": [
         {
-          "name": "Atabasca",
-          "url": "https://open.spotify.com/artist/2vIpX7cPlF9qmWNac8TbKi"
+          "name": "LUNA MAKI",
+          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
         }
       ],
-      "duration_ms": 337241,
-      "name": "Kundela Mawedi",
-      "url": "https://open.spotify.com/track/3lGcSLtbK1vBbm7CbXWULD"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
-        "name": "Space Echo (Analog Africa No. 20)",
-        "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
-      },
-      "artists": [
-        {
-          "name": "Abel Lima",
-          "url": "https://open.spotify.com/artist/6IhMyPQwTBivqok4kKvMmh"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Corre Riba, Corre Baixo",
-      "url": "https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST"
+      "duration_ms": 244133,
+      "name": "The Last Sunrise",
+      "url": "https://open.spotify.com/track/4KwsL4N1Nv7IoTpHD5dZf0"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -1355,22 +1371,6 @@
       "duration_ms": 324978,
       "name": "Takahashi Timing",
       "url": "https://open.spotify.com/track/07Waqz8Zkad6oM7dL4MNce"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2KJQezpbUUud8CIBprtgV3"
-      },
-      "artists": [
-        {
-          "name": "LUNA MAKI",
-          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "The Last Sunrise",
-      "url": "https://open.spotify.com/track/4KwsL4N1Nv7IoTpHD5dZf0"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
+        "name": "Road Of The Lonely Ones",
+        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Road Of The Lonely Ones",
+      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
         "name": "Koin\u00e8",
         "url": "https://open.spotify.com/album/6PRXnH6Her6u85OU7j0GyN"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 231500,
       "name": "Mario",
       "url": "https://open.spotify.com/track/1EvKBtW2AE4vh6gkL0cw11"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
-        "name": "Road Of The Lonely Ones",
-        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
-      },
-      "artists": [
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Road Of The Lonely Ones",
-      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Touch Me (Radio Edit)",
-        "url": "https://open.spotify.com/album/4nUqQb9VTY3Dqe3wBlpFZ9"
-      },
-      "artists": [
-        {
-          "name": "Tomos",
-          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
-        }
-      ],
-      "duration_ms": 214408,
-      "name": "Touch Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3cmPdhXpjIoMwmuezMwwDZ"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
         "name": "Calentita",
         "url": "https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Existe Uma Voz",
-        "url": "https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer"
+        "name": "Touch Me (Radio Edit)",
+        "url": "https://open.spotify.com/album/4nUqQb9VTY3Dqe3wBlpFZ9"
       },
       "artists": [
         {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+          "name": "Tomos",
+          "url": "https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y"
         }
       ],
-      "duration_ms": 225826,
-      "name": "Existe Uma Voz",
-      "url": "https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt"
+      "duration_ms": 214408,
+      "name": "Touch Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3cmPdhXpjIoMwmuezMwwDZ"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -1731,6 +1715,22 @@
       "duration_ms": 211976,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/4gU95TkHTH4rhrTMPSHLtP"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
+        "name": "Existe Uma Voz",
+        "url": "https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Existe Uma Voz",
+      "url": "https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Hang on to Your Kool",
-        "url": "https://open.spotify.com/album/6b8bKjNMqDukdq2WeLg6Sb"
-      },
-      "artists": [
-        {
-          "name": "Wrong Way Up",
-          "url": "https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe"
-        }
-      ],
-      "duration_ms": 223598,
-      "name": "Hang on to Your Kool",
-      "url": "https://open.spotify.com/track/67jWOXCM1RzeUZmdeeXzfZ"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
         "name": "Music Save Me (One More Time)",
         "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 256490,
       "name": "How It Goes",
       "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
+        "name": "Hang on to Your Kool",
+        "url": "https://open.spotify.com/album/6b8bKjNMqDukdq2WeLg6Sb"
+      },
+      "artists": [
+        {
+          "name": "Wrong Way Up",
+          "url": "https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe"
+        }
+      ],
+      "duration_ms": 223598,
+      "name": "Hang on to Your Kool",
+      "url": "https://open.spotify.com/track/67jWOXCM1RzeUZmdeeXzfZ"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Chasing Shadows",
-        "url": "https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 276573,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
         "name": "Consider It Done",
         "url": "https://open.spotify.com/album/4eRgGGaoaIFT4x9JymYsH3"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 368108,
       "name": "Sh\u0113nzhou V.",
       "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 276573,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
+        "name": "Darker Than Blue",
+        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
+      },
+      "artists": [
+        {
+          "name": "Devon Russell",
+          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
         "name": "Faut Pas F\u00e2cher",
         "url": "https://open.spotify.com/album/0iXngKfoH4fVxCLDuA7BYr"
       },
@@ -2071,22 +2087,6 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Darker Than Blue",
-        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
-      },
-      "artists": [
-        {
-          "name": "Devon Russell",
-          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/1ZvCj7rr10to6fz4dzGCgv"
       },
@@ -2107,22 +2107,6 @@
       "duration_ms": 304178,
       "name": "Mama - D\u00e9ni-Shain & Mister Francky Remix",
       "url": "https://open.spotify.com/track/0LoVuHRdOFBhT61crHWyIo"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
-        "name": "\u00d6ld\u00fcrme Beni",
-        "url": "https://open.spotify.com/album/0x1olGUHMu2BODn1Sgw8U0"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 297994,
-      "name": "\u00d6ld\u00fcrme Beni",
-      "url": "https://open.spotify.com/track/7ec8SmW3u4r5xa1yA9qBRN"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -2159,18 +2143,18 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Can't Deny",
-        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
+        "name": "\u00d6ld\u00fcrme Beni",
+        "url": "https://open.spotify.com/album/0x1olGUHMu2BODn1Sgw8U0"
       },
       "artists": [
         {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
         }
       ],
-      "duration_ms": 162477,
-      "name": "Can't Deny",
-      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
+      "duration_ms": 297994,
+      "name": "\u00d6ld\u00fcrme Beni",
+      "url": "https://open.spotify.com/track/7ec8SmW3u4r5xa1yA9qBRN"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -2187,6 +2171,22 @@
       "duration_ms": 301647,
       "name": "Bassa Bassa",
       "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
+        "name": "Can't Deny",
+        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
+      },
+      "artists": [
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 162477,
+      "name": "Can't Deny",
+      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 202104,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
         "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
         "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
       },
@@ -2275,18 +2291,18 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/0TQIU88mRn3aqZZXcUhFUD"
       },
       "artists": [
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
         }
       ],
-      "duration_ms": 202104,
-      "name": "Verde",
-      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
+      "duration_ms": 149544,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2HXPmr2DvNAZbemNvJTPP4"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -2307,18 +2323,18 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/0TQIU88mRn3aqZZXcUhFUD"
+        "name": "Golden Hands",
+        "url": "https://open.spotify.com/album/68eTOEi1DZf7PoR85bsDaf"
       },
       "artists": [
         {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+          "name": "Golden Hands",
+          "url": "https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ"
         }
       ],
-      "duration_ms": 149544,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2HXPmr2DvNAZbemNvJTPP4"
+      "duration_ms": 461120,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -2339,22 +2355,6 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Golden Hands",
-        "url": "https://open.spotify.com/album/68eTOEi1DZf7PoR85bsDaf"
-      },
-      "artists": [
-        {
-          "name": "Golden Hands",
-          "url": "https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ"
-        }
-      ],
-      "duration_ms": 461120,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
         "name": "Fully Loaded",
         "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
       },
@@ -2367,74 +2367,6 @@
       "duration_ms": 350600,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/60lRT01X553ode0LvndRf0"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 208444,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
-        "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
-        "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
-      },
-      "artists": [
-        {
-          "name": "Romano",
-          "url": "https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl"
-        }
-      ],
-      "duration_ms": 223764,
-      "name": "Guzelim Benim",
-      "url": "https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
-        "name": "Fighting Slowly",
-        "url": "https://open.spotify.com/album/7vXFAnHHFWDPECJLi89PPk"
-      },
-      "artists": [
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        },
-        {
-          "name": "Ayuune Sule",
-          "url": "https://open.spotify.com/artist/1BCpaANNqLwc9rEBNt0KrL"
-        }
-      ],
-      "duration_ms": 322819,
-      "name": "Fighting Slowly",
-      "url": "https://open.spotify.com/track/4BPmWt2dEIP0ygttCwLBq6"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
-        "name": "R\u00fczgar",
-        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 357558,
-      "name": "R\u00fczgar",
-      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -2459,6 +2391,58 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 208444,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
+        "name": "Fighting Slowly",
+        "url": "https://open.spotify.com/album/7vXFAnHHFWDPECJLi89PPk"
+      },
+      "artists": [
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Ayuune Sule",
+          "url": "https://open.spotify.com/artist/1BCpaANNqLwc9rEBNt0KrL"
+        }
+      ],
+      "duration_ms": 322819,
+      "name": "Fighting Slowly",
+      "url": "https://open.spotify.com/track/4BPmWt2dEIP0ygttCwLBq6"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
+        "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
+        "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
+      },
+      "artists": [
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl"
+        }
+      ],
+      "duration_ms": 223764,
+      "name": "Guzelim Benim",
+      "url": "https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
         "name": "Back To Bahia",
         "url": "https://open.spotify.com/album/7EtY3NqhDQ4XAqZg5l06Zd"
       },
@@ -2475,6 +2459,22 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
+        "name": "R\u00fczgar",
+        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 357558,
+      "name": "R\u00fczgar",
+      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
         "name": "Felony / Rile 'Em Up",
         "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
       },
@@ -2487,6 +2487,26 @@
       "duration_ms": 197172,
       "name": "Felony",
       "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
+    },
+    {
+      "added_at": "2026-04-03 13:31:50",
+      "album": {
+        "name": "Mira Bien",
+        "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 207386,
+      "name": "Mira Bien",
+      "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -2523,22 +2543,22 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Mira Bien",
-        "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
+        "name": "Invisible Joy",
+        "url": "https://open.spotify.com/album/5qWGSPSciy5ZaEXLo8ORlD"
       },
       "artists": [
         {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+          "name": "The Polyversal Souls",
+          "url": "https://open.spotify.com/artist/6ucByLJIHHN6HfdMyZylyi"
         },
         {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "Hailu Mergia",
+          "url": "https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm"
         }
       ],
-      "duration_ms": 207386,
-      "name": "Mira Bien",
-      "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+      "duration_ms": 285257,
+      "name": "Sad Nile (feat. Hailu Mergia)",
+      "url": "https://open.spotify.com/track/2CQBRPtITj3ePDeXLQnZK7"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -2559,26 +2579,6 @@
       "duration_ms": 220452,
       "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
       "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
-    },
-    {
-      "added_at": "2026-04-03 13:31:50",
-      "album": {
-        "name": "Invisible Joy",
-        "url": "https://open.spotify.com/album/5qWGSPSciy5ZaEXLo8ORlD"
-      },
-      "artists": [
-        {
-          "name": "The Polyversal Souls",
-          "url": "https://open.spotify.com/artist/6ucByLJIHHN6HfdMyZylyi"
-        },
-        {
-          "name": "Hailu Mergia",
-          "url": "https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm"
-        }
-      ],
-      "duration_ms": 285257,
-      "name": "Sad Nile (feat. Hailu Mergia)",
-      "url": "https://open.spotify.com/track/2CQBRPtITj3ePDeXLQnZK7"
     },
     {
       "added_at": "2026-04-03 13:31:50",
@@ -2615,22 +2615,18 @@
     {
       "added_at": "2026-04-03 13:31:50",
       "album": {
-        "name": "Apiafo",
-        "url": "https://open.spotify.com/album/1KYJPtlKlYQiZ6TZzLkRbn"
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
       },
       "artists": [
         {
-          "name": "Vaudou Game",
-          "url": "https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz"
-        },
-        {
-          "name": "Roger Damawuzan",
-          "url": "https://open.spotify.com/artist/6EP95HIx4uVmzGq7YMG0tv"
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
         }
       ],
-      "duration_ms": 213373,
-      "name": "Pas Contente",
-      "url": "https://open.spotify.com/track/2Pb7Z8lrgBN8sMNNGEPBWx"
+      "duration_ms": 343841,
+      "name": "Silence is Golden",
+      "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
     }
   ],
   "unique_name": "Global Groove",

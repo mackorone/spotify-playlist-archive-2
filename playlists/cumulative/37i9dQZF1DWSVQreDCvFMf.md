@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Noah Alejandre
 
-846 songs - 2 day 4 hr 26 min
+847 songs - 2 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-07-02 | 2024-09-07 |
 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 | 2024-09-24 | 2025-02-26 |
 | [Ayaw Baya](https://open.spotify.com/track/42Xk3IBopZoqG5R9YSctGS) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Ayaw Baya](https://open.spotify.com/album/0zLGNLnfdMdb0dpsfEQGmy) | 4:10 | 2025-08-01 | 2025-11-22 |
-| [Ayaw ko na sana sa Love Song](https://open.spotify.com/track/1O6ZTqwAspU4oFvvBV76Dg) | [Eightkidd](https://open.spotify.com/artist/2CH7zxDWysaMABUPg6OhUh) | [Ayaw ko na sana sa Love Song](https://open.spotify.com/album/47IvPGgR2xKVV8jt2vcRFg) | 3:29 | 2026-03-20 |  |
+| [Ayaw ko na sana sa Love Song](https://open.spotify.com/track/1O6ZTqwAspU4oFvvBV76Dg) | [Eightkidd](https://open.spotify.com/artist/0vEiV0Drm050vtjUXXe0Cv) | [Ayaw ko na sana sa Love Song](https://open.spotify.com/album/47IvPGgR2xKVV8jt2vcRFg) | 3:29 | 2026-03-20 |  |
 | [Ayaw Mo Na](https://open.spotify.com/track/1hZsKR2qyml8tb9qF1ZGyw) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Ayaw Mo Na](https://open.spotify.com/album/4LbpIb8PsbtsYjZgvE03tg) | 4:00 | 2026-01-19 | 2026-03-10 |
 | [Ayoko Magmadali](https://open.spotify.com/track/5v0DTg7KJdp0rxY0DcJDr2) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Ayoko Magmadali](https://open.spotify.com/album/2jsr3JYfTQKDnsaAXL97XW) | 2:24 | 2025-07-25 | 2025-11-22 |
 | [AYOS](https://open.spotify.com/track/68dmr672B6cZq1LXrhFToX) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [AYOS](https://open.spotify.com/album/4rr0Zu5EuhUVKWu89qi8Ke) | 3:38 | 2026-03-27 |  |
@@ -122,6 +122,7 @@
 | [boarding gate](https://open.spotify.com/track/0mihFDUGIA5Aybxg0rFXXt) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [the world is so small \(after all\)](https://open.spotify.com/album/3sR3y2tVR2T2gIkXMgsfYY) | 3:46 | 2025-07-21 | 2025-11-22 |
 | [Boomerang](https://open.spotify.com/track/0Bs1P0jxQvvjQixTbVcUa2) | [BLASTER](https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9) | [Boomerang](https://open.spotify.com/album/10SCAVdi1ZYBKDQvVK51zB) | 4:26 | 2025-02-28 | 2025-05-17 |
 | [Bounce that](https://open.spotify.com/track/6n96W9LX01FU9igJpSKX3O) | [Billy Crawford](https://open.spotify.com/artist/43CiK1548VVp2DT95joswS) | [Bounce that](https://open.spotify.com/album/7flE1Q207y0if6jMh1foXX) | 2:50 | 2026-02-02 | 2026-03-21 |
+| [bound to](https://open.spotify.com/track/6Z0HRaEh6CrO7BTmG3RDhn) | [Tandems '91](https://open.spotify.com/artist/26M4OH74JFmRZ2qDJ77sif), [Serif](https://open.spotify.com/artist/0HEonjJEXyvmEYH7yvcZo1) | [bound to](https://open.spotify.com/album/3yNcK5owpXiJMFIRQjZsqL) | 2:47 | 2026-04-08 |  |
 | [BROke](https://open.spotify.com/track/20hKYW4VoQsOpN8ajbxhYc) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw / BROke](https://open.spotify.com/album/1Ly0s70g58vx4v2ET5hphQ) | 3:45 | 2025-06-27 | 2025-11-08 |
 | [Bulaklak Sa Buwan](https://open.spotify.com/track/2YepCVrNLhVPdCTM3sZIzv) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Bulaklak Sa Buwan](https://open.spotify.com/album/0NVm3LxQUZZwCb4vSSbef9) | 4:55 | 2024-08-16 | 2024-11-21 |
 | [Bulay\-bulayin](https://open.spotify.com/track/4lIKuDqhx8q3pUSpsAKlY0) | [Similar Sky](https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45) | [Bulay\-bulayin](https://open.spotify.com/album/3nnEq3ZXXsOVyXCZ60MD5E) | 3:07 | 2025-10-24 | 2026-01-15 |

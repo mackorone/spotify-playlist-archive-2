@@ -9335,6 +9335,24 @@
     },
     {
       "album": {
+        "name": "Projection",
+        "url": "https://open.spotify.com/album/0453mhOLzkk22RbDrdTykv"
+      },
+      "artists": [
+        {
+          "name": "Name the Night",
+          "url": "https://open.spotify.com/artist/0sOXOOXjR6CAaDgtUYksBH"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165447,
+      "name": "Projection",
+      "url": "https://open.spotify.com/track/1IFrWwHR3TlD7oQP4LFGUU"
+    },
+    {
+      "album": {
         "name": "Punk Head",
         "url": "https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM"
       },
@@ -29588,7 +29606,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 233481,
       "name": "\u857e\u3082\u3044\u3064\u304b\u306f",
       "url": "https://open.spotify.com/track/3B6zDxydEQh5VcxqF3tfPK"

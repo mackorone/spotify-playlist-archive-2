@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,098 songs - 3 day 18 hr 19 min
+1,099 songs - 3 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -908,7 +908,7 @@
 | [Stay Here](https://open.spotify.com/track/63B5eUEndzIY9BGwcUASmv) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Stay Here](https://open.spotify.com/album/5mAHnG3rpP9QywIex52LyW) | 3:58 | 2025-03-28 | 2026-03-14 |
 | [Stick Out](https://open.spotify.com/track/7rDfio21FnO5GM8rgmhADe) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Stick Out](https://open.spotify.com/album/3bKQ5GAsKs6VXRa8akWeAj) | 3:02 | 2025-11-14 | 2026-03-17 |
 | [Storyteller](https://open.spotify.com/track/0WSqJpY7RsFv2EszoXDANr) | [Shai T](https://open.spotify.com/artist/3peEllG3urQKzvyoZf4UgN) | [Miracles](https://open.spotify.com/album/2y4op7MZHA2kuzZhsN6Mlv) | 7:30 | 2021-04-21 | 2022-07-09 |
-| [Stranger](https://open.spotify.com/track/5ZgE9I9C2SLdctOimCxhVY) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Bautiii](https://open.spotify.com/artist/496cakHbkZwVyelr2d2Fn9) | [Stranger](https://open.spotify.com/album/6v3AzcwtGZjSuAfBJOMTMB) | 3:06 | 2025-08-01 |  |
+| [Stranger](https://open.spotify.com/track/5ZgE9I9C2SLdctOimCxhVY) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Bautiii](https://open.spotify.com/artist/496cakHbkZwVyelr2d2Fn9) | [Stranger](https://open.spotify.com/album/6v3AzcwtGZjSuAfBJOMTMB) | 3:06 | 2025-08-01 | 2026-04-09 |
 | [Strangers \(Do You Remember\) \[feat\. Yas Cepeda\]](https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP) | [Strangers \(Do You Remember\) \[feat\. Yas Cepeda\]](https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc) | 3:11 | 2023-07-07 | 2024-04-19 |
 | [Stuck In Melodies](https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Stuck In Melodies](https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D) | 3:31 | 2023-06-09 | 2023-10-08 |
 | [Summertime](https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Summertime / Can't Stop](https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG) | 4:16 | 2023-09-08 | 2023-12-16 |
@@ -1074,6 +1074,7 @@
 | [Where's The Music Gone](https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Paul Rogers](https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg) | [Where's The Music Gone](https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp) | 3:48 | 2024-07-12 | 2025-06-18 |
 | [Wherever You Are](https://open.spotify.com/track/4FspiRiJy5dtV2jaqsBMS5) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Wherever You Are](https://open.spotify.com/album/6HdG5nd0R0cQRKYrIVKlZG) | 3:16 | 2025-11-07 |  |
 | [Whistleman](https://open.spotify.com/track/386PnZfbszq42M8GprZnVt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:59 | 2021-04-21 | 2023-07-01 |
+| [Who I Am](https://open.spotify.com/track/06Jz0fCBIazg682Rl0OUyA) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Who I Am](https://open.spotify.com/album/5rnzEG84btgV1sLI0N9eFQ) | 3:13 | 2026-04-03 |  |
 | [Who Loves The Sun \- \(Everyone’s Mix\)](https://open.spotify.com/track/2app5d9EcNuXOyYV6s25mg) | [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7), [Jake Hall](https://open.spotify.com/artist/3C6iirSkJ6FZH0XW896WIp) | [Who Loves The Sun \(Everyone’s Mix\)](https://open.spotify.com/album/6gdeYIO69NaDeknC1iMDhU) | 3:51 | 2024-06-28 | 2025-01-18 |
 | [Who's That Girl \- JL & Afterman Mix](https://open.spotify.com/track/0iPwcwbrS0ZMIvqvyQw1Qs) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Afterman](https://open.spotify.com/artist/7bU8y1gp9Kz9zpoMCVENvD), [Jl & Afterman](https://open.spotify.com/artist/4KvIoQiPcOkNMzHfBGO5Oa) | [Who's That Girl \(JL & Afterman Mix\)](https://open.spotify.com/album/2xbVMj7lxxj9ILbKRrq4q7) | 5:20 | 2024-07-12 | 2025-08-16 |
 | [Why](https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Why](https://open.spotify.com/album/1hodyiHqPeGoLf9w0tHWyb) | 3:19 | 2024-04-12 | 2025-02-25 |

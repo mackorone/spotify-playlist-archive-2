@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 576193,
+  "num_followers": 576189,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "adL3gAAAAAA7j3wxh3FuF22rdneWMkUb",
+  "snapshot_id": "adRJAAAAAACwl0fKE/byH5QZO1eSoagi",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
       "duration_ms": 36597,
       "name": "Introdu\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0AIGUzrv8GEO3fZfmsOPNT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 310773,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/5UB7T65eDqeuyU8FooCFBu"
     },
     {
       "added_at": null,

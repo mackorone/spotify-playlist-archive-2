@@ -4,7 +4,7 @@
 
 > With Yeat, Autumn!, Cuo Zay and more
 
-188 songs - 7 hr 30 min
+189 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [blood](https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf) | [lil2posh](https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr) | [blood](https://open.spotify.com/album/405osWHgLWlqSiOz7XL0cM) | 2:18 | 2025-11-29 | 2026-04-02 |
 | [Blood On The Leaves \(Remix\)](https://open.spotify.com/track/1pxal7Zs5xxABW7Jf01RpL) | [1030Xhris](https://open.spotify.com/artist/7gfyemrwVrMbcKdxnjggaO), [yvngchris](https://open.spotify.com/artist/48jFxV79oOq1LYhYLtpVAV) | [Blood On The Leaves \(Remix\)](https://open.spotify.com/album/3bK84xF814GHAMKU2N1qH4) | 1:56 | 2025-11-29 | 2025-12-21 |
 | [Bonnie & Clyde](https://open.spotify.com/track/3zls854dRathxLF4aoMJm2) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Me & Mine, Pt\. 1](https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono) | 3:18 | 2026-02-26 |  |
-| [Bowls In The Underworld](https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr) | [1mirs](https://open.spotify.com/artist/1jQfAstIhnIaUoEMYaxHSq), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [Ybcdul](https://open.spotify.com/artist/5gMYyYkabVhQUt6FuaUJbC), [YoungBagChasers](https://open.spotify.com/artist/2GzyKAB2qWkYXeuk0RtYYw) | [It Starts Here 2](https://open.spotify.com/album/4Ld1UydP1EfVCuETjJR824) | 2:13 | 2026-01-15 |  |
+| [Bowls In The Underworld](https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr) | [1mirs](https://open.spotify.com/artist/1jQfAstIhnIaUoEMYaxHSq), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [Ybcdul](https://open.spotify.com/artist/5gMYyYkabVhQUt6FuaUJbC), [YoungBagChasers](https://open.spotify.com/artist/2GzyKAB2qWkYXeuk0RtYYw) | [It Starts Here 2](https://open.spotify.com/album/4Ld1UydP1EfVCuETjJR824) | 2:13 | 2026-01-15 | 2026-04-09 |
 | [Boys Don’t Cry](https://open.spotify.com/track/0uNKyWtOudnH1fnNlwHywQ) | [YDG Breezy](https://open.spotify.com/artist/40wED5G8ggmynCzzr6Z9bM) | [Nightmare On Gardens St](https://open.spotify.com/album/5MUtxI5q19RNyq0ySlrBID) | 2:34 | 2025-12-13 | 2025-12-16 |
 | [Bruce Wayne](https://open.spotify.com/track/72lcXqVlzrsCt5lAdFqG0m) | [Slash4L](https://open.spotify.com/artist/3n6TbPQYtcx4F1w9Yg388N) | [World Class](https://open.spotify.com/album/3NlvDTSCXBRcGGLsEWmXEe) | 2:05 | 2026-03-26 | 2026-04-06 |
 | [Budget](https://open.spotify.com/track/6L2b6JI3ANJeGmFHdPW7SN) | [BADNEWZJIZZ](https://open.spotify.com/artist/4UcaI2RROaYWPoCGKgOqtt) | [Am I The Profit](https://open.spotify.com/album/1u2yqxrbRvvWybPwSWBjbG) | 2:52 | 2026-01-02 | 2026-01-04 |
@@ -51,6 +51,7 @@
 | [Dead Dreams](https://open.spotify.com/track/35TfrWUWR0cdePPQR5E5QU) | [5ive](https://open.spotify.com/artist/1amQb9Uw9xQGWXyZjW42H1) | [Stranger Things](https://open.spotify.com/album/5tX3fmoSQsJMbPsLSmjqe8) | 2:40 | 2026-01-15 | 2026-01-17 |
 | [DELETING…](https://open.spotify.com/track/0sgVWPo45mm5sbR3Av6kPv) | [$huTtA](https://open.spotify.com/artist/3irY3PtwMCukbx9BluhIJB) | [DELETING…](https://open.spotify.com/album/3BUKRW3jJKZksSwmVdRGLc) | 2:18 | 2025-12-14 | 2025-12-27 |
 | [Diamond](https://open.spotify.com/track/02T3rgEbXn52RS7d91g5NZ) | [dopemine!](https://open.spotify.com/artist/7uFWa3pAlFXOfe7IKzfjZL) | [Diamond](https://open.spotify.com/album/4GsZ8QtfDQzLZKL9mtC1YZ) | 1:40 | 2026-02-25 | 2026-02-27 |
+| [dior](https://open.spotify.com/track/3TRGoUJveuLgjNyfu7g68n) | [janu4ryss](https://open.spotify.com/artist/5U68VIYMm7Tu8Aqxs1JcVG) | [dior](https://open.spotify.com/album/1QwkuP2moxmF4q4BPNmERW) | 1:28 | 2026-04-09 |  |
 | [Disagree](https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Disagree](https://open.spotify.com/album/670icObNVMYesRcjmyXdT2) | 2:16 | 2025-12-01 | 2026-01-26 |
 | [distant](https://open.spotify.com/track/773of3RaXgWq2VE0Nxbpmz) | [Kahjill](https://open.spotify.com/artist/1krwli1ZbwL9u1vW99rWGG) | [distant](https://open.spotify.com/album/71GJGi9ItTXMSaX9Ai31z2) | 1:58 | 2026-03-01 | 2026-03-13 |
 | [Dont BA H3ro](https://open.spotify.com/track/7GJo7pMPCytGRxUeQVIEDc) | [Luhcee10](https://open.spotify.com/artist/5sJ4reMAX9dBrBd8cdWoSO) | [Zombi3 Land](https://open.spotify.com/album/5cllsfYZdvMH6SCTwO1Cnd) | 1:50 | 2026-03-20 | 2026-03-23 |
@@ -131,13 +132,13 @@
 | [One Take](https://open.spotify.com/track/3uh5GDAjOou5BHvKvPEpOD) | [Young Slixe](https://open.spotify.com/artist/2Co2CaKKgnpRBuguJsI3uG) | [One Take](https://open.spotify.com/album/5KSWVXXIFylp2llAv448Sv) | 1:59 | 2026-03-01 |  |
 | [Opp's Hood](https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4) | [Backayarl](https://open.spotify.com/artist/77MreVLzNRDkMwkF8MBB21) | [Never Lose](https://open.spotify.com/album/6UePZA2W3KscieTmTiJyax) | 2:02 | 2025-12-06 | 2025-12-12 |
 | [OUTRO](https://open.spotify.com/track/0VIkfu39eJ3BBmmHvt6bQ5) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [WAKE UP LUCKI](https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG) | 3:22 | 2025-12-31 | 2026-02-22 |
-| [Outta Time](https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3) | [From The Heart](https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz) | 2:02 | 2025-12-09 | 2026-04-08 |
+| [Outta Time](https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3) | [From The Heart](https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz) | 2:02 | 2025-12-09 |  |
 | [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 | 2026-04-06 |
 | [Pause](https://open.spotify.com/track/5l34Ale9qMFJZ0Pgclgejq) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Danny G Beats](https://open.spotify.com/artist/2GKXcaJjE7H2z9WdY7sG0x), [jakesand](https://open.spotify.com/artist/3H9itUD9PSCzrLJfe3tllo) | [Pause](https://open.spotify.com/album/23YuMwACsvWrPlBf3mPOXi) | 2:02 | 2026-03-28 | 2026-03-29 |
 | [PDL](https://open.spotify.com/track/3k2xRF5wGlAZnRsSPOOAXn) | [Pasto Flocco](https://open.spotify.com/artist/4dQKBmnccqxpFiAk5qmvy7) | [GLE Presents: BLUEBILLZ EP](https://open.spotify.com/album/2yLq95mpSfaL9959tkbyL8) | 2:07 | 2025-11-29 | 2025-12-01 |
 | [petrol](https://open.spotify.com/track/3JBtFRUOBOSTUTMNu9s3MM) | [1oneam](https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv) | [Sin +](https://open.spotify.com/album/0SGShXyFMMIf64gSEI4Whz) | 1:52 | 2025-12-09 | 2026-01-23 |
 | [POETRY](https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3) | [Lord Simmy](https://open.spotify.com/artist/1x56BjunhKrTqDZSXvOgFt) | [POETRY](https://open.spotify.com/album/15vdbHHoAC9ouX5LzCr5Tz) | 2:12 | 2025-11-29 | 2026-02-15 |
-| [Price I Pay](https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4) | [C Choppa](https://open.spotify.com/artist/1MRuYaXPATMYujESraf5cN) | [Price I Pay](https://open.spotify.com/album/0FujItN4Qr3bhxwWTl0voS) | 2:41 | 2025-12-05 |  |
+| [Price I Pay](https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4) | [C Choppa](https://open.spotify.com/artist/1MRuYaXPATMYujESraf5cN) | [Price I Pay](https://open.spotify.com/album/0FujItN4Qr3bhxwWTl0voS) | 2:41 | 2025-12-05 | 2026-04-09 |
 | [Pub Sub](https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Scarecrow](https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h) | 3:14 | 2025-11-29 |  |
 | [pull off](https://open.spotify.com/track/4pOLfBnRTOI9bqsL3PNVle) | [junesforever](https://open.spotify.com/artist/5lwt02zQQ3wqkUyXCeJB4f) | [pull off](https://open.spotify.com/album/4ufciFofFM0Kw7r9WP1a59) | 2:31 | 2026-01-15 | 2026-03-28 |
 | [pullover](https://open.spotify.com/track/25dCnQCi1BYk3Rg3DpAeUE) | [RENACIDO](https://open.spotify.com/artist/2JTuHfi89wFLfVj0G1f7sl) | [Lost files Vol\. 2](https://open.spotify.com/album/6G62ygAvnWxyTYuindGrkC) | 3:14 | 2025-12-13 | 2025-12-19 |

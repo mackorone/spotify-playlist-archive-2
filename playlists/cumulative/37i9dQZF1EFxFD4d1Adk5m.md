@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 6 hr 35 min
+120 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [IBELONGIIU](https://open.spotify.com/track/4C2KCXzqC0kwNyTilyRLUx) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 3:13 | 2026-04-06 |  |
 | [Imma Do My Thang](https://open.spotify.com/track/4ka9EJZL9s9xeq7TagAbU3) | [Misunderstood](https://open.spotify.com/artist/4WYL3FlpuOq1TPtVu8rA1G) | [Sucker / Imma Do My Thang](https://open.spotify.com/album/2VNqLVCqxcCQpDokaUuBpC) | 1:32 | 2026-04-06 |  |
 | [key to my heart](https://open.spotify.com/track/0sDjX3fzrHZtQY1bCrH245) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [key to my heart](https://open.spotify.com/album/6ZsjsSPy1TRvsWG8tEXJYQ) | 2:38 | 2026-04-06 |  |
-| [Killer](https://open.spotify.com/track/1I5yDkgWPTEFh2kRGpsXnV) | [Skism](https://open.spotify.com/artist/4P81VkbUxQrMmNwYnzliqJ), [DC Breaks](https://open.spotify.com/artist/4D5VLxuFvZ058Z5S8YmE47), [Dee Freer](https://open.spotify.com/artist/65C9c2Gl9jUDyhNdJlnhXk) | [Division Series Part 1](https://open.spotify.com/album/11e0y9RoMwOIxepGERPRC1) | 5:05 | 2026-04-06 |  |
+| [Killer](https://open.spotify.com/track/1I5yDkgWPTEFh2kRGpsXnV) | [Skism](https://open.spotify.com/artist/4P81VkbUxQrMmNwYnzliqJ), [DC Breaks](https://open.spotify.com/artist/4D5VLxuFvZ058Z5S8YmE47), [Dee Freer](https://open.spotify.com/artist/65C9c2Gl9jUDyhNdJlnhXk) | [Division Series Part 1](https://open.spotify.com/album/11e0y9RoMwOIxepGERPRC1) | 5:05 | 2026-04-06 | 2026-04-09 |
+| [Killer \- Tantrum Desire Remix](https://open.spotify.com/track/5MDkUf9LMhBqizMC6z3b9v) | [Skism](https://open.spotify.com/artist/4P81VkbUxQrMmNwYnzliqJ), [DC Breaks](https://open.spotify.com/artist/4D5VLxuFvZ058Z5S8YmE47), [Dee Freer](https://open.spotify.com/artist/65C9c2Gl9jUDyhNdJlnhXk), [Tantrum Desire](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS) | [Division Series Part 1](https://open.spotify.com/album/11e0y9RoMwOIxepGERPRC1) | 4:44 | 2026-04-08 |  |
 | [Know Your Name](https://open.spotify.com/track/5hkxvdI2vcsh47wYtNjmsQ) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:28 | 2026-04-06 |  |
 | [La dadi](https://open.spotify.com/track/5kbHPzyUI8hvNWGP6xBKcV) | [ENISA](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [La dadi](https://open.spotify.com/album/2RpsmC0H0Ozk7wUmTsbbhD) | 2:17 | 2026-04-06 |  |
 | [Last Chance](https://open.spotify.com/track/0DtZAw9mEVA1fh6YOQE2u6) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:03 | 2026-04-06 |  |

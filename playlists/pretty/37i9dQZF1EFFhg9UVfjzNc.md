@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774 likes - 119 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 774 likes - 120 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 71 | [O Nome De Jesus](https://open.spotify.com/track/1Nh1b72PjsmA6HNyOIQzhe) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [O Nome De Jesus](https://open.spotify.com/album/12FFt5SxPV8GXDvhGFOled) | 3:59 |
 | 72 | [Coroas \- Ao Vivo](https://open.spotify.com/track/1fPaa1ApH0JEDgxpmgOOGl) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 10:05 |
 | 73 | [Céu na Terra](https://open.spotify.com/track/6HAO8Q2k218ts5zpw6qCp7) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:07 |
-| 74 | [Tudo que Deus Falou \(Ao Vivo\)](https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 4:54 |
-| 75 | [Grande Dia](https://open.spotify.com/track/3p2evDMVG7jHZvRXpOYdF0) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah) | [Acalma o Meu Coração \(Deluxe Edition\)](https://open.spotify.com/album/3aV52rP9GGmEsceRcdKWqv) | 4:48 |
+| 74 | [Grande Dia](https://open.spotify.com/track/3p2evDMVG7jHZvRXpOYdF0) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah) | [Acalma o Meu Coração \(Deluxe Edition\)](https://open.spotify.com/album/3aV52rP9GGmEsceRcdKWqv) | 4:48 |
+| 75 | [Tudo que Deus Falou \(Ao Vivo\)](https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 4:54 |
 | 76 | [Vem Me Consumir \- Acústico](https://open.spotify.com/track/6DSgDbw6imY1A1g0RnQ4wg) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 4:38 |
 | 77 | [Mistério Da Criação \- Ao Vivo](https://open.spotify.com/track/1ndMOeoYBFDegmMheirZcr) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [É Sobre Ele \(Ao Vivo\)](https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15) | 8:39 |
 | 78 | [Nada Mais Satisfaz](https://open.spotify.com/track/2M1KGKpjeIX9EberJruunh) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 7:54 |
@@ -127,5 +127,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 117 | [Preço de Sangue \- Playback](https://open.spotify.com/track/5FBRavbyHlcwoTOx4jkivK) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Salmistas](https://open.spotify.com/artist/6WVtTtridZM8vFPbOIwrig) | [Preço de Sangue \(Playback\)](https://open.spotify.com/album/4JBN7delSj5edzZlwhBT6K) | 10:05 |
 | 118 | [Tudo pra Mim \- Ao Vivo](https://open.spotify.com/track/1GR5eaR5244BRi2ql4zj8C) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Última Palavra \(Ao Vivo\)](https://open.spotify.com/album/1SLlB32xmo3vAsXoANjrur) | 6:00 |
 | 119 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
+| 120 | [Excede o Entendimento \- Ao Vivo](https://open.spotify.com/track/6SxNpnjmsSTi7xNw3MR7Pr) | [Lis Avancini](https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE) | [Excede o Entendimento \(Ao Vivo\)](https://open.spotify.com/album/3x4L1uJleQeCfUqDpWxQKr) | 3:44 |
 
-Snapshot ID: `AcOQKAAAAACKJLrxOcHvYfHpQmiI7+4x`
+Snapshot ID: `AcOVggAAAABdIjWx1HGF4rZj0H0VLjr2`

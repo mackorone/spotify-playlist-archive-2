@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 👖<br/>cover: Claudia Valentina
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,923 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,894 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 37 | [Honour](https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:10 |
 | 38 | [Climbing Up](https://open.spotify.com/track/5RstLcurfXb5TSQnLi7kYf) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Climbing Up](https://open.spotify.com/album/6pqMDn3N6KpZhsUQsonOij) | 2:26 |
 | 39 | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1) | 3:33 |
-| 40 | [Terrible Friends](https://open.spotify.com/track/1mTz3tLXfTfwrABW2x9Xl0) | [ONUR](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [Terrible Friends](https://open.spotify.com/album/4kRztRynzdhZX7q8RQ4Smc) | 2:26 |
+| 40 | [Terrible Friends](https://open.spotify.com/track/1mTz3tLXfTfwrABW2x9Xl0) | [The Onur Show](https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35) | [Terrible Friends](https://open.spotify.com/album/4kRztRynzdhZX7q8RQ4Smc) | 2:26 |
 | 41 | [Vespa](https://open.spotify.com/track/1O0LDELRqSQDp6fJ33IdY8) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Vespa](https://open.spotify.com/album/57Bnn8VObqPexezSOXGAsM) | 3:44 |
 | 42 | [Sleeping Dogs](https://open.spotify.com/track/1AXf936Ys3VSuGQMvCFQvD) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Sleeping Dogs](https://open.spotify.com/album/2HupVyLf54am3GFxjFZWnn) | 3:34 |
 | 43 | [Feel The Love](https://open.spotify.com/track/7ad8Zwl5MSFPtPnht7cNpD) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [EP](https://open.spotify.com/album/2A0CXM5IPbkEFSm7BwBSb4) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 99 | [Long Way Down](https://open.spotify.com/track/0Pj9URDzlYnU5tGRQuGwCm) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Long Way Down](https://open.spotify.com/album/32MExZHjMtIVKpZHl2SXAA) | 3:16 |
 | 100 | [retrograde](https://open.spotify.com/track/1R4EhWbWc44SYWyVzRD0yq) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Permanent Retrograde](https://open.spotify.com/album/1zh2lev0hl9C7YrmxFo3Bn) | 2:24 |
 
-Snapshot ID: `AAAAACD/9h67wIzUVDN6LJzYr9+cqgfk`
+Snapshot ID: `AAAAAHkkJ5L5cTijKtJQc9HYQfW9rdp6`

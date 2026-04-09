@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,861 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,858 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 17 | [Até o Final](https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Caíque](https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Até o Final](https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5) | 2:24 |
 | 18 | [RASTAFARI](https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [RASTAFARI](https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG) | 2:07 |
 | 19 | [Brisa Errada](https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5) | [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DaluzzZ](https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Brisa Errada](https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct) | 2:03 |
-| 20 | [Mundo Louco, Nós Também](https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [Thiago Castanho](https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER), [Marcão Britto](https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe) | [OCANV](https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D) | 3:45 |
-| 21 | [Só Você](https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU) | [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Só Você](https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X) | 2:13 |
+| 20 | [Só Você](https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU) | [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Só Você](https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X) | 2:13 |
+| 21 | [Mundo Louco, Nós Também](https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [Thiago Castanho](https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER), [Marcão Britto](https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe) | [OCANV](https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D) | 3:45 |
 | 22 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |
 | 23 | [Pode falar \- Acústico](https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [UM44K Acústico](https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh) | 2:43 |
 | 24 | [Tom Cinza](https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [brandu](https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0) | [Tom Cinza](https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6) | 3:02 |

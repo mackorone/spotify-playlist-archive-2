@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,141 songs - 2 day 7 hr 55 min
+1,142 songs - 2 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-17 | 2023-10-20 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-03-24 | 2024-02-09 |
 | [Dejavu](https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/4yOuw6mqRk6nusJyfT3Kvk) | 2:40 | 2023-06-16 | 2023-07-17 |
-| [Dem Dey](https://open.spotify.com/track/4FHlbOMdOcPnOYmfH8dl1Z) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 3:12 | 2025-07-11 |  |
+| [Dem Dey](https://open.spotify.com/track/4FHlbOMdOcPnOYmfH8dl1Z) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 3:12 | 2025-07-11 | 2026-04-09 |
 | [Denge 3.0](https://open.spotify.com/track/2SXbzZhAJs0vF3h6fQhtT2) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Denge 3.0](https://open.spotify.com/album/30oF6LFNkttC3Mtktz9Zb9) | 3:29 | 2024-02-23 | 2024-03-19 |
 | [Denge II](https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Denge II](https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t) | 2:38 | 2023-10-13 | 2023-11-17 |
 | [Denge III](https://open.spotify.com/track/2tschk15VzJ5IqhHRnNoxp) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Denge 6.0](https://open.spotify.com/album/5X5PlqH0I4xPr6HAqYvNOx) | 3:29 | 2024-03-15 | 2024-03-22 |
@@ -529,6 +529,7 @@
 | [Jalo](https://open.spotify.com/track/7fN87TzymTl9WafvXGZ0cu) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [ANOMALY](https://open.spotify.com/album/1PcrjBgNcj8lJzSkY7lJ9h) | 2:32 | 2023-10-20 | 2023-11-17 |
 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 | 2022-08-25 | 2022-09-29 |
 | [Jay Jay](https://open.spotify.com/track/1QkUnVCGx3ghx0WG8XO4J7) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jay Jay](https://open.spotify.com/album/0U3J75IccPlheYKYgCjdNm) | 2:52 | 2025-02-14 | 2025-08-01 |
+| [Je m'appelle](https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Je m'appelle](https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2) | 4:03 | 2026-04-03 |  |
 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 | 2024-08-29 | 2025-03-01 |
 | [Jekasoro](https://open.spotify.com/track/6sXy0mgrRRQCYUlmFJlyPs) | [Anni3](https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2) | [Jekasoro](https://open.spotify.com/album/6Bi6kOuWOwdJ46aypEkY74) | 1:56 | 2024-06-28 | 2024-07-12 |
 | [Jembe](https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Jembe / 14DRoad](https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew) | 2:18 | 2026-03-13 |  |

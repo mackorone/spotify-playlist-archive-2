@@ -3045,20 +3045,24 @@
     },
     {
       "album": {
-        "name": "The Glenn Miller Carnegie Hall Concert (Live)",
+        "name": "The Glenn Miller Carnegie Hall Concert (Live 1939)",
         "url": "https://open.spotify.com/album/5HX046215eBYM6hZ5rwDKk"
       },
       "artists": [
         {
           "name": "Glenn Miller",
           "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        },
+        {
+          "name": "Glenn Miller Orchestra",
+          "url": "https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z"
         }
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209573,
-      "name": "In the Mood - Live",
+      "name": "In the Mood - Live at Carnegie Hall, NYC, NY - 10/6/1939",
       "url": "https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o"
     },
     {

@@ -12463,6 +12463,24 @@
     },
     {
       "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/46AHcZ5qg9wiXaTOyOQoTD"
+      },
+      "artists": [
+        {
+          "name": "How Much Art",
+          "url": "https://open.spotify.com/artist/588xSD6VuBMAZf1xqf6qPy"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176430,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg"
+    },
+    {
+      "album": {
         "name": "Y a pu d'poude dans poude",
         "url": "https://open.spotify.com/album/3zDjZy9W8RVjSrruCLrJ7j"
       },

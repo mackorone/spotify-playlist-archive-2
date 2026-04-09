@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1297529,
+  "num_followers": 1297350,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
+        "name": "Hecho para ti",
+        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 152734,
+      "name": "Hecho para ti",
+      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
         "name": "BUENOS DIAS (feat. Tury, GeezyDee, CARABIN3)",
         "url": "https://open.spotify.com/album/1UrmUtWsy8x0Gr5NpVUyKM"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 295458,
       "name": "BUENOS DIAS (feat. Tury, GeezyDee, CARABIN3)",
       "url": "https://open.spotify.com/track/10B0cONtHL7b8hdMRE2Du6"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
-        "name": "Hecho para ti",
-        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 152734,
-      "name": "Hecho para ti",
-      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        }
-      ],
-      "duration_ms": 211084,
-      "name": "Cuando No Era Cantante",
-      "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 254713,
       "name": "CANCI\u00d3N PARA REGRESAR",
       "url": "https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 211084,
+      "name": "Cuando No Era Cantante",
+      "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
+        "name": "Cosas de Enamorao",
+        "url": "https://open.spotify.com/album/7lqgz12x7nS4jrGJQChDX8"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 159663,
+      "name": "Cosas de Enamorao",
+      "url": "https://open.spotify.com/track/5REuVEc3Mo3aIHn8QYSrxk"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
         "name": "LAS NEAS",
         "url": "https://open.spotify.com/album/7obxopROLfWvdgoO6oWvZ8"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 203833,
       "name": "LAS NEAS",
       "url": "https://open.spotify.com/track/4VPetBH68wPQ67N8LwwJAI"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
-        "name": "Cosas de Enamorao",
-        "url": "https://open.spotify.com/album/7lqgz12x7nS4jrGJQChDX8"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 159663,
-      "name": "Cosas de Enamorao",
-      "url": "https://open.spotify.com/track/5REuVEc3Mo3aIHn8QYSrxk"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
+        "name": "Bendito Verano",
+        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 151825,
+      "name": "AM\u00c9N BEB\u00c9",
+      "url": "https://open.spotify.com/track/5Xa1Ck3fLmo29HcnKsAr8H"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 264000,
       "name": "EN LA DE ELLA",
       "url": "https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
-        "name": "Bendito Verano",
-        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 151825,
-      "name": "AM\u00c9N BEB\u00c9",
-      "url": "https://open.spotify.com/track/5Xa1Ck3fLmo29HcnKsAr8H"
     },
     {
       "added_at": "2026-03-18 17:58:35",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Paul Monserrate
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,515 likes - 99 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,528 likes - 99 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Were There \(kabataan ko'y sayo\)](https://open.spotify.com/track/20lgvwb7zyJc3KmnXcVcXb) | [Paul Monserrate](https://open.spotify.com/artist/3sa2GW7TbeCFIYLacBk4kD) | [We Were There \(kabataan ko'y sayo\)](https://open.spotify.com/album/6KKE5fmmY6DueiFO0LLgKY) | 3:12 |
 | 2 | [Kupido](https://open.spotify.com/track/2ORqUATcWTPab0J6a0cEya) | [The Red Strings](https://open.spotify.com/artist/1OReprh6WpboerPxNxuQjO) | [Kupido](https://open.spotify.com/album/31qHI9HuPqfVpvTPhvjZy5) | 3:03 |
 | 3 | [Oh My Lover](https://open.spotify.com/track/5QdJeXUVkNzEOphHninukw) | [Steve Badiola](https://open.spotify.com/artist/0PT7Befyt4NRBHOee7IDQV) | [Oh My Lover](https://open.spotify.com/album/4TOeizOdVcxeyCYM3Gt3x2) | 4:08 |
-| 4 | [Ayaw ko na sana sa Love Song](https://open.spotify.com/track/1O6ZTqwAspU4oFvvBV76Dg) | [Eightkidd](https://open.spotify.com/artist/2CH7zxDWysaMABUPg6OhUh) | [Ayaw ko na sana sa Love Song](https://open.spotify.com/album/47IvPGgR2xKVV8jt2vcRFg) | 3:29 |
+| 4 | [Ayaw ko na sana sa Love Song](https://open.spotify.com/track/1O6ZTqwAspU4oFvvBV76Dg) | [Eightkidd](https://open.spotify.com/artist/0vEiV0Drm050vtjUXXe0Cv) | [Ayaw ko na sana sa Love Song](https://open.spotify.com/album/47IvPGgR2xKVV8jt2vcRFg) | 3:29 |
 | 5 | [Sirena](https://open.spotify.com/track/67qAhfMTVMO9KitHgwNOjV) | [Dayea](https://open.spotify.com/artist/1P5IXXoHQpjaKrUXB0PNdO), [Princess Ybanez](https://open.spotify.com/artist/14PkFb4hTsrzjKsl5UiZsB) | [Sirena](https://open.spotify.com/album/3iIlDMnRnyNWSvl5RoKDV5) | 4:12 |
 | 6 | [Katotohanan](https://open.spotify.com/track/6PCQmvy2qPtFNXWuIGjPQs) | [ratavii](https://open.spotify.com/artist/31HuGWAnuuXxAQMKRlH4MY) | [Katotohanan](https://open.spotify.com/album/783AEaVr2SpGWQyVtdVzEi) | 5:25 |
 | 7 | [Siguro](https://open.spotify.com/track/6lrF2xPMBVvHFH0z5lzyd4) | [Emmanuel 3:14](https://open.spotify.com/artist/7G2b1VtLDDMKY995m0YWKe) | [Hifi](https://open.spotify.com/album/5d3AYbZJk16sINZHdTUHtK) | 4:41 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 98 | [Ikaw Talaga.](https://open.spotify.com/track/4QCWlicxD9Jacap6CTW2hs) | [Patrick Kristoffer](https://open.spotify.com/artist/35WK3gcFIjOhmYF3AK6ZyL) | [Ikaw Talaga.](https://open.spotify.com/album/0Y0Fyzchhk3AlCZ8AX9Yhv) | 3:08 |
 | 99 | [Dirty Linen](https://open.spotify.com/track/7ujMaeYhvpboFG8alNJ1We) | [Joaquin De Leon](https://open.spotify.com/artist/5hI9wKUfUb7eRgYS1vQJHl) | [Dirty Linen](https://open.spotify.com/album/3XEXEGYvNp5NJDAHVUn2fu) | 3:00 |
 
-Snapshot ID: `AAAAACva5o7hjxPibQrzstjrGTBSgIRG`
+Snapshot ID: `AAAAAHcaxQkBWZ0pr2tzYipef9Pp1dpy`

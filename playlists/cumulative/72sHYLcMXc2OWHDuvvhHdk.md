@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,224 songs - 5 day 10 hr 7 min
+2,226 songs - 5 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1112,6 +1112,7 @@
 | [Livin' For You](https://open.spotify.com/track/0Wrd9zC3TKhN0Bwc0kFrKp) | [Josh Alvarez](https://open.spotify.com/artist/656VKfLBOXoJtxUtaWEA3Y) | [Livin' For You](https://open.spotify.com/album/7bEjIcnxe41c2W2EHtv5YU) | 2:30 | 2025-08-14 |  |
 | [Living Fearless](https://open.spotify.com/track/3Rx8x2kD4LYChtb6JEWHCK) | [Chris Clark](https://open.spotify.com/artist/2UTOgpYFtcqNi0BKKwouLw) | [Living Fearless](https://open.spotify.com/album/26SPhMCvDLTwhtegtLDSOL) | 4:29 | 2024-05-31 |  |
 | [Living on Borrowed Time](https://open.spotify.com/track/4nkR7y3irU5tWSLCHLkyLJ) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Living on Borrowed Time](https://open.spotify.com/album/5Ec1463KlY75oNwmE5dROH) | 2:35 | 2025-08-16 |  |
+| [Lmk](https://open.spotify.com/track/1fI1fxzmGHs7PnSF0iDHhH) | [Juan Tamales](https://open.spotify.com/artist/2nuUPviqbuKmJlYVxvq0PT) | [Lmk](https://open.spotify.com/album/3eHGoySyjka90SmBKOWiIL) | 3:00 | 2026-04-08 |  |
 | [lo que fuiste](https://open.spotify.com/track/3qFhg0iNGBtb301Uvw4zav) | [belu03](https://open.spotify.com/artist/2XBnDNY0ZlPh2bSmH9uJ91) | [lo que fuiste](https://open.spotify.com/album/0DEE7OEPIlJPAA0D5VCRIf) | 3:43 | 2025-11-04 |  |
 | [Lo secret dels arbres](https://open.spotify.com/track/66HgTR5axHvwfZiOX40O2o) | [Lia Sampai](https://open.spotify.com/artist/5SjfOkWUCSIeCgt0ZTr8K3) | [Un delta fràgil](https://open.spotify.com/album/1B4ciM73hcTv59jau71Bk0) | 2:38 | 2024-09-15 |  |
 | [LOADSTONE \- SINGOLO](https://open.spotify.com/track/2yLJnJl5fZWU1r5AUkNiBl) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [LOADSTONE \(SINGOLO\)](https://open.spotify.com/album/1Cx5pyhdifjYwPVZESXdJT) | 3:23 | 2025-07-08 |  |
@@ -1395,6 +1396,7 @@
 | [Ouch!](https://open.spotify.com/track/5vmOFxZzcSFj0eGlbslKMe) | [Guantana Bro](https://open.spotify.com/artist/66UfMjzEtIsSV0w7B29Elq) | [Ouch!](https://open.spotify.com/album/0bew16NnCxiR6oZpqAqEBN) | 3:55 | 2025-06-30 |  |
 | [Our Blues](https://open.spotify.com/track/1m4JOtSIuRS0oVD9QjGNPy) | [Dan'G](https://open.spotify.com/artist/1IvkmplVCQqVz7Ee2oISef) | [Taste the Music](https://open.spotify.com/album/3RnwufEWyCgzof16NaiPmC) | 6:57 | 2024-09-13 |  |
 | [Out of My Head](https://open.spotify.com/track/5nmDez2YcqHbaUTvcAeRIh) | [Ay Gregorio!](https://open.spotify.com/artist/7JWYz76kcuMX1ZpdgQKGhs) | [Out of My Head](https://open.spotify.com/album/6gBDu19EN7VS92li7sLg6S) | 3:35 | 2025-08-07 |  |
+| [Out There Alone](https://open.spotify.com/track/3fsvOPJlvhPoUo0IqFmk4S) | [Draig](https://open.spotify.com/artist/3bPNs4WxtWGGaWGY9HSFLR) | [Barefoot](https://open.spotify.com/album/2z2LWb5kJqtUASMgmnAbAv) | 2:36 | 2026-04-08 |  |
 | [Outbreak](https://open.spotify.com/track/6PGdNX3OzmVcWAHaa4Xk5B) | [Wasteland Valley](https://open.spotify.com/artist/6Ft5o0C4PMVM0K3Ykhj2aF) | [The Pandemic](https://open.spotify.com/album/60zwIFaMgUY7Ag1tfFjYDP) | 5:11 | 2025-05-06 |  |
 | [Outrage](https://open.spotify.com/track/7maz0RHpG0BFmgo4Gz7rnv) | [Otis Shanty](https://open.spotify.com/artist/4boX3IB2STKtAEQfzhMOfn) | [Up On The Hill](https://open.spotify.com/album/0vwLPORrnNU3iMpk0VCsEe) | 3:39 | 2025-06-21 |  |
 | [Outside](https://open.spotify.com/track/7DBbnsDMekzJThXdoWdNKh) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Outside](https://open.spotify.com/album/46uzlLiAk92SXrhicGHdD2) | 2:33 | 2025-09-03 |  |

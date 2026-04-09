@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-09",
       "duration_ms": 410181,
       "name": "Confrontation 1",
       "url": "https://open.spotify.com/track/5Im1AfLERv9rAIgBNX8yDp"
@@ -1450,6 +1450,28 @@
       "duration_ms": 167125,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/4oDNWNDEQIVvwyadCsf2oH"
+    },
+    {
+      "album": {
+        "name": "day zero (Antonio Ruscito remix)",
+        "url": "https://open.spotify.com/album/13a1dPIv848LqHbtx9l0Yt"
+      },
+      "artists": [
+        {
+          "name": "Hiroi Sekai",
+          "url": "https://open.spotify.com/artist/0F08w8WimsgmKCY23QYOdp"
+        },
+        {
+          "name": "Antonio Ruscito",
+          "url": "https://open.spotify.com/artist/19VijfWk6WX2SApMtkI0oU"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303750,
+      "name": "day zero - Antonio Ruscito remix",
+      "url": "https://open.spotify.com/track/3a4buPeIvfL98xjkxEdH8a"
     },
     {
       "album": {
